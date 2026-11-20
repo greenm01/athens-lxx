@@ -22,6 +22,8 @@ Henry Barclay Swete chose the fourth-century Codex Vaticanus for his Cambridge S
 
 ## Reading and checking the draft
 
+The four Athens volumes govern the transcription and the word-by-word English. A reading from Grabe, a service book, or another edition can point a proofreader to a line worth checking. A correction to the Greek needs evidence from the Athens print. At Psalm 22:5, for example, Athens prints *τὸ ποτήριόν μου*, “my cup.” The interlinear follows it. [Athens III, printed p. 952](https://vatopedi.api.repo.vatopedianheritage.gr/media/vatopedi/digital_presentation_of_cultural_heritage_object/image_media/74f2b721-284a-4cd2-a934-2266459cf1a4/00000022.jpg)
+
 The [53 text files](text/) hold 28,732 verse records in UTF-8. Each line starts with a reference, followed by a tab and the Greek. The Psalter uses Septuagint numbering. The [Odes](text/21a-ODA.txt) have their own file. A few references occur more than once. If you import the text, keep those lines in file order.
 
 Three [transcription notes](notes/) record damaged or missing print, supplied verse numbers, and the headings of Daniel’s visions. At Genesis 1:29, release v0.3.0 restores *σπόριμον*, “fit for sowing.” The word breaks across printed pages 2 and 3. The Vatopedi copy also confirms the letters obscured by a hole at Isaiah 30:18–21. Four Psalm pages missing from one scan (pp. 937–938 and 951–952) were transcribed from another copy of the same Athens volume, held at Vatopedi Monastery. If you spot a transcription error, please [open an issue](https://github.com/greenm01/athens-lxx/issues) with the verse, volume, and printed page.
