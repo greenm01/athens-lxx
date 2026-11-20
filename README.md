@@ -1,10 +1,10 @@
 # The Athens Septuagint, 1843–1850
 
-*Ἡ Παλαιὰ Διαθήκη κατὰ τοὺς Ἑβδομήκοντα* is the Greek Old Testament printed in Athens in four volumes between 1843 and 1850. This public-domain transcription lets you read, search, and quote the Greek of those volumes. You can start with [Genesis](text/01-GEN.txt), open [the Psalter](text/21-PSA.txt), or [download the whole edition](https://github.com/greenm01/athens-lxx/releases/download/v0.1.0/athens-lxx-0.1.0.zip).
+*Ἡ Παλαιὰ Διαθήκη κατὰ τοὺς Ἑβδομήκοντα* is the Greek Old Testament printed in Athens in four volumes between 1843 and 1850. This public-domain transcription lets you read, search, and quote the Greek of those volumes. You can start with [Genesis](text/01-GEN.txt), open [the Psalter](text/21-PSA.txt), or [download the whole edition](https://github.com/greenm01/athens-lxx/releases/download/v0.3.0/athens-lxx-0.3.0.zip).
 
 ## The word-by-word interlinear
 
-The [SQLite database](https://github.com/greenm01/athens-lxx/releases/download/v0.2.1/athens.sqlite) indexes the Greek of all four volumes. Psalm 22, the shepherd psalm, is the first to have a literal English gloss and grammatical analysis for every word. The rest of the Greek is searchable while that work continues. At Psalm 22:1, for example, you can see why *ποιμαίνει* means “shepherds” and consider the alternative “tends.” [Read the glosses](interlinear/PSA-022.tsv) · [Query or build the database](interlinear/README.md)
+The [SQLite database](https://github.com/greenm01/athens-lxx/releases/download/v0.3.0/athens.sqlite) indexes the Greek of all four volumes. Genesis 1 and Psalms 21, 22 and 50 each have a literal English gloss and grammatical analysis for every word. These are Psalms 22, 23 and 51 in the King James Bible. The rest of the Greek is searchable. In the shepherd psalm, for instance, *ποιμαίνει* means “shepherds” or “tends.” You can read the four passages without installing anything. [Genesis 1](interlinear/GEN-001.tsv) · [Psalm 21](interlinear/PSA-021.tsv) · [Psalm 22](interlinear/PSA-022.tsv) · [Psalm 50](interlinear/PSA-050.tsv) · [Query or build the database](interlinear/README.md)
 
 The print sometimes tells readers how to find their place. In Sirach 30 a Latin notice points ahead to chapter 33, where a passage continues in a different order. The database records the notice as it appears on the page. It also identifies Sirach’s eleven section titles, the closing account in Job, and the parentheses around “all” in Psalm 2:10. [See the marked passages](interlinear/print/passages.tsv)
 
@@ -24,7 +24,7 @@ Henry Barclay Swete chose the fourth-century Codex Vaticanus for his Cambridge S
 
 The [53 text files](text/) hold 28,732 verse records in UTF-8. Each line starts with a reference, followed by a tab and the Greek. The Psalter uses Septuagint numbering. The [Odes](text/21a-ODA.txt) have their own file. A few references occur more than once. If you import the text, keep those lines in file order.
 
-Three [transcription notes](notes/) record damaged or missing print, supplied verse numbers, and the headings of Daniel’s visions. Four Psalm pages missing from one scan (pp. 937–938 and 951–952) were transcribed from another copy of the same Athens volume, held at Vatopedi Monastery. If you spot a transcription error, please [open an issue](https://github.com/greenm01/athens-lxx/issues) with the verse, volume, and printed page.
+Three [transcription notes](notes/) record damaged or missing print, supplied verse numbers, and the headings of Daniel’s visions. At Genesis 1:29, release v0.3.0 restores *σπόριμον*, “fit for sowing.” The word breaks across printed pages 2 and 3. The Vatopedi copy also confirms the letters obscured by a hole at Isaiah 30:18–21. Four Psalm pages missing from one scan (pp. 937–938 and 951–952) were transcribed from another copy of the same Athens volume, held at Vatopedi Monastery. If you spot a transcription error, please [open an issue](https://github.com/greenm01/athens-lxx/issues) with the verse, volume, and printed page.
 
 | Printed volume | Contents |
 | --- | --- |

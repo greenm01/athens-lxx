@@ -19,7 +19,7 @@ class WordCitations(unittest.TestCase):
             positions.update(f"{verse_id} {position} {start} {end}\n".encode())
         self.assertEqual(
             positions.hexdigest(),
-            "2311fa6dcb76a73cf84dc104afd4efd247137122e4f9201b95150ebc4fac02b7",
+            "a870c5721b85903f0ee445d2193e58999f81e3c8dfda83a296efccd2dfa402f5",
         )
         self.assertEqual(
             db.execute(
@@ -29,10 +29,19 @@ class WordCitations(unittest.TestCase):
         )
         self.assertEqual(
             db.execute(
-                "SELECT count(*) FROM interlinear WHERE ref LIKE 'PSA 22:%' "
-                "AND (preference=1 OR preference IS NULL) AND english IS NULL"
-            ).fetchone()[0],
-            0,
+                "SELECT substr(ref,1,instr(ref,':')-1) AS passage, count(*), count(english) "
+                "FROM interlinear WHERE (preference=1 OR preference IS NULL) AND "
+                "substr(ref,1,instr(ref,':')-1) IN ('GEN 1','PSA 21','PSA 22','PSA 50') "
+                "GROUP BY passage ORDER BY passage"
+            ).fetchall(),
+            [("GEN 1", 754, 754), ("PSA 21", 451, 451), ("PSA 22", 103, 103), ("PSA 50", 282, 282)],
+        )
+        self.assertEqual(
+            db.execute(
+                "SELECT surface,english FROM interlinear WHERE ref='GEN 1:29' "
+                "AND position=10 AND preference=1"
+            ).fetchone(),
+            ("σπόριμον", "fit for sowing"),
         )
         self.assertEqual(
             db.execute(
@@ -64,4 +73,10 @@ class WordCitations(unittest.TestCase):
                 "SELECT ref,greek,pages FROM printed_passages WHERE kind='notice' ORDER BY ref"
             ).fetchall(),
             [("SIR 30:24", None, "1825"), ("SIR 33:11", None, "1829")],
+        )
+        self.assertEqual(
+            db.execute(
+                "SELECT ref,greek,printed_notice FROM printed_passages WHERE kind='subscription'"
+            ).fetchall(),
+            [("PSA 151:7", None, "Ψαλμοὶ ρνʹ καὶ ἰδιόγραφος.")],
         )

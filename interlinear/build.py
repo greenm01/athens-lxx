@@ -10,8 +10,8 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-EDITION = "v0.1.0"
-DIGEST = "37a40e44d43b30237c91ac60b7b5f4f7e8ee709f7ea0f6664ffc51f0c7cd197f"
+EDITION = "v0.3.0"
+DIGEST = "ac638a7e1696becab0fd386b24553c14d0e75da739c4b916c9389d502092ede8"
 APOSTROPHES = "᾽᾿’'"
 GREEK_PREFIX = "῎"
 WORD_ID_VERSION = 1
@@ -104,7 +104,7 @@ def add_print_features(db):
             if not words or words[1:] != (row["first_form"], row["last_form"]):
                 raise ValueError(f"Greek anchor changed for {row['feature']}")
             notice = row["printed_notice"] or None
-            if (row["kind"] == "notice") != bool(notice) or (
+            if (row["kind"] in ("notice", "subscription")) != bool(notice) or (
                 notice and positions[0] != positions[1]
             ):
                 raise ValueError(f"Invalid notice anchor for {row['feature']}")
