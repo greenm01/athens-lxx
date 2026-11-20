@@ -29,6 +29,19 @@ CREATE TABLE analysis (verse_id INTEGER, position INTEGER, lemma TEXT NOT NULL, 
 CREATE TABLE gloss (verse_id INTEGER, position INTEGER, preference INTEGER CHECK(preference >= 1),
     english TEXT NOT NULL, PRIMARY KEY(verse_id,position,preference),
     UNIQUE(verse_id,position,english), FOREIGN KEY(verse_id,position) REFERENCES analysis) WITHOUT ROWID;
+CREATE TABLE print_feature (
+    feature TEXT PRIMARY KEY, verse_id INTEGER NOT NULL, first_word INTEGER NOT NULL,
+    last_word INTEGER NOT NULL CHECK(last_word >= first_word), kind TEXT NOT NULL,
+    volume INTEGER NOT NULL, pages TEXT NOT NULL, printed_notice TEXT, scan TEXT NOT NULL,
+    observation TEXT NOT NULL,
+    FOREIGN KEY(verse_id,first_word) REFERENCES word, FOREIGN KEY(verse_id,last_word) REFERENCES word);
+CREATE VIEW printed_passages AS
+    SELECT f.feature,v.ref,v.occurrence,f.first_word,f.last_word,f.kind,
+           CASE WHEN f.printed_notice IS NULL THEN substr(v.text,a.start+1,b.end-a.start) END AS greek,
+           f.printed_notice,f.volume,f.pages,f.scan,f.observation
+    FROM print_feature f JOIN verse v ON v.id=f.verse_id
+    JOIN word a ON a.verse_id=v.id AND a.position=f.first_word
+    JOIN word b ON b.verse_id=v.id AND b.position=f.last_word;
 CREATE VIEW interlinear AS
     SELECT v.ref, v.occurrence, w.position, w.surface, a.lemma, a.grammar, g.english, g.preference
     FROM verse v JOIN word w ON v.id=w.verse_id LEFT JOIN analysis a USING(verse_id,position)
@@ -73,6 +86,42 @@ def add_notes(db):
                     "INSERT INTO edition_note VALUES(?,?,?,?)",
                     (path.name, n, row[0], "\t".join(row[1:])),
                 )
+
+
+def add_print_features(db):
+    with (ROOT / "interlinear/print/passages.tsv").open(
+        encoding="utf-8", newline=""
+    ) as f:
+        for row in csv.DictReader(f, delimiter="\t"):
+            ref, occurrence = row["ref"], int(row["occurrence"])
+            positions = (int(row["first_word"]), int(row["last_word"]))
+            words = db.execute(
+                "SELECT v.id,a.surface,b.surface FROM verse v JOIN word a ON a.verse_id=v.id "
+                "JOIN word b ON b.verse_id=v.id WHERE v.ref=? AND v.occurrence=? "
+                "AND a.position=? AND b.position=?",
+                (ref, occurrence, *positions),
+            ).fetchone()
+            if not words or words[1:] != (row["first_form"], row["last_form"]):
+                raise ValueError(f"Greek anchor changed for {row['feature']}")
+            notice = row["printed_notice"] or None
+            if (row["kind"] == "notice") != bool(notice) or (
+                notice and positions[0] != positions[1]
+            ):
+                raise ValueError(f"Invalid notice anchor for {row['feature']}")
+            db.execute(
+                "INSERT INTO print_feature VALUES(?,?,?,?,?,?,?,?,?,?)",
+                (
+                    row["feature"],
+                    words[0],
+                    *positions,
+                    row["kind"],
+                    int(row["volume"]),
+                    row["pages"],
+                    notice,
+                    row["scan"],
+                    row["observation"],
+                ),
+            )
 
 
 def build(db):
@@ -128,6 +177,7 @@ def build(db):
                     (*wid, int(row["preference"]), row["english"]),
                 )
     add_notes(db)
+    add_print_features(db)
     db.execute("CREATE INDEX word_search ON word(search_key)")
     db.execute("CREATE INDEX analysis_lemma ON analysis(lemma)")
     db.execute("CREATE INDEX gloss_english ON gloss(english)")

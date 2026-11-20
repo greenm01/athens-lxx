@@ -4,7 +4,9 @@
 
 ## The word-by-word interlinear
 
-The [SQLite database](https://github.com/greenm01/athens-lxx/releases/download/v0.2.0/athens.sqlite) indexes the Greek of all four volumes. Psalm 22, the shepherd psalm, is the first to have a literal English gloss and grammatical analysis for every word. The rest of the Greek is searchable while that work continues. At Psalm 22:1, for example, you can see why *ποιμαίνει* means “shepherds” and consider the alternative “tends.” [Read the glosses](interlinear/PSA-022.tsv) · [Query or build the database](interlinear/README.md)
+The [SQLite database](https://github.com/greenm01/athens-lxx/releases/download/v0.2.1/athens.sqlite) indexes the Greek of all four volumes. Psalm 22, the shepherd psalm, is the first to have a literal English gloss and grammatical analysis for every word. The rest of the Greek is searchable while that work continues. At Psalm 22:1, for example, you can see why *ποιμαίνει* means “shepherds” and consider the alternative “tends.” [Read the glosses](interlinear/PSA-022.tsv) · [Query or build the database](interlinear/README.md)
+
+The print sometimes tells readers how to find their place. In Sirach 30 a Latin notice points ahead to chapter 33, where a passage continues in a different order. The database records the notice as it appears on the page. It also identifies Sirach’s eleven section titles, the closing account in Job, and the parentheses around “all” in Psalm 2:10. [See the marked passages](interlinear/print/passages.tsv)
 
 ## How a Greek Bible came from Moscow to Athens
 

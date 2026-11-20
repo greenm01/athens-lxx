@@ -19,6 +19,17 @@ Give the Greek text release, the printed reference, the occurrence of that refer
 
 The `verse.text` field preserves the whole line, including punctuation, parentheses, and headings. Each word points into that line with zero-based character offsets, the end offset excluded. Elision marks stay with the preceding word. A hyphen separates two indexed parts. The search key folds case and diacritics for lookup. Always quote the printed spelling in `surface`. The three transcription notes files are also available in the `edition_note` table.
 
+## What appears on the printed page
+
+The `printed_passages` view gives the reference, occurrence, first and last word positions, printed page, and a link to the scan. For Greek text the positions include both ends. For an editorial notice the position identifies the last Greek word before the notice. The Latin occupies its own field. In both Sirach notices the Greek numeral mark is transcribed as ʹ.
+
+Fifteen places have been checked against the scans. Job’s closing account runs on from the preceding sentence. Psalm 2:10 puts parentheses around *πάντες*. Eight of Sirach’s eleven titles stand on lines of their own. Three run on with the surrounding text (18:30, 20:27 and 23:7). Two Latin notices, after 30:24 and 33:11, point readers to corresponding passages in the Complutensian edition. [Records and page references](print/passages.tsv)
+
+```sql
+SELECT ref, occurrence, first_word, last_word, kind, greek, printed_notice, pages
+FROM printed_passages WHERE ref = 'SIR 30:24';
+```
+
 ## Building and editing
 
 From the repository root, run `python3 -I interlinear/build.py`. This builds `build/athens.sqlite` using Python’s standard library. Each tab-separated row gives one English gloss. Preference 1 carries the lemma and grammar. A higher number gives an alternative. The builder checks every annotated spelling and the fingerprint of the entire Greek edition before replacing the database.
