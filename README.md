@@ -2,6 +2,10 @@
 
 *Ἡ Παλαιὰ Διαθήκη κατὰ τοὺς Ἑβδομήκοντα* is the Greek Old Testament printed in Athens in four volumes between 1843 and 1850. This public-domain transcription lets you read, search, and quote the Greek of those volumes. You can start with [Genesis](text/01-GEN.txt), open [the Psalter](text/21-PSA.txt), or [download the whole edition](https://github.com/greenm01/athens-lxx/releases/download/v0.1.0/athens-lxx-0.1.0.zip).
 
+## The word-by-word interlinear
+
+The [SQLite database](https://github.com/greenm01/athens-lxx/releases/download/v0.2.0/athens.sqlite) indexes the Greek of all four volumes. Psalm 22, the shepherd psalm, is the first to have a literal English gloss and grammatical analysis for every word. The rest of the Greek is searchable while that work continues. At Psalm 22:1, for example, you can see why *ποιμαίνει* means “shepherds” and consider the alternative “tends.” [Read the glosses](interlinear/PSA-022.tsv) · [Query or build the database](interlinear/README.md)
+
 ## How a Greek Bible came from Moscow to Athens
 
 The Athens title page tells readers where the printers got their Greek. They followed a Bible printed in Moscow in 1821. Its Old Testament went back, through Johann Jakob Breitinger’s Zürich edition (1730–1732), to the Oxford Septuagint of Johann Ernst Grabe (1707–1720). Grabe began with Codex Alexandrinus, a fifth-century manuscript. Where he added or substituted words from another source, he used smaller type so that readers could see his hand in the text. The Greek passed from one printed edition to the next without an intervening translation. [Athens, volume I](https://books.google.com/books?id=rio7AAAAcAAJ) · [Swete on Grabe’s edition](https://ccel.org/ccel/swete/greekot/greekot.iii.vi.html) · [Mikhail Seleznev on the Moscow edition, pp. 116–117](https://ccat.sas.upenn.edu/ioscs/bulletin/volumes/jscs50.pdf#page=116)
