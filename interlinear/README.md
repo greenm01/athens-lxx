@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 646 chapters below have 361,497 indexed words and 392,293 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 651 chapters below have 363,016 indexed words and 393,875 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -475,6 +475,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 79](PSA-079.tsv) | 263 | 267 |
 | [Psalm 80](PSA-080.tsv) | 220 | 220 |
 | [Psalm 81](PSA-081.tsv) | 86 | 86 |
+| [Psalm 82](PSA-082.tsv) | 219 | 220 |
+| [Psalm 83](PSA-083.tsv) | 207 | 211 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
@@ -501,6 +503,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Proverbs 22](PRO-022.tsv) | 405 | 434 |
 | [Proverbs 23](PRO-023.tsv) | 471 | 500 |
 | [Proverbs 24](PRO-024.tsv) | 463 | 490 |
+| [Proverbs 25](PRO-025.tsv) | 383 | 404 |
+| [Proverbs 26](PRO-026.tsv) | 359 | 373 |
+| [Proverbs 27](PRO-027.tsv) | 351 | 374 |
 | [Isaiah 1](ISA-001.tsv) | 599 | 749 |
 | [Isaiah 2](ISA-002.tsv) | 457 | 551 |
 | [Isaiah 3](ISA-003.tsv) | 503 | 616 |
