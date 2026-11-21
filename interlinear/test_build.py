@@ -132,6 +132,8 @@ class WordCitations(unittest.TestCase):
             ("JON 2", 188),
             ("JON 3", 239),
             ("JON 4", 272),
+            ("JOS 1", 478),
+            ("JOS 2", 673),
             ("LEV 1", 409),
             ("LEV 2", 322),
             ("LEV 3", 404),
