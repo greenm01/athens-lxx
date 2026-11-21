@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 843 chapters below have 452,919 indexed words and 489,221 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 846 chapters below have 456,124 indexed words and 492,640 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -759,6 +759,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Jeremiah 44](JER-044.tsv) | 489 | 568 |
 | [Jeremiah 45](JER-045.tsv) | 782 | 885 |
 | [Jeremiah 46](JER-046.tsv) | 462 | 527 |
+| [Jeremiah 47](JER-047.tsv) | 549 | 620 |
 | [Ezekiel 1](EZK-001.tsv) | 637 | 637 |
 | [Ezekiel 2](EZK-002.tsv) | 230 | 230 |
 | [Ezekiel 3](EZK-003.tsv) | 667 | 667 |
@@ -847,6 +848,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Esdras 1](1ES-001.tsv) | 1238 | 1292 |
 | [1 Esdras 2](1ES-002.tsv) | 677 | 707 |
 | [1 Esdras 3](1ES-003.tsv) | 411 | 432 |
+| [1 Esdras 4](1ES-004.tsv) | 1249 | 1325 |
+| [1 Esdras 5](1ES-005.tsv) | 1407 | 1474 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
