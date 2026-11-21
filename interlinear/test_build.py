@@ -521,6 +521,8 @@ class WordCitations(unittest.TestCase):
             ("NUM 36", 339),
             ("OBA 1", 471),
             ("PRO 1", 426),
+            ("PRO 2", 272),
+            ("PRO 3", 450),
             ("PSA 1", 111),
             ("PSA 2", 164),
             ("PSA 3", 111),
