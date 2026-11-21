@@ -282,6 +282,7 @@ class WordCitations(unittest.TestCase):
             ("PSA 10", 118),
             ("PSA 11", 128),
             ("PSA 12", 100),
+            ("PSA 13", 120),
             ("PSA 21", 451),
             ("PSA 22", 103),
             ("PSA 50", 282),
