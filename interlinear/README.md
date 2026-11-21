@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 212 chapters below have 125,687 indexed words and 136,817 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 218 chapters below have 128,786 indexed words and 140,226 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -162,6 +162,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Joshua 6](JOS-006.tsv) | 777 | 811 |
 | [Joshua 7](JOS-007.tsv) | 731 | 770 |
 | [Joshua 8](JOS-008.tsv) | 1036 | 1095 |
+| [Joshua 9](JOS-009.tsv) | 702 | 734 |
+| [Joshua 10](JOS-010.tsv) | 1221 | 1298 |
 | [Ruth 1](RUT-001.tsv) | 538 | 638 |
 | [Ruth 2](RUT-002.tsv) | 618 | 755 |
 | [Ruth 3](RUT-003.tsv) | 408 | 487 |
@@ -216,6 +218,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Zechariah 1](ZEC-001.tsv) | 524 | 608 |
 | [Zechariah 2](ZEC-002.tsv) | 250 | 292 |
 | [Zechariah 3](ZEC-003.tsv) | 249 | 299 |
+| [Zechariah 4](ZEC-004.tsv) | 290 | 341 |
+| [Zechariah 5](ZEC-005.tsv) | 256 | 290 |
+| [Zechariah 6](ZEC-006.tsv) | 330 | 386 |
+| [Zechariah 7](ZEC-007.tsv) | 300 | 360 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
