@@ -3,7 +3,7 @@ DEU 14:1	1	1	ΥΙοί	υἱός	noun, nominative masculine plural	1	sons
 DEU 14:1	1	2	ἐστε	εἰμί	present indicative, 2nd plural	1	are
 DEU 14:1	1	3	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 DEU 14:1	1	4	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-DEU 14:1	1	5	Θεοῦ	θεός	noun, genitive masculine singular, in apposition	1	God
+DEU 14:1	1	5	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 14:1	1	6	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 14:1	1	7	οὐ	οὐ	negative adverb with future indicative	1	not
 DEU 14:1	1	8	φοιβήσετε	φοιβάω	future active indicative, 2nd plural	1	shall shave
@@ -23,14 +23,14 @@ DEU 14:2	1	3	ἅγιος	ἅγιος	adjective, nominative masculine singular	1	
 DEU 14:2	1	4	εἶ	εἰμί	present indicative, 2nd singular	1	are
 DEU 14:2	1	5	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 DEU 14:2	1	6	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
-DEU 14:2	1	7	Θεῷ	θεός	noun, dative masculine singular, in apposition	1	God
+DEU 14:2	1	7	Θεῷ	θεός	noun, dative masculine singular	1	God
 DEU 14:2	1	8	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 14:2	1	9	καί	καί	conjunction	1	and
 DEU 14:2	1	10	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 14:2	1	11	ἐξελέξατο	ἐκλέγομαι	aorist middle indicative, 3rd singular	1	has chosen
 DEU 14:2	1	12	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 14:2	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
-DEU 14:2	1	14	Θεός	θεός	noun, nominative masc. sg. after ὁ, in apposition	1	God
+DEU 14:2	1	14	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 14:2	1	15	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 14:2	1	16	γενέσθαι	γίνομαι	aorist middle infinitive	1	to be
 DEU 14:2	1	17	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -51,7 +51,7 @@ DEU 14:3	1	3	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 DEU 14:3	1	4	βδέλυγμα	βδέλυγμα	noun, accusative neuter singular	1	abomination
 DEU 14:4	1	1	Ταῦτα	οὗτος	demonstrative pronoun, nominative neuter plural	1	these
 DEU 14:4	1	2	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
-DEU 14:4	1	3	κτήνη	κτῆνος	noun, nominative neuter plural, in apposition	1	beasts
+DEU 14:4	1	3	κτήνη	κτῆνος	noun, nominative neuter plural	1	beasts
 DEU 14:4	1	4	ἅ	ὅς	relative pronoun, accusative neuter plural	1	which
 DEU 14:4	1	5	φάγεσθε	ἐσθίω	future middle indicative, 2nd plural	1	shall eat
 DEU 14:4	1	6	μόσχον	μόσχος	noun, accusative masculine singular	1	calf
@@ -132,7 +132,7 @@ DEU 14:7	1	33	ὑμῖν	σύ	pronoun, dative 2nd plural	1	to you
 DEU 14:7	1	34	ἐστι	εἰμί	present indicative, 3rd singular	1	they are
 DEU 14:8	1	1	Καὶ	καί	conjunction	1	and
 DEU 14:8	1	2	τὸν	ὁ	definite article, accusative masculine singular	1	the
-DEU 14:8	1	3	ὗν	ὗς	noun, accusative masculine singular, in apposition	1	swine
+DEU 14:8	1	3	ὗν	ὗς	noun, accusative masculine singular	1	swine
 DEU 14:8	1	4	ὅτι	ὅτι	conjunction	1	for
 DEU 14:8	1	5	διχηλεῖ	διχηλεύω	present active indicative, 3rd singular	1	divides
 DEU 14:8	1	6	ὁπλὴν	ὁπλή	noun, accusative feminine singular	1	hoof
@@ -273,7 +273,7 @@ DEU 14:18	1	11	καὶ	καί	conjunction	1	and
 DEU 14:18	1	12	νυκτερίδα	νυκτερίς	noun, accusative feminine singular	1	bat
 DEU 14:19	1	1	Πάντα	πᾶς	adjective, accusative neuter plural	1	all
 DEU 14:19	1	2	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
-DEU 14:19	1	3	ἑρπετὰ	ἑρπετόν	noun, nominative neuter plural, in apposition	1	creeping things
+DEU 14:19	1	3	ἑρπετὰ	ἑρπετόν	noun, nominative neuter plural	1	creeping things
 DEU 14:19	1	4	τῶν	ὁ	definite article, genitive plural	1	the
 DEU 14:19	1	5	πετεινῶν	πετεινόν	noun, genitive neuter plural	1	flying things
 DEU 14:19	1	6	ἀκάθαρτα	ἀκάθαρτος	adjective, nominative neuter plural	1	unclean
@@ -314,7 +314,7 @@ DEU 14:21	1	23	ἅγιος	ἅγιος	adjective, nominative masculine singular	
 DEU 14:21	1	24	εἶ	εἰμί	present indicative, 2nd singular	1	are
 DEU 14:21	1	25	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 DEU 14:21	1	26	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
-DEU 14:21	1	27	Θεῷ	θεός	noun, dative masculine singular, in apposition	1	God
+DEU 14:21	1	27	Θεῷ	θεός	noun, dative masculine singular	1	God
 DEU 14:21	1	28	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 14:21	1	29	Οὐχ	οὐ	negative adverb	1	not
 DEU 14:21	1	30	ἑψήσεις	ἕψω	future active indicative, 2nd singular	1	shall boil
@@ -345,7 +345,7 @@ DEU 14:23	1	3	αὐτὸ	αὐτός	pronoun, nominative/accusative neuter singu
 DEU 14:23	1	4	ἔναντι	ἔναντι	preposition with the genitive	1	before
 DEU 14:23	1	5	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 DEU 14:23	1	6	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-DEU 14:23	1	7	Θεοῦ	θεός	noun, genitive masculine singular, in apposition	1	God
+DEU 14:23	1	7	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 14:23	1	8	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 14:23	1	9	ἐν	ἐν	preposition with the dative	1	in
 DEU 14:23	1	10	τόπῳ	τόπος	noun, dative masculine singular	1	place
@@ -354,7 +354,7 @@ DEU 14:23	1	12	ἂν	ἄν	modal particle with the subjunctive	1	ever
 DEU 14:23	1	13	ἐκλέξηται	ἐκλέγομαι	aorist middle subjunctive, 3rd singular	1	chooses
 DEU 14:23	1	14	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 14:23	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
-DEU 14:23	1	16	Θεός	θεός	noun, nominative masc. sg. after ὁ, in apposition	1	God
+DEU 14:23	1	16	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 14:23	1	17	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 14:23	1	18	ἐπικληθῆναι	ἐπικαλέομαι	aorist passive infinitive	1	to be called
 DEU 14:23	1	19	τὸ	ὁ	definite article, nominative/accusative neuter singular	1	the
@@ -390,7 +390,7 @@ DEU 14:23	1	48	μάθῃς	μανθάνω	aorist active subjunctive, 2nd singula
 DEU 14:23	1	49	φοβεῖσθαι	φοβέω	present middle infinitive	1	to fear
 DEU 14:23	1	50	Κύριον	κύριος	noun, accusative masculine singular	1	the Lord
 DEU 14:23	1	51	τὸν	ὁ	definite article, accusative masculine singular	1	the
-DEU 14:23	1	52	Θεόν	θεός	noun, accusative masc. sg. after τὸν, in apposition	1	God
+DEU 14:23	1	52	Θεόν	θεός	noun, accusative masc. sg. after τὸν	1	God
 DEU 14:23	1	53	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 14:23	1	54	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 DEU 14:23	1	55	τὰς	ὁ	article, accusative feminine plural	1	the
@@ -419,7 +419,7 @@ DEU 14:24	1	21	ἂν	ἄν	modal particle with the subjunctive	1	ever
 DEU 14:24	1	22	ἐκλέξηται	ἐκλέγομαι	aorist middle subjunctive, 3rd singular	1	chooses
 DEU 14:24	1	23	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 14:24	1	24	ὁ	ὁ	article, nominative masculine singular	1	the
-DEU 14:24	1	25	Θεός	θεός	noun, nominative masc. sg. after ὁ, in apposition	1	God
+DEU 14:24	1	25	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 14:24	1	26	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 14:24	1	27	ἐπικληθῆναι	ἐπικαλέομαι	aorist passive infinitive	1	to be called
 DEU 14:24	1	28	τὸ	ὁ	definite article, nominative/accusative neuter singular	1	the
@@ -431,7 +431,7 @@ DEU 14:24	1	33	εὐλογήσει	εὐλογέω	future active indicative, 3rd
 DEU 14:24	1	34	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 14:24	1	35	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 14:24	1	36	ὁ	ὁ	article, nominative masculine singular	1	the
-DEU 14:24	1	37	Θεός	θεός	noun, nominative masc. sg. after ὁ, in apposition	1	God
+DEU 14:24	1	37	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 14:24	1	38	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 14:25	1	1	καὶ	καί	conjunction	1	and
 DEU 14:25	1	2	ἀποδώσῃ	ἀποδίδωμι	future middle indicative, 2nd singular	1	shall sell
@@ -455,7 +455,7 @@ DEU 14:25	1	19	ἂν	ἄν	modal particle with the subjunctive	1	ever
 DEU 14:25	1	20	ἐκλέξηται	ἐκλέγομαι	aorist middle subjunctive, 3rd singular	1	chooses
 DEU 14:25	1	21	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 14:25	1	22	ὁ	ὁ	article, nominative masculine singular	1	the
-DEU 14:25	1	23	Θεός	θεός	noun, nominative masc. sg. after ὁ, in apposition	1	God
+DEU 14:25	1	23	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 14:25	1	24	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 14:25	1	25	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 DEU 14:26	1	1	καὶ	καί	conjunction	1	and
@@ -495,7 +495,7 @@ DEU 14:26	1	34	ἐκεῖ	ἐκεῖ	adverb	1	there
 DEU 14:26	1	35	ἔναντι	ἔναντι	preposition with the genitive	1	before
 DEU 14:26	1	36	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 DEU 14:26	1	37	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-DEU 14:26	1	38	Θεοῦ	θεός	noun, genitive masculine singular, in apposition	1	God
+DEU 14:26	1	38	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 14:26	1	39	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 14:26	1	40	καὶ	καί	conjunction	1	and
 DEU 14:26	1	41	εὐφρανθήσῃ	εὐφραίνομαι	future passive indicative, 2nd singular	1	shall rejoice
@@ -581,7 +581,7 @@ DEU 14:29	1	33	εὐλογήσῃ	εὐλογέω	aorist active subjunctive, 3rd
 DEU 14:29	1	34	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 14:29	1	35	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 14:29	1	36	ὁ	ὁ	article, nominative masculine singular	1	the
-DEU 14:29	1	37	Θεός	θεός	noun, nominative masc. sg. after ὁ, in apposition	1	God
+DEU 14:29	1	37	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 14:29	1	38	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 14:29	1	39	ἐν	ἐν	preposition with the dative	1	in
 DEU 14:29	1	40	πᾶσι	πᾶς	adjective, dative neuter plural	1	all

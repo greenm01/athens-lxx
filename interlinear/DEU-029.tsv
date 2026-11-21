@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 DEU 29:1	1	1	ΟΥΤΟΙ	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 DEU 29:1	1	2	οἱ	ὁ	article, nominative masc. pl.	1	the
-DEU 29:1	1	3	λόγοι	λόγος	noun, nominative masculine plural, in apposition	1	words
+DEU 29:1	1	3	λόγοι	λόγος	noun, nominative masculine plural	1	words
 DEU 29:1	1	4	τῆς	ὁ	definite article, genitive feminine singular	1	the
 DEU 29:1	1	5	διαθήκης	διαθήκη	noun, genitive feminine singular	1	covenant
 DEU 29:1	1	6	ἧς	ὅς	relative pronoun, genitive feminine singular	1	which
@@ -87,7 +87,7 @@ DEU 29:4	1	2	οὐκ	οὐ	negative particle	1	not
 DEU 29:4	1	3	ἔδωκε	δίδωμι	aorist active indicative, 3rd sg.	1	gave
 DEU 29:4	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 29:4	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
-DEU 29:4	1	6	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
+DEU 29:4	1	6	Θεὸς	θεός	noun, nominative masculine singular	1	God
 DEU 29:4	1	7	ὑμῖν	σύ	pronoun, dative 2nd plural	1	to you
 DEU 29:4	1	8	καρδίαν	καρδία	noun, accusative feminine singular	1	heart
 DEU 29:4	1	9	εἰδέναι	οἶδα	perfect active infinitive	1	to know
@@ -142,7 +142,7 @@ DEU 29:6	1	11	ὅτι	ὅτι	conjunction	1	that
 DEU 29:6	1	12	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 DEU 29:6	1	13	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 29:6	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
-DEU 29:6	1	15	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
+DEU 29:6	1	15	Θεὸς	θεός	noun, nominative masculine singular	1	God
 DEU 29:6	1	16	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 29:7	1	1	Καὶ	καί	conjunction	1	and
 DEU 29:7	1	2	ἤλθετε	ἔρχομαι	aorist active indicative, 2nd plural	1	came
@@ -212,7 +212,7 @@ DEU 29:10	1	4	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 DEU 29:10	1	5	ἔναντι	ἔναντι	preposition with the genitive	1	before
 DEU 29:10	1	6	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 DEU 29:10	1	7	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-DEU 29:10	1	8	Θεοῦ	θεός	noun, genitive masculine singular, in apposition	1	God
+DEU 29:10	1	8	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 29:10	1	9	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 29:10	1	10	οἱ	ὁ	article, nominative masc. pl.	1	the
 DEU 29:10	1	11	ἀρχίφυλοι	ἀρχίφυλος	noun, nominative masculine plural	1	princes
@@ -263,7 +263,7 @@ DEU 29:12	1	4	τῇ	ὁ	definite article, dative feminine singular	1	the
 DEU 29:12	1	5	διαθήκῃ	διαθήκη	noun, dative feminine singular	1	covenant
 DEU 29:12	1	6	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 DEU 29:12	1	7	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-DEU 29:12	1	8	Θεοῦ	θεός	noun, genitive masculine singular, in apposition	1	God
+DEU 29:12	1	8	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 29:12	1	9	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 29:12	1	10	καὶ	καί	conjunction	1	and
 DEU 29:12	1	11	ἐν	ἐν	preposition with the dative	1	in
@@ -273,7 +273,7 @@ DEU 29:12	1	14	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	h
 DEU 29:12	1	15	ὅσα	ὅσος	relative pronoun, accusative neuter plural	1	what
 DEU 29:12	1	16	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 29:12	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
-DEU 29:12	1	18	Θεός	θεός	noun, nominative masculine singular, in apposition	1	God
+DEU 29:12	1	18	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 29:12	1	19	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 29:12	1	20	διατίθεται	διατίθεμαι	present middle indicative, 3rd singular	1	makes
 DEU 29:12	1	21	πρὸς	πρός	preposition with the accusative	1	to
@@ -332,7 +332,7 @@ DEU 29:15	1	9	ἑστῶσιν	ἵσταμαι	perfect active participle, dative
 DEU 29:15	1	10	ἔναντι	ἔναντι	preposition with the genitive	1	before
 DEU 29:15	1	11	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 DEU 29:15	1	12	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-DEU 29:15	1	13	Θεοῦ	θεός	noun, genitive masculine singular, in apposition	1	God
+DEU 29:15	1	13	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 29:15	1	14	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 29:15	1	15	καὶ	καί	conjunction	1	and
 DEU 29:15	1	16	τοῖς	ὁ	article, dative neuter plural	1	the
@@ -345,7 +345,7 @@ DEU 29:15	1	22	σήμερον	σήμερον	adverb	1	today
 DEU 29:15	1	23	ἔναντι	ἔναντι	preposition with the genitive	1	before
 DEU 29:15	1	24	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 DEU 29:15	1	25	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-DEU 29:15	1	26	Θεοῦ	θεός	noun, genitive masculine singular, in apposition	1	God
+DEU 29:15	1	26	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 29:15	1	27	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 29:16	1	1	ὅτι	ὅτι	conjunction	1	that
 DEU 29:16	1	2	ὑμεῖς	σύ	pronoun, nominative 2nd pl. emphatic subject	1	you
@@ -404,7 +404,7 @@ DEU 29:18	1	18	σήμερον	σήμερον	adverb	1	today
 DEU 29:18	1	19	ἀπὸ	ἀπό	preposition with the genitive	1	from
 DEU 29:18	1	20	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 DEU 29:18	1	21	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-DEU 29:18	1	22	Θεοῦ	θεός	noun, genitive masculine singular, in apposition	1	God
+DEU 29:18	1	22	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 29:18	1	23	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 29:18	1	24	πορεύεσθαι	πορεύομαι	present middle infinitive	1	to walk
 DEU 29:18	1	25	λατρεύειν	λατρεύω	present active infinitive	1	to serve
@@ -502,7 +502,7 @@ DEU 29:20	1	40	καὶ	καί	conjunction	1	and
 DEU 29:20	1	41	ἐξαλείψει	ἐξαλείφω	future active indicative, 3rd singular	1	shall blot out
 DEU 29:20	1	42	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 29:20	1	43	τὸ	ὁ	article, accusative neuter singular	1	the
-DEU 29:20	1	44	ὄνομα	ὄνομα	noun, accusative neuter singular, in apposition	1	name
+DEU 29:20	1	44	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 DEU 29:20	1	45	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 29:20	1	46	ἐκ	ἐκ	preposition with the genitive	1	from
 DEU 29:20	1	47	τῆς	ὁ	definite article, genitive feminine singular	1	the
@@ -619,7 +619,7 @@ DEU 29:24	1	7	ἐποίησεν	ποιέω	aorist active indicative, 3rd singula
 DEU 29:24	1	8	οὕτως	οὕτως	adverb	1	so
 DEU 29:24	1	9	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 29:24	1	10	τῇ	ὁ	definite article, dative feminine singular	1	the
-DEU 29:24	1	11	γῇ	γῆ	noun, dative feminine singular, in apposition	1	land
+DEU 29:24	1	11	γῇ	γῆ	noun, dative feminine singular	1	land
 DEU 29:24	1	12	ταύτῃ	οὗτος	demonstrative pronoun, dative feminine singular	1	this
 DEU 29:24	1	13	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
 DEU 29:24	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -637,9 +637,9 @@ DEU 29:25	1	5	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 29:25	1	6	διαθήκην	διαθήκη	noun, accusative feminine singular	1	covenant
 DEU 29:25	1	7	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 DEU 29:25	1	8	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-DEU 29:25	1	9	Θεοῦ	θεός	noun, genitive masculine singular, in apposition	1	God
+DEU 29:25	1	9	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 29:25	1	10	τῶν	ὁ	definite article, genitive plural	1	the
-DEU 29:25	1	11	πατέρων	πατήρ	noun, genitive masculine plural, in apposition	1	fathers
+DEU 29:25	1	11	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers
 DEU 29:25	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 DEU 29:25	1	13	ἃ	ὅς	relative pronoun, accusative neuter plural	1	which
 DEU 29:25	1	14	διέθετο	διατίθεμαι	aorist middle indicative, 3rd singular	1	made
@@ -722,7 +722,7 @@ DEU 29:29	1	1	Τα	ὁ	definite article, nominative/accusative neuter plural	1	t
 DEU 29:29	1	2	κρυπτὰ	κρυπτός	adjective, nominative neuter plural	1	secret things
 DEU 29:29	1	3	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 DEU 29:29	1	4	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
-DEU 29:29	1	5	Θεῷ	θεός	noun, dative masculine singular, in apposition	1	God
+DEU 29:29	1	5	Θεῷ	θεός	noun, dative masculine singular	1	God
 DEU 29:29	1	6	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 29:29	1	7	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 DEU 29:29	1	8	δὲ	δέ	postpositive conjunction	1	and

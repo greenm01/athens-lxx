@@ -7,7 +7,7 @@ DEU 27:1	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
 DEU 27:1	1	6	γερουσία	γερουσία	noun, nominative feminine singular	1	elders
 DEU 27:1	1	7	Ἰσραὴλ	Ἰσραήλ	place name, indeclinable	1	Israel
 DEU 27:1	1	8	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
-DEU 27:1	1	9	λαῷ	λαός	noun, dative masculine singular, in apposition	1	people
+DEU 27:1	1	9	λαῷ	λαός	noun, dative masculine singular	1	people
 DEU 27:1	1	10	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 DEU 27:1	1	11	φυλάσσεσθε	φυλάσσομαι	present middle imperative, 2nd plural	1	keep
 DEU 27:1	1	12	πάσας	πᾶς	adjective, accusative feminine plural	1	all
@@ -33,7 +33,7 @@ DEU 27:2	1	11	γῆν	γῆ	noun, accusative feminine singular	1	land
 DEU 27:2	1	12	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
 DEU 27:2	1	13	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 27:2	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
-DEU 27:2	1	15	Θεός	θεός	noun, nominative masculine singular, in apposition	1	God
+DEU 27:2	1	15	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 27:2	1	16	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 27:2	1	17	δίδωσί	δίδωμι	present active indicative, 3rd singular	1	gives
 DEU 27:2	1	18	σοι	σύ	pronoun, dative 2nd singular	1	to you
@@ -71,9 +71,9 @@ DEU 27:3	1	22	γῆν	γῆ	noun, accusative feminine singular	1	land
 DEU 27:3	1	23	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
 DEU 27:3	1	24	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 27:3	1	25	ὁ	ὁ	article, nominative masculine singular	1	the
-DEU 27:3	1	26	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
+DEU 27:3	1	26	Θεὸς	θεός	noun, nominative masculine singular	1	God
 DEU 27:3	1	27	τῶν	ὁ	definite article, genitive plural	1	the
-DEU 27:3	1	28	πατέρων	πατήρ	noun, genitive masculine plural, in apposition	1	fathers
+DEU 27:3	1	28	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers
 DEU 27:3	1	29	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 27:3	1	30	δίδωσί	δίδωμι	present active indicative, 3rd singular	1	gives
 DEU 27:3	1	31	σοι	σύ	pronoun, dative 2nd singular	1	to you
@@ -87,9 +87,9 @@ DEU 27:3	1	38	τρόπον	τρόπος	noun, accusative masculine singular	1	ma
 DEU 27:3	1	39	εἶπε	λέγω	aorist active indicative, 3rd singular	1	said
 DEU 27:3	1	40	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 27:3	1	41	ὁ	ὁ	article, nominative masculine singular	1	the
-DEU 27:3	1	42	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
+DEU 27:3	1	42	Θεὸς	θεός	noun, nominative masculine singular	1	God
 DEU 27:3	1	43	τῶν	ὁ	definite article, genitive plural	1	the
-DEU 27:3	1	44	πατέρων	πατήρ	noun, genitive masculine plural, in apposition	1	fathers
+DEU 27:3	1	44	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers
 DEU 27:3	1	45	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 27:3	1	46	σοί	σύ	pronoun, dative 2nd singular	1	to you
 DEU 27:4	1	1	Καὶ	καί	conjunction	1	and
@@ -120,7 +120,7 @@ DEU 27:5	1	2	οἰκοδομήσεις	οἰκοδομέω	future active indicat
 DEU 27:5	1	3	ἐκεῖ	ἐκεῖ	adverb	1	there
 DEU 27:5	1	4	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 DEU 27:5	1	5	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
-DEU 27:5	1	6	Θεῷ	θεός	noun, dative masculine singular, in apposition	1	God
+DEU 27:5	1	6	Θεῷ	θεός	noun, dative masculine singular	1	God
 DEU 27:5	1	7	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 27:5	1	8	θυσιαστήριον	θυσιαστήριον	noun, accusative neuter singular	1	altar
 DEU 27:5	1	9	θυσιαστήριον	θυσιαστήριον	noun, accusative neuter singular	1	altar
@@ -138,7 +138,7 @@ DEU 27:6	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
 DEU 27:6	1	5	θυσιαστήριον	θυσιαστήριον	noun, accusative neuter singular	1	altar
 DEU 27:6	1	6	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 DEU 27:6	1	7	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
-DEU 27:6	1	8	Θεῷ	θεός	noun, dative masculine singular, in apposition	1	God
+DEU 27:6	1	8	Θεῷ	θεός	noun, dative masculine singular	1	God
 DEU 27:6	1	9	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 27:6	1	10	καὶ	καί	conjunction	1	and
 DEU 27:6	1	11	ἀνοίσεις	ἀναφέρω	future active indicative, 2nd singular	1	shall offer up
@@ -147,7 +147,7 @@ DEU 27:6	1	13	αὐτοῦ	αὐτός	pronoun, dative neuter singular	1	it
 DEU 27:6	1	14	ὁλοκαυτώματα	ὁλοκαύτωμα	noun, accusative neuter plural	1	whole burnt offerings
 DEU 27:6	1	15	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 DEU 27:6	1	16	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
-DEU 27:6	1	17	Θεῷ	θεός	noun, dative masculine singular, in apposition	1	God
+DEU 27:6	1	17	Θεῷ	θεός	noun, dative masculine singular	1	God
 DEU 27:6	1	18	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 27:7	1	1	καὶ	καί	conjunction	1	and
 DEU 27:7	1	2	θύσεις	θύω	future active indicative, 2nd singular	1	shall sacrifice
@@ -155,7 +155,7 @@ DEU 27:7	1	3	θυσίαν	θυσία	noun, accusative feminine singular	1	sacrif
 DEU 27:7	1	4	σωτηρίου	σωτήριον	noun, genitive neuter singular	1	salvation
 DEU 27:7	1	5	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 DEU 27:7	1	6	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
-DEU 27:7	1	7	Θεῷ	θεός	noun, dative masculine singular, in apposition	1	God
+DEU 27:7	1	7	Θεῷ	θεός	noun, dative masculine singular	1	God
 DEU 27:7	1	8	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 27:7	1	9	καὶ	καί	conjunction	1	and
 DEU 27:7	1	10	φαγῇ	ἐσθίω	future middle indicative, 2nd singular	1	shall eat
@@ -167,7 +167,7 @@ DEU 27:7	1	15	εὐφρανθήσῃ	εὐφραίνομαι	future passive indi
 DEU 27:7	1	16	ἔναντι	ἔναντι	preposition with the genitive	1	before
 DEU 27:7	1	17	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 DEU 27:7	1	18	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-DEU 27:7	1	19	Θεοῦ	θεός	noun, genitive masculine singular, in apposition	1	God
+DEU 27:7	1	19	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 27:7	1	20	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 27:8	1	1	καὶ	καί	conjunction	1	and
 DEU 27:8	1	2	γράψεις	γράφω	future active indicative, 2nd singular	1	shall write
@@ -205,7 +205,7 @@ DEU 27:9	1	22	εἰς	εἰς	preposition with the accusative	1	into
 DEU 27:9	1	23	λαὸν	λαός	noun, accusative masculine singular	1	people
 DEU 27:9	1	24	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 DEU 27:9	1	25	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
-DEU 27:9	1	26	Θεῷ	θεός	noun, dative masculine singular, in apposition	1	God
+DEU 27:9	1	26	Θεῷ	θεός	noun, dative masculine singular	1	God
 DEU 27:9	1	27	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 27:10	1	1	καὶ	καί	conjunction	1	and
 DEU 27:10	1	2	εἰσακούσῃ	εἰσακούω	future middle indicative, 2nd singular	1	shall listen to
@@ -213,7 +213,7 @@ DEU 27:10	1	3	τῆς	ὁ	definite article, genitive feminine singular	1	the
 DEU 27:10	1	4	φωνῆς	φωνή	noun, genitive feminine singular	1	voice
 DEU 27:10	1	5	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 DEU 27:10	1	6	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-DEU 27:10	1	7	Θεοῦ	θεός	noun, genitive masculine singular, in apposition	1	God
+DEU 27:10	1	7	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 27:10	1	8	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 27:10	1	9	καὶ	καί	conjunction	1	and
 DEU 27:10	1	10	ποιήσεις	ποιέω	future active indicative, 2nd singular	1	shall do
