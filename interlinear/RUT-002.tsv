@@ -119,7 +119,7 @@ RUT 2:5	1	1	Καὶ	καί	conjunction	1	and
 RUT 2:5	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 RUT 2:5	1	3	Βοὸς	Βοός	indeclinable personal name	1	Boaz
 RUT 2:5	1	3	Βοὸς			2	Boos
-RUT 2:5	1	4	τῷ	ὁ	article, dative masculine singular	1	to the
+RUT 2:5	1	4	τῷ	ὁ	article, dative neuter singular	1	to the
 RUT 2:5	1	5	παιδαρίῳ	παιδάριον	noun, dative neuter singular	1	young man
 RUT 2:5	1	5	παιδαρίῳ			2	servant
 RUT 2:5	1	6	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -138,7 +138,7 @@ RUT 2:6	1	1	Καὶ	καί	conjunction	1	and
 RUT 2:6	1	2	ἀπεκρίθη	ἀποκρίνομαι	aorist passive indicative, third singular	1	answered
 RUT 2:6	1	3	τὸ	ὁ	article, neuter singular (case from context)	1	the
 RUT 2:6	1	4	παιδάριον	παιδάριον	noun, nominative neuter singular after τὸ	1	lad
-RUT 2:6	1	5	τὸ	ὁ	article, accusative neuter singular	1	the
+RUT 2:6	1	5	τὸ	ὁ	article, nominative neuter singular	1	the
 RUT 2:6	1	6	ἐφεστὸς	ἐφίστημι	perfect active participle, nominative neuter singular	1	placed in charge
 RUT 2:6	1	6	ἐφεστὸς			2	overseeing
 RUT 2:6	1	7	ἐπὶ	ἐπί	preposition with the accusative	1	over
@@ -170,7 +170,7 @@ RUT 2:7	1	5	καὶ	καί	conjunction	1	and
 RUT 2:7	1	6	συνάξω	συνάγω	future active indicative, first singular	1	I will gather
 RUT 2:7	1	6	συνάξω			2	I will collect
 RUT 2:7	1	7	ἐν	ἐν	preposition with the dative	1	in
-RUT 2:7	1	8	τοῖς	ὁ	article, dative masculine plural	1	the
+RUT 2:7	1	8	τοῖς	ὁ	article, dative neuter plural	1	the
 RUT 2:7	1	9	δράγμασιν	δράγμα	noun, dative neuter plural	1	sheaves
 RUT 2:7	1	9	δράγμασιν			2	handfuls
 RUT 2:7	1	10	ὄπισθεν	ὄπισθεν	adverb	1	behind
@@ -242,7 +242,7 @@ RUT 2:9	1	12	κατόπισθεν			2	after
 RUT 2:9	1	13	αὐτῶν	αὐτός	pronoun, genitive plural governed by κατόπισθεν	1	them
 RUT 2:9	1	14	ἰδοὺ	ἰδού	presentative particle	1	behold
 RUT 2:9	1	15	ἐνετειλάμην	ἐντέλλομαι	aorist middle indicative, first singular	1	I commanded
-RUT 2:9	1	16	τοῖς	ὁ	article, dative masculine plural	1	the
+RUT 2:9	1	16	τοῖς	ὁ	article, dative neuter plural	1	the
 RUT 2:9	1	17	παιδαρίοις	παιδάριον	noun, dative neuter plural	1	young men
 RUT 2:9	1	17	παιδαρίοις			2	servants
 RUT 2:9	1	18	τοῦ	ὁ	article, genitive neuter singular; introduces an infinitive	1	to
@@ -481,7 +481,7 @@ RUT 2:15	1	5	Καὶ	καί	conjunction	1	and
 RUT 2:15	1	6	ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, third singular	1	commanded
 RUT 2:15	1	7	Βοὸς	Βοός	indeclinable personal name	1	Boaz
 RUT 2:15	1	7	Βοὸς			2	Boos
-RUT 2:15	1	8	τοῖς	ὁ	article, dative masculine plural	1	the
+RUT 2:15	1	8	τοῖς	ὁ	article, dative neuter plural	1	the
 RUT 2:15	1	9	παιδαρίοις	παιδάριον	noun, dative neuter plural	1	young men
 RUT 2:15	1	9	παιδαρίοις			2	servants
 RUT 2:15	1	10	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -513,7 +513,7 @@ RUT 2:16	1	8	παραβαλεῖτε	παραβάλλω	future active indicative
 RUT 2:16	1	8	παραβαλεῖτε			2	you shall set beside
 RUT 2:16	1	9	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
 RUT 2:16	1	10	ἐκ	ἐκ	preposition with the genitive	1	from
-RUT 2:16	1	11	τῶν	ὁ	article, genitive masculine plural	1	the
+RUT 2:16	1	11	τῶν	ὁ	article, genitive neuter plural	1	the
 RUT 2:16	1	12	βεβουνισμένων	βουνίζω	perfect middle/passive participle, genitive neuter plural; substantival	1	heaped bundles
 RUT 2:16	1	12	βεβουνισμένων			2	piles
 RUT 2:16	1	13	καὶ	καί	conjunction	1	and
@@ -726,7 +726,7 @@ RUT 2:23	1	1	Καὶ	καί	conjunction	1	and
 RUT 2:23	1	2	προσεκολλήθη	προσκολλάω	aorist passive indicative, third singular	1	stayed close
 RUT 2:23	1	2	προσεκολλήθη			2	kept near
 RUT 2:23	1	3	Ῥοὺθ	Ῥούθ	indeclinable personal name	1	Ruth
-RUT 2:23	1	4	τοῖς	ὁ	article, dative masculine plural	1	the
+RUT 2:23	1	4	τοῖς	ὁ	article, dative neuter plural	1	the
 RUT 2:23	1	5	κορασίοις	κοράσιον	noun, dative neuter plural	1	young women
 RUT 2:23	1	5	κορασίοις			2	girls
 RUT 2:23	1	6	Βοὸς	Βοός	indeclinable personal name, genitive in context	1	of Boaz
@@ -745,7 +745,7 @@ RUT 2:23	1	16	καὶ	καί	conjunction	1	and
 RUT 2:23	1	17	τὸν	ὁ	article, accusative masculine singular	1	the
 RUT 2:23	1	18	θερισμὸν	θερισμός	noun, accusative masculine singular	1	harvest
 RUT 2:23	1	18	θερισμὸν			2	reaping
-RUT 2:23	1	19	τῶν	ὁ	article, genitive neuter plural	1	the
+RUT 2:23	1	19	τῶν	ὁ	article, genitive masculine plural	1	the
 RUT 2:23	1	20	πυρῶν	πυρός	noun, genitive masculine plural	1	wheat
 RUT 2:23	1	21	καὶ	καί	conjunction	1	and
 RUT 2:23	1	22	ἐκάθισε	καθίζω	aorist active indicative, third singular	1	lived
