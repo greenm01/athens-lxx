@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 963 chapters below have 503,894 indexed words and 543,494 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 975 chapters below have 509,746 indexed words and 549,889 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -633,6 +633,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 149](PSA-149.tsv) | 112 | 112 |
 | [Psalm 150](PSA-150.tsv) | 67 | 68 |
 | [Psalm 151](PSA-151.tsv) | 120 | 120 |
+| [Odes 1](ODA-001.tsv) | 309 | 313 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
 | [Proverbs 2](PRO-002.tsv) | 272 | 289 |
 | [Proverbs 3](PRO-003.tsv) | 450 | 474 |
@@ -922,6 +923,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Judith 10](JDT-010.tsv) | 637 | 661 |
 | [Judith 11](JDT-011.tsv) | 694 | 740 |
 | [Judith 12](JDT-012.tsv) | 504 | 528 |
+| [Judith 13](JDT-013.tsv) | 612 | 649 |
+| [Judith 14](JDT-014.tsv) | 510 | 541 |
+| [Judith 15](JDT-015.tsv) | 428 | 448 |
+| [Judith 16](JDT-016.tsv) | 552 | 584 |
 | [1 Esdras 1](1ES-001.tsv) | 1238 | 1292 |
 | [1 Esdras 2](1ES-002.tsv) | 677 | 707 |
 | [1 Esdras 3](1ES-003.tsv) | 411 | 432 |
@@ -936,6 +941,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Baruch 3](BAR-003.tsv) | 572 | 700 |
 | [Baruch 4](BAR-004.tsv) | 589 | 704 |
 | [Baruch 5](BAR-005.tsv) | 182 | 226 |
+| [Epistle of Jeremiah 1](LJE-001.tsv) | 1305 | 1620 |
 | [Wisdom of Solomon 1](WIS-001.tsv) | 256 | 265 |
 | [Wisdom of Solomon 2](WIS-002.tsv) | 374 | 393 |
 | [Wisdom of Solomon 3](WIS-003.tsv) | 273 | 294 |
@@ -967,6 +973,12 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Sirach 9](SIR-009.tsv) | 280 | 284 |
 | [Sirach 10](SIR-010.tsv) | 421 | 454 |
 | [Sirach 11](SIR-011.tsv) | 475 | 513 |
+| [Sirach 12](SIR-012.tsv) | 308 | 320 |
+| [Sirach 13](SIR-013.tsv) | 374 | 398 |
+| [Sirach 14](SIR-014.tsv) | 348 | 366 |
+| [Sirach 15](SIR-015.tsv) | 232 | 242 |
+| [Sirach 16](SIR-016.tsv) | 439 | 465 |
+| [Sirach 17](SIR-017.tsv) | 435 | 449 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
