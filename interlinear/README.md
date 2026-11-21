@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 300 chapters below have 172,902 indexed words and 188,489 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 304 chapters below have 175,683 indexed words and 191,506 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -203,6 +203,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Judges 17](JDG-017.tsv) | 323 | 354 |
 | [Judges 18](JDG-018.tsv) | 908 | 1035 |
 | [Judges 19](JDG-019.tsv) | 963 | 1061 |
+| [Judges 20](JDG-020.tsv) | 1155 | 1302 |
+| [Judges 21](JDG-021.tsv) | 592 | 648 |
 | [Ruth 1](RUT-001.tsv) | 538 | 638 |
 | [Ruth 2](RUT-002.tsv) | 618 | 755 |
 | [Ruth 3](RUT-003.tsv) | 408 | 487 |
@@ -217,6 +219,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Kingdoms 8](1SA-008.tsv) | 456 | 470 |
 | [1 Kingdoms 9](1SA-009.tsv) | 792 | 814 |
 | [1 Kingdoms 10](1SA-010.tsv) | 734 | 759 |
+| [1 Kingdoms 11](1SA-011.tsv) | 399 | 413 |
+| [1 Kingdoms 12](1SA-012.tsv) | 635 | 654 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
