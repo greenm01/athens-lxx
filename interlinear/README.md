@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 563 chapters below have 320,805 indexed words and 348,667 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 566 chapters below have 321,760 indexed words and 349,667 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -352,6 +352,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Chronicles 21](1CH-021.tsv) | 760 | 802 |
 | [1 Chronicles 22](1CH-022.tsv) | 477 | 511 |
 | [1 Chronicles 23](1CH-023.tsv) | 529 | 569 |
+| [1 Chronicles 24](1CH-024.tsv) | 429 | 459 |
+| [1 Chronicles 25](1CH-025.tsv) | 431 | 446 |
 | [2 Chronicles 1](2CH-001.tsv) | 434 | 466 |
 | [2 Chronicles 2](2CH-002.tsv) | 547 | 586 |
 | [2 Chronicles 3](2CH-003.tsv) | 387 | 415 |
@@ -432,6 +434,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 63](PSA-063.tsv) | 132 | 132 |
 | [Psalm 64](PSA-064.tsv) | 191 | 191 |
 | [Psalm 65](PSA-065.tsv) | 271 | 271 |
+| [Psalm 66](PSA-066.tsv) | 95 | 95 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Isaiah 1](ISA-001.tsv) | 599 | 749 |
