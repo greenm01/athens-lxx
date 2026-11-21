@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 1070 chapters below have 570,603 indexed words and 616,544 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 1073 chapters below have 572,185 indexed words and 618,306 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -845,6 +845,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Ezekiel 22](EZK-022.tsv) | 657 | 657 |
 | [Ezekiel 23](EZK-023.tsv) | 1074 | 1077 |
 | [Ezekiel 24](EZK-024.tsv) | 640 | 640 |
+| [Ezekiel 35](EZK-035.tsv) | 302 | 314 |
+| [Ezekiel 36](EZK-036.tsv) | 933 | 978 |
 | [Susanna 1](SUS-001.tsv) | 1134 | 1376 |
 | [Daniel 1](DAG-001.tsv) | 504 | 603 |
 | [Daniel 2](DAG-002.tsv) | 1263 | 1534 |
@@ -997,6 +999,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [3 Maccabees 5](3MA-005.tsv) | 1074 | 1137 |
 | [4 Maccabees 1](4MA-001.tsv) | 655 | 913 |
 | [4 Maccabees 2](4MA-002.tsv) | 439 | 611 |
+| [4 Maccabees 3](4MA-003.tsv) | 347 | 470 |
 | [Baruch 1](BAR-001.tsv) | 524 | 597 |
 | [Baruch 2](BAR-002.tsv) | 794 | 938 |
 | [Baruch 3](BAR-003.tsv) | 572 | 700 |
