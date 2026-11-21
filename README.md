@@ -4,7 +4,7 @@
 
 ## The word-by-word interlinear
 
-Genesis 1–14 and Psalms 21, 22 and 50 have a literal English gloss and grammatical analysis for every indexed word. These are Psalms 22, 23 and 51 in the King James Bible. In the shepherd psalm, for instance, *ποιμαίνει* means “shepherds” or “tends.” The [v0.3.0 database](https://github.com/greenm01/athens-lxx/releases/download/v0.3.0/athens.sqlite) indexes all four volumes and includes Genesis 1 and the three psalms. Genesis 2–14 are available as TSV files and in a fresh local build.
+Genesis 1–17 and Psalms 21, 22 and 50 have a literal English gloss and grammatical analysis for every indexed word. These are Psalms 22, 23 and 51 in the King James Bible. In the shepherd psalm, for instance, *ποιμαίνει* means “shepherds” or “tends.” The [v0.3.0 database](https://github.com/greenm01/athens-lxx/releases/download/v0.3.0/athens.sqlite) indexes all four volumes and includes Genesis 1 and the three psalms. Genesis 2–17 are available as TSV files and in a fresh local build.
 
 [Genesis chapter index](interlinear/README.md#reading-the-athens-interlinear) · [Psalm 21](interlinear/PSA-021.tsv) · [Psalm 22](interlinear/PSA-022.tsv) · [Psalm 50](interlinear/PSA-050.tsv) · [Query or build the database](interlinear/README.md)
 
