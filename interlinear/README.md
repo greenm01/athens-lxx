@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 438 chapters below have 256,406 indexed words and 278,816 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 445 chapters below have 260,863 indexed words and 283,682 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -295,9 +295,13 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [3 Kingdoms 12](1KI-012.tsv) | 889 | 943 |
 | [3 Kingdoms 13](1KI-013.tsv) | 973 | 1014 |
 | [3 Kingdoms 14](1KI-014.tsv) | 819 | 871 |
+| [3 Kingdoms 15](1KI-015.tsv) | 800 | 866 |
 | [4 Kingdoms 1](2KI-001.tsv) | 669 | 711 |
 | [4 Kingdoms 2](2KI-002.tsv) | 664 | 736 |
 | [4 Kingdoms 3](2KI-003.tsv) | 645 | 693 |
+| [4 Kingdoms 4](2KI-004.tsv) | 1128 | 1233 |
+| [4 Kingdoms 5](2KI-005.tsv) | 792 | 875 |
+| [4 Kingdoms 6](2KI-006.tsv) | 802 | 851 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -335,6 +339,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 35](PSA-035.tsv) | 175 | 175 |
 | [Psalm 36](PSA-036.tsv) | 534 | 535 |
 | [Psalm 37](PSA-037.tsv) | 321 | 321 |
+| [Psalm 38](PSA-038.tsv) | 229 | 230 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
@@ -375,6 +380,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Isaiah 35](ISA-035.tsv) | 210 | 259 |
 | [Isaiah 36](ISA-036.tsv) | 559 | 644 |
 | [Isaiah 37](ISA-037.tsv) | 836 | 983 |
+| [Isaiah 38](ISA-038.tsv) | 460 | 540 |
+| [Isaiah 39](ISA-039.tsv) | 246 | 271 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
