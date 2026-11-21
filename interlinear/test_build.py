@@ -419,6 +419,8 @@ class WordCitations(unittest.TestCase):
             ("JER 2", 847),
             ("JER 3", 655),
             ("JER 4", 655),
+            ("JER 5", 654),
+            ("JER 6", 592),
             ("JOL 1", 364),
             ("JOL 2", 779),
             ("JOL 3", 451),
