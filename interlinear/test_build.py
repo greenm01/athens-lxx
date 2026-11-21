@@ -99,6 +99,8 @@ class WordCitations(unittest.TestCase):
             ("1MA 6", 1323),
             ("1MA 7", 986),
             ("1MA 8", 725),
+            ("1MA 9", 1473),
+            ("1MA 10", 1813),
             ("1SA 1", 776),
             ("1SA 2", 923),
             ("1SA 3", 485),
