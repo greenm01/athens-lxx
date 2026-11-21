@@ -4,7 +4,9 @@
 
 ## The word-by-word interlinear
 
-The [SQLite database](https://github.com/greenm01/athens-lxx/releases/download/v0.3.0/athens.sqlite) indexes the Greek of all four volumes. Genesis 1 and Psalms 21, 22 and 50 each have a literal English gloss and grammatical analysis for every word. These are Psalms 22, 23 and 51 in the King James Bible. The rest of the Greek is searchable. In the shepherd psalm, for instance, *ποιμαίνει* means “shepherds” or “tends.” You can read the four passages without installing anything. [Genesis 1](interlinear/GEN-001.tsv) · [Psalm 21](interlinear/PSA-021.tsv) · [Psalm 22](interlinear/PSA-022.tsv) · [Psalm 50](interlinear/PSA-050.tsv) · [Query or build the database](interlinear/README.md)
+Genesis 1–3 and Psalms 21, 22 and 50 have a literal English gloss and grammatical analysis for every indexed word. These are Psalms 22, 23 and 51 in the King James Bible. In the shepherd psalm, for instance, *ποιμαίνει* means “shepherds” or “tends.” The [v0.3.0 database](https://github.com/greenm01/athens-lxx/releases/download/v0.3.0/athens.sqlite) indexes all four volumes and includes Genesis 1 and the three psalms. Genesis 2 and 3 are available as TSV files and in a fresh local build.
+
+[Genesis 1](interlinear/GEN-001.tsv) · [Genesis 2](interlinear/GEN-002.tsv) · [Genesis 3](interlinear/GEN-003.tsv) · [Psalm 21](interlinear/PSA-021.tsv) · [Psalm 22](interlinear/PSA-022.tsv) · [Psalm 50](interlinear/PSA-050.tsv) · [Query or build the database](interlinear/README.md)
 
 The print sometimes tells readers how to find their place. In Sirach 30 a Latin notice points ahead to chapter 33, where a passage continues in a different order. The database records the notice as it appears on the page. It also identifies Sirach’s eleven section titles, the closing account in Job, and the parentheses around “all” in Psalm 2:10. [See the marked passages](interlinear/print/passages.tsv)
 

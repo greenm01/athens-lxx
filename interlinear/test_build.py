@@ -1,10 +1,13 @@
 """Keep word citations stable across rebuilds of the same edition."""
 
+import csv
 import hashlib
+import io
 import sqlite3
 import unittest
 
 from build import build
+from reuse import list_candidates
 
 
 class WordCitations(unittest.TestCase):
@@ -31,11 +34,22 @@ class WordCitations(unittest.TestCase):
             db.execute(
                 "SELECT substr(ref,1,instr(ref,':')-1) AS passage, count(*), count(english) "
                 "FROM interlinear WHERE (preference=1 OR preference IS NULL) AND "
-                "substr(ref,1,instr(ref,':')-1) IN ('GEN 1','PSA 21','PSA 22','PSA 50') "
+                "substr(ref,1,instr(ref,':')-1) IN ('GEN 1','GEN 2','GEN 3','PSA 21','PSA 22','PSA 50') "
                 "GROUP BY passage ORDER BY passage"
             ).fetchall(),
-            [("GEN 1", 754, 754), ("PSA 21", 451, 451), ("PSA 22", 103, 103), ("PSA 50", 282, 282)],
+            [
+                ("GEN 1", 754, 754), ("GEN 2", 534, 534), ("GEN 3", 587, 587),
+                ("PSA 21", 451, 451), ("PSA 22", 103, 103), ("PSA 50", 282, 282),
+            ],
         )
+        output = io.StringIO()
+        list_candidates(db, "GEN 3", output)
+        candidates = list(csv.DictReader(io.StringIO(output.getvalue()), delimiter="\t"))
+        forms = {row["surface"]: int(row["in_chapter"]) for row in candidates}
+        self.assertEqual(sum(forms.values()), 587)
+        self.assertFalse(any(row["example_ref"].startswith("GEN 3:") for row in candidates))
+        self.assertIn("ὅ", forms)
+        self.assertIn("Ὁ", forms)
         self.assertEqual(
             db.execute(
                 "SELECT surface,english FROM interlinear WHERE ref='GEN 1:29' "
