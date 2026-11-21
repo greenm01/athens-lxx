@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 886 chapters below have 475,303 indexed words and 512,867 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 895 chapters below have 477,993 indexed words and 515,756 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -609,6 +609,11 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 125](PSA-125.tsv) | 78 | 78 |
 | [Psalm 126](PSA-126.tsv) | 87 | 87 |
 | [Psalm 127](PSA-127.tsv) | 84 | 85 |
+| [Psalm 128](PSA-128.tsv) | 88 | 88 |
+| [Psalm 129](PSA-129.tsv) | 95 | 96 |
+| [Psalm 130](PSA-130.tsv) | 58 | 58 |
+| [Psalm 131](PSA-131.tsv) | 232 | 233 |
+| [Psalm 132](PSA-132.tsv) | 59 | 59 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
 | [Proverbs 2](PRO-002.tsv) | 272 | 289 |
@@ -779,6 +784,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Jeremiah 50](JER-050.tsv) | 339 | 396 |
 | [Jeremiah 51](JER-051.tsv) | 1078 | 1274 |
 | [Jeremiah 52](JER-052.tsv) | 859 | 989 |
+| [Lamentations 1](LAM-001.tsv) | 657 | 784 |
 | [Ezekiel 1](EZK-001.tsv) | 637 | 637 |
 | [Ezekiel 2](EZK-002.tsv) | 230 | 230 |
 | [Ezekiel 3](EZK-003.tsv) | 667 | 667 |
@@ -870,6 +876,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Tobit 1](TOB-001.tsv) | 547 | 589 |
 | [Tobit 2](TOB-002.tsv) | 316 | 329 |
 | [Tobit 3](TOB-003.tsv) | 476 | 502 |
+| [Tobit 4](TOB-004.tsv) | 564 | 585 |
+| [Tobit 5](TOB-005.tsv) | 451 | 478 |
+| [Tobit 6](TOB-006.tsv) | 486 | 508 |
 | [1 Esdras 1](1ES-001.tsv) | 1238 | 1292 |
 | [1 Esdras 2](1ES-002.tsv) | 677 | 707 |
 | [1 Esdras 3](1ES-003.tsv) | 411 | 432 |
