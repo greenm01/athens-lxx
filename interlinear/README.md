@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 171 chapters below have 103,548 indexed words and 112,862 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 179 chapters below have 107,769 indexed words and 117,606 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -132,9 +132,14 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Numbers 20](NUM-020.tsv) | 651 | 669 |
 | [Numbers 21](NUM-021.tsv) | 747 | 827 |
 | [Numbers 22](NUM-022.tsv) | 972 | 1041 |
+| [Numbers 23](NUM-023.tsv) | 607 | 663 |
+| [Numbers 24](NUM-024.tsv) | 470 | 515 |
+| [Numbers 25](NUM-025.tsv) | 343 | 374 |
 | [Numbers 29](NUM-029.tsv) | 755 | 816 |
 | [Numbers 30](NUM-030.tsv) | 461 | 473 |
 | [Numbers 31](NUM-031.tsv) | 1045 | 1106 |
+| [Numbers 32](NUM-032.tsv) | 881 | 947 |
+| [Numbers 33](NUM-033.tsv) | 805 | 828 |
 | [Ruth 1](RUT-001.tsv) | 538 | 638 |
 | [Ruth 2](RUT-002.tsv) | 618 | 755 |
 | [Ruth 3](RUT-003.tsv) | 408 | 487 |
@@ -175,6 +180,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Nahum 1](NAM-001.tsv) | 245 | 309 |
 | [Nahum 2](NAM-002.tsv) | 313 | 394 |
 | [Nahum 3](NAM-003.tsv) | 387 | 493 |
+| [Habakkuk 1](HAB-001.tsv) | 339 | 430 |
+| [Habakkuk 2](HAB-002.tsv) | 404 | 517 |
+| [Habakkuk 3](HAB-003.tsv) | 372 | 470 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
