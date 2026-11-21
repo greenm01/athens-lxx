@@ -16,7 +16,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 1:1	1	14	ἐκάθισε	καθίζω	aorist active indicative, third singular	1	stayed
 2SA 1:1	1	14	ἐκάθισε			2	sat down
 2SA 1:1	1	15	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
-2SA 1:1	1	16	ἐν	ἐν	preposition with the dative	1	in
+2SA 1:1	1	16	ἐν	ἐν	preposition with dative	1	in
 2SA 1:1	1	17	Σικελὰγ	Σικελάγ	indeclinable place name, dative in context	1	Sikelag
 2SA 1:1	1	17	Σικελὰγ			2	Ziklag
 2SA 1:1	1	18	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
@@ -137,7 +137,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 1:5	1	7	ἀπαγγέλλοντι	ἀπαγγέλλω	present active participle, dative neuter singular	1	reporting
 2SA 1:5	1	8	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 2SA 1:5	1	9	πῶς	πῶς	interrogative adverb	1	how
-2SA 1:5	1	10	οἶδας	οἶδα	perfect active indicative, second plural	1	you know
+2SA 1:5	1	10	οἶδας	οἶδα	perfect active indicative, second singular	1	know
 2SA 1:5	1	11	ὅτι	ὅτι	declarative conjunction	1	that
 2SA 1:5	1	12	τέθνηκε	θνῄσκω	perfect active indicative, third singular	1	is dead
 2SA 1:5	1	12	τέθνηκε			2	has died
@@ -220,15 +220,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 1:9	1	5	στῆθι	ἵστημι	aorist active imperative, second singular (intransitive second aorist)	1	stand
 2SA 1:9	1	6	δὴ	δή	emphatic particle	1	please
 2SA 1:9	1	6	δὴ			2	now
-2SA 1:9	1	7	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
-2SA 1:9	1	7	ἐπάνω			2	above
+2SA 1:9	1	7	ἐπάνω	ἐπάνω	adverb used substantivally in a place name	1	Upper
+2SA 1:9	1	7	ἐπάνω			2	Above
 2SA 1:9	1	8	μου	ἐγώ	pronoun, genitive first singular	1	me
 2SA 1:9	1	9	καὶ	καί	conjunction	1	and
 2SA 1:9	1	10	θανάτωσόν	θανατόω	aorist active imperative, second singular	1	kill
 2SA 1:9	1	11	με	ἐγώ	personal pronoun, accusative singular	1	me
 2SA 1:9	1	12	ὅτι	ὅτι	causal conjunction	1	because
 2SA 1:9	1	13	κατέσχε	κατέχω	aorist active indicative, third singular	1	has seized
-2SA 1:9	1	14	με	ἐγώ	personal pronoun, accusative singular	1	me
+2SA 1:9	1	14	με	ἐγώ	personal pronoun accusative first singular	1	me
 2SA 1:9	1	15	σκότος	σκότος	noun, nominative neuter singular	1	darkness
 2SA 1:9	1	16	δεινὸν	δεινός	adjective, nominative neuter singular	1	terrible
 2SA 1:9	1	17	ὅτι	ὅτι	conjunction introducing a content clause	1	that
@@ -347,7 +347,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 1:13	1	11	σύ	σύ	personal pronoun, nominative singular, emphatic	1	you
 2SA 1:13	1	12	καὶ	καί	conjunction	1	and
 2SA 1:13	1	13	εἶπεν	λέγω	aorist active indicative, third singular	1	said
-2SA 1:13	1	14	υἱὸς	υἱός	noun, nominative masculine singular	1	a son
+2SA 1:13	1	14	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2SA 1:13	1	15	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	of a man
 2SA 1:13	1	16	παροίκου	πάροικος	adjective, genitive masculine singular	1	living as a sojourner
 2SA 1:13	1	17	Ἀμαληκίτου	Ἀμαληκίτης	noun, genitive masculine singular	1	an Amalekite
@@ -416,7 +416,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 1:16	1	26	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2SA 1:17	1	1	Καὶ	καί	conjunction	1	and
 2SA 1:17	1	2	ἐθρήνησε	θρηνέω	aorist active indicative, third singular	1	lamented
-2SA 1:17	1	3	Δαυὶδ	Δαυίδ	indeclinable personal name, accusative in context	1	David
+2SA 1:17	1	3	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 2SA 1:17	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 2SA 1:17	1	5	θρῆνον	θρῆνος	noun, accusative masculine singular	1	lament
 2SA 1:17	1	6	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	1	this
@@ -459,7 +459,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 1:19	1	9	σου	σύ	pronoun, possessive genitive second singular	1	your
 2SA 1:19	1	10	τραυματιῶν	τραυματίας	noun, genitive masculine plural	1	of the wounded
 2SA 1:19	1	11	πῶς	πῶς	interrogative adverb	1	how
-2SA 1:19	1	12	ἔπεσαν	πίπτω	aorist active indicative, third plural	1	fell
+2SA 1:19	1	12	ἔπεσαν	πίπτω	aorist active indicative, 3rd pl.	1	fell
 2SA 1:19	1	13	δυνατοί	δυνατός	substantival adjective, nominative masculine plural	1	the mighty
 2SA 1:20	1	1	Μὴ	μή	negative particle	1	not
 2SA 1:20	1	2	ἀναγγείλητε	ἀναγγέλλω	aorist active subjunctive, second plural	1	you disclose
@@ -491,7 +491,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 1:21	1	3	ἐν	ἐν	preposition with the dative	1	in
 2SA 1:21	1	4	Γελβουὲ	Γελβουέ	indeclinable place name, dative in context	1	Gelboue
 2SA 1:21	1	4	Γελβουὲ			2	Gilboa
-2SA 1:21	1	5	μὴ	μή	negative with subjunctive/optative	1	not
+2SA 1:21	1	5	μὴ	μή	negative particle	1	not
 2SA 1:21	1	6	καταβήτω	καταβαίνω	aorist active imperative, third singular	1	let come down
 2SA 1:21	1	7	δρόσος	δρόσος	noun, nominative feminine singular	1	dew
 2SA 1:21	1	8	μηδὲ	μηδέ	conjunction	1	nor
@@ -578,7 +578,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 1:24	1	5	κλαύσατε	κλαίω	aorist active imperative, second plural	1	weep
 2SA 1:24	1	6	τὸν	ὁ	article, accusative masculine singular	1	the one
 2SA 1:24	1	7	ἐνδιδύσκοντα	ἐνδιδύσκω	present active participle, accusative masculine singular	1	who clothed
-2SA 1:24	1	8	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
+2SA 1:24	1	8	ὑμᾶς	σύ	pronoun, accusative second plural	1	you
 2SA 1:24	1	9	κόκκινα	κόκκινος	adjective, accusative neuter plural	1	scarlet garments
 2SA 1:24	1	9	κόκκινα			2	scarlet
 2SA 1:24	1	10	μετὰ	μετά	preposition governing the genitive	1	with
@@ -595,7 +595,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 1:24	1	19	ἐνδύματα			2	garments
 2SA 1:24	1	20	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 2SA 1:25	1	1	Πῶς	πῶς	interrogative adverb	1	how
-2SA 1:25	1	2	ἔπεσαν	πίπτω	aorist active indicative, third plural	1	fell
+2SA 1:25	1	2	ἔπεσαν	πίπτω	aorist active indicative, 3rd pl.	1	fell
 2SA 1:25	1	3	δυνατοὶ	δυνατός	substantival adjective, nominative masculine plural	1	the mighty
 2SA 1:25	1	4	ἐν	ἐν	preposition with the dative	1	in
 2SA 1:25	1	5	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
@@ -613,7 +613,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 1:26	1	1	Ἀλγῶ	ἀλγέω	present active indicative, first singular	1	I grieve
 2SA 1:26	1	2	ἐπὶ	ἐπί	preposition governing the dative	1	for
 2SA 1:26	1	2	ἐπὶ			2	over
-2SA 1:26	1	3	σοὶ	σύ	personal pronoun, dative singular after ἐν	1	you
+2SA 1:26	1	3	σοὶ	σύ	pronoun, dative second singular	1	you
 2SA 1:26	1	4	ἀδελφέ	ἀδελφός	noun, vocative masculine singular	1	brother
 2SA 1:26	1	5	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2SA 1:26	1	6	Ἰωνάθαν	Ἰωνάθαν	indeclinable personal name, nominative in context	1	Jonathan
@@ -639,4 +639,4 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 1:27	1	5	ἀπώλοντο	ἀπόλλυμι	aorist middle indicative, third plural	1	they perished
 2SA 1:27	1	6	σκεύη	σκεῦος	noun, nominative neuter plural	1	weapons
 2SA 1:27	1	6	σκεύη			2	implements
-2SA 1:27	1	7	πολεμικά	πολεμικός	adjective, accusative neut. pl. after τὰ with σκεύη	1	of war
+2SA 1:27	1	7	πολεμικά	πολεμικός	adjective, nominative neuter plural	1	of war

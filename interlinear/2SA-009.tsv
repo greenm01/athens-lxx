@@ -161,7 +161,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 9:6	1	27	ἰδοὺ	ἰδού	presentative particle	1	behold
 2SA 9:6	1	28	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 9:6	1	29	δοῦλός	δοῦλος	noun, nominative masculine singular	1	servant
-2SA 9:6	1	30	σου	σύ	personal pronoun, possessive genitive singular	1	your
+2SA 9:6	1	30	σου	σύ	pronoun, possessive genitive second singular	1	your
 2SA 9:7	1	1	Καὶ	καί	conjunction	1	and
 2SA 9:7	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2SA 9:7	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -171,7 +171,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 9:7	1	6	φοβοῦ			2	fear
 2SA 9:7	1	7	ὅτι	ὅτι	explanatory conjunction	1	for
 2SA 9:7	1	8	ποιῶν	ποιέω	present active participle, nominative masculine singular; cognate participle	1	surely
-2SA 9:7	1	9	ποιήσω	ποιέω	future active indicative, first singular	1	I will do
+2SA 9:7	1	9	ποιήσω	ποιέω	future active indicative, first singular	1	I will show
 2SA 9:7	1	10	ἔλεος	ἔλεος	noun, accusative neuter singular	1	kindness
 2SA 9:7	1	10	ἔλεος			2	mercy
 2SA 9:7	1	11	μετὰ	μετά	preposition with genitive	1	with
@@ -212,13 +212,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 9:8	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 9:8	1	9	δοῦλός	δοῦλος	noun, nominative masculine singular	1	servant
 2SA 9:8	1	10	σου	σύ	pronoun, possessive genitive second singular	1	your
-2SA 9:8	1	11	ὅτι	ὅτι	causal conjunction	1	because
+2SA 9:8	1	11	ὅτι	ὅτι	conjunction	1	that
 2SA 9:8	1	12	ἐπέβλεψας	ἐπιβλέπω	aorist active indicative, second singular	1	you looked upon
 2SA 9:8	1	13	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2SA 9:8	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 2SA 9:8	1	15	κύνα	κύων	noun, accusative masculine singular	1	dog
 2SA 9:8	1	16	τὸν	ὁ	article, accusative masculine singular	1	the
-2SA 9:8	1	17	τεθνηκότα	θνῄσκω	perfect active participle, accusative masc. sg. with ταῦρον	1	dead
+2SA 9:8	1	17	τεθνηκότα	θνῄσκω	perfect active participle, accusative masculine singular	1	dead
 2SA 9:8	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 2SA 9:8	1	19	ὅμοιον	ὅμοιος	adjective, accusative masculine singular	1	like
 2SA 9:8	1	20	ἐμοί	ἐγώ	pronoun, dative first singular	1	me
@@ -282,7 +282,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 9:10	1	27	Μεμφιβοσθαὶ	Μεμφιβοσθαί	indeclinable personal name, nominative in context	1	Memphibosthai
 2SA 9:10	1	27	Μεμφιβοσθαὶ			2	Mephibosheth
 2SA 9:10	1	28	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2SA 9:10	1	29	τοῦ	ὁ	article, genitive masculine singular; with genitive object of φείδομαι	1	the
+2SA 9:10	1	29	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2SA 9:10	1	30	κυρίου	κύριος	noun, genitive masculine singular	1	master
 2SA 9:10	1	31	σου	σύ	pronoun, possessive genitive second singular	1	your
 2SA 9:10	1	32	φάγεται	ἐσθίω	future middle indicative, third singular	1	will eat
@@ -314,8 +314,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 9:11	1	6	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 2SA 9:11	1	7	κατὰ	κατά	preposition with the accusative	1	according to
 2SA 9:11	1	8	πάντα	πᾶς	adjective, accusative neuter plural	1	all
-2SA 9:11	1	9	ὅσα	ὅσος	relative adjective, accusative neuter plural	1	what
-2SA 9:11	1	9	ὅσα			2	all that
+2SA 9:11	1	9	ὅσα	ὅσος	relative pronoun, accusative neut. pl.	1	that
 2SA 9:11	1	10	ἐντέταλται	ἐντέλλομαι	perfect middle/passive indicative, third singular	1	has commanded
 2SA 9:11	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 9:11	1	12	Κύριός	κύριος	noun, nominative masculine singular, master (accentuated as printed)	1	Lord
@@ -356,7 +355,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 9:12	1	9	Μιχὰ	Μιχά	indeclinable personal name, nominative in context	1	Micha
 2SA 9:12	1	9	Μιχὰ			2	Mica
 2SA 9:12	1	10	καὶ	καί	conjunction	1	and
-2SA 9:12	1	11	πᾶσα	πᾶς	adjective, nominative feminine singular with πανοικία	1	all
+2SA 9:12	1	11	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
 2SA 9:12	1	12	ἡ	ὁ	article, nominative feminine singular	1	the
 2SA 9:12	1	13	κατοίκησις	κατοίκησις	noun, nominative feminine singular; collective	1	household
 2SA 9:12	1	13	κατοίκησις			2	dwelling

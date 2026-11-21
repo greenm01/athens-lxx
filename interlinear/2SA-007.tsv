@@ -97,14 +97,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:5	1	10	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 2SA 7:5	1	11	οὐ	μή	interrogative particle	1	will
 2SA 7:5	1	12	σὺ	σύ	pronoun, nominative second singular	1	you
-2SA 7:5	1	13	οἰκοδομήσεις	οἰκοδομέω	future active indicative, 2nd sg. after οὐκ	1	you shall build
-2SA 7:5	1	14	μοι	ἐγώ	pronoun, dative first singular	1	to me
+2SA 7:5	1	13	οἰκοδομήσεις	οἰκοδομέω	future active indicative, second singular	1	you will build
+2SA 7:5	1	14	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 2SA 7:5	1	15	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 2SA 7:5	1	15	οἶκον			2	household
 2SA 7:5	1	16	τοῦ	ὁ	article, genitive neuter singular, introduces the infinitive	1	—
 2SA 7:5	1	17	κατοικῆσαί	κατοικέω	aorist active infinitive	1	to dwell
 2SA 7:5	1	18	με	ἐγώ	pronoun, accusative first singular; subject of the infinitive	1	I
-2SA 7:6	1	1	Ὅτι	ὅτι	declarative conjunction	1	that
+2SA 7:6	1	1	Ὅτι	ὅτι	conjunction	1	that
 2SA 7:6	1	2	οὐ	οὐ	negative particle	1	not
 2SA 7:6	1	3	κατῴκησα	κατοικέω	aorist active indicative, first singular	1	I dwelt
 2SA 7:6	1	4	ἐν	ἐν	preposition with the dative	1	in
@@ -170,7 +170,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:8	1	12	δούλῳ	δοῦλος	noun, dative masculine singular	1	servant
 2SA 7:8	1	13	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 2SA 7:8	1	13	μου			2	of me
-2SA 7:8	1	14	Δαυὶδ	Δαυίδ	indeclinable personal name, accusative in context	1	David
+2SA 7:8	1	14	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 2SA 7:8	1	15	τάδε	ὅδε	demonstrative pronoun, accusative neuter plural, introducing the message 'these things'	1	these things
 2SA 7:8	1	16	λέγει	λέγω	present active indicative, third singular	1	says
 2SA 7:8	1	17	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -231,11 +231,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:10	1	1	Καὶ	καί	conjunction	1	and
 2SA 7:10	1	2	θήσομαι	τίθημι	future middle indicative, first singular	1	I will make
 2SA 7:10	1	2	θήσομαι			2	I will set
-2SA 7:10	1	3	τόπον	τόπος	noun, accusative masculine singular	1	a place
+2SA 7:10	1	3	τόπον	τόπος	noun, accusative masculine singular	1	place
 2SA 7:10	1	4	τῷ	ὁ	article, dative masculine singular	1	for the
 2SA 7:10	1	5	λαῷ	λαός	noun, dative masculine singular	1	people
-2SA 7:10	1	6	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
-2SA 7:10	1	6	μου			2	of me
+2SA 7:10	1	6	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2SA 7:10	1	7	τῷ	ὁ	article, dative neuter singular	1	the
 2SA 7:10	1	8	Ἰσραὴλ	Ἰσραήλ	indeclinable proper name, dative in context	1	Israel
 2SA 7:10	1	9	καὶ	καί	conjunction	1	and
@@ -293,7 +292,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:11	1	25	ὅτι	ὅτι	declarative conjunction	1	that
 2SA 7:11	1	26	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 2SA 7:11	1	26	οἶκον			2	household
-2SA 7:11	1	27	οἰκοδομήσεις	οἰκοδομέω	future active indicative, 2nd sg. after οὐκ	1	you shall build
+2SA 7:11	1	27	οἰκοδομήσεις	οἰκοδομέω	future active indicative, second singular	1	you will build
 2SA 7:11	1	28	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	for him
 2SA 7:12	1	1	Καὶ	καί	conjunction	1	and
 2SA 7:12	1	2	ἔσται	εἰμί	future indicative, third singular	1	will be
@@ -317,14 +316,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:12	1	18	σου	σύ	personal pronoun, possessive genitive singular	1	your
 2SA 7:12	1	18	σου			2	of you
 2SA 7:12	1	19	μετὰ	μετά	preposition with accusative	1	after
-2SA 7:12	1	20	σὲ	σύ	personal pronoun, emphatic accusative singular governed by πρός	1	you
+2SA 7:12	1	20	σὲ	σύ	pronoun, accusative second singular	1	you
 2SA 7:12	1	21	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
 2SA 7:12	1	22	ἔσται	εἰμί	future middle indicative, third singular	1	will be
 2SA 7:12	1	23	ἐκ	ἐκ	preposition with the genitive	1	from
 2SA 7:12	1	24	τῆς	ὁ	article, genitive feminine singular	1	the
 2SA 7:12	1	25	κοιλίας	κοιλία	noun, genitive feminine singular	1	body
 2SA 7:12	1	25	κοιλίας			2	belly
-2SA 7:12	1	26	σου	σύ	personal pronoun, possessive genitive singular	1	your
+2SA 7:12	1	26	σου	σύ	pronoun, genitive 2nd singular	1	your
 2SA 7:12	1	27	καὶ	καί	conjunction	1	and
 2SA 7:12	1	28	ἑτοιμάσω	ἑτοιμάζω	future active indicative, first singular	1	I will establish
 2SA 7:12	1	28	ἑτοιμάσω			2	I will prepare
@@ -397,7 +396,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:15	1	13	ἀπέστησα	ἀφίστημι	aorist active indicative, first singular	1	I removed
 2SA 7:15	1	13	ἀπέστησα			2	I put away
 2SA 7:15	1	14	ἐκ	ἐκ	preposition with the genitive	1	from
-2SA 7:15	1	15	προσώπου	πρόσωπον	noun, genitive neuter singular after ἀπό, in the phrase 'from the face of'	1	the face
+2SA 7:15	1	15	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the presence
+2SA 7:15	1	15	προσώπου			2	the face
 2SA 7:15	1	16	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2SA 7:16	1	1	Καὶ	καί	conjunction	1	and
 2SA 7:16	1	2	πιστωθήσεται	πιστόω	future passive indicative, third singular	1	will be made sure
@@ -485,7 +485,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:19	1	10	ἐλάλησας	λαλέω	aorist active indicative, 2nd sg.	1	you spoke
 2SA 7:19	1	11	ὑπὲρ	περί	preposition governing the genitive	1	about
 2SA 7:19	1	11	ὑπὲρ			2	concerning
-2SA 7:19	1	12	τοῦ	ὁ	article, genitive singular	1	the
+2SA 7:19	1	12	τοῦ	ὁ	article, genitive masculine singular	1	the
 2SA 7:19	1	13	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2SA 7:19	1	13	οἴκου			2	household
 2SA 7:19	1	14	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -612,7 +612,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:23	1	32	ἐκβαλεῖν	ἐκβάλλω	aorist active infinitive	1	to drive out
 2SA 7:23	1	33	σε	σύ	pronoun, accusative 2nd singular	1	you
 2SA 7:23	1	34	ἐκ	ἐκ	preposition with the genitive	1	from
-2SA 7:23	1	35	προσώπου	πρόσωπον	after ἀπό, genitive neuter singular	1	the face
+2SA 7:23	1	35	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the presence
+2SA 7:23	1	35	προσώπου			2	the face
 2SA 7:23	1	36	τοῦ	ὁ	article, genitive singular	1	the
 2SA 7:23	1	37	λαοῦ	λαός	noun, genitive masculine singular	1	people
 2SA 7:23	1	38	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -627,7 +628,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:24	1	1	Καὶ	καί	conjunction	1	and
 2SA 7:24	1	2	ἡτοίμασας	ἑτοιμάζω	aorist active indicative, second singular	1	you established
 2SA 7:24	1	2	ἡτοίμασας			2	you prepared
-2SA 7:24	1	3	σεαυτῷ	σεαυτοῦ	reflexive pronoun, dative masc. sg.	1	for yourself
+2SA 7:24	1	3	σεαυτῷ	σεαυτοῦ	reflexive pronoun, dative masculine singular	1	for yourself
 2SA 7:24	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 2SA 7:24	1	5	λαόν	λαός	noun, accusative masculine singular	1	people
 2SA 7:24	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -694,8 +695,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:26	1	21	Δαυὶδ	Δαυίδ	indeclinable personal name, accusative in context	1	David
 2SA 7:26	1	22	ἔσται	εἰμί	future indicative, third singular	1	will be
 2SA 7:26	1	23	ἀνωρθωμένος	ἀνορθόω	perfect passive participle, nominative masculine singular	1	established
-2SA 7:26	1	24	ἐνώπιόν	ἐνώπιον	preposition with the genitive	1	before
-2SA 7:26	1	24	ἐνώπιόν			2	in the sight of
+2SA 7:26	1	24	ἐνώπιόν	ἐνώπιον	preposition with genitive	1	before/in the sight of
 2SA 7:26	1	25	σου	σύ	pronoun, genitive second singular	1	you
 2SA 7:27	1	1	Ὅτι	ὅτι	causal conjunction	1	because
 2SA 7:27	1	2	σὺ	σύ	pronoun, nominative second singular	1	you
@@ -720,9 +720,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:27	1	21	εὗρεν	εὑρίσκω	aorist active indicative, third singular	1	has found
 2SA 7:27	1	22	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 7:27	1	23	δοῦλός	δοῦλος	noun, nominative masculine singular	1	servant
-2SA 7:27	1	24	σου	σύ	personal pronoun, possessive genitive singular	1	your
+2SA 7:27	1	24	σου	σύ	pronoun, possessive genitive second singular	1	your
 2SA 7:27	1	25	τὴν	ὁ	article, accusative feminine singular	1	the
-2SA 7:27	1	26	καρδίαν	καρδία	noun, accusative feminine singular after εἰς τὴν, idiom 'spoke to their heart'	1	heart
+2SA 7:27	1	26	καρδίαν	καρδία	noun, accusative feminine singular	1	heart
 2SA 7:27	1	27	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	of his own
 2SA 7:27	1	28	τοῦ	ὁ	article, genitive neuter singular, introduces the infinitive	1	—
 2SA 7:27	1	29	προσεύξασθαι	προσεύχομαι	aorist middle infinitive	1	to pray
@@ -742,7 +742,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:28	1	9	Θεὸς	θεός	noun, nominative masculine singular	1	God
 2SA 7:28	1	10	καὶ	καί	conjunction	1	and
 2SA 7:28	1	11	οἱ	ὁ	article, nominative masculine plural	1	the
-2SA 7:28	1	12	λόγοι	λόγος	noun, nominative masc. pl. after οὗτοι οἱ	1	words
+2SA 7:28	1	12	λόγοι	λόγος	noun, nominative masculine plural	1	words
 2SA 7:28	1	13	σου	σύ	pronoun, possessive genitive second singular	1	your
 2SA 7:28	1	14	ἔσονται	εἰμί	future middle indicative, third plural	1	will be
 2SA 7:28	1	15	ἀληθινοὶ	ἀληθινός	adjective, nominative masculine plural	1	true
@@ -753,10 +753,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:28	1	19	τοῦ	ὁ	article, genitive singular	1	the
 2SA 7:28	1	20	δούλου	δοῦλος	noun, genitive masculine singular	1	servant
 2SA 7:28	1	21	σου	σύ	pronoun, possessive genitive second singular	1	your
-2SA 7:28	1	22	τὰ	ὁ	article, accusative neuter plural	1	the
+2SA 7:28	1	22	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 2SA 7:28	1	23	ἀγαθὰ	ἀγαθός	adjective, accusative neuter plural; substantival	1	good things
 2SA 7:28	1	23	ἀγαθὰ			2	benefits
-2SA 7:28	1	24	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
+2SA 7:28	1	24	ταῦτα	οὗτος	demonstrative pronoun, nominative neuter plural	1	these
 2SA 7:29	1	1	Καὶ	καί	conjunction	1	and
 2SA 7:29	1	2	νῦν	νῦν	adverb of time	1	now
 2SA 7:29	1	3	ἄρξαι	ἄρχω	aorist middle imperative, second singular	1	begin
@@ -773,14 +773,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:29	1	13	εἰς	εἰς	preposition with the accusative	1	into
 2SA 7:29	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 2SA 7:29	1	15	αἰῶνα	αἰών	noun, accusative masculine singular	1	age
-2SA 7:29	1	16	ἐνώπιόν	ἐνώπιον	preposition with the genitive	1	before
-2SA 7:29	1	16	ἐνώπιόν			2	in the sight of
+2SA 7:29	1	16	ἐνώπιόν	ἐνώπιον	preposition with genitive	1	before/in the sight of
 2SA 7:29	1	17	σου	σύ	pronoun, genitive second singular	1	you
 2SA 7:29	1	18	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 2SA 7:29	1	19	σὺ	σύ	pronoun, nominative second singular	1	you
 2SA 7:29	1	20	εἶ	εἰμί	present indicative, second singular	1	you are
 2SA 7:29	1	21	Κύριέ	κύριος	noun, vocative masculine singular	1	Lord
-2SA 7:29	1	22	μου	ἐγώ	personal pronoun genitive first singular	1	my
+2SA 7:29	1	22	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2SA 7:29	1	23	Κύριε	κύριος	noun, vocative masculine singular	1	Lord
 2SA 7:29	1	24	ἐλάλησας	λαλέω	aorist active indicative, second singular	1	you spoke
 2SA 7:29	1	25	καὶ	καί	conjunction	1	and
