@@ -90,7 +90,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 6:3	1	20	καὶ	καί	conjunction	1	and
 1ES 6:3	1	21	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
 1ES 6:3	1	22	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
-1ES 6:4	1	1	Τίνος	τίς	interrogative pronoun, genitive singular in ἕως τίνος 'until when/how long'	1	who
+1ES 6:4	1	1	Τίνος	τίς	interrogative pronoun, genitive singular; subject of συντάξαντος	1	who
 1ES 6:4	1	2	ὑμῖν	σύ	personal pronoun, dative second plural	1	for you
 1ES 6:4	1	3	συντάξαντος	συντάσσω	aorist active participle, genitive masculine singular	1	gave orders that
 1ES 6:4	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -250,7 +250,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 6:10	1	3	τῶν	ὁ	article, genitive plural	1	the
 1ES 6:10	1	4	πρεσβυτέρων	πρεσβύτης	noun, genitive masculine plural	1	elders
 1ES 6:10	1	5	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	these
-1ES 6:10	1	6	λέγοντες	λέγω	present active participle, nominative masculine plural, with impersonal passive in sense 'saying'	1	saying
+1ES 6:10	1	6	λέγοντες	λέγω	present active participle, nominative masculine plural	1	saying
 1ES 6:10	1	7	τίνος	τίς	interrogative pronoun, genitive singular	1	who
 1ES 6:10	1	8	ὑμῖν	σύ	pronoun, dative second plural	1	have you to do
 1ES 6:10	1	9	προστάξαντος	προστάσσω	aorist active participle, genitive masculine singular	1	gave orders that
@@ -289,7 +289,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 6:12	1	2	δὲ	δέ	postpositive conjunction	1	and
 1ES 6:12	1	3	ἀπεκρίθησαν	ἀποκρίνομαι	aorist passive indicative, third plural	1	answered
 1ES 6:12	1	4	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
-1ES 6:12	1	5	λέγοντες	λέγω	present active participle, nominative masculine plural, with impersonal passive in sense 'saying'	1	saying
+1ES 6:12	1	5	λέγοντες	λέγω	present active participle, nominative masculine plural	1	saying
 1ES 6:12	1	6	ἡμεῖς	ἐγώ	personal pronoun, nominative plural	1	we
 1ES 6:12	1	7	ἐσμὲν	εἰμί	present indicative, first plural	1	are
 1ES 6:12	1	8	παῖδες	παῖς	noun, nominative masculine plural	1	servants
@@ -766,7 +766,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 6:29	1	20	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 1ES 6:29	1	21	ὑπαγορεύσωσιν	ὑπαγορεύω	aorist active subjunctive, third plural	1	they prescribe
 1ES 6:29	1	22	ἀναλίσκεσθαι	ἀναλίσκω	present passive infinitive	1	to be supplied
-1ES 6:29	1	23	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	by
+1ES 6:29	1	23	καθ᾽	κατά	preposition with accusative in the distributive expression καθ᾽ ἡμέραν	1	each
 1ES 6:29	1	24	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
 1ES 6:29	1	25	ἀναμφισβητήτως	ἀναμφισβήτητος	adverb	1	without dispute
 1ES 6:30	1	1	ὅπως	ὅπως	purpose conjunction	1	so that

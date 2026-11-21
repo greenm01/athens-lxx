@@ -257,13 +257,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:12	1	11	ἀργυρᾶ			2	made of silver
 1ES 2:12	1	12	χίλια	χίλιοι	cardinal numeral, accusative neuter plural	1	a thousand
 1ES 2:12	1	13	θυίσκαι	θυΐσκη	noun, nominative feminine plural	1	incense vessels
-1ES 2:12	1	14	ἀργυραῖ	ἀργυροῦς	adjective, nominative fem. pl. with βάσεις/κεφαλίδες in 26:32 silver	1	of silver
+1ES 2:12	1	14	ἀργυραῖ	ἀργυροῦς	adjective, nominative feminine plural modifying θυΐσκαι	1	silver
 1ES 2:12	1	15	εἰκοσιεννέα	εἰκοσιεννέα	indeclinable compound cardinal numeral	1	twenty-nine
 1ES 2:12	1	16	φιάλαι	φιάλη	noun, nominative feminine plural	1	basins
 1ES 2:12	1	16	φιάλαι			2	bowls
 1ES 2:12	1	17	χρύσεαι	χρύσεος	adjective, nominative feminine plural	1	gold
 1ES 2:12	1	18	τριάκοντα	τριάκοντα	indeclinable cardinal numeral	1	thirty
-1ES 2:12	1	19	ἀργυραῖ	ἀργυροῦς	adjective, nominative fem. pl. with βάσεις/κεφαλίδες in 26:32 silver	1	of silver
+1ES 2:12	1	19	ἀργυραῖ	ἀργυροῦς	adjective, nominative feminine plural with φιάλαι understood	1	silver
 1ES 2:12	1	20	δισχίλιαι	δισχίλιοι	adjective, nominative feminine plural	1	two thousand
 1ES 2:12	1	21	τετρακόσιαι	τετρακόσιοι	cardinal numeral, nominative feminine plural	1	four hundred
 1ES 2:12	1	22	δέκα	δέκα	indeclinable cardinal numeral	1	ten
@@ -393,7 +393,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:17	1	11	Ἰουδαῖοι	Ἰουδαῖος	noun, nominative masculine plural; proper ethnic name	1	Judeans
 1ES 2:17	1	11	Ἰουδαῖοι			2	Jews
 1ES 2:17	1	12	ἀναβάντες	ἀναβαίνω	aorist active participle, nominative masculine plural	1	who went up
-1ES 2:17	1	13	παρ᾽	παρά	preposition, elided with dative αὐτῷ παρ᾽ αὐτῷ 'with him'	1	from
+1ES 2:17	1	13	παρ᾽	παρά	preposition with genitive indicating origin; elided	1	from
 1ES 2:17	1	14	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	you
 1ES 2:17	1	15	πρὸς	πρός	preposition with the accusative	1	to
 1ES 2:17	1	16	ἡμᾶς	ἐγώ	personal pronoun, accusative first plural	1	us
