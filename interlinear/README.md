@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The fourteen passages below have 6,911 indexed words and 8,221 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 17 chapters below have 8,264 indexed words and 9,914 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -15,6 +15,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Genesis 9](GEN-009.tsv) | 573 | 625 |
 | [Genesis 10](GEN-010.tsv) | 456 | 559 |
 | [Genesis 11](GEN-011.tsv) | 599 | 722 |
+| [Genesis 12](GEN-012.tsv) | 434 | 538 |
+| [Genesis 13](GEN-013.tsv) | 396 | 498 |
+| [Genesis 14](GEN-014.tsv) | 523 | 657 |
 | [Psalm 21](PSA-021.tsv) | 451 | 654 |
 | [Psalm 22](PSA-022.tsv) | 103 | 150 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
@@ -43,6 +46,8 @@ In Genesis 11:4 the builders say “let us build for ourselves a city” (*ἑα
 
 The genealogy spells Cainan’s name *Καϊνᾶν* in 11:12–13. The same link between Arphaxad and Sala has *Καϊνᾶμ* in 10:24. In 11:24–25 Nahor lives seventy-nine years before he fathers Thara and another hundred and twenty-nine afterward. In 11:32 Thara’s days amount to two hundred and five years. [Athens I, p. 16](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA16) · [p. 17](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA17) · [p. 18](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA18)
 
+In Genesis 12:5 Abram sets out for *Λαναάν* and arrives in *Χαναάν*. The printer uses both initials on the same line. The interlinear keeps “Lanaan” and “Canaan” in their respective places. In 14:8 the printed *ῇτ* has the letters of the article *τῇ* transposed. Its gloss follows the dative article required by “in the salt valley.” In 14:11, 16 and 21 the recurring *ἵππον* is collective, “horses.” [Athens I, p. 18](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA18) · [p. 21](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA21) · [p. 22](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA22)
+
 Open the release’s `athens.sqlite` in any SQLite reader. This query shows the preferred English for each word in the first verse.
 
 ```sql
@@ -64,7 +69,7 @@ The `verse.text` field preserves the whole line, including punctuation, parenthe
 
 The `printed_passages` view gives the reference, occurrence, first and last word positions, printed page, and a link to the scan. For Greek text the positions include both ends. For a separately printed notice or subscription the position identifies the preceding Greek word. The printed material occupies its own field. In both Sirach notices the Greek numeral mark is transcribed as ʹ.
 
-Thirty-three features have been checked against the scans. Esther’s colophon runs straight on in 10:3. The superscription to Psalm 151 runs into the psalm, but its closing subscription stands apart in two lines of italic Greek. The records also identify printed parentheses in Genesis 1, 3, 4, 7, 8 and 11, Psalm 21 and Isaiah 30. Job’s closing account runs on from the preceding sentence. Psalm 2:10 puts parentheses around *πάντες*. Eight of Sirach’s eleven titles stand on lines of their own. Three run on with the surrounding text (18:30, 20:27 and 23:7). Two Latin notices, after 30:24 and 33:11, point readers to corresponding passages in the Complutensian edition. [Records and page references](print/passages.tsv)
+38 features have been checked against the scans. Esther’s colophon runs straight on in 10:3. The superscription to Psalm 151 runs into the psalm, but its closing subscription stands apart in two lines of italic Greek. The records also identify printed parentheses in Genesis 1, 3, 4, 7, 8, 11 and 14, Psalm 21 and Isaiah 30. Job’s closing account runs on from the preceding sentence. Psalm 2:10 puts parentheses around *πάντες*. Eight of Sirach’s eleven titles stand on lines of their own. Three run on with the surrounding text (18:30, 20:27 and 23:7). Two Latin notices, after 30:24 and 33:11, point readers to corresponding passages in the Complutensian edition. [Records and page references](print/passages.tsv)
 
 ```sql
 SELECT ref, occurrence, first_word, last_word, kind, greek, printed_notice, pages

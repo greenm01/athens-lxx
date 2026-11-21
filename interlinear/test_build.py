@@ -30,21 +30,34 @@ class WordCitations(unittest.TestCase):
             ).fetchone()[0],
             2,
         )
+        expected_coverage = [
+            ("GEN 1", 754),
+            ("GEN 2", 534),
+            ("GEN 3", 587),
+            ("GEN 4", 533),
+            ("GEN 5", 476),
+            ("GEN 6", 507),
+            ("GEN 7", 531),
+            ("GEN 8", 525),
+            ("GEN 9", 573),
+            ("GEN 10", 456),
+            ("GEN 11", 599),
+            ("GEN 12", 434),
+            ("GEN 13", 396),
+            ("GEN 14", 523),
+            ("PSA 21", 451),
+            ("PSA 22", 103),
+            ("PSA 50", 282),
+        ]
         self.assertEqual(
             db.execute(
                 "SELECT substr(ref,1,instr(ref,':')-1) AS passage, count(*), count(english) "
                 "FROM interlinear WHERE (preference=1 OR preference IS NULL) AND "
-                "substr(ref,1,instr(ref,':')-1) IN ('GEN 1','GEN 2','GEN 3','GEN 4','GEN 5','GEN 6','GEN 7','GEN 8','GEN 9','GEN 10','GEN 11','PSA 21','PSA 22','PSA 50') "
-                "GROUP BY passage ORDER BY substr(passage,1,3), CAST(substr(passage,5) AS INTEGER)"
+                "substr(ref,1,instr(ref,':')-1) IN (" + ",".join("?" for _ in expected_coverage) + ") "
+                "GROUP BY passage ORDER BY substr(passage,1,3), CAST(substr(passage,5) AS INTEGER)",
+                [ref for ref, _ in expected_coverage],
             ).fetchall(),
-            [
-                ("GEN 1", 754, 754), ("GEN 2", 534, 534), ("GEN 3", 587, 587),
-                ("GEN 4", 533, 533), ("GEN 5", 476, 476),
-                ("GEN 6", 507, 507), ("GEN 7", 531, 531),
-                ("GEN 8", 525, 525), ("GEN 9", 573, 573),
-                ("GEN 10", 456, 456), ("GEN 11", 599, 599),
-                ("PSA 21", 451, 451), ("PSA 22", 103, 103), ("PSA 50", 282, 282),
-            ],
+            [(ref, words, words) for ref, words in expected_coverage],
         )
         # These nouns were once assigned a verb parse when expanding a shorthand.
         self.assertEqual(
