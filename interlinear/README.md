@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 911 chapters below have 483,458 indexed words and 521,507 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 916 chapters below have 485,680 indexed words and 523,948 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -791,6 +791,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Jeremiah 52](JER-052.tsv) | 859 | 989 |
 | [Lamentations 1](LAM-001.tsv) | 657 | 784 |
 | [Lamentations 2](LAM-002.tsv) | 620 | 743 |
+| [Lamentations 3](LAM-003.tsv) | 640 | 784 |
 | [Ezekiel 1](EZK-001.tsv) | 637 | 637 |
 | [Ezekiel 2](EZK-002.tsv) | 230 | 230 |
 | [Ezekiel 3](EZK-003.tsv) | 667 | 667 |
@@ -889,6 +890,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Tobit 8](TOB-008.tsv) | 364 | 383 |
 | [Tobit 9](TOB-009.tsv) | 93 | 95 |
 | [Tobit 10](TOB-010.tsv) | 301 | 317 |
+| [Tobit 11](TOB-011.tsv) | 327 | 342 |
+| [Tobit 12](TOB-012.tsv) | 399 | 412 |
+| [Tobit 13](TOB-013.tsv) | 423 | 444 |
+| [Tobit 14](TOB-014.tsv) | 433 | 459 |
 | [1 Esdras 1](1ES-001.tsv) | 1238 | 1292 |
 | [1 Esdras 2](1ES-002.tsv) | 677 | 707 |
 | [1 Esdras 3](1ES-003.tsv) | 411 | 432 |
