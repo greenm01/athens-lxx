@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 358 chapters below have 207,713 indexed words and 226,327 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 362 chapters below have 209,698 indexed words and 228,360 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -165,6 +165,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Deuteronomy 6](DEU-006.tsv) | 574 | 574 |
 | [Deuteronomy 7](DEU-007.tsv) | 726 | 726 |
 | [Deuteronomy 8](DEU-008.tsv) | 493 | 493 |
+| [Deuteronomy 9](DEU-009.tsv) | 828 | 828 |
 | [Joshua 1](JOS-001.tsv) | 478 | 498 |
 | [Joshua 2](JOS-002.tsv) | 673 | 700 |
 | [Joshua 3](JOS-003.tsv) | 467 | 484 |
@@ -240,6 +241,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Kingdoms 24](1SA-024.tsv) | 584 | 612 |
 | [1 Kingdoms 25](1SA-025.tsv) | 1222 | 1279 |
 | [1 Kingdoms 26](1SA-026.tsv) | 709 | 736 |
+| [1 Kingdoms 27](1SA-027.tsv) | 340 | 358 |
+| [1 Kingdoms 28](1SA-028.tsv) | 669 | 693 |
 | [2 Kingdoms 1](2SA-001.tsv) | 576 | 641 |
 | [2 Kingdoms 2](2SA-002.tsv) | 810 | 919 |
 | [2 Kingdoms 3](2SA-003.tsv) | 987 | 1134 |
@@ -276,6 +279,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 22](PSA-022.tsv) | 103 | 150 |
 | [Psalm 23](PSA-023.tsv) | 153 | 155 |
 | [Psalm 24](PSA-024.tsv) | 295 | 298 |
+| [Psalm 25](PSA-025.tsv) | 148 | 154 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
