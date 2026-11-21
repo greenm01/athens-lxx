@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 895 chapters below have 477,993 indexed words and 515,756 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 900 chapters below have 479,914 indexed words and 517,739 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -615,6 +615,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 131](PSA-131.tsv) | 232 | 233 |
 | [Psalm 132](PSA-132.tsv) | 59 | 59 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
+| [Psalm 134](PSA-134.tsv) | 275 | 275 |
+| [Psalm 135](PSA-135.tsv) | 345 | 345 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
 | [Proverbs 2](PRO-002.tsv) | 272 | 289 |
 | [Proverbs 3](PRO-003.tsv) | 450 | 474 |
@@ -899,6 +901,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Wisdom of Solomon 9](WIS-009.tsv) | 305 | 319 |
 | [Wisdom of Solomon 10](WIS-010.tsv) | 321 | 347 |
 | [Wisdom of Solomon 11](WIS-011.tsv) | 350 | 367 |
+| [Wisdom of Solomon 12](WIS-012.tsv) | 457 | 478 |
+| [Wisdom of Solomon 13](WIS-013.tsv) | 349 | 365 |
+| [Wisdom of Solomon 14](WIS-014.tsv) | 495 | 520 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
