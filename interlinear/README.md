@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 760 chapters below have 414,178 indexed words and 448,086 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 779 chapters below have 422,364 indexed words and 456,854 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -430,6 +430,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Nehemiah 11](NEH-011.tsv) | 372 | 389 |
 | [Nehemiah 12](NEH-012.tsv) | 609 | 645 |
 | [Nehemiah 13](NEH-013.tsv) | 750 | 783 |
+| [Esther 1](ESG-001.tsv) | 829 | 885 |
 | [Job 1](JOB-001.tsv) | 630 | 649 |
 | [Job 2](JOB-002.tsv) | 424 | 452 |
 | [Job 3](JOB-003.tsv) | 319 | 333 |
@@ -439,6 +440,15 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Job 7](JOB-007.tsv) | 328 | 337 |
 | [Job 8](JOB-008.tsv) | 261 | 273 |
 | [Job 9](JOB-009.tsv) | 409 | 421 |
+| [Job 10](JOB-010.tsv) | 294 | 305 |
+| [Job 11](JOB-011.tsv) | 277 | 291 |
+| [Job 12](JOB-012.tsv) | 266 | 279 |
+| [Job 13](JOB-013.tsv) | 329 | 340 |
+| [Job 14](JOB-014.tsv) | 314 | 324 |
+| [Job 15](JOB-015.tsv) | 420 | 450 |
+| [Job 16](JOB-016.tsv) | 278 | 288 |
+| [Job 17](JOB-017.tsv) | 182 | 189 |
+| [Job 18](JOB-018.tsv) | 238 | 247 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -541,6 +551,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 100](PSA-100.tsv) | 123 | 123 |
 | [Psalm 101](PSA-101.tsv) | 382 | 383 |
 | [Psalm 102](PSA-102.tsv) | 301 | 306 |
+| [Psalm 103](PSA-103.tsv) | 445 | 451 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
@@ -693,10 +704,18 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Jeremiah 31](JER-031.tsv) | 839 | 1019 |
 | [Jeremiah 32](JER-032.tsv) | 566 | 649 |
 | [Jeremiah 33](JER-033.tsv) | 641 | 750 |
+| [Jeremiah 34](JER-034.tsv) | 625 | 719 |
+| [Jeremiah 35](JER-035.tsv) | 418 | 486 |
+| [Jeremiah 36](JER-036.tsv) | 784 | 909 |
+| [Jeremiah 37](JER-037.tsv) | 538 | 656 |
 | [Ezekiel 1](EZK-001.tsv) | 637 | 637 |
 | [Ezekiel 2](EZK-002.tsv) | 230 | 230 |
 | [Ezekiel 3](EZK-003.tsv) | 667 | 667 |
 | [Ezekiel 4](EZK-004.tsv) | 435 | 435 |
+| [Ezekiel 5](EZK-005.tsv) | 481 | 481 |
+| [Ezekiel 6](EZK-006.tsv) | 367 | 367 |
+| [Ezekiel 7](EZK-007.tsv) | 590 | 590 |
+| [Ezekiel 8](EZK-008.tsv) | 511 | 511 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
