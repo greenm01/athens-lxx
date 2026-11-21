@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 20 chapters below have 9,568 indexed words and 11,433 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 26 chapters below have 13,212 indexed words and 15,393 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -21,6 +21,12 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Genesis 15](GEN-015.tsv) | 365 | 428 |
 | [Genesis 16](GEN-016.tsv) | 355 | 426 |
 | [Genesis 17](GEN-017.tsv) | 584 | 665 |
+| [Genesis 18](GEN-018.tsv) | 651 | 694 |
+| [Genesis 19](GEN-019.tsv) | 917 | 992 |
+| [Genesis 20](GEN-020.tsv) | 427 | 471 |
+| [Genesis 21](GEN-021.tsv) | 669 | 734 |
+| [Genesis 22](GEN-022.tsv) | 546 | 603 |
+| [Genesis 23](GEN-023.tsv) | 434 | 466 |
 | [Psalm 21](PSA-021.tsv) | 451 | 654 |
 | [Psalm 22](PSA-022.tsv) | 103 | 150 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
@@ -74,7 +80,7 @@ The `verse.text` field preserves the whole line, including punctuation, parenthe
 
 The `printed_passages` view gives the reference, occurrence, first and last word positions, printed page, and a link to the scan. For Greek text the positions include both ends. For a separately printed notice or subscription the position identifies the preceding Greek word. The printed material occupies its own field. In both Sirach notices the Greek numeral mark is transcribed as ʹ.
 
-39 features have been checked against the scans. Esther’s colophon runs straight on in 10:3. The superscription to Psalm 151 runs into the psalm, but its closing subscription stands apart in two lines of italic Greek. The records also identify printed parentheses in Genesis 1, 3, 4, 7, 8, 11, 14 and 15, Psalm 21 and Isaiah 30. Job’s closing account runs on from the preceding sentence. Psalm 2:10 puts parentheses around *πάντες*. Eight of Sirach’s eleven titles stand on lines of their own. Three run on with the surrounding text (18:30, 20:27 and 23:7). Two Latin notices, after 30:24 and 33:11, point readers to corresponding passages in the Complutensian edition. [Records and page references](print/passages.tsv)
+50 features have been checked against the scans. Esther’s colophon runs straight on in 10:3. The superscription to Psalm 151 runs into the psalm, but its closing subscription stands apart in two lines of italic Greek. The records also identify printed parentheses in Genesis 1, 3, 4, 7, 8, 11, 14, 15, 18, 19, 20, 21, 22 and 23, Psalm 21 and Isaiah 30. Job’s closing account runs on from the preceding sentence. Psalm 2:10 puts parentheses around *πάντες*. Eight of Sirach’s eleven titles stand on lines of their own. Three run on with the surrounding text (18:30, 20:27 and 23:7). Two Latin notices, after 30:24 and 33:11, point readers to corresponding passages in the Complutensian edition. [Records and page references](print/passages.tsv)
 
 ```sql
 SELECT ref, occurrence, first_word, last_word, kind, greek, printed_notice, pages
