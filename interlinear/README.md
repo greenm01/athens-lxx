@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 574 chapters below have 326,566 indexed words and 354,770 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 581 chapters below have 330,531 indexed words and 359,038 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -376,6 +376,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [2 Chronicles 16](2CH-016.tsv) | 391 | 413 |
 | [2 Chronicles 17](2CH-017.tsv) | 381 | 426 |
 | [2 Chronicles 18](2CH-018.tsv) | 811 | 890 |
+| [2 Chronicles 19](2CH-019.tsv) | 291 | 319 |
+| [2 Chronicles 20](2CH-020.tsv) | 912 | 992 |
+| [2 Chronicles 21](2CH-021.tsv) | 510 | 536 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -443,8 +446,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 65](PSA-065.tsv) | 271 | 271 |
 | [Psalm 66](PSA-066.tsv) | 95 | 95 |
 | [Psalm 67](PSA-067.tsv) | 529 | 529 |
+| [Psalm 68](PSA-068.tsv) | 552 | 552 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
+| [Proverbs 1](PRO-001.tsv) | 426 | 448 |
 | [Isaiah 1](ISA-001.tsv) | 599 | 749 |
 | [Isaiah 2](ISA-002.tsv) | 457 | 551 |
 | [Isaiah 3](ISA-003.tsv) | 503 | 616 |
@@ -511,6 +516,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Isaiah 64](ISA-064.tsv) | 231 | 261 |
 | [Isaiah 65](ISA-065.tsv) | 625 | 689 |
 | [Isaiah 66](ISA-066.tsv) | 623 | 706 |
+| [Jeremiah 1](JER-001.tsv) | 427 | 471 |
+| [Jeremiah 2](JER-002.tsv) | 847 | 950 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
