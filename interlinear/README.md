@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The eight passages below have 3,720 indexed words and 4,572 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The twelve passages below have 5,856 indexed words and 6,940 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -9,6 +9,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Genesis 3](GEN-003.tsv) | 587 | 653 |
 | [Genesis 4](GEN-004.tsv) | 533 | 628 |
 | [Genesis 5](GEN-005.tsv) | 476 | 527 |
+| [Genesis 6](GEN-006.tsv) | 507 | 574 |
+| [Genesis 7](GEN-007.tsv) | 531 | 575 |
+| [Genesis 8](GEN-008.tsv) | 525 | 594 |
+| [Genesis 9](GEN-009.tsv) | 573 | 625 |
 | [Psalm 21](PSA-021.tsv) | 451 | 654 |
 | [Psalm 22](PSA-022.tsv) | 103 | 150 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
@@ -26,6 +30,10 @@ Genesis 4:7 asks whether Cain has sinned if he offers rightly but divides wrongl
 At 4:15 *παραλύσει* is active. The one who kills Cain “will release” seven acts of vengeance. The alternative “will bring to an end” reflects a reading known to Basil of Caesarea. Basil understood Cain’s death to discharge his sentence and recorded more than one interpretation of the seven. [Athens I, p. 7](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA7) · [Basil, Letter 260, §§2–3](https://www.newadvent.org/fathers/3202260.htm)
 
 In Genesis 5:11 the printer sets *πέντη* for “five.” At 5:22 and 5:24 Enoch twice “pleased God.” In 5:25–27 the ages printed for Mathousala are 187 years before Lamech’s birth and 782 afterward, for a total of 969. [Athens I, p. 8](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA8) · [Athens I, p. 9](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA9)
+
+Athens calls the figures in Genesis 6:2 “angels of God” and those in 6:4 “sons of God.” In 6:3 the accusative *αὐτούς* is the subject of the infinitive in “because they are flesh.” The ark in 6:15 measures three hundred cubits in length, fifty in breadth and thirty in height. [Athens I, p. 9](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA9) · [p. 10](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA10)
+
+The dates in 7:11 and 8:4 both give the twenty-seventh day, first of the second month and then of the seventh. Genesis 8:14–15 divides one date between two verses. In 8:7 the raven “did not return until the water dried up from the earth.” The purpose of sending it appears in parentheses in 8:6. In 9:6 *αἷμα* occurs twice in the same form. The first is the blood someone sheds. The second is the subject of “will be shed.” Muse independently checked the clauses in 6:3, 8:7 and 9:6. [Athens I, p. 11](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA11) · [p. 12](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA12) · [p. 13](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA13) · [p. 14](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA14)
 
 Open the release’s `athens.sqlite` in any SQLite reader. This query shows the preferred English for each word in the first verse.
 
@@ -48,7 +56,7 @@ The `verse.text` field preserves the whole line, including punctuation, parenthe
 
 The `printed_passages` view gives the reference, occurrence, first and last word positions, printed page, and a link to the scan. For Greek text the positions include both ends. For a separately printed notice or subscription the position identifies the preceding Greek word. The printed material occupies its own field. In both Sirach notices the Greek numeral mark is transcribed as ʹ.
 
-Twenty-eight features have been checked against the scans. Esther’s colophon runs straight on in 10:3. The superscription to Psalm 151 runs into the psalm, but its closing subscription stands apart in two lines of italic Greek. The records also identify printed parentheses in Genesis 1, Psalm 21 and Isaiah 30. Job’s closing account runs on from the preceding sentence. Psalm 2:10 puts parentheses around *πάντες*. Eight of Sirach’s eleven titles stand on lines of their own. Three run on with the surrounding text (18:30, 20:27 and 23:7). Two Latin notices, after 30:24 and 33:11, point readers to corresponding passages in the Complutensian edition. [Records and page references](print/passages.tsv)
+Thirty-two features have been checked against the scans. Esther’s colophon runs straight on in 10:3. The superscription to Psalm 151 runs into the psalm, but its closing subscription stands apart in two lines of italic Greek. The records also identify printed parentheses in Genesis 1, 3, 4, 7 and 8, Psalm 21 and Isaiah 30. Job’s closing account runs on from the preceding sentence. Psalm 2:10 puts parentheses around *πάντες*. Eight of Sirach’s eleven titles stand on lines of their own. Three run on with the surrounding text (18:30, 20:27 and 23:7). Two Latin notices, after 30:24 and 33:11, point readers to corresponding passages in the Complutensian edition. [Records and page references](print/passages.tsv)
 
 ```sql
 SELECT ref, occurrence, first_word, last_word, kind, greek, printed_notice, pages
