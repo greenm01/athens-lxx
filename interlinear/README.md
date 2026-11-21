@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 985 chapters below have 514,060 indexed words and 554,750 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 991 chapters below have 515,663 indexed words and 556,430 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -640,6 +640,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Odes 5](ODA-005.tsv) | 142 | 184 |
 | [Odes 6](ODA-006.tsv) | 374 | 471 |
 | [Odes 7](ODA-007.tsv) | 224 | 264 |
+| [Odes 11](ODA-011.tsv) | 104 | 104 |
+| [Odes 12](ODA-012.tsv) | 38 | 38 |
+| [Odes 13](ODA-013.tsv) | 145 | 146 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
 | [Proverbs 2](PRO-002.tsv) | 272 | 289 |
 | [Proverbs 3](PRO-003.tsv) | 450 | 474 |
@@ -989,6 +992,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Sirach 18](SIR-018.tsv) | 410 | 437 |
 | [Sirach 19](SIR-019.tsv) | 362 | 382 |
 | [Sirach 20](SIR-020.tsv) | 396 | 415 |
+| [Sirach 21](SIR-021.tsv) | 351 | 372 |
+| [Sirach 22](SIR-022.tsv) | 435 | 460 |
+| [Sirach 23](SIR-023.tsv) | 530 | 560 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
