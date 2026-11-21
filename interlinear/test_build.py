@@ -48,6 +48,7 @@ class WordCitations(unittest.TestCase):
             ("1SA 15", 838),
             ("1SA 16", 571),
             ("1SA 17", 1503),
+            ("1SA 18", 696),
             ("2SA 1", 576),
             ("2SA 2", 810),
             ("2SA 3", 987),

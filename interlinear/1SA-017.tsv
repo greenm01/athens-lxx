@@ -911,7 +911,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 17:36	1	40	ζῶντος	ζάω	present active participle, genitive masculine singular	1	living
 1SA 17:37	1	1	Καὶ	καί	conjunction	1	and
 1SA 17:37	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
-1SA 17:37	1	3	Δαβὶδ	Δαβίδ	indeclinable personal name, nominative in context	1	David
+1SA 17:37	1	3	Δαβὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 1SA 17:37	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 1SA 17:37	1	5	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
 1SA 17:37	1	6	ἐξείλατό	ἐξαιρέω	aorist middle indicative, 3rd sg.	1	delivered
@@ -1166,7 +1166,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 17:45	1	23	ἐν	ἐν	preposition with the dative	1	in
 1SA 17:45	1	24	ὀνόματι	ὄνομα	noun, dative neuter singular	1	the name
 1SA 17:45	1	25	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-1SA 17:45	1	26	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew epithet used with κύριος	1	Sabaoth
+1SA 17:45	1	26	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	Sabaoth
+1SA 17:45	1	26	Σαβαὼθ			2	hosts
 1SA 17:45	1	27	Θεοῦ	θεός	noun, genitive masculine singular, in apposition	1	God
 1SA 17:45	1	28	παρατάξεως	παράταξις	noun, genitive feminine singular	1	of the battle line
 1SA 17:45	1	29	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
