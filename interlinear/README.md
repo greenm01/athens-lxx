@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 751 chapters below have 409,851 indexed words and 443,508 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 760 chapters below have 414,178 indexed words and 448,086 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -426,12 +426,19 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Nehemiah 7](NEH-007.tsv) | 712 | 738 |
 | [Nehemiah 8](NEH-008.tsv) | 544 | 568 |
 | [Nehemiah 9](NEH-009.tsv) | 1122 | 1189 |
+| [Nehemiah 10](NEH-010.tsv) | 522 | 545 |
+| [Nehemiah 11](NEH-011.tsv) | 372 | 389 |
+| [Nehemiah 12](NEH-012.tsv) | 609 | 645 |
+| [Nehemiah 13](NEH-013.tsv) | 750 | 783 |
 | [Job 1](JOB-001.tsv) | 630 | 649 |
 | [Job 2](JOB-002.tsv) | 424 | 452 |
 | [Job 3](JOB-003.tsv) | 319 | 333 |
 | [Job 4](JOB-004.tsv) | 278 | 284 |
 | [Job 5](JOB-005.tsv) | 380 | 391 |
 | [Job 6](JOB-006.tsv) | 387 | 408 |
+| [Job 7](JOB-007.tsv) | 328 | 337 |
+| [Job 8](JOB-008.tsv) | 261 | 273 |
+| [Job 9](JOB-009.tsv) | 409 | 421 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -685,9 +692,11 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Jeremiah 30](JER-030.tsv) | 381 | 467 |
 | [Jeremiah 31](JER-031.tsv) | 839 | 1019 |
 | [Jeremiah 32](JER-032.tsv) | 566 | 649 |
+| [Jeremiah 33](JER-033.tsv) | 641 | 750 |
 | [Ezekiel 1](EZK-001.tsv) | 637 | 637 |
 | [Ezekiel 2](EZK-002.tsv) | 230 | 230 |
 | [Ezekiel 3](EZK-003.tsv) | 667 | 667 |
+| [Ezekiel 4](EZK-004.tsv) | 435 | 435 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
