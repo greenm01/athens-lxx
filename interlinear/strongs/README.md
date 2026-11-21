@@ -6,9 +6,9 @@ The SQLite database stores one optional decimal-text Strong’s identifier per A
 
 | Review state | Lemmas | Word positions |
 | --- | ---: | ---: |
-| Assigned | 4,030 | 558,597 |
-| Pending | 7,406 | 19,108 |
-| Reviewed without a number | 3,367 | 22,792 |
+| Assigned | 4,080 | 558,759 |
+| Pending | 7,321 | 18,805 |
+| Reviewed without a number | 3,402 | 22,933 |
 
 Lemma counts can overlap when different occurrences of a lemma have different outcomes. For example, Λίβανος receives G3030 in the four passages where it denotes frankincense. Its place-name occurrences are recorded without that identifier.
 
@@ -29,3 +29,5 @@ The existing [Berean planning data](../planning/) supplies additional spelling-b
 Three additional entries are attested in Maurice Robinson’s public-domain tagged texts. G1275 occurs as διαπαντός in the [Received Text distribution](https://github.com/byztxt/greektext-textus-receptus/tree/7fd4d02c3e5adebd379ebfbc824040820dde10fc). G1302 and G2444 occur as διατί and ἱνατί in the [Antoniades distribution](https://github.com/byztxt/greektext-antoniades/tree/0ed3c1fe2eb5e983a4729e255429a141dabf11ca). The inventory uses the accented Athens spellings.
 
 For first- and second-person plural personal pronouns, Athens follows the RP2026 tagged text’s lemma-level convention of G1473 and G4771 across cases. The Greek surface, lemma, and grammatical analysis preserve number and case. Strong’s historical concordance also lists separate plural forms, including G2249 and G5210.
+
+The [same Received Text distribution](https://github.com/byztxt/greektext-textus-receptus/tree/7fd4d02c3e5adebd379ebfbc824040820dde10fc/parsed) attests G1002 in Hebrews, G3390 in the subscription to 1 Timothy, G3720 in Revelation, and G3872 in 1 and 2 Timothy. The inventory records the corresponding accented Athens headwords.
