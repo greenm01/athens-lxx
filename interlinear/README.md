@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 995 chapters below have 518,615 indexed words and 559,656 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 1000 chapters below have 521,446 indexed words and 562,830 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -640,6 +640,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Odes 5](ODA-005.tsv) | 142 | 184 |
 | [Odes 6](ODA-006.tsv) | 374 | 471 |
 | [Odes 7](ODA-007.tsv) | 224 | 264 |
+| [Odes 8](ODA-008.tsv) | 343 | 343 |
 | [Odes 11](ODA-011.tsv) | 104 | 104 |
 | [Odes 12](ODA-012.tsv) | 38 | 38 |
 | [Odes 13](ODA-013.tsv) | 145 | 146 |
@@ -842,6 +843,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Ezekiel 22](EZK-022.tsv) | 657 | 657 |
 | [Susanna 1](SUS-001.tsv) | 1134 | 1376 |
 | [Daniel 1](DAG-001.tsv) | 504 | 603 |
+| [Daniel 2](DAG-002.tsv) | 1263 | 1534 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
@@ -999,6 +1001,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Sirach 21](SIR-021.tsv) | 351 | 372 |
 | [Sirach 22](SIR-022.tsv) | 435 | 460 |
 | [Sirach 23](SIR-023.tsv) | 530 | 560 |
+| [Sirach 24](SIR-024.tsv) | 483 | 510 |
+| [Sirach 25](SIR-025.tsv) | 343 | 368 |
+| [Sirach 26](SIR-026.tsv) | 399 | 419 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
