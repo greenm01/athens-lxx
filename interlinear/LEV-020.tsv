@@ -33,7 +33,7 @@ LEV 20:2	1	25	σπέρματος	σπέρμα	noun, genitive neuter singular	1	s
 LEV 20:2	1	25	σπέρματος			2	offspring
 LEV 20:2	1	26	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 LEV 20:2	1	27	ἄρχοντι	ἄρχω	noun, dative masculine singular	1	to a ruler
-LEV 20:2	1	28	θανάτῳ	θάνατος	noun, dative masculine singular; cognate dative with ἀποθανεῖσθε	1	by death
+LEV 20:2	1	28	θανάτῳ	θάνατος	noun dative masculine singular	1	by death
 LEV 20:2	1	29	θανατούσθω	θανατόω	present passive imperative, third singular	1	let him be put to death
 LEV 20:2	1	30	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 20:2	1	31	ἔθνος	ἔθνος	noun, nominative neuter singular	1	nation
@@ -213,7 +213,7 @@ LEV 20:9	1	9	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 20:9	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 20:9	1	11	μητέρα	μήτηρ	noun, accusative feminine singular	1	mother
 LEV 20:9	1	12	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-LEV 20:9	1	13	θανάτῳ	θάνατος	noun, dative masculine singular; cognate dative with ἀποθανεῖσθε	1	by death
+LEV 20:9	1	13	θανάτῳ	θάνατος	noun dative masculine singular	1	by death
 LEV 20:9	1	14	θανατούσθω	θανατόω	present passive imperative, third singular	1	let him be put to death
 LEV 20:9	1	15	πατέρα	πατήρ	noun, accusative masculine singular after πρός/accusative from context	1	father
 LEV 20:9	1	16	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -241,7 +241,7 @@ LEV 20:10	1	12	γυναῖκα	γυνή	noun, accusative feminine singular	1	a w
 LEV 20:10	1	13	τοῦ	ὁ	article, genitive singular	1	the
 LEV 20:10	1	14	πλησίον	πλησίον	adverb/noun, genitive after παρὰ τοῦ/τῆς 'neighbour'	1	neighbour
 LEV 20:10	1	15	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
-LEV 20:10	1	16	θανάτῳ	θάνατος	noun, dative masculine singular; cognate dative with ἀποθανεῖσθε	1	by death
+LEV 20:10	1	16	θανάτῳ	θάνατος	noun dative masculine singular	1	by death
 LEV 20:10	1	17	θανατούσθωσαν	θανατόω	present passive imperative, third plural	1	let them be put to death
 LEV 20:10	1	18	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 20:10	1	19	μοιχεύων	μοιχεύω	present active participle, nominative masculine singular	1	committing adultery
@@ -263,7 +263,7 @@ LEV 20:11	1	12	πατρὸς	πατήρ	noun, genitive masculine singular	1	fath
 LEV 20:11	1	13	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 20:11	1	14	ἀπεκάλυψε	ἀποκαλύπτω	aorist active indicative, third singular	1	uncovered
 LEV 20:11	1	14	ἀπεκάλυψε			2	removed the covering of
-LEV 20:11	1	15	θανάτῳ	θάνατος	noun, dative masculine singular; cognate dative with ἀποθανεῖσθε	1	by death
+LEV 20:11	1	15	θανάτῳ	θάνατος	noun dative masculine singular	1	by death
 LEV 20:11	1	16	θανατούσθωσαν	θανατόω	present passive imperative, third plural	1	let them be put to death
 LEV 20:11	1	17	ἀμφότεροι	ἀμφότερος	adjective, nominative masculine plural	1	both
 LEV 20:11	1	18	ἔνοχοί	ἔνοχος	adjective, nominative masculine plural	1	liable
@@ -275,7 +275,7 @@ LEV 20:12	1	4	κοιμηθῇ	κοιμάομαι	aorist passive subjunctive, thi
 LEV 20:12	1	5	μετὰ	μετά	preposition with genitive	1	with
 LEV 20:12	1	6	νύμφης	νύμφη	noun, genitive feminine singular	1	of a daughter-in-law
 LEV 20:12	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-LEV 20:12	1	8	θανάτῳ	θάνατος	noun, dative masculine singular; cognate dative with ἀποθανεῖσθε	1	by death
+LEV 20:12	1	8	θανάτῳ	θάνατος	noun dative masculine singular	1	by death
 LEV 20:12	1	9	θανατούσθωσαν	θανατόω	present passive imperative, third plural	1	let them be put to death
 LEV 20:12	1	10	ἀμφότεροι	ἀμφότερος	adjective, nominative masculine plural	1	both
 LEV 20:12	1	11	ἠσεβήκασι	ἀσεβέω	perfect active indicative, third plural	1	have committed impiety
@@ -293,7 +293,7 @@ LEV 20:13	1	8	γυναικὸς	γυνή	noun, genitive feminine singular	1	with
 LEV 20:13	1	9	βδέλυγμα	βδέλυγμα	noun, nominative neuter singular	1	an abomination
 LEV 20:13	1	10	ἐποίησαν	ποιέω	aorist active indicative, third person plural	1	they did
 LEV 20:13	1	11	ἀμφότεροι	ἀμφότερος	adjective, nominative masculine plural	1	both
-LEV 20:13	1	12	θανάτῳ	θάνατος	noun, dative masculine singular; cognate dative with ἀποθανεῖσθε	1	by death
+LEV 20:13	1	12	θανάτῳ	θάνατος	noun dative masculine singular	1	by death
 LEV 20:13	1	13	θανατούσθωσαν	θανατόω	present passive imperative, third plural	1	let them be put to death
 LEV 20:13	1	14	ἔνοχοί	ἔνοχος	adjective, nominative masculine plural	1	liable
 LEV 20:13	1	15	εἰσιν	εἰμί	present indicative, third plural	1	are
@@ -328,7 +328,7 @@ LEV 20:15	1	5	κοιτασίαν	κοιτασία	noun, accusative feminine sing
 LEV 20:15	1	6	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 20:15	1	7	ἐν	ἐν	preposition with the dative	1	in
 LEV 20:15	1	8	τετράποδι	τετράπους	substantival adjective, dative neuter singular	1	four-footed animal
-LEV 20:15	1	9	θανάτῳ	θάνατος	noun, dative masculine singular; cognate dative with ἀποθανεῖσθε	1	by death
+LEV 20:15	1	9	θανάτῳ	θάνατος	noun dative masculine singular	1	by death
 LEV 20:15	1	10	θανατούσθω	θανατόω	present passive imperative, third singular	1	let him be put to death
 LEV 20:15	1	11	καὶ	καί	conjunction	1	and
 LEV 20:15	1	12	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -353,7 +353,7 @@ LEV 20:16	1	15	γυναῖκα	γυνή	noun, accusative feminine singular	1	wom
 LEV 20:16	1	16	καὶ	καί	conjunction	1	and
 LEV 20:16	1	17	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 20:16	1	18	κτῆνος	κτῆνος	noun, accusative neuter singular	1	animal
-LEV 20:16	1	19	θανάτῳ	θάνατος	noun, dative masculine singular; cognate dative with ἀποθανεῖσθε	1	by death
+LEV 20:16	1	19	θανάτῳ	θάνατος	noun dative masculine singular	1	by death
 LEV 20:16	1	20	θανατούσθωσαν	θανατόω	present passive imperative, third plural	1	let them be put to death
 LEV 20:16	1	21	ἔνοχοί	ἔνοχος	adjective, nominative masculine plural	1	liable
 LEV 20:16	1	22	εἰσιν	εἰμί	present indicative, third plural	1	are
@@ -654,7 +654,7 @@ LEV 20:27	1	8	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	amon
 LEV 20:27	1	9	ἐγγαστρίμυθος	ἐγγαστρίμυθος	noun, nominative masculine singular	1	a medium
 LEV 20:27	1	10	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 20:27	1	11	ἐπαοιδὸς	ἐπαοιδός	noun, nominative masculine singular	1	a spellcaster
-LEV 20:27	1	12	θανάτῳ	θάνατος	noun, dative masculine singular; cognate dative with ἀποθανεῖσθε	1	by death
+LEV 20:27	1	12	θανάτῳ	θάνατος	noun dative masculine singular	1	by death
 LEV 20:27	1	13	θανατούσθωσαν	θανατόω	present passive imperative, third plural	1	let them be put to death
 LEV 20:27	1	14	ἀμφότεροι	ἀμφότερος	adjective, nominative masculine plural	1	both
 LEV 20:27	1	15	λίθοις	λίθος	noun, dative masculine plural	1	stones
