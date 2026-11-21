@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 729 chapters below have 399,499 indexed words and 432,477 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 734 chapters below have 401,177 indexed words and 434,349 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -189,6 +189,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Deuteronomy 30](DEU-030.tsv) | 622 | 622 |
 | [Deuteronomy 31](DEU-031.tsv) | 901 | 901 |
 | [Deuteronomy 32](DEU-032.tsv) | 1011 | 1011 |
+| [Deuteronomy 33](DEU-033.tsv) | 561 | 561 |
 | [Joshua 1](JOS-001.tsv) | 478 | 498 |
 | [Joshua 2](JOS-002.tsv) | 673 | 700 |
 | [Joshua 3](JOS-003.tsv) | 467 | 484 |
@@ -519,6 +520,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 96](PSA-096.tsv) | 164 | 164 |
 | [Psalm 97](PSA-097.tsv) | 134 | 134 |
 | [Psalm 98](PSA-098.tsv) | 145 | 145 |
+| [Psalm 99](PSA-099.tsv) | 78 | 78 |
+| [Psalm 100](PSA-100.tsv) | 123 | 123 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
@@ -666,6 +669,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Jeremiah 26](JER-026.tsv) | 650 | 730 |
 | [Jeremiah 27](JER-027.tsv) | 1084 | 1276 |
 | [Jeremiah 28](JER-028.tsv) | 1381 | 1677 |
+| [Jeremiah 29](JER-029.tsv) | 535 | 643 |
+| [Jeremiah 30](JER-030.tsv) | 381 | 467 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
