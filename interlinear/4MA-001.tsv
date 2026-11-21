@@ -1,0 +1,914 @@
+ref	occurrence	position	surface	lemma	grammar	preference	english
+4MA 1:1	1	1	ΦΙΛΟΣΟΦΩΤΑΤΟΝ	φιλόσοφος	adjective, accusative masculine singular; superlative	1	most philosophical
+4MA 1:1	1	2	λόγον	λόγος	noun, accusative masculine singular	1	discourse
+4MA 1:1	1	2	λόγον			2	argument
+4MA 1:1	1	3	ἐπιδείκνυσθαι	ἐπιδείκνυμι	present middle infinitive	1	to present
+4MA 1:1	1	3	ἐπιδείκνυσθαι			2	to demonstrate
+4MA 1:1	1	4	μέλλων	μέλλω	present active participle, nominative masculine singular	1	about
+4MA 1:1	1	4	μέλλων			2	intending
+4MA 1:1	1	5	εἰ	εἰ	Interrogative particle	1	whether
+4MA 1:1	1	6	αὐτοδέσποτός	αὐτοδέσποτος	adjective, nominative masculine singular; spelling variant in 1:30	1	absolute master
+4MA 1:1	1	6	αὐτοδέσποτός			2	sovereign
+4MA 1:1	1	7	ἐστι	εἰμί	present indicative, third singular	1	is
+4MA 1:1	1	8	τῶν	ὁ	article, genitive neuter plural	1	the
+4MA 1:1	1	9	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:1	1	9	παθῶν			2	emotions
+4MA 1:1	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:1	1	11	εὐσεβὴς	εὐσεβής	adjective, nominative masculine singular	1	devout
+4MA 1:1	1	11	εὐσεβὴς			2	godly
+4MA 1:1	1	12	λογισμός	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:1	1	12	λογισμός			2	reasoning
+4MA 1:1	1	13	συμβουλεύσαιμ᾽	συμβουλεύω	aorist active optative, first singular; potential optative with ἄν	1	I would advise
+4MA 1:1	1	13	συμβουλεύσαιμ᾽			2	I might counsel
+4MA 1:1	1	14	ἂν	ἄν	Modal particle with potential optative	1	—
+4MA 1:1	1	15	ὑμῖν	σύ	pronoun, dative second plural	1	to you
+4MA 1:1	1	16	ὀρθῶς	ὀρθῶς	adverb	1	rightly
+4MA 1:1	1	17	ὅπως	ὅπως	conjunction of purpose with the subjunctive	1	so that
+4MA 1:1	1	17	ὅπως			2	in order that
+4MA 1:1	1	18	προθύμως	προθύμως	adverb	1	eagerly
+4MA 1:1	1	18	προθύμως			2	willingly
+4MA 1:1	1	19	προσέχητε	προσέχω	present active subjunctive, second plural	1	you attend
+4MA 1:1	1	19	προσέχητε			2	you pay attention
+4MA 1:1	1	20	τῇ	ὁ	article, dative feminine singular	1	the
+4MA 1:1	1	21	φιλοσοφίᾳ	φιλοσοφία	noun, dative feminine singular	1	philosophy
+4MA 1:2	1	1	Καὶ	καί	conjunction	1	and
+4MA 1:2	1	2	γὰρ	γάρ	conjunction	1	for
+4MA 1:2	1	3	ἀναγκαῖος	ἀναγκαῖος	adjective, nominative masculine singular	1	necessary
+4MA 1:2	1	4	εἰς	εἰς	Preposition with accusative	1	for
+4MA 1:2	1	5	ἐπιστήμην	ἐπιστήμη	noun, accusative feminine singular	1	knowledge
+4MA 1:2	1	5	ἐπιστήμην			2	understanding
+4MA 1:2	1	6	παντὶ	πᾶς	adjective, dative masculine singular; used substantivally	1	for everyone
+4MA 1:2	1	6	παντὶ			2	for all
+4MA 1:2	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:2	1	8	λόγος	λόγος	noun, nominative masculine singular	1	discourse
+4MA 1:2	1	8	λόγος			2	argument
+4MA 1:2	1	9	καὶ	καί	conjunction	1	and
+4MA 1:2	1	10	ἄλλως	ἄλλως	adverb	1	besides
+4MA 1:2	1	10	ἄλλως			2	otherwise
+4MA 1:2	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:2	1	12	μεγίστης	μέγας	adjective, genitive feminine singular; superlative	1	greatest
+4MA 1:2	1	13	ἀρετῆς	ἀρετή	noun, genitive feminine singular	1	virtue
+4MA 1:2	1	13	ἀρετῆς			2	excellence
+4MA 1:2	1	14	λέγω	λέγω	present active indicative, first person singular	1	say
+4MA 1:2	1	15	δὴ	δή	Emphatic particle	1	indeed
+4MA 1:2	1	15	δὴ			2	that is
+4MA 1:2	1	16	φρονήσεως	φρόνησις	noun, genitive feminine singular	1	practical wisdom
+4MA 1:2	1	16	φρονήσεως			2	good judgment
+4MA 1:2	1	17	περιέχει	περιέχω	present active indicative, third singular	1	contains
+4MA 1:2	1	17	περιέχει			2	includes
+4MA 1:2	1	18	ἔπαινον	ἔπαινος	noun, accusative masculine singular	1	praise
+4MA 1:2	1	18	ἔπαινον			2	commendation
+4MA 1:3	1	1	εἰ	εἰ	conditional conjunction	1	if
+4MA 1:3	1	2	ἄρα	ἄρα	particle	1	then
+4MA 1:3	1	3	τῶν	ὁ	article, genitive neuter plural; modifies παθῶν across an inserted genitive	1	the
+4MA 1:3	1	4	σωφροσύνης	σωφροσύνη	noun, genitive feminine singular	1	self-control
+4MA 1:3	1	4	σωφροσύνης			2	moderation
+4MA 1:3	1	5	κωλυτικῶν	κωλυτικός	adjective, genitive neuter plural	1	that hinder
+4MA 1:3	1	5	κωλυτικῶν			2	that impede
+4MA 1:3	1	6	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:3	1	6	παθῶν			2	emotions
+4MA 1:3	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:3	1	8	λογισμὸς	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:3	1	8	λογισμὸς			2	reasoning
+4MA 1:3	1	9	φαίνεται	φαίνω	present middle indicative, third singular	1	seems
+4MA 1:3	1	9	φαίνεται			2	appears
+4MA 1:3	1	10	ἐπικρατεῖν	ἐπικρατέω	present active infinitive	1	to master
+4MA 1:3	1	10	ἐπικρατεῖν			2	to prevail over
+4MA 1:3	1	11	γαστριμαργίας	γαστριμαργία	noun, genitive feminine singular	1	gluttony
+4MA 1:3	1	11	γαστριμαργίας			2	greed for food
+4MA 1:3	1	12	τε	τέ	enclitic connective in τε καί	1	both
+4MA 1:3	1	13	καὶ	καί	conjunction	1	and
+4MA 1:3	1	14	ἐπιθυμίας	ἐπιθυμία	noun, genitive feminine singular	1	desire
+4MA 1:4	1	1	ἀλλὰ	ἀλλά	adversative conjunction	1	but
+4MA 1:4	1	2	καὶ	καί	conjunction	1	and
+4MA 1:4	1	3	τῶν	ὁ	article, genitive masculine plural	1	the
+4MA 1:4	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:4	1	5	δικαιοσύνης	δικαιοσύνη	noun genitive feminine singular	1	righteousness
+4MA 1:4	1	6	ἐμποδιστικῶν	ἐμποδιστικός	adjective, genitive neuter plural	1	that hinder
+4MA 1:4	1	6	ἐμποδιστικῶν			2	that impede
+4MA 1:4	1	7	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:4	1	7	παθῶν			2	emotions
+4MA 1:4	1	8	κυριεύειν	κυριεύω	present active infinitive	1	to rule
+4MA 1:4	1	9	ἀναφαίνεται	ἀναφαίνομαι	present middle indicative, third singular	1	it shows itself
+4MA 1:4	1	9	ἀναφαίνεται			2	it appears
+4MA 1:4	1	10	οἷον	οἷος	adjective, accusative neuter singular; adverbial introduction of examples	1	such as
+4MA 1:4	1	10	οἷον			2	for example
+4MA 1:4	1	11	κακοηθείας	κακοήθεια	noun, genitive feminine singular	1	malice
+4MA 1:4	1	11	κακοηθείας			2	ill nature
+4MA 1:4	1	12	καὶ	καί	conjunction	1	and
+4MA 1:4	1	13	τῶν	ὁ	article, genitive masculine plural	1	the
+4MA 1:4	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:4	1	15	ἀνδρείας	ἀνδρεία	noun, genitive feminine singular	1	courage
+4MA 1:4	1	15	ἀνδρείας			2	fortitude
+4MA 1:4	1	16	ἐμποδιστικῶν	ἐμποδιστικός	adjective, genitive neuter plural	1	that hinder
+4MA 1:4	1	16	ἐμποδιστικῶν			2	that impede
+4MA 1:4	1	17	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:4	1	17	παθῶν			2	emotions
+4MA 1:4	1	18	θυμοῦ	θυμός	noun, genitive masc. sg	1	anger
+4MA 1:4	1	19	τε	τέ	enclitic connective in τε καί	1	both
+4MA 1:4	1	20	καὶ	καί	conjunction	1	and
+4MA 1:4	1	21	πόνου	πόνος	noun, genitive masculine singular	1	pain
+4MA 1:4	1	21	πόνου			2	suffering
+4MA 1:4	1	22	καὶ	καί	conjunction	1	and
+4MA 1:4	1	23	φόβου	φόβος	noun, genitive masculine singular	1	fear
+4MA 1:5	1	1	Πῶς	πῶς	interrogative adverb	1	how
+4MA 1:5	1	2	οὖν	οὖν	inferential particle	1	then
+4MA 1:5	1	3	ἴσως	ἴσως	adverb	1	perhaps
+4MA 1:5	1	3	ἴσως			2	maybe
+4MA 1:5	1	4	εἴποιεν	λέγω	aorist active optative, third plural; potential optative with ἄν	1	would say
+4MA 1:5	1	4	εἴποιεν			2	might ask
+4MA 1:5	1	5	ἄν	ἄν	Modal particle with potential optative	1	—
+4MA 1:5	1	6	τινες	τις	Indefinite pronoun; nominative masculine plural	1	some people
+4MA 1:5	1	7	εἰ	εἰ	conditional conjunction	1	if
+4MA 1:5	1	8	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:5	1	9	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:5	1	9	παθῶν			2	emotions
+4MA 1:5	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:5	1	11	λογισμὸς	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:5	1	11	λογισμὸς			2	reasoning
+4MA 1:5	1	12	κρατεῖ	κρατέω	present active indicative, third singular	1	masters
+4MA 1:5	1	12	κρατεῖ			2	rules over
+4MA 1:5	1	13	λήθης	λήθη	noun, genitive feminine singular	1	forgetfulness
+4MA 1:5	1	13	λήθης			2	oblivion
+4MA 1:5	1	14	καὶ	καί	conjunction	1	and
+4MA 1:5	1	15	ἀγνοίας	ἄγνοια	noun, genitive feminine singular	1	ignorance
+4MA 1:5	1	16	οὐ	οὐ	negative particle	1	not
+4MA 1:5	1	17	δεσπόζει	δεσπόζω	present active indicative, third singular	1	does it rule
+4MA 1:5	1	17	δεσπόζει			2	does it have mastery
+4MA 1:6	1	1	γελοῖον	γελοῖος	adjective, accusative neuter singular; used substantivally	1	something absurd
+4MA 1:6	1	1	γελοῖον			2	something laughable
+4MA 1:6	1	2	ἐπιχειροῦντες	ἐπιχειρέω	present active participle, nominative masculine plural	1	attempting
+4MA 1:6	1	2	ἐπιχειροῦντες			2	trying
+4MA 1:6	1	3	λέγειν	λέγω	present active infinitive	1	to say
+4MA 1:6	1	3	λέγειν			2	saying
+4MA 1:6	1	4	Οὐ	οὐ	negative particle	1	not
+4MA 1:6	1	5	γὰρ	γάρ	postpositive conjunction	1	for
+4MA 1:6	1	6	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:6	1	7	ἑαυτοῦ	ἑαυτοῦ	Third-person reflexive pronoun; genitive masculine singular	1	its own
+4MA 1:6	1	8	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:6	1	8	παθῶν			2	emotions
+4MA 1:6	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:6	1	10	λογισμὸς	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:6	1	10	λογισμὸς			2	reasoning
+4MA 1:6	1	11	κρατεῖ	κρατέω	present active indicative, third singular	1	masters
+4MA 1:6	1	11	κρατεῖ			2	rules over
+4MA 1:6	1	12	ἀλλὰ	ἀλλά	adversative conjunction	1	but
+4MA 1:6	1	13	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:6	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:6	1	15	δικαιοσύνης	δικαιοσύνη	noun, genitive feminine singular	1	righteousness
+4MA 1:6	1	15	δικαιοσύνης			2	justice
+4MA 1:6	1	16	καὶ	καί	conjunction	1	and
+4MA 1:6	1	17	ἀνδρείας	ἀνδρεία	noun, genitive feminine singular	1	courage
+4MA 1:6	1	17	ἀνδρείας			2	fortitude
+4MA 1:6	1	18	καὶ	καί	conjunction	1	and
+4MA 1:6	1	19	σωφροσύνης	σωφροσύνη	noun, genitive feminine singular	1	self-control
+4MA 1:6	1	19	σωφροσύνης			2	moderation
+4MA 1:6	1	20	καὶ	καί	conjunction	1	and
+4MA 1:6	1	21	φρονήσεως	φρόνησις	noun, genitive feminine singular	1	practical wisdom
+4MA 1:6	1	21	φρονήσεως			2	good judgment
+4MA 1:6	1	22	ἐναντίων	ἐναντίος	adjective, genitive neuter plural	1	opposed
+4MA 1:6	1	22	ἐναντίων			2	contrary
+4MA 1:6	1	23	καὶ	καί	conjunction	1	and
+4MA 1:6	1	24	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	these
+4MA 1:6	1	25	οὐχ	οὐ	negative particle	1	not
+4MA 1:6	1	26	ὥστε	ὥστε	Result conjunction with infinitive	1	so as
+4MA 1:6	1	27	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
+4MA 1:6	1	28	καταλῦσαι	καταλύω	aorist active infinitive	1	to abolish
+4MA 1:6	1	28	καταλῦσαι			2	to bring to an end
+4MA 1:6	1	29	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
+4MA 1:6	1	30	ὥστε	ὥστε	Result conjunction with infinitive	1	so as
+4MA 1:6	1	31	αὐτοῖς	αὐτός	pronoun, dative neuter plural	1	them
+4MA 1:6	1	32	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
+4MA 1:6	1	33	εἶξαι	εἴκω	aorist active infinitive	1	to yield
+4MA 1:6	1	33	εἶξαι			2	to give way
+4MA 1:7	1	1	Πολλαχόθεν	πολλαχόθεν	adverb	1	from many sources
+4MA 1:7	1	1	Πολλαχόθεν			2	in many ways
+4MA 1:7	1	2	μὲν	μέν	particle, first member of μέν...δέ contrast	1	indeed
+4MA 1:7	1	3	οὖν	οὖν	inferential particle	1	then
+4MA 1:7	1	4	καὶ	καί	conjunction	1	and
+4MA 1:7	1	5	ἀλλαχόθεν	ἀλλαχόθεν	adverb	1	from other sources
+4MA 1:7	1	5	ἀλλαχόθεν			2	from elsewhere
+4MA 1:7	1	6	ἔχοιμ᾿	ἔχω	present active optative, first singular; potential optative with ἄν	1	I could
+4MA 1:7	1	6	ἔχοιμ᾿			2	I might be able
+4MA 1:7	1	7	ἂν	ἄν	Modal particle with potential optative	1	—
+4MA 1:7	1	8	ὑμῖν	σύ	pronoun, dative second plural	1	to you
+4MA 1:7	1	9	ἐπιδεῖξαι	ἐπιδείκνυμι	aorist active infinitive	1	to show
+4MA 1:7	1	9	ἐπιδεῖξαι			2	to demonstrate
+4MA 1:7	1	10	ὅτι	ὅτι	Subordinating conjunction	1	that
+4MA 1:7	1	11	αὐτοκράτωρ	αὐτοκράτωρ	adjective, nominative masculine singular	1	sovereign
+4MA 1:7	1	11	αὐτοκράτωρ			2	absolute ruler
+4MA 1:7	1	12	ἐστὶ	εἰμί	present indicative, third singular	1	is
+4MA 1:7	1	13	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:7	1	14	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:7	1	14	παθῶν			2	emotions
+4MA 1:7	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:7	1	16	εὐσεβὴς	εὐσεβής	adjective, nominative masculine singular	1	devout
+4MA 1:7	1	16	εὐσεβὴς			2	godly
+4MA 1:7	1	17	λογισμός	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:7	1	17	λογισμός			2	reasoning
+4MA 1:8	1	1	Πολὺ	πολύς	adjective, accusative neuter singular; adverbial accusative	1	much
+4MA 1:8	1	2	δὲ	δέ	postpositive conjunction	1	and
+4MA 1:8	1	3	πλέον	πολύς	adjective, accusative neuter singular; comparative used adverbially	1	more fully
+4MA 1:8	1	3	πλέον			2	more
+4MA 1:8	1	4	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
+4MA 1:8	1	5	ἀποδείξαιμι	ἀποδείκνυμι	aorist active optative, first singular	1	I could demonstrate
+4MA 1:8	1	5	ἀποδείξαιμι			2	I might show
+4MA 1:8	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
+4MA 1:8	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:8	1	8	ἀνδραγαθίας	ἀνδραγαθία	noun, genitive feminine singular	1	bravery
+4MA 1:8	1	8	ἀνδραγαθίας			2	heroism
+4MA 1:8	1	9	τῶν	ὁ	article, genitive masculine plural	1	the
+4MA 1:8	1	10	ὑπὲρ	ὑπέρ	Preposition with genitive	1	for
+4MA 1:8	1	10	ὑπὲρ			2	for the sake of
+4MA 1:8	1	11	ἀρετῆς	ἀρετή	noun, genitive feminine singular	1	virtue
+4MA 1:8	1	11	ἀρετῆς			2	excellence
+4MA 1:8	1	12	ἀποθανόντων	ἀποθνῄσκω	aorist active participle, genitive masculine plural	1	who died
+4MA 1:8	1	13	Ἐλεαζάρου	Ἐλεάζαρος	noun, genitive masculine singular	1	of Eleazar
+4MA 1:8	1	14	τε	τέ	enclitic connective in τε καί	1	both
+4MA 1:8	1	15	καὶ	καί	conjunction	1	and
+4MA 1:8	1	16	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
+4MA 1:8	1	17	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
+4MA 1:8	1	18	καὶ	καί	conjunction	1	and
+4MA 1:8	1	19	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:8	1	20	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	their
+4MA 1:8	1	20	τούτων			2	of these men
+4MA 1:8	1	21	μητρός	μήτηρ	noun, genitive feminine singular	1	of mother
+4MA 1:9	1	1	Ἅπαντες	ἅπας	adjective, nominative masculine plural	1	all
+4MA 1:9	1	2	γὰρ	γάρ	explanatory conjunction	1	for
+4MA 1:9	1	3	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
+4MA 1:9	1	4	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:9	1	5	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
+4MA 1:9	1	6	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:9	1	7	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+4MA 1:9	1	8	νόμων	νόμος	noun, genitive masculine plural	1	laws
+4MA 1:9	1	9	ἕως	ἕως	preposition with the genitive	1	as far as
+4MA 1:9	1	9	ἕως			2	up to
+4MA 1:9	1	10	θανάτου	θάνατος	noun, genitive masculine singular	1	death
+4MA 1:9	1	11	πόνων	πόνος	noun, genitive masculine plural	1	sufferings
+4MA 1:9	1	11	πόνων			2	pains
+4MA 1:9	1	12	ὑπεριδόντες	ὑπεροράω	aorist active participle, nominative masculine plural	1	disregarding
+4MA 1:9	1	12	ὑπεριδόντες			2	thinking little of
+4MA 1:9	1	13	καὶ	καί	conjunction	1	and
+4MA 1:9	1	14	ὑπὲρ	ὑπέρ	Preposition with genitive	1	for
+4MA 1:9	1	14	ὑπὲρ			2	for the sake of
+4MA 1:9	1	15	θεοσεβείας	θεοσέβεια	noun, genitive feminine singular	1	reverence for God
+4MA 1:9	1	15	θεοσεβείας			2	godliness
+4MA 1:9	1	16	τὸ	ὁ	article, accusative neuter singular	1	the
+4MA 1:9	1	17	ζῆν	ζάω	present active infinitive	1	to live
+4MA 1:9	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+4MA 1:9	1	19	ὑπεριδόντες	ὑπεροράω	aorist active participle, nominative masculine plural	1	disregarding
+4MA 1:9	1	19	ὑπεριδόντες			2	thinking little of
+4MA 1:9	1	20	ἐπεδείξαντο	ἐπιδείκνυμι	aorist middle indicative, third plural	1	demonstrated
+4MA 1:9	1	20	ἐπεδείξαντο			2	showed
+4MA 1:9	1	21	ὅτι	ὅτι	Subordinating conjunction	1	that
+4MA 1:9	1	22	περικρατεῖ	περικρατέω	present active indicative, third singular	1	fully masters
+4MA 1:9	1	22	περικρατεῖ			2	holds in its power
+4MA 1:9	1	23	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:9	1	24	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:9	1	24	παθῶν			2	emotions
+4MA 1:9	1	25	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:9	1	26	λογισμός	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:9	1	26	λογισμός			2	reasoning
+4MA 1:10	1	1	Τῶν	ὁ	article, genitive plural	1	the
+4MA 1:10	1	2	μὲν	μέν	particle, first member of μέν...δέ contrast	1	indeed
+4MA 1:10	1	3	οὖν	οὖν	inferential particle	1	then
+4MA 1:10	1	4	ἀρετῶν	ἀρετή	noun, genitive feminine plural	1	virtues
+4MA 1:10	1	4	ἀρετῶν			2	excellences
+4MA 1:10	1	5	ἔπεστί	ἔπεστι	present active indicative, third singular; impersonal	1	it falls to
+4MA 1:10	1	5	ἔπεστί			2	it is incumbent on
+4MA 1:10	1	6	μοι	ἐγώ	personal pronoun, dative first singular	1	for me
+4MA 1:10	1	7	ἐπαινεῖν	ἐπαινέω	present active infinitive	1	to praise
+4MA 1:10	1	7	ἐπαινεῖν			2	to commend
+4MA 1:10	1	8	τοὺς	ὁ	article, accusative masculine plural	1	the
+4MA 1:10	1	9	κατὰ	κατά	Preposition with accusative marking time	1	at
+4MA 1:10	1	9	κατὰ			2	during
+4MA 1:10	1	10	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	1	this
+4MA 1:10	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
+4MA 1:10	1	12	καιρὸν	καιρός	noun, accusative masculine singular	1	time
+4MA 1:10	1	13	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
+4MA 1:10	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:10	1	15	καλοκἀγαθίας	καλοκἀγαθία	noun, genitive feminine singular	1	nobility
+4MA 1:10	1	15	καλοκἀγαθίας			2	moral excellence
+4MA 1:10	1	16	ἀποθανόντας	ἀποθνῄσκω	aorist active participle, accusative masculine plural	1	who died
+4MA 1:10	1	17	μετὰ	μετά	preposition with genitive	1	with
+4MA 1:10	1	18	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:10	1	19	μητρὸς	μήτηρ	noun, genitive feminine singular	1	mother
+4MA 1:10	1	20	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
+4MA 1:10	1	21	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:10	1	22	δὲ	δέ	postpositive conjunction	1	and
+4MA 1:10	1	23	τιμῶν	τιμή	noun, genitive feminine plural	1	honors
+4MA 1:10	1	23	τιμῶν			2	distinctions
+4MA 1:10	1	24	μακαρίσαιμ᾿	μακαρίζω	aorist active optative, first singular; potential optative with ἄν	1	I would call blessed
+4MA 1:10	1	24	μακαρίσαιμ᾿			2	I would congratulate
+4MA 1:10	1	25	ἂν	ἄν	Modal particle with potential optative	1	—
+4MA 1:10	1	26	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
+4MA 1:11	1	1	Θαυμασθέντες	θαυμάζω	aorist passive participle, nominative masculine plural	1	admired
+4MA 1:11	1	1	Θαυμασθέντες			2	having been admired
+4MA 1:11	1	2	γὰρ	γάρ	postpositive conjunction	1	for
+4MA 1:11	1	3	ἐκεῖνοι	ἐκεῖνος	demonstrative pronoun, nominative masculine plural	1	those
+4MA 1:11	1	4	οὐ	οὐ	negative particle	1	not
+4MA 1:11	1	5	μόνον	μόνον	adverb	1	only
+4MA 1:11	1	6	ὑπὸ	ὑπό	preposition with the accusative	1	by
+4MA 1:11	1	7	πάντων	πᾶς	adjective, genitive neuter plural	1	all
+4MA 1:11	1	8	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	human beings
+4MA 1:11	1	8	ἀνθρώπων			2	people
+4MA 1:11	1	9	ἐπὶ	ἐπί	Preposition with dative	1	for
+4MA 1:11	1	10	τῇ	ὁ	article, dative feminine singular	1	the
+4MA 1:11	1	11	ἀνδρείᾳ	ἀνδρεία	noun dative feminine singular	1	courage
+4MA 1:11	1	11	ἀνδρείᾳ			2	valor
+4MA 1:11	1	12	καὶ	καί	conjunction	1	and
+4MA 1:11	1	13	τῇ	ὁ	article, dative feminine singular	1	the
+4MA 1:11	1	14	ὑπομονῇ	ὑπομονή	noun, dative feminine singular	1	endurance
+4MA 1:11	1	14	ὑπομονῇ			2	perseverance
+4MA 1:11	1	15	ἀλλὰ	ἀλλά	adversative conjunction	1	but
+4MA 1:11	1	16	καὶ	καί	conjunction	1	and
+4MA 1:11	1	17	ὑπὸ	ὑπό	Preposition with genitive	1	by
+4MA 1:11	1	18	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:11	1	19	αἰκισαμένων	αἰκίζω	aorist middle participle, genitive masculine plural; used substantivally	1	those who tortured them
+4MA 1:11	1	19	αἰκισαμένων			2	those who mistreated them
+4MA 1:11	1	20	αἴτιοι	αἴτιος	adjective, nominative masculine plural	1	responsible
+4MA 1:11	1	20	αἴτιοι			2	the cause
+4MA 1:11	1	21	κατέστησαν	καθίστημι	aorist active indicative, third plural	1	became
+4MA 1:11	1	21	κατέστησαν			2	came to be
+4MA 1:11	1	22	τοῦ	ὁ	article, genitive masculine singular	1	the
+4MA 1:11	1	23	καταλυθῆναι	καταλύω	aorist passive infinitive	1	being overthrown
+4MA 1:11	1	23	καταλυθῆναι			2	being ended
+4MA 1:11	1	24	τὴν	ὁ	article, accusative feminine singular	1	the
+4MA 1:11	1	25	κατὰ	κατά	Preposition with genitive	1	against
+4MA 1:11	1	25	κατὰ			2	over
+4MA 1:11	1	26	τοῦ	ὁ	article, genitive singular	1	the
+4MA 1:11	1	27	ἔθνους	ἔθνος	noun, genitive neuter singular	1	nation
+4MA 1:11	1	28	τυραννίδα	τυραννίς	noun, accusative feminine singular	1	tyranny
+4MA 1:11	1	28	τυραννίδα			2	despotism
+4MA 1:11	1	29	νικήσαντες	νικάω	aorist active participle, nominative masculine plural	1	having defeated
+4MA 1:11	1	29	νικήσαντες			2	having overcome
+4MA 1:11	1	30	τὸν	ὁ	article, accusative masculine singular	1	the
+4MA 1:11	1	31	τύραννον	τύραννος	noun, accusative masculine singular	1	tyrant
+4MA 1:11	1	31	τύραννον			2	despot
+4MA 1:11	1	32	τῇ	ὁ	article, dative feminine singular	1	the
+4MA 1:11	1	33	ὑπομονῇ	ὑπομονή	noun, dative feminine singular	1	endurance
+4MA 1:11	1	33	ὑπομονῇ			2	perseverance
+4MA 1:11	1	34	ὥστε	ὥστε	conjunction	1	so as
+4MA 1:11	1	35	δι᾽	διά	elided preposition with genitive	1	through
+4MA 1:11	1	36	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
+4MA 1:11	1	37	καταλῦσαι	καταλύω	aorist active infinitive	1	to abolish
+4MA 1:11	1	37	καταλῦσαι			2	to bring to an end
+4MA 1:11	1	38	καὶ	καί	conjunction	1	and
+4MA 1:11	1	39	καθαρισθῆναι	καθαρίζω	aorist passive infinitive	1	to be cleansed
+4MA 1:11	1	39	καθαρισθῆναι			2	to be purified
+4MA 1:11	1	40	τὴν	ὁ	article, accusative feminine singular	1	the
+4MA 1:11	1	41	πατρίδα	πατρίς	noun, accusative feminine singular	1	homeland
+4MA 1:12	1	1	Ἀλλὰ	ἀλλά	adversative conjunction	1	but
+4MA 1:12	1	2	καὶ	καί	conjunction	1	and
+4MA 1:12	1	3	περὶ	περί	Preposition with genitive	1	concerning
+4MA 1:12	1	3	περὶ			2	for
+4MA 1:12	1	4	τοῦ	ὁ	article, genitive singular	1	the
+4MA 1:12	1	5	ζητουμένου	ζητέω	present passive participle, genitive neuter singular; used substantivally	1	matter under inquiry
+4MA 1:12	1	5	ζητουμένου			2	question
+4MA 1:12	1	6	αὐτίκα	αὐτίκα	adverb	1	immediately
+4MA 1:12	1	6	αὐτίκα			2	at once
+4MA 1:12	1	7	δὴ	δή	emphatic particle	1	indeed
+4MA 1:12	1	8	λέγειν	λέγω	present active infinitive	1	to speak
+4MA 1:12	1	9	ἐξέσται	ἔξεστι	future active indicative, third singular; impersonal	1	it will be possible
+4MA 1:12	1	10	ἀρξαμένῳ	ἄρχω	aorist middle participle, dative masculine singular	1	having begun
+4MA 1:12	1	10	ἀρξαμένῳ			2	beginning
+4MA 1:12	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:12	1	12	ὑποθέσεως	ὑπόθεσις	noun, genitive feminine singular	1	subject
+4MA 1:12	1	12	ὑποθέσεως			2	thesis
+4MA 1:12	1	13	ὥσπερ	ὥσπερ	comparative conjunction	1	just as
+4MA 1:12	1	14	εἴωθα	ἔθω	perfect active indicative, first singular; perfect with present meaning	1	I am accustomed
+4MA 1:12	1	14	εἴωθα			2	I usually
+4MA 1:12	1	15	ποιεῖν	ποιέω	present active infinitive	1	to do
+4MA 1:12	1	16	καὶ	καί	conjunction	1	and
+4MA 1:12	1	17	οὕτως	οὕτως	adverb of manner	1	so
+4MA 1:12	1	18	εἰς	εἰς	preposition with the accusative of direction	1	to
+4MA 1:12	1	19	τὸν	ὁ	article, accusative masculine singular	1	the
+4MA 1:12	1	20	περὶ	περί	preposition with the accusative	1	about/on
+4MA 1:12	1	21	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
+4MA 1:12	1	22	τρέψομαι	τρέπω	future middle indicative, first singular	1	I will turn
+4MA 1:12	1	23	λόγον	λόγος	noun, accusative masculine singular	1	discourse
+4MA 1:12	1	23	λόγον			2	argument
+4MA 1:12	1	24	δόξαν	δόξα	noun, accusative feminine singular	1	glory
+4MA 1:12	1	25	διδοὺς	δίδωμι	present active participle, nominative masculine singular	1	giving
+4MA 1:12	1	26	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+4MA 1:12	1	27	πανσόφῳ	πάνσοφος	adjective, dative masculine singular	1	all-wise
+4MA 1:12	1	27	πανσόφῳ			2	perfectly wise
+4MA 1:12	1	28	Θεῷ	θεός	noun, dative masculine singular	1	God
+4MA 1:13	1	1	Ζητοῦμεν	ζητέω	present active indicative, first plural	1	we investigate
+4MA 1:13	1	1	Ζητοῦμεν			2	we inquire
+4MA 1:13	1	2	δὴ	δή	Emphatic particle	1	then
+4MA 1:13	1	2	δὴ			2	indeed
+4MA 1:13	1	3	τοίνυν	τοίνυν	inferential particle	1	therefore
+4MA 1:13	1	3	τοίνυν			2	then
+4MA 1:13	1	4	εἰ	εἰ	Interrogative particle	1	whether
+4MA 1:13	1	5	αὐτοκράτωρ	αὐτοκράτωρ	adjective, nominative masculine singular	1	sovereign
+4MA 1:13	1	5	αὐτοκράτωρ			2	absolute ruler
+4MA 1:13	1	6	ἐστι	εἰμί	present indicative, third singular	1	is
+4MA 1:13	1	7	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:13	1	7	παθῶν			2	emotions
+4MA 1:13	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:13	1	9	λογισμός	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:13	1	9	λογισμός			2	reasoning
+4MA 1:14	1	1	Διακρίνωμεν	διακρίνω	present active subjunctive, first plural; hortatory	1	let us distinguish
+4MA 1:14	1	1	Διακρίνωμεν			2	let us determine
+4MA 1:14	1	2	δὲ	δέ	postpositive conjunction	1	now
+4MA 1:14	1	3	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
+4MA 1:14	1	4	ποτέ	ποτέ	Interrogative particle adding emphasis	1	ever
+4MA 1:14	1	4	ποτέ			2	exactly
+4MA 1:14	1	5	ἐστι	εἰμί	present indicative, third singular	1	is
+4MA 1:14	1	6	λογισμός	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:14	1	6	λογισμός			2	reasoning
+4MA 1:14	1	7	καὶ	καί	conjunction	1	and
+4MA 1:14	1	8	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
+4MA 1:14	1	9	πάθος	πάθος	noun, nominative neuter singular	1	a passion
+4MA 1:14	1	9	πάθος			2	an emotion
+4MA 1:14	1	10	καὶ	καί	conjunction	1	and
+4MA 1:14	1	11	πόσαι	πόσος	adjective, nominative feminine plural; interrogative	1	how many
+4MA 1:14	1	12	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:14	1	12	παθῶν			2	emotions
+4MA 1:14	1	13	ἰδέαι	ἰδέα	noun, nominative feminine plural	1	types
+4MA 1:14	1	13	ἰδέαι			2	forms
+4MA 1:14	1	14	καὶ	καί	conjunction	1	and
+4MA 1:14	1	15	εἰ	εἰ	Interrogative particle	1	whether
+4MA 1:14	1	16	πάντων	πᾶς	adjective, genitive neuter plural	1	all
+4MA 1:14	1	17	ἐπικρατεῖ	ἐπικρατέω	present active indicative, third singular	1	masters
+4MA 1:14	1	17	ἐπικρατεῖ			2	prevails over
+4MA 1:14	1	18	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	these
+4MA 1:14	1	19	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:14	1	20	λογισμός	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:14	1	20	λογισμός			2	reasoning
+4MA 1:15	1	1	Λογισμὸς	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:15	1	1	Λογισμὸς			2	reasoning
+4MA 1:15	1	2	μὲν	μέν	particle	1	indeed
+4MA 1:15	1	3	δὴ	δή	Emphatic particle	1	then
+4MA 1:15	1	3	δὴ			2	indeed
+4MA 1:15	1	4	τοίνυν	τοίνυν	inferential particle	1	therefore
+4MA 1:15	1	4	τοίνυν			2	then
+4MA 1:15	1	5	ἐστι	εἰμί	present indicative, third singular	1	is
+4MA 1:15	1	6	νοῦς	νοῦς	noun, nominative masculine singular	1	mind
+4MA 1:15	1	6	νοῦς			2	purpose
+4MA 1:15	1	7	μετὰ	μετά	preposition with genitive	1	with
+4MA 1:15	1	8	ὀρθοῦ	ὀρθός	adjective, genitive masculine singular	1	sound
+4MA 1:15	1	8	ὀρθοῦ			2	right
+4MA 1:15	1	9	λόγου	λόγος	noun, genitive masculine singular	1	judgment
+4MA 1:15	1	9	λόγου			2	reasoning
+4MA 1:15	1	10	προτιμῶν	προτιμάω	present active participle, nominative masculine singular	1	preferring
+4MA 1:15	1	10	προτιμῶν			2	giving preference to
+4MA 1:15	1	11	τὸν	ὁ	article, accusative masculine singular; modifies βίον across an inserted genitive	1	the
+4MA 1:15	1	12	σοφίας	σοφία	noun, genitive feminine singular	1	of wisdom
+4MA 1:15	1	13	βίον	βίος	noun, accusative masculine singular	1	life
+4MA 1:16	1	1	Σοφία	σοφία	noun, nominative feminine singular	1	wisdom
+4MA 1:16	1	2	δὴ	δή	Emphatic particle	1	then
+4MA 1:16	1	2	δὴ			2	indeed
+4MA 1:16	1	3	τοίνυν	τοίνυν	inferential particle	1	therefore
+4MA 1:16	1	3	τοίνυν			2	then
+4MA 1:16	1	4	ἐστὶ	εἰμί	present active indicative, third singular	1	is
+4MA 1:16	1	5	γνῶσις	γνῶσις	noun, nominative feminine singular	1	knowledge
+4MA 1:16	1	6	θείων	θεῖος	adjective, genitive neuter plural	1	divine
+4MA 1:16	1	7	καὶ	καί	conjunction	1	and
+4MA 1:16	1	8	ἀνθρωπίνων	ἀνθρώπινος	adjective, genitive neuter plural	1	human
+4MA 1:16	1	9	πραγμάτων	πρᾶγμα	noun, genitive neuter plural	1	affairs
+4MA 1:16	1	10	καὶ	καί	conjunction	1	and
+4MA 1:16	1	11	τῶν	ὁ	article, genitive masculine plural	1	the
+4MA 1:16	1	12	τούτων	οὗτος	demonstrative pronoun, genitive plural	1	these
+4MA 1:16	1	13	αἰτίων	αἴτιος	adjective, genitive neuter plural; used substantivally	1	causes
+4MA 1:16	1	13	αἰτίων			2	grounds
+4MA 1:17	1	1	Αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
+4MA 1:17	1	2	δὴ	δή	Emphatic particle	1	then
+4MA 1:17	1	2	δὴ			2	indeed
+4MA 1:17	1	3	τοίνυν	τοίνυν	inferential particle	1	therefore
+4MA 1:17	1	3	τοίνυν			2	then
+4MA 1:17	1	4	ἐστὶν	εἰμί	present indicative, third singular	1	is
+4MA 1:17	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
+4MA 1:17	1	6	τοῦ	ὁ	article, genitive singular	1	the
+4MA 1:17	1	7	νόμου	νόμος	noun, genitive masculine singular	1	law
+4MA 1:17	1	8	παιδεία	παιδεία	noun, nominative feminine singular	1	instruction
+4MA 1:17	1	8	παιδεία			2	education
+4MA 1:17	1	9	δι᾽	διά	preposition διά, elided	1	through
+4MA 1:17	1	10	ἧς	ὅς	relative pronoun, genitive fem. sg	1	which
+4MA 1:17	1	11	τὰ	ὁ	article, accusative neuter plural	1	the
+4MA 1:17	1	12	θεῖα	θεῖος	adjective, accusative neuter plural; used substantivally	1	divine matters
+4MA 1:17	1	12	θεῖα			2	divine things
+4MA 1:17	1	13	σεμνῶς	σεμνῶς	adverb	1	with reverence
+4MA 1:17	1	13	σεμνῶς			2	respectfully
+4MA 1:17	1	14	καὶ	καί	conjunction	1	and
+4MA 1:17	1	15	τὰ	ὁ	article, accusative neuter plural	1	the
+4MA 1:17	1	16	ἀνθρώπινα	ἀνθρώπινος	adjective, accusative neuter plural; used substantivally	1	human matters
+4MA 1:17	1	16	ἀνθρώπινα			2	human things
+4MA 1:17	1	17	συμφερόντως	συμφερόντως	adverb	1	profitably
+4MA 1:17	1	17	συμφερόντως			2	advantageously
+4MA 1:17	1	18	μανθάνομεν	μανθάνω	present active indicative, first plural	1	we learn
+4MA 1:18	1	1	Τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:18	1	2	δὲ	δέ	postpositive conjunction	1	and
+4MA 1:18	1	3	σοφίας	σοφία	noun, genitive feminine singular	1	of wisdom
+4MA 1:18	1	4	ἰδέαι	ἰδέα	noun, nominative feminine plural	1	types
+4MA 1:18	1	4	ἰδέαι			2	forms
+4MA 1:18	1	5	καθεστᾶσι	καθίστημι	perfect active indicative, third plural	1	are established
+4MA 1:18	1	5	καθεστᾶσι			2	are
+4MA 1:18	1	6	τέσσαρες	τέσσαρες	cardinal numeral, nominative feminine plural	1	four
+4MA 1:18	1	7	φρόνησις	φρόνησις	noun, nominative feminine singular	1	practical wisdom
+4MA 1:18	1	7	φρόνησις			2	good judgment
+4MA 1:18	1	8	καὶ	καί	conjunction	1	and
+4MA 1:18	1	9	δικαιοσύνη	δικαιοσύνη	noun, nominative feminine singular	1	righteousness
+4MA 1:18	1	9	δικαιοσύνη			2	justice
+4MA 1:18	1	10	καὶ	καί	conjunction	1	and
+4MA 1:18	1	11	ἀνδρεία	ἀνδρεία	noun, nominative feminine singular	1	courage
+4MA 1:18	1	11	ἀνδρεία			2	fortitude
+4MA 1:18	1	12	καὶ	καί	conjunction	1	and
+4MA 1:18	1	13	σωφροσύνη	σωφροσύνη	noun, nominative feminine singular	1	self-control
+4MA 1:18	1	13	σωφροσύνη			2	moderation
+4MA 1:19	1	1	Κυριωτάτη	κύριος	adjective, nominative feminine singular; superlative	1	chief
+4MA 1:19	1	1	Κυριωτάτη			2	most authoritative
+4MA 1:19	1	2	πασῶν	πᾶς	adjective, genitive feminine plural	1	all
+4MA 1:19	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
+4MA 1:19	1	4	φρόνησις	φρόνησις	noun, nominative feminine singular	1	practical wisdom
+4MA 1:19	1	4	φρόνησις			2	good judgment
+4MA 1:19	1	5	ἐξ	ἐκ	preposition with the genitive	1	from
+4MA 1:19	1	6	ἧς	ὅς	relative pronoun, genitive feminine singular	1	which
+4MA 1:19	1	7	δὴ	δή	Emphatic particle	1	then
+4MA 1:19	1	7	δὴ			2	indeed
+4MA 1:19	1	8	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:19	1	9	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:19	1	9	παθῶν			2	emotions
+4MA 1:19	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:19	1	11	λογισμὸς	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:19	1	11	λογισμὸς			2	reasoning
+4MA 1:19	1	12	ἐπικρατεῖ	ἐπικρατέω	present active indicative, third singular	1	masters
+4MA 1:19	1	12	ἐπικρατεῖ			2	prevails over
+4MA 1:20	1	1	Παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:20	1	1	Παθῶν			2	emotions
+4MA 1:20	1	2	δὲ	δέ	postpositive conjunction	1	now
+4MA 1:20	1	3	φύσεις	φύσις	noun, nominative feminine plural	1	kinds
+4MA 1:20	1	3	φύσεις			2	natures
+4MA 1:20	1	4	εἰσὶν	εἰμί	present active indicative, third plural	1	are
+4MA 1:20	1	5	αἱ	ὁ	article, nominative feminine plural	1	the
+4MA 1:20	1	6	περιεκτικώταται	περιεκτικός	adjective, nominative feminine plural; superlative	1	most inclusive
+4MA 1:20	1	6	περιεκτικώταται			2	broadest
+4MA 1:20	1	7	δύο	δύο	cardinal numeral, indeclinable, distributive	1	two
+4MA 1:20	1	8	ἡδονή	ἡδονή	noun, nominative feminine singular	1	pleasure
+4MA 1:20	1	9	τε	τέ	enclitic connective in τε καί	1	both
+4MA 1:20	1	10	καὶ	καί	conjunction	1	and
+4MA 1:20	1	11	πόνος	πόνος	noun, nominative masculine singular	1	pain
+4MA 1:20	1	11	πόνος			2	suffering
+4MA 1:20	1	12	τούτων	οὗτος	demonstrative pronoun, genitive plural	1	these
+4MA 1:20	1	13	δὲ	δέ	postpositive conjunction	1	and
+4MA 1:20	1	14	ἑκάτερον	ἑκάτερος	adjective, nominative neuter singular; used substantivally	1	each of the two
+4MA 1:20	1	14	ἑκάτερον			2	each
+4MA 1:20	1	15	καὶ	καί	conjunction	1	and
+4MA 1:20	1	16	περὶ	περί	Preposition with accusative	1	concerning
+4MA 1:20	1	16	περὶ			2	with respect to
+4MA 1:20	1	17	τὸ	ὁ	article, accusative neuter singular	1	the
+4MA 1:20	1	18	σῶμα	σῶμα	noun, accusative neuter singular	1	body
+4MA 1:20	1	19	καὶ	καί	conjunction	1	and
+4MA 1:20	1	20	περὶ	περί	Preposition with accusative	1	concerning
+4MA 1:20	1	20	περὶ			2	with respect to
+4MA 1:20	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
+4MA 1:20	1	22	ψυχὴν	ψυχή	noun, accusative feminine singular	1	soul
+4MA 1:20	1	22	ψυχὴν			2	mind
+4MA 1:20	1	23	πέφυκε	φύω	perfect active indicative, third singular	1	belongs naturally
+4MA 1:20	1	23	πέφυκε			2	has grown
+4MA 1:21	1	1	Πολλαὶ	πολύς	adjective, nominative feminine plural	1	many
+4MA 1:21	1	2	δὲ	δέ	postpositive conjunction	1	now
+4MA 1:21	1	2	δὲ			2	but
+4MA 1:21	1	3	καὶ	καί	additive conjunction	1	also
+4MA 1:21	1	4	περὶ	περί	Preposition with accusative	1	concerning
+4MA 1:21	1	4	περὶ			2	with respect to
+4MA 1:21	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
+4MA 1:21	1	6	ἡδονὴν	ἡδονή	noun, accusative feminine singular	1	pleasure
+4MA 1:21	1	7	καὶ	καί	conjunction	1	and
+4MA 1:21	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
+4MA 1:21	1	9	πόνον	πόνος	noun, accusative masculine singular	1	pain
+4MA 1:21	1	9	πόνον			2	suffering
+4MA 1:21	1	10	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:21	1	10	παθῶν			2	emotions
+4MA 1:21	1	11	εἰσὶν	εἰμί	present active indicative, third plural	1	are
+4MA 1:21	1	12	ἀκολουθίαι	ἀκολουθία	noun, nominative feminine plural	1	accompaniments
+4MA 1:21	1	12	ἀκολουθίαι			2	sequences
+4MA 1:22	1	1	Πρὸ	πρό	preposition with the genitive	1	before
+4MA 1:22	1	2	μὲν	μέν	particle, first member of μέν...δέ contrast	1	indeed
+4MA 1:22	1	3	οὖν	οὖν	inferential particle	1	then
+4MA 1:22	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:22	1	5	ἡδονῆς	ἡδονή	noun, genitive feminine singular	1	pleasure
+4MA 1:22	1	6	ἐστιν	εἰμί	present active indicative, third person singular	1	is
+4MA 1:22	1	7	ἐπιθυμία	ἐπιθυμία	noun, nominative feminine singular	1	desire
+4MA 1:22	1	7	ἐπιθυμία			2	lust
+4MA 1:22	1	8	μετὰ	μετά	preposition with the accusative	1	after
+4MA 1:22	1	9	δὲ	δέ	postpositive conjunction	1	now
+4MA 1:22	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
+4MA 1:22	1	11	ἡδονὴν	ἡδονή	noun, accusative feminine singular	1	pleasure
+4MA 1:22	1	12	χαρά	χαρά	noun, nominative feminine singular	1	joy
+4MA 1:23	1	1	Πρὸ	πρό	preposition with the genitive	1	before
+4MA 1:23	1	2	δὲ	δέ	postpositive conjunction	1	and
+4MA 1:23	1	3	τοῦ	ὁ	article, genitive masculine singular	1	the
+4MA 1:23	1	4	πόνου	πόνος	noun, genitive masculine singular	1	pain
+4MA 1:23	1	4	πόνου			2	suffering
+4MA 1:23	1	5	ἐστὶν	εἰμί	present indicative, third singular	1	is
+4MA 1:23	1	6	φόβος	φόβος	noun, nominative masculine singular	1	fear
+4MA 1:23	1	7	μετὰ	μετά	preposition with the accusative	1	after
+4MA 1:23	1	8	δὲ	δέ	conjunction	1	and
+4MA 1:23	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
+4MA 1:23	1	10	πόνον	πόνος	noun, accusative masculine singular	1	pain
+4MA 1:23	1	10	πόνον			2	suffering
+4MA 1:23	1	11	λύπη	λύπη	noun, nominative feminine singular	1	sorrow
+4MA 1:23	1	11	λύπη			2	grief
+4MA 1:24	1	1	Θυμὸς	θυμός	noun, nominative masculine singular	1	anger
+4MA 1:24	1	2	δὲ	δέ	postpositive conjunction	1	and
+4MA 1:24	1	3	κοινὸν	κοινός	adjective, nominative neuter singular	1	common
+4MA 1:24	1	3	κοινὸν			2	shared
+4MA 1:24	1	4	πάθος	πάθος	noun, nominative neuter singular	1	a passion
+4MA 1:24	1	4	πάθος			2	an emotion
+4MA 1:24	1	5	ἐστὶν	εἰμί	present indicative, third singular	1	is
+4MA 1:24	1	6	ἡδονῆς	ἡδονή	noun, genitive feminine singular	1	pleasure
+4MA 1:24	1	7	καὶ	καί	conjunction	1	and
+4MA 1:24	1	8	πόνου	πόνος	noun, genitive masculine singular	1	pain
+4MA 1:24	1	8	πόνου			2	suffering
+4MA 1:24	1	9	ἐὰν	ἐάν	conditional conjunction	1	if
+4MA 1:24	1	10	ἐννοηθῇ	ἐννοέω	aorist passive subjunctive, third singular	1	considers
+4MA 1:24	1	10	ἐννοηθῇ			2	reflects on
+4MA 1:24	1	11	τις	τις	Indefinite pronoun; nominative	1	someone
+4MA 1:24	1	11	τις			2	some people
+4MA 1:24	1	12	ὅτε	ὅτε	temporal conjunction	1	when
+4MA 1:24	1	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
+4MA 1:24	1	14	περιέπεσεν	περιπίπτω	aorist active indicative, third singular	1	has encountered
+4MA 1:24	1	14	περιέπεσεν			2	fell into
+4MA 1:25	1	1	Ἐν	ἐν	preposition with the dative	1	in
+4MA 1:25	1	2	δὲ	δέ	postpositive conjunction	1	and
+4MA 1:25	1	3	τῇ	ὁ	article, dative feminine singular	1	the
+4MA 1:25	1	4	ἡδονῇ	ἡδονή	noun, dative feminine singular	1	pleasure
+4MA 1:25	1	5	ἐστι	εἰμί	present indicative, third singular	1	is
+4MA 1:25	1	6	καὶ	καί	conjunction	1	and
+4MA 1:25	1	7	ἡ	ὁ	article, nominative feminine singular	1	the
+4MA 1:25	1	8	κακοήθης	κακοήθης	adjective, nominative feminine singular	1	malicious
+4MA 1:25	1	8	κακοήθης			2	ill-natured
+4MA 1:25	1	9	διάθεσις	διάθεσις	noun, nominative feminine singular	1	disposition
+4MA 1:25	1	9	διάθεσις			2	inclination
+4MA 1:25	1	10	πολυτροπωτάτη	πολύτροπος	adjective, nominative feminine singular; superlative	1	most varied
+4MA 1:25	1	10	πολυτροπωτάτη			2	most versatile
+4MA 1:25	1	11	πάντων	πᾶς	adjective, genitive neuter plural	1	all
+4MA 1:25	1	12	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:25	1	13	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:25	1	13	παθῶν			2	emotions
+4MA 1:25	1	14	οὖσα	εἰμί	present active participle, nominative feminine singular	1	being
+4MA 1:26	1	1	Κατὰ	κατά	Preposition with accusative	1	with respect to
+4MA 1:26	1	1	Κατὰ			2	as for
+4MA 1:26	1	2	μὲν	μέν	particle	1	indeed
+4MA 1:26	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
+4MA 1:26	1	4	ψυχὴν	ψυχή	noun, accusative feminine singular	1	soul
+4MA 1:26	1	4	ψυχὴν			2	mind
+4MA 1:26	1	5	ἀλαζονεία	ἀλαζονεία	noun, nominative feminine singular	1	boastfulness
+4MA 1:26	1	5	ἀλαζονεία			2	pretension
+4MA 1:26	1	6	καὶ	καί	conjunction	1	and
+4MA 1:26	1	7	φιλαργυρία	φιλαργυρία	noun, nominative feminine singular	1	love of money
+4MA 1:26	1	7	φιλαργυρία			2	avarice
+4MA 1:26	1	8	καὶ	καί	conjunction	1	and
+4MA 1:26	1	9	φιλοδοξία	φιλοδοξία	noun, nominative feminine singular	1	love of acclaim
+4MA 1:26	1	9	φιλοδοξία			2	ambition
+4MA 1:26	1	10	καὶ	καί	conjunction	1	and
+4MA 1:26	1	11	φιλονεικία	φιλονεικία	noun, nominative feminine singular	1	contentiousness
+4MA 1:26	1	11	φιλονεικία			2	rivalry
+4MA 1:26	1	12	ἀπιστία	ἀπιστία	noun, nominative feminine singular	1	distrust
+4MA 1:26	1	12	ἀπιστία			2	faithlessness
+4MA 1:26	1	13	καὶ	καί	conjunction	1	and
+4MA 1:26	1	14	βασκανία	βασκανία	noun, nominative feminine singular	1	envy
+4MA 1:26	1	14	βασκανία			2	malice
+4MA 1:27	1	1	κατὰ	κατά	Preposition with accusative	1	with respect to
+4MA 1:27	1	1	κατὰ			2	as for
+4MA 1:27	1	2	δὲ	δέ	postpositive conjunction	1	and
+4MA 1:27	1	3	τὸ	ὁ	article, neuter singular (case from context)	1	the
+4MA 1:27	1	4	σῶμα	σῶμα	noun, neuter singular	1	body
+4MA 1:27	1	5	παντοφαγία	παντοφαγία	noun, nominative feminine singular	1	indiscriminate eating
+4MA 1:27	1	5	παντοφαγία			2	eating everything
+4MA 1:27	1	6	καὶ	καί	conjunction	1	and
+4MA 1:27	1	7	λαιμαργία	λαιμαργία	noun, nominative feminine singular	1	gluttony
+4MA 1:27	1	7	λαιμαργία			2	greediness
+4MA 1:27	1	8	καὶ	καί	conjunction	1	and
+4MA 1:27	1	9	μονοφαγία	μονοφαγία	noun, nominative feminine singular	1	eating alone
+4MA 1:27	1	9	μονοφαγία			2	solitary eating
+4MA 1:28	1	1	Καθάπερ	καθάπερ	comparative conjunction	1	just as
+4MA 1:28	1	2	οὖν	οὖν	inferential particle	1	then
+4MA 1:28	1	3	δυοῖν	δύο	Genitive dual numeral	1	two
+4MA 1:28	1	4	τοῦ	ὁ	article, genitive singular	1	the
+4MA 1:28	1	5	σώματος	σῶμα	noun, genitive neuter singular; collective singular	1	the body
+4MA 1:28	1	5	σώματος			2	the bodies
+4MA 1:28	1	6	καὶ	καί	conjunction	1	and
+4MA 1:28	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:28	1	8	ψυχῆς	ψυχή	noun, genitive feminine singular	1	soul
+4MA 1:28	1	9	φυτῶν	φυτόν	noun, genitive neuter plural	1	plants
+4MA 1:28	1	10	ὄντων	εἰμί	present active participle, genitive neuter plural; genitive absolute	1	being
+4MA 1:28	1	11	ἡδονῆς	ἡδονή	noun, genitive feminine singular	1	pleasure
+4MA 1:28	1	12	τε	τέ	enclitic connective in τε καί	1	both
+4MA 1:28	1	13	καὶ	καί	conjunction	1	and
+4MA 1:28	1	14	πόνου	πόνος	noun, genitive masculine singular	1	pain
+4MA 1:28	1	14	πόνου			2	suffering
+4MA 1:28	1	15	πολλαὶ	πολύς	adjective, nominative feminine plural	1	many
+4MA 1:28	1	16	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	these
+4MA 1:28	1	17	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:28	1	18	φυτῶν	φυτόν	noun, genitive neuter plural	1	plants
+4MA 1:28	1	19	εἰσι	εἰμί	present active indicative, third plural	1	are
+4MA 1:28	1	20	παραφυάδες	παραφυάς	noun, nominative feminine plural	1	offshoots
+4MA 1:28	1	20	παραφυάδες			2	shoots
+4MA 1:29	1	1	Ὧν	ὅς	relative pronoun, genitive feminine plural	1	of which
+4MA 1:29	1	2	ἑκάστην	ἕκαστος	adjective, accusative feminine singular; used substantivally	1	each one
+4MA 1:29	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:29	1	4	πανγέωργος	πανγέωργος	adjective, nominative masculine singular	1	cultivator of all
+4MA 1:29	1	4	πανγέωργος			2	tending everything
+4MA 1:29	1	5	λογισμὸς	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:29	1	5	λογισμὸς			2	reasoning
+4MA 1:29	1	6	περικαθαίρων	περικαθαίρω	present active participle, nominative masculine singular	1	pruning around
+4MA 1:29	1	6	περικαθαίρων			2	clearing
+4MA 1:29	1	7	τε	τέ	enclitic connective in τε καί	1	both
+4MA 1:29	1	8	καὶ	καί	conjunction	1	and
+4MA 1:29	1	9	ἀποκνίζων	ἀποκνίζω	present active participle, nominative masculine singular	1	nipping off
+4MA 1:29	1	9	ἀποκνίζων			2	pinching away
+4MA 1:29	1	10	καὶ	καί	conjunction	1	and
+4MA 1:29	1	11	περιπλέκων	περιπλέκω	present active participle, nominative masculine singular	1	binding around
+4MA 1:29	1	11	περιπλέκων			2	twining
+4MA 1:29	1	12	καὶ	καί	conjunction	1	and
+4MA 1:29	1	13	ἐπάρδων	ἐπάρδω	present active participle, nominative masculine singular	1	watering
+4MA 1:29	1	13	ἐπάρδων			2	irrigating
+4MA 1:29	1	14	καὶ	καί	conjunction	1	and
+4MA 1:29	1	15	πάντα	πᾶς	adjective, accusative neuter plural	1	all
+4MA 1:29	1	16	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
+4MA 1:29	1	16	τρόπον			2	way
+4MA 1:29	1	17	μετοχετεύων	μετοχετεύω	present active participle, nominative masculine singular	1	redirecting the channels
+4MA 1:29	1	17	μετοχετεύων			2	diverting
+4MA 1:29	1	18	ἐξημεροῖ	ἐξημερόω	present active indicative, third singular	1	tames
+4MA 1:29	1	18	ἐξημεροῖ			2	cultivates
+4MA 1:29	1	19	τὰς	ὁ	article, accusative feminine plural	1	the
+4MA 1:29	1	20	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:29	1	21	ἠθῶν	ἦθος	noun, genitive neuter plural	1	dispositions
+4MA 1:29	1	21	ἠθῶν			2	habits
+4MA 1:29	1	22	καὶ	καί	conjunction	1	and
+4MA 1:29	1	23	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:29	1	23	παθῶν			2	emotions
+4MA 1:29	1	24	ὕλας	ὕλη	noun, accusative feminine plural	1	growths
+4MA 1:29	1	24	ὕλας			2	undergrowth
+4MA 1:30	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:30	1	2	γὰρ	γάρ	explanatory conjunction	1	for
+4MA 1:30	1	3	λογισμὸς	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:30	1	3	λογισμὸς			2	reasoning
+4MA 1:30	1	4	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:30	1	5	μὲν	μέν	particle	1	indeed
+4MA 1:30	1	6	ἀρετῶν	ἀρετή	noun, genitive feminine plural	1	virtues
+4MA 1:30	1	6	ἀρετῶν			2	excellences
+4MA 1:30	1	7	ἐστιν	εἰμί	present active indicative, third person singular	1	is
+4MA 1:30	1	8	ἡγεμὼν	ἡγεμών	noun, nominative masculine singular	1	guide
+4MA 1:30	1	8	ἡγεμὼν			2	leader
+4MA 1:30	1	9	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:30	1	10	δὲ	δέ	postpositive conjunction	1	and
+4MA 1:30	1	11	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:30	1	11	παθῶν			2	emotions
+4MA 1:30	1	12	αὐτοκράτωρ	αὐτοκράτωρ	adjective, nominative masculine singular	1	sovereign
+4MA 1:30	1	12	αὐτοκράτωρ			2	absolute ruler
+4MA 1:30	1	13	Ἐπιθεώρει	ἐπιθεωρέω	present active imperative, second singular	1	observe
+4MA 1:30	1	13	Ἐπιθεώρει			2	consider
+4MA 1:30	1	14	γε	γε	emphatic particle	1	indeed
+4MA 1:30	1	15	τοίνυν	τοίνυν	inferential particle	1	therefore
+4MA 1:30	1	15	τοίνυν			2	then
+4MA 1:30	1	16	πρῶτον	πρῶτος	adverb	1	first
+4MA 1:30	1	17	δι᾿	διά	Preposition with genitive	1	through
+4MA 1:30	1	17	δι᾿			2	by
+4MA 1:30	1	18	αὐτῶν	αὐτός	adjective, genitive neuter plural; intensive	1	the very
+4MA 1:30	1	19	κωλυτικῶν	κωλυτικός	adjective, genitive neuter plural	1	that hinder
+4MA 1:30	1	19	κωλυτικῶν			2	that impede
+4MA 1:30	1	20	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:30	1	21	σωφροσύνης	σωφροσύνη	noun, genitive feminine singular	1	self-control
+4MA 1:30	1	21	σωφροσύνης			2	moderation
+4MA 1:30	1	22	ἔργων	ἔργον	noun, genitive neuter plural	1	works
+4MA 1:30	1	23	ὅτι	ὅτι	Subordinating conjunction	1	that
+4MA 1:30	1	24	αὐποδέσποτός	αὐτοδέσποτος	adjective, nominative masculine singular; spelling variant in 1:30	1	absolute master
+4MA 1:30	1	24	αὐποδέσποτός			2	sovereign
+4MA 1:30	1	25	ἐστι	εἰμί	present indicative, third singular	1	is
+4MA 1:30	1	26	τῶν	ὁ	article, genitive neuter plural	1	the
+4MA 1:30	1	27	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 1:30	1	27	παθῶν			2	emotions
+4MA 1:30	1	28	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:30	1	29	λογισμός	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:30	1	29	λογισμός			2	reasoning
+4MA 1:31	1	1	Σωφροσύνη	σωφροσύνη	noun, nominative feminine singular	1	self-control
+4MA 1:31	1	1	Σωφροσύνη			2	moderation
+4MA 1:31	1	2	δὴ	δή	Emphatic particle	1	then
+4MA 1:31	1	2	δὴ			2	indeed
+4MA 1:31	1	3	τοίνυν	τοίνυν	inferential particle	1	therefore
+4MA 1:31	1	3	τοίνυν			2	then
+4MA 1:31	1	4	ἐστὶν	εἰμί	present indicative, third singular	1	is
+4MA 1:31	1	5	ἐπικράτεια	ἐπικράτεια	noun, nominative feminine singular	1	mastery
+4MA 1:31	1	5	ἐπικράτεια			2	control
+4MA 1:31	1	6	τῶν	ὁ	article, genitive feminine plural	1	of the
+4MA 1:31	1	7	ἐπιθυμιῶν	ἐπιθυμία	noun, genitive feminine plural	1	desires
+4MA 1:31	1	7	ἐπιθυμιῶν			2	appetites
+4MA 1:32	1	1	Τῶν	ὁ	article, genitive plural	1	the
+4MA 1:32	1	2	δὲ	δέ	postpositive conjunction	1	and
+4MA 1:32	1	3	ἐπιθυμιῶν	ἐπιθυμία	noun, genitive feminine plural	1	desires
+4MA 1:32	1	3	ἐπιθυμιῶν			2	appetites
+4MA 1:32	1	4	αἱ	ὁ	article, nominative feminine plural	1	the
+4MA 1:32	1	5	μέν	μέν	particle	1	indeed
+4MA 1:32	1	6	εἰσι	εἰμί	present active indicative, third plural	1	are
+4MA 1:32	1	7	ψυχικαὶ	ψυχικός	adjective, nominative feminine plural	1	of the soul
+4MA 1:32	1	7	ψυχικαὶ			2	mental
+4MA 1:32	1	8	αἱ	ὁ	article, nominative feminine plural	1	the
+4MA 1:32	1	9	δὲ	δέ	postpositive conjunction	1	and
+4MA 1:32	1	10	σωματικαί	σωματικός	adjective, nominative feminine plural	1	bodily
+4MA 1:32	1	10	σωματικαί			2	physical
+4MA 1:32	1	11	καὶ	καί	conjunction	1	and
+4MA 1:32	1	12	τούτων	οὗτος	demonstrative pronoun, genitive plural	1	these
+4MA 1:32	1	13	ἀμφοτέρων	ἀμφότερος	adjective, genitive feminine plural	1	both
+4MA 1:32	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:32	1	15	λογισμὸς	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:32	1	15	λογισμὸς			2	reasoning
+4MA 1:32	1	16	ἐπικρατεῖν	ἐπικρατέω	present active infinitive	1	to master
+4MA 1:32	1	16	ἐπικρατεῖν			2	to prevail over
+4MA 1:32	1	17	φαίνεται	φαίνω	present middle indicative, third singular	1	seems
+4MA 1:32	1	17	φαίνεται			2	appears
+4MA 1:33	1	1	Ἐπεὶ	ἐπεί	Causal or explanatory conjunction	1	for
+4MA 1:33	1	1	Ἐπεὶ			2	since
+4MA 1:33	1	2	πόθεν	πόθεν	Interrogative adverb	1	how
+4MA 1:33	1	2	πόθεν			2	from what cause
+4MA 1:33	1	3	κινούμενοι	κινέω	present middle participle, nominative masculine plural	1	stirred
+4MA 1:33	1	3	κινούμενοι			2	swaying
+4MA 1:33	1	4	πρὸς	πρός	preposition with the accusative	1	to
+4MA 1:33	1	5	τὰς	ὁ	article, accusative feminine plural	1	the
+4MA 1:33	1	6	ἀπειρημένας	ἀπαγορεύω	perfect passive participle, accusative feminine plural	1	forbidden
+4MA 1:33	1	6	ἀπειρημένας			2	prohibited
+4MA 1:33	1	7	τροφὰς	τροφή	noun, accusative feminine plural	1	provisions
+4MA 1:33	1	8	ἀποτρεπόμεθα	ἀποτρέπω	present middle indicative, first plural	1	we turn away from
+4MA 1:33	1	8	ἀποτρεπόμεθα			2	we reject
+4MA 1:33	1	9	τὰς	ὁ	article, accusative feminine plural	1	the
+4MA 1:33	1	10	ἐξ	ἐκ	preposition with genitive	1	from
+4MA 1:33	1	11	ἑαυτῶν	ἑαυτοῦ	Reflexive pronoun used for first-person plural; genitive	1	ourselves
+4MA 1:33	1	12	ἡδονάς	ἡδονή	noun, accusative feminine plural	1	pleasures
+4MA 1:33	1	13	οὐχ	οὐ	particle	1	not
+4MA 1:33	1	14	ὅτι	ὅτι	Subordinating conjunction	1	that
+4MA 1:33	1	15	δύναται	δύναμαι	present middle indicative, third singular	1	could prevail
+4MA 1:33	1	15	δύναται			2	is able
+4MA 1:33	1	16	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:33	1	17	ὀρέξεων	ὄρεξις	noun, genitive feminine plural	1	appetites
+4MA 1:33	1	17	ὀρέξεων			2	cravings
+4MA 1:33	1	18	ἐπικρατεῖν	ἐπικρατέω	present active infinitive	1	to master
+4MA 1:33	1	18	ἐπικρατεῖν			2	to prevail over
+4MA 1:33	1	19	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 1:33	1	20	λογισμός	λογισμός	noun, nominative masculine singular	1	reason
+4MA 1:33	1	20	λογισμός			2	reasoning
+4MA 1:33	1	21	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
+4MA 1:33	1	22	μὲν	μέν	particle, first member of μέν...δέ contrast	1	indeed
+4MA 1:33	1	23	οἶμαι	οἴομαι	present middle indicative, first singular	1	I think
+4MA 1:33	1	23	οἶμαι			2	I suppose
+4MA 1:34	1	1	Τοιγαροῦν	τοιγαροῦν	inferential particle	1	therefore
+4MA 1:34	1	1	Τοιγαροῦν			2	so then
+4MA 1:34	1	2	ἐνύδρων	ἔνυδρος	adjective, genitive neuter plural; used substantivally	1	aquatic creatures
+4MA 1:34	1	2	ἐνύδρων			2	water animals
+4MA 1:34	1	3	ἐπιθυμοῦντες	ἐπιθυμέω	present active participle, nominative masculine plural; substantival	1	those who long for
+4MA 1:34	1	4	καὶ	καί	conjunction	1	and
+4MA 1:34	1	5	ὀρνέων	ὄρνεον	noun, genitive neuter plural	1	birds
+4MA 1:34	1	6	καὶ	καί	conjunction	1	and
+4MA 1:34	1	7	τετραπόδων	τετράπους	adjective, genitive neuter plural; used substantivally	1	four-footed animals
+4MA 1:34	1	8	καὶ	καί	conjunction	1	and
+4MA 1:34	1	9	παντοίων	παντοῖος	adjective, genitive neuter plural	1	of every kind
+4MA 1:34	1	9	παντοίων			2	all kinds of
+4MA 1:34	1	10	βρωμάτων	βρῶμα	noun, genitive neuter plural	1	foods
+4MA 1:34	1	11	τῶν	ὁ	article, genitive neuter plural	1	that are
+4MA 1:34	1	12	ἀπηγορευμένων	ἀπαγορεύω	perfect passive participle, genitive neuter plural	1	forbidden
+4MA 1:34	1	12	ἀπηγορευμένων			2	prohibited
+4MA 1:34	1	13	ἡμῖν	ἐγώ	First-person plural pronoun; dative	1	to us
+4MA 1:34	1	14	κατὰ	κατά	preposition with the accusative	1	according to
+4MA 1:34	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
+4MA 1:34	1	16	νόμον	νόμος	noun, accusative masc. sg	1	law
+4MA 1:34	1	17	ἀπεχόμεθα	ἀπέχω	present middle indicative, first plural	1	we abstain
+4MA 1:34	1	17	ἀπεχόμεθα			2	we hold back
+4MA 1:34	1	18	διὰ	διά	preposition with the accusative	1	because of
+4MA 1:34	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
+4MA 1:34	1	20	τοῦ	ὁ	article, genitive singular	1	the
+4MA 1:34	1	21	λογισμοῦ	λογισμός	noun, genitive masculine singular	1	reason
+4MA 1:34	1	21	λογισμοῦ			2	reasoning
+4MA 1:34	1	22	ἐπικράτειαν	ἐπικράτεια	noun, accusative feminine singular	1	mastery
+4MA 1:34	1	22	ἐπικράτειαν			2	control
+4MA 1:35	1	1	Ἀντέχεται	ἀντέχω	present middle indicative, third singular; singular verb with neuter plural subject	1	are held back
+4MA 1:35	1	1	Ἀντέχεται			2	are resisted
+4MA 1:35	1	2	γὰρ	γάρ	explanatory conjunction	1	for
+4MA 1:35	1	3	τὰ	ὁ	article, neuter plural (case from context)	1	the
+4MA 1:35	1	4	τῶν	ὁ	article, genitive feminine plural	1	of the
+4MA 1:35	1	5	ὀρέξεων	ὄρεξις	noun, genitive feminine plural	1	appetites
+4MA 1:35	1	5	ὀρέξεων			2	cravings
+4MA 1:35	1	6	πάθη	πάθος	noun, nominative neuter plural	1	passions
+4MA 1:35	1	6	πάθη			2	emotions
+4MA 1:35	1	7	ὑπὸ	ὑπό	Preposition with genitive	1	by
+4MA 1:35	1	8	τοῦ	ὁ	article, genitive singular	1	the
+4MA 1:35	1	9	σώφρονος	σώφρων	adjective, genitive masculine singular	1	self-controlled
+4MA 1:35	1	9	σώφρονος			2	temperate
+4MA 1:35	1	10	νοὸς	νοῦς	noun, genitive masculine singular	1	mind
+4MA 1:35	1	11	ἀνακαμπτόμενα	ἀνακάμπτω	present passive participle, nominative neuter plural	1	being turned back
+4MA 1:35	1	11	ἀνακαμπτόμενα			2	being checked
+4MA 1:35	1	12	καὶ	καί	conjunction	1	and
+4MA 1:35	1	13	φιμοῦται	φιμόω	present passive indicative, third singular; singular verb with neuter plural subject	1	are muzzled
+4MA 1:35	1	13	φιμοῦται			2	are restrained
+4MA 1:35	1	14	πάντα	πᾶς	adjective, nominative neuter plural	1	all
+4MA 1:35	1	15	τὰ	ὁ	article, accusative neuter plural	1	the
+4MA 1:35	1	16	τοῦ	ὁ	article, genitive neuter singular	1	of the
+4MA 1:35	1	17	σώματος	σῶμα	noun, genitive neuter singular; collective singular	1	the body
+4MA 1:35	1	17	σώματος			2	the bodies
+4MA 1:35	1	18	κινήματα	κίνημα	noun, nominative neuter plural	1	impulses
+4MA 1:35	1	18	κινήματα			2	movements
+4MA 1:35	1	19	ὑπὸ	ὑπό	Preposition with genitive	1	by
+4MA 1:35	1	20	τοῦ	ὁ	article, genitive singular	1	the
+4MA 1:35	1	21	λογισμοῦ	λογισμός	noun, genitive masculine singular	1	reason
+4MA 1:35	1	21	λογισμοῦ			2	reasoning
