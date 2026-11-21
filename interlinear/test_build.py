@@ -31,6 +31,8 @@ class WordCitations(unittest.TestCase):
             2,
         )
         expected_coverage = [
+            ("1SA 1", 776),
+            ("1SA 2", 923),
             ("AMO 1", 342),
             ("AMO 2", 365),
             ("AMO 3", 308),
