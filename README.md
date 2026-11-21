@@ -4,7 +4,7 @@
 
 ## The word-by-word interlinear
 
-All 33,036 words of Genesis have a literal English gloss and grammatical analysis. Exodus 1–18, Leviticus 1–24, Amos 1–9, the books of Ruth and Jonah, and Psalms 21, 22, 50, 116 and 133 have the same coverage. These are Psalms 22, 23, 51, 117 and 134 in the King James Bible. In the shepherd psalm, for instance, *ποιμαίνει* means “shepherds” or “tends.” The [v0.3.0 database](https://github.com/greenm01/athens-lxx/releases/download/v0.3.0/athens.sqlite) indexes all four volumes and includes Genesis 1 and Psalms 21, 22 and 50. The chapter files and a fresh local database build include the whole of Genesis.
+All 33,036 words of Genesis have a literal English gloss and grammatical analysis. Exodus 1–19, Leviticus 1–24, Amos 1–9, the books of Ruth and Jonah, and Psalms 21, 22, 50, 116 and 133 have the same coverage. These are Psalms 22, 23, 51, 117 and 134 in the King James Bible. In the shepherd psalm, for instance, *ποιμαίνει* means “shepherds” or “tends.” The [v0.3.0 database](https://github.com/greenm01/athens-lxx/releases/download/v0.3.0/athens.sqlite) indexes all four volumes and includes Genesis 1 and Psalms 21, 22 and 50. The chapter files and a fresh local database build include the whole of Genesis.
 
 [Genesis chapter index](interlinear/README.md#reading-the-athens-interlinear) · [Psalm 21](interlinear/PSA-021.tsv) · [Psalm 22](interlinear/PSA-022.tsv) · [Psalm 50](interlinear/PSA-050.tsv) · [Query or build the database](interlinear/README.md)
 
