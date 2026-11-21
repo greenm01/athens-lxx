@@ -255,8 +255,14 @@ class WordCitations(unittest.TestCase):
             ("4MA 8", 472),
             ("4MA 9", 551),
             ("4MA 10", 310),
+            ("4MA 11", 358),
+            ("4MA 12", 289),
             ("4MA 13", 455),
             ("4MA 14", 358),
+            ("4MA 15", 544),
+            ("4MA 16", 448),
+            ("4MA 17", 406),
+            ("4MA 18", 415),
             ("AMO 1", 342),
             ("AMO 2", 365),
             ("AMO 3", 308),
@@ -1147,10 +1153,8 @@ class WordCitations(unittest.TestCase):
         self.assertEqual(
             db.execute(
                 "SELECT substr(ref,1,instr(ref,':')-1) AS passage, count(*), count(english) "
-                "FROM interlinear WHERE (preference=1 OR preference IS NULL) AND "
-                "substr(ref,1,instr(ref,':')-1) IN (" + ",".join("?" for _ in expected_coverage) + ") "
-                "GROUP BY passage ORDER BY substr(passage,1,3), CAST(substr(passage,5) AS INTEGER)",
-                [ref for ref, _ in expected_coverage],
+                "FROM interlinear WHERE preference=1 OR preference IS NULL "
+                "GROUP BY passage ORDER BY substr(passage,1,3), CAST(substr(passage,5) AS INTEGER)"
             ).fetchall(),
             [(ref, words, words) for ref, words in expected_coverage],
         )

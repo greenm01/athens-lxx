@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 1112 chapters below have 598,037 indexed words and 646,494 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The 1,118 chapter files cover every one of the 600,497 indexed word occurrences in the [Athens transcription](../text/), including the prologue to Sirach. They contain 649,326 English glosses, counting alternatives. For a first reading, choose preference 1.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -1037,8 +1037,14 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [4 Maccabees 8](4MA-008.tsv) | 472 | 638 |
 | [4 Maccabees 9](4MA-009.tsv) | 551 | 752 |
 | [4 Maccabees 10](4MA-010.tsv) | 310 | 404 |
+| [4 Maccabees 11](4MA-011.tsv) | 358 | 495 |
+| [4 Maccabees 12](4MA-012.tsv) | 289 | 398 |
 | [4 Maccabees 13](4MA-013.tsv) | 455 | 496 |
-| [4 Maccabees 14](4MA-014.tsv) | 358 | 387 |
+| [4 Maccabees 14](4MA-014.tsv) | 358 | 386 |
+| [4 Maccabees 15](4MA-015.tsv) | 544 | 582 |
+| [4 Maccabees 16](4MA-016.tsv) | 448 | 484 |
+| [4 Maccabees 17](4MA-017.tsv) | 406 | 434 |
+| [4 Maccabees 18](4MA-018.tsv) | 415 | 440 |
 | [Baruch 1](BAR-001.tsv) | 524 | 597 |
 | [Baruch 2](BAR-002.tsv) | 794 | 938 |
 | [Baruch 3](BAR-003.tsv) | 572 | 700 |

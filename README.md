@@ -4,9 +4,11 @@
 
 ## The word-by-word interlinear
 
-All 33,036 words of Genesis have a literal English gloss and grammatical analysis. The [chapter index](interlinear/README.md) lists the other books and psalms with word-by-word English, and gives the word and gloss counts for each chapter. In the shepherd psalm, for instance, *ποιμαίνει* means “shepherds” or “tends.” The [v0.3.0 database](https://github.com/greenm01/athens-lxx/releases/download/v0.3.0/athens.sqlite) indexes all four volumes and includes Genesis 1 and Psalms 21, 22 and 50. The chapter files and a fresh local database build include the whole of Genesis.
+Read the Greek in printed order with a literal English gloss, lemma and grammatical analysis for each word. Where a word admits more than one rendering, the first gloss gives the editors’ choice for that occurrence. In Psalm 22:1, for instance, *ποιμαίνει* can mean “shepherds” or “tends.” The English and grammatical analyses are AI-assisted editorial drafts.
 
-[Genesis chapter index](interlinear/README.md#reading-the-athens-interlinear) · [Psalm 21](interlinear/PSA-021.tsv) · [Psalm 22](interlinear/PSA-022.tsv) · [Psalm 50](interlinear/PSA-050.tsv) · [Query or build the database](interlinear/README.md)
+The chapter files on this branch supply the current interlinear. To search them together, run `python3 -I interlinear/build.py` from the repository root and open `build/athens.sqlite`. The [v0.3.0 database](https://github.com/greenm01/athens-lxx/releases/download/v0.3.0/athens.sqlite) indexes the same Greek text and contains the earlier English pilot for Genesis 1 and Psalms 21, 22 and 50.
+
+[Chapter index](interlinear/README.md#reading-the-athens-interlinear) · [Psalm 21](interlinear/PSA-021.tsv) · [Psalm 22](interlinear/PSA-022.tsv) · [Psalm 50](interlinear/PSA-050.tsv) · [Query or build the database](interlinear/README.md)
 
 The print sometimes tells readers how to find their place. In Sirach 30 a Latin notice points ahead to chapter 33, where a passage continues in a different order. The database records the notice as it appears on the page. It also identifies Sirach’s eleven section titles, the closing account in Job, and the parentheses around “all” in Psalm 2:10. [See the marked passages](interlinear/print/passages.tsv)
 

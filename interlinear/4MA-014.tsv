@@ -88,7 +88,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:6	1	15	μείρακες	μεῖραξ	noun, nominative masculine plural	1	youths
 4MA 14:6	1	16	ἐκεῖνοι	ἐκεῖνος	demonstrative pronoun, nominative masculine plural	1	those
 4MA 14:6	1	17	ὡς	ὡς	comparative particle	1	as
-4MA 14:6	1	18	ὑπὸ	ὑπό	preposition with the accusative	1	under
+4MA 14:6	1	18	ὑπὸ	ὑπό	preposition with genitive	1	by
 4MA 14:6	1	19	ψυχῆς	ψυχή	noun, genitive feminine singular	1	soul
 4MA 14:6	1	20	μιᾶς	εἷς	cardinal numeral, genitive feminine singular	1	one
 4MA 14:6	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -100,10 +100,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:6	1	25	κινούμενοι			2	swaying
 4MA 14:6	1	26	πρὸς	πρός	preposition with the accusative	1	to
 4MA 14:6	1	27	τὸν	ὁ	article, accusative masculine singular	1	the
-4MA 14:6	1	28	ὑπὲρ	ὑπέρ	preposition with accusative, comparative	1	more than
+4MA 14:6	1	28	ὑπὲρ	ὑπέρ	preposition with genitive	1	for the sake of
 4MA 14:6	1	28	ὑπὲρ			2	beyond
-4MA 14:6	1	29	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
-4MA 14:6	1	30	συνεφώνησαν	συμφωνέω	aorist active indicative, third plural	1	joined together
+4MA 14:6	1	29	αὐτῆς	αὐτός	personal pronoun, genitive feminine singular	1	it
+4MA 14:6	1	30	συνεφώνησαν	συμφωνέω	aorist active indicative, third plural	1	they agreed
 4MA 14:6	1	30	συνεφώνησαν			2	agreed
 4MA 14:6	1	31	θάνατον	θάνατος	noun, accusative masculine singular	1	death
 4MA 14:7	1	1	Ὦ	ὦ	vocative particle	1	O
@@ -126,7 +126,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:8	1	2	περὶ	περί	Preposition with accusative	1	concerning
 4MA 14:8	1	2	περὶ			2	with respect to
 4MA 14:8	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
-4MA 14:8	1	4	ἑβδομάδα	ἑβδομάς	noun, accusative feminine singular	1	seventh day
+4MA 14:8	1	4	ἑβδομάδα	ἑβδομάς	noun, accusative feminine singular	1	group of seven
 4MA 14:8	1	5	χορεύοντες	χορεύω	present active participle, nominative masculine plural	1	dancing
 4MA 14:8	1	6	οἱ	ὁ	article, nominative masculine plural	1	the
 4MA 14:8	1	7	μείρακες	μεῖραξ	noun, nominative masculine plural	1	youths
@@ -259,7 +259,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:14	1	9	πρὸς	πρός	preposition with the accusative	1	to
 4MA 14:14	1	10	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 4MA 14:14	1	11	ἐξ	ἐκ	preposition with genitive	1	from
-4MA 14:14	1	12	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
+4MA 14:14	1	12	αὐτῶν	αὐτός	personal pronoun, genitive plural	1	them
 4MA 14:14	1	13	γεννώμενα	γεννάω	present passive participle, nominative neuter plural	1	being born
 4MA 14:14	1	14	συμπάθειαν	συμπάθεια	noun, accusative feminine singular	1	sympathy
 4MA 14:14	1	15	καὶ	καί	conjunction	1	and
@@ -311,9 +311,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:17	1	5	δύναιντο	δύναμαι	present middle optative, third plural	1	they might be able
 4MA 14:17	1	6	κωλύειν	κωλύω	present active infinitive	1	to hinder
 4MA 14:17	1	7	περιπτάμενα	περιπέτομαι	present middle participle, nominative neuter plural	1	flying about
-4MA 14:17	1	8	κυκλόθεν	κυκλόθεν	adverb	1	from every side
-4MA 14:17	1	8	κυκλόθεν			2	all around
-4MA 14:17	1	9	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+4MA 14:17	1	8	κυκλόθεν	κυκλόθεν	adverb	1	all around
+4MA 14:17	1	9	αὐτῶν	αὐτός	personal pronoun, genitive plural	1	them
 4MA 14:17	1	10	ἀλγοῦντα	ἀλγέω	present active participle, nominative neuter plural	1	grieving
 4MA 14:17	1	11	τῇ	ὁ	article, dative feminine singular	1	the
 4MA 14:17	1	12	στοργῇ	στοργή	noun, dative feminine singular	1	affection
@@ -322,8 +321,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:17	1	15	ἰδίᾳ	ἴδιος	adjective, dative feminine singular	1	its own
 4MA 14:17	1	16	φωνῇ	φωνή	noun, dative feminine singular, instrumental	1	with a voice
 4MA 14:17	1	17	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	by
-4MA 14:17	1	18	ὃν	ὅς	relative pronoun, accusative masculine singular	1	in the
-4MA 14:17	1	19	δύναται	δύναμαι	present middle indicative, third singular	1	could prevail
+4MA 14:17	1	18	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
+4MA 14:17	1	19	δύναται	δύναμαι	present middle indicative, third singular	1	it can
 4MA 14:17	1	19	δύναται			2	is able
 4MA 14:17	1	20	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
 4MA 14:17	1	21	βοηθεῖ	βοηθέω	present active indicative third singular	1	helps
