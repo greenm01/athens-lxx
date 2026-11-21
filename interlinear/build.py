@@ -24,7 +24,8 @@ CREATE TABLE verse (id INTEGER PRIMARY KEY, ref TEXT NOT NULL, occurrence INTEGE
 CREATE TABLE word (verse_id INTEGER REFERENCES verse, position INTEGER NOT NULL,
     surface TEXT NOT NULL, start INTEGER NOT NULL, end INTEGER NOT NULL, search_key TEXT NOT NULL,
     PRIMARY KEY(verse_id, position)) WITHOUT ROWID;
-CREATE TABLE analysis (verse_id INTEGER, position INTEGER, lemma TEXT NOT NULL, grammar TEXT NOT NULL,
+CREATE TABLE analysis (verse_id INTEGER, position INTEGER, lemma TEXT NOT NULL, grammar TEXT NOT NULL, strong TEXT,
+    strong_status TEXT NOT NULL DEFAULT 'pending',
     PRIMARY KEY(verse_id, position), FOREIGN KEY(verse_id,position) REFERENCES word) WITHOUT ROWID;
 CREATE TABLE gloss (verse_id INTEGER, position INTEGER, preference INTEGER CHECK(preference >= 1),
     english TEXT NOT NULL, PRIMARY KEY(verse_id,position,preference),
@@ -43,7 +44,7 @@ CREATE VIEW printed_passages AS
     JOIN word a ON a.verse_id=v.id AND a.position=f.first_word
     JOIN word b ON b.verse_id=v.id AND b.position=f.last_word;
 CREATE VIEW interlinear AS
-    SELECT v.ref, v.occurrence, w.position, w.surface, a.lemma, a.grammar, g.english, g.preference
+    SELECT v.ref, v.occurrence, w.position, w.surface, a.lemma, a.grammar, g.english, g.preference, a.strong
     FROM verse v JOIN word w ON v.id=w.verse_id LEFT JOIN analysis a USING(verse_id,position)
     LEFT JOIN gloss g USING(verse_id,position);
 """
@@ -74,6 +75,37 @@ def search_key(word):
         for c in unicodedata.normalize("NFD", word).casefold()
         if unicodedata.category(c)[0] != "M" and c not in APOSTROPHES + GREEK_PREFIX
     )
+
+
+def apply_strongs(db, directory):
+    def rows(name):
+        with (directory / name).open(encoding="utf-8", newline="") as f:
+            yield from csv.DictReader(f, delimiter="\t")
+
+    inventory = {row["strong"] for row in rows("inventory.tsv")}
+    for name in ("lemmas.tsv", "occurrences.tsv"):
+        seen = set()
+        for row in rows(name):
+            strong = row["strong"]
+            if strong and strong not in inventory:
+                raise ValueError(f"Unknown Strong’s number in {name}: {strong}")
+            key = row["lemma"] if name == "lemmas.tsv" else (
+                row["ref"], int(row["occurrence"]), int(row["position"]))
+            if key in seen:
+                raise ValueError(f"Duplicate Strong’s decision in {name}: {key}")
+            seen.add(key)
+            values = (strong or None, "assigned" if strong else "no_number")
+            if name == "lemmas.tsv":
+                result = db.execute("UPDATE analysis SET strong=?,strong_status=? WHERE lemma=?",
+                                    (*values, key))
+            else:
+                result = db.execute("""UPDATE analysis SET strong=?,strong_status=?
+                    WHERE lemma=? AND (verse_id,position) IN (
+                    SELECT id,position FROM verse JOIN word ON id=verse_id
+                    WHERE ref=? AND occurrence=? AND position=? AND surface=?)""",
+                                    (*values, row["lemma"], *key, row["surface"]))
+            if not result.rowcount:
+                raise ValueError(f"Stale Strong’s decision in {name}: {key}")
 
 
 def add_notes(db):
@@ -165,7 +197,7 @@ def build(db):
                     if not (row["lemma"] and row["grammar"]):
                         raise ValueError(f"Missing analysis at {key}")
                     db.execute(
-                        "INSERT INTO analysis VALUES(?,?,?,?)",
+                        "INSERT INTO analysis(verse_id,position,lemma,grammar) VALUES(?,?,?,?)",
                         (*wid, row["lemma"], row["grammar"]),
                     )
                 elif row["lemma"] or row["grammar"]:
@@ -180,6 +212,8 @@ def build(db):
     add_print_features(db)
     db.execute("CREATE INDEX word_search ON word(search_key)")
     db.execute("CREATE INDEX analysis_lemma ON analysis(lemma)")
+    apply_strongs(db, ROOT / "interlinear/strongs")
+    db.execute("CREATE INDEX analysis_strong ON analysis(strong) WHERE strong IS NOT NULL")
     db.execute("CREATE INDEX gloss_english ON gloss(english)")
 
 

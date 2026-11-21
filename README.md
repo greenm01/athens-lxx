@@ -6,7 +6,7 @@
 
 Read the Greek in printed order with a literal English gloss, lemma and grammatical analysis for each word. Where a word admits more than one rendering, the first gloss gives the editors’ choice for that occurrence. In Psalm 22:1, for instance, *ποιμαίνει* can mean “shepherds” or “tends.” The English and grammatical analyses are AI-assisted editorial drafts.
 
-Download the [complete interlinear database, v0.4.0](https://github.com/greenm01/athens-lxx/releases/download/v0.4.0/athens.sqlite) to search all four volumes. To build it from the chapter files, run `python3 -I interlinear/build.py` from the repository root and open `build/athens.sqlite`.
+Download the [complete interlinear database, v0.5.0](https://github.com/greenm01/athens-lxx/releases/download/v0.5.0/athens.sqlite) to search all four volumes. To build it from the chapter files, run `python3 -I interlinear/build.py` from the repository root and open `build/athens.sqlite`. The database includes [reviewed Greek Strong’s numbers](interlinear/strongs/) for 351,091 word positions.
 
 [Chapter index](interlinear/README.md#reading-the-athens-interlinear) · [Psalm 21](interlinear/PSA-021.tsv) · [Psalm 22](interlinear/PSA-022.tsv) · [Psalm 50](interlinear/PSA-050.tsv) · [Query or build the database](interlinear/README.md)
 
