@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 593 chapters below have 335,891 indexed words and 364,801 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 598 chapters below have 338,055 indexed words and 367,098 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -382,6 +382,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [2 Chronicles 22](2CH-022.tsv) | 363 | 386 |
 | [2 Chronicles 23](2CH-023.tsv) | 639 | 679 |
 | [2 Chronicles 24](2CH-024.tsv) | 708 | 762 |
+| [2 Chronicles 25](2CH-025.tsv) | 745 | 801 |
+| [2 Chronicles 26](2CH-026.tsv) | 602 | 642 |
+| [2 Chronicles 27](2CH-027.tsv) | 195 | 210 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -452,6 +455,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 68](PSA-068.tsv) | 552 | 552 |
 | [Psalm 69](PSA-069.tsv) | 90 | 90 |
 | [Psalm 70](PSA-070.tsv) | 385 | 387 |
+| [Psalm 71](PSA-071.tsv) | 290 | 292 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 448 |
@@ -460,6 +464,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Proverbs 4](PRO-004.tsv) | 351 | 373 |
 | [Proverbs 5](PRO-005.tsv) | 305 | 320 |
 | [Proverbs 6](PRO-006.tsv) | 487 | 517 |
+| [Proverbs 7](PRO-007.tsv) | 332 | 352 |
 | [Isaiah 1](ISA-001.tsv) | 599 | 749 |
 | [Isaiah 2](ISA-002.tsv) | 457 | 551 |
 | [Isaiah 3](ISA-003.tsv) | 503 | 616 |
