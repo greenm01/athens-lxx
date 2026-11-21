@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 900 chapters below have 479,914 indexed words and 517,739 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 907 chapters below have 481,913 indexed words and 519,911 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -617,6 +617,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Psalm 134](PSA-134.tsv) | 275 | 275 |
 | [Psalm 135](PSA-135.tsv) | 345 | 345 |
+| [Psalm 136](PSA-136.tsv) | 127 | 128 |
+| [Psalm 137](PSA-137.tsv) | 136 | 136 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
 | [Proverbs 2](PRO-002.tsv) | 272 | 289 |
 | [Proverbs 3](PRO-003.tsv) | 450 | 474 |
@@ -787,6 +789,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Jeremiah 51](JER-051.tsv) | 1078 | 1274 |
 | [Jeremiah 52](JER-052.tsv) | 859 | 989 |
 | [Lamentations 1](LAM-001.tsv) | 657 | 784 |
+| [Lamentations 2](LAM-002.tsv) | 620 | 743 |
 | [Ezekiel 1](EZK-001.tsv) | 637 | 637 |
 | [Ezekiel 2](EZK-002.tsv) | 230 | 230 |
 | [Ezekiel 3](EZK-003.tsv) | 667 | 667 |
@@ -881,6 +884,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Tobit 4](TOB-004.tsv) | 564 | 585 |
 | [Tobit 5](TOB-005.tsv) | 451 | 478 |
 | [Tobit 6](TOB-006.tsv) | 486 | 508 |
+| [Tobit 7](TOB-007.tsv) | 358 | 370 |
+| [Tobit 8](TOB-008.tsv) | 364 | 383 |
+| [Tobit 9](TOB-009.tsv) | 93 | 95 |
+| [Tobit 10](TOB-010.tsv) | 301 | 317 |
 | [1 Esdras 1](1ES-001.tsv) | 1238 | 1292 |
 | [1 Esdras 2](1ES-002.tsv) | 677 | 707 |
 | [1 Esdras 3](1ES-003.tsv) | 411 | 432 |
