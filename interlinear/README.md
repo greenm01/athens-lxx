@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 268 chapters below have 156,162 indexed words and 170,413 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 274 chapters below have 158,621 indexed words and 173,247 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -192,6 +192,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Judges 9](JDG-009.tsv) | 1402 | 1490 |
 | [Judges 10](JDG-010.tsv) | 404 | 427 |
 | [Judges 11](JDG-011.tsv) | 1058 | 1120 |
+| [Judges 12](JDG-012.tsv) | 345 | 374 |
+| [Judges 13](JDG-013.tsv) | 629 | 714 |
+| [Judges 14](JDG-014.tsv) | 589 | 666 |
 | [Ruth 1](RUT-001.tsv) | 538 | 638 |
 | [Ruth 2](RUT-002.tsv) | 618 | 755 |
 | [Ruth 3](RUT-003.tsv) | 408 | 487 |
@@ -219,6 +222,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Hosea 4](HOS-004.tsv) | 366 | 454 |
 | [Hosea 5](HOS-005.tsv) | 285 | 338 |
 | [Hosea 6](HOS-006.tsv) | 169 | 210 |
+| [Hosea 7](HOS-007.tsv) | 320 | 388 |
+| [Hosea 8](HOS-008.tsv) | 234 | 281 |
+| [Hosea 9](HOS-009.tsv) | 342 | 411 |
 | [Amos 1](AMO-001.tsv) | 342 | 435 |
 | [Amos 2](AMO-002.tsv) | 365 | 446 |
 | [Amos 3](AMO-003.tsv) | 308 | 368 |
