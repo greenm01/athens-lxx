@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 1000 chapters below have 521,446 indexed words and 562,830 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 1008 chapters below have 526,661 indexed words and 568,504 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -641,6 +641,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Odes 6](ODA-006.tsv) | 374 | 471 |
 | [Odes 7](ODA-007.tsv) | 224 | 264 |
 | [Odes 8](ODA-008.tsv) | 343 | 343 |
+| [Odes 9](ODA-009.tsv) | 392 | 392 |
+| [Odes 10](ODA-010.tsv) | 523 | 523 |
 | [Odes 11](ODA-011.tsv) | 104 | 104 |
 | [Odes 12](ODA-012.tsv) | 38 | 38 |
 | [Odes 13](ODA-013.tsv) | 145 | 146 |
@@ -844,6 +846,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Susanna 1](SUS-001.tsv) | 1134 | 1376 |
 | [Daniel 1](DAG-001.tsv) | 504 | 603 |
 | [Daniel 2](DAG-002.tsv) | 1263 | 1534 |
+| [Daniel 3](DAG-003.tsv) | 938 | 1152 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
@@ -952,6 +955,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Esdras 9](1ES-009.tsv) | 935 | 977 |
 | [1 Maccabees 1](1MA-001.tsv) | 1073 | 1156 |
 | [1 Maccabees 2](1MA-002.tsv) | 1152 | 1244 |
+| [1 Maccabees 3](1MA-003.tsv) | 1175 | 1273 |
+| [1 Maccabees 4](1MA-004.tsv) | 1100 | 1182 |
 | [Baruch 1](BAR-001.tsv) | 524 | 597 |
 | [Baruch 2](BAR-002.tsv) | 794 | 938 |
 | [Baruch 3](BAR-003.tsv) | 572 | 700 |
@@ -1004,6 +1009,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Sirach 24](SIR-024.tsv) | 483 | 510 |
 | [Sirach 25](SIR-025.tsv) | 343 | 368 |
 | [Sirach 26](SIR-026.tsv) | 399 | 419 |
+| [Sirach 27](SIR-027.tsv) | 367 | 384 |
+| [Sirach 28](SIR-028.tsv) | 349 | 366 |
+| [Sirach 29](SIR-029.tsv) | 371 | 402 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
