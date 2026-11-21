@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 476 chapters below have 279,536 indexed words and 303,924 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 484 chapters below have 284,616 indexed words and 309,487 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -319,7 +319,11 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [4 Kingdoms 13](2KI-013.tsv) | 618 | 674 |
 | [4 Kingdoms 14](2KI-014.tsv) | 698 | 765 |
 | [4 Kingdoms 15](2KI-015.tsv) | 849 | 954 |
+| [4 Kingdoms 16](2KI-016.tsv) | 554 | 600 |
+| [4 Kingdoms 17](2KI-017.tsv) | 1059 | 1141 |
+| [4 Kingdoms 18](2KI-018.tsv) | 940 | 1033 |
 | [1 Chronicles 1](1CH-001.tsv) | 637 | 660 |
+| [1 Chronicles 2](1CH-002.tsv) | 724 | 779 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -367,6 +371,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 45](PSA-045.tsv) | 162 | 162 |
 | [Psalm 46](PSA-046.tsv) | 109 | 109 |
 | [Psalm 47](PSA-047.tsv) | 200 | 200 |
+| [Psalm 48](PSA-048.tsv) | 291 | 292 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
@@ -413,6 +418,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Isaiah 41](ISA-041.tsv) | 584 | 665 |
 | [Isaiah 42](ISA-042.tsv) | 502 | 581 |
 | [Isaiah 43](ISA-043.tsv) | 539 | 611 |
+| [Isaiah 44](ISA-044.tsv) | 663 | 752 |
+| [Isaiah 45](ISA-045.tsv) | 600 | 670 |
+| [Isaiah 46](ISA-046.tsv) | 249 | 296 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
