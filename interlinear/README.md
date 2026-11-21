@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 867 chapters below have 470,265 indexed words and 507,505 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 875 chapters below have 471,798 indexed words and 509,093 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -600,6 +600,11 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 117](PSA-117.tsv) | 333 | 334 |
 | [Psalm 118](PSA-118.tsv) | 2084 | 2087 |
+| [Psalm 119](PSA-119.tsv) | 73 | 74 |
+| [Psalm 120](PSA-120.tsv) | 97 | 97 |
+| [Psalm 121](PSA-121.tsv) | 105 | 105 |
+| [Psalm 122](PSA-122.tsv) | 69 | 69 |
+| [Psalm 123](PSA-123.tsv) | 99 | 99 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
 | [Proverbs 2](PRO-002.tsv) | 272 | 289 |
@@ -871,6 +876,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Wisdom of Solomon 3](WIS-003.tsv) | 273 | 294 |
 | [Wisdom of Solomon 4](WIS-004.tsv) | 298 | 314 |
 | [Wisdom of Solomon 5](WIS-005.tsv) | 379 | 399 |
+| [Wisdom of Solomon 6](WIS-006.tsv) | 320 | 342 |
+| [Wisdom of Solomon 7](WIS-007.tsv) | 434 | 447 |
+| [Wisdom of Solomon 8](WIS-008.tsv) | 336 | 355 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
