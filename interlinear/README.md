@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 1037 chapters below have 546,726 indexed words and 590,428 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 1045 chapters below have 552,874 indexed words and 597,155 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -853,6 +853,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Daniel 6](DAG-006.tsv) | 769 | 944 |
 | [Daniel 7](DAG-007.tsv) | 740 | 900 |
 | [Daniel 8](DAG-008.tsv) | 672 | 825 |
+| [Daniel 9](DAG-009.tsv) | 873 | 1051 |
+| [Daniel 10](DAG-010.tsv) | 547 | 649 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
@@ -969,8 +971,11 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Maccabees 8](1MA-008.tsv) | 725 | 764 |
 | [1 Maccabees 9](1MA-009.tsv) | 1473 | 1560 |
 | [1 Maccabees 10](1MA-010.tsv) | 1813 | 1922 |
+| [1 Maccabees 11](1MA-011.tsv) | 1539 | 1641 |
+| [1 Maccabees 12](1MA-012.tsv) | 1026 | 1096 |
 | [2 Maccabees 1](2MA-001.tsv) | 745 | 778 |
 | [2 Maccabees 2](2MA-002.tsv) | 668 | 704 |
+| [2 Maccabees 3](2MA-003.tsv) | 879 | 923 |
 | [Baruch 1](BAR-001.tsv) | 524 | 597 |
 | [Baruch 2](BAR-002.tsv) | 794 | 938 |
 | [Baruch 3](BAR-003.tsv) | 572 | 700 |
@@ -1041,6 +1046,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Sirach 42](SIR-042.tsv) | 354 | 374 |
 | [Sirach 43](SIR-043.tsv) | 403 | 427 |
 | [Sirach 44](SIR-044.tsv) | 337 | 361 |
+| [Sirach 45](SIR-045.tsv) | 491 | 521 |
+| [Sirach 46](SIR-046.tsv) | 354 | 380 |
+| [Sirach 47](SIR-047.tsv) | 439 | 466 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
