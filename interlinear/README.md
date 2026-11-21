@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 613 chapters below have 345,545 indexed words and 375,178 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 620 chapters below have 348,192 indexed words and 378,067 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -462,6 +462,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 72](PSA-072.tsv) | 352 | 355 |
 | [Psalm 73](PSA-073.tsv) | 340 | 341 |
 | [Psalm 74](PSA-074.tsv) | 139 | 141 |
+| [Psalm 75](PSA-075.tsv) | 159 | 162 |
+| [Psalm 76](PSA-076.tsv) | 280 | 280 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 448 |
@@ -476,6 +478,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Proverbs 10](PRO-010.tsv) | 328 | 352 |
 | [Proverbs 11](PRO-011.tsv) | 354 | 396 |
 | [Proverbs 12](PRO-012.tsv) | 327 | 363 |
+| [Proverbs 13](PRO-013.tsv) | 307 | 331 |
+| [Proverbs 14](PRO-014.tsv) | 378 | 412 |
+| [Proverbs 15](PRO-015.tsv) | 415 | 450 |
 | [Isaiah 1](ISA-001.tsv) | 599 | 749 |
 | [Isaiah 2](ISA-002.tsv) | 457 | 551 |
 | [Isaiah 3](ISA-003.tsv) | 503 | 616 |
@@ -550,6 +555,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Jeremiah 6](JER-006.tsv) | 592 | 677 |
 | [Jeremiah 7](JER-007.tsv) | 815 | 905 |
 | [Jeremiah 8](JER-008.tsv) | 520 | 581 |
+| [Jeremiah 9](JER-009.tsv) | 620 | 700 |
+| [Jeremiah 10](JER-010.tsv) | 488 | 554 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
