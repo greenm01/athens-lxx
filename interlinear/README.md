@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 54 chapters below have 34,249 indexed words and 38,402 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 57 chapters below have 34,878 indexed words and 39,043 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -55,13 +55,16 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Genesis 49](GEN-049.tsv) | 573 | 583 |
 | [Genesis 50](GEN-050.tsv) | 570 | 570 |
 | [Exodus 1](EXO-001.tsv) | 377 | 377 |
+| [Exodus 2](EXO-002.tsv) | 552 | 552 |
 | [Psalm 21](PSA-021.tsv) | 451 | 654 |
 | [Psalm 22](PSA-022.tsv) | 103 | 150 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
+| [Psalm 116](PSA-116.tsv) | 29 | 35 |
+| [Psalm 133](PSA-133.tsv) | 48 | 54 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
-Codex and Claude compared readings of Genesis 1 and the three psalms. The analyses are AI-assisted editorial drafts. In Genesis 1:21 the print accents *ζώων* on the first syllable. We take it as the noun “living creatures,” with *ἑρπετῶν* describing how they move. At Psalm 50:19 the scan clearly gives *ἐξουδενώσῃ*. We prefer “you will despise,” taking *ὁ Θεός* as an address. “Will despise” preserves the alternative reading with God as the subject. [Genesis 1:21 in the Greek reader, p. 27](https://williamaross.com/wp-content/uploads/2016/06/discovering-the-septuagint-sample.pdf) · [Psalm 50, Athens III, printed p. 975](https://commons.wikimedia.org/wiki/File:%CE%97_%CE%A0%CE%B1%CE%BB%CE%B1%CE%B9%E1%BD%B0_%CE%94%CE%B9%CE%B1%CE%B8%CE%AE%CE%BA%CE%B7_%CE%A4%CF%8C%CE%BC%CE%BF%CF%82_%CE%93%27.pdf?page=37)
+Codex and Claude compared readings of Genesis 1 and Psalms 21, 22 and 50. The analyses are AI-assisted editorial drafts. In Genesis 1:21 the print accents *ζώων* on the first syllable. We take it as the noun “living creatures,” with *ἑρπετῶν* describing how they move. At Psalm 50:19 the scan clearly gives *ἐξουδενώσῃ*. We prefer “you will despise,” taking *ὁ Θεός* as an address. “Will despise” preserves the alternative reading with God as the subject. [Genesis 1:21 in the Greek reader, p. 27](https://williamaross.com/wp-content/uploads/2016/06/discovering-the-septuagint-sample.pdf) · [Psalm 50, Athens III, printed p. 975](https://commons.wikimedia.org/wiki/File:%CE%97_%CE%A0%CE%B1%CE%BB%CE%B1%CE%B9%E1%BD%B0_%CE%94%CE%B9%CE%B1%CE%B8%CE%AE%CE%BA%CE%B7_%CE%A4%CF%8C%CE%BC%CE%BF%CF%82_%CE%93%27.pdf?page=37)
 
 In Genesis 2:9, *γνωστόν* is the object of “to know.” It can mean “what can be known” or “what is known.” In 2:16 God addresses one person. In 2:17 the warning uses plural verbs. Codex and Muse independently read *τε … καί* (“both … and”) in 2:25. The Athens print sets *ὅ τε* before Adam’s name, as it does in 3:8. The published transcription joins the two at 2:25. Its sixth word position therefore carries both the article and the particle. [Athens I, pp. 3–4](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA3)
 
