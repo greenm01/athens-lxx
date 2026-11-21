@@ -37,6 +37,8 @@ class WordCitations(unittest.TestCase):
             ("1SA 4", 648),
             ("1SA 5", 419),
             ("1SA 6", 624),
+            ("1SA 7", 441),
+            ("1SA 8", 456),
             ("AMO 1", 342),
             ("AMO 2", 365),
             ("AMO 3", 308),
