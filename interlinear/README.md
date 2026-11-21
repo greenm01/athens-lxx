@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 247 chapters below have 144,969 indexed words and 158,064 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 251 chapters below have 146,387 indexed words and 159,777 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -251,6 +251,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Zechariah 12](ZEC-012.tsv) | 363 | 434 |
 | [Zechariah 13](ZEC-013.tsv) | 267 | 306 |
 | [Zechariah 14](ZEC-014.tsv) | 608 | 699 |
+| [Malachi 1](MAL-001.tsv) | 396 | 478 |
+| [Malachi 2](MAL-002.tsv) | 434 | 515 |
+| [Malachi 3](MAL-003.tsv) | 449 | 552 |
+| [Malachi 4](MAL-004.tsv) | 139 | 168 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
