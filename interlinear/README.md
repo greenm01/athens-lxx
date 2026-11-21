@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 713 chapters below have 393,135 indexed words and 425,657 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 718 chapters below have 394,332 indexed words and 426,893 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -512,6 +512,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 93](PSA-093.tsv) | 270 | 271 |
 | [Psalm 94](PSA-094.tsv) | 163 | 163 |
 | [Psalm 95](PSA-095.tsv) | 196 | 197 |
+| [Psalm 96](PSA-096.tsv) | 164 | 164 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
@@ -557,6 +558,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Ecclesiastes 10](ECC-010.tsv) | 300 | 322 |
 | [Ecclesiastes 11](ECC-011.tsv) | 223 | 227 |
 | [Ecclesiastes 12](ECC-012.tsv) | 293 | 309 |
+| [Song of Songs 1](SNG-001.tsv) | 242 | 244 |
+| [Song of Songs 2](SNG-002.tsv) | 282 | 296 |
+| [Song of Songs 3](SNG-003.tsv) | 229 | 237 |
+| [Song of Songs 4](SNG-004.tsv) | 280 | 295 |
 | [Isaiah 1](ISA-001.tsv) | 599 | 749 |
 | [Isaiah 2](ISA-002.tsv) | 457 | 551 |
 | [Isaiah 3](ISA-003.tsv) | 503 | 616 |
