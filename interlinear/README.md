@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 278 chapters below have 161,454 indexed words and 176,170 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 287 chapters below have 166,077 indexed words and 181,188 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -158,6 +158,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Numbers 35](NUM-035.tsv) | 761 | 796 |
 | [Numbers 36](NUM-036.tsv) | 339 | 373 |
 | [Deuteronomy 1](DEU-001.tsv) | 1014 | 1014 |
+| [Deuteronomy 2](DEU-002.tsv) | 840 | 840 |
 | [Joshua 1](JOS-001.tsv) | 478 | 498 |
 | [Joshua 2](JOS-002.tsv) | 673 | 700 |
 | [Joshua 3](JOS-003.tsv) | 467 | 484 |
@@ -196,12 +197,17 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Judges 12](JDG-012.tsv) | 345 | 374 |
 | [Judges 13](JDG-013.tsv) | 629 | 714 |
 | [Judges 14](JDG-014.tsv) | 589 | 666 |
+| [Judges 15](JDG-015.tsv) | 548 | 603 |
+| [Judges 16](JDG-016.tsv) | 1003 | 1102 |
+| [Judges 17](JDG-017.tsv) | 323 | 354 |
 | [Ruth 1](RUT-001.tsv) | 538 | 638 |
 | [Ruth 2](RUT-002.tsv) | 618 | 755 |
 | [Ruth 3](RUT-003.tsv) | 408 | 487 |
 | [Ruth 4](RUT-004.tsv) | 541 | 655 |
 | [1 Kingdoms 1](1SA-001.tsv) | 776 | 821 |
 | [1 Kingdoms 2](1SA-002.tsv) | 923 | 964 |
+| [1 Kingdoms 3](1SA-003.tsv) | 485 | 502 |
+| [1 Kingdoms 4](1SA-004.tsv) | 648 | 676 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -229,6 +235,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Hosea 7](HOS-007.tsv) | 320 | 388 |
 | [Hosea 8](HOS-008.tsv) | 234 | 281 |
 | [Hosea 9](HOS-009.tsv) | 342 | 411 |
+| [Hosea 10](HOS-010.tsv) | 295 | 362 |
+| [Hosea 11](HOS-011.tsv) | 247 | 299 |
+| [Hosea 12](HOS-012.tsv) | 234 | 280 |
 | [Amos 1](AMO-001.tsv) | 342 | 435 |
 | [Amos 2](AMO-002.tsv) | 365 | 446 |
 | [Amos 3](AMO-003.tsv) | 308 | 368 |
