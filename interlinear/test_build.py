@@ -34,16 +34,26 @@ class WordCitations(unittest.TestCase):
             db.execute(
                 "SELECT substr(ref,1,instr(ref,':')-1) AS passage, count(*), count(english) "
                 "FROM interlinear WHERE (preference=1 OR preference IS NULL) AND "
-                "substr(ref,1,instr(ref,':')-1) IN ('GEN 1','GEN 2','GEN 3','GEN 4','GEN 5','GEN 6','GEN 7','GEN 8','GEN 9','PSA 21','PSA 22','PSA 50') "
-                "GROUP BY passage ORDER BY passage"
+                "substr(ref,1,instr(ref,':')-1) IN ('GEN 1','GEN 2','GEN 3','GEN 4','GEN 5','GEN 6','GEN 7','GEN 8','GEN 9','GEN 10','PSA 21','PSA 22','PSA 50') "
+                "GROUP BY passage ORDER BY substr(passage,1,3), CAST(substr(passage,5) AS INTEGER)"
             ).fetchall(),
             [
                 ("GEN 1", 754, 754), ("GEN 2", 534, 534), ("GEN 3", 587, 587),
                 ("GEN 4", 533, 533), ("GEN 5", 476, 476),
                 ("GEN 6", 507, 507), ("GEN 7", 531, 531),
                 ("GEN 8", 525, 525), ("GEN 9", 573, 573),
+                ("GEN 10", 456, 456),
                 ("PSA 21", 451, 451), ("PSA 22", 103, 103), ("PSA 50", 282, 282),
             ],
+        )
+        # These nouns were once assigned a verb parse when expanding a shorthand.
+        self.assertEqual(
+            db.execute(
+                "SELECT ref, position, surface, grammar FROM interlinear WHERE preference=1 "
+                "AND lemma IN ('πῆχυς','κατακλυσμός','ὑετός','κόραξ','ἀμπελών') "
+                "AND grammar NOT LIKE '%noun%'"
+            ).fetchall(),
+            [],
         )
         output = io.StringIO()
         list_candidates(db, "GEN 3", output)

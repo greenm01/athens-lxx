@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The twelve passages below have 5,856 indexed words and 6,940 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The thirteen passages below have 6,312 indexed words and 7,499 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -13,6 +13,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Genesis 7](GEN-007.tsv) | 531 | 575 |
 | [Genesis 8](GEN-008.tsv) | 525 | 594 |
 | [Genesis 9](GEN-009.tsv) | 573 | 625 |
+| [Genesis 10](GEN-010.tsv) | 456 | 559 |
 | [Psalm 21](PSA-021.tsv) | 451 | 654 |
 | [Psalm 22](PSA-022.tsv) | 103 | 150 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
@@ -34,6 +35,8 @@ In Genesis 5:11 the printer sets *πέντη* for “five.” At 5:22 and 5:24 E
 Athens calls the figures in Genesis 6:2 “angels of God” and those in 6:4 “sons of God.” In 6:3 the accusative *αὐτούς* is the subject of the infinitive in “because they are flesh.” The ark in 6:15 measures three hundred cubits in length, fifty in breadth and thirty in height. [Athens I, p. 9](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA9) · [p. 10](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA10)
 
 The dates in 7:11 and 8:4 both give the twenty-seventh day, first of the second month and then of the seventh. Genesis 8:14–15 divides one date between two verses. In 8:7 the raven “did not return until the water dried up from the earth.” The purpose of sending it appears in parentheses in 8:6. In 9:6 *αἷμα* occurs twice in the same form. The first is the blood someone sheds. The second is the subject of “will be shed.” Muse independently checked the clauses in 6:3, 8:7 and 9:6. [Athens I, p. 11](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA11) · [p. 12](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA12) · [p. 13](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA13) · [p. 14](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA14)
+
+Genesis 10 gives the name *Ἐλισά* in both verses 2 and 4. Verse 24 names *Καϊνᾶμ* (Kainam) between Arphaxad and Sala. In 10:11 we read Asshur as the subject of “went out.” His name is indeclinable, and the sentence gives a place of departure without naming a destination. In 10:21 “the elder” describes Japheth. The Greek puts *τοῦ μείζονος* in the genitive with his name, while “brother” is in the dative with Shem. Muse independently read both clauses. [Athens I, p. 15](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA15) · [p. 16](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA16)
 
 Open the release’s `athens.sqlite` in any SQLite reader. This query shows the preferred English for each word in the first verse.
 
