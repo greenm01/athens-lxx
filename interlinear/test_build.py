@@ -167,6 +167,7 @@ class WordCitations(unittest.TestCase):
             ("NUM 14", 990),
             ("PSA 1", 111),
             ("PSA 2", 164),
+            ("PSA 3", 111),
             ("PSA 21", 451),
             ("PSA 22", 103),
             ("PSA 50", 282),
