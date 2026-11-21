@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 816 chapters below have 440,588 indexed words and 476,274 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 827 chapters below have 444,258 indexed words and 480,210 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -471,6 +471,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Job 29](JOB-029.tsv) | 288 | 300 |
 | [Job 30](JOB-030.tsv) | 375 | 392 |
 | [Job 31](JOB-031.tsv) | 551 | 582 |
+| [Job 32](JOB-032.tsv) | 312 | 322 |
+| [Job 33](JOB-033.tsv) | 492 | 508 |
+| [Job 34](JOB-034.tsv) | 441 | 475 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -578,6 +581,11 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 105](PSA-105.tsv) | 618 | 620 |
 | [Psalm 106](PSA-106.tsv) | 512 | 512 |
 | [Psalm 107](PSA-107.tsv) | 176 | 176 |
+| [Psalm 108](PSA-108.tsv) | 400 | 401 |
+| [Psalm 109](PSA-109.tsv) | 103 | 105 |
+| [Psalm 110](PSA-110.tsv) | 131 | 131 |
+| [Psalm 111](PSA-111.tsv) | 136 | 137 |
+| [Psalm 112](PSA-112.tsv) | 93 | 94 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
@@ -739,6 +747,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Jeremiah 40](JER-040.tsv) | 642 | 775 |
 | [Jeremiah 41](JER-041.tsv) | 649 | 763 |
 | [Jeremiah 42](JER-042.tsv) | 540 | 602 |
+| [Jeremiah 43](JER-043.tsv) | 905 | 1027 |
+| [Jeremiah 44](JER-044.tsv) | 489 | 568 |
 | [Ezekiel 1](EZK-001.tsv) | 637 | 637 |
 | [Ezekiel 2](EZK-002.tsv) | 230 | 230 |
 | [Ezekiel 3](EZK-003.tsv) | 667 | 667 |
@@ -753,6 +763,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Ezekiel 12](EZK-012.tsv) | 615 | 616 |
 | [Ezekiel 13](EZK-013.tsv) | 577 | 577 |
 | [Ezekiel 14](EZK-014.tsv) | 643 | 643 |
+| [Ezekiel 15](EZK-015.tsv) | 168 | 168 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
