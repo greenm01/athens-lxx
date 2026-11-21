@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 325 chapters below have 189,902 indexed words and 207,017 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 332 chapters below have 194,019 indexed words and 211,391 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -161,6 +161,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Deuteronomy 2](DEU-002.tsv) | 840 | 840 |
 | [Deuteronomy 3](DEU-003.tsv) | 722 | 722 |
 | [Deuteronomy 4](DEU-004.tsv) | 1276 | 1276 |
+| [Deuteronomy 5](DEU-005.tsv) | 766 | 766 |
 | [Joshua 1](JOS-001.tsv) | 478 | 498 |
 | [Joshua 2](JOS-002.tsv) | 673 | 700 |
 | [Joshua 3](JOS-003.tsv) | 467 | 484 |
@@ -228,9 +229,14 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Kingdoms 16](1SA-016.tsv) | 571 | 593 |
 | [1 Kingdoms 17](1SA-017.tsv) | 1503 | 1555 |
 | [1 Kingdoms 18](1SA-018.tsv) | 696 | 716 |
+| [1 Kingdoms 19](1SA-019.tsv) | 622 | 649 |
+| [1 Kingdoms 20](1SA-020.tsv) | 1089 | 1129 |
 | [2 Kingdoms 1](2SA-001.tsv) | 576 | 641 |
 | [2 Kingdoms 2](2SA-002.tsv) | 810 | 918 |
 | [2 Kingdoms 3](2SA-003.tsv) | 987 | 1138 |
+| [2 Kingdoms 4](2SA-004.tsv) | 379 | 432 |
+| [2 Kingdoms 5](2SA-005.tsv) | 546 | 610 |
+| [2 Kingdoms 6](2SA-006.tsv) | 588 | 661 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -249,6 +255,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 16](PSA-016.tsv) | 237 | 247 |
 | [Psalm 17](PSA-017.tsv) | 728 | 732 |
 | [Psalm 18](PSA-018.tsv) | 220 | 225 |
+| [Psalm 19](PSA-019.tsv) | 127 | 127 |
 | [Psalm 21](PSA-021.tsv) | 451 | 654 |
 | [Psalm 22](PSA-022.tsv) | 103 | 150 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
