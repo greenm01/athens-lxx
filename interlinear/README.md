@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 332 chapters below have 194,019 indexed words and 211,391 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 340 chapters below have 197,555 indexed words and 215,280 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -162,6 +162,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Deuteronomy 3](DEU-003.tsv) | 722 | 722 |
 | [Deuteronomy 4](DEU-004.tsv) | 1276 | 1276 |
 | [Deuteronomy 5](DEU-005.tsv) | 766 | 766 |
+| [Deuteronomy 6](DEU-006.tsv) | 574 | 574 |
 | [Joshua 1](JOS-001.tsv) | 478 | 498 |
 | [Joshua 2](JOS-002.tsv) | 673 | 700 |
 | [Joshua 3](JOS-003.tsv) | 467 | 484 |
@@ -231,6 +232,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Kingdoms 18](1SA-018.tsv) | 696 | 716 |
 | [1 Kingdoms 19](1SA-019.tsv) | 622 | 649 |
 | [1 Kingdoms 20](1SA-020.tsv) | 1089 | 1129 |
+| [1 Kingdoms 21](1SA-021.tsv) | 446 | 454 |
+| [1 Kingdoms 22](1SA-022.tsv) | 667 | 689 |
 | [2 Kingdoms 1](2SA-001.tsv) | 576 | 641 |
 | [2 Kingdoms 2](2SA-002.tsv) | 810 | 918 |
 | [2 Kingdoms 3](2SA-003.tsv) | 987 | 1138 |
@@ -256,19 +259,24 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 17](PSA-017.tsv) | 728 | 732 |
 | [Psalm 18](PSA-018.tsv) | 220 | 225 |
 | [Psalm 19](PSA-019.tsv) | 127 | 127 |
+| [Psalm 20](PSA-020.tsv) | 196 | 198 |
 | [Psalm 21](PSA-021.tsv) | 451 | 654 |
 | [Psalm 22](PSA-022.tsv) | 103 | 150 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
-| [Isaiah 1](ISA-001.tsv) | 599 | 746 |
-| [Isaiah 2](ISA-002.tsv) | 457 | 550 |
-| [Isaiah 3](ISA-003.tsv) | 503 | 617 |
+| [Isaiah 1](ISA-001.tsv) | 599 | 749 |
+| [Isaiah 2](ISA-002.tsv) | 457 | 551 |
+| [Isaiah 3](ISA-003.tsv) | 503 | 616 |
 | [Isaiah 4](ISA-004.tsv) | 148 | 177 |
-| [Isaiah 5](ISA-005.tsv) | 671 | 808 |
+| [Isaiah 5](ISA-005.tsv) | 671 | 818 |
 | [Isaiah 6](ISA-006.tsv) | 316 | 363 |
-| [Isaiah 7](ISA-007.tsv) | 532 | 631 |
-| [Isaiah 8](ISA-008.tsv) | 492 | 588 |
+| [Isaiah 7](ISA-007.tsv) | 532 | 630 |
+| [Isaiah 8](ISA-008.tsv) | 492 | 589 |
+| [Isaiah 9](ISA-009.tsv) | 494 | 592 |
+| [Isaiah 10](ISA-010.tsv) | 680 | 805 |
+| [Isaiah 11](ISA-011.tsv) | 367 | 433 |
+| [Isaiah 12](ISA-012.tsv) | 112 | 131 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |

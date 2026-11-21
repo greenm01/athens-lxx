@@ -12,7 +12,8 @@ ISA 5:1	1	9	τῷ	ὁ	article, dative masculine singular	1	to the
 ISA 5:1	1	10	ἀμπελῶνί	ἀμπελών	noun, dative masculine singular	1	vineyard
 ISA 5:1	1	11	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ISA 5:1	1	12	Ἀμπελὼν	ἀμπελών	noun, nominative masculine singular	1	vineyard
-ISA 5:1	1	13	ἐγενήθη	γίνομαι	aorist middle indicative, third singular	1	was born
+ISA 5:1	1	13	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	came into being
+ISA 5:1	1	13	ἐγενήθη			2	came to be
 ISA 5:1	1	14	τῷ	ὁ	article, dative masculine singular	1	to
 ISA 5:1	1	15	ἠγαπημένῳ	ἀγαπάω	perfect passive participle, dative masculine singular; substantival	1	beloved one
 ISA 5:1	1	16	ἐν	ἐν	preposition with the dative	1	in
@@ -52,9 +53,11 @@ ISA 5:2	1	21	καὶ	καί	conjunction	1	and
 ISA 5:2	1	22	ἔμεινα	μένω	aorist active indicative, first singular	1	I waited
 ISA 5:2	1	22	ἔμεινα			2	I expected
 ISA 5:2	1	23	τοῦ	ὁ	article, genitive neuter singular	1	in order
-ISA 5:2	1	24	ποιῆσαι	ποιέω	aorist active infinitive	1	to prepare
+ISA 5:2	1	24	ποιῆσαι	ποιέω	aorist active infinitive	1	to produce
+ISA 5:2	1	24	ποιῆσαι			2	to yield
 ISA 5:2	1	25	σταφυλὴν	σταφυλή	noun, accusative feminine singular	1	grapes
-ISA 5:2	1	26	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
+ISA 5:2	1	26	ἐποίησε	ποιέω	aorist active indicative, third singular	1	it produced
+ISA 5:2	1	26	ἐποίησε			2	it yielded
 ISA 5:2	1	27	δὲ	δέ	postpositive conjunction	1	and
 ISA 5:2	1	28	ἀκάνθας	ἄκανθα	noun, accusative feminine plural	1	thorns
 ISA 5:3	1	1	Καὶ	καί	conjunction	1	and
@@ -92,9 +95,11 @@ ISA 5:4	1	11	διότι	διότι	causal conjunction	1	because
 ISA 5:4	1	12	ἔμεινα	μένω	aorist active indicative, first singular	1	I waited
 ISA 5:4	1	12	ἔμεινα			2	I expected
 ISA 5:4	1	13	τοῦ	ὁ	article, genitive neuter singular	1	the
-ISA 5:4	1	14	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
+ISA 5:4	1	14	ποιῆσαι	ποιέω	aorist active infinitive	1	to produce
+ISA 5:4	1	14	ποιῆσαι			2	to yield
 ISA 5:4	1	15	σταφυλὴν	σταφυλή	noun, accusative feminine singular	1	grapes
-ISA 5:4	1	16	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
+ISA 5:4	1	16	ἐποίησε	ποιέω	aorist active indicative, third singular	1	it produced
+ISA 5:4	1	16	ἐποίησε			2	it yielded
 ISA 5:4	1	17	δὲ	δέ	postpositive conjunction	1	and
 ISA 5:4	1	18	ἀκάνθας	ἄκανθα	noun, accusative feminine plural	1	thorns
 ISA 5:5	1	1	Νῦν	νῦν	adverb of time	1	now
@@ -188,9 +193,11 @@ ISA 5:7	1	16	ἔμεινα	μένω	aorist active indicative, first singular	1	I
 ISA 5:7	1	16	ἔμεινα			2	I expected
 ISA 5:7	1	17	τοῦ	ὁ	article, genitive neuter singular	1	the
 ISA 5:7	1	18	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
+ISA 5:7	1	18	ποιῆσαι			2	to practice
 ISA 5:7	1	19	κρίσιν	κρίσις	noun, accusative feminine singular	1	justice
 ISA 5:7	1	19	κρίσιν			2	judgment
 ISA 5:7	1	20	ἐποίησε	ποιέω	aorist active indicative, third singular	1	did
+ISA 5:7	1	20	ἐποίησε			2	practiced
 ISA 5:7	1	21	δὲ	δέ	conjunction	1	and
 ISA 5:7	1	22	ἀνομίαν	ἀνομία	noun accusative feminine singular	1	lawlessness
 ISA 5:7	1	23	καὶ	καί	conjunction	1	and
@@ -237,7 +244,8 @@ ISA 5:9	1	7	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew epithet used with κ�
 ISA 5:9	1	8	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these things
 ISA 5:9	1	9	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 ISA 5:9	1	10	γὰρ	γάρ	conjunction	1	for
-ISA 5:9	1	11	γένωνται	γίνομαι	aorist middle subjunctive, third plural	1	are born
+ISA 5:9	1	11	γένωνται	γίνομαι	aorist middle subjunctive, third plural	1	there come to be
+ISA 5:9	1	11	γένωνται			2	there are
 ISA 5:9	1	12	οἰκίαι	οἰκία	noun, nominative feminine plural	1	houses
 ISA 5:9	1	13	πολλαὶ	πολύς	adjective, nominative feminine plural	1	many
 ISA 5:9	1	14	εἰς	εἰς	preposition with the accusative	1	into
@@ -259,7 +267,8 @@ ISA 5:10	1	4	δέκα	δέκα	indeclinable cardinal numeral	1	ten
 ISA 5:10	1	5	ζεύγη	ζεῦγος	noun, nominative neuter plural	1	pairs
 ISA 5:10	1	5	ζεύγη			2	yokes
 ISA 5:10	1	6	βοῶν	βοῦς	noun, genitive masculine plural	1	oxen
-ISA 5:10	1	7	ποιήσει	ποιέω	future active indicative, third singular	1	will do
+ISA 5:10	1	7	ποιήσει	ποιέω	future active indicative, third singular	1	will yield
+ISA 5:10	1	7	ποιήσει			2	will produce
 ISA 5:10	1	8	κεράμιον	κεράμιον	noun, accusative neuter singular	1	jar
 ISA 5:10	1	8	κεράμιον			2	jarful
 ISA 5:10	1	9	ἕν	εἷς	cardinal numeral, nominative neuter singular	1	one
@@ -270,7 +279,8 @@ ISA 5:10	1	12	σπείρων			2	sower
 ISA 5:10	1	13	ἀρτάβας	ἀρτάβη	noun, accusative feminine plural	1	artabas
 ISA 5:10	1	13	ἀρτάβας			2	large measures
 ISA 5:10	1	14	ἕξ	ἕξ	indeclinable cardinal numeral	1	six
-ISA 5:10	1	15	ποιήσει	ποιέω	future active indicative, third singular	1	will do
+ISA 5:10	1	15	ποιήσει	ποιέω	future active indicative, third singular	1	will yield
+ISA 5:10	1	15	ποιήσει			2	will produce
 ISA 5:10	1	16	μέτρα	μέτρον	noun, accusative neuter plural	1	measures
 ISA 5:10	1	17	τρία	τρεῖς	cardinal numeral, accusative neuter plural	1	three
 ISA 5:11	1	1	Οὐαὶ	οὐαί	interjection	1	alas

@@ -29,7 +29,8 @@ ISA 1:1	1	22	καὶ	καί	conjunction	1	and
 ISA 1:1	1	23	Ἐζεκίου	Ἐζεκίας	noun, genitive masculine singular; personal name	1	Hezekiah
 ISA 1:1	1	23	Ἐζεκίου			2	Ezekias
 ISA 1:1	1	24	οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
-ISA 1:1	1	25	ἐβασίλευσαν	βασιλεύω	aorist active indicative, third plural	1	made king
+ISA 1:1	1	25	ἐβασίλευσαν	βασιλεύω	aorist active indicative, third plural	1	they reigned
+ISA 1:1	1	25	ἐβασίλευσαν			2	they were kings
 ISA 1:1	1	26	τῆς	ὁ	article, genitive feminine singular	1	the
 ISA 1:1	1	27	Ἰουδαίας	Ἰουδαία	noun, genitive feminine singular; place name	1	Judea
 ISA 1:1	1	27	Ἰουδαίας			2	Judah
@@ -155,7 +156,6 @@ ISA 1:6	1	19	ἔστι	εἰμί	present active indicative, third singular	1	is
 ISA 1:6	1	20	μάλαγμα	μάλαγμα	noun, accusative neuter singular	1	poultice
 ISA 1:6	1	20	μάλαγμα			2	softening dressing
 ISA 1:6	1	21	ἐπιθεῖναι	ἐπιτίθημι	aorist active infinitive	1	to apply
-ISA 1:6	1	21	ἐπιθεῖναι			2	to put on
 ISA 1:6	1	22	οὔτε	οὔτε	negative conjunction, neither/nor in οὐκ...οὔτε series	1	nor
 ISA 1:6	1	23	ἔλαιον	ἔλαιον	noun, accusative neuter singular	1	oil
 ISA 1:6	1	24	οὔτε	οὔτε	negative conjunction, neither/nor in οὐκ...οὔτε series	1	nor
@@ -276,7 +276,8 @@ ISA 1:12	1	4	ὀφθῆναι			2	to be seen
 ISA 1:12	1	5	μοι	ἐγώ	personal pronoun, dative first singular	1	to me
 ISA 1:12	1	6	τίς	τίς	interrogative pronoun, nominative masculine singular	1	what
 ISA 1:12	1	7	γὰρ	γάρ	causal particle	1	for
-ISA 1:12	1	8	ἐξεζήτησε	ἐκζητέω	aorist active indicative, third singular	1	searched for
+ISA 1:12	1	8	ἐξεζήτησε	ἐκζητέω	aorist active indicative, third singular	1	required
+ISA 1:12	1	8	ἐξεζήτησε			2	asked for
 ISA 1:12	1	9	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 ISA 1:12	1	10	ἐκ	ἐκ	preposition with the genitive	1	from
 ISA 1:12	1	11	τῶν	ὁ	article, genitive plural	1	the
@@ -379,7 +380,8 @@ ISA 1:16	1	1	Λούσασθε	λούω	aorist middle imperative, second plural	1
 ISA 1:16	1	2	καθαροὶ	καθαρός	adjective, nominative masculine plural	1	clean
 ISA 1:16	1	2	καθαροὶ			2	pure
 ISA 1:16	1	3	γίνεσθε	γίνομαι	present middle imperative, 2nd pl	1	be
-ISA 1:16	1	4	ἀφέλετε	ἀφαιρέω	aorist active imperative, 2nd pl	1	take off
+ISA 1:16	1	4	ἀφέλετε	ἀφαιρέω	aorist active imperative, second plural	1	remove
+ISA 1:16	1	4	ἀφέλετε			2	take away
 ISA 1:16	1	5	τὰς	ὁ	article, accusative feminine plural	1	the
 ISA 1:16	1	6	πονηρίας	πονηρία	noun, genitive fem. sg	1	with evil intent
 ISA 1:16	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -430,7 +432,8 @@ ISA 1:18	1	6	λέγει	λέγω	present active indicative, third singular	1	say
 ISA 1:18	1	7	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 ISA 1:18	1	8	καὶ	καί	conjunction	1	and
 ISA 1:18	1	9	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
-ISA 1:18	1	10	ὦσιν	εἰμί	present active subjunctive, third plural	1	they are
+ISA 1:18	1	10	ὦσιν	εἰμί	present subjunctive, third plural	1	they are
+ISA 1:18	1	10	ὦσιν			2	they may be
 ISA 1:18	1	11	αἱ	ὁ	article, nominative feminine plural	1	the
 ISA 1:18	1	12	ἁμαρτίαι	ἁμαρτία	noun, nominative feminine plural	1	sins
 ISA 1:18	1	13	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
@@ -442,7 +445,8 @@ ISA 1:18	1	18	λευκανῶ	λευκαίνω	future active indicative, first s
 ISA 1:18	1	18	λευκανῶ			2	I will whiten
 ISA 1:18	1	19	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 ISA 1:18	1	20	δὲ	δέ	postpositive conjunction	1	and
-ISA 1:18	1	21	ὦσιν	εἰμί	present active subjunctive, third plural	1	they are
+ISA 1:18	1	21	ὦσιν	εἰμί	present subjunctive, third plural	1	they are
+ISA 1:18	1	21	ὦσιν			2	they may be
 ISA 1:18	1	22	ὡς	ὡς	comparative particle	1	as
 ISA 1:18	1	23	κόκκινον	κόκκινος	adjective, nominative neuter singular; substantival	1	scarlet
 ISA 1:18	1	24	ὡς	ὡς	comparative particle	1	as
@@ -452,7 +456,6 @@ ISA 1:18	1	26	λευκανῶ			2	I will whiten
 ISA 1:19	1	1	Καὶ	καί	conjunction	1	and
 ISA 1:19	1	2	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 ISA 1:19	1	3	θέλητε	θέλω	present active subjunctive, second plural	1	you are willing
-ISA 1:19	1	3	θέλητε			2	you want
 ISA 1:19	1	4	καὶ	καί	conjunction	1	and
 ISA 1:19	1	5	εἰσακούσητέ	εἰσακούω	aorist active subjunctive, second plural	1	you listen
 ISA 1:19	1	5	εἰσακούσητέ			2	you heed
@@ -462,12 +465,11 @@ ISA 1:19	1	8	ἀγαθὰ	ἀγαθός	adjective, accusative neuter plural; sub
 ISA 1:19	1	8	ἀγαθὰ			2	produce
 ISA 1:19	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 ISA 1:19	1	10	γῆς	γῆ	noun, genitive feminine singular	1	land
-ISA 1:19	1	11	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you shall eat (plural)
+ISA 1:19	1	11	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you will eat
 ISA 1:20	1	1	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 ISA 1:20	1	2	δὲ	δέ	postpositive conjunction	1	but
 ISA 1:20	1	3	μὴ	μή	negative particle	1	not
 ISA 1:20	1	4	θέλητε	θέλω	present active subjunctive, second plural	1	you are willing
-ISA 1:20	1	4	θέλητε			2	you want
 ISA 1:20	1	5	μηδὲ	μηδέ	conjunction/negative	1	nor
 ISA 1:20	1	6	εἰσακούσητέ	εἰσακούω	aorist active subjunctive, second plural	1	you listen
 ISA 1:20	1	6	εἰσακούσητέ			2	you heed
@@ -482,7 +484,7 @@ ISA 1:20	1	14	Κυρίου	κύριος	noun, genitive masculine singular	1	of t
 ISA 1:20	1	15	ἐλάλησε	λαλέω	aorist active indicative, third singular	1	spoke
 ISA 1:20	1	16	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 ISA 1:21	1	1	Πῶς	πῶς	interrogative adverb	1	how
-ISA 1:21	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
+ISA 1:21	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	became
 ISA 1:21	1	3	πόρνη	πόρνη	noun, nominative feminine singular	1	prostitute
 ISA 1:21	1	4	πόλις	πόλις	noun, nominative feminine singular	1	city
 ISA 1:21	1	5	πιστὴ	πιστός	adjective, nominative feminine singular	1	faithful
@@ -579,7 +581,8 @@ ISA 1:24	1	24	ἐκ	ἐκ	preposition with genitive	1	from
 ISA 1:24	1	25	τῶν	ὁ	article genitive masculine plural	1	the
 ISA 1:24	1	26	ἐχθρῶν	ἐχθρός	substantival adjective genitive masculine plural	1	enemies
 ISA 1:24	1	27	μου	ἐγώ	personal pronoun genitive first singular	1	my
-ISA 1:24	1	28	ποιήσω	ποιέω	future active indicative, first singular	1	I will make
+ISA 1:24	1	28	ποιήσω	ποιέω	future active indicative, first singular	1	I will carry out
+ISA 1:24	1	28	ποιήσω			2	I will execute
 ISA 1:25	1	1	καὶ	καί	conjunction	1	and
 ISA 1:25	1	2	ἐπάξω	ἐπάγω	future active indicative, first singular	1	I will bring
 ISA 1:25	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -708,7 +711,7 @@ ISA 1:30	1	9	ὡς	ὡς	comparative particle	1	as
 ISA 1:30	1	10	παράδεισος	παράδεισος	noun, nominative masculine singular	1	garden
 ISA 1:30	1	10	παράδεισος			2	paradise
 ISA 1:30	1	11	ὕδωρ	ὕδωρ	noun, accusative neuter singular	1	water
-ISA 1:30	1	12	μὴ	μή	negative particle with prohibitive subjunctive	1	do not
+ISA 1:30	1	12	μὴ	μή	negative particle	1	not
 ISA 1:30	1	13	ἔχων	ἔχω	present active participle, nominative masculine singular	1	having
 ISA 1:31	1	1	καὶ	καί	conjunction	1	and
 ISA 1:31	1	2	ἔσται	εἰμί	future indicative, third singular	1	will be
