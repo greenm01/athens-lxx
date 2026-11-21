@@ -537,6 +537,8 @@ class WordCitations(unittest.TestCase):
             ("PRO 5", 305),
             ("PRO 6", 487),
             ("PRO 7", 332),
+            ("PRO 8", 444),
+            ("PRO 9", 310),
             ("PSA 1", 111),
             ("PSA 2", 164),
             ("PSA 3", 111),
