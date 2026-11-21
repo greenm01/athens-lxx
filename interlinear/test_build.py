@@ -550,6 +550,7 @@ class WordCitations(unittest.TestCase):
             ("JER 49", 604),
             ("JER 50", 339),
             ("JER 51", 1078),
+            ("JER 52", 859),
             ("JOB 1", 630),
             ("JOB 2", 424),
             ("JOB 3", 319),
