@@ -7,12 +7,16 @@ The SQLite database stores one optional decimal-text Strong’s identifier per A
 | Review state | Lemmas | Word positions |
 | --- | ---: | ---: |
 | Assigned | 4,495 | 560,513 |
-| Pending | 10 | 43 |
-| Reviewed without a number | 10,336 | 39,941 |
+| Pending | 0 | 0 |
+| Reviewed without a number | 10,345 | 39,984 |
 
 Lemma counts can overlap when different occurrences of a lemma have different outcomes. For example, Λίβανος receives G3030 in the four passages where it denotes frankincense. Its place-name occurrences are recorded without that identifier.
 
 A decision identifies the reviewed Greek lemma, including its inflected occurrences. Historical concordances sometimes assign a separate identifier to an inflected form. Cross-edition searches match the identifiers each edition actually supplies.
+
+A reviewed word can remain unnumbered when an identification is uncertain. For example, the names in 1 Maccabees 3:40 and 4:3 and in 2 Samuel 13:23 do not establish that the places are the Emmaus of Luke 24:13 (G1695) or the Ephraim of John 11:54 (G2187). The Greek remains searchable by lemma. Fused words such as λόγουςΚυρίου in Ezekiel 11:25 also remain unnumbered when a single identifier cannot represent the whole word.
+
+The historical G1896 entry describes the aorist and its other moods and persons. The Athens occurrences under ἐφοράω carry G1896 where that aorist is present. For βασίλειον, the concordance distinguishes the palace (G933) and the adjective “royal” (G934). The substantival uses for kingship or a crown retain their Athens glosses without either identifier.
 
 ## Review
 
