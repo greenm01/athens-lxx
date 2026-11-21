@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 683 chapters below have 378,047 indexed words and 409,786 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 687 chapters below have 379,293 indexed words and 411,083 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -494,6 +494,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 86](PSA-086.tsv) | 86 | 88 |
 | [Psalm 87](PSA-087.tsv) | 260 | 260 |
 | [Psalm 88](PSA-088.tsv) | 721 | 725 |
+| [Psalm 89](PSA-089.tsv) | 266 | 268 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
@@ -530,6 +531,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Ecclesiastes 1](ECC-001.tsv) | 316 | 325 |
 | [Ecclesiastes 2](ECC-002.tsv) | 617 | 646 |
 | [Ecclesiastes 3](ECC-003.tsv) | 438 | 450 |
+| [Ecclesiastes 4](ECC-004.tsv) | 363 | 381 |
+| [Ecclesiastes 5](ECC-005.tsv) | 408 | 426 |
+| [Ecclesiastes 6](ECC-006.tsv) | 209 | 222 |
 | [Isaiah 1](ISA-001.tsv) | 599 | 749 |
 | [Isaiah 2](ISA-002.tsv) | 457 | 551 |
 | [Isaiah 3](ISA-003.tsv) | 503 | 616 |
