@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 935 chapters below have 491,738 indexed words and 530,410 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 937 chapters below have 492,573 indexed words and 531,318 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -625,6 +625,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 141](PSA-141.tsv) | 135 | 135 |
 | [Psalm 142](PSA-142.tsv) | 224 | 224 |
 | [Psalm 143](PSA-143.tsv) | 232 | 232 |
+| [Psalm 144](PSA-144.tsv) | 311 | 311 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
 | [Proverbs 2](PRO-002.tsv) | 272 | 289 |
 | [Proverbs 3](PRO-003.tsv) | 450 | 474 |
@@ -914,6 +915,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Esdras 7](1ES-007.tsv) | 279 | 285 |
 | [1 Esdras 8](1ES-008.tsv) | 2003 | 2078 |
 | [1 Esdras 9](1ES-009.tsv) | 935 | 977 |
+| [Baruch 1](BAR-001.tsv) | 524 | 597 |
 | [Wisdom of Solomon 1](WIS-001.tsv) | 256 | 265 |
 | [Wisdom of Solomon 2](WIS-002.tsv) | 374 | 393 |
 | [Wisdom of Solomon 3](WIS-003.tsv) | 273 | 294 |
