@@ -1,0 +1,704 @@
+ref	occurrence	position	surface	lemma	grammar	preference	english
+JDT 2:1	1	1	ΚΑΙ	καί	conjunction	1	and
+JDT 2:1	1	2	ἐν	ἐν	preposition with the dative	1	in
+JDT 2:1	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+JDT 2:1	1	4	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
+JDT 2:1	1	5	τῷ	ὁ	article, dative masculine singular	1	the
+JDT 2:1	1	6	ὀκτωκαιδεκάτῳ	ὀκτωκαιδέκατος	ordinal adjective, dative masculine singular	1	eighteenth
+JDT 2:1	1	7	δευτέρᾳ	δεύτερος	ordinal adjective, dative feminine singular	1	on the second
+JDT 2:1	1	8	καὶ	καί	conjunction	1	and
+JDT 2:1	1	9	εἰκάδι	εἰκάς	ordinal adjective, dative feminine singular	1	twentieth
+JDT 2:1	1	10	τοῦ	ὁ	article, genitive masculine singular	1	of the
+JDT 2:1	1	11	πρώτου	πρῶτος	adjective, genitive masc. sg. with μηνὸς	1	first
+JDT 2:1	1	12	μηνὸς	μήν	noun, genitive masculine singular	1	month
+JDT 2:1	1	13	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
+JDT 2:1	1	14	λόγος	λόγος	noun, nominative masculine singular	1	word
+JDT 2:1	1	14	λόγος			2	message
+JDT 2:1	1	15	ἐν	ἐν	preposition with the dative	1	in
+JDT 2:1	1	16	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
+JDT 2:1	1	17	Ναβουχοδονόσορ	Ναβουχοδονόσορ	indeclinable personal name, genitive in context	1	of Nebuchadnezzar
+JDT 2:1	1	18	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
+JDT 2:1	1	19	Ἀσσυρίων	Ἀσσύριος	adjective, genitive masculine plural; substantival	1	of the Assyrians
+JDT 2:1	1	20	ἐκδικῆσαι	ἐκδικέω	aorist active infinitive	1	to take vengeance on
+JDT 2:1	1	21	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
+JDT 2:1	1	22	τὴν	ὁ	article, accusative feminine singular	1	the
+JDT 2:1	1	23	γῆν	γῆ	noun, accusative feminine singular	1	land
+JDT 2:1	1	24	καθὼς	καθώς	comparative conjunction	1	just as
+JDT 2:1	1	25	ἐλάλησε	λαλέω	aorist active indicative, third singular	1	spoke
+JDT 2:2	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:2	1	2	συνεκάλεσε	συγκαλέω	aorist active indicative, third singular	1	summoned
+JDT 2:2	1	3	πάντας	πᾶς	adjective, accusative masculine plural	1	all
+JDT 2:2	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:2	1	5	θεράποντας	θεράπων	noun, accusative masculine plural	1	attendants
+JDT 2:2	1	6	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
+JDT 2:2	1	7	καὶ	καί	conjunction	1	and
+JDT 2:2	1	8	πάντας	πᾶς	adjective, accusative masculine plural	1	all
+JDT 2:2	1	9	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:2	1	10	μεγιστᾶνας	μεγιστάν	noun, accusative masculine plural	1	nobles
+JDT 2:2	1	10	μεγιστᾶνας			2	magnates
+JDT 2:2	1	11	αὐτοῦ	αὐτός	personal pronoun, genitive singular	1	his
+JDT 2:2	1	12	καὶ	καί	conjunction	1	and
+JDT 2:2	1	13	ἔθετο	τίθημι	aorist middle indicative, third singular	1	put
+JDT 2:2	1	14	μετ᾽	μετά	elided preposition with the genitive	1	with
+JDT 2:2	1	15	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
+JDT 2:2	1	16	τὸ	ὁ	article, accusative neuter singular	1	the
+JDT 2:2	1	17	μυστήριον	μυστήριον	noun, accusative neuter singular	1	secret
+JDT 2:2	1	18	τῆς	ὁ	article, genitive feminine singular	1	of the
+JDT 2:2	1	19	βουλῆς	βουλή	noun, genitive feminine singular	1	counsel
+JDT 2:2	1	20	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
+JDT 2:2	1	21	καὶ	καί	conjunction	1	and
+JDT 2:2	1	22	συνετέλεσε	συντελέω	aorist active indicative, third singular	1	determined
+JDT 2:2	1	23	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
+JDT 2:2	1	24	τὴν	ὁ	article, accusative feminine singular	1	the
+JDT 2:2	1	25	κακίαν	κακία	noun, accusative feminine singular	1	evil
+JDT 2:2	1	25	κακίαν			2	wrong
+JDT 2:2	1	26	τῆς	ὁ	article, genitive feminine singular	1	for the
+JDT 2:2	1	27	γῆς	γῆ	noun, genitive feminine singular	1	land
+JDT 2:2	1	28	ἐκ	ἐκ	preposition with the genitive	1	from
+JDT 2:2	1	29	τοῦ	ὁ	article, genitive singular	1	the
+JDT 2:2	1	30	στόματος	στόμα	noun, genitive neuter singular after τοῦ/ἐπάνω τοῦ	1	mouth
+JDT 2:2	1	31	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+JDT 2:3	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:3	1	2	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
+JDT 2:3	1	3	ἔκριναν	κρίνω	aorist active indicative, third plural	1	decided
+JDT 2:3	1	4	ὀλεθρεῦσαι	ὀλεθρεύω	aorist active infinitive	1	to destroy
+JDT 2:3	1	5	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
+JDT 2:3	1	6	σάρκα	σάρξ	noun, accusative feminine singular	1	flesh
+JDT 2:3	1	7	οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
+JDT 2:3	1	8	οὐκ	οὐ	negative particle	1	not
+JDT 2:3	1	9	ἠκολούθησαν	ἀκολουθέω	aorist active indicative, third plural	1	followed
+JDT 2:3	1	10	τῷ	ὁ	article, dative masculine singular	1	to the
+JDT 2:3	1	11	λόγῳ	λόγος	noun, dative masculine singular	1	command
+JDT 2:3	1	12	τοῦ	ὁ	article, genitive neuter singular	1	of
+JDT 2:3	1	13	στόματος	στόμα	noun, genitive neuter singular	1	mouth
+JDT 2:3	1	14	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
+JDT 2:4	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:4	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
+JDT 2:4	1	3	ὡς	ὡς	comparative particle	1	as
+JDT 2:4	1	4	συνετέλεσε	συντελέω	aorist active indicative, third singular	1	finished
+JDT 2:4	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
+JDT 2:4	1	6	βουλὴν	βουλή	noun accusative feminine singular	1	counsel
+JDT 2:4	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
+JDT 2:4	1	8	ἐκάλεσε	καλέω	aorist active indicative, third singular	1	called
+JDT 2:4	1	9	Ναβουχοδονόσορ	Ναβουχοδονόσορ	indeclinable personal name, nominative in context	1	Nebuchadnezzar
+JDT 2:4	1	10	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
+JDT 2:4	1	11	Ἀσσυρίων	Ἀσσύριος	noun, genitive masculine plural	1	of the Assyrians
+JDT 2:4	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
+JDT 2:4	1	13	Ὀλοφέρνην	Ὀλοφέρνης	noun, accusative masculine singular	1	Holofernes
+JDT 2:4	1	14	ἀρχιστράτηγον	ἀρχιστράτηγος	noun, accusative masculine singular	1	commander-in-chief
+JDT 2:4	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
+JDT 2:4	1	16	δυνάμεως	δύναμις	noun, genitive feminine singular	1	army
+JDT 2:4	1	16	δυνάμεως			2	force
+JDT 2:4	1	17	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
+JDT 2:4	1	18	δεύτερον	δεύτερος	ordinal adjective, accusative masculine singular, describing the rank of Holofernes	1	second in rank
+JDT 2:4	1	19	ὄντα	εἰμί	present active participle, accusative neuter plural	1	being
+JDT 2:4	1	20	μετ᾽	μετά	preposition with the genitive, elided	1	with
+JDT 2:4	1	21	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
+JDT 2:4	1	22	καὶ	καί	conjunction	1	and
+JDT 2:4	1	23	εἶπε	λέγω	aorist active indicative, third singular	1	said
+JDT 2:4	1	24	πρὸς	πρός	preposition with the accusative	1	to
+JDT 2:4	1	25	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
+JDT 2:5	1	1	Τάδε	ὅδε	demonstrative pronoun, accusative neuter plural, introducing the message 'these things'	1	these things
+JDT 2:5	1	2	λέγει	λέγω	present active indicative, third singular	1	says
+JDT 2:5	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
+JDT 2:5	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
+JDT 2:5	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
+JDT 2:5	1	6	μέγας	μέγας	adjective, nominative masculine singular	1	great
+JDT 2:5	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
+JDT 2:5	1	8	κύριος	κύριος	noun nominative masculine singular	1	lord
+JDT 2:5	1	9	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
+JDT 2:5	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
+JDT 2:5	1	11	γῆς	γῆ	noun, genitive feminine singular	1	land
+JDT 2:5	1	12	ἰδοὺ	ἰδού	presentative particle	1	behold
+JDT 2:5	1	13	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
+JDT 2:5	1	14	ἐξελεύσῃ	ἐξέρχομαι	future middle indicative, second singular	1	you will go out
+JDT 2:5	1	15	ἐκ	ἐκ	preposition with the genitive	1	from
+JDT 2:5	1	16	τοῦ	ὁ	article, genitive singular	1	the
+JDT 2:5	1	17	προσώπου	πρόσωπον	noun genitive neuter singular	1	face
+JDT 2:5	1	18	μου	ἐγώ	personal pronoun genitive first singular	1	my
+JDT 2:5	1	19	καὶ	καί	conjunction	1	and
+JDT 2:5	1	20	λήψῃ	λαμβάνω	future middle indicative, second singular	1	you shall take
+JDT 2:5	1	21	μετὰ	μετά	preposition with the genitive	1	with
+JDT 2:5	1	22	σεαυτοῦ	σεαυτοῦ	reflexive pronoun, genitive masculine singular	1	yourself
+JDT 2:5	1	23	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
+JDT 2:5	1	24	πεποιθότας	πείθω	perfect active participle, accusative masculine plural; substantival	1	confident
+JDT 2:5	1	25	ἐν	ἐν	preposition with the dative	1	in
+JDT 2:5	1	26	ἰσχύϊ	ἰσχύς	noun, dative feminine singular	1	strength
+JDT 2:5	1	26	ἰσχύϊ			2	might
+JDT 2:5	1	27	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:5	1	28	πεζῶν	πεζός	adjective/noun, genitive masc. pl., footmen	1	footmen
+JDT 2:5	1	29	εἰς	εἰς	preposition with the accusative	1	totaling
+JDT 2:5	1	30	χιλιάδας	χιλιάς	noun, accusative fem. pl. after εἰς, to thousands	1	thousand
+JDT 2:5	1	31	ἑκατὸν	ἑκατόν	indeclinable cardinal numeral	1	one hundred
+JDT 2:5	1	32	εἴκοσι	εἴκοσι	indeclinable cardinal numeral	1	twenty
+JDT 2:5	1	33	καὶ	καί	conjunction	1	and
+JDT 2:5	1	34	πλῆθος	πλῆθος	noun, nominative neuter singular	1	multitude
+JDT 2:5	1	35	ἵππων	ἵππος	noun, genitive masculine plural	1	horses
+JDT 2:5	1	36	σὺν	σύν	preposition with the dative, 'with	1	with
+JDT 2:5	1	37	ἀναβάταις	ἀναβάτης	noun, dative masc. pl., riders	1	riders
+JDT 2:5	1	38	χιλιάδας	χιλιάς	noun, accusative feminine plural	1	thousands
+JDT 2:5	1	39	δεκαδύο	δεκαδύο	indeclinable cardinal numeral	1	twelve
+JDT 2:6	1	1	καὶ	καί	conjunction	1	and
+JDT 2:6	1	2	ἐξελεύσῃ	ἐξέρχομαι	future middle indicative, second singular	1	you will go out
+JDT 2:6	1	3	εἰς	εἰς	preposition with the accusative	1	into
+JDT 2:6	1	4	συνάντησιν	συνάντησις	noun, accusative feminine singular; with εἰς	1	to confront
+JDT 2:6	1	5	πάσῃ	πᾶς	adjective, dative feminine singular with γῇ	1	all
+JDT 2:6	1	6	τῇ	ὁ	article, dative feminine singular	1	the
+JDT 2:6	1	7	γῇ	γῆ	noun, dative feminine singular	1	land
+JDT 2:6	1	8	ἐπὶ	ἐπί	preposition with accusative of direction	1	toward
+JDT 2:6	1	9	δυσμὰς	δυσμή	noun, genitive feminine plural	1	west
+JDT 2:6	1	10	ὅτι	ὅτι	causal conjunction	1	because
+JDT 2:6	1	11	ἠπείθησαν	ἀπειθέω	aorist active indicative, third plural	1	disobeyed
+JDT 2:6	1	11	ἠπείθησαν			2	refused
+JDT 2:6	1	12	τῷ	ὁ	article, dative neuter singular	1	the
+JDT 2:6	1	13	ῥήματι	ῥῆμα	noun, dative neuter singular	1	command
+JDT 2:6	1	14	τοῦ	ὁ	article, genitive neuter singular	1	of
+JDT 2:6	1	15	στόματός	στόμα	noun, genitive neuter singular	1	mouth
+JDT 2:6	1	16	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
+JDT 2:7	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:7	1	2	ἀπαγγελεῖς	ἀπαγγέλλω	future active indicative, second singular	1	you shall report
+JDT 2:7	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
+JDT 2:7	1	4	ἑτοιμάζειν	ἑτοιμάζω	present active infinitive	1	to prepare
+JDT 2:7	1	5	γῆν	γῆ	noun, accusative feminine singular	1	earth
+JDT 2:7	1	6	καὶ	καί	conjunction	1	and
+JDT 2:7	1	7	ὕδωρ	ὕδωρ	noun, nominative neuter singular	1	water
+JDT 2:7	1	8	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+JDT 2:7	1	9	ἐξελεύσομαι	ἐξέρχομαι	future middle indicative, first singular	1	I will go out
+JDT 2:7	1	10	ἐν	ἐν	preposition with the dative	1	in
+JDT 2:7	1	11	θυμῷ	θυμός	noun, dative masculine singular	1	anger
+JDT 2:7	1	12	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
+JDT 2:7	1	13	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+JDT 2:7	1	14	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
+JDT 2:7	1	15	καὶ	καί	conjunction	1	and
+JDT 2:7	1	16	καλύψω	καλύπτω	future active indicative, first singular	1	I will cover
+JDT 2:7	1	17	πᾶν	πᾶς	adjective, accusative neuter singular	1	all
+JDT 2:7	1	18	τὸ	ὁ	article, accusative neuter singular	1	the
+JDT 2:7	1	19	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
+JDT 2:7	1	20	τῆς	ὁ	article, genitive feminine singular	1	of the
+JDT 2:7	1	21	γῆς	γῆ	noun, genitive feminine singular	1	land
+JDT 2:7	1	22	ἐν	ἐν	preposition with the dative	1	in
+JDT 2:7	1	23	τοῖς	ὁ	article, dative masculine plural	1	the
+JDT 2:7	1	24	ποσὶ	πούς	noun, dative masculine plural	1	feet
+JDT 2:7	1	25	τῆς	ὁ	article, genitive feminine singular	1	of the
+JDT 2:7	1	26	δυνάμεώς	δύναμις	noun genitive feminine singular	1	army
+JDT 2:7	1	27	μου	ἐγώ	personal pronoun genitive first singular	1	my
+JDT 2:7	1	28	καὶ	καί	conjunction	1	and
+JDT 2:7	1	29	δώσω	δίδωμι	future active indicative, first singular	1	I will give
+JDT 2:7	1	30	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
+JDT 2:7	1	31	εἰς	εἰς	preposition with the accusative	1	into
+JDT 2:7	1	32	διαρπαγὴν	διαρπαγή	noun, accusative feminine singular	1	plunder
+JDT 2:7	1	33	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
+JDT 2:8	1	1	καὶ	καί	conjunction	1	and
+JDT 2:8	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
+JDT 2:8	1	3	τραυματίαι	τραυματίας	noun, nominative masculine plural	1	wounded men
+JDT 2:8	1	4	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:8	1	5	πληρώσουσι	πληρόω	future active indicative, third plural	1	will fill
+JDT 2:8	1	6	τὰς	ὁ	article, accusative feminine plural	1	the
+JDT 2:8	1	7	φάραγγας	φάραγξ	noun, accusative feminine plural	1	ravines
+JDT 2:8	1	7	φάραγγας			2	channels
+JDT 2:8	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:8	1	8	αὐτῶν			2	of them
+JDT 2:8	1	9	καὶ	καί	conjunction	1	and
+JDT 2:8	1	10	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:8	1	11	χειμάρρους	χειμάρρους	noun, accusative masculine plural	1	torrents
+JDT 2:8	1	12	καὶ	καί	conjunction	1	and
+JDT 2:8	1	13	ποταμὸς	ποταμός	noun, nominative masculine singular	1	river
+JDT 2:8	1	14	ἐπικλύζων	ἐπικλύζω	present active participle, nominative masculine singular	1	flooding
+JDT 2:8	1	14	ἐπικλύζων			2	surging over
+JDT 2:8	1	15	τοῖς	ὁ	article, dative masculine plural	1	with the
+JDT 2:8	1	16	νεκροῖς	νεκρός	adjective dative masculine plural	1	dead
+JDT 2:8	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:8	1	18	πληρωθήσεται	πληρόω	future passive indicative, third singular	1	will be filled
+JDT 2:9	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:9	1	2	ἄξω	ἄγω	future active indicative, 1st singular	1	shall bring
+JDT 2:9	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
+JDT 2:9	1	4	αἰχμαλωσίαν	αἰχμαλωσία	noun, accusative feminine singular	1	captives
+JDT 2:9	1	5	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:9	1	6	ἐπὶ	ἐπί	preposition (case from context)	1	on
+JDT 2:9	1	7	τὰ	ὁ	article, accusative neuter plural	1	the
+JDT 2:9	1	8	ἄκρα	ἄκρον	noun, accusative neuter plural	1	ends
+JDT 2:9	1	9	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
+JDT 2:9	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
+JDT 2:9	1	11	γῆς	γῆ	noun, genitive feminine singular	1	land
+JDT 2:10	1	1	Σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
+JDT 2:10	1	2	δὲ	δέ	postpositive conjunction	1	and
+JDT 2:10	1	3	ἐξελθὼν	ἐξέρχομαι	aorist active participle, nominative masculine singular	1	having gone out
+JDT 2:10	1	4	προκαταλήψῃ	προκαταλαμβάνω	aorist active subjunctive, second singular	1	you shall seize first
+JDT 2:10	1	5	μοι	ἐγώ	pronoun, dative first singular	1	for me
+JDT 2:10	1	6	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+JDT 2:10	1	7	ὅριον	ὅριον	noun, nominative neuter singular	1	boundary
+JDT 2:10	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:10	1	9	καὶ	καί	conjunction	1	and
+JDT 2:10	1	10	ἐκδώσουσί	ἐκδίδωμι	future active indicative, third plural	1	will hand over
+JDT 2:10	1	11	σοι	σύ	personal pronoun, dative singular	1	to you
+JDT 2:10	1	12	ἑαυτοὺς	ἑαυτοῦ	reflexive pronoun, accusative masculine plural; direct object	1	themselves
+JDT 2:10	1	13	καὶ	καί	conjunction	1	and
+JDT 2:10	1	14	διατηρήσεις	διατηρέω	future active indicative second singular	1	you will preserve
+JDT 2:10	1	15	μοὶ	ἐγώ	personal pronoun dative first singular	1	to me
+JDT 2:10	1	16	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
+JDT 2:10	1	17	εἰς	εἰς	preposition with the accusative	1	into
+JDT 2:10	1	18	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
+JDT 2:10	1	19	ἐλεγμοῦ	ἐλεγμός	noun, genitive masculine singular	1	of punishment
+JDT 2:10	1	20	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:11	1	1	Ἐπὶ	ἐπί	preposition (case from context)	1	on
+JDT 2:11	1	2	δὲ	δέ	postpositive conjunction	1	and
+JDT 2:11	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:11	1	4	ἀπειθοῦντας	ἀπειθέω	present active participle, accusative masculine plural; substantival	1	the disobedient
+JDT 2:11	1	4	ἀπειθοῦντας			2	those who disobey
+JDT 2:11	1	5	οὐ	οὐ	negative adverb with future indicative	1	not
+JDT 2:11	1	6	φείσεται	φείδομαι	future middle indicative, 3rd singular	1	shall spare
+JDT 2:11	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
+JDT 2:11	1	8	ὀφθαλμός	ὀφθαλμός	noun, nominative masculine singular	1	eye
+JDT 2:11	1	9	σου	σύ	pronoun, genitive 2nd singular	1	your
+JDT 2:11	1	10	τοῦ	ὁ	article, genitive neuter singular introducing an articular infinitive, introduces the infinitive	1	—
+JDT 2:11	1	11	δοῦναι	δίδωμι	aorist active infinitive	1	to give
+JDT 2:11	1	12	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
+JDT 2:11	1	13	εἰς	εἰς	preposition with the accusative	1	into
+JDT 2:11	1	14	φόνον	φόνος	noun, accusative masculine singular	1	murder
+JDT 2:11	1	14	φόνον			2	killing
+JDT 2:11	1	15	καὶ	καί	conjunction	1	and
+JDT 2:11	1	16	ἁρπαγὴν	ἁρπαγή	noun, accusative feminine singular	1	plunder
+JDT 2:11	1	16	ἁρπαγὴν			2	loot
+JDT 2:11	1	17	ἐν	ἐν	preposition with the dative	1	in
+JDT 2:11	1	18	πάσῃ	πᾶς	adjective, dative feminine singular with γῇ	1	all
+JDT 2:11	1	19	τῇ	ὁ	definite article, dative feminine singular	1	the
+JDT 2:11	1	20	γῇ	γῆ	noun, dative feminine singular	1	land
+JDT 2:11	1	21	σου	σύ	pronoun, genitive 2nd singular	1	your
+JDT 2:12	1	1	Ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+JDT 2:12	1	2	ζῶν	ζάω	present active participle, accusative neuter singular	1	live
+JDT 2:12	1	3	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
+JDT 2:12	1	4	καὶ	καί	conjunction	1	and
+JDT 2:12	1	5	τὸ	ὁ	article, nominative neuter singular	1	the
+JDT 2:12	1	6	κράτος	κράτος	noun, nominative neuter singular	1	might
+JDT 2:12	1	7	τῆς	ὁ	article, genitive feminine singular	1	of the
+JDT 2:12	1	8	βασιλείας	βασιλεία	noun, genitive feminine singular	1	kingdom
+JDT 2:12	1	8	βασιλείας			2	reign
+JDT 2:12	1	9	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
+JDT 2:12	1	10	λελάληκα	λαλέω	perfect active indicative, 1st singular	1	have spoken
+JDT 2:12	1	11	καὶ	καί	conjunction	1	and
+JDT 2:12	1	12	ποιήσω	ποιέω	future active indicative, 1st singular	1	shall do
+JDT 2:12	1	13	ταῦτα	οὗτος	demonstrative accusative neuter plural	1	these things
+JDT 2:12	1	14	ἐν	ἐν	preposition with the dative	1	in
+JDT 2:12	1	15	χειρί	χείρ	noun, dative feminine singular	1	hand
+JDT 2:12	1	16	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
+JDT 2:13	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:13	1	2	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
+JDT 2:13	1	3	δὲ	δέ	postpositive conjunction	1	and
+JDT 2:13	1	4	οὐ	οὐ	negative adverb with future indicative	1	not
+JDT 2:13	1	5	παραβήσῃ	παραβαίνω	future middle indicative, 2nd singular	1	shall transgress
+JDT 2:13	1	6	ἓν	εἷς	cardinal numeral, nominative neuter singular	1	one
+JDT 2:13	1	7	τι	τις	pronoun, accusative neuter singular; indefinite, adverbial	1	at all
+JDT 2:13	1	8	τῶν	ὁ	article, genitive plural	1	the
+JDT 2:13	1	9	ῥημάτων	ῥῆμα	noun, genitive neuter plural	1	words
+JDT 2:13	1	9	ῥημάτων			2	matters
+JDT 2:13	1	10	τοῦ	ὁ	article, genitive masculine singular	1	of the
+JDT 2:13	1	11	κυρίου	κύριος	noun, genitive masculine singular	1	lord
+JDT 2:13	1	12	σου	σύ	pronoun, possessive genitive second singular	1	your
+JDT 2:13	1	13	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
+JDT 2:13	1	14	ἐπιτελῶν	ἐπιτελέω	present active participle, nominative masculine singular	1	carrying out
+JDT 2:13	1	15	ἐπιτελέσεις	ἐπιτελέω	future active indicative, second singular	1	you shall carry out
+JDT 2:13	1	16	καθότι	καθότι	subordinating conjunction	1	as
+JDT 2:13	1	16	καθότι			2	in accordance with what
+JDT 2:13	1	17	προστέταχά	προστάσσω	perfect active indicative, first singular	1	I have commanded
+JDT 2:13	1	18	σοι	σύ	personal pronoun, dative singular	1	to you
+JDT 2:13	1	19	καὶ	καί	conjunction	1	and
+JDT 2:13	1	20	οὐ	οὐ	negative particle	1	not
+JDT 2:13	1	21	μακρυνεῖς	μακρύνω	future active indicative, second singular	1	you shall delay
+JDT 2:13	1	22	τοῦ	ὁ	article, genitive neuter singular introducing an articular infinitive, introduces the infinitive	1	—
+JDT 2:13	1	23	ποιῆσαι	ποιέω	aorist active infinitive in the articular infinitive	1	doing
+JDT 2:13	1	24	αὐτά	αὐτός	pronoun, nominative/accusative neuter plural	1	them
+JDT 2:14	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:14	1	2	ἐξῆλθεν	ἐξέρχομαι	aorist active indicative, third singular	1	went out
+JDT 2:14	1	2	ἐξῆλθεν			2	came out
+JDT 2:14	1	3	Ὀλοφέρνης	Ὀλοφέρνης	noun, nominative masculine singular	1	Holofernes
+JDT 2:14	1	4	ἀπὸ	ἀπό	preposition with the genitive	1	from
+JDT 2:14	1	5	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the presence
+JDT 2:14	1	6	τοῦ	ὁ	article, genitive masculine singular	1	of the
+JDT 2:14	1	7	κυρίου	κύριος	noun, genitive masculine singular	1	lord
+JDT 2:14	1	8	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
+JDT 2:14	1	9	καὶ	καί	conjunction	1	and
+JDT 2:14	1	10	ἐκάλεσε	καλέω	aorist active indicative, third singular	1	called
+JDT 2:14	1	11	πάντας	πᾶς	adjective, accusative masculine plural	1	all
+JDT 2:14	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:14	1	13	δυνάστας	δυνάστης	noun, accusative masculine plural after τοὺς, courtiers	1	nobles
+JDT 2:14	1	14	καὶ	καί	conjunction	1	and
+JDT 2:14	1	15	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:14	1	16	στρατηγοὺς	στρατηγός	noun, accusative masculine plural	1	commanders
+JDT 2:14	1	17	καὶ	καί	conjunction	1	and
+JDT 2:14	1	18	ἐπιστάτας	ἐπιστάτης	noun, accusative masculine plural	1	overseers
+JDT 2:14	1	19	τῆς	ὁ	article, genitive feminine singular	1	of the
+JDT 2:14	1	20	δυνάμεως	δύναμις	noun, genitive feminine singular	1	army
+JDT 2:14	1	20	δυνάμεως			2	force
+JDT 2:14	1	21	Ἀσσοὺρ	Ἀσσούρ	proper name, indeclinable; territorial sense	1	of Assyria
+JDT 2:15	1	1	καὶ	καί	conjunction	1	and
+JDT 2:15	1	2	ἠρίθμησεν	ἀριθμέω	aorist active indicative, third singular	1	counted
+JDT 2:15	1	3	ἐκλεκτοὺς	ἐκλεκτός	adjective, accusative masculine plural	1	choice
+JDT 2:15	1	4	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
+JDT 2:15	1	5	εἰς	εἰς	preposition with the accusative	1	into
+JDT 2:15	1	6	παράταξιν	παράταξις	noun, accusative feminine singular	1	battle formation
+JDT 2:15	1	7	καθότι	καθότι	subordinating conjunction	1	as
+JDT 2:15	1	7	καθότι			2	in accordance with what
+JDT 2:15	1	8	προσέταξεν	προστάσσω	aorist active indicative, third singular	1	commanded
+JDT 2:15	1	9	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+JDT 2:15	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
+JDT 2:15	1	11	κύριος	κύριος	noun, nominative masculine singular; Κύριος without article = the LORD, ὁ κύριος = the master (from context)	1	Lord
+JDT 2:15	1	12	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+JDT 2:15	1	13	εἰς	εἰς	preposition with the accusative	1	numbering
+JDT 2:15	1	14	μυριάδας	μυριάς	noun, accusative feminine plural	1	ten-thousands
+JDT 2:15	1	15	δεκαδύο	δεκαδύο	indeclinable cardinal numeral	1	twelve
+JDT 2:15	1	16	καὶ	καί	conjunction	1	and
+JDT 2:15	1	17	ἱππεῖς	ἱππεύς	noun, accusative masculine plural	1	horsemen
+JDT 2:15	1	18	τοξότας	τοξότης	noun, accusative masculine plural	1	with bows
+JDT 2:15	1	19	μυρίους	μύριοι	adjective, accusative masculine plural	1	ten thousand
+JDT 2:15	1	20	δισχιλίους	δισχίλιοι	cardinal numeral, accusative masculine plural	1	two thousand
+JDT 2:16	1	1	καὶ	καί	conjunction	1	and
+JDT 2:16	1	2	διέταξεν	διατάσσω	aorist active indicative, third singular	1	appointed
+JDT 2:16	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
+JDT 2:16	1	4	ὃν	ὅς	relative pronoun, accusative masculine singular	1	as
+JDT 2:16	1	5	τρόπον	τρόπος	noun, accusative masculine singular	1	the manner
+JDT 2:16	1	6	πολέμου	πόλεμος	noun, genitive masculine singular	1	of war
+JDT 2:16	1	7	πλῆθος	πλῆθος	noun, accusative neuter singular	1	a force
+JDT 2:16	1	8	συντάσσεται	συντάσσω	present middle indicative, third singular	1	is arranged
+JDT 2:17	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:17	1	2	ἔλαβε	λαμβάνω	aorist active indicative, third singular	1	took
+JDT 2:17	1	3	καμήλους	κάμηλος	noun, accusative feminine plural	1	camels
+JDT 2:17	1	4	καὶ	καί	conjunction	1	and
+JDT 2:17	1	5	ὄνους	ὄνος	noun, accusative masculine plural	1	donkeys
+JDT 2:17	1	6	καὶ	καί	conjunction	1	and
+JDT 2:17	1	7	ἡμιόνους	ἡμίονος	noun, accusative plural, mules (she-mules here by participle agreement)	1	mules
+JDT 2:17	1	8	εἰς	εἰς	preposition with the accusative	1	into
+JDT 2:17	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
+JDT 2:17	1	10	ἀπαρτίαν	ἀπαρτία	noun, accusative feminine singular	1	baggage
+JDT 2:17	1	11	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:17	1	12	πλῆθος	πλῆθος	noun, accusative neuter singular after εἰς predicate	1	a multitude
+JDT 2:17	1	13	πολὺ	πολύς	adjective, accusative neuter singular with πλῆθος	1	great
+JDT 2:17	1	14	σφόδρα	σφόδρα	adverb of degree	1	greatly
+JDT 2:17	1	15	καὶ	καί	conjunction	1	and
+JDT 2:17	1	16	πρόβατα	πρόβατον	noun, nominative neuter plural	1	sheep
+JDT 2:17	1	17	καὶ	καί	conjunction	1	and
+JDT 2:17	1	18	βόας	βοῦς	noun accusative feminine plural here	1	cattle
+JDT 2:17	1	19	καὶ	καί	conjunction	1	and
+JDT 2:17	1	20	αἶγας	αἴξ	noun, accusative feminine plural	1	female goats
+JDT 2:17	1	20	αἶγας			2	she-goats
+JDT 2:17	1	21	εἰς	εἰς	preposition with the accusative	1	into
+JDT 2:17	1	22	τὴν	ὁ	article, accusative feminine singular	1	the
+JDT 2:17	1	23	παρασκευὴν	παρασκευή	noun, accusative feminine singular	1	supplies
+JDT 2:17	1	24	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:17	1	25	ὧν	ὅς	relative pronoun, genitive feminine plural	1	of which
+JDT 2:17	1	26	οὐκ	οὐ	negative particle	1	not
+JDT 2:17	1	27	ἦν	εἰμί	imperfect indicative, third singular	1	was
+JDT 2:17	1	28	ἀριθμὸς	ἀριθμός	noun, nominative masculine singular	1	number
+JDT 2:18	1	1	καὶ	καί	conjunction	1	and
+JDT 2:18	1	2	ἐπισιτισμὸν	ἐπισιτισμός	noun, accusative masculine singular, provisions	1	provisions
+JDT 2:18	1	3	παντὶ	πᾶς	adjective, dative masculine singular	1	for every
+JDT 2:18	1	4	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	man
+JDT 2:18	1	5	εἰς	εἰς	preposition with the accusative	1	in
+JDT 2:18	1	6	πλῆθος	πλῆθος	noun, accusative neuter singular	1	multitude
+JDT 2:18	1	6	πλῆθος			2	abundance
+JDT 2:18	1	7	καὶ	καί	conjunction	1	and
+JDT 2:18	1	8	χρυσίον	χρυσίον	noun, nominative neuter singular	1	gold
+JDT 2:18	1	9	καὶ	καί	conjunction	1	and
+JDT 2:18	1	10	ἀργύριον	ἀργύριον	noun, accusative neuter singular	1	silver
+JDT 2:18	1	11	ἐξ	ἐκ	preposition with the genitive	1	from
+JDT 2:18	1	12	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+JDT 2:18	1	12	οἴκου			2	household
+JDT 2:18	1	13	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of the king
+JDT 2:18	1	14	πολὺ	πολύς	adjective, accusative neuter singular with πλῆθος	1	a large amount
+JDT 2:18	1	15	σφόδρα	σφόδρα	adverb of degree	1	greatly
+JDT 2:19	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:19	1	2	ἐξῆλθεν	ἐξέρχομαι	aorist active indicative, third singular	1	came out
+JDT 2:19	1	3	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
+JDT 2:19	1	4	καὶ	καί	conjunction	1	and
+JDT 2:19	1	5	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
+JDT 2:19	1	6	ἡ	ὁ	article, nominative feminine singular	1	the
+JDT 2:19	1	7	δύναμις	δύναμις	noun, nominative feminine singular	1	army
+JDT 2:19	1	7	δύναμις			2	force
+JDT 2:19	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+JDT 2:19	1	9	εἰς	εἰς	preposition with the accusative	1	into
+JDT 2:19	1	10	πορείαν	πορεία	noun, accusative feminine singular	1	journey
+JDT 2:19	1	11	τοῦ	ὁ	article, genitive neuter singular introducing an articular infinitive, introduces the infinitive	1	—
+JDT 2:19	1	12	προελθεῖν	προέρχομαι	aorist active infinitive	1	to go ahead of
+JDT 2:19	1	13	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	King
+JDT 2:19	1	14	Ναβουχοδονόσορ	Ναβουχοδονόσορ	indeclinable personal name, nominative in context	1	Nebuchadnezzar
+JDT 2:19	1	15	καὶ	καί	conjunction	1	and
+JDT 2:19	1	16	καλύψαι	καλύπτω	aorist active infinitive of purpose, to cover	1	to cover
+JDT 2:19	1	17	πᾶν	πᾶς	adjective, accusative neuter singular	1	all
+JDT 2:19	1	18	τὸ	ὁ	article, accusative neuter singular	1	the
+JDT 2:19	1	19	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
+JDT 2:19	1	20	τῆς	ὁ	article, genitive feminine singular	1	of the
+JDT 2:19	1	21	γῆς	γῆ	noun, genitive feminine singular	1	land
+JDT 2:19	1	22	πρὸς	πρός	preposition with the accusative	1	to
+JDT 2:19	1	23	δυσμαῖς	δυσμή	noun, dative feminine plural	1	west
+JDT 2:19	1	24	ἐν	ἐν	preposition with dative	1	in
+JDT 2:19	1	25	ἅρμασι	ἅρμα	noun, dative neut. pl. after ἐν τοῖς	1	chariots
+JDT 2:19	1	26	καὶ	καί	conjunction	1	and
+JDT 2:19	1	27	ἱππεῦσι	ἱππεύς	noun, dative masculine plural	1	horsemen
+JDT 2:19	1	27	ἱππεῦσι			2	riders
+JDT 2:19	1	28	καὶ	καί	conjunction	1	and
+JDT 2:19	1	29	πεζοῖς	πεζός	adjective, dative masculine plural	1	foot soldiers
+JDT 2:19	1	30	ἐπιλέκτοις	ἔπιλεκτος	adjective, dative masculine plural	1	picked
+JDT 2:19	1	31	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:20	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:20	1	2	πολὺς	πολύς	adjective, nominative masculine singular	1	numerous
+JDT 2:20	1	3	Ὁ	ὁ	article, nominative masculine singular	1	the
+JDT 2:20	1	4	ἐπίμικτος	ἐπίμικτος	substantival adjective, nominative masculine singular	1	mixed crowd
+JDT 2:20	1	5	ὡς	ὡς	comparative particle	1	as
+JDT 2:20	1	6	ἀκρὶς	ἀκρίς	noun, nominative feminine singular	1	locusts
+JDT 2:20	1	7	συνεξῆλθον	συνεξέρχομαι	aorist active indicative, third plural	1	went out along with them
+JDT 2:20	1	8	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	with them
+JDT 2:20	1	9	καὶ	καί	conjunction	1	and
+JDT 2:20	1	10	ὡς	ὡς	comparative particle	1	as
+JDT 2:20	1	11	ἡ	ὁ	article, nominative feminine singular	1	the
+JDT 2:20	1	12	ἄμμος	ἄμμος	noun, nominative feminine singular	1	sand
+JDT 2:20	1	12	ἄμμος			2	dust
+JDT 2:20	1	13	τῆς	ὁ	article, genitive feminine singular	1	of the
+JDT 2:20	1	14	γῆς	γῆ	noun, genitive feminine singular	1	earth
+JDT 2:20	1	15	οὐ	οὐ	negative adverb with future indicative	1	not
+JDT 2:20	1	16	γὰρ	γάρ	explanatory conjunction	1	for
+JDT 2:20	1	17	ἦν	εἰμί	imperfect indicative, third singular	1	was
+JDT 2:20	1	18	ἀριθμὸς	ἀριθμός	noun, nominative masculine singular	1	number
+JDT 2:20	1	19	ἀπὸ	ἀπό	preposition with the genitive	1	because of
+JDT 2:20	1	20	πλήθους	πλῆθος	noun, genitive neuter singular	1	multitude
+JDT 2:20	1	20	πλήθους			2	great number
+JDT 2:20	1	21	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:21	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:21	1	2	ἐξῆλθον	ἐξέρχομαι	aorist active indicative, third plural	1	went out
+JDT 2:21	1	3	ἐκ	ἐκ	preposition with the genitive	1	from
+JDT 2:21	1	4	Νινευὴ	Νινευή	indeclinable place name, accusative in context	1	Nineveh
+JDT 2:21	1	4	Νινευὴ			2	Nineue
+JDT 2:21	1	5	ὁδὸν	ὁδός	noun, accusative feminine singular	1	a journey
+JDT 2:21	1	6	τριῶν	τρεῖς	cardinal numeral, genitive plural (ἔτι τριῶν ἡμερῶν, genitive absolute-like time phrase as printed)	1	of three
+JDT 2:21	1	7	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
+JDT 2:21	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	as far as
+JDT 2:21	1	9	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	the front
+JDT 2:21	1	10	τοῦ	ὁ	article, genitive singular	1	the
+JDT 2:21	1	11	πεδίου	πεδίον	noun, genitive neuter singular	1	plain
+JDT 2:21	1	11	πεδίου			2	open country
+JDT 2:21	1	12	Βεκτελὲθ	Βεκτελέθ	indeclinable place name, genitive in context	1	of Bektelet
+JDT 2:21	1	13	καὶ	καί	conjunction	1	and
+JDT 2:21	1	14	ἐπεστρατοπέδευσαν	ἐπιστρατοπεδεύω	aorist active indicative, third plural	1	encamped
+JDT 2:21	1	15	ἀπὸ	ἀπό	preposition with the genitive	1	from
+JDT 2:21	1	16	Βεκτελὲθ	Βεκτελέθ	indeclinable place name, destination in context	1	Bektelet
+JDT 2:21	1	17	πλησίον	πλησίον	adverb/preposition with genitive, near	1	near
+JDT 2:21	1	18	τοῦ	ὁ	article, genitive singular	1	the
+JDT 2:21	1	19	ὄρους	ὄρος	noun, genitive neuter singular	1	mountain
+JDT 2:21	1	20	τοῦ	ὁ	article, genitive singular	1	the
+JDT 2:21	1	21	ἐπ'	ἐπί	preposition with dative	1	on
+JDT 2:21	1	21	ἐπ'			2	in
+JDT 2:21	1	22	ἀριστερᾷ	ἀριστερός	adjective, dative feminine singular used substantivally	1	the left
+JDT 2:21	1	23	τῆς	ὁ	article, genitive feminine singular	1	of
+JDT 2:21	1	24	ἄνω	ἄνω	adverb used attributively	1	Upper
+JDT 2:21	1	25	Κιλικίας	Κιλικία	noun, genitive feminine singular	1	Cilicia
+JDT 2:22	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:22	1	2	ἔλαβε	λαμβάνω	aorist active indicative, third singular	1	took
+JDT 2:22	1	3	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
+JDT 2:22	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
+JDT 2:22	1	5	δύναμιν	δύναμις	noun, accusative fem. sg. after τὴν, host/army in this phrase	1	host
+JDT 2:22	1	6	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+JDT 2:22	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:22	1	8	πεζοὺς	πεζός	substantival adjective, accusative masculine plural	1	foot soldiers
+JDT 2:22	1	9	καὶ	καί	conjunction	1	and
+JDT 2:22	1	10	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:22	1	11	ἱππεῖς	ἱππεύς	noun, accusative masculine plural	1	horsemen
+JDT 2:22	1	12	καὶ	καί	conjunction	1	and
+JDT 2:22	1	13	τὰ	ὁ	article, accusative neuter plural	1	the
+JDT 2:22	1	14	ἅρματα	ἅρμα	noun, accusative neuter plural	1	chariots
+JDT 2:22	1	15	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
+JDT 2:22	1	16	καὶ	καί	conjunction	1	and
+JDT 2:22	1	17	ἀπῆλθεν	ἀπέρχομαι	aorist active indicative, third singular	1	went away
+JDT 2:22	1	17	ἀπῆλθεν			2	departed
+JDT 2:22	1	18	ἐκεῖθεν	ἐκεῖθεν	adverb of place	1	from there
+JDT 2:22	1	19	εἰς	εἰς	preposition with the accusative	1	into
+JDT 2:22	1	20	τὴν	ὁ	article, accusative feminine singular	1	the
+JDT 2:22	1	21	ὀρεινήν	ὀρεινός	substantival adjective, accusative feminine singular	1	hill country
+JDT 2:22	1	21	ὀρεινήν			2	mountain country
+JDT 2:23	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:23	1	2	διέκοψε	διακόπτω	aorist active indicative, third singular	1	broke through
+JDT 2:23	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:23	1	4	Φοὺδ	Φούδ	indeclinable personal name, nominative in context	1	Phoud
+JDT 2:23	1	4	Φοὺδ			2	Put
+JDT 2:23	1	5	καὶ	καί	conjunction	1	and
+JDT 2:23	1	6	Λοὺδ	Λούδ	indeclinable personal name, nominative in context	1	Loud
+JDT 2:23	1	6	Λοὺδ			2	Lud
+JDT 2:23	1	7	καὶ	καί	conjunction	1	and
+JDT 2:23	1	8	ἐπρονόμευσε	προνομεύω	aorist active indicative, third singular	1	plundered
+JDT 2:23	1	9	πάντας	πᾶς	adjective, accusative masculine plural	1	all
+JDT 2:23	1	10	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
+JDT 2:23	1	11	Ῥασσεὶς	Ῥασσείς	indeclinable personal name, genitive in context	1	of Rasseis
+JDT 2:23	1	12	καὶ	καί	conjunction	1	and
+JDT 2:23	1	13	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
+JDT 2:23	1	14	Ἰσμαὴλ	Ἰσμαήλ	proper noun, nominative masculine, indeclinable	1	of Ishmael
+JDT 2:23	1	15	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:23	1	16	κατὰ	κατά	preposition with accusative; κατὰ πρόσωπον idiom	1	in front of
+JDT 2:23	1	17	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά, completes the expression	1	—
+JDT 2:23	1	18	τῆς	ὁ	article, genitive feminine singular	1	the
+JDT 2:23	1	19	ἐρήμου	ἔρημος	noun, genitive feminine singular	1	desert
+JDT 2:23	1	20	πρὸς	πρός	preposition with the accusative	1	to
+JDT 2:23	1	21	νότον	νότος	noun, accusative masculine singular	1	the south
+JDT 2:23	1	22	τῆς	ὁ	article, genitive feminine singular	1	of
+JDT 2:23	1	23	Χελεών	Χελεών	indeclinable personal name	1	Cheleon
+JDT 2:23	1	23	Χελεών			2	Chilion
+JDT 2:24	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:24	1	2	παρῆλθε	παρέρχομαι	aorist active indicative, 3rd sg.	1	passed
+JDT 2:24	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
+JDT 2:24	1	4	Εὐφράτην	Εὐφράτης	noun, accusative masculine singular	1	Euphrates
+JDT 2:24	1	5	καὶ	καί	conjunction	1	and
+JDT 2:24	1	6	διῆλθε	διέρχομαι	aorist active indicative, third singular	1	went through
+JDT 2:24	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
+JDT 2:24	1	8	Μεσοποταμίαν	Μεσοποταμία	noun, accusative feminine singular; place name	1	Mesopotamia
+JDT 2:24	1	9	καὶ	καί	conjunction	1	and
+JDT 2:24	1	10	κατέσκαψε	κατασκάπτω	aorist active indicative, third singular	1	tore down
+JDT 2:24	1	11	πάσας	πᾶς	adjective, accusative feminine plural	1	all
+JDT 2:24	1	12	τὰς	ὁ	article, accusative feminine plural	1	the
+JDT 2:24	1	13	πόλεις	πόλις	noun, accusative feminine plural	1	cities
+JDT 2:24	1	14	τὰς	ὁ	article, accusative feminine plural	1	the
+JDT 2:24	1	15	ὑψηλὰς	ὑψηλός	adjective, accusative feminine plural	1	high
+JDT 2:24	1	15	ὑψηλὰς			2	lofty
+JDT 2:24	1	16	τὰς	ὁ	article, accusative feminine plural	1	the
+JDT 2:24	1	17	ἐπὶ	ἐπί	preposition (genitive)	1	on
+JDT 2:24	1	17	ἐπὶ			2	upon
+JDT 2:24	1	18	τοῦ	ὁ	article, genitive singular	1	the
+JDT 2:24	1	19	χειμάρρου	χειμάρρους	noun, genitive masculine singular	1	torrent
+JDT 2:24	1	19	χειμάρρου			2	stream
+JDT 2:24	1	20	Ἀβρωνᾶ	Ἀβρωνᾶ	indeclinable geographic name, genitive in context	1	of Abrona
+JDT 2:24	1	21	ἕως	ἕως	preposition with the genitive	1	as far as
+JDT 2:24	1	21	ἕως			2	up to
+JDT 2:24	1	22	τοῦ	ὁ	article, genitive neuter singular introducing an articular infinitive, introduces the infinitive	1	—
+JDT 2:24	1	23	ἐλθεῖν	ἔρχομαι	aorist active infinitive after τοῦ	1	to reach
+JDT 2:24	1	24	ἐπὶ	ἐπί	preposition (case from context)	1	on
+JDT 2:24	1	25	θάλασσαν	θάλασσα	noun, accusative feminine singular	1	the sea
+JDT 2:25	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:25	1	2	κατελάβετο	καταλαμβάνω	aorist middle indicative, third singular	1	he seized
+JDT 2:25	1	3	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
+JDT 2:25	1	4	ὅρια	ὅριον	noun, accusative neuter plural	1	borders
+JDT 2:25	1	5	τῆς	ὁ	article, genitive feminine singular	1	of
+JDT 2:25	1	6	Κιλικίας	Κιλικία	noun, genitive feminine singular	1	Cilicia
+JDT 2:25	1	7	καὶ	καί	conjunction	1	and
+JDT 2:25	1	8	κατέκοψε	κατακόπτω	aorist active indicative, third singular	1	cut down
+JDT 2:25	1	9	πάντας	πᾶς	adjective, accusative masculine plural	1	all
+JDT 2:25	1	10	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:25	1	11	ἀντιστάντας	ἀνθίστημι	aorist active participle, accusative masculine plural	1	who resisted
+JDT 2:25	1	12	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
+JDT 2:25	1	13	καὶ	καί	conjunction	1	and
+JDT 2:25	1	14	ἦλθεν	ἔρχομαι	aorist active indicative, third person singular	1	he came
+JDT 2:25	1	15	ἕως	ἕως	preposition with the genitive	1	as far as
+JDT 2:25	1	15	ἕως			2	up to
+JDT 2:25	1	16	ὁρίων	ὅριον	noun, genitive neuter plural	1	borders
+JDT 2:25	1	17	Ἰάφεθ	Ἰάφεθ	indeclinable personal name	1	of Japheth
+JDT 2:25	1	18	τὰ	ὁ	article, accusative neuter plural	1	the
+JDT 2:25	1	19	πρὸς	πρός	preposition with the accusative	1	to
+JDT 2:25	1	20	νότον	νότος	noun/adjective, accusative masculine singular	1	south
+JDT 2:25	1	21	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+JDT 2:25	1	22	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	the face
+JDT 2:25	1	23	τῆς	ὁ	article, genitive feminine singular	1	the
+JDT 2:25	1	24	Ἀραβίας	Ἀραβία	place name, genitive feminine singular at 45:10	1	Arabia
+JDT 2:26	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:26	1	2	ἐκύκλωσε	κυκλόω	aorist active indicative, third singular	1	went around
+JDT 2:26	1	3	πάντας	πᾶς	adjective, accusative masculine plural	1	all
+JDT 2:26	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:26	1	5	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
+JDT 2:26	1	6	Μαδιὰμ	Μαδιάμ	indeclinable place name, genitive in context	1	of Midian
+JDT 2:26	1	7	καὶ	καί	conjunction	1	and
+JDT 2:26	1	8	ἐνέπρησε	ἐμπίμπρημι	aorist active indicative, third singular	1	burned
+JDT 2:26	1	9	τὰ	ὁ	article, accusative neuter plural	1	the
+JDT 2:26	1	10	σκηνώματα	σκήνωμα	noun, accusative neuter plural	1	dwellings
+JDT 2:26	1	10	σκηνώματα			2	habitations
+JDT 2:26	1	11	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:26	1	12	καὶ	καί	conjunction	1	and
+JDT 2:26	1	13	ἐπρονόμευσε	προνομεύω	aorist active indicative, third singular	1	plundered
+JDT 2:26	1	14	τὰς	ὁ	article accusative feminine plural	1	the
+JDT 2:26	1	15	μάνδρας	μάνδρα	noun accusative feminine plural	1	sheepfolds
+JDT 2:26	1	16	αὐτῶν	αὐτός	personal pronoun genitive plural	1	their
+JDT 2:27	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:27	1	2	κατέβη	καταβαίνω	aorist active indicative, third singular	1	came down
+JDT 2:27	1	2	κατέβη			2	descended
+JDT 2:27	1	3	εἰς	εἰς	preposition with the accusative	1	into
+JDT 2:27	1	4	πεδίον	πεδίον	noun, accusative neuter singular	1	field
+JDT 2:27	1	4	πεδίον			2	plain
+JDT 2:27	1	5	Δαμασκοῦ	Δαμασκός	place name, genitive feminine singular	1	of Damascus
+JDT 2:27	1	6	ἐν	ἐν	preposition with the dative	1	in
+JDT 2:27	1	7	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
+JDT 2:27	1	8	θερισμοῦ	θερισμός	noun, genitive masculine singular	1	of harvest
+JDT 2:27	1	9	πυρῶν	πυρός	noun, genitive masculine plural	1	of wheat
+JDT 2:27	1	10	καὶ	καί	conjunction	1	and
+JDT 2:27	1	11	ἐνέπρησε	ἐμπίμπρημι	aorist active indicative, third singular	1	burned
+JDT 2:27	1	12	πάντας	πᾶς	adjective accusative masculine plural	1	all
+JDT 2:27	1	13	τοὺς	ὁ	article accusative masculine plural	1	the
+JDT 2:27	1	14	ἀγροὺς	ἀγρός	noun, accusative masculine plural	1	fields
+JDT 2:27	1	15	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:27	1	16	καὶ	καί	conjunction	1	and
+JDT 2:27	1	17	τὰ	ὁ	article, neuter plural (case from context)	1	the
+JDT 2:27	1	18	ποίμνια	ποίμνιον	noun, nominative neuter plural	1	flocks
+JDT 2:27	1	19	καὶ	καί	conjunction	1	and
+JDT 2:27	1	20	τὰ	ὁ	article, accusative neuter plural	1	the
+JDT 2:27	1	21	βουκόλια	βουκόλιον	noun, accusative neuter plural	1	herds
+JDT 2:27	1	22	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
+JDT 2:27	1	23	εἰς	εἰς	preposition with the accusative	1	into
+JDT 2:27	1	24	ἀφανισμὸν	ἀφανισμός	noun, accusative masculine singular	1	destruction
+JDT 2:27	1	24	ἀφανισμὸν			2	obliteration
+JDT 2:27	1	25	καὶ	καί	conjunction	1	and
+JDT 2:27	1	26	τὰς	ὁ	definite article, accusative feminine plural	1	the
+JDT 2:27	1	27	πόλεις	πόλις	noun, accusative feminine plural	1	cities
+JDT 2:27	1	28	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:27	1	29	ἐσκύλευσε	σκυλεύω	aorist active indicative, third singular	1	plundered
+JDT 2:27	1	30	καὶ	καί	conjunction	1	and
+JDT 2:27	1	31	τὰ	ὁ	article, accusative neuter plural	1	the
+JDT 2:27	1	32	πεδία	πεδίον	noun, accusative neuter plural	1	fields
+JDT 2:27	1	33	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:27	1	34	ἐξελίκμησε	ἐκλικμάω	aorist active indicative, third singular	1	scattered
+JDT 2:27	1	35	καὶ	καί	conjunction	1	and
+JDT 2:27	1	36	ἐπάταξε	πατάσσω	aorist active indicative, third singular	1	struck
+JDT 2:27	1	37	πάντας	πᾶς	adjective, accusative masculine plural	1	all
+JDT 2:27	1	38	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:27	1	39	νεανίσκους	νεανίσκος	noun, accusative masculine plural	1	young men
+JDT 2:27	1	40	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 2:27	1	40	αὐτῶν			2	of them
+JDT 2:27	1	41	ἐν	ἐν	preposition with dative	1	with
+JDT 2:27	1	42	στόματι	στόμα	noun, dative neuter singular	1	the edge
+JDT 2:27	1	43	ρομφαίας	ῥομφαία	noun, dative feminine singular	1	of the sword
+JDT 2:28	1	1	Καὶ	καί	conjunction	1	and
+JDT 2:28	1	2	ἔπεσεν	πίπτω	aorist active indicative, third singular	1	fell
+JDT 2:28	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
+JDT 2:28	1	4	φόβος	φόβος	noun nominative masculine singular	1	fear
+JDT 2:28	1	5	καὶ	καί	conjunction	1	and
+JDT 2:28	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
+JDT 2:28	1	7	τρόμος	τρόμος	noun, nominative masculine singular	1	dread
+JDT 2:28	1	7	τρόμος			2	trembling
+JDT 2:28	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+JDT 2:28	1	9	ἐπὶ	ἐπί	preposition (case from context)	1	on
+JDT 2:28	1	10	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:28	1	11	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	inhabitants
+JDT 2:28	1	12	τὴν	ὁ	article, accusative feminine singular	1	the
+JDT 2:28	1	13	παραλίαν	παραλία	noun, accusative fem. sg	1	coast
+JDT 2:28	1	14	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:28	1	15	ὄντας	εἰμί	present participle, accusative masculine plural	1	who were
+JDT 2:28	1	16	ἐν	ἐν	preposition with the dative	1	in
+JDT 2:28	1	17	Σιδῶνι	Σιδών	noun, dative feminine singular	1	Sidon
+JDT 2:28	1	18	καὶ	καί	conjunction	1	and
+JDT 2:28	1	19	ἐν	ἐν	preposition with the dative	1	in
+JDT 2:28	1	20	Τύρῳ	Τύρος	noun, dative feminine singular	1	Tyre
+JDT 2:28	1	21	καὶ	καί	conjunction	1	and
+JDT 2:28	1	22	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:28	1	23	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	dwelling
+JDT 2:28	1	23	κατοικοῦντας			2	inhabiting
+JDT 2:28	1	24	Σοὺρ	Σούρ	proper noun, indeclinable; genitive feminine singular	1	Shur
+JDT 2:28	1	25	καὶ	καί	conjunction	1	and
+JDT 2:28	1	26	Ὀκεινὰ	Ὀκεινά	indeclinable place name, accusative in context	1	Okeina
+JDT 2:28	1	27	καὶ	καί	conjunction	1	and
+JDT 2:28	1	28	πάντας	πᾶς	adjective, accusative masculine plural	1	all
+JDT 2:28	1	29	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDT 2:28	1	30	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	dwelling
+JDT 2:28	1	30	κατοικοῦντας			2	inhabiting
+JDT 2:28	1	31	Ἰεμναάν	Ἰεμναάν	indeclinable place name, accusative in context	1	Iemnaan
+JDT 2:28	1	32	καὶ	καί	conjunction	1	and
+JDT 2:28	1	33	οἱ	ὁ	article, nominative masculine plural	1	the
+JDT 2:28	1	34	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	those living
+JDT 2:28	1	34	κατοικοῦντες			2	those dwelling
+JDT 2:28	1	35	ἐν	ἐν	preposition with the dative	1	in
+JDT 2:28	1	36	Ἀζώτῳ	Ἄζωτος	noun, dative feminine singular; place name	1	Ashdod
+JDT 2:28	1	36	Ἀζώτῳ			2	Azotus
+JDT 2:28	1	37	καὶ	καί	conjunction	1	and
+JDT 2:28	1	38	Ἀσκάλωνι	Ἀσκάλων	noun, dative feminine singular	1	Ashkelon
+JDT 2:28	1	39	ἐφοβήθησαν	φοβέομαι	aorist passive indicative, third person plural	1	feared
+JDT 2:28	1	40	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
+JDT 2:28	1	41	σφόδρα	σφόδρα	adverb of degree	1	greatly
