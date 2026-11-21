@@ -236,7 +236,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 13:9	1	38	ἱερέα	ἱερεύς	noun, accusative masculine singular	1	a priest
 2CH 13:9	1	39	τῷ	ὁ	article, dative masculine singular	1	for the one
 2CH 13:9	1	40	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
-2CH 13:9	1	41	ὄντι	εἰμί	present participle, dative masculine singular after τῷ, substantival with ἐπὶ τῆς οἰκίας 'the one (being) over the house'	1	who was
+2CH 13:9	1	41	ὄντι	εἰμί	present active participle, dative masculine singular; with μή and Θεῷ	1	being
 2CH 13:9	1	42	Θεῷ	θεός	noun, dative masculine singular	1	God
 2CH 13:10	1	1	Καὶ	καί	conjunction	1	and
 2CH 13:10	1	2	ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
@@ -357,7 +357,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 13:13	1	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 2CH 13:13	1	8	ἐκ	ἐκ	preposition with the genitive	1	from
 2CH 13:13	1	9	τῶν	ὁ	article, genitive masculine plural	1	the
-2CH 13:13	1	10	ὄπισθεν	ὄπισθεν	adverb/preposition phrase ἐκ τῶν ὄπισθεν αὐτῶν in 14:19 for ὄπισθεν, behind	1	behind
+2CH 13:13	1	10	ὄπισθεν	ὄπισθεν	adverb	1	behind
 2CH 13:13	1	11	καὶ	καί	conjunction	1	and
 2CH 13:13	1	12	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 2CH 13:13	1	13	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	1	ahead
@@ -368,7 +368,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 13:13	1	17	ἔνεδρον			2	ambush
 2CH 13:13	1	18	ἐκ	ἐκ	preposition with the genitive	1	from
 2CH 13:13	1	19	τῶν	ὁ	article, genitive masculine plural	1	the
-2CH 13:13	1	20	ὄπισθεν	ὄπισθεν	adverb/preposition phrase ἐκ τῶν ὄπισθεν αὐτῶν in 14:19 for ὄπισθεν, behind	1	behind
+2CH 13:13	1	20	ὄπισθεν	ὄπισθεν	adverb, substantivized by the article	1	behind
 2CH 13:14	1	1	Καὶ	καί	conjunction	1	and
 2CH 13:14	1	2	ἀπέστρεψεν	ἀποστρέφω	aorist active indicative, third singular	1	turned back
 2CH 13:14	1	3	Ἰούδας	Ἰούδας	personal name, nominative masculine singular	1	Judah
@@ -383,7 +383,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 13:14	1	12	καὶ	καί	conjunction	1	and
 2CH 13:14	1	13	ἐκ	ἐκ	preposition with the genitive	1	from
 2CH 13:14	1	14	τῶν	ὁ	article, genitive plural	1	the
-2CH 13:14	1	15	ὄπισθεν	ὄπισθεν	adverb/preposition phrase ἐκ τῶν ὄπισθεν αὐτῶν in 14:19 for ὄπισθεν, behind	1	behind
+2CH 13:14	1	15	ὄπισθεν	ὄπισθεν	adverb	1	behind
 2CH 13:14	1	16	καὶ	καί	conjunction	1	and
 2CH 13:14	1	17	ἐβόησαν	βοάω	aorist active indicative, third plural	1	cried out
 2CH 13:14	1	18	πρὸς	πρός	preposition with the accusative	1	to

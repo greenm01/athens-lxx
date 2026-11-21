@@ -524,7 +524,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:19	1	20	καὶ	καί	conjunction	1	and
 2CH 6:19	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
 2CH 6:19	1	22	προσευχῆς	προσευχή	noun, genitive feminine singular	1	prayer
-2CH 6:19	1	23	ἧς	ὅς	relative pronoun, genitive feminine singular in ἐφ᾽ ἧς/ἐφ᾽ ᾗ construction 'on which' (dative in sense)	1	whose
+2CH 6:19	1	23	ἧς	ὅς	relative pronoun, genitive feminine singular; attracted to the case of προσευχῆς	1	which
 2CH 6:19	1	24	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 6:19	1	25	παῖς	παῖς	noun, nominative masculine singular	1	servant
 2CH 6:19	1	26	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -560,7 +560,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:20	1	25	ἀκοῦσαι	ἀκούω	aorist active infinitive	1	to hear
 2CH 6:20	1	26	τῆς	ὁ	article genitive feminine singular	1	the
 2CH 6:20	1	27	προσευχῆς	προσευχή	noun, genitive feminine singular	1	prayer
-2CH 6:20	1	28	ἧς	ὅς	relative pronoun, genitive feminine singular in ἐφ᾽ ἧς/ἐφ᾽ ᾗ construction 'on which' (dative in sense)	1	whose
+2CH 6:20	1	28	ἧς	ὅς	relative pronoun, genitive feminine singular; attracted to the case of προσευχῆς	1	which
 2CH 6:20	1	29	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 6:20	1	30	παῖς	παῖς	noun, nominative masculine singular	1	servant
 2CH 6:20	1	31	σου	σύ	personal pronoun, possessive genitive singular	1	your
@@ -891,7 +891,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:30	1	12	ἱλάσῃ	ἱλάσκομαι	future middle indicative second singular	1	you will pardon
 2CH 6:30	1	13	καὶ	καί	additive particle	1	also
 2CH 6:30	1	14	δώσεις	δίδωμι	future active indicative, second singular	1	you shall give
-2CH 6:30	1	15	ἀνδρὶ	ἀνήρ	noun, dative masculine singular, distributive 'to (each) man according to his dream'	1	to a man
+2CH 6:30	1	15	ἀνδρὶ	ἀνήρ	noun, dative masculine singular; distributive	1	to each person
 2CH 6:30	1	16	κατὰ	κατά	preposition with the accusative	1	according to
 2CH 6:30	1	17	τὰς	ὁ	article, accusative feminine plural	1	the
 2CH 6:30	1	18	ὁδοὺς	ὁδός	noun, accusative feminine plural	1	ways
