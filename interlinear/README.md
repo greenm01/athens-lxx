@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 363 chapters below have 209,965 indexed words and 228,631 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 371 chapters below have 213,187 indexed words and 232,107 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -166,6 +166,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Deuteronomy 7](DEU-007.tsv) | 726 | 726 |
 | [Deuteronomy 8](DEU-008.tsv) | 493 | 493 |
 | [Deuteronomy 9](DEU-009.tsv) | 828 | 828 |
+| [Deuteronomy 10](DEU-010.tsv) | 523 | 523 |
 | [Joshua 1](JOS-001.tsv) | 478 | 498 |
 | [Joshua 2](JOS-002.tsv) | 673 | 700 |
 | [Joshua 3](JOS-003.tsv) | 467 | 484 |
@@ -243,6 +244,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Kingdoms 26](1SA-026.tsv) | 709 | 736 |
 | [1 Kingdoms 27](1SA-027.tsv) | 340 | 358 |
 | [1 Kingdoms 28](1SA-028.tsv) | 669 | 693 |
+| [1 Kingdoms 29](1SA-029.tsv) | 369 | 386 |
+| [1 Kingdoms 30](1SA-030.tsv) | 786 | 810 |
+| [1 Kingdoms 31](1SA-031.tsv) | 337 | 342 |
 | [2 Kingdoms 1](2SA-001.tsv) | 576 | 641 |
 | [2 Kingdoms 2](2SA-002.tsv) | 810 | 919 |
 | [2 Kingdoms 3](2SA-003.tsv) | 987 | 1134 |
@@ -300,6 +304,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Isaiah 14](ISA-014.tsv) | 648 | 770 |
 | [Isaiah 15](ISA-015.tsv) | 196 | 252 |
 | [Isaiah 16](ISA-016.tsv) | 299 | 370 |
+| [Isaiah 17](ISA-017.tsv) | 328 | 389 |
+| [Isaiah 18](ISA-018.tsv) | 186 | 228 |
+| [Isaiah 19](ISA-019.tsv) | 546 | 627 |
+| [Isaiah 20](ISA-020.tsv) | 147 | 171 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
