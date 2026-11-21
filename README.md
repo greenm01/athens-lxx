@@ -12,6 +12,10 @@ Download the [complete interlinear database, v0.6.0](https://github.com/greenm01
 
 The print sometimes tells readers how to find their place. In Sirach 30 a Latin notice points ahead to chapter 33, where a passage continues in a different order. The database records the notice as it appears on the page. It also identifies Sirach’s eleven section titles, the closing account in Job, and the parentheses around “all” in Psalm 2:10. [See the marked passages](interlinear/print/passages.tsv)
 
+## Downstream implementation
+
+The [Royal Way Bible](https://github.com/greenm01/rwb) uses this interlinear to draft its Old Testament. It reads the Athens Greek a clause at a time, uses the word glosses to check the sense, and links its English phrases to the Greek words. For appointed readings it also consults the Greek service books.
+
 ## How a Greek Bible came from Moscow to Athens
 
 The Athens title page tells readers where the printers got their Greek. They followed a Bible printed in Moscow in 1821. Its Old Testament went back, through Johann Jakob Breitinger’s Zürich edition (1730–1732), to the Oxford Septuagint of Johann Ernst Grabe (1707–1720). Grabe began with Codex Alexandrinus, a fifth-century manuscript. Where he added or substituted words from another source, he used smaller type so that readers could see his hand in the text. The Greek passed from one printed edition to the next without an intervening translation. [Athens, volume I](https://books.google.com/books?id=rio7AAAAcAAJ) · [Swete on Grabe’s edition](https://ccel.org/ccel/swete/greekot/greekot.iii.vi.html) · [Mikhail Seleznev on the Moscow edition, pp. 116–117](https://ccat.sas.upenn.edu/ioscs/bulletin/volumes/jscs50.pdf#page=116)
