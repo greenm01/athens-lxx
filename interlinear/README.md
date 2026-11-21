@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 142 chapters below have 85,599 indexed words and 93,558 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 145 chapters below have 87,347 indexed words and 95,457 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -77,6 +77,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Exodus 21](EXO-021.tsv) | 679 | 679 |
 | [Exodus 22](EXO-022.tsv) | 584 | 584 |
 | [Exodus 23](EXO-023.tsv) | 722 | 722 |
+| [Exodus 24](EXO-024.tsv) | 394 | 394 |
 | [Leviticus 1](LEV-001.tsv) | 409 | 434 |
 | [Leviticus 2](LEV-002.tsv) | 322 | 346 |
 | [Leviticus 3](LEV-003.tsv) | 404 | 441 |
@@ -115,6 +116,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Numbers 11](NUM-011.tsv) | 835 | 869 |
 | [Numbers 12](NUM-012.tsv) | 284 | 295 |
 | [Numbers 13](NUM-013.tsv) | 589 | 621 |
+| [Numbers 14](NUM-014.tsv) | 990 | 1035 |
 | [Ruth 1](RUT-001.tsv) | 538 | 638 |
 | [Ruth 2](RUT-002.tsv) | 618 | 755 |
 | [Ruth 3](RUT-003.tsv) | 408 | 487 |
@@ -142,6 +144,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Micah 5](MIC-005.tsv) | 347 | 423 |
 | [Micah 6](MIC-006.tsv) | 341 | 425 |
 | [Micah 7](MIC-007.tsv) | 443 | 569 |
+| [Joel 1](JOL-001.tsv) | 364 | 470 |
 | [Jonah 1](JON-001.tsv) | 407 | 503 |
 | [Jonah 2](JON-002.tsv) | 188 | 240 |
 | [Jonah 3](JON-003.tsv) | 239 | 289 |
