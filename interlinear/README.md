@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 83 chapters below have 49,242 indexed words and 54,470 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 86 chapters below have 50,878 indexed words and 56,352 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -74,6 +74,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Leviticus 6](LEV-006.tsv) | 642 | 683 |
 | [Leviticus 7](LEV-007.tsv) | 783 | 846 |
 | [Leviticus 8](LEV-008.tsv) | 941 | 1011 |
+| [Leviticus 16](LEV-016.tsv) | 929 | 1001 |
 | [Ruth 1](RUT-001.tsv) | 538 | 638 |
 | [Ruth 2](RUT-002.tsv) | 618 | 755 |
 | [Ruth 3](RUT-003.tsv) | 408 | 487 |
@@ -83,6 +84,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
+| [Amos 1](AMO-001.tsv) | 342 | 435 |
+| [Amos 2](AMO-002.tsv) | 365 | 446 |
 | [Jonah 1](JON-001.tsv) | 407 | 503 |
 | [Jonah 2](JON-002.tsv) | 188 | 240 |
 | [Jonah 3](JON-003.tsv) | 239 | 289 |

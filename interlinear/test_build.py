@@ -31,6 +31,8 @@ class WordCitations(unittest.TestCase):
             2,
         )
         expected_coverage = [
+            ("AMO 1", 342),
+            ("AMO 2", 365),
             ("EXO 1", 377),
             ("EXO 2", 552),
             ("EXO 3", 601),
@@ -105,6 +107,7 @@ class WordCitations(unittest.TestCase):
             ("LEV 6", 642),
             ("LEV 7", 783),
             ("LEV 8", 941),
+            ("LEV 16", 929),
             ("PSA 21", 451),
             ("PSA 22", 103),
             ("PSA 50", 282),
