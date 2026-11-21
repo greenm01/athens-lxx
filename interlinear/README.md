@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 26 chapters below have 13,212 indexed words and 15,393 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 53 chapters below have 33,872 indexed words and 38,025 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -27,6 +27,33 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Genesis 21](GEN-021.tsv) | 669 | 734 |
 | [Genesis 22](GEN-022.tsv) | 546 | 603 |
 | [Genesis 23](GEN-023.tsv) | 434 | 466 |
+| [Genesis 24](GEN-024.tsv) | 1559 | 1795 |
+| [Genesis 25](GEN-025.tsv) | 630 | 714 |
+| [Genesis 26](GEN-026.tsv) | 759 | 877 |
+| [Genesis 27](GEN-027.tsv) | 1062 | 1184 |
+| [Genesis 28](GEN-028.tsv) | 529 | 594 |
+| [Genesis 29](GEN-029.tsv) | 752 | 836 |
+| [Genesis 30](GEN-030.tsv) | 942 | 1166 |
+| [Genesis 31](GEN-031.tsv) | 1316 | 1657 |
+| [Genesis 32](GEN-032.tsv) | 704 | 866 |
+| [Genesis 33](GEN-033.tsv) | 426 | 543 |
+| [Genesis 34](GEN-034.tsv) | 723 | 940 |
+| [Genesis 35](GEN-035.tsv) | 616 | 770 |
+| [Genesis 36](GEN-036.tsv) | 692 | 710 |
+| [Genesis 37](GEN-037.tsv) | 773 | 773 |
+| [Genesis 38](GEN-038.tsv) | 683 | 683 |
+| [Genesis 39](GEN-039.tsv) | 579 | 579 |
+| [Genesis 40](GEN-040.tsv) | 481 | 481 |
+| [Genesis 41](GEN-041.tsv) | 1166 | 1166 |
+| [Genesis 42](GEN-042.tsv) | 814 | 814 |
+| [Genesis 43](GEN-043.tsv) | 798 | 798 |
+| [Genesis 44](GEN-044.tsv) | 769 | 769 |
+| [Genesis 45](GEN-045.tsv) | 629 | 629 |
+| [Genesis 46](GEN-046.tsv) | 676 | 696 |
+| [Genesis 47](GEN-047.tsv) | 861 | 861 |
+| [Genesis 48](GEN-048.tsv) | 578 | 578 |
+| [Genesis 49](GEN-049.tsv) | 573 | 583 |
+| [Genesis 50](GEN-050.tsv) | 570 | 570 |
 | [Psalm 21](PSA-021.tsv) | 451 | 654 |
 | [Psalm 22](PSA-022.tsv) | 103 | 150 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
@@ -59,6 +86,8 @@ In Genesis 12:5 Abram sets out for *Λαναάν* and arrives in *Χαναάν*.
 
 Genesis 15:20 puts “and the Hivites” in round parentheses. In 17:6 the printer sets *θήσωσε* as one word. Its two parts mean “I will make” and “you.” A single gloss accounts for both. [Athens I, p. 23](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA23) · [p. 24](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA24)
 
+Genesis 41:48 prints *Ὤν*, the city On, in parentheses. At 49:9 Jacob tells Judah that he came up *ἐκ βλαστοῦ*, “from a shoot.” The interlinear keeps the image of a growing plant. [Athens I, p. 76](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA76) · [p. 92](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA92)
+
 Open the release’s `athens.sqlite` in any SQLite reader. This query shows the preferred English for each word in the first verse.
 
 ```sql
@@ -80,7 +109,7 @@ The `verse.text` field preserves the whole line, including punctuation, parenthe
 
 The `printed_passages` view gives the reference, occurrence, first and last word positions, printed page, and a link to the scan. For Greek text the positions include both ends. For a separately printed notice or subscription the position identifies the preceding Greek word. The printed material occupies its own field. In both Sirach notices the Greek numeral mark is transcribed as ʹ.
 
-50 features have been checked against the scans. Esther’s colophon runs straight on in 10:3. The superscription to Psalm 151 runs into the psalm, but its closing subscription stands apart in two lines of italic Greek. The records also identify printed parentheses in Genesis 1, 3, 4, 7, 8, 11, 14, 15, 18, 19, 20, 21, 22 and 23, Psalm 21 and Isaiah 30. Job’s closing account runs on from the preceding sentence. Psalm 2:10 puts parentheses around *πάντες*. Eight of Sirach’s eleven titles stand on lines of their own. Three run on with the surrounding text (18:30, 20:27 and 23:7). Two Latin notices, after 30:24 and 33:11, point readers to corresponding passages in the Complutensian edition. [Records and page references](print/passages.tsv)
+120 features have been checked against the scans. Esther’s colophon runs straight on in 10:3. The superscription to Psalm 151 runs into the psalm, but its closing subscription stands apart in two lines of italic Greek. The records identify printed parentheses throughout Genesis, in Psalm 21 and in Isaiah 30. The parenthesis in Laban’s speech crosses a page turn and a verse boundary in Genesis 31:48–49. Job’s closing account runs on from the preceding sentence. Psalm 2:10 puts parentheses around *πάντες*. Eight of Sirach’s eleven titles stand on lines of their own. Three run on with the surrounding text (18:30, 20:27 and 23:7). Two Latin notices, after 30:24 and 33:11, point readers to corresponding passages in the Complutensian edition. [Records and page references](print/passages.tsv)
 
 ```sql
 SELECT ref, occurrence, first_word, last_word, kind, greek, printed_notice, pages

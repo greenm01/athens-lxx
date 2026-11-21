@@ -54,6 +54,33 @@ class WordCitations(unittest.TestCase):
             ("GEN 21", 669),
             ("GEN 22", 546),
             ("GEN 23", 434),
+            ("GEN 24", 1559),
+            ("GEN 25", 630),
+            ("GEN 26", 759),
+            ("GEN 27", 1062),
+            ("GEN 28", 529),
+            ("GEN 29", 752),
+            ("GEN 30", 942),
+            ("GEN 31", 1316),
+            ("GEN 32", 704),
+            ("GEN 33", 426),
+            ("GEN 34", 723),
+            ("GEN 35", 616),
+            ("GEN 36", 692),
+            ("GEN 37", 773),
+            ("GEN 38", 683),
+            ("GEN 39", 579),
+            ("GEN 40", 481),
+            ("GEN 41", 1166),
+            ("GEN 42", 814),
+            ("GEN 43", 798),
+            ("GEN 44", 769),
+            ("GEN 45", 629),
+            ("GEN 46", 676),
+            ("GEN 47", 861),
+            ("GEN 48", 578),
+            ("GEN 49", 573),
+            ("GEN 50", 570),
             ("PSA 21", 451),
             ("PSA 22", 103),
             ("PSA 50", 282),
@@ -67,6 +94,15 @@ class WordCitations(unittest.TestCase):
                 [ref for ref, _ in expected_coverage],
             ).fetchall(),
             [(ref, words, words) for ref, words in expected_coverage],
+        )
+        # A reused analysis once assigned the lemma for “land” to Joseph’s name.
+        self.assertEqual(
+            db.execute(
+                "SELECT lemma, count(*) FROM interlinear WHERE ref GLOB 'GEN *' "
+                "AND surface IN ('Ἰωσήφ', 'Ἰωσὴφ', 'ΙΩΣΗΦ') AND preference=1 "
+                "GROUP BY lemma"
+            ).fetchall(),
+            [("Ἰωσήφ", 169)],
         )
         # These nouns were once assigned a verb parse when expanding a shorthand.
         self.assertEqual(
