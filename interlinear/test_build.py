@@ -135,6 +135,8 @@ class WordCitations(unittest.TestCase):
             ("HAB 3", 372),
             ("HAG 1", 375),
             ("HAG 2", 601),
+            ("JDG 1", 914),
+            ("JDG 2", 609),
             ("JOL 1", 364),
             ("JOL 2", 779),
             ("JOL 3", 451),
