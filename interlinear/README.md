@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 516 chapters below have 300,405 indexed words and 326,573 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 520 chapters below have 302,123 indexed words and 328,468 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -339,6 +339,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Chronicles 8](1CH-008.tsv) | 480 | 511 |
 | [1 Chronicles 9](1CH-009.tsv) | 753 | 797 |
 | [1 Chronicles 10](1CH-010.tsv) | 353 | 372 |
+| [1 Chronicles 11](1CH-011.tsv) | 767 | 818 |
 | [2 Chronicles 1](2CH-001.tsv) | 434 | 466 |
 | [2 Chronicles 2](2CH-002.tsv) | 547 | 586 |
 | [2 Chronicles 3](2CH-003.tsv) | 387 | 415 |
@@ -453,6 +454,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Isaiah 51](ISA-051.tsv) | 618 | 711 |
 | [Isaiah 52](ISA-052.tsv) | 307 | 343 |
 | [Isaiah 53](ISA-053.tsv) | 295 | 343 |
+| [Isaiah 54](ISA-054.tsv) | 357 | 406 |
+| [Isaiah 55](ISA-055.tsv) | 319 | 365 |
+| [Isaiah 56](ISA-056.tsv) | 275 | 306 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
