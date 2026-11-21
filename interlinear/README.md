@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 501 chapters below have 292,983 indexed words and 318,481 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 510 chapters below have 297,733 indexed words and 323,739 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -325,6 +325,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [4 Kingdoms 19](2KI-019.tsv) | 877 | 969 |
 | [4 Kingdoms 20](2KI-020.tsv) | 543 | 574 |
 | [4 Kingdoms 21](2KI-021.tsv) | 618 | 655 |
+| [4 Kingdoms 22](2KI-022.tsv) | 573 | 633 |
+| [4 Kingdoms 23](2KI-023.tsv) | 1217 | 1314 |
+| [4 Kingdoms 24](2KI-024.tsv) | 470 | 512 |
+| [4 Kingdoms 25](2KI-025.tsv) | 790 | 882 |
 | [1 Chronicles 1](1CH-001.tsv) | 637 | 660 |
 | [1 Chronicles 2](1CH-002.tsv) | 724 | 779 |
 | [1 Chronicles 3](1CH-003.tsv) | 294 | 329 |
@@ -387,6 +391,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 52](PSA-052.tsv) | 117 | 117 |
 | [Psalm 53](PSA-053.tsv) | 118 | 118 |
 | [Psalm 54](PSA-054.tsv) | 337 | 338 |
+| [Psalm 55](PSA-055.tsv) | 204 | 205 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Isaiah 1](ISA-001.tsv) | 599 | 749 |
@@ -438,6 +443,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Isaiah 47](ISA-047.tsv) | 353 | 401 |
 | [Isaiah 48](ISA-048.tsv) | 458 | 520 |
 | [Isaiah 49](ISA-049.tsv) | 648 | 734 |
+| [Isaiah 50](ISA-050.tsv) | 276 | 315 |
+| [Isaiah 51](ISA-051.tsv) | 618 | 711 |
+| [Isaiah 52](ISA-052.tsv) | 307 | 343 |
+| [Isaiah 53](ISA-053.tsv) | 295 | 343 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
