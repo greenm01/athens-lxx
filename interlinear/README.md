@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 991 chapters below have 515,663 indexed words and 556,430 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 995 chapters below have 518,615 indexed words and 559,656 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -643,6 +643,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Odes 11](ODA-011.tsv) | 104 | 104 |
 | [Odes 12](ODA-012.tsv) | 38 | 38 |
 | [Odes 13](ODA-013.tsv) | 145 | 146 |
+| [Odes 14](ODA-014.tsv) | 223 | 223 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
 | [Proverbs 2](PRO-002.tsv) | 272 | 289 |
 | [Proverbs 3](PRO-003.tsv) | 450 | 474 |
@@ -840,6 +841,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Ezekiel 21](EZK-021.tsv) | 704 | 704 |
 | [Ezekiel 22](EZK-022.tsv) | 657 | 657 |
 | [Susanna 1](SUS-001.tsv) | 1134 | 1376 |
+| [Daniel 1](DAG-001.tsv) | 504 | 603 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
@@ -946,6 +948,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Esdras 7](1ES-007.tsv) | 279 | 285 |
 | [1 Esdras 8](1ES-008.tsv) | 2003 | 2078 |
 | [1 Esdras 9](1ES-009.tsv) | 935 | 977 |
+| [1 Maccabees 1](1MA-001.tsv) | 1073 | 1156 |
+| [1 Maccabees 2](1MA-002.tsv) | 1152 | 1244 |
 | [Baruch 1](BAR-001.tsv) | 524 | 597 |
 | [Baruch 2](BAR-002.tsv) | 794 | 938 |
 | [Baruch 3](BAR-003.tsv) | 572 | 700 |
