@@ -33,6 +33,8 @@ class WordCitations(unittest.TestCase):
         expected_coverage = [
             ("1CH 1", 637),
             ("1CH 2", 724),
+            ("1CH 3", 294),
+            ("1CH 4", 710),
             ("1KI 1", 1297),
             ("1KI 2", 1639),
             ("1KI 3", 788),
@@ -491,6 +493,7 @@ class WordCitations(unittest.TestCase):
             ("PSA 46", 109),
             ("PSA 47", 200),
             ("PSA 48", 291),
+            ("PSA 49", 316),
             ("PSA 50", 282),
             ("PSA 116", 29),
             ("PSA 133", 48),
