@@ -139,6 +139,8 @@ class WordCitations(unittest.TestCase):
             ("JDG 2", 609),
             ("JDG 3", 740),
             ("JDG 4", 670),
+            ("JDG 5", 553),
+            ("JDG 6", 1082),
             ("JOL 1", 364),
             ("JOL 2", 779),
             ("JOL 3", 451),
