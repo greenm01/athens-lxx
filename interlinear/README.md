@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 111 chapters below have 66,305 indexed words and 72,720 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 114 chapters below have 68,276 indexed words and 74,770 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -93,6 +93,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Leviticus 19](LEV-019.tsv) | 705 | 727 |
 | [Leviticus 20](LEV-020.tsv) | 638 | 663 |
 | [Leviticus 21](LEV-021.tsv) | 472 | 484 |
+| [Leviticus 22](LEV-022.tsv) | 683 | 705 |
+| [Leviticus 23](LEV-023.tsv) | 881 | 911 |
+| [Leviticus 24](LEV-024.tsv) | 407 | 434 |
 | [Ruth 1](RUT-001.tsv) | 538 | 638 |
 | [Ruth 2](RUT-002.tsv) | 618 | 755 |
 | [Ruth 3](RUT-003.tsv) | 408 | 487 |
