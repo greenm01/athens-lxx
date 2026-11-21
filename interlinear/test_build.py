@@ -225,6 +225,8 @@ class WordCitations(unittest.TestCase):
             ("2SA 22", 684),
             ("2SA 23", 693),
             ("2SA 24", 746),
+            ("3MA 1", 658),
+            ("3MA 2", 717),
             ("AMO 1", 342),
             ("AMO 2", 365),
             ("AMO 3", 308),
