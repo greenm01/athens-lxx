@@ -88,6 +88,7 @@ class WordCitations(unittest.TestCase):
             ("PSA 50", 282),
             ("PSA 116", 29),
             ("PSA 133", 48),
+            ("RUT 1", 538),
         ]
         self.assertEqual(
             db.execute(
