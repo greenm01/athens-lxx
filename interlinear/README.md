@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 846 chapters below have 456,124 indexed words and 492,640 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 851 chapters below have 457,985 indexed words and 494,562 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -478,6 +478,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Job 36](JOB-036.tsv) | 406 | 427 |
 | [Job 37](JOB-037.tsv) | 287 | 303 |
 | [Job 38](JOB-038.tsv) | 472 | 497 |
+| [Job 39](JOB-039.tsv) | 392 | 412 |
+| [Job 40](JOB-040.tsv) | 324 | 338 |
+| [Job 41](JOB-041.tsv) | 278 | 292 |
+| [Job 42](JOB-042.tsv) | 589 | 602 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -778,6 +782,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Ezekiel 16](EZK-016.tsv) | 1516 | 1517 |
 | [Ezekiel 17](EZK-017.tsv) | 621 | 621 |
 | [Ezekiel 18](EZK-018.tsv) | 757 | 757 |
+| [Ezekiel 19](EZK-019.tsv) | 278 | 278 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
