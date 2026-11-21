@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 310 chapters below have 178,231 indexed words and 194,465 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 323 chapters below have 188,986 indexed words and 206,075 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -160,6 +160,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Deuteronomy 1](DEU-001.tsv) | 1014 | 1014 |
 | [Deuteronomy 2](DEU-002.tsv) | 840 | 840 |
 | [Deuteronomy 3](DEU-003.tsv) | 722 | 722 |
+| [Deuteronomy 4](DEU-004.tsv) | 1276 | 1276 |
 | [Joshua 1](JOS-001.tsv) | 478 | 498 |
 | [Joshua 2](JOS-002.tsv) | 673 | 700 |
 | [Joshua 3](JOS-003.tsv) | 467 | 484 |
@@ -222,6 +223,13 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Kingdoms 11](1SA-011.tsv) | 399 | 413 |
 | [1 Kingdoms 12](1SA-012.tsv) | 635 | 654 |
 | [1 Kingdoms 13](1SA-013.tsv) | 604 | 622 |
+| [1 Kingdoms 14](1SA-014.tsv) | 1455 | 1499 |
+| [1 Kingdoms 15](1SA-015.tsv) | 838 | 869 |
+| [1 Kingdoms 16](1SA-016.tsv) | 571 | 593 |
+| [1 Kingdoms 17](1SA-017.tsv) | 1503 | 1554 |
+| [2 Kingdoms 1](2SA-001.tsv) | 576 | 641 |
+| [2 Kingdoms 2](2SA-002.tsv) | 810 | 918 |
+| [2 Kingdoms 3](2SA-003.tsv) | 987 | 1138 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -238,6 +246,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 14](PSA-014.tsv) | 87 | 94 |
 | [Psalm 15](PSA-015.tsv) | 178 | 190 |
 | [Psalm 16](PSA-016.tsv) | 237 | 247 |
+| [Psalm 17](PSA-017.tsv) | 728 | 732 |
 | [Psalm 21](PSA-021.tsv) | 451 | 654 |
 | [Psalm 22](PSA-022.tsv) | 103 | 150 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
@@ -247,6 +256,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Isaiah 2](ISA-002.tsv) | 457 | 550 |
 | [Isaiah 3](ISA-003.tsv) | 503 | 617 |
 | [Isaiah 4](ISA-004.tsv) | 148 | 177 |
+| [Isaiah 5](ISA-005.tsv) | 671 | 808 |
+| [Isaiah 6](ISA-006.tsv) | 316 | 363 |
+| [Isaiah 7](ISA-007.tsv) | 532 | 631 |
+| [Isaiah 8](ISA-008.tsv) | 492 | 588 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
