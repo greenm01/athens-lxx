@@ -44,7 +44,7 @@ LEV 2:2	1	13	αὐτῆς			2	his
 LEV 2:2	1	14	πλήρη	πλήρης	adjective, accusative feminine singular	1	full
 LEV 2:2	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 2:2	1	16	δράκα	δράξ	noun, accusative feminine singular	1	handful
-LEV 2:2	1	17	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; distributive after πᾶσα σάρξ	1	his
+LEV 2:2	1	17	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 LEV 2:2	1	17	αὐτοῦ			2	its
 LEV 2:2	1	18	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 2:2	1	19	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -65,7 +65,7 @@ LEV 2:2	1	33	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 2:2	1	34	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
 LEV 2:2	1	35	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 2:2	1	36	μνημόσυνον	μνημόσυνον	noun, accusative neuter singular	1	memorial portion
-LEV 2:2	1	37	αὐτῆς	αὐτός	possessive pronoun referring to the earth, genitive feminine singular	1	its
+LEV 2:2	1	37	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 LEV 2:2	1	37	αὐτῆς			2	her
 LEV 2:2	1	38	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 LEV 2:2	1	39	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -103,7 +103,7 @@ LEV 2:4	1	7	ἐκ	ἐκ	preposition with the genitive	1	from
 LEV 2:4	1	8	κλιβάνου	κλίβανος	noun, genitive masculine singular	1	oven
 LEV 2:4	1	9	δῶρον	δῶρον	noun, accusative neuter singular	1	offering
 LEV 2:4	1	9	δῶρον			2	gift
-LEV 2:4	1	10	Κυρίῳ	κύριος	noun, genitive masculine singular	1	of the Lord
+LEV 2:4	1	10	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 LEV 2:4	1	11	ἐκ	ἐκ	preposition with the genitive	1	from
 LEV 2:4	1	12	σεμιδάλεως	σεμίδαλις	noun, genitive feminine singular	1	fine flour
 LEV 2:4	1	13	ἄρτους	ἄρτος	noun, accusative masculine plural	1	loaves
@@ -275,17 +275,16 @@ LEV 2:13	1	12	Κυρίου	κύριος	noun, genitive masculine singular	1	of t
 LEV 2:13	1	13	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 2:13	1	14	θυσιασμάτων	θυσίασμα	noun, genitive neuter plural	1	sacrificial offerings
 LEV 2:13	1	15	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
-LEV 2:13	1	16	ἐπὶ	ἐπί	preposition with the genitive	1	upon
+LEV 2:13	1	16	ἐπὶ	ἐπί	preposition (case from context)	1	on
 LEV 2:13	1	17	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
 LEV 2:13	1	18	δώρου	δῶρον	noun, genitive neuter singular	1	offering
 LEV 2:13	1	18	δώρου			2	gift
 LEV 2:13	1	19	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 LEV 2:13	1	20	προσοίσετε	προσφέρω	future active indicative, second plural	1	you shall bring
 LEV 2:13	1	21	Κυρίω	κύριος	noun, dative masculine singular	1	to the Lord
-LEV 2:13	1	22	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+LEV 2:13	1	22	τῷ	ὁ	article, dative masculine singular	1	the
 LEV 2:13	1	23	Θεῷ	θεός	noun, dative masculine singular	1	God
-LEV 2:13	1	24	ὑμῶν	σύ	personal pronoun, genitive second plural	1	your
-LEV 2:13	1	24	ὑμῶν			2	of you
+LEV 2:13	1	24	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 LEV 2:13	1	25	ἅλας	ἅλας	noun, accusative neuter singular	1	salt
 LEV 2:14	1	1	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 LEV 2:14	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -320,7 +319,7 @@ LEV 2:15	1	6	καὶ	καί	conjunction	1	and
 LEV 2:15	1	7	ἐπιθήσεις	ἐπιτίθημι	future active indicative, second singular	1	you shall put
 LEV 2:15	1	8	ἐπ᾽	ἐπί	elided preposition with accusative	1	on
 LEV 2:15	1	8	ἐπ᾽			2	upon
-LEV 2:15	1	9	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
+LEV 2:15	1	9	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
 LEV 2:15	1	10	λίβανον	λίβανος	noun, accusative masculine singular	1	frankincense
 LEV 2:15	1	11	θυσία	θυσία	noun, nominative feminine singular	1	grain offering
 LEV 2:15	1	12	ἐστί	εἰμί	present indicative, third singular	1	is

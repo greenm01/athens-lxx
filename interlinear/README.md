@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 63 chapters below have 37,969 indexed words and 42,421 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 71 chapters below have 42,623 indexed words and 47,406 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -57,11 +57,19 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Exodus 1](EXO-001.tsv) | 377 | 377 |
 | [Exodus 2](EXO-002.tsv) | 552 | 552 |
 | [Exodus 3](EXO-003.tsv) | 601 | 601 |
+| [Exodus 4](EXO-004.tsv) | 754 | 754 |
 | [Exodus 7](EXO-007.tsv) | 603 | 603 |
+| [Exodus 8](EXO-008.tsv) | 841 | 841 |
+| [Exodus 11](EXO-011.tsv) | 270 | 270 |
 | [Leviticus 1](LEV-001.tsv) | 409 | 434 |
-| [Leviticus 2](LEV-002.tsv) | 322 | 347 |
+| [Leviticus 2](LEV-002.tsv) | 322 | 346 |
+| [Leviticus 3](LEV-003.tsv) | 404 | 441 |
+| [Leviticus 4](LEV-004.tsv) | 916 | 992 |
+| [Leviticus 5](LEV-005.tsv) | 520 | 546 |
 | [Ruth 1](RUT-001.tsv) | 538 | 638 |
 | [Ruth 2](RUT-002.tsv) | 618 | 755 |
+| [Ruth 3](RUT-003.tsv) | 408 | 487 |
+| [Ruth 4](RUT-004.tsv) | 541 | 655 |
 | [Psalm 21](PSA-021.tsv) | 451 | 654 |
 | [Psalm 22](PSA-022.tsv) | 103 | 150 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
