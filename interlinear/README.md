@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 185 chapters below have 110,597 indexed words and 120,555 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 189 chapters below have 112,655 indexed words and 122,888 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -85,6 +85,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Exodus 29](EXO-029.tsv) | 1073 | 1073 |
 | [Exodus 30](EXO-030.tsv) | 735 | 735 |
 | [Exodus 31](EXO-031.tsv) | 348 | 348 |
+| [Exodus 32](EXO-032.tsv) | 832 | 832 |
 | [Leviticus 1](LEV-001.tsv) | 409 | 434 |
 | [Leviticus 2](LEV-002.tsv) | 322 | 346 |
 | [Leviticus 3](LEV-003.tsv) | 404 | 441 |
@@ -189,6 +190,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Habakkuk 1](HAB-001.tsv) | 339 | 430 |
 | [Habakkuk 2](HAB-002.tsv) | 404 | 517 |
 | [Habakkuk 3](HAB-003.tsv) | 372 | 470 |
+| [Zephaniah 1](ZEP-001.tsv) | 423 | 506 |
+| [Zephaniah 2](ZEP-002.tsv) | 342 | 428 |
+| [Zephaniah 3](ZEP-003.tsv) | 461 | 567 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 

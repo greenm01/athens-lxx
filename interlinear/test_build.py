@@ -71,6 +71,7 @@ class WordCitations(unittest.TestCase):
             ("EXO 29", 1073),
             ("EXO 30", 735),
             ("EXO 31", 348),
+            ("EXO 32", 832),
             ("GEN 1", 754),
             ("GEN 2", 534),
             ("GEN 3", 587),
@@ -216,6 +217,9 @@ class WordCitations(unittest.TestCase):
             ("RUT 2", 618),
             ("RUT 3", 408),
             ("RUT 4", 541),
+            ("ZEP 1", 423),
+            ("ZEP 2", 342),
+            ("ZEP 3", 461),
         ]
         self.assertEqual(
             db.execute(
