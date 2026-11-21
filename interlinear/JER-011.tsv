@@ -17,7 +17,7 @@ JER 11:2	1	5	διαθήκης	διαθήκη	noun, genitive feminine singular	1	
 JER 11:2	1	6	ταύτης	οὗτος	demonstrative pronoun, genitive feminine singular	1	this
 JER 11:2	1	7	καὶ	καί	conjunction	1	and
 JER 11:2	1	8	λαλήσεις	λαλέω	future active indicative, second singular	1	you will speak
-JER 11:2	1	9	πρὸς	πρός	preposition with genitive of place	1	at
+JER 11:2	1	9	πρὸς	πρός	preposition (accusative)	1	to
 JER 11:2	1	10	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
 JER 11:2	1	11	Ἰούδα	Ἰούδας	tribal name, genitive singular	1	of Judah
 JER 11:2	1	12	καὶ	καί	conjunction	1	and
@@ -373,7 +373,8 @@ JER 11:14	1	1	Καὶ	καί	conjunction	1	and
 JER 11:14	1	2	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 JER 11:14	1	3	μὴ	μή	negative particle introducing apprehension	1	lest
 JER 11:14	1	4	προσεύχου	προσεύχομαι	present middle imperative, second singular	1	pray
-JER 11:14	1	5	ὑπὲρ	ὑπέρ	preposition with the accusative, comparative 'above/more than'	1	above
+JER 11:14	1	5	ὑπὲρ	ὑπέρ	preposition (genitive)	1	on behalf of
+JER 11:14	1	5	ὑπὲρ			2	for
 JER 11:14	1	6	τοῦ	ὁ	article, genitive masculine singular	1	of the
 JER 11:14	1	7	λαοῦ	λαός	noun, genitive masculine singular	1	people
 JER 11:14	1	8	τούτου	οὗτος	demonstrative pronoun, genitive singular	1	this
@@ -381,7 +382,8 @@ JER 11:14	1	9	καὶ	καί	conjunction	1	and
 JER 11:14	1	10	μὴ	μή	negative particle	1	not
 JER 11:14	1	11	ἀξίου	ἀξιόω	present middle imperative, second singular	1	ask
 JER 11:14	1	11	ἀξίου			2	petition
-JER 11:14	1	12	περὶ	περί	preposition with the accusative	1	about/on
+JER 11:14	1	12	περὶ	περί	preposition (genitive)	1	concerning
+JER 11:14	1	12	περὶ			2	about
 JER 11:14	1	13	αὐτῶν	αὐτός	personal pronoun, genitive plural	1	them
 JER 11:14	1	14	ἐν	ἐν	preposition with the dative	1	in
 JER 11:14	1	15	δεήσει	δέησις	noun, dative feminine singular	1	pleading
@@ -569,8 +571,7 @@ JER 11:20	1	6	καὶ	καί	conjunction	1	and
 JER 11:20	1	7	καρδίας	καρδία	noun, accusative feminine plural	1	hearts
 JER 11:20	1	8	ἴδοιμι	ὁράω	aorist active optative, first singular	1	may I see
 JER 11:20	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
-JER 11:20	1	10	παρὰ	παρά	preposition with the accusative of place	1	beside
-JER 11:20	1	10	παρὰ			2	near
+JER 11:20	1	10	παρὰ	παρά	preposition (genitive)	1	from
 JER 11:20	1	11	σοῦ	σύ	pronoun, genitive 2nd singular	1	you
 JER 11:20	1	12	ἐκδίκησιν	ἐκδίκησις	noun, accusative feminine singular	1	vengeance
 JER 11:20	1	12	ἐκδίκησιν			2	retribution
@@ -607,8 +608,7 @@ JER 11:21	1	18	λέγοντας	λέγω	present active participle, accusative m
 JER 11:21	1	19	οὐ	οὐ	negative particle	1	not
 JER 11:21	1	20	μὴ	μή	negative particle completing οὐ μή	1	not
 JER 11:21	1	21	προφητεύσῃς	προφητεύω	aorist active subjunctive, second singular	1	you will prophesy
-JER 11:21	1	22	ἐπὶ	ἐπί	preposition with the dative	1	upon
-JER 11:21	1	22	ἐπὶ			2	on
+JER 11:21	1	22	ἐπὶ	ἐπί	preposition (dative)	1	in
 JER 11:21	1	23	τῷ	ὁ	article, dative neuter singular	1	the
 JER 11:21	1	24	ὀνόματι	ὄνομα	noun, dative neuter singular	1	name
 JER 11:21	1	25	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord

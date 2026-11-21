@@ -105,7 +105,7 @@ JER 3:4	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
 JER 3:4	1	11	παρθενίας	παρθενία	noun, genitive feminine singular	1	maidenhood
 JER 3:4	1	11	παρθενίας			2	virginity
 JER 3:4	1	12	σου	σύ	pronoun, possessive genitive second singular	1	your
-JER 3:5	1	1	Μὴ	μή	negative particle completing οὐ μή	1	not
+JER 3:5	1	1	Μὴ	μή	interrogative particle	1	surely not
 JER 3:5	1	2	διαμενεῖ	διαμένω	future active indicative, third singular	1	will it remain
 JER 3:5	1	3	εἰς	εἰς	preposition with the accusative	1	into
 JER 3:5	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -134,7 +134,7 @@ JER 3:6	1	7	ταῖς	ὁ	article, dative feminine plural	1	the
 JER 3:6	1	8	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
 JER 3:6	1	9	Ἰωσία	Ἰωσίας	noun, genitive masculine singular	1	of Josiah
 JER 3:6	1	10	τοῦ	ὁ	article, genitive singular	1	the
-JER 3:6	1	11	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
+JER 3:6	1	11	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 JER 3:6	1	12	ἴδες	ὁράω	aorist active indicative, second singular	1	did you see
 JER 3:6	1	12	ἴδες			2	you saw
 JER 3:6	1	13	ἃ	ὅς	relative pronoun, accusative neuter plural	1	what
@@ -190,7 +190,8 @@ JER 3:7	1	25	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 JER 3:8	1	1	Καὶ	καί	conjunction	1	and
 JER 3:8	1	2	ἴδον	ὁράω	aorist active indicative, first singular	1	I saw
 JER 3:8	1	3	διότι	διότι	causal conjunction	1	because
-JER 3:8	1	4	περὶ	περί	preposition with the accusative	1	concerning
+JER 3:8	1	4	περὶ	περί	preposition (genitive)	1	concerning
+JER 3:8	1	4	περὶ			2	on account of
 JER 3:8	1	5	πάντων	πᾶς	substantival adjective, genitive neuter plural	1	of everything
 JER 3:8	1	6	ὧν	ὅς	relative pronoun, genitive neuter plural	1	which
 JER 3:8	1	7	κατελήφθη	καταλαμβάνω	aorist passive indicative, third singular	1	she was caught
@@ -335,7 +336,7 @@ JER 3:12	1	37	ὑμῖν	σύ	pronoun, dative second plural	1	you
 JER 3:12	1	38	εἰς	εἰς	preposition with the accusative	1	into
 JER 3:12	1	39	τὸν	ὁ	article, accusative masculine singular	1	the
 JER 3:12	1	40	αἰῶνα	αἰών	noun, accusative masculine singular	1	age
-JER 3:13	1	1	Πλὴν	πλήν	preposition/adverb with the genitive	1	except
+JER 3:13	1	1	Πλὴν	πλήν	adversative conjunction	1	but
 JER 3:13	1	2	γνῶθι	γινώσκω	aorist active imperative, second singular	1	know
 JER 3:13	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
 JER 3:13	1	4	ἀδικίαν	ἀδικία	noun, accusative feminine singular	1	injustice
@@ -539,7 +540,7 @@ JER 3:19	1	6	ὅτι	ὅτι	causal conjunction	1	because
 JER 3:19	1	7	τάξω	τάσσω	future active indicative, first singular	1	I will set
 JER 3:19	1	7	τάξω			2	I will place
 JER 3:19	1	8	σε	σύ	pronoun, accusative second singular	1	you
-JER 3:19	1	9	εἰς	εἰς	preposition with the accusative; εἰς τέλος idiom	1	in
+JER 3:19	1	9	εἰς	εἰς	preposition (accusative)	1	among
 JER 3:19	1	10	τέκνα	τέκνον	noun, accusative neuter plural	1	children
 JER 3:19	1	11	καὶ	καί	conjunction	1	and
 JER 3:19	1	12	δώσω	δίδωμι	future active indicative, first singular	1	I will give
@@ -563,7 +564,7 @@ JER 3:19	1	26	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
 JER 3:19	1	27	ἐμοῦ	ἐγώ	pronoun, genitive first singular	1	me
 JER 3:19	1	28	οὐκ	οὐ	negative particle	1	not
 JER 3:19	1	29	ἀποστραφήσεσθε	ἀποστρέφω	future passive indicative, second plural	1	you will turn away
-JER 3:20	1	1	Πλὴν	πλήν	preposition/adverb with the genitive	1	except
+JER 3:20	1	1	Πλὴν	πλήν	adversative conjunction	1	but
 JER 3:20	1	2	ὡς	ὡς	comparative particle	1	as
 JER 3:20	1	3	ἀθετεῖ	ἀθετέω	present active indicative, third singular	1	acts treacherously
 JER 3:20	1	3	ἀθετεῖ			2	breaks faith
@@ -640,8 +641,8 @@ JER 3:23	1	8	ἡ	ὁ	article, nominative feminine singular	1	the
 JER 3:23	1	9	δύναμις	δύναμις	noun, nominative feminine singular	1	strength
 JER 3:23	1	10	τῶν	ὁ	definite article	1	the
 JER 3:23	1	11	ὀρέων	ὄρος	noun, genitive neuter plural	1	hills
-JER 3:23	1	12	πλὴν	πλήν	preposition/adverb with the genitive	1	except
-JER 3:23	1	13	διὰ	διά	preposition with the accusative	1	because of
+JER 3:23	1	12	πλὴν	πλήν	adversative conjunction	1	but
+JER 3:23	1	13	διὰ	διά	preposition (genitive)	1	through
 JER 3:23	1	14	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 JER 3:23	1	15	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 JER 3:23	1	16	ἡμῶν	ἐγώ	first person pronoun, genitive plural	1	our

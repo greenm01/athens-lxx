@@ -3,7 +3,7 @@ PRO 21:1	1	1	ΩΣΠΕΡ	ὥσπερ	comparative particle	1	just as
 PRO 21:1	1	2	ὁρμὴ	ὁρμή	noun, nominative feminine singular	1	rush
 PRO 21:1	1	3	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	of water
 PRO 21:1	1	4	οὕτως	οὕτως	adverb	1	thus
-PRO 21:1	1	5	καρδία	καρδία	noun, nominative feminine singular after ἡ	1	heart
+PRO 21:1	1	5	καρδία	καρδία	noun, nominative feminine singular	1	heart
 PRO 21:1	1	6	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of a king
 PRO 21:1	1	7	ἐν	ἐν	preposition with the dative	1	in
 PRO 21:1	1	8	χειρὶ	χείρ	noun, dative feminine singular	1	hand
@@ -111,7 +111,7 @@ PRO 21:9	1	13	οἴκῳ	οἶκος	noun, dative masculine singular	1	the house
 PRO 21:9	1	14	κοινῷ	κοινός	adjective, dative masculine singular	1	communal
 PRO 21:10	1	1	Ψυχὴ	ψυχή	noun, nominative feminine singular	1	soul
 PRO 21:10	1	2	ἀσεβοῦς	ἀσεβής	adjective, genitive masculine singular; used substantivally	1	ungodly person
-PRO 21:10	1	3	ἐπιθυμήσει	ἐπιθυμέω	future active indicative, 3rd sg. after οὐκ with οὐθεὶς subject	1	will desire
+PRO 21:10	1	3	ἐπιθυμήσει	ἐπιθυμέω	future active indicative, 3rd sg	1	will desire
 PRO 21:10	1	4	πονηρόν	πονηρός	adjective, accusative masculine singular; predicate	1	a menace
 PRO 21:10	1	4	πονηρόν			2	evil
 PRO 21:10	1	5	οὐκ	οὐ	negative particle	1	not
@@ -253,7 +253,7 @@ PRO 21:22	1	4	σοφὸς	σοφός	adjective, nominative masculine singular	1	
 PRO 21:22	1	5	καὶ	καί	conjunction	1	and
 PRO 21:22	1	6	καθεῖλε	καθαιρέω	aorist active indicative, third singular	1	tore down
 PRO 21:22	1	7	τὸ	ὁ	article, accusative neuter singular	1	the
-PRO 21:22	1	8	ὀχύρωμα	ὀχύρωμα	noun, accusative neuter singular after τὸ	1	stronghold
+PRO 21:22	1	8	ὀχύρωμα	ὀχύρωμα	noun, accusative neuter singular	1	stronghold
 PRO 21:22	1	9	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
 PRO 21:22	1	10	ᾧ	ὅς	relative pronoun, dative masculine singular	1	which
 PRO 21:22	1	11	ἐπεποίθεισαν	πείθω	pluperfect active indicative, third plural	1	had trusted
@@ -301,7 +301,7 @@ PRO 21:25	1	10	ποιεῖν	ποιέω	present active infinitive	1	to do
 PRO 21:25	1	11	τι	τις	pronoun, accusative neuter singular; indefinite, adverbial	1	at all
 PRO 21:26	1	1	Ἀσεβὴς	ἀσεβής	adjective, nominative masculine singular; used substantivally	1	ungodly person
 PRO 21:26	1	2	ἐπιθυμεῖ	ἐπιθυμέω	present active indicative, third singular	1	desires
-PRO 21:26	1	3	ὅλην	ὅλος	adjective, accusative feminine singular with ἡμέραν/νύκτα	1	whole
+PRO 21:26	1	3	ὅλην	ὅλος	adjective, accusative feminine singular	1	whole
 PRO 21:26	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 PRO 21:26	1	5	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
 PRO 21:26	1	6	ἐπιθυμίας	ἐπιθυμία	noun, genitive feminine singular	1	of craving
@@ -356,7 +356,7 @@ PRO 21:30	1	9	βουλὴ	βουλή	noun, nominative feminine singular	1	counse
 PRO 21:30	1	9	βουλὴ			2	plan
 PRO 21:30	1	10	πρὸς	πρός	preposition with the accusative	1	toward
 PRO 21:30	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
-PRO 21:30	1	12	ἀσεβῆ	ἀσεβής	adjective/noun, accusative masc. sg. after τὸν, the wicked	1	wicked
+PRO 21:30	1	12	ἀσεβῆ	ἀσεβής	adjective/noun, accusative masc. sg	1	wicked
 PRO 21:31	1	1	Ἵππος	ἵππος	noun, nominative feminine singular, collective	1	cavalry
 PRO 21:31	1	2	ἑτοιμάζεται	ἑτοιμάζω	present middle/passive indicative, third singular	1	prepares
 PRO 21:31	1	3	εἰς	εἰς	preposition with the accusative	1	into

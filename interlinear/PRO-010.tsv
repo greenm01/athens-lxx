@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 PRO 10:1	1	1	ΥΙΟΣ	υἱός	noun, nominative masculine singular	1	son
 PRO 10:1	1	2	σοφὸς	σοφός	adjective, nominative masculine singular	1	wise
 PRO 10:1	1	3	εὐφραίνει	εὐφραίνω	present active indicative, third singular	1	gladdens
-PRO 10:1	1	4	πατέρα	πατήρ	noun, accusative masculine singular after πρός/accusative from context	1	father
+PRO 10:1	1	4	πατέρα	πατήρ	noun, accusative masculine singular	1	father
 PRO 10:1	1	5	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 PRO 10:1	1	6	δὲ	δέ	postpositive conjunction	1	but
 PRO 10:1	1	7	ἄφρων	ἄφρων	substantival adjective nominative masculine singular	1	a fool
@@ -208,7 +208,7 @@ PRO 10:20	1	1	Ἄργυρος	ἄργυρος	noun, nominative masculine singula
 PRO 10:20	1	2	πεπυρωμένος	πυρόω	perfect middle/passive participle, nominative masculine singular	1	refined by fire
 PRO 10:20	1	3	γλῶσσα	γλῶσσα	noun, nominative feminine singular	1	tongue
 PRO 10:20	1	4	δικαίου	δίκαιος	adjective, genitive masculine singular; substantival	1	of a righteous person
-PRO 10:20	1	5	καρδία	καρδία	noun, nominative feminine singular after ἡ	1	heart
+PRO 10:20	1	5	καρδία	καρδία	noun, nominative feminine singular	1	heart
 PRO 10:20	1	6	δὲ	δέ	postpositive conjunction	1	now
 PRO 10:20	1	6	δὲ			2	and
 PRO 10:20	1	7	ἀσεβοῦς	ἀσεβής	adjective, genitive masculine singular; used substantivally	1	ungodly person
@@ -265,7 +265,7 @@ PRO 10:24	1	9	ἐπιθυμία	ἐπιθυμία	noun nominative feminine singu
 PRO 10:24	1	10	δὲ	δέ	postpositive conjunction	1	and
 PRO 10:24	1	11	δικαίου	δίκαιος	adjective, genitive masculine singular; substantival	1	of a righteous person
 PRO 10:24	1	12	δεκτή	δεκτός	adjective, nominative feminine singular	1	welcome
-PRO 10:25	1	1	Καρδία	καρδία	noun, nominative feminine singular after ἡ	1	heart
+PRO 10:25	1	1	Καρδία	καρδία	noun, nominative feminine singular	1	heart
 PRO 10:25	1	2	δὲ	δέ	postpositive conjunction	1	now
 PRO 10:25	1	2	δὲ			2	and
 PRO 10:25	1	3	ἀσεβοῦς	ἀσεβής	adjective, genitive masculine singular; used substantivally	1	ungodly person
@@ -319,7 +319,7 @@ PRO 10:29	1	5	συντριβὴ	συντριβή	noun, nominative feminine singu
 PRO 10:29	1	5	συντριβὴ			2	destruction
 PRO 10:29	1	6	δὲ	δέ	postpositive conjunction	1	and
 PRO 10:29	1	7	τοῖς	ὁ	article, dative neuter plural	1	the
-PRO 10:29	1	8	ἐργαζομένοις	ἐργάζομαι	present middle participle, dative masc. pl. after τοῖς	1	among the workmen
+PRO 10:29	1	8	ἐργαζομένοις	ἐργάζομαι	present middle participle, dative masc. pl	1	among the workmen
 PRO 10:29	1	9	κακά	κακός	substantival adjective, accusative neuter plural	1	evils
 PRO 10:29	1	9	κακά			2	bad things
 PRO 10:30	1	1	Δίκαιος	δίκαιος	adjective nominative masculine singular	1	righteous

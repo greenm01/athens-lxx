@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 633 chapters below have 354,625 indexed words and 384,941 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 635 chapters below have 355,804 indexed words and 386,272 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -560,16 +560,18 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Isaiah 66](ISA-066.tsv) | 623 | 706 |
 | [Jeremiah 1](JER-001.tsv) | 427 | 471 |
 | [Jeremiah 2](JER-002.tsv) | 847 | 950 |
-| [Jeremiah 3](JER-003.tsv) | 655 | 722 |
+| [Jeremiah 3](JER-003.tsv) | 655 | 723 |
 | [Jeremiah 4](JER-004.tsv) | 655 | 764 |
-| [Jeremiah 5](JER-005.tsv) | 654 | 734 |
-| [Jeremiah 6](JER-006.tsv) | 592 | 677 |
-| [Jeremiah 7](JER-007.tsv) | 815 | 905 |
-| [Jeremiah 8](JER-008.tsv) | 520 | 581 |
-| [Jeremiah 9](JER-009.tsv) | 620 | 700 |
-| [Jeremiah 10](JER-010.tsv) | 488 | 554 |
+| [Jeremiah 5](JER-005.tsv) | 654 | 733 |
+| [Jeremiah 6](JER-006.tsv) | 592 | 678 |
+| [Jeremiah 7](JER-007.tsv) | 815 | 906 |
+| [Jeremiah 8](JER-008.tsv) | 520 | 582 |
+| [Jeremiah 9](JER-009.tsv) | 620 | 698 |
+| [Jeremiah 10](JER-010.tsv) | 488 | 555 |
 | [Jeremiah 11](JER-011.tsv) | 601 | 674 |
-| [Jeremiah 12](JER-012.tsv) | 401 | 455 |
+| [Jeremiah 12](JER-012.tsv) | 401 | 456 |
+| [Jeremiah 13](JER-013.tsv) | 618 | 700 |
+| [Jeremiah 14](JER-014.tsv) | 561 | 628 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |

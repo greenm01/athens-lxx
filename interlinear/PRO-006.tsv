@@ -20,7 +20,7 @@ PRO 6:2	1	8	καὶ	καί	conjunction	1	and
 PRO 6:2	1	9	ἁλίσκεται	ἁλίσκομαι	present middle/passive indicative, third singular	1	is caught
 PRO 6:2	1	10	ῥήμασιν	ῥῆμα	noun, dative neuter plural	1	by the words
 PRO 6:2	1	11	ἰδίου	ἴδιος	adjective, genitive masculine singular	1	own
-PRO 6:2	1	12	στόματος	στόμα	noun, genitive neuter singular after τοῦ/ἐπάνω τοῦ	1	mouth
+PRO 6:2	1	12	στόματος	στόμα	noun, genitive neuter singular	1	mouth
 PRO 6:3	1	1	Ποίει	ποιέω	present active imperative, second singular	1	do
 PRO 6:3	1	2	υἱὲ	υἱός	noun, vocative masculine singular	1	son
 PRO 6:3	1	3	ἃ	ὅς	relative pronoun, accusative neuter plural	1	which
@@ -106,11 +106,11 @@ PRO 6:8	1	1	ἑτοιμάζεται	ἑτοιμάζω	present middle/passive ind
 PRO 6:8	1	2	θέρους	θέρος	noun, genitive neuter singular	1	in summer
 PRO 6:8	1	3	τὴν	ὁ	article accusative feminine singular	1	the
 PRO 6:8	1	4	τροφὴν	τροφή	noun accusative feminine singular	1	food
-PRO 6:8	1	5	πολλήν	πολύς	adjective, accusative feminine singular modifying τροφήν	1	great
+PRO 6:8	1	5	πολλήν	πολύς	adjective, accusative feminine singular	1	great
 PRO 6:8	1	6	τε	τε	connective particle, part of 'whether'	1	—
 PRO 6:8	1	7	ἐν	ἐν	preposition with the dative	1	in
 PRO 6:8	1	8	τῷ	ὁ	article, dative masculine singular	1	the
-PRO 6:8	1	9	ἀμητῷ	ἀμητός	noun, dative masc. sg. after τῷ, harvest	1	in harvest
+PRO 6:8	1	9	ἀμητῷ	ἀμητός	noun, dative masc. sg	1	in harvest
 PRO 6:8	1	10	ποιεῖται	ποιέω	present middle indicative, third singular	1	is making
 PRO 6:8	1	10	ποιεῖται			2	is forming
 PRO 6:8	1	11	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -140,7 +140,7 @@ PRO 6:8	1	32	βασιλεῖς	βασιλεύς	noun, nominative masculine plura
 PRO 6:8	1	33	καὶ	καί	conjunction	1	and
 PRO 6:8	1	34	ἰδιῶται	ἰδιώτης	noun, nominative masculine plural	1	ordinary people
 PRO 6:8	1	35	πρὸς	πρός	preposition with the accusative	1	to
-PRO 6:8	1	36	ὑγείαν	ὑγίεια	noun, accusative feminine singular after τὴν, in oath νὴ τὴν ὑγείαν Φαραὼ 'by Pharaoh's life/health'	1	life
+PRO 6:8	1	36	ὑγείαν	ὑγίεια	noun, accusative feminine singular	1	life
 PRO 6:8	1	37	φέρονται	φέρω	present middle/passive indicative, third plural	1	take
 PRO 6:8	1	38	ποθεινὴ	ποθεινός	adjective, nominative feminine singular	1	desirable
 PRO 6:8	1	39	δέ	δέ	postpositive conjunction	1	and
@@ -159,7 +159,7 @@ PRO 6:8	1	51	σοφίαν	σοφία	noun, accusative feminine singular	1	wisdom
 PRO 6:8	1	52	τιμήσασα	τιμάω	aorist active participle, nominative feminine singular	1	honoring
 PRO 6:8	1	53	προήχθη	προάγω	aorist passive indicative, third singular	1	was advanced
 PRO 6:9	1	1	ἕως	ἕως	preposition with the genitive	1	until
-PRO 6:9	1	2	τίνος	τίς	interrogative pronoun, genitive singular in ἕως τίνος 'until when/how long'	1	when
+PRO 6:9	1	2	τίνος	τίς	interrogative pronoun, genitive singular	1	when
 PRO 6:9	1	3	ὀκνηρὲ	ὀκνηρός	adjective, vocative masculine singular	1	sluggard
 PRO 6:9	1	4	κατάκεισαι	κατάκειμαι	present middle indicative, second singular	1	lie down
 PRO 6:9	1	5	πότε	πότε	interrogative adverb	1	when
@@ -200,7 +200,7 @@ PRO 6:11	1	16	δὲ	δέ	postpositive conjunction	1	and
 PRO 6:11	1	17	ἄοκνος	ἄοκνος	adjective, nominative masculine singular	1	untiring
 PRO 6:11	1	18	ᾖς	εἰμί	present subjunctive, second singular	1	you may be
 PRO 6:11	1	18	ᾖς			2	you are
-PRO 6:11	1	19	ἥξει	ἥκω	future active indicative, third singular as printed Ἥξει	1	will come
+PRO 6:11	1	19	ἥξει	ἥκω	future active indicative, third singular as printed	1	will come
 PRO 6:11	1	20	σοι	σύ	personal pronoun, dative singular	1	to you
 PRO 6:11	1	21	ὥσπερ	ὥσπερ	comparative conjunction	1	just as
 PRO 6:11	1	22	πηγὴ	πηγή	noun, nominative feminine singular	1	a spring
@@ -230,7 +230,7 @@ PRO 6:13	1	4	ἐννεύει	ἐννεύω	present active indicative, third sing
 PRO 6:13	1	5	ὀφθαλμῷ	ὀφθαλμός	noun, dative masculine singular	1	eye
 PRO 6:13	1	6	σημαίνει	σημαίνω	present active indicative, third singular	1	signals
 PRO 6:13	1	7	δὲ	δέ	postpositive conjunction	1	and
-PRO 6:13	1	8	ποδὶ	πούς	noun, dative masculine singular; ἐπὶ τῷ ποδί idiom	1	steps
+PRO 6:13	1	8	ποδὶ	πούς	noun, dative masculine singular	1	steps
 PRO 6:13	1	8	ποδὶ			2	coming
 PRO 6:13	1	9	διδάσκει	διδάσκω	present active indicative, third singular	1	instructs
 PRO 6:13	1	10	δὲ	δέ	postpositive conjunction	1	and
@@ -267,7 +267,7 @@ PRO 6:15	1	12	ἀνίατος	ἀνίατος	adjective, nominative feminine sin
 PRO 6:16	1	1	Ὅτι	ὅτι	causal conjunction	1	because
 PRO 6:16	1	2	χαίρει	χαίρω	present active indicative, third singular	1	rejoices
 PRO 6:16	1	3	πᾶσιν	πᾶς	adjective, dative neuter plural	1	everything
-PRO 6:16	1	4	οἷς	ὅς	relative pronoun, dative neuter plural, attracted to πᾶσιν	1	which
+PRO 6:16	1	4	οἷς	ὅς	relative pronoun, dative neuter plural	1	which
 PRO 6:16	1	5	μισεῖ	μισέω	present active indicative third singular	1	hates
 PRO 6:16	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 PRO 6:16	1	7	Κύριος	κύριος	noun nominative masculine singular	1	Lord
@@ -320,13 +320,13 @@ PRO 6:21	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	t
 PRO 6:21	1	4	ἐπὶ	ἐπί	preposition (case from context)	1	on
 PRO 6:21	1	5	σῇ	σός	adjective, dative feminine singular; possessive adjective	1	your
 PRO 6:21	1	6	ψυχῇ	ψυχή	noun dative feminine singular	1	soul
-PRO 6:21	1	7	διαπαντὸς	διαπαντός	adverb, διὰ παντός written as one word	1	continually
+PRO 6:21	1	7	διαπαντὸς	διαπαντός	adverb	1	continually
 PRO 6:21	1	7	διαπαντὸς			2	always
 PRO 6:21	1	8	καὶ	καί	conjunction	1	and
 PRO 6:21	1	9	ἐγκλοίωσαι	ἐγκλοιόω	aorist middle imperative, second singular	1	bind around
 PRO 6:21	1	10	περὶ	περί	preposition with genitive	1	for
 PRO 6:21	1	11	σῷ	σός	adjective, dative neuter singular	1	your
-PRO 6:21	1	12	τραχήλῳ	τράχηλος	noun, dative masculine singular governed by περί	1	neck
+PRO 6:21	1	12	τραχήλῳ	τράχηλος	noun, dative masculine singular	1	neck
 PRO 6:22	1	1	Ἡνίκα	ἡνίκα	temporal conjunction	1	when
 PRO 6:22	1	2	ἄν	ἄν	modal particle with the subjunctive	1	ever
 PRO 6:22	1	3	περιπατῇς	περιπατέω	present active subjunctive, second singular	1	you walk
@@ -370,7 +370,7 @@ PRO 6:24	1	8	ἀπὸ	ἀπό	preposition with the genitive	1	from
 PRO 6:24	1	9	διαβολῆς	διαβολή	noun, genitive feminine singular	1	slander
 PRO 6:24	1	10	γλώσσης	γλῶσσα	noun, genitive feminine singular	1	tongue
 PRO 6:24	1	11	ἀλλοτρίας	ἀλλότριος	adjective, accusative feminine plural	1	of a strange woman
-PRO 6:25	1	1	Μή	μή	negative particle completing οὐ μή	1	do not
+PRO 6:25	1	1	Μή	μή	negative particle in emphatic negation	1	do not
 PRO 6:25	1	2	σε	σύ	personal pronoun, accusative singular	1	you
 PRO 6:25	1	3	νικήσῃ	νικάω	aorist active subjunctive, third singular	1	overcome
 PRO 6:25	1	4	κάλλους	κάλλος	noun, genitive neuter singular	1	of beauty
@@ -406,7 +406,7 @@ PRO 6:27	1	5	κόλπῳ	κόλπος	noun, dative masculine singular	1	bosom
 PRO 6:27	1	5	κόλπῳ			2	lap
 PRO 6:27	1	6	τὰ	ὁ	article, accusative neuter plural	1	the
 PRO 6:27	1	7	δὲ	δέ	postpositive conjunction	1	but
-PRO 6:27	1	8	ἱμάτια	ἱμάτιον	noun, accusative neuter plural after τὰ	1	clothes
+PRO 6:27	1	8	ἱμάτια	ἱμάτιον	noun, accusative neuter plural	1	clothes
 PRO 6:27	1	9	οὐ	οὐ	negative particle	1	not
 PRO 6:27	1	10	κατακαύσει	κατακαίω	future active indicative, third singular	1	shall burn up
 PRO 6:28	1	1	Ἢ	ἤ	disjunctive conjunction	1	or
@@ -478,7 +478,7 @@ PRO 6:32	1	10	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine 
 PRO 6:32	1	11	περιποιεῖται	περιποιέω	present middle indicative, third singular	1	acquires
 PRO 6:33	1	1	ὀδύνας	ὀδύνη	noun, accusative feminine plural	1	pains
 PRO 6:33	1	1	ὀδύνας			2	sorrows
-PRO 6:33	1	2	τε	τέ	enclitic connective in τε καί	1	both
+PRO 6:33	1	2	τε	τέ	enclitic connective	1	both
 PRO 6:33	1	3	καὶ	καί	conjunction	1	and
 PRO 6:33	1	4	ἀτιμίας	ἀτιμία	noun, genitive feminine singular	1	dishonor
 PRO 6:33	1	4	ἀτιμίας			2	disgrace

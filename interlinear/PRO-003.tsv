@@ -110,7 +110,7 @@ PRO 3:9	1	4	ἀπὸ	ἀπό	preposition with the genitive	1	from
 PRO 3:9	1	5	σῶν	σός	substantival adjective, genitive neuter plural	1	your things
 PRO 3:9	1	5	σῶν			2	what is yours
 PRO 3:9	1	6	δικαίων	δίκαιος	substantival adjective genitive masculine plural	1	of the righteous
-PRO 3:9	1	7	πόνων	πόνος	noun, genitive masculine plural governed by ἀπό	1	labors
+PRO 3:9	1	7	πόνων	πόνος	noun, genitive masculine plural	1	labors
 PRO 3:9	1	8	καὶ	καί	conjunction	1	and
 PRO 3:9	1	9	ἀπάρχου	ἀπάρχομαι	present middle/passive imperative, second singular	1	offer first fruits
 PRO 3:9	1	10	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -172,7 +172,7 @@ PRO 3:14	1	4	ἐμπορεύεσθαι	ἐμπορεύομαι	present middle/pa
 PRO 3:14	1	5	ἢ	ἤ	disjunctive conjunction	1	or
 PRO 3:14	1	6	χρυσίου	χρυσίον	noun, genitive neut. sg.	1	of gold
 PRO 3:14	1	7	καὶ	καί	conjunction	1	and
-PRO 3:14	1	8	ἀργυρίου	ἀργύριον	noun, genitive neuter singular dependent on θησαυρούς	1	silver
+PRO 3:14	1	8	ἀργυρίου	ἀργύριον	noun, genitive neuter singular	1	silver
 PRO 3:14	1	9	θησαυροὺς	θησαυρός	noun, accusative masculine plural	1	treasures
 PRO 3:15	1	1	τιμιωτέρα	τίμιος	adjective, nominative feminine singular	1	more valuable
 PRO 3:15	1	2	δέ	δέ	postpositive conjunction	1	and
@@ -207,12 +207,12 @@ PRO 3:16	1	5	ἔτη	ἔτος	of duration, accusative neuter plural	1	years
 PRO 3:16	1	6	ζωῆς	ζωή	noun, genitive feminine singular	1	life
 PRO 3:16	1	7	ἐν	ἐν	preposition with the dative	1	in
 PRO 3:16	1	8	τῇ	ὁ	article, dative feminine singular	1	the
-PRO 3:16	1	9	δεξιᾷ	δεξιός	adjective/noun, dative feminine singular after ἐν τῇ, substantival 'right hand/side'	1	right hand
+PRO 3:16	1	9	δεξιᾷ	δεξιός	adjective/noun, dative feminine singular	1	right hand
 PRO 3:16	1	10	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	her
 PRO 3:16	1	11	ἐν	ἐν	preposition with the dative	1	in
 PRO 3:16	1	12	δὲ	δέ	postpositive conjunction	1	and
 PRO 3:16	1	13	τῇ	ὁ	article, dative feminine singular	1	the
-PRO 3:16	1	14	ἀριστερᾷ	ἀριστερός	adjective/noun, dative feminine singular after ἐν τῇ, 'left (hand)'	1	left hand
+PRO 3:16	1	14	ἀριστερᾷ	ἀριστερός	adjective/noun, dative feminine singular	1	left hand
 PRO 3:16	1	15	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	her
 PRO 3:16	1	16	πλοῦτος	πλοῦτος	noun, nominative masculine singular	1	wealth
 PRO 3:16	1	16	πλοῦτος			2	riches
@@ -220,7 +220,7 @@ PRO 3:16	1	17	καὶ	καί	conjunction	1	and
 PRO 3:16	1	18	δόξα	δόξα	noun, nominative feminine singular	1	glory
 PRO 3:16	1	19	ἐκ	ἐκ	preposition with the genitive	1	from
 PRO 3:16	1	20	τοῦ	ὁ	article, genitive singular	1	the
-PRO 3:16	1	21	στόματος	στόμα	noun, genitive neuter singular after τοῦ/ἐπάνω τοῦ	1	mouth
+PRO 3:16	1	21	στόματος	στόμα	noun, genitive neuter singular	1	mouth
 PRO 3:16	1	22	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	her
 PRO 3:16	1	23	ἐκπορεύεται	ἐκπορεύομαι	present middle indicative, third singular	1	goes out
 PRO 3:16	1	24	δικαιοσύνη	δικαιοσύνη	noun, nominative feminine singular	1	righteousness
@@ -236,7 +236,7 @@ PRO 3:17	1	1	Αἱ	ὁ	article, nominative feminine plural	1	the
 PRO 3:17	1	2	ὁδοὶ	ὁδός	noun, nominative feminine plural	1	roads
 PRO 3:17	1	3	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	her
 PRO 3:17	1	4	ὁδοὶ	ὁδός	noun, nominative feminine plural	1	roads
-PRO 3:17	1	5	καλαὶ	καλός	adjective, nominative feminine plural predicated of ὁδοί	1	fine
+PRO 3:17	1	5	καλαὶ	καλός	adjective, nominative feminine plural	1	fine
 PRO 3:17	1	6	καὶ	καί	conjunction	1	and
 PRO 3:17	1	7	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 PRO 3:17	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -301,13 +301,13 @@ PRO 3:22	1	7	χάρις	χάρις	noun nominative feminine singular	1	grace
 PRO 3:22	1	8	ᾖ	εἰμί	present subjunctive, third singular	1	may be
 PRO 3:22	1	9	περὶ	περί	preposition with genitive	1	for
 PRO 3:22	1	10	σῷ	σός	adjective, dative neuter singular	1	your
-PRO 3:22	1	11	τραχήλῳ	τράχηλος	noun, dative masculine singular governed by περί	1	neck
+PRO 3:22	1	11	τραχήλῳ	τράχηλος	noun, dative masculine singular	1	neck
 PRO 3:22	1	12	ἔσται	εἰμί	future indicative, third singular	1	it shall be
 PRO 3:22	1	13	δὲ	δέ	postpositive conjunction	1	and
 PRO 3:22	1	14	ἴασις	ἴασις	noun, nominative feminine singular	1	healing
 PRO 3:22	1	14	ἴασις			2	cure
 PRO 3:22	1	15	ταῖς	ὁ	article, dative feminine plural	1	the
-PRO 3:22	1	16	σαρξί	σάρξ	noun, dative feminine plural after ταῖς, of respect	1	in flesh
+PRO 3:22	1	16	σαρξί	σάρξ	noun, dative feminine plural	1	in flesh
 PRO 3:22	1	17	σου	σύ	pronoun, possessive genitive second singular	1	your
 PRO 3:22	1	18	καὶ	καί	conjunction	1	and
 PRO 3:22	1	19	ἐπιμέλεια	ἐπιμέλεια	noun, nominative feminine singular	1	care
@@ -389,7 +389,7 @@ PRO 3:28	1	6	αὔριον	αὔριον	temporal adverb	1	tomorrow
 PRO 3:28	1	7	δώσω	δίδωμι	future active indicative, first singular	1	I will give
 PRO 3:28	1	8	δυνατοῦ	δυνατός	substantival adjective, genitive masculine singular	1	able
 PRO 3:28	1	9	σου	σύ	pronoun, possessive genitive second singular	1	your
-PRO 3:28	1	10	ὄντος	εἰμί	present participle, genitive masculine singular with σου	1	being
+PRO 3:28	1	10	ὄντος	εἰμί	present participle, genitive masculine singular	1	being
 PRO 3:28	1	11	εὖ	εὖ	adverb	1	well
 PRO 3:28	1	12	ποιεῖν	ποιέω	present active infinitive	1	to do
 PRO 3:28	1	13	οὐ	οὐ	negative adverb with future indicative	1	not
@@ -418,13 +418,13 @@ PRO 3:30	1	4	ἄνθρωπον	ἄνθρωπος	noun, accusative masculine sing
 PRO 3:30	1	5	μάτην	μάτην	adverb	1	in vain
 PRO 3:30	1	6	μήτι	μήτι	interrogative particle	1	unless
 PRO 3:30	1	7	εἰς	εἰς	preposition with the accusative	1	against
-PRO 3:30	1	8	σὲ	σύ	personal pronoun, emphatic accusative singular governed by πρός	1	you
+PRO 3:30	1	8	σὲ	σύ	personal pronoun, emphatic accusative singular	1	you
 PRO 3:30	1	9	ἐργάσηται	ἐργάζομαι	aorist middle subjunctive, third singular	1	does
 PRO 3:30	1	10	κακόν	κακός	adjective, nominative neuter singular	1	bad
 PRO 3:30	1	10	κακόν			2	wrong
 PRO 3:31	1	1	Μὴ	μή	negative particle	1	not
 PRO 3:31	1	2	κτήσῃ	κτάομαι	aorist middle subjunctive, second singular	1	you buy
-PRO 3:31	1	3	κακῶν	κακός	adjective, genitive masculine plural modifying ἀνδρῶν	1	evils
+PRO 3:31	1	3	κακῶν	κακός	adjective, genitive masculine plural	1	evils
 PRO 3:31	1	4	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	1	men
 PRO 3:31	1	5	ὀνείδη	ὄνειδος	noun, accusative neuter plural	1	reproaches
 PRO 3:31	1	5	ὀνείδη			2	disgrace
@@ -448,7 +448,7 @@ PRO 3:32	1	11	συνεδριάζει	συνεδριάζω	present active indicat
 PRO 3:33	1	1	Κατάρα	κατάρα	noun, nominative feminine singular	1	curse
 PRO 3:33	1	2	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 PRO 3:33	1	3	ἐν	ἐν	preposition with the dative	1	in
-PRO 3:33	1	4	οἴκοις	οἶκος	noun, dative masculine plural after ἐν τοῖς	1	houses
+PRO 3:33	1	4	οἴκοις	οἶκος	noun, dative masculine plural	1	houses
 PRO 3:33	1	5	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	1	of the ungodly
 PRO 3:33	1	6	ἐπαύλεις	ἔπαυλις	noun, nominative feminine plural	1	dwellings
 PRO 3:33	1	7	δὲ	δέ	postpositive conjunction	1	and

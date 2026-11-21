@@ -99,7 +99,7 @@ JER 10:7	1	1	μέγας	μέγας	adjective, nominative masculine singular, in 
 JER 10:7	1	2	εἶ	εἰμί	present indicative, second singular	1	are
 JER 10:7	1	3	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 JER 10:7	1	4	καὶ	καί	conjunction	1	and
-JER 10:7	1	5	μέγα	μέγας	adjective, accusative neuter singular with τὸ πονηρὸν	1	great
+JER 10:7	1	5	μέγα	μέγας	adjective, nominative neuter singular	1	great
 JER 10:7	1	6	τὸ	ὁ	article, accusative neuter singular	1	the
 JER 10:7	1	7	ὄνομά	ὄνομα	noun, accusative neuter singular	1	name
 JER 10:7	1	8	σου	σύ	personal pronoun, possessive genitive singular	1	your
@@ -506,7 +506,8 @@ JER 10:23	1	16	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	
 JER 10:24	1	1	Παίδευσον	παιδεύω	aorist active imperative, second singular	1	discipline
 JER 10:24	1	2	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	1	us
 JER 10:24	1	3	Κύριε	κύριος	noun vocative masculine singular	1	O Lord
-JER 10:24	1	4	πλὴν	πλήν	preposition/adverb with the genitive	1	except
+JER 10:24	1	4	πλὴν	πλήν	adversative conjunction	1	but
+JER 10:24	1	4	πλὴν			2	only
 JER 10:24	1	5	ἐν	ἐν	preposition with the dative	1	in
 JER 10:24	1	6	κρίσει	κρίσις	noun, dative feminine singular	1	judgment
 JER 10:24	1	7	καὶ	καί	conjunction	1	and

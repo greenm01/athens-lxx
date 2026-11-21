@@ -7,11 +7,11 @@ PRO 8:1	1	5	ἵνα	ἵνα	conjunction	1	so that
 PRO 8:1	1	6	φρόνησίς	φρόνησις	noun, nominative feminine singular	1	understanding
 PRO 8:1	1	7	σοι	σύ	pronoun, dative 2nd singular	1	to you
 PRO 8:1	1	8	ὑπακούσῃ	ὑπακούω	aorist active subjunctive, third singular	1	may listen
-PRO 8:2	1	1	ἐπὶ	ἐπί	preposition in ἐπὶ τῶν λόγων τούτων 'upon/on the basis of these words'	1	on
+PRO 8:2	1	1	ἐπὶ	ἐπί	preposition	1	on
 PRO 8:2	1	2	γὰρ	γάρ	conjunction	1	for
 PRO 8:2	1	3	τῶν	ὁ	article, genitive masculine plural	1	the
 PRO 8:2	1	4	ὑψηλῶν	ὑψηλός	substantival adjective, genitive neuter plural	1	high places
-PRO 8:2	1	5	ἄκρων	ἄκρος	adjective/noun, genitive neuter plural after ἀπ᾽/τῶν, in ἀπ᾽ ἄκρων ὁρίων 'from the ends of the borders'	1	heights
+PRO 8:2	1	5	ἄκρων	ἄκρος	adjective/noun, genitive neuter plural	1	heights
 PRO 8:2	1	6	ἐστὶν	εἰμί	present indicative, third singular	1	is
 PRO 8:2	1	7	ἀναμέσον	ἀναμέσον	adverb/preposition	1	between
 PRO 8:2	1	8	δὲ	δέ	postpositive conjunction	1	and
@@ -20,7 +20,7 @@ PRO 8:2	1	10	τρίβων	τρίβος	noun genitive feminine plural	1	tracks
 PRO 8:2	1	11	ἔστηκε	ἵστημι	perfect active indicative, third singular	1	stands
 PRO 8:3	1	1	παρὰ	παρά	preposition with genitive	1	from
 PRO 8:3	1	2	γὰρ	γάρ	conjunction	1	for
-PRO 8:3	1	3	πύλαις	πύλη	noun, dative feminine plural, following ἀπό as printed	1	gates
+PRO 8:3	1	3	πύλαις	πύλη	noun, dative feminine plural	1	gates
 PRO 8:3	1	4	δυναστῶν	δυνάστης	noun, genitive masculine plural	1	of rulers
 PRO 8:3	1	5	παρεδρεύει	παρεδρεύω	present active indicative, third singular	1	sits beside
 PRO 8:3	1	6	ἐν	ἐν	preposition with the dative	1	in
@@ -110,7 +110,7 @@ PRO 8:10	1	11	ἀνταναιρεῖσθε	ἀνταναιρέω	present middle/
 PRO 8:10	1	12	αἴσθησιν	αἴσθησις	noun, accusative feminine singular	1	discernment
 PRO 8:10	1	13	χρυσίου	χρυσίον	noun, genitive neut. sg.	1	of gold
 PRO 8:10	1	14	καὶ	καί	conjunction	1	and
-PRO 8:10	1	15	ἀργυρίου	ἀργύριον	noun, genitive neuter singular dependent on θησαυρούς	1	silver
+PRO 8:10	1	15	ἀργυρίου	ἀργύριον	noun, genitive neuter singular	1	silver
 PRO 8:11	1	1	κρείσσων	κρείσσων	comparative adjective, nominative masculine singular	1	better
 PRO 8:11	1	2	γὰρ	γάρ	conjunction	1	for
 PRO 8:11	1	3	σοφία	σοφία	noun, nominative feminine singular	1	wisdom
@@ -141,7 +141,7 @@ PRO 8:13	1	3	μισεῖ	μισέω	present active indicative third singular	1	h
 PRO 8:13	1	4	ἀδικίαν	ἀδικία	noun, accusative feminine singular	1	injustice
 PRO 8:13	1	5	ὕβριν	ὕβρις	noun, accusative feminine singular	1	arrogance
 PRO 8:13	1	5	ὕβριν			2	outrage
-PRO 8:13	1	6	τε	τέ	enclitic connective in τε καί	1	both
+PRO 8:13	1	6	τε	τέ	enclitic connective	1	both
 PRO 8:13	1	7	καὶ	καί	conjunction	1	and
 PRO 8:13	1	8	ὑπερηφανίαν	ὑπερηφανία	noun, accusative fem. sg., arrogance/unjust gain in conventional sense	1	arrogance
 PRO 8:13	1	9	καὶ	καί	conjunction	1	and
@@ -153,7 +153,7 @@ PRO 8:13	1	13	δὲ	δέ	postpositive conjunction	1	now
 PRO 8:13	1	14	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
 PRO 8:13	1	15	διεστραμμένας	διαστρέφω	perfect middle/passive participle, accusative feminine plural	1	crooked
 PRO 8:13	1	16	ὁδοὺς	ὁδός	noun accusative feminine plural	1	paths
-PRO 8:13	1	17	κακῶν	κακός	substantival adjective, genitive masculine plural dependent on ὁδούς	1	of evildoers
+PRO 8:13	1	17	κακῶν	κακός	substantival adjective, genitive masculine plural	1	of evildoers
 PRO 8:14	1	1	Ἐμὴ	ἐμός	possessive adjective, nominative fem. sg.	1	mine
 PRO 8:14	1	2	βουλὴ	βουλή	noun nominative feminine singular	1	counsel
 PRO 8:14	1	3	καὶ	καί	conjunction	1	and
@@ -165,7 +165,7 @@ PRO 8:14	1	7	ἐμὴ	ἐμός	possessive adjective, nominative fem. sg.	1	mine
 PRO 8:14	1	8	δὲ	δέ	postpositive conjunction	1	and
 PRO 8:14	1	9	ἰσχύς	ἰσχύς	noun, nominative feminine singular	1	strength
 PRO 8:15	1	1	δι᾽	διά	elided preposition with genitive	1	through
-PRO 8:15	1	2	ἐμοῦ	ἐγώ	pronoun, genitive first singular (after μετ᾽/comparative ἐμοῦ from context)	1	me
+PRO 8:15	1	2	ἐμοῦ	ἐγώ	personal pronoun, genitive first singular	1	me
 PRO 8:15	1	3	βασιλεῖς	βασιλεύς	noun, nominative masculine plural	1	kings
 PRO 8:15	1	4	βασιλεύουσι	βασιλεύω	present active indicative, third plural	1	reign
 PRO 8:15	1	5	καὶ	καί	conjunction	1	and
@@ -175,7 +175,7 @@ PRO 8:15	1	7	δυνάσται			2	men of power
 PRO 8:15	1	8	γράφουσι	γράφω	present active participle, dative masculine plural; substantival	1	write
 PRO 8:15	1	9	δικαιοσύνην	δικαιοσύνη	noun accusative feminine singular	1	righteousness
 PRO 8:16	1	1	δι᾽	διά	elided preposition with genitive	1	through
-PRO 8:16	1	2	ἐμοῦ	ἐγώ	pronoun, genitive first singular (after μετ᾽/comparative ἐμοῦ from context)	1	me
+PRO 8:16	1	2	ἐμοῦ	ἐγώ	personal pronoun, genitive first singular	1	me
 PRO 8:16	1	3	μεγιστᾶνες	μεγιστάν	noun, nominative masculine plural	1	nobles
 PRO 8:16	1	3	μεγιστᾶνες			2	men of rank
 PRO 8:16	1	4	μεγαλύνονται	μεγαλύνω	present middle/passive indicative, third plural	1	become great
@@ -183,7 +183,7 @@ PRO 8:16	1	5	καὶ	καί	conjunction	1	and
 PRO 8:16	1	6	τύραννοι	τύραννος	noun, nominative masculine plural	1	rulers
 PRO 8:16	1	6	τύραννοι			2	tyrants
 PRO 8:16	1	7	δι᾽	διά	elided preposition with genitive	1	through
-PRO 8:16	1	8	ἐμοῦ	ἐγώ	pronoun, genitive first singular (after μετ᾽/comparative ἐμοῦ from context)	1	me
+PRO 8:16	1	8	ἐμοῦ	ἐγώ	personal pronoun, genitive first singular	1	me
 PRO 8:16	1	9	κρατοῦσι	κρατέω	present active indicative, third plural	1	rule
 PRO 8:16	1	10	γῆς	γῆ	noun, genitive feminine singular	1	of the earth
 PRO 8:17	1	1	Ἐγὼ	ἐγώ	personal pronoun, nominative singular	1	I
@@ -224,7 +224,7 @@ PRO 8:19	1	11	δὲ	δέ	postpositive conjunction	1	and
 PRO 8:19	1	12	ἐμὰ	ἐμός	possessive adjective, nominative neuter plural; predicate	1	mine
 PRO 8:19	1	13	γεννήματα	γέννημα	noun, accusative neuter plural	1	produce
 PRO 8:19	1	14	κρείσσω	κρείσσων	adjective, accusative neuter plural	1	better
-PRO 8:19	1	15	ἀργυρίου	ἀργύριον	noun, genitive neuter singular dependent on θησαυρούς	1	than silver
+PRO 8:19	1	15	ἀργυρίου	ἀργύριον	noun, genitive neuter singular	1	than silver
 PRO 8:19	1	16	ἐκλεκτοῦ	ἐκλεκτός	substantival adjective genitive masculine singular	1	choice
 PRO 8:20	1	1	Ἐν	ἐν	preposition with the dative	1	in
 PRO 8:20	1	2	ὁδοῖς	ὁδός	noun, dative feminine plural	1	ways
@@ -248,10 +248,10 @@ PRO 8:21	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 PRO 8:21	1	11	ἐμπλήσω	πίμπλημι	future active indicative, 1st sg., fill	1	I will fill
 PRO 8:21	1	12	ἀγαθῶν	ἀγαθός	substantival adjective, genitive neuter plural, genitive of content	1	good things
 PRO 8:21	1	13	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
-PRO 8:21	1	14	ἀναγγείλω	ἀναγγέλλω	aorist active subjunctive, first singular after ἵνα	1	I may announce
+PRO 8:21	1	14	ἀναγγείλω	ἀναγγέλλω	aorist active subjunctive, first singular	1	I may announce
 PRO 8:21	1	15	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 PRO 8:21	1	16	τὰ	ὁ	article, accusative neuter plural	1	the
-PRO 8:21	1	17	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	by
+PRO 8:21	1	17	καθ᾽	κατά	preposition with the accusative, elided	1	by
 PRO 8:21	1	18	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
 PRO 8:21	1	19	γινόμενα	γίνομαι	present middle participle, accusative neuter plural	1	things taking place
 PRO 8:21	1	20	μνημονεύσω	μνημονεύω	future active indicative, first singular	1	I will recall
@@ -275,17 +275,17 @@ PRO 8:23	1	4	ἐθεμελίωσέ	θεμελιόω	aorist active indicative, th
 PRO 8:23	1	5	με	ἐγώ	pronoun, accusative first singular	1	me
 PRO 8:23	1	6	ἐν	ἐν	preposition with the dative	1	in
 PRO 8:23	1	7	ἀρχῇ	ἀρχή	noun, dative feminine singular	1	the beginning
-PRO 8:23	1	8	πρὸ	πρό	preposition with the genitive (τοῦ + infinitive)	1	before
+PRO 8:23	1	8	πρὸ	πρό	preposition with the genitive	1	before
 PRO 8:23	1	9	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	1	the
 PRO 8:23	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 PRO 8:23	1	11	γῆν	γῆ	noun, accusative feminine singular	1	earth
-PRO 8:23	1	12	ποιῆσαι	ποιέω	aorist active infinitive in temporal clause after πρὸ τοῦ	1	that they do
+PRO 8:23	1	12	ποιῆσαι	ποιέω	aorist active infinitive in temporal clause	1	that they do
 PRO 8:24	1	1	καὶ	καί	conjunction	1	and
 PRO 8:24	1	2	πρὸ	πρό	preposition with the genitive	1	before
 PRO 8:24	1	3	τοῦ	ὁ	article, marks the infinitive	1	—
 PRO 8:24	1	4	τὰς	ὁ	article, accusative feminine plural	1	the
 PRO 8:24	1	5	ἀβύσσους	ἄβυσσος	noun accusative feminine plural	1	depths
-PRO 8:24	1	6	ποιῆσαι	ποιέω	aorist active infinitive after τοῦ	1	to do
+PRO 8:24	1	6	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
 PRO 8:24	1	7	πρὸ	πρό	preposition with genitive	1	before
 PRO 8:24	1	8	τοῦ	ὁ	article genitive neuter singular	1	the
 PRO 8:24	1	9	προελθεῖν	προέρχομαι	aorist active infinitive	1	to come forth
@@ -319,7 +319,7 @@ PRO 8:26	1	11	οὐρανόν			2	the sky
 PRO 8:27	1	1	Ἡνίκα	ἡνίκα	temporal conjunction	1	when
 PRO 8:27	1	2	ἡτοίμαζε	ἑτοιμάζω	imperfect active indicative, third singular	1	was preparing
 PRO 8:27	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
-PRO 8:27	1	4	οὐρανὸν	οὐρανός	noun, accusative masculine singular after τὸν/eἰς τὸν	1	sky
+PRO 8:27	1	4	οὐρανὸν	οὐρανός	noun, accusative masculine singular	1	sky
 PRO 8:27	1	5	συμπαρήμην	συμπάρειμι	imperfect active indicative, first singular	1	I was present
 PRO 8:27	1	6	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 PRO 8:27	1	7	καὶ	καί	conjunction	1	and
@@ -356,10 +356,10 @@ PRO 8:29	1	6	θαλάσσῃ	θάλασσα	noun, dative feminine singular	1	sea
 PRO 8:29	1	7	ἀκριβασμὸν	ἀκριβασμός	noun, accusative masculine singular	1	limit
 PRO 8:29	1	8	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 PRO 8:29	1	9	καὶ	καί	conjunction	1	and
-PRO 8:29	1	10	ὕδατα	ὕδωρ	noun, accusative neuter plural after τὰ	1	waters
+PRO 8:29	1	10	ὕδατα	ὕδωρ	noun, accusative neuter plural	1	waters
 PRO 8:29	1	11	οὐ	οὐ	negative particle	1	not
 PRO 8:29	1	12	παρελεύσονται	παρέρχομαι	future middle indicative, third plural	1	they shall pass through
-PRO 8:29	1	13	στόματος	στόμα	noun, genitive neuter singular governed by παρελεύσονται	1	his command
+PRO 8:29	1	13	στόματος	στόμα	noun, genitive neuter singular	1	his command
 PRO 8:29	1	14	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 PRO 8:29	1	15	καὶ	καί	conjunction	1	and
 PRO 8:29	1	16	ὡς	ὡς	comparative particle	1	as
@@ -380,7 +380,7 @@ PRO 8:30	1	6	ἤμην	εἰμί	imperfect indicative, first singular	1	I was
 PRO 8:30	1	7	ᾗ	ὅς	relative pronoun, dative feminine singular, referring to the land	1	in which
 PRO 8:30	1	7	ᾗ			2	where
 PRO 8:30	1	8	προσέχαιρε	προσχαίρω	imperfect active indicative, third singular	1	he delighted
-PRO 8:30	1	9	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	by
+PRO 8:30	1	9	καθ᾽	κατά	preposition with the accusative, elided	1	by
 PRO 8:30	1	10	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
 PRO 8:30	1	11	δὲ	δέ	postpositive conjunction	1	and
 PRO 8:30	1	12	εὐφραινόμην	εὐφραίνω	imperfect middle/passive indicative, first singular	1	I rejoiced
@@ -437,7 +437,7 @@ PRO 8:34	1	13	ἀγρυπνῶν	ἀγρυπνέω	present active participle, no
 PRO 8:34	1	14	ἐπ᾽	ἐπί	preposition with the accusative	1	over
 PRO 8:34	1	15	ἐμαῖς	ἐμός	adjective, dative feminine plural	1	my
 PRO 8:34	1	16	θύραις	θύρα	noun, dative feminine plural	1	doors
-PRO 8:34	1	17	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	by
+PRO 8:34	1	17	καθ᾽	κατά	preposition with the accusative, elided	1	by
 PRO 8:34	1	18	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
 PRO 8:34	1	19	τηρῶν	τηρέω	present active participle, nominative masculine singular	1	guarding
 PRO 8:34	1	20	σταθμοὺς	σταθμός	noun, accusative masculine plural	1	standards

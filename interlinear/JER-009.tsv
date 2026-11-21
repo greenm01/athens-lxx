@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 JER 9:1	1	1	ΤΙΣ	τίς	interrogative pronoun, nominative masculine singular	1	who
 JER 9:1	1	2	δώσει	δίδωμι	future active indicative, third singular	1	will give
-JER 9:1	1	3	κεφαλῇ	κεφαλή	noun, dative fem. sg. in 29:17 σὺν τῇ κεφαλῇ αὐτοῦ 'with/together with its head'	1	head
+JER 9:1	1	3	κεφαλῇ	κεφαλή	noun, dative feminine singular	1	head
 JER 9:1	1	4	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JER 9:1	1	5	ὕδωρ	ὕδωρ	noun, accusative neuter singular	1	water
 JER 9:1	1	6	καὶ	καί	conjunction	1	and
@@ -94,7 +94,7 @@ JER 9:4	1	5	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 JER 9:4	1	6	ἐξήλθοσαν	ἐξέρχομαι	aorist active indicative, third plural	1	went out
 JER 9:4	1	7	φυλάξασθε	φυλάσσω	aorist middle imperative, second plural	1	be on guard
 JER 9:4	1	8	καὶ	καί	conjunction	1	and
-JER 9:4	1	9	ἐπ᾽	ἐπί	preposition with dative, elided	1	over
+JER 9:4	1	9	ἐπ᾽	ἐπί	preposition (dative), elided	1	in
 JER 9:4	1	10	ἀδελφοῖς	ἀδελφός	noun, dative masculine plural	1	brothers
 JER 9:4	1	11	ἑαυτῶν	ἑαυτοῦ	reflexive pronoun, genitive plural	1	your own
 JER 9:4	1	12	μὴ	μή	negative particle	1	not
@@ -237,7 +237,7 @@ JER 9:10	1	14	θρῆνον			2	dirge
 JER 9:10	1	15	ὅτι	ὅτι	conjunction	1	that
 JER 9:10	1	16	ἐξέλιπον	ἐκλείπω	aorist active indicative, third plural	1	failed
 JER 9:10	1	16	ἐξέλιπον			2	perished
-JER 9:10	1	17	παρὰ	παρά	preposition with the dative	1	beside
+JER 9:10	1	17	παρὰ	παρά	preposition (dative); introduces cause with articular infinitive	1	because of
 JER 9:10	1	18	τῷ	ὁ	article, dative masculine singular	1	the
 JER 9:10	1	19	μὴ	μή	negative with subjunctive/optative	1	not
 JER 9:10	1	20	εἶναι	εἰμί	present infinitive	1	to be
@@ -280,7 +280,7 @@ JER 9:11	1	15	εἰς	εἰς	preposition with the accusative	1	into
 JER 9:11	1	16	ἀφανισμὸν	ἀφανισμός	noun, accusative masculine singular	1	destruction
 JER 9:11	1	16	ἀφανισμὸν			2	obliteration
 JER 9:11	1	17	θήσομαι	τίθημι	future middle indicative, first singular	1	I will make
-JER 9:11	1	18	παρὰ	παρά	preposition with genitive τοῦ Κυρίου, from	1	from
+JER 9:11	1	18	παρὰ	παρά	preposition (accusative); introduces cause with articular infinitive	1	because of
 JER 9:11	1	19	τὸ	ὁ	article, nominative neuter singular	1	the
 JER 9:11	1	20	μὴ	μή	negative with subjunctive/optative	1	not
 JER 9:11	1	21	κατοικεῖσθαι	κατοικέω	present passive infinitive	1	to be inhabited
@@ -312,7 +312,7 @@ JER 9:12	1	22	γῆ	γῆ	noun, nominative feminine singular	1	land
 JER 9:12	1	23	ἀνήφθη	ἀνάπτω	aorist passive indicative, third singular	1	was kindled
 JER 9:12	1	24	ὡς	ὡς	comparative particle	1	as
 JER 9:12	1	25	ἔρημος	ἔρημος	noun/adjective, nominative fem. sg	1	desert
-JER 9:12	1	26	παρὰ	παρά	preposition with genitive τοῦ Κυρίου, from	1	from
+JER 9:12	1	26	παρὰ	παρά	preposition (accusative); introduces cause with articular infinitive	1	because of
 JER 9:12	1	27	τὸ	ὁ	article, nominative neuter singular	1	the
 JER 9:12	1	28	μὴ	μή	negative particle	1	not
 JER 9:12	1	29	διοδεύεσθαι	διοδεύω	present passive infinitive	1	to be traveled through
@@ -514,8 +514,7 @@ JER 9:21	1	1	Ὅτι	ὅτι	conjunction introducing grounds for the command	1	b
 JER 9:21	1	1	Ὅτι			2	for
 JER 9:21	1	2	ἀνέβη	ἀναβαίνω	aorist active indicative, third person singular	1	went up
 JER 9:21	1	3	θάνατος	θάνατος	noun, nominative masculine singular	1	death
-JER 9:21	1	4	διὰ	διά	preposition with genitive	1	from
-JER 9:21	1	4	διὰ			2	by way of
+JER 9:21	1	4	διὰ	διά	preposition (genitive)	1	through
 JER 9:21	1	5	τῶν	ὁ	article, genitive plural	1	the
 JER 9:21	1	6	θυρίδων	θυρίς	noun, genitive feminine plural	1	windows
 JER 9:21	1	7	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
@@ -677,8 +676,7 @@ JER 9:26	1	22	ἐπὶ	ἐπί	preposition (case from context)	1	on
 JER 9:26	1	23	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 JER 9:26	1	24	περικειρόμενον	περικείρω	present middle participle, accusative neuter singular; substantival	1	one cutting his hair around
 JER 9:26	1	25	τὰ	ὁ	article, accusative neuter plural	1	the
-JER 9:26	1	26	κατὰ	κατά	in the expression κατὰ πρόσωπον	1	in the presence of
-JER 9:26	1	26	κατὰ			2	facing
+JER 9:26	1	26	κατὰ	κατά	preposition (accusative); with following noun, in front of	1	across
 JER 9:26	1	27	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
 JER 9:26	1	28	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
 JER 9:26	1	29	τοὺς	ὁ	article, accusative masculine plural	1	the

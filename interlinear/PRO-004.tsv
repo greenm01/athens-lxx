@@ -5,7 +5,7 @@ PRO 4:1	1	2	παῖδες	παῖς	noun, nominative masculine plural	1	children
 PRO 4:1	1	3	παιδείαν	παιδεία	noun, accusative feminine singular	1	instruction
 PRO 4:1	1	4	πατρὸς	πατήρ	noun, genitive masculine singular	1	of the father
 PRO 4:1	1	5	καὶ	καί	conjunction	1	and
-PRO 4:1	1	6	προσέχετε	προσέχω	present active imperative, 2nd pl. with dative ἑαυτοῖς 'take heed to yourselves'	1	take heed
+PRO 4:1	1	6	προσέχετε	προσέχω	present active imperative, second plural	1	take heed
 PRO 4:1	1	7	γνῶναι	γινώσκω	aorist active infinitive	1	to know
 PRO 4:1	1	8	ἔννοιαν	ἔννοια	noun, accusative feminine singular	1	understanding
 PRO 4:2	1	1	Δῶρον	δῶρον	noun, accusative neuter singular	1	gift
@@ -14,7 +14,7 @@ PRO 4:2	1	3	ἀγαθὸν	ἀγαθός	substantival adjective, accusative neut
 PRO 4:2	1	4	δωροῦμαι	δωρέομαι	present middle/passive indicative, first singular	1	I give
 PRO 4:2	1	5	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	to you
 PRO 4:2	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
-PRO 4:2	1	7	ἐμὸν	ἐμός	possessive adjective, accusative masculine singular modifying νόμον	1	my
+PRO 4:2	1	7	ἐμὸν	ἐμός	possessive adjective, accusative masculine singular	1	my
 PRO 4:2	1	8	νόμον	νόμος	noun, accusative masculine singular	1	law
 PRO 4:2	1	9	μὴ	μή	particle	1	at all
 PRO 4:2	1	10	ἐγκαταλίπητε	ἐγκαταλείπω	aorist active subjunctive, second plural	1	you abandon
@@ -23,7 +23,7 @@ PRO 4:3	1	1	Υἱὸς	υἱός	noun, nominative masculine singular	1	son
 PRO 4:3	1	2	γὰρ	γάρ	conjunction	1	for
 PRO 4:3	1	3	ἐγενόμην	γίνομαι	aorist middle indicative, first singular	1	I came to be
 PRO 4:3	1	3	ἐγενόμην			2	I was born
-PRO 4:3	1	4	κἀγὼ	καί ἐγώ	crasis of καί + ἐγώ, nominative first singular with καί 'I also'	1	I also
+PRO 4:3	1	4	κἀγὼ	καί ἐγώ	crasis of conjunction and first-person pronoun	1	I also
 PRO 4:3	1	5	πατρὶ	πατήρ	noun, dative masculine singular	1	to my father
 PRO 4:3	1	6	ὑπήκοος	ὑπήκοος	adjective, nominative masculine singular	1	obedient
 PRO 4:3	1	7	καὶ	καί	conjunction	1	and
@@ -54,7 +54,7 @@ PRO 4:4	1	18	μηδὲ	μηδέ	negative conjunction	1	nor
 PRO 4:4	1	19	παρίδῃς	παροράω	aorist active subjunctive, second singular	1	overlook
 PRO 4:4	1	20	ῥῆσιν	ῥῆσις	noun, accusative feminine singular	1	saying
 PRO 4:4	1	21	ἐμοῦ	ἐγώ	personal pronoun, genitive first singular, possessive	1	me
-PRO 4:4	1	22	στόματος	στόμα	noun, genitive neuter singular after τοῦ/ἐπάνω τοῦ	1	of my mouth
+PRO 4:4	1	22	στόματος	στόμα	noun, genitive neuter singular	1	of my mouth
 PRO 4:5	1	1	Κτῆσαι	κτάομαι	aorist middle imperative, second singular	1	acquire
 PRO 4:5	1	1	Κτῆσαι			2	buy
 PRO 4:5	1	2	σοφίαν	σοφία	noun, accusative feminine singular	1	wisdom
@@ -89,8 +89,8 @@ PRO 4:7	1	3	κτῆσαι	κτάομαι	aorist middle imperative, second singul
 PRO 4:7	1	4	σοφίαν	σοφία	noun, accusative feminine singular	1	wisdom
 PRO 4:7	1	5	καὶ	καί	conjunction	1	and
 PRO 4:7	1	6	ἐν	ἐν	preposition with the dative	1	in
-PRO 4:7	1	7	πάσῃ	πᾶς	adjective, dative feminine singular modifying κτήσει	1	all
-PRO 4:7	1	8	κτήσει	κτῆσις	noun, dative feminine singular after ἐν, of acquisition/possession	1	possession
+PRO 4:7	1	7	πάσῃ	πᾶς	adjective, dative feminine singular	1	all
+PRO 4:7	1	8	κτήσει	κτῆσις	noun, dative feminine singular	1	possession
 PRO 4:7	1	9	σου	σύ	pronoun, genitive 2nd singular	1	your
 PRO 4:7	1	10	κτῆσαι	κτάομαι	aorist middle imperative, second singular	1	acquire
 PRO 4:7	1	11	σύνεσιν	σύνεσις	noun accusative feminine singular	1	understanding
@@ -105,7 +105,7 @@ PRO 4:8	1	8	ἵνα	ἵνα	conjunction	1	so that
 PRO 4:8	1	9	σε	σύ	personal pronoun, accusative second singular; subject of infinitive	1	you
 PRO 4:8	1	10	περιλάβῃ	περιλαμβάνω	aorist active subjunctive, third singular	1	she embraces
 PRO 4:9	1	1	ἵνα	ἵνα	conjunction	1	so that
-PRO 4:9	1	2	δῷ	δίδωμι	aorist active subjunctive, third singular governed by ἵνα	1	may give
+PRO 4:9	1	2	δῷ	δίδωμι	aorist active subjunctive, third singular	1	may give
 PRO 4:9	1	3	τῇ	ὁ	article, dative feminine singular	1	the
 PRO 4:9	1	4	σῇ	σός	adjective, dative feminine singular; possessive adjective	1	your
 PRO 4:9	1	5	κεφαλῇ	κεφαλή	noun, dative feminine singular	1	head
@@ -194,7 +194,7 @@ PRO 4:15	1	13	καὶ	καί	conjunction	1	and
 PRO 4:15	1	14	παράλλαξον	παραλλάσσω	aorist active imperative, second singular	1	pass by
 PRO 4:16	1	1	Οὐ	οὐ	negative particle	1	not
 PRO 4:16	1	2	γὰρ	γάρ	conjunction	1	for
-PRO 4:16	1	3	μὴ	μή	negative particle; reinforces οὐ	1	at all
+PRO 4:16	1	3	μὴ	μή	negative particle in emphatic negation	1	at all
 PRO 4:16	1	4	ὑπνώσωσιν	ὑπνόω	aorist active subjunctive, third plural	1	they sleep
 PRO 4:16	1	5	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 PRO 4:16	1	6	μὴ	μή	negative particle	1	not
@@ -282,8 +282,8 @@ PRO 4:22	1	9	σαρκὶ	σάρξ	noun, dative feminine singular	1	flesh
 PRO 4:22	1	10	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 PRO 4:22	1	11	ἴασις	ἴασις	noun, nominative feminine singular	1	healing
 PRO 4:22	1	11	ἴασις			2	cure
-PRO 4:23	1	1	Πάσῃ	πᾶς	adjective, dative feminine singular modifying φυλακῇ	1	all
-PRO 4:23	1	2	φυλακῇ	φυλακή	noun, dative feminine singular after ἐν/ἐν τῇ	1	guarding
+PRO 4:23	1	1	Πάσῃ	πᾶς	adjective, dative feminine singular	1	all
+PRO 4:23	1	2	φυλακῇ	φυλακή	noun, dative feminine singular	1	guarding
 PRO 4:23	1	3	τήρει	τηρέω	present active imperative, second singular	1	guard
 PRO 4:23	1	4	σὴν	σός	adjective, accusative feminine singular	1	your
 PRO 4:23	1	5	καρδίαν	καρδία	noun, accusative feminine singular	1	heart
@@ -335,13 +335,13 @@ PRO 4:27	1	5	δεξιὰ	δεξιός	adjective, accusative neuter plural	1	righ
 PRO 4:27	1	6	μηδὲ	μηδέ	conjunction	1	nor
 PRO 4:27	1	7	εἰς	εἰς	preposition with the accusative	1	into
 PRO 4:27	1	8	τὰ	ὁ	article, accusative neuter plural	1	the
-PRO 4:27	1	9	ἀριστερά	ἀριστερός	substantival adjective, accusative neuter plural; substantival after εἰς	1	the left
+PRO 4:27	1	9	ἀριστερά	ἀριστερός	substantival adjective, accusative neuter plural; substantival	1	the left
 PRO 4:27	1	10	ἀπόστρεψον	ἀποστρέφω	aorist active imperative, second singular	1	turn away
 PRO 4:27	1	11	δὲ	δέ	postpositive conjunction	1	and
 PRO 4:27	1	12	σὸν	σός	adjective, nominative neuter singular	1	your
 PRO 4:27	1	13	πόδα	πούς	noun, accusative masc. sg.	1	foot
 PRO 4:27	1	14	ἀπὸ	ἀπό	preposition with the genitive	1	from
-PRO 4:27	1	15	ὁδοῦ	ὁδός	noun, genitive feminine singular governed by ἀπό	1	road
+PRO 4:27	1	15	ὁδοῦ	ὁδός	noun, genitive feminine singular	1	road
 PRO 4:27	1	16	κακῆς	κακός	adjective, genitive feminine singular	1	evil
 PRO 4:27	1	17	Ὁδοὺς	ὁδός	noun, accusative feminine plural	1	ways
 PRO 4:27	1	18	γὰρ	γάρ	postpositive conjunction	1	for
@@ -357,7 +357,7 @@ PRO 4:27	1	26	δέ	δέ	postpositive conjunction	1	and
 PRO 4:27	1	27	εἰσιν	εἰμί	present indicative, third plural	1	are
 PRO 4:27	1	28	αἱ	ὁ	article, nominative feminine plural	1	the
 PRO 4:27	1	29	ἐξ	ἐκ	preposition with the genitive	1	from
-PRO 4:27	1	30	ἀριστερῶν	ἀριστερός	adjective, genitive plural substantival after ἐξ, in ἐξ ἀριστερῶν 'on (Israel's) left'	1	the left side
+PRO 4:27	1	30	ἀριστερῶν	ἀριστερός	adjective, genitive plural substantival	1	the left side
 PRO 4:27	1	31	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 PRO 4:27	1	32	δὲ	δέ	postpositive conjunction	1	and
 PRO 4:27	1	33	ὀρθὰς	ὀρθός	adjective, accusative feminine plural	1	straight
