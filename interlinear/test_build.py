@@ -409,6 +409,8 @@ class WordCitations(unittest.TestCase):
             ("EZK 40", 1315),
             ("EZK 41", 609),
             ("EZK 42", 552),
+            ("EZK 43", 760),
+            ("EZK 44", 857),
             ("EZR 1", 290),
             ("EZR 2", 580),
             ("EZR 3", 435),
