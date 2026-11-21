@@ -640,6 +640,7 @@ class WordCitations(unittest.TestCase):
             ("PSA 75", 159),
             ("PSA 76", 280),
             ("PSA 77", 994),
+            ("PSA 78", 231),
             ("PSA 116", 29),
             ("PSA 133", 48),
             ("RUT 1", 538),
