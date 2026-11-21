@@ -157,6 +157,8 @@ class WordCitations(unittest.TestCase):
             ("NUM 4", 1173),
             ("NUM 5", 733),
             ("NUM 6", 571),
+            ("NUM 7", 1405),
+            ("NUM 8", 518),
             ("NUM 11", 835),
             ("NUM 12", 284),
             ("NUM 13", 589),
