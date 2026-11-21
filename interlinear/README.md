@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 219 chapters below have 128,922 indexed words and 140,364 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 230 chapters below have 134,923 indexed words and 146,924 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -91,6 +91,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Exodus 35](EXO-035.tsv) | 725 | 725 |
 | [Exodus 36](EXO-036.tsv) | 771 | 771 |
 | [Exodus 37](EXO-037.tsv) | 395 | 395 |
+| [Exodus 38](EXO-038.tsv) | 544 | 544 |
+| [Exodus 39](EXO-039.tsv) | 456 | 456 |
+| [Exodus 40](EXO-040.tsv) | 675 | 675 |
 | [Leviticus 1](LEV-001.tsv) | 409 | 434 |
 | [Leviticus 2](LEV-002.tsv) | 322 | 346 |
 | [Leviticus 3](LEV-003.tsv) | 404 | 441 |
@@ -164,6 +167,11 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Joshua 8](JOS-008.tsv) | 1036 | 1095 |
 | [Joshua 9](JOS-009.tsv) | 702 | 734 |
 | [Joshua 10](JOS-010.tsv) | 1221 | 1298 |
+| [Joshua 11](JOS-011.tsv) | 627 | 661 |
+| [Joshua 12](JOS-012.tsv) | 375 | 406 |
+| [Joshua 13](JOS-013.tsv) | 764 | 879 |
+| [Joshua 14](JOS-014.tsv) | 401 | 441 |
+| [Joshua 15](JOS-015.tsv) | 977 | 1086 |
 | [Ruth 1](RUT-001.tsv) | 538 | 638 |
 | [Ruth 2](RUT-002.tsv) | 618 | 755 |
 | [Ruth 3](RUT-003.tsv) | 408 | 487 |
@@ -223,6 +231,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Zechariah 5](ZEC-005.tsv) | 256 | 290 |
 | [Zechariah 6](ZEC-006.tsv) | 330 | 386 |
 | [Zechariah 7](ZEC-007.tsv) | 300 | 360 |
+| [Zechariah 8](ZEC-008.tsv) | 535 | 634 |
+| [Zechariah 9](ZEC-009.tsv) | 358 | 432 |
+| [Zechariah 10](ZEC-010.tsv) | 289 | 346 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
