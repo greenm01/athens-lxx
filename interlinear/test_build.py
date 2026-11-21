@@ -113,6 +113,7 @@ class WordCitations(unittest.TestCase):
             ("DEU 12", 963),
             ("DEU 13", 516),
             ("DEU 14", 594),
+            ("DEU 15", 608),
             ("EXO 1", 377),
             ("EXO 2", 552),
             ("EXO 3", 601),
