@@ -21,7 +21,7 @@ EXO 27:1	1	19	τριῶν	τρεῖς	cardinal numeral, genitive pl. with πήχ
 EXO 27:1	1	20	πήχεων	πῆχυς	noun, genitive masc. pl., of cubits	1	cubits
 EXO 27:1	1	21	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 27:1	1	22	ὕψος	ὕψος	noun, nominative neut. sg. after τὸ, height	1	the height
-EXO 27:1	1	23	αὐτοῦ	αὐτοῦ	adverb	1	its
+EXO 27:1	1	23	αὐτοῦ	αὐτός	personal pronoun, genitive neuter singular	1	its
 EXO 27:2	1	1	Καὶ	καί	conjunction	1	and
 EXO 27:2	1	2	ποιήσεις	ποιέω	future active indicative, second singular	1	you shall make
 EXO 27:2	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -31,7 +31,7 @@ EXO 27:2	1	6	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 27:2	1	7	τεσσάρων	τέσσαρες	cardinal numeral, genitive pl. with πήχεων	1	four
 EXO 27:2	1	8	γωνιῶν	γωνία	noun, genitive fem. pl. after ἐπὶ τῶν	1	corners
 EXO 27:2	1	9	ἐξ	ἐκ	preposition with the genitive	1	from
-EXO 27:2	1	10	αὐτοῦ	αὐτοῦ	adverb	1	it
+EXO 27:2	1	10	αὐτοῦ	αὐτός	personal pronoun, genitive neuter singular	1	it
 EXO 27:2	1	11	ἔσται	εἰμί	future indicative, 3rd sg.	1	shall be
 EXO 27:2	1	12	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 27:2	1	13	κέρατα	κέρας	noun, nominative/accusative neut. pl. after τὰ, horns	1	horns
@@ -47,23 +47,23 @@ EXO 27:3	1	5	θυσιαστηρίῳ	θυσιαστήριον	noun, dative neut.
 EXO 27:3	1	6	καὶ	καί	conjunction	1	and
 EXO 27:3	1	7	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 27:3	1	8	καλυπτῆρα	καλυπτήρ	noun, accusative masc. sg. after τὸν	1	cover
-EXO 27:3	1	9	αὐτοῦ	αὐτοῦ	adverb	1	its
+EXO 27:3	1	9	αὐτοῦ	αὐτός	personal pronoun, genitive neuter singular	1	its
 EXO 27:3	1	10	καὶ	καί	conjunction	1	and
 EXO 27:3	1	11	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 27:3	1	12	φιάλας	φιάλη	noun, accusative fem. pl. after τὰς, bowls/basins	1	bowls
-EXO 27:3	1	13	αὐτοῦ	αὐτοῦ	adverb	1	its
+EXO 27:3	1	13	αὐτοῦ	αὐτός	personal pronoun, genitive neuter singular	1	its
 EXO 27:3	1	14	καὶ	καί	conjunction	1	and
 EXO 27:3	1	15	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 27:3	1	16	κρεάγρας	κρεάγρα	noun, accusative fem. pl. after τὰς, flesh-hooks/forks	1	flesh-hooks
-EXO 27:3	1	17	αὐτοῦ	αὐτοῦ	adverb	1	its
+EXO 27:3	1	17	αὐτοῦ	αὐτός	personal pronoun, genitive neuter singular	1	its
 EXO 27:3	1	18	καὶ	καί	conjunction	1	and
 EXO 27:3	1	19	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 27:3	1	20	πυρεῖον	πυρεῖον	noun, accusative neut. sg. after τὸ, fire-pan/censer	1	fire-pan
-EXO 27:3	1	21	αὐτοῦ	αὐτοῦ	adverb	1	its
+EXO 27:3	1	21	αὐτοῦ	αὐτός	personal pronoun, genitive neuter singular	1	its
 EXO 27:3	1	22	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 EXO 27:3	1	23	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 27:3	1	24	σκεύη	σκεῦος	noun, accusative neut. pl. after πάντα τὰ	1	vessels
-EXO 27:3	1	25	αὐτοῦ	αὐτοῦ	adverb	1	its
+EXO 27:3	1	25	αὐτοῦ	αὐτός	personal pronoun, genitive neuter singular	1	its
 EXO 27:3	1	26	ποιήσεις	ποιέω	future active indicative, second singular	1	you shall make
 EXO 27:3	1	27	χαλκᾶ	χαλκοῦς	adjective, accusative neut. pl. with σκεύη, bronze	1	of bronze
 EXO 27:4	1	1	Καὶ	καί	conjunction	1	and
@@ -423,7 +423,7 @@ EXO 27:21	1	15	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative 
 EXO 27:21	1	16	καὶ	καί	conjunction	1	and
 EXO 27:21	1	17	οἱ	ὁ	article, nominative masculine plural	1	the
 EXO 27:21	1	18	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-EXO 27:21	1	19	αὐτοῦ	αὐτοῦ	adverb	1	his
+EXO 27:21	1	19	αὐτοῦ	αὐτός	personal pronoun, genitive masculine singular	1	his
 EXO 27:21	1	20	ἀφ᾽	ἀπό	preposition with the genitive, elided	1	from
 EXO 27:21	1	21	ἑσπέρας	ἑσπέρα	noun, genitive fem. sg. after ἕως	1	evening
 EXO 27:21	1	22	ἕως	ἕως	temporal conjunction/preposition	1	until
