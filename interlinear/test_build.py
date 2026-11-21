@@ -60,6 +60,7 @@ class WordCitations(unittest.TestCase):
             ("EXO 18", 603),
             ("EXO 19", 569),
             ("EXO 20", 511),
+            ("EXO 21", 679),
             ("GEN 1", 754),
             ("GEN 2", 534),
             ("GEN 3", 587),
