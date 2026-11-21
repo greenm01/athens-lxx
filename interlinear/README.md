@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 74 chapters below have 44,693 indexed words and 49,476 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 83 chapters below have 49,242 indexed words and 54,470 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -59,16 +59,21 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Exodus 3](EXO-003.tsv) | 601 | 601 |
 | [Exodus 4](EXO-004.tsv) | 754 | 754 |
 | [Exodus 5](EXO-005.tsv) | 488 | 488 |
+| [Exodus 6](EXO-006.tsv) | 570 | 570 |
 | [Exodus 7](EXO-007.tsv) | 603 | 603 |
 | [Exodus 8](EXO-008.tsv) | 841 | 841 |
 | [Exodus 9](EXO-009.tsv) | 841 | 841 |
 | [Exodus 10](EXO-010.tsv) | 741 | 741 |
 | [Exodus 11](EXO-011.tsv) | 270 | 270 |
+| [Exodus 13](EXO-013.tsv) | 507 | 507 |
 | [Leviticus 1](LEV-001.tsv) | 409 | 434 |
 | [Leviticus 2](LEV-002.tsv) | 322 | 346 |
 | [Leviticus 3](LEV-003.tsv) | 404 | 441 |
 | [Leviticus 4](LEV-004.tsv) | 916 | 992 |
 | [Leviticus 5](LEV-005.tsv) | 520 | 546 |
+| [Leviticus 6](LEV-006.tsv) | 642 | 683 |
+| [Leviticus 7](LEV-007.tsv) | 783 | 846 |
+| [Leviticus 8](LEV-008.tsv) | 941 | 1011 |
 | [Ruth 1](RUT-001.tsv) | 538 | 638 |
 | [Ruth 2](RUT-002.tsv) | 618 | 755 |
 | [Ruth 3](RUT-003.tsv) | 408 | 487 |
@@ -78,6 +83,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
+| [Jonah 1](JON-001.tsv) | 407 | 503 |
+| [Jonah 2](JON-002.tsv) | 188 | 240 |
+| [Jonah 3](JON-003.tsv) | 239 | 289 |
+| [Jonah 4](JON-004.tsv) | 272 | 345 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
