@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 671 chapters below have 371,587 indexed words and 403,009 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 676 chapters below have 374,219 indexed words and 405,752 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -181,6 +181,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Deuteronomy 22](DEU-022.tsv) | 701 | 701 |
 | [Deuteronomy 23](DEU-023.tsv) | 523 | 523 |
 | [Deuteronomy 24](DEU-024.tsv) | 542 | 542 |
+| [Deuteronomy 25](DEU-025.tsv) | 454 | 454 |
+| [Deuteronomy 26](DEU-026.tsv) | 566 | 566 |
 | [Joshua 1](JOS-001.tsv) | 478 | 498 |
 | [Joshua 2](JOS-002.tsv) | 673 | 700 |
 | [Joshua 3](JOS-003.tsv) | 467 | 484 |
@@ -400,6 +402,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Ezra 1](EZR-001.tsv) | 290 | 317 |
 | [Ezra 2](EZR-002.tsv) | 580 | 603 |
 | [Ezra 3](EZR-003.tsv) | 435 | 467 |
+| [Ezra 4](EZR-004.tsv) | 557 | 594 |
+| [Ezra 5](EZR-005.tsv) | 468 | 506 |
+| [Ezra 6](EZR-006.tsv) | 587 | 623 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
