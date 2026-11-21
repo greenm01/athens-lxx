@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 201 chapters below have 119,480 indexed words and 130,277 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 204 chapters below have 121,474 indexed words and 132,329 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -88,6 +88,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Exodus 32](EXO-032.tsv) | 832 | 832 |
 | [Exodus 33](EXO-033.tsv) | 567 | 567 |
 | [Exodus 34](EXO-034.tsv) | 832 | 832 |
+| [Exodus 35](EXO-035.tsv) | 725 | 725 |
 | [Leviticus 1](LEV-001.tsv) | 409 | 434 |
 | [Leviticus 2](LEV-002.tsv) | 322 | 346 |
 | [Leviticus 3](LEV-003.tsv) | 404 | 441 |
@@ -155,6 +156,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Joshua 2](JOS-002.tsv) | 673 | 700 |
 | [Joshua 3](JOS-003.tsv) | 467 | 484 |
 | [Joshua 4](JOS-004.tsv) | 588 | 622 |
+| [Joshua 5](JOS-005.tsv) | 492 | 516 |
+| [Joshua 6](JOS-006.tsv) | 777 | 811 |
 | [Ruth 1](RUT-001.tsv) | 538 | 638 |
 | [Ruth 2](RUT-002.tsv) | 618 | 755 |
 | [Ruth 3](RUT-003.tsv) | 408 | 487 |
