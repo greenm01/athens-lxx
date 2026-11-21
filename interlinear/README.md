@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 620 chapters below have 348,192 indexed words and 378,067 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 632 chapters below have 354,394 indexed words and 384,709 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -388,6 +388,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [2 Chronicles 28](2CH-028.tsv) | 708 | 753 |
 | [2 Chronicles 29](2CH-029.tsv) | 902 | 946 |
 | [2 Chronicles 30](2CH-030.tsv) | 705 | 740 |
+| [2 Chronicles 31](2CH-031.tsv) | 587 | 622 |
+| [2 Chronicles 32](2CH-032.tsv) | 890 | 949 |
+| [2 Chronicles 33](2CH-033.tsv) | 634 | 679 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -464,6 +467,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 74](PSA-074.tsv) | 139 | 141 |
 | [Psalm 75](PSA-075.tsv) | 159 | 162 |
 | [Psalm 76](PSA-076.tsv) | 280 | 280 |
+| [Psalm 77](PSA-077.tsv) | 994 | 996 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 448 |
@@ -481,6 +485,12 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Proverbs 13](PRO-013.tsv) | 307 | 331 |
 | [Proverbs 14](PRO-014.tsv) | 378 | 412 |
 | [Proverbs 15](PRO-015.tsv) | 415 | 450 |
+| [Proverbs 16](PRO-016.tsv) | 408 | 434 |
+| [Proverbs 17](PRO-017.tsv) | 357 | 399 |
+| [Proverbs 18](PRO-018.tsv) | 277 | 302 |
+| [Proverbs 19](PRO-019.tsv) | 366 | 394 |
+| [Proverbs 20](PRO-020.tsv) | 341 | 369 |
+| [Proverbs 21](PRO-021.tsv) | 346 | 369 |
 | [Isaiah 1](ISA-001.tsv) | 599 | 749 |
 | [Isaiah 2](ISA-002.tsv) | 457 | 551 |
 | [Isaiah 3](ISA-003.tsv) | 503 | 616 |
@@ -557,6 +567,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Jeremiah 8](JER-008.tsv) | 520 | 581 |
 | [Jeremiah 9](JER-009.tsv) | 620 | 700 |
 | [Jeremiah 10](JER-010.tsv) | 488 | 554 |
+| [Jeremiah 11](JER-011.tsv) | 601 | 674 |
+| [Jeremiah 12](JER-012.tsv) | 401 | 455 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
