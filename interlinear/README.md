@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 459 chapters below have 269,168 indexed words and 292,735 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 464 chapters below have 272,925 indexed words and 296,765 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -301,6 +301,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [3 Kingdoms 17](1KI-017.tsv) | 578 | 624 |
 | [3 Kingdoms 18](1KI-018.tsv) | 1212 | 1305 |
 | [3 Kingdoms 19](1KI-019.tsv) | 583 | 635 |
+| [3 Kingdoms 20](1KI-020.tsv) | 1218 | 1296 |
 | [4 Kingdoms 1](2KI-001.tsv) | 669 | 711 |
 | [4 Kingdoms 2](2KI-002.tsv) | 664 | 736 |
 | [4 Kingdoms 3](2KI-003.tsv) | 645 | 693 |
@@ -310,6 +311,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [4 Kingdoms 7](2KI-007.tsv) | 630 | 684 |
 | [4 Kingdoms 8](2KI-008.tsv) | 793 | 874 |
 | [4 Kingdoms 9](2KI-009.tsv) | 1030 | 1150 |
+| [4 Kingdoms 10](2KI-010.tsv) | 1008 | 1086 |
+| [4 Kingdoms 11](2KI-011.tsv) | 592 | 647 |
+| [4 Kingdoms 12](2KI-012.tsv) | 548 | 610 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -352,6 +356,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 40](PSA-040.tsv) | 197 | 198 |
 | [Psalm 41](PSA-041.tsv) | 246 | 246 |
 | [Psalm 42](PSA-042.tsv) | 122 | 122 |
+| [Psalm 43](PSA-043.tsv) | 391 | 391 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
