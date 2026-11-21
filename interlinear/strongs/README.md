@@ -6,9 +6,9 @@ The SQLite database stores one optional decimal-text Strong’s identifier per A
 
 | Review state | Lemmas | Word positions |
 | --- | ---: | ---: |
-| Assigned | 4,416 | 560,302 |
-| Pending | 576 | 1,455 |
-| Reviewed without a number | 9,837 | 38,740 |
+| Assigned | 4,423 | 560,309 |
+| Pending | 386 | 1,265 |
+| Reviewed without a number | 10,020 | 38,923 |
 
 Lemma counts can overlap when different occurrences of a lemma have different outcomes. For example, Λίβανος receives G3030 in the four passages where it denotes frankincense. Its place-name occurrences are recorded without that identifier.
 
