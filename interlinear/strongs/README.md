@@ -2,12 +2,12 @@
 
 The SQLite database stores one optional decimal-text Strong’s identifier per Athens word analysis. The final column of the interlinear view exposes it for every English preference. Use the analysis table to count words once.
 
-## First release
+## Release v0.5.1
 
 | Review state | Lemmas | Word positions |
 | --- | ---: | ---: |
-| Assigned | 49 | 351,091 |
-| Pending | 14,739 | 249,406 |
+| Assigned | 102 | 392,584 |
+| Pending | 14,686 | 207,913 |
 | Reviewed without a number | 0 | 0 |
 
 A decision identifies the reviewed Greek lemma, including its inflected occurrences. Historical concordances sometimes assign a separate identifier to an inflected form. Cross-edition searches match the identifiers each edition actually supplies.
