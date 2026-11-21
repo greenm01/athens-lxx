@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 1049 chapters below have 554,419 indexed words and 598,797 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 1055 chapters below have 559,770 indexed words and 604,691 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -844,6 +844,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Ezekiel 21](EZK-021.tsv) | 704 | 704 |
 | [Ezekiel 22](EZK-022.tsv) | 657 | 657 |
 | [Ezekiel 23](EZK-023.tsv) | 1074 | 1077 |
+| [Ezekiel 24](EZK-024.tsv) | 640 | 640 |
 | [Susanna 1](SUS-001.tsv) | 1134 | 1376 |
 | [Daniel 1](DAG-001.tsv) | 504 | 603 |
 | [Daniel 2](DAG-002.tsv) | 1263 | 1534 |
@@ -855,6 +856,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Daniel 8](DAG-008.tsv) | 672 | 825 |
 | [Daniel 9](DAG-009.tsv) | 873 | 1051 |
 | [Daniel 10](DAG-010.tsv) | 547 | 649 |
+| [Daniel 11](DAG-011.tsv) | 1108 | 1387 |
+| [Daniel 12](DAG-012.tsv) | 320 | 406 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
@@ -973,9 +976,12 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Maccabees 10](1MA-010.tsv) | 1813 | 1922 |
 | [1 Maccabees 11](1MA-011.tsv) | 1539 | 1641 |
 | [1 Maccabees 12](1MA-012.tsv) | 1026 | 1096 |
+| [1 Maccabees 13](1MA-013.tsv) | 1076 | 1130 |
+| [1 Maccabees 14](1MA-014.tsv) | 1115 | 1179 |
 | [2 Maccabees 1](2MA-001.tsv) | 745 | 778 |
 | [2 Maccabees 2](2MA-002.tsv) | 668 | 704 |
 | [2 Maccabees 3](2MA-003.tsv) | 879 | 923 |
+| [2 Maccabees 4](2MA-004.tsv) | 1092 | 1152 |
 | [Baruch 1](BAR-001.tsv) | 524 | 597 |
 | [Baruch 2](BAR-002.tsv) | 794 | 938 |
 | [Baruch 3](BAR-003.tsv) | 572 | 700 |
