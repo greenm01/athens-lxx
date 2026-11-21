@@ -58,6 +58,8 @@ class WordCitations(unittest.TestCase):
             ("1CH 25", 431),
             ("1CH 26", 607),
             ("1CH 27", 689),
+            ("1CH 28", 649),
+            ("1CH 29", 749),
             ("1KI 1", 1297),
             ("1KI 2", 1639),
             ("1KI 3", 788),
