@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 827 chapters below have 444,258 indexed words and 480,210 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 837 chapters below have 450,546 indexed words and 486,782 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -474,6 +474,10 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Job 32](JOB-032.tsv) | 312 | 322 |
 | [Job 33](JOB-033.tsv) | 492 | 508 |
 | [Job 34](JOB-034.tsv) | 441 | 475 |
+| [Job 35](JOB-035.tsv) | 187 | 200 |
+| [Job 36](JOB-036.tsv) | 406 | 427 |
+| [Job 37](JOB-037.tsv) | 287 | 303 |
+| [Job 38](JOB-038.tsv) | 472 | 497 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -586,6 +590,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 110](PSA-110.tsv) | 131 | 131 |
 | [Psalm 111](PSA-111.tsv) | 136 | 137 |
 | [Psalm 112](PSA-112.tsv) | 93 | 94 |
+| [Psalm 113](PSA-113.tsv) | 312 | 312 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
@@ -749,6 +754,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Jeremiah 42](JER-042.tsv) | 540 | 602 |
 | [Jeremiah 43](JER-043.tsv) | 905 | 1027 |
 | [Jeremiah 44](JER-044.tsv) | 489 | 568 |
+| [Jeremiah 45](JER-045.tsv) | 782 | 885 |
 | [Ezekiel 1](EZK-001.tsv) | 637 | 637 |
 | [Ezekiel 2](EZK-002.tsv) | 230 | 230 |
 | [Ezekiel 3](EZK-003.tsv) | 667 | 667 |
@@ -764,6 +770,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Ezekiel 13](EZK-013.tsv) | 577 | 577 |
 | [Ezekiel 14](EZK-014.tsv) | 643 | 643 |
 | [Ezekiel 15](EZK-015.tsv) | 168 | 168 |
+| [Ezekiel 16](EZK-016.tsv) | 1516 | 1517 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
@@ -831,6 +838,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Malachi 2](MAL-002.tsv) | 434 | 515 |
 | [Malachi 3](MAL-003.tsv) | 449 | 552 |
 | [Malachi 4](MAL-004.tsv) | 139 | 168 |
+| [1 Esdras 1](1ES-001.tsv) | 1238 | 1292 |
+| [1 Esdras 2](1ES-002.tsv) | 677 | 707 |
+| [1 Esdras 3](1ES-003.tsv) | 411 | 432 |
 
 The glosses follow Greek word order. Two Greek words sometimes share an English rendering. At Genesis 1:4, *ἀνὰ μέσον* means “between.” The first row gives the English and the second points back to its partner. Psalm 50:18 does the same for *ἔδωκα ἄν*, “I would have given.” An ellipsis in an imperative leaves room for the noun that follows the verb.
 
