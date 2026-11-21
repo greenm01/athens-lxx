@@ -33,6 +33,8 @@ class WordCitations(unittest.TestCase):
         expected_coverage = [
             ("EXO 1", 377),
             ("EXO 2", 552),
+            ("EXO 3", 601),
+            ("EXO 7", 603),
             ("GEN 1", 754),
             ("GEN 2", 534),
             ("GEN 3", 587),
@@ -83,12 +85,15 @@ class WordCitations(unittest.TestCase):
             ("GEN 48", 578),
             ("GEN 49", 573),
             ("GEN 50", 570),
+            ("LEV 1", 409),
+            ("LEV 2", 322),
             ("PSA 21", 451),
             ("PSA 22", 103),
             ("PSA 50", 282),
             ("PSA 116", 29),
             ("PSA 133", 48),
             ("RUT 1", 538),
+            ("RUT 2", 618),
         ]
         self.assertEqual(
             db.execute(
