@@ -109,6 +109,8 @@ class WordCitations(unittest.TestCase):
             ("LEV 7", 783),
             ("LEV 8", 941),
             ("LEV 16", 929),
+            ("LEV 17", 457),
+            ("LEV 18", 527),
             ("PSA 21", 451),
             ("PSA 22", 103),
             ("PSA 50", 282),
