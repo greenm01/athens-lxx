@@ -1,12 +1,14 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The six passages below have 2,711 indexed words and 3,417 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The eight passages below have 3,720 indexed words and 4,572 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
 | [Genesis 1](GEN-001.tsv) | 754 | 951 |
 | [Genesis 2](GEN-002.tsv) | 534 | 607 |
 | [Genesis 3](GEN-003.tsv) | 587 | 653 |
+| [Genesis 4](GEN-004.tsv) | 533 | 628 |
+| [Genesis 5](GEN-005.tsv) | 476 | 527 |
 | [Psalm 21](PSA-021.tsv) | 451 | 654 |
 | [Psalm 22](PSA-022.tsv) | 103 | 150 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
@@ -18,6 +20,12 @@ Codex and Claude compared readings of Genesis 1 and the three psalms. The analys
 In Genesis 2:9, *γνωστόν* is the object of “to know.” It can mean “what can be known” or “what is known.” In 2:16 God addresses one person. In 2:17 the warning uses plural verbs. Codex and Muse independently read *τε … καί* (“both … and”) in 2:25. The Athens print sets *ὅ τε* before Adam’s name, as it does in 3:8. The published transcription joins the two at 2:25. Its sixth word position therefore carries both the article and the particle. [Athens I, pp. 3–4](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA3)
 
 In Genesis 3:6, *ἔφαγον* means “they ate.” In 3:12 Adam uses the same form for “I ate,” as does the woman in 3:13. In 3:15 the woman’s offspring and the serpent are each the subject of *τηρέω*. The interlinear gives “watch for” in both clauses. In 3:16 the woman’s *ἀποστροφή* is her “turning back” toward her husband. Muse independently reviewed these last two readings. [Athens I, printed p. 5](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA5)
+
+Genesis 4:7 asks whether Cain has sinned if he offers rightly but divides wrongly. The word for “turning back,” *ἀποστροφή*, also occurs in 3:16. The following *αὐτοῦ* can mean “his” or “its.” The Greek gives no express antecedent in 4:7. Muse independently reviewed the verse. At 4:12 *ἐργᾷ*, “you will till,” is a contracted future. [Athens I, p. 6](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA6) · [Conybeare and Stock on contracted futures](https://ccel.org/ccel/conybeare/lxxgrammar.vi.ii.html)
+
+At 4:15 *παραλύσει* is active. The one who kills Cain “will release” seven acts of vengeance. The alternative “will bring to an end” reflects a reading known to Basil of Caesarea. Basil understood Cain’s death to discharge his sentence and recorded more than one interpretation of the seven. [Athens I, p. 7](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA7) · [Basil, Letter 260, §§2–3](https://www.newadvent.org/fathers/3202260.htm)
+
+In Genesis 5:11 the printer sets *πέντη* for “five.” At 5:22 and 5:24 Enoch twice “pleased God.” In 5:25–27 the ages printed for Mathousala are 187 years before Lamech’s birth and 782 afterward, for a total of 969. [Athens I, p. 8](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA8) · [Athens I, p. 9](https://books.google.com/books?id=rio7AAAAcAAJ&pg=PA9)
 
 Open the release’s `athens.sqlite` in any SQLite reader. This query shows the preferred English for each word in the first verse.
 
@@ -40,7 +48,7 @@ The `verse.text` field preserves the whole line, including punctuation, parenthe
 
 The `printed_passages` view gives the reference, occurrence, first and last word positions, printed page, and a link to the scan. For Greek text the positions include both ends. For a separately printed notice or subscription the position identifies the preceding Greek word. The printed material occupies its own field. In both Sirach notices the Greek numeral mark is transcribed as ʹ.
 
-Twenty-seven features have been checked against the scans. Esther’s colophon runs straight on in 10:3. The superscription to Psalm 151 runs into the psalm, but its closing subscription stands apart in two lines of italic Greek. The records also identify printed parentheses in Genesis 1, Psalm 21 and Isaiah 30. Job’s closing account runs on from the preceding sentence. Psalm 2:10 puts parentheses around *πάντες*. Eight of Sirach’s eleven titles stand on lines of their own. Three run on with the surrounding text (18:30, 20:27 and 23:7). Two Latin notices, after 30:24 and 33:11, point readers to corresponding passages in the Complutensian edition. [Records and page references](print/passages.tsv)
+Twenty-eight features have been checked against the scans. Esther’s colophon runs straight on in 10:3. The superscription to Psalm 151 runs into the psalm, but its closing subscription stands apart in two lines of italic Greek. The records also identify printed parentheses in Genesis 1, Psalm 21 and Isaiah 30. Job’s closing account runs on from the preceding sentence. Psalm 2:10 puts parentheses around *πάντες*. Eight of Sirach’s eleven titles stand on lines of their own. Three run on with the surrounding text (18:30, 20:27 and 23:7). Two Latin notices, after 30:24 and 33:11, point readers to corresponding passages in the Complutensian edition. [Records and page references](print/passages.tsv)
 
 ```sql
 SELECT ref, occurrence, first_word, last_word, kind, greek, printed_notice, pages
