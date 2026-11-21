@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 287 chapters below have 166,077 indexed words and 181,188 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 292 chapters below have 167,708 indexed words and 182,980 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -208,6 +208,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [1 Kingdoms 2](1SA-002.tsv) | 923 | 964 |
 | [1 Kingdoms 3](1SA-003.tsv) | 485 | 502 |
 | [1 Kingdoms 4](1SA-004.tsv) | 648 | 676 |
+| [1 Kingdoms 5](1SA-005.tsv) | 419 | 436 |
+| [1 Kingdoms 6](1SA-006.tsv) | 624 | 645 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -221,23 +223,26 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 11](PSA-011.tsv) | 128 | 131 |
 | [Psalm 12](PSA-012.tsv) | 100 | 103 |
 | [Psalm 13](PSA-013.tsv) | 120 | 124 |
+| [Psalm 14](PSA-014.tsv) | 87 | 94 |
 | [Psalm 21](PSA-021.tsv) | 451 | 654 |
 | [Psalm 22](PSA-022.tsv) | 103 | 150 |
 | [Psalm 50](PSA-050.tsv) | 282 | 402 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
-| [Hosea 1](HOS-001.tsv) | 268 | 313 |
-| [Hosea 2](HOS-002.tsv) | 579 | 670 |
+| [Hosea 1](HOS-001.tsv) | 268 | 315 |
+| [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
 | [Hosea 4](HOS-004.tsv) | 366 | 454 |
 | [Hosea 5](HOS-005.tsv) | 285 | 338 |
 | [Hosea 6](HOS-006.tsv) | 169 | 210 |
-| [Hosea 7](HOS-007.tsv) | 320 | 388 |
+| [Hosea 7](HOS-007.tsv) | 320 | 389 |
 | [Hosea 8](HOS-008.tsv) | 234 | 281 |
-| [Hosea 9](HOS-009.tsv) | 342 | 411 |
-| [Hosea 10](HOS-010.tsv) | 295 | 362 |
-| [Hosea 11](HOS-011.tsv) | 247 | 299 |
+| [Hosea 9](HOS-009.tsv) | 342 | 413 |
+| [Hosea 10](HOS-010.tsv) | 295 | 364 |
+| [Hosea 11](HOS-011.tsv) | 247 | 301 |
 | [Hosea 12](HOS-012.tsv) | 234 | 280 |
+| [Hosea 13](HOS-013.tsv) | 321 | 385 |
+| [Hosea 14](HOS-014.tsv) | 180 | 219 |
 | [Amos 1](AMO-001.tsv) | 342 | 435 |
 | [Amos 2](AMO-002.tsv) | 365 | 446 |
 | [Amos 3](AMO-003.tsv) | 308 | 368 |

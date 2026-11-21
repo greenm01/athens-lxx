@@ -57,7 +57,7 @@ HOS 9:4	1	1	Οὐκ	οὐ	negative adverb with future indicative	1	not
 HOS 9:4	1	2	ἔσπεισαν	σπένδω	aorist active indicative, third plural	1	they poured out a libation
 HOS 9:4	1	2	ἔσπεισαν			2	they made a drink offering
 HOS 9:4	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	the
-HOS 9:4	1	4	Κυρίῳ	κύριος	noun, dative masculine singular after τῷ, master	1	master
+HOS 9:4	1	4	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 HOS 9:4	1	5	οἶνον	οἶνος	noun, accusative masculine singular	1	wine
 HOS 9:4	1	6	καὶ	καί	conjunction	1	and
 HOS 9:4	1	7	οὐχ	οὐ	negative particle	1	not
@@ -90,7 +90,7 @@ HOS 9:4	1	30	εἰσελεύσονται	εἰσέρχομαι	future middle ind
 HOS 9:4	1	31	εἰς	εἰς	preposition with accusative	1	into
 HOS 9:4	1	32	τὸν	ὁ	article, accusative masculine singular	1	the
 HOS 9:4	1	33	οἶκον	οἶκος	noun, accusative masculine singular	1	house
-HOS 9:4	1	34	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	1	of the Lord
+HOS 9:4	1	34	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 HOS 9:5	1	1	Τὶ	τίς	interrogative pronoun, accusative neuter singular	1	what
 HOS 9:5	1	2	ποιήσετε	ποιέω	future active indicative, second person plural	1	you will do
 HOS 9:5	1	3	ἐν	ἐν	preposition with the dative	1	in
@@ -122,7 +122,7 @@ HOS 9:6	1	13	θάψει	θάπτω	future active indicative, third singular	1	wi
 HOS 9:6	1	14	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 HOS 9:6	1	15	Μαχμάς	Μαχμάς	indeclinable place name, nominative in context	1	Machmas
 HOS 9:6	1	16	τὸ	ὁ	article, neuter singular (case from context)	1	the
-HOS 9:6	1	17	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular after τὸ, silver/money (from context)	1	silver
+HOS 9:6	1	17	ἀργύριον	ἀργύριον	noun, accusative neuter singular	1	silver
 HOS 9:6	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 HOS 9:6	1	19	ὄλεθρος	ὄλεθρος	noun, nominative masculine singular	1	ruin
 HOS 9:6	1	19	ὄλεθρος			2	destruction
@@ -211,7 +211,8 @@ HOS 9:9	1	7	μνησθήσεται	μιμνῄσκομαι	future passive indica
 HOS 9:9	1	8	ἀδικίας	ἀδικία	noun, accusative feminine plural	1	wrongdoings
 HOS 9:9	1	9	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 HOS 9:9	1	10	καὶ	καί	conjunction	1	and
-HOS 9:9	1	11	ἐκδικήσει	ἐκδίκησις	noun, dative feminine singular after σὺν, vengeance/judgment	1	judgment
+HOS 9:9	1	11	ἐκδικήσει	ἐκδικέω	future active indicative, third singular	1	he will punish
+HOS 9:9	1	11	ἐκδικήσει			2	he will avenge
 HOS 9:9	1	12	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
 HOS 9:9	1	13	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 HOS 9:10	1	1	Ὡς	ὡς	comparative particle	1	as
@@ -344,7 +345,8 @@ HOS 9:15	1	9	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	t
 HOS 9:15	1	10	ἐμίσησα	μισέω	aorist active indicative, first singular	1	I hated
 HOS 9:15	1	11	διὰ	διά	preposition with accusative	1	because of
 HOS 9:15	1	12	τὰς	ὁ	article, accusative feminine plural	1	the
-HOS 9:15	1	13	κακίας	κακία	noun, genitive fem. sg. after περὶ τῆς	1	evil/calamity
+HOS 9:15	1	13	κακίας	κακία	noun, accusative feminine plural	1	evils
+HOS 9:15	1	13	κακίας			2	wicked deeds
 HOS 9:15	1	14	τῶν	ὁ	article, genitive neuter plural	1	the
 HOS 9:15	1	15	ἐπιτηδευμάτων	ἐπιτήδευμα	noun, genitive neuter plural	1	practices
 HOS 9:15	1	15	ἐπιτηδευμάτων			2	deeds
@@ -360,7 +362,7 @@ HOS 9:15	1	23	οὐ	οὐ	negative particle	1	not
 HOS 9:15	1	24	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
 HOS 9:15	1	25	προσθήσω	προστίθημι	future active indicative, first singular	1	I will again
 HOS 9:15	1	25	προσθήσω			2	I will go on
-HOS 9:15	1	26	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive complement	1	(marks the infinitive)
+HOS 9:15	1	26	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive complement, marks the infinitive	1	—
 HOS 9:15	1	27	ἀγαπῆσαι	ἀγαπάω	aorist active infinitive	1	to love
 HOS 9:15	1	28	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 HOS 9:15	1	29	πάντες	πᾶς	adjective, nominative masculine plural	1	all
@@ -376,7 +378,7 @@ HOS 9:16	1	3	τὰς	ὁ	article, accusative feminine plural	1	the
 HOS 9:16	1	4	ῥίζας	ῥίζα	noun, accusative feminine plural	1	roots
 HOS 9:16	1	5	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 HOS 9:16	1	6	ἐξηράνθη	ξηραίνω	aorist passive indicative, third singular	1	was dried up
-HOS 9:16	1	7	καρπὸν	καρπός	noun, accusative masculine singular after τὸν/πάντα τὸν	1	fruit
+HOS 9:16	1	7	καρπὸν	καρπός	noun, accusative masculine singular	1	fruit
 HOS 9:16	1	8	οὐκ	οὐ	negative particle	1	not
 HOS 9:16	1	9	ἔτι	ἔτι	temporal adverb	1	still
 HOS 9:16	1	10	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not

@@ -74,7 +74,7 @@ HOS 5:4	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 HOS 5:4	1	4	διαβούλια	διαβούλιον	noun, accusative neuter plural	1	plans
 HOS 5:4	1	4	διαβούλια			2	schemes
 HOS 5:4	1	5	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-HOS 5:4	1	6	τοῦ	ὁ	article, genitive neuter singular; introduces an infinitive	1	(marks the infinitive)
+HOS 5:4	1	6	τοῦ	ὁ	article, genitive neuter singular; introduces an infinitive, marks the infinitive	1	—
 HOS 5:4	1	7	ἐπιστρέψαι	ἐπιστρέφω	aorist active infinitive	1	to return
 HOS 5:4	1	8	πρὸς	πρός	preposition with the accusative	1	to
 HOS 5:4	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -88,7 +88,7 @@ HOS 5:4	1	16	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to th
 HOS 5:4	1	17	ἐστι	εἰμί	present indicative, third singular	1	is
 HOS 5:4	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 HOS 5:4	1	19	δὲ	δέ	postpositive conjunction	1	and
-HOS 5:4	1	20	Κύριον	κύριος	noun, accusative masculine singular after τὸν, the LORD (τὸν Κύριον as subject of εἶναι)	1	the Lord
+HOS 5:4	1	20	Κύριον	κύριος	noun, accusative masculine singular	1	Lord
 HOS 5:4	1	21	οὐκ	οὐ	negative adverb with future indicative	1	not
 HOS 5:4	1	22	ἐπέγνωσαν	ἐπιγιγνώσκω	aorist active indicative, third plural	1	recognized
 HOS 5:5	1	1	Καὶ	καί	conjunction	1	and
@@ -125,13 +125,13 @@ HOS 5:6	1	2	προβάτων	πρόβατον	noun, genitive neuter plural	1	she
 HOS 5:6	1	3	καὶ	καί	conjunction	1	and
 HOS 5:6	1	4	μόσχων	μόσχος	noun, genitive masculine plural	1	young bulls
 HOS 5:6	1	5	πορεύσονται	πορεύομαι	future middle indicative, third plural	1	will go
-HOS 5:6	1	6	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	1	(marks the infinitive)
+HOS 5:6	1	6	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive, marks the infinitive	1	—
 HOS 5:6	1	7	ἐκζητῆσαι	ἐκζητέω	aorist active infinitive	1	to seek out
 HOS 5:6	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 HOS 5:6	1	9	Κύριον	κύριος	noun, accusative masculine singular, the Lord	1	Lord
 HOS 5:6	1	10	καὶ	καί	conjunction	1	and
 HOS 5:6	1	11	οὐ	οὐ	negative particle	1	not
-HOS 5:6	1	12	μὴ	μή	negative particle completing οὐ μή	1	(with οὐ)
+HOS 5:6	1	12	μὴ	μή	negative particle completing οὐ μή, with οὐ	1	—
 HOS 5:6	1	13	εὕρωσιν	εὑρίσκω	aorist active subjunctive, third plural	1	they find
 HOS 5:6	1	13	εὕρωσιν			2	will find
 HOS 5:6	1	14	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
@@ -142,7 +142,7 @@ HOS 5:6	1	17	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
 HOS 5:6	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 HOS 5:7	1	1	ὅτι	ὅτι	causal conjunction	1	because
 HOS 5:7	1	2	τὸν	ὁ	article, accusative masculine singular	1	the
-HOS 5:7	1	3	Κύριον	κύριος	noun, accusative masculine singular after τὸν, the LORD (τὸν Κύριον as subject of εἶναι)	1	Lord
+HOS 5:7	1	3	Κύριον	κύριος	noun, accusative masculine singular	1	Lord
 HOS 5:7	1	4	ἐγκατέλιπον	ἐγκαταλείπω	aorist active indicative, third plural	1	they abandoned
 HOS 5:7	1	5	καὶ	καί	conjunction	1	and
 HOS 5:7	1	6	ὅτι	ὅτι	conjunction introducing reported content	1	that
@@ -215,8 +215,8 @@ HOS 5:10	1	7	ὅρια			2	boundaries
 HOS 5:10	1	8	ἐπ᾽	ἐπί	preposition with the accusative	1	over
 HOS 5:10	1	9	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 HOS 5:10	1	10	ἐκχεῶ	ἐκχέω	future active indicative, first singular	1	I will pour out
-HOS 5:10	1	11	τὸ	ὁ	article, nominative neuter singular	1	the
-HOS 5:10	1	12	ὕδωρ	ὕδωρ	noun, nominative neuter singular after ὡς	1	water
+HOS 5:10	1	11	τὸ	ὁ	article, accusative neuter singular	1	the
+HOS 5:10	1	12	ὕδωρ	ὕδωρ	noun, accusative neuter singular	1	water
 HOS 5:10	1	13	ὡς	ὡς	comparative particle	1	as
 HOS 5:10	1	14	ὅρμημά	ὅρμημα	noun, accusative neuter singular	1	rush
 HOS 5:10	1	14	ὅρμημά			2	surge
@@ -328,7 +328,7 @@ HOS 5:15	1	6	τόπον	τόπος	noun, accusative masculine singular	1	place
 HOS 5:15	1	7	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 HOS 5:15	1	7	μου			2	of me
 HOS 5:15	1	8	ἕως	ἕως	temporal conjunction/preposition (from context)	1	until
-HOS 5:15	1	9	οὗ	οὗ	relative pronoun, genitive neuter singular; temporal expression	1	(with ἕως)
+HOS 5:15	1	9	οὗ	οὗ	relative pronoun, genitive neuter singular; temporal expression, with ἕως	1	—
 HOS 5:15	1	10	ἀφανισθῶσι	ἀφανίζω	aorist passive subjunctive, third plural	1	they are ruined
 HOS 5:15	1	10	ἀφανισθῶσι			2	they disappear
 HOS 5:15	1	11	καὶ	καί	conjunction	1	and

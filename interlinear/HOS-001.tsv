@@ -54,10 +54,12 @@ HOS 1:2	1	11	βάδιζε	βαδίζω	present active imperative, second person 
 HOS 1:2	1	12	λάβε	λαμβάνω	aorist active imperative, second singular	1	take
 HOS 1:2	1	13	σεαυτῷ	σεαυτοῦ	reflexive pronoun, dative masc. sg.	1	for yourself
 HOS 1:2	1	14	γυναῖκα	γυνή	noun, accusative feminine singular	1	wife
-HOS 1:2	1	15	πορνείας	πορνεία	noun, genitive feminine singular after ἐκ	1	prostitution
+HOS 1:2	1	15	πορνείας	πορνεία	noun, genitive feminine singular	1	prostitution
+HOS 1:2	1	15	πορνείας			2	sexual immorality
 HOS 1:2	1	16	καὶ	καί	conjunction	1	and
 HOS 1:2	1	17	τέκνα	τέκνον	noun, accusative neuter plural	1	children
-HOS 1:2	1	18	πορνείας	πορνεία	noun, genitive feminine singular after ἐκ	1	prostitution
+HOS 1:2	1	18	πορνείας	πορνεία	noun, genitive feminine singular	1	prostitution
+HOS 1:2	1	18	πορνείας			2	sexual immorality
 HOS 1:2	1	19	διότι	διότι	causal conjunction	1	because
 HOS 1:2	1	20	ἐκπορνεύουσα	ἐκπορνεύω	present active participle, nominative feminine singular	1	committing prostitution
 HOS 1:2	1	20	ἐκπορνεύουσα			2	prostituting herself
@@ -74,7 +76,7 @@ HOS 1:3	1	2	ἐπορεύθη	πορεύομαι	aorist passive indicative, thir
 HOS 1:3	1	2	ἐπορεύθη			2	journeyed
 HOS 1:3	1	3	καὶ	καί	conjunction	1	and
 HOS 1:3	1	4	ἔλαβε	λαμβάνω	aorist active indicative, third singular	1	took
-HOS 1:3	1	5	τὴν	ὁ	article, accusative feminine singular; accompanies a personal name	1	(marks the name)
+HOS 1:3	1	5	τὴν	ὁ	article, accusative feminine singular; accompanies a personal name, marks the name	1	—
 HOS 1:3	1	6	Γόμερ	Γόμερ	indeclinable personal name, accusative in context	1	Gomer
 HOS 1:3	1	7	θυγατέρα	θυγάτηρ	noun, accusative feminine singular	1	daughter
 HOS 1:3	1	8	Δεβηλαείμ	Δεβηλαείμ	indeclinable personal name, genitive in context	1	Diblaim
@@ -168,7 +170,7 @@ HOS 1:6	1	23	οἶκον			2	household
 HOS 1:6	1	24	τοῦ	ὁ	article, genitive masculine singular	1	of the
 HOS 1:6	1	25	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 HOS 1:6	1	26	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
-HOS 1:6	1	27	ἢ	ἤ	particle accompanying ἀλλά	1	(with ἀλλά)
+HOS 1:6	1	27	ἢ	ἤ	particle accompanying ἀλλά, with ἀλλά	1	—
 HOS 1:6	1	28	ἀντιτασσόμενος	ἀντιτάσσομαι	present middle participle, nominative masculine singular	1	setting myself against
 HOS 1:6	1	28	ἀντιτασσόμενος			2	opposing
 HOS 1:6	1	29	ἀντιτάξομαι	ἀντιτάσσομαι	future middle indicative, first singular	1	I will stand against
@@ -205,7 +207,7 @@ HOS 1:7	1	26	ἐν	ἐν	preposition with the dative	1	in
 HOS 1:7	1	27	ἅρμασιν	ἅρμα	noun, dative neuter plural	1	chariots
 HOS 1:7	1	28	οὔτε	οὔτε	negative conjunction, neither/nor in οὐκ...οὔτε series	1	nor
 HOS 1:7	1	29	ἐν	ἐν	preposition with the dative	1	in
-HOS 1:7	1	30	ἵπποις	ἵππος	noun, dative masculine plural after τοῖς	1	horses
+HOS 1:7	1	30	ἵπποις	ἵππος	noun, dative masculine plural	1	horses
 HOS 1:7	1	31	οὔτε	οὔτε	negative conjunction, neither/nor in οὐκ...οὔτε series	1	nor
 HOS 1:7	1	32	ἐν	ἐν	preposition with the dative	1	in
 HOS 1:7	1	33	ἱππεῦσι	ἱππεύς	noun, dative masculine plural	1	horsemen
@@ -232,12 +234,12 @@ HOS 1:9	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
 HOS 1:9	1	5	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 HOS 1:9	1	6	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
 HOS 1:9	1	7	οὐ	οὐ	negative particle	1	not
-HOS 1:9	1	8	λαός	λαός	noun, nominative masculine singular after ὁ	1	people
+HOS 1:9	1	8	λαός	λαός	noun, nominative masculine singular	1	people
 HOS 1:9	1	9	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 HOS 1:9	1	10	διότι	διότι	causal conjunction	1	because
 HOS 1:9	1	11	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
 HOS 1:9	1	12	οὐ	οὐ	negative particle	1	not
-HOS 1:9	1	13	λαός	λαός	noun, nominative masculine singular after ὁ	1	people
+HOS 1:9	1	13	λαός	λαός	noun, nominative masculine singular	1	people
 HOS 1:9	1	14	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 HOS 1:9	1	15	καὶ	καί	conjunction	1	and
 HOS 1:9	1	16	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
@@ -272,7 +274,7 @@ HOS 1:10	1	23	οὗ	οὗ	relative adverb	1	where
 HOS 1:10	1	24	ἐρρέθη	λέγω	aorist passive indicative, third singular	1	it was said
 HOS 1:10	1	25	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 HOS 1:10	1	26	οὐ	οὐ	negative particle	1	not
-HOS 1:10	1	27	λαός	λαός	noun, nominative masculine singular after ὁ	1	people
+HOS 1:10	1	27	λαός	λαός	noun, nominative masculine singular	1	people
 HOS 1:10	1	28	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 HOS 1:10	1	29	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
 HOS 1:10	1	30	ἐκεῖ	ἐκεῖ	adverb of place	1	there
