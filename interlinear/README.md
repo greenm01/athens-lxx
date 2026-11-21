@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 584 chapters below have 331,343 indexed words and 359,891 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 593 chapters below have 335,891 indexed words and 364,801 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -379,6 +379,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [2 Chronicles 19](2CH-019.tsv) | 291 | 319 |
 | [2 Chronicles 20](2CH-020.tsv) | 912 | 992 |
 | [2 Chronicles 21](2CH-021.tsv) | 510 | 536 |
+| [2 Chronicles 22](2CH-022.tsv) | 363 | 386 |
+| [2 Chronicles 23](2CH-023.tsv) | 639 | 679 |
+| [2 Chronicles 24](2CH-024.tsv) | 708 | 762 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -448,11 +451,15 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 67](PSA-067.tsv) | 529 | 529 |
 | [Psalm 68](PSA-068.tsv) | 552 | 552 |
 | [Psalm 69](PSA-069.tsv) | 90 | 90 |
+| [Psalm 70](PSA-070.tsv) | 385 | 387 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 448 |
 | [Proverbs 2](PRO-002.tsv) | 272 | 289 |
 | [Proverbs 3](PRO-003.tsv) | 450 | 474 |
+| [Proverbs 4](PRO-004.tsv) | 351 | 373 |
+| [Proverbs 5](PRO-005.tsv) | 305 | 320 |
+| [Proverbs 6](PRO-006.tsv) | 487 | 517 |
 | [Isaiah 1](ISA-001.tsv) | 599 | 749 |
 | [Isaiah 2](ISA-002.tsv) | 457 | 551 |
 | [Isaiah 3](ISA-003.tsv) | 503 | 616 |
@@ -521,6 +528,8 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Isaiah 66](ISA-066.tsv) | 623 | 706 |
 | [Jeremiah 1](JER-001.tsv) | 427 | 471 |
 | [Jeremiah 2](JER-002.tsv) | 847 | 950 |
+| [Jeremiah 3](JER-003.tsv) | 655 | 722 |
+| [Jeremiah 4](JER-004.tsv) | 655 | 764 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
