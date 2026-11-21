@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 DEU 6:1	1	1	ΚΑΙ	καί	conjunction, unaccented	1	and
 DEU 6:1	1	2	αὗται	οὗτος	demonstrative pronoun, nominative feminine plural	1	these
-DEU 6:1	1	3	αἱ	ὁ	definite article	1	the
+DEU 6:1	1	3	αἱ	ὁ	article nominative feminine plural	1	the
 DEU 6:1	1	4	ἐντολαὶ	ἐντολή	noun, nominative feminine plural	1	commandments
 DEU 6:1	1	5	καὶ	καί	conjunction	1	and
 DEU 6:1	1	6	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
@@ -12,7 +12,7 @@ DEU 6:1	1	10	κρίματα	κρίμα	noun, nominative neuter plural	1	judgment
 DEU 6:1	1	11	ὅσα	ὅσος	relative pronoun, accusative neut. pl.	1	that
 DEU 6:1	1	12	ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, 3rd sg.	1	had commanded
 DEU 6:1	1	13	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 6:1	1	14	ὁ	ὁ	definite article	1	the
+DEU 6:1	1	14	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 6:1	1	15	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
 DEU 6:1	1	16	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 6:1	1	17	διδάξαι	διδάσκω	aorist active infinitive	1	to teach
@@ -20,7 +20,7 @@ DEU 6:1	1	18	ὑμᾶς	σύ	pronoun, accusative 2nd plural	1	you
 DEU 6:1	1	19	ποιεῖν	ποιέω	present active infinitive	1	to do
 DEU 6:1	1	20	οὕτως	οὕτως	adverb	1	thus
 DEU 6:1	1	21	ἐν	ἐν	preposition with the dative	1	in
-DEU 6:1	1	22	τῇ	ὁ	definite article	1	the
+DEU 6:1	1	22	τῇ	ὁ	article dative feminine singular	1	the
 DEU 6:1	1	23	γῇ	γῆ	noun, dative fem. sg.	1	land
 DEU 6:1	1	24	εἰς	εἰς	preposition with the accusative	1	into
 DEU 6:1	1	25	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
@@ -32,7 +32,7 @@ DEU 6:1	1	30	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	it
 DEU 6:2	1	1	ἵνα	ἵνα	purpose conjunction	1	so that
 DEU 6:2	1	2	φοβῆσθε	φοβέομαι	present middle subjunctive, 2nd plural	1	may fear
 DEU 6:2	1	3	Κύριον	κύριος	noun, accusative masculine singular	1	the Lord
-DEU 6:2	1	4	τὸν	ὁ	definite article	1	the
+DEU 6:2	1	4	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 6:2	1	5	Θεὸν	θεός	noun, accusative masculine singular, in apposition	1	God
 DEU 6:2	1	6	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 6:2	1	7	φυλάσσεσθαι	φυλάσσω	present middle infinitive	1	to keep
@@ -41,7 +41,7 @@ DEU 6:2	1	9	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	th
 DEU 6:2	1	10	δικαιώματα	δικαίωμα	noun, accusative neuter plural	1	statutes
 DEU 6:2	1	11	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 6:2	1	12	καὶ	καί	conjunction	1	and
-DEU 6:2	1	13	τὰς	ὁ	definite article	1	the
+DEU 6:2	1	13	τὰς	ὁ	article accusative feminine plural	1	the
 DEU 6:2	1	14	ἐντολὰς	ἐντολή	noun, accusative feminine plural	1	commandments
 DEU 6:2	1	15	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 6:2	1	16	ἃς	ὅς	relative pronoun, accusative fem. pl.	1	which
@@ -57,12 +57,12 @@ DEU 6:2	1	25	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:2	1	26	καὶ	καί	conjunction	1	and
 DEU 6:2	1	27	οἱ	ὁ	article, nominative masc. pl.	1	the
 DEU 6:2	1	28	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-DEU 6:2	1	29	τῶν	ὁ	definite article	1	the
+DEU 6:2	1	29	τῶν	ὁ	article genitive masculine plural	1	the
 DEU 6:2	1	30	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 DEU 6:2	1	31	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:2	1	32	πάσας	πᾶς	adjective, accusative fem. pl. with	1	all
 DEU 6:2	1	33	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
-DEU 6:2	1	34	τῆς	ὁ	definite article	1	the
+DEU 6:2	1	34	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 6:2	1	35	ζωῆς	ζωή	noun, genitive feminine singular	1	life
 DEU 6:2	1	36	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:2	1	37	ἵνα	ἵνα	purpose conjunction	1	so that
@@ -84,9 +84,9 @@ DEU 6:3	1	14	σφόδρα	σφόδρα	adverb	1	greatly
 DEU 6:3	1	15	καθάπερ	καθάπερ	conjunction	1	just as
 DEU 6:3	1	16	ἐλάλησε	λαλέω	aorist active indicative, 3rd singular	1	spoke
 DEU 6:3	1	17	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 6:3	1	18	ὁ	ὁ	definite article	1	the
+DEU 6:3	1	18	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 6:3	1	19	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
-DEU 6:3	1	20	τῶν	ὁ	definite article	1	the
+DEU 6:3	1	20	τῶν	ὁ	article genitive masculine plural	1	the
 DEU 6:3	1	21	πατέρων	πατήρ	noun, genitive masculine plural, in apposition	1	fathers
 DEU 6:3	1	22	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:3	1	23	δοῦναί	δίδωμι	aorist active infinitive	1	to give
@@ -106,11 +106,11 @@ DEU 6:4	1	7	κρίματα	κρίμα	noun, nominative neuter plural	1	judgments
 DEU 6:4	1	8	ὅσα	ὅσος	relative pronoun, accusative neut. pl.	1	that
 DEU 6:4	1	9	ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, 3rd sg.	1	had commanded
 DEU 6:4	1	10	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 6:4	1	11	τοῖς	ὁ	definite article	1	the
+DEU 6:4	1	11	τοῖς	ὁ	article dative masculine plural	1	the
 DEU 6:4	1	12	υἱοῖς	υἱός	noun, dative masculine plural, in apposition	1	sons
 DEU 6:4	1	13	Ἰσραὴλ	Ἰσραήλ	people name, nominative singular, vocative in address	1	Israel
 DEU 6:4	1	14	ἐν	ἐν	preposition with the dative	1	in
-DEU 6:4	1	15	τῇ	ὁ	definite article	1	the
+DEU 6:4	1	15	τῇ	ὁ	article dative feminine singular	1	the
 DEU 6:4	1	16	ἐρήμῳ	ἔρημος	noun, dative fem. sg. after ἐν τῇ	1	wilderness
 DEU 6:4	1	17	ἐξελθόντων	ἐξέρχομαι	aorist active participle, genitive masculine plural	1	came out
 DEU 6:4	1	18	αὐτῶν	αὐτός	pronoun, genitive masculine plural in genitive absolute	1	they
@@ -120,7 +120,7 @@ DEU 6:4	1	21	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine s
 DEU 6:4	1	22	ἄκουε	ἀκούω	present active imperative, 2nd singular	1	hear
 DEU 6:4	1	23	Ἰσραὴλ	Ἰσραήλ	people name, nominative singular, vocative in address	1	Israel
 DEU 6:4	1	24	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 6:4	1	25	ὁ	ὁ	definite article	1	the
+DEU 6:4	1	25	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 6:4	1	26	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
 DEU 6:4	1	27	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 6:4	1	28	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -129,24 +129,24 @@ DEU 6:4	1	30	ἐστι	εἰμί	present indicative	1	is
 DEU 6:5	1	1	καὶ	καί	conjunction	1	and
 DEU 6:5	1	2	ἀγαπήσεις	ἀγαπάω	future active indicative, 2nd singular	1	shall love
 DEU 6:5	1	3	Κύριον	κύριος	noun, accusative masculine singular	1	the Lord
-DEU 6:5	1	4	τὸν	ὁ	definite article	1	the
+DEU 6:5	1	4	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 6:5	1	5	Θεόν	θεός	noun, accusative masc. sg. after τὸν, in apposition	1	God
 DEU 6:5	1	6	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:5	1	7	ἐξ	ἐκ	preposition with the genitive	1	from
 DEU 6:5	1	8	ὅλης	ὅλος	adjective, genitive feminine singular	1	all
-DEU 6:5	1	9	τῆς	ὁ	definite article	1	the
+DEU 6:5	1	9	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 6:5	1	10	καρδίας	καρδία	noun, genitive feminine singular	1	heart
 DEU 6:5	1	11	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:5	1	12	καὶ	καί	conjunction	1	and
 DEU 6:5	1	13	ἐξ	ἐκ	preposition with the genitive	1	from
 DEU 6:5	1	14	ὅλης	ὅλος	adjective, genitive feminine singular	1	all
-DEU 6:5	1	15	τῆς	ὁ	definite article	1	the
+DEU 6:5	1	15	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 6:5	1	16	ψυχῆς	ψυχή	noun, genitive feminine singular	1	soul
 DEU 6:5	1	17	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:5	1	18	καὶ	καί	conjunction	1	and
 DEU 6:5	1	19	ἐξ	ἐκ	preposition with the genitive	1	from
 DEU 6:5	1	20	ὅλης	ὅλος	adjective, genitive feminine singular	1	all
-DEU 6:5	1	21	τῆς	ὁ	definite article	1	the
+DEU 6:5	1	21	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 6:5	1	22	δυνάμεώς	δύναμις	noun, genitive feminine singular	1	might
 DEU 6:5	1	23	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:6	1	1	Καὶ	καί	conjunction	1	and
@@ -160,18 +160,18 @@ DEU 6:6	1	8	ἐντέλλομαί	ἐντέλλομαι	present middle indicativ
 DEU 6:6	1	9	σοι	σύ	pronoun, dative 2nd singular	1	to you
 DEU 6:6	1	10	σήμερον	σήμερον	adverb	1	today
 DEU 6:6	1	11	ἐν	ἐν	preposition with the dative	1	in
-DEU 6:6	1	12	τῇ	ὁ	definite article	1	the
+DEU 6:6	1	12	τῇ	ὁ	article dative feminine singular	1	the
 DEU 6:6	1	13	καρδίᾳ	καρδία	noun, dative fem. sg. after τῇ	1	heart
 DEU 6:6	1	14	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:6	1	15	καὶ	καί	conjunction	1	and
 DEU 6:6	1	16	ἐν	ἐν	preposition with the dative	1	in
-DEU 6:6	1	17	τῇ	ὁ	definite article	1	the
+DEU 6:6	1	17	τῇ	ὁ	article dative feminine singular	1	the
 DEU 6:6	1	18	ψυχῇ	ψυχή	noun, dative fem. sg. after τῇ	1	soul
 DEU 6:6	1	19	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:7	1	1	καὶ	καί	conjunction	1	and
 DEU 6:7	1	2	προβιβάσεις	προβιβάζω	future active indicative, 2nd singular	1	shall teach
 DEU 6:7	1	3	αὐτὰ	αὐτός	pronoun, nominative/accusative neuter plural	1	them
-DEU 6:7	1	4	τοὺς	ὁ	definite article	1	the
+DEU 6:7	1	4	τοὺς	ὁ	article accusative masculine plural	1	the
 DEU 6:7	1	5	υἱούς	υἱός	noun, accusative masculine plural after τοὺς	1	sons
 DEU 6:7	1	6	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:7	1	7	καὶ	καί	conjunction	1	and
@@ -195,7 +195,7 @@ DEU 6:8	1	3	αὐτὰ	αὐτός	pronoun, nominative/accusative neuter plural	
 DEU 6:8	1	4	εἰς	εἰς	preposition with the accusative	1	into
 DEU 6:8	1	5	σημεῖον	σημεῖον	noun, accusative neuter singular	1	sign
 DEU 6:8	1	6	ἐπὶ	ἐπί	preposition	1	on
-DEU 6:8	1	7	τῆς	ὁ	definite article	1	the
+DEU 6:8	1	7	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 6:8	1	8	χειρός	χείρ	noun, genitive feminine singular	1	hand
 DEU 6:8	1	9	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:8	1	10	καὶ	καί	conjunction	1	and
@@ -208,13 +208,13 @@ DEU 6:9	1	1	καὶ	καί	conjunction	1	and
 DEU 6:9	1	2	γράψεις	γράφω	future active indicative, 2nd singular	1	shall write
 DEU 6:9	1	3	αὐτὰ	αὐτός	pronoun, nominative/accusative neuter plural	1	them
 DEU 6:9	1	4	ἐπὶ	ἐπί	preposition	1	on
-DEU 6:9	1	5	τὰς	ὁ	definite article	1	the
+DEU 6:9	1	5	τὰς	ὁ	article accusative feminine plural	1	the
 DEU 6:9	1	6	φλιὰς	φλιά	noun, accusative feminine plural	1	doorposts
-DEU 6:9	1	7	τῶν	ὁ	definite article	1	the
+DEU 6:9	1	7	τῶν	ὁ	article genitive feminine plural	1	the
 DEU 6:9	1	8	οἰκιῶν	οἰκία	noun, genitive feminine plural	1	houses
 DEU 6:9	1	9	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 6:9	1	10	καὶ	καί	conjunction	1	and
-DEU 6:9	1	11	τῶν	ὁ	definite article	1	the
+DEU 6:9	1	11	τῶν	ὁ	article genitive feminine plural	1	the
 DEU 6:9	1	12	πυλῶν	πύλη	noun, genitive feminine plural	1	gates
 DEU 6:9	1	13	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 6:10	1	1	Καὶ	καί	conjunction	1	and
@@ -223,7 +223,7 @@ DEU 6:10	1	3	ὅταν	ὅταν	temporal conjunction	1	when
 DEU 6:10	1	4	εἰσαγάγῃ	εἰσάγω	aorist active subjunctive, 3rd singular	1	brings in
 DEU 6:10	1	5	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 6:10	1	6	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 6:10	1	7	ὁ	ὁ	definite article	1	the
+DEU 6:10	1	7	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 6:10	1	8	Θεός	θεός	noun, nominative masc. sg. after ὁ, in apposition	1	God
 DEU 6:10	1	9	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:10	1	10	εἰς	εἰς	preposition with the accusative	1	into
@@ -231,10 +231,10 @@ DEU 6:10	1	11	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 6:10	1	12	γῆν	γῆ	noun, accusative feminine singular	1	land
 DEU 6:10	1	13	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
 DEU 6:10	1	14	ὤμοσε	ὀμνύω	aorist active indicative, 3rd singular	1	swore
-DEU 6:10	1	15	τοῖς	ὁ	definite article	1	the
+DEU 6:10	1	15	τοῖς	ὁ	article dative masculine plural	1	the
 DEU 6:10	1	16	πατράσι	πατήρ	noun, dative masc. pl. after τοῖς	1	fathers
 DEU 6:10	1	17	σου	σύ	pronoun, genitive 2nd singular	1	your
-DEU 6:10	1	18	τῷ	ὁ	definite article	1	the
+DEU 6:10	1	18	τῷ	ὁ	article dative masculine singular	1	the
 DEU 6:10	1	19	Ἀβραὰμ	Ἀβραάμ	personal name, dative masculine singular	1	Abraham
 DEU 6:10	1	20	καὶ	καί	conjunction	1	and
 DEU 6:10	1	21	Ἰσαὰκ	Ἰσαάκ	personal name, dative masculine singular	1	Isaac
@@ -281,10 +281,10 @@ DEU 6:12	1	11	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:12	1	12	καὶ	καί	conjunction	1	and
 DEU 6:12	1	13	ἐπιλάθῃ	ἐπιλανθάνομαι	aorist middle subjunctive, 2nd singular	1	forget
 DEU 6:12	1	14	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-DEU 6:12	1	15	τοῦ	ὁ	definite article	1	the
+DEU 6:12	1	15	τοῦ	ὁ	article genitive masculine singular	1	the
 DEU 6:12	1	16	Θεοῦ	θεός	noun, genitive masc. sg. after τοῦ, in apposition	1	God
 DEU 6:12	1	17	σου	σύ	pronoun, genitive 2nd singular	1	your
-DEU 6:12	1	18	τοῦ	ὁ	definite article	1	the
+DEU 6:12	1	18	τοῦ	ὁ	article genitive masculine singular	1	the
 DEU 6:12	1	19	ἐξαγαγόντος	ἐξάγω	aorist active participle, genitive masculine singular	1	brought out
 DEU 6:12	1	20	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 6:12	1	21	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -294,7 +294,7 @@ DEU 6:12	1	24	ἐξ	ἐκ	preposition with the genitive	1	from
 DEU 6:12	1	25	οἴκου	οἶκος	noun, genitive masculine singular	1	house of
 DEU 6:12	1	26	δουλείας	δουλεία	noun, genitive feminine singular	1	bondage
 DEU 6:13	1	1	Κύριον	κύριος	noun, accusative masculine singular	1	the Lord
-DEU 6:13	1	2	τὸν	ὁ	definite article	1	the
+DEU 6:13	1	2	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 6:13	1	3	Θεόν	θεός	noun, accusative masc. sg. after τὸν, in apposition	1	God
 DEU 6:13	1	4	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:13	1	5	προσκυνήσεις	προσκυνέω	future active indicative, 2nd singular	1	worship
@@ -308,7 +308,7 @@ DEU 6:13	1	12	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	
 DEU 6:13	1	13	κολληθήσῃ	κολλάω	future passive indicative, 2nd singular	1	shall cleave
 DEU 6:13	1	14	καὶ	καί	conjunction	1	and
 DEU 6:13	1	15	ἐπὶ	ἐπί	preposition	1	on
-DEU 6:13	1	16	τῷ	ὁ	definite article	1	the
+DEU 6:13	1	16	τῷ	ὁ	article dative neuter singular	1	the
 DEU 6:13	1	17	ὀνόματι	ὄνομα	noun, dative neuter singular	1	name
 DEU 6:13	1	18	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 6:13	1	19	ὀμῇ	ὀμνύω	future middle indicative, 2nd singular	1	shall swear
@@ -319,18 +319,18 @@ DEU 6:14	1	4	ὀπίσω	ὀπίσω	preposition with the genitive	1	after
 DEU 6:14	1	5	θεῶν	θεός	noun, genitive masculine plural	1	gods
 DEU 6:14	1	6	ἑτέρων	ἕτερος	adjective, genitive masculine plural	1	other
 DEU 6:14	1	7	ἀπὸ	ἀπό	preposition with genitive, from/at	1	from
-DEU 6:14	1	8	τῶν	ὁ	definite article	1	the
+DEU 6:14	1	8	τῶν	ὁ	article genitive masculine plural	1	the
 DEU 6:14	1	9	θεῶν	θεός	noun, genitive masculine plural	1	gods
-DEU 6:14	1	10	τῶν	ὁ	definite article	1	the
+DEU 6:14	1	10	τῶν	ὁ	article genitive neuter plural	1	the
 DEU 6:14	1	11	ἐθνῶν	ἔθνος	noun, genitive neut. pl. after τῶν	1	nations
-DEU 6:14	1	12	τῶν	ὁ	definite article	1	the
+DEU 6:14	1	12	τῶν	ὁ	article genitive plural	1	the
 DEU 6:14	1	13	περικύκλῳ	περικύκλῳ	adverb	1	round about
 DEU 6:14	1	14	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 6:15	1	1	ὅτι	ὅτι	causal conjunction	1	for
 DEU 6:15	1	2	Θεὸς	θεός	noun, nominative masculine singular	1	God
 DEU 6:15	1	3	ζηλωτὴς	ζηλωτής	adjective, nominative masculine singular	1	jealous
 DEU 6:15	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 6:15	1	5	ὁ	ὁ	definite article	1	the
+DEU 6:15	1	5	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 6:15	1	6	Θεός	θεός	noun, nominative masc. sg. after ὁ, in apposition	1	God
 DEU 6:15	1	7	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:15	1	8	ἐν	ἐν	preposition with the dative	1	in
@@ -340,7 +340,7 @@ DEU 6:15	1	11	ποτε	ποτέ	adverb	1	ever
 DEU 6:15	1	12	ὀργισθεὶς	ὀργίζω	aorist passive participle, nominative masculine singular	1	being angry
 DEU 6:15	1	13	θυμωθῇ	θυμόω	aorist passive subjunctive, 3rd singular	1	be angry
 DEU 6:15	1	14	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 6:15	1	15	ὁ	ὁ	definite article	1	the
+DEU 6:15	1	15	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 6:15	1	16	Θεός	θεός	noun, nominative masc. sg. after ὁ, in apposition	1	God
 DEU 6:15	1	17	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:15	1	18	ἐν	ἐν	preposition with the dative	1	in
@@ -350,26 +350,26 @@ DEU 6:15	1	21	ἐξολεθρεύσῃ	ἐξολοθρεύω	aorist active subju
 DEU 6:15	1	22	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 6:15	1	23	ἀπὸ	ἀπό	preposition with genitive, from/at	1	from
 DEU 6:15	1	24	προσώπου	πρόσωπον	noun, genitive neuter singular	1	face
-DEU 6:15	1	25	τῆς	ὁ	definite article	1	the
+DEU 6:15	1	25	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 6:15	1	26	γῆς	γῆ	noun, genitive feminine singular	1	land
 DEU 6:16	1	1	Οὐκ	οὐ	negative adverb	1	not
 DEU 6:16	1	2	ἐκπειράσεις	ἐκπειράζω	future active indicative, 2nd singular	1	tempt
 DEU 6:16	1	3	Κύριον	κύριος	noun, accusative masculine singular	1	the Lord
-DEU 6:16	1	4	τὸν	ὁ	definite article	1	the
+DEU 6:16	1	4	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 6:16	1	5	Θεόν	θεός	noun, accusative masc. sg. after τὸν, in apposition	1	God
 DEU 6:16	1	6	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:16	1	7	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
 DEU 6:16	1	8	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
 DEU 6:16	1	9	ἐξεπειράσασθε	ἐκπειράζω	aorist active indicative, 2nd plural	1	tempted
 DEU 6:16	1	10	ἐν	ἐν	preposition with the dative	1	in
-DEU 6:16	1	11	τῷ	ὁ	definite article	1	the
+DEU 6:16	1	11	τῷ	ὁ	article dative masculine singular	1	the
 DEU 6:16	1	12	πειρασμῷ	πειρασμός	noun, dative masculine singular	1	Massah
 DEU 6:17	1	1	Φυλάσσων	φυλάσσω	present active participle, nominative masculine singular	1	keeping
 DEU 6:17	1	2	φυλάξῃ	φυλάσσω	future middle indicative, 2nd singular	1	shall keep
-DEU 6:17	1	3	τὰς	ὁ	definite article	1	the
+DEU 6:17	1	3	τὰς	ὁ	article accusative feminine plural	1	the
 DEU 6:17	1	4	ἐντολὰς	ἐντολή	noun, accusative feminine plural	1	commandments
 DEU 6:17	1	5	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-DEU 6:17	1	6	τοῦ	ὁ	definite article	1	the
+DEU 6:17	1	6	τοῦ	ὁ	article genitive masculine singular	1	the
 DEU 6:17	1	7	Θεοῦ	θεός	noun, genitive masc. sg. after τοῦ, in apposition	1	God
 DEU 6:17	1	8	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:17	1	9	καὶ	καί	conjunction	1	and
@@ -392,7 +392,7 @@ DEU 6:18	1	6	τὸ	ὁ	definite article, nominative/accusative neuter singular	1
 DEU 6:18	1	7	ἀρεστὸν	ἀρεστός	adjective, accusative neuter singular	1	pleasing
 DEU 6:18	1	8	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
 DEU 6:18	1	9	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
-DEU 6:18	1	10	τοῦ	ὁ	definite article	1	the
+DEU 6:18	1	10	τοῦ	ὁ	article genitive masculine singular	1	the
 DEU 6:18	1	11	Θεοῦ	θεός	noun, genitive masc. sg. after τοῦ, in apposition	1	God
 DEU 6:18	1	12	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:18	1	13	ἵνα	ἵνα	purpose conjunction	1	so that
@@ -411,12 +411,12 @@ DEU 6:18	1	25	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
 DEU 6:18	1	26	ὤμοσε	ὀμνύω	aorist active indicative, 3rd singular	1	swore
 DEU 6:18	1	27	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 6:18	1	28	δοῦναι	δίδωμι	aorist active infinitive	1	to give
-DEU 6:18	1	29	τοῖς	ὁ	definite article	1	the
+DEU 6:18	1	29	τοῖς	ὁ	article dative masculine plural	1	the
 DEU 6:18	1	30	πατράσιν	πατήρ	noun, dative masculine plural	1	fathers
 DEU 6:18	1	31	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 6:19	1	1	ἐκδιῶξαι	ἐκδιώκω	aorist active infinitive	1	to drive out
 DEU 6:19	1	2	πάντας	πᾶς	adjective, accusative masculine plural	1	all
-DEU 6:19	1	3	τοὺς	ὁ	definite article	1	the
+DEU 6:19	1	3	τοὺς	ὁ	article accusative masculine plural	1	the
 DEU 6:19	1	4	ἐχθρούς	ἐχθρός	noun, accusative masculine plural	1	enemies
 DEU 6:19	1	5	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:19	1	6	πρὸ	πρό	preposition with the genitive	1	before
@@ -430,7 +430,7 @@ DEU 6:20	1	2	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shal
 DEU 6:20	1	3	ὅταν	ὅταν	temporal conjunction	1	when
 DEU 6:20	1	4	ἐρωτήσῃ	ἐρωτάω	aorist active subjunctive, 3rd singular	1	asks
 DEU 6:20	1	5	σε	σύ	pronoun, accusative 2nd singular	1	you
-DEU 6:20	1	6	ὁ	ὁ	definite article	1	the
+DEU 6:20	1	6	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 6:20	1	7	υἱός	υἱός	noun, nominative masculine singular	1	son
 DEU 6:20	1	8	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:20	1	9	αὔριον	αὔριον	adverb	1	tomorrow
@@ -448,18 +448,18 @@ DEU 6:20	1	20	κρίματα	κρίμα	noun, nominative neuter plural	1	judgmen
 DEU 6:20	1	21	ὅσα	ὅσος	relative pronoun, accusative neut. pl.	1	that
 DEU 6:20	1	22	ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, 3rd sg.	1	had commanded
 DEU 6:20	1	23	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 6:20	1	24	ὁ	ὁ	definite article	1	the
+DEU 6:20	1	24	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 6:20	1	25	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
 DEU 6:20	1	26	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 6:20	1	27	ὑμῖν	σύ	pronoun, dative 2nd plural	1	to you
 DEU 6:21	1	1	καὶ	καί	conjunction	1	and
 DEU 6:21	1	2	ἐρεῖς	λέγω	future active indicative, 2nd singular	1	shall say
-DEU 6:21	1	3	τῷ	ὁ	definite article	1	the
+DEU 6:21	1	3	τῷ	ὁ	article dative masculine singular	1	the
 DEU 6:21	1	4	υἱῷ	υἱός	noun, dative masc. sg. after τῷ	1	son
 DEU 6:21	1	5	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 6:21	1	6	οἰκέται	οἰκέτης	noun, nominative masculine plural	1	servants
 DEU 6:21	1	7	ἦμεν	εἰμί	imperfect indicative, 1st plural	1	were
-DEU 6:21	1	8	τῷ	ὁ	definite article	1	the
+DEU 6:21	1	8	τῷ	ὁ	article dative masculine singular	1	the
 DEU 6:21	1	9	Φαραὼ	Φαραώ	personal name, dative masculine singular	1	Pharao
 DEU 6:21	1	10	ἐν	ἐν	preposition with the dative	1	in
 DEU 6:21	1	11	γῇ	γῆ	noun, dative fem. sg.	1	land
@@ -492,7 +492,7 @@ DEU 6:22	1	13	Φαραὼ	Φαραώ	personal name, dative masculine singular	1	
 DEU 6:22	1	14	καὶ	καί	conjunction	1	and
 DEU 6:22	1	15	ἐν	ἐν	preposition with the dative	1	in
 DEU 6:22	1	16	ὅλῳ	ὅλος	adjective, dative masculine singular	1	all
-DEU 6:22	1	17	τῷ	ὁ	definite article	1	the
+DEU 6:22	1	17	τῷ	ὁ	article dative masculine singular	1	the
 DEU 6:22	1	18	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
 DEU 6:22	1	19	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 6:22	1	20	ἐνώπιον	ἐνώπιον	preposition with the genitive	1	before
@@ -501,7 +501,7 @@ DEU 6:23	1	1	καὶ	καί	conjunction	1	and
 DEU 6:23	1	2	ἐξήγαγεν	ἐξάγω	aorist active indicative, 3rd singular	1	brought out
 DEU 6:23	1	3	ἡμᾶς	ἐγώ	pronoun, accusative 1st plural	1	us
 DEU 6:23	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 6:23	1	5	ὁ	ὁ	definite article	1	the
+DEU 6:23	1	5	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 6:23	1	6	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
 DEU 6:23	1	7	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 6:23	1	8	ἐκεῖθεν	ἐκεῖθεν	adverb	1	from there
@@ -516,10 +516,10 @@ DEU 6:23	1	16	ταύτην	οὗτος	demonstrative pronoun, accusative feminin
 DEU 6:23	1	17	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
 DEU 6:23	1	18	ὤμοσε	ὀμνύω	aorist active indicative, 3rd singular	1	swore
 DEU 6:23	1	19	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 6:23	1	20	ὁ	ὁ	definite article	1	the
+DEU 6:23	1	20	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 6:23	1	21	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
 DEU 6:23	1	22	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
-DEU 6:23	1	23	τοῖς	ὁ	definite article	1	the
+DEU 6:23	1	23	τοῖς	ὁ	article dative masculine plural	1	the
 DEU 6:23	1	24	πατράσιν	πατήρ	noun, dative masculine plural	1	fathers
 DEU 6:23	1	25	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 6:23	1	26	δοῦναι	δίδωμι	aorist active infinitive	1	to give
@@ -530,7 +530,7 @@ DEU 6:24	1	3	ἡμῖν	ἐγώ	pronoun, dative 1st plural	1	to us
 DEU 6:24	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 6:24	1	5	ποιεῖν	ποιέω	present active infinitive	1	to do
 DEU 6:24	1	6	πάσας	πᾶς	adjective, accusative fem. pl. with	1	all
-DEU 6:24	1	7	τὰς	ὁ	definite article	1	the
+DEU 6:24	1	7	τὰς	ὁ	article accusative feminine plural	1	the
 DEU 6:24	1	8	ἐντολὰς	ἐντολή	noun, accusative feminine plural	1	commandments
 DEU 6:24	1	9	καὶ	καί	conjunction	1	and
 DEU 6:24	1	10	πάντα	πᾶς	adjective, accusative masculine singular	1	all
@@ -539,7 +539,7 @@ DEU 6:24	1	12	δικαιώματα	δικαίωμα	noun, accusative neuter plur
 DEU 6:24	1	13	ταῦτα	οὗτος	demonstrative pronoun, nominative neuter plural	1	these
 DEU 6:24	1	14	φοβεῖσθαι	φοβέω	present middle infinitive	1	to fear
 DEU 6:24	1	15	Κύριον	κύριος	noun, accusative masculine singular	1	the Lord
-DEU 6:24	1	16	τὸν	ὁ	definite article	1	the
+DEU 6:24	1	16	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 6:24	1	17	Θεὸν	θεός	noun, accusative masculine singular, in apposition	1	God
 DEU 6:24	1	18	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 6:24	1	19	ἵνα	ἵνα	purpose conjunction	1	so that
@@ -547,7 +547,7 @@ DEU 6:24	1	20	εὖ	εὖ	adverb	1	well
 DEU 6:24	1	21	ᾖ	εἰμί	present subjunctive, 3rd singular	1	may be
 DEU 6:24	1	22	ἡμῖν	ἐγώ	pronoun, dative 1st plural	1	to us
 DEU 6:24	1	23	πάσας	πᾶς	adjective, accusative fem. pl. with	1	all
-DEU 6:24	1	24	τὰς	ὁ	definite article	1	the
+DEU 6:24	1	24	τὰς	ὁ	article accusative feminine plural	1	the
 DEU 6:24	1	25	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
 DEU 6:24	1	26	ἵνα	ἵνα	purpose conjunction	1	so that
 DEU 6:24	1	27	ζῶμεν	ζάω	present active indicative, 1st plural	1	live
@@ -562,12 +562,12 @@ DEU 6:25	1	5	ἐὰν	ἐάν	conditional conjunction	1	when
 DEU 6:25	1	6	φυλασσώμεθα	φυλάσσω	present middle subjunctive, 1st plural	1	observe
 DEU 6:25	1	7	ποιεῖν	ποιέω	present active infinitive	1	to do
 DEU 6:25	1	8	πάσας	πᾶς	adjective, accusative fem. pl. with	1	all
-DEU 6:25	1	9	τὰς	ὁ	definite article	1	the
+DEU 6:25	1	9	τὰς	ὁ	article accusative feminine plural	1	the
 DEU 6:25	1	10	ἐντολὰς	ἐντολή	noun, accusative feminine plural	1	commandments
 DEU 6:25	1	11	ταύτας	οὗτος	demonstrative pronoun, accusative feminine plural	1	these
 DEU 6:25	1	12	ἔναντι	ἔναντι	preposition with the genitive	1	before
 DEU 6:25	1	13	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
-DEU 6:25	1	14	τοῦ	ὁ	definite article	1	the
+DEU 6:25	1	14	τοῦ	ὁ	article genitive masculine singular	1	the
 DEU 6:25	1	15	Θεοῦ	θεός	noun, genitive masc. sg. after τοῦ, in apposition	1	God
 DEU 6:25	1	16	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 6:25	1	17	καθὰ	καθά	conjunction	1	according as

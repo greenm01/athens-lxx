@@ -39,16 +39,16 @@ DEU 2:3	1	8	οὖν	οὖν	inferential particle	1	therefore
 DEU 2:3	1	9	πρὸς	πρός	preposition with the accusative	1	to
 DEU 2:3	1	10	βοῤῥᾶν	βοῤῥᾶς	noun, accusative masc. sg. after πρὸς	1	north
 DEU 2:4	1	1	Καὶ	καί	conjunction	1	and
-DEU 2:4	1	2	τῷ	ὁ	definite article	1	the
+DEU 2:4	1	2	τῷ	ὁ	article dative masculine singular	1	the
 DEU 2:4	1	3	λαῷ	λαός	noun, dative masculine singular, in apposition	1	people
 DEU 2:4	1	4	ἔντειλαι	ἐντέλλομαι	aorist middle imperative, 2nd sg.	1	command
 DEU 2:4	1	5	λέγων	λέγω	present active participle, nominative masc. sg.	1	saying
 DEU 2:4	1	6	ὑμεῖς	σύ	pronoun, nominative 2nd pl. emphatic subject	1	you
 DEU 2:4	1	7	παραπορεύεσθε	παραπορεύομαι	present middle indicative, 2nd pl. in quoted instruction	1	you are to pass through
 DEU 2:4	1	8	διὰ	διά	preposition with genitive, through	1	through
-DEU 2:4	1	9	τῶν	ὁ	definite article	1	the
+DEU 2:4	1	9	τῶν	ὁ	article genitive neuter plural	1	the
 DEU 2:4	1	10	ὁρίων	ὅριον	noun, genitive neut. pl. after τῶν	1	borders
-DEU 2:4	1	11	τῶν	ὁ	definite article	1	the
+DEU 2:4	1	11	τῶν	ὁ	article genitive masculine plural	1	the
 DEU 2:4	1	12	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 DEU 2:4	1	13	ὑμῶν	σύ	pronoun, genitive 2nd pl.	1	your
 DEU 2:4	1	14	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
@@ -74,7 +74,7 @@ DEU 2:5	1	8	μὴ	μή	negative particle	1	not
 DEU 2:5	1	9	δώσω	δίδωμι	future active indicative, 1st sg.	1	I will give
 DEU 2:5	1	10	ὑμῖν	σύ	pronoun, dative 2nd pl.	1	to you
 DEU 2:5	1	11	ἀπὸ	ἀπό	preposition with genitive, from/at	1	from
-DEU 2:5	1	12	τῆς	ὁ	definite article	1	the
+DEU 2:5	1	12	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 2:5	1	13	γῆς	γῆ	noun, genitive feminine singular	1	land
 DEU 2:5	1	14	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 DEU 2:5	1	15	οὐδὲ	οὐδέ	negative conjunction	1	neither
@@ -84,7 +84,7 @@ DEU 2:5	1	18	ὅτι	ὅτι	causal conjunction	1	for
 DEU 2:5	1	19	ἐν	ἐν	preposition with the dative	1	in
 DEU 2:5	1	20	κλήρῳ	κλῆρος	noun, dative masculine singular	1	inheritance
 DEU 2:5	1	21	δέδωκα	δίδωμι	perfect active indicative, 1st sg.	1	I have given
-DEU 2:5	1	22	τοῖς	ὁ	definite article	1	the
+DEU 2:5	1	22	τοῖς	ὁ	article dative masculine plural	1	the
 DEU 2:5	1	23	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 DEU 2:5	1	24	Ἡσαῦ	Ἠσαῦ	personal name, genitive singular after υἱῶν/υἱοῖς	1	of Esau
 DEU 2:5	1	25	τὸ	ὁ	definite article, nominative/accusative neuter singular	1	the
@@ -107,10 +107,10 @@ DEU 2:6	1	13	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 DEU 2:6	1	14	ἀργυρίου	ἀργύριον	noun, genitive neut. sg. price	1	for money
 DEU 2:6	1	15	καὶ	καί	conjunction	1	and
 DEU 2:6	1	16	πίεσθε	πίνω	future middle indicative, 2nd pl.	1	drink
-DEU 2:7	1	1	ὁ	ὁ	definite article	1	the
+DEU 2:7	1	1	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 2:7	1	2	γὰρ	γάρ	causal particle	1	for
 DEU 2:7	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 2:7	1	4	ὁ	ὁ	definite article	1	the
+DEU 2:7	1	4	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 2:7	1	5	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
 DEU 2:7	1	6	ὑμῶν	σύ	pronoun, genitive 2nd pl.	1	your
 DEU 2:7	1	7	εὐλόγησέ	εὐλογέω	aorist active indicative, 3rd sg.	1	has blessed
@@ -118,7 +118,7 @@ DEU 2:7	1	8	σε	σύ	pronoun, accusative 2nd sg.	1	you
 DEU 2:7	1	9	ἐν	ἐν	preposition with the dative	1	in
 DEU 2:7	1	10	παντὶ	πᾶς	adjective, dative neut. sg. with ἔργῳ	1	all
 DEU 2:7	1	11	ἔργῳ	ἔργον	noun, dative neut. sg. after ἐν	1	work
-DEU 2:7	1	12	τῶν	ὁ	definite article	1	the
+DEU 2:7	1	12	τῶν	ὁ	article genitive feminine plural	1	the
 DEU 2:7	1	13	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
 DEU 2:7	1	14	σου	σύ	pronoun, possessive genitive second singular	1	your
 DEU 2:7	1	15	Διάγνωθι	διαγινώσκω	aorist active imperative, 2nd sg. verse-internal imperative	1	recognize
@@ -136,7 +136,7 @@ DEU 2:7	1	26	ἰδοὺ	ἰδού	interjection	1	behold
 DEU 2:7	1	27	τεσσαράκοντα	τεσσαράκοντα	cardinal numeral	1	forty
 DEU 2:7	1	28	ἔτη	ἔτος	noun, nominative/accusative neut. pl.	1	years
 DEU 2:7	1	29	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 2:7	1	30	ὁ	ὁ	definite article	1	the
+DEU 2:7	1	30	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 2:7	1	31	Θεός	θεός	noun, nominative masc. sg. after ὁ, in apposition	1	God
 DEU 2:7	1	32	σου	σύ	pronoun, possessive genitive second singular	1	your
 DEU 2:7	1	33	μετὰ	μετά	preposition with the genitive	1	with
@@ -146,12 +146,12 @@ DEU 2:7	1	36	ἐπεδεήθης	ἐπιδέομαι	aorist passive indicative, 
 DEU 2:7	1	37	ῥήματος	ῥῆμα	noun, genitive neut. sg.	1	anything
 DEU 2:8	1	1	Καὶ	καί	conjunction	1	and
 DEU 2:8	1	2	παρήλθομεν	παρέρχομαι	aorist active indicative, 1st pl.	1	we passed by
-DEU 2:8	1	3	τοὺς	ὁ	definite article	1	the
+DEU 2:8	1	3	τοὺς	ὁ	article accusative masculine plural	1	the
 DEU 2:8	1	4	ἀδελφοὺς	ἀδελφός	noun, accusative masculine plural after πρός	1	brothers
 DEU 2:8	1	5	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 2:8	1	6	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
 DEU 2:8	1	7	Ἡσαῦ	Ἠσαῦ	personal name, genitive singular after υἱῶν/υἱοῖς	1	of Esau
-DEU 2:8	1	8	τοὺς	ὁ	definite article	1	the
+DEU 2:8	1	8	τοὺς	ὁ	article accusative masculine plural	1	the
 DEU 2:8	1	9	κατοικοῦντας	κατοικέω	present active participle, accusative masc. pl. after τοὺς	1	who dwell
 DEU 2:8	1	10	ἐν	ἐν	preposition with the dative	1	in
 DEU 2:8	1	11	Σηεὶρ	Σηείρ	place name, dative after ἐν	1	Seir
@@ -179,7 +179,7 @@ DEU 2:9	1	4	πρὸς	πρός	preposition with the accusative	1	to
 DEU 2:9	1	5	μέ	ἐγώ	pronoun, accusative 1st singular	1	me
 DEU 2:9	1	6	μὴ	μή	negative particle	1	not
 DEU 2:9	1	7	ἐχθραίνετε	ἐχθραίνω	present active imperative, 2nd plural	1	be hostile
-DEU 2:9	1	8	τοῖς	ὁ	definite article	1	the
+DEU 2:9	1	8	τοῖς	ὁ	article dative masculine plural	1	the
 DEU 2:9	1	9	Μωαβίταις	Μωαβίτης	ethnic noun, dative masc. pl. after τοῖς	1	Moabites
 DEU 2:9	1	10	καὶ	καί	conjunction	1	and
 DEU 2:9	1	11	μὴ	μή	negative particle	1	not
@@ -193,12 +193,12 @@ DEU 2:9	1	18	μὴ	μή	negative particle	1	not
 DEU 2:9	1	19	δῶ	δίδωμι	aorist active subjunctive, 1st sg. after οὐ ... μή	1	I will give
 DEU 2:9	1	20	ὑμῖν	σύ	pronoun, dative 2nd pl.	1	to you
 DEU 2:9	1	21	ἀπὸ	ἀπό	preposition with genitive, from/at	1	from
-DEU 2:9	1	22	τῆς	ὁ	definite article	1	the
+DEU 2:9	1	22	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 2:9	1	23	γῆς	γῆ	noun, genitive feminine singular	1	land
 DEU 2:9	1	24	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 DEU 2:9	1	25	ἐν	ἐν	preposition with the dative	1	in
 DEU 2:9	1	26	κλήρῳ	κλῆρος	noun, dative masculine singular	1	inheritance
-DEU 2:9	1	27	τοῖς	ὁ	definite article	1	the
+DEU 2:9	1	27	τοῖς	ὁ	article dative plural	1	the
 DEU 2:9	1	28	γὰρ	γάρ	causal particle	1	for
 DEU 2:9	1	29	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 DEU 2:9	1	30	Λὼτ	Λώτ	personal name, genitive singular after υἱοῖς	1	of Lot
@@ -238,7 +238,7 @@ DEU 2:12	1	1	Καὶ	καί	conjunction	1	and
 DEU 2:12	1	2	ἐν	ἐν	preposition with the dative	1	in
 DEU 2:12	1	3	Σηεὶρ	Σηείρ	place name, dative after ἐν	1	Seir
 DEU 2:12	1	4	ἐνεκάθητο	ἐγκάθημαι	imperfect middle indicative, 3rd sg.	1	dwelt
-DEU 2:12	1	5	ὁ	ὁ	definite article	1	the
+DEU 2:12	1	5	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 2:12	1	6	Χοῤῥαῖος	Χοῤῥαῖος	ethnic noun, nominative masc. sg. after ὁ collective	1	Horite
 DEU 2:12	1	7	τοπρότερον	πρότερος	adverbial neuter accusative	1	in former times
 DEU 2:12	1	8	καὶ	καί	conjunction	1	and
@@ -284,7 +284,7 @@ DEU 2:13	1	12	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 2:13	1	13	φάραγγα	φάραγξ	noun, accusative fem. sg. after τὴν, valley/wadi	1	valley
 DEU 2:13	1	14	Ζαρέτ	Ζαρέτ	place/stream name, accusative after φάραγγα	1	Zaret
 DEU 2:14	1	1	Καὶ	καί	conjunction	1	and
-DEU 2:14	1	2	αἱ	ὁ	definite article	1	the
+DEU 2:14	1	2	αἱ	ὁ	article nominative feminine plural	1	the
 DEU 2:14	1	3	ἡμέραι	ἡμέρα	noun, nominative fem. pl. after αἱ, in apposition	1	days
 DEU 2:14	1	4	ἃς	ὅς	relative pronoun, accusative fem. pl.	1	which
 DEU 2:14	1	5	παρεπορεύθημεν	παραπορεύομαι	aorist passive indicative, 1st pl.	1	we came
@@ -312,7 +312,7 @@ DEU 2:14	1	26	πολεμιστῶν	πολεμιστής	noun, genitive masculin
 DEU 2:14	1	27	ἀποθνήσκοντες	ἀποθνῄσκω	present active participle, nominative masc. pl. periphrastic	1	in dying
 DEU 2:14	1	28	ἐκ	ἐκ	preposition with the genitive	1	from
 DEU 2:14	1	29	μέσου	μέσος	noun, genitive neuter singular	1	midst
-DEU 2:14	1	30	τῆς	ὁ	definite article	1	the
+DEU 2:14	1	30	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 2:14	1	31	παρεμβολῆς	παρεμβολή	noun, genitive fem. sg. after τῆς	1	camp
 DEU 2:14	1	32	καθότι	καθότι	conjunction, just as/according as	1	even as
 DEU 2:14	1	33	ὤμοσε	ὀμνύω	aorist active indicative, 3rd sg.	1	sware
@@ -325,12 +325,12 @@ DEU 2:15	1	4	Κυρίου	κύριος	noun, genitive masculine singular	1	of th
 DEU 2:15	1	5	ἦν	εἰμί	imperfect indicative, 3rd sg.	1	was
 DEU 2:15	1	6	ἐπ᾽	ἐπί	preposition ἐπί, elided, with the dative	1	on
 DEU 2:15	1	7	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
-DEU 2:15	1	8	τοῦ	ὁ	definite article	1	the
+DEU 2:15	1	8	τοῦ	ὁ	article genitive neuter singular	1	the
 DEU 2:15	1	9	ἐξαναλῶσαι	ἐξαναλίσκω	aorist active infinitive after τοῦ purpose, to consume/destroy	1	to destroy
 DEU 2:15	1	10	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 DEU 2:15	1	11	ἐκ	ἐκ	preposition with the genitive	1	from
 DEU 2:15	1	12	μέσου	μέσος	noun, genitive neuter singular	1	midst
-DEU 2:15	1	13	τῆς	ὁ	definite article	1	the
+DEU 2:15	1	13	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 2:15	1	14	παρεμβολῆς	παρεμβολή	noun, genitive fem. sg. after τῆς	1	camp
 DEU 2:15	1	15	ἕως	ἕως	preposition with the genitive	1	until
 DEU 2:15	1	16	οὗ	οὗ	relative adverb	1	when
@@ -347,7 +347,7 @@ DEU 2:16	1	9	πολεμισταὶ	πολεμιστής	noun, nominative masc. p
 DEU 2:16	1	10	ἀποθνήσκοντες	ἀποθνῄσκω	present active participle, nominative masc. pl. periphrastic	1	in dying
 DEU 2:16	1	11	ἐκ	ἐκ	preposition with the genitive	1	from
 DEU 2:16	1	12	μέσου	μέσος	noun, genitive neuter singular	1	midst
-DEU 2:16	1	13	τοῦ	ὁ	definite article	1	the
+DEU 2:16	1	13	τοῦ	ὁ	article genitive masculine singular	1	the
 DEU 2:16	1	14	λαοῦ	λαός	noun, genitive masculine singular	1	people
 DEU 2:17	1	1	καὶ	καί	conjunction	1	and
 DEU 2:17	1	2	ἐλάλησε	λαλέω	aorist active indicative, 3rd sg.	1	spoke
@@ -382,7 +382,7 @@ DEU 2:19	1	16	γὰρ	γάρ	causal particle	1	for
 DEU 2:19	1	17	μὴ	μή	negative particle	1	not
 DEU 2:19	1	18	δῶ	δίδωμι	aorist active subjunctive, 1st sg. after οὐ ... μή	1	I will give
 DEU 2:19	1	19	ἀπὸ	ἀπό	preposition with genitive, from/at	1	from
-DEU 2:19	1	20	τῆς	ὁ	definite article	1	the
+DEU 2:19	1	20	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 2:19	1	21	γῆς	γῆ	noun, genitive feminine singular	1	land
 DEU 2:19	1	22	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 DEU 2:19	1	23	Ἀμμάν	Ἀμμάν	people/ancestor name, genitive plural in υἱῶν Ἀμμάν	1	of Ammon
@@ -390,7 +390,7 @@ DEU 2:19	1	24	σοι	σύ	pronoun, dative 2nd sg.	1	before you
 DEU 2:19	1	25	ἐν	ἐν	preposition with the dative	1	in
 DEU 2:19	1	26	κλήρῳ	κλῆρος	noun, dative masculine singular	1	inheritance
 DEU 2:19	1	27	ὅτι	ὅτι	causal conjunction	1	for
-DEU 2:19	1	28	τοῖς	ὁ	definite article	1	the
+DEU 2:19	1	28	τοῖς	ὁ	article dative masculine plural	1	the
 DEU 2:19	1	29	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 DEU 2:19	1	30	Λὼτ	Λώτ	personal name, genitive singular after υἱοῖς	1	of Lot
 DEU 2:19	1	31	δέδωκα	δίδωμι	perfect active indicative, 1st sg.	1	I have given
@@ -438,22 +438,22 @@ DEU 2:21	1	21	κατῳκίσθησαν	κατοικίζω	aorist passive indica
 DEU 2:21	1	22	ἀντ᾽	ἀντί	preposition ἀντί, elided	1	in place of
 DEU 2:21	1	23	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 DEU 2:21	1	24	ἕως	ἕως	preposition with the genitive	1	until
-DEU 2:21	1	25	τῆς	ὁ	definite article	1	the
+DEU 2:21	1	25	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 2:21	1	26	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
 DEU 2:21	1	27	ταύτης	οὗτος	demonstrative adjective, genitive fem. sg.	1	this
 DEU 2:22	1	1	ὥσπερ	ὥσπερ	comparative conjunction, even as	1	like
 DEU 2:22	1	2	ἐποίησε	ποιέω	aorist active indicative, third singular, made/held	1	did
-DEU 2:22	1	3	τοῖς	ὁ	definite article	1	the
+DEU 2:22	1	3	τοῖς	ὁ	article dative masculine plural	1	the
 DEU 2:22	1	4	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 DEU 2:22	1	5	Ἡσαῦ	Ἠσαῦ	personal name, genitive singular after υἱῶν/υἱοῖς	1	of Esau
-DEU 2:22	1	6	τοῖς	ὁ	definite article	1	the
+DEU 2:22	1	6	τοῖς	ὁ	article dative plural	1	the
 DEU 2:22	1	7	κατοικοῦσιν	κατοικέω	present active indicative, 3rd pl.	1	dwell
 DEU 2:22	1	8	ἐν	ἐν	preposition with the dative	1	in
 DEU 2:22	1	9	Σηεὶρ	Σηείρ	place name, dative after ἐν	1	Seir
 DEU 2:22	1	10	ὃν	ὅς	relative pronoun, accusative masc. sg. with τρόπον	1	as
 DEU 2:22	1	11	τρόπον	τρόπος	noun, accusative masculine singular	1	in the manner
 DEU 2:22	1	12	ἐξέτριψε	ἐκτρίβω	aorist active indicative, 3rd sg.	1	he destroyed
-DEU 2:22	1	13	τὸν	ὁ	definite article	1	the
+DEU 2:22	1	13	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 2:22	1	14	Χοῤῥαῖον	Χοῤῥαῖος	ethnic noun, accusative masc. sg. after τὸν collective	1	Horite
 DEU 2:22	1	15	ἀπὸ	ἀπό	preposition with genitive, from/at	1	from
 DEU 2:22	1	16	προσώπου	πρόσωπον	noun, genitive neuter singular	1	face
@@ -466,7 +466,7 @@ DEU 2:22	1	22	κατῳκίσθησαν	κατοικίζω	aorist passive indica
 DEU 2:22	1	23	ἀντ᾽	ἀντί	preposition ἀντί, elided	1	in place of
 DEU 2:22	1	24	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 DEU 2:22	1	25	ἕως	ἕως	preposition with the genitive	1	until
-DEU 2:22	1	26	τῆς	ὁ	definite article	1	the
+DEU 2:22	1	26	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 2:22	1	27	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
 DEU 2:22	1	28	ταύτης	οὗτος	demonstrative adjective, genitive fem. sg.	1	this
 DEU 2:23	1	1	Καὶ	καί	conjunction	1	and
@@ -504,14 +504,14 @@ DEU 2:24	1	10	Ἀρνῶν	Ἀρνών	river name, genitive after φάραγγα
 DEU 2:24	1	11	Ἰδοὺ	ἰδού	interjection	1	behold
 DEU 2:24	1	12	παραδέδωκα	παραδίδωμι	perfect active indicative, 1st sg.	1	I have given
 DEU 2:24	1	13	εἰς	εἰς	preposition with the accusative	1	into
-DEU 2:24	1	14	τὰς	ὁ	definite article	1	the
+DEU 2:24	1	14	τὰς	ὁ	article accusative feminine plural	1	the
 DEU 2:24	1	15	χεῖράς	χείρ	noun, accusative feminine plural after τὰς	1	hands
 DEU 2:24	1	16	σου	σύ	pronoun, possessive genitive second singular	1	your
-DEU 2:24	1	17	τὸν	ὁ	definite article	1	the
+DEU 2:24	1	17	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 2:24	1	18	Σηὼν	Σηών	personal name, accusative after τὸν	1	Seon
 DEU 2:24	1	19	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	a king
 DEU 2:24	1	20	Ἐσεβὼν	Ἐσεβών	place name, genitive	1	Esebon
-DEU 2:24	1	21	τὸν	ὁ	definite article	1	the
+DEU 2:24	1	21	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 2:24	1	22	Ἀμοῤῥαῖον	Ἀμοῤῥαῖος	ethnic adjective, accusative masc. sg. after τὸν in apposition	1	Amorite
 DEU 2:24	1	23	καὶ	καί	conjunction	1	and
 DEU 2:24	1	24	τὴν	ὁ	article, accusative fem. sg.	1	the
@@ -524,27 +524,27 @@ DEU 2:24	1	30	πρὸς	πρός	preposition with the accusative	1	to
 DEU 2:24	1	31	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 DEU 2:24	1	32	πόλεμον	πόλεμος	noun, accusative masc. sg. with συνάψω construction	1	war
 DEU 2:25	1	1	Ἐν	ἐν	preposition with the dative	1	in
-DEU 2:25	1	2	τῇ	ὁ	definite article	1	the
+DEU 2:25	1	2	τῇ	ὁ	article dative feminine singular	1	the
 DEU 2:25	1	3	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular, in apposition	1	day
 DEU 2:25	1	4	ταύτῃ	οὗτος	demonstrative adjective, dative fem. sg.	1	this
 DEU 2:25	1	5	ἐνάρχου	ἐνάρχομαι	present middle imperative, 2nd sg.	1	begin
 DEU 2:25	1	6	δοῦναι	δίδωμι	aorist active infinitive after ἐνάρχου	1	to put
-DEU 2:25	1	7	τὸν	ὁ	definite article	1	the
+DEU 2:25	1	7	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 2:25	1	8	τρόμον	τρόμος	noun, accusative masc. sg. after τὸν, trembling/dread	1	dread
 DEU 2:25	1	9	σου	σύ	pronoun, possessive genitive second singular	1	your
 DEU 2:25	1	10	καὶ	καί	conjunction	1	and
-DEU 2:25	1	11	τὸν	ὁ	definite article	1	the
+DEU 2:25	1	11	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 2:25	1	12	φόβον	φόβος	noun, accusative masc. sg.	1	fear
 DEU 2:25	1	13	σου	σύ	pronoun, possessive genitive second singular	1	your
 DEU 2:25	1	14	ἐπὶ	ἐπί	preposition	1	on
 DEU 2:25	1	15	πρόσωπον	πρόσωπον	noun, accusative neut. sg., person/face	1	persons
 DEU 2:25	1	16	πάντων	πᾶς	adjective, genitive neut. pl. with ἐθνῶν	1	all
-DEU 2:25	1	17	τῶν	ὁ	definite article	1	the
+DEU 2:25	1	17	τῶν	ὁ	article genitive neuter plural	1	the
 DEU 2:25	1	18	ἐθνῶν	ἔθνος	noun, genitive neut. pl. after τῶν	1	nations
-DEU 2:25	1	19	τῶν	ὁ	definite article	1	the
+DEU 2:25	1	19	τῶν	ὁ	article genitive plural	1	the
 DEU 2:25	1	20	ὑποκάτω	ὑποκάτω	adverb/preposition with genitive, under	1	under
 DEU 2:25	1	21	παντὸς	πᾶς	adjective, genitive masc. sg. with οὐρανοῦ	1	all
-DEU 2:25	1	22	τοῦ	ὁ	definite article	1	the
+DEU 2:25	1	22	τοῦ	ὁ	article genitive masculine singular	1	the
 DEU 2:25	1	23	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
 DEU 2:25	1	24	οἵτινες	ὅστις	relative pronoun, nominative masc. pl.	1	who
 DEU 2:25	1	25	ἀκούσαντες	ἀκούω	aorist active participle, nominative masc. pl.	1	hear
@@ -562,7 +562,7 @@ DEU 2:26	1	1	Καὶ	καί	conjunction	1	and
 DEU 2:26	1	2	ἀπέστειλα	ἀποστέλλω	aorist active indicative, 1st sg.	1	I sent
 DEU 2:26	1	3	πρέσβεις	πρέσβυς	noun, accusative masc. pl.	1	messengers
 DEU 2:26	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
-DEU 2:26	1	5	τῆς	ὁ	definite article	1	the
+DEU 2:26	1	5	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 2:26	1	6	ἐρήμου	ἔρημος	noun, genitive feminine singular	1	desert
 DEU 2:26	1	7	Κεδμὼθ	Κεδμώθ	place name, genitive after ἐκ τῆς ἐρήμου epithet	1	Kedmoth
 DEU 2:26	1	8	πρὸς	πρός	preposition with the accusative	1	to
@@ -574,11 +574,11 @@ DEU 2:26	1	13	εἰρηνικοῖς	εἰρηνικός	adjective, dative masc.
 DEU 2:26	1	14	λέγων	λέγω	present active participle, nominative masc. sg.	1	saying
 DEU 2:27	1	1	παρελεύσομαι	παρέρχομαι	future middle indicative, 1st sg.	1	I will pass through
 DEU 2:27	1	2	διὰ	διά	preposition with genitive, through	1	through
-DEU 2:27	1	3	τῆς	ὁ	definite article	1	the
+DEU 2:27	1	3	τῆς	ὁ	article genitive feminine singular	1	the
 DEU 2:27	1	4	γῆς	γῆ	noun, genitive feminine singular	1	land
 DEU 2:27	1	5	σου	σύ	pronoun, possessive genitive second singular	1	your
 DEU 2:27	1	6	ἐν	ἐν	preposition with the dative	1	in
-DEU 2:27	1	7	τῇ	ὁ	definite article	1	the
+DEU 2:27	1	7	τῇ	ὁ	article dative feminine singular	1	the
 DEU 2:27	1	8	ὁδῷ	ὁδός	noun, dative feminine singular	1	way
 DEU 2:27	1	9	πορεύσομαι	πορεύομαι	future middle indicative, 1st sg.	1	I will go
 DEU 2:27	1	10	οὐκ	οὐ	negative adverb	1	not
@@ -602,7 +602,7 @@ DEU 2:28	1	13	πίομαι	πίνω	future middle indicative first singular	1	I 
 DEU 2:28	1	14	πλὴν	πλήν	conjunction/adverb, only/except that	1	only
 DEU 2:28	1	15	ὅτι	ὅτι	conjunction after πλὴν	1	that
 DEU 2:28	1	16	παρελεύσομαι	παρέρχομαι	future middle indicative, 1st sg.	1	I will pass through
-DEU 2:28	1	17	τοῖς	ὁ	definite article	1	the
+DEU 2:28	1	17	τοῖς	ὁ	article dative masculine plural	1	the
 DEU 2:28	1	18	ποσίμου	πούς + ἐγώ	dative masculine plural noun with genitive first singular enclitic, indexed together	1	my feet
 DEU 2:29	1	1	καθὼς	καθώς	conjunction	1	as
 DEU 2:29	1	2	ἐποίησάν	ποιέω	aorist active indicative, 3rd pl.	1	did
@@ -624,14 +624,14 @@ DEU 2:29	1	17	Ἀροὴρ	Ἀροήρ	place name, accusative after τὴν	1	Ar
 DEU 2:29	1	18	ἕως	ἕως	preposition with the genitive	1	until
 DEU 2:29	1	19	ἂν	ἄν	modal particle with the subjunctive	1	ever
 DEU 2:29	1	20	παρέλθω	παρέρχομαι	aorist active subjunctive, 1st sg. after ἕως ἂν	1	I pass over
-DEU 2:29	1	21	τὸν	ὁ	definite article	1	the
+DEU 2:29	1	21	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 2:29	1	22	Ἰορδάνην	Ἰορδάνης	river name, accusative masc. sg. after τὸν	1	Jordan
 DEU 2:29	1	23	εἰς	εἰς	preposition with the accusative	1	into
 DEU 2:29	1	24	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 2:29	1	25	γῆν	γῆ	noun, accusative feminine singular	1	land
 DEU 2:29	1	26	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
 DEU 2:29	1	27	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 2:29	1	28	ὁ	ὁ	definite article	1	the
+DEU 2:29	1	28	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 2:29	1	29	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
 DEU 2:29	1	30	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 2:29	1	31	δίδωσιν	δίδωμι	present active indicative, 3rd sg.	1	is giving
@@ -649,7 +649,7 @@ DEU 2:30	1	10	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	hi
 DEU 2:30	1	11	ὅτι	ὅτι	causal conjunction	1	for
 DEU 2:30	1	12	ἐσκλήρυνε	σκληρύνω	aorist active indicative, third singular transitive	1	hardened
 DEU 2:30	1	13	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 2:30	1	14	ὁ	ὁ	definite article	1	the
+DEU 2:30	1	14	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 2:30	1	15	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
 DEU 2:30	1	16	ὑμῶν	σύ	pronoun, genitive 2nd pl.	1	your
 DEU 2:30	1	17	τὸ	ὁ	definite article, nominative/accusative neuter singular	1	the
@@ -663,12 +663,12 @@ DEU 2:30	1	24	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	hi
 DEU 2:30	1	25	ἵνα	ἵνα	conjunction	1	so that
 DEU 2:30	1	26	παραδοθῇ	παραδίδωμι	aorist passive subjunctive, 3rd sg. after ἵνα	1	he might be delivered
 DEU 2:30	1	27	εἰς	εἰς	preposition with the accusative	1	into
-DEU 2:30	1	28	τὰς	ὁ	definite article	1	the
+DEU 2:30	1	28	τὰς	ὁ	article accusative feminine plural	1	the
 DEU 2:30	1	29	χεῖράς	χείρ	noun, accusative feminine plural after τὰς	1	hands
 DEU 2:30	1	30	σου	σύ	pronoun, possessive genitive second singular	1	your
 DEU 2:30	1	31	ὡς	ὡς	comparative/relative particle, as	1	as
 DEU 2:30	1	32	ἐν	ἐν	preposition with the dative	1	in
-DEU 2:30	1	33	τῇ	ὁ	definite article	1	the
+DEU 2:30	1	33	τῇ	ὁ	article dative feminine singular	1	the
 DEU 2:30	1	34	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 DEU 2:30	1	35	ταύτῃ	οὗτος	demonstrative adjective, dative fem. sg.	1	this
 DEU 2:31	1	1	Καὶ	καί	conjunction	1	and
@@ -682,11 +682,11 @@ DEU 2:31	1	8	παραδοῦναι	παραδίδωμι	aorist active infinitive
 DEU 2:31	1	9	πρὸ	πρό	preposition with genitive	1	before
 DEU 2:31	1	10	προσώπου	πρόσωπον	noun, genitive neuter singular	1	face
 DEU 2:31	1	11	σου	σύ	pronoun, possessive genitive second singular	1	your
-DEU 2:31	1	12	τὸν	ὁ	definite article	1	the
+DEU 2:31	1	12	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 2:31	1	13	Σηὼν	Σηών	personal name, accusative after τὸν	1	Seon
 DEU 2:31	1	14	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	a king
 DEU 2:31	1	15	Ἐσεβὼν	Ἐσεβών	place name, genitive	1	Esebon
-DEU 2:31	1	16	τὸν	ὁ	definite article	1	the
+DEU 2:31	1	16	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 2:31	1	17	Ἀμοῤῥαῖον	Ἀμοῤῥαῖος	ethnic adjective, accusative masc. sg. after τὸν in apposition	1	Amorite
 DEU 2:31	1	18	καὶ	καί	conjunction	1	and
 DEU 2:31	1	19	τὴν	ὁ	article, accusative fem. sg.	1	the
@@ -708,7 +708,7 @@ DEU 2:32	1	8	ἡμῖν	ἐγώ	pronoun, dative 1st pl.	1	us
 DEU 2:32	1	9	αὐτὸς	αὐτός	pronoun, nominative masc. sg. intensive, he himself	1	he
 DEU 2:32	1	10	καὶ	καί	conjunction	1	and
 DEU 2:32	1	11	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
-DEU 2:32	1	12	ὁ	ὁ	definite article	1	the
+DEU 2:32	1	12	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 2:32	1	13	λαὸς	λαός	noun, nominative masculine singular	1	people
 DEU 2:32	1	14	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 2:32	1	15	εἰς	εἰς	preposition with the accusative	1	into
@@ -719,7 +719,7 @@ DEU 2:33	1	1	Καὶ	καί	conjunction	1	and
 DEU 2:33	1	2	παρέδωκεν	παραδίδωμι	aorist active indicative, 3rd sg.	1	delivered
 DEU 2:33	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 DEU 2:33	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 2:33	1	5	ὁ	ὁ	definite article	1	the
+DEU 2:33	1	5	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 2:33	1	6	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
 DEU 2:33	1	7	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 2:33	1	8	πρὸ	πρό	preposition with genitive	1	before
@@ -729,22 +729,22 @@ DEU 2:33	1	11	καὶ	καί	conjunction	1	and
 DEU 2:33	1	12	ἐπατάξαμεν	πατάσσω	aorist active indicative, 1st pl.	1	we smote
 DEU 2:33	1	13	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 DEU 2:33	1	14	καὶ	καί	conjunction	1	and
-DEU 2:33	1	15	τοὺς	ὁ	definite article	1	the
+DEU 2:33	1	15	τοὺς	ὁ	article accusative masculine plural	1	the
 DEU 2:33	1	16	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
 DEU 2:33	1	17	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 2:33	1	18	καὶ	καί	conjunction	1	and
 DEU 2:33	1	19	πάντα	πᾶς	adjective, accusative neut. pl.	1	all
-DEU 2:33	1	20	τὸν	ὁ	definite article	1	the
+DEU 2:33	1	20	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 2:33	1	21	λαὸν	λαός	noun, accusative masculine singular	1	people
 DEU 2:33	1	22	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 2:34	1	1	καὶ	καί	conjunction	1	and
 DEU 2:34	1	2	ἐκρατήσαμεν	κρατέω	aorist active indicative, 1st pl.	1	we took
 DEU 2:34	1	3	πασῶν	πᾶς	adjective, genitive fem. pl. with πόλεων	1	all
-DEU 2:34	1	4	τῶν	ὁ	definite article	1	the
+DEU 2:34	1	4	τῶν	ὁ	article genitive feminine plural	1	the
 DEU 2:34	1	5	πόλεων	πόλις	noun, genitive fem. pl. after τῶν	1	cities
 DEU 2:34	1	6	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 2:34	1	7	ἐν	ἐν	preposition with the dative	1	in
-DEU 2:34	1	8	τῷ	ὁ	definite article	1	the
+DEU 2:34	1	8	τῷ	ὁ	article dative masculine singular	1	the
 DEU 2:34	1	9	καιρῷ	καιρός	noun, dative masc. sg. after ἐν τῷ	1	time
 DEU 2:34	1	10	ἐκείνῳ	ἐκεῖνος	demonstrative adjective, dative masc. sg.	1	that
 DEU 2:34	1	11	καὶ	καί	conjunction	1	and
@@ -753,7 +753,7 @@ DEU 2:34	1	13	πᾶσαν	πᾶς	adjective, accusative fem. sg.	1	every
 DEU 2:34	1	14	πόλιν	πόλις	noun, accusative fem. sg.	1	city
 DEU 2:34	1	15	ἑξῆς	ἑξῆς	adverb	1	one after another
 DEU 2:34	1	16	καὶ	καί	conjunction	1	and
-DEU 2:34	1	17	τὰς	ὁ	definite article	1	the
+DEU 2:34	1	17	τὰς	ὁ	article accusative feminine plural	1	the
 DEU 2:34	1	18	γυναῖκας	γυνή	noun, accusative fem. pl.	1	women
 DEU 2:34	1	19	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 DEU 2:34	1	20	καὶ	καί	conjunction	1	and
@@ -771,7 +771,7 @@ DEU 2:35	1	5	αὐτοῖς	αὐτός	pronoun, dative masculine plural, reflex
 DEU 2:35	1	6	καὶ	καί	conjunction	1	and
 DEU 2:35	1	7	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 DEU 2:35	1	8	σκῦλα	σκῦλον	noun, accusative neut. pl. after τὰ	1	spoil
-DEU 2:35	1	9	τῶν	ὁ	definite article	1	the
+DEU 2:35	1	9	τῶν	ὁ	article genitive feminine plural	1	the
 DEU 2:35	1	10	πόλεων	πόλις	noun, genitive fem. pl. after τῶν	1	cities
 DEU 2:35	1	11	ἐλάβομεν	λαμβάνω	aorist active indicative, 1st pl.	1	we took
 DEU 2:36	1	1	Ἀπὸ	ἀπό	preposition with genitive, from/at	1	from
@@ -789,12 +789,12 @@ DEU 2:36	1	12	πόλιν	πόλις	noun, accusative fem. sg.	1	city
 DEU 2:36	1	13	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 2:36	1	14	οὖσαν	εἰμί	present active participle, accusative fem. sg. with πόλιν τὴν, being/situate	1	that is
 DEU 2:36	1	15	ἐν	ἐν	preposition with the dative	1	in
-DEU 2:36	1	16	τῇ	ὁ	definite article	1	the
+DEU 2:36	1	16	τῇ	ὁ	article dative feminine singular	1	the
 DEU 2:36	1	17	φάραγγι	φάραγξ	noun, dative fem. sg. after ἐν τῇ	1	valley
 DEU 2:36	1	18	καὶ	καί	conjunction	1	and
 DEU 2:36	1	19	ἕως	ἕως	preposition with the genitive	1	as far as
 DEU 2:36	1	20	ὄρους	ὄρος	noun, genitive neut. sg. after ἕως	1	the mount
-DEU 2:36	1	21	τοῦ	ὁ	definite article	1	the
+DEU 2:36	1	21	τοῦ	ὁ	article genitive singular	1	the
 DEU 2:36	1	22	Γαλαὰδ	Γαλαάδ	place name, genitive after τοῦ with ὄρους	1	Galaad
 DEU 2:36	1	23	οὐκ	οὐ	negative adverb	1	not
 DEU 2:36	1	24	ἦν	εἰμί	imperfect indicative, 3rd sg.	1	was
@@ -802,15 +802,15 @@ DEU 2:36	1	25	πόλις	πόλις	noun, nominative fem. sg.	1	city
 DEU 2:36	1	26	ἥτις	ὅστις	relative pronoun, nominative fem. sg.	1	that
 DEU 2:36	1	27	διέφυγεν	διαφεύγω	aorist active indicative, 3rd sg.	1	escaped
 DEU 2:36	1	28	ἡμᾶς	ἐγώ	pronoun, accusative 1st pl.	1	us
-DEU 2:36	1	29	τὰς	ὁ	definite article	1	the
+DEU 2:36	1	29	τὰς	ὁ	article accusative feminine plural	1	the
 DEU 2:36	1	30	πάσας	πᾶς	adjective, accusative fem. pl. with	1	all
 DEU 2:36	1	31	παρέδωκε	παραδίδωμι	aorist active indicative, 3rd sg.	1	delivered
 DEU 2:36	1	32	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 2:36	1	33	ὁ	ὁ	definite article	1	the
+DEU 2:36	1	33	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 2:36	1	34	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
 DEU 2:36	1	35	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 2:36	1	36	εἰς	εἰς	preposition with the accusative	1	into
-DEU 2:36	1	37	τὰς	ὁ	definite article	1	the
+DEU 2:36	1	37	τὰς	ὁ	article accusative feminine plural	1	the
 DEU 2:36	1	38	χεῖρας	χείρ	noun, accusative fem. pl.	1	hands
 DEU 2:36	1	39	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 2:37	1	1	Πλὴν	πλήν	conjunction/adverb, only/except that	1	only
@@ -826,16 +826,16 @@ DEU 2:37	1	10	συγκυροῦντα	συγκυρέω	present active participle
 DEU 2:37	1	11	χειμάῤῥῳ	χειμάῤῥους	noun, dative masc. sg.	1	torrent
 DEU 2:37	1	12	Ἰαβὸκ	Ἰαβόκ	river name, genitive after χειμάῤῥῳ dative government	1	Iabok
 DEU 2:37	1	13	καὶ	καί	conjunction	1	and
-DEU 2:37	1	14	τὰς	ὁ	definite article	1	the
+DEU 2:37	1	14	τὰς	ὁ	article accusative feminine plural	1	the
 DEU 2:37	1	15	πόλεις	πόλις	noun, accusative feminine plural	1	cities
-DEU 2:37	1	16	τὰς	ὁ	definite article	1	the
+DEU 2:37	1	16	τὰς	ὁ	article accusative feminine plural	1	the
 DEU 2:37	1	17	ἐν	ἐν	preposition with the dative	1	in
-DEU 2:37	1	18	τῇ	ὁ	definite article	1	the
+DEU 2:37	1	18	τῇ	ὁ	article dative feminine singular	1	the
 DEU 2:37	1	19	ὀρεινῇ	ὀρεινός	adjective/noun, dative fem. sg. after τῇ	1	hill country
 DEU 2:37	1	20	καθότι	καθότι	conjunction, just as/according as	1	even as
 DEU 2:37	1	21	ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, 3rd sg.	1	had commanded
 DEU 2:37	1	22	ἡμῖν	ἐγώ	pronoun, dative 1st pl.	1	us
 DEU 2:37	1	23	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 2:37	1	24	ὁ	ὁ	definite article	1	the
+DEU 2:37	1	24	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 2:37	1	25	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
 DEU 2:37	1	26	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
