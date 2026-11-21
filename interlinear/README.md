@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 741 chapters below have 405,184 indexed words and 438,534 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 747 chapters below have 407,935 indexed words and 441,503 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -429,6 +429,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Job 1](JOB-001.tsv) | 630 | 649 |
 | [Job 2](JOB-002.tsv) | 424 | 452 |
 | [Job 3](JOB-003.tsv) | 319 | 333 |
+| [Job 4](JOB-004.tsv) | 278 | 284 |
+| [Job 5](JOB-005.tsv) | 380 | 391 |
+| [Job 6](JOB-006.tsv) | 387 | 408 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
@@ -678,6 +681,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Jeremiah 28](JER-028.tsv) | 1381 | 1677 |
 | [Jeremiah 29](JER-029.tsv) | 535 | 643 |
 | [Jeremiah 30](JER-030.tsv) | 381 | 467 |
+| [Jeremiah 31](JER-031.tsv) | 839 | 1019 |
+| [Ezekiel 1](EZK-001.tsv) | 637 | 637 |
+| [Ezekiel 2](EZK-002.tsv) | 230 | 230 |
 | [Hosea 1](HOS-001.tsv) | 268 | 315 |
 | [Hosea 2](HOS-002.tsv) | 579 | 674 |
 | [Hosea 3](HOS-003.tsv) | 120 | 143 |
