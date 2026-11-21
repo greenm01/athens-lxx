@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 734 chapters below have 401,177 indexed words and 434,349 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 738 chapters below have 402,806 indexed words and 436,039 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -190,6 +190,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Deuteronomy 31](DEU-031.tsv) | 901 | 901 |
 | [Deuteronomy 32](DEU-032.tsv) | 1011 | 1011 |
 | [Deuteronomy 33](DEU-033.tsv) | 561 | 561 |
+| [Deuteronomy 34](DEU-034.tsv) | 256 | 256 |
 | [Joshua 1](JOS-001.tsv) | 478 | 498 |
 | [Joshua 2](JOS-002.tsv) | 673 | 700 |
 | [Joshua 3](JOS-003.tsv) | 467 | 484 |
@@ -422,6 +423,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Nehemiah 4](NEH-004.tsv) | 537 | 568 |
 | [Nehemiah 5](NEH-005.tsv) | 507 | 536 |
 | [Nehemiah 6](NEH-006.tsv) | 448 | 472 |
+| [Job 1](JOB-001.tsv) | 630 | 649 |
+| [Job 2](JOB-002.tsv) | 424 | 452 |
+| [Job 3](JOB-003.tsv) | 319 | 333 |
 | [Psalm 1](PSA-001.tsv) | 111 | 118 |
 | [Psalm 2](PSA-002.tsv) | 164 | 166 |
 | [Psalm 3](PSA-003.tsv) | 111 | 117 |
