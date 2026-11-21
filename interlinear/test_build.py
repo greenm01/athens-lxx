@@ -40,6 +40,7 @@ class WordCitations(unittest.TestCase):
             ("AMO 7", 357),
             ("AMO 8", 297),
             ("AMO 9", 430),
+            ("DEU 1", 1014),
             ("EXO 1", 377),
             ("EXO 2", 552),
             ("EXO 3", 601),
