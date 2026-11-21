@@ -2,13 +2,15 @@
 
 The SQLite database stores one optional decimal-text Strong’s identifier per Athens word analysis. The final column of the interlinear view exposes it for every English preference. Use the analysis table to count words once.
 
-## Release v0.5.1
+## Current source coverage
 
 | Review state | Lemmas | Word positions |
 | --- | ---: | ---: |
-| Assigned | 102 | 392,584 |
-| Pending | 14,686 | 207,913 |
-| Reviewed without a number | 0 | 0 |
+| Assigned | 463 | 478,015 |
+| Pending | 14,289 | 119,895 |
+| Reviewed without a number | 37 | 2,587 |
+
+Lemma counts can overlap when different occurrences of a lemma have different outcomes. For example, Λίβανος receives G3030 in the four passages where it denotes frankincense. Its place-name occurrences are recorded without that identifier.
 
 A decision identifies the reviewed Greek lemma, including its inflected occurrences. Historical concordances sometimes assign a separate identifier to an inflected form. Cross-edition searches match the identifiers each edition actually supplies.
 
