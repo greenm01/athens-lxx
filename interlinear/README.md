@@ -1,6 +1,6 @@
 # Reading the Athens interlinear
 
-The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 701 chapters below have 387,504 indexed words and 419,623 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
+The Greek comes from the 53 files in the [published transcription](../text/). All 600,497 word occurrences are indexed. The 706 chapters below have 389,212 indexed words and 421,374 English glosses, counting alternatives. For a first reading, choose preference 1. Elsewhere an empty gloss means that the English is still to come.
 
 | Athens passage | Greek words | English glosses |
 | --- | ---: | ---: |
@@ -186,6 +186,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Deuteronomy 27](DEU-027.tsv) | 479 | 479 |
 | [Deuteronomy 28](DEU-028.tsv) | 1752 | 1752 |
 | [Deuteronomy 29](DEU-029.tsv) | 743 | 743 |
+| [Deuteronomy 30](DEU-030.tsv) | 622 | 622 |
 | [Joshua 1](JOS-001.tsv) | 478 | 498 |
 | [Joshua 2](JOS-002.tsv) | 673 | 700 |
 | [Joshua 3](JOS-003.tsv) | 467 | 484 |
@@ -504,6 +505,7 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Psalm 90](PSA-090.tsv) | 205 | 206 |
 | [Psalm 91](PSA-091.tsv) | 199 | 200 |
 | [Psalm 92](PSA-092.tsv) | 84 | 84 |
+| [Psalm 93](PSA-093.tsv) | 270 | 271 |
 | [Psalm 116](PSA-116.tsv) | 29 | 35 |
 | [Psalm 133](PSA-133.tsv) | 48 | 54 |
 | [Proverbs 1](PRO-001.tsv) | 426 | 449 |
@@ -546,6 +548,9 @@ The Greek comes from the 53 files in the [published transcription](../text/). Al
 | [Ecclesiastes 7](ECC-007.tsv) | 532 | 548 |
 | [Ecclesiastes 8](ECC-008.tsv) | 399 | 415 |
 | [Ecclesiastes 9](ECC-009.tsv) | 496 | 520 |
+| [Ecclesiastes 10](ECC-010.tsv) | 300 | 322 |
+| [Ecclesiastes 11](ECC-011.tsv) | 223 | 227 |
+| [Ecclesiastes 12](ECC-012.tsv) | 293 | 309 |
 | [Isaiah 1](ISA-001.tsv) | 599 | 749 |
 | [Isaiah 2](ISA-002.tsv) | 457 | 551 |
 | [Isaiah 3](ISA-003.tsv) | 503 | 616 |
