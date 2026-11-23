@@ -1242,3 +1242,5 @@ WHERE head.position = g.governor_position AND dependent.position = g.complement_
 The morphological concordance retains the recorded grammar and exposes part of speech, case, gender, number, tense, voice, mood, verb form, and person where the description supports extraction. A blank feature can mean it is inapplicable, ambiguous, or unparsed. The governed-phrase table contains three reviewed relationships in Genesis 1:1–2, including the dative governed by ἐν. The case belongs to the complement. [ABP study guide, pp. 14–16](https://www.apostolicbible.com/studyguide.pdf#page=14)
 
 Genesis 1:4 illustrates how to extend the numbering across editions. The Polyglot prints 303.1 for an expression this edition writes as two words, ἀνὰ μέσον. Both occurrences are recorded by their full spans in `ab_strong_phrase`. Further assignments require checking the Greek wording and position in this edition. [Genesis comparison text](https://biblehub.com/interlinear/apostolic/genesis/1.htm)
+
+[Genesis 1:1–10 English gloss review against the Apostolic Bible Polyglot](abp-genesis-gloss-review.md)
