@@ -1,5 +1,6 @@
 """Build an independent SQLite interlinear from the published Athens transcription."""
 
+from study_morphology import build_morphology
 import argparse
 import csv
 import hashlib
@@ -215,6 +216,8 @@ def build(db):
     apply_strongs(db, ROOT / "interlinear/strongs")
     db.execute("CREATE INDEX analysis_strong ON analysis(strong) WHERE strong IS NOT NULL")
     db.execute("CREATE INDEX gloss_english ON gloss(english)")
+    db.executescript((ROOT / "interlinear/lexical-tools.sql").read_text(encoding="utf-8"))
+    build_morphology(db)
 
 
 def main():

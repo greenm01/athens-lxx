@@ -1200,3 +1200,45 @@ python3 -I interlinear/suggest.py build/athens.sqlite /path/to/morpheus 'PSA 22:
 ```
 
 The original English glosses and editorial analyses share the project’s [CC0 dedication](../LICENSE).
+
+## Lexical study in SQLite
+
+The local database build includes three lookups. The concordance gives the verse and word position for each occurrence of a Greek lemma. The English–Greek index searches whole editorial glosses, including phrases. The analytical lexicon groups attested spellings by lemma and stored grammatical analysis and counts the occurrences of each analysis.
+
+```sql
+SELECT ref, occurrence, position, surface, english FROM lexical_concordance
+WHERE lemma = 'φῶς' ORDER BY ref, occurrence, position;
+
+SELECT lemma, surface, ref, position FROM english_greek_index
+WHERE english = 'light';
+
+SELECT surface, lemma, grammar, occurrences FROM analytical_lexicon
+WHERE surface = 'φῶς';
+
+SELECT ref, occurrence, position, surface FROM ab_strong_assignment
+WHERE ab_strong = '180.2';
+```
+
+AB-Strong numbers are stored as text, including every dotted component. Genesis 1:1–4 has 55 verified single-word assignments, checked against this edition’s own Greek positions. Unassigned tokens have a null AB-Strong number in the concordance. The three lexical lookups use this project’s glosses and analyses. The publisher offers its own concordance, index, and analytical lexicon separately. [ABP numbering introduction](https://apostolicbible.com/intro.pdf) · [Genesis comparison text](https://biblehub.com/interlinear/apostolic/genesis/1.htm)
+
+
+The local build uses SQLite with FTS5. Search for a word within a gloss, or put a phrase in double quotes inside the search string. Each hit keeps the original gloss and opens on the Greek verse in this edition. This follows the English index, concordance, and inflected-form workflow in the [ABP study guide, pp. 6–11](https://www.apostolicbible.com/studyguide.pdf#page=6).
+
+```sql
+SELECT e.ref, e.occurrence, e.position, e.english, e.surface, e.lemma, e.greek_verse
+FROM gloss_search s JOIN english_greek_context e ON e.english = s.english
+WHERE gloss_search MATCH 'beginning' AND e.ref = 'GEN 1:1';
+
+SELECT ref, position, surface, grammar FROM morphological_concordance
+WHERE lemma = 'ἀρχή' AND grammatical_case = 'dative';
+
+SELECT g.ref, head.surface, dependent.surface, g.governed_case
+FROM governed_phrase g
+JOIN lexical_concordance head USING (ref, occurrence)
+JOIN lexical_concordance dependent USING (ref, occurrence)
+WHERE head.position = g.governor_position AND dependent.position = g.complement_position;
+```
+
+The morphological concordance retains the recorded grammar and exposes part of speech, case, gender, number, tense, voice, mood, verb form, and person where the description supports extraction. A blank feature can mean it is inapplicable, ambiguous, or unparsed. The governed-phrase table contains three reviewed relationships in Genesis 1:1–2, including the dative governed by ἐν. The case belongs to the complement. [ABP study guide, pp. 14–16](https://www.apostolicbible.com/studyguide.pdf#page=14)
+
+Genesis 1:4 illustrates how to extend the numbering across editions. The Polyglot prints 303.1 for an expression this edition writes as two words, ἀνὰ μέσον. Both occurrences are recorded by their full spans in `ab_strong_phrase`. Further assignments require checking the Greek wording and position in this edition. [Genesis comparison text](https://biblehub.com/interlinear/apostolic/genesis/1.htm)
