@@ -24,7 +24,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 3:1	1	23	τῆς	ὁ	article, genitive feminine singular	1	of
 1ES 3:1	1	24	Περσίδος	Περσίς	noun, genitive feminine singular	1	Persia
 1ES 3:2	1	1	καὶ	καί	conjunction	1	and
-1ES 3:2	1	2	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
+1ES 3:2	1	2	πᾶσι	πᾶς	adjective, dative neuter plural	1	for all
 1ES 3:2	1	3	τοῖς	ὁ	article, dative masculine plural	1	the
 1ES 3:2	1	4	σατράπαις	σατράπης	noun, dative masculine plural	1	satraps
 1ES 3:2	1	4	σατράπαις			2	provincial governors
@@ -32,15 +32,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 3:2	1	6	στρατηγοῖς	στρατηγός	noun, dative masculine plural	1	commanders
 1ES 3:2	1	7	καὶ	καί	conjunction	1	and
 1ES 3:2	1	8	τοπάρχαις	τοπάρχης	noun, dative masculine plural	1	district governors
-1ES 3:2	1	9	τοῖς	ὁ	article dative masculine plural	1	the
+1ES 3:2	1	9	τοῖς	ὁ	article dative masculine plural	1	—
 1ES 3:2	1	10	ὑπ᾽	ὑπό	preposition with accusative, elided	1	under
 1ES 3:2	1	11	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 1ES 3:2	1	12	ἀπὸ	ἀπό	preposition with the genitive	1	from
 1ES 3:2	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
 1ES 3:2	1	14	Ἰνδικῆς	Ἰνδική	noun, genitive feminine singular	1	India
-1ES 3:2	1	15	μέχρι	μέχρι	preposition with genitive	1	until
+1ES 3:2	1	15	μέχρι	μέχρι	preposition with genitive	1	as far as
 1ES 3:2	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
-1ES 3:2	1	17	Αἰθιοπίας	Αἰθιοπία	noun, genitive feminine singular; place name	1	of Ethiopia
+1ES 3:2	1	17	Αἰθιοπίας	Αἰθιοπία	noun, genitive feminine singular; place name	1	Ethiopia
 1ES 3:2	1	17	Αἰθιοπίας			2	of Cush
 1ES 3:2	1	18	ἐν	ἐν	preposition with the dative	1	in
 1ES 3:2	1	19	ταῖς	ὁ	article, dative feminine plural	1	the
@@ -77,17 +77,17 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 3:4	1	4	νεανίσκοι	νεανίσκος	noun, nominative masculine plural	1	young men
 1ES 3:4	1	5	οἱ	ὁ	article, nominative masculine plural	1	the
 1ES 3:4	1	6	σωματοφύλακες	σωματοφύλαξ	noun, nominative masculine plural	1	bodyguards
-1ES 3:4	1	7	οἱ	ὁ	article, nominative masculine plural	1	the
-1ES 3:4	1	8	φυλάσσοντες	φυλάσσω	present active participle, nominative masculine plural	1	watchmen
+1ES 3:4	1	7	οἱ	ὁ	article, nominative masculine plural	1	—
+1ES 3:4	1	8	φυλάσσοντες	φυλάσσω	present active participle, nominative masculine plural	1	who guard
 1ES 3:4	1	9	τὸ	ὁ	article, accusative neuter singular	1	the
 1ES 3:4	1	10	σῶμα	σῶμα	noun, accusative neuter singular	1	body
 1ES 3:4	1	11	τοῦ	ὁ	article, genitive masculine singular	1	of the
 1ES 3:4	1	12	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 1ES 3:5	1	1	εἶπαν	λέγω	aorist active indicative, third person plural	1	said
 1ES 3:5	1	2	ἕτερος	ἕτερος	adjective/pronoun, nominative masc. sg., the one	1	one
-1ES 3:5	1	3	τῷ	ὁ	article, dative masculine singular	1	the
+1ES 3:5	1	3	τῷ	ὁ	article, dative masculine singular	1	to the
 1ES 3:5	1	4	ἑτέρῳ	ἕτερος	adjective/pronoun, dative masc. sg. after τῷ	1	other
-1ES 3:5	1	5	εἴπωμεν	λέγω	aorist active subjunctive, first plural	1	we may say
+1ES 3:5	1	5	εἴπωμεν	λέγω	aorist active subjunctive, first plural	1	let us say
 1ES 3:5	1	5	εἴπωμεν			2	we say
 1ES 3:5	1	6	ἕκαστος	ἕκαστος	adjective, nominative masculine singular	1	each
 1ES 3:5	1	7	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	of us
@@ -162,7 +162,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 3:8	1	7	λόγον			2	message
 1ES 3:8	1	8	ἐσφραγίσαντο	σφραγίζω	aorist middle indicative, third plural	1	they sealed
 1ES 3:8	1	9	καὶ	καί	conjunction	1	and
-1ES 3:8	1	10	ἔθηκαν	τίθημι	aorist active indicative, third plural	1	put/laid
+1ES 3:8	1	10	ἔθηκαν	τίθημι	aorist active indicative, third plural	1	put
 1ES 3:8	1	11	ὑπὸ	ὑπό	preposition with the accusative	1	under
 1ES 3:8	1	12	τὸ	ὁ	article, accusative neuter singular	1	the
 1ES 3:8	1	13	προσκεφάλαιον	προσκεφάλαιον	noun, accusative neuter singular	1	pillow
@@ -172,7 +172,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 3:9	1	1	καὶ	καί	conjunction	1	and
 1ES 3:9	1	2	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
 1ES 3:9	1	3	ὅταν	ὅταν	conjunction	1	whenever
-1ES 3:9	1	4	ἐγερθῇ	ἐγείρω	aorist passive subjunctive, third singular	1	he wakes
+1ES 3:9	1	4	ἐγερθῇ	ἐγείρω	aorist passive subjunctive, third singular	1	wakes
 1ES 3:9	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 1ES 3:9	1	6	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 1ES 3:9	1	7	δώσουσιν	δίδωμι	future active indicative, 3rd pl.	1	shall give
@@ -189,8 +189,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 3:9	1	18	τρεῖς	τρεῖς	cardinal numeral, nominative plural (gender from context)	1	three
 1ES 3:9	1	19	μεγιστᾶνες	μεγιστάν	noun, nominative masculine plural	1	nobles
 1ES 3:9	1	19	μεγιστᾶνες			2	men of rank
-1ES 3:9	1	20	τῆς	ὁ	article, genitive feminine singular	1	the
-1ES 3:9	1	21	Περσίδος	Περσίς	noun, genitive feminine singular	1	Persia
+1ES 3:9	1	20	τῆς	ὁ	article, genitive feminine singular	1	—
+1ES 3:9	1	21	Περσίδος	Περσίς	noun, genitive feminine singular	1	of Persia
 1ES 3:9	1	22	ὅτι	ὅτι	causal/that conjunction (from context)	1	that
 1ES 3:9	1	23	ὁ	ὁ	article, nominative masculine singular	1	the
 1ES 3:9	1	24	λόγος	λόγος	noun, nominative masculine singular	1	word
@@ -241,20 +241,20 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 3:13	1	11	καὶ	καί	conjunction	1	and
 1ES 3:13	1	12	ἀνέγνω	ἀναγινώσκω	aorist active indicative, third singular	1	he read
 1ES 3:14	1	1	Καὶ	καί	conjunction	1	and
-1ES 3:14	1	2	ἐξαποστείλας	ἐξαποστέλλω	aorist active participle, nominative masculine singular	1	sent away
+1ES 3:14	1	2	ἐξαποστείλας	ἐξαποστέλλω	aorist active participle, nominative masculine singular	1	having sent
 1ES 3:14	1	3	ἐκάλεσε	καλέω	aorist active indicative, third singular	1	summoned
 1ES 3:14	1	4	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 1ES 3:14	1	5	τοὺς	ὁ	article, accusative masculine plural	1	the
 1ES 3:14	1	6	μεγιστᾶνας	μεγιστάν	noun, accusative masculine plural	1	nobles
 1ES 3:14	1	6	μεγιστᾶνας			2	magnates
-1ES 3:14	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
-1ES 3:14	1	8	Περσίδος	Περσίς	noun, genitive feminine singular	1	Persia
+1ES 3:14	1	7	τῆς	ὁ	article, genitive feminine singular	1	—
+1ES 3:14	1	8	Περσίδος	Περσίς	noun, genitive feminine singular	1	of Persia
 1ES 3:14	1	9	καὶ	καί	conjunction	1	and
-1ES 3:14	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
-1ES 3:14	1	11	Μηδίας	Μηδία	noun, genitive feminine singular	1	Media
+1ES 3:14	1	10	τῆς	ὁ	article, genitive feminine singular	1	—
+1ES 3:14	1	11	Μηδίας	Μηδία	noun, genitive feminine singular	1	of Media
 1ES 3:14	1	12	καὶ	καί	conjunction	1	and
-1ES 3:14	1	13	σατράπας	σατράπης	noun, accusative masculine plural	1	rulers
-1ES 3:14	1	13	σατράπας			2	satraps
+1ES 3:14	1	13	σατράπας	σατράπης	noun, accusative masculine plural	1	satraps
+1ES 3:14	1	13	σατράπας			2	rulers
 1ES 3:14	1	14	καὶ	καί	conjunction	1	and
 1ES 3:14	1	15	στρατηγοὺς	στρατηγός	noun, accusative masculine plural	1	commanders
 1ES 3:14	1	16	καὶ	καί	conjunction	1	and
@@ -284,7 +284,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 3:15	1	8	δηλώσουσι	δηλόω	future active indicative, 3rd plural	1	shall declare
 1ES 3:15	1	9	τοὺς	ὁ	article, accusative masculine plural	1	the
 1ES 3:15	1	10	λόγους	λόγος	noun, accusative masculine plural	1	words
-1ES 3:15	1	11	ἑαυτῶν	ἴδιος	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	1	own
+1ES 3:15	1	11	ἑαυτῶν	ἴδιος	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	1	their own
 1ES 3:15	1	12	καὶ	καί	conjunction	1	and
 1ES 3:15	1	13	ἐκλήθησαν	καλέω	aorist passive indicative, third plural	1	were called
 1ES 3:15	1	14	καὶ	καί	conjunction	1	and
@@ -294,22 +294,22 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 3:16	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 1ES 3:16	1	4	ἀπαγγείλατε	ἀπαγγέλλω	aorist active imperative, second plural	1	report
 1ES 3:16	1	5	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
-1ES 3:16	1	6	περὶ	περί	preposition with the genitive	1	on account of
-1ES 3:16	1	6	περὶ			2	concerning
+1ES 3:16	1	6	περὶ	περί	preposition with the genitive	1	concerning
+1ES 3:16	1	6	περὶ			2	on account of
 1ES 3:16	1	7	τῶν	ὁ	article, genitive neuter plural	1	what was
 1ES 3:16	1	8	γεγραμμένων	γράφω	perfect passive participle, genitive neuter plural	1	written
 1ES 3:16	1	9	καὶ	καί	conjunction	1	and
 1ES 3:16	1	10	ἤρξατο	ἄρχω	aorist middle indicative, third singular	1	began
 1ES 3:16	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 1ES 3:16	1	12	πρῶτος	πρῶτος	ordinal adjective, nominative masculine singular	1	first
-1ES 3:16	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
-1ES 3:16	1	14	εἴπας	λέγω	aorist active participle, nominative masculine singular	1	said
-1ES 3:16	1	15	περὶ	περί	preposition with the genitive	1	on account of
-1ES 3:16	1	15	περὶ			2	concerning
+1ES 3:16	1	13	ὁ	ὁ	article, nominative masculine singular	1	—
+1ES 3:16	1	14	εἴπας	λέγω	aorist active participle, nominative masculine singular	1	who spoke
+1ES 3:16	1	15	περὶ	περί	preposition with the genitive	1	concerning
+1ES 3:16	1	15	περὶ			2	on account of
 1ES 3:16	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
 1ES 3:16	1	17	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	strength
 1ES 3:16	1	17	ἰσχύος			2	might
-1ES 3:16	1	18	τοῦ	ὁ	article, genitive singular	1	the
+1ES 3:16	1	18	τοῦ	ὁ	article, genitive singular	1	of the
 1ES 3:16	1	19	οἴνου	οἶνος	noun, genitive masculine singular	1	wine
 1ES 3:16	1	20	καὶ	καί	conjunction	1	and
 1ES 3:16	1	21	ἔφη	φημί	imperfect active indicative, third person singular	1	said
@@ -326,7 +326,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 3:17	1	10	πίνοντας	πίνω	present active participle, accusative masculine plural	1	who drink
 1ES 3:17	1	11	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 1ES 3:17	1	12	πλανᾷ	πλανάω	present active indicative, third singular	1	leads astray
-1ES 3:17	1	13	τῇ	ὁ	article, dative feminine singular	1	the
+1ES 3:17	1	13	τῇ	ὁ	article, dative feminine singular	1	—
 1ES 3:17	1	14	διανοίᾳ	διάνοια	noun, dative feminine singular	1	in mind
 1ES 3:18	1	1	τοῦ	ὁ	article, genitive masculine singular	1	of the
 1ES 3:18	1	2	τε	τε	particle	1	both

@@ -5,7 +5,7 @@ JDT 5:1	1	3	Ὀλοφέρνῃ	Ὀλοφέρνης	noun, dative masculine singul
 JDT 5:1	1	4	ἀρχιστρατήγῳ	ἀρχιστράτηγος	noun, dative masculine singular	1	commander-in-chief
 JDT 5:1	1	5	δυνάμεως	δύναμις	noun, genitive feminine singular	1	of the army
 JDT 5:1	1	6	Ἀσσοὺρ	Ἀσσούρ	proper name, indeclinable; territorial sense	1	of Assyria
-JDT 5:1	1	7	διότι	διότι	causal conjunction	1	because
+JDT 5:1	1	7	διότι	διότι	causal conjunction	1	that
 JDT 5:1	1	8	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 JDT 5:1	1	9	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JDT 5:1	1	10	παρεσκευάσαντο	παρασκευάζω	aorist middle indicative, third plural	1	made preparations
@@ -26,7 +26,7 @@ JDT 5:1	1	23	ὄρους	ὄρος	noun, genitive neuter singular	1	of a mountai
 JDT 5:1	1	24	ὑψηλοῦ	ὑψηλός	adjective, genitive masculine singular	1	high
 JDT 5:1	1	24	ὑψηλοῦ			2	lofty
 JDT 5:1	1	25	καὶ	καί	conjunction	1	and
-JDT 5:1	1	26	ἔθηκαν	τίθημι	aorist active indicative, third plural	1	put/laid
+JDT 5:1	1	26	ἔθηκαν	τίθημι	aorist active indicative, third plural	1	put
 JDT 5:1	1	27	ἐν	ἐν	preposition with the dative	1	in
 JDT 5:1	1	28	τοῖς	ὁ	article, dative neuter plural	1	the
 JDT 5:1	1	29	πεδίοις	πεδίον	noun, dative neuter plural after τοῖς/ἐν τοῖς	1	fields
@@ -74,8 +74,8 @@ JDT 5:3	1	16	τῇ	ὁ	article, dative feminine singular	1	the
 JDT 5:3	1	17	ὀρεινῇ	ὀρεινός	substantival adjective, dative feminine singular	1	hill country
 JDT 5:3	1	18	καὶ	καί	conjunction	1	and
 JDT 5:3	1	19	τίνες	τίς	interrogative pronoun, nominative masculine plural	1	which
-JDT 5:3	1	20	ἃς	ὅς	relative pronoun, accusative of duration, accusative feminine plural	1	they
-JDT 5:3	1	21	κατοικοῦσι	κατοικέω	present active participle, dative masculine plural	1	living
+JDT 5:3	1	20	ἃς	ὅς	relative pronoun, accusative of duration, accusative feminine plural	1	that
+JDT 5:3	1	21	κατοικοῦσι	κατοικέω	present active participle, dative masculine plural	1	they inhabit
 JDT 5:3	1	21	κατοικοῦσι			2	inhabiting
 JDT 5:3	1	22	πόλεις	πόλις	noun, accusative feminine plural	1	cities
 JDT 5:3	1	23	καὶ	καί	conjunction	1	and
@@ -109,11 +109,11 @@ JDT 5:3	1	48	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JDT 5:4	1	1	Καὶ	καί	conjunction	1	and
 JDT 5:4	1	2	διὰ	διά	preposition with the accusative	1	because of
 JDT 5:4	1	3	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
-JDT 5:4	1	4	κατενωτίσαντο	ἐνωτίζομαι	aorist middle indicative, third plural	1	did they decide
+JDT 5:4	1	4	κατενωτίσαντο	ἐνωτίζομαι	aorist middle indicative, third plural	1	did they turn their backs
 JDT 5:4	1	5	τοῦ	ὁ	article, genitive neuter singular introducing the infinitive, introduces the infinitive	1	—
 JDT 5:4	1	6	μὴ	μή	negative particle	1	not
 JDT 5:4	1	7	ἐλθεῖν	ἔρχομαι	aorist active infinitive after τοῦ	1	to come
-JDT 5:4	1	8	εἰς	εἰς	preposition with the accusative	1	into
+JDT 5:4	1	8	εἰς	εἰς	preposition with the accusative	1	to
 JDT 5:4	1	9	ἀπάντησίν	ἀπάντησις	noun, accusative feminine singular	1	meeting
 JDT 5:4	1	10	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 JDT 5:4	1	11	παρὰ	παρά	preposition with accusative indicating comparison	1	unlike
@@ -130,8 +130,8 @@ JDT 5:5	1	4	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	hi
 JDT 5:5	1	5	Ἀχιὼρ	Ἀχιώρ	indeclinable personal name, nominative in context	1	Achior
 JDT 5:5	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 JDT 5:5	1	7	ἡγούμενος	ἡγέομαι	present middle participle, nominative masculine singular, substantival	1	leader
-JDT 5:5	1	8	πάντων	πᾶς	adjective, genitive neuter plural	1	all
-JDT 5:5	1	9	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
+JDT 5:5	1	8	πάντων	πᾶς	adjective, genitive neuter plural	1	of all
+JDT 5:5	1	9	υἱῶν	υἱός	noun, genitive masculine plural	1	the sons
 JDT 5:5	1	10	Ἀμμών	Ἀμμών	indeclinable national name, genitive in context	1	of Ammon
 JDT 5:5	1	11	ἀκουσάτω	ἀκούω	aorist active imperative, third singular	1	let him hear
 JDT 5:5	1	12	δὴ	δή	emphatic particle	1	please
@@ -162,9 +162,9 @@ JDT 5:5	1	33	τὴν	ὁ	article, accusative feminine singular	1	the
 JDT 5:5	1	34	ὀρεινὴν	ὀρεινός	substantival adjective, accusative feminine singular	1	hill country
 JDT 5:5	1	34	ὀρεινὴν			2	mountain country
 JDT 5:5	1	35	ταύτην	οὗτος	demonstrative pronoun, accusative feminine singular	1	this
-JDT 5:5	1	36	πλησίον	πλησίον	adverb/noun, genitive masc. sg. after τοῦ/κατὰ τοῦ, neighbour	1	neighbour
+JDT 5:5	1	36	πλησίον	πλησίον	adverb/noun, genitive masc. sg. after τοῦ/κατὰ τοῦ, neighbour	1	near
 JDT 5:5	1	37	σου	σύ	pronoun, possessive genitive second singular	1	your
-JDT 5:5	1	38	οἰκοῦντος	οἰκέω	present active participle, genitive masculine singular	1	nearby
+JDT 5:5	1	38	οἰκοῦντος	οἰκέω	present active participle, genitive masculine singular	1	dwelling
 JDT 5:5	1	39	καὶ	καί	conjunction	1	and
 JDT 5:5	1	40	οὐκ	οὐ	negative particle	1	not
 JDT 5:5	1	41	ἐξελεύσεται	ἐξέρχομαι	future middle indicative, third singular	1	will come out
@@ -302,7 +302,7 @@ JDT 5:10	1	30	γένους			2	people
 JDT 5:10	1	31	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 JDT 5:11	1	1	Καὶ	καί	conjunction	1	and
 JDT 5:11	1	2	ἐπανέστη	ἐπανίστημι	aorist active indicative, third singular	1	rose against
-JDT 5:11	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
+JDT 5:11	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 JDT 5:11	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 JDT 5:11	1	5	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 JDT 5:11	1	6	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
@@ -311,8 +311,8 @@ JDT 5:11	1	8	κατεσοφίσατο	κατασοφίζομαι	aorist middle i
 JDT 5:11	1	9	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 JDT 5:11	1	10	καὶ	καί	conjunction	1	and
 JDT 5:11	1	11	ἐν	ἐν	preposition with the dative	1	in
-JDT 5:11	1	12	πόνῳ	πόνος	noun, dative masculine singular	1	pain
-JDT 5:11	1	12	πόνῳ			2	toil
+JDT 5:11	1	12	πόνῳ	πόνος	noun, dative masculine singular	1	toil
+JDT 5:11	1	12	πόνῳ			2	pain
 JDT 5:11	1	13	καὶ	καί	conjunction	1	and
 JDT 5:11	1	14	πλίνθῳ	πλίνθος	noun, dative feminine singular	1	brickwork
 JDT 5:11	1	15	ἐταπείνωσεν	ταπεινόω	aorist active indicative, third singular	1	oppressed
@@ -320,7 +320,7 @@ JDT 5:11	1	16	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	
 JDT 5:11	1	17	καὶ	καί	conjunction	1	and
 JDT 5:11	1	18	ἔθετο	τίθημι	aorist middle indicative, third singular	1	put
 JDT 5:11	1	19	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-JDT 5:11	1	20	εἰς	εἰς	preposition with the accusative	1	into
+JDT 5:11	1	20	εἰς	εἰς	preposition with the accusative	1	as
 JDT 5:11	1	21	δούλους	δοῦλος	noun, accusative masculine plural	1	slaves
 JDT 5:12	1	1	Καὶ	καί	conjunction	1	and
 JDT 5:12	1	2	ἀνεβόησαν	ἀναβοάω	aorist active indicative, third person plural	1	they cried out
@@ -407,17 +407,17 @@ JDT 5:16	1	4	προσώπου	πρόσωπον	noun, genitive neuter singular	1	
 JDT 5:16	1	4	προσώπου			2	face
 JDT 5:16	1	5	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JDT 5:16	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
-JDT 5:16	1	7	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν	1	Canaanite (people)
+JDT 5:16	1	7	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν	1	Canaanite
 JDT 5:16	1	8	καὶ	καί	conjunction	1	and
 JDT 5:16	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
-JDT 5:16	1	10	Φερεζαῖον	Φερεζαῖον	ethnic noun, accusative masculine singular collective after τὸν	1	Perizzite (people)
+JDT 5:16	1	10	Φερεζαῖον	Φερεζαῖον	ethnic noun, accusative masculine singular collective after τὸν	1	Perizzite
 JDT 5:16	1	11	καὶ	καί	conjunction	1	and
 JDT 5:16	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
 JDT 5:16	1	13	Ἰεβουσαῖον	Ἰεβουσαῖος	substantival adjective, accusative masculine singular	1	Jebusite
 JDT 5:16	1	14	καὶ	καί	conjunction	1	and
 JDT 5:16	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
-JDT 5:16	1	16	Συχὲμ	Συχέμ	indeclinable personal name, accusative in context	1	Sychem
-JDT 5:16	1	16	Συχὲμ			2	Shechem
+JDT 5:16	1	16	Συχὲμ	Συχέμ	indeclinable personal name, accusative in context	1	Shechem
+JDT 5:16	1	16	Συχὲμ			2	Sychem
 JDT 5:16	1	17	καὶ	καί	conjunction	1	and
 JDT 5:16	1	18	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 JDT 5:16	1	19	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -492,7 +492,7 @@ JDT 5:18	1	39	ὑπεναντίων	ὑπεναντίος	adjective, genitive ma
 JDT 5:18	1	39	ὑπεναντίων			2	opponents
 JDT 5:19	1	1	Καὶ	καί	conjunction	1	and
 JDT 5:19	1	2	νῦν	νῦν	adverb of time	1	now
-JDT 5:19	1	3	ἐπιστρέψαντες	ἐπιστρέφω	aorist active participle, genitive masculine plural	1	who had returned
+JDT 5:19	1	3	ἐπιστρέψαντες	ἐπιστρέφω	aorist active participle, genitive masculine plural	1	having returned
 JDT 5:19	1	4	ἐπὶ	ἐπί	preposition with accusative	1	to
 JDT 5:19	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 JDT 5:19	1	6	Θεὸν	θεός	noun, accusative masculine singular	1	God
@@ -501,7 +501,7 @@ JDT 5:19	1	8	ἀνέβησαν	ἀναβαίνω	aorist active indicative, third
 JDT 5:19	1	9	ἐκ	ἐκ	preposition with the genitive	1	from
 JDT 5:19	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
 JDT 5:19	1	11	διασπορᾶς	διασπορά	noun, genitive feminine singular	1	dispersion
-JDT 5:19	1	12	οὗ	οὗ	relative adverb of place	1	to which
+JDT 5:19	1	12	οὗ	οὗ	relative adverb of place	1	where
 JDT 5:19	1	13	διεσπάρησαν	διασπείρω	aorist passive indicative, third plural	1	were scattered
 JDT 5:19	1	14	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 JDT 5:19	1	15	καὶ	καί	conjunction	1	and
@@ -522,8 +522,8 @@ JDT 5:19	1	29	ἦν	εἰμί	imperfect indicative, third singular	1	it was
 JDT 5:19	1	30	ἔρημος	ἔρημος	noun/adjective, nominative fem. sg	1	desert
 JDT 5:20	1	1	Καὶ	καί	conjunction	1	and
 JDT 5:20	1	2	νῦν	νῦν	adverb of time	1	now
-JDT 5:20	1	3	δέσποτα	δεσπότης	noun, vocative masculine singular	1	my lord
-JDT 5:20	1	4	κύριε	κύριος	noun, vocative masculine singular	1	my lord
+JDT 5:20	1	3	δέσποτα	δεσπότης	noun, vocative masculine singular	1	master
+JDT 5:20	1	4	κύριε	κύριος	noun, vocative masculine singular	1	lord
 JDT 5:20	1	5	εἰ	εἰ	conditional conjunction	1	if
 JDT 5:20	1	6	μέν	μέν	particle	1	indeed
 JDT 5:20	1	7	ἐστιν	εἰμί	present indicative, third singular	1	is
@@ -534,7 +534,7 @@ JDT 5:20	1	11	λαῷ	λαός	noun, dative masculine singular	1	people
 JDT 5:20	1	12	τούτῳ	οὗτος	demonstrative pronoun, dative neuter singular after ἐν	1	this
 JDT 5:20	1	13	καὶ	καί	conjunction	1	and
 JDT 5:20	1	14	ἁμαρτάνουσιν	ἁμαρτάνω	present active indicative, third plural	1	they sin
-JDT 5:20	1	15	εἰς	εἰς	preposition with the accusative of direction	1	to
+JDT 5:20	1	15	εἰς	εἰς	preposition with the accusative of direction	1	against
 JDT 5:20	1	16	τὸν	ὁ	article, accusative masculine singular	1	the
 JDT 5:20	1	17	Θεὸν	θεός	noun, accusative masculine singular, in apposition	1	God
 JDT 5:20	1	18	αὐτῶν	αὐτός	pronoun, possessive genitive plural	1	their
@@ -550,7 +550,7 @@ JDT 5:20	1	27	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter s
 JDT 5:20	1	28	καὶ	καί	conjunction	1	and
 JDT 5:20	1	29	ἀναβησόμεθα	ἀναβαίνω	future middle indicative, first plural	1	we shall go up
 JDT 5:20	1	30	καὶ	καί	conjunction	1	and
-JDT 5:20	1	31	ἐκπολεμήσομεν	ἐκπολεμέω	future active indicative, first plural	1	we shall wage war
+JDT 5:20	1	31	ἐκπολεμήσομεν	ἐκπολεμέω	future active indicative, first plural	1	we shall fight
 JDT 5:20	1	32	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 JDT 5:21	1	1	Εἰ	εἰ	conditional conjunction	1	if
 JDT 5:21	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -567,8 +567,8 @@ JDT 5:21	1	11	δὴ			2	now
 JDT 5:21	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
 JDT 5:21	1	13	κύριός	κύριος	noun, nominative masculine singular	1	lord
 JDT 5:21	1	14	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-JDT 5:21	1	15	μή	μή	negative particle	1	not
-JDT 5:21	1	16	ποτε	ποτέ	adverb	1	ever
+JDT 5:21	1	15	μή	μή	negative particle	1	lest
+JDT 5:21	1	16	ποτε	ποτέ	adverb	1	perhaps
 JDT 5:21	1	17	ὑπερασπίσῃ	ὑπερασπίζω	aorist active subjunctive, third singular	1	may defend
 JDT 5:21	1	18	ὁ	ὁ	article, nominative masculine singular	1	the
 JDT 5:21	1	19	Κύριος	κύριος	noun, nominative masculine singular; Κύριος without article = the LORD, ὁ κύριος = the master (from context)	1	Lord
@@ -605,7 +605,7 @@ JDT 5:22	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
 JDT 5:22	1	16	κύκλῳ	κύκλος	noun used adverbially with genitive τοῦ ποταμοῦ	1	round
 JDT 5:22	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
 JDT 5:22	1	18	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
-JDT 5:22	1	19	περιεστώς	περιίστημι	perfect active participle, nominative masculine singular	1	standing around him
+JDT 5:22	1	19	περιεστώς	περιίστημι	perfect active participle, nominative masculine singular	1	standing around
 JDT 5:22	1	20	καὶ	καί	conjunction	1	and
 JDT 5:22	1	21	εἶπαν	λέγω	aorist active indicative, third person plural	1	said
 JDT 5:22	1	22	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -620,12 +620,12 @@ JDT 5:22	1	29	τὴν	ὁ	article accusative feminine singular	1	the
 JDT 5:22	1	30	παραλίαν	παραλία	noun, accusative fem. sg	1	coast
 JDT 5:22	1	31	καὶ	καί	conjunction	1	and
 JDT 5:22	1	32	τὴν	ὁ	article, accusative feminine singular	1	the
-JDT 5:22	1	33	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	of Moab
+JDT 5:22	1	33	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	Moab
 JDT 5:22	1	34	συγκόψαι	συγκόπτω	aorist active infinitive	1	to cut down
 JDT 5:22	1	35	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 JDT 5:23	1	1	οὐ	οὐ	particle	1	not
 JDT 5:23	1	2	γὰρ	γάρ	conjunction	1	for
-JDT 5:23	1	3	φοβηθησόμεθα	φοβέομαι	future passive indicative first plural	1	be afraid
+JDT 5:23	1	3	φοβηθησόμεθα	φοβέομαι	future passive indicative first plural	1	we shall be afraid
 JDT 5:23	1	4	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JDT 5:23	1	5	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 JDT 5:23	1	6	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -640,7 +640,7 @@ JDT 5:23	1	14	δύναμις	δύναμις	noun, nominative feminine singular	1
 JDT 5:23	1	15	οὐδὲ	οὐδέ	conjunction/negative	1	nor
 JDT 5:23	1	16	κράτος	κράτος	noun, accusative neuter singular	1	power
 JDT 5:23	1	16	κράτος			2	authority
-JDT 5:23	1	17	εἰς	εἰς	preposition with the accusative	1	into
+JDT 5:23	1	17	εἰς	εἰς	preposition with the accusative	1	for
 JDT 5:23	1	18	παράταξιν	παράταξις	noun, accusative feminine singular	1	battle formation
 JDT 5:23	1	19	ἰσχυράν	ἰσχυρός	adjective, accusative feminine singular	1	strong
 JDT 5:23	1	19	ἰσχυράν			2	powerful
@@ -652,7 +652,7 @@ JDT 5:24	1	4	καὶ	καί	conjunction	1	and
 JDT 5:24	1	5	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
 JDT 5:24	1	6	εἰς	εἰς	preposition with the accusative	1	into
 JDT 5:24	1	7	κατάβρωσιν	κατάβρωσις	noun, accusative feminine singular	1	food
-JDT 5:24	1	8	πάσης	πᾶς	adjective, genitive feminine singular	1	all
+JDT 5:24	1	8	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
 JDT 5:24	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 JDT 5:24	1	10	στρατιᾶς	στρατιά	noun, genitive feminine singular	1	army
 JDT 5:24	1	11	σου	σύ	pronoun, possessive genitive second singular	1	your

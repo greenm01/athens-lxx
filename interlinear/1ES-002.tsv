@@ -6,7 +6,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:1	1	5	πρώτου	πρῶτος	ordinal adjective, genitive neuter singular	1	first
 1ES 2:1	1	6	εἰς	εἰς	preposition with the accusative	1	for
 1ES 2:1	1	7	συντέλειαν	συντέλεια	noun, accusative feminine singular	1	fulfillment
-1ES 2:1	1	8	ῥήματος	ῥῆμα	noun, genitive neuter singular	1	word
+1ES 2:1	1	8	ῥήματος	ῥῆμα	noun, genitive neuter singular	1	of the word
 1ES 2:1	1	9	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 1ES 2:1	1	10	ἐν	ἐν	preposition with the dative	1	by
 1ES 2:1	1	11	στόματι	στόμα	noun, dative neuter singular	1	the mouth
@@ -23,7 +23,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:2	1	10	ἐν	ἐν	preposition with the dative	1	in
 1ES 2:2	1	11	ὅλῃ	ὅλος	adjective, dative feminine singular	1	all
 1ES 2:2	1	12	τῇ	ὁ	article, dative feminine singular	1	the
-1ES 2:2	1	13	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	reign
+1ES 2:2	1	13	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	kingdom
 1ES 2:2	1	13	βασιλείᾳ			2	kingship
 1ES 2:2	1	14	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	his own
 1ES 2:2	1	15	καὶ	καί	conjunction	1	and
@@ -81,7 +81,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:5	1	18	εἰς	εἰς	preposition with the accusative	1	into
 1ES 2:5	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
 1ES 2:5	1	20	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
-1ES 2:5	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
+1ES 2:5	1	21	τὴν	ὁ	article, accusative feminine singular	1	—
 1ES 2:5	1	22	ἐν	ἐν	preposition with the dative	1	in
 1ES 2:5	1	23	τῇ	ὁ	article, dative feminine singular	1	the
 1ES 2:5	1	24	Ἰουδαίᾳ	Ἰουδαία	noun, dative feminine singular; place name	1	Judea
@@ -95,17 +95,17 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:5	1	32	ὁ	ὁ	definite article	1	the
 1ES 2:5	1	33	Κύριος	κύριος	noun, nominative masculine singular	1	Lord
 1ES 2:5	1	34	ὁ	ὁ	article, nominative masculine singular	1	—
-1ES 2:5	1	35	κατασκηνώσας	κατασκηνόω	aorist active participle, nominative masculine singular	1	who dwells
+1ES 2:5	1	35	κατασκηνώσας	κατασκηνόω	aorist active participle, nominative masculine singular	1	who took up dwelling
 1ES 2:5	1	36	ἐν	ἐν	preposition with the dative	1	in
 1ES 2:5	1	37	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 1ES 2:6	1	1	Ὅσοι	ὅσος	relative pronoun, nominative masculine plural	1	those who
 1ES 2:6	1	2	οὖν	οὖν	inferential particle	1	then
 1ES 2:6	1	3	κατὰ	κατά	preposition with the accusative	1	throughout
 1ES 2:6	1	4	τόπους	τόπος	noun, accusative masculine plural	1	places
-1ES 2:6	1	5	οἰκοῦσι	οἰκέω	present active participle, dative masculine plural	1	who live
+1ES 2:6	1	5	οἰκοῦσι	οἰκέω	present active participle, dative masculine plural	1	live
 1ES 2:6	1	6	βοηθείτωσαν	βοηθέω	present active imperative, third plural	1	let them help
 1ES 2:6	1	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-1ES 2:6	1	8	οἱ	ὁ	article, dative masculine singular	1	each one
+1ES 2:6	1	8	οἱ	ὁ	article, dative masculine singular	1	those
 1ES 2:6	1	9	ἐν	ἐν	preposition with the dative	1	in
 1ES 2:6	1	10	τῷ	ὁ	article, dative masculine singular	1	the
 1ES 2:6	1	11	τόπῳ	τόπος	noun, dative masculine singular	1	place
@@ -124,16 +124,16 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:6	1	24	σὺν	σύν	preposition with the dative, 'with	1	with
 1ES 2:6	1	25	τοῖς	ὁ	article, dative masculine plural	1	the
 1ES 2:6	1	26	ἄλλοις	ἄλλος	adjective, dative masculine plural	1	others
-1ES 2:6	1	27	τοῖς	ὁ	article, dative neuter plural	1	the
+1ES 2:6	1	27	τοῖς	ὁ	article, dative neuter plural	1	—
 1ES 2:6	1	28	κατ᾽	κατά	preposition with the genitive, elided, against	1	by
 1ES 2:6	1	29	εὐχὰς	εὐχή	noun, accusative feminine plural	1	vows
-1ES 2:6	1	30	προστεθειμένοις	προστίθημι	perfect passive participle, dative masculine plural	1	who made an offering
-1ES 2:6	1	31	εἰς	εἰς	preposition with the accusative	1	into
+1ES 2:6	1	30	προστεθειμένοις	προστίθημι	perfect passive participle, dative masculine plural	1	dedicated
+1ES 2:6	1	31	εἰς	εἰς	preposition with the accusative	1	for
 1ES 2:6	1	32	τὸ	ὁ	article, accusative neuter singular	1	the
 1ES 2:6	1	33	ἱερὸν	ἱερόν	noun, accusative neuter singular	1	temple
-1ES 2:6	1	34	τοῦ	ὁ	article, genitive singular	1	the
+1ES 2:6	1	34	τοῦ	ὁ	article, genitive singular	1	—
 1ES 2:6	1	35	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-1ES 2:6	1	36	τὸ	ὁ	article, accusative neuter singular	1	the
+1ES 2:6	1	36	τὸ	ὁ	article, accusative neuter singular	1	—
 1ES 2:6	1	37	ἐν	ἐν	preposition with the dative	1	in
 1ES 2:6	1	38	ἰερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, nominative in context	1	Jerusalem
 1ES 2:7	1	1	Καὶ	καί	conjunction	1	and
@@ -142,12 +142,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:7	1	4	ἀρχίφυλοι	ἀρχίφυλος	noun, nominative masculine plural	1	princes
 1ES 2:7	1	5	τῶν	ὁ	article, genitive feminine plural	1	of the
 1ES 2:7	1	6	πατριῶν	πατριά	noun, genitive feminine plural	1	ancestral houses
-1ES 2:7	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
+1ES 2:7	1	7	τῆς	ὁ	article, genitive feminine singular	1	—
 1ES 2:7	1	8	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 1ES 2:7	1	9	καὶ	καί	conjunction	1	and
 1ES 2:7	1	10	Βενιαμὶν	Βενιαμίν	indeclinable personal name, nominative in context	1	Benjamin
-1ES 2:7	1	11	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-1ES 2:7	1	11	φυλῆς			2	tribe
+1ES 2:7	1	11	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+1ES 2:7	1	11	φυλῆς			2	clan
 1ES 2:7	1	12	καὶ	καί	conjunction	1	and
 1ES 2:7	1	13	οἱ	ὁ	article, nominative masculine plural	1	the
 1ES 2:7	1	14	ἱερεῖς	ἱερεύς	noun, nominative masculine plural	1	priests
@@ -167,12 +167,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:7	1	27	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 1ES 2:7	1	27	οἶκον			2	household
 1ES 2:7	1	28	τῷ	ὁ	article, dative masculine singular	1	to the
-1ES 2:7	1	29	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+1ES 2:7	1	29	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 1ES 2:7	1	30	τὸν	ὁ	article, accusative masculine singular; introduces an attributive prepositional phrase	1	which is
 1ES 2:7	1	31	ἐν	ἐν	preposition with the dative	1	in
 1ES 2:7	1	32	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 1ES 2:8	1	1	Καὶ	καί	conjunction	1	and
-1ES 2:8	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
+1ES 2:8	1	2	οἱ	ὁ	article, nominative masculine plural	1	those
 1ES 2:8	1	3	περὶ	περί	preposition with the accusative	1	around
 1ES 2:8	1	4	κύκλῳ	κύκλῳ	adverb	1	round about
 1ES 2:8	1	5	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
@@ -191,7 +191,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:8	1	17	εὐχαῖς	εὐχή	noun, dative feminine plural	1	votive gifts
 1ES 2:8	1	18	ὥστε	ὥστε	conjunction with the infinitive	1	so that
 1ES 2:8	1	19	πλείσταις	πολύς	superlative adjective, dative feminine plural	1	very many
-1ES 2:8	1	20	πολλῶν	πολύς	adjective, genitive neuter plural	1	many
+1ES 2:8	1	20	πολλῶν	πολύς	adjective, genitive neuter plural	1	of many
 1ES 2:8	1	21	ὧν	ὅς	relative pronoun, genitive masculine plural, referring to the people stirred up	1	whose
 1ES 2:8	1	22	ὁ	ὁ	article, nominative masculine singular	1	the
 1ES 2:8	1	23	νοῦς	νοῦς	noun, nominative masculine singular	1	mind
@@ -204,7 +204,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:9	1	5	ἐξήνεγκε	ἐκφέρω	aorist active indicative, third person singular	1	he took out
 1ES 2:9	1	6	τὰ	ὁ	article, accusative neuter plural	1	the
 1ES 2:9	1	7	ἱερὰ	ἱερός	adjective, accusative neuter plural	1	sacred
-1ES 2:9	1	8	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+1ES 2:9	1	8	σκεύη	σκεῦος	noun, accusative neuter plural	1	vessels
 1ES 2:9	1	8	σκεύη			2	goods
 1ES 2:9	1	9	τοῦ	ὁ	article, genitive masculine singular	1	of the
 1ES 2:9	1	10	Κυρίου	κύριος	noun, genitive masculine singular	1	Lord
@@ -229,13 +229,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:10	1	7	Περσῶν	Πέρσης	noun, genitive masculine plural; ethnic name	1	of the Persians
 1ES 2:10	1	8	παρέδωκεν	παραδίδωμι	aorist active indicative, 3rd sg.	1	handed over
 1ES 2:10	1	9	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
-1ES 2:10	1	10	Μιθριδάτῃ	Μιθριδάτης	noun, dative masculine singular	1	to Mithridates
+1ES 2:10	1	10	Μιθριδάτῃ	Μιθριδάτης	noun, dative masculine singular	1	to Mithredath
 1ES 2:10	1	11	τῷ	ὁ	article, dative masculine singular	1	the
 1ES 2:10	1	12	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, possessive, genitive masculine singular	1	his own
 1ES 2:10	1	13	γαζοφύλακι	γαζοφύλαξ	noun, dative masculine singular	1	treasurer
-1ES 2:11	1	1	διὰ	διά	preposition with the accusative	1	because of
+1ES 2:11	1	1	διὰ	διά	preposition with the accusative	1	through
 1ES 2:11	1	2	δὲ	δέ	postpositive conjunction	1	and
-1ES 2:11	1	3	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	this
+1ES 2:11	1	3	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	this man
 1ES 2:11	1	4	παρεδόθησαν	παραδίδωμι	aorist passive indicative, third plural	1	were handed over
 1ES 2:11	1	5	Σασαβασσάρῳ	Σασαβασσάρ	personal name, dative masculine singular in this form	1	to Sheshbazzar
 1ES 2:11	1	6	τῷ	ὁ	article, dative masculine singular	1	the
@@ -245,7 +245,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:11	1	9	Ἰουδαίας			2	Judah
 1ES 2:12	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 1ES 2:12	1	2	δὲ	δέ	postpositive conjunction	1	and
-1ES 2:12	1	3	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	these
+1ES 2:12	1	3	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	of these
 1ES 2:12	1	4	ἀριθμὸς	ἀριθμός	noun, nominative masculine singular	1	number
 1ES 2:12	1	5	ἦν	εἰμί	imperfect indicative, third singular	1	was
 1ES 2:12	1	6	σπονδεῖα	σπονδεῖον	noun, nominative neuter plural	1	libation vessels
@@ -269,7 +269,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:12	1	22	δέκα	δέκα	indeclinable cardinal numeral	1	ten
 1ES 2:12	1	23	καὶ	καί	conjunction	1	and
 1ES 2:12	1	24	ἄλλα	ἄλλος	adjective, nominative neuter plural	1	other
-1ES 2:12	1	25	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+1ES 2:12	1	25	σκεύη	σκεῦος	noun, accusative neuter plural	1	vessels
 1ES 2:12	1	25	σκεύη			2	goods
 1ES 2:12	1	26	χίλια	χίλιοι	cardinal numeral, accusative neuter plural	1	a thousand
 1ES 2:13	1	1	Τὰ	ὁ	article, accusative neuter plural	1	the
@@ -287,8 +287,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:14	1	2	δὲ	δέ	postpositive conjunction	1	and
 1ES 2:14	1	3	ὑπὸ	ὑπό	preposition with genitive indicating agent	1	by
 1ES 2:14	1	4	Σασαβασσάρου	Σασαβασσάρος	noun, genitive masculine singular	1	Sheshbazzar
-1ES 2:14	1	5	ἅμα	ἅμα	adverb	1	together
-1ES 2:14	1	6	τοῖς	ὁ	article, dative neuter plural	1	the
+1ES 2:14	1	5	ἅμα	ἅμα	adverb	1	together with
+1ES 2:14	1	6	τοῖς	ὁ	article, dative neuter plural	1	those
 1ES 2:14	1	7	ἐκ	ἐκ	preposition with the genitive	1	from
 1ES 2:14	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
 1ES 2:14	1	9	αἰχμαλωσίας	αἰχμαλωσία	noun, genitive feminine singular	1	captivity
@@ -317,17 +317,17 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:15	1	17	Ἰουδαίᾳ	Ἰουδαία	noun, dative feminine singular; place name	1	Judea
 1ES 2:15	1	18	καὶ	καί	conjunction	1	and
 1ES 2:15	1	19	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
-1ES 2:15	1	20	Βήλεμος	Βήλεμος	noun, nominative masculine singular	1	Belemus
+1ES 2:15	1	20	Βήλεμος	Βήλεμος	noun, nominative masculine singular	1	Bishlam
 1ES 2:15	1	21	καὶ	καί	conjunction	1	and
-1ES 2:15	1	22	Μιθριδάτης	Μιθριδάτης	noun, nominative masculine singular	1	Mithridates
+1ES 2:15	1	22	Μιθριδάτης	Μιθριδάτης	noun, nominative masculine singular	1	Mithredath
 1ES 2:15	1	23	καὶ	καί	conjunction	1	and
-1ES 2:15	1	24	Ταβέλλιος	Ταβέλλιος	noun, nominative masculine singular	1	Tabellius
+1ES 2:15	1	24	Ταβέλλιος	Ταβέλλιος	noun, nominative masculine singular	1	Tabeel
 1ES 2:15	1	25	καὶ	καί	conjunction	1	and
-1ES 2:15	1	26	Ῥάθυμος	Ῥάθυμος	noun, nominative masculine singular	1	Rhathymus
+1ES 2:15	1	26	Ῥάθυμος	Ῥάθυμος	noun, nominative masculine singular	1	Rehum
 1ES 2:15	1	27	καὶ	καί	conjunction	1	and
-1ES 2:15	1	28	Βεέλτεθμος	Βεέλτεθμος	noun, nominative masculine singular	1	Beelthemus
+1ES 2:15	1	28	Βεέλτεθμος	Βεέλτεθμος	noun, nominative masculine singular	1	Beeltethmus
 1ES 2:15	1	29	καὶ	καί	conjunction	1	and
-1ES 2:15	1	30	Σεμέλλιος	Σεμέλλιος	noun, nominative masculine singular	1	Semellius
+1ES 2:15	1	30	Σεμέλλιος	Σεμέλλιος	noun, nominative masculine singular	1	Shimshai
 1ES 2:15	1	31	ὁ	ὁ	article, nominative masculine singular	1	the
 1ES 2:15	1	32	γραμματεύς	γραμματεύς	noun, nominative masculine singular	1	scribe
 1ES 2:15	1	32	γραμματεύς			2	secretary
@@ -335,9 +335,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:15	1	34	οἱ	ὁ	article, nominative masculine plural	1	the
 1ES 2:15	1	35	λοιποὶ	λοιπός	adjective, nominative masculine plural; substantival	1	rest
 1ES 2:15	1	35	λοιποὶ			2	those remaining
-1ES 2:15	1	36	οἱ	ὁ	article, nominative masculine plural	1	the
-1ES 2:15	1	37	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	1	these things
-1ES 2:15	1	38	συντασσόμενοι	συντάσσομαι	present middle participle, nominative masculine plural	1	associated in this
+1ES 2:15	1	36	οἱ	ὁ	article, nominative masculine plural	1	those
+1ES 2:15	1	37	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	1	with them
+1ES 2:15	1	38	συντασσόμενοι	συντάσσομαι	present middle participle, nominative masculine plural	1	associated
 1ES 2:15	1	39	οἱ	ὁ	article, nominative masculine plural	1	the
 1ES 2:15	1	40	οἰκοῦντες	οἰκέω	present active participle, nominative masculine plural	1	living
 1ES 2:15	1	41	δὲ	δέ	postpositive conjunction	1	and
@@ -345,7 +345,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:15	1	43	Σαμαρείᾳ	Σαμάρεια	noun, dative feminine singular; place name	1	Samaria
 1ES 2:15	1	44	καὶ	καί	conjunction	1	and
 1ES 2:15	1	45	τοῖς	ὁ	article, dative masculine plural	1	the
-1ES 2:15	1	46	ἄλλοις	ἄλλος	adjective, dative masculine plural	1	others
+1ES 2:15	1	46	ἄλλοις	ἄλλος	adjective, dative masculine plural	1	other
 1ES 2:15	1	47	τόποις	τόπος	noun, dative masculine plural	1	places
 1ES 2:15	1	48	τὴν	ὁ	article, accusative feminine singular	1	the
 1ES 2:15	1	49	ὑπογεγραμμένην	ὑπογράφω	perfect passive participle, accusative feminine singular	1	written below
@@ -356,21 +356,21 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:16	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
 1ES 2:16	1	5	παῖδές	παῖς	noun, nominative masculine plural, here servants	1	servants
 1ES 2:16	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
-1ES 2:16	1	7	Ῥάθυμος	Ῥάθυμος	noun, nominative masculine singular	1	Rhathymus
+1ES 2:16	1	7	Ῥάθυμος	Ῥάθυμος	noun, nominative masculine singular	1	Rehum
 1ES 2:16	1	8	ὁ	ὁ	article, nominative masculine singular	1	the one of
 1ES 2:16	1	9	τὰ	ὁ	article, accusative neuter plural	1	the
 1ES 2:16	1	10	προσπίπτοντα	προσπίπτω	present active participle, accusative neuter plural	1	reports submitted
 1ES 2:16	1	11	καὶ	καί	conjunction	1	and
-1ES 2:16	1	12	Σεμέλλιος	Σεμέλλιος	noun, nominative masculine singular	1	Semellius
+1ES 2:16	1	12	Σεμέλλιος	Σεμέλλιος	noun, nominative masculine singular	1	Shimshai
 1ES 2:16	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 1ES 2:16	1	14	γραμματεύς	γραμματεύς	noun, nominative masculine singular	1	scribe
 1ES 2:16	1	14	γραμματεύς			2	secretary
 1ES 2:16	1	15	καὶ	καί	conjunction	1	and
 1ES 2:16	1	16	οἱ	ὁ	article, nominative masculine plural	1	the
-1ES 2:16	1	17	ἐπίλοιποι	ἐπίλοιπος	adjective, nominative masculine plural; substantival	1	those left
+1ES 2:16	1	17	ἐπίλοιποι	ἐπίλοιπος	adjective, nominative masculine plural; substantival	1	rest
 1ES 2:16	1	17	ἐπίλοιποι			2	remaining ones
-1ES 2:16	1	18	τῆς	ὁ	article, genitive feminine singular	1	the
-1ES 2:16	1	19	βουλῆς	βουλή	noun, genitive feminine singular	1	counsel
+1ES 2:16	1	18	τῆς	ὁ	article, genitive feminine singular	1	of the
+1ES 2:16	1	19	βουλῆς	βουλή	noun, genitive feminine singular	1	council
 1ES 2:16	1	20	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 1ES 2:16	1	21	καὶ	καί	conjunction	1	and
 1ES 2:16	1	22	κριταὶ	κριτής	noun, nominative masculine plural	1	judges
@@ -388,7 +388,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:17	1	6	κυρίῳ	κύριος	noun, dative masculine singular	1	lord
 1ES 2:17	1	7	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 1ES 2:17	1	8	βασιλεῖ	βασιλεύς	noun, dative masculine singular	1	king
-1ES 2:17	1	9	διότι	διότι	causal conjunction	1	because
+1ES 2:17	1	9	διότι	διότι	causal conjunction	1	that
 1ES 2:17	1	10	οἱ	ὁ	article, nominative masculine plural	1	the
 1ES 2:17	1	11	Ἰουδαῖοι	Ἰουδαῖος	noun, nominative masculine plural; proper ethnic name	1	Judeans
 1ES 2:17	1	11	Ἰουδαῖοι			2	Jews
@@ -403,10 +403,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:17	1	19	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 1ES 2:17	1	20	τὴν	ὁ	article, accusative feminine singular	1	the
 1ES 2:17	1	21	πόλιν	πόλις	noun, accusative feminine singular	1	city
-1ES 2:17	1	22	τὴν	ὁ	article, accusative feminine singular	1	the
+1ES 2:17	1	22	τὴν	ὁ	article, accusative feminine singular	1	—
 1ES 2:17	1	23	ἀποστάτιν	ἀποστάτις	adjective, accusative feminine singular	1	rebellious
 1ES 2:17	1	24	καὶ	καί	conjunction	1	and
-1ES 2:17	1	25	τὴν	ὁ	article, accusative feminine singular	1	the
+1ES 2:17	1	25	τὴν	ὁ	article, accusative feminine singular	1	—
 1ES 2:17	1	26	πονηρὰν	πονηρός	adjective, accusative feminine singular	1	wicked
 1ES 2:17	1	27	οἰκοδομοῦσι	οἰκοδομέω	present active indicative, third plural	1	are building
 1ES 2:17	1	28	τάς	ὁ	article, accusative feminine plural	1	the
@@ -420,7 +420,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:17	1	36	καὶ	καί	conjunction	1	and
 1ES 2:17	1	37	ναὸν	ναός	noun, accusative masculine singular	1	temple
 1ES 2:17	1	37	ναὸν			2	sanctuary
-1ES 2:17	1	38	ὑποβάλλονται	ὑποβάλλω	present passive indicative, third plural	1	are being laid
+1ES 2:17	1	38	ὑποβάλλονται	ὑποβάλλω	present passive indicative, third plural	1	are laying
 1ES 2:18	1	1	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 1ES 2:18	1	2	οὖν	οὖν	inferential particle	1	then
 1ES 2:18	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -437,14 +437,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:18	1	14	ὑπομείνωσι	ὑπομένω	aorist active subjunctive, third plural	1	will they consent
 1ES 2:18	1	15	δοῦναι	δίδωμι	aorist active infinitive	1	to give
 1ES 2:18	1	16	ἀλλὰ	ἀλλά	adversative conjunction	1	but
-1ES 2:18	1	17	καὶ	καί	conjunction	1	and
+1ES 2:18	1	17	καὶ	καί	conjunction	1	also
 1ES 2:18	1	18	βασιλεῦσιν	βασιλεύς	noun, dative masculine plural	1	kings
 1ES 2:18	1	19	ἀντιστήσονται	ἀνθίστημι	future middle indicative, third plural	1	they will resist
 1ES 2:18	1	20	καὶ	καί	conjunction	1	and
-1ES 2:18	1	21	ἐπεὶ	ἐπεί	temporal conjunction	1	while
+1ES 2:18	1	21	ἐπεὶ	ἐπεί	temporal conjunction	1	since
 1ES 2:18	1	22	ἐνεργεῖται	ἐνεργέω	present passive indicative, third singular	1	is being done
-1ES 2:18	1	23	τὰ	ὁ	article, neuter plural (case from context)	1	the
-1ES 2:18	1	24	κατὰ	κατά	preposition with the accusative	1	according to
+1ES 2:18	1	23	τὰ	ὁ	article, neuter plural (case from context)	1	the things
+1ES 2:18	1	24	κατὰ	κατά	preposition with the accusative	1	concerning
 1ES 2:18	1	25	τὸν	ὁ	article, accusative masculine singular	1	the
 1ES 2:18	1	26	ναὸν	ναός	noun, accusative masculine singular	1	temple
 1ES 2:18	1	26	ναὸν			2	sanctuary
@@ -472,7 +472,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:18	1	47	τῶν	ὁ	article, genitive plural	1	the
 1ES 2:18	1	48	πατέρων	πατήρ	noun, genitive masculine plural after τῶν	1	fathers
 1ES 2:18	1	49	σου	σύ	pronoun, possessive genitive second singular	1	your
-1ES 2:18	1	50	βιβλίοις	βιβλίον	noun, dative neuter plural	1	letters
+1ES 2:18	1	50	βιβλίοις	βιβλίον	noun, dative neuter plural	1	books
 1ES 2:19	1	1	Καὶ	καί	conjunction	1	and
 1ES 2:19	1	2	εὑρήσεις	εὑρίσκω	future active indicative, second singular	1	you shall find
 1ES 2:19	1	3	ἐν	ἐν	preposition with the dative	1	in
@@ -480,7 +480,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:19	1	5	ὑπομνήμασι	ὑπόμνημα	noun, dative neuter plural	1	records
 1ES 2:19	1	6	τὰ	ὁ	article, accusative neuter plural	1	the
 1ES 2:19	1	7	γεγραμμένα	γράφω	perfect middle/passive participle, accusative neuter plural	1	written
-1ES 2:19	1	8	περὶ	περί	preposition with genitive	1	for
+1ES 2:19	1	8	περὶ	περί	preposition with genitive	1	concerning
 1ES 2:19	1	9	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	these
 1ES 2:19	1	10	καὶ	καί	conjunction	1	and
 1ES 2:19	1	11	γνώσῃ	γινώσκω	future middle indicative, second singular	1	you will know
@@ -523,7 +523,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:20	1	4	σοι	σύ	personal pronoun dative second singular	1	to you
 1ES 2:20	1	5	κύριε	κύριος	noun vocative masculine singular	1	lord
 1ES 2:20	1	6	βασιλεῦ	βασιλεύς	noun, vocative masculine singular	1	king
-1ES 2:20	1	7	διότι	διότι	causal conjunction	1	because
+1ES 2:20	1	7	διότι	διότι	causal conjunction	1	that
 1ES 2:20	1	8	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 1ES 2:20	1	9	ἡ	ὁ	article, nominative feminine singular	1	the
 1ES 2:20	1	10	πόλις	πόλις	noun, nominative feminine singular	1	city
@@ -536,7 +536,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:20	1	17	ἀνασταθῇ	ἀνίστημι	aorist passive subjunctive, third singular	1	are raised
 1ES 2:20	1	18	κάθοδος	κάθοδος	noun, nominative feminine singular	1	access
 1ES 2:20	1	19	οὐκ	οὐ	negative particle	1	not
-1ES 2:20	1	20	ἔτι	ἔτι	temporal adverb	1	still
+1ES 2:20	1	20	ἔτι	ἔτι	temporal adverb	1	any longer
 1ES 2:20	1	21	σοι	σύ	personal pronoun, dative singular	1	to you
 1ES 2:20	1	22	ἔσται	εἰμί	future indicative, third singular	1	will be
 1ES 2:20	1	23	εἰς	εἰς	preposition with accusative	1	into
@@ -548,20 +548,20 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:21	1	2	ἀντέγραψεν	ἀντιγράφω	aorist active indicative, third singular	1	wrote back
 1ES 2:21	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 1ES 2:21	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
-1ES 2:21	1	5	Ῥαθύμῳ	Ῥάθυμος	noun, dative masculine singular	1	to Rhathymus
+1ES 2:21	1	5	Ῥαθύμῳ	Ῥάθυμος	noun, dative masculine singular	1	to Rehum
 1ES 2:21	1	6	τῷ	ὁ	article, dative masculine singular	1	the
-1ES 2:21	1	7	γράφοντι	γράφω	present active participle, dative masculine singular	1	scribe
+1ES 2:21	1	7	γράφοντι	γράφω	present active participle, dative masculine singular	1	who writes
 1ES 2:21	1	8	τὰ	ὁ	article, accusative neuter plural	1	the
 1ES 2:21	1	9	προσπίπτοντα	προσπίπτω	present active participle, accusative neuter plural	1	reports submitted
 1ES 2:21	1	10	καὶ	καί	conjunction	1	and
-1ES 2:21	1	11	Βεελτέθμῳ	Βεελτέθμος	noun, dative masculine singular	1	to Beelthemus
+1ES 2:21	1	11	Βεελτέθμῳ	Βεελτέθμος	noun, dative masculine singular	1	to Beeltethmus
 1ES 2:21	1	12	καὶ	καί	conjunction	1	and
-1ES 2:21	1	13	Σαμελλίῳ	Σαμέλλιος	noun, dative masculine singular	1	to Samellius
+1ES 2:21	1	13	Σαμελλίῳ	Σαμέλλιος	noun, dative masculine singular	1	to Shimshai
 1ES 2:21	1	14	γραμματεῖ	γραμματεύς	noun, dative masculine singular	1	scribe
 1ES 2:21	1	15	καὶ	καί	conjunction	1	and
-1ES 2:21	1	16	τοῖς	ὁ	article, dative masculine plural	1	the
+1ES 2:21	1	16	τοῖς	ὁ	article, dative masculine plural	1	to the
 1ES 2:21	1	17	λοιποῖς	λοιπός	adjective, dative masculine plural	1	remaining
-1ES 2:21	1	18	τοῖς	ὁ	article, dative masculine plural	1	the
+1ES 2:21	1	18	τοῖς	ὁ	article, dative masculine plural	1	—
 1ES 2:21	1	19	συντασσομένοις	συντάσσομαι	present middle participle, dative masculine plural	1	associated
 1ES 2:21	1	20	καὶ	καί	conjunction	1	and
 1ES 2:21	1	21	οἰκοῦσιν	οἰκέω	present active participle, dative masculine plural	1	who live
@@ -586,7 +586,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:22	1	10	ἐπισκέψασθαι	ἐπισκέπτομαι	aorist middle infinitive	1	to investigate
 1ES 2:22	1	11	καὶ	καί	conjunction	1	and
 1ES 2:22	1	12	ηὑρέθη	εὑρίσκω	aorist passive indicative, third singular	1	was found
-1ES 2:22	1	13	ὅτι	ὅτι	causal conjunction	1	for
+1ES 2:22	1	13	ὅτι	ὅτι	causal conjunction	1	that
 1ES 2:22	1	14	ἐστὶν	εἰμί	present indicative, third singular	1	is
 1ES 2:22	1	15	ἡ	ὁ	article, nominative feminine singular	1	the
 1ES 2:22	1	16	πόλις	πόλις	noun, nominative feminine singular	1	city
@@ -595,7 +595,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:22	1	19	αἰῶνος	αἰών	noun, genitive masculine singular	1	long ago
 1ES 2:22	1	19	αἰῶνος			2	of old
 1ES 2:22	1	20	βασιλεῦσιν	βασιλεύς	noun, dative masculine plural	1	against kings
-1ES 2:22	1	21	ἀντιπαρατάσσουσα	ἀντιπαρατάσσομαι	present middle participle, nominative feminine singular	1	arraying itself against
+1ES 2:22	1	21	ἀντιπαρατάσσουσα	ἀντιπαρατάσσομαι	present middle participle, nominative feminine singular	1	arraying itself
 1ES 2:23	1	1	Καὶ	καί	conjunction	1	and
 1ES 2:23	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
 1ES 2:23	1	3	ἄνθρωποι	ἄνθρωπος	noun, nominative masculine plural after οἱ	1	men
@@ -627,8 +627,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:24	1	4	ἀποκωλῦσαι	ἀποκωλύω	aorist active infinitive	1	to stop
 1ES 2:24	1	5	τοὺς	ὁ	article, accusative masculine plural	1	the
 1ES 2:24	1	6	ἀνθρώπους	ἄνθρωπος	noun, accusative masculine plural	1	men
-1ES 2:24	1	7	ἐκείνους	ἐκεῖνος	demonstrative pronoun, accusative masculine plural	1	those men
-1ES 2:24	1	8	τοῦ	ὁ	article, genitive singular	1	the
+1ES 2:24	1	7	ἐκείνους	ἐκεῖνος	demonstrative pronoun, accusative masculine plural	1	those
+1ES 2:24	1	8	τοῦ	ὁ	article, genitive singular	1	—
 1ES 2:24	1	9	οἰκοδομῆσαι	οἰκοδομέω	aorist active infinitive	1	to build
 1ES 2:24	1	9	οἰκοδομῆσαι			2	to rebuild
 1ES 2:24	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -642,7 +642,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:24	1	17	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 1ES 2:24	1	18	γένηται	γίνομαι	aorist middle subjunctive, 3rd singular	1	is
 1ES 2:24	1	19	καὶ	καί	conjunction	1	and
-1ES 2:24	1	20	μὴ	μή	negative particle	1	not
+1ES 2:24	1	20	μὴ	μή	negative particle	1	lest
 1ES 2:24	1	21	προβῇ	προβαίνω	aorist active subjunctive, third singular	1	it goes forward
 1ES 2:24	1	22	ἐπὶ	ἐπί	preposition with accusative	1	to
 1ES 2:24	1	23	πλεῖον	πλείων	comparative adjective accusative neuter singular	1	a greater extent
@@ -662,15 +662,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:25	1	7	Ἀραταξέρξου	Ἀραταξέρξης	noun, genitive masculine singular	1	Artaxerxes
 1ES 2:25	1	8	γραφέντων	γράφω	aorist passive participle, genitive neuter plural	1	written
 1ES 2:25	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
-1ES 2:25	1	10	Ῥάθυμος	Ῥάθυμος	noun, nominative masculine singular	1	Rhathymus
+1ES 2:25	1	10	Ῥάθυμος	Ῥάθυμος	noun, nominative masculine singular	1	Rehum
 1ES 2:25	1	11	καὶ	καί	conjunction	1	and
-1ES 2:25	1	12	Σαμέλλιος	Σαμέλλιος	noun, nominative masculine singular	1	Samellius
+1ES 2:25	1	12	Σαμέλλιος	Σαμέλλιος	noun, nominative masculine singular	1	Shimshai
 1ES 2:25	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 1ES 2:25	1	14	γραμματεὺς	γραμματεύς	noun, nominative masculine singular	1	scribe
 1ES 2:25	1	14	γραμματεὺς			2	secretary
 1ES 2:25	1	15	καὶ	καί	conjunction	1	and
-1ES 2:25	1	16	οἱ	ὁ	article, nominative masculine plural	1	the
-1ES 2:25	1	17	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	1	these things
+1ES 2:25	1	16	οἱ	ὁ	article, nominative masculine plural	1	those
+1ES 2:25	1	17	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	1	with them
 1ES 2:25	1	18	συντασσόμενοι	συντάσσομαι	present middle participle, nominative masculine plural	1	associated
 1ES 2:25	1	19	ἀναζεύξαντες	ἀναζεύγνυμι	aorist active participle, nominative masculine plural	1	having set out
 1ES 2:25	1	20	εἰς	εἰς	preposition with the accusative	1	into
@@ -692,11 +692,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:25	1	36	οἰκοδομὴ	οἰκοδομή	noun, nominative feminine singular	1	building
 1ES 2:25	1	37	τοῦ	ὁ	article, genitive neuter singular	1	of the
 1ES 2:25	1	38	ἱεροῦ	ἱερόν	noun, genitive neuter singular	1	sanctuary
-1ES 2:25	1	39	τοῦ	ὁ	article, genitive neuter singular	1	the
+1ES 2:25	1	39	τοῦ	ὁ	article, genitive neuter singular	1	—
 1ES 2:25	1	40	ἐν	ἐν	preposition with the dative	1	in
 1ES 2:25	1	41	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 1ES 2:25	1	42	μέχρι	μέχρι	preposition with genitive	1	until
-1ES 2:25	1	43	τοῦ	ὁ	article, genitive masculine singular	1	of the
+1ES 2:25	1	43	τοῦ	ὁ	article, genitive masculine singular	1	the
 1ES 2:25	1	44	δευτέρου	δεύτερος	ordinal adjective, genitive masculine singular	1	second
 1ES 2:25	1	45	ἔτους	ἔτος	noun, genitive neuter singular, of time	1	year
 1ES 2:25	1	46	τῆς	ὁ	article, genitive feminine singular	1	of the

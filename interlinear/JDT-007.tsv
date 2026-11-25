@@ -1,5 +1,5 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
-JDT 7:1	1	1	Τῌ	ὁ	article, dative feminine singular	1	to
+JDT 7:1	1	1	Τῌ	ὁ	article, dative feminine singular	1	on the
 JDT 7:1	1	2	δὲ	δέ	postpositive conjunction	1	and
 JDT 7:1	1	3	ἐπαύριον	ἐπαύριον	adverb	1	next day
 JDT 7:1	1	4	παρήγγειλεν	παραγγέλλω	aorist active indicative, third singular	1	ordered
@@ -14,7 +14,7 @@ JDT 7:1	1	12	λαῷ	λαός	noun, dative masculine singular	1	people
 JDT 7:1	1	13	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 JDT 7:1	1	14	οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
 JDT 7:1	1	15	παρεγένοντο	παραγίνομαι	aorist middle indicative, third plural	1	arrived
-JDT 7:1	1	16	ἐπὶ	ἐπί	preposition (case from context)	1	on
+JDT 7:1	1	16	ἐπὶ	ἐπί	preposition (case from context)	1	for
 JDT 7:1	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
 JDT 7:1	1	18	συμμαχίαν	συμμαχία	noun, accusative feminine singular	1	allied force
 JDT 7:1	1	19	αὐτοῦ	αὐτός	personal pronoun, genitive masculine singular	1	his
@@ -24,14 +24,14 @@ JDT 7:1	1	22	Βετυλούα	Βετυλούα	indeclinable place name, destinat
 JDT 7:1	1	23	καὶ	καί	conjunction	1	and
 JDT 7:1	1	24	τὰς	ὁ	article, accusative feminine plural	1	the
 JDT 7:1	1	25	ἀναβάσεις	ἀνάβασις	noun accusative feminine plural	1	ascents
-JDT 7:1	1	26	τῆς	ὁ	article, genitive feminine singular	1	the
+JDT 7:1	1	26	τῆς	ὁ	article, genitive feminine singular	1	of the
 JDT 7:1	1	27	ὀρεινῆς	ὀρεινός	substantival adjective, genitive feminine singular	1	hill country
 JDT 7:1	1	28	προκαταλαμβάνεσθαι	προκαταλαμβάνω	present middle infinitive	1	to occupy first
 JDT 7:1	1	29	καὶ	καί	conjunction	1	and
-JDT 7:1	1	30	ποιεῖν	ποιέω	present active infinitive	1	to do
+JDT 7:1	1	30	ποιεῖν	ποιέω	present active infinitive	1	to make
 JDT 7:1	1	31	πόλεμον	πόλεμος	noun, accusative masculine singular	1	war
 JDT 7:1	1	31	πόλεμον			2	battle
-JDT 7:1	1	32	πρὸς	πρός	preposition with the accusative	1	to
+JDT 7:1	1	32	πρὸς	πρός	preposition with the accusative	1	against
 JDT 7:1	1	33	τοὺς	ὁ	article, accusative masculine plural	1	the
 JDT 7:1	1	34	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
 JDT 7:1	1	35	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -88,14 +88,14 @@ JDT 7:3	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 JDT 7:3	1	10	πηγῆς	πηγή	noun, genitive feminine singular	1	spring
 JDT 7:3	1	11	καὶ	καί	conjunction	1	and
 JDT 7:3	1	12	παρέτειναν	παρατείνω	aorist active indicative, third plural	1	spread out
-JDT 7:3	1	13	εἰς	εἰς	preposition with the accusative	1	into
+JDT 7:3	1	13	εἰς	εἰς	preposition with the accusative	1	in
 JDT 7:3	1	14	εὖρος	εὖρος	noun, nominative neut. sg. in measure phrases	1	width
 JDT 7:3	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	on
-JDT 7:3	1	16	Δωθαεὶμ	Δωθαείμ	indeclinable place name, accusative in context	1	Dothaeim
-JDT 7:3	1	17	ἕως	ἕως	preposition with genitive of extent	1	down to
+JDT 7:3	1	16	Δωθαεὶμ	Δωθαείμ	indeclinable place name, accusative in context	1	Dothan
+JDT 7:3	1	17	ἕως	ἕως	preposition with genitive of extent	1	as far as
 JDT 7:3	1	18	Βελβαὶμ	Βελβαίμ	indeclinable place name governed by ἐπί	1	Belbaim
 JDT 7:3	1	19	καὶ	καί	conjunction	1	and
-JDT 7:3	1	20	εἰς	εἰς	preposition with the accusative	1	into
+JDT 7:3	1	20	εἰς	εἰς	preposition with the accusative	1	in
 JDT 7:3	1	21	μῆκος	μῆκος	noun, nominative neuter singular	1	length
 JDT 7:3	1	22	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JDT 7:3	1	23	Βετυλούα	Βετυλούα	indeclinable place name, case determined by syntax	1	Bethulia
@@ -105,7 +105,7 @@ JDT 7:3	1	25	Κυαμῶνος	Κυαμών	noun, genitive masculine singular	1	
 JDT 7:3	1	26	ἥ	ὅς	relative pronoun, nominative feminine singular	1	which
 JDT 7:3	1	27	ἐστιν	εἰμί	present indicative, third singular	1	is
 JDT 7:3	1	28	ἀπέναντι	ἀπέναντι	preposition with genitive	1	opposite
-JDT 7:3	1	29	Ἐσδρηλώμ	Ἐσδρηλώμ	indeclinable place name, genitive in context	1	Esdrelom
+JDT 7:3	1	29	Ἐσδρηλώμ	Ἐσδρηλώμ	indeclinable place name, genitive in context	1	Esdrelon
 JDT 7:4	1	1	Οἱ	ὁ	article, nominative masculine plural	1	the
 JDT 7:4	1	2	δὲ	δέ	conjunction	1	and
 JDT 7:4	1	3	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
@@ -147,7 +147,7 @@ JDT 7:4	1	35	φάραγγες			2	gorges
 JDT 7:4	1	36	οὔτε	οὔτε	negative conjunction, neither/nor in οὐκ...οὔτε series	1	nor
 JDT 7:4	1	37	οἱ	ὁ	article, nominative masculine plural	1	the
 JDT 7:4	1	38	βουνοὶ	βουνός	noun, nominative masculine plural	1	hills
-JDT 7:4	1	39	ὑποστήσονται	ὑφίστημι	future middle indicative, third plural	1	will stand their ground
+JDT 7:4	1	39	ὑποστήσονται	ὑφίστημι	future middle indicative, third plural	1	will withstand
 JDT 7:4	1	40	τὸ	ὁ	article, accusative neuter singular	1	the
 JDT 7:4	1	41	βάρος	βάρος	noun, accusative neuter singular	1	mass
 JDT 7:4	1	42	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -172,7 +172,7 @@ JDT 7:5	1	18	ὅλην	ὅλος	adjective, accusative feminine singular with �
 JDT 7:5	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
 JDT 7:5	1	20	νύκτα	νύξ	noun, accusative feminine singular	1	night
 JDT 7:5	1	21	ἐκείνην	ἐκεῖνος	demonstrative pronoun, accusative feminine singular	1	that
-JDT 7:6	1	1	Τῇ	ὁ	article, dative feminine singular	1	the
+JDT 7:6	1	1	Τῇ	ὁ	article, dative feminine singular	1	on the
 JDT 7:6	1	2	δὲ	δέ	postpositive conjunction	1	and
 JDT 7:6	1	3	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 JDT 7:6	1	4	τῇ	ὁ	article, dative feminine singular	1	the
@@ -193,7 +193,7 @@ JDT 7:6	1	18	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 JDT 7:6	1	19	ἐν	ἐν	preposition with the dative	1	in
 JDT 7:6	1	20	Βαιτυλούᾳ	Βαιτυλούα	place name, dative feminine singular; variant spelling	1	Bethulia
 JDT 7:7	1	1	καὶ	καί	conjunction	1	and
-JDT 7:7	1	2	ἐπεσκέψατο	ἐπισκέπτομαι	aorist middle indicative, third singular	1	counted
+JDT 7:7	1	2	ἐπεσκέψατο	ἐπισκέπτομαι	aorist middle indicative, third singular	1	surveyed
 JDT 7:7	1	3	τὰς	ὁ	article, accusative feminine plural	1	the
 JDT 7:7	1	4	ἀναβάσεις	ἀνάβασις	noun accusative feminine plural	1	ascents
 JDT 7:7	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -220,7 +220,7 @@ JDT 7:7	1	23	πολεμιστῶν	πολεμιστής	noun, genitive masculine
 JDT 7:7	1	24	καὶ	καί	conjunction	1	and
 JDT 7:7	1	25	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 JDT 7:7	1	26	ἀνέζευξεν	ἀναζεύγνυμι	aorist active indicative, third singular	1	went back
-JDT 7:7	1	27	εἰς	εἰς	preposition with the accusative	1	into
+JDT 7:7	1	27	εἰς	εἰς	preposition with the accusative	1	to
 JDT 7:7	1	28	τὸν	ὁ	article, accusative masculine singular	1	the
 JDT 7:7	1	29	λαόν	λαός	noun, accusative masculine singular	1	people
 JDT 7:7	1	30	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -237,7 +237,7 @@ JDT 7:8	1	9	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 JDT 7:8	1	10	οἱ	ὁ	article, nominative masculine plural	1	the
 JDT 7:8	1	11	ἡγούμενοι	ἡγέομαι	present middle participle, nominative masculine plural; substantival	1	leaders
 JDT 7:8	1	11	ἡγούμενοι			2	those leading
-JDT 7:8	1	12	τοῦ	ὁ	article, genitive singular	1	the
+JDT 7:8	1	12	τοῦ	ὁ	article, genitive singular	1	of the
 JDT 7:8	1	13	λαοῦ	λαός	noun, genitive masculine singular	1	people
 JDT 7:8	1	14	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	of Moab
 JDT 7:8	1	15	καὶ	καί	conjunction	1	and
@@ -256,7 +256,7 @@ JDT 7:9	1	5	δεσπότης	δεσπότης	noun, nominative masculine singula
 JDT 7:9	1	6	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 JDT 7:9	1	7	ἵνα	ἵνα	purpose conjunction with the subjunctive	1	so that
 JDT 7:9	1	8	μὴ	μή	negative particle	1	not
-JDT 7:9	1	9	γένηται	γίνομαι	aorist middle subjunctive, 3rd singular	1	is
+JDT 7:9	1	9	γένηται	γίνομαι	aorist middle subjunctive, 3rd singular	1	there may be
 JDT 7:9	1	10	θραῦσμα	θραῦσμα	noun, accusative neuter singular	1	a loss
 JDT 7:9	1	11	ἐν	ἐν	preposition with dative	1	in
 JDT 7:9	1	12	τῇ	ὁ	article dative feminine singular	1	the
@@ -266,7 +266,7 @@ JDT 7:10	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 JDT 7:10	1	2	γὰρ	γάρ	conjunction	1	for
 JDT 7:10	1	3	λαὸς	λαός	noun, nominative masculine singular	1	people
 JDT 7:10	1	4	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
-JDT 7:10	1	5	τῶν	ὁ	article, genitive plural	1	the
+JDT 7:10	1	5	τῶν	ὁ	article, genitive plural	1	of the
 JDT 7:10	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 JDT 7:10	1	7	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JDT 7:10	1	8	οὐ	οὐ	negative particle	1	not
@@ -279,13 +279,13 @@ JDT 7:10	1	14	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
 JDT 7:10	1	15	ἐπὶ	ἐπί	preposition	1	upon
 JDT 7:10	1	16	τοῖς	ὁ	article, dative neuter plural	1	the
 JDT 7:10	1	17	ὕψεσι	ὕψος	noun, dative neuter plural	1	heights
-JDT 7:10	1	18	τῶν	ὁ	article, genitive plural	1	the
+JDT 7:10	1	18	τῶν	ὁ	article, genitive plural	1	of the
 JDT 7:10	1	19	ὀρέων	ὄρος	noun, genitive neuter plural	1	mountains
 JDT 7:10	1	20	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JDT 7:10	1	21	ἐν	ἐν	preposition with the dative	1	in
-JDT 7:10	1	22	οἷς	ὅς	relative pronoun, dative masculine plural	1	whom
+JDT 7:10	1	22	οἷς	ὅς	relative pronoun, dative masculine plural	1	which
 JDT 7:10	1	23	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
-JDT 7:10	1	24	κατοικοῦσιν	κατοικέω	present active participle, dative masculine plural	1	who live
+JDT 7:10	1	24	κατοικοῦσιν	κατοικέω	present active participle, dative masculine plural	1	live
 JDT 7:10	1	25	ἐν	ἐν	preposition with the dative	1	in
 JDT 7:10	1	26	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 JDT 7:10	1	27	οὐ	οὐ	negative particle	1	not
@@ -303,10 +303,10 @@ JDT 7:11	1	2	νῦν	νῦν	adverb of time	1	now
 JDT 7:11	1	3	δέσποτα	δεσπότης	noun, vocative masculine singular	1	my lord
 JDT 7:11	1	4	μὴ	μή	negative particle	1	not
 JDT 7:11	1	5	πολέμει	πολεμέω	present active imperative, second singular	1	fight
-JDT 7:11	1	6	πρὸς	πρός	preposition with the accusative	1	to
+JDT 7:11	1	6	πρὸς	πρός	preposition with the accusative	1	against
 JDT 7:11	1	7	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 JDT 7:11	1	8	καθὼς	καθώς	comparative conjunction	1	just as
-JDT 7:11	1	9	γίνεται	γίνομαι	present middle indicative, third singular	1	becomes
+JDT 7:11	1	9	γίνεται	γίνομαι	present middle indicative, third singular	1	is
 JDT 7:11	1	10	πόλεμος	πόλεμος	noun, nominative masculine singular	1	battle
 JDT 7:11	1	11	παρατάξεως	παράταξις	noun, genitive feminine singular	1	in formation
 JDT 7:11	1	12	καὶ	καί	conjunction	1	and
@@ -363,7 +363,7 @@ JDT 7:13	1	12	δίψα	δίψος	noun, nominative feminine singular	1	thirst
 JDT 7:13	1	13	καὶ	καί	conjunction	1	and
 JDT 7:13	1	14	ἐκδώσουσι	ἐκδίδωμι	future active indicative, third plural	1	will surrender
 JDT 7:13	1	15	πόλιν	πόλις	noun, accusative feminine singular	1	city
-JDT 7:13	1	16	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
+JDT 7:13	1	16	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 JDT 7:13	1	17	καὶ	καί	conjunction	1	and
 JDT 7:13	1	18	ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
 JDT 7:13	1	19	καὶ	καί	conjunction	1	and
@@ -380,7 +380,7 @@ JDT 7:13	1	28	τῶν	ὁ	article, genitive neuter plural	1	of the
 JDT 7:13	1	29	ὀρέων	ὄρος	noun, genitive neuter plural	1	mountains
 JDT 7:13	1	30	καὶ	καί	conjunction	1	and
 JDT 7:13	1	31	παρεμβαλοῦμεν	παρεμβάλλω	future active indicative, first plural	1	we will camp
-JDT 7:13	1	32	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+JDT 7:13	1	32	ἐπ᾽	ἐπί	preposition with the accusative	1	on
 JDT 7:13	1	33	αὐταῖς	αὐτός	pronoun, dative feminine plural	1	them
 JDT 7:13	1	34	εἰς	εἰς	preposition with the accusative of purpose	1	for
 JDT 7:13	1	35	προφυλακὴν	προφυλακή	noun, accusative feminine singular	1	an advance guard
@@ -475,7 +475,7 @@ JDT 7:17	1	7	μετ᾽	μετά	elided preposition with the genitive	1	with
 JDT 7:17	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 JDT 7:17	1	9	χιλιάδες	χιλιάς	noun, nominative feminine plural	1	thousands
 JDT 7:17	1	10	πέντε	πέντε	indeclinable cardinal numeral	1	five
-JDT 7:17	1	11	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+JDT 7:17	1	11	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 JDT 7:17	1	12	Ἀσσούρ	Ἀσσούρ	proper name, indeclinable; territorial sense	1	of Assyria
 JDT 7:17	1	13	καὶ	καί	conjunction	1	and
 JDT 7:17	1	14	παρενέβαλον	παρεμβάλλω	aorist active indicative, 3rd pl., encamped	1	encamped
@@ -509,7 +509,7 @@ JDT 7:18	1	12	ἐν	ἐν	preposition with the dative	1	in
 JDT 7:18	1	13	τῇ	ὁ	article, dative feminine singular	1	the
 JDT 7:18	1	14	ὀρεινῇ	ὀρεινός	substantival adjective, dative feminine singular	1	hill country
 JDT 7:18	1	15	ἀπέναντι	ἀπέναντι	preposition with genitive	1	before
-JDT 7:18	1	16	Δωθαεὶμ	Δωθαείμ	indeclinable place name, accusative in context	1	Dothaeim
+JDT 7:18	1	16	Δωθαεὶμ	Δωθαείμ	indeclinable place name, accusative in context	1	Dothan
 JDT 7:18	1	17	καὶ	καί	conjunction	1	and
 JDT 7:18	1	18	ἀπέστειλαν	ἀποστέλλω	aorist active indicative, third plural	1	sent
 JDT 7:18	1	19	ἐξ	ἐκ	preposition with the genitive	1	from
@@ -519,24 +519,24 @@ JDT 7:18	1	22	νότον	νότος	noun, accusative masculine singular	1	the so
 JDT 7:18	1	23	καὶ	καί	conjunction	1	and
 JDT 7:18	1	24	ἀπηλιώτην	ἀπηλιώτης	noun, accusative masculine singular	1	the east
 JDT 7:18	1	25	ἀπέναντι	ἀπέναντι	preposition with genitive	1	opposite
-JDT 7:18	1	26	Ἐκρεβὴλ	Ἐκρεβήλ	indeclinable place name, genitive in context	1	Ekrebel
+JDT 7:18	1	26	Ἐκρεβὴλ	Ἐκρεβήλ	indeclinable place name, genitive in context	1	Egrebel
 JDT 7:18	1	27	ἥ	ὅς	relative pronoun, nominative feminine singular	1	which
 JDT 7:18	1	28	ἐστι	εἰμί	present indicative, third singular	1	is
-JDT 7:18	1	29	πλησίον	πλησίον	adverb used as a substantival expression, accusative masculine singular	1	neighbor
+JDT 7:18	1	29	πλησίον	πλησίον	adverb used as a substantival expression, accusative masculine singular	1	near
 JDT 7:18	1	29	πλησίον			2	fellow
-JDT 7:18	1	30	Χουσεὶ	Χουσεί	indeclinable personal name, nominative in context	1	to Chousei
+JDT 7:18	1	30	Χουσεὶ	Χουσεί	indeclinable personal name, nominative in context	1	Chusi
 JDT 7:18	1	31	ἥ	ὅς	relative pronoun, nominative feminine singular	1	which
 JDT 7:18	1	32	ἐστιν	εἰμί	present indicative, third singular	1	is
 JDT 7:18	1	33	ἐπὶ	ἐπί	preposition	1	on
 JDT 7:18	1	34	τοῦ	ὁ	article, genitive singular	1	the
 JDT 7:18	1	35	χειμάρρου	χειμάρρους	noun, genitive masculine singular	1	torrent
 JDT 7:18	1	35	χειμάρρου			2	stream
-JDT 7:18	1	36	Μοχμοὺρ	Μοχμούρ	indeclinable geographic name, genitive in context	1	of Mochmour
+JDT 7:18	1	36	Μοχμοὺρ	Μοχμούρ	indeclinable geographic name, genitive in context	1	of Mochmur
 JDT 7:18	1	37	καὶ	καί	conjunction	1	and
 JDT 7:18	1	38	ἡ	ὁ	article, nominative feminine singular	1	the
 JDT 7:18	1	39	λοιπὴ	λοιπός	adjective, nominative feminine singular	1	remaining
 JDT 7:18	1	40	στρατιὰ	στρατιά	noun, nominative fem. sg. after ἡ	1	army
-JDT 7:18	1	41	τῶν	ὁ	article, genitive plural	1	the
+JDT 7:18	1	41	τῶν	ὁ	article, genitive plural	1	—
 JDT 7:18	1	42	Ἀσσυρίων	Ἀσσύριος	noun, genitive masculine plural	1	of the Assyrians
 JDT 7:18	1	43	παρενέβαλον	παρεμβάλλω	aorist active indicative, 3rd pl., encamped	1	encamped
 JDT 7:18	1	44	ἐν	ἐν	preposition with the dative	1	in
@@ -632,7 +632,7 @@ JDT 7:21	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
 JDT 7:21	1	3	λάκκοι	λάκκος	noun, nominative masculine plural	1	cisterns
 JDT 7:21	1	4	ἐξεκενοῦντο	ἐκκενόω	imperfect passive indicative, third plural	1	were being emptied
 JDT 7:21	1	5	καὶ	καί	conjunction	1	and
-JDT 7:21	1	6	οὐκ	οὐ	negative particle	1	not even
+JDT 7:21	1	6	οὐκ	οὐ	negative particle	1	not
 JDT 7:21	1	7	εἶχον	ἔχω	imperfect active indicative, third plural	1	they had
 JDT 7:21	1	8	πιεῖν	πίνω	aorist active infinitive	1	to drink
 JDT 7:21	1	9	εἰς	εἰς	preposition with the accusative	1	into
@@ -679,7 +679,7 @@ JDT 7:22	1	25	ἐν	ἐν	preposition with the dative	1	in
 JDT 7:22	1	26	ταῖς	ὁ	article, dative feminine plural	1	the
 JDT 7:22	1	27	διόδοις	δίοδος	noun, dative feminine plural	1	streets
 JDT 7:22	1	27	διόδοις			2	passages
-JDT 7:22	1	28	τῶν	ὁ	article, genitive feminine plural	1	by the
+JDT 7:22	1	28	τῶν	ὁ	article, genitive feminine plural	1	of the
 JDT 7:22	1	29	πυλῶν	πύλη	noun genitive feminine plural	1	gates
 JDT 7:22	1	30	καὶ	καί	conjunction	1	and
 JDT 7:22	1	31	οὐκ	οὐ	negative particle	1	not
@@ -695,8 +695,8 @@ JDT 7:23	1	2	ἐπισυνήχθησαν			2	were gathered
 JDT 7:23	1	3	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 JDT 7:23	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 JDT 7:23	1	5	λαὸς	λαός	noun, nominative masculine singular	1	people
-JDT 7:23	1	6	ἐπὶ	ἐπί	preposition	1	on/upon
-JDT 7:23	1	7	Ὀζίαν	Ὀζίας	noun, accusative masculine singular; proper	1	Uzziah
+JDT 7:23	1	6	ἐπὶ	ἐπί	preposition	1	to
+JDT 7:23	1	7	Ὀζίαν	Ὀζίας	noun, accusative masculine singular; proper	1	Ozias
 JDT 7:23	1	8	καὶ	καί	conjunction	1	and
 JDT 7:23	1	9	τοὺς	ὁ	article, accusative masculine plural	1	the
 JDT 7:23	1	10	ἄρχοντας	ἄρχων	noun, accusative masculine plural	1	rulers
@@ -731,8 +731,8 @@ JDT 7:24	1	6	καὶ	καί	conjunction	1	and
 JDT 7:24	1	7	ὑμῶν	σύ	pronoun, genitive second plural	1	you
 JDT 7:24	1	8	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 JDT 7:24	1	9	ἐποιήσατε	ποιέω	aorist active indicative, second person plural	1	you did
-JDT 7:24	1	10	ἐν	ἐν	preposition with the dative	1	in
-JDT 7:24	1	11	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
+JDT 7:24	1	10	ἐν	ἐν	preposition with the dative	1	against
+JDT 7:24	1	11	ἡμῖν	ἐγώ	pronoun, dative first plural	1	us
 JDT 7:24	1	12	ἀδικίαν	ἀδικία	noun, accusative feminine singular	1	injustice
 JDT 7:24	1	13	μεγάλην	μέγας	adjective, accusative feminine singular	1	great
 JDT 7:24	1	14	οὐ	οὐ	negative particle	1	not
@@ -759,7 +759,7 @@ JDT 7:25	1	15	αὐτῶν	αὐτός	pronoun, possessive genitive plural	1	the
 JDT 7:25	1	16	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive of purpose	1	in order
 JDT 7:25	1	17	καταστρωθῆναι	καταστρώννυμι	aorist passive infinitive	1	to be laid low
 JDT 7:25	1	18	ἐναντίον	ἐναντίον	improper preposition (genitive)	1	before
-JDT 7:25	1	19	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JDT 7:25	1	19	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 JDT 7:25	1	20	ἐν	ἐν	preposition with the dative	1	in
 JDT 7:25	1	21	δίψῃ	δίψα	noun, dative feminine singular	1	thirst
 JDT 7:25	1	22	καὶ	καί	conjunction	1	and
@@ -793,7 +793,7 @@ JDT 7:27	1	6	εἰς	εἰς	preposition with the accusative	1	into
 JDT 7:27	1	7	διαρπαγήν	διαρπαγή	noun, accusative feminine singular	1	plunder
 JDT 7:27	1	8	ἐσόμεθα	εἰμί	future indicative, first plural	1	we shall be
 JDT 7:27	1	9	γὰρ	γάρ	conjunction	1	for
-JDT 7:27	1	10	εἰς	εἰς	preposition with the accusative	1	into
+JDT 7:27	1	10	εἰς	εἰς	preposition with the accusative	1	as
 JDT 7:27	1	11	δούλους	δοῦλος	noun, accusative masculine plural	1	slaves
 JDT 7:27	1	12	καὶ	καί	conjunction	1	and
 JDT 7:27	1	13	ζήσεται	ζάω	future middle indicative, third singular	1	will live
@@ -871,10 +871,10 @@ JDT 7:29	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third sing
 JDT 7:29	1	3	κλαυθμὸς	κλαυθμός	noun nominative masculine singular	1	weeping
 JDT 7:29	1	4	μέγας	μέγας	adjective, nominative masculine singular	1	great
 JDT 7:29	1	5	ἐν	ἐν	preposition with the dative	1	in
-JDT 7:29	1	6	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	among
-JDT 7:29	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
+JDT 7:29	1	6	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
+JDT 7:29	1	7	τῆς	ὁ	article, genitive feminine singular	1	of the
 JDT 7:29	1	8	ἐκκλησίας	ἐκκλησία	noun, genitive feminine singular	1	assembly
-JDT 7:29	1	9	πάντων	πᾶς	adjective, genitive neuter plural	1	all
+JDT 7:29	1	9	πάντων	πᾶς	adjective, genitive neuter plural	1	of all
 JDT 7:29	1	10	ὁμοθυμαδὸν	ὁμοθυμαδόν	adverb, with one accord	1	together
 JDT 7:29	1	11	καὶ	καί	conjunction	1	and
 JDT 7:29	1	12	ἐβόησαν	βοάω	aorist active indicative, third plural	1	cried out
@@ -887,8 +887,8 @@ JDT 7:30	1	1	Καὶ	καί	conjunction	1	and
 JDT 7:30	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 JDT 7:30	1	3	πρὸς	πρός	preposition with the accusative	1	to
 JDT 7:30	1	4	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-JDT 7:30	1	5	Ὀζίας	Ὀζίας	noun, nominative masculine singular; personal name	1	Uzziah
-JDT 7:30	1	5	Ὀζίας			2	Ozias
+JDT 7:30	1	5	Ὀζίας	Ὀζίας	noun, nominative masculine singular; personal name	1	Ozias
+JDT 7:30	1	5	Ὀζίας			2	Uzziah
 JDT 7:30	1	6	θαρσεῖτε	θαρσέω	present active imperative, 2nd pl.	1	take courage
 JDT 7:30	1	7	ἀδελφοὶ	ἀδελφός	noun, nominative masculine plural	1	brothers
 JDT 7:30	1	8	διακαρτερήσωμεν	διακαρτερέω	aorist active subjunctive, first plural	1	let us hold out
@@ -911,8 +911,8 @@ JDT 7:30	1	24	οὐ	οὐ	negative adverb with future indicative	1	not
 JDT 7:30	1	25	γὰρ	γάρ	conjunction	1	for
 JDT 7:30	1	26	ἐγκαταλείψει	ἐγκαταλείπω	future active indicative, 3rd singular	1	shall forsake
 JDT 7:30	1	27	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	1	us
-JDT 7:30	1	28	εἰς	εἰς	preposition with the accusative	1	into
-JDT 7:30	1	29	τέλος	τέλος	noun accusative neuter singular	1	forever
+JDT 7:30	1	28	εἰς	εἰς	preposition with the accusative	1	to
+JDT 7:30	1	29	τέλος	τέλος	noun accusative neuter singular	1	the end
 JDT 7:31	1	1	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 JDT 7:31	1	2	δὲ	δέ	postpositive conjunction	1	and
 JDT 7:31	1	3	διέλθωσιν	διέρχομαι	aorist active subjunctive, third plural	1	pass

@@ -2,18 +2,18 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 JDT 15:1	1	1	ΚΑΙ	καί	conjunction	1	and
 JDT 15:1	1	2	ὡς	ὡς	comparative particle	1	as
 JDT 15:1	1	3	ἤκουσαν	ἀκούω	aorist active indicative, third plural	1	they heard
-JDT 15:1	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
+JDT 15:1	1	4	οἱ	ὁ	article, nominative masculine plural	1	those
 JDT 15:1	1	5	ἐν	ἐν	preposition with the dative	1	in
 JDT 15:1	1	6	τοῖς	ὁ	article, dative neuter plural	1	the
 JDT 15:1	1	7	σκηνώμασιν	σκήνωμα	noun dative neuter plural	1	tents
-JDT 15:1	1	8	ὄντες	εἰμί	present active participle, nominative masculine plural	1	being
+JDT 15:1	1	8	ὄντες	εἰμί	present active participle, nominative masculine plural	1	who were
 JDT 15:1	1	9	ἐξέστησαν	ἐξίστημι	aorist active indicative, third plural	1	were alarmed
-JDT 15:1	1	10	ἐπὶ	ἐπί	preposition (case from context)	1	on
+JDT 15:1	1	10	ἐπὶ	ἐπί	preposition (case from context)	1	at
 JDT 15:1	1	11	τὸ	ὁ	article, accusative neuter singular	1	what
 JDT 15:1	1	12	γεγονός	γίνομαι	perfect passive participle, accusative neuter singular	1	had happened
 JDT 15:2	1	1	καὶ	καί	conjunction	1	and
 JDT 15:2	1	2	ἔπεσεν	πίπτω	aorist active indicative, third singular	1	fell
-JDT 15:2	1	3	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+JDT 15:2	1	3	ἐπ᾽	ἐπί	preposition with the accusative	1	on
 JDT 15:2	1	4	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 JDT 15:2	1	5	φόβος	φόβος	noun, nominative masc. sg.	1	fear
 JDT 15:2	1	6	καὶ	καί	conjunction	1	and
@@ -23,9 +23,9 @@ JDT 15:2	1	9	οὐκ	οὐ	negative adverb with future indicative	1	not
 JDT 15:2	1	10	ἦν	εἰμί	imperfect active indicative, third person singular	1	was
 JDT 15:2	1	11	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 JDT 15:2	1	12	μένων	μένω	present active participle, nominative masculine singular	1	remaining
-JDT 15:2	1	13	κατὰ	κατά	preposition with accusative	1	opposite
-JDT 15:2	1	14	πρόσωπον	πρόσωπον	noun, accusative neuter singular, completes the expression	1	—
-JDT 15:2	1	15	τοῦ	ὁ	article, genitive singular	1	the
+JDT 15:2	1	13	κατὰ	κατά	preposition with accusative	1	before
+JDT 15:2	1	14	πρόσωπον	πρόσωπον	noun, accusative neuter singular, completes the expression	1	the face
+JDT 15:2	1	15	τοῦ	ὁ	article, genitive singular	1	of the
 JDT 15:2	1	16	πλησίον	πλησίον	substantive, nominative masculine singular	1	neighbour
 JDT 15:2	1	17	ἔτι	ἔτι	temporal adverb	1	still
 JDT 15:2	1	18	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
@@ -33,7 +33,7 @@ JDT 15:2	1	19	ἐκχυθέντες	ἐκχέω	aorist passive participle, nomin
 JDT 15:2	1	20	ὁμοθυμαδὸν	ὁμοθυμαδόν	adverb, with one accord	1	together
 JDT 15:2	1	21	ἔφευγον	φεύγω	imperfect active indicative, third plural	1	were fleeing
 JDT 15:2	1	22	ἐπὶ	ἐπί	preposition	1	on
-JDT 15:2	1	23	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
+JDT 15:2	1	23	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	every
 JDT 15:2	1	24	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 JDT 15:2	1	24	ὁδὸν			2	path
 JDT 15:2	1	25	τοῦ	ὁ	article, genitive neuter singular	1	of the
@@ -68,16 +68,16 @@ JDT 15:3	1	23	ἐπ᾽	ἐπί	preposition with the accusative	1	over
 JDT 15:3	1	24	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 JDT 15:4	1	1	Καὶ	καί	conjunction	1	and
 JDT 15:4	1	2	ἀπέστειλεν	ἀποστέλλω	aorist active indicative, third singular	1	sent
-JDT 15:4	1	3	Ὀζίας	Ὀζίας	noun, nominative masculine singular; personal name	1	Uzziah
-JDT 15:4	1	3	Ὀζίας			2	Ozias
+JDT 15:4	1	3	Ὀζίας	Ὀζίας	noun, nominative masculine singular; personal name	1	Ozias
+JDT 15:4	1	3	Ὀζίας			2	Uzziah
 JDT 15:4	1	4	εἰς	εἰς	preposition with the accusative	1	into
-JDT 15:4	1	5	Βαιτομασθαὶμ	Βαιτομασθαίμ	indeclinable place name, destination in context	1	Baitomasthaim
+JDT 15:4	1	5	Βαιτομασθαὶμ	Βαιτομασθαίμ	indeclinable place name, destination in context	1	Betomestham
 JDT 15:4	1	6	καὶ	καί	conjunction	1	and
 JDT 15:4	1	7	Βηβαὶ	Βηβαί	personal or clan name, indeclinable	1	Bebai
 JDT 15:4	1	8	καὶ	καί	conjunction	1	and
 JDT 15:4	1	9	Χωβαὶ	Χωβαί	indeclinable place name, destination in context	1	Chobai
 JDT 15:4	1	10	καὶ	καί	conjunction	1	and
-JDT 15:4	1	11	Χωλὰ	Χωλά	indeclinable place name, destination in context	1	Chola
+JDT 15:4	1	11	Χωλὰ	Χωλά	indeclinable place name, destination in context	1	Cola
 JDT 15:4	1	12	καὶ	καί	conjunction	1	and
 JDT 15:4	1	13	εἰς	εἰς	preposition with the accusative	1	into
 JDT 15:4	1	14	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
@@ -87,20 +87,20 @@ JDT 15:4	1	17	τοὺς	ὁ	article, accusative masculine plural	1	messengers
 JDT 15:4	1	18	ἀπαγγέλλοντας	ἀπαγγέλλω	present active participle, accusative masculine plural	1	to report
 JDT 15:4	1	19	ὑπὲρ	περί	preposition governing the genitive	1	about
 JDT 15:4	1	20	τῶν	ὁ	article, genitive neuter plural	1	what
-JDT 15:4	1	21	συντετελεσμένων	συντελέω	perfect passive participle, genitive neuter plural	1	what had been accomplished
+JDT 15:4	1	21	συντετελεσμένων	συντελέω	perfect passive participle, genitive neuter plural	1	had been accomplished
 JDT 15:4	1	22	καὶ	καί	conjunction	1	and
 JDT 15:4	1	23	ἵνα	ἵνα	conjunction	1	so that
 JDT 15:4	1	24	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 JDT 15:4	1	25	ἐπεκχυθῶσι	ἐπεκχέω	aorist passive subjunctive, third plural	1	they may pour out upon
-JDT 15:4	1	26	τοῖς	ὁ	article, dative masculine plural	1	upon the
+JDT 15:4	1	26	τοῖς	ὁ	article, dative masculine plural	1	the
 JDT 15:4	1	27	πολεμίοις	πολέμιος	adjective, dative masculine plural	1	enemies
 JDT 15:4	1	28	εἰς	εἰς	preposition with the accusative	1	into
 JDT 15:4	1	29	τὴν	ὁ	article, accusative feminine singular	1	the
 JDT 15:4	1	30	ἀναίρεσιν	ἀναίρεσις	noun, accusative feminine singular	1	destruction
 JDT 15:4	1	31	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JDT 15:5	1	1	Ὡς	ὡς	comparative particle	1	as
-JDT 15:5	1	2	δὴ	δή	emphatic particle	1	please
-JDT 15:5	1	2	δὴ			2	now
+JDT 15:5	1	2	δὴ	δή	emphatic particle	1	now
+JDT 15:5	1	2	δὴ			2	please
 JDT 15:5	1	3	ἤκουσαν	ἀκούω	aorist active indicative, third plural	1	they heard
 JDT 15:5	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
 JDT 15:5	1	5	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
@@ -108,18 +108,18 @@ JDT 15:5	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive i
 JDT 15:5	1	7	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 JDT 15:5	1	8	ὁμοθυμαδὸν	ὁμοθυμαδόν	adverb, with one accord	1	together
 JDT 15:5	1	9	ἐπέπεσον	ἐπιπίπτω	aorist active indicative third plural	1	fell
-JDT 15:5	1	10	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+JDT 15:5	1	10	ἐπ᾽	ἐπί	preposition with the accusative	1	upon
 JDT 15:5	1	11	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 JDT 15:5	1	12	καὶ	καί	conjunction	1	and
 JDT 15:5	1	13	ἔκοπτον	κόπτω	imperfect active indicative, third plural	1	cut down
 JDT 15:5	1	14	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 JDT 15:5	1	15	ἕως	ἕως	preposition with the genitive	1	as far as
 JDT 15:5	1	15	ἕως			2	up to
-JDT 15:5	1	16	Χωβά	Χωβά	indeclinable place name after ἕως	1	Choba
+JDT 15:5	1	16	Χωβά	Χωβά	indeclinable place name after ἕως	1	Chobai
 JDT 15:5	1	17	ὡσαύτως	ὡσαύτως	adverb	1	alike
 JDT 15:5	1	18	δὲ	δέ	postpositive conjunction	1	and
 JDT 15:5	1	19	καὶ	καί	conjunction	1	also
-JDT 15:5	1	20	οἱ	ὁ	article, nominative masculine plural	1	the
+JDT 15:5	1	20	οἱ	ὁ	article, nominative masculine plural	1	those
 JDT 15:5	1	21	ἐξ	ἐκ	preposition with the genitive	1	from
 JDT 15:5	1	22	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 JDT 15:5	1	23	παρεγενήθησαν	παραγίνομαι	aorist passive indicative, third plural	1	arrived
@@ -134,25 +134,25 @@ JDT 15:5	1	30	γὰρ	γάρ	conjunction	1	for
 JDT 15:5	1	31	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 JDT 15:5	1	32	τὰ	ὁ	article, accusative neuter plural	1	what
 JDT 15:5	1	33	γεγονότα	γίνομαι	perfect active participle, accusative neuter plural	1	had happened
-JDT 15:5	1	34	τῇ	ὁ	article, dative feminine singular	1	the
+JDT 15:5	1	34	τῇ	ὁ	article, dative feminine singular	1	in the
 JDT 15:5	1	35	παρεμβολῇ	παρεμβολή	noun, dative feminine singular	1	camp
 JDT 15:5	1	35	παρεμβολῇ			2	encampment
 JDT 15:5	1	36	τῶν	ὁ	article, genitive masculine plural	1	of the
 JDT 15:5	1	37	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	enemies
 JDT 15:5	1	38	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JDT 15:5	1	39	καὶ	καί	conjunction	1	and
-JDT 15:5	1	40	οἱ	ὁ	article, nominative masculine plural	1	the
+JDT 15:5	1	40	οἱ	ὁ	article, nominative masculine plural	1	those
 JDT 15:5	1	41	ἐν	ἐν	preposition with the dative	1	in
 JDT 15:5	1	42	τῇ	ὁ	article, dative feminine singular	1	the
 JDT 15:5	1	43	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	1	Gilead
 JDT 15:5	1	44	καὶ	καί	conjunction	1	and
-JDT 15:5	1	45	οἱ	ὁ	article, nominative masculine plural	1	the
+JDT 15:5	1	45	οἱ	ὁ	article, nominative masculine plural	1	those
 JDT 15:5	1	46	ἐν	ἐν	preposition with the dative	1	in
 JDT 15:5	1	47	τῇ	ὁ	article, dative feminine singular	1	the
 JDT 15:5	1	48	Γαλιλαίᾳ	Γαλιλαία	noun, dative feminine singular	1	Galilee
 JDT 15:5	1	49	ὑπερεκέρασαν	ὑπερκεράννυμι	aorist active indicative, third plural	1	outflanked
 JDT 15:5	1	50	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-JDT 15:5	1	51	πληγῇ	πληγή	noun, dative feminine singular	1	a blow
+JDT 15:5	1	51	πληγῇ	πληγή	noun, dative feminine singular	1	with a blow
 JDT 15:5	1	52	μεγάλῃ	μέγας	adjective, dative feminine singular	1	great
 JDT 15:5	1	53	ἕως	ἕως	preposition with the genitive	1	until
 JDT 15:5	1	54	οὗ	οὗ	relative adverb, completes “until”	1	—
@@ -165,7 +165,7 @@ JDT 15:5	1	59	ὅρια			2	borders
 JDT 15:5	1	60	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 JDT 15:6	1	1	Οἱ	ὁ	article, nominative masculine plural	1	the
 JDT 15:6	1	2	δὲ	δέ	postpositive conjunction	1	and
-JDT 15:6	1	3	λοιποὶ	λοιπός	adjective, nominative masculine plural; substantival	1	the rest
+JDT 15:6	1	3	λοιποὶ	λοιπός	adjective, nominative masculine plural; substantival	1	rest
 JDT 15:6	1	3	λοιποὶ			2	those remaining
 JDT 15:6	1	4	οἱ	ὁ	article, nominative masc. pl.	1	—
 JDT 15:6	1	5	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	living
@@ -193,7 +193,7 @@ JDT 15:7	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
 JDT 15:7	1	8	κοπῆς	κοπή	noun, genitive feminine singular	1	slaughter
 JDT 15:7	1	8	κοπῆς			2	defeat
 JDT 15:7	1	9	ἐκυρίευσαν	κυριεύω	aorist active indicative third plural	1	seized
-JDT 15:7	1	10	τῶν	ὁ	article, genitive plural	1	the
+JDT 15:7	1	10	τῶν	ὁ	article, genitive plural	1	—
 JDT 15:7	1	11	λοιπῶν	λοιπός	substantival adjective, genitive neuter plural	1	what remained
 JDT 15:7	1	12	καὶ	καί	conjunction	1	and
 JDT 15:7	1	13	αἱ	ὁ	article, nominative feminine plural	1	the
@@ -215,7 +215,7 @@ JDT 15:7	1	27	πλῆθος	πλῆθος	noun, nominative neuter singular	1	a m
 JDT 15:7	1	28	πολὺ	πολύς	adjective, accusative neuter singular with πλῆθος	1	great
 JDT 15:7	1	29	σφόδρα	σφόδρα	adverb of degree	1	greatly
 JDT 15:8	1	1	Καὶ	καί	conjunction	1	and
-JDT 15:8	1	2	Ἰωακεὶμ	Ἰωακείμ	indeclinable personal name	1	Joiakim
+JDT 15:8	1	2	Ἰωακεὶμ	Ἰωακείμ	indeclinable personal name	1	Joacim
 JDT 15:8	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 JDT 15:8	1	4	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
 JDT 15:8	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -295,7 +295,7 @@ JDT 15:10	1	11	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, case from
 JDT 15:10	1	12	καὶ	καί	conjunction	1	and
 JDT 15:10	1	13	εὐδοκήσαι	εὐδοκέω	aorist active optative, third singular	1	may he be pleased
 JDT 15:10	1	14	ἐπ᾿	ἐπί	preposition (dative), elided	1	with
-JDT 15:10	1	15	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
+JDT 15:10	1	15	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 JDT 15:10	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
 JDT 15:10	1	17	Θεός	θεός	noun, nominative masculine singular	1	God
 JDT 15:10	1	18	εὐλογημένη	εὐλογέω	perfect middle/passive participle, nominative feminine singular	1	blessed
@@ -310,10 +310,10 @@ JDT 15:10	1	26	αἰῶνα	αἰών	noun, accusative masc. sg	1	age
 JDT 15:10	1	27	χρόνον	χρόνος	noun, accusative masc. sg. in εἰς τὸν αἰῶνα χρόνον phrase	1	time
 JDT 15:10	1	28	καὶ	καί	conjunction	1	and
 JDT 15:10	1	29	εἶπε	λέγω	aorist active indicative, third singular	1	said
-JDT 15:10	1	30	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+JDT 15:10	1	30	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 JDT 15:10	1	31	ὁ	ὁ	article, nominative masculine singular	1	the
 JDT 15:10	1	32	λαός	λαός	noun, nominative masculine singular after ὁ	1	people
-JDT 15:10	1	33	γένοιτο	γίνομαι	aorist middle optative, 3rd singular	1	amen
+JDT 15:10	1	33	γένοιτο	γίνομαι	aorist middle optative, 3rd singular	1	so be it
 JDT 15:11	1	1	Καὶ	καί	conjunction	1	and
 JDT 15:11	1	2	ἐλαφύρευσεν	λαφυρεύω	aorist active indicative, third singular	1	plundered
 JDT 15:11	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -349,7 +349,7 @@ JDT 15:11	1	31	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	h
 JDT 15:11	1	32	καὶ	καί	conjunction	1	and
 JDT 15:11	1	33	λαβοῦσα	λαμβάνω	aorist active participle, nominative feminine singular	1	having taken
 JDT 15:11	1	34	αὔτη	αὐτός	intensive pronoun, nominative feminine singular	1	she herself
-JDT 15:11	1	35	ἐπέθηκεν	ἐπιτίθημι	aorist active indicative, third singular	1	put on
+JDT 15:11	1	35	ἐπέθηκεν	ἐπιτίθημι	aorist active indicative, third singular	1	put
 JDT 15:11	1	36	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 JDT 15:11	1	37	τὴν	ὁ	article, accusative feminine singular	1	the
 JDT 15:11	1	38	ἡμίονον	ἡμίονος	noun, accusative feminine singular	1	mule
@@ -392,7 +392,7 @@ JDT 15:12	1	25	καὶ	καί	conjunction	1	and
 JDT 15:12	1	26	ἔδωκε	δίδωμι	aorist active indicative, third singular	1	gave
 JDT 15:12	1	27	ταῖς	ὁ	article, dative feminine plural	1	to the
 JDT 15:12	1	28	γυναιξὶ	γυνή	noun, dative feminine plural	1	women
-JDT 15:12	1	29	ταῖς	ὁ	article, dative feminine plural	1	the
+JDT 15:12	1	29	ταῖς	ὁ	article, dative feminine plural	1	—
 JDT 15:12	1	30	μεθ᾽	μετά	preposition with the genitive, elided	1	with
 JDT 15:12	1	31	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 JDT 15:13	1	1	καὶ	καί	conjunction	1	and
@@ -401,13 +401,13 @@ JDT 15:13	1	3	τὴν	ὁ	article, accusative feminine singular	1	with
 JDT 15:13	1	4	ἐλαίαν	ἐλαία	noun, accusative feminine singular	1	olive branches
 JDT 15:13	1	5	αὐτὴ	αὐτός	intensive pronoun, nominative feminine singular	1	she herself
 JDT 15:13	1	6	καὶ	καί	conjunction	1	and
-JDT 15:13	1	7	αἱ	ὁ	article, nominative feminine plural	1	the
+JDT 15:13	1	7	αἱ	ὁ	article, nominative feminine plural	1	those
 JDT 15:13	1	8	μετ᾽	μετά	preposition; with genitive, accompaniment; with accusative, sequence	1	with
 JDT 15:13	1	8	μετ᾽			2	after
 JDT 15:13	1	9	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 JDT 15:13	1	10	καὶ	καί	conjunction	1	and
 JDT 15:13	1	11	προῆλθε	προέρχομαι	aorist active indicative, third singular	1	went out in front
-JDT 15:13	1	12	παντὸς	πᾶς	adjective, genitive neuter singular	1	all
+JDT 15:13	1	12	παντὸς	πᾶς	adjective, genitive neuter singular	1	of all
 JDT 15:13	1	13	τοῦ	ὁ	article, genitive masculine singular	1	the
 JDT 15:13	1	14	λαοῦ	λαός	noun, genitive masculine singular	1	people
 JDT 15:13	1	15	ἐν	ἐν	preposition with the dative	1	in
@@ -418,7 +418,7 @@ JDT 15:13	1	19	τῶν	ὁ	article, genitive plural	1	the
 JDT 15:13	1	20	γυναικῶν	γυνή	noun, genitive feminine plural	1	women
 JDT 15:13	1	21	καὶ	καί	conjunction	1	and
 JDT 15:13	1	22	ἠκολούθει	ἀκολουθέω	imperfect active indicative, third singular	1	followed
-JDT 15:13	1	23	πᾶς	πᾶς	adjective/pronoun, nominative masc. sg. with participle ὁ ζητῶν, everyone	1	everyone
+JDT 15:13	1	23	πᾶς	πᾶς	adjective/pronoun, nominative masc. sg. with participle ὁ ζητῶν, everyone	1	every
 JDT 15:13	1	24	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
 JDT 15:13	1	25	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JDT 15:13	1	26	ἐνωπλισμένοι	ἐνοπλίζω	perfect middle/passive participle, nominative masculine plural	1	armed

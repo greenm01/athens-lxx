@@ -4,7 +4,7 @@ JDT 6:1	1	2	ὡς	ὡς	comparative particle	1	as
 JDT 6:1	1	3	κατέπαυσεν	καταπαύω	aorist active indicative, third singular	1	ceased
 JDT 6:1	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 JDT 6:1	1	5	θόρυβος	θόρυβος	noun, nominative masculine singular	1	tumult
-JDT 6:1	1	6	τῶν	ὁ	article, genitive plural	1	the
+JDT 6:1	1	6	τῶν	ὁ	article, genitive plural	1	of the
 JDT 6:1	1	7	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	1	men
 JDT 6:1	1	8	τῶν	ὁ	article, genitive plural	1	the
 JDT 6:1	1	9	κύκλῳ	κύκλος	noun used adverbially with genitive τοῦ ποταμοῦ	1	round
@@ -24,9 +24,9 @@ JDT 6:1	1	21	Ἀχιὼρ	Ἀχιώρ	indeclinable personal name, nominative in 
 JDT 6:1	1	22	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
 JDT 6:1	1	23	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
 JDT 6:1	1	24	τοῦ	ὁ	article, genitive singular	1	the
-JDT 6:1	1	25	δήμου	δῆμος	noun, genitive masculine singular	1	clan
+JDT 6:1	1	25	δήμου	δῆμος	noun, genitive masculine singular	1	people
 JDT 6:1	1	26	τῶν	ὁ	article, genitive masculine plural	1	of the
-JDT 6:1	1	27	ἀλλοφύλων	ἀλλόφυλος	adjective, genitive masculine plural; substantival	1	Philistines
+JDT 6:1	1	27	ἀλλοφύλων	ἀλλόφυλος	adjective, genitive masculine plural; substantival	1	foreigners
 JDT 6:1	1	27	ἀλλοφύλων			2	people of another tribe
 JDT 6:1	1	28	καὶ	καί	conjunction	1	and
 JDT 6:1	1	29	πρὸς	πρός	preposition with accusative	1	to
@@ -45,7 +45,7 @@ JDT 6:2	1	7	οἱ	ὁ	article, nominative masculine plural	1	the
 JDT 6:2	1	8	μισθωτοὶ	μισθωτός	adjective, nominative masculine plural; substantival	1	hired workers
 JDT 6:2	1	9	τοῦ	ὁ	article, genitive masculine singular	1	of
 JDT 6:2	1	10	Ἐφραὶμ	Ἐφραίμ	indeclinable personal name, nominative in context	1	Ephraim
-JDT 6:2	1	11	ὅτι	ὅτι	causal conjunction	1	because
+JDT 6:2	1	11	ὅτι	ὅτι	causal conjunction	1	that
 JDT 6:2	1	12	ἐπροφήτευσας	προφητεύω	aorist active indicative, second singular	1	did you prophesy
 JDT 6:2	1	13	ἐν	ἐν	preposition with the dative	1	among
 JDT 6:2	1	14	ἡμῖν	ἐγώ	personal pronoun, dative first plural	1	us
@@ -70,13 +70,13 @@ JDT 6:2	1	30	καὶ	καί	conjunction	1	and
 JDT 6:2	1	31	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
 JDT 6:2	1	32	ὁ	ὁ	article, nominative masculine singular	1	the
 JDT 6:2	1	33	Θεὸς	θεός	noun, nominative masculine singular	1	God
-JDT 6:2	1	34	εἰ	εἰ	interrogative particle	1	is there
+JDT 6:2	1	34	εἰ	εἰ	interrogative particle	1	if
 JDT 6:2	1	35	μὴ	μή	negative particle	1	not
-JDT 6:2	1	36	Ναβουχοδονόσορ	Ναβουχοδονόσορ	indeclinable personal name, nominative in context	1	besides Nebuchadnezzar
+JDT 6:2	1	36	Ναβουχοδονόσορ	Ναβουχοδονόσορ	indeclinable personal name, nominative in context	1	Nebuchadnezzar
 JDT 6:2	1	37	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 JDT 6:2	1	38	ἀποστελεῖ	ἀποστέλλω	future active indicative, third singular	1	will send
 JDT 6:2	1	39	τὸ	ὁ	article, accusative neuter singular	1	the
-JDT 6:2	1	40	κράτος	κράτος	noun, accusative neuter singular	1	army
+JDT 6:2	1	40	κράτος	κράτος	noun, accusative neuter singular	1	might
 JDT 6:2	1	41	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 JDT 6:2	1	42	καὶ	καί	conjunction	1	and
 JDT 6:2	1	43	ἐξολεθρεύσει	ἐξολεθρεύω	future active indicative, third singular	1	will destroy
@@ -106,7 +106,7 @@ JDT 6:3	1	9	ἄνθρωπον	ἄνθρωπος	noun, accusative masculine singu
 JDT 6:3	1	10	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 JDT 6:3	1	11	καὶ	καί	conjunction	1	and
 JDT 6:3	1	12	οὐχ	οὐ	negative particle	1	not
-JDT 6:3	1	13	ὑποστήσονται	ὑφίστημι	future middle indicative, third plural	1	will stand their ground
+JDT 6:3	1	13	ὑποστήσονται	ὑφίστημι	future middle indicative, third plural	1	will withstand
 JDT 6:3	1	14	τὸ	ὁ	article, accusative neuter singular	1	the
 JDT 6:3	1	15	κράτος	κράτος	noun, accusative neuter singular	1	power
 JDT 6:3	1	15	κράτος			2	authority
@@ -136,7 +136,7 @@ JDT 6:4	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JDT 6:4	1	19	πληρωθήσεται	πληρόω	future passive indicative, third singular	1	will be filled
 JDT 6:4	1	20	τῶν	ὁ	article, genitive masculine plural	1	with the
 JDT 6:4	1	21	νεκρῶν	νεκρός	noun, genitive masculine plural	1	dead
-JDT 6:4	1	22	αὐτῶν	αὐτός	pronoun, genitive plural	1	own
+JDT 6:4	1	22	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JDT 6:4	1	23	καὶ	καί	conjunction	1	and
 JDT 6:4	1	24	οὐκ	οὐ	negative particle	1	not
 JDT 6:4	1	25	ἀντιστήσεται	ἀνθίστημι	future middle indicative, 3rd singular	1	shall withstand
@@ -175,8 +175,8 @@ JDT 6:5	1	1	Σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 JDT 6:5	1	2	δὲ	δέ	postpositive conjunction	1	and
 JDT 6:5	1	3	Ἀχιὼρ	Ἀχιώρ	indeclinable personal name, nominative in context	1	Achior
 JDT 6:5	1	4	μισθωτὲ	μισθωτός	adjective, vocative masculine singular	1	hired man
-JDT 6:5	1	5	τοῦ	ὁ	article, genitive singular	1	the
-JDT 6:5	1	6	Ἀμμὼν	Ἀμμών	indeclinable national name, genitive in context	1	Ammonites
+JDT 6:5	1	5	τοῦ	ὁ	article, genitive singular	1	of
+JDT 6:5	1	6	Ἀμμὼν	Ἀμμών	indeclinable national name, genitive in context	1	Ammon
 JDT 6:5	1	7	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
 JDT 6:5	1	8	ἐλάλησας	λαλέω	aorist active indicative, second singular	1	you spoke
 JDT 6:5	1	9	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -184,7 +184,7 @@ JDT 6:5	1	10	λόγους	λόγος	noun, accusative masculine plural	1	words
 JDT 6:5	1	11	τούτους	οὗτος	demonstrative pronoun, accusative masculine plural	1	these
 JDT 6:5	1	12	ἐν	ἐν	preposition with the dative	1	in
 JDT 6:5	1	13	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
-JDT 6:5	1	14	ἀδικίας	ἀδικία	noun, genitive feminine singular	1	wrongdoing
+JDT 6:5	1	14	ἀδικίας	ἀδικία	noun, genitive feminine singular	1	of wrongdoing
 JDT 6:5	1	14	ἀδικίας			2	injustice
 JDT 6:5	1	15	σου	σύ	pronoun, possessive genitive second singular	1	your
 JDT 6:5	1	16	οὐκ	οὐ	negative particle	1	not
@@ -204,9 +204,9 @@ JDT 6:5	1	28	ἐκδικήσω	ἐκδικέω	future active indicative, first s
 JDT 6:5	1	28	ἐκδικήσω			2	I will punish
 JDT 6:5	1	29	τὸ	ὁ	article, accusative neuter singular	1	the
 JDT 6:5	1	30	γένος	γένος	noun, accusative neuter singular	1	people
-JDT 6:5	1	31	τῶν	ὁ	article, genitive masculine plural	1	of the
+JDT 6:5	1	31	τῶν	ὁ	article, genitive masculine plural	1	of those
 JDT 6:5	1	32	ἐξ	ἐκ	preposition with the genitive	1	from
-JDT 6:5	1	33	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
+JDT 6:5	1	33	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	Egypt
 JDT 6:6	1	1	Καὶ	καί	conjunction	1	and
 JDT 6:6	1	2	τότε	τότε	temporal adverb	1	then
 JDT 6:6	1	3	διελεύσεται	διέρχομαι	future middle indicative, third singular	1	will pass
@@ -235,7 +235,7 @@ JDT 6:6	1	23	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JDT 6:6	1	24	ὅταν	ὅταν	temporal conjunction with imperfect indicative of repeated action as printed	1	whenever
 JDT 6:6	1	25	ἐπιστρέψω	ἐπιστρέφω	future active indicative, first singular	1	I return
 JDT 6:7	1	1	Καὶ	καί	conjunction	1	and
-JDT 6:7	1	2	ἀποκαταστήσουσί	ἀποκαθίστημι	future active indicative, third plural	1	will set
+JDT 6:7	1	2	ἀποκαταστήσουσί	ἀποκαθίστημι	future active indicative, third plural	1	will bring back
 JDT 6:7	1	3	σε	σύ	personal pronoun, accusative singular	1	you
 JDT 6:7	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
 JDT 6:7	1	5	δοῦλοί	δοῦλος	noun, nominative masculine plural	1	servants
@@ -252,11 +252,11 @@ JDT 6:7	1	14	μιᾷ	εἷς	cardinal numeral, dative feminine singular referrin
 JDT 6:7	1	15	τῶν	ὁ	article, genitive feminine plural	1	of the
 JDT 6:7	1	16	πόλεων	πόλις	noun, genitive feminine plural	1	cities
 JDT 6:7	1	16	πόλεων			2	towns
-JDT 6:7	1	17	τῶν	ὁ	article, genitive feminine plural	1	along the
+JDT 6:7	1	17	τῶν	ὁ	article, genitive feminine plural	1	of the
 JDT 6:7	1	18	ἀναβάσεων	ἀνάβασις	noun, genitive feminine plural	1	ascents
 JDT 6:8	1	1	καὶ	καί	conjunction	1	and
 JDT 6:8	1	2	οὐκ	οὐ	negative particle	1	not
-JDT 6:8	1	3	ἀπολῇ	ἀπόλλυμι	aorist middle subjunctive, second singular	1	you perish
+JDT 6:8	1	3	ἀπολῇ	ἀπόλλυμι	aorist middle subjunctive, second singular	1	you will perish
 JDT 6:8	1	4	ἕως	ἕως	temporal conjunction with οὗ	1	until
 JDT 6:8	1	5	οὗ	οὗ	relative pronoun, genitive neuter singular; temporal expression, completes “until”	1	—
 JDT 6:8	1	6	ἐξολεθρευθῇς	ἐξολεθρεύω	aorist passive subjunctive, second singular	1	you may be destroyed
@@ -265,7 +265,7 @@ JDT 6:8	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 JDT 6:9	1	1	Καὶ	καί	conjunction	1	and
 JDT 6:9	1	2	εἴπερ	εἴπερ	conditional conjunction	1	if indeed
 JDT 6:9	1	3	ἐλπίζεις	ἐλπίζω	present active indicative, second singular	1	you hope
-JDT 6:9	1	4	τῇ	ὁ	article, dative feminine singular	1	the
+JDT 6:9	1	4	τῇ	ὁ	article, dative feminine singular	1	in the
 JDT 6:9	1	5	καρδίᾳ	καρδία	noun, dative fem. sg. after τῇ	1	heart
 JDT 6:9	1	6	σου	σύ	pronoun, genitive 2nd singular	1	your
 JDT 6:9	1	7	ὅτι	ὅτι	conjunction	1	that
@@ -273,13 +273,13 @@ JDT 6:9	1	8	οὐ	οὐ	negative adverb with future indicative	1	not
 JDT 6:9	1	9	συλληφθήσονται	συλλαμβάνω	future passive indicative, third plural	1	it will be captured
 JDT 6:9	1	10	μὴ	μή	negative with participle	1	not
 JDT 6:9	1	11	συμπεσάτω	συμπίπτω	aorist active imperative, third singular	1	let it fall
-JDT 6:9	1	12	σου	σύ	personal pronoun genitive second singular	1	you
+JDT 6:9	1	12	σου	σύ	personal pronoun genitive second singular	1	your
 JDT 6:9	1	13	τὸ	ὁ	article, accusative neuter singular	1	the
 JDT 6:9	1	14	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
 JDT 6:9	1	15	ἐλάλησα	λαλέω	aorist active indicative, first singular	1	I spoke
 JDT 6:9	1	16	καὶ	καί	conjunction	1	and
 JDT 6:9	1	17	οὐδὲν	οὐδείς	negative pronoun, nominative neuter singular	1	nothing
-JDT 6:9	1	18	διαπεσεῖται	διαπίπτω	future middle indicative, third singular	1	shall waste away
+JDT 6:9	1	18	διαπεσεῖται	διαπίπτω	future middle indicative, third singular	1	shall fail
 JDT 6:9	1	18	διαπεσεῖται			2	shall fall
 JDT 6:9	1	19	τῶν	ὁ	article, genitive neuter plural	1	of the
 JDT 6:9	1	20	ῥημάτων	ῥῆμα	noun genitive neuter plural	1	words
@@ -344,7 +344,7 @@ JDT 6:11	1	24	ὀρεινὴν	ὀρεινός	substantival adjective, accusativ
 JDT 6:11	1	24	ὀρεινὴν			2	mountain country
 JDT 6:11	1	25	καὶ	καί	conjunction	1	and
 JDT 6:11	1	26	παρεγένοντο	παραγίνομαι	aorist middle indicative, third plural	1	arrived
-JDT 6:11	1	27	ἐπὶ	ἐπί	preposition (case from context)	1	on
+JDT 6:11	1	27	ἐπὶ	ἐπί	preposition (case from context)	1	at
 JDT 6:11	1	28	τὰς	ὁ	article, accusative feminine plural	1	the
 JDT 6:11	1	29	πηγὰς	πηγή	noun, accusative feminine plural	1	springs
 JDT 6:11	1	30	αἳ	ὅς	relative pronoun, nominative feminine plural	1	that
@@ -360,10 +360,10 @@ JDT 6:12	1	5	οἱ	ὁ	article, nominative masculine plural	1	the
 JDT 6:12	1	6	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
 JDT 6:12	1	7	τῆς	ὁ	article, genitive feminine singular	1	of the
 JDT 6:12	1	8	πόλεως	πόλις	noun, genitive feminine singular	1	city
-JDT 6:12	1	9	ἐπὶ	ἐπί	preposition with the accusative	1	to
+JDT 6:12	1	9	ἐπὶ	ἐπί	preposition with the accusative	1	on
 JDT 6:12	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 JDT 6:12	1	11	κορυφὴν	κορυφή	noun, accusative fem. sg. after ἐπὶ τὴν	1	top
-JDT 6:12	1	12	τοῦ	ὁ	article, genitive singular	1	the
+JDT 6:12	1	12	τοῦ	ὁ	article, genitive singular	1	of the
 JDT 6:12	1	13	ὄρους	ὄρος	noun, genitive neuter singular	1	mountain
 JDT 6:12	1	14	ἀνέλαβον	ἀναλαμβάνω	aorist active indicative, 3rd plural	1	lifted
 JDT 6:12	1	15	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -377,7 +377,7 @@ JDT 6:12	1	22	πόλεως	πόλις	noun, genitive feminine singular	1	city
 JDT 6:12	1	23	ἐπὶ	ἐπί	preposition with the accusative	1	to
 JDT 6:12	1	24	τὴν	ὁ	article, accusative feminine singular	1	the
 JDT 6:12	1	25	κορυφὴν	κορυφή	noun, accusative fem. sg. after ἐπὶ τὴν	1	top
-JDT 6:12	1	26	τοῦ	ὁ	article, genitive singular	1	the
+JDT 6:12	1	26	τοῦ	ὁ	article, genitive singular	1	of the
 JDT 6:12	1	27	ὄρους	ὄρος	noun, genitive neuter singular	1	mountain
 JDT 6:12	1	28	καὶ	καί	conjunction	1	and
 JDT 6:12	1	29	πᾶς	πᾶς	adjective/pronoun, nominative masc. sg. with participle ὁ ζητῶν, everyone	1	everyone
@@ -390,12 +390,12 @@ JDT 6:12	1	34	ἀνάβασιν			2	upper stairway
 JDT 6:12	1	35	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JDT 6:12	1	36	καὶ	καί	conjunction	1	and
 JDT 6:12	1	37	ἔβαλον	βάλλω	aorist active indicative, third plural	1	they cast
-JDT 6:12	1	38	ἐν	ἐν	preposition with the dative	1	in
+JDT 6:12	1	38	ἐν	ἐν	preposition with the dative	1	with
 JDT 6:12	1	39	λίθοις	λίθος	noun, dative masculine plural	1	stones
-JDT 6:12	1	40	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+JDT 6:12	1	40	ἐπ᾽	ἐπί	preposition with the accusative	1	at
 JDT 6:12	1	41	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 JDT 6:13	1	1	Καὶ	καί	conjunction	1	and
-JDT 6:13	1	2	ὑποδύσαντες	ὑποδύομαι	aorist active participle, nominative masculine plural	1	having slipped below
+JDT 6:13	1	2	ὑποδύσαντες	ὑποδύομαι	aorist active participle, nominative masculine plural	1	having slipped in
 JDT 6:13	1	3	ὑποκάτω	ὑποκάτω	adverb with the genitive	1	beneath
 JDT 6:13	1	3	ὑποκάτω			2	under
 JDT 6:13	1	4	τοῦ	ὁ	article, genitive singular	1	the
@@ -409,7 +409,7 @@ JDT 6:13	1	11	ἐρριμμένον	ῥίπτω	perfect middle/passive participl
 JDT 6:13	1	12	ὑπὸ	ὑπό	preposition with accusative τὸν οὐρανόν	1	under
 JDT 6:13	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 JDT 6:13	1	14	ῥίζαν	ῥίζα	noun, accusative feminine singular	1	foot
-JDT 6:13	1	15	τοῦ	ὁ	article, genitive singular	1	the
+JDT 6:13	1	15	τοῦ	ὁ	article, genitive singular	1	of the
 JDT 6:13	1	16	ὄρους	ὄρος	noun, genitive neuter singular	1	mountain
 JDT 6:13	1	17	καὶ	καί	conjunction	1	and
 JDT 6:13	1	18	ἀπῴχοντο	ἀποίχομαι	imperfect middle indicative, third plural	1	they went away
@@ -428,13 +428,13 @@ JDT 6:14	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
 JDT 6:14	1	8	πόλεως	πόλις	noun, genitive feminine singular	1	city
 JDT 6:14	1	8	πόλεως			2	town
 JDT 6:14	1	9	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-JDT 6:14	1	10	ἐπέστησαν	ἐφίστημι	aorist active indicative, third plural	1	came upon
-JDT 6:14	1	11	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+JDT 6:14	1	10	ἐπέστησαν	ἐφίστημι	aorist active indicative, third plural	1	came up
+JDT 6:14	1	11	ἐπ᾽	ἐπί	preposition with the accusative	1	to
 JDT 6:14	1	12	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 JDT 6:14	1	13	καὶ	καί	conjunction	1	and
 JDT 6:14	1	14	λύσαντες	λύω	aorist active participle, nominative masculine plural	1	having untied
 JDT 6:14	1	15	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-JDT 6:14	1	16	ἐπήγαγον	ἐπάγω	aorist active indicative, 1st singular	1	brought on
+JDT 6:14	1	16	ἐπήγαγον	ἐπάγω	aorist active indicative, 1st singular	1	brought
 JDT 6:14	1	17	εἰς	εἰς	preposition with the accusative	1	into
 JDT 6:14	1	18	τὴν	ὁ	article, accusative feminine singular	1	the
 JDT 6:14	1	19	Βετυλούα	Βετυλούα	indeclinable place name, destination in context	1	Bethulia
@@ -454,18 +454,18 @@ JDT 6:15	1	3	ἐν	ἐν	preposition with the dative	1	in
 JDT 6:15	1	4	ταῖς	ὁ	article, dative feminine plural	1	the
 JDT 6:15	1	5	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
 JDT 6:15	1	6	ἐκείναις	ἐκεῖνος	demonstrative adjective, dative feminine plural	1	those
-JDT 6:15	1	7	Ὀζίας	Ὀζίας	noun, nominative masculine singular; personal name	1	Uzziah
-JDT 6:15	1	7	Ὀζίας			2	Ozias
+JDT 6:15	1	7	Ὀζίας	Ὀζίας	noun, nominative masculine singular; personal name	1	Ozias
+JDT 6:15	1	7	Ὀζίας			2	Uzziah
 JDT 6:15	1	8	ὁ	ὁ	article, nominative masculine singular; used to indicate descent	1	son
-JDT 6:15	1	9	τοῦ	ὁ	article, genitive singular	1	the
+JDT 6:15	1	9	τοῦ	ὁ	article, genitive singular	1	—
 JDT 6:15	1	10	Μιχὰ	Μιχά	indeclinable personal name, genitive in context	1	of Micha
 JDT 6:15	1	11	ἐκ	ἐκ	preposition with the genitive	1	from
 JDT 6:15	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
-JDT 6:15	1	13	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-JDT 6:15	1	13	φυλῆς			2	tribe
-JDT 6:15	1	14	Συμεὼν	Συμεών	indeclinable personal name, nominative in context	1	Simeon
+JDT 6:15	1	13	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+JDT 6:15	1	13	φυλῆς			2	clan
+JDT 6:15	1	14	Συμεὼν	Συμεών	indeclinable personal name, nominative in context	1	of Simeon
 JDT 6:15	1	15	καὶ	καί	conjunction	1	and
-JDT 6:15	1	16	Χαβρεὶς	Χαβρείς	indeclinable personal name, nominative in context	1	Chabreis
+JDT 6:15	1	16	Χαβρεὶς	Χαβρείς	indeclinable personal name, nominative in context	1	Chabris
 JDT 6:15	1	17	ὁ	ὁ	article, nominative masculine singular; used to indicate descent, son	1	—
 JDT 6:15	1	18	τοῦ	ὁ	article, genitive masculine singular	1	of
 JDT 6:15	1	19	Γοθονιὴλ	Γοθονιήλ	indeclinable personal name, nominative in context	1	Othniel
@@ -499,16 +499,16 @@ JDT 6:16	1	21	τὸν	ὁ	article, accusative masculine singular	1	the
 JDT 6:16	1	22	Ἀχιὼρ	Ἀχιώρ	indeclinable personal name, nominative in context	1	Achior
 JDT 6:16	1	23	ἐν	ἐν	preposition with the dative	1	in
 JDT 6:16	1	24	μέσῳ	μέσος	adjective, dative neuter singular	1	midst
-JDT 6:16	1	25	παντὸς	πᾶς	adjective, genitive masculine singular	1	all
+JDT 6:16	1	25	παντὸς	πᾶς	adjective, genitive masculine singular	1	of all
 JDT 6:16	1	26	τοῦ	ὁ	article, genitive singular	1	the
 JDT 6:16	1	27	λαοῦ	λαός	noun, genitive masculine singular	1	people
 JDT 6:16	1	28	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JDT 6:16	1	29	καὶ	καί	conjunction	1	and
 JDT 6:16	1	30	ἐπηρώτησεν	ἐπερωτάω	aorist active indicative, third singular	1	asked
 JDT 6:16	1	31	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-JDT 6:16	1	32	Ὀζίας	Ὀζίας	noun, nominative masculine singular; personal name	1	Uzziah
-JDT 6:16	1	32	Ὀζίας			2	Ozias
-JDT 6:16	1	33	τὸ	ὁ	article, accusative neuter singular	1	the account of
+JDT 6:16	1	32	Ὀζίας	Ὀζίας	noun, nominative masculine singular; personal name	1	Ozias
+JDT 6:16	1	32	Ὀζίας			2	Uzziah
+JDT 6:16	1	33	τὸ	ὁ	article, accusative neuter singular	1	—
 JDT 6:16	1	34	συμβεβηκός	συμβαίνω	perfect passive participle, accusative neuter singular	1	what had happened
 JDT 6:17	1	1	Καὶ	καί	conjunction	1	and
 JDT 6:17	1	2	ἀποκριθεὶς	ἀποκρίνομαι	aorist passive participle, nominative masculine singular	1	answering
@@ -537,7 +537,7 @@ JDT 6:17	1	22	καὶ	καί	conjunction	1	and
 JDT 6:17	1	23	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
 JDT 6:17	1	24	ἐμεγαλορημόνησεν	μεγαλορημονέω	aorist active indicative, third singular	1	boasted
 JDT 6:17	1	25	Ὀλοφέρνης	Ὀλοφέρνης	noun, nominative masculine singular	1	Holofernes
-JDT 6:17	1	26	εἰς	εἰς	preposition with the accusative	1	into
+JDT 6:17	1	26	εἰς	εἰς	preposition with the accusative	1	against
 JDT 6:17	1	27	τὸν	ὁ	article, accusative masculine singular	1	the
 JDT 6:17	1	28	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 JDT 6:17	1	28	οἶκον			2	household
@@ -546,7 +546,7 @@ JDT 6:18	1	1	Καὶ	καί	conjunction	1	and
 JDT 6:18	1	2	πεσόντες	πίπτω	aorist active participle, nominative masculine plural	1	having fallen down
 JDT 6:18	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 JDT 6:18	1	4	λαὸς	λαός	noun, nominative masculine singular	1	people
-JDT 6:18	1	5	προσεκύνησαν	προσκυνέω	aorist active indicative, 3rd pl.	1	worshipped/bowed down
+JDT 6:18	1	5	προσεκύνησαν	προσκυνέω	aorist active indicative, 3rd pl.	1	worshiped
 JDT 6:18	1	6	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 JDT 6:18	1	7	Θεῷ	θεός	noun, dative masculine singular	1	God
 JDT 6:18	1	8	καὶ	καί	conjunction	1	and
@@ -576,7 +576,7 @@ JDT 6:19	1	19	ἐπίβλεψον	ἐπιβλέπω	aorist active imperative sec
 JDT 6:19	1	20	ἐπὶ	ἐπί	preposition with accusative	1	upon
 JDT 6:19	1	21	τὸ	ὁ	article accusative neuter singular	1	the
 JDT 6:19	1	22	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
-JDT 6:19	1	23	τῶν	ὁ	article, genitive plural	1	the
+JDT 6:19	1	23	τῶν	ὁ	article, genitive plural	1	of those
 JDT 6:19	1	24	ἡγιασμένων	ἁγιάζω	perfect middle/passive participle, genitive neuter plural	1	consecrated
 JDT 6:19	1	25	σοι	σύ	pronoun, dative 2nd singular	1	to you
 JDT 6:19	1	26	ἐν	ἐν	preposition with the dative	1	in
@@ -595,8 +595,8 @@ JDT 6:20	1	8	σφόδρα	σφόδρα	adverb of degree	1	greatly
 JDT 6:21	1	1	Καὶ	καί	conjunction	1	and
 JDT 6:21	1	2	παρέλαβεν	παραλαμβάνω	aorist active indicative, third singular	1	took along
 JDT 6:21	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-JDT 6:21	1	4	Ὀζίας	Ὀζίας	noun, nominative masculine singular; personal name	1	Uzziah
-JDT 6:21	1	4	Ὀζίας			2	Ozias
+JDT 6:21	1	4	Ὀζίας	Ὀζίας	noun, nominative masculine singular; personal name	1	Ozias
+JDT 6:21	1	4	Ὀζίας			2	Uzziah
 JDT 6:21	1	5	ἐκ	ἐκ	preposition with the genitive	1	from
 JDT 6:21	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
 JDT 6:21	1	7	ἐκκλησίας	ἐκκλησία	noun, genitive feminine singular	1	assembly
@@ -610,7 +610,7 @@ JDT 6:21	1	13	πότον	πότος	noun, accusative masculine singular, drinkin
 JDT 6:21	1	14	τοῖς	ὁ	article, dative masculine plural	1	for the
 JDT 6:21	1	15	πρεσβυτέροις	πρεσβύτερος	adjective, dative masculine plural; substantival	1	elders
 JDT 6:21	1	16	καὶ	καί	conjunction	1	and
-JDT 6:21	1	17	ἐπεκαλέσαντο	ἐπικαλέομαι	aorist middle indicative, third plural	1	they called for
+JDT 6:21	1	17	ἐπεκαλέσαντο	ἐπικαλέομαι	aorist middle indicative, third plural	1	they called on
 JDT 6:21	1	17	ἐπεκαλέσαντο			2	they invoked
 JDT 6:21	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 JDT 6:21	1	19	Θεὸν	θεός	noun, accusative masculine singular	1	God
