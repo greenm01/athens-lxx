@@ -16,13 +16,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 19:1	1	13	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 2CH 19:2	1	1	Καὶ	καί	conjunction	1	and
 2CH 19:2	1	2	ἐξῆλθεν	ἐξέρχομαι	aorist active indicative, third singular	1	came out
-2CH 19:2	1	3	εἰς	εἰς	preposition with the accusative	1	into
-2CH 19:2	1	4	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	1	meeting
+2CH 19:2	1	3	εἰς	εἰς	preposition with the accusative	1	to
+2CH 19:2	1	4	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	1	meet
 2CH 19:2	1	4	ἀπάντησιν			2	encounter
-2CH 19:2	1	5	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+2CH 19:2	1	5	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	him
 2CH 19:2	1	6	Ἰηοὺ	Ἰηού	indeclinable personal name, accusative in context	1	Jehu
 2CH 19:2	1	7	ὁ	ὁ	article, nominative masculine singular; used with the following genitive to identify a son, son	1	—
-2CH 19:2	1	8	τοῦ	ὁ	article, genitive masculine singular	1	of
+2CH 19:2	1	8	τοῦ	ὁ	article, genitive masculine singular	1	son of
 2CH 19:2	1	9	Ἀνανὶ	Ἀνανί	indeclinable personal name, nominative in context	1	Hanani
 2CH 19:2	1	9	Ἀνανὶ			2	Anani
 2CH 19:2	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -33,14 +33,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 19:2	1	15	βασιλεῦ	βασιλεύς	noun, vocative masculine singular	1	O king
 2CH 19:2	1	16	Ἰωσαφὰτ	Ἰωσαφάτ	indeclinable personal or place name, genitive in context	1	Jehoshaphat
 2CH 19:2	1	16	Ἰωσαφὰτ			2	Iosaphat
-2CH 19:2	1	17	εἰ	εἰ	conjunction introducing a direct question, introduces the question	1	—
+2CH 19:2	1	17	εἰ	εἰ	conjunction introducing a direct question, introduces the question	1	[marks a question]
 2CH 19:2	1	18	ἁμαρτωλῷ	ἁμαρτωλός	substantival adjective, dative masculine singular	1	a sinner
 2CH 19:2	1	19	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 2CH 19:2	1	20	βοηθεῖς	βοηθέω	present active indicative, second singular	1	do you help
 2CH 19:2	1	21	ἢ	ἤ	disjunctive conjunction	1	or
 2CH 19:2	1	22	μισουμένῳ	μισέω	present passive participle, dative masculine singular	1	one who is hated
 2CH 19:2	1	23	ὑπὸ	ὑπό	preposition with genitive of agent	1	by
-2CH 19:2	1	24	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+2CH 19:2	1	24	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 2CH 19:2	1	25	φιλιάζεις	φιλιάζω	present active indicative, second singular	1	do you befriend
 2CH 19:2	1	26	διὰ	διά	preposition with the accusative	1	because of
 2CH 19:2	1	27	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
@@ -86,7 +86,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 19:4	1	6	καὶ	καί	conjunction	1	and
 2CH 19:4	1	7	πάλιν	πάλιν	adverb	1	again
 2CH 19:4	1	8	ἐξῆλθεν	ἐξέρχομαι	aorist active indicative, third singular	1	came out
-2CH 19:4	1	9	εἰς	εἰς	preposition with the accusative	1	into
+2CH 19:4	1	9	εἰς	εἰς	preposition with the accusative	1	among
 2CH 19:4	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 2CH 19:4	1	11	λαὸν	λαός	noun, accusative masculine singular	1	people
 2CH 19:4	1	12	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -137,7 +137,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 19:6	1	13	κρίνετε	κρίνω	present active imperative, 2nd pl.	1	judge
 2CH 19:6	1	14	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
 2CH 19:6	1	15	ἢ	ἤ	particle in exceptive expression, marks exception	1	—
-2CH 19:6	1	16	τῷ	ὁ	article, dative masculine singular	1	for the
+2CH 19:6	1	16	τῷ	ὁ	article, dative masculine singular	1	—
 2CH 19:6	1	17	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 2CH 19:6	1	18	καὶ	καί	conjunction	1	and
 2CH 19:6	1	19	μεθ᾽	μετά	preposition with the genitive, elided	1	with
@@ -162,7 +162,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 19:7	1	13	οὐκ	οὐ	negative particle	1	not
 2CH 19:7	1	14	ἔστι	εἰμί	present active indicative, third singular	1	is
 2CH 19:7	1	15	μετὰ	μετά	preposition with genitive	1	with
-2CH 19:7	1	16	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+2CH 19:7	1	16	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 2CH 19:7	1	17	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 2CH 19:7	1	18	ἡμῶν	ἐγώ	personal pronoun, genitive first plural	1	our
 2CH 19:7	1	19	ἀδικία	ἀδικία	noun nominative feminine singular	1	injustice
@@ -254,11 +254,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 19:10	1	33	οὐχ	οὐ	negative particle	1	not
 2CH 19:10	1	34	ἁμαρτήσονται	ἁμαρτάνω	future middle indicative, third plural	1	they will sin
 2CH 19:10	1	35	τῷ	ὁ	article, dative masculine singular	1	against the
-2CH 19:10	1	36	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+2CH 19:10	1	36	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 2CH 19:10	1	37	καὶ	καί	conjunction	1	and
 2CH 19:10	1	38	οὐκ	οὐ	negative adverb	1	not
 2CH 19:10	1	39	ἔσται	εἰμί	future indicative, third singular	1	will be
-2CH 19:10	1	40	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
+2CH 19:10	1	40	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	upon
 2CH 19:10	1	41	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 2CH 19:10	1	42	ὀργὴ	ὀργή	noun, nominative feminine singular	1	wrath
 2CH 19:10	1	43	καὶ	καί	conjunction	1	and
@@ -289,13 +289,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 19:11	1	14	Ζαβδίας	Ζαβδίας	personal name, nominative masculine singular	1	Zebadiah
 2CH 19:11	1	14	Ζαβδίας			2	Zabdias
 2CH 19:11	1	15	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2CH 19:11	1	16	Ἰσμαὴλ	Ἰσμαήλ	indeclinable personal name, nominative masculine singular	1	Ishmael
+2CH 19:11	1	16	Ἰσμαὴλ	Ἰσμαήλ	indeclinable personal name, nominative masculine singular	1	of Ishmael
 2CH 19:11	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
-2CH 19:11	1	18	ἡγούμενος	ἡγέομαι	present middle participle, nominative masculine singular, substantival	1	a leader
+2CH 19:11	1	18	ἡγούμενος	ἡγέομαι	present middle participle, nominative masculine singular, substantival	1	leader
 2CH 19:11	1	19	εἰς	εἰς	preposition with the accusative	1	for
 2CH 19:11	1	20	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 2CH 19:11	1	21	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
-2CH 19:11	1	22	πρὸς	πρός	preposition with the accusative	1	to
+2CH 19:11	1	22	πρὸς	πρός	preposition with the accusative	1	for
 2CH 19:11	1	23	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 2CH 19:11	1	24	λόγον	λόγος	noun, accusative masculine singular	1	matter
 2CH 19:11	1	25	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of the king

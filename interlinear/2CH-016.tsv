@@ -27,7 +27,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 16:1	1	24	ἔξοδον	ἔξοδος	noun, accusative feminine singular	1	departure
 2CH 16:1	1	25	καὶ	καί	conjunction	1	and
 2CH 16:1	1	26	εἴσοδον	εἴσοδος	noun, accusative feminine singular	1	entrance
-2CH 16:1	1	27	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+2CH 16:1	1	27	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 2CH 16:1	1	28	Ἀσὰ	Ἀσά	indeclinable personal name	1	Asa
 2CH 16:1	1	29	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 2CH 16:1	1	30	Ἰούδα	Ἰούδας	indeclinable place name, genitive in context	1	of Judah
@@ -50,13 +50,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 16:2	1	17	πρὸς	πρός	preposition with the accusative	1	to
 2CH 16:2	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 2CH 16:2	1	19	υἱὸν	υἱός	noun, accusative masculine singular	1	son
-2CH 16:2	1	20	τοῦ	ὁ	article, genitive masculine singular	1	of the
+2CH 16:2	1	20	τοῦ	ὁ	article, genitive masculine singular	1	—
 2CH 16:2	1	21	Ἄδερ	Ἄδερ	indeclinable personal name, genitive in context	1	of Hadad
 2CH 16:2	1	21	Ἄδερ			2	of Ader
 2CH 16:2	1	22	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2CH 16:2	1	23	Συρίας	Συρία	noun, genitive feminine singular; place name	1	of Syria
 2CH 16:2	1	24	τὸν	ὁ	article, accusative masculine singular	1	the
-2CH 16:2	1	25	κατοικοῦντα	κατοικέω	present active participle, accusative masculine singular	1	dwelling in
+2CH 16:2	1	25	κατοικοῦντα	κατοικέω	present active participle, accusative masculine singular	1	dwelling
 2CH 16:2	1	26	ἐν	ἐν	preposition with the dative	1	in
 2CH 16:2	1	27	Δαμασκῷ	Δαμασκός	noun, dative feminine singular; place name	1	Damascus
 2CH 16:2	1	28	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
@@ -110,11 +110,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 16:4	1	10	τοὺς	ὁ	article, accusative masculine plural	1	the
 2CH 16:4	1	11	ἄρχοντας	ἄρχων	noun, accusative masculine plural	1	rulers
 2CH 16:4	1	11	ἄρχοντας			2	chiefs
-2CH 16:4	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
+2CH 16:4	1	12	τῆς	ὁ	article, genitive feminine singular	1	of the
 2CH 16:4	1	13	δυνάμεως	δύναμις	noun, genitive feminine singular	1	army
 2CH 16:4	1	13	δυνάμεως			2	force
 2CH 16:4	1	14	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
-2CH 16:4	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2CH 16:4	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	against
 2CH 16:4	1	16	τὰς	ὁ	article, accusative feminine plural	1	the
 2CH 16:4	1	17	πόλεις	πόλις	noun, accusative feminine plural	1	cities
 2CH 16:4	1	18	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -128,8 +128,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 16:4	1	25	Δὰν	Δάν	indeclinable personal name, nominative in context	1	Dan
 2CH 16:4	1	26	καὶ	καί	conjunction	1	and
 2CH 16:4	1	27	τὴν	ὁ	article, accusative feminine singular	1	the
-2CH 16:4	1	28	Ἀβελμαὶν	Ἀβελμαίν	indeclinable place name, accusative in context	1	Abelmain
-2CH 16:4	1	28	Ἀβελμαὶν			2	Abel-maim
+2CH 16:4	1	28	Ἀβελμαὶν	Ἀβελμαίν	indeclinable place name, accusative in context	1	Abel-maim
+2CH 16:4	1	28	Ἀβελμαὶν			2	Abelmain
 2CH 16:4	1	29	καὶ	καί	conjunction	1	and
 2CH 16:4	1	30	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 2CH 16:4	1	31	τὰς	ὁ	article, accusative feminine plural	1	the
@@ -146,7 +146,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 16:5	1	8	τοῦ	ὁ	article, genitive singular	1	the
 2CH 16:5	1	9	μηκέτι	μηκέτι	adverb, no longer	1	no longer
 2CH 16:5	1	10	οἰκοδομεῖν	οἰκοδομέω	present active infinitive	1	building
-2CH 16:5	1	11	τὴν	ὁ	article, accusative feminine singular	1	on the
+2CH 16:5	1	11	τὴν	ὁ	article, accusative feminine singular	1	the
 2CH 16:5	1	12	Ῥαμὰ	Ῥαμά	indeclinable place name, nominative in context	1	Ramah
 2CH 16:5	1	13	καὶ	καί	conjunction	1	and
 2CH 16:5	1	14	κατέπαυσε	καταπαύω	aorist active indicative, third singular	1	stopped
@@ -165,26 +165,26 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 16:6	1	10	ἔλαβε	λαμβάνω	aorist active indicative, third singular	1	took
 2CH 16:6	1	11	τοὺς	ὁ	article, accusative masculine plural	1	the
 2CH 16:6	1	12	λίθους	λίθος	noun, accusative masc. pl.	1	stones
-2CH 16:6	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
+2CH 16:6	1	13	τῆς	ὁ	article, genitive feminine singular	1	—
 2CH 16:6	1	14	Ῥαμὰ	Ῥαμά	indeclinable place name, genitive in context	1	of Ramah
 2CH 16:6	1	14	Ῥαμὰ			2	of Hrama
 2CH 16:6	1	15	καὶ	καί	conjunction	1	and
 2CH 16:6	1	16	τὰ	ὁ	article, accusative neuter plural	1	the
 2CH 16:6	1	17	ξύλα	ξύλον	noun, accusative neuter plural	1	wood
 2CH 16:6	1	18	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
-2CH 16:6	1	19	ἃ	ὅς	relative pronoun, accusative neuter plural	1	what
+2CH 16:6	1	19	ἃ	ὅς	relative pronoun, accusative neuter plural	1	which
 2CH 16:6	1	20	ᾠκοδόμησε	οἰκοδομέω	aorist active indicative, third singular	1	built
 2CH 16:6	1	21	Βαασὰ	Βαασά	indeclinable personal name	1	Baasha
 2CH 16:6	1	21	Βαασὰ			2	Baasa
 2CH 16:6	1	22	καὶ	καί	conjunction	1	and
 2CH 16:6	1	23	ᾠκοδόμησεν	οἰκοδομέω	aorist active indicative, third singular	1	built
-2CH 16:6	1	24	ἐν	ἐν	preposition with the dative	1	in
+2CH 16:6	1	24	ἐν	ἐν	preposition with the dative	1	with
 2CH 16:6	1	25	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 2CH 16:6	1	26	τὴν	ὁ	article, accusative feminine singular	1	the
 2CH 16:6	1	27	Γαβαὲ	Γαβαέ	indeclinable place name, genitive in context	1	Geba
 2CH 16:6	1	28	καὶ	καί	conjunction	1	and
 2CH 16:6	1	29	τὴν	ὁ	article, accusative feminine singular	1	the
-2CH 16:6	1	30	Μασφά	Μασφά	indeclinable place name, nominative in context	1	Maspha
+2CH 16:6	1	30	Μασφά	Μασφά	indeclinable place name, nominative in context	1	Mizpah
 2CH 16:7	1	1	Καὶ	καί	conjunction	1	and
 2CH 16:7	1	2	ἐν	ἐν	preposition with the dative	1	in
 2CH 16:7	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	the
@@ -233,15 +233,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 16:8	1	4	καὶ	καί	conjunction	1	and
 2CH 16:8	1	5	Λίβυες	Λίβυς	noun, nominative masculine plural; gentilic noun	1	Libyans
 2CH 16:8	1	6	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
-2CH 16:8	1	7	εἰς	εἰς	preposition with the accusative	1	into
+2CH 16:8	1	7	εἰς	εἰς	preposition with the accusative	1	as
 2CH 16:8	1	8	δύναμιν	δύναμις	noun, accusative feminine singular	1	army
-2CH 16:8	1	9	πολλὴν	πολύς	adjective, accusative feminine singular	1	broad
-2CH 16:8	1	10	εἰς	εἰς	preposition with the accusative	1	into
+2CH 16:8	1	9	πολλὴν	πολύς	adjective, accusative feminine singular	1	great
+2CH 16:8	1	10	εἰς	εἰς	preposition with the accusative	1	as
 2CH 16:8	1	11	θάρσος	θάρσος	noun, dative neuter singular	1	confidence
 2CH 16:8	1	11	θάρσος			2	boldness
-2CH 16:8	1	12	εἰς	εἰς	preposition with the accusative	1	into
+2CH 16:8	1	12	εἰς	εἰς	preposition with the accusative	1	as
 2CH 16:8	1	13	ἱππεῖς	ἱππεύς	noun, nominative masculine plural	1	horsemen
-2CH 16:8	1	14	εἰς	εἰς	preposition with the accusative	1	into
+2CH 16:8	1	14	εἰς	εἰς	preposition with the accusative	1	as
 2CH 16:8	1	15	πλῆθος	πλῆθος	noun, accusative neuter singular after εἰς predicate	1	a multitude
 2CH 16:8	1	16	σφόδρα	σφόδρα	adverb of degree	1	greatly
 2CH 16:8	1	17	καὶ	καί	conjunction	1	and
@@ -256,7 +256,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 16:8	1	26	τὰς	ὁ	article, accusative feminine plural	1	the
 2CH 16:8	1	27	χεῖράς	χείρ	noun, accusative feminine plural after τὰς (χεῖρας spelling as printed)	1	hands
 2CH 16:8	1	28	σου	σύ	pronoun, possessive genitive second singular	1	your
-2CH 16:9	1	1	Ὅτι	ὅτι	conjunction	1	that
+2CH 16:9	1	1	Ὅτι	ὅτι	conjunction	1	for
 2CH 16:9	1	2	οἱ	ὁ	article, nominative masc. pl.	1	the
 2CH 16:9	1	3	ὀφθαλμοὶ	ὀφθαλμός	noun, nominative masculine plural	1	eyes
 2CH 16:9	1	4	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
@@ -264,7 +264,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 16:9	1	6	ἐν	ἐν	preposition with the dative	1	in
 2CH 16:9	1	7	πάσῃ	πᾶς	adjective, dative feminine singular with γῇ	1	all
 2CH 16:9	1	8	τῇ	ὁ	article, dative feminine singular	1	the
-2CH 16:9	1	9	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
+2CH 16:9	1	9	γῇ	γῆ	noun, dative feminine singular after ἐν	1	earth
 2CH 16:9	1	10	κατισχῦσαι	κατισχύω	aorist active infinitive	1	to strengthen
 2CH 16:9	1	11	ἐν	ἐν	preposition with the dative	1	in
 2CH 16:9	1	12	πάσῃ	πᾶς	adjective, dative feminine singular with γῇ	1	all
@@ -296,12 +296,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 16:10	1	10	φυλακὴν	φυλακή	noun, accusative feminine singular	1	prison
 2CH 16:10	1	11	ὅτι	ὅτι	causal conjunction	1	because
 2CH 16:10	1	12	ὠργίσθη	ὀργίζω	aorist passive indicative third singular	1	was angry
-2CH 16:10	1	13	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2CH 16:10	1	13	ἐπὶ	ἐπί	preposition (case from context)	1	over
 2CH 16:10	1	14	τούτῳ	οὗτος	demonstrative pronoun, dative neuter singular after ἐν	1	this
 2CH 16:10	1	15	καὶ	καί	conjunction	1	and
 2CH 16:10	1	16	ἐλυμήνατο	λυμαίνομαι	aorist middle indicative, third singular	1	oppressed
 2CH 16:10	1	17	Ἀσὰ	Ἀσά	indeclinable personal name	1	Asa
-2CH 16:10	1	18	ἐν	ἐν	preposition with the dative	1	in
+2CH 16:10	1	18	ἐν	ἐν	preposition with the dative	1	among
 2CH 16:10	1	19	τῷ	ὁ	article, dative masculine singular	1	the
 2CH 16:10	1	20	λαῷ	λαός	noun, dative masculine singular	1	people
 2CH 16:10	1	21	ἐν	ἐν	preposition with the dative	1	in
@@ -322,7 +322,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 16:11	1	11	γεγραμμένοι	γράφω	perfect middle/passive participle, nominative masculine plural	1	recorded
 2CH 16:11	1	12	ἐν	ἐν	preposition with the dative	1	in
 2CH 16:11	1	13	βιβλίῳ	βιβλίον	noun, dative neuter singular	1	book
-2CH 16:11	1	14	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
+2CH 16:11	1	14	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	of kings
 2CH 16:11	1	15	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 2CH 16:11	1	16	καὶ	καί	conjunction	1	and
 2CH 16:11	1	17	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -336,7 +336,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 16:12	1	7	καὶ	καί	conjunction	1	and
 2CH 16:12	1	8	τριακοστῷ	τριακοστός	ordinal adjective, dative masculine singular	1	thirtieth
 2CH 16:12	1	9	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
-2CH 16:12	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
+2CH 16:12	1	10	τῆς	ὁ	article, genitive feminine singular	1	of the
 2CH 16:12	1	11	βασιλείας	βασιλεία	noun, genitive feminine singular	1	kingdom
 2CH 16:12	1	11	βασιλείας			2	reign
 2CH 16:12	1	12	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular; possessive	1	his
@@ -372,9 +372,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 16:13	1	11	τῷ	ὁ	article dative neuter singular	1	the
 2CH 16:13	1	12	τεσσαρακοστῷ	τεσσαρακοστός	ordinal adjective, dative neut. sg. after ἐν τῷ with ἔτει	1	fortieth
 2CH 16:13	1	13	καὶ	καί	conjunction	1	and
-2CH 16:13	1	14	ἑνὶ	εἷς	cardinal numeral, dative masc. sg. after τῷ in ὄνομα τῷ ἑνὶ 'the name of the one'	1	the one
+2CH 16:13	1	14	ἑνὶ	εἷς	cardinal numeral, dative masc. sg. after τῷ in ὄνομα τῷ ἑνὶ 'the name of the one'	1	first
 2CH 16:13	1	15	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
-2CH 16:13	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
+2CH 16:13	1	16	τῆς	ὁ	article, genitive feminine singular	1	of the
 2CH 16:13	1	17	βασιλείας	βασιλεία	noun, genitive feminine singular	1	kingdom
 2CH 16:13	1	17	βασιλείας			2	reign
 2CH 16:13	1	18	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -399,13 +399,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 16:14	1	18	κλίνης			2	bed
 2CH 16:14	1	19	καὶ	καί	conjunction	1	and
 2CH 16:14	1	20	ἐπλήρωσαν	πληρόω	aorist active indicative, third plural	1	filled
-2CH 16:14	1	21	ἀρωμάτων	ἄρωμα	noun, genitive neuter plural	1	spices
+2CH 16:14	1	21	ἀρωμάτων	ἄρωμα	noun, genitive neuter plural	1	with spices
 2CH 16:14	1	22	καὶ	καί	conjunction	1	and
 2CH 16:14	1	23	γένη	γένος	noun, accusative neuter plural	1	kinds
-2CH 16:14	1	24	μύρων	μύρον	noun, genitive neuter plural	1	perfumed oils
+2CH 16:14	1	24	μύρων	μύρον	noun, genitive neuter plural	1	of perfumed oils
 2CH 16:14	1	25	μυρεψῶν	μυρεψός	noun, genitive masculine plural	1	of perfumers
 2CH 16:14	1	26	καὶ	καί	conjunction	1	and
-2CH 16:14	1	27	ἐποίησαν	ποιέω	aorist active indicative, third plural	1	they did
+2CH 16:14	1	27	ἐποίησαν	ποιέω	aorist active indicative, third plural	1	they made
 2CH 16:14	1	28	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 2CH 16:14	1	29	ἐκφορὰν	ἐκφορά	noun, accusative feminine singular	1	a funeral procession
 2CH 16:14	1	30	μεγάλην	μέγας	adjective, accusative feminine singular	1	great

@@ -18,10 +18,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:1	1	16	οὐκ	οὐ	negative particle	1	not
 2CH 28:1	1	17	ἐποίησε	ποιέω	aorist active indicative, third singular	1	did
 2CH 28:1	1	18	τὸ	ὁ	article, accusative neuter singular	1	the
-2CH 28:1	1	19	εὐθὲς	εὐθύς	substantival adjective, accusative neuter singular	1	what was right
+2CH 28:1	1	19	εὐθὲς	εὐθύς	substantival adjective, accusative neuter singular	1	right
 2CH 28:1	1	20	ἐνώπιον	ἐνώπιον	preposition with the genitive	1	before
 2CH 28:1	1	20	ἐνώπιον			2	in the sight of
-2CH 28:1	1	21	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+2CH 28:1	1	21	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 2CH 28:1	1	22	ὡς	ὡς	comparative adverb/conjunction	1	like
 2CH 28:1	1	23	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
 2CH 28:1	1	24	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -161,10 +161,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:6	1	26	Θεὸν	θεός	noun, accusative masculine singular	1	God
 2CH 28:6	1	27	τῶν	ὁ	article, genitive masculine plural	1	of the
 2CH 28:6	1	28	πατέρων	πατήρ	noun, genitive masculine plural after τῶν	1	fathers
-2CH 28:6	1	29	ἑαυτῶν	ἴδιος	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	1	own
+2CH 28:6	1	29	ἑαυτῶν	ἴδιος	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	1	their own
 2CH 28:7	1	1	Καὶ	καί	conjunction	1	and
 2CH 28:7	1	2	ἀπέκτεινε	ἀποκτείνω	aorist active indicative, 3rd sg.	1	killed
-2CH 28:7	1	3	Ζεχρὶ	Ζεχρί	indeclinable personal name, nominative in context	1	Zechri
+2CH 28:7	1	3	Ζεχρὶ	Ζεχρί	indeclinable personal name, nominative in context	1	Zichri
 2CH 28:7	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 28:7	1	5	δυνατὸς	δυνατός	substantival adjective, nominative masculine singular	1	mighty man
 2CH 28:7	1	6	τοῦ	ὁ	article, genitive masculine singular	1	of
@@ -223,7 +223,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:9	1	3	ἦν	εἰμί	imperfect indicative, third singular	1	was
 2CH 28:9	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 28:9	1	5	προφήτης	προφήτης	noun, nominative masculine singular	1	prophet
-2CH 28:9	1	6	τοῦ	ὁ	article, genitive singular	1	the
+2CH 28:9	1	6	τοῦ	ὁ	article, genitive singular	1	—
 2CH 28:9	1	7	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2CH 28:9	1	8	Ὠδὴδ	Ὠδήδ	personal name, indeclinable	1	Oded
 2CH 28:9	1	9	ὄνομα	ὄνομα	noun, nominative neuter singular	1	name
@@ -236,7 +236,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:9	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
 2CH 28:9	1	16	δυνάμεως	δύναμις	noun, genitive feminine singular	1	army
 2CH 28:9	1	16	δυνάμεως			2	force
-2CH 28:9	1	17	τῶν	ὁ	article, genitive masculine plural	1	the
+2CH 28:9	1	17	τῶν	ὁ	article, genitive masculine plural	1	of the
 2CH 28:9	1	18	ἐρχομένων	ἔρχομαι	present middle/passive participle, genitive masculine plural; refers to the members of the force	1	men coming
 2CH 28:9	1	19	εἰς	εἰς	preposition with the accusative	1	into
 2CH 28:9	1	20	Σαμάρειαν	Σαμάρεια	noun, accusative feminine singular; place name	1	Samaria
@@ -268,7 +268,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:9	1	46	ὀργῇ	ὀργή	noun, dative feminine singular	1	wrath
 2CH 28:9	1	46	ὀργῇ			2	anger
 2CH 28:9	1	47	καὶ	καί	conjunction	1	and
-2CH 28:9	1	48	ἕως	ἕως	temporal conjunction/preposition (from context)	1	until
+2CH 28:9	1	48	ἕως	ἕως	temporal conjunction/preposition (from context)	1	as far as
 2CH 28:9	1	49	τῶν	ὁ	article genitive masculine plural	1	the
 2CH 28:9	1	50	οὐρανῶν	οὐρανός	noun genitive masculine plural	1	heavens
 2CH 28:9	1	51	ἔφθακε	φθάνω	perfect active indicative, third singular	1	has reached
@@ -279,7 +279,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:10	1	5	καὶ	καί	conjunction	1	and
 2CH 28:10	1	6	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 2CH 28:10	1	7	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
-2CH 28:10	1	8	λέγετε	λέγω	present active indicative, second plural	1	you intend
+2CH 28:10	1	8	λέγετε	λέγω	present active indicative, second plural	1	intend
 2CH 28:10	1	8	λέγετε			2	you say
 2CH 28:10	1	9	κατακτήσεσθαι	κατακτάομαι	future middle infinitive	1	to acquire for yourselves
 2CH 28:10	1	10	εἰς	εἰς	preposition with accusative	1	as
@@ -317,7 +317,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:11	1	16	θυμοῦ	θυμός	noun, genitive masculine singular; genitive of quality	1	of fury
 2CH 28:11	1	17	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2CH 28:11	1	18	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
-2CH 28:11	1	19	ὑμῖν	σύ	pronoun, dative second plural	1	to you
+2CH 28:11	1	19	ὑμῖν	σύ	pronoun, dative second plural	1	you
 2CH 28:12	1	1	Καὶ	καί	conjunction	1	and
 2CH 28:12	1	2	ἀνέστησαν	ἀνίστημι	aorist active indicative, third plural	1	rose up
 2CH 28:12	1	2	ἀνέστησαν			2	set out
@@ -328,7 +328,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:12	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 2CH 28:12	1	7	Ἐφραὶμ	Ἐφραίμ	indeclinable personal name, genitive in context	1	of Ephraim
 2CH 28:12	1	8	Ἀζαρίας	Ἀζαρίας	noun, nominative masculine singular	1	Azariah
-2CH 28:12	1	9	ὁ	ὁ	article, nominative masculine singular; identifies a son, son	1	—
+2CH 28:12	1	9	ὁ	ὁ	article, nominative masculine singular; identifies a son, son	1	son
 2CH 28:12	1	10	τοῦ	ὁ	article, genitive masculine singular	1	of
 2CH 28:12	1	11	Ἰωανὰν	Ἰωανάν	personal name, indeclinable	1	Johanan
 2CH 28:12	1	12	καὶ	καί	conjunction	1	and
@@ -336,9 +336,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:12	1	13	Βαραχίας			2	Barachias
 2CH 28:12	1	14	ὁ	ὁ	article, nominative masculine singular	1	son
 2CH 28:12	1	15	τοῦ	ὁ	article, genitive masculine singular	1	of
-2CH 28:12	1	16	Μοσολλαμὼθ	Μοσολλαμώθ	indeclinable personal name	1	Mosollamoth
+2CH 28:12	1	16	Μοσολλαμὼθ	Μοσολλαμώθ	indeclinable personal name	1	Meshillemoth
 2CH 28:12	1	17	καὶ	καί	conjunction	1	and
-2CH 28:12	1	18	Ἐζεκίας	Ἐζεκίας	noun, nominative masculine singular; personal name	1	Hezekiah
+2CH 28:12	1	18	Ἐζεκίας	Ἐζεκίας	noun, nominative masculine singular; personal name	1	Jehizkiah
 2CH 28:12	1	19	ὁ	ὁ	article, nominative masculine singular	1	son
 2CH 28:12	1	20	τοῦ	ὁ	article, genitive masculine singular	1	of
 2CH 28:12	1	21	Σελλὴμ	Σελλήμ	indeclinable personal name, dative in context	1	Shallum
@@ -348,10 +348,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:12	1	23	Ἀμασίας			2	Amasias
 2CH 28:12	1	24	ὁ	ὁ	article, nominative masculine singular	1	son
 2CH 28:12	1	25	τοῦ	ὁ	article, genitive masculine singular	1	of
-2CH 28:12	1	26	Ἀλδὶ	Ἀλδί	personal name, indeclinable; possessive in context	1	Aldi
+2CH 28:12	1	26	Ἀλδὶ	Ἀλδί	personal name, indeclinable; possessive in context	1	Hadlai
 2CH 28:12	1	27	ἐπὶ	ἐπί	preposition with accusative	1	against
 2CH 28:12	1	28	τοὺς	ὁ	article, accusative masculine plural	1	the
-2CH 28:12	1	29	ἐρχομένους	ἔρχομαι	present middle/passive participle, accusative masculine plural	1	coming
+2CH 28:12	1	29	ἐρχομένους	ἔρχομαι	present middle/passive participle, accusative masculine plural	1	ones coming
 2CH 28:12	1	30	ἀπὸ	ἀπό	preposition with the genitive	1	from
 2CH 28:12	1	31	τοῦ	ὁ	article, genitive singular	1	the
 2CH 28:12	1	32	πολέμου	πόλεμος	noun, genitive masculine singular	1	war
@@ -360,7 +360,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:13	1	2	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
 2CH 28:13	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 2CH 28:13	1	4	οὐ	οὐ	negative particle in the emphatic negation οὐ μή	1	by no means
-2CH 28:13	1	5	μὴ	μή	negative particle	1	not
+2CH 28:13	1	5	μὴ	μή	negative particle	1	—
 2CH 28:13	1	6	εἰσαγάγητε	εἰσάγω	aorist active subjunctive, second plural	1	bring in
 2CH 28:13	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 2CH 28:13	1	8	αἰχμαλωσίαν	αἰχμαλωσία	noun, accusative feminine singular; collective	1	captives
@@ -371,12 +371,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:13	1	13	εἰς	εἰς	preposition with accusative; articular infinitive expressing result	1	resulting in
 2CH 28:13	1	14	τὸ	ὁ	article, accusative neuter singular; articular infinitive, introduces the infinitive	1	—
 2CH 28:13	1	15	ἁμαρτάνειν	ἁμαρτάνω	present active infinitive	1	sinning
-2CH 28:13	1	16	τῷ	ὁ	article, dative masculine singular	1	to the
-2CH 28:13	1	17	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+2CH 28:13	1	16	τῷ	ὁ	article, dative masculine singular	1	against the
+2CH 28:13	1	17	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 2CH 28:13	1	18	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
 2CH 28:13	1	19	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	1	us
 2CH 28:13	1	20	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
-2CH 28:13	1	21	λέγετε	λέγω	present active indicative, second plural	1	you intend
+2CH 28:13	1	21	λέγετε	λέγω	present active indicative, second plural	1	intend
 2CH 28:13	1	21	λέγετε			2	you say
 2CH 28:13	1	22	προσθεῖναι	προστίθημι	aorist active infinitive	1	to add
 2CH 28:13	1	23	ἐπὶ	ἐπί	preposition with dative or accusative here	1	to
@@ -487,7 +487,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:16	1	10	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 2CH 28:16	1	11	Ἀσσοὺρ	Ἀσσούρ	proper name, indeclinable; possessive territorial sense	1	of Assyria
 2CH 28:16	1	12	βοηθῆσαι	βοηθέω	aorist active infinitive	1	to help
-2CH 28:16	1	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+2CH 28:16	1	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 2CH 28:17	1	1	καὶ	καί	conjunction	1	and
 2CH 28:17	1	2	ἐν	ἐν	preposition with the dative	1	in
 2CH 28:17	1	3	τούτῳ	οὗτος	demonstrative pronoun, dative neuter singular after ἐν	1	this
@@ -586,13 +586,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:21	1	6	οἴκῳ			2	a house
 2CH 28:21	1	7	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2CH 28:21	1	8	καὶ	καί	conjunction	1	and
-2CH 28:21	1	9	τὰ	ὁ	article, accusative neuter plural	1	the
-2CH 28:21	1	10	ἐν	ὁ	article, accusative neuter plural; nominalizes the following prepositional phrase	1	the things
+2CH 28:21	1	9	τὰ	ὁ	article, accusative neuter plural	1	the things
+2CH 28:21	1	10	ἐν	ὁ	article, accusative neuter plural; nominalizes the following prepositional phrase	1	in
 2CH 28:21	1	11	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
 2CH 28:21	1	12	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2CH 28:21	1	13	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 2CH 28:21	1	14	καὶ	καί	conjunction	1	and
-2CH 28:21	1	15	τῶν	ὁ	article, genitive plural	1	the
+2CH 28:21	1	15	τῶν	ὁ	article, genitive plural	1	of the
 2CH 28:21	1	16	ἀρχόντων	ἄρχων	noun, genitive masculine plural	1	leaders
 2CH 28:21	1	17	καὶ	καί	conjunction	1	and
 2CH 28:21	1	18	ἔδωκε	δίδωμι	aorist active indicative, third singular	1	he gave
@@ -601,7 +601,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:21	1	21	Ἀσσούρ	Ἀσσούρ	proper name, indeclinable; possessive territorial sense	1	of Assyria
 2CH 28:21	1	22	καὶ	καί	conjunction	1	and
 2CH 28:21	1	23	οὐκ	οὐ	negative particle	1	not
-2CH 28:21	1	24	εἰς	εἰς	preposition with the accusative	1	into
+2CH 28:21	1	24	εἰς	εἰς	preposition with the accusative	1	for
 2CH 28:21	1	25	βοήθειαν	βοήθεια	noun, accusative feminine singular	1	help
 2CH 28:21	1	26	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 2CH 28:22	1	1	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
@@ -635,14 +635,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 28:23	1	12	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of the king
 2CH 28:23	1	13	Συρίας	Συρία	noun, genitive feminine singular; place name	1	of Syria
 2CH 28:23	1	14	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
-2CH 28:23	1	15	κατισχύσουσιν	κατισχύω	future active indicative, third plural	1	will prevail
+2CH 28:23	1	15	κατισχύσουσιν	κατισχύω	future active indicative, third plural	1	will strengthen
 2CH 28:23	1	16	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 2CH 28:23	1	17	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 2CH 28:23	1	18	τοίνυν	τοίνυν	inferential particle	1	therefore
 2CH 28:23	1	18	τοίνυν			2	then
 2CH 28:23	1	19	θύσω	θύω	future active indicative, first singular	1	I will offer sacrifice
 2CH 28:23	1	20	καὶ	καί	conjunction	1	and
-2CH 28:23	1	21	ἀντιλήψονταί	ἀντιλαμβάνομαι	future middle indicative, third plural	1	will come to my aid
+2CH 28:23	1	21	ἀντιλήψονταί	ἀντιλαμβάνομαι	future middle indicative, third plural	1	will help
 2CH 28:23	1	22	μου	ἐγώ	personal pronoun, genitive first singular	1	me
 2CH 28:23	1	23	καὶ	καί	conjunction	1	and
 2CH 28:23	1	24	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they

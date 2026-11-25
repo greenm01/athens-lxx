@@ -27,7 +27,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:2	1	15	τοὺς	ὁ	article accusative masculine plural	1	the
 2CH 6:2	1	16	αἰῶνας	αἰών	noun accusative masculine plural	1	ages
 2CH 6:3	1	1	Καὶ	καί	conjunction	1	and
-2CH 6:3	1	2	ἐπέστρεψεν	ἐπιστρέφω	aorist active indicative, third singular, intransitive in sense 'returned'	1	returned
+2CH 6:3	1	2	ἐπέστρεψεν	ἐπιστρέφω	aorist active indicative, third singular, intransitive in sense 'returned'	1	turned
 2CH 6:3	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 6:3	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2CH 6:3	1	5	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -72,7 +72,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:5	1	2	τῆς	ὁ	article, genitive feminine singular	1	the
 2CH 6:5	1	3	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
 2CH 6:5	1	4	ἧς	ὅς	relative pronoun, genitive feminine singular	1	which
-2CH 6:5	1	5	ἀνήγαγον	ἀνάγω	aorist active indicative, third plural	1	brought up
+2CH 6:5	1	5	ἀνήγαγον	ἀνάγω	aorist active indicative, third plural	1	I brought up
 2CH 6:5	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
 2CH 6:5	1	7	λαόν	λαός	noun, accusative masculine singular	1	people
 2CH 6:5	1	8	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
@@ -82,11 +82,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:5	1	12	οὐκ	οὐ	negative adverb	1	not
 2CH 6:5	1	13	ἐξελεξάμην	ἐκλέγομαι	aorist middle indicative, first singular	1	I chose
 2CH 6:5	1	14	ἐν	ἐν	preposition with the dative	1	in
-2CH 6:5	1	15	πόλει	πόλις	noun, dative feminine singular	1	the city
+2CH 6:5	1	15	πόλει	πόλις	noun, dative feminine singular	1	a city
 2CH 6:5	1	16	ἀπὸ	ἀπό	preposition with the genitive	1	from
 2CH 6:5	1	17	πασῶν	πᾶς	adjective, genitive feminine plural	1	all
-2CH 6:5	1	18	φυλῶν	φυλή	noun, genitive feminine plural	1	clans
-2CH 6:5	1	18	φυλῶν			2	tribes
+2CH 6:5	1	18	φυλῶν	φυλή	noun, genitive feminine plural	1	tribes
+2CH 6:5	1	18	φυλῶν			2	clans
 2CH 6:5	1	19	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2CH 6:5	1	20	τοῦ	ὁ	article, genitive singular	1	the
 2CH 6:5	1	21	οἰκοδομῆσαι	οἰκοδομέω	aorist active infinitive	1	to build
@@ -103,7 +103,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:5	1	30	ἐξελεξάμην	ἐκλέγομαι	aorist middle indicative, first singular	1	I chose
 2CH 6:5	1	31	ἐν	ἐν	preposition with the dative	1	in
 2CH 6:5	1	32	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	man
-2CH 6:5	1	33	τοῦ	ὁ	article, genitive masculine singular	1	of the
+2CH 6:5	1	33	τοῦ	ὁ	article, genitive masculine singular	1	—
 2CH 6:5	1	34	εἶναι	εἰμί	present infinitive	1	to be
 2CH 6:5	1	35	εἰς	εἰς	preposition marking role or result	1	as
 2CH 6:5	1	36	ἡγούμενον	ἡγέομαι	present middle participle, accusative masculine singular; substantival	1	leader
@@ -186,10 +186,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:8	1	25	τὴν	ὁ	article, accusative feminine singular	1	the
 2CH 6:8	1	26	καρδίαν	καρδία	noun, accusative feminine singular	1	heart
 2CH 6:8	1	27	σου	σύ	pronoun, possessive genitive second singular	1	your
-2CH 6:9	1	1	Πλὴν	πλήν	preposition/adverb with the genitive	1	except
+2CH 6:9	1	1	Πλὴν	πλήν	preposition/adverb with the genitive	1	but
 2CH 6:9	1	2	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 2CH 6:9	1	3	οὐκ	οὐ	negative particle	1	not
-2CH 6:9	1	4	οἰκοδομήσεις	οἰκοδομέω	future active indicative, second singular	1	you will build
+2CH 6:9	1	4	οἰκοδομήσεις	οἰκοδομέω	future active indicative, second singular	1	will build
 2CH 6:9	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 2CH 6:9	1	6	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 2CH 6:9	1	6	οἶκον			2	household
@@ -268,8 +268,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:12	1	6	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2CH 6:12	1	7	ἔναντι	ἔναντι	improper preposition with genitive	1	before
 2CH 6:12	1	7	ἔναντι			2	in the presence of
-2CH 6:12	1	8	πάσης	πᾶς	adjective, genitive feminine singular	1	all the
-2CH 6:12	1	9	ἐκκλησίας	ἐκκλησία	noun, genitive feminine singular	1	of the assembly
+2CH 6:12	1	8	πάσης	πᾶς	adjective, genitive feminine singular	1	all
+2CH 6:12	1	9	ἐκκλησίας	ἐκκλησία	noun, genitive feminine singular	1	the assembly
 2CH 6:12	1	9	ἐκκλησίας			2	of the church
 2CH 6:12	1	10	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 2CH 6:12	1	11	καὶ	καί	conjunction	1	and
@@ -291,7 +291,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:13	1	10	μέσῳ			2	the middle
 2CH 6:13	1	11	τῆς	ὁ	article, genitive feminine singular	1	of the
 2CH 6:13	1	12	αὐλῆς	αὐλή	noun, genitive fem. sg. after τῆς	1	court
-2CH 6:13	1	13	τοῦ	ὁ	article, genitive singular	1	the
+2CH 6:13	1	13	τοῦ	ὁ	article, genitive singular	1	of the
 2CH 6:13	1	14	ἱεροῦ	ἱερόν	noun, genitive neuter singular	1	sanctuary
 2CH 6:13	1	15	πέντε	πέντε	indeclinable cardinal numeral	1	five
 2CH 6:13	1	16	πήχεων	πῆχυς	noun, genitive masculine plural	1	cubits
@@ -311,7 +311,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:13	1	30	ὕψος	ὕψος	noun, nominative neuter singular	1	height
 2CH 6:13	1	31	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 2CH 6:13	1	32	καὶ	καί	conjunction	1	and
-2CH 6:13	1	33	ἔστη	ἵστημι	aorist active indicative, third singular	1	was established
+2CH 6:13	1	33	ἔστη	ἵστημι	aorist active indicative, third singular	1	stood
 2CH 6:13	1	34	ἐπ	ἐπί	preposition with the genitive	1	upon
 2CH 6:13	1	35	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
 2CH 6:13	1	36	καὶ	καί	conjunction	1	and
@@ -322,8 +322,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:13	1	41	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2CH 6:13	1	42	ἔναντι	ἔναντι	improper preposition with genitive	1	before
 2CH 6:13	1	42	ἔναντι			2	in the presence of
-2CH 6:13	1	43	πάσης	πᾶς	adjective, genitive feminine singular	1	all the
-2CH 6:13	1	44	ἐκκλησίας	ἐκκλησία	noun, genitive feminine singular	1	of the assembly
+2CH 6:13	1	43	πάσης	πᾶς	adjective, genitive feminine singular	1	all
+2CH 6:13	1	44	ἐκκλησίας	ἐκκλησία	noun, genitive feminine singular	1	the assembly
 2CH 6:13	1	44	ἐκκλησίας			2	of the church
 2CH 6:13	1	45	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 2CH 6:13	1	46	καὶ	καί	conjunction	1	and
@@ -357,7 +357,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:14	1	21	καὶ	καί	conjunction	1	and
 2CH 6:14	1	22	τὸ	ὁ	definite article, nominative/accusative neuter singular	1	the
 2CH 6:14	1	23	ἔλεος	ἔλεος	noun, accusative neuter singular	1	mercy
-2CH 6:14	1	24	τοῖς	ὁ	article dative masculine plural	1	the
+2CH 6:14	1	24	τοῖς	ὁ	article dative masculine plural	1	to the
 2CH 6:14	1	25	παισί	παῖς	noun, dative masculine plural after τοῖς	1	servants
 2CH 6:14	1	26	σου	σύ	pronoun, possessive genitive second singular	1	your
 2CH 6:14	1	27	τοῖς	ὁ	article, dative masculine plural	1	the ones
@@ -404,7 +404,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:16	1	5	Θεὸς	θεός	noun, nominative masculine singular	1	God
 2CH 6:16	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2CH 6:16	1	7	φύλαξον	φυλάσσω	aorist active imperative, 2nd singular	1	keep
-2CH 6:16	1	8	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+2CH 6:16	1	8	τῷ	ὁ	article, dative masculine/neuter singular	1	for the
 2CH 6:16	1	9	παιδί	παῖς	noun, dative masculine singular	1	servant
 2CH 6:16	1	9	παιδί			2	attendant
 2CH 6:16	1	10	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -413,7 +413,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:16	1	13	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 2CH 6:16	1	14	πατρί	πατήρ	noun, dative masculine singular after τῷ	1	father
 2CH 6:16	1	15	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-2CH 6:16	1	16	ἃ	ὅς	relative pronoun, accusative neuter plural	1	which
+2CH 6:16	1	16	ἃ	ὅς	relative pronoun, accusative neuter plural	1	what
 2CH 6:16	1	17	ἐλάλησας	λαλέω	aorist active indicative, second singular	1	you spoke
 2CH 6:16	1	18	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 2CH 6:16	1	19	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
@@ -471,9 +471,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:17	1	17	τῷ	ὁ	article, dative masculine singular	1	the
 2CH 6:17	1	18	Δαυὶδ	Δαυίδ	indeclinable personal name, dative in context	1	David
 2CH 6:18	1	1	ὅτι	ὅτι	causal conjunction	1	because
-2CH 6:18	1	2	εἰ	εἰ	conditional conjunction	1	if
+2CH 6:18	1	2	εἰ	εἰ	conditional conjunction	1	[marks a question]
 2CH 6:18	1	3	ἀληθῶς	ἀληθῶς	adverb	1	truly
-2CH 6:18	1	4	κατοικήσει	κατοικέω	future active indicative, third singular	1	he will dwell
+2CH 6:18	1	4	κατοικήσει	κατοικέω	future active indicative, third singular	1	will dwell
 2CH 6:18	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 6:18	1	6	Θεὸς	θεός	noun, nominative masculine singular	1	God
 2CH 6:18	1	7	μετὰ	μετά	preposition with genitive	1	with
@@ -488,24 +488,24 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:18	1	15	καὶ	καί	conjunction	1	and
 2CH 6:18	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 6:18	1	17	οὐρανὸς	οὐρανός	noun, nominative masculine singular	1	heaven
-2CH 6:18	1	18	τοῦ	ὁ	definite article	1	the
+2CH 6:18	1	18	τοῦ	ὁ	definite article	1	of the
 2CH 6:18	1	19	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
 2CH 6:18	1	20	οὐκ	οὐ	negative particle	1	not
 2CH 6:18	1	21	ἀρκέσουσί	ἀρκέω	future active indicative, third plural	1	will suffice
 2CH 6:18	1	22	σοι	σύ	personal pronoun, dative singular	1	to you
 2CH 6:18	1	23	καὶ	καί	conjunction	1	and
-2CH 6:18	1	24	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
+2CH 6:18	1	24	τίς	τίς	interrogative pronoun, nominative masculine singular	1	what
 2CH 6:18	1	25	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 6:18	1	26	οἶκος	οἶκος	noun, nominative masculine singular	1	house
 2CH 6:18	1	27	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 2CH 6:18	1	28	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
 2CH 6:18	1	29	ᾠκοδόμησα	οἰκοδομέω	aorist active indicative, first singular	1	I built
 2CH 6:19	1	1	καὶ	καί	conjunction	1	and
-2CH 6:19	1	2	ἐπιβλέψῃ	ἐπιβλέπω	future middle indicative, second singular	1	you shall look upon
+2CH 6:19	1	2	ἐπιβλέψῃ	ἐπιβλέπω	future middle indicative, second singular	1	you shall look
 2CH 6:19	1	3	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2CH 6:19	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 2CH 6:19	1	5	προσευχὴν	προσευχή	noun accusative feminine singular	1	prayer
-2CH 6:19	1	6	παιδός	παῖς	noun, genitive masculine singular	1	servant
+2CH 6:19	1	6	παιδός	παῖς	noun, genitive masculine singular	1	of servant
 2CH 6:19	1	7	σου	σύ	pronoun, possessive genitive second singular	1	your
 2CH 6:19	1	8	καὶ	καί	conjunction	1	and
 2CH 6:19	1	9	ἐπὶ	ἐπί	preposition with the accusative	1	upon
@@ -565,7 +565,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:20	1	30	παῖς	παῖς	noun, nominative masculine singular	1	servant
 2CH 6:20	1	31	σου	σύ	personal pronoun, possessive genitive singular	1	your
 2CH 6:20	1	32	προσεύχεται	προσεύχομαι	present middle indicative, third singular	1	prays
-2CH 6:20	1	33	εἰς	εἰς	preposition with the accusative	1	into
+2CH 6:20	1	33	εἰς	εἰς	preposition with the accusative	1	toward
 2CH 6:20	1	34	τὸν	ὁ	article accusative masculine singular	1	the
 2CH 6:20	1	35	τόπον	τόπος	noun, accusative masculine singular	1	place
 2CH 6:20	1	36	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	1	this
@@ -573,17 +573,17 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:21	1	2	ἀκούσῃ	ἀκούω	future middle indicative, second singular	1	you will hear
 2CH 6:21	1	3	τῆς	ὁ	article, genitive feminine singular	1	the
 2CH 6:21	1	4	δεήσεως	δέησις	noun, genitive feminine singular	1	supplication
-2CH 6:21	1	5	τοῦ	ὁ	article, genitive singular	1	the
+2CH 6:21	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 2CH 6:21	1	6	παιδός	παῖς	noun, genitive masculine singular	1	servant
 2CH 6:21	1	7	σου	σύ	pronoun, possessive genitive second singular	1	your
 2CH 6:21	1	8	καὶ	καί	conjunction	1	and
 2CH 6:21	1	9	λαοῦ	λαός	noun, genitive masculine singular	1	people
 2CH 6:21	1	10	σου	σύ	pronoun, possessive genitive second singular	1	your
-2CH 6:21	1	11	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
+2CH 6:21	1	11	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 2CH 6:21	1	12	ἃ	ὅς	relative pronoun, nominative neuter plural	1	which
 2CH 6:21	1	13	ἂν	ἄν	modal particle with subjunctive ἔλθῃ, marks indefinite/conditional time	1	—
 2CH 6:21	1	14	προσεύξωνται	προσεύχομαι	aorist middle optative, third plural	1	they pray
-2CH 6:21	1	15	εἰς	εἰς	preposition with the accusative	1	into
+2CH 6:21	1	15	εἰς	εἰς	preposition with the accusative	1	toward
 2CH 6:21	1	16	τὸν	ὁ	article accusative masculine singular	1	the
 2CH 6:21	1	17	τόπον	τόπος	noun, accusative masculine singular	1	place
 2CH 6:21	1	18	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	1	this
@@ -593,21 +593,21 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:21	1	22	ἐν	ἐν	preposition with the dative	1	in
 2CH 6:21	1	23	τῷ	ὁ	article, dative masculine singular	1	the
 2CH 6:21	1	24	τόπῳ	τόπος	noun, dative masculine singular	1	place
-2CH 6:21	1	25	τῆς	ὁ	article, genitive feminine singular	1	the
+2CH 6:21	1	25	τῆς	ὁ	article, genitive feminine singular	1	of the
 2CH 6:21	1	26	κατοικήσεώς	κατοίκησις	noun, genitive feminine singular	1	dwelling
 2CH 6:21	1	27	σου	σύ	pronoun, possessive genitive second singular	1	your
 2CH 6:21	1	28	ἐκ	ἐκ	preposition with the genitive	1	from
 2CH 6:21	1	29	τοῦ	ὁ	article, genitive singular	1	the
 2CH 6:21	1	30	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
 2CH 6:21	1	31	καὶ	καί	conjunction	1	and
-2CH 6:21	1	32	ἀκούσῃ	ἀκούω	aorist active subjunctive, third singular	1	hears
+2CH 6:21	1	32	ἀκούσῃ	ἀκούω	aorist active subjunctive, third singular	1	you will hear
 2CH 6:21	1	33	καὶ	καί	conjunction	1	and
 2CH 6:21	1	34	ἵλεως	ἵλεως	adjective, nominative masculine singular	1	merciful
 2CH 6:21	1	35	ἔσῃ	εἰμί	future middle indicative, second singular	1	you will be
 2CH 6:22	1	1	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 2CH 6:22	1	2	ἁμάρτῃ	ἁμαρτάνω	aorist active subjunctive, third singular	1	sins
 2CH 6:22	1	3	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
-2CH 6:22	1	4	τῷ	ὁ	article, dative masculine singular	1	the
+2CH 6:22	1	4	τῷ	ὁ	article, dative masculine singular	1	against the
 2CH 6:22	1	5	πλησίον	πλησίον	substantival adverb, dative masculine singular in context	1	neighbour
 2CH 6:22	1	5	πλησίον			2	fellow
 2CH 6:22	1	6	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -648,13 +648,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:23	1	13	σου	σύ	pronoun, possessive genitive second singular	1	your
 2CH 6:23	1	14	τοῦ	ὁ	article, genitive singular	1	the
 2CH 6:23	1	15	ἀποδοῦναι	ἀποδίδωμι	aorist active infinitive	1	to repay
-2CH 6:23	1	16	τῷ	ὁ	article, dative masculine singular	1	the
+2CH 6:23	1	16	τῷ	ὁ	article, dative masculine singular	1	to the
 2CH 6:23	1	17	ἀνόμῳ	ἄνομος	adjective, dative masculine singular; substantival	1	lawless person
 2CH 6:23	1	18	καὶ	καί	conjunction	1	and
 2CH 6:23	1	19	ἀποδοῦναι	ἀποδίδωμι	aorist active infinitive	1	to repay
 2CH 6:23	1	20	ὁδοὺς	ὁδός	noun accusative feminine plural	1	ways
 2CH 6:23	1	21	αὐτοῦ	αὐτός	pronoun genitive masculine singular	1	his
-2CH 6:23	1	22	εἰς	εἰς	preposition with accusative	1	into
+2CH 6:23	1	22	εἰς	εἰς	preposition with accusative	1	on
 2CH 6:23	1	23	κεφαλὴν	κεφαλή	noun accusative feminine singular	1	head
 2CH 6:23	1	24	αὐτοῦ	αὐτός	pronoun genitive masculine singular	1	his
 2CH 6:23	1	25	καὶ	καί	conjunction	1	and
@@ -675,13 +675,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:24	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 6:24	1	5	λαός	λαός	noun, nominative masculine singular	1	people
 2CH 6:24	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
-2CH 6:24	1	7	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
-2CH 6:24	1	8	κατέναντι	κατέναντι	preposition with genitive	1	opposite
+2CH 6:24	1	7	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
+2CH 6:24	1	8	κατέναντι	κατέναντι	preposition with genitive	1	before
 2CH 6:24	1	9	τοῦ	ὁ	article, genitive singular	1	the
 2CH 6:24	1	10	ἐχθροῦ	ἐχθρός	noun, genitive masc. sg. after τοῦ	1	enemy
 2CH 6:24	1	11	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 2CH 6:24	1	12	ἁμάρτωσί	ἁμαρτάνω	aorist active subjunctive, third plural	1	they sin
-2CH 6:24	1	13	σοι	σύ	personal pronoun, dative singular	1	to you
+2CH 6:24	1	13	σοι	σύ	personal pronoun, dative singular	1	against you
 2CH 6:24	1	14	καὶ	καί	conjunction	1	and
 2CH 6:24	1	15	ἐπιστρέψωσι	ἐπιστρέφω	aorist active subjunctive, third plural	1	may turn back
 2CH 6:24	1	15	ἐπιστρέψωσι			2	may return
@@ -696,7 +696,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:24	1	24	δεηθῶσιν	δέομαι	aorist passive subjunctive, third plural	1	they plead
 2CH 6:24	1	25	ἐναντίον	ἐναντίον	preposition governing the genitive	1	before
 2CH 6:24	1	26	σου	σύ	personal pronoun, second person genitive singular	1	you
-2CH 6:24	1	27	ἐν	ἐν	preposition with dative	1	while
+2CH 6:24	1	27	ἐν	ἐν	preposition with dative	1	in
 2CH 6:24	1	28	τῷ	ὁ	article, dative masculine singular	1	the
 2CH 6:24	1	29	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
 2CH 6:24	1	30	τούτῳ	οὗτος	demonstrative pronoun, dative neuter singular after ἐν	1	this
@@ -709,7 +709,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:25	1	7	καὶ	καί	conjunction	1	and
 2CH 6:25	1	8	ἵλεως	ἵλεως	adjective, nominative masculine singular	1	merciful
 2CH 6:25	1	9	ἔσῃ	εἰμί	future middle indicative, second singular	1	you will be
-2CH 6:25	1	10	ταῖς	ὁ	article, dative feminine plural	1	the
+2CH 6:25	1	10	ταῖς	ὁ	article, dative feminine plural	1	to the
 2CH 6:25	1	11	ἁμαρτίαις	ἁμαρτία	noun, dative feminine plural	1	sins
 2CH 6:25	1	12	τοῦ	ὁ	article, genitive singular	1	of the
 2CH 6:25	1	13	λαοῦ	λαός	noun, genitive masculine singular	1	people
@@ -739,7 +739,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:26	1	9	ὑετὸν	ὑετός	noun, accusative masculine singular	1	rain
 2CH 6:26	1	10	ὅτι	ὅτι	conjunction	1	because
 2CH 6:26	1	11	ἁμαρτήσονταί	ἁμαρτάνω	future middle indicative, third plural	1	they shall sin
-2CH 6:26	1	12	σοι	σύ	personal pronoun, dative singular	1	to you
+2CH 6:26	1	12	σοι	σύ	personal pronoun, dative singular	1	against you
 2CH 6:26	1	13	καὶ	καί	conjunction	1	and
 2CH 6:26	1	14	προσεύξονται	προσεύχομαι	future middle indicative, third plural	1	they shall pray
 2CH 6:26	1	15	εἰς	εἰς	preposition with the accusative of direction	1	to
@@ -760,7 +760,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:26	1	29	ἐπιστρέψουσιν	ἐπιστρέφω	future active indicative, third plural	1	will return
 2CH 6:26	1	29	ἐπιστρέψουσιν			2	will turn back
 2CH 6:26	1	30	ὅτι	ὅτι	causal conjunction	1	because
-2CH 6:26	1	31	ταπεινώσεις	ταπεινόω	future active indicative, second singular	1	you humble
+2CH 6:26	1	31	ταπεινώσεις	ταπεινόω	future active indicative, second singular	1	you will humble
 2CH 6:26	1	32	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 2CH 6:27	1	1	Καὶ	καί	conjunction	1	and
 2CH 6:27	1	2	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
@@ -771,16 +771,16 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:27	1	7	καὶ	καί	conjunction	1	and
 2CH 6:27	1	8	ἵλεως	ἵλεως	adjective, nominative masculine singular	1	merciful
 2CH 6:27	1	9	ἔσῃ	εἰμί	future middle indicative, second singular	1	you will be
-2CH 6:27	1	10	ταῖς	ὁ	article, dative feminine plural	1	the
+2CH 6:27	1	10	ταῖς	ὁ	article, dative feminine plural	1	to the
 2CH 6:27	1	11	ἁμαρτίαις	ἁμαρτία	noun, dative feminine plural	1	sins
-2CH 6:27	1	12	τῶν	ὁ	article, genitive masculine plural	1	the
+2CH 6:27	1	12	τῶν	ὁ	article, genitive masculine plural	1	of the
 2CH 6:27	1	13	παίδων	παῖς	noun, genitive masculine plural after τῶν	1	servants
 2CH 6:27	1	14	σου	σύ	pronoun, possessive genitive second singular	1	your
 2CH 6:27	1	15	καὶ	καί	conjunction	1	and
-2CH 6:27	1	16	τοῦ	ὁ	article, genitive singular	1	the
+2CH 6:27	1	16	τοῦ	ὁ	article, genitive singular	1	of the
 2CH 6:27	1	17	λαοῦ	λαός	noun, genitive masculine singular	1	people
 2CH 6:27	1	18	σου	σύ	pronoun, possessive genitive second singular	1	your
-2CH 6:27	1	19	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
+2CH 6:27	1	19	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 2CH 6:27	1	20	ὅτι	ὅτι	causal conjunction	1	because
 2CH 6:27	1	21	δηλώσεις	δηλόω	future active indicative, second singular	1	you will make known to
 2CH 6:27	1	22	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
@@ -802,10 +802,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:27	1	38	σου	σύ	pronoun, genitive 2nd singular	1	your
 2CH 6:27	1	39	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
 2CH 6:27	1	40	ἔδωκας	δίδωμι	aorist active indicative, second singular	1	you gave
-2CH 6:27	1	41	τῷ	ὁ	article, dative masculine singular	1	the
+2CH 6:27	1	41	τῷ	ὁ	article, dative masculine singular	1	to the
 2CH 6:27	1	42	λαῷ	λαός	noun, dative masculine singular	1	people
 2CH 6:27	1	43	σου	σύ	pronoun, possessive genitive second singular	1	your
-2CH 6:27	1	44	εἰς	εἰς	preposition with accusative	1	into
+2CH 6:27	1	44	εἰς	εἰς	preposition with accusative	1	as
 2CH 6:27	1	45	κληρονομίαν	κληρονομία	noun accusative feminine singular	1	inheritance
 2CH 6:28	1	1	Λιμὸς	λιμός	noun, nominative masculine singular	1	famine
 2CH 6:28	1	2	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
@@ -827,7 +827,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:28	1	17	γένηται	γίνομαι	aorist middle subjunctive, third singular	1	occurs
 2CH 6:28	1	18	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 2CH 6:28	1	19	θλίψῃ	θλίβω	aorist active subjunctive, third singular	1	oppresses
-2CH 6:28	1	20	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
+2CH 6:28	1	20	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 2CH 6:28	1	21	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 6:28	1	22	ἐχθρὸς	ἐχθρός	substantival adjective nominative masculine singular	1	enemy
 2CH 6:28	1	23	κατέναντι	κατέναντι	preposition with genitive	1	before
@@ -850,10 +850,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:29	1	7	ἢ	ἤ	particle	1	or
 2CH 6:29	1	8	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 2CH 6:29	1	9	γένηται	γίνομαι	aorist middle subjunctive, third singular	1	occurs
-2CH 6:29	1	10	παντὶ	πᾶς	adjective, dative masculine singular	1	all
+2CH 6:29	1	10	παντὶ	πᾶς	adjective, dative masculine singular	1	to every
 2CH 6:29	1	11	ἀνθρώπῳ	ἄνθρωπος	noun, dative masculine singular	1	person
 2CH 6:29	1	12	καὶ	καί	conjunction	1	and
-2CH 6:29	1	13	παντὶ	πᾶς	adjective, dative masculine singular	1	all
+2CH 6:29	1	13	παντὶ	πᾶς	adjective, dative masculine singular	1	to all
 2CH 6:29	1	14	λαῷ	λαός	noun, dative masculine singular	1	people
 2CH 6:29	1	15	σου	σύ	pronoun, possessive genitive second singular	1	your
 2CH 6:29	1	16	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, nominative in context	1	Israel
@@ -889,7 +889,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:30	1	10	σου	σύ	pronoun, possessive genitive second singular	1	your
 2CH 6:30	1	11	καὶ	καί	conjunction	1	and
 2CH 6:30	1	12	ἱλάσῃ	ἱλάσκομαι	future middle indicative second singular	1	you will pardon
-2CH 6:30	1	13	καὶ	καί	additive particle	1	also
+2CH 6:30	1	13	καὶ	καί	additive particle	1	and
 2CH 6:30	1	14	δώσεις	δίδωμι	future active indicative, second singular	1	you shall give
 2CH 6:30	1	15	ἀνδρὶ	ἀνήρ	noun, dative masculine singular; distributive	1	to each person
 2CH 6:30	1	16	κατὰ	κατά	preposition with the accusative	1	according to
@@ -903,12 +903,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:30	1	23	τὴν	ὁ	article, accusative feminine singular	1	the
 2CH 6:30	1	24	καρδίαν	καρδία	noun, accusative feminine singular	1	heart
 2CH 6:30	1	25	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-2CH 6:30	1	26	ὅτι	ὅτι	conjunction introducing a content clause	1	that
+2CH 6:30	1	26	ὅτι	ὅτι	conjunction introducing a content clause	1	for
 2CH 6:30	1	27	μονώτατος	μόνος	superlative adjective, nominative masculine singular	1	all alone
 2CH 6:30	1	28	γινώσκεις	γινώσκω	present active indicative, second singular	1	you know
 2CH 6:30	1	29	τὴν	ὁ	article, accusative feminine singular	1	the
 2CH 6:30	1	30	καρδίαν	καρδία	noun, accusative feminine singular	1	heart
-2CH 6:30	1	31	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+2CH 6:30	1	31	υἱῶν	υἱός	noun, genitive masculine plural	1	of sons
 2CH 6:30	1	32	ἀνθρώπων	ἄνθρωπος	noun genitive masculine plural	1	of men
 2CH 6:31	1	1	ὅπως	ὅπως	conjunction of purpose with the subjunctive	1	so that
 2CH 6:31	1	1	ὅπως			2	in order that
@@ -925,11 +925,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:31	1	12	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2CH 6:31	1	13	προσώπου	πρόσωπον	noun, genitive neuter singular	1	surface
 2CH 6:31	1	14	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
-2CH 6:31	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
+2CH 6:31	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
 2CH 6:31	1	16	γῆς	γῆ	noun, genitive feminine singular	1	land
 2CH 6:31	1	17	ἧς	ὅς	relative pronoun, genitive feminine singular	1	which
 2CH 6:31	1	18	ἔδωκας	δίδωμι	aorist active indicative second singular	1	you gave
-2CH 6:31	1	19	τοῖς	ὁ	article, dative masculine plural	1	the
+2CH 6:31	1	19	τοῖς	ὁ	article, dative masculine plural	1	to the
 2CH 6:31	1	20	πατράσιν	πατήρ	noun, dative masculine plural	1	fathers
 2CH 6:31	1	21	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 2CH 6:32	1	1	Καὶ	καί	conjunction	1	and
@@ -942,7 +942,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:32	1	7	τοῦ	ὁ	article, genitive singular	1	the
 2CH 6:32	1	8	λαοῦ	λαός	noun, genitive masculine singular	1	people
 2CH 6:32	1	9	σου	σύ	pronoun, possessive genitive second singular	1	your
-2CH 6:32	1	10	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
+2CH 6:32	1	10	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 2CH 6:32	1	11	ἐστιν	εἰμί	present indicative, third singular	1	is
 2CH 6:32	1	12	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 2CH 6:32	1	13	καὶ	καί	conjunction	1	and
@@ -1016,7 +1016,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:33	1	36	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 6:33	1	37	λαός	λαός	noun, nominative masculine singular	1	people
 2CH 6:33	1	38	σου	σύ	pronoun, possessive genitive second singular	1	your
-2CH 6:33	1	39	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
+2CH 6:33	1	39	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 2CH 6:33	1	40	τοῦ	ὁ	article, genitive singular	1	the
 2CH 6:33	1	41	γνῶναι	γινώσκω	aorist active infinitive	1	to find out
 2CH 6:33	1	41	γνῶναι			2	to know
@@ -1059,7 +1059,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:34	1	23	τὴν	ὁ	article, accusative feminine singular	1	the
 2CH 6:34	1	24	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 2CH 6:34	1	24	ὁδὸν			2	path
-2CH 6:34	1	25	τῆς	ὁ	article, genitive feminine singular	1	the
+2CH 6:34	1	25	τῆς	ὁ	article, genitive feminine singular	1	of the
 2CH 6:34	1	26	πόλεως	πόλις	noun, genitive feminine singular	1	city
 2CH 6:34	1	26	πόλεως			2	town
 2CH 6:34	1	27	ταύτης	οὗτος	demonstrative pronoun, genitive feminine singular	1	this
@@ -1068,14 +1068,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:34	1	30	ἐν	ἐν	preposition with the dative	1	in
 2CH 6:34	1	31	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 2CH 6:34	1	32	καὶ	καί	conjunction	1	and
-2CH 6:34	1	33	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+2CH 6:34	1	33	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 2CH 6:34	1	34	οὗ	οὗ	relative pronoun, genitive neuter singular, attracted to the genitive antecedent	1	which
 2CH 6:34	1	35	ᾠκοδόμησα	οἰκοδομέω	aorist active indicative, first singular	1	I built
-2CH 6:34	1	36	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+2CH 6:34	1	36	τῷ	ὁ	article, dative masculine/neuter singular	1	for the
 2CH 6:34	1	37	ὀνόματί	ὄνομα	noun, dative neuter singular	1	name
 2CH 6:34	1	38	σου	σύ	personal pronoun, possessive genitive singular	1	your
 2CH 6:35	1	1	καὶ	καί	conjunction	1	and
-2CH 6:35	1	2	ἀκούσῃ	ἀκούω	aorist active subjunctive, third singular	1	hears
+2CH 6:35	1	2	ἀκούσῃ	ἀκούω	aorist active subjunctive, third singular	1	you will hear
 2CH 6:35	1	3	ἐκ	ἐκ	preposition with the genitive	1	from
 2CH 6:35	1	4	τοῦ	ὁ	article, genitive singular	1	the
 2CH 6:35	1	5	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
@@ -1094,8 +1094,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:35	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 2CH 6:36	1	1	Ὅτι	ὅτι	causal conjunction	1	because
 2CH 6:36	1	2	ἁμαρτήσονταί	ἁμαρτάνω	future middle indicative, third plural	1	they shall sin
-2CH 6:36	1	3	σοι	σύ	pronoun, dative 2nd singular	1	to you
-2CH 6:36	1	4	ὅτι	ὅτι	content conjunction	1	that
+2CH 6:36	1	3	σοι	σύ	pronoun, dative 2nd singular	1	against you
+2CH 6:36	1	4	ὅτι	ὅτι	content conjunction	1	for
 2CH 6:36	1	5	οὐκ	οὐ	particle	1	not
 2CH 6:36	1	6	ἔστιν	εἰμί	present indicative, third singular	1	is
 2CH 6:36	1	7	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	a man
@@ -1106,11 +1106,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:36	1	12	πατάξεις	πατάσσω	future active indicative, 2nd singular	1	shall smite
 2CH 6:36	1	13	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 2CH 6:36	1	14	καὶ	καί	conjunction	1	and
-2CH 6:36	1	15	παραδώσεις	παραδίδωμι	future active indicative, second singular	1	will you deliver
+2CH 6:36	1	15	παραδώσεις	παραδίδωμι	future active indicative, second singular	1	you will deliver
 2CH 6:36	1	16	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-2CH 6:36	1	17	κατὰ	κατά	preposition with accusative τὴν πύλην 'beside/at the gate'	1	according to
+2CH 6:36	1	17	κατὰ	κατά	preposition with accusative τὴν πύλην 'beside/at the gate'	1	before
 2CH 6:36	1	18	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	the face
-2CH 6:36	1	19	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	enemies
+2CH 6:36	1	19	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	of enemies
 2CH 6:36	1	20	καὶ	καί	conjunction	1	and
 2CH 6:36	1	21	αἰχμαλωτεύσουσιν	αἰχμαλωτεύω	future active indicative, third plural	1	will take captive
 2CH 6:36	1	22	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -1119,7 +1119,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:36	1	25	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 2CH 6:36	1	26	εἰς	εἰς	preposition with the accusative	1	into
 2CH 6:36	1	27	γῆν	γῆ	noun, accusative feminine singular	1	land
-2CH 6:36	1	28	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	enemies
+2CH 6:36	1	28	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	of enemies
 2CH 6:37	1	1	εἰς	εἰς	preposition with the accusative	1	into
 2CH 6:37	1	2	γῆν	γῆ	noun, accusative feminine singular	1	land
 2CH 6:37	1	2	γῆν			2	earth
@@ -1145,7 +1145,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:37	1	19	ἐπιστρέψωσι			2	may return
 2CH 6:37	1	20	καὶ	καί	conjunction	1	and
 2CH 6:37	1	21	δεηθῶσί	δέομαι	aorist passive optative, third plural	1	they implore
-2CH 6:37	1	22	σου	σύ	pronoun, possessive genitive second singular	1	your
+2CH 6:37	1	22	σου	σύ	pronoun, possessive genitive second singular	1	you
 2CH 6:37	1	23	ἐν	ἐν	preposition with the dative	1	in
 2CH 6:37	1	24	τῇ	ὁ	article, dative feminine singular	1	the
 2CH 6:37	1	25	αἰχμαλωσίᾳ	αἰχμαλωσία	noun, dative feminine singular	1	captivity
@@ -1182,12 +1182,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:38	1	25	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 2CH 6:38	1	25	αὐτῶν			2	of them
 2CH 6:38	1	26	ἧς	ὅς	relative pronoun, accusative feminine singular	1	which
-2CH 6:38	1	27	ἔδωκας	δίδωμι	aorist active indicative, second singular	1	appointed
+2CH 6:38	1	27	ἔδωκας	δίδωμι	aorist active indicative, second singular	1	you gave
 2CH 6:38	1	28	τοῖς	ὁ	article, dative masculine plural	1	to the
 2CH 6:38	1	29	πατράσιν	πατήρ	noun, dative masculine plural	1	fathers
 2CH 6:38	1	30	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 2CH 6:38	1	31	καὶ	καί	conjunction	1	and
-2CH 6:38	1	32	τῆς	ὁ	article, genitive feminine singular	1	the
+2CH 6:38	1	32	τῆς	ὁ	article, genitive feminine singular	1	of the
 2CH 6:38	1	33	πόλεως	πόλις	noun, genitive feminine singular	1	city
 2CH 6:38	1	33	πόλεως			2	town
 2CH 6:38	1	34	ἧς	ὅς	relative pronoun, attracted to its antecedent, genitive feminine singular	1	which
@@ -1197,11 +1197,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:38	1	38	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2CH 6:38	1	39	οὗ	οὗ	relative pronoun, genitive neuter singular, attracted to the genitive antecedent	1	which
 2CH 6:38	1	40	ᾠκοδόμησα	οἰκοδομέω	aorist active indicative, first singular	1	I built
-2CH 6:38	1	41	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+2CH 6:38	1	41	τῷ	ὁ	article, dative masculine/neuter singular	1	for the
 2CH 6:38	1	42	ὀνόματί	ὄνομα	noun, dative neuter singular	1	name
 2CH 6:38	1	43	σου	σύ	personal pronoun, possessive genitive singular	1	your
 2CH 6:39	1	1	καὶ	καί	conjunction	1	and
-2CH 6:39	1	2	ἀκούσῃ	ἀκούω	aorist active subjunctive, third singular	1	hears
+2CH 6:39	1	2	ἀκούσῃ	ἀκούω	aorist active subjunctive, third singular	1	you will hear
 2CH 6:39	1	3	ἐκ	ἐκ	preposition with the genitive	1	from
 2CH 6:39	1	4	τοῦ	ὁ	article, genitive singular	1	the
 2CH 6:39	1	5	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
@@ -1226,7 +1226,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:39	1	24	λαῷ	λαός	noun, dative masculine singular	1	people
 2CH 6:39	1	25	τῷ	ὁ	article, dative masculine singular	1	the
 2CH 6:39	1	26	ἁμαρτόντι	ἁμαρτάνω	aorist active participle, dative masculine singular; collective with the people in the singular	1	who sinned
-2CH 6:39	1	27	σοι	σύ	personal pronoun, dative singular	1	to you
+2CH 6:39	1	27	σοι	σύ	personal pronoun, dative singular	1	against you
 2CH 6:40	1	1	Νῦν	νῦν	adverb of time	1	now
 2CH 6:40	1	2	Κύριε	κύριος	vocative singular masculine noun	1	O Lord
 2CH 6:40	1	3	ἔστωσαν	εἰμί	present imperative, 3rd pl.	1	let them be
@@ -1244,7 +1244,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:40	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
 2CH 6:40	1	16	δέησιν	δέησις	noun, accusative feminine singular	1	plea
 2CH 6:40	1	16	δέησιν			2	entreaty
-2CH 6:40	1	17	τοῦ	ὁ	article, genitive singular	1	the
+2CH 6:40	1	17	τοῦ	ὁ	article, genitive singular	1	of the
 2CH 6:40	1	18	τόπου	τόπος	noun, genitive masculine singular	1	place
 2CH 6:40	1	19	τούτου	οὗτος	demonstrative pronoun, genitive masculine singular	1	this
 2CH 6:41	1	1	Καὶ	καί	conjunction	1	and
@@ -1261,7 +1261,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:41	1	12	καὶ	καί	conjunction	1	and
 2CH 6:41	1	13	ἡ	ὁ	article, nominative feminine singular	1	the
 2CH 6:41	1	14	κιβωτὸς	κιβωτός	noun, nominative feminine singular	1	ark
-2CH 6:41	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
+2CH 6:41	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
 2CH 6:41	1	16	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	might
 2CH 6:41	1	17	σου	σύ	pronoun, possessive genitive second singular	1	your
 2CH 6:41	1	18	Οἱ	ὁ	article, nominative masculine plural	1	the
@@ -1287,7 +1287,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 6:42	1	5	ἀποστρέψῃς	ἀποστρέφω	aorist active subjunctive second singular in prohibition	1	turn away
 2CH 6:42	1	6	τὸ	ὁ	article, accusative neuter singular	1	the
 2CH 6:42	1	7	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
-2CH 6:42	1	8	τοῦ	ὁ	article, genitive singular	1	the
+2CH 6:42	1	8	τοῦ	ὁ	article, genitive singular	1	of the
 2CH 6:42	1	9	χριστοῦ	χριστός	substantival adjective genitive masculine singular	1	anointed one
 2CH 6:42	1	10	σου	σύ	pronoun, possessive genitive second singular	1	your
 2CH 6:42	1	11	μνήσθητι	μιμνῄσκομαι	aorist passive imperative, second singular	1	remember

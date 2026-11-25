@@ -20,13 +20,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:1	1	18	τὸν	ὁ	article with a personal name, accusative masculine singular, marks the name	1	—
 2CH 23:1	1	19	Ἰσμαὴλ	Ἰσμαήλ	indeclinable personal name, accusative masculine singular	1	Ishmael
 2CH 23:1	1	20	υἱὸν	υἱός	noun, accusative masculine singular	1	son
-2CH 23:1	1	21	Ἰωανὰν	Ἰωανάν	personal name, indeclinable; possessive in context	1	of Johanan
+2CH 23:1	1	21	Ἰωανὰν	Ἰωανάν	personal name, indeclinable; possessive in context	1	of Jehohanan
 2CH 23:1	1	22	καὶ	καί	conjunction	1	and
 2CH 23:1	1	23	τὸν	ὁ	article with a personal name, accusative masculine singular, marks the name	1	—
 2CH 23:1	1	24	Ἀζαρίαν	Ἀζαρίας	personal name, accusative masculine singular	1	Azariah
 2CH 23:1	1	24	Ἀζαρίαν			2	Azarias
 2CH 23:1	1	25	υἱὸν	υἱός	noun, accusative masculine singular	1	son
-2CH 23:1	1	26	Ἰωβὴδ	Ἰωβήδ	personal name, indeclinable; possessive in context	1	of Jobed
+2CH 23:1	1	26	Ἰωβὴδ	Ἰωβήδ	personal name, indeclinable; possessive in context	1	of Obed
 2CH 23:1	1	27	καὶ	καί	conjunction	1	and
 2CH 23:1	1	28	τὸν	ὁ	article with a personal name, accusative masculine singular, marks the name	1	—
 2CH 23:1	1	29	Μαασαίαν	Μαασαίας	noun, accusative masculine singular; proper	1	Maaseiah
@@ -39,7 +39,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:1	1	35	υἱὸν			2	a son
 2CH 23:1	1	36	Ζαχαρίου	Ζαχαρίας	noun, genitive masculine singular; proper	1	of Zechariah
 2CH 23:1	1	37	μεθ᾽	μετά	preposition with the genitive, elided	1	with
-2CH 23:1	1	38	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+2CH 23:1	1	38	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	him
 2CH 23:1	1	39	εἰς	εἰς	preposition with the accusative	1	into
 2CH 23:1	1	40	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 2CH 23:1	1	41	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
@@ -120,7 +120,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:4	1	11	εἰσπορευέσθωσαν	εἰσπορεύομαι	present middle imperative, 3rd plural	1	let them go in
 2CH 23:4	1	12	τὸ	ὁ	article, genitive neuter singular; genitive of time	1	on the
 2CH 23:4	1	13	σάββατον	σάββατον	noun, accusative neut. sg. after τὸ	1	sabbath
-2CH 23:4	1	14	τῶν	ὁ	article, genitive masculine plural	1	the
+2CH 23:4	1	14	τῶν	ὁ	article, genitive masculine plural	1	of the
 2CH 23:4	1	15	ἱερέων	ἱερεύς	noun, genitive masculine plural after τῶν (printed ἱερέων)	1	priests
 2CH 23:4	1	16	καὶ	καί	conjunction	1	and
 2CH 23:4	1	17	τῶν	ὁ	article, genitive masculine plural	1	the
@@ -129,7 +129,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:4	1	20	εἰς	εἰς	preposition with the accusative	1	into
 2CH 23:4	1	21	τὰς	ὁ	article, accusative feminine plural	1	the
 2CH 23:4	1	22	πύλας	πύλη	noun, accusative feminine plural	1	gates
-2CH 23:4	1	23	τῶν	ὁ	article, genitive plural	1	the
+2CH 23:4	1	23	τῶν	ὁ	article, genitive plural	1	of the
 2CH 23:4	1	24	εἰσόδων	εἴσοδος	noun, genitive feminine plural	1	entrances
 2CH 23:5	1	1	Καὶ	καί	conjunction	1	and
 2CH 23:5	1	2	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -152,7 +152,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:5	1	19	λαὸς	λαός	noun, nominative masculine singular	1	people
 2CH 23:5	1	20	ἐν	ἐν	preposition with the dative	1	in
 2CH 23:5	1	21	αὐλαῖς	αὐλή	noun, dative feminine plural	1	the courts
-2CH 23:5	1	22	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+2CH 23:5	1	22	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 2CH 23:5	1	22	οἴκου			2	household
 2CH 23:5	1	23	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2CH 23:6	1	1	Καὶ	καί	conjunction	1	and
@@ -170,13 +170,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:6	1	13	Λευῖται	Λευίτης	proper noun, nominative masculine plural	1	Levites
 2CH 23:6	1	14	καὶ	καί	conjunction	1	and
 2CH 23:6	1	15	οἱ	ὁ	article, nominative masculine plural	1	the
-2CH 23:6	1	16	λειτουργοῦντες	λειτουργέω	present active participle, nominative masculine plural; substantival	1	those serving
+2CH 23:6	1	16	λειτουργοῦντες	λειτουργέω	present active participle, nominative masculine plural; substantival	1	ones serving
 2CH 23:6	1	16	λειτουργοῦντες			2	those who minister
-2CH 23:6	1	17	τῶν	ὁ	article, genitive plural	1	the
+2CH 23:6	1	17	τῶν	ὁ	article, genitive plural	1	of the
 2CH 23:6	1	18	Λευιτῶν	Λευίτης	noun, genitive masculine plural	1	Levites
 2CH 23:6	1	19	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
 2CH 23:6	1	20	εἰσελεύσονται	εἰσέρχομαι	future middle indicative, third plural	1	shall enter
-2CH 23:6	1	21	ὅτι	ὅτι	conjunction introducing a content clause	1	that
+2CH 23:6	1	21	ὅτι	ὅτι	conjunction introducing a content clause	1	for
 2CH 23:6	1	22	ἅγιοί	ἅγιος	adjective, nominative masculine plural	1	holy
 2CH 23:6	1	23	εἰσι	εἰμί	present active indicative, third plural	1	are
 2CH 23:6	1	24	καὶ	καί	conjunction	1	and
@@ -203,7 +203,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:7	1	12	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2CH 23:7	1	13	καὶ	καί	conjunction	1	and
 2CH 23:7	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
-2CH 23:7	1	15	εἰσπορευόμενος	εἰσπορεύομαι	present middle participle, nominative masculine singular	1	who goes in
+2CH 23:7	1	15	εἰσπορευόμενος	εἰσπορεύομαι	present middle participle, nominative masculine singular	1	one going in
 2CH 23:7	1	16	εἰς	εἰς	preposition with the accusative	1	into
 2CH 23:7	1	17	τὸν	ὁ	article, accusative masculine singular	1	the
 2CH 23:7	1	18	οἶκον	οἶκος	noun, accusative masculine singular	1	house
@@ -214,9 +214,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:7	1	22	μετὰ	μετά	preposition with genitive	1	with
 2CH 23:7	1	23	τοῦ	ὁ	article, genitive masculine singular	1	the
 2CH 23:7	1	24	βασιλέως	βασιλεύς	noun, genitive masculine singular after τοῦ	1	king
-2CH 23:7	1	25	εἰσπορευομένου	εἴσοδος	noun, genitive feminine singular; genitive of time	1	when he comes in
+2CH 23:7	1	25	εἰσπορευομένου	εἴσοδος	noun, genitive feminine singular; genitive of time	1	coming in
 2CH 23:7	1	26	καὶ	καί	conjunction	1	and
-2CH 23:7	1	27	ἐκπορευομένου	ἐκπορεύομαι	present middle/passive participle, genitive masculine singular; genitive absolute	1	goes out
+2CH 23:7	1	27	ἐκπορευομένου	ἐκπορεύομαι	present middle/passive participle, genitive masculine singular; genitive absolute	1	going out
 2CH 23:7	1	28	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; subject of the genitive absolute	1	he
 2CH 23:8	1	1	Καὶ	καί	conjunction	1	and
 2CH 23:8	1	2	ἐποίησαν	ποιέω	aorist active indicative, third person plural	1	they did
@@ -248,7 +248,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:8	1	27	τοῦ	ὁ	article, genitive neuter singular	1	of the
 2CH 23:8	1	28	σαββάτου	σάββατον	noun, genitive neut. sg. after τοῦ	1	sabbath
 2CH 23:8	1	29	ὅτι	ὅτι	causal conjunction	1	because
-2CH 23:8	1	30	οὐ	οὐ	negative particle in the emphatic negation οὐ μή	1	by no means
+2CH 23:8	1	30	οὐ	οὐ	negative particle in the emphatic negation οὐ μή	1	not
 2CH 23:8	1	31	κατέλυσεν	καταλύω	aorist active indicative, third singular	1	dismissed
 2CH 23:8	1	32	Ἰωδαὲ	Ἰωδαέ	personal name, indeclinable	1	Jehoiada
 2CH 23:8	1	33	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -270,9 +270,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:9	1	11	ὅπλα			2	arms
 2CH 23:9	1	12	ἃ	ὅς	relative pronoun, nominative neuter plural	1	which
 2CH 23:9	1	13	ἦν	εἰμί	imperfect indicative, third singular	1	was
-2CH 23:9	1	14	τοῦ	ὁ	article, genitive masculine singular	1	to the
+2CH 23:9	1	14	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2CH 23:9	1	15	βασιλέως	βασιλεύς	noun, genitive masculine singular; genitive of possession	1	king
-2CH 23:9	1	16	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
+2CH 23:9	1	16	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
 2CH 23:9	1	17	ἐν	ἐν	preposition with the dative	1	in
 2CH 23:9	1	18	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
 2CH 23:9	1	19	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -296,19 +296,19 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:10	1	15	οἴκου			2	household
 2CH 23:10	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
 2CH 23:10	1	17	δεξιᾶς	δεξιός	adjective, genitive feminine singular	1	right
-2CH 23:10	1	18	ἕως	ἕως	temporal conjunction/preposition	1	until
+2CH 23:10	1	18	ἕως	ἕως	temporal conjunction/preposition	1	as far as
 2CH 23:10	1	19	τῆς	ὁ	article, genitive feminine singular	1	the
 2CH 23:10	1	20	ὠμίας	ὠμία	noun, genitive feminine singular	1	side
 2CH 23:10	1	20	ὠμίας			2	shoulder
 2CH 23:10	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
 2CH 23:10	1	22	ἀριστερᾶς	ἀριστερός	adjective, genitive feminine singular	1	left
-2CH 23:10	1	23	τοῦ	ὁ	article, genitive singular	1	the
+2CH 23:10	1	23	τοῦ	ὁ	article, genitive singular	1	of the
 2CH 23:10	1	24	θυσιαστηρίου	θυσιαστήριον	noun, genitive neuter singular	1	altar
 2CH 23:10	1	25	καὶ	καί	conjunction	1	and
-2CH 23:10	1	26	τοῦ	ὁ	article, genitive singular	1	the
+2CH 23:10	1	26	τοῦ	ὁ	article, genitive singular	1	of the
 2CH 23:10	1	27	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2CH 23:10	1	27	οἴκου			2	household
-2CH 23:10	1	28	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2CH 23:10	1	28	ἐπὶ	ἐπί	preposition (case from context)	1	by
 2CH 23:10	1	29	τὸν	ὁ	article, accusative masculine singular	1	the
 2CH 23:10	1	30	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 2CH 23:10	1	31	κύκλῳ	κύκλῳ	adverb	1	around
@@ -478,7 +478,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:15	1	4	ἄνεσιν	ἄνεσις	noun, accusative feminine singular	1	free passage
 2CH 23:15	1	4	ἄνεσιν			2	room
 2CH 23:15	1	5	καὶ	καί	conjunction	1	and
-2CH 23:15	1	6	διῆλθε	διέρχομαι	aorist active indicative, third singular	1	went through
+2CH 23:15	1	6	διῆλθε	διέρχομαι	aorist active indicative, third singular	1	passed
 2CH 23:15	1	7	διὰ	διά	preposition with genitive	1	through
 2CH 23:15	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
 2CH 23:15	1	9	πύλης	πύλη	noun, genitive feminine singular	1	gate
@@ -507,7 +507,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:16	1	13	εἶναι	εἰμί	present infinitive	1	to be
 2CH 23:16	1	14	λαὸν	λαός	noun, accusative masculine singular	1	people
 2CH 23:16	1	15	τῷ	ὁ	article, dative masculine singular	1	to the
-2CH 23:16	1	16	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+2CH 23:16	1	16	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 2CH 23:17	1	1	Καὶ	καί	conjunction	1	and
 2CH 23:17	1	2	εἰσῆλθε	εἰσέρχομαι	aorist active indicative, third singular; εἰσελθεῖν πρός of marital relations	1	went in
 2CH 23:17	1	3	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
@@ -537,7 +537,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:17	1	25	Ματθὰν	Ματθάν	personal name, indeclinable	1	Mattan
 2CH 23:17	1	26	τὸν	ὁ	article, accusative masculine singular	1	the
 2CH 23:17	1	27	ἱερέα	ἱερεύς	noun, accusative masculine singular	1	priest
-2CH 23:17	1	28	τῆς	ὁ	article, genitive feminine singular	1	the
+2CH 23:17	1	28	τῆς	ὁ	article, genitive feminine singular	1	—
 2CH 23:17	1	29	Βάαλ	Βάαλ	divine name, indeclinable; possessive in context	1	of Baal
 2CH 23:17	1	30	ἐθανάτωσαν	θανατόω	aorist active indicative, third plural	1	they killed
 2CH 23:17	1	31	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
@@ -551,12 +551,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:18	1	5	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
 2CH 23:18	1	6	τὰ	ὁ	article, accusative neuter plural	1	the
 2CH 23:18	1	7	ἔργα	ἔργον	noun, accusative neuter plural	1	works
-2CH 23:18	1	8	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+2CH 23:18	1	8	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 2CH 23:18	1	8	οἴκου			2	household
 2CH 23:18	1	9	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2CH 23:18	1	10	διὰ	διά	preposition with genitive	1	by
 2CH 23:18	1	11	χειρὸς	χείρ	noun, genitive feminine singular	1	the hand
-2CH 23:18	1	12	ἱερέων	ἱερεύς	noun, genitive masculine plural after τῶν (printed ἱερέων)	1	priests
+2CH 23:18	1	12	ἱερέων	ἱερεύς	noun, genitive masculine plural after τῶν (printed ἱερέων)	1	of priests
 2CH 23:18	1	13	καὶ	καί	conjunction	1	and
 2CH 23:18	1	14	τῶν	ὁ	article, genitive masculine plural	1	the
 2CH 23:18	1	15	Λευιτῶν	Λευίτης	noun, genitive masculine plural	1	Levites
@@ -600,7 +600,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 23:19	1	2	ἔστησαν	ἵστημι	aorist active indicative, third plural	1	stood
 2CH 23:19	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 2CH 23:19	1	4	πυλωροὶ	πυλωρός	noun, nominative masculine plural	1	gatekeepers
-2CH 23:19	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2CH 23:19	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	at
 2CH 23:19	1	6	τὰς	ὁ	article, accusative feminine plural	1	the
 2CH 23:19	1	7	πύλας	πύλη	noun, accusative feminine plural	1	gates
 2CH 23:19	1	8	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house

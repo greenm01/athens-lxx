@@ -14,7 +14,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:1	1	10	καὶ	καί	conjunction	1	and
 2CH 2:1	1	11	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 2CH 2:1	1	11	οἶκον			2	household
-2CH 2:1	1	12	τῇ	ὁ	article, dative feminine singular	1	the
+2CH 2:1	1	12	τῇ	ὁ	article, dative feminine singular	1	for the
 2CH 2:1	1	13	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	reign
 2CH 2:1	1	13	βασιλείᾳ			2	kingship
 2CH 2:1	1	14	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
@@ -84,7 +84,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:4	1	11	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 2CH 2:4	1	12	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2CH 2:4	1	13	ἁγιάσαι	ἁγιάζω	aorist active infinitive	1	to consecrate
-2CH 2:4	1	14	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
+2CH 2:4	1	14	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 2CH 2:4	1	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 2CH 2:4	1	16	τοῦ	ὁ	article, genitive neuter singular	1	of the
 2CH 2:4	1	17	θυμιᾶν	θυμιάω	present active infinitive	1	to burn incense
@@ -101,7 +101,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:4	1	25	τοῦ	ὁ	article, genitive singular	1	the
 2CH 2:4	1	26	ἀναφέρειν	ἀναφέρω	present active infinitive	1	to offer up
 2CH 2:4	1	27	ὁλοκαυτώματα	ὁλοκαύτωμα	noun, accusative neuter plural	1	whole burnt offerings
-2CH 2:4	1	28	διαπαντὸς	διαπαντός	adverb modifying the offering	1	continual
+2CH 2:4	1	28	διαπαντὸς	διαπαντός	adverb modifying the offering	1	continually
 2CH 2:4	1	28	διαπαντὸς			2	regular
 2CH 2:4	1	29	τοπρωὶ	τὸ πρωΐ	joined articular expression, accusative after εἰς	1	in the morning
 2CH 2:4	1	30	καὶ	καί	conjunction	1	and
@@ -133,7 +133,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:5	1	3	οἶκος	οἶκος	noun, nominative masculine singular	1	house
 2CH 2:5	1	4	ὃν	ὅς	relative pronoun accusative masculine singular	1	which
 2CH 2:5	1	5	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-2CH 2:5	1	6	οἰκοδομῶ	οἰκοδομέω	present active indicative, first singular	1	I am building
+2CH 2:5	1	6	οἰκοδομῶ	οἰκοδομέω	present active indicative, first singular	1	am building
 2CH 2:5	1	7	μέγας	μέγας	adjective, nominative masculine singular	1	great
 2CH 2:5	1	8	ὅτι	ὅτι	causal conjunction	1	because
 2CH 2:5	1	9	μέγας	μέγας	adjective, nominative masculine singular, in apposition	1	great
@@ -157,7 +157,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:6	1	10	καὶ	καί	conjunction	1	and
 2CH 2:6	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 2:6	1	12	οὐρανὸς	οὐρανός	noun, nominative masculine singular	1	heaven
-2CH 2:6	1	13	τοῦ	ὁ	definite article	1	the
+2CH 2:6	1	13	τοῦ	ὁ	definite article	1	of the
 2CH 2:6	1	14	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
 2CH 2:6	1	15	οὐ	οὐ	negative particle	1	not
 2CH 2:6	1	16	φέρουσιν	φέρω	present active indicative, third plural	1	can hold
@@ -179,7 +179,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:6	1	31	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 2CH 2:7	1	1	Καὶ	καί	conjunction	1	and
 2CH 2:7	1	2	νῦν	νῦν	adverb of time	1	now
-2CH 2:7	1	3	ἀπόστειλόν	ἀποστέλλω	aorist active imperative, second singular	1	send away
+2CH 2:7	1	3	ἀπόστειλόν	ἀποστέλλω	aorist active imperative, second singular	1	send
 2CH 2:7	1	3	ἀπόστειλόν			2	let go
 2CH 2:7	1	4	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 2CH 2:7	1	5	ἄνδρα	ἀνήρ	noun, accusative masculine singular	1	man
@@ -192,15 +192,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:7	1	10	ποιῆσαι			2	to make
 2CH 2:7	1	11	ἐν	ἐν	preposition with the dative	1	in
 2CH 2:7	1	12	τῷ	ὁ	article, dative masculine singular	1	the
-2CH 2:7	1	13	χρυσίῳ	χρυσίον	noun, dative neut. sg., instrumental 'with gold'	1	with gold
+2CH 2:7	1	13	χρυσίῳ	χρυσίον	noun, dative neut. sg., instrumental 'with gold'	1	gold
 2CH 2:7	1	14	καὶ	καί	conjunction	1	and
 2CH 2:7	1	15	ἐν	ἐν	preposition with the dative	1	in
 2CH 2:7	1	16	τῷ	ὁ	article, dative masculine singular	1	the
-2CH 2:7	1	17	ἀργυρίῳ	ἀργύριον	noun, dative neut. sg.	1	with silver
+2CH 2:7	1	17	ἀργυρίῳ	ἀργύριον	noun, dative neut. sg.	1	silver
 2CH 2:7	1	18	καὶ	καί	conjunction	1	and
 2CH 2:7	1	19	ἐν	ἐν	preposition with the dative	1	in
 2CH 2:7	1	20	τῷ	ὁ	article, dative masculine singular	1	the
-2CH 2:7	1	21	χαλκῷ	χαλκός	noun, dative masc. sg., instrumental 'with bronze'	1	with bronze
+2CH 2:7	1	21	χαλκῷ	χαλκός	noun, dative masc. sg., instrumental 'with bronze'	1	bronze
 2CH 2:7	1	22	καὶ	καί	conjunction	1	and
 2CH 2:7	1	23	ἐν	ἐν	preposition with the dative	1	in
 2CH 2:7	1	24	τῷ	ὁ	article, dative masculine singular	1	the
@@ -208,15 +208,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:7	1	26	καὶ	καί	conjunction	1	and
 2CH 2:7	1	27	ἐν	ἐν	preposition with the dative	1	in
 2CH 2:7	1	28	τῇ	ὁ	article, dative feminine singular	1	the
-2CH 2:7	1	29	πορφύρᾳ	πορφύρα	noun, dative fem. sg. after τῇ	1	the purple
+2CH 2:7	1	29	πορφύρᾳ	πορφύρα	noun, dative fem. sg. after τῇ	1	purple
 2CH 2:7	1	30	καὶ	καί	conjunction	1	and
 2CH 2:7	1	31	ἐν	ἐν	preposition with the dative	1	in
 2CH 2:7	1	32	τῷ	ὁ	article, dative masculine singular	1	the
-2CH 2:7	1	33	κοκκίνῳ	κόκκινος	adjective/noun, dative neut. sg. after τῷ, with scarlet	1	with scarlet
+2CH 2:7	1	33	κοκκίνῳ	κόκκινος	adjective/noun, dative neut. sg. after τῷ, with scarlet	1	scarlet
 2CH 2:7	1	34	καὶ	καί	conjunction	1	and
 2CH 2:7	1	35	ἐν	ἐν	preposition with the dative	1	in
 2CH 2:7	1	36	τῇ	ὁ	article, dative feminine singular	1	the
-2CH 2:7	1	37	ὑακίνθῳ	ὑάκινθος	noun, dative fem. sg. after τῇ	1	the violet
+2CH 2:7	1	37	ὑακίνθῳ	ὑάκινθος	noun, dative fem. sg. after τῇ	1	violet
 2CH 2:7	1	38	καὶ	καί	conjunction	1	and
 2CH 2:7	1	39	ἐπιστάμενον	ἐπίσταμαι	present middle participle, accusative masculine singular	1	skilled
 2CH 2:7	1	40	τοῦ	ὁ	article, genitive singular	1	the
@@ -241,7 +241,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:7	1	58	πατήρ	πατήρ	noun, nominative masculine singular	1	father
 2CH 2:7	1	59	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2CH 2:8	1	1	Καὶ	καί	conjunction	1	and
-2CH 2:8	1	2	ἀπόστειλόν	ἀποστέλλω	aorist active imperative, second singular	1	send away
+2CH 2:8	1	2	ἀπόστειλόν	ἀποστέλλω	aorist active imperative, second singular	1	send
 2CH 2:8	1	2	ἀπόστειλόν			2	let go
 2CH 2:8	1	3	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 2CH 2:8	1	4	ξύλα	ξύλον	noun, accusative neuter plural	1	timber
@@ -254,10 +254,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:8	1	10	ἐκ	ἐκ	preposition with the genitive	1	from
 2CH 2:8	1	11	τοῦ	ὁ	article, genitive singular	1	the
 2CH 2:8	1	12	Λιβάνου	Λίβανος	noun, genitive masculine singular; place name	1	Lebanon
-2CH 2:8	1	13	ὅτι	ὅτι	content conjunction	1	that
+2CH 2:8	1	13	ὅτι	ὅτι	content conjunction	1	for
 2CH 2:8	1	14	ἐγὼ	ἐγώ	pronoun, nominative first singular emphatic	1	I
-2CH 2:8	1	15	οἶδα	οἶδα	perfect active indicative, first person singular	1	I know
-2CH 2:8	1	16	ὡς	ὡς	comparative particle	1	as
+2CH 2:8	1	15	οἶδα	οἶδα	perfect active indicative, first person singular	1	know
+2CH 2:8	1	16	ὡς	ὡς	comparative particle	1	that
 2CH 2:8	1	17	οἱ	ὁ	article, nominative masculine plural	1	the
 2CH 2:8	1	18	δοῦλοί	δοῦλος	noun, nominative masculine plural	1	servants
 2CH 2:8	1	19	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -280,7 +280,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:9	1	2	ἑτοιμάσαι	ἑτοιμάζω	aorist active infinitive	1	to prepare
 2CH 2:9	1	3	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 2CH 2:9	1	4	ξύλα	ξύλον	noun, accusative neuter plural	1	wood
-2CH 2:9	1	5	εἰς	εἰς	preposition with the accusative	1	into
+2CH 2:9	1	5	εἰς	εἰς	preposition with the accusative	1	in
 2CH 2:9	1	6	πλῆθος	πλῆθος	noun, accusative neuter singular	1	multitude
 2CH 2:9	1	6	πλῆθος			2	abundance
 2CH 2:9	1	7	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
@@ -288,33 +288,33 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:9	1	9	οἶκος	οἶκος	noun, nominative masculine singular	1	house
 2CH 2:9	1	10	ὃν	ὅς	relative pronoun accusative masculine singular	1	which
 2CH 2:9	1	11	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-2CH 2:9	1	12	οἰκοδομῶ	οἰκοδομέω	present active indicative, first singular	1	I am building
+2CH 2:9	1	12	οἰκοδομῶ	οἰκοδομέω	present active indicative, first singular	1	am building
 2CH 2:9	1	13	μέγας	μέγας	adjective, nominative masculine singular	1	great
 2CH 2:9	1	14	καὶ	καί	conjunction	1	and
 2CH 2:9	1	15	ἔνδοξος	ἔνδοξος	adjective, nominative masculine singular	1	honored
 2CH 2:10	1	1	Καὶ	καί	conjunction	1	and
 2CH 2:10	1	2	ἰδοὺ	ἰδού	presentative particle	1	behold
-2CH 2:10	1	3	τοῖς	ὁ	article, dative neuter plural	1	the
-2CH 2:10	1	4	ἐργαζομένοις	ἐργάζομαι	present middle participle, dative masc. pl. after τοῖς	1	among the workmen
+2CH 2:10	1	3	τοῖς	ὁ	article, dative neuter plural	1	to the
+2CH 2:10	1	4	ἐργαζομένοις	ἐργάζομαι	present middle participle, dative masc. pl. after τοῖς	1	workmen
 2CH 2:10	1	5	τοῖς	ὁ	article, dative neuter plural	1	the
-2CH 2:10	1	6	κόπτουσι	κόπτω	present active indicative, third plural	1	are cutting
+2CH 2:10	1	6	κόπτουσι	κόπτω	present active indicative, third plural	1	cutting
 2CH 2:10	1	7	ξύλα	ξύλον	noun, accusative neuter plural	1	wood
 2CH 2:10	1	8	εἰς	εἰς	preposition with accusative	1	as
 2CH 2:10	1	8	εἰς			2	for
 2CH 2:10	1	9	βρώματα	βρῶμα	noun, accusative neuter plural	1	provisions
 2CH 2:10	1	10	δώδεκα	δώδεκα	indeclinable cardinal numeral	1	twelve
 2CH 2:10	1	11	σῖτον	σῖτος	noun, accusative masculine singular	1	grain
-2CH 2:10	1	12	εἰς	εἰς	preposition with the accusative	1	into
+2CH 2:10	1	12	εἰς	εἰς	preposition with the accusative	1	as
 2CH 2:10	1	13	δόματα	δόμα	noun, accusative neuter plural, gifts	1	gifts
-2CH 2:10	1	14	τοῖς	ὁ	article, dative masculine plural	1	the
+2CH 2:10	1	14	τοῖς	ὁ	article, dative masculine plural	1	to the
 2CH 2:10	1	15	παισί	παῖς	noun, dative masculine plural after τοῖς	1	servants
 2CH 2:10	1	16	σου	σύ	pronoun, possessive genitive second singular	1	your
-2CH 2:10	1	17	πυροῦ	πυρός	noun, genitive masculine singular	1	wheat
+2CH 2:10	1	17	πυροῦ	πυρός	noun, genitive masculine singular	1	of wheat
 2CH 2:10	1	18	κόρων	κόρος	noun, genitive masculine plural	1	cors
 2CH 2:10	1	19	εἴκοσι	εἴκοσι	indeclinable cardinal numeral	1	twenty
 2CH 2:10	1	20	χιλιάδας	χιλιάς	noun, accusative feminine plural	1	thousands
 2CH 2:10	1	21	καὶ	καί	conjunction	1	and
-2CH 2:10	1	22	κριθῶν	κριθή	noun, genitive feminine plural	1	barley
+2CH 2:10	1	22	κριθῶν	κριθή	noun, genitive feminine plural	1	of barley
 2CH 2:10	1	23	κόρων	κόρος	noun, genitive masculine plural	1	cors
 2CH 2:10	1	24	εἴκοσι	εἴκοσι	indeclinable cardinal numeral	1	twenty
 2CH 2:10	1	25	χιλιάδας	χιλιάς	noun, accusative feminine plural	1	thousands
@@ -324,7 +324,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:10	1	29	εἴκοσι	εἴκοσι	indeclinable cardinal numeral	1	twenty
 2CH 2:10	1	30	χιλιάδας	χιλιάς	noun, accusative feminine plural	1	thousands
 2CH 2:10	1	31	καὶ	καί	conjunction	1	and
-2CH 2:10	1	32	ἐλαίου	ἔλαιον	noun, genitive neuter singular	1	oil
+2CH 2:10	1	32	ἐλαίου	ἔλαιον	noun, genitive neuter singular	1	of oil
 2CH 2:10	1	33	κάδων	κάδος	noun, genitive masculine plural	1	jars
 2CH 2:10	1	34	εἴκοσι	εἴκοσι	indeclinable cardinal numeral	1	twenty
 2CH 2:10	1	35	χιλιάδας	χιλιάς	noun, accusative feminine plural	1	thousands
@@ -372,7 +372,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:12	1	15	γῆν	γῆ	noun, accusative feminine singular	1	earth
 2CH 2:12	1	16	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
 2CH 2:12	1	17	ἔδωκε	δίδωμι	aorist active indicative, third singular	1	gave
-2CH 2:12	1	18	τῷ	ὁ	article, dative masculine singular	1	the
+2CH 2:12	1	18	τῷ	ὁ	article, dative masculine singular	1	to
 2CH 2:12	1	19	Δαυὶδ	Δαυίδ	indeclinable personal name, dative in context	1	David
 2CH 2:12	1	20	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 2CH 2:12	1	21	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
@@ -381,7 +381,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:12	1	23	σοφὸν			2	wise
 2CH 2:12	1	24	καὶ	καί	conjunction	1	and
 2CH 2:12	1	25	ἐπιστάμενον	ἐπίσταμαι	present middle participle, accusative masculine singular	1	skilled
-2CH 2:12	1	26	ἐπιστήμην	ἐπιστήμη	noun, accusative fem. sg. after τὴν understood	1	knowledge/understanding
+2CH 2:12	1	26	ἐπιστήμην	ἐπιστήμη	noun, accusative fem. sg. after τὴν understood	1	knowledge
 2CH 2:12	1	27	καὶ	καί	conjunction	1	and
 2CH 2:12	1	28	σύνεσιν	σύνεσις	noun, accusative feminine singular	1	understanding
 2CH 2:12	1	28	σύνεσιν			2	insight
@@ -390,11 +390,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:12	1	31	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 2CH 2:12	1	31	οἶκον			2	household
 2CH 2:12	1	32	τῷ	ὁ	article, dative masculine singular	1	to the
-2CH 2:12	1	33	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+2CH 2:12	1	33	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 2CH 2:12	1	34	καὶ	καί	conjunction	1	and
 2CH 2:12	1	35	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 2CH 2:12	1	35	οἶκον			2	household
-2CH 2:12	1	36	τῇ	ὁ	article, dative feminine singular	1	the
+2CH 2:12	1	36	τῇ	ὁ	article, dative feminine singular	1	for the
 2CH 2:12	1	37	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	reign
 2CH 2:12	1	37	βασιλείᾳ			2	kingship
 2CH 2:12	1	38	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	his own
@@ -407,7 +407,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:13	1	6	σοφὸν			2	wise
 2CH 2:13	1	7	καὶ	καί	conjunction	1	and
 2CH 2:13	1	8	εἰδότα	οἶδα	perfect active participle, accusative masculine singular	1	knowing
-2CH 2:13	1	9	σύνεσιν	σύνεσις	noun, accusative fem. sg	1	understanding/wisdom
+2CH 2:13	1	9	σύνεσιν	σύνεσις	noun, accusative fem. sg	1	understanding
 2CH 2:13	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 2CH 2:13	1	11	Χειρὰμ	Χειράμ	indeclinable personal name, accusative in context	1	Hiram
 2CH 2:13	1	11	Χειρὰμ			2	Cheiram
@@ -429,13 +429,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:14	1	13	εἰδότα	οἶδα	perfect active participle, accusative masculine singular	1	knowing
 2CH 2:14	1	14	ποιῆσαι	ποιέω	aorist active infinitive after τοῦ	1	to do
 2CH 2:14	1	15	ἐν	ἐν	preposition with the dative	1	in
-2CH 2:14	1	16	χρυσίῳ	χρυσίον	noun, dative neut. sg., instrumental 'with gold'	1	with gold
+2CH 2:14	1	16	χρυσίῳ	χρυσίον	noun, dative neut. sg., instrumental 'with gold'	1	gold
 2CH 2:14	1	17	καὶ	καί	conjunction	1	and
 2CH 2:14	1	18	ἐν	ἐν	preposition with the dative	1	in
-2CH 2:14	1	19	ἀργυρίῳ	ἀργύριον	noun, dative neut. sg.	1	with silver
+2CH 2:14	1	19	ἀργυρίῳ	ἀργύριον	noun, dative neut. sg.	1	silver
 2CH 2:14	1	20	καὶ	καί	conjunction	1	and
 2CH 2:14	1	21	ἐν	ἐν	preposition with the dative	1	in
-2CH 2:14	1	22	χαλκῷ	χαλκός	noun, dative masc. sg., instrumental 'with bronze'	1	with bronze
+2CH 2:14	1	22	χαλκῷ	χαλκός	noun, dative masc. sg., instrumental 'with bronze'	1	bronze
 2CH 2:14	1	23	καὶ	καί	conjunction	1	and
 2CH 2:14	1	24	ἐν	ἐν	preposition with the dative	1	in
 2CH 2:14	1	25	σιδήρῳ	σίδηρος	noun, dative masculine singular	1	iron
@@ -452,7 +452,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:14	1	36	καὶ	καί	conjunction	1	and
 2CH 2:14	1	37	ἐν	ἐν	preposition with the dative	1	in
 2CH 2:14	1	38	τῇ	ὁ	article, dative feminine singular	1	the
-2CH 2:14	1	39	ὑακίνθῳ	ὑάκινθος	noun, dative fem. sg. after τῇ	1	the violet
+2CH 2:14	1	39	ὑακίνθῳ	ὑάκινθος	noun, dative fem. sg. after τῇ	1	violet
 2CH 2:14	1	40	καὶ	καί	conjunction	1	and
 2CH 2:14	1	41	ἐν	ἐν	preposition with the dative	1	in
 2CH 2:14	1	42	τῇ	ὁ	article, dative feminine singular	1	the
@@ -460,7 +460,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:14	1	44	καὶ	καί	conjunction	1	and
 2CH 2:14	1	45	ἐν	ἐν	preposition with the dative	1	in
 2CH 2:14	1	46	τῷ	ὁ	article, dative masculine singular	1	the
-2CH 2:14	1	47	κοκκίνῳ	κόκκινος	adjective/noun, dative neut. sg. after τῷ, with scarlet	1	with scarlet
+2CH 2:14	1	47	κοκκίνῳ	κόκκινος	adjective/noun, dative neut. sg. after τῷ, with scarlet	1	scarlet
 2CH 2:14	1	48	καὶ	καί	conjunction	1	and
 2CH 2:14	1	49	γλύψαι	γλύφω	aorist active infinitive	1	to engrave
 2CH 2:14	1	50	γλυφὰς	γλυφή	noun, accusative feminine plural	1	engravings
@@ -470,7 +470,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:14	1	54	διανόησιν	διανόησις	noun, accusative feminine singular	1	design
 2CH 2:14	1	55	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
 2CH 2:14	1	56	ἂν	ἄν	modal particle with subjunctive ἔλθῃ, marks indefinite/conditional time	1	—
-2CH 2:14	1	57	δῷς	δίδωμι	aorist active subjunctive, second singular	1	you lay
+2CH 2:14	1	57	δῷς	δίδωμι	aorist active subjunctive, second singular	1	you give
 2CH 2:14	1	57	δῷς			2	you place
 2CH 2:14	1	58	αὐτῷ	αὐτός	pronoun, dative masculine/neuter singular	1	to him
 2CH 2:14	1	59	μετὰ	μετά	preposition with genitive	1	with
@@ -502,20 +502,20 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:15	1	14	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
 2CH 2:15	1	15	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2CH 2:15	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
-2CH 2:15	1	17	κύριός	κύριος	noun, nominative masculine singular	1	Lord
+2CH 2:15	1	17	κύριός	κύριος	noun, nominative masculine singular	1	lord
 2CH 2:15	1	18	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2CH 2:15	1	19	ἀποστειλάτω	ἀποστέλλω	aorist active imperative, third singular	1	let him send
-2CH 2:15	1	20	τοῖς	ὁ	article, dative masculine plural	1	the
+2CH 2:15	1	20	τοῖς	ὁ	article, dative masculine plural	1	to the
 2CH 2:15	1	21	παισὶν	παῖς	noun, dative masculine plural after τοῖς, servants/courtiers	1	servants
 2CH 2:15	1	22	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2CH 2:16	1	1	Καὶ	καί	conjunction	1	and
 2CH 2:16	1	2	ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
-2CH 2:16	1	3	κόψομεν	κόπτω	future active indicative, first plural	1	we will cut
+2CH 2:16	1	3	κόψομεν	κόπτω	future active indicative, first plural	1	will cut
 2CH 2:16	1	4	ξύλα	ξύλον	noun, accusative neuter plural	1	wood
 2CH 2:16	1	5	ἐκ	ἐκ	preposition with the genitive	1	from
 2CH 2:16	1	6	τοῦ	ὁ	article, genitive singular	1	the
 2CH 2:16	1	7	Λιβάνου	Λίβανος	noun, genitive masculine singular; place name	1	Lebanon
-2CH 2:16	1	8	κατὰ	κατά	preposition with the accusative	1	in
+2CH 2:16	1	8	κατὰ	κατά	preposition with the accusative	1	according to
 2CH 2:16	1	9	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 2CH 2:16	1	10	τὴν	ὁ	article accusative feminine singular	1	the
 2CH 2:16	1	11	χρείαν	χρεία	noun, accusative feminine singular	1	need
@@ -525,12 +525,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:16	1	14	ἄξομεν	ἄγω	future active indicative, first plural	1	we will bring
 2CH 2:16	1	15	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
 2CH 2:16	1	16	σχεδίαις	σχεδία	noun, dative feminine plural; instrumental dative	1	on rafts
-2CH 2:16	1	17	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2CH 2:16	1	17	ἐπὶ	ἐπί	preposition (case from context)	1	to
 2CH 2:16	1	18	θάλασσαν	θάλασσα	noun, accusative feminine singular after εἰς τὴν	1	sea
 2CH 2:16	1	19	Ἰόππης	Ἰόππη	place name, genitive feminine singular in context	1	of Joppa
 2CH 2:16	1	20	καὶ	καί	conjunction	1	and
 2CH 2:16	1	21	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
-2CH 2:16	1	22	ἄξεις	ἄγω	future active indicative, second singular	1	you shall lead
+2CH 2:16	1	22	ἄξεις	ἄγω	future active indicative, second singular	1	will bring
 2CH 2:16	1	23	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
 2CH 2:16	1	24	εἰς	εἰς	preposition with the accusative	1	into
 2CH 2:16	1	25	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem

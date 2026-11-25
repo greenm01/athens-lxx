@@ -1,6 +1,6 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:1	1	1	ΚΑΙ	καί	conjunction	1	and
-2CH 5:1	1	2	συνετελέσθη	συντελέω	aorist passive indicative, third singular	1	it has come to an end
+2CH 5:1	1	2	συνετελέσθη	συντελέω	aorist passive indicative, third singular	1	was finished
 2CH 5:1	1	2	συνετελέσθη			2	it was brought to its end
 2CH 5:1	1	3	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
 2CH 5:1	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -35,7 +35,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:1	1	30	εἰς	εἰς	preposition with accusative	1	into
 2CH 5:1	1	31	θησαυρὸν	θησαυρός	noun, accusative masculine singular	1	storehouse
 2CH 5:1	1	31	θησαυρὸν			2	store
-2CH 5:1	1	32	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+2CH 5:1	1	32	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 2CH 5:1	1	32	οἴκου			2	household
 2CH 5:1	1	33	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2CH 5:2	1	1	Τότε	τότε	temporal adverb	1	then
@@ -51,13 +51,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:2	1	10	ἄρχοντας	ἄρχων	noun, accusative masculine plural	1	rulers
 2CH 5:2	1	10	ἄρχοντας			2	chiefs
 2CH 5:2	1	11	τῶν	ὁ	article, genitive plural	1	of the
-2CH 5:2	1	12	φυλῶν	φυλή	noun, genitive feminine plural	1	clans
-2CH 5:2	1	12	φυλῶν			2	tribes
+2CH 5:2	1	12	φυλῶν	φυλή	noun, genitive feminine plural	1	tribes
+2CH 5:2	1	12	φυλῶν			2	clans
 2CH 5:2	1	13	τοὺς	ὁ	article, accusative masculine plural	1	the
 2CH 5:2	1	14	ἡγουμένους	ἡγέομαι	present middle participle, accusative masculine plural	1	leaders
 2CH 5:2	1	15	τῶν	ὁ	article, genitive feminine plural	1	of the
 2CH 5:2	1	16	πατριῶν	πατριά	noun, genitive feminine plural	1	ancestral houses
-2CH 5:2	1	17	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+2CH 5:2	1	17	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 2CH 5:2	1	18	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 2CH 5:2	1	19	εἰς	εἰς	preposition with the accusative	1	into
 2CH 5:2	1	20	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
@@ -170,14 +170,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:7	1	6	κιβωτὸν	κιβωτός	noun, accusative feminine singular	1	ark
 2CH 5:7	1	7	διαθήκης	διαθήκη	noun, genitive feminine singular	1	of the covenant
 2CH 5:7	1	8	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-2CH 5:7	1	9	εἰς	εἰς	preposition with the accusative	1	for
+2CH 5:7	1	9	εἰς	εἰς	preposition with the accusative	1	into
 2CH 5:7	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 2CH 5:7	1	11	τόπον	τόπος	noun, accusative masculine singular	1	place
 2CH 5:7	1	12	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	its
 2CH 5:7	1	13	εἰς	εἰς	preposition with the accusative	1	into
 2CH 5:7	1	14	τὸ	ὁ	article, accusative neuter singular	1	the
-2CH 5:7	1	15	Δαβεὶρ	Δαβείρ	indeclinable place name, genitive in context	1	Debir
-2CH 5:7	1	16	τοῦ	ὁ	article, genitive singular	1	the
+2CH 5:7	1	15	Δαβεὶρ	Δαβείρ	indeclinable place name, genitive in context	1	inner sanctuary
+2CH 5:7	1	16	τοῦ	ὁ	article, genitive singular	1	of the
 2CH 5:7	1	17	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2CH 5:7	1	17	οἴκου			2	household
 2CH 5:7	1	18	εἰς	εἰς	preposition with the accusative	1	into
@@ -189,10 +189,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:7	1	23	ὑποκάτω			2	under
 2CH 5:7	1	24	τῶν	ὁ	article, genitive plural	1	the
 2CH 5:7	1	25	πτερύγων	πτέρυξ	noun genitive feminine plural	1	wings
-2CH 5:7	1	26	τῶν	ὁ	article, genitive plural	1	the
+2CH 5:7	1	26	τῶν	ὁ	article, genitive plural	1	of the
 2CH 5:7	1	27	Χερουβείμ	Χερουβίμ	indeclinable designation, genitive plural in context	1	cherubim
 2CH 5:8	1	1	Καὶ	καί	conjunction	1	and
-2CH 5:8	1	2	ἦν	εἰμί	imperfect indicative, third singular	1	was
+2CH 5:8	1	2	ἦν	εἰμί	imperfect indicative, third singular	1	were
 2CH 5:8	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 2CH 5:8	1	4	Χερουβεὶμ	Χερουβείμ	indeclinable plural noun (cherubim), case from syntax per occurrence	1	cherubim
 2CH 5:8	1	5	διαπεπετακότα	διαπετάννυμι	perfect middle/passive participle, nominative neuter plural	1	spread out
@@ -202,7 +202,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:8	1	9	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 2CH 5:8	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 2CH 5:8	1	11	τόπον	τόπος	noun, accusative masculine singular	1	place
-2CH 5:8	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
+2CH 5:8	1	12	τῆς	ὁ	article, genitive feminine singular	1	of the
 2CH 5:8	1	13	κιβωτοῦ	κιβωτός	noun, genitive feminine singular	1	ark
 2CH 5:8	1	14	καὶ	καί	conjunction	1	and
 2CH 5:8	1	15	συνεκάλυπτε	συγκαλύπτω	imperfect active indicative, third singular	1	covered
@@ -235,7 +235,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:9	1	14	εἰς	εἰς	preposition with accusative	1	at
 2CH 5:9	1	15	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	the face
 2CH 5:9	1	16	τοῦ	ὁ	article, genitive masculine singular	1	of the
-2CH 5:9	1	17	Δαβεὶρ	Δαβείρ	indeclinable place name, nominative in context	1	Dabeir
+2CH 5:9	1	17	Δαβεὶρ	Δαβείρ	indeclinable place name, nominative in context	1	inner sanctuary
 2CH 5:9	1	18	οὐκ	οὐ	negative particle	1	not
 2CH 5:9	1	19	ἐβλέποντο	βλέπω	imperfect middle/passive indicative, third plural	1	were visible
 2CH 5:9	1	20	ἔξω	ἔξω	adverb of place	1	outside
@@ -316,7 +316,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:12	1	17	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 2CH 5:12	1	18	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2CH 5:12	1	19	καὶ	καί	conjunction	1	and
-2CH 5:12	1	20	τοῖς	ὁ	article, dative masculine plural	1	the
+2CH 5:12	1	20	τοῖς	ὁ	article, dative masculine plural	1	to the
 2CH 5:12	1	21	ἀδελφοῖς	ἀδελφός	noun, dative masculine plural	1	brothers
 2CH 5:12	1	22	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 2CH 5:12	1	23	τῶν	ὁ	article, genitive plural	1	the
@@ -344,8 +344,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:12	1	44	ἑκατὸν	ἑκατόν	indeclinable cardinal numeral	1	one hundred
 2CH 5:12	1	45	καὶ	καί	conjunction	1	and
 2CH 5:12	1	46	εἴκοσι	εἴκοσι	indeclinable cardinal numeral	1	twenty
-2CH 5:12	1	47	σαλπίζοντες	σαλπίζω	present active participle, nominative masculine plural	1	blowing trumpets
-2CH 5:12	1	48	σάλπιγξι	σάλπιγξ	noun, dative feminine plural	1	trumpets
+2CH 5:12	1	47	σαλπίζοντες	σαλπίζω	present active participle, nominative masculine plural	1	blowing
+2CH 5:12	1	48	σάλπιγξι	σάλπιγξ	noun, dative feminine plural	1	with trumpets
 2CH 5:13	1	1	Καὶ	καί	conjunction	1	and
 2CH 5:13	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	there was
 2CH 5:13	1	3	μία	εἷς	numeral, nominative feminine singular	1	one
@@ -368,13 +368,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:13	1	20	καὶ	καί	conjunction	1	and
 2CH 5:13	1	21	αἰνεῖν	αἰνέω	present active infinitive	1	to praise
 2CH 5:13	1	22	τῷ	ὁ	article, dative masculine singular	1	to the
-2CH 5:13	1	23	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+2CH 5:13	1	23	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 2CH 5:13	1	24	καὶ	καί	conjunction	1	and
 2CH 5:13	1	25	ὡς	ὡς	comparative particle	1	as
 2CH 5:13	1	26	ὕψωσαν	ὑψόω	aorist active indicative, third plural	1	raised
 2CH 5:13	1	27	τὴν	ὁ	article, accusative fem. sg.	1	the
 2CH 5:13	1	28	φωνὴν	φωνή	noun, accusative feminine singular	1	voice
-2CH 5:13	1	29	ἐν	ἐν	preposition with the dative	1	in
+2CH 5:13	1	29	ἐν	ἐν	preposition with the dative	1	with
 2CH 5:13	1	30	σάλπιγξι	σάλπιγξ	noun, dative feminine plural	1	trumpets
 2CH 5:13	1	31	καὶ	καί	conjunction	1	and
 2CH 5:13	1	32	ἐν	ἐν	preposition governing the dative	1	with
@@ -388,10 +388,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:13	1	40	ἔλεγον	λέγω	imperfect active indicative, third person plural	1	they were saying
 2CH 5:13	1	41	ἐξομολογεῖσθε	ἐξομολογέομαι	present middle imperative second plural	1	give thanks
 2CH 5:13	1	42	τῷ	ὁ	article dative masculine singular	1	to the
-2CH 5:13	1	43	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+2CH 5:13	1	43	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 2CH 5:13	1	44	ὅτι	ὅτι	causal conjunction	1	because
 2CH 5:13	1	45	ἀγαθὸν	ἀγαθός	substantival adjective, accusative neuter singular	1	good
-2CH 5:13	1	46	ὅτι	ὅτι	conjunction introducing a content clause	1	that
+2CH 5:13	1	46	ὅτι	ὅτι	conjunction introducing a content clause	1	for
 2CH 5:13	1	47	εἰς	εἰς	preposition with the accusative	1	into
 2CH 5:13	1	48	τὸν	ὁ	article, accusative masculine singular	1	the
 2CH 5:13	1	49	αἰῶνα	αἰών	noun accusative masculine singular	1	age
@@ -421,7 +421,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:14	1	13	δόξης	δόξα	noun, genitive fem. sg. after τῆς	1	glory
 2CH 5:14	1	14	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2CH 5:14	1	15	ὅτι	ὅτι	conjunction	1	because
-2CH 5:14	1	16	ἐνέπλησεν	ἐμπίμπλημι	aorist active indicative, 3rd sg.	1	he filled
+2CH 5:14	1	16	ἐνέπλησεν	ἐμπίμπλημι	aorist active indicative, 3rd sg.	1	filled
 2CH 5:14	1	17	ἡ	ὁ	article, nominative feminine singular	1	the
 2CH 5:14	1	18	δόξα	δόξα	noun, nominative feminine singular	1	glory
 2CH 5:14	1	19	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord

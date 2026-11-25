@@ -11,7 +11,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:1	1	10	εἴκοσι	εἴκοσι	indeclinable cardinal numeral	1	twenty
 2CH 4:1	1	11	πήχεων	πῆχυς	noun, genitive masc. pl., of cubits	1	cubits
 2CH 4:1	1	12	τὸ	ὁ	article, nominative neuter singular	1	the
-2CH 4:1	1	13	εὖρος	εὖρος	noun, accusative neut. sg. after τὸ, breadth	1	the breadth
+2CH 4:1	1	13	εὖρος	εὖρος	noun, accusative neut. sg. after τὸ, breadth	1	breadth
 2CH 4:1	1	14	καὶ	καί	conjunction	1	and
 2CH 4:1	1	15	πήχεων	πῆχυς	noun, genitive masc. pl., of cubits	1	cubits
 2CH 4:1	1	16	δέκα	δέκα	indeclinable cardinal numeral	1	ten
@@ -98,7 +98,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:4	1	27	ἡ	ὁ	article, nominative feminine singular	1	the
 2CH 4:4	1	28	θάλασσα	θάλασσα	noun, nominative feminine singular	1	sea
 2CH 4:4	1	29	ἐπ᾽	ἐπί	preposition with the accusative	1	over
-2CH 4:4	1	30	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
+2CH 4:4	1	30	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
 2CH 4:4	1	31	ἄνω	ἄνω	adverb, above	1	above
 2CH 4:4	1	32	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 2CH 4:4	1	33	τὰ	ὁ	article, nominative neuter plural	1	the
@@ -116,13 +116,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:5	1	9	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 2CH 4:5	1	10	ὡς	ὡς	comparative particle	1	as
 2CH 4:5	1	11	χεῖλος	χεῖλος	noun, nominative neuter singular	1	rim
-2CH 4:5	1	12	ποτηρίου	ποτήριον	noun genitive neuter singular	1	cup
+2CH 4:5	1	12	ποτηρίου	ποτήριον	noun genitive neuter singular	1	of a cup
 2CH 4:5	1	13	διαγεγλυμμένα	διαγλύφω	perfect middle/passive participle, nominative neuter plural	1	engraved
 2CH 4:5	1	14	βλαστοὺς	βλαστός	noun, accusative masculine plural	1	buds
-2CH 4:5	1	15	κρίνου	κρίνον	noun, genitive neuter singular	1	lily
+2CH 4:5	1	15	κρίνου	κρίνον	noun, genitive neuter singular	1	of lily
 2CH 4:5	1	16	χωροῦσα	χωρέω	present active participle, nominative feminine singular	1	holding
-2CH 4:5	1	17	μετρητὰς	μετρητής	noun, accusative masculine plural; unit of liquid measure	1	metretes measures
-2CH 4:5	1	17	μετρητὰς			2	measures
+2CH 4:5	1	17	μετρητὰς	μετρητής	noun, accusative masculine plural; unit of liquid measure	1	measures
+2CH 4:5	1	17	μετρητὰς			2	metretes measures
 2CH 4:5	1	18	τρισχιλίους	τρισχίλιοι	cardinal numeral, accusative masc. pl.	1	three thousand
 2CH 4:5	1	19	καὶ	καί	conjunction	1	and
 2CH 4:5	1	20	ἐξετέλεσε	ἐκτελέω	aorist active indicative, third singular	1	he finished
@@ -134,12 +134,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:6	1	6	ἐπέθηκε	ἐπιτίθημι	aorist active indicative, 3rd sg.	1	placed on
 2CH 4:6	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
 2CH 4:6	1	8	πέντε	πέντε	indeclinable cardinal numeral	1	five
-2CH 4:6	1	9	ἐκ	ἐκ	preposition with the genitive	1	from
+2CH 4:6	1	9	ἐκ	ἐκ	preposition with the genitive	1	on
 2CH 4:6	1	10	δεξιῶν	δεξιός	adjective, genitive pl.	1	right
 2CH 4:6	1	11	καὶ	καί	conjunction	1	and
 2CH 4:6	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
 2CH 4:6	1	13	πέντε	πέντε	indeclinable cardinal numeral	1	five
-2CH 4:6	1	14	ἐξ	ἐκ	preposition with the genitive	1	from
+2CH 4:6	1	14	ἐξ	ἐκ	preposition with the genitive	1	on
 2CH 4:6	1	15	ἀριστερῶν	ἀριστερός	substantival adjective, genitive neuter plural with ἐξ	1	the left side
 2CH 4:6	1	16	τοῦ	ὁ	article, genitive singular	1	the
 2CH 4:6	1	17	πλύνειν	πλύνω	present active infinitive	1	to wash
@@ -147,7 +147,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:6	1	19	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 2CH 4:6	1	20	τὰ	ὁ	article, accusative neuter plural	1	the
 2CH 4:6	1	21	ἔργα	ἔργον	noun, accusative neuter plural	1	works
-2CH 4:6	1	22	τῶν	ὁ	article, genitive plural	1	the
+2CH 4:6	1	22	τῶν	ὁ	article, genitive plural	1	of the
 2CH 4:6	1	23	ὁλοκαυτωμάτων	ὁλοκαύτωμα	noun, genitive neuter plural	1	whole burnt offerings
 2CH 4:6	1	24	καὶ	καί	conjunction	1	and
 2CH 4:6	1	25	ἀποκλύζειν	ἀποκλύζω	present active infinitive	1	to rinse
@@ -156,7 +156,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:6	1	28	καὶ	καί	conjunction	1	and
 2CH 4:6	1	29	ἡ	ὁ	article, nominative feminine singular	1	the
 2CH 4:6	1	30	θάλασσα	θάλασσα	noun, nominative feminine singular	1	sea
-2CH 4:6	1	31	εἰς	εἰς	preposition with the accusative	1	into
+2CH 4:6	1	31	εἰς	εἰς	preposition with the accusative	1	for
 2CH 4:6	1	32	τὸ	ὁ	article, accusative neuter singular	1	the
 2CH 4:6	1	33	νίπτεσθαι	νίπτω	present middle infinitive	1	to wash themselves
 2CH 4:6	1	34	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -177,17 +177,17 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:7	1	11	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 2CH 4:7	1	12	καὶ	καί	conjunction	1	and
 2CH 4:7	1	13	ἔθηκεν	τίθημι	aorist active indicative, third singular	1	put
-2CH 4:7	1	14	ἐν	ἐν	preposition governing the dative	1	to
+2CH 4:7	1	14	ἐν	ἐν	preposition governing the dative	1	in
 2CH 4:7	1	14	ἐν			2	at
 2CH 4:7	1	15	τῷ	ὁ	article, dative masculine singular	1	the
 2CH 4:7	1	16	ναῷ	ναός	noun, dative masculine singular	1	temple
 2CH 4:7	1	16	ναῷ			2	sanctuary
 2CH 4:7	1	17	πέντε	πέντε	indeclinable cardinal numeral	1	five
-2CH 4:7	1	18	ἐκ	ἐκ	preposition with the genitive	1	from
+2CH 4:7	1	18	ἐκ	ἐκ	preposition with the genitive	1	on
 2CH 4:7	1	19	δεξιῶν	δεξιός	adjective, genitive pl.	1	right
 2CH 4:7	1	20	καὶ	καί	conjunction	1	and
 2CH 4:7	1	21	πέντε	πέντε	indeclinable cardinal numeral	1	five
-2CH 4:7	1	22	ἐξ	ἐκ	preposition with the genitive	1	from
+2CH 4:7	1	22	ἐξ	ἐκ	preposition with the genitive	1	on
 2CH 4:7	1	23	ἀριστερῶν	ἀριστερός	substantival adjective, genitive neuter plural with ἐξ	1	the left side
 2CH 4:8	1	1	Καὶ	καί	conjunction	1	and
 2CH 4:8	1	2	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
@@ -195,17 +195,17 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:8	1	4	δέκα	δέκα	indeclinable cardinal numeral	1	ten
 2CH 4:8	1	5	καὶ	καί	conjunction	1	and
 2CH 4:8	1	6	ἔθηκεν	τίθημι	aorist active indicative, third singular	1	put
-2CH 4:8	1	7	ἐν	ἐν	preposition governing the dative	1	to
+2CH 4:8	1	7	ἐν	ἐν	preposition governing the dative	1	in
 2CH 4:8	1	7	ἐν			2	at
 2CH 4:8	1	8	τῷ	ὁ	article, dative masculine singular	1	the
 2CH 4:8	1	9	ναῷ	ναός	noun, dative masculine singular	1	temple
 2CH 4:8	1	9	ναῷ			2	sanctuary
 2CH 4:8	1	10	πέντε	πέντε	indeclinable cardinal numeral	1	five
-2CH 4:8	1	11	ἐκ	ἐκ	preposition with the genitive	1	from
+2CH 4:8	1	11	ἐκ	ἐκ	preposition with the genitive	1	on
 2CH 4:8	1	12	δεξιῶν	δεξιός	adjective, genitive pl.	1	right
 2CH 4:8	1	13	καὶ	καί	conjunction	1	and
 2CH 4:8	1	14	πέντε	πέντε	indeclinable cardinal numeral	1	five
-2CH 4:8	1	15	ἐξ	ἐκ	preposition with the genitive	1	from
+2CH 4:8	1	15	ἐξ	ἐκ	preposition with the genitive	1	on
 2CH 4:8	1	16	εὐωνύμων	εὐώνυμος	adjective, genitive neuter plural; substantival	1	left side
 2CH 4:8	1	17	καὶ	καί	conjunction	1	and
 2CH 4:8	1	18	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
@@ -216,7 +216,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:9	1	2	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
 2CH 4:9	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
 2CH 4:9	1	4	αὐλὴν	αὐλή	noun, accusative fem. sg. after τὴν	1	court
-2CH 4:9	1	5	τῶν	ὁ	article, genitive masculine plural	1	the
+2CH 4:9	1	5	τῶν	ὁ	article, genitive masculine plural	1	of the
 2CH 4:9	1	6	ἱερέων	ἱερεύς	noun, genitive masculine plural	1	priests
 2CH 4:9	1	7	καὶ	καί	conjunction	1	and
 2CH 4:9	1	8	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -226,24 +226,24 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:9	1	12	καὶ	καί	conjunction	1	and
 2CH 4:9	1	13	τὰς	ὁ	article, accusative feminine plural	1	the
 2CH 4:9	1	14	θύρας	θύρα	noun, accusative feminine plural	1	entrances
-2CH 4:9	1	15	τῇ	ὁ	article, dative feminine singular	1	the
+2CH 4:9	1	15	τῇ	ὁ	article, dative feminine singular	1	for the
 2CH 4:9	1	16	αὐλῇ	αὐλή	noun, dative feminine singular	1	courtyard
 2CH 4:9	1	17	καὶ	καί	conjunction	1	and
 2CH 4:9	1	18	θυρώματα	θύρωμα	noun, accusative neuter plural	1	doorframes
 2CH 4:9	1	19	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-2CH 4:9	1	20	κατακεχαλκωμένα	καταχαλκόω	perfect middle/passive participle, accusative neuter plural	1	overlaid with bronze
+2CH 4:9	1	20	κατακεχαλκωμένα	καταχαλκόω	perfect middle/passive participle, accusative neuter plural	1	overlaid
 2CH 4:9	1	21	χαλκῷ	χαλκός	noun, dative masc. sg., instrumental 'with bronze'	1	with bronze
 2CH 4:10	1	1	Καὶ	καί	conjunction	1	and
 2CH 4:10	1	2	τὴν	ὁ	article, accusative feminine singular	1	the
 2CH 4:10	1	3	θάλασσαν	θάλασσα	noun, accusative feminine singular	1	sea
 2CH 4:10	1	4	ἔθηκεν	τίθημι	aorist active indicative, third singular	1	put
 2CH 4:10	1	4	ἔθηκεν			2	placed
-2CH 4:10	1	5	ἀπὸ	ἀπό	preposition with the genitive	1	from
+2CH 4:10	1	5	ἀπὸ	ἀπό	preposition with the genitive	1	at
 2CH 4:10	1	6	γωνίας	γωνία	noun, genitive feminine plural	1	corner
 2CH 4:10	1	7	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2CH 4:10	1	8	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2CH 4:10	1	8	οἴκου			2	household
-2CH 4:10	1	9	ἐκ	ἐκ	preposition with the genitive	1	from
+2CH 4:10	1	9	ἐκ	ἐκ	preposition with the genitive	1	on
 2CH 4:10	1	10	δεξιῶν	δεξιός	adjective, genitive neuter plural; substantival	1	right side
 2CH 4:10	1	11	ὡς	ὡς	comparative particle	1	as
 2CH 4:10	1	12	πρὸς	πρός	preposition with the accusative	1	to
@@ -336,14 +336,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:13	1	14	τῷ	ὁ	article, dative neuter singular	1	the
 2CH 4:13	1	15	δικτύῳ	δίκτυον	noun, dative neuter singular	1	net
 2CH 4:13	1	16	τῷ	ὁ	article, dative masculine singular	1	the
-2CH 4:13	1	17	ἑνὶ	εἷς	cardinal numeral, dative masc. sg. after τῷ in ὄνομα τῷ ἑνὶ 'the name of the one'	1	the one
+2CH 4:13	1	17	ἑνὶ	εἷς	cardinal numeral, dative masc. sg. after τῷ in ὄνομα τῷ ἑνὶ 'the name of the one'	1	one
 2CH 4:13	1	18	τοῦ	ὁ	article, genitive singular	1	the
 2CH 4:13	1	19	συγκαλύψαι	συγκαλύπτω	aorist active infinitive	1	to cover
 2CH 4:13	1	20	τὰς	ὁ	article, accusative feminine plural	1	the
 2CH 4:13	1	21	δύο	δύο	cardinal numeral, indeclinable	1	two
 2CH 4:13	1	22	γωλὰθ	γωλάθ	indeclinable term of uncertain meaning for part of a pillar capital	1	golath
 2CH 4:13	1	22	γωλὰθ			2	bowls
-2CH 4:13	1	23	τῶν	ὁ	article, genitive plural	1	the
+2CH 4:13	1	23	τῶν	ὁ	article, genitive plural	1	of the
 2CH 4:13	1	24	χωθαρὲθ	χωθαρέθ	indeclinable designation of capitals in context	1	capitals
 2CH 4:13	1	24	χωθαρὲθ			2	chothareth
 2CH 4:13	1	25	ἅ	ὅς	relative pronoun, nominative neut. pl.	1	which
@@ -376,7 +376,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:15	1	9	δώδεκα	δώδεκα	indeclinable cardinal numeral	1	twelve
 2CH 4:15	1	10	ὑποκάτω	ὑποκάτω	adverb with the genitive	1	beneath
 2CH 4:15	1	10	ὑποκάτω			2	under
-2CH 4:15	1	11	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
+2CH 4:15	1	11	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
 2CH 4:16	1	1	καὶ	καί	conjunction	1	and
 2CH 4:16	1	2	τοὺς	ὁ	article, accusative masculine plural	1	the
 2CH 4:16	1	3	ποδιστῆρας	ποδιστήρ	noun, accusative masculine plural	1	basins
@@ -398,11 +398,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:16	1	16	σκεύη	σκεῦος	noun, accusative neuter plural	1	vessels
 2CH 4:16	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 2CH 4:16	1	18	ἃ	ὅς	relative pronoun, nominative neuter plural	1	which
-2CH 4:16	1	19	ἐποίησε	ποιέω	aorist active indicative, third singular	1	did
+2CH 4:16	1	19	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
 2CH 4:16	1	20	Χειρὰμ	Χειράμ	indeclinable personal name, nominative in context	1	Hiram
 2CH 4:16	1	21	καὶ	καί	conjunction	1	and
-2CH 4:16	1	22	ἀνήνεγκε	ἀναφέρω	aorist active indicative, third singular	1	offered up
-2CH 4:16	1	23	τῷ	ὁ	article, dative masculine singular	1	the
+2CH 4:16	1	22	ἀνήνεγκε	ἀναφέρω	aorist active indicative, third singular	1	brought
+2CH 4:16	1	23	τῷ	ὁ	article, dative masculine singular	1	to the
 2CH 4:16	1	24	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 2CH 4:16	1	25	Σαλωμὼν	Σαλωμών	indeclinable personal name, genitive in context	1	Solomon
 2CH 4:16	1	25	Σαλωμὼν			2	Salomon
@@ -416,7 +416,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:17	1	1	Ἐν	ἐν	preposition with the dative	1	in
 2CH 4:17	1	2	τῷ	ὁ	article, dative masculine singular	1	the
 2CH 4:17	1	3	περιχώρῳ	περίχωρος	substantival adjective, dative masculine singular	1	surrounding country
-2CH 4:17	1	4	τοῦ	ὁ	article, genitive singular	1	the
+2CH 4:17	1	4	τοῦ	ὁ	article, genitive singular	1	of the
 2CH 4:17	1	5	Ἰορδάνου	Ἰορδάνης	river name, genitive masculine singular	1	Jordan
 2CH 4:17	1	6	ἐχώνευσεν	χωνεύω	aorist active indicative, 3rd sg.	1	cast
 2CH 4:17	1	7	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
@@ -425,15 +425,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:17	1	10	ἐν	ἐν	preposition with the dative	1	in
 2CH 4:17	1	11	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 2CH 4:17	1	12	πάχει	πάχος	noun, dative neuter singular	1	thick part
-2CH 4:17	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
+2CH 4:17	1	13	τῆς	ὁ	article, genitive feminine singular	1	of the
 2CH 4:17	1	14	γῆς	γῆ	noun, genitive feminine singular	1	land
 2CH 4:17	1	15	ἐν	ἐν	preposition with the dative	1	in
 2CH 4:17	1	16	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
-2CH 4:17	1	17	Σοκχὼθ	Σοκχώθ	indeclinable place name, genitive in context	1	of Socchoth
-2CH 4:17	1	17	Σοκχὼθ			2	of Succoth
+2CH 4:17	1	17	Σοκχὼθ	Σοκχώθ	indeclinable place name, genitive in context	1	of Succoth
+2CH 4:17	1	17	Σοκχὼθ			2	of Socchoth
 2CH 4:17	1	18	καὶ	καί	conjunction	1	and
 2CH 4:17	1	19	ἀναμέσον	ἀναμέσον	adverb/preposition	1	between
-2CH 4:17	1	20	Σαρηδαθά	Σαρηδαθά	indeclinable place name, genitive in context	1	Saredatha
+2CH 4:17	1	20	Σαρηδαθά	Σαρηδαθά	indeclinable place name, genitive in context	1	Zeredathah
 2CH 4:17	1	20	Σαρηδαθά			2	Zeredah
 2CH 4:18	1	1	Καὶ	καί	conjunction	1	and
 2CH 4:18	1	2	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
@@ -443,10 +443,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:18	1	5	τὰ	ὁ	article, accusative neuter plural	1	the
 2CH 4:18	1	6	σκεύη	σκεῦος	noun, accusative neuter plural	1	vessels
 2CH 4:18	1	7	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
-2CH 4:18	1	8	εἰς	εἰς	preposition with the accusative	1	into
+2CH 4:18	1	8	εἰς	εἰς	preposition with the accusative	1	in
 2CH 4:18	1	9	πλῆθος	πλῆθος	noun, accusative neuter singular after εἰς predicate	1	a multitude
 2CH 4:18	1	10	σφόδρα	σφόδρα	adverb of degree	1	greatly
-2CH 4:18	1	11	ὅτι	ὅτι	conjunction introducing a content clause	1	that
+2CH 4:18	1	11	ὅτι	ὅτι	conjunction introducing a content clause	1	for
 2CH 4:18	1	12	οὐκ	οὐ	negative particle	1	not
 2CH 4:18	1	13	ἐξέλειπεν	ἐκλείπω	imperfect active indicative, 3rd sg.	1	failed
 2CH 4:18	1	14	ὁλκὴ	ὁλκή	noun, nominative feminine singular	1	weight
@@ -460,19 +460,19 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:19	1	4	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 2CH 4:19	1	5	τὰ	ὁ	article, accusative neuter plural	1	the
 2CH 4:19	1	6	σκεύη	σκεῦος	noun, accusative neuter plural	1	vessels
-2CH 4:19	1	7	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+2CH 4:19	1	7	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 2CH 4:19	1	7	οἴκου			2	household
 2CH 4:19	1	8	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2CH 4:19	1	9	καὶ	καί	conjunction	1	and
 2CH 4:19	1	10	τὸ	ὁ	article, accusative neuter singular	1	the
 2CH 4:19	1	11	θυσιαστήριον	θυσιαστήριον	noun, accusative neuter singular	1	altar
 2CH 4:19	1	12	τὸ	ὁ	article, nominative neuter singular	1	the
-2CH 4:19	1	13	χρυσοῦν	χρυσοῦς	adjective, accusative neut. sg. after τὸ with θυσιαστήριον	1	gold/golden
+2CH 4:19	1	13	χρυσοῦν	χρυσοῦς	adjective, accusative neut. sg. after τὸ with θυσιαστήριον	1	golden
 2CH 4:19	1	14	καὶ	καί	conjunction	1	and
 2CH 4:19	1	15	τὰς	ὁ	article, accusative feminine plural	1	the
 2CH 4:19	1	16	τραπέζας	τράπεζα	noun, accusative feminine plural	1	tables
 2CH 4:19	1	17	καὶ	καί	conjunction	1	and
-2CH 4:19	1	18	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+2CH 4:19	1	18	ἐπ᾽	ἐπί	preposition with the accusative	1	on
 2CH 4:19	1	19	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
 2CH 4:19	1	20	ἄρτοι	ἄρτος	noun, nominative masculine plural	1	loaves
 2CH 4:19	1	21	προθέσεως	πρόθεσις	noun, genitive feminine singular	1	set out
@@ -483,17 +483,17 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 4:20	1	4	καὶ	καί	conjunction	1	and
 2CH 4:20	1	5	τοὺς	ὁ	article, accusative masculine plural	1	the
 2CH 4:20	1	6	λύχνους	λύχνος	noun, accusative masc. pl.	1	lamps
-2CH 4:20	1	7	τοῦ	ὁ	article, genitive singular	1	the
-2CH 4:20	1	8	φωτὸς	φωτίζω	present active infinitive	1	to give light
+2CH 4:20	1	7	τοῦ	ὁ	article, genitive singular	1	of the
+2CH 4:20	1	8	φωτὸς	φωτίζω	present active infinitive	1	light
 2CH 4:20	1	9	κατὰ	κατά	preposition with the accusative	1	according to
 2CH 4:20	1	10	τὸ	ὁ	article, accusative neuter singular	1	the
 2CH 4:20	1	11	κρίμα	κρίμα	noun, accusative neuter singular	1	custom
 2CH 4:20	1	12	καὶ	καί	conjunction	1	and
-2CH 4:20	1	13	κατὰ	κατά	in the expression κατὰ πρόσωπον	1	in the presence of
+2CH 4:20	1	13	κατὰ	κατά	in the expression κατὰ πρόσωπον	1	in front of
 2CH 4:20	1	13	κατὰ			2	facing
 2CH 4:20	1	14	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
-2CH 4:20	1	15	τοῦ	ὁ	article, genitive singular	1	the
-2CH 4:20	1	16	Δαβεὶρ	Δαβείρ	indeclinable place name, nominative in context	1	Dabeir
+2CH 4:20	1	15	τοῦ	ὁ	article, genitive singular	1	of the
+2CH 4:20	1	16	Δαβεὶρ	Δαβείρ	indeclinable place name, nominative in context	1	inner sanctuary
 2CH 4:20	1	17	χρυσίου	χρυσίον	noun, genitive neut. sg.	1	of gold
 2CH 4:20	1	18	καθαροῦ	καθαρός	adjective, genitive neut. sg. with χρυσίου	1	pure
 2CH 4:21	1	1	καὶ	καί	conjunction	1	and

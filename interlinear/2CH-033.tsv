@@ -5,8 +5,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:1	1	4	δύο	δύο	cardinal numeral, indeclinable	1	two
 2CH 33:1	1	5	ἐτῶν	ἔτος	noun, genitive neuter plural of age	1	years
 2CH 33:1	1	6	Μανασσῆς	Μανασσῆς	noun, nominative masculine singular; tribal name	1	Manasseh
-2CH 33:1	1	7	ἐν	ἐν	preposition with the dative	1	in
-2CH 33:1	1	8	τῷ	ὁ	article, dative masculine singular	1	the
+2CH 33:1	1	7	ἐν	ἐν	preposition with the dative	1	when
+2CH 33:1	1	8	τῷ	ὁ	article, dative masculine singular	1	—
 2CH 33:1	1	9	βασιλεῦσαι	βασιλεύω	aorist active infinitive	1	began to reign
 2CH 33:1	1	10	αὐτὸν	αὐτός	pronoun, accusative masculine singular; subject of the articular infinitive	1	he
 2CH 33:1	1	11	καὶ	καί	conjunction	1	and
@@ -100,12 +100,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:5	1	9	ἐν	ἐν	preposition with the dative	1	in
 2CH 33:5	1	10	ταῖς	ὁ	article, dative feminine plural	1	the
 2CH 33:5	1	11	δυσὶν	δύο	cardinal numeral, dative plural	1	two
-2CH 33:5	1	12	αὐλαῖς	αὐλή	noun, dative feminine plural	1	the courts
+2CH 33:5	1	12	αὐλαῖς	αὐλή	noun, dative feminine plural	1	courts
 2CH 33:5	1	13	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 2CH 33:5	1	14	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2CH 33:6	1	1	Καὶ	καί	conjunction	1	and
 2CH 33:6	1	2	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
-2CH 33:6	1	3	διῆγε	διάγω	imperfect active indicative, third singular	1	he made pass through
+2CH 33:6	1	3	διῆγε	διάγω	imperfect active indicative, third singular	1	made pass through
 2CH 33:6	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
 2CH 33:6	1	5	τέκνα	τέκνον	noun, accusative neuter plural	1	children
 2CH 33:6	1	6	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -138,7 +138,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:6	1	31	παροργίσαι	παροργίζω	aorist active infinitive	1	to provoke
 2CH 33:6	1	32	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 2CH 33:7	1	1	καὶ	καί	conjunction	1	and
-2CH 33:7	1	2	ἔθηκε	τίθημι	aorist active indicative, 3rd sg.	1	put/placed
+2CH 33:7	1	2	ἔθηκε	τίθημι	aorist active indicative, 3rd sg.	1	placed
 2CH 33:7	1	3	τὸ	ὁ	article, accusative neuter singular	1	the
 2CH 33:7	1	4	γλυπτὸν	γλυπτός	substantival adjective, accusative neuter singular	1	carved image
 2CH 33:7	1	5	καὶ	καί	conjunction	1	and
@@ -187,7 +187,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:7	1	43	αἰῶνα	αἰών	noun accusative masculine singular	1	age
 2CH 33:8	1	1	Καὶ	καί	conjunction	1	and
 2CH 33:8	1	2	οὐ	οὐ	negative particle	1	not
-2CH 33:8	1	3	προθήσω	προτίθημι	future active indicative, first singular	1	I will set
+2CH 33:8	1	3	προθήσω	προτίθημι	future active indicative, first singular	1	I will add
 2CH 33:8	1	3	προθήσω			2	I will allow
 2CH 33:8	1	4	σαλεῦσαι	σαλεύω	aorist active infinitive	1	to dislodge
 2CH 33:8	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -195,7 +195,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:8	1	7	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 2CH 33:8	1	8	ἀπὸ	ἀπό	preposition with the genitive	1	from
 2CH 33:8	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
-2CH 33:8	1	10	γῆς	γῆ	noun, genitive feminine singular	1	earth
+2CH 33:8	1	10	γῆς	γῆ	noun, genitive feminine singular	1	land
 2CH 33:8	1	11	ἧς	ὅς	relative pronoun, attracted to its antecedent, genitive feminine singular	1	which
 2CH 33:8	1	12	ἔδωκα	δίδωμι	aorist active indicative, first singular	1	I gave
 2CH 33:8	1	13	τοῖς	ὁ	article, dative masculine plural	1	to the
@@ -203,7 +203,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:8	1	15	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 2CH 33:8	1	16	πλὴν	πλήν	preposition/adverb with the genitive	1	except
 2CH 33:8	1	17	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
-2CH 33:8	1	18	φυλάσσωνται	φυλάσσω	present middle/passive subjunctive, third plural	1	guard
+2CH 33:8	1	18	φυλάσσωνται	φυλάσσω	present middle/passive subjunctive, third plural	1	they take care
 2CH 33:8	1	18	φυλάσσωνται			2	take care
 2CH 33:8	1	19	τοῦ	ὁ	article, genitive neuter singular; articular infinitive, introduces the infinitive	1	—
 2CH 33:8	1	20	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
@@ -252,7 +252,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:9	1	21	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 2CH 33:9	1	22	ἀπὸ	ἀπό	preposition with the genitive	1	from
 2CH 33:9	1	23	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the face
-2CH 33:9	1	24	τῶν	ὁ	article, genitive plural	1	the
+2CH 33:9	1	24	τῶν	ὁ	article, genitive plural	1	of the
 2CH 33:9	1	25	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 2CH 33:9	1	26	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2CH 33:10	1	1	Καὶ	καί	conjunction	1	and
@@ -413,14 +413,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:15	1	2	περιεῖλε	περιαιρέω	aorist active indicative, third singular	1	removed
 2CH 33:15	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
 2CH 33:15	1	4	θεοὺς	θεός	noun, accusative masculine plural	1	gods
-2CH 33:15	1	5	τοὺς	ὁ	article, accusative masculine plural; introduces a prepositional phrase	1	those
+2CH 33:15	1	5	τοὺς	ὁ	article, accusative masculine plural; introduces a prepositional phrase	1	the
 2CH 33:15	1	6	ἀλλοτρίους	ἀλλότριος	adjective, accusative masculine plural	1	foreign
 2CH 33:15	1	6	ἀλλοτρίους			2	belonging to others
 2CH 33:15	1	7	καὶ	καί	conjunction	1	and
 2CH 33:15	1	8	τὸ	ὁ	article, accusative neuter singular	1	the
 2CH 33:15	1	9	γλυπτὸν	γλυπτός	substantival adjective, accusative neuter singular	1	carved image
 2CH 33:15	1	10	ἐξ	ἐκ	preposition with the genitive	1	from
-2CH 33:15	1	11	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
+2CH 33:15	1	11	οἴκου	οἶκος	noun, genitive masculine singular	1	the house
 2CH 33:15	1	12	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2CH 33:15	1	13	καὶ	καί	conjunction	1	and
 2CH 33:15	1	14	πάντα	πᾶς	adjective nominative neuter plural	1	all
@@ -458,7 +458,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:16	1	15	εἶπε	λέγω	aorist active indicative, third singular	1	told
 2CH 33:16	1	16	τῷ	ὁ	article, dative masculine singular; before a name, marks the name	1	—
 2CH 33:16	1	17	Ἰούδᾳ	Ἰούδας	personal name, dative masculine singular	1	Judah
-2CH 33:16	1	18	τοῦ	ὁ	article, genitive masculine singular	1	the
+2CH 33:16	1	18	τοῦ	ὁ	article, genitive masculine singular	1	—
 2CH 33:16	1	19	δουλεύειν	δουλεύω	present active infinitive after τοῦ μὴ, serve as slaves	1	to serve
 2CH 33:16	1	20	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 2CH 33:16	1	21	Θεῷ	θεός	noun, dative masculine singular	1	God
@@ -472,7 +472,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:17	1	6	τῶν	ὁ	article, genitive neuter plural	1	the
 2CH 33:17	1	7	ὑψηλῶν	ὑψηλός	substantival adjective, genitive neuter plural	1	high places
 2CH 33:17	1	8	ἐθυσίαζε	θυσιάζω	imperfect active indicative, third singular	1	kept sacrificing
-2CH 33:17	1	9	πλὴν	πλήν	conjunction	1	however
+2CH 33:17	1	9	πλὴν	πλήν	conjunction	1	only
 2CH 33:17	1	9	πλὴν			2	except
 2CH 33:17	1	10	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 2CH 33:17	1	11	Θεῷ	θεός	noun, dative masculine singular	1	God
@@ -487,7 +487,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:18	1	8	ἡ	ὁ	article, nominative feminine singular	1	the
 2CH 33:18	1	9	προσευχὴ	προσευχή	noun nominative feminine singular	1	prayer
 2CH 33:18	1	10	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
-2CH 33:18	1	11	ἡ	ὁ	article, nominative feminine singular	1	the
+2CH 33:18	1	11	ἡ	ὁ	article, nominative feminine singular	1	—
 2CH 33:18	1	12	πρὸς	πρός	preposition with the accusative	1	to
 2CH 33:18	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
 2CH 33:18	1	14	Θεὸν	θεός	noun, accusative masculine singular	1	God
@@ -495,7 +495,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:18	1	16	οἱ	ὁ	article, nominative masculine plural	1	the
 2CH 33:18	1	17	λόγοι	λόγος	noun, nominative masculine plural	1	words
 2CH 33:18	1	17	λόγοι			2	accounts
-2CH 33:18	1	18	τῶν	ὁ	article, genitive plural	1	the
+2CH 33:18	1	18	τῶν	ὁ	article, genitive plural	1	of the
 2CH 33:18	1	19	ὁρώντων	ὁράω	present active participle, genitive masculine plural; substantival	1	seers
 2CH 33:18	1	19	ὁρώντων			2	those who see
 2CH 33:18	1	20	τῶν	ὁ	article, genitive masculine plural	1	those
@@ -511,7 +511,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:19	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2CH 33:19	1	3	λόγων	λόγος	noun, genitive masculine plural	1	the records
 2CH 33:19	1	3	λόγων			2	words
-2CH 33:19	1	4	προσευχῆς	προσευχή	noun, genitive feminine singular	1	prayer
+2CH 33:19	1	4	προσευχῆς	προσευχή	noun, genitive feminine singular	1	of prayer
 2CH 33:19	1	5	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 2CH 33:19	1	6	καὶ	καί	conjunction	1	and
 2CH 33:19	1	7	ὡς	ὡς	comparative particle	1	as
@@ -530,7 +530,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:19	1	19	καὶ	καί	conjunction	1	and
 2CH 33:19	1	20	οἱ	ὁ	article, nominative masculine plural	1	the
 2CH 33:19	1	21	τόποι	τόπος	noun, nominative masculine plural	1	places
-2CH 33:19	1	22	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
+2CH 33:19	1	22	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	on
 2CH 33:19	1	23	οἷς	ὅς	relative pronoun, dative neut. pl.	1	which
 2CH 33:19	1	24	ᾠκοδόμησεν	οἰκοδομέω	aorist active indicative, third singular	1	built
 2CH 33:19	1	25	ἐν	ἐν	preposition with the dative	1	in
@@ -554,7 +554,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:19	1	40	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2CH 33:19	1	41	λόγων	λόγος	noun, genitive masculine plural	1	the records
 2CH 33:19	1	41	λόγων			2	words
-2CH 33:19	1	42	τῶν	ὁ	article, genitive plural	1	the
+2CH 33:19	1	42	τῶν	ὁ	article, genitive plural	1	of the
 2CH 33:19	1	43	ὁρώντων	ὁράω	present active participle, genitive masculine plural; substantival	1	seers
 2CH 33:19	1	43	ὁρώντων			2	those who see
 2CH 33:20	1	1	Καὶ	καί	conjunction	1	and
@@ -586,7 +586,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:21	1	5	δύο	δύο	cardinal numeral, indeclinable	1	two
 2CH 33:21	1	6	Ἀμὼν	Ἀμών	indeclinable personal name, genitive in context	1	Amon
 2CH 33:21	1	7	ἐν	ἐν	preposition with the dative	1	when
-2CH 33:21	1	8	τῷ	ὁ	article, dative masculine singular	1	the
+2CH 33:21	1	8	τῷ	ὁ	article, dative masculine singular	1	—
 2CH 33:21	1	9	βασιλεύειν	βασιλεύω	present active infinitive	1	to reign
 2CH 33:21	1	10	αὐτὸν	αὐτός	pronoun, accusative masculine singular; subject of the infinitive	1	he
 2CH 33:21	1	11	καὶ	καί	conjunction	1	and
@@ -660,7 +660,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 33:25	1	4	λαὸς	λαός	noun, nominative masculine singular	1	people
 2CH 33:25	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 2CH 33:25	1	6	γῆς	γῆ	noun, genitive feminine singular	1	land
-2CH 33:25	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
+2CH 33:25	1	7	τοὺς	ὁ	article, accusative masculine plural	1	those
 2CH 33:25	1	8	ἐπιτιθεμένους	ἐπιτίθημι	present middle/passive participle, accusative masculine plural	1	who had conspired
 2CH 33:25	1	9	ἐπὶ	ἐπί	preposition with accusative	1	against
 2CH 33:25	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
