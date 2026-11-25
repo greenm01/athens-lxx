@@ -47,14 +47,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:2	1	24	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 1CH 19:2	1	25	περὶ	περί	preposition with the genitive	1	on account of
 1CH 19:2	1	25	περὶ			2	concerning
-1CH 19:2	1	26	τοῦ	ὁ	article, genitive masculine singular	1	of the
+1CH 19:2	1	26	τοῦ	ὁ	article, genitive masculine singular	1	the
 1CH 19:2	1	27	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 1CH 19:2	1	28	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 1CH 19:2	1	29	καὶ	καί	conjunction	1	and
 1CH 19:2	1	30	ἦλθον	ἔρχομαι	aorist active indicative, third plural	1	came
 1CH 19:2	1	31	παῖδες	παῖς	noun, nominative masculine plural	1	male servants
 1CH 19:2	1	31	παῖδες			2	servants
-1CH 19:2	1	32	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
+1CH 19:2	1	32	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	of David
 1CH 19:2	1	33	εἰς	εἰς	preposition with the accusative	1	into
 1CH 19:2	1	34	γῆν	γῆ	noun, accusative feminine singular	1	the land
 1CH 19:2	1	35	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
@@ -74,7 +74,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:3	1	6	Ἀμμὼν	Ἀμμών	indeclinable personal name, genitive in context	1	of Ammon
 1CH 19:3	1	7	πρὸς	πρός	preposition with the accusative	1	to
 1CH 19:3	1	8	Ἀνάν	Ἀνάν	indeclinable personal name, accusative in context	1	Hanun
-1CH 19:3	1	9	μὴ	μή	negative particle	1	not
+1CH 19:3	1	9	μὴ	μή	negative particle	1	[marks a question]
 1CH 19:3	1	10	δοξάζων	δοξάζω	present active participle, nominative masculine singular	1	honoring
 1CH 19:3	1	11	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 1CH 19:3	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -85,14 +85,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:3	1	17	ἀπέστειλέ	ἀποστέλλω	aorist active indicative, third singular as printed (movable nu dropped before με)	1	sent
 1CH 19:3	1	18	σοι	σύ	personal pronoun, dative singular	1	to you
 1CH 19:3	1	19	παρακαλοῦντας	παρακαλέω	present active participle, accusative masculine plural	1	to offer condolences
-1CH 19:3	1	20	οὐχ	οὐ	negative particle	1	not
+1CH 19:3	1	20	οὐχ	οὐ	negative particle	1	is it not
 1CH 19:3	1	21	ὅπως	ὅπως	conjunction of purpose with the subjunctive	1	so that
 1CH 19:3	1	22	ἐρευνήσωσι	ἐρευνάω	aorist active subjunctive, third plural	1	they search
 1CH 19:3	1	22	ἐρευνήσωσι			2	they examine
 1CH 19:3	1	23	τὴν	ὁ	article, accusative feminine singular	1	the
 1CH 19:3	1	24	πόλιν	πόλις	noun, accusative feminine singular	1	city
 1CH 19:3	1	25	καὶ	καί	conjunction	1	and
-1CH 19:3	1	26	τοῦ	ὁ	article, genitive masculine singular	1	of the
+1CH 19:3	1	26	τοῦ	ὁ	article, genitive masculine singular	1	—
 1CH 19:3	1	27	κατασκοπῆσαι	κατασκοπέω	aorist active infinitive	1	to spy out
 1CH 19:3	1	28	τὴν	ὁ	article, accusative feminine singular	1	the
 1CH 19:3	1	29	γῆν	γῆ	noun, accusative feminine singular	1	land
@@ -107,7 +107,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:4	1	3	Ἀνὰν	Ἀνάν	indeclinable personal name, nominative in context	1	Anan
 1CH 19:4	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
 1CH 19:4	1	5	παῖδας	παῖς	noun, accusative masculine plural	1	servants
-1CH 19:4	1	6	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
+1CH 19:4	1	6	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	of David
 1CH 19:4	1	7	καὶ	καί	conjunction	1	and
 1CH 19:4	1	8	ἐξύρησεν	ξυράω	aorist active indicative, third singular	1	shaved
 1CH 19:4	1	9	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -132,17 +132,17 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:5	1	3	ἀπαγγεῖλαι			2	to declare
 1CH 19:5	1	4	τῷ	ὁ	article, dative masculine singular	1	to the
 1CH 19:5	1	5	Δαυὶδ	Δαυίδ	indeclinable personal name, dative in context	1	David
-1CH 19:5	1	6	περὶ	περί	preposition with the genitive	1	on account of
+1CH 19:5	1	6	περὶ	περί	preposition with the genitive	1	about
 1CH 19:5	1	6	περὶ			2	concerning
 1CH 19:5	1	7	τῶν	ὁ	article genitive masculine plural	1	the
 1CH 19:5	1	8	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	1	men
 1CH 19:5	1	9	καὶ	καί	conjunction	1	and
-1CH 19:5	1	10	ἀπέστειλεν	ἀποστέλλω	aorist active indicative, third singular	1	sent away
-1CH 19:5	1	10	ἀπέστειλεν			2	sent
-1CH 19:5	1	11	εἰς	εἰς	preposition with the accusative	1	into
-1CH 19:5	1	12	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	1	meeting
+1CH 19:5	1	10	ἀπέστειλεν	ἀποστέλλω	aorist active indicative, third singular	1	sent
+1CH 19:5	1	10	ἀπέστειλεν			2	sent away
+1CH 19:5	1	11	εἰς	εἰς	preposition with the accusative	1	to
+1CH 19:5	1	12	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	1	meet
 1CH 19:5	1	12	ἀπάντησιν			2	encounter
-1CH 19:5	1	13	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
+1CH 19:5	1	13	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 1CH 19:5	1	14	ὅτι	ὅτι	causal conjunction	1	because
 1CH 19:5	1	15	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 1CH 19:5	1	16	ἠτιμωμένοι	ἀτιμόω	perfect middle/passive participle, nominative masculine plural	1	humiliated
@@ -164,13 +164,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:5	1	31	καὶ	καί	conjunction	1	and
 1CH 19:5	1	32	ἀνακάμψατε	ἀνακάμπτω	aorist active imperative, 2nd pl., turn back/return	1	return
 1CH 19:6	1	1	Καὶ	καί	conjunction	1	and
-1CH 19:6	1	2	εἰδον	ὁράω	aorist active indicative, third plural	1	they saw
+1CH 19:6	1	2	εἰδον	ὁράω	aorist active indicative, third plural	1	saw
 1CH 19:6	1	3	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 1CH 19:6	1	4	Ἀμμὼν	Ἀμμών	indeclinable personal name, genitive in context	1	of Ammon
 1CH 19:6	1	5	ὅτι	ὅτι	conjunction introducing content	1	that
 1CH 19:6	1	6	ᾐσχύνθη	αἰσχύνομαι	aorist passive indicative, third singular	1	was put to shame
 1CH 19:6	1	7	λαὸς	λαός	noun, nominative masculine singular	1	people
-1CH 19:6	1	8	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
+1CH 19:6	1	8	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	of David
 1CH 19:6	1	9	καὶ	καί	conjunction	1	and
 1CH 19:6	1	10	ἀπέστειλεν	ἀποστέλλω	aorist active indicative, third singular	1	sent
 1CH 19:6	1	11	Ἀνὰν	Ἀνάν	indeclinable personal name, nominative in context	1	Hanun
@@ -190,11 +190,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:6	1	25	καὶ	καί	conjunction	1	and
 1CH 19:6	1	26	ἐκ	ἐκ	preposition with the genitive	1	from
 1CH 19:6	1	27	Συρίας	Συρία	noun, genitive feminine singular; place name	1	Syria
-1CH 19:6	1	28	Μααχὰ	Μααχά	indeclinable place name, nominative in context	1	Maacah
+1CH 19:6	1	28	Μααχὰ	Μααχά	indeclinable place name, nominative in context	1	Maachah
 1CH 19:6	1	29	καὶ	καί	conjunction	1	and
 1CH 19:6	1	30	ἐκ	ἐκ	preposition with the genitive	1	from
-1CH 19:6	1	31	Σουβὰλ	Σουβάλ	indeclinable personal name, genitive in context	1	Soubal
-1CH 19:6	1	31	Σουβὰλ			2	Zobah
+1CH 19:6	1	31	Σουβὰλ	Σουβάλ	indeclinable personal name, genitive in context	1	Zobah
+1CH 19:6	1	31	Σουβὰλ			2	Soubal
 1CH 19:6	1	32	ἅρματα	ἅρμα	noun, nominative neuter plural	1	chariots
 1CH 19:6	1	33	καὶ	καί	conjunction	1	and
 1CH 19:6	1	34	ἱππεῖς	ἱππεύς	noun, nominative masculine plural	1	horsemen
@@ -209,7 +209,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:7	1	9	καὶ	καί	conjunction	1	and
 1CH 19:7	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 19:7	1	11	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
-1CH 19:7	1	12	Μααχὰ	Μααχά	indeclinable place name, nominative in context	1	Maacah
+1CH 19:7	1	12	Μααχὰ	Μααχά	indeclinable place name, nominative in context	1	Maachah
 1CH 19:7	1	13	καὶ	καί	conjunction	1	and
 1CH 19:7	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 19:7	1	15	λαὸν	λαός	noun, accusative masculine singular	1	people
@@ -219,7 +219,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:7	1	19	καὶ	καί	conjunction	1	and
 1CH 19:7	1	20	παρενέβαλον	παρεμβάλλω	aorist active indicative, 3rd pl., encamped	1	encamped
 1CH 19:7	1	21	κατέναντι	κατέναντι	preposition with genitive	1	in front of
-1CH 19:7	1	22	τοὺ	ὁ	article, genitive masculine singular	1	of the
+1CH 19:7	1	22	τοὺ	ὁ	article, genitive masculine singular	1	—
 1CH 19:7	1	23	Μηδαβά	Μηδαβά	indeclinable personal name, genitive in context	1	Medeba
 1CH 19:7	1	23	Μηδαβά			2	Medaba
 1CH 19:7	1	24	Καὶ	καί	conjunction	1	and
@@ -272,7 +272,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:9	1	17	οἱ	ὁ	article, nominative masculine plural; substantival before a prepositional phrase	1	those
 1CH 19:9	1	18	ἐλθόντες	ἔρχομαι	aorist active participle, nominative masculine plural	1	who had come
 1CH 19:9	1	19	παρενέβαλον	παρεμβάλλω	aorist active indicative, 3rd pl., encamped	1	encamped
-1CH 19:9	1	20	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	concerning
+1CH 19:9	1	20	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	by
 1CH 19:9	1	21	ἑαυτοὺς	ἑαυτοῦ	reflexive pronoun, accusative masculine plural after καθ᾽, idiom 'by themselves'	1	themselves
 1CH 19:9	1	22	ἐν	ἐν	preposition with the dative	1	in
 1CH 19:9	1	23	τῷ	ὁ	article, dative masculine/neuter singular	1	the
@@ -287,10 +287,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:10	1	8	πολεμεῖν	πολεμέω	present active infinitive	1	to fight
 1CH 19:10	1	9	πρὸς	πρός	preposition with the accusative	1	against
 1CH 19:10	1	10	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-1CH 19:10	1	11	κατὰ	κατά	preposition with the accusative	1	before
+1CH 19:10	1	11	κατὰ	κατά	preposition with the accusative	1	in
 1CH 19:10	1	12	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	front
 1CH 19:10	1	13	καὶ	καί	conjunction	1	and
-1CH 19:10	1	14	ἐξόπισθεν	ἐξόπισθεν	improper preposition indicating departure from following	1	from following
+1CH 19:10	1	14	ἐξόπισθεν	ἐξόπισθεν	improper preposition indicating departure from following	1	from behind
 1CH 19:10	1	15	καὶ	καί	conjunction	1	and
 1CH 19:10	1	16	ἐξελέξατο	ἐκλέγομαι	aorist middle indicative, third singular	1	chose
 1CH 19:10	1	16	ἐξελέξατο			2	selected
@@ -313,8 +313,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:11	1	6	ἔδωκεν	δίδωμι	perfect active indicative, third singular	1	had assigned
 1CH 19:11	1	7	ἐν	ἐν	preposition with the dative	1	in
 1CH 19:11	1	8	χειρὶ	χείρ	noun, dative feminine singular	1	the hand
-1CH 19:11	1	9	Ἀβεσσὰ	Ἀβεσσά	indeclinable personal name, nominative in context	1	of Abessa
-1CH 19:11	1	9	Ἀβεσσὰ			2	of Abishai
+1CH 19:11	1	9	Ἀβεσσὰ	Ἀβεσσά	indeclinable personal name, nominative in context	1	of Abishai
+1CH 19:11	1	9	Ἀβεσσὰ			2	of Abessa
 1CH 19:11	1	10	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
 1CH 19:11	1	11	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 1CH 19:11	1	12	καὶ	καί	conjunction	1	and
@@ -326,13 +326,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:12	1	1	Καὶ	καί	conjunction	1	and
 1CH 19:12	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 1CH 19:12	1	3	ἐὰν	ἐάν	conditional conjunction	1	if
-1CH 19:12	1	4	κρατήσῃ	κρατέω	aorist active subjunctive, third singular	1	will retain
+1CH 19:12	1	4	κρατήσῃ	κρατέω	aorist active subjunctive, third singular	1	prevails
 1CH 19:12	1	4	κρατήσῃ			2	holds on to
-1CH 19:12	1	5	ὑπὲρ	ὑπέρ	preposition with the accusative; comparison	1	more than
+1CH 19:12	1	5	ὑπὲρ	ὑπέρ	preposition with the accusative; comparison	1	over
 1CH 19:12	1	6	ἐμὲ	ἐγώ	personal pronoun accusative first singular	1	me
 1CH 19:12	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
 1CH 19:12	1	8	Σύρος	Σύρος	noun, nominative masculine singular	1	Syrian
-1CH 19:12	1	9	καὶ	καί	conjunction	1	and
+1CH 19:12	1	9	καὶ	καί	conjunction	1	then
 1CH 19:12	1	10	ἔσῃ	εἰμί	future middle indicative, second singular	1	you will be
 1CH 19:12	1	11	μοι	ἐγώ	pronoun, dative first singular	1	to me
 1CH 19:12	1	12	εἰς	εἰς	preposition marking role or result	1	as
@@ -342,10 +342,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:12	1	15	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 1CH 19:12	1	16	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 1CH 19:12	1	17	Ἀμμὼν	Ἀμμών	indeclinable personal name, genitive in context	1	of Ammon
-1CH 19:12	1	18	κρατήσωσιν	κρατέω	aorist active subjunctive, third plural	1	they prevail
-1CH 19:12	1	19	ὑπὲρ	ὑπέρ	preposition governing the accusative in comparison	1	more than
+1CH 19:12	1	18	κρατήσωσιν	κρατέω	aorist active subjunctive, third plural	1	prevail
+1CH 19:12	1	19	ὑπὲρ	ὑπέρ	preposition governing the accusative in comparison	1	over
 1CH 19:12	1	20	σὲ	σύ	pronoun, accusative second singular	1	you
-1CH 19:12	1	21	καὶ	καί	conjunction	1	and
+1CH 19:12	1	21	καὶ	καί	conjunction	1	then
 1CH 19:12	1	22	σώσω	σώζω	future active indicative, first singular	1	I will save
 1CH 19:12	1	23	σε	σύ	personal pronoun, accusative singular	1	you
 1CH 19:13	1	1	ἀνδρίζου	ἀνδρίζομαι	present middle imperative, second singular	1	take courage
@@ -401,16 +401,16 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:15	1	8	Σύροι	Σύρος	noun, nominative masculine plural	1	Syrians
 1CH 19:15	1	9	καὶ	καί	conjunction	1	and
 1CH 19:15	1	10	ἔφυγον	φεύγω	aorist active indicative, 3rd pl.	1	fled
-1CH 19:15	1	11	καὶ	καί	conjunction	1	and
+1CH 19:15	1	11	καὶ	καί	conjunction	1	also
 1CH 19:15	1	12	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they themselves
 1CH 19:15	1	13	ἀπὸ	ἀπό	preposition with the genitive	1	from
 1CH 19:15	1	14	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the presence
-1CH 19:15	1	15	Ἰωὰβ	Ἰωάβ	indeclinable personal name, nominative in context	1	Joab
+1CH 19:15	1	15	Ἰωὰβ	Ἰωάβ	indeclinable personal name, nominative in context	1	of Joab
 1CH 19:15	1	16	καὶ	καί	conjunction	1	and
 1CH 19:15	1	17	ἀπὸ	ἀπό	preposition with the genitive	1	from
 1CH 19:15	1	18	προσώπου	πρόσωπον	noun, genitive neuter singular after ἀπό, in the phrase 'from the face of'	1	the presence
-1CH 19:15	1	19	Ἀβεσσὰ	Ἀβεσσά	indeclinable personal name, nominative in context	1	of Abessa
-1CH 19:15	1	19	Ἀβεσσὰ			2	of Abishai
+1CH 19:15	1	19	Ἀβεσσὰ	Ἀβεσσά	indeclinable personal name, nominative in context	1	of Abishai
+1CH 19:15	1	19	Ἀβεσσὰ			2	of Abessa
 1CH 19:15	1	20	τοῦ	ὁ	article, genitive masculine singular	1	of the
 1CH 19:15	1	21	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
 1CH 19:15	1	22	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -450,14 +450,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:16	1	21	Σωφὰχ	Σωφάχ	indeclinable personal name, nominative in context	1	Shophach
 1CH 19:16	1	21	Σωφὰχ			2	Sophach
 1CH 19:16	1	22	ἀρχιστράτηγος	ἀρχιστράτηγος	noun, nominative masculine singular	1	commander-in-chief
-1CH 19:16	1	23	δυνάμεως	δύναμις	noun, genitive feminine singular	1	army
+1CH 19:16	1	23	δυνάμεως	δύναμις	noun, genitive feminine singular	1	of the army
 1CH 19:16	1	23	δυνάμεως			2	force
-1CH 19:16	1	24	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, nominative in context	1	Adraazar
-1CH 19:16	1	25	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	1	ahead
+1CH 19:16	1	24	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, nominative in context	1	of Hadarezer
+1CH 19:16	1	25	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	1	before
 1CH 19:16	1	26	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
 1CH 19:17	1	1	καὶ	καί	conjunction	1	and
 1CH 19:17	1	2	ἀπηγγέλη	ἀπαγγέλλω	aorist passive indicative, third singular; impersonal	1	it was reported
-1CH 19:17	1	3	τῷ	ὁ	article, dative masculine singular	1	the
+1CH 19:17	1	3	τῷ	ὁ	article, dative masculine singular	1	to
 1CH 19:17	1	4	Δαυὶδ	Δαυίδ	indeclinable personal name, dative in context	1	David
 1CH 19:17	1	5	καὶ	καί	conjunction	1	and
 1CH 19:17	1	6	συνήγαγε	συνάγω	aorist active indicative, third singular	1	gathered
@@ -481,7 +481,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:17	1	23	παρατάσσεται	παρατάσσω	present middle/passive indicative, third singular	1	draws up in ranks
 1CH 19:17	1	24	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 1CH 19:17	1	25	ἐξεναντίας	ἐξεναντίας	indeclinable personal name, nominative in context	1	opposite
-1CH 19:17	1	26	τοῦ	ὁ	article, genitive singular	1	the
+1CH 19:17	1	26	τοῦ	ὁ	article, genitive singular	1	—
 1CH 19:17	1	27	Σύρου	Σύρος	substantival adjective, genitive masculine singular; ethnic adjective	1	the Syrian force
 1CH 19:17	1	28	εἰς	εἰς	preposition with the accusative	1	for
 1CH 19:17	1	29	πόλεμον	πόλεμος	noun, accusative masculine singular	1	war
@@ -494,7 +494,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:18	1	3	Σύρος	Σύρος	noun, nominative masculine singular	1	Syrian
 1CH 19:18	1	4	ἀπὸ	ἀπό	preposition with the genitive	1	from
 1CH 19:18	1	5	προσώπου	πρόσωπον	noun, genitive neuter singular after ἀπό, in the phrase 'from the face of'	1	the face
-1CH 19:18	1	6	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	Israel
+1CH 19:18	1	6	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
 1CH 19:18	1	7	καὶ	καί	conjunction	1	and
 1CH 19:18	1	8	ἀπέκτεινε	ἀποκτείνω	aorist active indicative, 3rd sg.	1	killed
 1CH 19:18	1	9	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
@@ -510,26 +510,26 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:18	1	19	πεζῶν	πεζός	adjective/noun, genitive masc. pl., footmen	1	footmen
 1CH 19:18	1	20	καὶ	καί	conjunction	1	and
 1CH 19:18	1	21	τὸν	ὁ	article, accusative masculine singular	1	the
-1CH 19:18	1	22	Σωφὰχ	Σωφάχ	indeclinable personal name, accusative in context	1	Sophach
-1CH 19:18	1	22	Σωφὰχ			2	Shophach
+1CH 19:18	1	22	Σωφὰχ	Σωφάχ	indeclinable personal name, accusative in context	1	Shophach
+1CH 19:18	1	22	Σωφὰχ			2	Sophach
 1CH 19:18	1	23	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 19:18	1	24	ἀρχιστράτηγον	ἀρχιστράτηγος	noun, accusative masculine singular	1	commander-in-chief
-1CH 19:18	1	25	δυνάμεως	δύναμις	noun, genitive feminine singular	1	army
+1CH 19:18	1	25	δυνάμεως	δύναμις	noun, genitive feminine singular	1	of the army
 1CH 19:18	1	25	δυνάμεως			2	force
 1CH 19:18	1	26	ἀπέκτεινε	ἀποκτείνω	aorist active indicative, 3rd sg.	1	killed
 1CH 19:19	1	1	Καὶ	καί	conjunction	1	and
 1CH 19:19	1	2	εἶδον	ὁράω	aorist active indicative, third plural	1	they saw
 1CH 19:19	1	3	παῖδες	παῖς	noun, nominative masculine plural	1	servants
-1CH 19:19	1	4	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, nominative in context	1	Adraazar
+1CH 19:19	1	4	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, nominative in context	1	of Hadarezer
 1CH 19:19	1	5	ὅτι	ὅτι	causal conjunction	1	that
 1CH 19:19	1	6	ἐπταίκασιν	πταίω	perfect active indicative, third plural	1	they have been defeated
 1CH 19:19	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
 1CH 19:19	1	8	προσώπου	πρόσωπον	noun, genitive neuter singular after ἀπό, in the phrase 'from the face of'	1	the face
-1CH 19:19	1	9	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	Israel
+1CH 19:19	1	9	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
 1CH 19:19	1	10	καὶ	καί	conjunction	1	and
 1CH 19:19	1	11	διέθεντο	διατίθημι	aorist middle indicative, third plural	1	made
-1CH 19:19	1	12	μετὰ	μετά	preposition governing the genitive	1	to
-1CH 19:19	1	12	μετὰ			2	with
+1CH 19:19	1	12	μετὰ	μετά	preposition governing the genitive	1	with
+1CH 19:19	1	12	μετὰ			2	to
 1CH 19:19	1	13	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 1CH 19:19	1	14	καὶ	καί	conjunction	1	and
 1CH 19:19	1	15	ἐδούλευσαν	δουλεύω	aorist active indicative, third plural	1	served
@@ -538,9 +538,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:19	1	18	οὐκ	οὐ	negative particle	1	not
 1CH 19:19	1	19	ἠθέλησε	θέλω	aorist active indicative, third singular	1	was willing
 1CH 19:19	1	20	Σύρος	Σύρος	noun, nominative masculine singular; collective	1	the Syrian force
-1CH 19:19	1	21	τοῦ	ὁ	article, genitive singular	1	the
+1CH 19:19	1	21	τοῦ	ὁ	article, genitive singular	1	—
 1CH 19:19	1	22	βοηθῆσαι	βοηθέω	aorist active infinitive	1	to help
 1CH 19:19	1	23	τοῖς	ὁ	article, dative neuter plural	1	the
 1CH 19:19	1	24	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 1CH 19:19	1	25	Ἀμμὼν	Ἀμμών	indeclinable personal name, genitive in context	1	of Ammon
-1CH 19:19	1	26	ἔτι	ἔτι	temporal adverb	1	still
+1CH 19:19	1	26	ἔτι	ἔτι	temporal adverb	1	any longer

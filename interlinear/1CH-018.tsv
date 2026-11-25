@@ -33,7 +33,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:2	1	7	Μωαβῖται	Μωαβίτης	ethnic noun, nominative masculine plural	1	Moabites
 1CH 18:2	1	8	παῖδες	παῖς	noun, nominative masculine plural predicate	1	servants
 1CH 18:2	1	8	παῖδες			2	slaves
-1CH 18:2	1	9	τῷ	ὁ	article, dative masculine singular	1	the
+1CH 18:2	1	9	τῷ	ὁ	article, dative masculine singular	1	—
 1CH 18:2	1	10	Δαυὶδ	Δαυίδ	indeclinable personal name, dative in context	1	to David
 1CH 18:2	1	11	φέροντες	φέρω	present active participle, nominative masculine plural	1	carrying
 1CH 18:2	1	12	δῶρα	δῶρον	noun, accusative neuter plural	1	gifts
@@ -92,9 +92,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:5	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 1CH 18:5	1	5	Δαμασκοῦ	Δαμασκός	place name, genitive feminine singular	1	Damascus
 1CH 18:5	1	6	βοηθῆσαι	βοηθέω	aorist active infinitive	1	to help
-1CH 18:5	1	7	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, nominative in context	1	Adraazar
+1CH 18:5	1	7	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, nominative in context	1	Hadarezer
 1CH 18:5	1	8	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
-1CH 18:5	1	9	Σουβὰ	Σουβά	indeclinable place name, nominative in context	1	Zobah
+1CH 18:5	1	9	Σουβὰ	Σουβά	indeclinable place name, nominative in context	1	of Zobah
 1CH 18:5	1	10	καὶ	καί	conjunction	1	and
 1CH 18:5	1	11	ἐπάταξε	πατάσσω	aorist active indicative, third singular	1	struck
 1CH 18:5	1	12	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
@@ -119,7 +119,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:6	1	9	Δαμασκὸν	Δαμασκός	noun, accusative feminine singular	1	Damascus
 1CH 18:6	1	10	καὶ	καί	conjunction	1	and
 1CH 18:6	1	11	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
-1CH 18:6	1	12	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+1CH 18:6	1	12	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 1CH 18:6	1	13	Δαυὶδ	Δαυίδ	indeclinable personal name, dative in context	1	David
 1CH 18:6	1	14	εἰς	εἰς	preposition marking role or result	1	as
 1CH 18:6	1	15	παῖδας	παῖς	noun, accusative masculine plural after εἰς predicate 'as slaves'	1	slaves
@@ -131,9 +131,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:6	1	21	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 18:6	1	22	Δαυὶδ	Δαυίδ	indeclinable personal name, accusative in context	1	David
 1CH 18:6	1	23	ἐν	ἐν	preposition with the dative	1	in
-1CH 18:6	1	24	πᾶσιν	πᾶς	adjective, dative neuter plural	1	everything
+1CH 18:6	1	24	πᾶσιν	πᾶς	adjective, dative neuter plural	1	every place
 1CH 18:6	1	25	οἷς	ὅς	relative pronoun, dative neuter plural after ἐν	1	in which
-1CH 18:6	1	26	ἐπορεύετο	πορεύομαι	imperfect middle indicative, third singular	1	kept moving
+1CH 18:6	1	26	ἐπορεύετο	πορεύομαι	imperfect middle indicative, third singular	1	he went
 1CH 18:6	1	26	ἐπορεύετο			2	was surging
 1CH 18:7	1	1	Καὶ	καί	conjunction	1	and
 1CH 18:7	1	2	ἔλαβε	λαμβάνω	aorist active indicative, third singular	1	took
@@ -147,7 +147,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:7	1	10	ἐπὶ	ἐπί	preposition governing the genitive	1	on
 1CH 18:7	1	11	τοὺς	ὁ	article, accusative masculine plural	1	the
 1CH 18:7	1	12	παῖδας	παῖς	noun, accusative masculine plural	1	servants
-1CH 18:7	1	13	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, nominative in context	1	Adraazar
+1CH 18:7	1	13	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, nominative in context	1	of Hadarezer
 1CH 18:7	1	14	καὶ	καί	conjunction	1	and
 1CH 18:7	1	15	ἤνεγκεν	φέρω	aorist active indicative, third singular	1	brought
 1CH 18:7	1	16	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -156,8 +156,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:8	1	1	Καὶ	καί	conjunction	1	and
 1CH 18:8	1	2	ἐκ	ἐκ	preposition with the genitive	1	from
 1CH 18:8	1	3	τῆς	ὁ	article, genitive feminine singular	1	the
-1CH 18:8	1	4	Ματεβὲθ	Ματεβέθ	indeclinable personal name, genitive in context	1	Matebeth
-1CH 18:8	1	4	Ματεβὲθ			2	Tibhath
+1CH 18:8	1	4	Ματεβὲθ	Ματεβέθ	indeclinable personal name, genitive in context	1	Tibhath
+1CH 18:8	1	4	Ματεβὲθ			2	Matebeth
 1CH 18:8	1	5	καὶ	καί	conjunction	1	and
 1CH 18:8	1	6	ἐκ	ἐκ	preposition with the genitive	1	from
 1CH 18:8	1	7	τῶν	ὁ	article, genitive plural	1	the
@@ -165,7 +165,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:8	1	8	ἐκλεκτῶν			2	selected
 1CH 18:8	1	9	πόλεων	πόλις	noun, genitive feminine plural	1	cities
 1CH 18:8	1	10	τῶν	ὁ	article, genitive masculine plural	1	the
-1CH 18:8	1	11	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, genitive in context	1	of Adraazar
+1CH 18:8	1	11	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, genitive in context	1	of Hadarezer
 1CH 18:8	1	11	Ἀδρααζὰρ			2	of Hadadezer
 1CH 18:8	1	12	ἔλαβε	λαμβάνω	aorist active indicative, third singular	1	took
 1CH 18:8	1	13	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
@@ -173,7 +173,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:8	1	15	πολὺν	πολύς	adjective, accusative masculine singular	1	much
 1CH 18:8	1	16	σφόδρα	σφόδρα	adverb	1	exceedingly
 1CH 18:8	1	17	ἐξ	ἐκ	preposition with genitive	1	from
-1CH 18:8	1	18	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	him
+1CH 18:8	1	18	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	it
 1CH 18:8	1	19	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
 1CH 18:8	1	20	Σαλωμὼν	Σαλωμών	indeclinable personal name, nominative in context	1	Solomon
 1CH 18:8	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -191,25 +191,25 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:8	1	32	χαλκᾶ	χαλκοῦς	adjective, accusative neuter plural	1	of bronze
 1CH 18:9	1	1	Καὶ	καί	conjunction	1	and
 1CH 18:9	1	2	ἤκουσε	ἀκούω	aorist active indicative, third singular	1	heard
-1CH 18:9	1	3	Θοοὺ	Θοού	indeclinable personal name, nominative in context	1	Thou
-1CH 18:9	1	3	Θοοὺ			2	Tou
+1CH 18:9	1	3	Θοοὺ	Θοού	indeclinable personal name, nominative in context	1	Tou
+1CH 18:9	1	3	Θοοὺ			2	Thou
 1CH 18:9	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
-1CH 18:9	1	5	Ἡμὰθ	Ἡμάθ	indeclinable place name, nominative in context	1	Hemath
+1CH 18:9	1	5	Ἡμὰθ	Ἡμάθ	indeclinable place name, nominative in context	1	of Hamath
 1CH 18:9	1	6	ὅτι	ὅτι	conjunction, that/because from context	1	that
 1CH 18:9	1	7	ἐπάταξε	πατάσσω	aorist active indicative, third singular	1	struck
 1CH 18:9	1	8	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 1CH 18:9	1	9	τὴν	ὁ	article, accusative masculine singular, marks the name	1	—
 1CH 18:9	1	10	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 1CH 18:9	1	11	δύναμιν	δύναμις	noun, accusative fem. sg. after τὴν, host/army in this phrase	1	host
-1CH 18:9	1	12	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, nominative in context	1	of Adraazar
+1CH 18:9	1	12	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, nominative in context	1	of Hadarezer
 1CH 18:9	1	12	Ἀδρααζὰρ			2	of Hadadezer
 1CH 18:9	1	13	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 1CH 18:9	1	14	Σουβά	Σουβά	indeclinable place name, genitive in context	1	of Zobah
 1CH 18:10	1	1	καὶ	καί	conjunction	1	and
 1CH 18:10	1	2	ἀπέστειλε	ἀποστέλλω	aorist active indicative, third singular	1	sent out
 1CH 18:10	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
-1CH 18:10	1	4	Ἀδουρὰμ	Ἀδουράμ	indeclinable personal name, accusative in context	1	Adouram
-1CH 18:10	1	4	Ἀδουρὰμ			2	Hadoram
+1CH 18:10	1	4	Ἀδουρὰμ	Ἀδουράμ	indeclinable personal name, accusative in context	1	Hadoram
+1CH 18:10	1	4	Ἀδουρὰμ			2	Adouram
 1CH 18:10	1	5	υἱὸν	υἱός	noun, accusative masculine singular	1	son
 1CH 18:10	1	6	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 1CH 18:10	1	7	πρὸς	πρός	preposition with the accusative	1	to
@@ -230,7 +230,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:10	1	22	οὗ	ὅς	relative pronoun, genitive neuter singular	1	what
 1CH 18:10	1	23	ἐπολέμησε	πολεμέω	aorist active indicative, third singular	1	fought
 1CH 18:10	1	24	τὸν	ὁ	article, accusative masculine singular	1	the
-1CH 18:10	1	25	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, accusative in context	1	Adraazar
+1CH 18:10	1	25	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, accusative in context	1	Hadarezer
 1CH 18:10	1	26	καὶ	καί	conjunction	1	and
 1CH 18:10	1	27	ἐπάταξεν	πατάσσω	aorist active indicative, third singular	1	struck
 1CH 18:10	1	27	ἐπάταξεν			2	struck down
@@ -238,11 +238,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:10	1	29	ὅτι	ὅτι	causal conjunction	1	because
 1CH 18:10	1	30	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	a man
 1CH 18:10	1	31	πολέμιος	πολέμιος	adjective, nominative masculine singular	1	enemy
-1CH 18:10	1	32	Θοοὺ	Θοού	indeclinable personal name, nominative in context	1	Thou
-1CH 18:10	1	32	Θοοὺ			2	Tou
+1CH 18:10	1	32	Θοοὺ	Θοού	indeclinable personal name, nominative in context	1	Tou
+1CH 18:10	1	32	Θοοὺ			2	Thou
 1CH 18:10	1	33	ἦν	εἰμί	imperfect indicative, third singular	1	was
-1CH 18:10	1	34	τῷ	ὁ	article, dative masculine singular	1	the
-1CH 18:10	1	35	Ἀδρααζάρ	Ἀδρααζάρ	indeclinable personal name, dative in context	1	Adraazar
+1CH 18:10	1	34	τῷ	ὁ	article, dative masculine singular	1	to
+1CH 18:10	1	35	Ἀδρααζάρ	Ἀδρααζάρ	indeclinable personal name, dative in context	1	Hadarezer
 1CH 18:10	1	35	Ἀδρααζάρ			2	Hadadezer
 1CH 18:10	1	36	καὶ	καί	conjunction	1	and
 1CH 18:10	1	37	πάντα	πᾶς	adjective, accusative neuter plural	1	all
@@ -268,15 +268,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:11	1	14	καὶ	καί	conjunction	1	and
 1CH 18:11	1	15	τοῦ	ὁ	article, genitive singular	1	the
 1CH 18:11	1	16	χρυσίου	χρυσίον	noun, genitive neuter singular	1	gold
-1CH 18:11	1	17	οὗ	οὗ	relative adverb of place	1	where
+1CH 18:11	1	17	οὗ	οὗ	relative adverb of place	1	which
 1CH 18:11	1	18	ἔλαβεν	λαμβάνω	aorist active indicative, third singular	1	he took
 1CH 18:11	1	19	ἐκ	ἐκ	preposition with the genitive	1	from
 1CH 18:11	1	20	πάντων	πᾶς	substantival adjective, genitive masculine plural	1	all
 1CH 18:11	1	21	τῶν	ὁ	article, genitive plural	1	the
 1CH 18:11	1	22	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 1CH 18:11	1	23	ἐξ	ἐκ	preposition with the genitive	1	from
-1CH 18:11	1	24	Ἰδουμαίας	Ἰδουμαία	noun, genitive feminine singular; place name	1	Idumea
-1CH 18:11	1	24	Ἰδουμαίας			2	Edom
+1CH 18:11	1	24	Ἰδουμαίας	Ἰδουμαία	noun, genitive feminine singular; place name	1	Edom
+1CH 18:11	1	24	Ἰδουμαίας			2	Idumea
 1CH 18:11	1	25	καὶ	καί	conjunction	1	and
 1CH 18:11	1	26	Μωὰβ	Μωάβ	indeclinable place name, nominative in context	1	Moab
 1CH 18:11	1	27	καὶ	καί	conjunction	1	and
@@ -292,15 +292,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:11	1	36	ἐξ	ἐκ	preposition with the genitive	1	from
 1CH 18:11	1	37	Ἀμαλήκ	Ἀμαλήκ	tribal/personal name, accusative in context (object) from syntax	1	Amalek
 1CH 18:12	1	1	Καὶ	καί	conjunction	1	and
-1CH 18:12	1	2	Ἀβισὰ	Ἀβισά	indeclinable personal name, nominative in context	1	Abisa
-1CH 18:12	1	2	Ἀβισὰ			2	Abishai
+1CH 18:12	1	2	Ἀβισὰ	Ἀβισά	indeclinable personal name, nominative in context	1	Abishai
+1CH 18:12	1	2	Ἀβισὰ			2	Abisa
 1CH 18:12	1	3	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-1CH 18:12	1	4	Σαρουίας	Σαρουία	noun, genitive feminine singular	1	of Sarouia
-1CH 18:12	1	4	Σαρουίας			2	of Zeruiah
+1CH 18:12	1	4	Σαρουίας	Σαρουία	noun, genitive feminine singular	1	of Zeruiah
+1CH 18:12	1	4	Σαρουίας			2	of Sarouia
 1CH 18:12	1	5	ἐπάταξε	πατάσσω	aorist active indicative, third singular	1	struck
 1CH 18:12	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
-1CH 18:12	1	7	Ἰδουμαίαν	Ἰδουμαία	noun, accusative feminine singular; place name	1	Idumea
-1CH 18:12	1	7	Ἰδουμαίαν			2	Edom
+1CH 18:12	1	7	Ἰδουμαίαν	Ἰδουμαία	noun, accusative feminine singular; place name	1	Edom
+1CH 18:12	1	7	Ἰδουμαίαν			2	Idumea
 1CH 18:12	1	8	ἐν	ἐν	preposition with the dative	1	in
 1CH 18:12	1	9	κοιλάδι	κοιλάς	noun, dative feminine singular	1	valley
 1CH 18:12	1	10	τῶν	ὁ	article genitive masculine plural	1	of the
@@ -321,16 +321,16 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:13	1	11	Ἰδουμαῖοι	Ἰδουμαῖος	noun, nominative masculine plural	1	Edomites
 1CH 18:13	1	12	παῖδες	παῖς	noun, nominative masculine plural	1	male servants
 1CH 18:13	1	12	παῖδες			2	servants
-1CH 18:13	1	13	Δαυίδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
+1CH 18:13	1	13	Δαυίδ	Δαυίδ	indeclinable personal name, nominative in context	1	of David
 1CH 18:13	1	14	Καὶ	καί	conjunction	1	and
 1CH 18:13	1	15	ἔσωζε	σῴζω	imperfect active indicative, third singular	1	was saving
 1CH 18:13	1	16	Κύριος	κύριος	noun, nominative masculine singular, the Lord	1	the Lord
 1CH 18:13	1	17	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 18:13	1	18	Δαυὶδ	Δαυίδ	indeclinable personal name, accusative in context	1	David
 1CH 18:13	1	19	ἐν	ἐν	preposition with the dative	1	in
-1CH 18:13	1	20	πᾶσιν	πᾶς	adjective, dative neuter plural	1	everything
+1CH 18:13	1	20	πᾶσιν	πᾶς	adjective, dative neuter plural	1	every place
 1CH 18:13	1	21	οἷς	ὅς	relative pronoun, dative neuter plural after ἐν	1	in which
-1CH 18:13	1	22	ἐπορεύετο	πορεύομαι	imperfect middle indicative, third singular	1	kept moving
+1CH 18:13	1	22	ἐπορεύετο	πορεύομαι	imperfect middle indicative, third singular	1	he went
 1CH 18:13	1	22	ἐπορεύετο			2	was surging
 1CH 18:14	1	1	Καὶ	καί	conjunction	1	and
 1CH 18:14	1	2	ἐβασίλευσε	βασιλεύω	aorist active indicative, third singular	1	he reigned
@@ -347,15 +347,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:14	1	11	καὶ	καί	conjunction	1	and
 1CH 18:14	1	12	δικαιοσύνην	δικαιοσύνη	noun, accusative feminine singular	1	righteousness
 1CH 18:14	1	12	δικαιοσύνην			2	justice
-1CH 18:14	1	13	τῷ	ὁ	article, dative masculine singular	1	the
+1CH 18:14	1	13	τῷ	ὁ	article, dative masculine singular	1	for
 1CH 18:14	1	14	παντὶ	πᾶς	adjective, dative masculine singular	1	all
 1CH 18:14	1	15	λαῷ	λαός	noun, dative masculine singular	1	people
 1CH 18:14	1	16	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 1CH 18:15	1	1	Καὶ	καί	conjunction	1	and
 1CH 18:15	1	2	Ἰωὰβ	Ἰωάβ	indeclinable personal name, nominative in context	1	Joab
 1CH 18:15	1	3	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-1CH 18:15	1	4	Σαρουίας	Σαρουία	noun, genitive feminine singular	1	of Sarouia
-1CH 18:15	1	4	Σαρουίας			2	of Zeruiah
+1CH 18:15	1	4	Σαρουίας	Σαρουία	noun, genitive feminine singular	1	of Zeruiah
+1CH 18:15	1	4	Σαρουίας			2	of Sarouia
 1CH 18:15	1	5	ἐπὶ	ἐπί	preposition governing the genitive	1	in charge of
 1CH 18:15	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
 1CH 18:15	1	7	στρατιᾶς	στρατιά	noun, genitive feminine singular	1	army
@@ -385,14 +385,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:17	1	2	Βαναίας	Βαναίας	noun, nominative masculine singular	1	Benaiah
 1CH 18:17	1	3	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 1CH 18:17	1	4	Ἰωδαὲ	Ἰωδαέ	indeclinable personal name, genitive in context	1	of Jehoiada
-1CH 18:17	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	on
+1CH 18:17	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	over
 1CH 18:17	1	6	τοῦ	ὁ	article, genitive singular	1	the
-1CH 18:17	1	7	Χερηθὶ	Χερηθί	indeclinable personal name, genitive in context	1	Cherethi
-1CH 18:17	1	7	Χερηθὶ			2	Cherethites
+1CH 18:17	1	7	Χερηθὶ	Χερηθί	indeclinable personal name, genitive in context	1	Cherethites
+1CH 18:17	1	7	Χερηθὶ			2	Cherethi
 1CH 18:17	1	8	καὶ	καί	conjunction	1	and
 1CH 18:17	1	9	τοῦ	ὁ	article, genitive singular	1	the
-1CH 18:17	1	10	Φαλλεθθί	Φαλλεθθί	indeclinable personal name, genitive in context	1	Phalleththi
-1CH 18:17	1	10	Φαλλεθθί			2	Pelethites
+1CH 18:17	1	10	Φαλλεθθί	Φαλλεθθί	indeclinable personal name, genitive in context	1	Pelethites
+1CH 18:17	1	10	Φαλλεθθί			2	Phalleththi
 1CH 18:17	1	11	καὶ	καί	conjunction	1	and
 1CH 18:17	1	12	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
 1CH 18:17	1	13	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
@@ -400,5 +400,5 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:17	1	15	πρῶτοι	πρῶτος	ordinal adjective, nominative masculine plural	1	first
 1CH 18:17	1	15	πρῶτοι			2	earliest
 1CH 18:17	1	16	διάδοχοι	διάδοχος	adjective, nominative masculine plural	1	deputies
-1CH 18:17	1	17	τοῦ	ὁ	article, genitive singular	1	the
+1CH 18:17	1	17	τοῦ	ὁ	article, genitive singular	1	of the
 1CH 18:17	1	18	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king

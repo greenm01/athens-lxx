@@ -25,7 +25,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:1	1	24	ἀνομίαις	ἀνομία	noun, dative feminine plural	1	lawless deeds
 1CH 9:1	1	25	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 1CH 9:2	1	1	καὶ	καί	conjunction	1	and
-1CH 9:2	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
+1CH 9:2	1	2	οἱ	ὁ	article, nominative masculine plural	1	—
 1CH 9:2	1	3	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	those living
 1CH 9:2	1	3	κατοικοῦντες			2	those dwelling
 1CH 9:2	1	4	πρότερον	πρότερος	adverb, formerly	1	formerly
@@ -38,13 +38,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:2	1	10	ταῖς	ὁ	article, dative feminine plural	1	the
 1CH 9:2	1	11	πόλεσιν	πόλις	noun, dative feminine plural	1	cities
 1CH 9:2	1	11	πόλεσιν			2	towns
-1CH 9:2	1	12	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	Israel
+1CH 9:2	1	12	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
 1CH 9:2	1	13	οἱ	ὁ	article, nominative masculine plural	1	the
 1CH 9:2	1	14	ἱερεῖς	ἱερεύς	noun, nominative masculine plural	1	priests
 1CH 9:2	1	15	οἱ	ὁ	article, nominative masculine plural	1	the
 1CH 9:2	1	16	Λευῖται	Λευίτης	proper noun, nominative masculine plural	1	Levites
 1CH 9:2	1	17	καὶ	καί	conjunction	1	and
-1CH 9:2	1	18	οἱ	ὁ	article, nominative masculine plural	1	the
+1CH 9:2	1	18	οἱ	ὁ	article, nominative masculine plural	1	—
 1CH 9:2	1	19	δεδομένοι	δίδωμι	perfect passive participle, nominative masculine plural	1	those assigned
 1CH 9:3	1	1	Καὶ	καί	conjunction	1	and
 1CH 9:3	1	2	ἐν	ἐν	preposition with the dative	1	in
@@ -94,7 +94,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:6	1	1	Ἐκ	ἐκ	preposition with the genitive	1	from
 1CH 9:6	1	2	τῶν	ὁ	article, genitive plural	1	the
 1CH 9:6	1	3	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-1CH 9:6	1	4	Ζαρὰ	Ζαρά	indeclinable personal name, genitive in context	1	of Zara
+1CH 9:6	1	4	Ζαρὰ	Ζαρά	indeclinable personal name, genitive in context	1	of Zerah
 1CH 9:6	1	5	Ἰεὴλ	Ἰεήλ	indeclinable personal name, nominative in context	1	Jeuel
 1CH 9:6	1	6	καὶ	καί	conjunction	1	and
 1CH 9:6	1	7	ἀδελφοὶ	ἀδελφός	noun, nominative masculine plural	1	brothers
@@ -147,7 +147,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:9	1	11	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
 1CH 9:9	1	12	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
 1CH 9:9	1	12	ἄρχοντες			2	officials
-1CH 9:9	1	13	πατριῶν	πατριά	noun, genitive feminine plural	1	ancestral houses
+1CH 9:9	1	13	πατριῶν	πατριά	noun, genitive feminine plural	1	of families
 1CH 9:9	1	14	κατ᾽	κατά	preposition with the genitive, elided, against	1	by
 1CH 9:9	1	15	οἴκους	οἶκος	noun, accusative masculine plural after τοὺς/eἰς τοὺς	1	houses
 1CH 9:9	1	16	πατριῶν	πατριά	noun, genitive feminine plural	1	ancestral houses
@@ -159,7 +159,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:10	1	5	Ἰωδαὲ	Ἰωδαέ	indeclinable personal name, nominative in context	1	Jedaiah
 1CH 9:10	1	5	Ἰωδαὲ			2	Iodae
 1CH 9:10	1	6	καὶ	καί	conjunction	1	and
-1CH 9:10	1	7	Ἰωαρεὶβ	Ἰωαρείβ	indeclinable personal name, nominative in context	1	Ioareib
+1CH 9:10	1	7	Ἰωαρεὶβ	Ἰωαρείβ	indeclinable personal name, nominative in context	1	Jehoiarib
 1CH 9:10	1	8	καὶ	καί	conjunction	1	and
 1CH 9:10	1	9	Ἰαχεὶν	Ἰαχείν	indeclinable personal name, nominative in context	1	Jachin
 1CH 9:11	1	1	καὶ	καί	conjunction	1	and
@@ -171,7 +171,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:11	1	7	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 1CH 9:11	1	8	Σαδὼκ	Σαδώκ	indeclinable personal name, genitive in context	1	of Zadok
 1CH 9:11	1	9	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-1CH 9:11	1	10	Μαριὼθ	Μαριώθ	indeclinable personal name, genitive in context	1	of Marioth
+1CH 9:11	1	10	Μαριὼθ	Μαριώθ	indeclinable personal name, genitive in context	1	of Meraioth
 1CH 9:11	1	11	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 1CH 9:11	1	12	Ἀχιτὼβ	Ἀχιτώβ	indeclinable personal name, genitive in context	1	of Ahitub
 1CH 9:11	1	13	ἡγούμενος	ἡγέομαι	present middle participle, nominative masculine singular, substantival	1	a leader
@@ -223,9 +223,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:14	1	2	ἐκ	ἐκ	preposition with the genitive	1	from
 1CH 9:14	1	3	τῶν	ὁ	article, genitive plural	1	the
 1CH 9:14	1	4	Λευιτῶν	Λευίτης	noun, genitive masculine plural	1	Levites
-1CH 9:14	1	5	Σαμαΐα	Σαμαΐα	indeclinable personal name, nominative in context	1	Samaia
+1CH 9:14	1	5	Σαμαΐα	Σαμαΐα	indeclinable personal name, nominative in context	1	Shemaiah
 1CH 9:14	1	6	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-1CH 9:14	1	7	Ἀσὼβ	Ἀσώβ	indeclinable personal name, genitive in context	1	of Asob
+1CH 9:14	1	7	Ἀσὼβ	Ἀσώβ	indeclinable personal name, genitive in context	1	of Hasshub
 1CH 9:14	1	8	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 1CH 9:14	1	9	Ἐζρικὰμ	Ἐζρικάμ	indeclinable personal name, genitive in context	1	of Azrikam
 1CH 9:14	1	10	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
@@ -239,14 +239,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:15	1	3	καὶ	καί	conjunction	1	and
 1CH 9:15	1	4	Ἀρὲς	Ἀρές	indeclinable place name, nominative in context	1	Heres
 1CH 9:15	1	5	καὶ	καί	conjunction	1	and
-1CH 9:15	1	6	Γωλὴλ	Γωλήλ	indeclinable personal name, nominative in context	1	Golel
+1CH 9:15	1	6	Γωλὴλ	Γωλήλ	indeclinable personal name, nominative in context	1	Galal
 1CH 9:15	1	7	καὶ	καί	conjunction	1	and
 1CH 9:15	1	8	Ματθανίας	Ματθανίας	personal name, nominative masculine singular	1	Mattaniah
 1CH 9:15	1	8	Ματθανίας			2	Matthanias
 1CH 9:15	1	9	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-1CH 9:15	1	10	Μιχὰ	Μιχά	indeclinable personal name, genitive in context	1	of Micha
+1CH 9:15	1	10	Μιχὰ	Μιχά	indeclinable personal name, genitive in context	1	of Micah
 1CH 9:15	1	11	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-1CH 9:15	1	12	Ζεχρὶ	Ζεχρί	indeclinable personal name, genitive in context	1	of Zechri
+1CH 9:15	1	12	Ζεχρὶ	Ζεχρί	indeclinable personal name, genitive in context	1	of Zichri
 1CH 9:15	1	13	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 1CH 9:15	1	14	Ἀσάφ	Ἀσάφ	indeclinable personal name, genitive in context	1	of Asaph
 1CH 9:16	1	1	καὶ	καί	conjunction	1	and
@@ -355,18 +355,18 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:20	1	6	ἦν	εἰμί	imperfect indicative, 3rd sg.	1	was
 1CH 9:20	1	7	ἐπ᾽	ἐπί	preposition with the accusative, elided	1	over
 1CH 9:20	1	8	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
-1CH 9:20	1	9	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	1	ahead
+1CH 9:20	1	9	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	1	before
 1CH 9:20	1	10	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 1CH 9:20	1	11	καὶ	καί	conjunction	1	and
 1CH 9:20	1	12	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 1CH 9:20	1	13	μετ᾽	μετά	elided preposition with the genitive	1	with
 1CH 9:20	1	14	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	him
-1CH 9:21	1	1	Ζαχαρίας	Ζαχαρίας	personal name, nominative masculine singular	1	Zachariah
-1CH 9:21	1	1	Ζαχαρίας			2	Zechariah
+1CH 9:21	1	1	Ζαχαρίας	Ζαχαρίας	personal name, nominative masculine singular	1	Zechariah
+1CH 9:21	1	1	Ζαχαρίας			2	Zachariah
 1CH 9:21	1	2	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 1CH 9:21	1	3	Μοσολλὰμ	Μοσολλάμ	indeclinable personal name, genitive in context	1	of Meshullam
 1CH 9:21	1	4	πυλωρὸς	πυλωρός	noun, nominative masculine singular	1	gatekeeper
-1CH 9:21	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
+1CH 9:21	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 1CH 9:21	1	6	θύρας	θύρα	noun, genitive feminine singular	1	door
 1CH 9:21	1	7	τῆς	ὁ	article, genitive feminine singular	1	of the
 1CH 9:21	1	8	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
@@ -406,7 +406,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:23	1	3	καὶ	καί	conjunction	1	and
 1CH 9:23	1	4	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 1CH 9:23	1	5	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-1CH 9:23	1	6	ἐπὶ	ἐπί	preposition	1	on
+1CH 9:23	1	6	ἐπὶ	ἐπί	preposition	1	over
 1CH 9:23	1	7	τῶν	ὁ	definite article, genitive plural	1	the
 1CH 9:23	1	8	πυλῶν	πύλη	noun, genitive feminine plural	1	gates
 1CH 9:23	1	9	ἐν	ἐν	preposition with dative	1	in
@@ -414,9 +414,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:23	1	11	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 1CH 9:23	1	12	ἐν	ἐν	preposition with the dative	1	in
 1CH 9:23	1	13	οἴκῳ	οἶκος	noun, dative masculine singular	1	the house
-1CH 9:23	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+1CH 9:23	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 1CH 9:23	1	15	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
-1CH 9:23	1	16	τοῦ	ὁ	article, genitive singular	1	the
+1CH 9:23	1	16	τοῦ	ὁ	article, genitive singular	1	—
 1CH 9:23	1	17	φυλάσσειν	φυλάσσω	present active infinitive	1	to guard
 1CH 9:24	1	1	Κατὰ	κατά	preposition with the accusative	1	according to
 1CH 9:24	1	2	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -435,7 +435,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:25	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 1CH 9:25	1	4	ἐν	ἐν	preposition with the dative	1	in
 1CH 9:25	1	5	ταῖς	ὁ	article, dative feminine plural	1	the
-1CH 9:25	1	6	αὐλαῖς	αὐλή	noun, dative feminine plural	1	his courtyards
+1CH 9:25	1	6	αὐλαῖς	αὐλή	noun, dative feminine plural	1	courtyards
 1CH 9:25	1	7	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 1CH 9:25	1	8	τοῦ	ὁ	article, genitive singular, marks purpose	1	—
 1CH 9:25	1	9	εἰσπορεύεσθαι	εἰσπορεύομαι	present middle infinitive	1	to go in
@@ -460,7 +460,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:26	1	1	Οἱ	ὁ	article, nominative masculine plural	1	the
 1CH 9:26	1	2	Λευῖται	Λευίτης	proper noun, nominative masculine plural	1	Levites
 1CH 9:26	1	3	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
-1CH 9:26	1	4	ἐπὶ	ἐπί	preposition governing the genitive	1	on
+1CH 9:26	1	4	ἐπὶ	ἐπί	preposition governing the genitive	1	over
 1CH 9:26	1	5	τῶν	ὁ	article, genitive masculine plural	1	the
 1CH 9:26	1	6	παστοφορίων	παστοφόριον	noun, genitive neuter plural	1	chambers
 1CH 9:26	1	7	καὶ	καί	conjunction	1	and
@@ -472,15 +472,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:26	1	13	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 1CH 9:26	1	14	παρεμβαλοῦσιν	παρεμβάλλω	future active indicative, third plural	1	they will encamp
 1CH 9:27	1	1	ὅτι	ὅτι	causal conjunction	1	because
-1CH 9:27	1	2	ἐπ᾽	ἐπί	elided preposition with the accusative	1	against
-1CH 9:27	1	2	ἐπ᾽			2	upon
+1CH 9:27	1	2	ἐπ᾽	ἐπί	elided preposition with the accusative	1	upon
+1CH 9:27	1	2	ἐπ᾽			2	against
 1CH 9:27	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 1CH 9:27	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
 1CH 9:27	1	5	φυλακή	φυλακή	noun, nominative feminine singular	1	charge
 1CH 9:27	1	5	φυλακή			2	guard duty
 1CH 9:27	1	6	καὶ	καί	conjunction	1	and
 1CH 9:27	1	7	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
-1CH 9:27	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	on
+1CH 9:27	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	over
 1CH 9:27	1	9	τῶν	ὁ	article, genitive masculine plural	1	the
 1CH 9:27	1	10	κλειδῶν	κλείς	noun, genitive feminine plural	1	keys
 1CH 9:27	1	11	τοπρωὶ	τὸ πρωΐ	joined articular phrase used adverbially	1	early
@@ -488,16 +488,16 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:27	1	13	ἀνοίγειν	ἀνοίγω	present active infinitive	1	to open
 1CH 9:27	1	14	τὰς	ὁ	article, accusative feminine plural	1	the
 1CH 9:27	1	15	θύρας	θύρα	noun, accusative feminine plural	1	entrances
-1CH 9:27	1	16	τοῦ	ὁ	article, genitive singular	1	the
+1CH 9:27	1	16	τοῦ	ὁ	article, genitive singular	1	of the
 1CH 9:27	1	17	ἱεροῦ	ἱερόν	noun, genitive neuter singular	1	sanctuary
 1CH 9:28	1	1	Καὶ	καί	conjunction	1	and
 1CH 9:28	1	2	ἐξ	ἐκ	preposition with the genitive	1	from
 1CH 9:28	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
-1CH 9:28	1	4	ἐπὶ	ἐπί	preposition with the accusative	1	upon
+1CH 9:28	1	4	ἐπὶ	ἐπί	preposition with the accusative	1	over
 1CH 9:28	1	5	τὰ	ὁ	article, accusative neuter plural	1	the
-1CH 9:28	1	6	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+1CH 9:28	1	6	σκεύη	σκεῦος	noun, accusative neuter plural	1	vessels
 1CH 9:28	1	6	σκεύη			2	goods
-1CH 9:28	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
+1CH 9:28	1	7	τῆς	ὁ	article, genitive feminine singular	1	of the
 1CH 9:28	1	8	λειτουργίας	λειτουργία	noun, genitive feminine singular	1	service
 1CH 9:28	1	9	ὅτι	ὅτι	causal conjunction	1	because
 1CH 9:28	1	10	ἐν	ἐν	preposition with the dative	1	in
@@ -517,14 +517,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:29	1	6	τὰ	ὁ	article, accusative neuter plural	1	the
 1CH 9:29	1	7	σκεύη	σκεῦος	noun, accusative neuter plural	1	vessels
 1CH 9:29	1	8	καὶ	καί	conjunction	1	and
-1CH 9:29	1	9	ἐπὶ	ἐπί	preposition with the accusative	1	upon
+1CH 9:29	1	9	ἐπὶ	ἐπί	preposition with the accusative	1	over
 1CH 9:29	1	10	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 1CH 9:29	1	11	τὰ	ὁ	article, accusative neuter plural	1	the
 1CH 9:29	1	12	σκεύη	σκεῦος	noun, accusative neuter plural	1	vessels
 1CH 9:29	1	13	τὰ	ὁ	article, accusative neuter plural; introduces attributive adjective, introduces the adjective	1	—
 1CH 9:29	1	14	ἅγια	ἅγιος	adjective, accusative neuter plural	1	holy
 1CH 9:29	1	15	καὶ	καί	conjunction	1	and
-1CH 9:29	1	16	ἐπὶ	ἐπί	preposition (case from context)	1	on
+1CH 9:29	1	16	ἐπὶ	ἐπί	preposition (case from context)	1	over
 1CH 9:29	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
 1CH 9:29	1	18	σεμιδάλεως	σεμίδαλις	noun, genitive feminine singular	1	fine flour
 1CH 9:29	1	19	τοῦ	ὁ	article, genitive singular	1	the
@@ -561,8 +561,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:31	1	8	πρωτότοκος	πρωτότοκος	substantival adjective, nominative masculine singular	1	firstborn
 1CH 9:31	1	9	τῷ	ὁ	article, dative masculine singular	1	of
 1CH 9:31	1	9	τῷ			2	for
-1CH 9:31	1	10	Σαλὼμ	Σαλώμ	indeclinable personal name, dative in context	1	Salom
-1CH 9:31	1	10	Σαλὼμ			2	Shallum
+1CH 9:31	1	10	Σαλὼμ	Σαλώμ	indeclinable personal name, dative in context	1	Shallum
+1CH 9:31	1	10	Σαλὼμ			2	Salom
 1CH 9:31	1	11	τῷ	ὁ	article, dative; introduces an attributive ordinal, introduces the ordinal	1	—
 1CH 9:31	1	12	Κορίτῃ	Κορίτης	noun, dative masculine singular	1	Korahite
 1CH 9:31	1	13	ἐν	ἐν	preposition with the dative	1	in
@@ -571,11 +571,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:31	1	16	ἐπὶ	ἐπί	preposition (case from context)	1	over
 1CH 9:31	1	17	τὰ	ὁ	article, accusative neuter plural	1	the
 1CH 9:31	1	18	ἔργα	ἔργον	noun, accusative neuter plural	1	works
-1CH 9:31	1	19	τῆς	ὁ	article, genitive feminine singular	1	the
+1CH 9:31	1	19	τῆς	ὁ	article, genitive feminine singular	1	of the
 1CH 9:31	1	20	θυσίας	θυσία	noun, genitive feminine singular	1	offering
 1CH 9:31	1	21	τοῦ	ὁ	article, genitive neuter singular	1	of the
 1CH 9:31	1	22	τηγάνου	τήγανον	noun, genitive neuter singular	1	griddle
-1CH 9:31	1	23	τοῦ	ὁ	article, genitive singular	1	the
+1CH 9:31	1	23	τοῦ	ὁ	article, genitive singular	1	of the
 1CH 9:31	1	24	μεγάλου	μέγας	adjective, genitive masculine singular	1	great
 1CH 9:31	1	25	ἱερέως	ἱερεύς	noun, genitive masculine singular	1	priest
 1CH 9:32	1	1	Καὶ	καί	conjunction	1	and
@@ -586,15 +586,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:32	1	6	τῶν	ὁ	article, genitive plural	1	the
 1CH 9:32	1	7	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 1CH 9:32	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-1CH 9:32	1	9	ἐπὶ	ἐπί	preposition	1	on
+1CH 9:32	1	9	ἐπὶ	ἐπί	preposition	1	over
 1CH 9:32	1	10	τῶν	ὁ	article, genitive plural	1	the
 1CH 9:32	1	11	ἄρτων	ἄρτος	noun, genitive masculine plural	1	bread
 1CH 9:32	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
 1CH 9:32	1	13	προθέσεως	πρόθεσις	noun, genitive fem. sg. after τῆς in ἄρτους τῆς προθέσεως 'bread of setting-before	1	of presentation
-1CH 9:32	1	14	τοῦ	ὁ	article, genitive singular	1	the
+1CH 9:32	1	14	τοῦ	ὁ	article, genitive singular	1	—
 1CH 9:32	1	15	ἑτοιμάσαι	ἑτοιμάζω	aorist active infinitive	1	to prepare
 1CH 9:32	1	16	σάββατον	σάββατον	noun, accusative neuter singular, distributive time expression	1	sabbath
-1CH 9:32	1	17	κατὰ	κατά	preposition with the accusative	1	according to
+1CH 9:32	1	17	κατὰ	κατά	preposition with the accusative	1	by
 1CH 9:32	1	18	σάββατον	σάββατον	noun, accusative neuter singular governed by κατά	1	sabbath
 1CH 9:33	1	1	Καὶ	καί	conjunction	1	and
 1CH 9:33	1	2	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
@@ -620,9 +620,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:34	1	1	Οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 1CH 9:34	1	2	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
 1CH 9:34	1	2	ἄρχοντες			2	officials
-1CH 9:34	1	3	τῶν	ὁ	article, genitive plural	1	the
-1CH 9:34	1	4	πατριῶν	πατριά	noun, genitive feminine plural	1	ancestral houses
-1CH 9:34	1	5	τῶν	ὁ	article, genitive neuter plural	1	the
+1CH 9:34	1	3	τῶν	ὁ	article, genitive plural	1	of the
+1CH 9:34	1	4	πατριῶν	πατριά	noun, genitive feminine plural	1	families
+1CH 9:34	1	5	τῶν	ὁ	article, genitive neuter plural	1	of the
 1CH 9:34	1	6	Λευϊτῶν	Λευΐτης	noun, genitive masculine plural	1	Levites
 1CH 9:34	1	7	κατὰ	κατά	preposition with the accusative	1	according to
 1CH 9:34	1	8	γενέσεις	γένεσις	noun, accusative feminine plural	1	generations
@@ -645,9 +645,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:35	1	7	Ἰειήλ	Ἰειήλ	indeclinable personal name, nominative in context	1	Jehiel
 1CH 9:35	1	8	καὶ	καί	conjunction	1	and
 1CH 9:35	1	9	ὄνομα	ὄνομα	noun, nominative neuter singular	1	name
-1CH 9:35	1	10	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
+1CH 9:35	1	10	γυναικὸς	γυνή	noun, genitive feminine singular	1	of the wife
 1CH 9:35	1	11	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-1CH 9:35	1	12	Μοωχά	Μοωχά	indeclinable personal name, nominative in context	1	Moocha
+1CH 9:35	1	12	Μοωχά	Μοωχά	indeclinable personal name, nominative in context	1	Maachah
 1CH 9:35	1	12	Μοωχά			2	Maacah
 1CH 9:36	1	1	Καὶ	καί	conjunction	1	and
 1CH 9:36	1	2	υἱὸς	υἱός	noun, nominative masculine singular	1	son
@@ -656,7 +656,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:36	1	5	πρωτότοκος	πρωτότοκος	substantival adjective, nominative masculine singular	1	firstborn
 1CH 9:36	1	6	Ἀβδὼν	Ἀβδών	indeclinable place name, nominative in context	1	Abdon
 1CH 9:36	1	7	καὶ	καί	conjunction	1	and
-1CH 9:36	1	8	Ἰσεὶρ	Ἰσείρ	indeclinable personal name, nominative in context	1	Iseir
+1CH 9:36	1	8	Ἰσεὶρ	Ἰσείρ	indeclinable personal name, nominative in context	1	Zur
 1CH 9:36	1	9	καὶ	καί	conjunction	1	and
 1CH 9:36	1	10	Κεὶς	Κείς	indeclinable personal name, nominative in context	1	Kish
 1CH 9:36	1	11	καὶ	καί	conjunction	1	and
@@ -676,10 +676,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:38	1	2	Μακελὼθ	Μακελώθ	indeclinable personal name, nominative in context	1	Mikloth
 1CH 9:38	1	3	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 9:38	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
-1CH 9:38	1	5	Σαμά	Σαμά	indeclinable personal name, accusative in context	1	Sama
-1CH 9:38	1	5	Σαμά			2	Shimeam
+1CH 9:38	1	5	Σαμά	Σαμά	indeclinable personal name, accusative in context	1	Shimeam
+1CH 9:38	1	5	Σαμά			2	Sama
 1CH 9:38	1	6	Καὶ	καί	conjunction	1	and
-1CH 9:38	1	7	οὗτοι	οὗτος	demonstrative nominative masculine plural	1	those
+1CH 9:38	1	7	οὗτοι	οὗτος	demonstrative nominative masculine plural	1	these
 1CH 9:38	1	8	ἐν	ἐν	preposition with the dative	1	in
 1CH 9:38	1	9	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
 1CH 9:38	1	10	τῶν	ὁ	article, genitive plural	1	of the
@@ -697,9 +697,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:39	1	2	Νὴρ	Νήρ	indeclinable personal name, nominative in context	1	Ner
 1CH 9:39	1	3	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 9:39	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
-1CH 9:39	1	5	Κεὶς	Κείς	indeclinable personal name, accusative in context	1	Keis
+1CH 9:39	1	5	Κεὶς	Κείς	indeclinable personal name, accusative in context	1	Kish
 1CH 9:39	1	6	καὶ	καί	conjunction	1	and
-1CH 9:39	1	7	Κεὶς	Κείς	indeclinable personal name, nominative in context	1	Keis
+1CH 9:39	1	7	Κεὶς	Κείς	indeclinable personal name, nominative in context	1	Kish
 1CH 9:39	1	8	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 9:39	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 9:39	1	10	Σαοὺλ	Σαούλ	indeclinable personal name, accusative in context	1	Saul
@@ -720,13 +720,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:40	1	1	Καὶ	καί	conjunction	1	and
 1CH 9:40	1	2	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 1CH 9:40	1	3	Ἰωνάθαν	Ἰωνάθαν	indeclinable personal name, genitive in context	1	of Jonathan
-1CH 9:40	1	4	Μεχριβαάλ	Μεχριβαάλ	indeclinable personal name, nominative in context	1	Mechribaal
-1CH 9:40	1	4	Μεχριβαάλ			2	Merib-baal
+1CH 9:40	1	4	Μεχριβαάλ	Μεχριβαάλ	indeclinable personal name, nominative in context	1	Merib-baal
+1CH 9:40	1	4	Μεχριβαάλ			2	Mechribaal
 1CH 9:40	1	5	καὶ	καί	conjunction	1	and
-1CH 9:40	1	6	Μεχριβαὰλ	Μεχριβαάλ	indeclinable personal name, nominative in context	1	Mechribaal
+1CH 9:40	1	6	Μεχριβαὰλ	Μεχριβαάλ	indeclinable personal name, nominative in context	1	Merib-baal
 1CH 9:40	1	7	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 9:40	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
-1CH 9:40	1	9	Μιχά	Μιχά	indeclinable personal name, accusative in context	1	Micha
+1CH 9:40	1	9	Μιχά	Μιχά	indeclinable personal name, accusative in context	1	Micah
 1CH 9:41	1	1	Καὶ	καί	conjunction	1	and
 1CH 9:41	1	2	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 1CH 9:41	1	3	Μιχά	Μιχά	indeclinable personal name, genitive in context	1	of Micha
@@ -760,19 +760,19 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:43	1	2	Μασὰ	Μασά	indeclinable personal name, nominative in context	1	Moza
 1CH 9:43	1	3	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 9:43	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
-1CH 9:43	1	5	Βανὰ	Βανά	indeclinable personal name, accusative in context	1	Bana
+1CH 9:43	1	5	Βανὰ	Βανά	indeclinable personal name, accusative in context	1	Binea
 1CH 9:43	1	6	Ῥαφαία	Ῥαφαία	indeclinable personal name, nominative in context	1	Rhaphaia
 1CH 9:43	1	7	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 1CH 9:43	1	8	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-1CH 9:43	1	9	Ἐλεασὰ	Ἐλεασά	indeclinable personal name, nominative in context	1	Eleasa
+1CH 9:43	1	9	Ἐλεασὰ	Ἐλεασά	indeclinable personal name, nominative in context	1	Eleasah
 1CH 9:43	1	10	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 1CH 9:43	1	11	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-1CH 9:43	1	12	Ἐσὴλ	Ἐσήλ	indeclinable personal name, nominative in context	1	Esel
+1CH 9:43	1	12	Ἐσὴλ	Ἐσήλ	indeclinable personal name, nominative in context	1	Azel
 1CH 9:43	1	13	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 1CH 9:43	1	14	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 1CH 9:44	1	1	Καὶ	καί	conjunction	1	and
 1CH 9:44	1	2	τῷ	ὁ	article, dative masculine singular	1	to
-1CH 9:44	1	3	Ἐσὴλ	Ἐσήλ	indeclinable personal name, dative in context	1	Esel
+1CH 9:44	1	3	Ἐσὴλ	Ἐσήλ	indeclinable personal name, dative in context	1	Azel
 1CH 9:44	1	4	ἕξ	ἕξ	indeclinable cardinal numeral	1	six
 1CH 9:44	1	5	υἱοί	υἱός	noun, nominative masculine plural	1	sons
 1CH 9:44	1	6	καὶ	καί	conjunction	1	and
@@ -786,7 +786,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:44	1	14	καὶ	καί	conjunction	1	and
 1CH 9:44	1	15	Ἰσμαὴλ	Ἰσμαήλ	indeclinable personal name, nominative in context	1	Ishmael
 1CH 9:44	1	16	καὶ	καί	conjunction	1	and
-1CH 9:44	1	17	Σαρία	Σαρία	indeclinable personal name, nominative in context	1	Saria
+1CH 9:44	1	17	Σαρία	Σαρία	indeclinable personal name, nominative in context	1	Sheariah
 1CH 9:44	1	18	καὶ	καί	conjunction	1	and
 1CH 9:44	1	19	Ἀβδία	Ἀβδία	indeclinable personal name, nominative in context	1	Obadiah
 1CH 9:44	1	20	καὶ	καί	conjunction	1	and
@@ -795,4 +795,4 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 9:44	1	23	Ἀσά	Ἀσά	indeclinable personal name, nominative in context	1	Asa
 1CH 9:44	1	24	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 1CH 9:44	1	25	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-1CH 9:44	1	26	Ἐσήλ	Ἐσήλ	indeclinable personal name, genitive in context	1	of Esel
+1CH 9:44	1	26	Ἐσήλ	Ἐσήλ	indeclinable personal name, genitive in context	1	of Azel

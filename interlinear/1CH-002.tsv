@@ -15,7 +15,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:2	1	1	Δὰν	Δάν	indeclinable personal name, nominative in context	1	Dan
 1CH 2:2	1	2	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
 1CH 2:2	1	3	Βενιαμεὶν	Βενιαμείν	indeclinable personal name, nominative in context	1	Benjamin
-1CH 2:2	1	4	Νεφθαλεὶμ	Νεφθαλείμ	indeclinable personal name, nominative in context	1	Nephthaleim
+1CH 2:2	1	4	Νεφθαλεὶμ	Νεφθαλείμ	indeclinable personal name, nominative in context	1	Naphtali
 1CH 2:2	1	5	Γὰδ	Γάδ	indeclinable personal name, nominative in context	1	Gad
 1CH 2:2	1	6	Ἀσήρ	Ἀσήρ	indeclinable personal name, nominative in context	1	Asher
 1CH 2:3	1	1	Υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
@@ -56,7 +56,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:4	1	9	Φαρὲς	Φαρές	indeclinable personal name, accusative in context	1	Pharez
 1CH 2:4	1	10	καὶ	καί	conjunction	1	and
 1CH 2:4	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
-1CH 2:4	1	12	Ζαρά	Ζαρά	indeclinable personal name, accusative in context	1	Zara
+1CH 2:4	1	12	Ζαρά	Ζαρά	indeclinable personal name, accusative in context	1	Zerah
 1CH 2:4	1	13	Πάντες	πᾶς	adjective, nominative masculine plural	1	all
 1CH 2:4	1	14	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 1CH 2:4	1	15	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
@@ -68,7 +68,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:5	1	5	Ἰεμουήλ	Ἰεμουήλ	indeclinable personal name, nominative in context	1	Jemuel
 1CH 2:6	1	1	Καὶ	καί	conjunction	1	and
 1CH 2:6	1	2	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-1CH 2:6	1	3	Ζαρά	Ζαρά	indeclinable personal name, genitive in context	1	of Zara
+1CH 2:6	1	3	Ζαρά	Ζαρά	indeclinable personal name, genitive in context	1	of Zerah
 1CH 2:6	1	4	Ζαμβρὶ	Ζαμβρί	indeclinable personal name, nominative in context	1	Zimri
 1CH 2:6	1	5	καὶ	καί	conjunction	1	and
 1CH 2:6	1	6	Αἰθὰν	Αἰθάν	indeclinable personal name, nominative in context	1	Ethan
@@ -127,7 +127,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:10	1	9	τὸν	ὁ	article with a personal name, accusative masculine singular, marks the name	1	—
 1CH 2:10	1	10	Ναασσὼν	Ναασσών	indeclinable personal name, accusative in context	1	Nahshon
 1CH 2:10	1	11	ἄρχοντα	ἄρχων	noun, accusative masc. sg.	1	a ruler
-1CH 2:10	1	12	τοῦ	ὁ	article, genitive singular	1	the
+1CH 2:10	1	12	τοῦ	ὁ	article, genitive singular	1	—
 1CH 2:10	1	13	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 1CH 2:10	1	14	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 1CH 2:11	1	1	Καὶ	καί	conjunction	1	and
@@ -146,11 +146,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:12	1	3	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 2:12	1	3	ἐγέννησε			2	begot
 1CH 2:12	1	4	τὸν	ὁ	article with a personal name, accusative masculine singular, marks the name	1	—
-1CH 2:12	1	5	Ἰωβὴδ	Ἰωβήδ	indeclinable personal name, accusative in context	1	Jobed
-1CH 2:12	1	5	Ἰωβὴδ			2	Obed
+1CH 2:12	1	5	Ἰωβὴδ	Ἰωβήδ	indeclinable personal name, accusative in context	1	Obed
+1CH 2:12	1	5	Ἰωβὴδ			2	Jobed
 1CH 2:12	1	6	καὶ	καί	conjunction	1	and
-1CH 2:12	1	7	Ἰωβὴδ	Ἰωβήδ	indeclinable personal name, nominative in context	1	Jobed
-1CH 2:12	1	7	Ἰωβὴδ			2	Obed
+1CH 2:12	1	7	Ἰωβὴδ	Ἰωβήδ	indeclinable personal name, nominative in context	1	Obed
+1CH 2:12	1	7	Ἰωβὴδ			2	Jobed
 1CH 2:12	1	8	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 2:12	1	8	ἐγέννησε			2	begot
 1CH 2:12	1	9	τὸν	ὁ	article with a personal name, accusative masculine singular, marks the name	1	—
@@ -214,9 +214,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:18	1	4	Ἐσρὼμ	Ἐσρώμ	indeclinable personal name, genitive in context	1	of Hezron
 1CH 2:18	1	5	ἔλαβε	λαμβάνω	aorist active indicative, third singular	1	took
 1CH 2:18	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
-1CH 2:18	1	7	Ἀζουβὰ	Ἀζουβά	indeclinable personal name, accusative in context	1	Azuba
-1CH 2:18	1	7	Ἀζουβὰ			2	Azubah
-1CH 2:18	1	8	γυναῖκα	γυνή	noun, accusative feminine singular	1	a woman
+1CH 2:18	1	7	Ἀζουβὰ	Ἀζουβά	indeclinable personal name, accusative in context	1	Azubah
+1CH 2:18	1	7	Ἀζουβὰ			2	Azuba
+1CH 2:18	1	8	γυναῖκα	γυνή	noun, accusative feminine singular	1	as wife
 1CH 2:18	1	9	καὶ	καί	conjunction	1	and
 1CH 2:18	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 1CH 2:18	1	11	Ἰεριώθ	Ἰεριώθ	indeclinable personal name, accusative in context	1	Jerioth
@@ -224,7 +224,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:18	1	13	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 1CH 2:18	1	14	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 1CH 2:18	1	15	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
-1CH 2:18	1	16	Ἰωασὰρ	Ἰωασάρ	indeclinable personal name, nominative in context	1	Ioasar
+1CH 2:18	1	16	Ἰωασὰρ	Ἰωασάρ	indeclinable personal name, nominative in context	1	Jesher
 1CH 2:18	1	17	καὶ	καί	conjunction	1	and
 1CH 2:18	1	18	Σωβὰβ	Σωβάβ	indeclinable personal name, nominative in context	1	Shobab
 1CH 2:18	1	19	καὶ	καί	conjunction	1	and
@@ -285,7 +285,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:22	1	3	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 2:22	1	3	ἐγέννησε			2	begot
 1CH 2:22	1	4	τὸν	ὁ	article with a personal name, accusative masculine singular, marks the name	1	—
-1CH 2:22	1	5	Ἀείρ	Ἀείρ	indeclinable personal name, accusative in context	1	Aeir
+1CH 2:22	1	5	Ἀείρ	Ἀείρ	indeclinable personal name, accusative in context	1	Jair
 1CH 2:22	1	6	καὶ	καί	conjunction	1	and
 1CH 2:22	1	7	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 1CH 2:22	1	8	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	for him
@@ -297,7 +297,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:22	1	14	Γαλαάδ	Γαλαάδ	indeclinable place name, dative in context	1	Gilead
 1CH 2:23	1	1	Καὶ	καί	conjunction	1	and
 1CH 2:23	1	2	ἔλαβε	λαμβάνω	aorist active indicative, third singular	1	took
-1CH 2:23	1	3	Γεσσοὺρ	Γεσσούρ	indeclinable personal name, nominative in context	1	Gessour
+1CH 2:23	1	3	Γεσσοὺρ	Γεσσούρ	indeclinable personal name, nominative in context	1	Geshur
 1CH 2:23	1	4	καὶ	καί	conjunction	1	and
 1CH 2:23	1	5	Ἀρὰμ	Ἀράμ	indeclinable personal name, nominative in context	1	Aram
 1CH 2:23	1	6	τὰς	ὁ	article, accusative feminine plural	1	the
@@ -339,7 +339,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:24	1	16	ἔτεκεν	τίκτω	aorist active indicative, third person singular	1	she bore
 1CH 2:24	1	17	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 1CH 2:24	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
-1CH 2:24	1	19	Ἀσδὼδ	Ἀσδώδ	indeclinable personal name, accusative in context	1	Asdod
+1CH 2:24	1	19	Ἀσδὼδ	Ἀσδώδ	indeclinable personal name, accusative in context	1	Ashur
 1CH 2:24	1	19	Ἀσδὼδ			2	Ashhur
 1CH 2:24	1	20	πατέρα	πατήρ	noun, accusative masculine singular	1	father
 1CH 2:24	1	21	Θεκωέ	Θεκωέ	indeclinable place name, genitive in context	1	of Tekoa
@@ -365,30 +365,30 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:25	1	17	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 1CH 2:26	1	1	Καὶ	καί	conjunction	1	and
 1CH 2:26	1	2	ἦν	εἰμί	imperfect indicative, third singular	1	was
-1CH 2:26	1	3	γυνὴ	γυνή	noun, nominative feminine singular	1	woman
+1CH 2:26	1	3	γυνὴ	γυνή	noun, nominative feminine singular	1	wife
 1CH 2:26	1	4	ἑτέρα	ἕτερος	adjective, nominative feminine singular	1	another
-1CH 2:26	1	5	τῷ	ὁ	article, dative masculine singular	1	the
-1CH 2:26	1	6	Ἰερεμιὴλ	Ἰερεμιήλ	indeclinable personal name, dative in context	1	Ieremiel
+1CH 2:26	1	5	τῷ	ὁ	article, dative masculine singular	1	to
+1CH 2:26	1	6	Ἰερεμιὴλ	Ἰερεμιήλ	indeclinable personal name, dative in context	1	Jerahmeel
 1CH 2:26	1	7	καὶ	καί	conjunction	1	and
 1CH 2:26	1	8	ὄνομα	ὄνομα	noun, nominative neuter singular	1	name
 1CH 2:26	1	9	αὐτῇ	αὐτός	pronoun, genitive feminine singular	1	her
-1CH 2:26	1	10	Ἐτέρα	ἕτερος	personal name, nominative feminine singular, literally another	1	Another
+1CH 2:26	1	10	Ἐτέρα	ἕτερος	personal name, nominative feminine singular, literally another	1	Atarah
 1CH 2:26	1	11	Αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 1CH 2:26	1	12	ἐστὶ	εἰμί	present indicative, third singular	1	is
 1CH 2:26	1	13	μήτηρ	μήτηρ	noun, nominative feminine singular	1	mother
-1CH 2:26	1	14	Οὐνομά	ὄνομα	noun, nominative neuter singular, variant orthography	1	of Ounoma
-1CH 2:26	1	14	Οὐνομά			2	of Onam
+1CH 2:26	1	14	Οὐνομά	ὄνομα	noun, nominative neuter singular, variant orthography	1	of Onam
+1CH 2:26	1	14	Οὐνομά			2	of Ounoma
 1CH 2:27	1	1	Καὶ	καί	conjunction	1	and
 1CH 2:27	1	2	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 1CH 2:27	1	3	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-1CH 2:27	1	4	Ῥὰμ	Ῥάμ	indeclinable personal name, genitive in context	1	of Rham
+1CH 2:27	1	4	Ῥὰμ	Ῥάμ	indeclinable personal name, genitive in context	1	of Ram
 1CH 2:27	1	5	πρωτοτόκου	πρωτότοκος	adjective, genitive masculine singular	1	firstborn
-1CH 2:27	1	6	Ἰερεμεὴλ	Ἰερεμεήλ	indeclinable personal name, genitive in context	1	of Ieremeel
-1CH 2:27	1	7	Μαὰς	Μαάς	indeclinable personal name, nominative in context	1	Maas
+1CH 2:27	1	6	Ἰερεμεὴλ	Ἰερεμεήλ	indeclinable personal name, genitive in context	1	of Jerahmeel
+1CH 2:27	1	7	Μαὰς	Μαάς	indeclinable personal name, nominative in context	1	Maaz
 1CH 2:27	1	8	καὶ	καί	conjunction	1	and
-1CH 2:27	1	9	Ἰαβεὶν	Ἰαβείν	indeclinable personal name, nominative in context	1	Jabin
+1CH 2:27	1	9	Ἰαβεὶν	Ἰαβείν	indeclinable personal name, nominative in context	1	Jamin
 1CH 2:27	1	10	καὶ	καί	conjunction	1	and
-1CH 2:27	1	11	Ἀκόρ	Ἀκόρ	indeclinable personal name, nominative in context	1	Akor
+1CH 2:27	1	11	Ἀκόρ	Ἀκόρ	indeclinable personal name, nominative in context	1	Eker
 1CH 2:28	1	1	Καὶ	καί	conjunction	1	and
 1CH 2:28	1	2	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 1CH 2:28	1	3	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
@@ -460,15 +460,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:33	1	1	Καὶ	καί	conjunction	1	and
 1CH 2:33	1	2	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 1CH 2:33	1	3	Ἰωνάθαν	Ἰωνάθαν	indeclinable personal name, genitive in context	1	of Jonathan
-1CH 2:33	1	4	Φαλὲθ	Φαλέθ	indeclinable personal name, nominative in context	1	Phaleth
-1CH 2:33	1	4	Φαλὲθ			2	Peleth
+1CH 2:33	1	4	Φαλὲθ	Φαλέθ	indeclinable personal name, nominative in context	1	Peleth
+1CH 2:33	1	4	Φαλὲθ			2	Phaleth
 1CH 2:33	1	5	καὶ	καί	conjunction	1	and
 1CH 2:33	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 1CH 2:33	1	7	Ζαζά	Ζαζά	indeclinable personal name, nominative in context	1	Zaza
 1CH 2:33	1	8	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 1CH 2:33	1	9	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 1CH 2:33	1	10	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
-1CH 2:33	1	11	Ἰερεμεήλ	Ἰερεμεήλ	indeclinable personal name, genitive in context	1	of Ieremeel
+1CH 2:33	1	11	Ἰερεμεήλ	Ἰερεμεήλ	indeclinable personal name, genitive in context	1	of Jerahmeel
 1CH 2:34	1	1	Καὶ	καί	conjunction	1	and
 1CH 2:34	1	2	οὐκ	οὐ	negative particle	1	not
 1CH 2:34	1	3	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
@@ -491,24 +491,24 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:34	1	18	Ἰωχήλ	Ἰωχήλ	indeclinable personal name, nominative in context	1	Iochel
 1CH 2:35	1	1	Καὶ	καί	conjunction	1	and
 1CH 2:35	1	2	ἔδωκε	δίδωμι	aorist active indicative, third singular	1	gave
-1CH 2:35	1	3	Σωσὰν	Σωσάν	indeclinable personal name, nominative in context	1	Sosan
+1CH 2:35	1	3	Σωσὰν	Σωσάν	indeclinable personal name, nominative in context	1	Sheshan
 1CH 2:35	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 1CH 2:35	1	5	θυγατέρα	θυγάτηρ	noun, accusative feminine singular	1	daughter
 1CH 2:35	1	6	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-1CH 2:35	1	7	Ἰωχὴλ	Ἰωχήλ	indeclinable personal name, dative in context	1	to Jochel
-1CH 2:35	1	7	Ἰωχὴλ			2	to Jarha
+1CH 2:35	1	7	Ἰωχὴλ	Ἰωχήλ	indeclinable personal name, dative in context	1	to Jarha
+1CH 2:35	1	7	Ἰωχὴλ			2	to Jochel
 1CH 2:35	1	8	παιδὶ	παῖς	noun, dative masculine singular	1	servant
 1CH 2:35	1	8	παιδὶ			2	attendant
 1CH 2:35	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-1CH 2:35	1	10	εἰς	εἰς	preposition with the accusative	1	into
+1CH 2:35	1	10	εἰς	εἰς	preposition with the accusative	1	as
 1CH 2:35	1	11	γυναῖκα	γυνή	noun, accusative feminine singular	1	a wife
 1CH 2:35	1	12	καὶ	καί	conjunction	1	and
 1CH 2:35	1	13	ἔτεκεν	τίκτω	aorist active indicative, third person singular	1	she bore
 1CH 2:35	1	14	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 1CH 2:35	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
-1CH 2:35	1	16	Ἰεθθεὶ	Ἰεθθεί	indeclinable personal name, accusative in context	1	Ieththei
+1CH 2:35	1	16	Ἰεθθεὶ	Ἰεθθεί	indeclinable personal name, accusative in context	1	Attai
 1CH 2:36	1	1	καὶ	καί	conjunction	1	and
-1CH 2:36	1	2	Ἰεθθεὶ	Ἰεθθεί	indeclinable personal name, nominative in context	1	Ieththei
+1CH 2:36	1	2	Ἰεθθεὶ	Ἰεθθεί	indeclinable personal name, nominative in context	1	Attai
 1CH 2:36	1	3	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 2:36	1	3	ἐγέννησε			2	begot
 1CH 2:36	1	4	τὸν	ὁ	article with a personal name, accusative masculine singular, marks the name	1	—
@@ -530,7 +530,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:37	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 2:37	1	10	Ἰωβὴδ	Ἰωβήδ	indeclinable personal name, accusative in context	1	Jobed
 1CH 2:38	1	1	καὶ	καί	conjunction	1	and
-1CH 2:38	1	2	Ἰωβὴδ	Ἰωβήδ	indeclinable personal name, nominative in context	1	Jobed
+1CH 2:38	1	2	Ἰωβὴδ	Ἰωβήδ	indeclinable personal name, nominative in context	1	Obed
 1CH 2:38	1	3	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 2:38	1	3	ἐγέννησε			2	begot
 1CH 2:38	1	4	τὸν	ὁ	article with a personal name, accusative masculine singular, marks the name	1	—
@@ -551,15 +551,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:39	1	7	Χελλὴς	Χελλής	indeclinable personal name, nominative in context	1	Helez
 1CH 2:39	1	8	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 2:39	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
-1CH 2:39	1	10	Ἐλεασὰ	Ἐλεασά	indeclinable personal name, accusative in context	1	Eleasa
+1CH 2:39	1	10	Ἐλεασὰ	Ἐλεασά	indeclinable personal name, accusative in context	1	Eleasah
 1CH 2:40	1	1	καὶ	καί	conjunction	1	and
-1CH 2:40	1	2	Ἐλεασὰ	Ἐλεασά	indeclinable personal name, nominative in context	1	Eleasa
+1CH 2:40	1	2	Ἐλεασὰ	Ἐλεασά	indeclinable personal name, nominative in context	1	Eleasah
 1CH 2:40	1	3	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 2:40	1	3	ἐγέννησε			2	begot
 1CH 2:40	1	4	τὸν	ὁ	article with a personal name, accusative masculine singular, marks the name	1	—
-1CH 2:40	1	5	Σοσομαὶ	Σοσομαί	indeclinable personal name, accusative in context	1	Sosomai
+1CH 2:40	1	5	Σοσομαὶ	Σοσομαί	indeclinable personal name, accusative in context	1	Sisamai
 1CH 2:40	1	6	καὶ	καί	conjunction	1	and
-1CH 2:40	1	7	Σοσομαὶ	Σοσομαί	indeclinable personal name, nominative in context	1	Sosomai
+1CH 2:40	1	7	Σοσομαὶ	Σοσομαί	indeclinable personal name, nominative in context	1	Sisamai
 1CH 2:40	1	8	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 2:40	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 2:40	1	10	Σαλλοὺμ	Σαλλούμ	indeclinable personal name, accusative in context	1	Shallum
@@ -568,22 +568,22 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:41	1	3	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 2:41	1	3	ἐγέννησε			2	begot
 1CH 2:41	1	4	τὸν	ὁ	article with a personal name, accusative masculine singular, marks the name	1	—
-1CH 2:41	1	5	Ἰεκομίαν	Ἰεκομίας	personal name, accusative masculine singular	1	Jekomias
-1CH 2:41	1	5	Ἰεκομίαν			2	Jekamiah
+1CH 2:41	1	5	Ἰεκομίαν	Ἰεκομίας	personal name, accusative masculine singular	1	Jekamiah
+1CH 2:41	1	5	Ἰεκομίαν			2	Jekomias
 1CH 2:41	1	6	καὶ	καί	conjunction	1	and
-1CH 2:41	1	7	Ἰεκομίας	Ἰεκομίας	indeclinable personal name, nominative in context	1	Iekomias
+1CH 2:41	1	7	Ἰεκομίας	Ἰεκομίας	indeclinable personal name, nominative in context	1	Jekamiah
 1CH 2:41	1	8	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
 1CH 2:41	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 2:41	1	10	Ἐλισαμά	Ἐλισαμά	indeclinable personal name, accusative in context	1	Elishama
 1CH 2:42	1	1	Καὶ	καί	conjunction	1	and
 1CH 2:42	1	2	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-1CH 2:42	1	3	Χαλὲμ	Χαλέμ	indeclinable personal name, genitive in context	1	of Chalem
-1CH 2:42	1	3	Χαλὲμ			2	of Caleb
+1CH 2:42	1	3	Χαλὲμ	Χαλέμ	indeclinable personal name, genitive in context	1	of Caleb
+1CH 2:42	1	3	Χαλὲμ			2	of Chalem
 1CH 2:42	1	4	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
-1CH 2:42	1	5	Ἰερεμεήλ	Ἰερεμεήλ	indeclinable personal name, genitive in context	1	of Ieremeel
-1CH 2:42	1	5	Ἰερεμεήλ			2	of Jerahmeel
-1CH 2:42	1	6	Μαρισὰς	Μαρισάς	personal name, nominative masculine singular	1	Marisas
-1CH 2:42	1	6	Μαρισὰς			2	Mareshah
+1CH 2:42	1	5	Ἰερεμεήλ	Ἰερεμεήλ	indeclinable personal name, genitive in context	1	of Jerahmeel
+1CH 2:42	1	5	Ἰερεμεήλ			2	of Ieremeel
+1CH 2:42	1	6	Μαρισὰς	Μαρισάς	personal name, nominative masculine singular	1	Mareshah
+1CH 2:42	1	6	Μαρισὰς			2	Marisas
 1CH 2:42	1	7	πρωτότοκος	πρωτότοκος	substantival adjective, nominative masculine singular	1	firstborn
 1CH 2:42	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 1CH 2:42	1	9	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
@@ -591,8 +591,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:42	1	11	Ζείφ	Ζείφ	indeclinable place name, genitive in context	1	of Ziph
 1CH 2:42	1	12	καὶ	καί	conjunction	1	and
 1CH 2:42	1	13	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-1CH 2:42	1	14	Μαρισὰ	Μαρισά	indeclinable personal name, genitive in context	1	of Marisa
-1CH 2:42	1	14	Μαρισὰ			2	of Mareshah
+1CH 2:42	1	14	Μαρισὰ	Μαρισά	indeclinable personal name, genitive in context	1	of Mareshah
+1CH 2:42	1	14	Μαρισὰ			2	of Marisa
 1CH 2:42	1	15	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 1CH 2:42	1	16	Χεβρών	Χεβρών	indeclinable personal name, nominative in context	1	of Hebron
 1CH 2:43	1	1	Καὶ	καί	conjunction	1	and
@@ -696,7 +696,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 2:50	1	3	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
 1CH 2:50	1	4	Χαλέβ	Χαλέβ	indeclinable personal name, genitive in context	1	of Caleb
 1CH 2:50	1	5	Υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-1CH 2:50	1	6	Ὤρ	Ὤρ	personal name, nominative masculine singular	1	Or (Hur)
+1CH 2:50	1	6	Ὤρ	Ὤρ	personal name, nominative masculine singular	1	of Hur
 1CH 2:50	1	7	πρωτοτόκου	πρωτότοκος	adjective, genitive masculine singular	1	firstborn
 1CH 2:50	1	8	Ἐφραθά	Ἐφραθά	indeclinable place name, genitive in context	1	of Ephratah
 1CH 2:51	1	1	Σωβὰλ	Σωβάλ	indeclinable personal name, nominative in context	1	Sobal

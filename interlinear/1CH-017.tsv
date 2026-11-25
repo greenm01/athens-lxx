@@ -17,14 +17,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:1	1	15	προφήτην	προφήτης	noun, accusative masculine singular, in apposition to Nathan	1	prophet
 1CH 17:1	1	16	ἰδοὺ	ἰδού	presentative particle	1	behold
 1CH 17:1	1	17	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-1CH 17:1	1	18	κατοικῶ	κατοικέω	present active indicative, first singular	1	I dwell
+1CH 17:1	1	18	κατοικῶ	κατοικέω	present active indicative, first singular	1	dwell
 1CH 17:1	1	19	ἐν	ἐν	preposition with the dative	1	in
 1CH 17:1	1	20	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
 1CH 17:1	1	21	κεδρίνῳ	κέδρος	noun, genitive feminine singular	1	of cedar
 1CH 17:1	1	22	καὶ	καί	conjunction	1	and
 1CH 17:1	1	23	ἡ	ὁ	article, nominative feminine singular	1	the
 1CH 17:1	1	24	κιβωτὸς	κιβωτός	noun, nominative feminine singular	1	ark
-1CH 17:1	1	25	διαθήκης	διαθήκη	noun, genitive feminine singular	1	covenant
+1CH 17:1	1	25	διαθήκης	διαθήκη	noun, genitive feminine singular	1	of the covenant
 1CH 17:1	1	26	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 1CH 17:1	1	27	ὑποκάτω	ὑποκάτω	adverb with the genitive	1	beneath
 1CH 17:1	1	27	ὑποκάτω			2	under
@@ -34,7 +34,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:2	1	3	Νάθαν	Νάθαν	indeclinable personal name, nominative in context	1	Nathan
 1CH 17:2	1	4	πρὸς	πρός	preposition with the accusative	1	to
 1CH 17:2	1	5	Δαυίδ	Δαυίδ	indeclinable personal name, accusative in context	1	David
-1CH 17:2	1	6	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+1CH 17:2	1	6	πᾶν	πᾶς	adjective, accusative neuter singular	1	all
 1CH 17:2	1	7	τὸ	ὁ	article, nominative neuter singular	1	the
 1CH 17:2	1	8	ἐν	ἐν	preposition with the dative	1	in
 1CH 17:2	1	9	τῇ	ὁ	article dative feminine singular	1	the
@@ -74,7 +74,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:4	1	11	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 1CH 17:4	1	12	οὐ	μή	interrogative particle	1	not
 1CH 17:4	1	13	σὺ	σύ	pronoun, nominative second singular	1	you
-1CH 17:4	1	14	οἰκοδομήσεις	οἰκοδομέω	future active indicative, second singular	1	you will build
+1CH 17:4	1	14	οἰκοδομήσεις	οἰκοδομέω	future active indicative, second singular	1	will build
 1CH 17:4	1	15	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 1CH 17:4	1	16	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 1CH 17:4	1	16	οἶκον			2	household
@@ -83,7 +83,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:4	1	19	με	ἐγώ	pronoun, accusative first singular; subject of the infinitive	1	I
 1CH 17:4	1	20	ἐν	ἐν	preposition with the dative	1	in
 1CH 17:4	1	21	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
-1CH 17:5	1	1	ὅτι	ὅτι	conjunction	1	that
+1CH 17:5	1	1	ὅτι	ὅτι	conjunction	1	for
 1CH 17:5	1	2	οὐ	οὐ	negative particle	1	not
 1CH 17:5	1	3	κατῴκησα	κατοικέω	aorist active indicative, first singular	1	I dwelt
 1CH 17:5	1	4	ἐν	ἐν	preposition with the dative	1	in
@@ -116,19 +116,19 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:6	1	7	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	Israel
 1CH 17:6	1	8	εἰ	εἰ	interrogative particle	1	did
 1CH 17:6	1	9	λαλῶν	λαλέω	present active participle, nominative masculine singular; cognate participle	1	ever
-1CH 17:6	1	10	ἐλάλησα	λαλέω	aorist active indicative, first singular	1	I say
+1CH 17:6	1	10	ἐλάλησα	λαλέω	aorist active indicative, first singular	1	I speak
 1CH 17:6	1	11	πρὸς	πρός	preposition with the accusative	1	to
 1CH 17:6	1	12	μίαν	εἷς	numeral, accusative feminine singular	1	one
-1CH 17:6	1	13	φυλὴν	φυλή	noun, accusative feminine singular	1	clan
-1CH 17:6	1	13	φυλὴν			2	tribe
-1CH 17:6	1	14	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	Israel
+1CH 17:6	1	13	φυλὴν	φυλή	noun, accusative feminine singular	1	tribe
+1CH 17:6	1	13	φυλὴν			2	clan
+1CH 17:6	1	14	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
 1CH 17:6	1	15	ἑνὶ	εἷς	cardinal numeral, dative masculine singular	1	to one
-1CH 17:6	1	16	τῶν	ὁ	article, genitive masculine plural	1	the
+1CH 17:6	1	16	τῶν	ὁ	article, genitive masculine plural	1	of the
 1CH 17:6	1	17	κριτῶν	κριτής	noun, genitive masculine plural	1	judges
-1CH 17:6	1	18	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	Israel
-1CH 17:6	1	19	οἷς	ὅς	relative pronoun, dative neuter plural	1	that
+1CH 17:6	1	18	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
+1CH 17:6	1	19	οἷς	ὅς	relative pronoun, dative neuter plural	1	whom
 1CH 17:6	1	20	ἐνετειλάμην	ἐντέλλομαι	aorist middle indicative, first singular	1	I commanded
-1CH 17:6	1	21	τοῦ	ὁ	article genitive neuter singular	1	to
+1CH 17:6	1	21	τοῦ	ὁ	article genitive neuter singular	1	—
 1CH 17:6	1	22	ποιμαίνειν	ποιμαίνω	present active infinitive	1	to shepherd
 1CH 17:6	1	23	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 17:6	1	24	λαόν	λαός	noun, accusative masculine singular	1	people
@@ -164,7 +164,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:7	1	19	ἐξόπισθεν	ἐξόπισθεν	improper preposition indicating departure from following	1	from following
 1CH 17:7	1	20	τῶν	ὁ	article, genitive plural	1	the
 1CH 17:7	1	21	ποιμνίων	ποίμνιον	noun, genitive neuter plural	1	flocks
-1CH 17:7	1	22	τοῦ	ὁ	article, genitive masculine singular	1	of the
+1CH 17:7	1	22	τοῦ	ὁ	article, genitive masculine singular	1	—
 1CH 17:7	1	23	εἶναι	εἰμί	present infinitive	1	to be
 1CH 17:7	1	24	εἰς	εἰς	preposition marking role or result	1	as
 1CH 17:7	1	25	ἡγούμενον	ἡγέομαι	present middle participle, accusative masculine singular; substantival	1	leader
@@ -179,7 +179,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:8	1	3	μετὰ	μετά	preposition with the genitive	1	with
 1CH 17:8	1	4	σοῦ	σύ	personal pronoun, emphatic genitive singular	1	you
 1CH 17:8	1	5	ἐν	ἐν	preposition with the dative	1	in
-1CH 17:8	1	6	πᾶσιν	πᾶς	adjective, dative neuter plural	1	everything
+1CH 17:8	1	6	πᾶσιν	πᾶς	adjective, dative neuter plural	1	every place
 1CH 17:8	1	7	οἷς	ὅς	relative pronoun, dative neuter plural after ἐν	1	in which
 1CH 17:8	1	8	ἐπορεύθης	πορεύομαι	aorist passive indicative, second singular	1	you went
 1CH 17:8	1	9	καὶ	καί	conjunction	1	and
@@ -226,7 +226,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:9	1	18	ἔτι	ἔτι	adverb	1	any more
 1CH 17:9	1	19	καὶ	καί	conjunction	1	and
 1CH 17:9	1	20	οὐ	οὐ	negative particle	1	not
-1CH 17:9	1	21	προσθήσει	προστίθημι	future active indicative, third singular, with an infinitive of repeated action	1	it will again
+1CH 17:9	1	21	προσθήσει	προστίθημι	future active indicative, third singular, with an infinitive of repeated action	1	will again
 1CH 17:9	1	21	προσθήσει			2	it will add
 1CH 17:9	1	22	υἱὸς	υἱός	noun, nominative masculine singular; singular in the printed text	1	son
 1CH 17:9	1	23	ἀδικίας	ἀδικία	noun, genitive feminine singular	1	of injustice
@@ -311,7 +311,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:12	1	10	ἕως	ἕως	temporal conjunction/preposition	1	until
 1CH 17:12	1	11	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	1	ever
 1CH 17:13	1	1	Ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-1CH 17:13	1	2	ἔσομαι	εἰμί	future middle indicative, first singular	1	I will be
+1CH 17:13	1	2	ἔσομαι	εἰμί	future middle indicative, first singular	1	will be
 1CH 17:13	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 1CH 17:13	1	4	εἰς	εἰς	preposition marking role or result	1	as
 1CH 17:13	1	5	πατέρα	πατήρ	noun, accusative masculine singular after πρός/accusative from context	1	father
@@ -335,7 +335,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:13	1	22	ἀπὸ	ἀπό	preposition with the genitive	1	from
 1CH 17:13	1	23	τῶν	ὁ	article, genitive plural	1	the
 1CH 17:13	1	24	ὄντων	εἰμί	present active participle, genitive masculine plural	1	who are
-1CH 17:13	1	25	ἔμπροσθέν	ἔμπροσθεν	improper preposition with genitive	1	ahead of
+1CH 17:13	1	25	ἔμπροσθέν	ἔμπροσθεν	improper preposition with genitive	1	before
 1CH 17:13	1	26	σου	σύ	personal pronoun, genitive second singular	1	you
 1CH 17:14	1	1	καὶ	καί	conjunction	1	and
 1CH 17:14	1	2	πιστώσω	πιστόω	future active indicative, first singular	1	I shall establish
@@ -348,7 +348,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:14	1	9	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	kingdom
 1CH 17:14	1	10	αὐτοῦ	αὐτός	pronoun genitive masculine singular	1	his
 1CH 17:14	1	11	ἕως	ἕως	temporal conjunction/preposition	1	until
-1CH 17:14	1	12	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	1	for ever
+1CH 17:14	1	12	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	1	ever
 1CH 17:14	1	13	καὶ	καί	conjunction	1	and
 1CH 17:14	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
 1CH 17:14	1	15	θρόνος	θρόνος	noun nominative masculine singular	1	throne
@@ -357,14 +357,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:14	1	18	ἀνωρθωμένος	ἀνορθόω	perfect passive participle, nominative masculine singular	1	established
 1CH 17:14	1	18	ἀνωρθωμένος			2	set upright
 1CH 17:14	1	19	ἕως	ἕως	preposition with the genitive	1	until
-1CH 17:14	1	20	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	1	for ever
+1CH 17:14	1	20	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	1	ever
 1CH 17:15	1	1	Κατὰ	κατά	preposition with the accusative	1	according to
 1CH 17:15	1	2	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 1CH 17:15	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
 1CH 17:15	1	4	λόγους	λόγος	noun, accusative masculine plural	1	words
 1CH 17:15	1	5	τούτους	οὗτος	demonstrative pronoun, accusative masculine plural	1	these
 1CH 17:15	1	6	καὶ	καί	conjunction	1	and
-1CH 17:15	1	7	κατὰ	κατά	preposition with the accusative	1	in
+1CH 17:15	1	7	κατὰ	κατά	preposition with the accusative	1	according to
 1CH 17:15	1	8	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 1CH 17:15	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
 1CH 17:15	1	10	ὅρασιν	ὅρασις	noun, accusative feminine singular	1	vision
@@ -399,21 +399,21 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:16	1	21	οἶκός			2	house
 1CH 17:16	1	22	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 1CH 17:16	1	22	μου			2	of me
-1CH 17:16	1	23	ὅτι	ὅτι	causal conjunction	1	because
+1CH 17:16	1	23	ὅτι	ὅτι	causal conjunction	1	that
 1CH 17:16	1	24	ἠγάπησάς	ἀγαπάω	aorist active indicative, second singular	1	you loved
 1CH 17:16	1	25	με	ἐγώ	personal pronoun, accusative singular	1	me
 1CH 17:16	1	26	ἕως	ἕως	temporal conjunction/preposition	1	until
-1CH 17:16	1	27	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	1	for ever
+1CH 17:16	1	27	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	1	ever
 1CH 17:17	1	1	Καὶ	καί	conjunction	1	and
 1CH 17:17	1	2	ἐσμικρύνθη	σμικρύνω	aorist passive indicative, third singular	1	was small
 1CH 17:17	1	3	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 1CH 17:17	1	4	ἐνώπιόν	ἐνώπιον	preposition with the genitive	1	before
 1CH 17:17	1	5	σου	σύ	personal pronoun genitive second singular	1	you
-1CH 17:17	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
-1CH 17:17	1	7	Θεὸς	θεός	noun, nominative masculine singular	1	God
+1CH 17:17	1	6	ὁ	ὁ	article, nominative masculine singular	1	—
+1CH 17:17	1	7	Θεὸς	θεός	noun, nominative masculine singular	1	O God
 1CH 17:17	1	8	καὶ	καί	conjunction	1	and
 1CH 17:17	1	9	ἐλάλησας	λαλέω	aorist active indicative, second singular	1	you spoke
-1CH 17:17	1	10	ἐπὶ	ἐπί	preposition (case from context)	1	on
+1CH 17:17	1	10	ἐπὶ	ἐπί	preposition (case from context)	1	concerning
 1CH 17:17	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 17:17	1	12	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 1CH 17:17	1	12	οἶκον			2	household
@@ -428,7 +428,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:17	1	21	ὡς	ὡς	comparative adverb/conjunction	1	like
 1CH 17:17	1	22	ὅρασις	ὅρασις	noun, nominative feminine singular	1	appearance
 1CH 17:17	1	22	ὅρασις			2	sight
-1CH 17:17	1	23	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
+1CH 17:17	1	23	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of man
 1CH 17:17	1	24	καὶ	καί	conjunction	1	and
 1CH 17:17	1	25	ὕψωσάς	ὑψόω	aorist active indicative, second singular	1	you exalted
 1CH 17:17	1	26	με	ἐγώ	personal pronoun accusative first singular	1	me
@@ -513,7 +513,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:21	1	31	ἐκβαλεῖν	ἐκβάλλω	aorist active infinitive	1	to drive out
 1CH 17:21	1	32	ἀπὸ	ἀπό	preposition with the genitive	1	from
 1CH 17:21	1	33	προσώπου	πρόσωπον	noun, genitive neuter singular after ἀπό, in the phrase 'from the face of'	1	the face
-1CH 17:21	1	34	λαοῦ	λαός	noun, genitive masculine singular	1	people
+1CH 17:21	1	34	λαοῦ	λαός	noun, genitive masculine singular	1	of people
 1CH 17:21	1	35	σου	σύ	pronoun, possessive genitive second singular	1	your
 1CH 17:21	1	36	οὗ	οὗ	relative adverb	1	where
 1CH 17:21	1	37	ἐλυτρώσω	λυτρόω	aorist middle indicative, 2nd sg.	1	you redeemed
@@ -528,13 +528,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:22	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	Israel
 1CH 17:22	1	7	σεαυτῷ	σεαυτοῦ	reflexive pronoun, dative masculine singular	1	for yourself
 1CH 17:22	1	8	λαὸν	λαός	noun, accusative masculine singular	1	people
-1CH 17:22	1	9	ἕως	ἕως	preposition with the genitive	1	as far as
+1CH 17:22	1	9	ἕως	ἕως	preposition with the genitive	1	until
 1CH 17:22	1	9	ἕως			2	up to
-1CH 17:22	1	10	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	1	for ever
+1CH 17:22	1	10	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	1	ever
 1CH 17:22	1	11	καὶ	καί	conjunction	1	and
 1CH 17:22	1	12	σὺ	σύ	personal pronoun nominative second singular	1	you
 1CH 17:22	1	13	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
-1CH 17:22	1	14	ἐγεννήθης	γεννάω	aorist passive indicative, second singular of γεννάω in the printed text, unusual in this context	1	you were begotten
+1CH 17:22	1	14	ἐγεννήθης	γεννάω	aorist passive indicative, second singular of γεννάω in the printed text, unusual in this context	1	you became
 1CH 17:22	1	14	ἐγεννήθης			2	you came to be
 1CH 17:22	1	15	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	for them
 1CH 17:22	1	16	εἰς	εἰς	preposition marking role or result	1	as
@@ -553,36 +553,36 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:23	1	11	παῖδά	παῖς	noun, accusative masculine singular after τὸν	1	servant
 1CH 17:23	1	12	σου	σύ	pronoun, possessive genitive second singular	1	your
 1CH 17:23	1	13	καὶ	καί	conjunction	1	and
-1CH 17:23	1	14	ἐπὶ	ἐπί	preposition (case from context)	1	on
+1CH 17:23	1	14	ἐπὶ	ἐπί	preposition (case from context)	1	concerning
 1CH 17:23	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 17:23	1	16	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 1CH 17:23	1	16	οἶκον			2	household
 1CH 17:23	1	17	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 1CH 17:23	1	18	πιστωθήτω	πιστόω	aorist passive imperative, third singular	1	let it be established
-1CH 17:23	1	19	ἕως	ἕως	preposition with the genitive	1	as far as
+1CH 17:23	1	19	ἕως	ἕως	preposition with the genitive	1	until
 1CH 17:23	1	19	ἕως			2	up to
-1CH 17:23	1	20	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	1	for ever
+1CH 17:23	1	20	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	1	ever
 1CH 17:23	1	21	καὶ	καί	conjunction	1	and
 1CH 17:23	1	22	ποίησον	ποιέω	aorist active imperative, second singular	1	do
 1CH 17:23	1	23	καθὼς	καθώς	comparative conjunction	1	as
 1CH 17:23	1	23	καθὼς			2	just as
 1CH 17:23	1	24	ἐλάλησας	λαλέω	aorist active indicative, second singular	1	you spoke
 1CH 17:24	1	1	καὶ	καί	conjunction	1	and
-1CH 17:24	1	2	πιστωθήτω	πιστόω	aorist passive imperative, third singular	1	let it be confirmed
+1CH 17:24	1	2	πιστωθήτω	πιστόω	aorist passive imperative, third singular	1	let be confirmed
 1CH 17:24	1	3	καὶ	καί	conjunction	1	and
-1CH 17:24	1	4	μεγαλυνθήτω	μεγαλύνω	aorist passive imperative third singular	1	let it be magnified
+1CH 17:24	1	4	μεγαλυνθήτω	μεγαλύνω	aorist passive imperative third singular	1	let be magnified
 1CH 17:24	1	5	τὸ	ὁ	article, accusative neuter singular	1	the
 1CH 17:24	1	6	ὄνομά	ὄνομα	noun, accusative neuter singular	1	name
 1CH 17:24	1	7	σου	σύ	pronoun, possessive genitive second singular	1	your
 1CH 17:24	1	8	ἕως	ἕως	temporal conjunction/preposition	1	until
-1CH 17:24	1	9	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	1	for ever
+1CH 17:24	1	9	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	1	ever
 1CH 17:24	1	10	λεγόντων	λέγω	present active participle, genitive masculine plural referring to στρατηγῶν	1	saying
 1CH 17:24	1	11	Κύριε	κύριος	noun vocative masculine singular	1	O Lord
 1CH 17:24	1	12	Κύριε	κύριος	noun, vocative masculine singular	1	Lord
 1CH 17:24	1	13	παντοκράτωρ	παντοκράτωρ	noun used as divine title	1	Almighty
 1CH 17:24	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
 1CH 17:24	1	15	Θεὸς	θεός	noun, nominative masculine singular	1	God
-1CH 17:24	1	16	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	Israel
+1CH 17:24	1	16	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
 1CH 17:24	1	17	καὶ	καί	conjunction	1	and
 1CH 17:24	1	18	ὁ	ὁ	article, nominative masculine singular	1	the
 1CH 17:24	1	19	οἶκος	οἶκος	noun, nominative masculine singular	1	house
@@ -598,7 +598,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:25	1	4	ἤνοιξας	ἀνοίγω	aorist active indicative, second singular	1	you opened
 1CH 17:25	1	5	τὸ	ὁ	article, accusative neuter singular	1	the
 1CH 17:25	1	6	οὖς	οὖς	noun accusative neuter singular	1	ear
-1CH 17:25	1	7	τοῦ	ὁ	article, genitive singular	1	the
+1CH 17:25	1	7	τοῦ	ὁ	article, genitive singular	1	of the
 1CH 17:25	1	8	παιδός	παῖς	noun, genitive masculine singular	1	servant
 1CH 17:25	1	9	σου	σύ	pronoun, possessive genitive second singular	1	your
 1CH 17:25	1	10	τοῦ	ὁ	article, genitive singular	1	the
@@ -628,7 +628,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:26	1	8	Θεὸς	θεός	noun, nominative masculine singular	1	God
 1CH 17:26	1	9	καὶ	καί	conjunction	1	and
 1CH 17:26	1	10	ἐλάλησας	λαλέω	aorist active indicative, second singular	1	you spoke
-1CH 17:26	1	11	ἐπὶ	ἐπί	preposition with accusative	1	upon
+1CH 17:26	1	11	ἐπὶ	ἐπί	preposition with accusative	1	concerning
 1CH 17:26	1	12	τὸν	ὁ	article accusative masculine singular	1	the
 1CH 17:26	1	13	δοῦλόν	δοῦλος	noun accusative masculine singular	1	servant
 1CH 17:26	1	14	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -649,7 +649,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:27	1	10	σου	σύ	pronoun, possessive genitive second singular	1	your
 1CH 17:27	1	11	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	1	in order
 1CH 17:27	1	12	εἶναι	εἰμί	present infinitive	1	to be
-1CH 17:27	1	13	εἰς	εἰς	preposition with the accusative	1	into
+1CH 17:27	1	13	εἰς	εἰς	preposition with the accusative	1	for
 1CH 17:27	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 17:27	1	15	αἰῶνα	αἰών	noun, accusative masculine singular	1	age
 1CH 17:27	1	16	ἐναντίον	ἐναντίον	preposition with the genitive	1	before

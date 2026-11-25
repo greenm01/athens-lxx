@@ -4,7 +4,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:1	1	3	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 1CH 29:1	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 1CH 29:1	1	5	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
-1CH 29:1	1	6	πάσῃ	πᾶς	adjective, dative feminine singular modifying ἐκκλησίᾳ	1	all
+1CH 29:1	1	6	πάσῃ	πᾶς	adjective, dative feminine singular modifying ἐκκλησίᾳ	1	to all
 1CH 29:1	1	7	τῇ	ὁ	article, dative feminine singular	1	the
 1CH 29:1	1	8	ἐκκλησίᾳ	ἐκκλησία	noun, dative feminine singular	1	assembly
 1CH 29:1	1	9	Σαλωμὼν	Σαλωμών	indeclinable personal name, nominative in context	1	Solomon
@@ -12,10 +12,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:1	1	11	υἱός	υἱός	noun, nominative masculine singular	1	son
 1CH 29:1	1	12	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 1CH 29:1	1	13	εἰς	εἰς	preposition with the accusative	1	into
-1CH 29:1	1	14	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
+1CH 29:1	1	14	ὃν	ὅς	relative pronoun, accusative masculine singular	1	whom
 1CH 29:1	1	15	ᾑρέτικεν	αἱρέομαι	perfect active indicative, third singular	1	has chosen
 1CH 29:1	1	16	ἐν	ἐν	preposition with the dative	1	in
-1CH 29:1	1	17	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+1CH 29:1	1	17	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 1CH 29:1	1	18	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 1CH 29:1	1	19	νέος	νέος	adjective, nominative masc. sg.	1	a young man
 1CH 29:1	1	20	καὶ	καί	conjunction	1	and
@@ -26,12 +26,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:1	1	25	μέγα	μέγας	adjective, accusative neuter singular	1	great
 1CH 29:1	1	26	ὅτι	ὅτι	causal conjunction	1	because
 1CH 29:1	1	27	οὐκ	οὐ	negative particle	1	not
-1CH 29:1	1	28	ἀνθρώπῳ	ἄνθρωπος	noun, dative masculine singular	1	man
+1CH 29:1	1	28	ἀνθρώπῳ	ἄνθρωπος	noun, dative masculine singular	1	for man
 1CH 29:1	1	29	ἡ	ὁ	article, nominative feminine singular	1	the
 1CH 29:1	1	30	οἰκοδομὴ	οἰκοδομή	noun, nominative feminine singular	1	building
 1CH 29:1	1	31	ἀλλ᾽	ἀλλά	adversative conjunction	1	but
 1CH 29:1	1	32	ἢ	ἤ	particle in the expression ἀλλ᾽ ἤ	1	only
-1CH 29:1	1	33	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
+1CH 29:1	1	33	Κυρίῳ	κύριος	noun, dative masculine singular	1	for the Lord
 1CH 29:1	1	34	Θεῷ	θεός	noun, dative masculine singular	1	God
 1CH 29:2	1	1	Κατὰ	κατά	preposition with the accusative	1	in
 1CH 29:2	1	2	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
@@ -66,7 +66,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:2	1	29	Πάριον	Πάριον	indeclinable personal name, nominative in context	1	Parion
 1CH 29:2	1	30	πολύν	πολύς	adjective, accusative masculine singular modifying σίδηρον	1	much
 1CH 29:3	1	1	Καὶ	καί	conjunction	1	and
-1CH 29:3	1	2	ἔτι	ἔτι	adverb of time	1	again
+1CH 29:3	1	2	ἔτι	ἔτι	adverb of time	1	further
 1CH 29:3	1	2	ἔτι			2	any more
 1CH 29:3	1	3	ἐν	ἐν	preposition with the dative	1	in
 1CH 29:3	1	4	τῷ	ὁ	article, dative masculine singular	1	the
@@ -75,7 +75,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:3	1	7	ἐν	ἐν	preposition with the dative	1	in
 1CH 29:3	1	8	οἴκῳ	οἶκος	noun, dative masculine singular	1	the house
 1CH 29:3	1	8	οἴκῳ			2	a house
-1CH 29:3	1	9	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+1CH 29:3	1	9	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 1CH 29:3	1	10	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 1CH 29:3	1	11	ἔστι	εἰμί	present active indicative, third singular	1	is
 1CH 29:3	1	12	μοι	ἐγώ	personal pronoun, dative singular	1	to me
@@ -87,10 +87,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:3	1	18	καὶ	καί	conjunction	1	and
 1CH 29:3	1	19	ἰδοὺ	ἰδού	presentative particle	1	behold
 1CH 29:3	1	20	δέδωκα	δίδωμι	perfect active indicative, first singular	1	I have given
-1CH 29:3	1	21	εἰς	εἰς	preposition with the accusative	1	into
+1CH 29:3	1	21	εἰς	εἰς	preposition with the accusative	1	for
 1CH 29:3	1	22	οἶκον	οἶκος	noun, accusative masculine singular	1	the house
 1CH 29:3	1	22	οἶκον			2	household
-1CH 29:3	1	23	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+1CH 29:3	1	23	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 1CH 29:3	1	24	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 1CH 29:3	1	24	μου			2	of me
 1CH 29:3	1	25	εἰς	εἰς	preposition with accusative	1	into
@@ -98,10 +98,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:3	1	27	ἐκτὸς	ἐκτός	adverb/preposition with genitive τῆς πόλεως, outside	1	outside
 1CH 29:3	1	28	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	which
 1CH 29:3	1	29	ἡτοίμακα	ἑτοιμάζω	perfect active indicative, first singular	1	I have prepared
-1CH 29:3	1	30	εἰς	εἰς	preposition with the accusative	1	into
+1CH 29:3	1	30	εἰς	εἰς	preposition with the accusative	1	for
 1CH 29:3	1	31	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 1CH 29:3	1	31	οἶκον			2	household
-1CH 29:3	1	32	τῶν	ὁ	article, genitive plural	1	the
+1CH 29:3	1	32	τῶν	ὁ	article, genitive plural	1	of the
 1CH 29:3	1	33	ἁγίων	ἅγιος	adjective, genitive neuter plural; used substantivally	1	holy things
 1CH 29:4	1	1	τρισχίλια	τρισχίλιοι	adjective, nominative neuter plural	1	three thousand
 1CH 29:4	1	2	τάλαντα	τάλαντον	noun, nominative neut. pl., talents	1	talents
@@ -116,32 +116,32 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:4	1	11	δοκίμου	δόκιμος	adjective, genitive neuter singular	1	approved
 1CH 29:4	1	11	δοκίμου			2	accepted
 1CH 29:4	1	12	ἐξαλειφθῆναι	ἐξαλείφω	aorist passive infinitive	1	to be coated
-1CH 29:4	1	13	ἐν	ἐν	preposition with dative expressing position among	1	among
+1CH 29:4	1	13	ἐν	ἐν	preposition with dative expressing position among	1	with
 1CH 29:4	1	14	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 1CH 29:4	1	15	τοὺς	ὁ	article, accusative masculine plural	1	the
 1CH 29:4	1	16	τοίχους	τοῖχος	noun, accusative masc. pl. after τοὺς, walls/sides	1	walls
 1CH 29:4	1	17	τοῦ	ὁ	article, genitive singular	1	of the
 1CH 29:4	1	18	ἱεροῦ	ἱερόν	noun, genitive neuter singular	1	sanctuary
-1CH 29:5	1	1	εἰς	εἰς	preposition with the accusative	1	into
+1CH 29:5	1	1	εἰς	εἰς	preposition with the accusative	1	for
 1CH 29:5	1	2	τὸ	ὁ	article, accusative neuter singular	1	the
 1CH 29:5	1	3	χρυσίον	χρυσίον	noun, nominative neuter singular	1	gold
-1CH 29:5	1	4	τῷ	ὁ	article, dative masculine singular	1	the
-1CH 29:5	1	5	χρυσίῳ	χρυσίον	noun, dative neut. sg., instrumental 'with gold'	1	with gold
+1CH 29:5	1	4	τῷ	ὁ	article, dative masculine singular	1	for the
+1CH 29:5	1	5	χρυσίῳ	χρυσίον	noun, dative neut. sg., instrumental 'with gold'	1	gold work
 1CH 29:5	1	6	καὶ	καί	conjunction	1	and
-1CH 29:5	1	7	εἰς	εἰς	preposition with accusative	1	into
+1CH 29:5	1	7	εἰς	εἰς	preposition with accusative	1	for
 1CH 29:5	1	8	τὸ	ὁ	article, accusative neuter singular	1	the
 1CH 29:5	1	9	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular after τὸ, silver/money (from context)	1	silver
-1CH 29:5	1	10	τῷ	ὁ	article, dative masculine singular	1	the
-1CH 29:5	1	11	ἀργυρίῳ	ἀργύριον	noun, dative neut. sg.	1	with silver
+1CH 29:5	1	10	τῷ	ὁ	article, dative masculine singular	1	for the
+1CH 29:5	1	11	ἀργυρίῳ	ἀργύριον	noun, dative neut. sg.	1	silver work
 1CH 29:5	1	12	καὶ	καί	conjunction	1	and
-1CH 29:5	1	13	εἰς	εἰς	preposition with the accusative	1	into
+1CH 29:5	1	13	εἰς	εἰς	preposition with the accusative	1	for
 1CH 29:5	1	14	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 1CH 29:5	1	15	ἔργον	ἔργον	noun, nominative neuter singular	1	work
 1CH 29:5	1	16	διὰ	διά	preposition with genitive	1	through
 1CH 29:5	1	17	χειρὸς	χείρ	noun, genitive feminine singular in διὰ χειρὸς 'through the hand of' = under the charge of	1	the hand
-1CH 29:5	1	18	τεχνιτῶν	τεχνίτης	noun, genitive masculine plural	1	craftsmen
+1CH 29:5	1	18	τεχνιτῶν	τεχνίτης	noun, genitive masculine plural	1	of craftsmen
 1CH 29:5	1	19	καὶ	καί	conjunction	1	and
-1CH 29:5	1	20	τίς	τίς	interrogative pronoun, nominative masculine singular	1	what
+1CH 29:5	1	20	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
 1CH 29:5	1	21	ὁ	ὁ	article, nominative masculine singular	1	the
 1CH 29:5	1	22	προθυμούμενος	προθυμέομαι	present middle/passive participle, nominative masculine singular	1	willing
 1CH 29:5	1	23	πληρῶσαι	πληρόω	aorist active infinitive; in an expression for ordination	1	to fill
@@ -149,7 +149,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:5	1	25	χεῖρας	χείρ	noun, accusative feminine plural	1	hands
 1CH 29:5	1	26	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1CH 29:5	1	27	σήμερον	σήμερον	adverb of time	1	today
-1CH 29:5	1	28	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
+1CH 29:5	1	28	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 1CH 29:6	1	1	Καὶ	καί	conjunction	1	and
 1CH 29:6	1	2	προεθυμήθησαν	προθυμέομαι	aorist passive indicative, third plural	1	volunteered
 1CH 29:6	1	3	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
@@ -172,19 +172,19 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:6	1	18	καὶ	καί	conjunction	1	and
 1CH 29:6	1	19	οἱ	ὁ	article, nominative masculine plural	1	the
 1CH 29:6	1	20	προστάται	προστάτης	noun, nominative masculine plural	1	overseers
-1CH 29:6	1	21	τῶν	ὁ	article, genitive plural	1	the
+1CH 29:6	1	21	τῶν	ὁ	article, genitive plural	1	of the
 1CH 29:6	1	22	ἔργων	ἔργον	noun, genitive neuter plural	1	labors
 1CH 29:6	1	23	καὶ	καί	conjunction	1	and
 1CH 29:6	1	24	οἱ	ὁ	article, nominative masculine plural	1	the
 1CH 29:6	1	25	οἰκονόμοι	οἰκονόμος	noun, nominative masculine plural	1	stewards
-1CH 29:6	1	26	τοῦ	ὁ	article, genitive singular	1	the
+1CH 29:6	1	26	τοῦ	ὁ	article, genitive singular	1	of the
 1CH 29:6	1	27	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 1CH 29:7	1	1	Καὶ	καί	conjunction	1	and
 1CH 29:7	1	2	ἔδωκαν	δίδωμι	aorist active indicative, third plural	1	gave
 1CH 29:7	1	3	εἰς	εἰς	preposition with the accusative	1	for
 1CH 29:7	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
 1CH 29:7	1	5	ἔργα	ἔργον	noun, accusative neut. pl.	1	works
-1CH 29:7	1	6	τοῦ	ὁ	article, genitive singular	1	the
+1CH 29:7	1	6	τοῦ	ὁ	article, genitive singular	1	of the
 1CH 29:7	1	7	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 1CH 29:7	1	7	οἴκου			2	household
 1CH 29:7	1	8	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
@@ -195,7 +195,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:7	1	13	χρυσοῦς	χρυσοῦς	substantival adjective, accusative masculine plural, gold pieces	1	gold
 1CH 29:7	1	14	μυρίους	μύριοι	adjective, accusative masculine plural	1	ten thousand
 1CH 29:7	1	15	καὶ	καί	conjunction	1	and
-1CH 29:7	1	16	ἀργυρίου	ἀργύριον	noun, genitive neuter singular dependent on τάλαντα	1	silver
+1CH 29:7	1	16	ἀργυρίου	ἀργύριον	noun, genitive neuter singular dependent on τάλαντα	1	of silver
 1CH 29:7	1	17	ταλάντων	τάλαντον	noun, genitive neuter plural	1	talents
 1CH 29:7	1	18	δέκα	δέκα	indeclinable cardinal numeral	1	ten
 1CH 29:7	1	19	χιλιάδας	χιλιάς	noun, accusative feminine plural	1	thousand
@@ -211,23 +211,23 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:7	1	28	χιλιάδας	χιλιάς	noun, accusative feminine plural	1	thousands
 1CH 29:7	1	29	ἑκατόν	ἑκατόν	indeclinable cardinal numeral	1	one hundred
 1CH 29:8	1	1	Καὶ	καί	conjunction	1	and
-1CH 29:8	1	2	οἷς	ὅς	relative pronoun, dative masc. pl. 'to whom it seemed	1	whose (to whom)
-1CH 29:8	1	3	εὑρέθη	εὑρίσκω	aorist passive indicative, 3rd sg., was found	1	was found (had)
-1CH 29:8	1	4	παρ᾽	παρά	preposition with the accusative, elided	1	beside
+1CH 29:8	1	2	οἷς	ὅς	relative pronoun, dative masc. pl. 'to whom it seemed	1	those who
+1CH 29:8	1	3	εὑρέθη	εὑρίσκω	aorist passive indicative, 3rd sg., was found	1	was found
+1CH 29:8	1	4	παρ᾽	παρά	preposition with the accusative, elided	1	with
 1CH 29:8	1	5	αὐτοῖς	αὐτός	pronoun, dative masculine/neuter plural	1	them
 1CH 29:8	1	6	λίθος	λίθος	noun, nominative masculine singular	1	stone
 1CH 29:8	1	7	ἔδωκαν	δίδωμι	aorist active indicative, third plural	1	they gave
-1CH 29:8	1	8	εἰς	εἰς	preposition with the accusative	1	into
+1CH 29:8	1	8	εἰς	εἰς	preposition with the accusative	1	to
 1CH 29:8	1	9	τὰς	ὁ	article, accusative feminine plural	1	the
 1CH 29:8	1	10	ἀποθήκας	ἀποθήκη	noun, accusative feminine plural	1	storerooms
 1CH 29:8	1	11	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 1CH 29:8	1	12	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-1CH 29:8	1	13	διὰ	διά	preposition with the accusative	1	because of
+1CH 29:8	1	13	διὰ	διά	preposition with the accusative	1	through
 1CH 29:8	1	14	χειρὸς	χείρ	noun, genitive feminine singular	1	the hand
 1CH 29:8	1	15	Ἰειὴλ	Ἰειήλ	indeclinable personal name, nominative in context	1	of Jehiel
 1CH 29:8	1	15	Ἰειὴλ			2	of Ieiel
 1CH 29:8	1	16	τοῦ	ὁ	article, genitive singular	1	the
-1CH 29:8	1	17	Γηρσωνί	Γηρσωνί	indeclinable personal name, genitive in context	1	of Gersoni
+1CH 29:8	1	17	Γηρσωνί	Γηρσωνί	indeclinable personal name, genitive in context	1	Gershonite
 1CH 29:9	1	1	Καὶ	καί	conjunction	1	and
 1CH 29:9	1	2	ηὐφράνθη	εὐφραίνω	aorist passive indicative third singular	1	rejoiced
 1CH 29:9	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -265,7 +265,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:10	1	14	Κύριε	κύριος	noun vocative masculine singular	1	O Lord
 1CH 29:10	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
 1CH 29:10	1	16	Θεὸς	θεός	noun, nominative masculine singular	1	God
-1CH 29:10	1	17	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	Israel
+1CH 29:10	1	17	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
 1CH 29:10	1	18	ὁ	ὁ	article, nominative masculine singular	1	the
 1CH 29:10	1	19	πατὴρ	πατήρ	noun, nominative masculine singular	1	father
 1CH 29:10	1	20	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
@@ -273,7 +273,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:10	1	22	τοῦ	ὁ	article genitive masculine singular	1	the
 1CH 29:10	1	23	αἰῶνος	αἰών	noun genitive masculine singular	1	age
 1CH 29:10	1	24	καὶ	καί	conjunction	1	and
-1CH 29:10	1	25	ἕως	ἕως	preposition with the genitive	1	as far as
+1CH 29:10	1	25	ἕως	ἕως	preposition with the genitive	1	until
 1CH 29:10	1	25	ἕως			2	up to
 1CH 29:10	1	26	τοῦ	ὁ	article, genitive masculine singular	1	the
 1CH 29:10	1	27	αἰῶνος	αἰών	noun, genitive masculine singular	1	age
@@ -349,7 +349,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:12	1	30	καὶ	καί	conjunction	1	and
 1CH 29:12	1	31	κατισχύσαι	κατισχύω	aorist active infinitive	1	to strengthen
 1CH 29:12	1	32	τὰ	ὁ	article, accusative neuter plural	1	the
-1CH 29:12	1	33	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	1	all (these)
+1CH 29:12	1	33	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	1	all
 1CH 29:13	1	1	Καὶ	καί	conjunction	1	and
 1CH 29:13	1	2	νῦν	νῦν	adverb of time	1	now
 1CH 29:13	1	3	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
@@ -360,7 +360,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:13	1	8	τὸ	ὁ	article, accusative neuter singular	1	the
 1CH 29:13	1	9	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 1CH 29:13	1	10	τῆς	ὁ	article, genitive feminine singular	1	of the
-1CH 29:13	1	11	καυχήσεώς	καύχησις	noun, genitive feminine singular	1	of boasting
+1CH 29:13	1	11	καυχήσεώς	καύχησις	noun, genitive feminine singular	1	boasting
 1CH 29:13	1	12	σου	σύ	pronoun, genitive 2nd singular	1	your
 1CH 29:14	1	1	Καὶ	καί	conjunction	1	and
 1CH 29:14	1	2	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
@@ -372,17 +372,17 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:14	1	8	λαός	λαός	noun, nominative masculine singular	1	people
 1CH 29:14	1	9	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 1CH 29:14	1	9	μου			2	of me
-1CH 29:14	1	10	ὅτι	ὅτι	causal conjunction	1	because
+1CH 29:14	1	10	ὅτι	ὅτι	causal conjunction	1	that
 1CH 29:14	1	11	ἰσχύσαμεν	ἰσχύω	aorist active indicative, first plural	1	we had strength
 1CH 29:14	1	12	προθυμηθῆναί	προθυμέομαι	aorist passive infinitive	1	to offer willingly
 1CH 29:14	1	13	σοι	σύ	personal pronoun, dative second singular	1	to you
 1CH 29:14	1	14	κατὰ	κατά	preposition with the accusative	1	according to
 1CH 29:14	1	15	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
-1CH 29:14	1	16	ὅτι	ὅτι	conjunction introducing a content clause	1	that
-1CH 29:14	1	17	σὰ	σός	adjective, nominative neuter plural; used substantivally	1	your people
+1CH 29:14	1	16	ὅτι	ὅτι	conjunction introducing a content clause	1	for
+1CH 29:14	1	17	σὰ	σός	adjective, nominative neuter plural; used substantivally	1	yours
 1CH 29:14	1	17	σὰ			2	what is yours
 1CH 29:14	1	18	τὰ	ὁ	article, accusative neuter plural; substantivizes πάντα, marks the totality	1	—
-1CH 29:14	1	19	πάντα	πᾶς	adjective, accusative neuter plural; used substantivally	1	all of it
+1CH 29:14	1	19	πάντα	πᾶς	adjective, accusative neuter plural; used substantivally	1	all things
 1CH 29:14	1	20	καὶ	καί	conjunction	1	and
 1CH 29:14	1	21	ἐκ	ἐκ	preposition with the genitive	1	from
 1CH 29:14	1	22	τῶν	ὁ	article, genitive plural	1	the
@@ -401,7 +401,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:15	1	10	οἱ	ὁ	article nominative masculine plural	1	the
 1CH 29:15	1	11	πατέρες	πατήρ	noun, nominative masculine plural	1	fathers
 1CH 29:15	1	12	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
-1CH 29:15	1	13	ὡς	ὡς	exclamatory adverb	1	how
+1CH 29:15	1	13	ὡς	ὡς	exclamatory adverb	1	as
 1CH 29:15	1	14	σκιὰ	σκιά	noun, nominative feminine singular	1	shadow
 1CH 29:15	1	15	αἱ	ὁ	article, nominative feminine plural	1	the
 1CH 29:15	1	16	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days
@@ -437,9 +437,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:16	1	21	σου	σύ	personal pronoun, possessive genitive singular	1	your
 1CH 29:16	1	22	ἐστὶ	εἰμί	present indicative, third singular	1	is
 1CH 29:16	1	23	καὶ	καί	conjunction	1	and
-1CH 29:16	1	24	σοὶ	σύ	pronoun, dative second singular	1	you
+1CH 29:16	1	24	σοὶ	σύ	pronoun, dative second singular	1	to you
 1CH 29:16	1	25	τὰ	ὁ	article, accusative neuter plural	1	the
-1CH 29:16	1	26	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	1	all (these)
+1CH 29:16	1	26	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	1	all
 1CH 29:17	1	1	Καὶ	καί	conjunction	1	and
 1CH 29:17	1	2	ἔγνων	γινώσκω	aorist active indicative, first singular	1	I knew
 1CH 29:17	1	3	Κύριε	κύριος	noun vocative masculine singular	1	O Lord
@@ -468,7 +468,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:17	1	24	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 29:17	1	25	εὑρεθέντα	εὑρίσκω	aorist passive imperative, accusative neuter singular	1	found
 1CH 29:17	1	26	ὧδε	ὧδε	adverb	1	here
-1CH 29:17	1	27	εἶδον	ὁράω	aorist active indicative, third plural	1	they saw
+1CH 29:17	1	27	εἶδον	ὁράω	aorist active indicative, third plural	1	I saw
 1CH 29:17	1	28	ἐν	ἐν	preposition with the dative	1	in
 1CH 29:17	1	29	εὐφροσύνῃ	εὐφροσύνη	noun, dative feminine singular	1	rejoicing
 1CH 29:17	1	29	εὐφροσύνῃ			2	gladness
@@ -488,10 +488,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:18	1	12	φύλαξον	φυλάσσω	aorist active imperative, 2nd singular	1	keep
 1CH 29:18	1	13	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 1CH 29:18	1	14	ἐν	ἐν	preposition with the dative	1	in
-1CH 29:18	1	15	διανοίᾳ	διάνοια	noun, dative fem. sg. after ἐν τῇ	1	in the mind
+1CH 29:18	1	15	διανοίᾳ	διάνοια	noun, dative fem. sg. after ἐν τῇ	1	the mind
 1CH 29:18	1	15	διανοίᾳ			2	heart
 1CH 29:18	1	16	καρδίας	καρδία	noun, accusative feminine plural	1	of the heart
-1CH 29:18	1	17	λαοῦ	λαός	noun, genitive masculine singular	1	people
+1CH 29:18	1	17	λαοῦ	λαός	noun, genitive masculine singular	1	of the people
 1CH 29:18	1	18	σου	σύ	pronoun, genitive 2nd singular	1	your
 1CH 29:18	1	19	εἰς	εἰς	preposition with the accusative	1	into
 1CH 29:18	1	20	τὸν	ὁ	definite article, accusative masculine singular	1	the
@@ -504,7 +504,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:18	1	27	πρὸς	πρός	preposition with the accusative	1	to
 1CH 29:18	1	28	σέ	σύ	personal pronoun, emphatic accusative singular governed by πρός	1	you
 1CH 29:19	1	1	Καὶ	καί	conjunction	1	and
-1CH 29:19	1	2	Σαλωμὼν	Σαλωμών	indeclinable personal name, nominative in context	1	Solomon
+1CH 29:19	1	2	Σαλωμὼν	Σαλωμών	indeclinable personal name, nominative in context	1	to Solomon
 1CH 29:19	1	3	τῷ	ὁ	article, dative masculine singular	1	the
 1CH 29:19	1	4	υἱῷ	υἱός	noun, dative masculine singular	1	son
 1CH 29:19	1	5	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
@@ -527,7 +527,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:19	1	20	σου	σύ	pronoun, possessive genitive second singular	1	your
 1CH 29:19	1	21	καὶ	καί	conjunction	1	and
 1CH 29:19	1	22	τοῦ	ὁ	article, genitive singular	1	the
-1CH 29:19	1	23	ἐπὶ	ἐπί	preposition (case from context)	1	on
+1CH 29:19	1	23	ἐπὶ	ἐπί	preposition (case from context)	1	to
 1CH 29:19	1	24	τέλος	τέλος	noun, accusative neuter singular	1	completion
 1CH 29:19	1	25	ἀγαγεῖν	ἄγω	aorist active infinitive, reported command 'to bring (him)'	1	to bring
 1CH 29:19	1	26	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -539,7 +539,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:20	1	1	Καὶ	καί	conjunction	1	and
 1CH 29:20	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 1CH 29:20	1	3	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
-1CH 29:20	1	4	πάσῃ	πᾶς	adjective, dative feminine singular modifying ἐκκλησίᾳ	1	all
+1CH 29:20	1	4	πάσῃ	πᾶς	adjective, dative feminine singular modifying ἐκκλησίᾳ	1	to all
 1CH 29:20	1	5	τῇ	ὁ	article, dative feminine singular	1	the
 1CH 29:20	1	6	ἐκκλησίᾳ	ἐκκλησία	noun, dative feminine singular	1	assembly
 1CH 29:20	1	7	εὐλογήσατε	εὐλογέω	aorist active imperative, 2nd pl.	1	bless
@@ -567,22 +567,22 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:20	1	28	τῷ	ὁ	article, dative masculine singular	1	to the
 1CH 29:20	1	29	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 1CH 29:20	1	30	καὶ	καί	conjunction	1	and
-1CH 29:20	1	31	τῷ	ὁ	article, dative masculine singular	1	the
+1CH 29:20	1	31	τῷ	ὁ	article, dative masculine singular	1	to the
 1CH 29:20	1	32	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 1CH 29:21	1	1	Καὶ	καί	conjunction	1	and
 1CH 29:21	1	2	ἔθυσε	θύω	aorist active indicative, third singular	1	sacrificed
 1CH 29:21	1	3	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 1CH 29:21	1	4	τῷ	ὁ	article, dative masculine singular	1	to the
 1CH 29:21	1	5	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
-1CH 29:21	1	6	θυσίας	θυσία	noun, genitive feminine singular	1	grain offering
+1CH 29:21	1	6	θυσίας	θυσία	noun, genitive feminine singular	1	sacrifices
 1CH 29:21	1	7	καὶ	καί	conjunction	1	and
 1CH 29:21	1	8	ἀνήνεγκεν	ἀναφέρω	aorist active indicative, third singular	1	he brought up
 1CH 29:21	1	9	ὁλοκαυτώματα	ὁλοκαύτωμα	noun, accusative neuter plural	1	whole burnt offerings
-1CH 29:21	1	10	τῷ	ὁ	article, dative masculine singular	1	the
+1CH 29:21	1	10	τῷ	ὁ	article, dative masculine singular	1	to the
 1CH 29:21	1	11	Θεῷ	θεός	noun, dative masculine singular	1	God
-1CH 29:21	1	12	τῇ	ὁ	article, dative feminine singular	1	the
+1CH 29:21	1	12	τῇ	ὁ	article, dative feminine singular	1	on the
 1CH 29:21	1	13	ἐπαύριον	ἐπαύριον	adverb	1	next day
-1CH 29:21	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+1CH 29:21	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 1CH 29:21	1	15	πρώτης	πρῶτος	adjective, genitive fem. sg. with ἡμέρας	1	first
 1CH 29:21	1	16	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
 1CH 29:21	1	17	μόσχους	μόσχος	noun, accusative masculine plural	1	calves
@@ -601,7 +601,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:21	1	29	εἰς	εἰς	preposition with the accusative of purpose	1	in
 1CH 29:21	1	30	πλῆθος	πλῆθος	noun, accusative neuter singular	1	multitude
 1CH 29:21	1	30	πλῆθος			2	abundance
-1CH 29:21	1	31	παντὶ	πᾶς	adjective, dative masculine singular; modifies οἴκῳ	1	all
+1CH 29:21	1	31	παντὶ	πᾶς	adjective, dative masculine singular; modifies οἴκῳ	1	for all
 1CH 29:21	1	32	τῷ	ὁ	article, dative masculine singular	1	the
 1CH 29:21	1	33	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, dative in context	1	Israel
 1CH 29:22	1	1	Καὶ	καί	conjunction	1	and
@@ -623,17 +623,17 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:22	1	17	τὸν	ὁ	article, accusative masculine singular, marks the name	1	—
 1CH 29:22	1	18	Σαλωμὼν	Σαλωμών	indeclinable personal name, accusative in context	1	Solomon
 1CH 29:22	1	19	υἱὸν	υἱός	noun, accusative masculine singular	1	son
-1CH 29:22	1	20	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
+1CH 29:22	1	20	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	of David
 1CH 29:22	1	21	καὶ	καί	conjunction	1	and
 1CH 29:22	1	22	ἔχρισαν	χρίω	aorist active indicative, third plural	1	they anointed
 1CH 29:22	1	23	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 1CH 29:22	1	24	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 1CH 29:22	1	25	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
-1CH 29:22	1	26	εἰς	εἰς	preposition with the accusative	1	into
+1CH 29:22	1	26	εἰς	εἰς	preposition with the accusative	1	as
 1CH 29:22	1	27	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 1CH 29:22	1	28	καὶ	καί	conjunction	1	and
 1CH 29:22	1	29	Σαδὼκ	Σαδώκ	indeclinable personal name, nominative in context	1	Zadok
-1CH 29:22	1	30	εἰς	εἰς	preposition with the accusative	1	into
+1CH 29:22	1	30	εἰς	εἰς	preposition with the accusative	1	for
 1CH 29:22	1	31	ἱερωσύνην	ἱερωσύνη	noun, accusative feminine singular	1	priesthood
 1CH 29:23	1	1	Καὶ	καί	conjunction	1	and
 1CH 29:23	1	2	ἐκάθισε	καθίζω	aorist active indicative, third singular	1	sat
@@ -662,10 +662,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:24	1	6	καὶ	καί	conjunction	1	and
 1CH 29:24	1	7	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 1CH 29:24	1	8	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-1CH 29:24	1	9	τοῦ	ὁ	article, genitive singular	1	the
+1CH 29:24	1	9	τοῦ	ὁ	article, genitive singular	1	of the
 1CH 29:24	1	10	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 1CH 29:24	1	11	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
-1CH 29:24	1	12	πατρὸς	πατήρ	noun, genitive masculine singular	1	his father
+1CH 29:24	1	12	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 1CH 29:24	1	13	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1CH 29:24	1	14	ὑπετάγησαν	ὑποτάσσω	aorist passive indicative third plural	1	were subjected
 1CH 29:24	1	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -717,9 +717,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:28	1	5	καλῷ	καλός	adjective, dative neuter singular	1	good
 1CH 29:28	1	6	πλήρης	πλήρης	adjective, nominative masculine singular	1	full
 1CH 29:28	1	7	ἡμερῶν	ἡμέρα	noun, genitive feminine plural; time expression	1	of days
-1CH 29:28	1	8	πλούτῳ	πλοῦτος	noun, dative masculine singular	1	wealth
+1CH 29:28	1	8	πλούτῳ	πλοῦτος	noun, dative masculine singular	1	in wealth
 1CH 29:28	1	9	καὶ	καί	conjunction	1	and
-1CH 29:28	1	10	δόξῃ	δόξα	noun dative feminine singular of means	1	with glory
+1CH 29:28	1	10	δόξῃ	δόξα	noun dative feminine singular of means	1	glory
 1CH 29:28	1	11	καὶ	καί	conjunction	1	and
 1CH 29:28	1	12	ἐβασίλευσε	βασιλεύω	aorist active indicative, third singular	1	reigned
 1CH 29:28	1	13	Σαλωμὼν	Σαλωμών	indeclinable personal name, nominative in context	1	Solomon
@@ -732,11 +732,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:29	1	3	λοιποὶ	λοιπός	adjective, nominative masculine plural; substantival	1	the rest
 1CH 29:29	1	3	λοιποὶ			2	those remaining
 1CH 29:29	1	4	λόγοι	λόγος	noun, nominative masculine plural	1	words
-1CH 29:29	1	5	τοῦ	ὁ	article, genitive singular	1	the
+1CH 29:29	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 1CH 29:29	1	6	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 1CH 29:29	1	7	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 1CH 29:29	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
-1CH 29:29	1	9	πρότεροι	πρότερος	adjective, nominative masculine plural	1	before
+1CH 29:29	1	9	πρότεροι	πρότερος	adjective, nominative masculine plural	1	former
 1CH 29:29	1	10	καὶ	καί	conjunction	1	and
 1CH 29:29	1	11	οἱ	ὁ	article, nominative masculine plural	1	the
 1CH 29:29	1	12	ὕστεροι	ὕστερος	adjective, nominative masculine plural	1	latter
@@ -745,19 +745,19 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 29:29	1	15	ἐν	ἐν	preposition with the dative	1	in
 1CH 29:29	1	16	λόγοις	λόγος	noun, dative masculine plural	1	words
 1CH 29:29	1	17	Σαμουὴλ	Σαμουήλ	indeclinable personal name, nominative in context	1	of Samuel
-1CH 29:29	1	18	τοῦ	ὁ	article, genitive masculine singular	1	of the
+1CH 29:29	1	18	τοῦ	ὁ	article, genitive masculine singular	1	the
 1CH 29:29	1	19	βλέποντος	βλέπω	present active imperative, genitive masculine singular	1	seer
 1CH 29:29	1	20	καὶ	καί	conjunction	1	and
-1CH 29:29	1	21	ἐπὶ	ἐπί	preposition (case from context)	1	on
+1CH 29:29	1	21	ἐπὶ	ἐπί	preposition (case from context)	1	in
 1CH 29:29	1	22	λόγων	λόγος	noun, genitive masculine plural governed by ἐπί	1	records
-1CH 29:29	1	23	Νάθαν	Νάθαν	indeclinable personal name, nominative in context	1	Nathan
-1CH 29:29	1	24	τοῦ	ὁ	article, genitive masculine singular	1	of the
+1CH 29:29	1	23	Νάθαν	Νάθαν	indeclinable personal name, nominative in context	1	of Nathan
+1CH 29:29	1	24	τοῦ	ὁ	article, genitive masculine singular	1	the
 1CH 29:29	1	25	προφήτου	προφήτης	noun, genitive masculine singular	1	prophet
 1CH 29:29	1	26	καὶ	καί	conjunction	1	and
-1CH 29:29	1	27	ἐπὶ	ἐπί	preposition (case from context)	1	on
+1CH 29:29	1	27	ἐπὶ	ἐπί	preposition (case from context)	1	in
 1CH 29:29	1	28	λόγων	λόγος	noun, genitive masculine plural governed by ἐπί	1	records
-1CH 29:29	1	29	Γὰδ	Γάδ	indeclinable personal name, nominative in context	1	Gad
-1CH 29:29	1	30	τοῦ	ὁ	article, genitive masculine/neuter singular	1	of the
+1CH 29:29	1	29	Γὰδ	Γάδ	indeclinable personal name, nominative in context	1	of Gad
+1CH 29:29	1	30	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
 1CH 29:29	1	31	βλέποντος	βλέπω	present active imperative, genitive masculine singular	1	seer
 1CH 29:30	1	1	περὶ	περί	preposition with genitive	1	for
 1CH 29:30	1	2	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
