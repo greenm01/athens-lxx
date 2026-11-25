@@ -38,7 +38,7 @@ JOS 14:2	1	6	ἐνετείλατο	ἐντέλλομαι	aorist middle indicativ
 JOS 14:2	1	7	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JOS 14:2	1	8	ἐν	ἐν	preposition with the dative	1	through
 JOS 14:2	1	9	χειρὶ	χείρ	noun, dative feminine singular	1	hand
-JOS 14:2	1	10	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	Moses
+JOS 14:2	1	10	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	of Moses
 JOS 14:2	1	11	ταῖς	ὁ	article, dative feminine plural	1	to the
 JOS 14:2	1	12	ἐννέα	ἐννέα	indeclinable cardinal numeral	1	nine
 JOS 14:2	1	13	φυλαῖς	φυλή	noun, dative feminine plural	1	tribes
@@ -83,7 +83,7 @@ JOS 14:4	1	5	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, genitive in co
 JOS 14:4	1	6	δύο	δύο	cardinal numeral, indeclinable	1	two
 JOS 14:4	1	7	φυλαὶ	φυλή	noun, nominative feminine plural	1	tribes
 JOS 14:4	1	7	φυλαὶ			2	clans
-JOS 14:4	1	8	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	1	of Manasseh
+JOS 14:4	1	8	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	1	Manasseh
 JOS 14:4	1	9	καὶ	καί	conjunction	1	and
 JOS 14:4	1	10	Ἐφραΐμ	Ἐφραΐμ	indeclinable personal name, nominative in context	1	Ephraim
 JOS 14:4	1	11	καὶ	καί	conjunction	1	and
@@ -97,7 +97,7 @@ JOS 14:4	1	17	γῇ	γῆ	noun, dative feminine singular	1	land
 JOS 14:4	1	18	τοῖς	ὁ	article, dative neuter plural	1	to the
 JOS 14:4	1	19	Λευίταις	Λευίτης	proper noun, dative masculine plural	1	Levites
 JOS 14:4	1	20	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
-JOS 14:4	1	21	ἢ	ἤ	exceptive particle with ἀλλά	1	only
+JOS 14:4	1	21	ἢ	ἤ	exceptive particle with ἀλλά	1	—
 JOS 14:4	1	22	πόλεις	πόλις	noun, accusative feminine plural	1	cities
 JOS 14:4	1	23	κατοικεῖν	κατοικέω	present active infinitive	1	to live in
 JOS 14:4	1	24	καὶ	καί	conjunction	1	and
@@ -164,8 +164,8 @@ JOS 14:6	1	34	καὶ	καί	conjunction	1	and
 JOS 14:6	1	35	σοῦ	σύ	personal pronoun, genitive singular	1	you
 JOS 14:6	1	36	ἐν	ἐν	preposition with the dative	1	in
 JOS 14:6	1	37	Κάδης	Κάδης	indeclinable place name, nominative in context	1	Kadesh
-JOS 14:6	1	38	Βαρνῆ	Βαρνῆ	indeclinable part of a place name, genitive in context	1	Barne
-JOS 14:6	1	38	Βαρνῆ			2	Barnea
+JOS 14:6	1	38	Βαρνῆ	Βαρνῆ	indeclinable part of a place name, genitive in context	1	Barnea
+JOS 14:6	1	38	Βαρνῆ			2	Barne
 JOS 14:7	1	1	Τεσσαράκοντα	τεσσαράκοντα	indeclinable cardinal numeral	1	forty
 JOS 14:7	1	2	γὰρ	γάρ	explanatory conjunction	1	for
 JOS 14:7	1	3	ἐτῶν	ἔτος	noun, genitive neuter plural	1	years old
@@ -179,8 +179,8 @@ JOS 14:7	1	9	δοῦλος			2	slave
 JOS 14:7	1	10	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 JOS 14:7	1	11	ἐκ	ἐκ	preposition with the genitive	1	from
 JOS 14:7	1	12	Κάδης	Κάδης	indeclinable place name, nominative in context	1	Kadesh
-JOS 14:7	1	13	Βαρνῆ	Βαρνῆ	indeclinable part of a place name, genitive in context	1	Barne
-JOS 14:7	1	13	Βαρνῆ			2	Barnea
+JOS 14:7	1	13	Βαρνῆ	Βαρνῆ	indeclinable part of a place name, genitive in context	1	Barnea
+JOS 14:7	1	13	Βαρνῆ			2	Barne
 JOS 14:7	1	14	κατασκοπεῦσαι	κατασκοπεύω	aorist active infinitive	1	to spy out
 JOS 14:7	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 14:7	1	16	γῆν	γῆ	noun, accusative feminine singular	1	land
@@ -224,7 +224,7 @@ JOS 14:9	1	5	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative femin
 JOS 14:9	1	6	τῇ	ὁ	article, dative feminine singular	1	the
 JOS 14:9	1	7	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 JOS 14:9	1	8	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
-JOS 14:9	1	9	ὅτι	ὅτι	conjunction introducing the oath	1	[introduces the oath]
+JOS 14:9	1	9	ὅτι	ὅτι	conjunction introducing the oath	1	that
 JOS 14:9	1	10	ἡ	ὁ	article, nominative feminine singular	1	the
 JOS 14:9	1	11	γῆ	γῆ	noun, nominative feminine singular	1	land
 JOS 14:9	1	12	ἐφ᾽	ἐπί	preposition with genitive, elided	1	on
@@ -349,8 +349,8 @@ JOS 14:12	1	24	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative fem
 JOS 14:12	1	25	Νυνὶ	νῦν	temporal adverb	1	now then
 JOS 14:12	1	26	δὲ	δέ	postpositive conjunction	1	and
 JOS 14:12	1	27	οἱ	ὁ	article, nominative masculine plural	1	the
-JOS 14:12	1	28	Ἐνακὶμ	Ἐνακίμ	indeclinable ethnonym, nominative in context	1	Enakim
-JOS 14:12	1	28	Ἐνακὶμ			2	Anakim
+JOS 14:12	1	28	Ἐνακὶμ	Ἐνακίμ	indeclinable ethnonym, nominative in context	1	Anakim
+JOS 14:12	1	28	Ἐνακὶμ			2	Enakim
 JOS 14:12	1	29	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 JOS 14:12	1	30	εἰσὶ	εἰμί	present indicative, third plural	1	are
 JOS 14:12	1	31	πόλεις	πόλις	noun, accusative feminine plural	1	cities
@@ -378,7 +378,7 @@ JOS 14:13	1	5	καὶ	καί	conjunction	1	and
 JOS 14:13	1	6	ἔδωκε	δίδωμι	aorist active indicative, third singular	1	gave
 JOS 14:13	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 14:13	1	8	Χεβρὼν	Χεβρών	indeclinable personal name, nominative in context	1	Hebron
-JOS 14:13	1	9	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+JOS 14:13	1	9	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 JOS 14:13	1	10	Χάλεβ	Χάλεβ	indeclinable personal name, dative in context	1	Caleb
 JOS 14:13	1	11	υἱῷ	υἱός	noun, dative masculine singular	1	son
 JOS 14:13	1	12	Ἰεφοννῆ	Ἰεφοννῆς	noun, genitive masculine singular	1	of Jephunneh
@@ -424,13 +424,13 @@ JOS 14:15	1	4	Χεβρὼν	Χεβρών	indeclinable place name, genitive in co
 JOS 14:15	1	5	τὸ	ὁ	article, accusative neuter singular	1	—
 JOS 14:15	1	6	πρότερον	πρότερος	comparative adjective used adverbially, accusative neuter singular	1	formerly
 JOS 14:15	1	7	πόλις	πόλις	noun, nominative feminine singular	1	city
-JOS 14:15	1	8	Ἀρβό	Ἀρβό	indeclinable personal name in a place name, genitive in context	1	Arbo
-JOS 14:15	1	8	Ἀρβό			2	Arba
+JOS 14:15	1	8	Ἀρβό	Ἀρβό	indeclinable personal name in a place name, genitive in context	1	Arba
+JOS 14:15	1	8	Ἀρβό			2	Arbo
 JOS 14:15	1	9	μητρόπολις	μητρόπολις	noun, nominative feminine singular	1	chief city
 JOS 14:15	1	9	μητρόπολις			2	mother city
 JOS 14:15	1	10	τῶν	ὁ	article, genitive masculine plural	1	of the
-JOS 14:15	1	11	Ἐνακὶμ	Ἐνακίμ	indeclinable ethnonym, genitive in context	1	Enakim
-JOS 14:15	1	11	Ἐνακὶμ			2	Anakim
+JOS 14:15	1	11	Ἐνακὶμ	Ἐνακίμ	indeclinable ethnonym, genitive in context	1	Anakim
+JOS 14:15	1	11	Ἐνακὶμ			2	Enakim
 JOS 14:15	1	12	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 JOS 14:15	1	13	Καὶ	καί	conjunction	1	and
 JOS 14:15	1	14	ἡ	ὁ	article, nominative feminine singular	1	the

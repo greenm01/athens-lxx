@@ -5,7 +5,7 @@ JDG 3:1	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 JDG 3:1	1	4	ἔθνη	ἔθνος	noun, accusative neuter plural	1	nations
 JDG 3:1	1	4	ἔθνη			2	peoples
 JDG 3:1	1	5	ἃ	ὅς	relative pronoun, accusative neuter plural	1	which
-JDG 3:1	1	6	ἀφῆκεν	ἀφίημι	aorist active indicative, third singular	1	let
+JDG 3:1	1	6	ἀφῆκεν	ἀφίημι	aorist active indicative, third singular	1	left
 JDG 3:1	1	7	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua
 JDG 3:1	1	8	ὥστε	ὥστε	conjunction with the infinitive	1	so as
 JDG 3:1	1	9	πειρᾶσαι	πειράζω	aorist active infinitive	1	to test
@@ -58,14 +58,14 @@ JDG 3:3	1	12	Σιδώνιον	Σιδώνιος	noun, accusative masculine singul
 JDG 3:3	1	13	καὶ	καί	conjunction	1	and
 JDG 3:3	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 3:3	1	15	Εὐαῖον	Εὐαῖον	ethnic noun, accusative masculine singular collective after τὸν	1	Hivite (people)
-JDG 3:3	1	16	τὸν	ὁ	article, accusative masculine singular	1	the
+JDG 3:3	1	16	τὸν	ὁ	article, accusative masculine singular	1	—
 JDG 3:3	1	17	κατοικοῦντα	κατοικέω	present active participle, accusative masculine singular	1	dwelling in
 JDG 3:3	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 3:3	1	19	Λίβανον	λίβανος	proper name, accusative masculine singular	1	Lebanon
 JDG 3:3	1	20	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JDG 3:3	1	21	τοῦ	ὁ	article, genitive singular	1	the
 JDG 3:3	1	22	ὄρους	ὄρος	noun, genitive neuter singular	1	mountain
-JDG 3:3	1	23	τοῦ	ὁ	article, genitive singular	1	the
+JDG 3:3	1	23	τοῦ	ὁ	article, genitive singular	1	of
 JDG 3:3	1	24	Βααλερμὼν	Βααλερμών	indeclinable place name, genitive in context	1	Baal-hermon
 JDG 3:3	1	25	ἕως	ἕως	preposition with the genitive	1	as far as
 JDG 3:3	1	25	ἕως			2	up to
@@ -181,7 +181,7 @@ JDG 3:8	1	13	Χουσαρσαθαὶμ	Χουσαρσαθαίμ	indeclinable per
 JDG 3:8	1	14	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 JDG 3:8	1	15	Συρίας	Συρία	noun, genitive feminine singular; place name	1	of Syria
 JDG 3:8	1	16	Μεσοποταμίας	Μεσοποταμία	declined place name, genitive feminine singular	1	Mesopotamia
-JDG 3:8	1	17	ποταμῶν	ποταμός	noun, genitive masculine plural	1	rivers
+JDG 3:8	1	17	ποταμῶν	ποταμός	noun, genitive masculine plural	1	of rivers
 JDG 3:8	1	18	καὶ	καί	conjunction	1	and
 JDG 3:8	1	19	ἐδούλευσαν	δουλεύω	aorist active indicative, third plural	1	served
 JDG 3:8	1	20	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -217,10 +217,10 @@ JDG 3:9	1	21	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	
 JDG 3:9	1	22	Χάλεβ	Χάλεβ	indeclinable personal name, genitive in context	1	of Caleb
 JDG 3:9	1	23	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 3:9	1	24	νεώτερον	νέος	comparative adjective, accusative masculine singular	1	younger
-JDG 3:9	1	25	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
+JDG 3:9	1	25	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	than him
 JDG 3:9	1	26	καὶ	καί	conjunction	1	and
 JDG 3:9	1	27	εἰσήκουσεν	εἰσακούω	aorist active indicative, third singular with genitive	1	listened
-JDG 3:9	1	28	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
+JDG 3:9	1	28	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	to them
 JDG 3:10	1	1	Καὶ	καί	conjunction	1	and
 JDG 3:10	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to be
 JDG 3:10	1	2	ἐγένετο			2	it was
@@ -282,7 +282,7 @@ JDG 3:12	1	11	καὶ	καί	conjunction	1	and
 JDG 3:12	1	12	ἐνίσχυσε	ἐνισχύω	aorist active indicative, third singular	1	strengthened
 JDG 3:12	1	13	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JDG 3:12	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
-JDG 3:12	1	15	Ἐγλὼμ	Ἐγλώμ	indeclinable place name, nominative in context	1	Eglom
+JDG 3:12	1	15	Ἐγλὼμ	Ἐγλώμ	indeclinable place name, nominative in context	1	Eglon
 JDG 3:12	1	16	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 JDG 3:12	1	17	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	of Moab
 JDG 3:12	1	18	ἐπὶ	ἐπί	preposition with accusative	1	against
@@ -365,7 +365,7 @@ JDG 3:15	1	28	ἐν	ἐν	preposition with the dative	1	by
 JDG 3:15	1	29	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 JDG 3:15	1	30	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 JDG 3:15	1	31	τῷ	ὁ	article, dative masculine singular	1	the
-JDG 3:15	1	32	Ἐγλὼμ	Ἐγλώμ	indeclinable place name, nominative in context	1	Eglom
+JDG 3:15	1	32	Ἐγλὼμ	Ἐγλώμ	indeclinable place name, nominative in context	1	Eglon
 JDG 3:15	1	33	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 JDG 3:15	1	34	Μωάβ	Μωάβ	indeclinable place name, genitive in context	1	of Moab
 JDG 3:16	1	1	Καὶ	καί	conjunction	1	and
@@ -417,18 +417,18 @@ JDG 3:18	1	7	τὰ	ὁ	article, accusative neuter plural	1	the
 JDG 3:18	1	8	δῶρα	δῶρον	noun, accusative neuter plural	1	gifts
 JDG 3:18	1	9	καὶ	καί	conjunction	1	and
 JDG 3:18	1	10	ἐξαπέστειλε	ἐξαποστέλλω	aorist active indicative, third singular	1	sent away
-JDG 3:18	1	11	τοὺς	ὁ	article, accusative masculine plural	1	the
+JDG 3:18	1	11	τοὺς	ὁ	article, accusative masculine plural	1	those
 JDG 3:18	1	12	αἴροντας	αἴρω	present active participle, accusative masculine plural with ὄνους	1	carrying
 JDG 3:18	1	13	τὰ	ὁ	article, accusative neuter plural	1	the
 JDG 3:18	1	14	δῶρα	δῶρον	noun, accusative neuter plural	1	gifts
 JDG 3:19	1	1	καὶ	καί	conjunction	1	and
-JDG 3:19	1	2	Ἐγλὼμ	Ἐγλώμ	indeclinable place name, nominative in context	1	Eglom
+JDG 3:19	1	2	Ἐγλὼμ	Ἐγλώμ	indeclinable place name, nominative in context	1	Eglon
 JDG 3:19	1	3	ἀνέστρεψεν	ἀναστρέφω	aorist active indicative, third singular	1	returned
 JDG 3:19	1	4	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JDG 3:19	1	5	τῶν	ὁ	article, genitive plural	1	the
 JDG 3:19	1	6	γλυπτῶν	γλυπτός	substantival adjective, genitive neuter plural	1	carved images
 JDG 3:19	1	7	τῶν	ὁ	article introducing an attributive prepositional phrase, genitive neuter plural	1	that are
-JDG 3:19	1	8	μετὰ	μετά	preposition with genitive	1	with
+JDG 3:19	1	8	μετὰ	μετά	preposition with genitive	1	by
 JDG 3:19	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 JDG 3:19	1	10	Γαγάλ	Γαγάλ	indeclinable place name, genitive in context	1	Gilgal
 JDG 3:19	1	11	Καὶ	καί	conjunction	1	and
@@ -443,7 +443,7 @@ JDG 3:19	1	18	σε	σύ	personal pronoun, accusative singular	1	you
 JDG 3:19	1	19	βασιλεῦ	βασιλεύς	noun, vocative masculine singular	1	O king
 JDG 3:19	1	20	Καὶ	καί	conjunction	1	and
 JDG 3:19	1	21	εἶπεν	λέγω	aorist active indicative, third singular	1	said
-JDG 3:19	1	22	Ἐγλὼμ	Ἐγλώμ	indeclinable place name, nominative in context	1	Eglom
+JDG 3:19	1	22	Ἐγλὼμ	Ἐγλώμ	indeclinable place name, nominative in context	1	Eglon
 JDG 3:19	1	23	πᾶσιν	πᾶς	adjective, dative masculine plural	1	to all
 JDG 3:19	1	24	ἐκ	ἐκ	preposition with the genitive	1	from
 JDG 3:19	1	25	μέσου	μέσος	adjective, genitive neuter singular; substantival	1	midst
@@ -453,9 +453,9 @@ JDG 3:19	1	27	ἐξῆλθον	ἐξέρχομαι	aorist active indicative, thi
 JDG 3:19	1	28	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
 JDG 3:19	1	29	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; complement of μετά	1	him
 JDG 3:19	1	30	πάντες	πᾶς	adjective, nominative masculine plural	1	all
-JDG 3:19	1	31	οἱ	ὁ	article, nominative masculine plural	1	—
+JDG 3:19	1	31	οἱ	ὁ	article, nominative masculine plural	1	those
 JDG 3:19	1	32	παραστήκοντες	παρίστημι	perfect active participle, nominative masculine plural	1	who were standing
-JDG 3:19	1	33	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
+JDG 3:19	1	33	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	by him
 JDG 3:20	1	1	Καὶ	καί	conjunction	1	and
 JDG 3:20	1	2	Ἀὼδ	Ἀώδ	indeclinable personal name, nominative in context	1	Ehud
 JDG 3:20	1	3	εἰσῆλθε	εἰσέρχομαι	aorist active indicative, third singular; εἰσελθεῖν πρός of marital relations	1	went in
@@ -486,13 +486,13 @@ JDG 3:20	1	25	ἐξανέστη			2	got up
 JDG 3:20	1	26	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JDG 3:20	1	27	τοῦ	ὁ	article, genitive masculine singular	1	the
 JDG 3:20	1	28	θρόνου	θρόνος	noun, genitive masculine singular after ἐπὶ τοῦ	1	throne
-JDG 3:20	1	29	Ἐγλὼμ	Ἐγλώμ	indeclinable place name, nominative in context	1	Eglom
+JDG 3:20	1	29	Ἐγλὼμ	Ἐγλώμ	indeclinable place name, nominative in context	1	Eglon
 JDG 3:20	1	30	ἐγγὺς	ἐγγύς	adverb/predicate 'near	1	near
 JDG 3:20	1	31	αὐτοῦ	αὐτός	personal pronoun, genitive masculine singular	1	him
 JDG 3:21	1	1	Καὶ	καί	conjunction	1	and
 JDG 3:21	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 JDG 3:21	1	3	ἅμα	ἅμα	temporal adverb introducing articular infinitive	1	as
-JDG 3:21	1	4	τοῦ	ὁ	article, genitive masculine singular	1	of the
+JDG 3:21	1	4	τοῦ	ὁ	article, genitive masculine singular	1	—
 JDG 3:21	1	5	ἀναστῆναι	ἀνίστημι	aorist active infinitive	1	to rise
 JDG 3:21	1	6	ἐξέτεινεν	ἐκτείνω	aorist active indicative, third singular	1	stretched out
 JDG 3:21	1	7	Ἀὼδ	Ἀώδ	indeclinable personal name, nominative in context	1	Ehud
@@ -518,7 +518,7 @@ JDG 3:21	1	26	εἰς	εἰς	preposition with the accusative	1	into
 JDG 3:21	1	27	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 3:21	1	28	κοιλίαν	κοιλία	noun, accusative feminine singular	1	belly
 JDG 3:21	1	28	κοιλίαν			2	entrails
-JDG 3:21	1	29	Ἐγλώμ	Ἐγλώμ	indeclinable place name, nominative in context	1	Eglom
+JDG 3:21	1	29	Ἐγλώμ	Ἐγλώμ	indeclinable place name, nominative in context	1	of Eglon
 JDG 3:22	1	1	καὶ	καί	conjunction	1	and
 JDG 3:22	1	2	ἐπεισήνεγκε	ἐπεισφέρω	aorist active indicative, third singular	1	he drove in after it
 JDG 3:22	1	3	καίγε	καίγε	emphatic particle	1	indeed
@@ -599,7 +599,7 @@ JDG 3:25	1	4	καὶ	καί	conjunction	1	and
 JDG 3:25	1	5	ἰδοὺ	ἰδού	presentative particle	1	behold
 JDG 3:25	1	6	οὐκ	οὐ	negative particle	1	not
 JDG 3:25	1	7	ἦν	εἰμί	imperfect indicative, third singular	1	was
-JDG 3:25	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
+JDG 3:25	1	8	ὁ	ὁ	article, nominative masculine singular	1	the one
 JDG 3:25	1	9	ἀνοίγων	ἀνοίγω	present active participle, nominative masculine singular	1	opening
 JDG 3:25	1	10	τὰς	ὁ	article, accusative feminine plural	1	the
 JDG 3:25	1	11	θύρας	θύρα	noun, accusative feminine plural	1	doors
@@ -630,7 +630,7 @@ JDG 3:26	1	5	ἐθορυβοῦντο	θορυβέω	imperfect middle/passive in
 JDG 3:26	1	6	καὶ	καί	conjunction	1	and
 JDG 3:26	1	7	οὐκ	οὐ	negative adverb with future indicative	1	not
 JDG 3:26	1	8	ἦν	εἰμί	imperfect indicative, third singular	1	was
-JDG 3:26	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
+JDG 3:26	1	9	ὁ	ὁ	article, nominative masculine singular	1	the one
 JDG 3:26	1	10	προσνοῶν	προσνοέω	present active participle, nominative masculine singular	1	taking heed
 JDG 3:26	1	11	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 JDG 3:26	1	12	καὶ	καί	conjunction	1	and
@@ -643,7 +643,7 @@ JDG 3:26	1	17	καὶ	καί	conjunction	1	and
 JDG 3:26	1	18	διεσώθη	διασῴζω	aorist passive indicative, third singular	1	escaped
 JDG 3:26	1	19	ἕως	ἕως	preposition with the genitive	1	as far as
 JDG 3:26	1	19	ἕως			2	up to
-JDG 3:26	1	20	Σεειρωθά	Σεειρωθά	indeclinable place name, accusative in context	1	Seirah
+JDG 3:26	1	20	Σεειρωθά	Σεειρωθά	indeclinable place name, accusative in context	1	Seirath
 JDG 3:27	1	1	Καὶ	καί	conjunction	1	and
 JDG 3:27	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 JDG 3:27	1	3	ἡνίκα	ἡνίκα	temporal conjunction	1	when
@@ -762,7 +762,7 @@ JDG 3:30	1	23	οὗ	οὗ	relative pronoun, genitive neuter singular; temporal e
 JDG 3:30	1	24	ἀπέθανε	ἀποθνῄσκω	aorist active indicative, third singular	1	he died
 JDG 3:31	1	1	Καὶ	καί	conjunction	1	and
 JDG 3:31	1	2	μετὰ	μετά	preposition with the accusative	1	after
-JDG 3:31	1	3	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular, referring to the coat	1	this
+JDG 3:31	1	3	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular, referring to the coat	1	this one
 JDG 3:31	1	4	ἀνέστη	ἀνίστημι	aorist active indicative, third singular	1	rose up
 JDG 3:31	1	5	Σαμεγὰρ	Σαμεγάρ	indeclinable personal name, nominative in context	1	Shamgar
 JDG 3:31	1	6	υἱὸς	υἱός	noun, nominative masculine singular	1	son

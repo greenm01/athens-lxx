@@ -120,7 +120,7 @@ JOS 9:4	1	27	ἀποδεδημένους	ἀποδέω	perfect middle/passive pa
 JOS 9:5	1	1	καὶ	καί	conjunction	1	and
 JOS 9:5	1	2	τὰ	ὁ	article, accusative neuter plural	1	the
 JOS 9:5	1	3	κοῖλα	κοῖλος	adjective, accusative masculine plural	1	hollow
-JOS 9:5	1	4	τῶν	ὁ	article, genitive plural	1	the
+JOS 9:5	1	4	τῶν	ὁ	article, genitive plural	1	of the
 JOS 9:5	1	5	ὑποδημάτων	ὑπόδημα	noun, genitive neuter plural	1	sandals
 JOS 9:5	1	6	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JOS 9:5	1	7	καὶ	καί	conjunction	1	and
@@ -189,8 +189,8 @@ JOS 9:7	1	5	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive i
 JOS 9:7	1	6	πρὸς	πρός	preposition with the accusative	1	to
 JOS 9:7	1	7	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 9:7	1	8	Χοῤῥαῖον	Χορραῖος	noun, accusative masculine singular	1	Horite
-JOS 9:7	1	9	ὅρα	ὁράω	present active imperative, second person singular	1	see that
-JOS 9:7	1	10	μὴ	μή	negative particle	1	not
+JOS 9:7	1	9	ὅρα	ὁράω	present active imperative, second person singular	1	see
+JOS 9:7	1	10	μὴ	μή	negative particle	1	lest
 JOS 9:7	1	11	ἐν	ἐν	preposition with the dative	1	in
 JOS 9:7	1	12	ἐμοὶ	ἐγώ	pronoun, dative first singular	1	me
 JOS 9:7	1	13	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
@@ -252,7 +252,7 @@ JOS 9:10	1	1	καὶ	καί	conjunction	1	and
 JOS 9:10	1	2	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 JOS 9:10	1	3	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
 JOS 9:10	1	4	ἐποίησε	ποιέω	aorist active indicative, third singular	1	did
-JOS 9:10	1	5	τοῖς	ὁ	article, dative neuter plural	1	the
+JOS 9:10	1	5	τοῖς	ὁ	article, dative neuter plural	1	to the
 JOS 9:10	1	6	δυσὶ	δύο	indeclinable cardinal numeral	1	two
 JOS 9:10	1	7	βασιλεῦσι	βασιλεύς	noun, dative masculine plural	1	kings
 JOS 9:10	1	8	τῶν	ὁ	article, genitive masculine plural	1	the
@@ -262,16 +262,16 @@ JOS 9:10	1	11	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 JOS 9:10	1	12	πέραν	πέραν	adverb/preposition with genitive τοῦ Ἰορδάνου, 'beyond'	1	beyond
 JOS 9:10	1	13	τοῦ	ὁ	article, genitive singular	1	the
 JOS 9:10	1	14	Ἰορδάνου	Ἰορδάνης	river name, genitive masculine singular	1	Jordan
-JOS 9:10	1	15	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 9:10	1	15	τῷ	ὁ	article, dative masculine singular	1	to
 JOS 9:10	1	16	Σηὼν	Σηών	indeclinable personal name, dative in context	1	Sihon
 JOS 9:10	1	17	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 JOS 9:10	1	18	Ἐσεβὼν	Ἐσεβών	indeclinable place name, genitive in context	1	of Heshbon
 JOS 9:10	1	19	καὶ	καί	conjunction	1	and
-JOS 9:10	1	20	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 9:10	1	20	τῷ	ὁ	article, dative masculine singular	1	to
 JOS 9:10	1	21	Ὡγ	Ὤγ	indeclinable personal name, dative in context	1	Og
 JOS 9:10	1	22	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 JOS 9:10	1	23	τῆς	ὁ	article, genitive feminine singular	1	the
-JOS 9:10	1	24	Βασὰν	Βασάν	indeclinable place name, genitive in context	1	Bashan
+JOS 9:10	1	24	Βασὰν	Βασάν	indeclinable place name, genitive in context	1	of Bashan
 JOS 9:10	1	25	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
 JOS 9:10	1	26	κατῴκει	κατοικέω	imperfect active indicative, third singular	1	was dwelling
 JOS 9:10	1	26	κατῴκει			2	was living
@@ -290,8 +290,8 @@ JOS 9:11	1	6	πρεσβύτεροι	πρεσβύτης	comparative adjective/nou
 JOS 9:11	1	7	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 JOS 9:11	1	8	καὶ	καί	conjunction	1	and
 JOS 9:11	1	9	πάντες	πᾶς	adjective, nominative masculine plural	1	all
-JOS 9:11	1	10	οἱ	ὁ	article, nominative masculine plural	1	the
-JOS 9:11	1	11	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural	1	inhabitants
+JOS 9:11	1	10	οἱ	ὁ	article, nominative masculine plural	1	those
+JOS 9:11	1	11	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural	1	who live in
 JOS 9:11	1	12	τὴν	ὁ	article accusative feminine singular	1	the
 JOS 9:11	1	13	γῆν	γῆ	noun, accusative feminine singular	1	land
 JOS 9:11	1	14	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
@@ -350,7 +350,7 @@ JOS 9:13	1	1	Καὶ	καί	conjunction	1	and
 JOS 9:13	1	2	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 JOS 9:13	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 JOS 9:13	1	4	ἀσκοὶ	ἀσκός	noun, nominative masculine plural	1	skins
-JOS 9:13	1	5	τοῦ	ὁ	article, genitive masculine singular	1	the
+JOS 9:13	1	5	τοῦ	ὁ	article, genitive masculine singular	1	of the
 JOS 9:13	1	6	οἴνου	οἶνος	noun, genitive masculine singular	1	wine
 JOS 9:13	1	7	οὓς	ὅς	relative pronoun, accusative masculine plural	1	which
 JOS 9:13	1	8	ἐπλήσαμεν	πίμπλημι	aorist active indicative, first plural	1	we filled
@@ -379,7 +379,7 @@ JOS 9:14	1	2	ἔλαβον	λαμβάνω	aorist active indicative, third plural
 JOS 9:14	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 JOS 9:14	1	4	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
 JOS 9:14	1	4	ἄρχοντες			2	officials
-JOS 9:14	1	5	τοῦ	ὁ	article, genitive singular	1	the
+JOS 9:14	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 JOS 9:14	1	6	ἐπισιτισμοῦ	ἐπισιτισμός	noun, genitive masculine singular	1	provisions
 JOS 9:14	1	7	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 JOS 9:14	1	8	καὶ	καί	conjunction	1	and
@@ -484,7 +484,7 @@ JOS 9:18	1	23	ἡ	ὁ	article, nominative feminine singular	1	the
 JOS 9:18	1	24	συναγωγὴ	συναγωγή	noun, nominative feminine singular	1	congregation
 JOS 9:18	1	25	ἐπὶ	ἐπί	preposition (case from context)	1	on
 JOS 9:18	1	26	τοῖς	ὁ	article, dative masculine plural	1	the
-JOS 9:18	1	27	ἄρχουσι	ἄρχων	noun/participle used substantivally, dative masculine plural	1	to rulers
+JOS 9:18	1	27	ἄρχουσι	ἄρχων	noun/participle used substantivally, dative masculine plural	1	rulers
 JOS 9:19	1	1	Καὶ	καί	conjunction	1	and
 JOS 9:19	1	2	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
 JOS 9:19	1	3	πάντες	πᾶς	adjective, nominative masculine plural	1	all
@@ -526,7 +526,7 @@ JOS 9:20	1	16	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 9:20	1	17	ὅρκον	ὅρκος	noun, accusative masculine singular	1	oath
 JOS 9:20	1	18	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
 JOS 9:20	1	19	ὠμόσαμεν	ὄμνυμι	aorist active indicative, first plural	1	we swore
-JOS 9:20	1	20	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	for them
+JOS 9:20	1	20	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 JOS 9:21	1	1	Καὶ	καί	conjunction	1	and
 JOS 9:21	1	2	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
 JOS 9:21	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
@@ -569,8 +569,8 @@ JOS 9:22	1	18	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
 JOS 9:22	1	19	δὲ	δέ	postpositive conjunction	1	and
 JOS 9:22	1	20	ἐγχώριοί	ἐγχώριος	adjective, nominative masculine plural	1	inhabitants of the land
 JOS 9:22	1	21	ἐστε	εἰμί	present indicative, second plural	1	are
-JOS 9:22	1	22	τῶν	ὁ	article, genitive masculine plural	1	the
-JOS 9:22	1	23	κατοικούντων	κατοικέω	present active participle, genitive masculine plural; substantival	1	inhabitants
+JOS 9:22	1	22	τῶν	ὁ	article, genitive masculine plural	1	of the
+JOS 9:22	1	23	κατοικούντων	κατοικέω	present active participle, genitive masculine plural; substantival	1	living
 JOS 9:22	1	23	κατοικούντων			2	those living
 JOS 9:22	1	24	ἐν	ἐν	preposition with the dative	1	among
 JOS 9:22	1	25	ἡμῖν	ἐγώ	pronoun, dative first plural	1	us
@@ -625,7 +625,7 @@ JOS 9:24	1	26	ἐξολοθρεῦσαι	ἐξολοθρεύω	aorist active inf
 JOS 9:24	1	27	ἡμᾶς	ἐγώ	personal pronoun, accusative first plural	1	us
 JOS 9:24	1	28	καὶ	καί	conjunction	1	and
 JOS 9:24	1	29	πάντας	πᾶς	adjective, accusative masculine plural	1	all
-JOS 9:24	1	30	τοὺς	ὁ	article, accusative masculine plural	1	the
+JOS 9:24	1	30	τοὺς	ὁ	article, accusative masculine plural	1	those
 JOS 9:24	1	31	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	dwelling
 JOS 9:24	1	31	κατοικοῦντας			2	inhabiting
 JOS 9:24	1	32	ἐπ᾽	ἐπί	preposition with the accusative	1	over
@@ -660,7 +660,7 @@ JOS 9:25	1	7	ὡς	ὡς	conjunction	1	like
 JOS 9:25	1	8	ἀρέσκει	ἀρέσκω	present active indicative, third singular	1	pleases
 JOS 9:25	1	9	ὑμῖν	σύ	pronoun, dative second plural	1	you
 JOS 9:25	1	10	καὶ	καί	conjunction	1	and
-JOS 9:25	1	11	ὡς	ὡς	conjunction	1	if
+JOS 9:25	1	11	ὡς	ὡς	conjunction	1	as
 JOS 9:25	1	12	δοκεῖ	δοκέω	present active indicative, third singular	1	seems good
 JOS 9:25	1	13	ὑμῖν	σύ	pronoun, dative second plural	1	you
 JOS 9:25	1	14	ποιῆσαι	ποιέω	aorist active infinitive after τοῦ	1	to do
@@ -698,9 +698,9 @@ JOS 9:27	1	8	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative femin
 JOS 9:27	1	9	ξυλοκόπους	ξυλοκόπος	noun, accusative masculine plural	1	woodcutters
 JOS 9:27	1	10	καὶ	καί	conjunction	1	and
 JOS 9:27	1	11	ὑδροφόρους	ὑδροφόρος	noun, accusative masculine plural	1	water carriers
-JOS 9:27	1	12	πάσῃ	πᾶς	adjective dative feminine singular	1	all
+JOS 9:27	1	12	πάσῃ	πᾶς	adjective dative feminine singular	1	for all
 JOS 9:27	1	13	τῇ	ὁ	article, dative feminine singular	1	the
-JOS 9:27	1	14	συναγωγῇ	συναγωγή	noun, dative feminine singular	1	for the congregation
+JOS 9:27	1	14	συναγωγῇ	συναγωγή	noun, dative feminine singular	1	congregation
 JOS 9:27	1	15	καὶ	καί	conjunction	1	and
 JOS 9:27	1	16	τῷ	ὁ	article, dative masculine singular	1	to the
 JOS 9:27	1	17	θυσιαστηρίῳ	θυσιαστήριον	noun, dative neuter singular	1	altar
@@ -718,13 +718,13 @@ JOS 9:27	1	27	καὶ	καί	conjunction	1	and
 JOS 9:27	1	28	ὑδροφόροι	ὑδροφόρος	noun, nominative masculine plural	1	water carriers
 JOS 9:27	1	29	τοῦ	ὁ	article, genitive neuter singular	1	of the
 JOS 9:27	1	30	θυσιαστηρίου	θυσιαστήριον	noun, genitive neuter singular	1	altar
-JOS 9:27	1	31	τοῦ	ὁ	article, genitive neuter singular	1	for the
+JOS 9:27	1	31	τοῦ	ὁ	article, genitive neuter singular	1	of
 JOS 9:27	1	32	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 JOS 9:27	1	33	ἕως	ἕως	preposition with the genitive	1	until
 JOS 9:27	1	33	ἕως			2	up to
 JOS 9:27	1	34	τῆς	ὁ	article, genitive feminine singular	1	the
 JOS 9:27	1	35	σήμερον	σήμερον	adverb	1	today
-JOS 9:27	1	36	ἡμέρας	ἡμέρα	noun, accusative feminine plural; accusative of duration or time	1	days
+JOS 9:27	1	36	ἡμέρας	ἡμέρα	noun, accusative feminine plural; accusative of duration or time	1	day
 JOS 9:27	1	37	καὶ	καί	conjunction	1	and
 JOS 9:27	1	38	εἰς	εἰς	preposition with the accusative	1	into
 JOS 9:27	1	39	τὸν	ὁ	article, accusative masculine singular	1	the

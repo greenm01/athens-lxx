@@ -68,11 +68,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:2	1	18	εἰσιν	εἰμί	present indicative, third plural	1	are
 2SA 21:2	1	19	ὅτι	ὅτι	causal conjunction	1	because
 2SA 21:2	1	20	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
-2SA 21:2	1	21	ἢ	ἤ	comparative conjunction	1	than
+2SA 21:2	1	21	ἢ	ἤ	comparative conjunction	1	—
 2SA 21:2	1	22	ἐκ	ἐκ	preposition with the genitive	1	from
 2SA 21:2	1	22	ἐκ			2	out of
 2SA 21:2	1	23	λείμματος	λεῖμμα	noun, genitive neuter singular	1	remnant
-2SA 21:2	1	24	τοῦ	ὁ	article, genitive singular	1	the
+2SA 21:2	1	24	τοῦ	ὁ	article, genitive singular	1	of the
 2SA 21:2	1	25	Ἀμορραίου	Ἀμορραῖος	noun, genitive masculine singular	1	Amorite
 2SA 21:2	1	26	καὶ	καί	conjunction	1	and
 2SA 21:2	1	27	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -169,7 +169,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:5	1	13	ἐδίωξεν			2	went after
 2SA 21:5	1	14	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	1	us
 2SA 21:5	1	15	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
-2SA 21:5	1	16	παρελογίσατο	παραλογίζομαι	aorist middle indicative, third singular	1	he devised
+2SA 21:5	1	16	παρελογίσατο	παραλογίζομαι	aorist middle indicative, third singular	1	devised
 2SA 21:5	1	17	ἐξολοθρεῦσαι	ἐξολοθρεύω	aorist active infinitive	1	to destroy
 2SA 21:5	1	18	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	1	us
 2SA 21:5	1	19	ἀφανίσωμεν	ἀφανίζω	aorist active subjunctive, first plural	1	let us wipe out
@@ -213,8 +213,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:7	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 21:7	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2SA 21:7	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	on
-2SA 21:7	1	6	Μεμφιβοσθαὶ	Μεμφιβοσθαί	indeclinable personal name, nominative in context	1	Memphibosthai
-2SA 21:7	1	6	Μεμφιβοσθαὶ			2	Mephibosheth
+2SA 21:7	1	6	Μεμφιβοσθαὶ	Μεμφιβοσθαί	indeclinable personal name, nominative in context	1	Mephibosheth
+2SA 21:7	1	6	Μεμφιβοσθαὶ			2	Memphibosthai
 2SA 21:7	1	7	υἱὸν	υἱός	noun, accusative masculine singular	1	son
 2SA 21:7	1	8	Ἰωνάθαν	Ἰωνάθαν	indeclinable personal name, genitive in context	1	of Jonathan
 2SA 21:7	1	9	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
@@ -251,31 +251,31 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:8	1	13	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 2SA 21:8	1	14	Σαοὺλ	Σαούλ	indeclinable personal name, dative in context	1	Saul
 2SA 21:8	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
-2SA 21:8	1	16	Ἑρμωνιεὶ	Ἑρμωνιεί	indeclinable personal name, accusative in context	1	Hermoniei
-2SA 21:8	1	16	Ἑρμωνιεὶ			2	Armoni
+2SA 21:8	1	16	Ἑρμωνιεὶ	Ἑρμωνιεί	indeclinable personal name, accusative in context	1	Armoni
+2SA 21:8	1	16	Ἑρμωνιεὶ			2	Hermoniei
 2SA 21:8	1	17	καὶ	καί	conjunction	1	and
 2SA 21:8	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
-2SA 21:8	1	19	Μεμφιβοσθαὶ	Μεμφιβοσθαί	indeclinable personal name, nominative in context	1	Memphibosthai
-2SA 21:8	1	19	Μεμφιβοσθαὶ			2	Mephibosheth
+2SA 21:8	1	19	Μεμφιβοσθαὶ	Μεμφιβοσθαί	indeclinable personal name, nominative in context	1	Mephibosheth
+2SA 21:8	1	19	Μεμφιβοσθαὶ			2	Memphibosthai
 2SA 21:8	1	20	καὶ	καί	conjunction	1	and
 2SA 21:8	1	21	τοὺς	ὁ	article, accusative masculine plural	1	the
 2SA 21:8	1	22	πέντε	πέντε	indeclinable cardinal numeral	1	five
 2SA 21:8	1	23	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
-2SA 21:8	1	24	Μιχὸλ	Μιχόλ	indeclinable personal name, genitive in context	1	of Michol
-2SA 21:8	1	24	Μιχὸλ			2	of Michal
+2SA 21:8	1	24	Μιχὸλ	Μιχόλ	indeclinable personal name, genitive in context	1	of Michal
+2SA 21:8	1	24	Μιχὸλ			2	of Michol
 2SA 21:8	1	25	θυγατρὸς	θυγάτηρ	noun, genitive feminine singular	1	daughter
 2SA 21:8	1	26	Σαοὺλ	Σαούλ	indeclinable personal name, genitive in context	1	of Saul
 2SA 21:8	1	27	οὓς	ὅς	relative pronoun, accusative masculine plural	1	whom
 2SA 21:8	1	28	ἔτεκε	τίκτω	aorist active indicative, third singular, feminine subject in context	1	bore
-2SA 21:8	1	29	τῷ	ὁ	article, dative masculine/neuter singular	1	the
-2SA 21:8	1	30	Ἐσδριὴλ	Ἐσδριήλ	indeclinable personal name, dative in context	1	Esdriel
-2SA 21:8	1	30	Ἐσδριὴλ			2	Adriel
+2SA 21:8	1	29	τῷ	ὁ	article, dative masculine/neuter singular	1	to
+2SA 21:8	1	30	Ἐσδριὴλ	Ἐσδριήλ	indeclinable personal name, dative in context	1	Adriel
+2SA 21:8	1	30	Ἐσδριὴλ			2	Esdriel
 2SA 21:8	1	31	υἱῷ	υἱός	noun, dative masculine singular	1	son
 2SA 21:8	1	32	Βερζελλὶ	Βερζελλί	indeclinable personal name, genitive in context	1	of Barzillai
 2SA 21:8	1	32	Βερζελλὶ			2	of Berzelli
 2SA 21:8	1	33	τῷ	ὁ	article, dative masculine singular	1	the
-2SA 21:8	1	34	Μοουλαθείτῃ	Μοουλαθείτης	noun, dative masculine singular	1	Moulathite
-2SA 21:8	1	34	Μοουλαθείτῃ			2	Meholathite
+2SA 21:8	1	34	Μοουλαθείτῃ	Μοουλαθείτης	noun, dative masculine singular	1	Meholathite
+2SA 21:8	1	34	Μοουλαθείτῃ			2	Moulathite
 2SA 21:9	1	1	Καὶ	καί	conjunction	1	and
 2SA 21:9	1	2	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
 2SA 21:9	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -298,7 +298,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:9	1	18	οἱ	ὁ	article, nominative masculine plural	1	the
 2SA 21:9	1	19	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 2SA 21:9	1	20	αὐτοὶ	αὐτός	pronoun, nominative masculine plural	1	themselves
-2SA 21:9	1	21	ἐπὶ	ἐπί	preposition in the expression ἐπὶ τὸ αὐτό	1	together
+2SA 21:9	1	21	ἐπὶ	ἐπί	preposition in the expression ἐπὶ τὸ αὐτό	1	at
 2SA 21:9	1	22	τὸ	ὁ	article, accusative neuter singular	1	the
 2SA 21:9	1	23	αὐτό	αὐτός	adjective, accusative neuter singular; with article in an adverbial expression of place	1	same place
 2SA 21:9	1	24	καὶ	καί	conjunction	1	and
@@ -307,14 +307,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:9	1	27	ἐθανατώθησαν	θανατόω	aorist passive indicative, third plural	1	they were put to death
 2SA 21:9	1	28	ἐν	ἐν	preposition with the dative	1	in
 2SA 21:9	1	29	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
-2SA 21:9	1	30	θερισμοῦ	θερισμός	noun, genitive masculine singular	1	harvest
+2SA 21:9	1	30	θερισμοῦ	θερισμός	noun, genitive masculine singular	1	of harvest
 2SA 21:9	1	31	ἐν	ἐν	preposition with the dative	1	in
 2SA 21:9	1	32	πρώτοις	πρῶτος	ordinal adjective, dative masculine or neuter plural; adverbial	1	first
 2SA 21:9	1	32	πρώτοις			2	in front
 2SA 21:9	1	33	ἐν	ἐν	preposition with the dative	1	in
 2SA 21:9	1	34	ἀρχῇ	ἀρχή	noun, dative feminine singular	1	the beginning
-2SA 21:9	1	35	θερισμοῦ	θερισμός	noun, genitive masculine singular	1	harvest
-2SA 21:9	1	36	κριθῶν	κριθή	noun, genitive feminine plural	1	barley
+2SA 21:9	1	35	θερισμοῦ	θερισμός	noun, genitive masculine singular	1	of harvest
+2SA 21:9	1	36	κριθῶν	κριθή	noun, genitive feminine plural	1	of barley
 2SA 21:10	1	1	Καὶ	καί	conjunction	1	and
 2SA 21:10	1	2	ἔλαβε	λαμβάνω	aorist active indicative, third singular	1	took
 2SA 21:10	1	3	Ῥεσφὰ	Ῥεσφά	indeclinable personal name, nominative in context	1	Rizpah
@@ -332,8 +332,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:10	1	13	πέτραν	πέτρα	noun, accusative fem. sg. after τὴν	1	rock
 2SA 21:10	1	14	ἐν	ἐν	preposition with the dative	1	in
 2SA 21:10	1	15	ἀρχῇ	ἀρχή	noun, dative feminine singular	1	the beginning
-2SA 21:10	1	16	θερισμοῦ	θερισμός	noun, genitive masculine singular	1	harvest
-2SA 21:10	1	17	κριθῶν	κριθή	noun, genitive feminine plural	1	barley
+2SA 21:10	1	16	θερισμοῦ	θερισμός	noun, genitive masculine singular	1	of harvest
+2SA 21:10	1	17	κριθῶν	κριθή	noun, genitive feminine plural	1	of barley
 2SA 21:10	1	18	ἕως	ἕως	preposition with the genitive	1	until
 2SA 21:10	1	18	ἕως			2	up to
 2SA 21:10	1	19	ἔσταξεν	στάζω	aorist active indicative, third singular	1	fell
@@ -362,15 +362,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:10	1	42	νυκτός	νύξ	noun, genitive feminine singular; genitive of time	1	by night
 2SA 21:11	1	1	Καὶ	καί	conjunction	1	and
 2SA 21:11	1	2	ἀπηγγέλη	ἀπαγγέλλω	aorist passive indicative, third singular, impersonal 'it was reported' with dative νύμφῃ/Ἰούδᾳ	1	it was reported
-2SA 21:11	1	3	τῷ	ὁ	article, dative masculine singular	1	the
+2SA 21:11	1	3	τῷ	ὁ	article, dative masculine singular	1	to
 2SA 21:11	1	4	Δαυὶδ	Δαυίδ	indeclinable personal name, dative in context	1	David
 2SA 21:11	1	5	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
 2SA 21:11	1	6	ἐποίησε	ποιέω	aorist active indicative, third singular	1	did
 2SA 21:11	1	7	Ῥεσφὰ	Ῥεσφά	indeclinable personal name, nominative in context	1	Rizpah
 2SA 21:11	1	7	Ῥεσφὰ			2	Respha
 2SA 21:11	1	8	θυγάτηρ	θυγάτηρ	noun, nominative feminine singular	1	daughter
-2SA 21:11	1	9	Αἰᾶ	Αἰᾶ	indeclinable personal name, genitive in context	1	of Aia
-2SA 21:11	1	9	Αἰᾶ			2	of Aiah
+2SA 21:11	1	9	Αἰᾶ	Αἰᾶ	indeclinable personal name, genitive in context	1	of Aiah
+2SA 21:11	1	9	Αἰᾶ			2	of Aia
 2SA 21:11	1	10	παλλακὴ	παλλακή	noun, nominative feminine singular	1	concubine
 2SA 21:11	1	11	Σαοὺλ	Σαούλ	indeclinable personal name, genitive in context	1	of Saul
 2SA 21:11	1	12	καὶ	καί	conjunction	1	and
@@ -387,7 +387,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:11	1	20	ἐκ	ἐκ	preposition with the genitive	1	from
 2SA 21:11	1	21	τῶν	ὁ	article, genitive masculine plural	1	the
 2SA 21:11	1	22	ἀπογόνων	ἀπόγονος	substantival adjective, genitive masculine plural	1	descendants
-2SA 21:11	1	23	τῶν	ὁ	article, genitive plural	1	the
+2SA 21:11	1	23	τῶν	ὁ	article, genitive plural	1	of the
 2SA 21:11	1	24	γιγάντων	γίγας	noun, genitive masculine plural	1	giants
 2SA 21:12	1	1	Καὶ	καί	conjunction	1	and
 2SA 21:12	1	2	ἐπορεύθη	πορεύομαι	aorist passive indicative, third singular; middle sense	1	went
@@ -410,15 +410,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:12	1	18	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 2SA 21:12	1	19	Ἰαβεὶς	Ἰαβείς	indeclinable personal name, nominative in context	1	of Jabesh
 2SA 21:12	1	20	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	1	Gilead
-2SA 21:12	1	21	οἱ	ὁ	article, nominative masculine plural	1	the
-2SA 21:12	1	22	ἔκλεψαν	κλέπτω	aorist active indicative, third plural	1	they stole
+2SA 21:12	1	21	οἱ	ὁ	article, nominative masculine plural	1	who
+2SA 21:12	1	22	ἔκλεψαν	κλέπτω	aorist active indicative, third plural	1	stole
 2SA 21:12	1	23	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 2SA 21:12	1	24	ἐκ	ἐκ	preposition with the genitive	1	from
 2SA 21:12	1	25	τῆς	ὁ	article, genitive feminine singular	1	the
 2SA 21:12	1	26	πλατείας	πλατεῖα	noun, genitive feminine singular	1	square
 2SA 21:12	1	27	Βηθσὰν	Βηθσάν	indeclinable place name, genitive in context	1	Beth-shan
 2SA 21:12	1	28	ὅτι	ὅτι	causal conjunction	1	because
-2SA 21:12	1	29	ἔστησαν	ἵστημι	aorist active indicative, third plural (intransitive)	1	stood
+2SA 21:12	1	29	ἔστησαν	ἵστημι	aorist active indicative, third plural (intransitive)	1	set
 2SA 21:12	1	30	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 2SA 21:12	1	31	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 2SA 21:12	1	32	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -496,18 +496,18 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:14	1	38	ἐπήκουσεν	ἐπακούω	aorist active indicative, third singular	1	listened to
 2SA 21:14	1	39	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 21:14	1	40	Θεὸς	θεός	noun, nominative masculine singular	1	God
-2SA 21:14	1	41	τῇ	ὁ	article, dative feminine singular	1	on the
+2SA 21:14	1	41	τῇ	ὁ	article, dative feminine singular	1	the
 2SA 21:14	1	42	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
 2SA 21:14	1	43	μετὰ	μετά	preposition with the accusative	1	after
 2SA 21:14	1	44	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these things
 2SA 21:15	1	1	Καὶ	καί	conjunction	1	and
-2SA 21:15	1	2	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	became
+2SA 21:15	1	2	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	there was
 2SA 21:15	1	3	ἔτι	ἔτι	temporal adverb	1	still
 2SA 21:15	1	4	πόλεμος	πόλεμος	noun, nominative masculine singular	1	battle
-2SA 21:15	1	5	τοῖς	ὁ	article, dative masculine plural	1	the
+2SA 21:15	1	5	τοῖς	ὁ	article, dative masculine plural	1	to the
 2SA 21:15	1	6	ἀλλοφύλοις	ἀλλόφυλος	adjective, dative masculine plural	1	Philistines
-2SA 21:15	1	7	μετὰ	μετά	preposition governing the genitive	1	to
-2SA 21:15	1	7	μετὰ			2	with
+2SA 21:15	1	7	μετὰ	μετά	preposition governing the genitive	1	with
+2SA 21:15	1	7	μετὰ			2	to
 2SA 21:15	1	8	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, case from syntax	1	Israel
 2SA 21:15	1	9	Καὶ	καί	conjunction	1	and
 2SA 21:15	1	10	κατέβη	καταβαίνω	aorist active indicative, third singular	1	came down
@@ -540,11 +540,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:16	1	8	τοῖς	ὁ	article, dative masculine plural	1	the
 2SA 21:16	1	9	ἐκγόνοις	ἔκγονος	substantival adjective, dative masculine plural	1	descendants
 2SA 21:16	1	10	τοῦ	ὁ	article, genitive masculine singular	1	of the
-2SA 21:16	1	11	Ῥαφᾶ	Ῥαφᾶ	personal name used as a clan ancestor, genitive in context	1	of Rapha
+2SA 21:16	1	11	Ῥαφᾶ	Ῥαφᾶ	personal name used as a clan ancestor, genitive in context	1	Rapha
 2SA 21:16	1	12	καὶ	καί	conjunction	1	and
 2SA 21:16	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 21:16	1	14	σταθμὸς	σταθμός	noun, nominative masculine singular	1	weight
-2SA 21:16	1	15	τοῦ	ὁ	article, genitive singular	1	the
+2SA 21:16	1	15	τοῦ	ὁ	article, genitive singular	1	of the
 2SA 21:16	1	16	δόρατος	δόρυ	noun, genitive neuter singular	1	spear
 2SA 21:16	1	17	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2SA 21:16	1	18	τριακοσίων	τριακόσιοι	cardinal numeral, genitive masculine plural	1	three hundred
@@ -566,8 +566,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:17	1	1	Καὶ	καί	conjunction	1	and
 2SA 21:17	1	2	ἐβοήθησεν	βοηθέω	aorist active indicative, third singular	1	helped
 2SA 21:17	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-2SA 21:17	1	4	Ἀβισαεὶ	Ἀβισαεί	indeclinable personal name, accusative in context	1	Abisaei
-2SA 21:17	1	4	Ἀβισαεὶ			2	Abishai
+2SA 21:17	1	4	Ἀβισαεὶ	Ἀβισαεί	indeclinable personal name, accusative in context	1	Abishai
+2SA 21:17	1	4	Ἀβισαεὶ			2	Abisaei
 2SA 21:17	1	5	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2SA 21:17	1	6	Σαρουΐας	Σαρουΐα	noun, genitive feminine singular	1	of Zeruiah
 2SA 21:17	1	7	καὶ	καί	conjunction	1	and
@@ -600,7 +600,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:17	1	32	λύχνον	λύχνος	noun, accusative masculine singular	1	lamp
 2SA 21:17	1	33	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2SA 21:18	1	1	Καὶ	καί	conjunction	1	and
-2SA 21:18	1	2	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	became
+2SA 21:18	1	2	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	there was
 2SA 21:18	1	3	μετὰ	μετά	preposition with the accusative	1	after
 2SA 21:18	1	4	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these things
 2SA 21:18	1	5	ἔτι	ἔτι	temporal adverb	1	still
@@ -614,14 +614,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:18	1	11	ἀλλοφύλων			2	people of another tribe
 2SA 21:18	1	12	τότε	τότε	temporal adverb	1	then
 2SA 21:18	1	13	ἐπάταξε	πατάσσω	aorist active indicative, third singular	1	struck
-2SA 21:18	1	14	Σεβοχαεὶ	Σεβοχαεί	indeclinable personal name, nominative in context	1	Sebokhaei
-2SA 21:18	1	14	Σεβοχαεὶ			2	Sibbecai
+2SA 21:18	1	14	Σεβοχαεὶ	Σεβοχαεί	indeclinable personal name, nominative in context	1	Sibbecai
+2SA 21:18	1	14	Σεβοχαεὶ			2	Sebokhaei
 2SA 21:18	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
-2SA 21:18	1	16	Ἀουσαστωθεὶ	Ἀουσαστωθεί	indeclinable clan designation, nominative in context	1	Ausastothite
-2SA 21:18	1	16	Ἀουσαστωθεὶ			2	Hushathite
+2SA 21:18	1	16	Ἀουσαστωθεὶ	Ἀουσαστωθεί	indeclinable clan designation, nominative in context	1	Hushathite
+2SA 21:18	1	16	Ἀουσαστωθεὶ			2	Ausastothite
 2SA 21:18	1	17	τὸν	ὁ	article, accusative masculine singular	1	the
-2SA 21:18	1	18	Σὲφ	Σέφ	indeclinable personal name, accusative in context	1	Seph
-2SA 21:18	1	18	Σὲφ			2	Saph
+2SA 21:18	1	18	Σὲφ	Σέφ	indeclinable personal name, accusative in context	1	Saph
+2SA 21:18	1	18	Σὲφ			2	Seph
 2SA 21:18	1	19	τὸν	ὁ	article, accusative masculine singular	1	the
 2SA 21:18	1	20	ἐν	ἐν	preposition with the dative	1	in
 2SA 21:18	1	21	τοῖς	ὁ	article, dative masculine plural	1	the
@@ -629,7 +629,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:18	1	23	τοῦ	ὁ	article, genitive singular	1	the
 2SA 21:18	1	24	Ῥαφᾶ	Ῥαφᾶ	personal name used as a clan ancestor, genitive in context	1	of Rapha
 2SA 21:19	1	1	Καὶ	καί	conjunction	1	and
-2SA 21:19	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	became
+2SA 21:19	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	there was
 2SA 21:19	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 21:19	1	4	πόλεμος	πόλεμος	noun, nominative masculine singular	1	battle
 2SA 21:19	1	5	ἐν	ἐν	preposition with the dative	1	in
@@ -654,14 +654,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:19	1	21	Καὶ	καί	conjunction	1	and
 2SA 21:19	1	22	τὸ	ὁ	article, nominative neuter singular	1	the
 2SA 21:19	1	23	ξύλον	ξύλον	noun, nominative neuter singular	1	shaft
-2SA 21:19	1	24	τοῦ	ὁ	article, genitive singular	1	the
+2SA 21:19	1	24	τοῦ	ὁ	article, genitive singular	1	of the
 2SA 21:19	1	25	δόρατος	δόρυ	noun, genitive neuter singular	1	spear
 2SA 21:19	1	26	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2SA 21:19	1	27	ὡς	ὡς	comparative particle	1	as
 2SA 21:19	1	28	ἀντίον	ἀντίον	neuter noun, nominative singular, beam in a comparison	1	a beam
 2SA 21:19	1	29	ὑφαινόντων	ὑφαίνω	present active participle, genitive masculine plural	1	of weavers
 2SA 21:20	1	1	Καὶ	καί	conjunction	1	and
-2SA 21:20	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	became
+2SA 21:20	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	there was
 2SA 21:20	1	3	ἔτι	ἔτι	adverb of time	1	again
 2SA 21:20	1	3	ἔτι			2	any more
 2SA 21:20	1	4	πόλεμος	πόλεμος	noun, nominative masculine singular	1	battle
@@ -688,7 +688,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:20	1	24	καὶ	καί	conjunction	1	and
 2SA 21:20	1	25	ἕξ	ἕξ	indeclinable cardinal numeral	1	six
 2SA 21:20	1	26	εἰκοσιτέσσαρες	εἰκοσιτέσσαρες	cardinal numeral, nominative masculine plural	1	twenty-four
-2SA 21:20	1	27	ἀριθμῷ	ἀριθμός	noun, dative masculine singular	1	number
+2SA 21:20	1	27	ἀριθμῷ	ἀριθμός	noun, dative masculine singular	1	in number
 2SA 21:20	1	28	καί	καί	conjunction	1	and
 2SA 21:20	1	29	γε	γε	emphatic particle	1	indeed
 2SA 21:20	1	30	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -713,7 +713,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:22	1	2	τέσσαρες	τέσσαρες	cardinal numeral, nominative masculine plural	1	four
 2SA 21:22	1	3	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 2SA 21:22	1	4	ἀπόγονοι	ἀπόγονος	substantival adjective, nominative masculine plural	1	descendants
-2SA 21:22	1	5	τῶν	ὁ	article, genitive plural	1	the
+2SA 21:22	1	5	τῶν	ὁ	article, genitive plural	1	of the
 2SA 21:22	1	6	γιγάντων	γίγας	noun, genitive masculine plural	1	giants
 2SA 21:22	1	7	τῷ	ὁ	article, dative masculine singular	1	to the
 2SA 21:22	1	8	Ῥαφᾷ	Ῥαφᾶ	personal name used as a clan ancestor, dative in context	1	Rapha
@@ -728,6 +728,6 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 21:22	1	16	καὶ	καί	conjunction	1	and
 2SA 21:22	1	17	ἐν	ἐν	preposition with the dative	1	in
 2SA 21:22	1	18	χειρὶ	χείρ	noun, dative feminine singular	1	the hand
-2SA 21:22	1	19	τῶν	ὁ	article, genitive plural	1	the
+2SA 21:22	1	19	τῶν	ὁ	article, genitive plural	1	of the
 2SA 21:22	1	20	δούλων	δοῦλος	noun, genitive masculine plural	1	servants
 2SA 21:22	1	21	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his

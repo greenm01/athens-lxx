@@ -7,8 +7,8 @@ RUT 3:1	1	4	τῇ	ὁ	article, dative feminine singular	1	to the
 RUT 3:1	1	5	νύμφῃ	νύμφη	noun, dative feminine singular after τῇ, daughter-in-law	1	daughter-in-law
 RUT 3:1	1	6	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 RUT 3:1	1	7	θύγατερ	θυγάτηρ	noun, vocative feminine singular	1	daughter
-RUT 3:1	1	8	οὐ	οὐ	negative particle in deliberative question with μή	1	surely
-RUT 3:1	1	9	μὴ	μή	negative particle with οὐ in deliberative question	1	not
+RUT 3:1	1	8	οὐ	οὐ	negative particle in deliberative question with μή	1	not
+RUT 3:1	1	9	μὴ	μή	negative particle with οὐ in deliberative question	1	at all
 RUT 3:1	1	10	εὕρω	εὑρίσκω	aorist active subjunctive, first singular	1	should I find
 RUT 3:1	1	10	εὕρω			2	I should find
 RUT 3:1	1	11	σοι	σύ	personal pronoun, dative second singular	1	for you
@@ -40,7 +40,7 @@ RUT 3:2	1	14	αὐτὸς			2	he himself
 RUT 3:2	1	15	λικμᾷ	λικμάω	present active indicative, third singular	1	is winnowing
 RUT 3:2	1	16	τὸν	ὁ	article, accusative masculine singular	1	the
 RUT 3:2	1	17	ἄλωνα	ἅλων	noun, accusative masculine singular; with masculine article in Athens	1	threshing floor
-RUT 3:2	1	18	τῶν	ὁ	article, genitive plural	1	the
+RUT 3:2	1	18	τῶν	ὁ	article, genitive plural	1	of the
 RUT 3:2	1	19	κριθῶν	κριθή	noun, genitive feminine plural	1	barley
 RUT 3:2	1	20	ταύτῃ	οὗτος	demonstrative adjective, dative feminine singular	1	this
 RUT 3:2	1	21	τῇ	ὁ	article, dative feminine singular	1	the
@@ -121,7 +121,7 @@ RUT 3:5	1	5	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	her
 RUT 3:5	1	6	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 RUT 3:5	1	7	ὅσα	ὅσος	relative adjective, nominative neuter plural	1	that
 RUT 3:5	1	7	ὅσα			2	which
-RUT 3:5	1	8	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	[modal particle]
+RUT 3:5	1	8	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	ever
 RUT 3:5	1	9	εἴπῃς	λέγω	aorist active subjunctive, second singular	1	you may say
 RUT 3:5	1	9	εἴπῃς			2	you should say
 RUT 3:5	1	10	ἐμοὶ	ἐγώ	personal pronoun, emphatic dative singular	1	to me
@@ -161,7 +161,7 @@ RUT 3:7	1	13	κοιμηθῆναι	κοιμάομαι	aorist passive infinitive	
 RUT 3:7	1	14	ἐν	ἐν	preposition with the dative	1	in
 RUT 3:7	1	15	μερίδι	μερίς	noun, dative feminine singular	1	side
 RUT 3:7	1	15	μερίδι			2	section
-RUT 3:7	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
+RUT 3:7	1	16	τῆς	ὁ	article, genitive feminine singular	1	of the
 RUT 3:7	1	17	στοιβῆς	στοιβή	noun, genitive feminine singular	1	heap
 RUT 3:7	1	17	στοιβῆς			2	pile
 RUT 3:7	1	18	ἡ	ὁ	article, nominative feminine singular; used pronominally	1	she
@@ -177,8 +177,8 @@ RUT 3:7	1	25	πρὸς	πρός	preposition with genitive of place	1	at
 RUT 3:7	1	26	ποδῶν	πούς	noun, genitive masculine plural	1	feet
 RUT 3:7	1	27	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 RUT 3:7	1	28	καὶ	καί	conjunction	1	and
-RUT 3:7	1	29	ἐκάθευδεν	καθεύδω	imperfect active indicative, third singular	1	lay down
-RUT 3:7	1	29	ἐκάθευδεν			2	was sleeping
+RUT 3:7	1	29	ἐκάθευδεν	καθεύδω	imperfect active indicative, third singular	1	was sleeping
+RUT 3:7	1	29	ἐκάθευδεν			2	lay down
 RUT 3:8	1	1	Ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 RUT 3:8	1	2	δὲ	δέ	postpositive conjunction	1	and
 RUT 3:8	1	3	ἐν	ἐν	preposition with the dative	1	at
@@ -278,7 +278,7 @@ RUT 3:11	1	5	φοβοῦ			2	fear
 RUT 3:11	1	6	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 RUT 3:11	1	7	ὅσα	ὅσος	relative adjective, nominative neuter plural	1	that
 RUT 3:11	1	7	ὅσα			2	which
-RUT 3:11	1	8	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	[modal particle]
+RUT 3:11	1	8	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	ever
 RUT 3:11	1	9	εἴπης	λέγω	aorist active subjunctive, second singular	1	you say
 RUT 3:11	1	10	ποιήσω	ποιέω	future active indicative, first singular	1	I will do
 RUT 3:11	1	11	σοι	σύ	personal pronoun, dative singular	1	to you
@@ -441,7 +441,7 @@ RUT 3:17	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	sai
 RUT 3:17	1	3	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
 RUT 3:17	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
 RUT 3:17	1	5	ἓξ	ἕξ	indeclinable cardinal numeral	1	six
-RUT 3:17	1	6	τῶν	ὁ	article, genitive plural	1	the
+RUT 3:17	1	6	τῶν	ὁ	article, genitive plural	1	—
 RUT 3:17	1	7	κριθῶν	κριθή	noun, genitive feminine plural	1	of barley
 RUT 3:17	1	8	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 RUT 3:17	1	9	ἔδωκέ	δίδωμι	aorist active indicative, third singular	1	he gave

@@ -59,12 +59,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:3	1	13	πῶς	πῶς	interrogative adverb	1	how
 2SA 23:3	1	14	κραταιώσητε	κραταιόω	aorist active subjunctive, second plural	1	you may strengthen
 2SA 23:3	1	15	φόβον	φόβος	noun, accusative masc. sg	1	fear
-2SA 23:3	1	16	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+2SA 23:3	1	16	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 2SA 23:4	1	1	καὶ	καί	conjunction	1	and
 2SA 23:4	1	2	ἐν	ἐν	preposition with the dative	1	in
 2SA 23:4	1	3	Θεῷ	θεός	noun, dative masculine singular	1	God
 2SA 23:4	1	4	φωτὶ	φῶς	noun, dative neuter singular	1	light
-2SA 23:4	1	5	πρωΐας	πρωΐα	noun, genitive feminine singular	1	morning
+2SA 23:4	1	5	πρωΐας	πρωΐα	noun, genitive feminine singular	1	of morning
 2SA 23:4	1	6	ἀνατεῖλαι	ἀνατέλλω	aorist active infinitive	1	to rise
 2SA 23:4	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 23:4	1	8	ἥλιος	ἥλιος	noun, nominative masculine singular	1	sun
@@ -142,7 +142,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:7	1	13	καὶ	καί	conjunction	1	and
 2SA 23:7	1	14	ἐν	ἐν	preposition with the dative	1	in
 2SA 23:7	1	15	πυρὶ	πῦρ	noun, dative neuter singular	1	fire
-2SA 23:7	1	16	καύσει	καίω	future active indicative, 3rd sg., shall burn/light	1	shall burn (keep alight)
+2SA 23:7	1	16	καύσει	καίω	future active indicative, 3rd sg., shall burn/light	1	he will burn
 2SA 23:7	1	17	καὶ	καί	conjunction	1	and
 2SA 23:7	1	18	καυθήσεται	καίω	future passive indicative, third singular	1	it shall be burned
 2SA 23:7	1	19	αἰσχύνη	αἰσχύνη	noun, nominative feminine singular	1	shame
@@ -150,9 +150,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:8	1	1	Ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 2SA 23:8	1	2	τὰ	ὁ	article, nominative neuter plural	1	the
 2SA 23:8	1	3	ὀνόματα	ὄνομα	noun, nominative neuter plural	1	names
-2SA 23:8	1	4	τῶν	ὁ	article, genitive masculine plural	1	of those
-2SA 23:8	1	5	δυνατῶν	δυνατός	substantival adjective, genitive masculine plural	1	of the mighty
-2SA 23:8	1	6	τοῦ	ὁ	article, genitive singular	1	the
+2SA 23:8	1	4	τῶν	ὁ	article, genitive masculine plural	1	of the
+2SA 23:8	1	5	δυνατῶν	δυνατός	substantival adjective, genitive masculine plural	1	mighty men
+2SA 23:8	1	6	τοῦ	ὁ	article, genitive singular	1	—
 2SA 23:8	1	7	Δαυίδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 2SA 23:8	1	8	Ἰεβοσθαὶ	Ἰεβοσθαί	indeclinable personal name, nominative in context	1	Iebosthai
 2SA 23:8	1	8	Ἰεβοσθαὶ			2	Ish-bosheth
@@ -160,7 +160,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:8	1	10	Χαναναῖος	Χαναναῖος	noun, nominative masculine singular	1	Canaanite
 2SA 23:8	1	11	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 2SA 23:8	1	11	ἄρχων			2	chief
-2SA 23:8	1	12	τοῦ	ὁ	article, genitive singular	1	the
+2SA 23:8	1	12	τοῦ	ὁ	article, genitive singular	1	of the
 2SA 23:8	1	13	τρίτου	τρίτος	ordinal adjective, genitive masculine singular	1	third
 2SA 23:8	1	14	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 2SA 23:8	1	15	ἐστί	εἰμί	present indicative, third singular	1	is
@@ -178,10 +178,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:9	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular; governed by μετά	1	him
 2SA 23:9	1	4	Ἐλεάζαρ	Ἐλεάζαρ	indeclinable personal name, accusative in context	1	Eleazar
 2SA 23:9	1	5	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2SA 23:9	1	6	πατραδέλφου	πατράδελφος	noun, genitive masculine singular	1	paternal uncle
+2SA 23:9	1	6	πατραδέλφου	πατράδελφος	noun, genitive masculine singular	1	of a paternal uncle
 2SA 23:9	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2SA 23:9	1	8	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2SA 23:9	1	9	Σουσεὶ	Σουσεί	indeclinable clan designation, genitive in context	1	the Souseite
+2SA 23:9	1	9	Σουσεὶ	Σουσεί	indeclinable clan designation, genitive in context	1	of Sousei
 2SA 23:9	1	9	Σουσεὶ			2	the Ahohite
 2SA 23:9	1	10	τοῦ	ὁ	article before a prepositional phrase, genitive neuter singular	1	that is
 2SA 23:9	1	11	ἐν	ἐν	preposition with the dative	1	in
@@ -228,7 +228,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:10	1	18	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 2SA 23:10	1	19	πρὸς	πρός	preposition with accusative	1	to
 2SA 23:10	1	20	τὴν	ὁ	article, accusative feminine singular	1	the
-2SA 23:10	1	21	μάχαιραν	μάχαιρα	noun, accusative feminine singular	1	knife
+2SA 23:10	1	21	μάχαιραν	μάχαιρα	noun, accusative feminine singular	1	sword
 2SA 23:10	1	22	Καὶ	καί	conjunction	1	and
 2SA 23:10	1	23	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
 2SA 23:10	1	24	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -246,7 +246,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:10	1	35	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	after
 2SA 23:10	1	35	ὀπίσω			2	behind
 2SA 23:10	1	36	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
-2SA 23:10	1	37	πλὴν	πλήν	preposition/adverb with the genitive	1	however
+2SA 23:10	1	37	πλὴν	πλήν	preposition/adverb with the genitive	1	only
 2SA 23:10	1	38	ἐκδιδύσκειν	ἐκδιδύσκω	present active infinitive	1	to strip
 2SA 23:11	1	1	Καὶ	καί	conjunction	1	and
 2SA 23:11	1	2	μετ᾽	μετά	preposition with accusative	1	after
@@ -266,7 +266,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:11	1	13	εἰς	εἰς	preposition with the accusative	1	into
 2SA 23:11	1	14	θηρία	θηρίον	noun, nominative neuter plural	1	wild animals
 2SA 23:11	1	15	Καὶ	καί	conjunction	1	and
-2SA 23:11	1	16	ἦν	εἰμί	imperfect indicative, 3rd sg.	1	was (remained)
+2SA 23:11	1	16	ἦν	εἰμί	imperfect indicative, 3rd sg.	1	was
 2SA 23:11	1	17	ἐκεῖ	ἐκεῖ	adverb	1	there
 2SA 23:11	1	18	μερὶς	μερίς	noun nominative feminine singular	1	portion
 2SA 23:11	1	19	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -279,7 +279,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:11	1	26	ἔφυγεν	φεύγω	aorist active indicative, third singular	1	fled
 2SA 23:11	1	27	ἐκ	ἐκ	preposition with the genitive	1	from
 2SA 23:11	1	28	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the face
-2SA 23:11	1	29	ἀλλοφύλων	ἀλλόφυλος	adjective, genitive masculine plural; substantival	1	Philistines
+2SA 23:11	1	29	ἀλλοφύλων	ἀλλόφυλος	adjective, genitive masculine plural; substantival	1	of Philistines
 2SA 23:11	1	29	ἀλλοφύλων			2	people of another tribe
 2SA 23:12	1	1	καὶ	καί	conjunction	1	and
 2SA 23:12	1	2	ἐστηλώθη	στηλόω	aorist passive indicative, third singular	1	took his stand
@@ -321,7 +321,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:13	1	17	καὶ	καί	conjunction	1	and
 2SA 23:13	1	18	τάγμα	τάγμα	noun, nominative neuter singular	1	division
 2SA 23:13	1	18	τάγμα			2	formation
-2SA 23:13	1	19	τῶν	ὁ	article, genitive plural	1	the
+2SA 23:13	1	19	τῶν	ὁ	article, genitive plural	1	of the
 2SA 23:13	1	20	ἀλλοφύλων	ἀλλόφυλος	adjective, genitive masculine plural; substantival	1	Philistines
 2SA 23:13	1	20	ἀλλοφύλων			2	people of another tribe
 2SA 23:13	1	21	παρενέβαλον	παρεμβάλλω	aorist active indicative, 3rd pl., encamped	1	encamped
@@ -367,7 +367,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:15	1	20	τὸ	ὁ	article, nominative neuter singular	1	the
 2SA 23:15	1	21	δὲ	δέ	postpositive conjunction	1	and
 2SA 23:15	1	22	σύστημα	σύστημα	noun, nominative neuter singular	1	encampment
-2SA 23:15	1	23	τῶν	ὁ	article, genitive plural	1	the
+2SA 23:15	1	23	τῶν	ὁ	article, genitive plural	1	of the
 2SA 23:15	1	24	ἀλλοφύλων	ἀλλόφυλος	adjective, genitive masculine plural; substantival	1	Philistines
 2SA 23:15	1	24	ἀλλοφύλων			2	people of another tribe
 2SA 23:15	1	25	τότε	τότε	temporal adverb	1	then
@@ -382,7 +382,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:16	1	7	τῇ	ὁ	article, dative feminine singular	1	the
 2SA 23:16	1	8	παρεμβολῇ	παρεμβολή	noun, dative feminine singular	1	camp
 2SA 23:16	1	8	παρεμβολῇ			2	encampment
-2SA 23:16	1	9	τῶν	ὁ	article, genitive plural	1	the
+2SA 23:16	1	9	τῶν	ὁ	article, genitive plural	1	of the
 2SA 23:16	1	10	ἀλλοφύλων	ἀλλόφυλος	adjective, genitive masculine plural; substantival	1	Philistines
 2SA 23:16	1	10	ἀλλοφύλων			2	people of another tribe
 2SA 23:16	1	11	καὶ	καί	conjunction	1	and
@@ -414,7 +414,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:16	1	36	ἔσπεισεν			2	offered
 2SA 23:16	1	37	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
 2SA 23:16	1	38	τῷ	ὁ	article, dative masculine singular	1	to the
-2SA 23:16	1	39	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+2SA 23:16	1	39	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 2SA 23:17	1	1	καὶ	καί	conjunction	1	and
 2SA 23:17	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2SA 23:17	1	3	ἵλεώς	ἵλεως	adjective, nominative masculine singular	1	far be it
@@ -446,15 +446,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:17	1	28	τρεῖς	τρεῖς	cardinal numeral, nominative plural (gender from context)	1	three
 2SA 23:17	1	29	δυνατοί	δυνατός	substantival adjective, nominative masculine plural	1	the mighty
 2SA 23:18	1	1	Καὶ	καί	conjunction	1	and
-2SA 23:18	1	2	Ἀβισαὶ	Ἀβισαί	indeclinable personal name, nominative in context	1	Abisai
-2SA 23:18	1	2	Ἀβισαὶ			2	Abishai
+2SA 23:18	1	2	Ἀβισαὶ	Ἀβισαί	indeclinable personal name, nominative in context	1	Abishai
+2SA 23:18	1	2	Ἀβισαὶ			2	Abisai
 2SA 23:18	1	3	ἀδελφὸς	ἀδελφός	noun, nominative masculine singular predicate	1	brother
 2SA 23:18	1	4	Ἰωάβ	Ἰωάβ	indeclinable personal name, genitive in context	1	of Joab
 2SA 23:18	1	5	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2SA 23:18	1	6	Σαρουίας	Σαρουία	noun, genitive feminine singular	1	of Sarouia
-2SA 23:18	1	6	Σαρουίας			2	of Zeruiah
+2SA 23:18	1	6	Σαρουίας	Σαρουία	noun, genitive feminine singular	1	of Zeruiah
+2SA 23:18	1	6	Σαρουίας			2	of Sarouia
 2SA 23:18	1	7	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
-2SA 23:18	1	8	ἄρχων	ἄρχων	noun/participle, nominative masculine singular predicate	1	ruling
+2SA 23:18	1	8	ἄρχων	ἄρχων	noun/participle, nominative masculine singular predicate	1	ruler
 2SA 23:18	1	9	ἐν	ἐν	preposition with the dative	1	in
 2SA 23:18	1	10	τοῖς	ὁ	article, dative masculine plural	1	the
 2SA 23:18	1	11	τρισὶ	τρεῖς	cardinal numeral, dative masculine plural	1	three
@@ -500,8 +500,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:20	1	7	πολλοστὸς	πολλοστός	adjective, accusative masculine singular	1	of many
 2SA 23:20	1	8	ἔργοις	ἔργον	noun, dative neuter plural	1	labors
 2SA 23:20	1	9	ἀπὸ	ἀπό	preposition with the genitive	1	from
-2SA 23:20	1	10	Καβεσεὴλ	Καβεσεήλ	indeclinable place name, genitive in context	1	Kabeseel
-2SA 23:20	1	10	Καβεσεὴλ			2	Kabzeel
+2SA 23:20	1	10	Καβεσεὴλ	Καβεσεήλ	indeclinable place name, genitive in context	1	Kabzeel
+2SA 23:20	1	10	Καβεσεὴλ			2	Kabeseel
 2SA 23:20	1	11	καὶ	καί	conjunction	1	and
 2SA 23:20	1	12	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 2SA 23:20	1	13	ἐπάταξε	πατάσσω	aorist active indicative, third singular	1	struck
@@ -509,7 +509,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:20	1	15	δύο	δύο	cardinal numeral, indeclinable, accusative masculine in context	1	two
 2SA 23:20	1	16	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
 2SA 23:20	1	17	Ἀριὴλ	Ἀριήλ	indeclinable personal name or designation, genitive in context	1	of Ariel
-2SA 23:20	1	18	τοῦ	ὁ	article, genitive singular	1	the
+2SA 23:20	1	18	τοῦ	ὁ	article, genitive singular	1	of
 2SA 23:20	1	19	Μωάβ	Μωάβ	indeclinable place name, genitive in context	1	Moab
 2SA 23:20	1	20	καὶ	καί	conjunction	1	and
 2SA 23:20	1	21	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
@@ -525,7 +525,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:20	1	31	ἐν	ἐν	preposition with the dative	1	in
 2SA 23:20	1	32	τῇ	ὁ	definite article	1	the
 2SA 23:20	1	33	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
-2SA 23:20	1	34	τῆς	ὁ	article, genitive feminine singular	1	the
+2SA 23:20	1	34	τῆς	ὁ	article, genitive feminine singular	1	—
 2SA 23:20	1	35	χιόνος	χιών	noun, genitive feminine singular	1	of snow
 2SA 23:21	1	1	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 2SA 23:21	1	2	ἐπάταξε	πατάσσω	aorist active indicative, third singular	1	struck
@@ -609,8 +609,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:23	1	20	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 2SA 23:23	1	21	τὰ	ὁ	article, nominative neuter plural	1	the
 2SA 23:23	1	22	ὀνόματα	ὄνομα	noun, nominative neuter plural	1	names
-2SA 23:23	1	23	τῶν	ὁ	article, genitive masculine plural	1	of those
-2SA 23:23	1	24	δυνατῶν	δυνατός	substantival adjective, genitive masculine plural	1	of the mighty
+2SA 23:23	1	23	τῶν	ὁ	article, genitive masculine plural	1	of the
+2SA 23:23	1	24	δυνατῶν	δυνατός	substantival adjective, genitive masculine plural	1	mighty men
 2SA 23:23	1	25	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 2SA 23:23	1	26	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2SA 23:24	1	1	Ἀσαὴλ	Ἀσαήλ	indeclinable personal name, nominative in context	1	Asahel
@@ -645,8 +645,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:26	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 23:26	1	3	Φελλωνεί	Φελλωνεί	indeclinable clan designation, nominative in context	1	Phellonite
 2SA 23:26	1	3	Φελλωνεί			2	Paltite
-2SA 23:26	1	4	Ἴρας	Ἴρας	personal name, nominative masculine singular	1	Iras
-2SA 23:26	1	4	Ἴρας			2	Ira
+2SA 23:26	1	4	Ἴρας	Ἴρας	personal name, nominative masculine singular	1	Ira
+2SA 23:26	1	4	Ἴρας			2	Iras
 2SA 23:26	1	5	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2SA 23:26	1	6	Ἔκκας	Ἔκκας	indeclinable personal name, genitive in context	1	of Ekkas
 2SA 23:26	1	6	Ἔκκας			2	of Ikkesh
@@ -668,8 +668,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:28	1	4	Μαεραεὶ	Μαεραεί	indeclinable personal name, nominative in context	1	Maeraei
 2SA 23:28	1	4	Μαεραεὶ			2	Maharai
 2SA 23:28	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
-2SA 23:28	1	6	Μετωφαθίτης	Μετωφαθίτης	noun, nominative masculine singular	1	Metophathite
-2SA 23:28	1	6	Μετωφαθίτης			2	Netophathite
+2SA 23:28	1	6	Μετωφαθίτης	Μετωφαθίτης	noun, nominative masculine singular	1	Netophathite
+2SA 23:28	1	6	Μετωφαθίτης			2	Metophathite
 2SA 23:29	1	1	Ἀλὰφ	Ἀλάφ	indeclinable personal name, nominative in context	1	Alaph
 2SA 23:29	1	1	Ἀλὰφ			2	Heleb
 2SA 23:29	1	2	υἱὸς	υἱός	noun, nominative masculine singular	1	son
@@ -755,9 +755,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:36	1	1	Γάαλ			2	Igal
 2SA 23:36	1	2	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2SA 23:36	1	3	Νάθαν	Νάθαν	indeclinable name, accusative here, subject of the infinitive	1	of Nathan
-2SA 23:36	1	4	πολλῆς	πολύς	adjective, genitive feminine singular	1	much
+2SA 23:36	1	4	πολλῆς	πολύς	adjective, genitive feminine singular	1	of much
 2SA 23:36	1	4	πολλῆς			2	abundant
-2SA 23:36	1	5	δυνάμεως	δύναμις	noun, genitive feminine singular	1	army
+2SA 23:36	1	5	δυνάμεως	δύναμις	noun, genitive feminine singular	1	power
 2SA 23:36	1	5	δυνάμεως			2	force
 2SA 23:36	1	6	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2SA 23:36	1	7	Γαδδί	Γαδδί	indeclinable personal name, genitive in context	1	of Gaddi
@@ -776,8 +776,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 23:37	1	10	Ἰωὰβ	Ἰωάβ	indeclinable personal name, genitive in context	1	of Joab
 2SA 23:37	1	11	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 2SA 23:37	1	12	Σαρουίας	Σαρουία	noun, genitive feminine singular	1	of Zeruiah
-2SA 23:38	1	1	Εἶρας	Εἶρας	personal name, nominative masculine singular	1	Eiras
-2SA 23:38	1	1	Εἶρας			2	Ira
+2SA 23:38	1	1	Εἶρας	Εἶρας	personal name, nominative masculine singular	1	Ira
+2SA 23:38	1	1	Εἶρας			2	Eiras
 2SA 23:38	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 23:38	1	3	Ἐθραῖος	Ἐθραῖος	noun, nominative masculine singular	1	Ethraite
 2SA 23:38	1	3	Ἐθραῖος			2	Ithrite

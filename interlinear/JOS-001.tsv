@@ -67,7 +67,7 @@ JOS 1:3	1	17	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	i
 JOS 1:3	1	18	ὃν	ὅς	relative pronoun, accusative masculine singular	1	in the
 JOS 1:3	1	19	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
 JOS 1:3	1	20	εἴρηκα	λέγω	perfect active indicative, first singular	1	I have said
-JOS 1:3	1	21	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 1:3	1	21	τῷ	ὁ	article, dative masculine singular	1	to
 JOS 1:3	1	22	Μωυσῇ	Μωυσῆς	proper name, dative masculine singular	1	Moses
 JOS 1:4	1	1	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 1:4	1	2	ἔρημον	ἔρημος	noun, accusative feminine singular after εἰς τὴν	1	desert
@@ -87,7 +87,7 @@ JOS 1:4	1	14	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 JOS 1:4	1	15	γῆν	γῆ	noun, accusative feminine singular	1	the land
 JOS 1:4	1	16	Ἐθαίων	Ἐθαῖος	noun, genitive masculine plural	1	of the Hittites
 JOS 1:4	1	17	καὶ	καί	conjunction	1	and
-JOS 1:4	1	18	ἕως	ἕως	temporal conjunction/preposition	1	until
+JOS 1:4	1	18	ἕως	ἕως	temporal conjunction/preposition	1	as far as
 JOS 1:4	1	19	τῆς	ὁ	article, genitive feminine singular	1	the
 JOS 1:4	1	20	θαλάσσης	θάλασσα	noun, genitive feminine singular after ἀπὸ	1	sea
 JOS 1:4	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -137,7 +137,7 @@ JOS 1:6	1	3	ἀνδρίζου			2	be strong
 JOS 1:6	1	4	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 JOS 1:6	1	5	γὰρ	γάρ	conjunction	1	for
 JOS 1:6	1	6	ἀποδιαστελεῖς	ἀποδιαστέλλω	future active indicative, second singular	1	you shall apportion
-JOS 1:6	1	7	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 1:6	1	7	τῷ	ὁ	article, dative masculine singular	1	to the
 JOS 1:6	1	8	λαῷ	λαός	noun, dative masculine singular	1	people
 JOS 1:6	1	9	τούτῳ	οὗτος	demonstrative pronoun, dative neuter singular after ἐν	1	this
 JOS 1:6	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -194,7 +194,7 @@ JOS 1:8	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
 JOS 1:8	1	5	βίβλος	βίβλος	noun, nominative feminine singular	1	book
 JOS 1:8	1	5	βίβλος			2	record
 JOS 1:8	1	6	τοῦ	ὁ	article, genitive masculine singular	1	of the
-JOS 1:8	1	7	νόμου	νόμος	noun, genitive masculine singular	1	of the law
+JOS 1:8	1	7	νόμου	νόμος	noun, genitive masculine singular	1	law
 JOS 1:8	1	8	τούτου	οὗτος	demonstrative pronoun, genitive masculine singular	1	this
 JOS 1:8	1	9	ἐκ	ἐκ	preposition with the genitive	1	from
 JOS 1:8	1	10	τοῦ	ὁ	article, genitive singular	1	the
@@ -211,7 +211,7 @@ JOS 1:8	1	20	ἵνα	ἵνα	conjunction	1	so that
 JOS 1:8	1	21	συνῇς	συνίημι	present active subjunctive, second singular	1	you may understand
 JOS 1:8	1	22	ποιεῖν	ποιέω	present active infinitive	1	to do
 JOS 1:8	1	23	πάντα	πᾶς	adjective, accusative neuter plural	1	all
-JOS 1:8	1	24	τὰ	ὁ	article, accusative neuter plural	1	the
+JOS 1:8	1	24	τὰ	ὁ	article, accusative neuter plural	1	the things
 JOS 1:8	1	25	γεγραμμένα	γράφω	perfect middle/passive participle, accusative neuter plural	1	written
 JOS 1:8	1	26	ἐν	ἐν	preposition with the dative	1	in
 JOS 1:8	1	27	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
@@ -290,7 +290,7 @@ JOS 1:11	1	29	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 JOS 1:11	1	30	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JOS 1:11	1	31	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 1:11	1	32	Θεὸς	θεός	noun, nominative masculine singular	1	God
-JOS 1:11	1	33	τῶν	ὁ	article, genitive masculine plural	1	the
+JOS 1:11	1	33	τῶν	ὁ	article, genitive masculine plural	1	of the
 JOS 1:11	1	34	πατέρων	πατήρ	noun, genitive masculine plural after τῶν	1	fathers
 JOS 1:11	1	35	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 JOS 1:11	1	36	δίδωσιν	δίδωμι	present active indicative, third singular	1	gives
@@ -298,13 +298,13 @@ JOS 1:11	1	37	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 JOS 1:11	1	38	κληρονομεῖν	κληρονομέω	present active infinitive	1	to inherit
 JOS 1:11	1	39	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	it
 JOS 1:12	1	1	Καὶ	καί	conjunction	1	and
-JOS 1:12	1	2	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 1:12	1	2	τῷ	ὁ	article, dative masculine singular	1	to the
 JOS 1:12	1	3	Ῥουβὴν	Ῥουβήν	indeclinable name, dative in context	1	Reubenites
 JOS 1:12	1	4	καὶ	καί	conjunction	1	and
-JOS 1:12	1	5	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 1:12	1	5	τῷ	ὁ	article, dative masculine singular	1	to the
 JOS 1:12	1	6	Γὰδ	Γάδ	indeclinable name, dative in context	1	Gadites
 JOS 1:12	1	7	καὶ	καί	conjunction	1	and
-JOS 1:12	1	8	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 1:12	1	8	τῷ	ὁ	article, dative masculine singular	1	to the
 JOS 1:12	1	9	ἡμίσει	ἥμισυς	substantival adjective, dative neuter singular	1	half
 JOS 1:12	1	10	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
 JOS 1:12	1	10	φυλῆς			2	clan
@@ -369,8 +369,8 @@ JOS 1:14	1	30	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural
 JOS 1:14	1	31	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 JOS 1:14	1	32	ὁ	ὁ	article, nominative masculine singular; introduces substantival participle	1	one who
 JOS 1:14	1	33	ἰσχύων	ἰσχύω	present active participle, nominative masculine singular	1	is strong
-JOS 1:14	1	34	τῇ	ὁ	article, dative feminine singular	1	the
-JOS 1:14	1	35	δυνάμει	δύναμις	noun, dative feminine singular	1	forces
+JOS 1:14	1	34	τῇ	ὁ	article, dative feminine singular	1	in
+JOS 1:14	1	35	δυνάμει	δύναμις	noun, dative feminine singular	1	strength
 JOS 1:14	1	35	δυνάμει			2	troops
 JOS 1:14	1	36	καὶ	καί	conjunction	1	and
 JOS 1:14	1	37	συμμαχήσετε	συμμαχέω	future active indicative, second plural	1	you shall fight alongside
@@ -406,10 +406,10 @@ JOS 1:15	1	27	καὶ	καί	conjunction	1	and
 JOS 1:15	1	28	ἀπελεύσεσθε	ἀπέρχομαι	future middle indicative, second plural	1	you shall return
 JOS 1:15	1	29	ἕκαστος	ἕκαστος	adjective, nominative masculine singular	1	each
 JOS 1:15	1	30	εἰς	εἰς	preposition with the accusative	1	into
-JOS 1:15	1	31	γῆν	γῆ	noun, accusative feminine singular	1	earth
-JOS 1:15	1	32	κληρονομίας	κληρονομία	noun, genitive feminine singular	1	inheritance
+JOS 1:15	1	31	γῆν	γῆ	noun, accusative feminine singular	1	land
+JOS 1:15	1	32	κληρονομίας	κληρονομία	noun, genitive feminine singular	1	of inheritance
 JOS 1:15	1	32	κληρονομίας			2	estate
-JOS 1:15	1	33	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	himself
+JOS 1:15	1	33	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	his own
 JOS 1:15	1	34	καὶ	καί	conjunction	1	and
 JOS 1:15	1	35	κληρονομήσετε	κληρονομέω	future active indicative, second plural	1	you shall inherit
 JOS 1:15	1	36	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
@@ -431,7 +431,7 @@ JOS 1:15	1	50	ἀνατολῶν			2	the rising of the sun
 JOS 1:15	1	51	ἡλίου	ἥλιος	noun, genitive masc. sg.	1	of the sun
 JOS 1:16	1	1	Καὶ	καί	conjunction	1	and
 JOS 1:16	1	2	ἀποκριθέντες	ἀποκρίνομαι	aorist passive participle, nominative masculine plural	1	having answered
-JOS 1:16	1	3	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 1:16	1	3	τῷ	ὁ	article, dative masculine singular	1	—
 JOS 1:16	1	4	Ἰησοῦ	Ἰησοῦς	proper name, dative masculine singular	1	Joshua
 JOS 1:16	1	5	εἶπαν	λέγω	aorist active indicative, third person plural	1	said
 JOS 1:16	1	6	πάντα	πᾶς	adjective, accusative neuter plural	1	all
@@ -474,12 +474,12 @@ JOS 1:18	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 1:18	1	2	δὲ	δέ	postpositive conjunction	1	now
 JOS 1:18	1	3	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 JOS 1:18	1	4	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
-JOS 1:18	1	5	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
+JOS 1:18	1	5	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	ever
 JOS 1:18	1	6	ἀπειθήσῃ	ἀπειθέω	aorist active subjunctive, third singular	1	disobeys
 JOS 1:18	1	7	σοι	σύ	personal pronoun, dative singular	1	to you
 JOS 1:18	1	8	καὶ	καί	conjunction	1	and
 JOS 1:18	1	9	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
-JOS 1:18	1	10	ἐὰν	ἐάν	conjunction	1	if
+JOS 1:18	1	10	ἐὰν	ἐάν	conjunction	1	ever
 JOS 1:18	1	11	μὴ	μή	particle	1	not
 JOS 1:18	1	12	ἀκούσῃ	ἀκούω	aorist active subjunctive, third singular	1	he obeys
 JOS 1:18	1	13	τῶν	ὁ	article, genitive plural	1	the

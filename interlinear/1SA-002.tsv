@@ -139,8 +139,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:8	1	20	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 1SA 2:9	1	1	Διδοὺς	δίδωμι	present active participle, nominative masculine singular	1	giving
 1SA 2:9	1	2	εὐχὴν	εὐχή	noun, accusative feminine singular	1	a petition
-1SA 2:9	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
-1SA 2:9	1	4	εὐχομένῳ	εὔχομαι	present middle/passive participle, dative masculine singular	1	one praying
+1SA 2:9	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	to the one
+1SA 2:9	1	4	εὐχομένῳ	εὔχομαι	present middle/passive participle, dative masculine singular	1	praying
 1SA 2:9	1	5	καὶ	καί	conjunction	1	and
 1SA 2:9	1	6	εὐλόγησεν	εὐλογέω	aorist active indicative, third singular	1	he blessed
 1SA 2:9	1	7	ἔτη	ἔτος	of duration, accusative neuter plural	1	years
@@ -189,7 +189,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:10	1	32	πλούτῳ	πλοῦτος	noun, dative masculine singular	1	wealth
 1SA 2:10	1	33	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1SA 2:10	1	34	ἀλλ᾽	ἀλλά	adversative conjunction	1	but
-1SA 2:10	1	35	ἢ	ἤ	particle in exceptive expression	1	only
+1SA 2:10	1	35	ἢ	ἤ	particle in exceptive expression	1	—
 1SA 2:10	1	36	ἐν	ἐν	preposition with the dative	1	in
 1SA 2:10	1	37	τούτῳ	οὗτος	demonstrative pronoun, dative neuter singular after ἐν	1	this
 1SA 2:10	1	38	καυχάσθω	καυχάομαι	present middle/passive imperative, third singular	1	let boast
@@ -244,7 +244,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:11	1	7	καὶ	καί	conjunction	1	and
 1SA 2:11	1	8	ἀπῆλθον	ἀπέρχομαι	aorist active indicative, third plural	1	they went away
 1SA 2:11	1	9	εἰς	εἰς	preposition with the accusative	1	into
-1SA 2:11	1	10	Ἁρμαθάϊμ	Ἁρμαθάϊμ	indeclinable place name, case from syntax	1	Ramathaim
+1SA 2:11	1	10	Ἁρμαθάϊμ	Ἁρμαθάϊμ	indeclinable place name, case from syntax	1	Ramah
 1SA 2:11	1	11	εἰς	εἰς	preposition with the accusative	1	into
 1SA 2:11	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
 1SA 2:11	1	13	οἶκον	οἶκος	noun, accusative masculine singular	1	house
@@ -284,7 +284,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:12	1	20	λαοῦ	λαός	noun, genitive masculine singular	1	people
 1SA 2:12	1	21	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
 1SA 2:12	1	22	τοῦ	ὁ	article, genitive singular	1	who
-1SA 2:12	1	23	θύοντος	θύω	present active participle, genitive masculine singular	1	were sacrificing
+1SA 2:12	1	23	θύοντος	θύω	present active participle, genitive masculine singular	1	was sacrificing
 1SA 2:13	1	1	Καὶ	καί	conjunction	1	and
 1SA 2:13	1	2	ἤρχετο	ἔρχομαι	imperfect middle indicative, third singular	1	was coming
 1SA 2:13	1	3	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -343,12 +343,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:14	1	35	ἐποίουν	ποιέω	imperfect active indicative, third plural	1	they would do
 1SA 2:14	1	36	παντὶ	πᾶς	adjective, dative masculine singular	1	to all
 1SA 2:14	1	37	Ἰσραὴλ	Ἰσραὴλ	indeclinable people name, dative in context	1	Israel
-1SA 2:14	1	38	τοῖς	ὁ	article, dative neuter plural	1	the
+1SA 2:14	1	38	τοῖς	ὁ	article, dative neuter plural	1	—
 1SA 2:14	1	39	ἐρχομένοις	ἔρχομαι	present middle/passive participle, dative masculine plural	1	coming
 1SA 2:14	1	40	θῦσαι	θύω	aorist active infinitive after τοῦ μὴ construction, of purpose	1	to sacrifice
 1SA 2:14	1	41	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 1SA 2:14	1	42	ἐν	ἐν	preposition with the dative	1	in
-1SA 2:14	1	43	Σηλώ	Σηλώ	indeclinable place name, dative in context	1	Selo
+1SA 2:14	1	43	Σηλώ	Σηλώ	indeclinable place name, dative in context	1	Shiloh
 1SA 2:15	1	1	Καὶ	καί	conjunction	1	and
 1SA 2:15	1	2	πρὶν	πρίν	conjunction	1	before
 1SA 2:15	1	3	θυμιαθῆναι	θυμιάω	aorist passive infinitive	1	to be burned as an offering
@@ -363,7 +363,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:15	1	12	ἔλεγε	λέγω	imperfect active indicative, third singular	1	would say
 1SA 2:15	1	13	τῷ	ὁ	article, dative masculine singular	1	to the
 1SA 2:15	1	14	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	man
-1SA 2:15	1	15	τῷ	ὁ	article, dative masculine singular	1	the
+1SA 2:15	1	15	τῷ	ὁ	article, dative masculine singular	1	—
 1SA 2:15	1	16	θύοντι	θύω	present active participle, dative masculine singular	1	sacrificing
 1SA 2:15	1	17	δὸς	δίδωμι	aorist active imperative, second singular	1	give
 1SA 2:15	1	18	κρέας	κρέας	noun, accusative neut. sg., flesh/meat	1	meat
@@ -385,7 +385,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:16	1	2	ἔλεγεν	λέγω	imperfect active indicative, third singular	1	would say
 1SA 2:16	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 1SA 2:16	1	4	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
-1SA 2:16	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
+1SA 2:16	1	5	ὁ	ὁ	article, nominative masculine singular	1	—
 1SA 2:16	1	6	θύων	θύω	present active participle, nominative masculine singular	1	sacrificing
 1SA 2:16	1	7	θυμιαθήτω	θυμιάω	aorist passive imperative, third singular	1	let it be burned as an offering
 1SA 2:16	1	8	πρῶτον	πρῶτος	adverb	1	first
@@ -549,13 +549,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:22	1	18	ἐκοίμιζον	κοιμίζω	imperfect active indicative, third plural	1	were bedding
 1SA 2:22	1	19	τὰς	ὁ	article, accusative feminine plural	1	the
 1SA 2:22	1	20	γυναῖκας	γυνή	noun, accusative feminine plural	1	women
-1SA 2:22	1	21	τὰς	ὁ	article, accusative feminine plural	1	the
+1SA 2:22	1	21	τὰς	ὁ	article, accusative feminine plural	1	—
 1SA 2:22	1	22	παρεστώσας	παρίστημι	perfect active participle, accusative feminine plural	1	standing by
 1SA 2:22	1	23	παρὰ	παρά	preposition with the accusative of place	1	beside
 1SA 2:22	1	23	παρὰ			2	near
 1SA 2:22	1	24	τὴν	ὁ	article, accusative feminine singular	1	the
 1SA 2:22	1	25	θύραν	θύρα	noun, accusative feminine singular	1	door
-1SA 2:22	1	26	τῆς	ὁ	article, genitive feminine singular	1	the
+1SA 2:22	1	26	τῆς	ὁ	article, genitive feminine singular	1	of the
 1SA 2:22	1	27	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
 1SA 2:22	1	28	τοῦ	ὁ	article, genitive singular	1	of the
 1SA 2:22	1	29	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	1	testimony
@@ -577,7 +577,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:23	1	14	πονηρὰ	πονηρός	substantival adjective, accusative neuter plural	1	evil
 1SA 2:23	1	15	ἐκ	ἐκ	preposition with the genitive	1	from
 1SA 2:23	1	16	στόματος	στόμα	noun, genitive neuter singular after τοῦ/ἐπάνω τοῦ	1	mouth
-1SA 2:23	1	17	παντὸς	πᾶς	adjective, genitive neuter singular	1	all
+1SA 2:23	1	17	παντὸς	πᾶς	adjective, genitive neuter singular	1	of all
 1SA 2:23	1	18	τοῦ	ὁ	article, genitive singular	1	the
 1SA 2:23	1	19	λαοῦ	λαός	noun, genitive masculine singular	1	people
 1SA 2:23	1	20	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
@@ -795,14 +795,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:30	1	30	ἐμοὶ	ἐγώ	pronoun, dative first singular (παρ᾽ ἐμοὶ 'beside me')	1	from me
 1SA 2:30	1	31	ὅτι	ὅτι	causal conjunction	1	because
 1SA 2:30	1	32	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
-1SA 2:30	1	33	ἢ	ἤ	comparative conjunction	1	only
-1SA 2:30	1	34	τοὺς	ὁ	article, accusative masculine plural	1	the
-1SA 2:30	1	35	δοξάζοντάς	δοξάζω	present active participle, accusative masculine plural	1	ones honoring
+1SA 2:30	1	33	ἢ	ἤ	comparative conjunction	1	—
+1SA 2:30	1	34	τοὺς	ὁ	article, accusative masculine plural	1	those
+1SA 2:30	1	35	δοξάζοντάς	δοξάζω	present active participle, accusative masculine plural	1	honoring
 1SA 2:30	1	36	με	ἐγώ	personal pronoun, accusative singular	1	me
 1SA 2:30	1	37	δοξάσω	δοξάζω	future active indicative, 1st sg.	1	I will honor
 1SA 2:30	1	38	καὶ	καί	conjunction	1	and
-1SA 2:30	1	39	ὁ	ὁ	article, nominative masculine singular	1	the
-1SA 2:30	1	40	ἐξουθενῶν	ἐξουθενόω	present active participle, nominative masculine singular	1	one despising
+1SA 2:30	1	39	ὁ	ὁ	article, nominative masculine singular	1	the one
+1SA 2:30	1	40	ἐξουθενῶν	ἐξουθενόω	present active participle, nominative masculine singular	1	despising
 1SA 2:30	1	41	με	ἐγώ	personal pronoun, accusative singular	1	me
 1SA 2:30	1	42	ἀτιμασθήσεται	ἀτιμάζω	future passive indicative, third singular	1	shall be dishonored
 1SA 2:31	1	1	Ἰδοὺ	ἰδού	presentative particle	1	behold
@@ -938,7 +938,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:36	1	1	Καὶ	καί	conjunction	1	and
 1SA 2:36	1	2	ἔσται	εἰμί	future indicative, third singular	1	it shall happen
 1SA 2:36	1	3	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
-1SA 2:36	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
+1SA 2:36	1	4	ὁ	ὁ	article, nominative masculine singular	1	—
 1SA 2:36	1	5	περισσεύων	περισσεύω	present active participle, nominative masculine singular	1	one remaining
 1SA 2:36	1	6	ἐν	ἐν	preposition with the dative	1	in
 1SA 2:36	1	7	οἴκῳ	οἶκος	noun, dative masculine singular	1	house

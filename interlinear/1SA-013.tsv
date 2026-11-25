@@ -45,7 +45,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:2	1	29	Ἰωνάθαν	Ἰωνάθαν	indeclinable personal name, nominative in context	1	Jonathan
 1SA 13:2	1	30	ἐν	ἐν	preposition with the dative	1	in
 1SA 13:2	1	31	Γαβαὰ	Γαβαά	indeclinable place name, nominative in context	1	Gibeah
-1SA 13:2	1	32	τοῦ	ὁ	article, genitive masculine singular	1	of the
+1SA 13:2	1	32	τοῦ	ὁ	article, genitive masculine singular	1	of
 1SA 13:2	1	33	Βενιαμείν	Βενιαμείν	indeclinable personal name, dative in context	1	Benjamin
 1SA 13:2	1	34	καὶ	καί	conjunction	1	and
 1SA 13:2	1	35	τὸ	ὁ	definite article, nominative/accusative neuter singular	1	the
@@ -101,7 +101,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:4	1	12	καὶ	καί	conjunction	1	and
 1SA 13:4	1	13	ἠσχύνθησαν	αἰσχύνω	aorist passive indicative, third plural	1	were put to shame
 1SA 13:4	1	14	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	Israel
-1SA 13:4	1	15	ἐν	ἐν	preposition with the dative	1	in
+1SA 13:4	1	15	ἐν	ἐν	preposition with the dative	1	among
 1SA 13:4	1	16	τοῖς	ὁ	article, dative neuter plural	1	the
 1SA 13:4	1	17	ἀλλοφύλοις	ἀλλόφυλος	adjective, dative masculine plural	1	Philistines
 1SA 13:4	1	18	καὶ	καί	conjunction	1	and
@@ -416,7 +416,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:15	1	18	ὀπίσω	ὀπίσω	adverb, substantival after τὰ	1	behind
 1SA 13:15	1	19	τοῦ	ὁ	article, genitive singular	1	the
 1SA 13:15	1	20	λαοῦ	λαός	noun, genitive masculine singular	1	people
-1SA 13:15	1	21	τοῦ	ὁ	article, genitive masculine singular	1	the
+1SA 13:15	1	21	τοῦ	ὁ	article, genitive masculine singular	1	—
 1SA 13:15	1	22	πολεμιστοῦ	πολεμιστής	noun, genitive masculine singular	1	warrior
 1SA 13:15	1	23	αὐτῶν	αὐτός	pronoun, genitive plural	1	they
 1SA 13:15	1	24	παραγενομένων	παραγίνομαι	aorist middle participle, genitive masculine plural	1	having arrived
@@ -500,8 +500,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:18	1	18	εἰσκύπτουσαν	εἰσκύπτω	present active imperative, accusative feminine singular	1	looking down
 1SA 13:18	1	19	ἐπὶ	ὁ	article, accusative feminine singular	1	upon
 1SA 13:18	1	20	Γαὶ	Γαί	indeclinable place name, genitive in context	1	Gai
-1SA 13:18	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
-1SA 13:18	1	22	Σαβεὶμ	Σαβείμ	indeclinable place name, accusative in context	1	Sabeim
+1SA 13:18	1	21	τὴν	ὁ	article, accusative feminine singular	1	—
+1SA 13:18	1	22	Σαβεὶμ	Σαβείμ	indeclinable place name, accusative in context	1	Zeboim
 1SA 13:18	1	23	τὴν	ὁ	article, accusative feminine singular	1	the
 1SA 13:18	1	24	ἔρημον	ἔρημος	noun, accusative feminine singular after εἰς τὴν	1	wilderness
 1SA 13:19	1	1	Καὶ	καί	conjunction	1	and
@@ -534,7 +534,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:20	1	8	χαλκεύειν	χαλκεύω	present active infinitive	1	to forge
 1SA 13:20	1	9	ἕκαστος	ἕκαστος	pronoun/adjective, nominative masculine singular, distributive	1	each
 1SA 13:20	1	10	τὸ	ὁ	article, accusative neuter singular	1	the
-1SA 13:20	1	11	θεριστήριον	θεριστήριον	noun, accusative neuter singular	1	sickle
+1SA 13:20	1	11	θεριστήριον	θεριστήριον	noun, accusative neuter singular	1	reaping tool
 1SA 13:20	1	12	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1SA 13:20	1	13	καὶ	καί	conjunction	1	and
 1SA 13:20	1	14	τὸ	ὁ	article, nominative neuter singular	1	the
@@ -620,4 +620,4 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:23	1	7	εἰς	εἰς	preposition with the accusative	1	into
 1SA 13:23	1	8	τὸ	ὁ	article, accusative neuter singular	1	the area
 1SA 13:23	1	9	πέραν	πέραν	adverb/preposition with genitive τοῦ Ἰορδάνου, 'beyond'	1	beyond
-1SA 13:23	1	10	Μαχμάς	Μαχμάς	indeclinable place name, nominative in context	1	of Michmash
+1SA 13:23	1	10	Μαχμάς	Μαχμάς	indeclinable place name, nominative in context	1	Michmash

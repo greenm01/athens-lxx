@@ -77,13 +77,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:2	1	29	ἡ	ὁ	article, nominative feminine singular	1	the
 2SA 11:2	1	30	γυνὴ	γυνή	noun, nominative feminine singular	1	woman
 2SA 11:2	1	31	καλὴ	καλός	adjective, nominative feminine singular	1	beautiful
-2SA 11:2	1	32	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+2SA 11:2	1	32	τῷ	ὁ	article, dative masculine/neuter singular	1	in the
 2SA 11:2	1	33	εἴδει	εἶδος	noun, dative neuter singular	1	appearance
 2SA 11:2	1	33	εἴδει			2	form
 2SA 11:2	1	34	σφόδρα	σφόδρα	adverb	1	exceedingly
 2SA 11:3	1	1	Καὶ	καί	conjunction	1	and
 2SA 11:3	1	2	ἀπέστειλε	ἀποστέλλω	aorist active indicative, third person singular	1	he sent
-2SA 11:3	1	3	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
+2SA 11:3	1	3	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
 2SA 11:3	1	4	καὶ	καί	conjunction	1	and
 2SA 11:3	1	5	ἐζήτησε	ζητέω	aorist active indicative, third singular	1	inquired
 2SA 11:3	1	5	ἐζήτησε			2	looked for
@@ -145,7 +145,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:5	1	8	ἀποστείλασα			2	sending
 2SA 11:5	1	9	ἀπήγγειλε	ἀπαγγέλλω	aorist active indicative, third singular	1	told
 2SA 11:5	1	9	ἀπήγγειλε			2	reported
-2SA 11:5	1	10	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+2SA 11:5	1	10	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 2SA 11:5	1	11	Δαυὶδ	Δαυίδ	indeclinable personal name, dative in context	1	David
 2SA 11:5	1	12	καὶ	καί	conjunction	1	and
 2SA 11:5	1	13	εἶπεν	λέγω	aorist active indicative, third singular	1	said
@@ -317,7 +317,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:11	1	22	οἱ	ὁ	article, nominative masculine plural	1	the
 2SA 11:11	1	23	δοῦλοι	δοῦλος	noun, nominative masculine plural in direct address	1	servants
 2SA 11:11	1	23	δοῦλοι			2	slaves
-2SA 11:11	1	24	τοῦ	ὁ	article, genitive singular	1	the
+2SA 11:11	1	24	τοῦ	ὁ	article, genitive singular	1	of the
 2SA 11:11	1	25	κυρίου	κύριος	noun, genitive masculine singular	1	master
 2SA 11:11	1	26	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2SA 11:11	1	27	ἐπὶ	ἐπί	preposition (case from context)	1	on
@@ -348,10 +348,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:11	1	51	ἡ	ὁ	article, nominative feminine singular	1	the
 2SA 11:11	1	52	ψυχή	ψυχή	noun, nominative feminine singular	1	soul
 2SA 11:11	1	53	σου	σύ	personal pronoun, genitive second singular	1	your
-2SA 11:11	1	54	εἰ	εἰ	particle introducing an oath with implied negation	1	shall I
+2SA 11:11	1	54	εἰ	εἰ	particle introducing an oath with implied negation	1	if
 2SA 11:11	1	55	ποιήσω	ποιέω	future active indicative / aorist subjunctive form, first singular, deliberative 'how shall I do?'	1	shall I do
 2SA 11:11	1	56	τὸ	ὁ	article, neuter singular (case from context)	1	the
-2SA 11:11	1	57	ῥῆμα	ῥῆμα	noun, accusative neuter singular after τό	1	saying
+2SA 11:11	1	57	ῥῆμα	ῥῆμα	noun, accusative neuter singular after τό	1	thing
 2SA 11:11	1	58	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 2SA 11:12	1	1	Καὶ	καί	conjunction	1	and
 2SA 11:12	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
@@ -640,14 +640,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:22	1	21	Ἰωὰβ			2	Ioab
 2SA 11:22	1	22	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 2SA 11:22	1	23	τὰ	ὁ	article, accusative neuter plural	1	the
-2SA 11:22	1	24	ῥήματα	ῥῆμα	noun, accusative neut. pl.	1	words/matters
+2SA 11:22	1	24	ῥήματα	ῥῆμα	noun, accusative neut. pl.	1	words
 2SA 11:22	1	25	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2SA 11:22	1	26	πολέμου	πόλεμος	noun, genitive masculine singular	1	war
 2SA 11:22	1	26	πολέμου			2	battle
 2SA 11:22	1	27	Καὶ	καί	conjunction	1	and
 2SA 11:22	1	28	ἐθυμώθη	θυμόω	aorist passive indicative, third singular	1	was enraged
 2SA 11:22	1	29	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
-2SA 11:22	1	30	πρὸς	πρός	preposition with the accusative	1	to
+2SA 11:22	1	30	πρὸς	πρός	preposition with the accusative	1	against
 2SA 11:22	1	31	Ἰωὰβ	Ἰωάβ	indeclinable personal name, accusative in context	1	Joab
 2SA 11:22	1	31	Ἰωὰβ			2	Ioab
 2SA 11:22	1	32	καὶ	καί	conjunction	1	and
@@ -679,7 +679,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:22	1	55	υἱὸν			2	a son
 2SA 11:22	1	56	Ἱεροβάαλ	Ἱεροβάαλ	indeclinable personal name, genitive in context	1	of Jerubbaal
 2SA 11:22	1	57	οὐχὶ	οὐχί	negative particle, emphatic form	1	not
-2SA 11:22	1	58	γυνὴ	γυνή	noun, nominative feminine singular	1	wife
+2SA 11:22	1	58	γυνὴ	γυνή	noun, nominative feminine singular	1	a woman
 2SA 11:22	1	58	γυνὴ			2	woman
 2SA 11:22	1	59	ἔῤῥιψεν	ῥίπτω	aorist active indicative, third singular	1	threw
 2SA 11:22	1	60	ἐπ᾽	ἐπί	preposition with the accusative	1	over
@@ -691,8 +691,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:22	1	66	τείχους	τεῖχος	noun, genitive neuter singular	1	wall
 2SA 11:22	1	67	καὶ	καί	conjunction	1	and
 2SA 11:22	1	68	ἀπέθανεν	ἀποθνῄσκω	aorist active indicative, third singular	1	he died
-2SA 11:22	1	69	ἐν	ἐν	preposition governing the dative	1	for
-2SA 11:22	1	69	ἐν			2	in
+2SA 11:22	1	69	ἐν	ἐν	preposition governing the dative	1	in
+2SA 11:22	1	69	ἐν			2	for
 2SA 11:22	1	70	Θαμασσεί	Θαμασσεί	indeclinable place name, dative in context	1	Thamassei
 2SA 11:22	1	70	Θαμασσεί			2	Thebez
 2SA 11:22	1	71	ἱνατί	ἱνατί	interrogative adverb, ἵνα τί written as one word	1	why
@@ -745,7 +745,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:24	1	11	τείχους	τεῖχος	noun, genitive neuter singular	1	wall
 2SA 11:24	1	12	καὶ	καί	conjunction	1	and
 2SA 11:24	1	13	ἀπέθανον	ἀποθνῄσκω	aorist active indicative, third plural	1	died
-2SA 11:24	1	14	τῶν	ὁ	article, genitive masculine plural	1	the
+2SA 11:24	1	14	τῶν	ὁ	article, genitive masculine plural	1	of the
 2SA 11:24	1	15	παίδων	παῖς	noun, genitive masculine plural after τῶν	1	servants
 2SA 11:24	1	16	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2SA 11:24	1	17	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
@@ -798,7 +798,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:25	1	32	πόλεμόν	πόλεμος	noun, accusative masculine singular	1	battle
 2SA 11:25	1	32	πόλεμόν			2	fight
 2SA 11:25	1	33	σου	σύ	pronoun, possessive genitive second singular	1	your
-2SA 11:25	1	34	πρὸς	πρός	preposition with the accusative	1	to
+2SA 11:25	1	34	πρὸς	πρός	preposition with the accusative	1	against
 2SA 11:25	1	35	τὴν	ὁ	article, accusative feminine singular	1	the
 2SA 11:25	1	36	πόλιν	πόλις	noun, accusative feminine singular	1	city
 2SA 11:25	1	37	καὶ	καί	conjunction	1	and

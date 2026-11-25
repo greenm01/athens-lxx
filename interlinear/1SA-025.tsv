@@ -16,8 +16,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 25:1	1	15	οἴκῳ	οἶκος	noun, dative masculine singular	1	the house
 1SA 25:1	1	16	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1SA 25:1	1	17	ἐν	ἐν	preposition with the dative	1	in
-1SA 25:1	1	18	Ῥαμᾷ	Ῥαμά	indeclinable or first-declension place name, dative in context	1	Rama
-1SA 25:1	1	18	Ῥαμᾷ			2	Ramah
+1SA 25:1	1	18	Ῥαμᾷ	Ῥαμά	indeclinable or first-declension place name, dative in context	1	Ramah
+1SA 25:1	1	18	Ῥαμᾷ			2	Rama
 1SA 25:1	1	19	Καὶ	καί	conjunction	1	and
 1SA 25:1	1	20	ἀνέστη	ἀνίστημι	aorist active indicative, third singular	1	rose up
 1SA 25:1	1	21	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
@@ -47,7 +47,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 25:2	1	17	σφόδρα	σφόδρα	adverb of degree	1	exceedingly
 1SA 25:2	1	18	καὶ	καί	conjunction	1	and
 1SA 25:2	1	19	τούτῳ	οὗτος	demonstrative pronoun, dative neuter singular after ἐν	1	to this man
-1SA 25:2	1	20	ποίμνια	ποίμνιον	noun, accusative neuter plural	1	flocks
+1SA 25:2	1	20	ποίμνια	ποίμνιον	noun, accusative neuter plural	1	sheep
 1SA 25:2	1	21	τρισχίλια	τρισχίλιοι	adjective, nominative neuter plural	1	three thousand
 1SA 25:2	1	22	καὶ	καί	conjunction	1	and
 1SA 25:2	1	23	χίλιαι	χίλιοι	cardinal numeral, nominative feminine plural	1	a thousand
@@ -261,7 +261,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 25:10	1	7	καὶ	καί	conjunction	1	and
 1SA 25:10	1	8	εἶπε	λέγω	aorist active indicative, 3rd sg.	1	said
 1SA 25:10	1	9	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who is
-1SA 25:10	1	10	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	is David
+1SA 25:10	1	10	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
 1SA 25:10	1	11	καὶ	καί	conjunction	1	and
 1SA 25:10	1	12	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who is
 1SA 25:10	1	13	υἱὸς	υἱός	noun, nominative masculine singular	1	son
@@ -756,7 +756,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 25:26	1	34	ἐχθροί	ἐχθρός	adjective, nominative masculine plural; substantival	1	enemies
 1SA 25:26	1	35	σου	σύ	pronoun, possessive genitive second singular	1	your
 1SA 25:26	1	36	καὶ	καί	conjunction	1	and
-1SA 25:26	1	37	οἱ	ὁ	article, nominative masculine plural	1	the
+1SA 25:26	1	37	οἱ	ὁ	article, nominative masculine plural	1	those
 1SA 25:26	1	38	ζητοῦντες	ζητέω	present active participle, nominative masculine plural	1	seeking
 1SA 25:26	1	39	τῷ	ὁ	article, dative masculine singular	1	for the
 1SA 25:26	1	40	κυρίῳ	κύριος	noun, dative masculine singular	1	lord
@@ -1090,7 +1090,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 25:37	1	13	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1SA 25:37	1	14	τὰ	ὁ	article, accusative neuter plural	1	the
 1SA 25:37	1	15	ῥήματα	ῥῆμα	noun, accusative neuter plural after τὰ, here 'things/events'	1	words
-1SA 25:37	1	16	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these things
+1SA 25:37	1	16	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these
 1SA 25:37	1	17	καὶ	καί	conjunction	1	and
 1SA 25:37	1	18	ἐναπέθανεν	ἐναποθνῄσκω	aorist active indicative, third singular	1	died within
 1SA 25:37	1	19	ἡ	ὁ	article, nominative feminine singular	1	the

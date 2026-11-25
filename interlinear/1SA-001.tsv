@@ -57,7 +57,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 1:3	1	7	πόλεως			2	town
 1SA 1:3	1	8	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1SA 1:3	1	9	ἐξ	ἐκ	preposition with the genitive	1	from
-1SA 1:3	1	10	Ἁρμαθάϊμ	Ἁρμαθάϊμ	indeclinable place name, genitive in context	1	Ramathaim
+1SA 1:3	1	10	Ἁρμαθάϊμ	Ἁρμαθάϊμ	indeclinable place name, genitive in context	1	Ramah
 1SA 1:3	1	11	ἐξ	ἐκ	preposition with the genitive	1	from
 1SA 1:3	1	12	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
 1SA 1:3	1	13	εἰς	εἰς	preposition with the accusative	1	to
@@ -168,7 +168,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 1:6	1	27	τὴν	ὁ	article, accusative feminine singular	1	the
 1SA 1:6	1	28	μήτραν	μήτρα	noun, accusative feminine singular	1	womb
 1SA 1:6	1	29	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	her
-1SA 1:6	1	30	τοῦ	ὁ	article, genitive singular	1	the
+1SA 1:6	1	30	τοῦ	ὁ	article, genitive singular	1	—
 1SA 1:6	1	31	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
 1SA 1:6	1	32	δοῦναι	δίδωμι	aorist active infinitive after τοῦ μὴ, of prevented result	1	to give
 1SA 1:6	1	33	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
@@ -226,7 +226,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 1:8	1	30	καρδία	καρδία	noun, nominative feminine singular	1	heart
 1SA 1:8	1	31	σου	σύ	personal pronoun, possessive genitive singular	1	your
 1SA 1:8	1	32	οὐκ	οὐ	negative particle	1	not
-1SA 1:8	1	33	ἐγώ	ἐγώ	pronoun, nominative first singular emphatic	1	am I
+1SA 1:8	1	33	ἐγώ	ἐγώ	pronoun, nominative first singular emphatic	1	I
 1SA 1:8	1	34	εἰμι	εἰμί	present indicative, first singular	1	am
 1SA 1:8	1	35	ἀγαθός	ἀγαθός	adjective, nominative masculine singular	1	good
 1SA 1:8	1	36	σοι	σύ	personal pronoun, dative singular	1	to you
@@ -293,7 +293,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 1:11	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
 1SA 1:11	1	16	ταπείνωσιν	ταπείνωσις	noun, accusative feminine singular	1	humiliation
 1SA 1:11	1	16	ταπείνωσιν			2	affliction
-1SA 1:11	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
+1SA 1:11	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
 1SA 1:11	1	18	δούλης	δούλη	noun, genitive feminine singular	1	servant
 1SA 1:11	1	18	δούλης			2	female slave
 1SA 1:11	1	19	σου	σύ	pronoun, genitive second singular	1	your
@@ -543,12 +543,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 1:19	1	20	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 1SA 1:19	1	20	οἶκον			2	household
 1SA 1:19	1	21	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
-1SA 1:19	1	22	Ἁρμαθάϊμ	Ἁρμαθάϊμ	indeclinable place name, accusative in context	1	Ramathaim
+1SA 1:19	1	22	Ἁρμαθάϊμ	Ἁρμαθάϊμ	indeclinable place name, accusative in context	1	Ramah
 1SA 1:19	1	23	καὶ	καί	conjunction	1	and
 1SA 1:19	1	24	ἔγνω	γινώσκω	aorist active indicative, third singular, of marital union	1	knew
 1SA 1:19	1	24	ἔγνω			2	had relations with
 1SA 1:19	1	25	Ἑλκανὰ	Ἑλκανά	indeclinable personal name, nominative in context	1	Elkanah
-1SA 1:19	1	26	τὴν	ὁ	article, accusative feminine singular	1	the
+1SA 1:19	1	26	τὴν	ὁ	article, accusative feminine singular	1	—
 1SA 1:19	1	27	Ἄνναν	Ἄννα	proper name, accusative feminine singular	1	Hannah
 1SA 1:19	1	28	γυναῖκα	γυνή	noun, accusative feminine singular	1	wife
 1SA 1:19	1	29	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -637,7 +637,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 1:22	1	20	καὶ	καί	conjunction	1	and
 1SA 1:22	1	21	ὀφθήσεται	ὁράω	future passive indicative, third singular	1	will appear
 1SA 1:22	1	21	ὀφθήσεται			2	will be seen
-1SA 1:22	1	22	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+1SA 1:22	1	22	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 1SA 1:22	1	23	προσώπῳ	πρόσωπον	noun, dative neuter singular	1	face
 1SA 1:22	1	23	προσώπῳ			2	countenance
 1SA 1:22	1	24	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
@@ -708,7 +708,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 1:24	1	17	σεμιδάλεως	σεμίδαλις	noun, genitive feminine singular	1	of fine flour
 1SA 1:24	1	18	καὶ	καί	conjunction	1	and
 1SA 1:24	1	19	νέβελ	νέβελ	indeclinable unit or container	1	a skin
-1SA 1:24	1	20	οἴνου	οἶνος	noun, genitive masculine singular	1	wine
+1SA 1:24	1	20	οἴνου	οἶνος	noun, genitive masculine singular	1	of wine
 1SA 1:24	1	21	καὶ	καί	conjunction	1	and
 1SA 1:24	1	22	εἰσῆλθεν	εἰσέρχομαι	aorist active indicative, third singular	1	entered
 1SA 1:24	1	23	εἰς	εἰς	preposition with the accusative	1	into

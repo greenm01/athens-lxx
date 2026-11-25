@@ -62,7 +62,7 @@ JOS 22:3	1	19	τοῦ	ὁ	article, genitive singular	1	the
 JOS 22:3	1	20	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 JOS 22:3	1	21	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 JOS 22:4	1	1	Νῦν	νῦν	adverb of time	1	now
-JOS 22:4	1	2	δὲ	δέ	postpositive conjunction	1	now
+JOS 22:4	1	2	δὲ	δέ	postpositive conjunction	1	but
 JOS 22:4	1	3	κατέπαυσε	καταπαύω	aorist active indicative, third singular	1	gave rest
 JOS 22:4	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JOS 22:4	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -279,8 +279,8 @@ JOS 22:9	1	18	τῶν	ὁ	article, genitive masculine plural	1	the
 JOS 22:9	1	19	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 JOS 22:9	1	20	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 JOS 22:9	1	21	ἐκ	ἐκ	preposition with the genitive	1	from
-JOS 22:9	1	22	Σηλὼ	Σιλώ	indeclinable place name, dative in context	1	Silo
-JOS 22:9	1	22	Σηλὼ			2	Shiloh
+JOS 22:9	1	22	Σηλὼ	Σιλώ	indeclinable place name, dative in context	1	Shiloh
+JOS 22:9	1	22	Σηλὼ			2	Silo
 JOS 22:9	1	23	ἐν	ἐν	preposition with the dative	1	in
 JOS 22:9	1	24	γῇ	γῆ	noun, dative feminine singular	1	land
 JOS 22:9	1	24	γῇ			2	earth
@@ -308,7 +308,7 @@ JOS 22:9	1	42	Μωυσῆ	Μωυσῆς	noun, genitive masculine singular	1	of M
 JOS 22:10	1	1	Καὶ	καί	conjunction	1	and
 JOS 22:10	1	2	ἦλθοσαν	ἔρχομαι	aorist active indicative, third plural	1	came
 JOS 22:10	1	3	εἰς	εἰς	preposition with the accusative	1	into
-JOS 22:10	1	4	Γαλιλὼθ	Γαλιλώθ	indeclinable place name, accusative in context	1	Galiloth
+JOS 22:10	1	4	Γαλιλὼθ	Γαλιλώθ	indeclinable place name, accusative in context	1	Geliloth
 JOS 22:10	1	5	τοῦ	ὁ	article, genitive masculine singular	1	of the
 JOS 22:10	1	6	Ἰορδάνου	Ἰορδάνης	river name, genitive masculine singular	1	Jordan
 JOS 22:10	1	7	ᾗ	ὅς	relative pronoun, dative feminine singular	1	which
@@ -370,7 +370,7 @@ JOS 22:11	1	24	γῆς	γῆ	noun, genitive feminine singular	1	land
 JOS 22:11	1	25	Χαναὰν	Χαναάν	indeclinable place name, genitive in context	1	of Canaan
 JOS 22:11	1	26	ἐπὶ	ἐπί	preposition (case from context)	1	on
 JOS 22:11	1	27	τοῦ	ὁ	article, genitive singular	1	the
-JOS 22:11	1	28	Γαλιλὼθ	Γαλιλώθ	indeclinable place name, accusative in context	1	Galiloth
+JOS 22:11	1	28	Γαλιλὼθ	Γαλιλώθ	indeclinable place name, accusative in context	1	Geliloth
 JOS 22:11	1	29	τοῦ	ὁ	article, genitive masculine singular	1	of the
 JOS 22:11	1	30	Ἰορδάνου	Ἰορδάνης	river name, genitive masculine singular after τοῦ	1	Jordan
 JOS 22:11	1	31	ἐν	ἐν	preposition with the dative	1	in
@@ -390,10 +390,10 @@ JOS 22:12	1	9	οἱ	ὁ	article, nominative masculine plural	1	the
 JOS 22:12	1	10	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 JOS 22:12	1	11	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 JOS 22:12	1	12	εἰς	εἰς	preposition with the accusative	1	into
-JOS 22:12	1	13	Σηλὼ	Σηλώ	indeclinable place name, accusative in context	1	Selo
-JOS 22:12	1	13	Σηλὼ			2	Shiloh
+JOS 22:12	1	13	Σηλὼ	Σηλώ	indeclinable place name, accusative in context	1	Shiloh
+JOS 22:12	1	13	Σηλὼ			2	Selo
 JOS 22:12	1	14	ὥστε	ὥστε	conjunction with the infinitive	1	so as
-JOS 22:12	1	15	ἀναβῆναι	ἀναβαίνω	aorist active infinitive after τοῦ	1	going up
+JOS 22:12	1	15	ἀναβῆναι	ἀναβαίνω	aorist active infinitive after τοῦ	1	to go up
 JOS 22:12	1	16	ἐκπολεμῆσαι	ἐκπολεμέω	aorist active infinitive	1	to wage war
 JOS 22:12	1	17	αὐτούς	αὐτός	pronoun, dative masculine plural	1	against them
 JOS 22:13	1	1	Καὶ	καί	conjunction	1	and
@@ -552,7 +552,7 @@ JOS 22:17	1	21	συναγωγῇ	συναγωγή	noun, dative feminine singular
 JOS 22:17	1	22	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 JOS 22:18	1	1	Καὶ	καί	conjunction	1	and
 JOS 22:18	1	2	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
-JOS 22:18	1	3	ἀποστραφήσεσθε	ἀποστρέφω	future passive indicative, second plural	1	turn away
+JOS 22:18	1	3	ἀποστραφήσεσθε	ἀποστρέφω	future passive indicative, second plural	1	will turn away
 JOS 22:18	1	4	σήμερον	σήμερον	adverb of time	1	today
 JOS 22:18	1	5	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOS 22:18	1	6	ὄπισθεν	ὄπισθεν	adverb used as preposition	1	following
@@ -634,8 +634,8 @@ JOS 22:20	1	2	ἰδοὺ	ἰδού	interjection	1	look
 JOS 22:20	1	3	Ἄχαν	Ἄχαν	indeclinable personal name, case from syntax	1	Achan
 JOS 22:20	1	4	ὁ	ὁ	article, nominative masculine singular	1	son
 JOS 22:20	1	5	τοῦ	ὁ	article, genitive masculine singular	1	of
-JOS 22:20	1	6	Ζαρὰ	Ζαρά	indeclinable personal name, genitive in context	1	Zara
-JOS 22:20	1	6	Ζαρὰ			2	Zerah
+JOS 22:20	1	6	Ζαρὰ	Ζαρά	indeclinable personal name, genitive in context	1	Zerah
+JOS 22:20	1	6	Ζαρὰ			2	Zara
 JOS 22:20	1	7	πλημμελείᾳ	πλημμέλεια	noun, dative feminine singular	1	with a breach of faith
 JOS 22:20	1	8	ἐπλημμέλησεν	πλημμελέω	aorist active indicative, third singular	1	committed an offense
 JOS 22:20	1	9	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -777,7 +777,7 @@ JOS 22:24	1	25	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive 
 JOS 22:25	1	1	καὶ	καί	conjunction	1	and
 JOS 22:25	1	2	ὅρια	ὅριον	noun, accusative neuter plural	1	a boundary
 JOS 22:25	1	2	ὅρια			2	boundaries
-JOS 22:25	1	3	ἔθηκε	τίθημι	aorist active indicative, 3rd sg.	1	put/placed
+JOS 22:25	1	3	ἔθηκε	τίθημι	aorist active indicative, 3rd sg.	1	placed
 JOS 22:25	1	4	Κύριος	κύριος	noun, nominative masculine singular, the Lord	1	the Lord
 JOS 22:25	1	5	ἀναμέσον	ἀναμέσον	adverb/preposition	1	between
 JOS 22:25	1	6	ἡμῶν	ἡμεῖς	pronoun, genitive 1st pl. after μεθ᾽, with us	1	us
@@ -846,7 +846,7 @@ JOS 22:27	1	13	τῶν	ὁ	article, genitive plural	1	the
 JOS 22:27	1	14	γενεῶν	γενεά	noun, genitive feminine plural	1	generations
 JOS 22:27	1	14	γενεῶν			2	family lines
 JOS 22:27	1	15	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
-JOS 22:27	1	16	μεθ᾽	ὥστε	conjunction introducing an infinitive of result or purpose	1	so that
+JOS 22:27	1	16	μεθ᾽	ὥστε	conjunction introducing an infinitive of result or purpose	1	after
 JOS 22:27	1	17	ἡμᾶς	ἐγώ	personal pronoun, first person plural accusative	1	us
 JOS 22:27	1	18	τοῦ	ὁ	article, accusative neuter singular	1	—
 JOS 22:27	1	19	λατρεύειν	λατρεύω	present active infinitive	1	can perform
@@ -1081,7 +1081,7 @@ JOS 22:32	1	8	καὶ	καί	conjunction	1	and
 JOS 22:32	1	9	οἱ	ὁ	article, nominative masculine plural	1	the
 JOS 22:32	1	10	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
 JOS 22:32	1	10	ἄρχοντες			2	officials
-JOS 22:32	1	11	τῶν	ὁ	article, genitive plural	1	the
+JOS 22:32	1	11	τῶν	ὁ	article, genitive plural	1	of the
 JOS 22:32	1	12	πατριῶν	πατριά	noun, genitive feminine plural	1	ancestral houses
 JOS 22:32	1	13	ἀπὸ	ἀπό	preposition with genitive	1	from
 JOS 22:32	1	14	τῶν	ὁ	article, genitive masculine plural	1	the
@@ -1121,7 +1121,7 @@ JOS 22:33	1	2	ἤρεσεν			2	was pleasing
 JOS 22:33	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 22:33	1	4	λόγος	λόγος	noun, nominative masculine singular	1	word
 JOS 22:33	1	4	λόγος			2	message
-JOS 22:33	1	5	τοῖς	ὁ	article, dative masculine plural	1	the
+JOS 22:33	1	5	τοῖς	ὁ	article, dative masculine plural	1	to the
 JOS 22:33	1	6	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 JOS 22:33	1	7	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JOS 22:33	1	8	καὶ	καί	conjunction	1	and
@@ -1148,15 +1148,15 @@ JOS 22:33	1	27	πόλεμον			2	battle
 JOS 22:33	1	28	ἐξολοθρεῦσαι	ἐξολοθρεύω	aorist active infinitive	1	to destroy
 JOS 22:33	1	29	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 22:33	1	30	γῆν	γῆ	noun, accusative feminine singular	1	land
-JOS 22:33	1	31	τῶν	ὁ	article, genitive masculine plural	1	the
+JOS 22:33	1	31	τῶν	ὁ	article, genitive masculine plural	1	of the
 JOS 22:33	1	32	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 JOS 22:33	1	33	Ῥουβὴν	Ῥουβήν	indeclinable personal name, genitive in context	1	of Reuben
 JOS 22:33	1	34	καὶ	καί	conjunction	1	and
-JOS 22:33	1	35	τῶν	ὁ	article, genitive plural	1	the
+JOS 22:33	1	35	τῶν	ὁ	article, genitive plural	1	of the
 JOS 22:33	1	36	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 JOS 22:33	1	37	Γὰδ	Γάδ	indeclinable personal name, genitive in context	1	of Gad
 JOS 22:33	1	38	καὶ	καί	conjunction	1	and
-JOS 22:33	1	39	τοῦ	ὁ	article, genitive singular	1	the
+JOS 22:33	1	39	τοῦ	ὁ	article, genitive singular	1	of the
 JOS 22:33	1	40	ἡμίσους	ἥμισυς	substantival adjective, genitive neuter singular	1	half
 JOS 22:33	1	41	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
 JOS 22:33	1	41	φυλῆς			2	clan
@@ -1172,10 +1172,10 @@ JOS 22:34	1	2	ἐπωνόμασεν	ἐπονομάζω	aorist active indicative
 JOS 22:34	1	3	Ἰησοῦς	Ἰησοῦς	noun, nominative masculine singular	1	Joshua
 JOS 22:34	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 22:34	1	5	βωμὸν	βωμός	noun, accusative masculine singular	1	altar
-JOS 22:34	1	6	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 22:34	1	6	τῷ	ὁ	article, dative masculine singular	1	for the
 JOS 22:34	1	7	Ῥουβὴν	Ῥουβήν	indeclinable name, dative in context	1	Reubenites
 JOS 22:34	1	8	καὶ	καί	conjunction	1	and
-JOS 22:34	1	9	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 22:34	1	9	τῷ	ὁ	article, dative masculine singular	1	for the
 JOS 22:34	1	10	Γὰδ	Γάδ	indeclinable name, dative in context	1	Gadites
 JOS 22:34	1	11	καὶ	καί	conjunction	1	and
 JOS 22:34	1	12	τῷ	ὁ	article, dative neuter singular	1	for the
@@ -1191,7 +1191,7 @@ JOS 22:34	1	19	μαρτύριόν			2	testimony
 JOS 22:34	1	20	ἐστιν	εἰμί	present indicative, third singular	1	is
 JOS 22:34	1	21	ἀναμέσον	ἀναμέσον	preposition with genitive	1	between
 JOS 22:34	1	22	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
-JOS 22:34	1	23	ὅτι	ὅτι	causal conjunction	1	because
+JOS 22:34	1	23	ὅτι	ὅτι	causal conjunction	1	that
 JOS 22:34	1	24	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JOS 22:34	1	25	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 22:34	1	26	Θεὸς	θεός	noun, nominative masculine singular	1	God

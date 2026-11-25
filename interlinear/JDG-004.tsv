@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 JDG 4:1	1	1	ΚΑΙ	καί	conjunction	1	and
 JDG 4:1	1	2	προσέθεντο	προστίθημι	aorist middle indicative, third plural, idiom προσέθεντο ἔτι 'they continued still'	1	continued
-JDG 4:1	1	3	ἔτι	ἔτι	adverb	1	any longer
+JDG 4:1	1	3	ἔτι	ἔτι	adverb	1	again
 JDG 4:1	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
 JDG 4:1	1	5	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 JDG 4:1	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -21,7 +21,7 @@ JDG 4:2	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	th
 JDG 4:2	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JDG 4:2	1	5	ἐν	ἐν	preposition with the dative	1	into
 JDG 4:2	1	6	χειρὶ	χείρ	noun, dative feminine singular	1	hand
-JDG 4:2	1	7	Ἰαβεὶν	Ἰαβείν	indeclinable personal name, case from syntax	1	Jabin
+JDG 4:2	1	7	Ἰαβεὶν	Ἰαβείν	indeclinable personal name, case from syntax	1	of Jabin
 JDG 4:2	1	8	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 JDG 4:2	1	9	Χαναὰν	Χαναάν	indeclinable place name, genitive in context	1	of Canaan
 JDG 4:2	1	10	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
@@ -88,7 +88,7 @@ JDG 4:5	1	2	αὐτὴ	αὐτός	pronoun, nominative feminine singular	1	she
 JDG 4:5	1	3	ἐκάθητο	κάθημαι	imperfect middle indicative, third singular	1	was sitting
 JDG 4:5	1	4	ὑπὸ	ὑπό	preposition with accusative τὸν οὐρανόν	1	under
 JDG 4:5	1	5	φοίνικα	φοῖνιξ	noun, accusative masculine singular	1	palm tree
-JDG 4:5	1	6	Δεββῶρα	Δεββῶρα	proper name, genitive in context	1	of Deborah
+JDG 4:5	1	6	Δεββῶρα	Δεββῶρα	proper name, genitive in context	1	Deborah
 JDG 4:5	1	7	ἀναμέσον	ἀναμέσον	adverb/preposition	1	between
 JDG 4:5	1	8	Ῥαμὰ	Ῥαμά	indeclinable place name, genitive in context	1	Ramah
 JDG 4:5	1	9	καὶ	καί	conjunction	1	and
@@ -119,8 +119,8 @@ JDG 4:6	1	7	Βαρὰκ	Βαράκ	indeclinable personal name, case from syntax	
 JDG 4:6	1	8	υἱὸν	υἱός	noun, accusative masculine singular	1	son
 JDG 4:6	1	9	Ἀβινεὲμ	Ἀβινεέμ	indeclinable personal name, genitive in context	1	of Abinoam
 JDG 4:6	1	10	ἐκ	ἐκ	preposition with the genitive	1	from
-JDG 4:6	1	11	Κέδες	Κέδες	indeclinable place name, nominative in context	1	Kedes
-JDG 4:6	1	12	Νεφθαλεὶ	Νεφθαλεί	indeclinable personal name, accusative in context	1	Nephthalei
+JDG 4:6	1	11	Κέδες	Κέδες	indeclinable place name, nominative in context	1	Kedesh
+JDG 4:6	1	12	Νεφθαλεὶ	Νεφθαλεί	indeclinable personal name, accusative in context	1	of Naphtali
 JDG 4:6	1	12	Νεφθαλεὶ			2	Naphtali
 JDG 4:6	1	13	καὶ	καί	conjunction	1	and
 JDG 4:6	1	14	εἶπε	λέγω	aorist active indicative, third singular	1	said
@@ -163,7 +163,7 @@ JDG 4:7	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 4:7	1	6	χειμάῤῥουν	χειμάρρους	noun, accusative masculine singular	1	torrent
 JDG 4:7	1	6	χειμάῤῥουν			2	stream
 JDG 4:7	1	7	Κισῶν	Κισῶν	indeclinable river name, case from syntax	1	Kishon
-JDG 4:7	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	on
+JDG 4:7	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	against
 JDG 4:7	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 4:7	1	10	Σισάρα	Σισάρα	indeclinable personal name, case from syntax	1	Sisera
 JDG 4:7	1	11	ἄρχοντα	ἄρχων	noun/participle, accusative masculine singular, predicate after ἐποίησε	1	ruler
@@ -222,7 +222,7 @@ JDG 4:9	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 JDG 4:9	1	3	πρὸς	πρός	preposition with the accusative	1	to
 JDG 4:9	1	4	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 JDG 4:9	1	5	Δεββῶρα	Δεββῶρα	noun, nominative feminine singular	1	Deborah
-JDG 4:9	1	6	πορευσομένη	πορεύομαι	future middle participle, nominative feminine singular	1	I will surely go
+JDG 4:9	1	6	πορευσομένη	πορεύομαι	future middle participle, nominative feminine singular	1	going
 JDG 4:9	1	7	πορεύσομαι	πορεύομαι	future middle indicative, first singular	1	I will go
 JDG 4:9	1	7	πορεύσομαι			2	I will travel
 JDG 4:9	1	8	μετὰ	μετά	preposition with genitive	1	with
@@ -298,21 +298,21 @@ JDG 4:11	1	10	τῶν	ὁ	article, genitive masculine plural	1	the
 JDG 4:11	1	11	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 JDG 4:11	1	12	Ἰωβὰβ	Ἰωβάβ	indeclinable personal name, genitive in context	1	of Jobab
 JDG 4:11	1	13	γαμβροῦ	γαμβρός	noun, genitive masc. sg. after τοῦ/μετὰ τοῦ from syntax	1	father-in-law
-JDG 4:11	1	14	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	Moses
+JDG 4:11	1	14	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	of Moses
 JDG 4:11	1	15	καὶ	καί	conjunction	1	and
 JDG 4:11	1	16	ἔπηξε	πήγνυμι	aorist active indicative, third singular	1	pitched
 JDG 4:11	1	16	ἔπηξε			2	set up
 JDG 4:11	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 4:11	1	18	σκηνὴν	σκηνή	noun, accusative feminine singular	1	tent
 JDG 4:11	1	19	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-JDG 4:11	1	20	πρὸς	πρός	preposition with the accusative	1	to
+JDG 4:11	1	20	πρὸς	πρός	preposition with the accusative	1	by
 JDG 4:11	1	21	δρῦν	δρῦς	noun, accusative feminine singular	1	oak
 JDG 4:11	1	22	ἀναπαυομένων	ἀναπαύω	present middle/passive participle, genitive masculine plural	1	of those who rest
 JDG 4:11	1	23	ἥ	ὅς	relative pronoun, nominative feminine singular	1	which
 JDG 4:11	1	24	ἐστιν	εἰμί	present indicative, third singular	1	is
 JDG 4:11	1	25	ἐχόμενα	ἔχομαι	present middle participle, accusative neuter plural; used with genitive for adjacent position	1	next to
 JDG 4:11	1	25	ἐχόμενα			2	beside
-JDG 4:11	1	26	Κέδες	Κέδες	indeclinable place name, nominative in context	1	Kedes
+JDG 4:11	1	26	Κέδες	Κέδες	indeclinable place name, nominative in context	1	Kedesh
 JDG 4:12	1	1	Καὶ	καί	conjunction	1	and
 JDG 4:12	1	2	ἀνήγγειλαν	ἀναγγέλλω	aorist active indicative, 3rd pl.	1	reported
 JDG 4:12	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	to
@@ -365,7 +365,7 @@ JDG 4:14	1	8	αὕτη	οὗτος	demonstrative pronoun, nominative feminine si
 JDG 4:14	1	9	ἡ	ὁ	article, nominative feminine singular	1	the
 JDG 4:14	1	10	ἡμέρα	ἡμέρα	noun, nominative feminine singular	1	day
 JDG 4:14	1	11	ἐν	ἐν	preposition with the dative	1	in
-JDG 4:14	1	12	ᾗ	ὅς	relative pronoun of time, dative feminine singular	1	on which
+JDG 4:14	1	12	ᾗ	ὅς	relative pronoun of time, dative feminine singular	1	which
 JDG 4:14	1	13	παραδώσει	παραδίδωμι	future active indicative, third singular	1	will hand over
 JDG 4:14	1	14	Κύριος	κύριος	noun, nominative masculine singular, the Lord	1	the Lord
 JDG 4:14	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -450,7 +450,7 @@ JDG 4:16	1	18	πᾶσα	πᾶς	adjective, nominative feminine singular with γ�
 JDG 4:16	1	19	ἡ	ὁ	article, nominative feminine singular	1	the
 JDG 4:16	1	20	παρεμβολὴ	παρεμβολή	noun, nominative feminine singular	1	camp
 JDG 4:16	1	20	παρεμβολὴ			2	encampment
-JDG 4:16	1	21	Σισάρα	Σισάρα	indeclinable personal name, case from syntax	1	Sisera
+JDG 4:16	1	21	Σισάρα	Σισάρα	indeclinable personal name, case from syntax	1	of Sisera
 JDG 4:16	1	22	ἐν	ἐν	preposition with the dative	1	by
 JDG 4:16	1	23	στόματι	στόμα	noun, dative neuter singular	1	the edge
 JDG 4:16	1	24	ῥομφαίας	ῥομφαία	noun, genitive feminine singular	1	of the sword
@@ -471,7 +471,7 @@ JDG 4:17	1	9	Ἰαὴλ	Ἰαήλ	indeclinable personal name, genitive in contex
 JDG 4:17	1	10	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
 JDG 4:17	1	11	Χαβὲρ	Χαβέρ	indeclinable personal name, genitive in context	1	of Heber
 JDG 4:17	1	12	τοῦ	ὁ	article, genitive masculine singular	1	of the
-JDG 4:17	1	13	Κειναίου	Κιναῖος	noun, genitive masculine singular	1	of the Kenite
+JDG 4:17	1	13	Κειναίου	Κιναῖος	noun, genitive masculine singular	1	Kenite
 JDG 4:17	1	14	ὅτι	ὅτι	conjunction	1	because
 JDG 4:17	1	15	εἰρήνη	εἰρήνη	noun, nominative feminine singular	1	peace
 JDG 4:17	1	16	ἀναμέσον	ἀναμέσον	preposition with genitive	1	between
@@ -484,7 +484,7 @@ JDG 4:17	1	22	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 JDG 4:17	1	22	οἴκου			2	household
 JDG 4:17	1	23	Χαβὲρ	Χαβέρ	indeclinable personal name, genitive in context	1	of Heber
 JDG 4:17	1	24	τοῦ	ὁ	article, genitive masculine singular	1	of the
-JDG 4:17	1	25	Κειναίου	Κιναῖος	noun, genitive masculine singular	1	of the Kenite
+JDG 4:17	1	25	Κειναίου	Κιναῖος	noun, genitive masculine singular	1	Kenite
 JDG 4:18	1	1	Καὶ	καί	conjunction	1	and
 JDG 4:18	1	2	ἐξῆλθεν	ἐξέρχομαι	aorist active indicative, third singular	1	came out
 JDG 4:18	1	3	Ἰαὴλ	Ἰαήλ	indeclinable personal name, case from syntax	1	Jael
@@ -518,7 +518,7 @@ JDG 4:18	1	27	συνεκάλυψεν	συγκαλύπτω	aorist active indicati
 JDG 4:18	1	28	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 JDG 4:18	1	29	ἐν	ἐν	preposition with the dative	1	with
 JDG 4:18	1	30	τῇ	ὁ	article, dative feminine singular	1	the
-JDG 4:18	1	31	δέῤῥει	δέρρις	noun, dative feminine singular	1	a covering
+JDG 4:18	1	31	δέῤῥει	δέρρις	noun, dative feminine singular	1	covering
 JDG 4:18	1	32	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 JDG 4:19	1	1	Καὶ	καί	conjunction	1	and
 JDG 4:19	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
@@ -580,9 +580,9 @@ JDG 4:20	1	30	ἔστι	εἰμί	present indicative, 3rd sg. after οὐκ in �
 JDG 4:21	1	1	Καὶ	καί	conjunction	1	and
 JDG 4:21	1	2	συνεκάλυψεν	συγκαλύπτω	aorist active indicative, third singular	1	she covered
 JDG 4:21	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-JDG 4:21	1	4	ἐν	ἐν	preposition with the dative	1	in
+JDG 4:21	1	4	ἐν	ἐν	preposition with the dative	1	with
 JDG 4:21	1	5	τῇ	ὁ	article, dative feminine singular	1	the
-JDG 4:21	1	6	δέῤῥει	δέρρις	noun, dative feminine singular	1	a covering
+JDG 4:21	1	6	δέῤῥει	δέρρις	noun, dative feminine singular	1	covering
 JDG 4:21	1	7	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 JDG 4:21	1	8	καὶ	καί	conjunction	1	and
 JDG 4:21	1	9	ἔλαβεν	λαμβάνω	aorist active indicative, third singular	1	she took

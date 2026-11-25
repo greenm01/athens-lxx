@@ -9,13 +9,13 @@ JOS 16:1	1	6	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, genitive in co
 JOS 16:1	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOS 16:1	1	8	τοῦ	ὁ	article, genitive singular	1	the
 JOS 16:1	1	9	Ἰορδάνου	Ἰορδάνης	river name, genitive masculine singular	1	Jordan
-JOS 16:1	1	10	τοῦ	ὁ	article, genitive masculine singular	1	the stretch
+JOS 16:1	1	10	τοῦ	ὁ	article, genitive masculine singular	1	—
 JOS 16:1	1	11	κατὰ	κατά	preposition with accusative	1	opposite
 JOS 16:1	1	12	Ἱεριχὼ	Ἱεριχώ	indeclinable place name, case from syntax	1	Jericho
 JOS 16:1	1	13	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOS 16:1	1	14	τῶν	ὁ	article, genitive plural	1	the
 JOS 16:1	1	15	ὑδάτων	ὕδωρ	noun, genitive neuter plural	1	waters
-JOS 16:1	1	16	τῶν	ὁ	article, genitive neuter plural	1	the ones
+JOS 16:1	1	16	τῶν	ὁ	article, genitive neuter plural	1	—
 JOS 16:1	1	17	κατὰ	κατά	preposition with accusative	1	opposite
 JOS 16:1	1	18	Ἱεριχὼ	Ἱεριχώ	indeclinable place name, case from syntax	1	Jericho
 JOS 16:1	1	19	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -63,7 +63,7 @@ JOS 16:3	1	6	εἰς	εἰς	preposition with the accusative	1	into
 JOS 16:3	1	7	τὰ	ὁ	article, accusative neuter plural	1	the
 JOS 16:3	1	8	ὅρια	ὅριον	noun, accusative neuter plural	1	borders
 JOS 16:3	1	9	τοῦ	ὁ	article, genitive masculine plural	1	of the
-JOS 16:3	1	10	Ἰεφαλτὶ	Ἰεφαλτί	indeclinable ethnonym, genitive in context	1	Iephalti
+JOS 16:3	1	10	Ἰεφαλτὶ	Ἰεφαλτί	indeclinable ethnonym, genitive in context	1	Japhleti
 JOS 16:3	1	10	Ἰεφαλτὶ			2	Japhletites
 JOS 16:3	1	11	ἕως	ἕως	preposition with the genitive	1	as far as
 JOS 16:3	1	11	ἕως			2	up to
@@ -126,8 +126,8 @@ JOS 16:5	1	23	Βαιθωρὼν			2	Baithoron
 JOS 16:5	1	24	τῆς	ὁ	article, genitive feminine singular	1	the
 JOS 16:5	1	25	ἄνω	ἄνω	adverb used attributively	1	Upper
 JOS 16:5	1	26	καὶ	καί	conjunction	1	and
-JOS 16:5	1	27	Γαζαρά	Γαζαρά	indeclinable place name	1	Gazara
-JOS 16:5	1	27	Γαζαρά			2	Gezer
+JOS 16:5	1	27	Γαζαρά	Γαζαρά	indeclinable place name	1	Gezer
+JOS 16:5	1	27	Γαζαρά			2	Gazara
 JOS 16:6	1	1	καὶ	καί	conjunction	1	and
 JOS 16:6	1	2	διελεύσεται	διέρχομαι	future middle indicative, third singular	1	will pass
 JOS 16:6	1	2	διελεύσεται			2	will pass by
@@ -150,9 +150,9 @@ JOS 16:6	1	16	ἐπ᾽	ἐπί	preposition with accusative of direction	1	toward
 JOS 16:6	1	17	ἀνατολὰς	ἀνατολή	noun, accusative feminine plural	1	the east
 JOS 16:6	1	17	ἀνατολὰς			2	the sunrise
 JOS 16:6	1	18	εἰς	εἰς	preposition with the accusative	1	into
-JOS 16:6	1	19	Τηναθ	Τηναθ	indeclinable component of place name, accusative in context	1	Tenath
-JOS 16:6	1	20	σηλὼ	Σηλώ	indeclinable component of place name, accusative in context	1	Selo
-JOS 16:6	1	20	σηλὼ			2	Shiloh
+JOS 16:6	1	19	Τηναθ	Τηναθ	indeclinable component of place name, accusative in context	1	Taanath
+JOS 16:6	1	20	σηλὼ	Σηλώ	indeclinable component of place name, accusative in context	1	Shiloh
+JOS 16:6	1	20	σηλὼ			2	Selo
 JOS 16:6	1	21	καὶ	καί	conjunction	1	and
 JOS 16:6	1	22	παρελεύσεται	παρέρχομαι	future middle indicative, 3rd sg.	1	will pass over
 JOS 16:6	1	23	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
@@ -170,7 +170,7 @@ JOS 16:7	1	4	Ἰανωχὰ			2	Ianocha
 JOS 16:7	1	5	εἰς	εἰς	preposition with the accusative	1	to
 JOS 16:7	1	6	Ἀταρὼθ	Ἀταρώθ	indeclinable place name, case from syntax	1	Ataroth
 JOS 16:7	1	7	καὶ	καί	conjunction	1	and
-JOS 16:7	1	8	Νααραθὰ	Νααραθά	indeclinable place name, accusative in context	1	Naaratha
+JOS 16:7	1	8	Νααραθὰ	Νααραθά	indeclinable place name, accusative in context	1	Naarath
 JOS 16:7	1	8	Νααραθὰ			2	Naarah
 JOS 16:7	1	9	καὶ	καί	conjunction	1	and
 JOS 16:7	1	10	αἱ	ὁ	article, nominative feminine plural	1	the
@@ -188,8 +188,8 @@ JOS 16:7	1	20	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 16:7	1	21	Ἰορδάνην	Ἰορδάνης	noun, accusative masculine singular; river name	1	Jordan
 JOS 16:8	1	1	καὶ	καί	conjunction	1	and
 JOS 16:8	1	2	ἀπὸ	ἀπό	preposition with the genitive	1	from
-JOS 16:8	1	3	Ταπρεὺ	Ταπρεύ	indeclinable place name, genitive in context	1	Tapreu
-JOS 16:8	1	3	Ταπρεὺ			2	Tappuah
+JOS 16:8	1	3	Ταπρεὺ	Ταπρεύ	indeclinable place name, genitive in context	1	Tappuah
+JOS 16:8	1	3	Ταπρεὺ			2	Tapreu
 JOS 16:8	1	4	παρελεύσεται	παρέρχομαι	future middle indicative, 3rd sg.	1	will pass over
 JOS 16:8	1	5	ὅρια	ὅριον	noun, nominative neuter plural	1	boundary
 JOS 16:8	1	5	ὅρια			2	boundaries
@@ -199,8 +199,8 @@ JOS 16:8	1	7	θάλασσαν			2	the west
 JOS 16:8	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	on
 JOS 16:8	1	9	χειμάῤῥουν	χείμαρρος	noun, accusative masculine singular	1	torrent
 JOS 16:8	1	9	χειμάῤῥουν			2	stream
-JOS 16:8	1	10	Κανὰ	Κανά	indeclinable place name, genitive in context	1	of Kana
-JOS 16:8	1	10	Κανὰ			2	of Kanah
+JOS 16:8	1	10	Κανὰ	Κανά	indeclinable place name, genitive in context	1	of Kanah
+JOS 16:8	1	10	Κανὰ			2	of Kana
 JOS 16:8	1	11	καὶ	καί	conjunction	1	and
 JOS 16:8	1	12	ἔσται	εἰμί	future indicative, third singular	1	will be
 JOS 16:8	1	13	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -222,7 +222,7 @@ JOS 16:9	1	1	Καὶ	καί	conjunction	1	and
 JOS 16:9	1	2	αἱ	ὁ	article, nominative feminine plural	1	the
 JOS 16:9	1	3	πόλεις	πόλις	noun, nominative feminine plural	1	cities
 JOS 16:9	1	3	πόλεις			2	towns
-JOS 16:9	1	4	αἱ	ὁ	article, nominative feminine plural	1	the
+JOS 16:9	1	4	αἱ	ὁ	article, nominative feminine plural	1	—
 JOS 16:9	1	5	ἀφορισθεῖσαι	ἀφορίζω	aorist passive participle, nominative feminine plural	1	set apart
 JOS 16:9	1	6	τοῖς	ὁ	article, dative masculine plural	1	for the
 JOS 16:9	1	7	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
@@ -247,8 +247,8 @@ JOS 16:10	1	3	ἀπώλεσεν	ἀπόλλυμι	aorist active indicative, thir
 JOS 16:10	1	3	ἀπώλεσεν			2	did away with
 JOS 16:10	1	4	Ἐφραὶμ	Ἐφραίμ	indeclinable tribal name, nominative in context	1	Ephraim
 JOS 16:10	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
-JOS 16:10	1	6	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν	1	Canaanite (people)
-JOS 16:10	1	7	τὸν	ὁ	article, accusative masculine singular	1	the
+JOS 16:10	1	6	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν	1	Canaanite
+JOS 16:10	1	7	τὸν	ὁ	article, accusative masculine singular	1	—
 JOS 16:10	1	8	κατοικοῦντα	κατοικέω	present active participle, accusative masculine singular	1	living
 JOS 16:10	1	9	ἐν	ἐν	preposition with the dative	1	in
 JOS 16:10	1	10	Γαζέρ	Γαζέρ	indeclinable place name, genitive in context	1	Gezer
@@ -258,7 +258,7 @@ JOS 16:10	1	12	κατῴκει			2	was living
 JOS 16:10	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 16:10	1	14	Χαναναῖος	Χαναναῖος	noun, nominative masculine singular	1	Canaanite
 JOS 16:10	1	15	ἐν	ἐν	preposition with the dative	1	in
-JOS 16:10	1	16	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+JOS 16:10	1	16	τῷ	ὁ	article, dative masculine/neuter singular	1	—
 JOS 16:10	1	17	Ἐφραὶμ	Ἐφραίμ	indeclinable tribal name, dative in context	1	Ephraim
 JOS 16:10	1	18	ἕως	ἕως	preposition with the genitive	1	until
 JOS 16:10	1	18	ἕως			2	up to

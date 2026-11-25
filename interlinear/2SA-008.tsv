@@ -66,14 +66,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 8:2	1	36	ξένια	ξένιον	noun, accusative neuter plural	1	tribute gifts
 2SA 8:2	1	36	ξένια			2	gifts
 2SA 8:3	1	1	Καὶ	καί	conjunction	1	and
-2SA 8:3	1	2	ἐπάταξε	πατάσσω	aorist active indicative, 3rd sg.	1	struck/plagued
+2SA 8:3	1	2	ἐπάταξε	πατάσσω	aorist active indicative, 3rd sg.	1	struck
 2SA 8:3	1	3	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 2SA 8:3	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 2SA 8:3	1	5	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, accusative in context	1	Hadarezer
 2SA 8:3	1	5	Ἀδρααζὰρ			2	Hadadezer
 2SA 8:3	1	6	υἱὸν	υἱός	noun, accusative masculine singular	1	son
-2SA 8:3	1	7	Ῥαὰβ	Ῥαάβ	indeclinable personal name, genitive in context	1	of Raab
-2SA 8:3	1	7	Ῥαὰβ			2	of Rehob
+2SA 8:3	1	7	Ῥαὰβ	Ῥαάβ	indeclinable personal name, genitive in context	1	of Rehob
+2SA 8:3	1	7	Ῥαὰβ			2	of Raab
 2SA 8:3	1	8	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 2SA 8:3	1	9	Σουβὰ	Σουβά	indeclinable place name, genitive in context	1	of Zobah
 2SA 8:3	1	9	Σουβὰ			2	of Souba
@@ -192,8 +192,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 8:7	1	14	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, genitive in context	1	Hadarezer
 2SA 8:7	1	14	Ἀδρααζὰρ			2	Hadadezer
 2SA 8:7	1	15	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
-2SA 8:7	1	16	Σουβὰ	Σουβά	indeclinable place name, genitive in context	1	of Souba
-2SA 8:7	1	16	Σουβὰ			2	of Zobah
+2SA 8:7	1	16	Σουβὰ	Σουβά	indeclinable place name, genitive in context	1	of Zobah
+2SA 8:7	1	16	Σουβὰ			2	of Souba
 2SA 8:7	1	17	καὶ	καί	conjunction	1	and
 2SA 8:7	1	18	ἤνεγκεν	φέρω	aorist active indicative, third singular	1	brought
 2SA 8:7	1	19	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
@@ -202,8 +202,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 8:7	1	22	Καὶ	καί	conjunction	1	and
 2SA 8:7	1	23	ἔλαβεν	λαμβάνω	aorist active indicative, third singular, of taking a wife	1	took
 2SA 8:7	1	24	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
-2SA 8:7	1	25	Σουσακεὶμ	Σουσακείμ	indeclinable personal name, nominative in context	1	Sousakeim
-2SA 8:7	1	25	Σουσακεὶμ			2	Shishak
+2SA 8:7	1	25	Σουσακεὶμ	Σουσακείμ	indeclinable personal name, nominative in context	1	Shishak
+2SA 8:7	1	25	Σουσακεὶμ			2	Sousakeim
 2SA 8:7	1	26	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2SA 8:7	1	27	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
 2SA 8:7	1	28	ἐν	ἐν	preposition marking time with an articular infinitive	1	when
@@ -214,8 +214,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 8:7	1	33	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 2SA 8:7	1	34	ἐν	ἐν	preposition with the dative	1	in
 2SA 8:7	1	35	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
-2SA 8:7	1	36	Ῥοβοὰμ	Ῥοβοάμ	indeclinable personal name, genitive in context	1	of Roboam
-2SA 8:7	1	36	Ῥοβοὰμ			2	of Rehoboam
+2SA 8:7	1	36	Ῥοβοὰμ	Ῥοβοάμ	indeclinable personal name, genitive in context	1	of Rehoboam
+2SA 8:7	1	36	Ῥοβοὰμ			2	of Roboam
 2SA 8:7	1	37	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 2SA 8:7	1	38	Σολομῶντος	Σολομών	noun, genitive masculine singular	1	of Solomon
 2SA 8:8	1	1	Καὶ	καί	conjunction	1	and
@@ -261,25 +261,25 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 8:8	1	36	σκεύη			2	equipment
 2SA 8:9	1	1	Καὶ	καί	conjunction	1	and
 2SA 8:9	1	2	ἤκουσεν	ἀκούω	aorist active indicative, third singular	1	heard
-2SA 8:9	1	3	Θαεὶ	Θαεί	indeclinable personal name, nominative in context	1	Thaei
-2SA 8:9	1	3	Θαεὶ			2	Toi
+2SA 8:9	1	3	Θαεὶ	Θαεί	indeclinable personal name, nominative in context	1	Toi
+2SA 8:9	1	3	Θαεὶ			2	Thaei
 2SA 8:9	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 8:9	1	5	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2SA 8:9	1	6	Ἡμὰθ	Ἡμάθ	indeclinable place name, genitive in context	1	of Hamath
 2SA 8:9	1	6	Ἡμὰθ			2	of Hemath
 2SA 8:9	1	7	ὅτι	ὅτι	conjunction, that/because from context	1	that
 2SA 8:9	1	8	ἐπάταξε	πατάσσω	aorist active indicative, third singular	1	struck
-2SA 8:9	1	9	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
+2SA 8:9	1	9	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
 2SA 8:9	1	10	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 2SA 8:9	1	11	τὴν	ὁ	article, accusative feminine singular	1	the
 2SA 8:9	1	12	δύναμιν	δύναμις	noun, accusative fem. sg. after τὴν, host/army in this phrase	1	host
-2SA 8:9	1	13	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, genitive in context	1	Hadarezer
+2SA 8:9	1	13	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, genitive in context	1	of Hadarezer
 2SA 8:9	1	13	Ἀδρααζὰρ			2	Hadadezer
 2SA 8:10	1	1	καὶ	καί	conjunction	1	and
 2SA 8:10	1	2	ἀπέστειλε	ἀποστέλλω	aorist active indicative, third person singular	1	he sent
-2SA 8:10	1	3	Θαεὶ	Θαεί	indeclinable personal name, nominative in context	1	Thaei
-2SA 8:10	1	3	Θαεὶ			2	Toi
-2SA 8:10	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
+2SA 8:10	1	3	Θαεὶ	Θαεί	indeclinable personal name, nominative in context	1	Toi
+2SA 8:10	1	3	Θαεὶ			2	Thaei
+2SA 8:10	1	4	τὸν	ὁ	article, accusative masculine singular	1	—
 2SA 8:10	1	5	Ἰεδδουρὰμ	Ἰεδδουράμ	indeclinable personal name, accusative in context	1	Joram
 2SA 8:10	1	5	Ἰεδδουρὰμ			2	Ieddouram
 2SA 8:10	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -310,7 +310,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 8:10	1	28	ὅτι	ὅτι	causal conjunction	1	because
 2SA 8:10	1	29	ἀντικείμενος	ἀντίκειμαι	present middle participle, nominative masculine singular	1	opposed
 2SA 8:10	1	30	ἦν	εἰμί	imperfect indicative, third singular	1	was
-2SA 8:10	1	31	τῷ	ὁ	article, dative masculine singular	1	the
+2SA 8:10	1	31	τῷ	ὁ	article, dative masculine singular	1	to
 2SA 8:10	1	32	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, dative in context	1	Hadarezer
 2SA 8:10	1	32	Ἀδρααζὰρ			2	Hadadezer
 2SA 8:10	1	33	καὶ	καί	conjunction	1	and
@@ -344,7 +344,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 8:11	1	12	καὶ	καί	conjunction	1	and
 2SA 8:11	1	13	τοῦ	ὁ	article, genitive singular	1	the
 2SA 8:11	1	14	χρυσίου	χρυσίον	noun, genitive neuter singular	1	gold
-2SA 8:11	1	15	οὗ	οὗ	relative adverb of place	1	where
+2SA 8:11	1	15	οὗ	οὗ	relative adverb of place	1	which
 2SA 8:11	1	16	ἡγίασεν	ἁγιάζω	aorist active indicative, third singular	1	dedicated
 2SA 8:11	1	17	ἐκ	ἐκ	preposition with the genitive	1	from
 2SA 8:11	1	18	πασῶν	πᾶς	adjective, genitive feminine plural	1	all
@@ -379,11 +379,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 8:12	1	21	ἐκ	ἐκ	preposition with the genitive	1	from
 2SA 8:12	1	22	τῶν	ὁ	article, genitive plural	1	the
 2SA 8:12	1	23	σκύλων	σκῦλον	noun, genitive neuter plural	1	spoils
-2SA 8:12	1	24	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, genitive in context	1	Hadarezer
+2SA 8:12	1	24	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, genitive in context	1	of Hadarezer
 2SA 8:12	1	24	Ἀδρααζὰρ			2	Hadadezer
 2SA 8:12	1	25	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-2SA 8:12	1	26	Ῥαὰβ	Ῥαάβ	indeclinable personal name, genitive in context	1	of Raab
-2SA 8:12	1	26	Ῥαὰβ			2	of Rehob
+2SA 8:12	1	26	Ῥαὰβ	Ῥαάβ	indeclinable personal name, genitive in context	1	of Rehob
+2SA 8:12	1	26	Ῥαὰβ			2	of Raab
 2SA 8:12	1	27	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 2SA 8:12	1	28	Σουβά	Σουβά	indeclinable place name, genitive in context	1	of Zobah
 2SA 8:12	1	28	Σουβά			2	of Souba
@@ -430,7 +430,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 8:14	1	16	Ἰδουμαῖοι			2	Idumeans
 2SA 8:14	1	17	δοῦλοι	δοῦλος	noun, nominative masculine plural in direct address	1	servants
 2SA 8:14	1	17	δοῦλοι			2	slaves
-2SA 8:14	1	18	τῷ	ὁ	article, dative masculine singular	1	of the
+2SA 8:14	1	18	τῷ	ὁ	article, dative masculine singular	1	to the
 2SA 8:14	1	19	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 2SA 8:14	1	20	καὶ	καί	conjunction	1	and
 2SA 8:14	1	21	ἔσωσε	σῴζω	aorist active indicative, third singular	1	saved
@@ -495,25 +495,25 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 8:17	1	8	Ἀβιάθαρ	Ἀβιάθαρ	indeclinable personal name, genitive in context	1	of Abiathar
 2SA 8:17	1	9	ἱερεῖς	ἱερεύς	noun, nominative masculine plural	1	priests
 2SA 8:17	1	10	Καὶ	καί	conjunction	1	and
-2SA 8:17	1	11	Σαραίας	Σαραίας	noun, nominative masculine singular	1	Saraias
-2SA 8:17	1	11	Σαραίας			2	Seraiah
+2SA 8:17	1	11	Σαραίας	Σαραίας	noun, nominative masculine singular	1	Seraiah
+2SA 8:17	1	11	Σαραίας			2	Saraias
 2SA 8:17	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 8:17	1	13	γραμματεύς	γραμματεύς	noun, nominative masculine singular	1	scribe
 2SA 8:18	1	1	Καὶ	καί	conjunction	1	and
-2SA 8:18	1	2	Βαναγαίας	Βαναγαίας	noun, nominative masculine singular	1	Banagaias
-2SA 8:18	1	2	Βαναγαίας			2	Benaiah
+2SA 8:18	1	2	Βαναγαίας	Βαναγαίας	noun, nominative masculine singular	1	Benaiah
+2SA 8:18	1	2	Βαναγαίας			2	Banagaias
 2SA 8:18	1	3	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2SA 8:18	1	4	Ἰωδαὲ	Ἰωδαέ	indeclinable personal name, genitive in context	1	of Iodae
-2SA 8:18	1	4	Ἰωδαὲ			2	of Jehoiada
+2SA 8:18	1	4	Ἰωδαὲ	Ἰωδαέ	indeclinable personal name, genitive in context	1	of Jehoiada
+2SA 8:18	1	4	Ἰωδαὲ			2	of Iodae
 2SA 8:18	1	5	σύμβουλος	σύμβουλος	noun, nominative masculine singular	1	adviser
 2SA 8:18	1	6	Καὶ	καί	conjunction	1	and
 2SA 8:18	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
-2SA 8:18	1	8	Χερεθθεὶ	Χερεθθεί	indeclinable collective name, nominative in context	1	Chereththi
-2SA 8:18	1	8	Χερεθθεὶ			2	Cherethites
+2SA 8:18	1	8	Χερεθθεὶ	Χερεθθεί	indeclinable collective name, nominative in context	1	Cherethites
+2SA 8:18	1	8	Χερεθθεὶ			2	Chereththi
 2SA 8:18	1	9	καὶ	καί	conjunction	1	and
 2SA 8:18	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
-2SA 8:18	1	11	Φελεθθεὶ	Φελεθθεί	indeclinable collective name, nominative in context	1	Pheleththi
-2SA 8:18	1	11	Φελεθθεὶ			2	Pelethites
+2SA 8:18	1	11	Φελεθθεὶ	Φελεθθεί	indeclinable collective name, nominative in context	1	Pelethites
+2SA 8:18	1	11	Φελεθθεὶ			2	Pheleththi
 2SA 8:18	1	12	καὶ	καί	conjunction	1	and
 2SA 8:18	1	13	οἱ	ὁ	article, nominative masculine plural	1	the
 2SA 8:18	1	14	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons

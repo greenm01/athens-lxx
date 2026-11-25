@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 JOS 11:1	1	1	ΩΣ	ὡς	subordinating conjunction, printed without accent	1	when
 JOS 11:1	1	2	δὲ	δέ	postpositive conjunction	1	and
 JOS 11:1	1	3	ἤκουσεν	ἀκούω	aorist active indicative, third singular	1	heard
-JOS 11:1	1	4	Ἰαβεὶς	Ἰαβείς	indeclinable personal name, nominative in context	1	Jabis
+JOS 11:1	1	4	Ἰαβεὶς	Ἰαβείς	indeclinable personal name, nominative in context	1	Jabin
 JOS 11:1	1	5	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 JOS 11:1	1	6	Ἀσὼρ	Ἀσώρ	indeclinable place name, genitive in context	1	of Hazor
 JOS 11:1	1	7	ἀπέστειλε	ἀποστέλλω	aorist active indicative, third singular	1	sent
@@ -82,7 +82,7 @@ JOS 11:3	1	29	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 11:3	1	30	Ἀερμὼν	Ἀερμών	indeclinable place name, accusative in context	1	Hermon
 JOS 11:3	1	31	εἰς	εἰς	preposition with the accusative	1	into
 JOS 11:3	1	32	γῆν	γῆ	noun, accusative feminine singular	1	land
-JOS 11:3	1	33	Μασσηφάθ	Μασσηφάθ	indeclinable place name, genitive in context	1	of Massephath
+JOS 11:3	1	33	Μασσηφάθ	Μασσηφάθ	indeclinable place name, genitive in context	1	of Mizpeh
 JOS 11:4	1	1	Καὶ	καί	conjunction	1	and
 JOS 11:4	1	2	ἐξῆλθον	ἐξέρχομαι	aorist active indicative, third plural	1	went out
 JOS 11:4	1	3	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
@@ -131,9 +131,9 @@ JOS 11:5	1	15	αὐτὸ	αὐτός	pronoun, accusative neuter singular; in ἐ
 JOS 11:5	1	16	ἐπὶ	ἐπί	preposition (case from context)	1	on
 JOS 11:5	1	17	τοῦ	ὁ	article, genitive neuter singular	1	the
 JOS 11:5	1	18	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
-JOS 11:5	1	19	Μεῤῥὼμ	Μερρώμ	indeclinable place name, genitive in context	1	Merom
+JOS 11:5	1	19	Μεῤῥὼμ	Μερρώμ	indeclinable place name, genitive in context	1	of Merom
 JOS 11:5	1	20	πολεμῆσαι	πολεμέω	aorist active infinitive	1	to make war
-JOS 11:5	1	21	τὸν	ὁ	article, accusative masculine singular	1	the
+JOS 11:5	1	21	τὸν	ὁ	article, accusative masculine singular	1	—
 JOS 11:5	1	22	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, accusative in context	1	Israel
 JOS 11:6	1	1	Καὶ	καί	conjunction	1	and
 JOS 11:6	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
@@ -187,7 +187,7 @@ JOS 11:7	1	13	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	
 JOS 11:7	1	14	ἐπὶ	ἐπί	preposition (case from context)	1	on
 JOS 11:7	1	15	τὸ	ὁ	article accusative neuter singular	1	the
 JOS 11:7	1	16	ὕδωρ	ὕδωρ	noun accusative neuter singular	1	water
-JOS 11:7	1	17	Μεῤῥὼμ	Μερρώμ	indeclinable place name, genitive in context	1	Merom
+JOS 11:7	1	17	Μεῤῥὼμ	Μερρώμ	indeclinable place name, genitive in context	1	of Merom
 JOS 11:7	1	18	ἐξάπινα	ἐξάπινα	adverb	1	suddenly
 JOS 11:7	1	19	καὶ	καί	conjunction	1	and
 JOS 11:7	1	20	ἐπέπεσαν	ἐπιπίπτω	aorist active indicative, third plural	1	fell upon
@@ -310,7 +310,7 @@ JOS 11:12	1	1	Καὶ	καί	conjunction	1	and
 JOS 11:12	1	2	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 JOS 11:12	1	3	τὰς	ὁ	article, accusative feminine plural	1	the
 JOS 11:12	1	4	πόλεις	πόλις	noun, accusative feminine plural	1	cities
-JOS 11:12	1	5	τῶν	ὁ	article, genitive plural	1	the
+JOS 11:12	1	5	τῶν	ὁ	article, genitive plural	1	of the
 JOS 11:12	1	6	βασιλειῶν	βασιλεία	noun, genitive feminine plural	1	kingdoms
 JOS 11:12	1	7	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	these
 JOS 11:12	1	8	καὶ	καί	conjunction	1	and
@@ -341,7 +341,7 @@ JOS 11:13	1	2	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 JOS 11:13	1	3	τὰς	ὁ	article, accusative feminine plural	1	the
 JOS 11:13	1	4	πόλεις	πόλις	noun, accusative feminine plural	1	cities
 JOS 11:13	1	4	πόλεις			2	towns
-JOS 11:13	1	5	τὰς	ὁ	article, accusative feminine plural	1	the
+JOS 11:13	1	5	τὰς	ὁ	article, accusative feminine plural	1	—
 JOS 11:13	1	6	κεχωματισμένας	χωματίζω	perfect middle/passive participle, accusative feminine plural	1	built on mounds
 JOS 11:13	1	7	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JOS 11:13	1	8	οὐκ	οὐ	negative particle	1	not
@@ -373,7 +373,7 @@ JOS 11:14	1	16	ῥῆμα	ῥῆμα	noun, accusative neuter singular	1	word
 JOS 11:14	1	17	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 JOS 11:14	1	18	ὃ	ὅς	relative pronoun, nominative/accusative neuter singular (from context)	1	which
 JOS 11:14	1	19	ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, third singular	1	commanded
-JOS 11:14	1	20	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 11:14	1	20	τῷ	ὁ	article, dative masculine singular	1	to
 JOS 11:14	1	21	Ἰησοῦ	Ἰησοῦς	proper name, dative masculine singular	1	Joshua
 JOS 11:14	1	22	ἀνθρώπους	ἄνθρωπος	noun, accusative masculine plural	1	people
 JOS 11:14	1	23	δὲ	δέ	postpositive conjunction	1	and
@@ -387,7 +387,7 @@ JOS 11:14	1	30	ἀπώλεσαν	ἀπόλλυμι	aorist active indicative, thi
 JOS 11:14	1	31	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 JOS 11:14	1	32	οὐ	οὐ	negative particle	1	not
 JOS 11:14	1	33	κατέλιπον	καταλείπω	aorist active indicative, 3rd pl.	1	left
-JOS 11:14	1	34	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
+JOS 11:14	1	34	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	of them
 JOS 11:14	1	35	οὐδὲ	οὐδέ	conjunction/negative	1	nor
 JOS 11:14	1	36	ἓν	εἷς	cardinal numeral, nominative neuter singular	1	one
 JOS 11:14	1	37	ἐμπνέον	ἐμπνέω	present active participle, accusative neuter singular	1	that breathed
@@ -395,7 +395,7 @@ JOS 11:15	1	1	Ὃν	ὅς	relative pronoun, accusative masculine singular	1	in t
 JOS 11:15	1	2	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
 JOS 11:15	1	3	συνέταξε	συντάσσω	aorist active indicative, third singular with dative, 'had commanded/appointed'	1	commanded
 JOS 11:15	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-JOS 11:15	1	5	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 11:15	1	5	τῷ	ὁ	article, dative masculine singular	1	to
 JOS 11:15	1	6	Μωυσῇ	Μωυσῆς	proper noun, dative masculine singular	1	Moses
 JOS 11:15	1	7	τῷ	ὁ	article, dative masculine singular	1	the
 JOS 11:15	1	8	παιδὶ	παῖς	noun, dative masculine singular	1	servant
@@ -405,21 +405,21 @@ JOS 11:15	1	10	καὶ	καί	conjunction	1	and
 JOS 11:15	1	11	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses
 JOS 11:15	1	12	ὡσαύτως	ὡσαύτως	adverb	1	likewise
 JOS 11:15	1	13	ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, third singular	1	commanded
-JOS 11:15	1	14	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 11:15	1	14	τῷ	ὁ	article, dative masculine singular	1	to
 JOS 11:15	1	15	Ἰησοῖ	Ἰησοῦς	proper name, dative masculine singular	1	Joshua
 JOS 11:15	1	16	καὶ	καί	conjunction	1	and
 JOS 11:15	1	17	οὕτως	οὕτως	adverb of manner	1	so
-JOS 11:15	1	18	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	made
+JOS 11:15	1	18	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	did
 JOS 11:15	1	19	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua
 JOS 11:15	1	20	οὐ	οὐ	negative particle	1	not
-JOS 11:15	1	21	παρέβη	παραβαίνω	aorist active indicative, third singular	1	has transgressed
+JOS 11:15	1	21	παρέβη	παραβαίνω	aorist active indicative, third singular	1	transgressed
 JOS 11:15	1	22	οὐθὲν	οὐδείς	adjective, accusative neuter singular; substantival	1	nothing
 JOS 11:15	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	of
 JOS 11:15	1	24	πάντων	πᾶς	adjective, genitive neuter plural	1	all
 JOS 11:15	1	25	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	which
 JOS 11:15	1	26	συνέταξε	συντάσσω	aorist active indicative, third singular with dative, 'had commanded/appointed'	1	commanded
 JOS 11:15	1	27	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-JOS 11:15	1	28	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 11:15	1	28	τῷ	ὁ	article, dative masculine singular	1	to
 JOS 11:15	1	29	Μωυσῇ	Μωυσῆς	proper noun, dative masculine singular	1	Moses
 JOS 11:16	1	1	Καὶ	καί	conjunction	1	and
 JOS 11:16	1	2	ἔλαβεν	λαμβάνω	aorist active indicative, third singular	1	he took
@@ -516,12 +516,12 @@ JOS 11:19	1	1	καὶ	καί	conjunction	1	and
 JOS 11:19	1	2	οὐκ	οὐ	negative adverb with future indicative	1	not
 JOS 11:19	1	3	ἦν	εἰμί	imperfect indicative, third singular	1	was
 JOS 11:19	1	4	πόλις	πόλις	noun, nominative feminine singular	1	city
-JOS 11:19	1	5	ἥτις	ὅστις	relative pronoun, nominative feminine singular	1	such as
+JOS 11:19	1	5	ἥτις	ὅστις	relative pronoun, nominative feminine singular	1	which
 JOS 11:19	1	6	οὐ	οὐ	negative adverb with future indicative	1	not
 JOS 11:19	1	7	παρέδωκε	παραδίδωμι	aorist active indicative, third singular	1	delivered
 JOS 11:19	1	7	παρέδωκε			2	handed over
-JOS 11:19	1	8	τοῖς	ὁ	article, dative neuter plural	1	the
-JOS 11:19	1	9	υἱοῖς	υἱός	noun, dative masculine plural	1	to the sons
+JOS 11:19	1	8	τοῖς	ὁ	article, dative neuter plural	1	to the
+JOS 11:19	1	9	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 JOS 11:19	1	10	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JOS 11:19	1	11	πλὴν	πλήν	preposition/adverb with the genitive	1	except
 JOS 11:19	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -583,7 +583,7 @@ JOS 11:21	1	12	ἐκ	ἐκ	preposition with the genitive	1	from
 JOS 11:21	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
 JOS 11:21	1	14	ὀρεινῆς	ὀρεινός	substantival adjective, genitive feminine singular	1	hill country
 JOS 11:21	1	15	ἐκ	ἐκ	preposition with the genitive	1	from
-JOS 11:21	1	16	Χεβρὼν	Χεβρών	indeclinable place name, genitive in context	1	of Hebron
+JOS 11:21	1	16	Χεβρὼν	Χεβρών	indeclinable place name, genitive in context	1	Hebron
 JOS 11:21	1	17	καὶ	καί	conjunction	1	and
 JOS 11:21	1	18	ἐκ	ἐκ	preposition with the genitive	1	from
 JOS 11:21	1	19	Δαβεὶρ	Δαβείρ	indeclinable place name, genitive in context	1	Debir
@@ -640,7 +640,7 @@ JOS 11:23	1	8	καθότι	καθότι	subordinating conjunction	1	as
 JOS 11:23	1	8	καθότι			2	in accordance with what
 JOS 11:23	1	9	ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, third singular with infinitives	1	commanded
 JOS 11:23	1	10	Κύριος	κύριος	noun, nominative masculine singular, the Lord	1	the Lord
-JOS 11:23	1	11	τῷ	ὁ	article, dative masculine singular	1	the
+JOS 11:23	1	11	τῷ	ὁ	article, dative masculine singular	1	to
 JOS 11:23	1	12	Μωυσῇ	Μωυσῆς	proper noun, dative masculine singular	1	Moses
 JOS 11:23	1	13	καὶ	καί	conjunction	1	and
 JOS 11:23	1	14	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave

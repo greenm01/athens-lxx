@@ -33,7 +33,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 5:2	1	9	ἡμῶν	ἐγώ	pronoun, genitive first plural	1	us
 2SA 5:2	1	10	σὺ	σύ	personal pronoun nominative second singular	1	you
 2SA 5:2	1	11	ἦσθα	εἰμί	imperfect active indicative, second singular	1	were
-2SA 5:2	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
+2SA 5:2	1	12	ὁ	ὁ	article, nominative masculine singular	1	the one
 2SA 5:2	1	13	εἰσάγων	εἰσάγω	present active participle, nominative masculine singular	1	leading in
 2SA 5:2	1	14	καὶ	καί	conjunction	1	and
 2SA 5:2	1	15	ἐξάγων	ἐξάγω	present active participle, nominative masculine singular	1	leading out
@@ -100,7 +100,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 5:4	1	4	ἦν	εἰμί	imperfect indicative, third singular	1	was
 2SA 5:4	1	5	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 2SA 5:4	1	6	ἐν	ἐν	preposition marking time with an articular infinitive	1	when
-2SA 5:4	1	7	τῷ	ὁ	article, dative masculine singular	1	the
+2SA 5:4	1	7	τῷ	ὁ	article, dative masculine singular	1	—
 2SA 5:4	1	8	βασιλεύειν	βασιλεύω	present active infinitive	1	began to reign
 2SA 5:4	1	9	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	he
 2SA 5:4	1	10	καὶ	καί	conjunction	1	and
@@ -294,7 +294,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 5:11	1	20	ᾠκοδόμησαν			2	they had built
 2SA 5:11	1	21	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 2SA 5:11	1	21	οἶκον			2	household
-2SA 5:11	1	22	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+2SA 5:11	1	22	τῷ	ὁ	article, dative masculine/neuter singular	1	for
 2SA 5:11	1	23	Δαυίδ	Δαυίδ	indeclinable personal name, dative in context	1	David
 2SA 5:12	1	1	Καὶ	καί	conjunction	1	and
 2SA 5:12	1	2	ἔγνω	γινώσκω	aorist active indicative, third singular, of marital union	1	knew
@@ -340,7 +340,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 5:13	1	17	ἐγένοντο			2	were
 2SA 5:13	1	18	ἔτι	ἔτι	adverb of time	1	still
 2SA 5:13	1	18	ἔτι			2	yet
-2SA 5:13	1	19	τῷ	ὁ	article, dative masculine singular	1	the
+2SA 5:13	1	19	τῷ	ὁ	article, dative masculine singular	1	to
 2SA 5:13	1	20	Δαυὶδ	Δαυίδ	indeclinable personal name, dative in context	1	David
 2SA 5:13	1	21	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 2SA 5:13	1	22	καὶ	καί	conjunction	1	and
@@ -354,8 +354,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 5:14	1	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 2SA 5:14	1	8	ἐν	ἐν	preposition with the dative	1	in
 2SA 5:14	1	9	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
-2SA 5:14	1	10	Σαμμουὲ	Σαμμουέ	indeclinable personal name, nominative in context	1	Sammoue
-2SA 5:14	1	10	Σαμμουὲ			2	Shammua
+2SA 5:14	1	10	Σαμμουὲ	Σαμμουέ	indeclinable personal name, nominative in context	1	Shammua
+2SA 5:14	1	10	Σαμμουὲ			2	Sammoue
 2SA 5:14	1	11	καὶ	καί	conjunction	1	and
 2SA 5:14	1	12	Σωβὰβ	Σωβάβ	indeclinable personal name, nominative in context	1	Shobab
 2SA 5:14	1	12	Σωβὰβ			2	Sobab
@@ -365,24 +365,24 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 5:14	1	16	Σαλωμὼν	Σαλωμών	indeclinable personal name, genitive in context	1	Solomon
 2SA 5:14	1	16	Σαλωμὼν			2	Salomon
 2SA 5:15	1	1	καὶ	καί	conjunction	1	and
-2SA 5:15	1	2	Ἰεβὰρ	Ἰεβάρ	indeclinable personal name, nominative in context	1	Iebar
-2SA 5:15	1	2	Ἰεβὰρ			2	Ibhar
+2SA 5:15	1	2	Ἰεβὰρ	Ἰεβάρ	indeclinable personal name, nominative in context	1	Ibhar
+2SA 5:15	1	2	Ἰεβὰρ			2	Iebar
 2SA 5:15	1	3	καὶ	καί	conjunction	1	and
-2SA 5:15	1	4	Ἐλισουὲ	Ἐλισουέ	indeclinable personal name, nominative in context	1	Elisoue
-2SA 5:15	1	4	Ἐλισουὲ			2	Elishua
+2SA 5:15	1	4	Ἐλισουὲ	Ἐλισουέ	indeclinable personal name, nominative in context	1	Elishua
+2SA 5:15	1	4	Ἐλισουὲ			2	Elisoue
 2SA 5:15	1	5	καὶ	καί	conjunction	1	and
 2SA 5:15	1	6	Ναφέκ	Ναφέκ	indeclinable personal name, nominative in context	1	Nepheg
 2SA 5:15	1	7	καὶ	καί	conjunction	1	and
 2SA 5:15	1	8	Ἰαφιὲ	Ἰαφιέ	indeclinable personal name, accusative in context	1	Japhia
 2SA 5:16	1	1	καὶ	καί	conjunction	1	and
-2SA 5:16	1	2	Ἐλισαμὰ	Ἐλισαμά	indeclinable personal name, nominative in context	1	Elisama
-2SA 5:16	1	2	Ἐλισαμὰ			2	Elishama
+2SA 5:16	1	2	Ἐλισαμὰ	Ἐλισαμά	indeclinable personal name, nominative in context	1	Elishama
+2SA 5:16	1	2	Ἐλισαμὰ			2	Elisama
 2SA 5:16	1	3	καὶ	καί	conjunction	1	and
-2SA 5:16	1	4	Ἐλιδαὲ	Ἐλιδάε	indeclinable personal name, nominative in context	1	Elidae
-2SA 5:16	1	4	Ἐλιδαὲ			2	Eliada
+2SA 5:16	1	4	Ἐλιδαὲ	Ἐλιδάε	indeclinable personal name, nominative in context	1	Eliada
+2SA 5:16	1	4	Ἐλιδαὲ			2	Elidae
 2SA 5:16	1	5	καὶ	καί	conjunction	1	and
-2SA 5:16	1	6	Ἐλιφαλάθ	Ἐλιφαλάθ	indeclinable personal name, nominative in context	1	Eliphalath
-2SA 5:16	1	6	Ἐλιφαλάθ			2	Eliphelet
+2SA 5:16	1	6	Ἐλιφαλάθ	Ἐλιφαλάθ	indeclinable personal name, nominative in context	1	Eliphelet
+2SA 5:16	1	6	Ἐλιφαλάθ			2	Eliphalath
 2SA 5:17	1	1	Καὶ	καί	conjunction	1	and
 2SA 5:17	1	2	ἤκουσαν	ἀκούω	aorist active indicative, third plural	1	they heard
 2SA 5:17	1	3	ἀλλόφυλοι	ἀλλόφυλος	noun, nominative masculine plural	1	Philistines
@@ -537,7 +537,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 5:23	1	3	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 2SA 5:23	1	4	διὰ	διά	preposition governing the genitive	1	through
 2SA 5:23	1	4	διὰ			2	by
-2SA 5:23	1	5	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+2SA 5:23	1	5	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 2SA 5:23	1	6	καὶ	καί	conjunction	1	and
 2SA 5:23	1	7	εἶπε	λέγω	aorist active indicative, third singular	1	said
 2SA 5:23	1	8	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -576,7 +576,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 5:24	1	16	καταβήσῃ	καταβαίνω	future middle indicative, second singular	1	you shall go down
 2SA 5:24	1	17	πρὸς	πρός	preposition with the accusative	1	to
 2SA 5:24	1	18	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-2SA 5:24	1	19	ὅτι	ὅτι	content conjunction	1	that
+2SA 5:24	1	19	ὅτι	ὅτι	content conjunction	1	for
 2SA 5:24	1	20	τότε	τότε	temporal adverb	1	then
 2SA 5:24	1	21	ἐξελεύσεται	ἐξέρχομαι	future middle indicative, third singular	1	will come out
 2SA 5:24	1	22	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord

@@ -58,7 +58,7 @@ RUT 1:2	1	11	Νοεμμείν	Νοεμμείν	indeclinable personal name	1	Naom
 RUT 1:2	1	11	Νοεμμείν			2	Noemmein
 RUT 1:2	1	12	καὶ	καί	conjunction	1	and
 RUT 1:2	1	13	ὄνομα	ὄνομα	noun, nominative neuter singular	1	name
-RUT 1:2	1	14	τοῖς	ὁ	article, dative masculine plural	1	the
+RUT 1:2	1	14	τοῖς	ὁ	article, dative masculine plural	1	of the
 RUT 1:2	1	15	δυσὶν	δύο	cardinal numeral, dative plural	1	two
 RUT 1:2	1	16	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 RUT 1:2	1	17	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -145,7 +145,7 @@ RUT 1:5	1	16	καὶ	καί	conjunction	1	and
 RUT 1:5	1	17	ἀπὸ	ἀπό	preposition with the genitive	1	from
 RUT 1:5	1	18	τῶν	ὁ	article, genitive neuter plural	1	the
 RUT 1:5	1	19	δύο	δύο	cardinal numeral, genitive here	1	two
-RUT 1:5	1	20	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
+RUT 1:5	1	20	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 RUT 1:5	1	21	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 RUT 1:6	1	1	Καὶ	καί	conjunction	1	and
 RUT 1:6	1	2	ἀνέστη	ἀνίστημι	aorist active indicative, third singular	1	rose up
@@ -222,7 +222,7 @@ RUT 1:8	1	13	εἰς	εἰς	preposition with the accusative	1	to
 RUT 1:8	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 RUT 1:8	1	15	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 RUT 1:8	1	15	οἶκον			2	household
-RUT 1:8	1	16	μητρὸς	μήτηρ	noun, genitive feminine singular	1	mother
+RUT 1:8	1	16	μητρὸς	μήτηρ	noun, genitive feminine singular	1	of mother
 RUT 1:8	1	17	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 RUT 1:8	1	18	ποιήσαι	ποιέω	aorist active optative, third singular	1	may he show
 RUT 1:8	1	18	ποιήσαι			2	may he do
@@ -251,7 +251,7 @@ RUT 1:9	1	7	ἑκάστη	ἕκαστος	adjective, nominative feminine singula
 RUT 1:9	1	8	ἐν	ἐν	preposition with the dative	1	in
 RUT 1:9	1	9	οἴκῳ	οἶκος	noun, dative masculine singular	1	the house
 RUT 1:9	1	9	οἴκῳ			2	a house
-RUT 1:9	1	10	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	husband
+RUT 1:9	1	10	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	of husband
 RUT 1:9	1	11	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 RUT 1:9	1	12	Καὶ	καί	conjunction	1	and
 RUT 1:9	1	13	κατεφίλησεν	καταφιλέω	aorist active indicative, third singular	1	kissed warmly
@@ -635,5 +635,5 @@ RUT 1:22	1	20	εἰς	εἰς	preposition with the accusative	1	into
 RUT 1:22	1	21	Βηθλεὲμ	Βηθλεέμ	indeclinable place name, nominative in context	1	Bethlehem
 RUT 1:22	1	22	ἐν	ἐν	preposition with the dative	1	at
 RUT 1:22	1	23	ἀρχῇ	ἀρχή	noun, dative feminine singular	1	the beginning
-RUT 1:22	1	24	θερισμοῦ	θερισμός	noun, genitive masculine singular	1	harvest
+RUT 1:22	1	24	θερισμοῦ	θερισμός	noun, genitive masculine singular	1	of harvest
 RUT 1:22	1	25	κριθῶν	κριθή	noun, genitive feminine plural	1	of barley

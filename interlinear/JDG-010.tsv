@@ -2,8 +2,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 JDG 10:1	1	1	ΚΑΙ	καί	conjunction	1	and
 JDG 10:1	1	2	ἀνέστη	ἀνίστημι	aorist active indicative, third singular	1	rose up
 JDG 10:1	1	3	μετὰ	μετά	preposition with accusative	1	after
-JDG 10:1	1	4	Ἀβιμέλεχ	Ἀβιμέλεχ	indeclinable personal name, genitive in context	1	of Abimelech
-JDG 10:1	1	5	τοῦ	ὁ	article, genitive masculine singular	1	of the
+JDG 10:1	1	4	Ἀβιμέλεχ	Ἀβιμέλεχ	indeclinable personal name, genitive in context	1	Abimelech
+JDG 10:1	1	5	τοῦ	ὁ	article, genitive masculine singular	1	—
 JDG 10:1	1	6	σῶσαι	σώζω	aorist active infinitive	1	to save
 JDG 10:1	1	6	σῶσαι			2	to rescue
 JDG 10:1	1	7	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -12,7 +12,7 @@ JDG 10:1	1	9	Θωλὰ	Θωλά	indeclinable personal name, nominative in contex
 JDG 10:1	1	10	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 JDG 10:1	1	11	Φουὰ	Φουά	indeclinable personal name, genitive in context	1	of Puah
 JDG 10:1	1	12	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-JDG 10:1	1	13	πατραδέλφου	πατράδελφος	noun, genitive masculine singular	1	paternal uncle
+JDG 10:1	1	13	πατραδέλφου	πατράδελφος	noun, genitive masculine singular	1	of the paternal uncle
 JDG 10:1	1	14	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 JDG 10:1	1	15	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	a man
 JDG 10:1	1	16	Ἰσσάχαρ	Ἰσσάχαρ	indeclinable personal name, genitive in context	1	of Issachar
@@ -137,7 +137,7 @@ JDG 10:6	1	34	Ἀμμὼν	Ἀμμών	indeclinable national name, genitive in c
 JDG 10:6	1	35	καὶ	καί	conjunction	1	and
 JDG 10:6	1	36	τοῖς	ὁ	article, dative neuter plural	1	the
 JDG 10:6	1	37	θεοῖς	θεός	noun, dative masc. pl.	1	gods
-JDG 10:6	1	38	τῶν	ὁ	article, genitive plural	1	the
+JDG 10:6	1	38	τῶν	ὁ	article, genitive plural	1	of the
 JDG 10:6	1	39	ἀλλοφύλων	ἀλλόφυλος	adjective, genitive masculine plural; substantival	1	Philistines
 JDG 10:6	1	39	ἀλλοφύλων			2	people of another tribe
 JDG 10:6	1	40	καὶ	καί	conjunction	1	and
@@ -194,7 +194,7 @@ JDG 10:8	1	23	Ἰορδάνου	Ἰορδάνης	river name, genitive masculine
 JDG 10:8	1	24	ἐν	ἐν	preposition with the dative	1	in
 JDG 10:8	1	25	τῇ	ὁ	article, dative feminine singular	1	the
 JDG 10:8	1	26	γῇ	γῆ	noun, dative feminine singular	1	land
-JDG 10:8	1	27	τοῦ	ὁ	article, genitive singular	1	the
+JDG 10:8	1	27	τοῦ	ὁ	article, genitive singular	1	—
 JDG 10:8	1	28	Ἀμοῤῥαίου	Ἀμορραῖος	noun, genitive masculine singular	1	of the Amorite
 JDG 10:8	1	29	ἐν	ἐν	preposition with the dative	1	in
 JDG 10:8	1	30	τῇ	ὁ	article, dative feminine singular	1	the
@@ -210,7 +210,7 @@ JDG 10:9	1	8	τοῦ	ὁ	article, genitive singular	1	—
 JDG 10:9	1	9	ἐκπολεμῆσαι	ἐκπολεμέω	aorist active infinitive	1	to wage war
 JDG 10:9	1	10	καὶ	καί	conjunction	1	and
 JDG 10:9	1	11	ἐν	ἐν	preposition with the dative	1	against
-JDG 10:9	1	12	τῷ	ὁ	article, dative masculine singular	1	the
+JDG 10:9	1	12	τῷ	ὁ	article, dative masculine singular	1	—
 JDG 10:9	1	13	Ἰούδα	Ἰούδας	indeclinable personal name, dative in context	1	Judah
 JDG 10:9	1	14	καὶ	καί	conjunction	1	and
 JDG 10:9	1	15	Βενιαμεὶν	Βενιαμείν	indeclinable personal name, dative in context	1	Benjamin
@@ -285,7 +285,7 @@ JDG 10:12	1	19	ἐκ	ἐκ	preposition with the genitive	1	from
 JDG 10:12	1	20	χειρὸς	χείρ	noun, genitive feminine singular	1	hand
 JDG 10:12	1	21	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JDG 10:13	1	1	Καὶ	καί	conjunction	1	and
-JDG 10:13	1	2	ὑμεῖς	σύ	personal pronoun, nominative plural	1	you (plural)
+JDG 10:13	1	2	ὑμεῖς	σύ	personal pronoun, nominative plural	1	you
 JDG 10:13	1	3	ἐγκατελίπετέ	ἐγκαταλείπω	aorist active indicative, second plural	1	you abandoned
 JDG 10:13	1	4	με	ἐγώ	personal pronoun, accusative singular	1	me
 JDG 10:13	1	5	καὶ	καί	conjunction	1	and
@@ -317,7 +317,7 @@ JDG 10:14	1	13	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 JDG 10:14	1	14	ἐν	ἐν	preposition with the dative	1	in
 JDG 10:14	1	15	καιρῷ	καιρός	noun, dative masculine singular	1	time
 JDG 10:14	1	15	καιρῷ			2	season
-JDG 10:14	1	16	θλίψεως	θλῖψις	noun, genitive feminine singular	1	distress
+JDG 10:14	1	16	θλίψεως	θλῖψις	noun, genitive feminine singular	1	of distress
 JDG 10:14	1	16	θλίψεως			2	trouble
 JDG 10:14	1	17	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 JDG 10:15	1	1	Καὶ	καί	conjunction	1	and
@@ -336,7 +336,7 @@ JDG 10:15	1	13	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 JDG 10:15	1	14	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
 JDG 10:15	1	15	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	1	(marks indefinite/conditional time)
 JDG 10:15	1	16	ἀρέσκῃ	ἀρέσκω	present active subjunctive, third singular	1	pleases
-JDG 10:15	1	17	ἐνώπιόν	ἐνώπιον	preposition with genitive	1	before/in the sight of
+JDG 10:15	1	17	ἐνώπιόν	ἐνώπιον	preposition with genitive	1	before
 JDG 10:15	1	18	σου	σύ	pronoun, possessive genitive second singular	1	you
 JDG 10:15	1	19	πλὴν	πλήν	preposition/adverb with the genitive	1	only
 JDG 10:15	1	20	Κύριε	κύριος	noun vocative masculine singular	1	O Lord
@@ -350,7 +350,7 @@ JDG 10:16	1	1	Καὶ	καί	conjunction	1	and
 JDG 10:16	1	2	μετέστησαν	μεθίστημι	aorist active indicative, third plural	1	removed
 JDG 10:16	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
 JDG 10:16	1	4	θεοὺς	θεός	noun, accusative masculine plural	1	gods
-JDG 10:16	1	5	τοὺς	ὁ	article, accusative masculine plural; introduces a prepositional phrase	1	those
+JDG 10:16	1	5	τοὺς	ὁ	article, accusative masculine plural; introduces a prepositional phrase	1	—
 JDG 10:16	1	6	ἀλλοτρίους	ἀλλότριος	adjective, accusative masculine plural	1	foreign
 JDG 10:16	1	6	ἀλλοτρίους			2	belonging to others
 JDG 10:16	1	7	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -392,14 +392,14 @@ JDG 10:17	1	14	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitiv
 JDG 10:17	1	15	καὶ	καί	conjunction	1	and
 JDG 10:17	1	16	παρενέβαλον	παρεμβάλλω	aorist active indicative, 3rd pl., encamped	1	encamped
 JDG 10:17	1	17	ἐν	ἐν	preposition with the dative	1	in
-JDG 10:17	1	18	τῇ	ὁ	article, dative feminine singular	1	the
-JDG 10:17	1	19	Μασσηφά	Μασσηφά	indeclinable place name, case from syntax	1	Mizpah
+JDG 10:17	1	18	τῇ	ὁ	article, dative feminine singular	1	—
+JDG 10:17	1	19	Μασσηφά	Μασσηφά	indeclinable place name, case from syntax	1	Mizpeh
 JDG 10:18	1	1	Καὶ	καί	conjunction	1	and
 JDG 10:18	1	2	εἶπον	λέγω	aorist active indicative, third plural	1	they said
 JDG 10:18	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 JDG 10:18	1	4	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
 JDG 10:18	1	4	ἄρχοντες			2	officials
-JDG 10:18	1	5	τοῦ	ὁ	article, genitive singular	1	the
+JDG 10:18	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 JDG 10:18	1	6	λαοῦ	λαός	noun, genitive masculine singular	1	people
 JDG 10:18	1	7	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	1	of Gilead
 JDG 10:18	1	8	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	each man
@@ -422,7 +422,7 @@ JDG 10:18	1	23	ἔσται	εἰμί	future indicative, third singular	1	will be
 JDG 10:18	1	24	εἰς	εἰς	preposition with the accusative	1	as
 JDG 10:18	1	25	κεφαλὴν	κεφαλή	noun, accusative feminine singular after τὴν	1	head
 JDG 10:18	1	26	πᾶσι	πᾶς	adjective, dative neuter plural	1	to all
-JDG 10:18	1	27	τοῖς	ὁ	article, dative masculine plural	1	the
+JDG 10:18	1	27	τοῖς	ὁ	article, dative masculine plural	1	—
 JDG 10:18	1	28	κατοικοῦσι	κατοικέω	present active participle, dative masculine plural	1	living
 JDG 10:18	1	28	κατοικοῦσι			2	inhabiting
 JDG 10:18	1	29	Γαλαάδ	Γαλαάδ	indeclinable place name, genitive in context	1	Gilead

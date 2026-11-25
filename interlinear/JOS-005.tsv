@@ -6,8 +6,8 @@ JOS 5:1	1	4	ἤκουσαν	ἀκούω	aorist active indicative, third plural	1
 JOS 5:1	1	5	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 JOS 5:1	1	6	οἱ	ὁ	article, nominative masculine plural	1	the
 JOS 5:1	1	7	βασιλεῖς	βασιλεύς	noun, nominative masculine plural	1	kings
-JOS 5:1	1	8	τῶν	ὁ	article, genitive masculine plural	1	the
-JOS 5:1	1	9	Ἀμοῤῥαίων	Ἀμορραῖος	substantival adjective, genitive masculine plural	1	of the Amorites
+JOS 5:1	1	8	τῶν	ὁ	article, genitive masculine plural	1	of the
+JOS 5:1	1	9	Ἀμοῤῥαίων	Ἀμορραῖος	substantival adjective, genitive masculine plural	1	Amorites
 JOS 5:1	1	10	οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
 JOS 5:1	1	11	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 JOS 5:1	1	12	πέραν	πέραν	adverb/preposition with genitive τοῦ Ἰορδάνου, 'beyond'	1	beyond
@@ -42,7 +42,7 @@ JOS 5:1	1	40	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 JOS 5:1	1	41	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 JOS 5:1	1	42	ἐν	ἐν	preposition with the dative	1	in
 JOS 5:1	1	43	τῷ	ὁ	article, dative neuter singular	1	the
-JOS 5:1	1	44	διαβῆναι	διαβαίνω	aorist active infinitive	1	cross
+JOS 5:1	1	44	διαβῆναι	διαβαίνω	aorist active infinitive	1	crossing
 JOS 5:1	1	45	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 JOS 5:1	1	46	καὶ	καί	conjunction	1	and
 JOS 5:1	1	47	κατετάκησαν	κατατήκω	aorist passive indicative, third plural	1	melted away
@@ -60,7 +60,7 @@ JOS 5:1	1	58	φρόνησις	φρόνησις	noun, nominative feminine singula
 JOS 5:1	1	59	οὐδεμία	οὐδείς	pronoun/adjective, nominative feminine singular with understood κυνόμυια	1	not one
 JOS 5:1	1	60	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOS 5:1	1	61	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the presence
-JOS 5:1	1	62	τῶν	ὁ	article, genitive plural	1	the
+JOS 5:1	1	62	τῶν	ὁ	article, genitive plural	1	of the
 JOS 5:1	1	63	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 JOS 5:1	1	64	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JOS 5:2	1	1	Ὑπὸ	ὑπό	preposition with the accusative	1	about
@@ -105,20 +105,20 @@ JOS 5:3	1	15	καλουμένου	καλέω	present middle/passive participle, 
 JOS 5:3	1	16	τόπου	τόπος	noun, genitive masculine singular	1	place
 JOS 5:3	1	17	βουνὸς	βουνός	noun, nominative masculine singular	1	hill
 JOS 5:3	1	17	βουνὸς			2	mound
-JOS 5:3	1	18	τῶν	ὁ	article, genitive plural	1	the
-JOS 5:3	1	19	ἀκροβυστιῶν	ἀκροβυστία	noun, genitive feminine plural	1	of foreskins
+JOS 5:3	1	18	τῶν	ὁ	article, genitive plural	1	of the
+JOS 5:3	1	19	ἀκροβυστιῶν	ἀκροβυστία	noun, genitive feminine plural	1	foreskins
 JOS 5:4	1	1	Ὃν	ὅς	relative pronoun, accusative masculine singular	1	in the
 JOS 5:4	1	2	δὲ	δέ	postpositive conjunction	1	and
 JOS 5:4	1	3	τρόπον	τρόπος	noun, accusative masc. sg. after ὃν in ὃν τρόπον 'in the way that'	1	manner
-JOS 5:4	1	4	περιεκαθῆρεν	περικαθαίρω	aorist active indicative, third singular	1	he purified
+JOS 5:4	1	4	περιεκαθῆρεν	περικαθαίρω	aorist active indicative, third singular	1	purified
 JOS 5:4	1	5	Ἰησοῦς	Ἰησοῦς	personal name, nominative masc. sg., Joshua (Iesous)	1	Joshua
 JOS 5:4	1	6	τοὺς	ὁ	article, accusative masculine plural	1	the
 JOS 5:4	1	7	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
 JOS 5:4	1	8	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JOS 5:4	1	9	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	1	as many as
 JOS 5:4	1	10	ποτὲ	ποτέ	adverb	1	once
-JOS 5:4	1	11	ἐγένοντο	γίνομαι	aorist middle indicative, third plural; of offspring, were born/were	1	were
-JOS 5:4	1	11	ἐγένοντο			2	were born
+JOS 5:4	1	11	ἐγένοντο	γίνομαι	aorist middle indicative, third plural; of offspring, were born/were	1	were born
+JOS 5:4	1	11	ἐγένοντο			2	were
 JOS 5:4	1	12	ἐν	ἐν	preposition with the dative	1	in
 JOS 5:4	1	13	τῇ	ὁ	article, dative feminine singular	1	the
 JOS 5:4	1	14	ὁδῷ	ὁδός	noun, dative feminine singular after τῇ/ἐν τῇ	1	way
@@ -127,18 +127,18 @@ JOS 5:4	1	16	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	1
 JOS 5:4	1	17	ποτὲ	ποτέ	adverb	1	once
 JOS 5:4	1	18	ἀπερίτμητοι	ἀπερίτμητος	adjective, nominative masculine plural	1	uncircumcised
 JOS 5:4	1	19	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
-JOS 5:4	1	20	τῶν	ὁ	article, genitive plural	1	the
-JOS 5:4	1	21	ἐξεληλυθότων	ἐξέρχομαι	perfect active participle, genitive masc. pl. with αὐτῶν, genitive absolute/when they had come out	1	since they came out
+JOS 5:4	1	20	τῶν	ὁ	article, genitive plural	1	of those
+JOS 5:4	1	21	ἐξεληλυθότων	ἐξέρχομαι	perfect active participle, genitive masc. pl. with αὐτῶν, genitive absolute/when they had come out	1	who had come out
 JOS 5:4	1	22	ἐξ	ἐκ	preposition with the genitive	1	from
 JOS 5:4	1	23	Αἰγύπτου	Αἴγυπτος	proper name, genitive feminine singular	1	Egypt
 JOS 5:4	1	24	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 JOS 5:4	1	25	τούτους	οὗτος	demonstrative pronoun, accusative masculine plural	1	these
-JOS 5:4	1	26	περιέτεμεν	περιτέμνω	aorist active indicative, third singular	1	he circumcised
+JOS 5:4	1	26	περιέτεμεν	περιτέμνω	aorist active indicative, third singular	1	circumcised
 JOS 5:4	1	27	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua
 JOS 5:4	1	28	Πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 JOS 5:4	1	29	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 5:4	1	30	λαὸς	λαός	noun, nominative masculine singular	1	people
-JOS 5:4	1	31	οἱ	ὁ	article, nominative masculine plural	1	the
+JOS 5:4	1	31	οἱ	ὁ	article, nominative masculine plural	1	those
 JOS 5:4	1	32	ἐκπορευόμενοι	ἐκπορεύομαι	present middle participle, nominative masculine plural	1	going out
 JOS 5:4	1	32	ἐκπορευόμενοι			2	who went out
 JOS 5:4	1	33	ἐξ	ἐκ	preposition with the genitive	1	from
@@ -147,7 +147,7 @@ JOS 5:4	1	35	τὸ	ὁ	article, accusative neuter singular	1	the
 JOS 5:4	1	36	ἀρσενικὸν	ἀρσενικός	substantival adjective, accusative neuter singular	1	males
 JOS 5:4	1	37	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 JOS 5:4	1	38	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
-JOS 5:4	1	39	πολέμου	πόλεμος	noun, genitive masculine singular	1	war
+JOS 5:4	1	39	πολέμου	πόλεμος	noun, genitive masculine singular	1	of war
 JOS 5:4	1	39	πολέμου			2	battle
 JOS 5:4	1	40	ἀπέθανον	ἀποθνῄσκω	aorist active indicative, third plural	1	died
 JOS 5:4	1	41	ἐν	ἐν	preposition with the dative	1	in
@@ -168,13 +168,13 @@ JOS 5:5	1	3	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 JOS 5:5	1	4	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 JOS 5:5	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 5:5	1	6	λαὸς	λαός	noun, nominative masculine singular	1	people
-JOS 5:5	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
+JOS 5:5	1	7	ὁ	ὁ	article, nominative masculine singular	1	—
 JOS 5:5	1	8	ἐξελθών	ἐξέρχομαι	aorist active participle, nominative masculine singular	1	having gone out
 JOS 5:5	1	9	καὶ	καί	conjunction	1	and
 JOS 5:5	1	10	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 JOS 5:5	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 5:5	1	12	λαὸς	λαός	noun, nominative masculine singular	1	people
-JOS 5:5	1	13	οἱ	ὁ	article, nominative masculine plural	1	the
+JOS 5:5	1	13	οἱ	ὁ	article, nominative masculine plural	1	those
 JOS 5:5	1	14	γεννηθέντες	γεννάω	aorist passive participle, nominative masculine plural	1	born
 JOS 5:5	1	15	ἐν	ἐν	preposition with the dative	1	in
 JOS 5:5	1	16	τῇ	ὁ	article, dative feminine singular	1	the
@@ -216,13 +216,13 @@ JOS 5:6	1	22	ἐξεληλυθότων	ἐξέρχομαι	perfect active partic
 JOS 5:6	1	23	ἐκ	ἐκ	preposition with the genitive	1	from
 JOS 5:6	1	24	γῆς	γῆ	noun, genitive feminine singular	1	land
 JOS 5:6	1	25	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
-JOS 5:6	1	26	οἱ	ὁ	article, nominative masculine plural	1	the
+JOS 5:6	1	26	οἱ	ὁ	article, nominative masculine plural	1	those
 JOS 5:6	1	27	ἀπειθήσαντες	ἀπειθέω	aorist active participle, nominative masculine plural	1	having disobeyed
 JOS 5:6	1	28	τῶν	ὁ	article, genitive plural	1	the
 JOS 5:6	1	29	ἐντολῶν	ἐντολή	noun, genitive feminine plural	1	commandments
-JOS 5:6	1	30	τοῦ	ὁ	article, genitive singular	1	the
+JOS 5:6	1	30	τοῦ	ὁ	article, genitive singular	1	of the
 JOS 5:6	1	31	Θεοῦ	θεός	noun, genitive masculine singular	1	God
-JOS 5:6	1	32	οἷς	ὅς	relative pronoun, dative neuter plural	1	that
+JOS 5:6	1	32	οἷς	ὅς	relative pronoun, dative neuter plural	1	to whom
 JOS 5:6	1	33	καὶ	καί	conjunction	1	and
 JOS 5:6	1	34	διώρισε	διορίζω	aorist active indicative, third singular	1	determined
 JOS 5:6	1	35	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -233,7 +233,7 @@ JOS 5:6	1	39	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	t
 JOS 5:6	1	40	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 5:6	1	41	γῆν	γῆ	noun, accusative feminine singular	1	land
 JOS 5:6	1	42	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
-JOS 5:6	1	43	ὤμοσε	ὄμνυμι	aorist active indicative, 3rd sg.	1	he swore
+JOS 5:6	1	43	ὤμοσε	ὄμνυμι	aorist active indicative, 3rd sg.	1	swore
 JOS 5:6	1	44	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JOS 5:6	1	45	τοῖς	ὁ	article, dative masculine plural	1	to the
 JOS 5:6	1	46	πατράσιν	πατήρ	noun, dative masculine plural	1	fathers
@@ -255,7 +255,7 @@ JOS 5:7	1	6	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
 JOS 5:7	1	7	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JOS 5:7	1	7	αὐτῶν			2	of them
 JOS 5:7	1	8	οὓς	ὅς	relative pronoun, accusative masculine plural	1	whom
-JOS 5:7	1	9	περιέτεμεν	περιτέμνω	aorist active indicative, third singular	1	he circumcised
+JOS 5:7	1	9	περιέτεμεν	περιτέμνω	aorist active indicative, third singular	1	circumcised
 JOS 5:7	1	10	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua
 JOS 5:7	1	11	ὅτι	ὅτι	causal conjunction	1	because
 JOS 5:7	1	12	ἀκρόβυστοι	ἀκρόβυστος	adjective, nominative masculine plural	1	uncircumcised
@@ -305,7 +305,7 @@ JOS 5:9	1	16	καὶ	καί	conjunction	1	and
 JOS 5:9	1	17	ἐκάλεσε	καλέω	aorist active indicative, third singular	1	called
 JOS 5:9	1	18	τὸ	ὁ	article, accusative neuter singular	1	the
 JOS 5:9	1	19	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
-JOS 5:9	1	20	τοῦ	ὁ	article, genitive singular	1	the
+JOS 5:9	1	20	τοῦ	ὁ	article, genitive singular	1	of the
 JOS 5:9	1	21	τόπου	τόπος	noun, genitive masculine singular	1	place
 JOS 5:9	1	22	ἐκείνου	ἐκεῖνος	demonstrative pronoun, genitive masculine singular	1	that
 JOS 5:9	1	23	Γάλγαλα	Γάλγαλα	indeclinable place name	1	Gilgal
@@ -330,7 +330,7 @@ JOS 5:10	1	13	τὸ	ὁ	article, accusative neuter singular	1	the
 JOS 5:10	1	14	πάσχα	πάσχα	indeclinable noun, nominative/accusative neut. in context, passover	1	passover
 JOS 5:10	1	15	τεσσαρεσκαιδεκάτῃ	τεσσαρεσκαιδέκατος	ordinal adjective, dative fem. sg. with ἡμέρᾳ, in apposition	1	fourteenth
 JOS 5:10	1	16	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular after τῇ	1	day
-JOS 5:10	1	17	τοῦ	ὁ	article, genitive singular	1	the
+JOS 5:10	1	17	τοῦ	ὁ	article, genitive singular	1	—
 JOS 5:10	1	18	μηνὸς	μήν	noun, genitive masculine singular	1	of the month
 JOS 5:10	1	19	ἀφ᾽	ἀπό	preposition with the genitive, elided	1	from
 JOS 5:10	1	20	ἑσπέρου	ἕσπερος	substantival adjective, genitive masculine singular	1	evening
@@ -350,7 +350,7 @@ JOS 5:11	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
 JOS 5:11	1	7	γῆς	γῆ	noun, genitive feminine singular	1	land
 JOS 5:11	1	8	τῇ	ὁ	article, dative feminine singular	1	the
 JOS 5:11	1	9	ἐπαύριον	ἐπαύριον	adverb	1	next day
-JOS 5:11	1	10	τοῦ	ὁ	article, genitive singular	1	the
+JOS 5:11	1	10	τοῦ	ὁ	article, genitive singular	1	of the
 JOS 5:11	1	11	πάσχα	πάσχα	indeclinable noun, nominative/accusative neut. in context, passover	1	passover
 JOS 5:11	1	12	ἄζυμα	ἄζυμος	adjective/noun, nominative/accusative neut. pl., unleavened	1	unleavened bread
 JOS 5:11	1	13	καὶ	καί	conjunction	1	and
@@ -387,8 +387,8 @@ JOS 5:12	1	27	δὲ	δέ	postpositive conjunction	1	now
 JOS 5:12	1	28	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 5:12	1	29	χώραν	χώρα	noun, accusative feminine singular; place designation in apposition	1	country
 JOS 5:12	1	29	χώραν			2	region
-JOS 5:12	1	30	τῶν	ὁ	article, genitive masculine plural	1	the
-JOS 5:12	1	31	φοινίκων	φοῖνιξ	noun, genitive masculine plural, date-palms	1	of the Phoenicians
+JOS 5:12	1	30	τῶν	ὁ	article, genitive masculine plural	1	of the
+JOS 5:12	1	31	φοινίκων	φοῖνιξ	noun, genitive masculine plural, date-palms	1	Phoenicians
 JOS 5:12	1	32	ἐν	ἐν	preposition with the dative	1	in
 JOS 5:12	1	33	τῷ	ὁ	article, dative masculine singular	1	the
 JOS 5:12	1	34	ἐνιαυτῷ	ἐνιαυτός	noun, dative masculine singular	1	year
@@ -402,7 +402,7 @@ JOS 5:13	1	6	ἐν	ἐν	preposition with the dative	1	in
 JOS 5:13	1	7	Ἱεριχὼ	Ἱεριχώ	indeclinable place name, case from syntax	1	Jericho
 JOS 5:13	1	8	καὶ	καί	conjunction	1	and
 JOS 5:13	1	9	ἀναβλέψας	ἀναβλέπω	aorist active participle, nominative masculine singular	1	having looked up
-JOS 5:13	1	10	τοῖς	ὁ	article, dative masculine plural; instrumental dative	1	with his
+JOS 5:13	1	10	τοῖς	ὁ	article, dative masculine plural; instrumental dative	1	with the
 JOS 5:13	1	11	ὀφθαλμοῖς	ὀφθαλμός	noun, dative masculine plural	1	eyes
 JOS 5:13	1	12	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 JOS 5:13	1	13	ἶδεν	ὁράω	aorist active indicative, 3rd sg.	1	saw
@@ -429,7 +429,7 @@ JOS 5:13	1	32	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 JOS 5:13	1	33	ἡμέτερος	ἡμέτερος	adjective, nominative masculine singular	1	one of ours
 JOS 5:13	1	34	εἶ	εἰμί	present indicative, second singular	1	are
 JOS 5:13	1	35	ἢ	ἤ	disjunctive conjunction	1	or
-JOS 5:13	1	36	τῶν	ὁ	article, genitive plural	1	the
+JOS 5:13	1	36	τῶν	ὁ	article, genitive plural	1	of the
 JOS 5:13	1	37	ὑπεναντίων	ὑπεναντίος	adjective, genitive masculine plural; used substantivally	1	adversaries
 JOS 5:13	1	37	ὑπεναντίων			2	opponents
 JOS 5:13	1	38	ἡμῶν	ἐγώ	personal pronoun, genitive first plural	1	our
@@ -465,7 +465,7 @@ JOS 5:14	1	27	δέσποτά	δεσπότης	noun, vocative masculine singular	
 JOS 5:14	1	28	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOS 5:14	1	29	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 JOS 5:14	1	30	προστάσσεις	προστάσσω	present active indicative, second singular	1	do you command
-JOS 5:14	1	31	τῷ	ὁ	article, dative neuter singular	1	the
+JOS 5:14	1	31	τῷ	ὁ	article, dative neuter singular	1	to
 JOS 5:14	1	32	σῷ	σός	adjective, dative neuter singular	1	your
 JOS 5:14	1	33	οἰκέτῃ	οἰκέτης	noun, dative masculine singular	1	servant
 JOS 5:15	1	1	Καὶ	καί	conjunction	1	and
@@ -495,7 +495,7 @@ JOS 5:15	1	24	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	it
 JOS 5:15	1	25	ἅγιός	ἅγιος	adjective, nominative masculine singular	1	holy
 JOS 5:15	1	26	ἐστι	εἰμί	present indicative, third singular	1	is
 JOS 5:16	1	1	Καὶ	καί	conjunction	1	and
-JOS 5:16	1	2	ἐποίησεν	ποιέω	aorist active indicative, third singular; ἡ γῆ subject 'the land produced'	1	produced
+JOS 5:16	1	2	ἐποίησεν	ποιέω	aorist active indicative, third singular; ἡ γῆ subject 'the land produced'	1	did
 JOS 5:16	1	3	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua
 JOS 5:16	1	4	οὕτως	οὕτως	adverb of manner	1	so
 JOS 5:16	1	4	οὕτως			2	thus
@@ -506,7 +506,7 @@ JOS 5:16	1	8	καὶ	καί	conjunction	1	and
 JOS 5:16	1	9	ὠχυρωμένη	ὀχυρόω	perfect middle/passive participle, nominative feminine singular	1	fortified
 JOS 5:16	1	10	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOS 5:16	1	11	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the presence
-JOS 5:16	1	12	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+JOS 5:16	1	12	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 JOS 5:16	1	13	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JOS 5:16	1	14	καὶ	καί	conjunction	1	and
 JOS 5:16	1	15	οὐδεὶς	οὐδείς	pronoun, nominative masculine singular	1	no one
@@ -514,4 +514,4 @@ JOS 5:16	1	16	ἐξεπορεύετο	ἐκπορεύομαι	imperfect middle i
 JOS 5:16	1	17	ἐξ	ἐκ	preposition with the genitive	1	from
 JOS 5:16	1	18	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
 JOS 5:16	1	19	οὐδὲ	οὐδέ	conjunction/negative	1	nor
-JOS 5:16	1	20	εἰσεπορεύετο	εἰσπορεύομαι	imperfect middle indicative, 3rd sg. after ἂν, habitual 'would go in'	1	he went in (whenever)
+JOS 5:16	1	20	εἰσεπορεύετο	εἰσπορεύομαι	imperfect middle indicative, 3rd sg. after ἂν, habitual 'would go in'	1	went in

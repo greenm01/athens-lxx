@@ -4,7 +4,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:1	1	3	ὅτε	ὅτε	temporal conjunction	1	when
 2SA 7:1	1	4	ἐκάθισε	καθίζω	aorist active indicative, third singular	1	stayed
 2SA 7:1	1	4	ἐκάθισε			2	sat down
-2SA 7:1	1	5	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
+2SA 7:1	1	5	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
 2SA 7:1	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 7:1	1	7	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2SA 7:1	1	8	ἐν	ἐν	preposition with the dative	1	in
@@ -143,8 +143,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:7	1	3	ἐλάλησα	λαλέω	aorist active indicative, first singular	1	I say
 2SA 7:7	1	4	πρὸς	πρός	preposition with the accusative	1	to
 2SA 7:7	1	5	μίαν	εἷς	numeral, accusative feminine singular	1	one
-2SA 7:7	1	6	φυλὴν	φυλή	noun, accusative feminine singular	1	clan
-2SA 7:7	1	6	φυλὴν			2	tribe
+2SA 7:7	1	6	φυλὴν	φυλή	noun, accusative feminine singular	1	tribe
+2SA 7:7	1	6	φυλὴν			2	clan
 2SA 7:7	1	7	τοῦ	ὁ	article, genitive masculine singular	1	of
 2SA 7:7	1	8	Ἰσραὴλ	Ἰσραήλ	indeclinable proper name, genitive in context	1	Israel
 2SA 7:7	1	9	ᾧ	ὅς	relative pronoun, dative masculine singular	1	whom
@@ -235,7 +235,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:10	1	4	τῷ	ὁ	article, dative masculine singular	1	for the
 2SA 7:10	1	5	λαῷ	λαός	noun, dative masculine singular	1	people
 2SA 7:10	1	6	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-2SA 7:10	1	7	τῷ	ὁ	article, dative neuter singular	1	the
+2SA 7:10	1	7	τῷ	ὁ	article, dative neuter singular	1	—
 2SA 7:10	1	8	Ἰσραὴλ	Ἰσραήλ	indeclinable proper name, dative in context	1	Israel
 2SA 7:10	1	9	καὶ	καί	conjunction	1	and
 2SA 7:10	1	10	καταφυτεύσω	καταφυτεύω	future active indicative, first singular	1	I will plant
@@ -275,7 +275,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:11	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 2SA 7:11	1	9	λαόν	λαός	noun, accusative masculine singular	1	people
 2SA 7:11	1	10	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-2SA 7:11	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
+2SA 7:11	1	11	τὸν	ὁ	article, accusative masculine singular	1	—
 2SA 7:11	1	12	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 2SA 7:11	1	13	καὶ	καί	conjunction	1	and
 2SA 7:11	1	14	ἀναπαύσω	ἀναπαύω	future active indicative, first singular	1	I will give rest
@@ -689,13 +689,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:26	1	15	καὶ	καί	conjunction	1	and
 2SA 7:26	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 7:26	1	17	οἶκος	οἶκος	noun, nominative masculine singular	1	house
-2SA 7:26	1	18	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
+2SA 7:26	1	18	τοῦ	ὁ	article, genitive masculine/neuter singular	1	of the
 2SA 7:26	1	19	δούλου	δοῦλος	noun, genitive masculine singular	1	servant
 2SA 7:26	1	20	σου	σύ	pronoun, possessive genitive second singular	1	your
 2SA 7:26	1	21	Δαυὶδ	Δαυίδ	indeclinable personal name, accusative in context	1	David
 2SA 7:26	1	22	ἔσται	εἰμί	future indicative, third singular	1	will be
 2SA 7:26	1	23	ἀνωρθωμένος	ἀνορθόω	perfect passive participle, nominative masculine singular	1	established
-2SA 7:26	1	24	ἐνώπιόν	ἐνώπιον	preposition with genitive	1	before/in the sight of
+2SA 7:26	1	24	ἐνώπιόν	ἐνώπιον	preposition with genitive	1	before
 2SA 7:26	1	25	σου	σύ	pronoun, genitive second singular	1	you
 2SA 7:27	1	1	Ὅτι	ὅτι	causal conjunction	1	because
 2SA 7:27	1	2	σὺ	σύ	pronoun, nominative second singular	1	you
@@ -773,7 +773,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:29	1	13	εἰς	εἰς	preposition with the accusative	1	into
 2SA 7:29	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 2SA 7:29	1	15	αἰῶνα	αἰών	noun, accusative masculine singular	1	age
-2SA 7:29	1	16	ἐνώπιόν	ἐνώπιον	preposition with genitive	1	before/in the sight of
+2SA 7:29	1	16	ἐνώπιόν	ἐνώπιον	preposition with genitive	1	before
 2SA 7:29	1	17	σου	σύ	pronoun, genitive second singular	1	you
 2SA 7:29	1	18	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 2SA 7:29	1	19	σὺ	σύ	pronoun, nominative second singular	1	you
