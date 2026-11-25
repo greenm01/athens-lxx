@@ -35,7 +35,7 @@ DEU 32:2	1	22	χόρτον	χόρτος	noun, accusative masculine singular	1	he
 DEU 32:3	1	1	Ὅτι	ὅτι	causal conjunction	1	for
 DEU 32:3	1	2	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 DEU 32:3	1	3	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-DEU 32:3	1	4	ἐκάλεσα	καλέω	aorist active indicative, 1st singular	1	called
+DEU 32:3	1	4	ἐκάλεσα	καλέω	aorist active indicative, 1st singular	1	I called
 DEU 32:3	1	5	δότε	δίδωμι	aorist active imperative, 2nd plural	1	give
 DEU 32:3	1	6	μεγαλωσύνην	μεγαλωσύνη	noun, accusative feminine singular	1	magnificence
 DEU 32:3	1	7	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
@@ -95,11 +95,11 @@ DEU 32:6	1	21	ἔκτισέ	κτίζω	aorist active indicative, 3rd singular	1	
 DEU 32:6	1	22	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 32:7	1	1	Μνήσθητε	μιμνήσκομαι	aorist passive imperative, 2nd plural	1	remember
 DEU 32:7	1	2	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
-DEU 32:7	1	3	αἰῶνος	αἰών	noun, genitive masculine singular	1	age
+DEU 32:7	1	3	αἰῶνος	αἰών	noun, genitive masculine singular	1	of old
 DEU 32:7	1	4	σύνετε	συνίημι	aorist active imperative, 2nd plural	1	understand
 DEU 32:7	1	5	ἔτη	ἔτος	noun, accusative neuter plural	1	years
-DEU 32:7	1	6	γενεᾶς	γενεά	noun, genitive feminine singular	1	generation
-DEU 32:7	1	7	γενεῶν	γενεά	noun, genitive feminine plural	1	generations
+DEU 32:7	1	6	γενεᾶς	γενεά	noun, genitive feminine singular	1	of generation
+DEU 32:7	1	7	γενεῶν	γενεά	noun, genitive feminine plural	1	of generations
 DEU 32:7	1	8	ἐπερώτησον	ἐπερωτάω	aorist active imperative, 2nd singular	1	ask
 DEU 32:7	1	9	τὸν	ὁ	definite article, accusative masculine singular	1	the
 DEU 32:7	1	10	πατέρα	πατήρ	noun, accusative masculine singular	1	father
@@ -127,7 +127,7 @@ DEU 32:8	1	11	ὅρια	ὅριον	noun, accusative neuter plural	1	borders
 DEU 32:8	1	12	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	of nations
 DEU 32:8	1	13	κατὰ	κατά	preposition with the accusative	1	according to
 DEU 32:8	1	14	ἀριθμὸν	ἀριθμός	noun, accusative masculine singular	1	number
-DEU 32:8	1	15	ἀγγέλων	ἄγγελος	noun, genitive masculine plural	1	angels
+DEU 32:8	1	15	ἀγγέλων	ἄγγελος	noun, genitive masculine plural	1	of angels
 DEU 32:8	1	16	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 DEU 32:9	1	1	καὶ	καί	conjunction	1	and
 DEU 32:9	1	2	ἐγενήθη	γίνομαι	aorist passive indicative, 3rd singular	1	became
@@ -137,7 +137,7 @@ DEU 32:9	1	5	λαὸς	λαός	noun, nominative masculine singular	1	people
 DEU 32:9	1	6	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 32:9	1	7	Ἰακώβ	Ἰακώβ	personal name, nominative indeclinable	1	Jacob
 DEU 32:9	1	8	σχοίνισμα	σχοίνισμα	noun, nominative neuter singular	1	measured allotment
-DEU 32:9	1	9	κληρονομίας	κληρονομία	noun, genitive fem. sg.	1	inheritance
+DEU 32:9	1	9	κληρονομίας	κληρονομία	noun, genitive fem. sg.	1	of inheritance
 DEU 32:9	1	10	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 32:9	1	11	Ἰσραήλ	Ἰσραήλ	place name, indeclinable	1	Israel
 DEU 32:10	1	1	Αὐτάρκησεν	αὐταρκέω	aorist active indicative, 3rd singular	1	sufficed
@@ -147,7 +147,7 @@ DEU 32:10	1	4	γῇ	γῆ	noun, dative feminine singular	1	land
 DEU 32:10	1	5	ἐρήμῳ	ἔρημος	noun, dative feminine singular	1	wilderness
 DEU 32:10	1	6	ἐν	ἐν	preposition with the dative	1	in
 DEU 32:10	1	7	δίψει	δίψος	noun, dative neuter singular	1	thirst
-DEU 32:10	1	8	καύματος	καῦμα	noun, genitive neuter singular	1	heat
+DEU 32:10	1	8	καύματος	καῦμα	noun, genitive neuter singular	1	of heat
 DEU 32:10	1	9	ἐν	ἐν	preposition with the dative	1	in
 DEU 32:10	1	10	ἀνύδρῳ	ἄνυδρος	adjective, dative masculine singular	1	waterless
 DEU 32:10	1	11	ἐκύκλωσεν	κυκλόω	aorist active indicative, 3rd singular	1	encircled
@@ -201,7 +201,7 @@ DEU 32:13	1	2	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	
 DEU 32:13	1	3	ἐπὶ	ἐπί	preposition	1	on
 DEU 32:13	1	4	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 32:13	1	5	ἰσχὺν	ἰσχύς	noun, accusative feminine singular	1	strength
-DEU 32:13	1	6	τῆς	ὁ	definite article, genitive feminine singular	1	the
+DEU 32:13	1	6	τῆς	ὁ	definite article, genitive feminine singular	1	of the
 DEU 32:13	1	7	γῆς	γῆ	noun, genitive feminine singular	1	land
 DEU 32:13	1	8	ἐψώμισεν	ψωμίζω	aorist active indicative, 3rd singular	1	fed
 DEU 32:13	1	9	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -225,14 +225,14 @@ DEU 32:14	1	6	μετὰ	μετά	preposition with the genitive	1	with
 DEU 32:14	1	7	στέατος	στέαρ	noun, genitive neuter singular	1	fat
 DEU 32:14	1	8	ἀρνῶν	ἀρήν	noun, genitive masculine plural	1	of lambs
 DEU 32:14	1	9	καὶ	καί	conjunction	1	and
-DEU 32:14	1	10	κριῶν	κριός	noun, genitive masculine plural	1	rams
-DEU 32:14	1	11	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+DEU 32:14	1	10	κριῶν	κριός	noun, genitive masculine plural	1	of rams
+DEU 32:14	1	11	υἱῶν	υἱός	noun, genitive masculine plural	1	of sons
 DEU 32:14	1	12	ταύρων	ταῦρος	noun, genitive masculine plural	1	of bulls
 DEU 32:14	1	13	καὶ	καί	conjunction	1	and
-DEU 32:14	1	14	τράγων	τράγος	noun, genitive masculine plural	1	goats
+DEU 32:14	1	14	τράγων	τράγος	noun, genitive masculine plural	1	of goats
 DEU 32:14	1	15	μετὰ	μετά	preposition with the genitive	1	with
 DEU 32:14	1	16	στέατος	στέαρ	noun, genitive neuter singular	1	fat
-DEU 32:14	1	17	νεφρῶν	νεφρός	noun, genitive masculine plural	1	kidneys
+DEU 32:14	1	17	νεφρῶν	νεφρός	noun, genitive masculine plural	1	of kidneys
 DEU 32:14	1	18	πυροῦ	πυρός	noun, genitive masculine singular	1	of wheat
 DEU 32:14	1	19	καὶ	καί	conjunction	1	and
 DEU 32:14	1	20	αἷμα	αἷμα	noun, nominative neuter singular	1	blood
@@ -254,7 +254,7 @@ DEU 32:15	1	12	ἐπλατύνθη	πλατύνω	aorist passive indicative, 3rd
 DEU 32:15	1	13	καὶ	καί	conjunction	1	and
 DEU 32:15	1	14	ἐγκατέλιπε	ἐγκαταλείπω	aorist active indicative, 3rd singular	1	forsook
 DEU 32:15	1	15	Θεὸν	θεός	noun, accusative masculine singular	1	God
-DEU 32:15	1	16	τὸν	ὁ	definite article, accusative masculine singular	1	the
+DEU 32:15	1	16	τὸν	ὁ	definite article, accusative masculine singular	1	—
 DEU 32:15	1	17	ποιήσαντα	ποιέω	aorist active participle, accusative masculine singular	1	who made
 DEU 32:15	1	18	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 DEU 32:15	1	19	καὶ	καί	conjunction	1	and
@@ -291,14 +291,14 @@ DEU 32:17	1	16	οἱ	ὁ	article, nominative masc. pl.	1	the
 DEU 32:17	1	17	πατέρες	πατήρ	noun, nominative masculine plural	1	fathers
 DEU 32:17	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 DEU 32:18	1	1	Θεὸν	θεός	noun, accusative masculine singular	1	God
-DEU 32:18	1	2	τὸν	ὁ	definite article, accusative masculine singular	1	the
-DEU 32:18	1	3	γεννήσαντά	γεννάω	aorist active participle, accusative masculine singular	1	begot
+DEU 32:18	1	2	τὸν	ὁ	definite article, accusative masculine singular	1	—
+DEU 32:18	1	3	γεννήσαντά	γεννάω	aorist active participle, accusative masculine singular	1	who begot
 DEU 32:18	1	4	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 32:18	1	5	ἐγκατέλιπες	ἐγκαταλείπω	aorist active indicative, 2nd singular	1	you forsook
 DEU 32:18	1	6	καὶ	καί	conjunction	1	and
 DEU 32:18	1	7	ἐπελάθου	ἐπιλανθάνομαι	aorist middle imperative, 2nd singular	1	you forgot
 DEU 32:18	1	8	Θεοῦ	θεός	noun, genitive masculine singular	1	God
-DEU 32:18	1	9	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
+DEU 32:18	1	9	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	—
 DEU 32:18	1	10	τρέφοντός	τρέφω	present active participle, genitive masculine singular	1	who sustains
 DEU 32:18	1	11	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 32:19	1	1	Καὶ	καί	conjunction	1	and
@@ -310,10 +310,10 @@ DEU 32:19	1	6	καὶ	καί	conjunction	1	and
 DEU 32:19	1	7	παρωξύνθη	παροξύνω	aorist passive indicative, 3rd singular	1	was provoked
 DEU 32:19	1	8	δι᾽	διά	preposition with the accusative	1	because of
 DEU 32:19	1	9	ὀργὴν	ὀργή	noun, accusative feminine singular	1	anger
-DEU 32:19	1	10	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+DEU 32:19	1	10	υἱῶν	υἱός	noun, genitive masculine plural	1	of sons
 DEU 32:19	1	11	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 32:19	1	12	καὶ	καί	conjunction	1	and
-DEU 32:19	1	13	θυγατέρων	θυγάτηρ	noun, genitive feminine plural	1	daughters
+DEU 32:19	1	13	θυγατέρων	θυγάτηρ	noun, genitive feminine plural	1	of daughters
 DEU 32:20	1	1	καὶ	καί	conjunction	1	and
 DEU 32:20	1	2	εἶπεν	λέγω	aorist active indicative, 3rd singular	1	said
 DEU 32:20	1	3	ἀποστρέψω	ἀποστρέφω	future active indicative, 1st singular	1	I shall turn away
@@ -409,7 +409,7 @@ DEU 32:24	1	12	εἰς	εἰς	preposition with the accusative	1	against
 DEU 32:24	1	13	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 DEU 32:24	1	14	μετὰ	μετά	preposition with the genitive	1	with
 DEU 32:24	1	15	θυμοῦ	θυμός	noun, genitive masculine singular	1	fierceness
-DEU 32:24	1	16	συρόντων	σύρω	present active participle, genitive masculine plural	1	creeping
+DEU 32:24	1	16	συρόντων	σύρω	present active participle, genitive masculine plural	1	of creeping things
 DEU 32:24	1	17	ἐπὶ	ἐπί	preposition	1	on
 DEU 32:24	1	18	τῆς	ὁ	definite article, genitive feminine singular	1	the
 DEU 32:24	1	19	γῆς	γῆ	noun, genitive feminine singular	1	ground
@@ -429,10 +429,10 @@ DEU 32:25	1	13	θηλάζων	θηλάζω	present active participle, nominative
 DEU 32:25	1	14	μετὰ	μετά	preposition with the genitive	1	with
 DEU 32:25	1	15	καθεστηκότος	καθίστημι	perfect active participle, genitive masculine singular	1	settled
 DEU 32:25	1	16	πρεσβυτέρου	πρεσβύτερος	adjective, genitive masculine singular	1	elder
-DEU 32:26	1	1	Εἶπα	λέγω	aorist active indicative, 1st singular	1	said
+DEU 32:26	1	1	Εἶπα	λέγω	aorist active indicative, 1st singular	1	I said
 DEU 32:26	1	2	διασπερῶ	διασπείρω	future active indicative, 1st singular	1	I shall scatter
 DEU 32:26	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-DEU 32:26	1	4	καταπαύσω	καταπαύω	future active indicative, 1st singular	1	shall make cease
+DEU 32:26	1	4	καταπαύσω	καταπαύω	future active indicative, 1st singular	1	I shall make cease
 DEU 32:26	1	5	δὴ	δή	particle	1	indeed
 DEU 32:26	1	6	ἐξ	ἐκ	preposition with the genitive	1	from among
 DEU 32:26	1	7	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	men
@@ -453,7 +453,7 @@ DEU 32:27	1	11	μὴ	μή	negative particle	1	not
 DEU 32:27	1	12	συνεπιθῶνται	συνεπιτίθεμαι	aorist middle subjunctive, 3rd plural	1	join in attacking
 DEU 32:27	1	13	οἱ	ὁ	article, nominative masc. pl.	1	the
 DEU 32:27	1	14	ὑπεναντίοι	ὑπεναντίος	adjective, nominative masculine plural	1	adversaries
-DEU 32:27	1	15	μὴ	μή	negative particle	1	not
+DEU 32:27	1	15	μὴ	μή	negative particle	1	lest
 DEU 32:27	1	16	εἴπωσιν	λέγω	aorist active subjunctive, 3rd plural	1	say
 DEU 32:27	1	17	ἡ	ὁ	article, nominative feminine singular	1	the
 DEU 32:27	1	18	χεὶρ	χείρ	noun, nominative fem. sg. after ἡ	1	hand
@@ -493,7 +493,7 @@ DEU 32:30	1	5	καὶ	καί	conjunction	1	and
 DEU 32:30	1	6	δύο	δύο	cardinal numeral	1	two
 DEU 32:30	1	7	μετακινήσουσι	μετακινέω	future active indicative, 3rd plural	1	shall put to flight
 DEU 32:30	1	8	μυριάδας	μυριάς	noun, accusative feminine plural	1	myriads
-DEU 32:30	1	9	εἰ	εἰ	conjunction	1	whether
+DEU 32:30	1	9	εἰ	εἰ	conjunction	1	if
 DEU 32:30	1	10	μὴ	μή	negative particle	1	not
 DEU 32:30	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 32:30	1	12	Θεὸς	θεός	noun, nominative masculine singular	1	God
@@ -575,7 +575,7 @@ DEU 32:35	1	11	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 DEU 32:35	1	12	ὅτι	ὅτι	conjunction	1	for
 DEU 32:35	1	13	ἐγγὺς	ἐγγύς	adverb	1	near
 DEU 32:35	1	14	ἡμέρα	ἡμέρα	noun, nominative feminine singular	1	day
-DEU 32:35	1	15	ἀπωλείας	ἀπώλεια	noun, genitive fem. sg., lost thing/loss	1	loss
+DEU 32:35	1	15	ἀπωλείας	ἀπώλεια	noun, genitive fem. sg., lost thing/loss	1	of destruction
 DEU 32:35	1	16	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 DEU 32:35	1	17	καὶ	καί	conjunction	1	and
 DEU 32:35	1	18	πάρεστιν	πάρειμι	present indicative, 3rd singular	1	is near
@@ -619,7 +619,7 @@ DEU 32:37	1	13	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	the
 DEU 32:38	1	1	ὧν	ὅς	relative pronoun, genitive neuter plural	1	whose
 DEU 32:38	1	2	τὸ	ὁ	article, accusative neuter singular	1	the
 DEU 32:38	1	3	στέαρ	στέαρ	noun, accusative neuter singular	1	fat
-DEU 32:38	1	4	τῶν	ὁ	definite article, genitive plural	1	the
+DEU 32:38	1	4	τῶν	ὁ	definite article, genitive plural	1	of the
 DEU 32:38	1	5	θυσιῶν	θυσία	noun, genitive feminine plural	1	sacrifices
 DEU 32:38	1	6	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 DEU 32:38	1	7	ἐσθίετε	ἐσθίω	imperfect active indicative, 2nd plural	1	ate
@@ -627,7 +627,7 @@ DEU 32:38	1	8	καὶ	καί	conjunction	1	and
 DEU 32:38	1	9	ἐπίνετε	πίνω	imperfect active indicative, 2nd plural	1	drank
 DEU 32:38	1	10	τὸν	ὁ	definite article, accusative masculine singular	1	the
 DEU 32:38	1	11	οἶνον	οἶνος	noun, accusative masculine singular	1	wine
-DEU 32:38	1	12	τῶν	ὁ	definite article, genitive plural	1	the
+DEU 32:38	1	12	τῶν	ὁ	definite article, genitive plural	1	of the
 DEU 32:38	1	13	σπονδῶν	σπονδή	noun, genitive feminine plural	1	drink offerings
 DEU 32:38	1	14	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 DEU 32:38	1	15	ἀναστήτωσαν	ἀνίστημι	aorist active imperative, 3rd plural	1	let them rise
@@ -654,7 +654,7 @@ DEU 32:39	1	13	ἀποκτενῶ	ἀποκτείνω	future active indicative, 
 DEU 32:39	1	14	καὶ	καί	conjunction	1	and
 DEU 32:39	1	15	ζῇν	ζάω	present active infinitive	1	to live
 DEU 32:39	1	16	ποιήσω	ποιέω	future active indicative, 1st singular	1	I will make
-DEU 32:39	1	17	πατάξω	πατάσσω	future active indicative, 1st singular	1	shall strike
+DEU 32:39	1	17	πατάξω	πατάσσω	future active indicative, 1st singular	1	I shall strike
 DEU 32:39	1	18	κἀγὼ	κἀγώ	pronoun, nominative 1st singular	1	and I
 DEU 32:39	1	19	ἰάσομαι	ἰάομαι	future middle indicative, 1st singular	1	shall heal
 DEU 32:39	1	20	καὶ	καί	conjunction	1	and
@@ -695,7 +695,7 @@ DEU 32:41	1	6	μάχαιράν	μάχαιρα	noun, accusative feminine singular
 DEU 32:41	1	7	μου	ἐγώ	pronoun, genitive 1st singular	1	my
 DEU 32:41	1	8	καὶ	καί	conjunction	1	and
 DEU 32:41	1	9	ἀνθέξεται	ἀντέχω	future middle indicative, 3rd singular	1	shall hold fast
-DEU 32:41	1	10	κρίματος	κρίμα	noun, genitive neuter singular	1	judgment
+DEU 32:41	1	10	κρίματος	κρίμα	noun, genitive neuter singular	1	of judgment
 DEU 32:41	1	11	ἡ	ὁ	article, nominative feminine singular	1	the
 DEU 32:41	1	12	χείρ	χείρ	noun, nominative feminine singular	1	hand
 DEU 32:41	1	13	μου	ἐγώ	pronoun, genitive 1st singular	1	my
@@ -728,7 +728,7 @@ DEU 32:42	1	13	ἀφ᾽	ἀπό	preposition, elided	1	from
 DEU 32:42	1	14	αἵματος	αἷμα	noun, genitive neuter singular	1	blood
 DEU 32:42	1	15	τραυματιῶν	τραυματίας	noun, genitive masculine plural	1	of the slain
 DEU 32:42	1	16	καὶ	καί	conjunction	1	and
-DEU 32:42	1	17	αἰχμαλωσίας	αἰχμαλωσία	noun, genitive feminine singular	1	captivity
+DEU 32:42	1	17	αἰχμαλωσίας	αἰχμαλωσία	noun, genitive feminine singular	1	of captivity
 DEU 32:42	1	18	ἀπὸ	ἀπό	preposition with the genitive	1	from
 DEU 32:42	1	19	κεφαλῆς	κεφαλή	noun, genitive feminine singular	1	head
 DEU 32:42	1	20	ἀρχόντων	ἄρχων	noun, genitive masculine plural	1	of rulers
@@ -758,10 +758,10 @@ DEU 32:43	1	22	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 DEU 32:43	1	23	ὅτι	ὅτι	causal conjunction	1	for
 DEU 32:43	1	24	τὸ	ὁ	article, accusative neuter singular	1	the
 DEU 32:43	1	25	αἷμα	αἷμα	noun, nominative neuter singular	1	blood
-DEU 32:43	1	26	τῶν	ὁ	definite article, genitive plural	1	the
+DEU 32:43	1	26	τῶν	ὁ	definite article, genitive plural	1	of the
 DEU 32:43	1	27	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 DEU 32:43	1	28	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-DEU 32:43	1	29	ἐκδικεῖται	ἐκδικέω	present middle indicative, 3rd singular	1	avenges
+DEU 32:43	1	29	ἐκδικεῖται	ἐκδικέω	present middle indicative, 3rd singular	1	is avenged
 DEU 32:43	1	30	καὶ	καί	conjunction	1	and
 DEU 32:43	1	31	ἐκδικήσει	ἐκδικέω	future active indicative, 3rd singular	1	shall avenge
 DEU 32:43	1	32	καὶ	καί	conjunction	1	and
@@ -779,7 +779,7 @@ DEU 32:43	1	43	ἐκκαθαριεῖ	ἐκκαθαίρω	future active indicati
 DEU 32:43	1	44	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 32:43	1	45	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 32:43	1	46	γῆν	γῆ	noun, accusative feminine singular	1	land
-DEU 32:43	1	47	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
+DEU 32:43	1	47	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	of the
 DEU 32:43	1	48	λαοῦ	λαός	noun, genitive masculine singular	1	people
 DEU 32:43	1	49	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 32:44	1	1	Καὶ	καί	conjunction	1	and
@@ -809,7 +809,7 @@ DEU 32:44	1	24	ἐλάλησε	λαλέω	aorist active indicative, 3rd singular
 DEU 32:44	1	25	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 DEU 32:44	1	26	τοὺς	ὁ	article, accusative masculine plural	1	the
 DEU 32:44	1	27	λόγους	λόγος	noun, accusative masculine plural	1	words
-DEU 32:44	1	28	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
+DEU 32:44	1	28	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	of the
 DEU 32:44	1	29	νόμου	νόμος	noun, genitive masculine singular	1	law
 DEU 32:44	1	30	τούτου	οὗτος	demonstrative pronoun, genitive singular	1	this
 DEU 32:44	1	31	εἰς	εἰς	preposition with the accusative	1	into
@@ -862,7 +862,7 @@ DEU 32:46	1	26	ποιεῖν	ποιέω	present active infinitive	1	to do
 DEU 32:46	1	27	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 DEU 32:46	1	28	τοὺς	ὁ	article, accusative masculine plural	1	the
 DEU 32:46	1	29	λόγους	λόγος	noun, accusative masculine plural	1	words
-DEU 32:46	1	30	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
+DEU 32:46	1	30	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	of the
 DEU 32:46	1	31	νόμου	νόμος	noun, genitive masculine singular	1	law
 DEU 32:46	1	32	τούτου	οὗτος	demonstrative pronoun, genitive singular	1	this
 DEU 32:47	1	1	Ὅτι	ὅτι	causal conjunction	1	for

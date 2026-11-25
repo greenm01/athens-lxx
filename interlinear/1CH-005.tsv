@@ -16,7 +16,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 5:1	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	on
 1CH 5:1	1	16	τὴν	ὁ	article, accusative feminine singular	1	the
 1CH 5:1	1	17	κοίτην	κοίτη	noun, accusative feminine singular after ἐπί	1	bed
-1CH 5:1	1	18	τοῦ	ὁ	article, genitive singular	1	the
+1CH 5:1	1	18	τοῦ	ὁ	article, genitive singular	1	of the
 1CH 5:1	1	19	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 1CH 5:1	1	20	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1CH 5:1	1	21	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	he gave
@@ -190,7 +190,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 5:10	1	21	κατ᾽	κατά	elided preposition with the accusative of direction	1	toward
 1CH 5:10	1	22	ἀνατολὰς	ἀνατολή	noun, accusative feminine plural	1	the east
 1CH 5:10	1	22	ἀνατολὰς			2	the sunrise
-1CH 5:10	1	23	τῆς	ὁ	article, genitive feminine singular	1	the
+1CH 5:10	1	23	τῆς	ὁ	article, genitive feminine singular	1	—
 1CH 5:10	1	24	Γαλαάδ	Γαλαάδ	indeclinable place name, genitive in context	1	of Gilead
 1CH 5:11	1	1	Υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 1CH 5:11	1	2	Γὰδ	Γάδ	indeclinable personal name, genitive in context	1	of Gad
@@ -225,7 +225,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 5:13	1	4	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 1CH 5:13	1	5	κατ᾽	κατά	preposition with the genitive, elided, against	1	by
 1CH 5:13	1	6	οἴκους	οἶκος	noun, accusative masculine plural after τοὺς/eἰς τοὺς	1	houses
-1CH 5:13	1	7	πατριῶν	πατριά	noun, genitive feminine plural	1	ancestral houses
+1CH 5:13	1	7	πατριῶν	πατριά	noun, genitive feminine plural	1	of ancestral houses
 1CH 5:13	1	8	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 1CH 5:13	1	9	Μιχαὴλ	Μιχαήλ	indeclinable personal name, nominative in context	1	Michael
 1CH 5:13	1	10	καὶ	καί	conjunction	1	and
@@ -405,7 +405,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 5:21	1	14	δισχιλίους	δισχίλιοι	cardinal numeral, accusative masculine plural	1	two thousand
 1CH 5:21	1	15	καὶ	καί	conjunction	1	and
 1CH 5:21	1	16	ψυχὰς	ψυχή	noun, accusative feminine plural	1	souls
-1CH 5:21	1	17	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	1	men
+1CH 5:21	1	17	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	1	of men
 1CH 5:21	1	18	ἑκατὸν	ἑκατόν	indeclinable cardinal numeral	1	one hundred
 1CH 5:21	1	19	χιλιάδας	χιλιάς	noun, accusative feminine plural	1	thousand
 1CH 5:22	1	1	Ὅτι	ὅτι	causal conjunction	1	because
@@ -458,9 +458,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 5:24	1	1	Καὶ	καί	conjunction	1	and
 1CH 5:24	1	2	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 1CH 5:24	1	3	ἀρχηγοὶ	ἀρχηγός	noun, nominative masculine plural	1	leaders
-1CH 5:24	1	4	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+1CH 5:24	1	4	οἴκου	οἶκος	noun, genitive masculine singular	1	of house
 1CH 5:24	1	4	οἴκου			2	household
-1CH 5:24	1	5	πατριῶν	πατριά	noun, genitive feminine plural	1	ancestral houses
+1CH 5:24	1	5	πατριῶν	πατριά	noun, genitive feminine plural	1	of ancestral houses
 1CH 5:24	1	6	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 1CH 5:24	1	7	Ὀφὲρ	Ὀφέρ	indeclinable personal name, nominative in context	1	Opher
 1CH 5:24	1	8	καὶ	καί	conjunction	1	and
@@ -483,7 +483,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 5:24	1	24	ὀνομαστοὶ			2	of renown
 1CH 5:24	1	25	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
 1CH 5:24	1	25	ἄρχοντες			2	officials
-1CH 5:24	1	26	τῶν	ὁ	article, genitive plural	1	the
+1CH 5:24	1	26	τῶν	ὁ	article, genitive plural	1	—
 1CH 5:24	1	27	οἴκων	οἶκος	noun, genitive masculine plural	1	of the houses
 1CH 5:24	1	28	πατριῶν	πατριά	noun, genitive feminine plural	1	of the families
 1CH 5:24	1	29	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their

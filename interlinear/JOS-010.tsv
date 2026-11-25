@@ -16,7 +16,7 @@ JOS 10:1	1	14	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	i
 JOS 10:1	1	15	ὃν	ὅς	relative pronoun, accusative masculine singular	1	in the
 JOS 10:1	1	16	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
 JOS 10:1	1	17	ἐποίησε	ποιέω	aorist active indicative, third singular	1	he did
-JOS 10:1	1	18	τὴν	ὁ	article, accusative feminine singular	1	the
+JOS 10:1	1	18	τὴν	ὁ	article, accusative feminine singular	1	—
 JOS 10:1	1	19	Ἱεριχὼ	Ἱεριχώ	indeclinable place name, case from syntax	1	to Jericho
 JOS 10:1	1	20	καὶ	καί	conjunction	1	and
 JOS 10:1	1	21	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -25,7 +25,7 @@ JOS 10:1	1	23	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 JOS 10:1	1	24	οὕτως	οὕτως	adverb	1	thus
 JOS 10:1	1	25	ἐποίησε	ποιέω	aorist active indicative, third singular	1	he did
 JOS 10:1	1	26	καὶ	καί	conjunction	1	and
-JOS 10:1	1	27	τὴν	ὁ	article, accusative feminine singular	1	the
+JOS 10:1	1	27	τὴν	ὁ	article, accusative feminine singular	1	—
 JOS 10:1	1	28	Γαῒ	Γαΐ	indeclinable place name, genitive in context	1	to Ai
 JOS 10:1	1	29	καὶ	καί	conjunction	1	and
 JOS 10:1	1	30	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -144,7 +144,7 @@ JOS 10:5	1	4	ἀνέβησαν	ἀναβαίνω	aorist active indicative, third
 JOS 10:5	1	5	οἱ	ὁ	article, nominative masculine plural	1	the
 JOS 10:5	1	6	πέντε	πέντε	indeclinable cardinal numeral	1	five
 JOS 10:5	1	7	βασιλεῖς	βασιλεύς	noun, nominative masculine plural	1	kings
-JOS 10:5	1	8	τῶν	ὁ	article, genitive masculine plural	1	the
+JOS 10:5	1	8	τῶν	ὁ	article, genitive masculine plural	1	—
 JOS 10:5	1	9	Ἰεβουσαίων	Ἰεβουσαῖος	ethnic noun, genitive masculine plural	1	of the Jebusites
 JOS 10:5	1	10	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 JOS 10:5	1	11	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	of Jerusalem
@@ -221,7 +221,7 @@ JOS 10:6	1	38	ἡμᾶς	ἐγώ	pronoun, accusative first plural	1	us
 JOS 10:6	1	39	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 JOS 10:6	1	40	οἱ	ὁ	article, nominative masculine plural	1	the
 JOS 10:6	1	41	βασιλεῖς	βασιλεύς	noun, nominative masculine plural	1	kings
-JOS 10:6	1	42	τῶν	ὁ	article, genitive masculine plural	1	the
+JOS 10:6	1	42	τῶν	ὁ	article, genitive masculine plural	1	—
 JOS 10:6	1	43	Ἀμοῤῥαίων	Ἀμορραῖος	substantival adjective, genitive masculine plural	1	of the Amorites
 JOS 10:6	1	44	οἱ	ὁ	article, nominative masculine plural	1	the
 JOS 10:6	1	45	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural	1	inhabitants
@@ -356,8 +356,8 @@ JOS 10:11	1	31	ἀποθανόντες	ἀποθνῄσκω	aorist active partic
 JOS 10:11	1	32	διὰ	διά	preposition with the accusative	1	because of
 JOS 10:11	1	33	τοὺς	ὁ	article, accusative masculine plural	1	the
 JOS 10:11	1	34	λίθους	λίθος	noun, accusative masc. pl.	1	stones
-JOS 10:11	1	35	τῆς	ὁ	article, genitive feminine singular	1	the
-JOS 10:11	1	36	χαλάζης	χάλαζα	noun, genitive feminine singular	1	of hail
+JOS 10:11	1	35	τῆς	ὁ	article, genitive feminine singular	1	of the
+JOS 10:11	1	36	χαλάζης	χάλαζα	noun, genitive feminine singular	1	hail
 JOS 10:11	1	37	ἢ	ἤ	disjunctive conjunction	1	than
 JOS 10:11	1	38	οὓς	ὅς	relative pronoun, accusative masculine plural	1	whom
 JOS 10:11	1	39	ἀπέκτειναν	ἀποκτείνω	aorist active indicative, third plural	1	killed
@@ -468,7 +468,7 @@ JOS 10:14	1	11	ἔσχατον	ἔσχατος	adjective, accusative neuter sing
 JOS 10:14	1	11	ἔσχατον			2	most recent
 JOS 10:14	1	12	ὥστἐπακοῦσαι	ὥστε ἐπακούω	conjunction and aorist active infinitive, printed together	1	so as to heed
 JOS 10:14	1	13	Θεὸν	θεός	noun, accusative masculine singular; subject of ἐπακοῦσαι	1	God
-JOS 10:14	1	14	φωνῆς	φωνή	noun, genitive feminine singular	1	voice
+JOS 10:14	1	14	φωνῆς	φωνή	noun, genitive feminine singular	1	of voice
 JOS 10:14	1	15	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a man
 JOS 10:14	1	16	ὅτι	ὅτι	causal conjunction	1	because
 JOS 10:14	1	17	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -985,7 +985,7 @@ JOS 10:32	1	26	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	
 JOS 10:32	1	27	ὃν	ὅς	relative pronoun, accusative masculine singular	1	in the
 JOS 10:32	1	28	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
 JOS 10:32	1	29	ἐποίησε	ποιέω	aorist active indicative, third singular	1	he treated
-JOS 10:32	1	30	τῇ	ὁ	article, dative feminine singular	1	the
+JOS 10:32	1	30	τῇ	ὁ	article, dative feminine singular	1	—
 JOS 10:32	1	31	Λεβνά	Λεβνά	indeclinable place name, case from construction	1	to Libnah
 JOS 10:33	1	1	Τότε	τότε	temporal adverb	1	then
 JOS 10:33	1	2	ἀνέβη	ἀναβαίνω	aorist active indicative, third singular	1	went up
@@ -1071,7 +1071,7 @@ JOS 10:35	1	31	ἐφόνευσαν	φονεύω	aorist active indicative, third 
 JOS 10:35	1	32	ὃν	ὅς	relative pronoun, accusative masculine singular; with τρόπον	1	as
 JOS 10:35	1	33	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	1	—
 JOS 10:35	1	34	ἐποίησαν	ποιέω	aorist active indicative, third plural	1	did
-JOS 10:35	1	35	τῇ	ὁ	article, dative feminine singular	1	the
+JOS 10:35	1	35	τῇ	ὁ	article, dative feminine singular	1	—
 JOS 10:35	1	36	Λαχείς	Λαχείς	indeclinable place name, locally after κατοικοῦσα	1	to Lachish
 JOS 10:35	1	36	Λαχείς			2	Lacheis
 JOS 10:36	1	1	Καὶ	καί	conjunction	1	and
@@ -1123,7 +1123,7 @@ JOS 10:37	1	29	διασεσωσμένος	διασῴζω	perfect middle/passive
 JOS 10:37	1	30	ὃν	ὅς	relative pronoun, accusative masculine singular; with τρόπον	1	as
 JOS 10:37	1	31	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	1	—
 JOS 10:37	1	32	ἐποίησαν	ποιέω	aorist active indicative, third plural	1	did
-JOS 10:37	1	33	τῇ	ὁ	article, dative feminine singular	1	the
+JOS 10:37	1	33	τῇ	ὁ	article, dative feminine singular	1	—
 JOS 10:37	1	34	Ὀδολλὰμ	Ὀδολλάμ	indeclinable place name, genitive in context	1	to Adullam
 JOS 10:37	1	34	Ὀδολλὰμ			2	Odollam
 JOS 10:37	1	35	ἐξωλόθρευσαν	ἐξολοθρεύω	aorist active indicative, third plural	1	they destroyed
@@ -1181,11 +1181,11 @@ JOS 10:39	1	30	διασεσωσμένον	διασῴζω	perfect middle/passive
 JOS 10:39	1	31	ὃν	ὅς	relative pronoun, accusative masculine singular; with τρόπον	1	as
 JOS 10:39	1	32	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	1	—
 JOS 10:39	1	33	ἐποίησαν	ποιέω	aorist active indicative, third plural	1	did
-JOS 10:39	1	34	τῇ	ὁ	article, dative feminine singular	1	the
+JOS 10:39	1	34	τῇ	ὁ	article, dative feminine singular	1	—
 JOS 10:39	1	35	Χεβρὼ	Χεβρώ	indeclinable place name, case from construction	1	to Hebron
 JOS 10:39	1	36	οὕτως	οὕτως	adverb	1	thus
 JOS 10:39	1	37	ἐποίησαν	ποιέω	aorist active indicative, third person plural	1	they did
-JOS 10:39	1	38	τῇ	ὁ	article, dative feminine singular	1	the
+JOS 10:39	1	38	τῇ	ὁ	article, dative feminine singular	1	—
 JOS 10:39	1	39	Δαβεὶρ	Δαβείρ	indeclinable personal name, accusative in context	1	to Debir
 JOS 10:39	1	40	καὶ	καί	conjunction	1	and
 JOS 10:39	1	41	τῷ	ὁ	article, dative masculine singular	1	to the
@@ -1193,7 +1193,7 @@ JOS 10:39	1	42	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τ�
 JOS 10:39	1	43	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 JOS 10:39	1	44	καθάπερ	καθάπερ	comparative conjunction	1	just as
 JOS 10:39	1	45	ἐποίησαν	ποιέω	aorist active indicative, third plural	1	they did
-JOS 10:39	1	46	τῇ	ὁ	article, dative feminine singular	1	the
+JOS 10:39	1	46	τῇ	ὁ	article, dative feminine singular	1	—
 JOS 10:39	1	47	Λεβνὰ	Λεβνά	indeclinable place name, case from construction	1	to Libnah
 JOS 10:39	1	48	καὶ	καί	conjunction	1	and
 JOS 10:39	1	49	τῷ	ὁ	article, dative masculine singular	1	to the

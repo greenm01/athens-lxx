@@ -4,7 +4,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:1	1	3	ἐν	ἐν	preposition in a temporal articular infinitive	1	in
 2KI 18:1	1	4	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
 2KI 18:1	1	5	τρίτῳ	τρίτος	ordinal adjective, dative masculine singular; substantival	1	third
-2KI 18:1	1	6	τῷ	ὁ	article, dative masculine singular	1	the
+2KI 18:1	1	6	τῷ	ὁ	article, dative masculine singular	1	—
 2KI 18:1	1	7	Ὠσηὲ	Ὠσηέ	indeclinable personal name, nominative in context	1	of Hoshea
 2KI 18:1	1	8	υἱῷ	υἱός	noun, dative masculine singular	1	son
 2KI 18:1	1	9	Ἠλὰ	Ἠλά	indeclinable personal name, genitive in context	1	of Elah
@@ -196,7 +196,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:9	1	12	ἐνιαυτὸς	ἐνιαυτός	noun, nominative masculine singular	1	year
 2KI 18:9	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 18:9	1	14	ἕβδομος	ἕβδομος	ordinal adjective, nominative masculine singular	1	seventh
-2KI 18:9	1	15	τῷ	ὁ	article, dative masculine singular	1	the
+2KI 18:9	1	15	τῷ	ὁ	article, dative masculine singular	1	—
 2KI 18:9	1	16	Ὠσηὲ	Ὠσηέ	indeclinable personal name, genitive in context	1	of Hoshea
 2KI 18:9	1	17	υἱῷ	υἱός	noun, dative masculine singular	1	son
 2KI 18:9	1	18	Ἠλὰ	Ἠλά	indeclinable personal name, genitive in context	1	of Elah
@@ -225,12 +225,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:10	1	8	ἐν	ἐν	preposition with the dative	1	in
 2KI 18:10	1	9	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
 2KI 18:10	1	10	ἕκτῳ	ἕκτος	ordinal adjective, dative masculine singular	1	sixth
-2KI 18:10	1	11	τῷ	ὁ	article, dative masculine singular	1	the
+2KI 18:10	1	11	τῷ	ὁ	article, dative masculine singular	1	—
 2KI 18:10	1	12	Ἐζεκίᾳ	Ἐζεκίας	personal name, genitive masculine singular	1	of Hezekiah
 2KI 18:10	1	13	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 2KI 18:10	1	14	ἐνιαυτὸς	ἐνιαυτός	noun, nominative masculine singular	1	year
 2KI 18:10	1	15	ἔννατος	ἔννατος	ordinal adjective, nominative neuter singular	1	ninth
-2KI 18:10	1	16	τῷ	ὁ	article, dative masculine singular	1	the
+2KI 18:10	1	16	τῷ	ὁ	article, dative masculine singular	1	—
 2KI 18:10	1	17	Ὠσηὲ	Ὠσηέ	indeclinable personal name, genitive in context	1	of Hoshea
 2KI 18:10	1	18	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 2KI 18:10	1	19	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -506,7 +506,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:20	1	1	Εἶπας	λέγω	aorist active indicative, second singular	1	you said
 2KI 18:20	1	2	πλὴν	πλήν	adverb	1	merely
 2KI 18:20	1	3	λόγοι	λόγος	noun, nominative masculine plural	1	words
-2KI 18:20	1	4	χειλέων	χεῖλος	noun, genitive neuter plural	1	lips
+2KI 18:20	1	4	χειλέων	χεῖλος	noun, genitive neuter plural	1	of lips
 2KI 18:20	1	5	βουλὴ	βουλή	noun nominative feminine singular	1	counsel
 2KI 18:20	1	6	καὶ	καί	conjunction	1	and
 2KI 18:20	1	7	δύναμις	δύναμις	noun nominative feminine singular	1	strength
@@ -890,8 +890,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:32	1	18	καὶ	καί	conjunction	1	and
 2KI 18:32	1	19	ἄρτου	ἄρτος	noun, genitive masculine singular	1	of bread
 2KI 18:32	1	20	γῆ	γῆ	noun, nominative fem. sg.	1	a land
-2KI 18:32	1	21	ἐλαίας	ἐλαία	noun, genitive feminine singular	1	olive
-2KI 18:32	1	22	ἐλαίου	ἔλαιον	noun, genitive neuter singular	1	oil
+2KI 18:32	1	21	ἐλαίας	ἐλαία	noun, genitive feminine singular	1	of olive
+2KI 18:32	1	22	ἐλαίου	ἔλαιον	noun, genitive neuter singular	1	of oil
 2KI 18:32	1	23	καὶ	καί	conjunction	1	and
 2KI 18:32	1	24	μέλιτος	μέλι	noun, genitive neuter singular	1	honey
 2KI 18:32	1	25	καὶ	καί	conjunction	1	and

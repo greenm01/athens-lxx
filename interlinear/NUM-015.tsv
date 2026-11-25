@@ -19,8 +19,8 @@ NUM 15:2	1	12	εἰς	εἰς	preposition with the accusative	1	into
 NUM 15:2	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 15:2	1	14	γῆν	γῆ	noun, accusative feminine singular	1	land
 NUM 15:2	1	14	γῆν			2	country
-NUM 15:2	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 15:2	1	16	κατοικήσεως	κατοίκησις	noun, genitive feminine singular	1	of dwelling
+NUM 15:2	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
+NUM 15:2	1	16	κατοικήσεως	κατοίκησις	noun, genitive feminine singular	1	dwelling
 NUM 15:2	1	17	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 NUM 15:2	1	18	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 NUM 15:2	1	19	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
@@ -95,8 +95,8 @@ NUM 15:5	1	13	ἢ	ἤ	disjunctive conjunction	1	or
 NUM 15:5	1	14	ἐπὶ	ἐπί	preposition with the genitive	1	upon
 NUM 15:5	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 15:5	1	16	θυσίας	θυσία	noun, genitive feminine singular	1	offering
-NUM 15:5	1	17	τῷ	ὁ	article, dative masculine singular	1	the
-NUM 15:5	1	18	ἀμνῷ	ἀμνός	noun, dative masculine singular	1	for a lamb
+NUM 15:5	1	17	τῷ	ὁ	article, dative masculine singular	1	for the
+NUM 15:5	1	18	ἀμνῷ	ἀμνός	noun, dative masculine singular	1	a lamb
 NUM 15:5	1	19	τῷ	ὁ	article, dative masculine singular	1	the
 NUM 15:5	1	20	ἑνὶ	εἷς	cardinal numeral, dative masculine singular	1	one
 NUM 15:5	1	21	ποιήσεις	ποιέω	future active indicative, 2nd sg.	1	you shall do
@@ -205,8 +205,8 @@ NUM 15:11	1	9	κριῷ	κριός	noun, dative masculine singular	1	ram
 NUM 15:11	1	10	τῷ	ὁ	article, dative masculine singular	1	the
 NUM 15:11	1	11	ἑνὶ	εἷς	cardinal numeral, dative masculine singular	1	one
 NUM 15:11	1	12	ἢ	ἤ	disjunctive conjunction	1	or
-NUM 15:11	1	13	τῷ	ὁ	article, dative masculine singular	1	the
-NUM 15:11	1	14	ἀμνῷ	ἀμνός	noun, dative masculine singular	1	for a lamb
+NUM 15:11	1	13	τῷ	ὁ	article, dative masculine singular	1	for the
+NUM 15:11	1	14	ἀμνῷ	ἀμνός	noun, dative masculine singular	1	a lamb
 NUM 15:11	1	15	τῷ	ὁ	article, dative masculine singular	1	the
 NUM 15:11	1	16	ἑνὶ	εἷς	cardinal numeral, dative masculine singular	1	one
 NUM 15:11	1	17	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -354,7 +354,7 @@ NUM 15:19	1	5	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
 NUM 15:19	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 15:19	1	7	τῶν	ὁ	article, genitive plural	1	the
 NUM 15:19	1	8	ἄρτων	ἄρτος	noun, genitive masculine plural	1	bread
-NUM 15:19	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
+NUM 15:19	1	9	τῆς	ὁ	article, genitive feminine singular	1	—
 NUM 15:19	1	10	γῆς	γῆ	noun, genitive feminine singular	1	of the land
 NUM 15:19	1	11	ἀφελεῖτε	ἀφαιρέω	future active indicative, second plural	1	you shall set aside
 NUM 15:19	1	12	ἀφαίρεμα	ἀφαίρεμα	noun, accusative neuter singular	1	contribution
@@ -757,7 +757,7 @@ NUM 15:38	1	12	κράσπεδα	κράσπεδον	noun, accusative neuter plura
 NUM 15:38	1	13	ἐπὶ	ἐπί	preposition (case from context)	1	on
 NUM 15:38	1	14	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 15:38	1	15	πτερύγια	πτερύγιον	noun, accusative neuter plural	1	corners
-NUM 15:38	1	16	τῶν	ὁ	article, genitive plural	1	the
+NUM 15:38	1	16	τῶν	ὁ	article, genitive plural	1	of the
 NUM 15:38	1	17	ἱματίων	ἱμάτιον	noun, genitive neuter plural	1	clothes
 NUM 15:38	1	17	ἱματίων			2	garments
 NUM 15:38	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -770,7 +770,7 @@ NUM 15:38	1	24	ἐπιθήσετε	ἐπιτίθημι	future active indicative,
 NUM 15:38	1	25	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 NUM 15:38	1	26	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 15:38	1	27	κράσπεδα	κράσπεδον	noun, accusative neuter plural	1	tassels
-NUM 15:38	1	28	τῶν	ὁ	article, genitive plural	1	the
+NUM 15:38	1	28	τῶν	ὁ	article, genitive plural	1	—
 NUM 15:38	1	29	πτερυγίων	πτερύγιον	noun, genitive neuter plural	1	of the corners
 NUM 15:38	1	30	κλῶσμα	κλῶσμα	noun, accusative neuter singular	1	thread
 NUM 15:38	1	31	ὑακίνθινον	ὑακίνθινος	adjective, accusative neuter singular	1	blue
