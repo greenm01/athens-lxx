@@ -22,8 +22,8 @@ DEU 21:1	1	20	πεδίῳ	πεδίον	noun, dative neuter singular	1	field
 DEU 21:1	1	21	καὶ	καί	conjunction	1	and
 DEU 21:1	1	22	οὐκ	οὐ	negative particle	1	not
 DEU 21:1	1	23	οἴδασι	οἶδα	perfect active indicative, 3rd plural	1	know
-DEU 21:1	1	24	τὸν	ὁ	definite article, accusative masculine singular	1	the
-DEU 21:1	1	25	πατάξαντα	πατάσσω	aorist active participle, accusative masculine singular	1	struck
+DEU 21:1	1	24	τὸν	ὁ	definite article, accusative masculine singular	1	the one
+DEU 21:1	1	25	πατάξαντα	πατάσσω	aorist active participle, accusative masculine singular	1	who struck
 DEU 21:1	1	26	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 DEU 21:2	1	1	ἐξελεύσεται	ἐξέρχομαι	future middle indicative, 3rd sg.	1	shall go out
 DEU 21:2	1	2	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -46,7 +46,7 @@ DEU 21:3	1	1	καὶ	καί	conjunction	1	and
 DEU 21:3	1	2	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
 DEU 21:3	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
 DEU 21:3	1	4	πόλις	πόλις	noun, nominative fem. sg.	1	city
-DEU 21:3	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
+DEU 21:3	1	5	ἡ	ὁ	article, nominative feminine singular	1	—
 DEU 21:3	1	6	ἐγγίζουσα	ἐγγίζω	present active participle, nominative feminine singular	1	near
 DEU 21:3	1	7	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
 DEU 21:3	1	8	τραυματίᾳ	τραυματίας	noun, dative masculine singular	1	slain man
@@ -128,12 +128,12 @@ DEU 21:6	1	1	Καὶ	καί	conjunction	1	and
 DEU 21:6	1	2	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
 DEU 21:6	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
 DEU 21:6	1	4	γερουσία	γερουσία	noun, nominative feminine singular	1	council of elders
-DEU 21:6	1	5	τῆς	ὁ	definite article, genitive feminine singular	1	the
+DEU 21:6	1	5	τῆς	ὁ	definite article, genitive feminine singular	1	of the
 DEU 21:6	1	6	πόλεως	πόλις	noun, genitive feminine singular after τῆς	1	city
 DEU 21:6	1	7	ἐκείνης	ἐκεῖνος	demonstrative adjective, genitive feminine singular	1	that
-DEU 21:6	1	8	οἱ	ὁ	article, nominative masc. pl.	1	the
+DEU 21:6	1	8	οἱ	ὁ	article, nominative masc. pl.	1	those
 DEU 21:6	1	9	ἐγγίζοντες	ἐγγίζω	present active participle, nominative masculine plural	1	near
-DEU 21:6	1	10	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 21:6	1	10	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
 DEU 21:6	1	11	τραυματίᾳ	τραυματίας	noun, dative masculine singular	1	slain man
 DEU 21:6	1	12	νίψονται	νίπτω	future middle indicative, 3rd plural	1	shall wash
 DEU 21:6	1	13	τὰς	ὁ	article, accusative feminine plural	1	the
@@ -142,7 +142,7 @@ DEU 21:6	1	15	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 DEU 21:6	1	16	ἐπὶ	ἐπί	preposition	1	over
 DEU 21:6	1	17	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 21:6	1	18	κεφαλὴν	κεφαλή	noun, accusative feminine singular	1	head
-DEU 21:6	1	19	τῆς	ὁ	definite article, genitive feminine singular	1	the
+DEU 21:6	1	19	τῆς	ὁ	definite article, genitive feminine singular	1	of the
 DEU 21:6	1	20	δαμάλεως	δάμαλις	noun, genitive feminine singular	1	heifer
 DEU 21:6	1	21	τῆς	ὁ	definite article, genitive feminine singular	1	the
 DEU 21:6	1	22	νενευροκοπημένης	νευροκοπέω	perfect passive participle, genitive feminine singular	1	hamstrung
@@ -244,9 +244,9 @@ DEU 21:11	1	2	ἴδῃς	ὁράω	aorist active subjunctive, 2nd singular	1	see
 DEU 21:11	1	3	ἐν	ἐν	preposition with the dative	1	in
 DEU 21:11	1	4	τῇ	ὁ	definite article, dative feminine singular	1	the
 DEU 21:11	1	5	προνομῇ	προνομή	noun, dative feminine singular	1	spoil
-DEU 21:11	1	6	γυναῖκα	γυνή	noun, accusative feminine singular	1	wife
+DEU 21:11	1	6	γυναῖκα	γυνή	noun, accusative feminine singular	1	woman
 DEU 21:11	1	7	καλὴν	καλός	adjective, accusative feminine singular	1	fair
-DEU 21:11	1	8	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 21:11	1	8	τῷ	ὁ	definite article, dative masculine/neuter singular	1	in
 DEU 21:11	1	9	εἴδει	εἶδος	noun, dative neuter singular	1	form
 DEU 21:11	1	10	καὶ	καί	conjunction	1	and
 DEU 21:12	1	1	ἐνθυμηθῇς	ἐνθυμέομαι	aorist passive subjunctive, 2nd singular	1	desire
@@ -334,30 +334,30 @@ DEU 21:14	1	20	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	h
 DEU 21:15	1	1	Ἐὰν	ἐάν	conditional conjunction	1	if
 DEU 21:15	1	2	δὲ	δέ	postpositive conjunction	1	and
 DEU 21:15	1	3	γένωνται	γίνομαι	aorist middle subjunctive, 3rd plural	1	are
-DEU 21:15	1	4	ἀνθρώπῳ	ἄνθρωπος	noun, dative masculine singular	1	a man
+DEU 21:15	1	4	ἀνθρώπῳ	ἄνθρωπος	noun, dative masculine singular	1	to a man
 DEU 21:15	1	5	δύο	δύο	cardinal numeral	1	two
 DEU 21:15	1	6	γυναῖκες	γυνή	noun, nominative feminine plural	1	wives
 DEU 21:15	1	7	μία	εἷς	cardinal numeral, nominative feminine singular	1	one
-DEU 21:15	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+DEU 21:15	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	of them
 DEU 21:15	1	9	ἠγαπημένη	ἀγαπάω	perfect passive participle, nominative feminine singular	1	beloved
 DEU 21:15	1	10	καὶ	καί	conjunction	1	and
 DEU 21:15	1	11	μία	εἷς	cardinal numeral, nominative feminine singular	1	one
-DEU 21:15	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+DEU 21:15	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	of them
 DEU 21:15	1	13	μισουμένη	μισέω	present passive participle, nominative feminine singular	1	hated
 DEU 21:16	1	1	καὶ	καί	conjunction	1	and
 DEU 21:16	1	2	τέκωσιν	τίκτω	aorist active subjunctive, 3rd plural	1	bear
 DEU 21:16	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 DEU 21:16	1	4	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
-DEU 21:16	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
+DEU 21:16	1	5	ἡ	ὁ	article, nominative feminine singular	1	the one
 DEU 21:16	1	6	ἀγαπημένη	ἀγαπάω	present passive participle, nominative feminine singular	1	loved
 DEU 21:16	1	7	καὶ	καί	conjunction	1	and
-DEU 21:16	1	8	ἡ	ὁ	article, nominative feminine singular	1	the
+DEU 21:16	1	8	ἡ	ὁ	article, nominative feminine singular	1	the one
 DEU 21:16	1	9	μισουμένη	μισέω	present passive participle, nominative feminine singular	1	hated
 DEU 21:16	1	10	καὶ	καί	conjunction	1	and
 DEU 21:16	1	11	γένηται	γίνομαι	aorist middle subjunctive, 3rd singular	1	is
 DEU 21:16	1	12	υἱὸς	υἱός	noun, nominative masculine singular	1	a son
 DEU 21:16	1	13	πρωτότοκος	πρωτότοκος	adjective, nominative masculine singular	1	firstborn
-DEU 21:16	1	14	τῆς	ὁ	definite article, genitive feminine singular	1	the
+DEU 21:16	1	14	τῆς	ὁ	definite article, genitive feminine singular	1	of the
 DEU 21:16	1	15	μισουμένης	μισέω	present passive participle, genitive feminine singular	1	hated
 DEU 21:16	1	16	καὶ	καί	conjunction	1	and
 DEU 21:16	1	17	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
@@ -463,9 +463,9 @@ DEU 21:19	1	24	τόπου	τόπος	noun, genitive masculine singular	1	place
 DEU 21:19	1	25	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 21:20	1	1	καὶ	καί	conjunction	1	and
 DEU 21:20	1	2	ἐροῦσι	λέγω	future active indicative, 3rd plural	1	shall say
-DEU 21:20	1	3	τοῖς	ὁ	article, dative neuter plural	1	the
+DEU 21:20	1	3	τοῖς	ὁ	article, dative neuter plural	1	to the
 DEU 21:20	1	4	ἀνδράσι	ἀνήρ	noun, dative masc. pl. after τοῖς possessive	1	men
-DEU 21:20	1	5	τῆς	ὁ	definite article, genitive feminine singular	1	the
+DEU 21:20	1	5	τῆς	ὁ	definite article, genitive feminine singular	1	of the
 DEU 21:20	1	6	πόλεως	πόλις	noun, genitive feminine singular after τῆς	1	city
 DEU 21:20	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 21:20	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -488,7 +488,7 @@ DEU 21:21	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	
 DEU 21:21	1	4	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 DEU 21:21	1	5	οἱ	ὁ	article, nominative masc. pl.	1	the
 DEU 21:21	1	6	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
-DEU 21:21	1	7	τῆς	ὁ	definite article, genitive feminine singular	1	the
+DEU 21:21	1	7	τῆς	ὁ	definite article, genitive feminine singular	1	of the
 DEU 21:21	1	8	πόλεως	πόλις	noun, genitive feminine singular after τῆς	1	city
 DEU 21:21	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 21:21	1	10	ἐν	ἐν	preposition with the dative	1	with
@@ -514,7 +514,7 @@ DEU 21:22	1	4	ἔν	ἐν	preposition with the dative	1	in
 DEU 21:22	1	5	τινι	τις	indefinite pronoun, dative masc. sg. after ἐάν if anyone	1	anyone
 DEU 21:22	1	6	ἁμαρτία	ἁμαρτία	noun, nominative feminine singular	1	sin
 DEU 21:22	1	7	κρίμα	κρίμα	noun, nominative neuter singular	1	judgment
-DEU 21:22	1	8	θανάτου	θάνατος	noun, genitive masculine singular	1	death
+DEU 21:22	1	8	θανάτου	θάνατος	noun, genitive masculine singular	1	of death
 DEU 21:22	1	9	καὶ	καί	conjunction	1	and
 DEU 21:22	1	10	ἀποθάνῃ	ἀποθνῄσκω	aorist active subjunctive, 3rd singular	1	dies
 DEU 21:22	1	11	καὶ	καί	conjunction	1	and

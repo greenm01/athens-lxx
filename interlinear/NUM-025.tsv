@@ -60,16 +60,16 @@ NUM 25:4	1	6	λάβε	λαμβάνω	aorist active imperative, second singular	1
 NUM 25:4	1	7	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 NUM 25:4	1	8	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 25:4	1	9	ἀρχηγοὺς	ἀρχηγός	noun, accusative masculine plural	1	leaders
-NUM 25:4	1	10	τοῦ	ὁ	article, genitive singular	1	the
+NUM 25:4	1	10	τοῦ	ὁ	article, genitive singular	1	of the
 NUM 25:4	1	11	λαοῦ	λαός	noun, genitive masculine singular	1	people
 NUM 25:4	1	12	καὶ	καί	conjunction	1	and
 NUM 25:4	1	13	παραδειγμάτισον	παραδειγματίζω	aorist active imperative, second singular	1	make a public example of
 NUM 25:4	1	14	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 NUM 25:4	1	15	τῷ	ὁ	article, dative masculine singular	1	for
-NUM 25:4	1	16	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
+NUM 25:4	1	16	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 NUM 25:4	1	17	κατέναντι	κατέναντι	preposition with genitive	1	in front of
 NUM 25:4	1	18	τοῦ	ὁ	article, genitive masculine singular	1	the
-NUM 25:4	1	19	ἡλίου	ἥλιος	noun, genitive masc. sg.	1	of the sun
+NUM 25:4	1	19	ἡλίου	ἥλιος	noun, genitive masc. sg.	1	sun
 NUM 25:4	1	20	καὶ	καί	conjunction	1	and
 NUM 25:4	1	21	ἀποστραφήσεται	ἀποστρέφω	future passive indicative, third singular	1	will turn away
 NUM 25:4	1	22	ὀργὴ	ὀργή	noun, nominative feminine singular	1	anger
@@ -117,7 +117,7 @@ NUM 25:6	1	17	καὶ	καί	conjunction	1	and
 NUM 25:6	1	18	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
 NUM 25:6	1	19	πάσης	πᾶς	adjective, genitive feminine singular	1	all the
 NUM 25:6	1	20	συναγωγῆς	συναγωγή	noun, genitive feminine singular	1	congregation
-NUM 25:6	1	21	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+NUM 25:6	1	21	υἱῶν	υἱός	noun, genitive masculine plural	1	of sons
 NUM 25:6	1	22	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 25:6	1	23	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
 NUM 25:6	1	24	δὲ	δέ	postpositive conjunction	1	and
@@ -283,7 +283,7 @@ NUM 25:13	1	24	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive 
 NUM 25:14	1	1	Τὸ	ὁ	article, neuter singular (case from context)	1	the
 NUM 25:14	1	2	δὲ	δέ	postpositive conjunction	1	and
 NUM 25:14	1	3	ὄνομα	ὄνομα	noun, nominative neuter singular in the verbless formula 'the name (was)'	1	name
-NUM 25:14	1	4	τοῦ	ὁ	article, genitive singular	1	the
+NUM 25:14	1	4	τοῦ	ὁ	article, genitive singular	1	of the
 NUM 25:14	1	5	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
 NUM 25:14	1	6	τοῦ	ὁ	article, genitive singular	1	the
 NUM 25:14	1	7	Ἰσραηλίτου	Ἰσραηλίτης	noun, genitive masculine singular	1	Israelite
@@ -294,8 +294,8 @@ NUM 25:14	1	11	ἐπλήγη	πλήσσω	aorist passive indicative, third singu
 NUM 25:14	1	12	μετὰ	μετά	preposition with genitive	1	with
 NUM 25:14	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 25:14	1	14	Μαδιανίτιδος	Μαδιανῖτις	noun, genitive feminine singular	1	Midianite woman
-NUM 25:14	1	15	Σαμβρὶ	Σαμβρί	indeclinable personal name, nominative in context	1	Sambri
-NUM 25:14	1	15	Σαμβρὶ			2	Zimri
+NUM 25:14	1	15	Σαμβρὶ	Σαμβρί	indeclinable personal name, nominative in context	1	Zimri
+NUM 25:14	1	15	Σαμβρὶ			2	Sambri
 NUM 25:14	1	16	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 NUM 25:14	1	17	Σαλὼ	Σαλώ	indeclinable personal name, genitive in context	1	of Salu
 NUM 25:14	1	17	Σαλὼ			2	of Salo
@@ -314,8 +314,8 @@ NUM 25:15	1	7	τῇ	ὁ	article, dative feminine singular	1	—
 NUM 25:15	1	8	πεπληγυίᾳ	πλήσσω	perfect active participle, dative feminine singular	1	who had been struck
 NUM 25:15	1	9	Χασβὶ	Χασβί	indeclinable place name, dative in context	1	Cozbi
 NUM 25:15	1	10	θυγάτηρ	θυγάτηρ	noun, nominative feminine singular	1	daughter
-NUM 25:15	1	11	Σοὺρ	Σούρ	indeclinable personal name, accusative in context	1	Zur
-NUM 25:15	1	12	ἄρχοντος	ἄρχων	noun, genitive masculine singular	1	leader
+NUM 25:15	1	11	Σοὺρ	Σούρ	indeclinable personal name, accusative in context	1	of Zur
+NUM 25:15	1	12	ἄρχοντος	ἄρχων	noun, genitive masculine singular	1	of a leader
 NUM 25:15	1	13	ἔθνους	ἔθνος	noun, genitive neuter singular	1	of a people
 NUM 25:15	1	14	Ὀμμὼθ	Ὀμμώθ	indeclinable proper name, genitive in context	1	Ommoth
 NUM 25:15	1	15	οἴκου	οἶκος	noun, genitive masculine singular	1	house
@@ -345,7 +345,7 @@ NUM 25:18	1	1	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 NUM 25:18	1	2	ἐχθραίνουσιν	ἐχθραίνω	present active indicative, third plural	1	are hostile to
 NUM 25:18	1	3	αὐτοὶ	αὐτός	pronoun, nominative masculine plural, emphatic	1	they themselves
 NUM 25:18	1	3	αὐτοὶ			2	they
-NUM 25:18	1	4	ὑμῖν	σύ	pronoun, dative second plural	1	to you
+NUM 25:18	1	4	ὑμῖν	σύ	pronoun, dative second plural	1	you
 NUM 25:18	1	5	ἐν	ἐν	preposition with the dative	1	with
 NUM 25:18	1	6	δολιότητι	δολιότης	noun, dative feminine singular	1	deceit
 NUM 25:18	1	7	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -370,7 +370,7 @@ NUM 25:18	1	23	πεπληγυῖαν	πλήσσω	perfect active participle, acc
 NUM 25:18	1	24	ἐν	ἐν	preposition with the dative	1	in
 NUM 25:18	1	25	τῇ	ὁ	article, dative feminine singular	1	the
 NUM 25:18	1	26	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular after τῇ	1	day
-NUM 25:18	1	27	τῆς	ὁ	article, genitive feminine singular	1	the
+NUM 25:18	1	27	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 25:18	1	28	πληγῆς	πληγή	noun, genitive feminine singular	1	plague
 NUM 25:18	1	29	διὰ	ἐπί	preposition governing the genitive	1	because of
 NUM 25:18	1	30	Φογώρ	Φογώρ	indeclinable place name, nominative in context	1	Phogor

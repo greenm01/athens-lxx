@@ -93,7 +93,7 @@ DEU 28:4	1	11	γῆς	γῆ	noun, genitive feminine singular	1	land
 DEU 28:4	1	12	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 28:4	1	13	καὶ	καί	conjunction	1	and
 DEU 28:4	1	14	ἔκγονα	ἔκγονα	noun, nominative neuter plural	1	offspring
-DEU 28:4	1	15	τῶν	ὁ	definite article, genitive plural	1	the
+DEU 28:4	1	15	τῶν	ὁ	definite article, genitive plural	1	of the
 DEU 28:4	1	16	κτηνῶν	κτῆνος	noun, genitive neuter plural after τῶν	1	livestock
 DEU 28:4	1	17	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 28:4	1	18	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
@@ -136,7 +136,7 @@ DEU 28:7	1	5	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 28:7	1	6	τοὺς	ὁ	article, accusative masculine plural	1	the
 DEU 28:7	1	7	ἐχθρούς	ἐχθρός	noun, accusative masculine plural	1	enemies
 DEU 28:7	1	8	σου	σύ	pronoun, genitive 2nd singular	1	your
-DEU 28:7	1	9	τοὺς	ὁ	article, accusative masculine plural	1	the
+DEU 28:7	1	9	τοὺς	ὁ	article, accusative masculine plural	1	—
 DEU 28:7	1	10	ἀνθεστηκότας	ἀνθίσταμαι	perfect active participle, accusative masculine plural	1	withstanding
 DEU 28:7	1	11	σοι	σύ	pronoun, dative 2nd singular	1	to you
 DEU 28:7	1	12	συντετριμμένους	συντρίβω	perfect passive participle, accusative masculine plural	1	defeated
@@ -479,13 +479,13 @@ DEU 28:20	1	11	ἀνάλωσιν	ἀνάλωσις	noun, accusative feminine sin
 DEU 28:20	1	12	ἐπὶ	ἐπί	preposition	1	on
 DEU 28:20	1	13	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 DEU 28:20	1	14	οὗ	ὅς	relative pronoun, genitive neuter singular	1	that
-DEU 28:20	1	15	ἐὰν	ἐάν	conditional conjunction	1	if
+DEU 28:20	1	15	ἐὰν	ἐάν	conditional conjunction	1	ever
 DEU 28:20	1	16	ἐπιβάλῃς	ἐπιβάλλω	aorist active subjunctive, 2nd singular	1	put
 DEU 28:20	1	17	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 28:20	1	18	χεῖρά	χείρ	noun, accusative feminine singular	1	hand
 DEU 28:20	1	19	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 28:20	1	20	ὅσα	ὅσος	relative pronoun, accusative neuter plural	1	what
-DEU 28:20	1	21	ἐὰν	ἐάν	conditional conjunction	1	if
+DEU 28:20	1	21	ἐὰν	ἐάν	conditional conjunction	1	ever
 DEU 28:20	1	22	ποιήσῃς	ποιέω	aorist active subjunctive, 2nd singular	1	do
 DEU 28:20	1	23	ἕως	ἕως	preposition with the genitive	1	until
 DEU 28:20	1	24	ἂν	ἄν	modal particle with the subjunctive	1	ever
@@ -569,7 +569,7 @@ DEU 28:24	1	1	δῴη	δίδωμι	aorist active optative, 3rd singular	1	may gi
 DEU 28:24	1	2	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 28:24	1	3	τὸν	ὁ	definite article, accusative masculine singular	1	the
 DEU 28:24	1	4	ὑετὸν	ὑετός	noun, accusative masculine singular	1	rain
-DEU 28:24	1	5	τῇ	ὁ	definite article, dative feminine singular	1	the
+DEU 28:24	1	5	τῇ	ὁ	definite article, dative feminine singular	1	to the
 DEU 28:24	1	6	γῇ	γῆ	noun, dative feminine singular	1	land
 DEU 28:24	1	7	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 28:24	1	8	κονιορτὸν	κονιορτός	noun, accusative masculine singular	1	dust
@@ -620,7 +620,7 @@ DEU 28:25	1	27	ἐν	ἐν	preposition with the dative	1	in
 DEU 28:25	1	28	πάσαις	πᾶς	adjective, dative feminine plural	1	all
 DEU 28:25	1	29	ταῖς	ὁ	definite article, dative feminine plural	1	the
 DEU 28:25	1	30	βασιλείαις	βασιλεία	noun, dative feminine plural	1	kingdoms
-DEU 28:25	1	31	τῆ	ὁ	definite article, dative feminine singular	1	the
+DEU 28:25	1	31	τῆ	ὁ	definite article, dative feminine singular	1	of the
 DEU 28:25	1	32	ςγῆς	γῆ	noun, genitive feminine singular	1	earth
 DEU 28:26	1	1	καὶ	καί	conjunction	1	and
 DEU 28:26	1	2	ἔσονται	εἰμί	future indicative, 3rd pl.	1	shall be
@@ -628,20 +628,20 @@ DEU 28:26	1	3	οἱ	ὁ	article, nominative masc. pl.	1	the
 DEU 28:26	1	4	νεκροὶ	νεκρός	adjective, nominative masculine plural	1	dead
 DEU 28:26	1	5	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 28:26	1	6	κατάβρωμα	κατάβρωμα	noun, nominative neuter singular	1	food
-DEU 28:26	1	7	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
+DEU 28:26	1	7	πᾶσι	πᾶς	adjective, dative neuter plural	1	to all
 DEU 28:26	1	8	τοῖς	ὁ	article, dative neuter plural	1	the
 DEU 28:26	1	9	πετεινοῖς	πετεινόν	noun, dative neuter plural	1	birds
 DEU 28:26	1	10	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	of the
 DEU 28:26	1	11	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
 DEU 28:26	1	12	καὶ	καί	conjunction	1	and
-DEU 28:26	1	13	τοῖς	ὁ	article, dative neuter plural	1	the
+DEU 28:26	1	13	τοῖς	ὁ	article, dative neuter plural	1	to the
 DEU 28:26	1	14	θηρίοις	θηρίον	noun, dative neuter plural	1	wild animals
 DEU 28:26	1	15	τῆς	ὁ	definite article, genitive feminine singular	1	the
 DEU 28:26	1	16	γῆς	γῆ	noun, genitive feminine singular	1	earth
 DEU 28:26	1	17	καὶ	καί	conjunction	1	and
 DEU 28:26	1	18	οὐκ	οὐ	negative particle	1	not
 DEU 28:26	1	19	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
-DEU 28:26	1	20	ὁ	ὁ	article, nominative masculine singular	1	the
+DEU 28:26	1	20	ὁ	ὁ	article, nominative masculine singular	1	the one
 DEU 28:26	1	21	ἀποσοβῶν	ἀποσοβέω	present active participle, nominative masculine singular	1	scaring away
 DEU 28:27	1	1	Πατάξαι	πατάσσω	aorist active optative, 3rd singular	1	may strike
 DEU 28:27	1	2	σε	σύ	pronoun, accusative 2nd singular	1	you
@@ -702,7 +702,7 @@ DEU 28:29	1	27	καὶ	καί	conjunction	1	and
 DEU 28:29	1	28	οὐκ	οὐ	negative particle	1	not
 DEU 28:29	1	29	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
 DEU 28:29	1	30	σοι	σύ	pronoun, dative 2nd singular	1	to you
-DEU 28:29	1	31	ὁ	ὁ	article, nominative masculine singular	1	the
+DEU 28:29	1	31	ὁ	ὁ	article, nominative masculine singular	1	the one
 DEU 28:29	1	32	βοηθῶν	βοηθέω	present active participle, nominative masculine singular	1	helping
 DEU 28:30	1	1	Γυναῖκα	γυνή	noun, accusative feminine singular	1	wife
 DEU 28:30	1	2	λήψῃ	λαμβάνω	future middle indicative, 2nd singular	1	shall take
@@ -751,14 +751,14 @@ DEU 28:31	1	23	τὰ	ὁ	definite article, nominative/accusative neuter plural	1
 DEU 28:31	1	24	πρόβατά	πρόβατον	noun, nominative neuter plural after τὰ	1	sheep
 DEU 28:31	1	25	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 28:31	1	26	δεδομένα	δίδωμι	perfect passive participle, nominative neuter plural	1	given
-DEU 28:31	1	27	τοῖς	ὁ	article, dative neuter plural	1	the
+DEU 28:31	1	27	τοῖς	ὁ	article, dative neuter plural	1	to the
 DEU 28:31	1	28	ἐχθροῖς	ἐχθρός	noun, dative masc. pl. after τοῖς	1	enemies
 DEU 28:31	1	29	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 28:31	1	30	καὶ	καί	conjunction	1	and
 DEU 28:31	1	31	οὐκ	οὐ	negative particle	1	not
 DEU 28:31	1	32	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
 DEU 28:31	1	33	σοι	σύ	pronoun, dative 2nd singular	1	to you
-DEU 28:31	1	34	ὁ	ὁ	article, nominative masculine singular	1	the
+DEU 28:31	1	34	ὁ	ὁ	article, nominative masculine singular	1	the one
 DEU 28:31	1	35	βοηθῶν	βοηθέω	present active participle, nominative masculine singular	1	helping
 DEU 28:32	1	1	Οἱ	ὁ	article, nominative masc. pl.	1	the
 DEU 28:32	1	2	υἱοί	υἱός	noun, nominative masculine plural after οἱ	1	sons
@@ -1038,8 +1038,8 @@ DEU 28:45	1	29	Κυρίου	κύριος	noun, genitive masculine singular	1	of 
 DEU 28:45	1	30	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
 DEU 28:45	1	31	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 28:45	1	32	σου	σύ	pronoun, genitive 2nd singular	1	your
-DEU 28:45	1	33	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-DEU 28:45	1	34	φυλάσσεσθαί	φυλάσσομαι	present middle infinitive in the articular infinitive	1	keep
+DEU 28:45	1	33	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	—
+DEU 28:45	1	34	φυλάσσεσθαί	φυλάσσομαι	present middle infinitive in the articular infinitive	1	to keep
 DEU 28:45	1	35	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 28:45	1	36	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 DEU 28:45	1	37	τὰς	ὁ	article, accusative feminine plural	1	the
@@ -1089,7 +1089,7 @@ DEU 28:48	1	2	λατρεύσεις	λατρεύω	future active indicative, 2nd 
 DEU 28:48	1	3	τοῖς	ὁ	article, dative neuter plural	1	the
 DEU 28:48	1	4	ἐχθροῖς	ἐχθρός	noun, dative masc. pl. after τοῖς	1	enemies
 DEU 28:48	1	5	σου	σύ	pronoun, genitive 2nd singular	1	your
-DEU 28:48	1	6	οἷς	ὅς	relative pronoun, dative masculine plural	1	whose
+DEU 28:48	1	6	οἷς	ὅς	relative pronoun, dative masculine plural	1	whom
 DEU 28:48	1	7	ἐπαποστελεῖ	ἐπαποστέλλω	future active indicative, 3rd singular	1	shall send upon
 DEU 28:48	1	8	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 DEU 28:48	1	9	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -1146,7 +1146,7 @@ DEU 28:50	1	4	ὅστις	ὅστις	relative pronoun, nominative masculine sin
 DEU 28:50	1	5	οὐ	οὐ	negative adverb with future indicative	1	not
 DEU 28:50	1	6	θαυμάσει	θαυμάζω	future active indicative, 3rd singular	1	shall regard
 DEU 28:50	1	7	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	person
-DEU 28:50	1	8	πρεσβυτέρου	πρεσβύτερος	adjective, genitive masculine singular	1	old man
+DEU 28:50	1	8	πρεσβυτέρου	πρεσβύτερος	adjective, genitive masculine singular	1	of an old man
 DEU 28:50	1	9	καὶ	καί	conjunction	1	and
 DEU 28:50	1	10	νέον	νέος	adjective, accusative masculine singular	1	young man
 DEU 28:50	1	11	οὐκ	οὐ	negative particle	1	not
@@ -1398,7 +1398,7 @@ DEU 28:57	1	1	καὶ	καί	conjunction	1	and
 DEU 28:57	1	2	τὸ	ὁ	article, accusative neuter singular	1	the
 DEU 28:57	1	3	χόριον	χόριον	noun, accusative neuter singular	1	afterbirth
 DEU 28:57	1	4	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
-DEU 28:57	1	5	τὸ	ὁ	article, accusative neuter singular	1	the
+DEU 28:57	1	5	τὸ	ὁ	article, accusative neuter singular	1	—
 DEU 28:57	1	6	ἐξελθὸν	ἐξέρχομαι	aorist active participle, accusative neuter singular	1	coming out
 DEU 28:57	1	7	διὰ	διά	preposition with the genitive	1	through
 DEU 28:57	1	8	τῶν	ὁ	definite article, genitive plural	1	the
@@ -1409,7 +1409,7 @@ DEU 28:57	1	12	τὸ	ὁ	article, accusative neuter singular	1	the
 DEU 28:57	1	13	τέκνον	τέκνον	noun, accusative neuter singular	1	child
 DEU 28:57	1	14	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 DEU 28:57	1	15	ὃ	ὅς	relative pronoun, accusative neuter singular	1	which
-DEU 28:57	1	16	ἐὰν	ἐάν	conditional conjunction	1	if
+DEU 28:57	1	16	ἐὰν	ἐάν	conditional conjunction	1	ever
 DEU 28:57	1	17	τέκῃ	τίκτω	aorist active subjunctive, 3rd singular	1	bears
 DEU 28:57	1	18	καταφάγεται	κατεσθίω	future middle indicative, 3rd singular	1	shall eat up
 DEU 28:57	1	19	γὰρ	γάρ	postpositive conjunction	1	for
@@ -1518,7 +1518,7 @@ DEU 28:61	1	8	μὴ	μή	negative particle	1	not
 DEU 28:61	1	9	γεγραμμένην	γράφω	perfect passive participle, accusative feminine singular	1	written
 DEU 28:61	1	10	καὶ	καί	conjunction	1	and
 DEU 28:61	1	11	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	every
-DEU 28:61	1	12	τὴν	ὁ	article, accusative fem. sg.	1	the
+DEU 28:61	1	12	τὴν	ὁ	article, accusative fem. sg.	1	—
 DEU 28:61	1	13	γεγραμμένην	γράφω	perfect passive participle, accusative feminine singular	1	written
 DEU 28:61	1	14	ἐν	ἐν	preposition with the dative	1	in
 DEU 28:61	1	15	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
@@ -1548,7 +1548,7 @@ DEU 28:62	1	11	τὰ	ὁ	definite article, nominative/accusative neuter plural	1
 DEU 28:62	1	12	ἄστρα	ἄστρον	noun, accusative neuter plural	1	stars
 DEU 28:62	1	13	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	of the
 DEU 28:62	1	14	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
-DEU 28:62	1	15	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 28:62	1	15	τῷ	ὁ	definite article, dative masculine/neuter singular	1	in the
 DEU 28:62	1	16	πλήθει	πλῆθος	noun, dative neuter singular	1	multitude
 DEU 28:62	1	17	ὅτι	ὅτι	causal conjunction	1	because
 DEU 28:62	1	18	οὐκ	οὐ	negative particle	1	not
@@ -1563,7 +1563,7 @@ DEU 28:63	1	1	Καὶ	καί	conjunction	1	and
 DEU 28:63	1	2	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
 DEU 28:63	1	3	ὃν	ὅς	relative pronoun, accusative masculine singular	1	in which
 DEU 28:63	1	4	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
-DEU 28:63	1	5	ηὐφράνθη	εὐφραίνομαι	aorist passive indicative, 3rd singular	1	enjoyed
+DEU 28:63	1	5	ηὐφράνθη	εὐφραίνομαι	aorist passive indicative, 3rd singular	1	rejoiced
 DEU 28:63	1	6	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 28:63	1	7	ἐφ᾽	ἐπί	preposition ἐπί, elided	1	upon
 DEU 28:63	1	8	ὑμῖν	σύ	pronoun, dative 2nd plural	1	you
@@ -1581,7 +1581,7 @@ DEU 28:63	1	19	ὑμῖν	σύ	pronoun, dative 2nd plural	1	you
 DEU 28:63	1	20	ἐξολοθρεῦσαι	ἐξολοθρεύω	aorist active infinitive	1	to destroy
 DEU 28:63	1	21	ὑμᾶς	σύ	pronoun, accusative 2nd plural	1	you
 DEU 28:63	1	22	καὶ	καί	conjunction	1	and
-DEU 28:63	1	23	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
+DEU 28:63	1	23	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	—
 DEU 28:63	1	24	ἐκτρίψαι	ἐκτρίβω	aorist active infinitive	1	to destroy
 DEU 28:63	1	25	ὑμᾶς	σύ	pronoun, accusative 2nd plural	1	you
 DEU 28:63	1	26	καὶ	καί	conjunction	1	and
@@ -1731,14 +1731,14 @@ DEU 28:68	1	13	ᾗ	ὅς	relative pronoun, dative feminine singular	1	which
 DEU 28:68	1	14	εἶπά	λέγω	aorist active indicative, 1st singular	1	said
 DEU 28:68	1	15	σοι	σύ	pronoun, dative 2nd singular	1	to you
 DEU 28:68	1	16	οὐ	οὐ	negative adverb with future indicative	1	not
-DEU 28:68	1	17	προσθήσεσθε	προστίθημι	future middle indicative, 2nd plural	1	shall do again
+DEU 28:68	1	17	προσθήσεσθε	προστίθημι	future middle indicative, 2nd plural	1	shall add
 DEU 28:68	1	18	ἔτι	ἔτι	adverb	1	again
 DEU 28:68	1	19	ἰδεῖν	ὁράω	aorist active infinitive	1	to see
 DEU 28:68	1	20	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	it
 DEU 28:68	1	21	καὶ	καί	conjunction	1	and
 DEU 28:68	1	22	πραθήσεσθε	πιπράσκω	future passive indicative, 2nd plural	1	shall be sold
 DEU 28:68	1	23	ἐκεῖ	ἐκεῖ	adverb	1	there
-DEU 28:68	1	24	τοῖς	ὁ	article, dative neuter plural	1	the
+DEU 28:68	1	24	τοῖς	ὁ	article, dative neuter plural	1	to the
 DEU 28:68	1	25	ἐχθροῖς	ἐχθρός	noun, dative masc. pl. after τοῖς	1	enemies
 DEU 28:68	1	26	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 28:68	1	27	εἰς	εἰς	preposition with the accusative	1	as
@@ -1749,5 +1749,5 @@ DEU 28:68	1	31	παιδίσκας	παιδίσκη	noun, accusative feminine plu
 DEU 28:68	1	32	καὶ	καί	conjunction	1	and
 DEU 28:68	1	33	οὐκ	οὐ	negative particle	1	not
 DEU 28:68	1	34	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
-DEU 28:68	1	35	ὁ	ὁ	article, nominative masculine singular	1	the
+DEU 28:68	1	35	ὁ	ὁ	article, nominative masculine singular	1	the one
 DEU 28:68	1	36	κτώμενος	κτάομαι	present middle participle, nominative masculine singular	1	buying

@@ -3,11 +3,11 @@ NUM 32:1	1	1	ΚΑΙ	καί	conjunction	1	and
 NUM 32:1	1	2	κτήνη	κτῆνος	noun, accusative neuter plural	1	livestock
 NUM 32:1	1	3	πλῆθος	πλῆθος	noun, nominative neuter singular	1	multitude
 NUM 32:1	1	4	ἦν	εἰμί	imperfect indicative, third singular	1	was
-NUM 32:1	1	5	τοῖς	ὁ	article, dative masculine plural	1	the
+NUM 32:1	1	5	τοῖς	ὁ	article, dative masculine plural	1	to the
 NUM 32:1	1	6	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 NUM 32:1	1	7	Ῥουβὴν	Ῥουβήν	indeclinable personal name, genitive in context	1	of Reuben
 NUM 32:1	1	8	καὶ	καί	conjunction	1	and
-NUM 32:1	1	9	τοῖς	ὁ	article, dative neuter plural	1	the
+NUM 32:1	1	9	τοῖς	ὁ	article, dative neuter plural	1	to the
 NUM 32:1	1	10	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 NUM 32:1	1	11	Γὰδ	Γάδ	indeclinable personal name, genitive in context	1	of Gad
 NUM 32:1	1	12	πλῆθος	πλῆθος	noun, accusative neuter singular after εἰς predicate	1	a multitude
@@ -29,7 +29,7 @@ NUM 32:1	1	25	ἦν	εἰμί	imperfect indicative, third singular	1	was
 NUM 32:1	1	26	ὁ	ὁ	article, nominative masculine singular	1	the
 NUM 32:1	1	27	τόπος	τόπος	noun, nominative masculine singular	1	place
 NUM 32:1	1	28	τόπος	τόπος	noun, nominative masculine singular	1	place
-NUM 32:1	1	29	κτήνεσι	κτῆνος	noun, dative neuter plural after τοῖς	1	livestock
+NUM 32:1	1	29	κτήνεσι	κτῆνος	noun, dative neuter plural after τοῖς	1	for livestock
 NUM 32:2	1	1	Καὶ	καί	conjunction	1	and
 NUM 32:2	1	2	προσελθόντες	προσέρχομαι	aorist active participle, nominative masculine plural	1	having approached
 NUM 32:2	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -63,7 +63,7 @@ NUM 32:3	1	3	Δαιβὼν	Δαιβών	indeclinable place name, case from synta
 NUM 32:3	1	4	καὶ	καί	conjunction	1	and
 NUM 32:3	1	5	Ἰαζὴρ	Ἰαζήρ	indeclinable place name, case from syntax	1	Jazer
 NUM 32:3	1	6	καὶ	καί	conjunction	1	and
-NUM 32:3	1	7	Ναμρὰ	Ναμρά	indeclinable place name, case from syntax	1	Namra
+NUM 32:3	1	7	Ναμρὰ	Ναμρά	indeclinable place name, case from syntax	1	Nimrah
 NUM 32:3	1	8	καὶ	καί	conjunction	1	and
 NUM 32:3	1	9	Ἐσεβὼν	Ἐσεβών	indeclinable place name, case from syntax	1	Heshbon
 NUM 32:3	1	10	καὶ	καί	conjunction	1	and
@@ -88,7 +88,7 @@ NUM 32:4	1	9	κτηνοτρόφος	κτηνοτρόφος	adjective, nominative
 NUM 32:4	1	10	γῆ	γῆ	noun, nominative feminine singular	1	land
 NUM 32:4	1	11	ἐστὶ	εἰμί	present indicative, third singular	1	is
 NUM 32:4	1	12	καὶ	καί	conjunction	1	and
-NUM 32:4	1	13	τοῖς	ὁ	article, dative neuter plural	1	the
+NUM 32:4	1	13	τοῖς	ὁ	article, dative neuter plural	1	to the
 NUM 32:4	1	14	παισί	παῖς	noun, dative masculine plural after τοῖς	1	servants
 NUM 32:4	1	15	σου	σύ	pronoun, possessive genitive second singular	1	your
 NUM 32:4	1	16	κτήνη	κτῆνος	noun, nominative neuter plural	1	livestock
@@ -135,7 +135,7 @@ NUM 32:6	1	16	πόλεμον	πόλεμος	noun, accusative masculine singular	
 NUM 32:6	1	16	πόλεμον			2	battle
 NUM 32:6	1	17	καὶ	καί	conjunction	1	and
 NUM 32:6	1	18	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
-NUM 32:6	1	19	καθήσεσθε	κάθημαι	future middle indicative, 2nd pl., 'sit/remain	1	remain
+NUM 32:6	1	19	καθήσεσθε	κάθημαι	future middle indicative, 2nd pl., 'sit/remain	1	will remain
 NUM 32:6	1	20	αὐτοῦ	αὐτός	adverb	1	here
 NUM 32:7	1	1	καὶ	καί	conjunction	1	and
 NUM 32:7	1	2	ἱνατί	ἱνατί	interrogative adverb, ἵνα τί written as one word	1	why
@@ -186,7 +186,7 @@ NUM 32:9	1	10	καὶ	καί	conjunction	1	and
 NUM 32:9	1	11	ἀπέστησαν	ἀφίστημι	aorist active indicative, third plural	1	they turned away
 NUM 32:9	1	12	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 32:9	1	13	καρδίαν	καρδία	noun, accusative feminine singular after εἰς τὴν	1	heart
-NUM 32:9	1	14	τῶν	ὁ	article, genitive masculine plural	1	the
+NUM 32:9	1	14	τῶν	ὁ	article, genitive masculine plural	1	of the
 NUM 32:9	1	15	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 32:9	1	16	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 32:9	1	17	ὅπως	ὅπως	conjunction of purpose with the subjunctive	1	so that
@@ -217,7 +217,7 @@ NUM 32:11	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 NUM 32:11	1	4	ἄνθρωποι	ἄνθρωπος	noun, nominative masculine plural	1	men
 NUM 32:11	1	4	ἄνθρωποι			2	people
 NUM 32:11	1	5	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
-NUM 32:11	1	6	οἱ	ὁ	article, nominative masculine plural	1	the
+NUM 32:11	1	6	οἱ	ὁ	article, nominative masculine plural	1	—
 NUM 32:11	1	7	ἀναβάντες	ἀναβαίνω	aorist active participle, nominative masculine plural	1	having come up
 NUM 32:11	1	8	ἐξ	ἐκ	preposition with the genitive	1	from
 NUM 32:11	1	9	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
@@ -226,7 +226,7 @@ NUM 32:11	1	11	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitiv
 NUM 32:11	1	12	καὶ	καί	conjunction	1	and
 NUM 32:11	1	13	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 32:11	1	13	ἐπάνω			2	above
-NUM 32:11	1	14	οἱ	ὁ	article, nominative masculine plural	1	the
+NUM 32:11	1	14	οἱ	ὁ	article, nominative masculine plural	1	those
 NUM 32:11	1	15	ἐπιστάμενοι	ἐπίσταμαι	present middle/passive participle, nominative masculine plural	1	knowing
 NUM 32:11	1	16	τὸ	ὁ	article, accusative neuter singular	1	the
 NUM 32:11	1	17	ἀγαθὸν	ἀγαθός	substantival adjective, accusative neuter singular	1	good
@@ -252,7 +252,7 @@ NUM 32:12	1	1	πλὴν	πλήν	preposition/adverb with the genitive	1	except
 NUM 32:12	1	2	Χάλεβ	Χάλεβ	indeclinable personal name, nominative in context	1	Caleb
 NUM 32:12	1	3	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 NUM 32:12	1	4	Ἰεφοννὴ	Ἰεφοννή	indeclinable personal name, genitive in context	1	of Jephunneh
-NUM 32:12	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
+NUM 32:12	1	5	ὁ	ὁ	article, nominative masculine singular	1	—
 NUM 32:12	1	6	διακεχωρισμένος	διαχωρίζω	perfect middle/passive participle, nominative masculine singular	1	set apart
 NUM 32:12	1	7	καὶ	καί	conjunction	1	and
 NUM 32:12	1	8	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua
@@ -271,7 +271,7 @@ NUM 32:13	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	th
 NUM 32:13	1	5	ἐπὶ	ἐπί	preposition with accusative	1	against
 NUM 32:13	1	5	ἐπὶ			2	concerning
 NUM 32:13	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
-NUM 32:13	1	7	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
+NUM 32:13	1	7	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 NUM 32:13	1	8	καὶ	καί	conjunction	1	and
 NUM 32:13	1	9	κατερέμβευσεν	κατερεμβεύω	aorist active indicative, third singular	1	made wander
 NUM 32:13	1	10	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -287,7 +287,7 @@ NUM 32:13	1	18	ἐξαναλωθῇ	ἐξαναλίσκω	aorist passive subjunc
 NUM 32:13	1	19	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
 NUM 32:13	1	20	ἡ	ὁ	article, nominative feminine singular	1	the
 NUM 32:13	1	21	γενεὰ	γενεά	noun, nominative feminine singular	1	generation
-NUM 32:13	1	22	οἱ	ὁ	article, nominative masculine plural	1	the
+NUM 32:13	1	22	οἱ	ὁ	article, nominative masculine plural	1	those
 NUM 32:13	1	23	ποιοῦντες	ποιέω	present active participle, nominative masculine plural	1	doing
 NUM 32:13	1	24	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 32:13	1	25	πονηρὰ	πονηρός	adjective, accusative neuter plural	1	evil things
@@ -298,7 +298,7 @@ NUM 32:14	1	1	Ἰδοὺ	ἰδού	interjection	1	look
 NUM 32:14	1	2	ἀνέστητε	ἀνίστημι	aorist active indicative, second plural	1	you rose up
 NUM 32:14	1	3	ἀντὶ	ἀντί	preposition with genitive	1	in place of
 NUM 32:14	1	4	τῶν	ὁ	article, genitive plural	1	the
-NUM 32:14	1	5	πατέρων	πατήρ	noun, genitive masculine plural	1	of the fathers
+NUM 32:14	1	5	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers
 NUM 32:14	1	6	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 NUM 32:14	1	7	σύστρεμμα	σύστρεμμα	noun, nominative neuter singular	1	a band
 NUM 32:14	1	8	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	of men
@@ -309,7 +309,7 @@ NUM 32:14	1	10	προσθεῖναι	προστίθημι	aorist active infiniti
 NUM 32:14	1	11	ἔτι	ἔτι	temporal adverb	1	still
 NUM 32:14	1	12	ἐπὶ	ἐπί	preposition (case from context)	1	to
 NUM 32:14	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
-NUM 32:14	1	14	θυμὸν	θυμός	noun, accusative masculine singular	1	anger
+NUM 32:14	1	14	θυμὸν	θυμός	noun, accusative masculine singular	1	fury
 NUM 32:14	1	14	θυμὸν			2	rage
 NUM 32:14	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 32:14	1	16	ὀργῆς	ὀργή	noun, genitive feminine singular	1	anger
@@ -341,15 +341,15 @@ NUM 32:16	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 NUM 32:16	1	4	καὶ	καί	conjunction	1	and
 NUM 32:16	1	5	ἔλεγον	λέγω	imperfect active indicative, third person plural	1	they were saying
 NUM 32:16	1	6	ἐπαύλεις	ἔπαυλις	noun, accusative feminine plural	1	folds
-NUM 32:16	1	7	προβάτων	πρόβατον	noun, genitive neuter plural	1	sheep
+NUM 32:16	1	7	προβάτων	πρόβατον	noun, genitive neuter plural	1	of sheep
 NUM 32:16	1	8	οἰκοδομήσωμεν	οἰκοδομέω	aorist active subjunctive, first plural, exhortation	1	let us build
 NUM 32:16	1	9	ὧδε	ὧδε	adverb of place	1	here
-NUM 32:16	1	10	τοῖς	ὁ	article, dative neuter plural	1	the
+NUM 32:16	1	10	τοῖς	ὁ	article, dative neuter plural	1	for the
 NUM 32:16	1	11	κτήνεσιν	κτῆνος	noun, dative neuter plural	1	livestock
 NUM 32:16	1	12	ἡμῶν	ἐγώ	personal pronoun, genitive plural	1	our
 NUM 32:16	1	13	καὶ	καί	conjunction	1	and
 NUM 32:16	1	14	πόλεις	πόλις	noun, accusative feminine plural	1	cities
-NUM 32:16	1	15	ταῖς	ὁ	article, dative feminine plural	1	the
+NUM 32:16	1	15	ταῖς	ὁ	article, dative feminine plural	1	for the
 NUM 32:16	1	16	κατασκευαῖς	κατασκευή	noun, dative feminine plural	1	equipment
 NUM 32:16	1	17	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 NUM 32:17	1	1	καὶ	καί	conjunction	1	and
@@ -370,7 +370,7 @@ NUM 32:17	1	15	ἑαυτῶν	ἑαυτοῦ	reflexive pronoun, possessive genit
 NUM 32:17	1	15	ἑαυτῶν			2	of ourselves
 NUM 32:17	1	16	τόπον	τόπος	noun, accusative masculine singular	1	place
 NUM 32:17	1	17	καὶ	καί	conjunction	1	and
-NUM 32:17	1	18	κατοικήσει	κατοικέω	future active indicative, third singular	1	he will dwell
+NUM 32:17	1	18	κατοικήσει	κατοικέω	future active indicative, third singular	1	will dwell
 NUM 32:17	1	19	ἡ	ὁ	article, nominative feminine singular	1	the
 NUM 32:17	1	20	ἀποσκευὴ	ἀποσκευή	noun, nominative feminine singular	1	dependents
 NUM 32:17	1	21	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
@@ -378,8 +378,8 @@ NUM 32:17	1	22	ἐν	ἐν	preposition with the dative	1	in
 NUM 32:17	1	23	πόλεσι	πόλις	noun, dative feminine plural after ταῖς	1	cities
 NUM 32:17	1	24	τετειχισμέναις	τειχίζω	perfect middle/passive participle, dative feminine plural	1	walled
 NUM 32:17	1	25	διὰ	διά	preposition with the accusative	1	because of
-NUM 32:17	1	26	τοὺς	ὁ	article, accusative masculine plural	1	the
-NUM 32:17	1	27	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	inhabitants
+NUM 32:17	1	26	τοὺς	ὁ	article, accusative masculine plural	1	those
+NUM 32:17	1	27	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	who live in
 NUM 32:17	1	28	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 32:17	1	29	γῆν	γῆ	noun, accusative feminine singular	1	land
 NUM 32:18	1	1	Οὐ	οὐ	negative particle in the emphatic negation οὐ μή	1	not
@@ -409,7 +409,7 @@ NUM 32:19	1	5	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 NUM 32:19	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 32:19	1	7	τοῦ	ὁ	article, genitive singular	1	the
 NUM 32:19	1	8	πέραν	πέραν	adverb/preposition with genitive τοῦ Ἰορδάνου, 'beyond'	1	beyond
-NUM 32:19	1	9	τοῦ	ὁ	article, genitive singular	1	the
+NUM 32:19	1	9	τοῦ	ὁ	article, genitive singular	1	of the
 NUM 32:19	1	10	Ἰορδάνου	Ἰορδάνης	river name, genitive masculine singular after τοῦ	1	Jordan
 NUM 32:19	1	11	καὶ	καί	conjunction	1	and
 NUM 32:19	1	12	ἐπέκεινα	ἐπέκεινα	preposition with genitive	1	beyond
@@ -417,11 +417,11 @@ NUM 32:19	1	13	ὅτι	ὅτι	content conjunction	1	because
 NUM 32:19	1	14	ἀπέχομεν	ἀπέχω	present active indicative, first plural	1	we have received
 NUM 32:19	1	15	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 32:19	1	16	κλήρους	κλῆρος	noun, accusative masculine plural	1	lots
-NUM 32:19	1	17	ἡμῶν	ἐγώ	pronoun, genitive first plural	1	us
+NUM 32:19	1	17	ἡμῶν	ἐγώ	pronoun, genitive first plural	1	our
 NUM 32:19	1	18	ἐν	ἐν	preposition with the dative	1	on
 NUM 32:19	1	19	τῷ	ὁ	article, dative masculine singular	1	the
 NUM 32:19	1	20	πέραν	πέραν	adverb/preposition with genitive τοῦ Ἰορδάνου, 'beyond'	1	beyond
-NUM 32:19	1	21	τοῦ	ὁ	article, genitive singular	1	the
+NUM 32:19	1	21	τοῦ	ὁ	article, genitive singular	1	of the
 NUM 32:19	1	22	Ἰορδάνου	Ἰορδάνης	river name, genitive masculine singular after τοῦ	1	Jordan
 NUM 32:19	1	23	ἐν	ἐν	preposition with the dative	1	in
 NUM 32:19	1	24	ἀνατολαῖς	ἀνατολή	noun, dative feminine plural	1	to the east
@@ -436,7 +436,7 @@ NUM 32:20	1	8	κατὰ	κατά	preposition with the accusative	1	according to
 NUM 32:20	1	9	τὸ	ὁ	article, accusative neuter singular	1	the
 NUM 32:20	1	10	ῥῆμα	ῥῆμα	noun, accusative neuter singular after τό	1	saying
 NUM 32:20	1	11	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
-NUM 32:20	1	12	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	[modal particle]
+NUM 32:20	1	12	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	if
 NUM 32:20	1	13	ἐξοπλισθήσησθε	ἐξοπλίζω	future passive indicative, second plural	1	you arm yourselves
 NUM 32:20	1	14	ἔναντι	ἔναντι	improper preposition with genitive	1	before
 NUM 32:20	1	14	ἔναντι			2	in the presence of
@@ -519,7 +519,7 @@ NUM 32:24	1	2	οἰκοδομήσετε	οἰκοδομέω	future active indica
 NUM 32:24	1	3	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	to you
 NUM 32:24	1	4	ἑαυτοῖς	ἑαυτοῦ	reflexive pronoun, dative masc. pl.	1	for yourselves
 NUM 32:24	1	5	πόλεις	πόλις	noun, accusative feminine plural	1	cities
-NUM 32:24	1	6	τῇ	ὁ	article, dative feminine singular	1	the
+NUM 32:24	1	6	τῇ	ὁ	article, dative feminine singular	1	for the
 NUM 32:24	1	7	ἀποσκευῇ	ἀποσκευή	noun, dative feminine singular	1	dependents
 NUM 32:24	1	8	ὑμῶν	σύ	pronoun, genitive second plural	1	your
 NUM 32:24	1	9	καὶ	καί	conjunction	1	and
@@ -528,8 +528,8 @@ NUM 32:24	1	11	τοῖς	ὁ	article, dative masculine plural	1	for the
 NUM 32:24	1	12	κτήνεσιν	κτῆνος	noun, dative neuter plural	1	livestock
 NUM 32:24	1	13	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 NUM 32:24	1	14	καὶ	καί	conjunction	1	and
-NUM 32:24	1	15	τὸ	ὁ	article, neuter singular (case from context)	1	the
-NUM 32:24	1	16	ἐκπορευόμενον	ἐκπορεύομαι	present middle/passive participle, nominative neuter singular	1	coming out
+NUM 32:24	1	15	τὸ	ὁ	article, neuter singular (case from context)	1	that which
+NUM 32:24	1	16	ἐκπορευόμενον	ἐκπορεύομαι	present middle/passive participle, nominative neuter singular	1	comes out
 NUM 32:24	1	17	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 32:24	1	18	τοῦ	ὁ	article, genitive singular	1	the
 NUM 32:24	1	19	στόματος	στόμα	noun, genitive neuter singular after τοῦ/ἐπάνω τοῦ	1	mouth
@@ -622,7 +622,7 @@ NUM 32:28	1	12	καὶ	καί	conjunction	1	and
 NUM 32:28	1	13	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 32:28	1	14	ἄρχοντας	ἄρχων	noun, accusative masculine plural	1	rulers
 NUM 32:28	1	14	ἄρχοντας			2	chiefs
-NUM 32:28	1	15	πατριῶν	πατριά	noun, genitive feminine plural	1	ancestral houses
+NUM 32:28	1	15	πατριῶν	πατριά	noun, genitive feminine plural	1	of ancestral houses
 NUM 32:28	1	16	τῶν	ὁ	article, genitive plural	1	of the
 NUM 32:28	1	17	φυλῶν	φυλή	noun, genitive feminine plural	1	tribes
 NUM 32:28	1	17	φυλῶν			2	clans
@@ -675,7 +675,7 @@ NUM 32:30	1	3	μὴ	μή	negative particle	1	not
 NUM 32:30	1	4	διαβῶσιν	διαβαίνω	aorist active subjunctive, third plural	1	they cross
 NUM 32:30	1	5	ἐνωπλισμένοι	ἐνοπλίζω	perfect middle/passive participle, nominative masculine plural	1	armed
 NUM 32:30	1	6	μεθ᾽	μετά	elided preposition with the genitive	1	with
-NUM 32:30	1	7	ὑμῶν	σύ	personal pronoun, genitive plural	1	you (plural)
+NUM 32:30	1	7	ὑμῶν	σύ	personal pronoun, genitive plural	1	you
 NUM 32:30	1	8	εἰς	εἰς	preposition with the accusative	1	for
 NUM 32:30	1	9	πόλεμον	πόλεμος	noun, accusative masculine singular	1	war
 NUM 32:30	1	9	πόλεμον			2	battle
@@ -699,7 +699,7 @@ NUM 32:30	1	23	κτήνη	κτῆνος	noun, accusative neuter plural	1	livesto
 NUM 32:30	1	23	κτήνη			2	domestic animals
 NUM 32:30	1	24	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 32:30	1	25	πρότερα	πρότερος	comparative adjective used adverbially	1	ahead
-NUM 32:30	1	26	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
+NUM 32:30	1	26	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	of you
 NUM 32:30	1	27	εἰς	εἰς	preposition with the accusative	1	into
 NUM 32:30	1	28	γῆν	γῆ	noun, accusative feminine singular	1	the land
 NUM 32:30	1	29	Χαναὰν	Χαναάν	indeclinable place name, genitive in context	1	of Canaan
@@ -725,7 +725,7 @@ NUM 32:31	1	11	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter 
 NUM 32:31	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
 NUM 32:31	1	13	Κύριος	κύριος	noun, nominative masculine singular, the Lord	1	Lord
 NUM 32:31	1	14	λέγει	λέγω	present active indicative, third singular	1	says
-NUM 32:31	1	15	τοῖς	ὁ	article, dative neuter plural	1	the
+NUM 32:31	1	15	τοῖς	ὁ	article, dative neuter plural	1	to the
 NUM 32:31	1	16	θεράπουσί	θεράπων	noun, dative masculine plural	1	servants
 NUM 32:31	1	17	σου	σύ	pronoun, possessive genitive second singular	1	your
 NUM 32:31	1	18	οὕτω	οὕτως	adverb	1	thus
@@ -744,7 +744,7 @@ NUM 32:32	1	10	καὶ	καί	conjunction	1	and
 NUM 32:32	1	11	δώσετε	δίδωμι	future active indicative, second plural	1	you shall give
 NUM 32:32	1	12	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 32:32	1	13	κατάσχεσιν	κατάσχεσις	noun, accusative feminine singular	1	holding
-NUM 32:32	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+NUM 32:32	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 32:32	1	15	κληρονομίας	κληρονομία	noun, genitive feminine singular	1	inheritance
 NUM 32:32	1	15	κληρονομίας			2	estate
 NUM 32:32	1	16	ἡμῶν	ἐγώ	pronoun, genitive first plural	1	our
@@ -765,7 +765,7 @@ NUM 32:33	1	9	τοῖς	ὁ	article, dative masculine plural	1	for the
 NUM 32:33	1	10	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 NUM 32:33	1	11	Ῥουβὴν	Ῥουβήν	indeclinable personal name, genitive in context	1	of Reuben
 NUM 32:33	1	12	καὶ	καί	conjunction	1	and
-NUM 32:33	1	13	τῷ	ὁ	article, dative masculine singular	1	the
+NUM 32:33	1	13	τῷ	ὁ	article, dative masculine singular	1	to the
 NUM 32:33	1	14	ἡμίσει	ἥμισυς	substantival adjective, dative neuter singular	1	half
 NUM 32:33	1	15	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
 NUM 32:33	1	15	φυλῆς			2	clan
@@ -795,7 +795,7 @@ NUM 32:33	1	38	τοῖς	ὁ	article, dative neuter plural	1	the
 NUM 32:33	1	39	ὁρίοις	ὅριον	noun, dative neut. pl. after ἐν πᾶσι τοῖς	1	borders
 NUM 32:33	1	40	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 NUM 32:33	1	41	πόλεις	πόλις	noun, accusative feminine plural	1	cities
-NUM 32:33	1	42	τῆς	ὁ	article, genitive feminine singular	1	the
+NUM 32:33	1	42	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 32:33	1	43	γῆς	γῆ	noun, genitive feminine singular	1	land
 NUM 32:33	1	43	γῆς			2	earth
 NUM 32:33	1	44	κύκλῳ	κύκλος	noun used adverbially with genitive τοῦ ποταμοῦ	1	round
@@ -817,7 +817,7 @@ NUM 32:35	1	1	καὶ	καί	conjunction	1	and
 NUM 32:35	1	2	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 32:35	1	3	γῆν	γῆ	noun, accusative feminine singular	1	land
 NUM 32:35	1	4	Ἀταρὼθ	Ἀταρώθ	indeclinable place name, case from syntax	1	Ataroth
-NUM 32:35	1	5	Σωφὰρ	Σωφάρ	indeclinable element of compound place name	1	Shophar
+NUM 32:35	1	5	Σωφὰρ	Σωφάρ	indeclinable element of compound place name	1	Shophan
 NUM 32:35	1	6	καὶ	καί	conjunction	1	and
 NUM 32:35	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 32:35	1	8	Ἰαζὴρ	Ἰαζήρ	indeclinable place name, case from syntax	1	Jazer
@@ -826,7 +826,7 @@ NUM 32:35	1	10	ὕψωσαν	ὑψόω	aorist active indicative, third plural	1	
 NUM 32:35	1	11	αὐτὰς	αὐτός	pronoun, accusative feminine plural	1	them
 NUM 32:36	1	1	καὶ	καί	conjunction	1	and
 NUM 32:36	1	2	τὴν	ὁ	article, accusative feminine singular	1	the
-NUM 32:36	1	3	Ναμρὰ	Ναμρά	indeclinable place name, case from syntax	1	Namra
+NUM 32:36	1	3	Ναμρὰ	Ναμρά	indeclinable place name, case from syntax	1	Nimrah
 NUM 32:36	1	4	καὶ	καί	conjunction	1	and
 NUM 32:36	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 32:36	1	6	Βαιθαῤῥὰ	Βαιθαρρά	indeclinable place name, case from syntax	1	Beth-haran
@@ -889,8 +889,8 @@ NUM 32:39	1	11	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	
 NUM 32:39	1	12	καὶ	καί	conjunction	1	and
 NUM 32:39	1	13	ἀπώλεσε	ἀπόλλυμι	aorist active indicative, third singular	1	he destroyed
 NUM 32:39	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
-NUM 32:39	1	15	Ἀμοῤῥαῖον	Ἀμορραῖος	ethnic noun, accusative masc. sg. collective after πρὸς τὸν	1	Amorite (people)
-NUM 32:39	1	16	τὸν	ὁ	article, accusative masculine singular	1	the
+NUM 32:39	1	15	Ἀμοῤῥαῖον	Ἀμορραῖος	ethnic noun, accusative masc. sg. collective after πρὸς τὸν	1	Amorite
+NUM 32:39	1	16	τὸν	ὁ	article, accusative masculine singular	1	—
 NUM 32:39	1	17	κατοικοῦντα	κατοικέω	present active participle, accusative masculine singular	1	dwelling
 NUM 32:39	1	18	ἐν	ἐν	preposition with the dative	1	in
 NUM 32:39	1	19	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
@@ -900,7 +900,7 @@ NUM 32:40	1	3	Μωυσῆς	Μωυσῆς	personal name, nominative masculine si
 NUM 32:40	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 32:40	1	5	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	1	Gilead
 NUM 32:40	1	5	Γαλαὰδ			2	Galaad
-NUM 32:40	1	6	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+NUM 32:40	1	6	τῷ	ὁ	article, dative masculine/neuter singular	1	—
 NUM 32:40	1	7	Μαχεὶρ	Μαχείρ	indeclinable personal name, dative in context	1	to Machir
 NUM 32:40	1	8	υἱῷ	υἱός	noun, dative masculine singular	1	son
 NUM 32:40	1	9	Μανασσῆ	Μανασσῆς	personal name, genitive singular	1	of Manasseh
@@ -924,7 +924,7 @@ NUM 32:41	1	12	καὶ	καί	conjunction	1	and
 NUM 32:41	1	13	ἐπωνόμασεν	ἐπονομάζω	aorist active indicative, third singular	1	named
 NUM 32:41	1	14	αὐτὰς	αὐτός	pronoun, accusative feminine plural, referring to bricks	1	them
 NUM 32:41	1	15	ἐπαύλεις	ἔπαυλις	noun, accusative feminine plural	1	settlements
-NUM 32:41	1	16	Ἰαχείρ	Ἰαχείρ	indeclinable personal name, case from syntax	1	Jachir
+NUM 32:41	1	16	Ἰαχείρ	Ἰαχείρ	indeclinable personal name, case from syntax	1	of Jair
 NUM 32:42	1	1	Καὶ	καί	conjunction	1	and
 NUM 32:42	1	2	Ναβαὺ	Ναβαύ	indeclinable personal name, nominative in context	1	Nobah
 NUM 32:42	1	3	ἐπορεύθη	πορεύομαι	aorist passive indicative, third singular; middle sense	1	went

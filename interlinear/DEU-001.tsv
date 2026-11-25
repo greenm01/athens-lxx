@@ -30,7 +30,7 @@ DEU 1:1	1	28	καὶ	καί	conjunction	1	and
 DEU 1:1	1	29	Αὐλῶν	Αὐλών	place name	1	Aulon
 DEU 1:1	1	30	καὶ	καί	conjunction	1	and
 DEU 1:1	1	31	κατὰ	κατά	preposition with the accusative	1	toward
-DEU 1:1	1	32	χρύσεα	Χρύσεα	place name in κατὰ χρύσεα	1	Katakhrysea
+DEU 1:1	1	32	χρύσεα	Χρύσεα	place name in κατὰ χρύσεα	1	Chrysea
 DEU 1:2	1	1	ἕνδεκα	ἕνδεκα	cardinal numeral	1	eleven
 DEU 1:2	1	2	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
 DEU 1:2	1	3	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -94,7 +94,7 @@ DEU 1:4	1	30	ἐν	ἐν	preposition with the dative	1	in
 DEU 1:4	1	31	Ἀσταρὼθ	Ἀσταρώθ	place name, dative singular after ἐν	1	Astaroth
 DEU 1:4	1	32	καὶ	καί	conjunction	1	and
 DEU 1:4	1	33	ἐν	ἐν	preposition with the dative	1	in
-DEU 1:4	1	34	Ἐδραείν	Ἐδραείν	place name, dative singular after ἐν	1	Edraein
+DEU 1:4	1	34	Ἐδραείν	Ἐδραείν	place name, dative singular after ἐν	1	Edrei
 DEU 1:5	1	1	ἐν	ἐν	preposition with the dative	1	in
 DEU 1:5	1	2	τῷ	ὁ	article dative singular	1	the
 DEU 1:5	1	3	πέραν	πέραν	preposition with the genitive	1	beyond
@@ -159,7 +159,7 @@ DEU 1:7	1	30	τοῦ	ὁ	article genitive masculine singular	1	the
 DEU 1:7	1	31	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	river
 DEU 1:7	1	32	τοῦ	ὁ	article genitive masculine singular	1	the
 DEU 1:7	1	33	μεγάλου	μέγας	adjective, genitive masc. sg. with ποταμοῦ	1	great
-DEU 1:7	1	34	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	of the river
+DEU 1:7	1	34	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	river
 DEU 1:7	1	35	Εὐφράτου	Εὐφράτης	river name, genitive masc. sg. after ποταμοῦ	1	Euphrates
 DEU 1:8	1	1	Ἴδετε	ὁράω	aorist active imperative, 2nd pl.	1	behold
 DEU 1:8	1	2	παραδέδωκα	παραδίδωμι	perfect active indicative, 1st sg.	1	I have given
@@ -179,10 +179,10 @@ DEU 1:8	1	15	ὑμῶν	σύ	pronoun, genitive 2nd pl.	1	your
 DEU 1:8	1	16	τῷ	ὁ	article dative masculine singular	1	to
 DEU 1:8	1	17	Ἀβραὰμ	Ἀβραάμ	personal name, dative masculine singular after τῷ	1	Abraham
 DEU 1:8	1	18	καὶ	καί	conjunction	1	and
-DEU 1:8	1	19	τῷ	ὁ	article dative masculine singular	1	the
+DEU 1:8	1	19	τῷ	ὁ	article dative masculine singular	1	to
 DEU 1:8	1	20	Ἰσαὰκ	Ἰσαάκ	personal name, dative masculine singular after τῷ	1	Isaac
 DEU 1:8	1	21	καὶ	καί	conjunction	1	and
-DEU 1:8	1	22	τῷ	ὁ	article dative masculine singular	1	the
+DEU 1:8	1	22	τῷ	ὁ	article dative masculine singular	1	to
 DEU 1:8	1	23	Ἰακὼβ	Ἰακώβ	personal name, dative masculine singular after τῷ	1	Jacob
 DEU 1:8	1	24	δοῦναι	δίδωμι	aorist active infinitive after ὤμοσα, to give	1	to give
 DEU 1:8	1	25	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
@@ -245,7 +245,7 @@ DEU 1:12	1	2	δυνήσομαι	δύναμαι	future middle indicative, 1st sg.
 DEU 1:12	1	3	φέρειν	φέρω	present active infinitive	1	to bear
 DEU 1:12	1	4	μόνος	μόνος	adjective, nominative masc. sg.	1	alone
 DEU 1:12	1	5	τὸν	ὁ	article accusative masculine singular	1	the
-DEU 1:12	1	6	κόπον	κόπος	noun, accusative masc. sg. after τὸν, trouble/weariness	1	your burden
+DEU 1:12	1	6	κόπον	κόπος	noun, accusative masc. sg. after τὸν, trouble/weariness	1	trouble
 DEU 1:12	1	7	ὑμῶν	σύ	pronoun, genitive 2nd pl.	1	your
 DEU 1:12	1	8	καὶ	καί	conjunction	1	and
 DEU 1:12	1	9	τὴν	ὁ	article, accusative fem. sg.	1	the
@@ -272,7 +272,7 @@ DEU 1:13	1	14	καταστήσω	καθίστημι	future active indicative, 1s
 DEU 1:13	1	15	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 DEU 1:13	1	16	ἐφ᾽	ἐπί	preposition ἐπί, elided, with the accusative	1	over
 DEU 1:13	1	17	ὑμᾶς	σύ	pronoun, accusative 2nd pl.	1	you
-DEU 1:13	1	18	ἡγουμένους	ἡγέομαι	present middle participle, accusative masc. pl.	1	your heads
+DEU 1:13	1	18	ἡγουμένους	ἡγέομαι	present middle participle, accusative masc. pl.	1	heads
 DEU 1:13	1	19	ὑμῶν	σύ	pronoun, genitive 2nd pl.	1	your
 DEU 1:14	1	1	Καὶ	καί	conjunction	1	and
 DEU 1:14	1	2	ἀπεκρίθητέ	ἀποκρίνομαι	aorist passive indicative, 2nd pl.	1	you answered
@@ -444,7 +444,7 @@ DEU 1:20	1	13	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 1:20	1	14	Θεὸς	θεός	noun, nominative masculine singular	1	God
 DEU 1:20	1	15	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 1:20	1	16	δίδωσιν	δίδωμι	present active indicative, 3rd sg.	1	is giving
-DEU 1:20	1	17	ἡμῖν	ἐγώ	pronoun, dative 1st pl.	1	us
+DEU 1:20	1	17	ἡμῖν	ἐγώ	pronoun, dative 1st pl.	1	to us
 DEU 1:21	1	1	Ἴδετε	ὁράω	aorist active imperative, 2nd pl.	1	behold
 DEU 1:21	1	2	παραδέδωκε	παραδίδωμι	perfect acive indicative, 3rd sg.	1	has given
 DEU 1:21	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -546,7 +546,7 @@ DEU 1:25	1	6	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 DEU 1:25	1	7	ἀπὸ	ἀπό	preposition with genitive, from/at	1	from
 DEU 1:25	1	8	τοῦ	ὁ	article genitive masculine singular	1	the
 DEU 1:25	1	9	καρποῦ	καρπός	noun, genitive masculine singular	1	fruit
-DEU 1:25	1	10	τῆς	ὁ	article genitive feminine singular	1	the
+DEU 1:25	1	10	τῆς	ὁ	article genitive feminine singular	1	of the
 DEU 1:25	1	11	γῆς	γῆ	noun, genitive feminine singular	1	land
 DEU 1:25	1	12	καὶ	καί	conjunction	1	and
 DEU 1:25	1	13	κατήνεγκαν	καταφέρω	aorist active indicative, 3rd pl.	1	brought down
@@ -771,7 +771,7 @@ DEU 1:35	1	9	πονηρὰ	πονηρός	adjective, nominative fem. sg.	1	evil
 DEU 1:35	1	10	αὕτη	οὗτος	demonstrative pronoun, nominative fem. sg.	1	this
 DEU 1:35	1	11	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 1:35	1	12	γῆν	γῆ	noun, accusative feminine singular	1	land
-DEU 1:35	1	13	τὴν	ὁ	article, accusative fem. sg.	1	the
+DEU 1:35	1	13	τὴν	ὁ	article, accusative fem. sg.	1	—
 DEU 1:35	1	14	ἀγαθὴν	ἀγαθός	adjective, accusative fem. sg.	1	good
 DEU 1:35	1	15	ταύτην	οὗτος	demonstrative adjective, accusative fem. sg.	1	this
 DEU 1:35	1	16	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
@@ -784,7 +784,7 @@ DEU 1:35	1	22	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 DEU 1:36	1	1	πλὴν	πλήν	preposition/adverb, except	1	except
 DEU 1:36	1	2	Χάλεβ	Χάλεβ	personal name, nominative masculine singular after πλὴν nominative-in-oath	1	Caleb
 DEU 1:36	1	3	υἱὸς	υἱός	noun, nominative masculine singular	1	a son
-DEU 1:36	1	4	Ἰεφοννὴ	Ἰεφοννή	personal name, genitive masculine singular after υἱὸς	1	of Iephonne
+DEU 1:36	1	4	Ἰεφοννὴ	Ἰεφοννή	personal name, genitive masculine singular after υἱὸς	1	of Jephunneh
 DEU 1:36	1	5	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this one
 DEU 1:36	1	6	ὄψεται	ὁράω	future middle indicative, 3rd sg.	1	shall see
 DEU 1:36	1	7	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
@@ -822,7 +822,7 @@ DEU 1:37	1	12	εἰσέλθῃς	εἰσέρχομαι	aorist active subjunctive
 DEU 1:37	1	13	ἐκεῖ	ἐκεῖ	adverb	1	there
 DEU 1:38	1	1	Ἰησοῦς	Ἰησοῦς	personal name, nominative masculine singular	1	Joshua
 DEU 1:38	1	2	υἱὸς	υἱός	noun, nominative masculine singular	1	a son
-DEU 1:38	1	3	Ναυὴ	Ναυή	personal name, genitive masculine singular after υἱὸς	1	of Naue
+DEU 1:38	1	3	Ναυὴ	Ναυή	personal name, genitive masculine singular after υἱὸς	1	of Nun
 DEU 1:38	1	4	ὁ	ὁ	article nominative masculine singular	1	—
 DEU 1:38	1	5	παρεστηκώς	παρίστημι	perfect active participle, nominative masc. sg. after ὁ	1	who stands
 DEU 1:38	1	6	σοι	σύ	pronoun, dative 2nd sg.	1	before you
@@ -835,8 +835,8 @@ DEU 1:38	1	12	ὅτι	ὅτι	causal conjunction	1	for
 DEU 1:38	1	13	αὐτὸς	αὐτός	pronoun, nominative masc. sg. intensive, he himself	1	he
 DEU 1:38	1	14	κατακληροδοτήσει	κατακληροδοτέω	future active indicative, 3rd sg.	1	shall cause to inherit
 DEU 1:38	1	15	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
-DEU 1:38	1	16	τῷ	ὁ	article dative singular	1	the
-DEU 1:38	1	17	Ισραήλ	Ισραήλ	indeclinable personal name, dative	1	Israel
+DEU 1:38	1	16	τῷ	ὁ	article dative singular	1	—
+DEU 1:38	1	17	Ισραήλ	Ισραήλ	indeclinable personal name, dative	1	to Israel
 DEU 1:39	1	1	Καὶ	καί	conjunction	1	and
 DEU 1:39	1	2	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 DEU 1:39	1	3	παιδία	παιδίον	noun, nominative neut. pl. after τὰ	1	children
@@ -887,7 +887,7 @@ DEU 1:41	1	3	καὶ	καί	conjunction	1	and
 DEU 1:41	1	4	εἴπατέ	λέγω	aorist active indicative, 2nd pl.	1	you said
 DEU 1:41	1	5	μοι	ἐγώ	pronoun, dative 1st singular	1	to me
 DEU 1:41	1	6	ἡμάρτομεν	ἁμαρτάνω	aorist active indicative, 1st pl.	1	we have sinned
-DEU 1:41	1	7	ἐναντίον	ἐναντίον	preposition with genitive	1	against
+DEU 1:41	1	7	ἐναντίον	ἐναντίον	preposition with genitive	1	before
 DEU 1:41	1	8	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 DEU 1:41	1	9	τοῦ	ὁ	article genitive masculine singular	1	the
 DEU 1:41	1	10	Θεοῦ	θεός	noun, genitive masculine singular	1	God

@@ -1,6 +1,6 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 EXO 35:1	1	1	ΚΑΙ	καί	conjunction, unaccented	1	and
-EXO 35:1	1	2	συνήθροισε	συναθροίζω	aorist active indicative, 3rd sg.	1	gathered (assembled)
+EXO 35:1	1	2	συνήθροισε	συναθροίζω	aorist active indicative, 3rd sg.	1	gathered
 EXO 35:1	1	3	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses
 EXO 35:1	1	4	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 EXO 35:1	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -17,26 +17,26 @@ EXO 35:1	1	15	λόγοι	λόγος	noun, nominative masc. pl. after οὗτοι
 EXO 35:1	1	16	οὓς	ὅς	relative pronoun, accusative masc. pl. with λόγους antecedent	1	which
 EXO 35:1	1	17	εἶπε	λέγω	aorist active indicative, 3rd sg.	1	said
 EXO 35:1	1	18	Κύριος	κύριος	noun, nominative masculine singular, the Lord	1	the Lord
-EXO 35:1	1	19	ποιῆσαι	ποιέω	aorist active infinitive	1	to do/make
+EXO 35:1	1	19	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
 EXO 35:1	1	20	αὐτούς	αὐτός	pronoun, accusative masc. pl. after μετ᾽ 'after them	1	them
 EXO 35:2	1	1	Ἓξ	ἕξ	indeclinable cardinal numeral printed Ἓξ verse-initial	1	six
 EXO 35:2	1	2	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
-EXO 35:2	1	3	ποιήσεις	ποιέω	future active indicative, 2nd sg. generic legislative 'work shall be done	1	you shall do (work)
+EXO 35:2	1	3	ποιήσεις	ποιέω	future active indicative, 2nd sg. generic legislative 'work shall be done	1	you shall do
 EXO 35:2	1	4	ἔργα	ἔργον	noun, accusative neut. pl.	1	works
-EXO 35:2	1	5	τῇ	ὁ	article, dative feminine singular	1	the
-EXO 35:2	1	6	δὲ	δέ	postpositive conjunction	1	and
-EXO 35:2	1	7	ἡμέρᾳ	ἡμέρα	noun, dative fem. sg. after τῇ with καθαρισμοῦ phrase 'in the day of cleansing'	1	on the day
+EXO 35:2	1	5	τῇ	ὁ	article, dative feminine singular	1	on the
+EXO 35:2	1	6	δὲ	δέ	postpositive conjunction	1	but
+EXO 35:2	1	7	ἡμέρᾳ	ἡμέρα	noun, dative fem. sg. after τῇ with καθαρισμοῦ phrase 'in the day of cleansing'	1	day
 EXO 35:2	1	8	τῇ	ὁ	article, dative feminine singular	1	the
 EXO 35:2	1	9	ἑβδόμῃ	ἕβδομος	ordinal adjective, dative fem. sg. with ἡμέρᾳ after τῇ	1	seventh
 EXO 35:2	1	10	κατάπαυσις	κατάπαυσις	noun, nominative fem. sg.	1	a rest
 EXO 35:2	1	11	ἅγιον	ἅγιος	adjective, nominative neut. sg. with κατάπαυσις? construct κατάπαυσις ἅγιον σάββατον 'a holy sabbath rest'	1	holy
 EXO 35:2	1	12	σάββατον	σάββατον	noun, nominative neut. sg.	1	sabbath
 EXO 35:2	1	13	ἀνάπαυσις	ἀνάπαυσις	noun, nominative fem. sg.	1	rest
-EXO 35:2	1	14	τῷ	ὁ	article, dative masculine singular	1	the
+EXO 35:2	1	14	τῷ	ὁ	article, dative masculine singular	1	to the
 EXO 35:2	1	15	Κυρίῳ	κύριος	noun, dative masculine singular, to the Lord	1	Lord
 EXO 35:2	1	16	πᾶς	πᾶς	adjective/pronoun, nominative masc. sg. with participle ὁ ζητῶν, everyone	1	everyone
 EXO 35:2	1	17	ὁ	ὁ	article nominative masculine singular	1	—
-EXO 35:2	1	18	ποιῶν	ποιέω	present active participle, nom. masc. sg. after πᾶς ὁ, who does	1	who does (work)
+EXO 35:2	1	18	ποιῶν	ποιέω	present active participle, nom. masc. sg. after πᾶς ὁ, who does	1	who does
 EXO 35:2	1	19	ἐν	ἐν	preposition with dative	1	on
 EXO 35:2	1	20	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 EXO 35:2	1	21	ἔργον	ἔργον	noun, accusative neut. sg. as manner 'work/workmanship'	1	work
@@ -116,17 +116,17 @@ EXO 35:8	1	3	εἰς	εἰς	preposition with accusative	1	for
 EXO 35:8	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 35:8	1	5	φαῦσιν	φαῦσις	noun, accusative fem. sg. after εἰς τὴν, lighting/for the light	1	lighting
 EXO 35:8	1	6	καὶ	καί	conjunction	1	and
-EXO 35:8	1	7	θυμίαμα	θυμίαμα	noun, nominative/accusative neut. sg., incense	1	incense/spices for incense
+EXO 35:8	1	7	θυμίαμα	θυμίαμα	noun, nominative/accusative neut. sg., incense	1	incense
 EXO 35:8	1	8	εἰς	εἰς	preposition with accusative	1	for
 EXO 35:8	1	9	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 35:8	1	10	ἔλαιον	ἔλαιον	noun, accusative neut. sg.	1	oil
-EXO 35:8	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
+EXO 35:8	1	11	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 35:8	1	12	χρίσεως	χρίσις	noun, genitive fem. sg. after τῆς	1	anointing
 EXO 35:8	1	13	καὶ	καί	conjunction	1	and
 EXO 35:8	1	14	εἰς	εἰς	preposition with accusative	1	for
 EXO 35:8	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
-EXO 35:8	1	16	σύνθεσιν	σύνθεσις	noun, accusative fem. sg. after εἰς τὴν	1	compound/composition
-EXO 35:8	1	17	τοῦ	ὁ	article, genitive singular	1	the
+EXO 35:8	1	16	σύνθεσιν	σύνθεσις	noun, accusative fem. sg. after εἰς τὴν	1	composition
+EXO 35:8	1	17	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 35:8	1	18	θυμιάματος	θυμίαμα	noun, genitive neut. sg. after θυσιαστήριον, incense	1	incense
 EXO 35:9	1	1	καὶ	καί	conjunction	1	and
 EXO 35:9	1	2	λίθους	λίθος	noun, accusative masc. pl.	1	stones
@@ -135,7 +135,7 @@ EXO 35:9	1	4	καὶ	καί	conjunction	1	and
 EXO 35:9	1	5	λίθους	λίθος	noun, accusative masc. pl.	1	stones
 EXO 35:9	1	6	εἰς	εἰς	preposition with accusative	1	for
 EXO 35:9	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
-EXO 35:9	1	8	γλυφὴν	γλυφή	noun, accusative fem. sg. after εἰς τὴν	1	engraving/setting
+EXO 35:9	1	8	γλυφὴν	γλυφή	noun, accusative fem. sg. after εἰς τὴν	1	engraving
 EXO 35:9	1	9	εἰς	εἰς	preposition with accusative	1	for
 EXO 35:9	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 35:9	1	11	ἐπωμίδα	ἐπωμίς	noun, accusative fem. sg. after τὴν	1	ephod
@@ -145,31 +145,31 @@ EXO 35:9	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 35:9	1	15	ποδήρη	ποδήρης	noun, accusative masc. sg. after τὸν, full-length robe	1	long robe
 EXO 35:10	1	1	Καὶ	καί	conjunction	1	and
 EXO 35:10	1	2	πᾶς	πᾶς	adjective/pronoun, nominative masc. sg. with participle ὁ ζητῶν, everyone	1	everyone
-EXO 35:10	1	3	σοφὸς	σοφός	adjective/noun, nominative masc. sg. after πᾶς, wise/skilled	1	skilled (wise-hearted)
-EXO 35:10	1	4	τῇ	ὁ	article, dative feminine singular	1	the
-EXO 35:10	1	5	διανοίᾳ	διάνοια	noun, dative fem. sg. after ἐν τῇ	1	in the mind/heart
+EXO 35:10	1	3	σοφὸς	σοφός	adjective/noun, nominative masc. sg. after πᾶς, wise/skilled	1	wise
+EXO 35:10	1	4	τῇ	ὁ	article, dative feminine singular	1	in the
+EXO 35:10	1	5	διανοίᾳ	διάνοια	noun, dative fem. sg. after ἐν τῇ	1	mind
 EXO 35:10	1	6	ἐν	ἐν	preposition with dative	1	among
 EXO 35:10	1	7	ὑμῖν	ὑμεῖς	pronoun, dative 2nd pl.	1	you
 EXO 35:10	1	8	ἐλθὼν	ἔρχομαι	aorist active participle, nom. masc. sg. before imperative ἐργαζέσθω, having come	1	having come
 EXO 35:10	1	9	ἐργαζέσθω	ἐργάζομαι	present middle imperative, 3rd sg.	1	let him work
 EXO 35:10	1	10	πάντα	πᾶς	adjective, accusative neut. pl. after πάντα adverbial object 'all	1	all
-EXO 35:10	1	11	ὅσα	ὅσος	relative pronoun, accusative neut. pl.	1	all that/what
+EXO 35:10	1	11	ὅσα	ὅσος	relative pronoun, accusative neut. pl.	1	that
 EXO 35:10	1	12	συνέταξε	συντάσσω	aorist active indicative, 3rd sg.	1	commanded
 EXO 35:10	1	13	Κύριος	κύριος	noun, nominative masculine singular, the Lord	1	the Lord
 EXO 35:11	1	1	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 35:11	1	2	σκηνὴν	σκηνή	noun, accusative fem. sg. after τὴν	1	tent
 EXO 35:11	1	3	καὶ	καί	conjunction	1	and
 EXO 35:11	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
-EXO 35:11	1	5	παραρύματα	παράρυμα	noun, accusative neut. pl. after τὰ	1	its side curtains
+EXO 35:11	1	5	παραρύματα	παράρυμα	noun, accusative neut. pl. after τὰ	1	side curtains
 EXO 35:11	1	6	καὶ	καί	conjunction	1	and
 EXO 35:11	1	7	τὰ	ὁ	article, accusative neuter plural	1	the
-EXO 35:11	1	8	καλύμματα	κάλυμμα	noun, accusative neut. pl. after τὰ, coverings	1	coverings/veils
+EXO 35:11	1	8	καλύμματα	κάλυμμα	noun, accusative neut. pl. after τὰ, coverings	1	coverings
 EXO 35:11	1	9	καὶ	καί	conjunction	1	and
 EXO 35:11	1	10	τὰ	ὁ	article, accusative neuter plural	1	the
-EXO 35:11	1	11	διατόνια	διατόνιον	noun, accusative neut. pl. after τὰ	1	its cords (through-cords)
+EXO 35:11	1	11	διατόνια	διατόνιον	noun, accusative neut. pl. after τὰ	1	cords
 EXO 35:11	1	12	καὶ	καί	conjunction	1	and
 EXO 35:11	1	13	τοὺς	ὁ	article, accusative masculine plural	1	the
-EXO 35:11	1	14	πασσάλους	πάσσαλος	noun, accusative masc. pl.	1	pegs/pins
+EXO 35:11	1	14	πασσάλους	πάσσαλος	noun, accusative masc. pl.	1	pegs
 EXO 35:11	1	15	καὶ	καί	conjunction	1	and
 EXO 35:11	1	16	τοὺς	ὁ	article, accusative masculine plural	1	the
 EXO 35:11	1	17	μοχλοὺς	μοχλός	noun, accusative masc. pl.	1	bars
@@ -178,12 +178,12 @@ EXO 35:11	1	19	τοὺς	ὁ	article, accusative masculine plural	1	the
 EXO 35:11	1	20	στύλους	στῦλος	noun, accusative masc. pl.	1	posts
 EXO 35:11	1	21	καὶ	καί	conjunction	1	and
 EXO 35:11	1	22	τὰς	ὁ	article, accusative feminine plural	1	the
-EXO 35:11	1	23	βάσεις	βάσις	noun, accusative fem. pl. after τὰς	1	bases/sockets
+EXO 35:11	1	23	βάσεις	βάσις	noun, accusative fem. pl. after τὰς	1	bases
 EXO 35:12	1	1	καὶ	καί	conjunction	1	and
 EXO 35:12	1	2	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 35:12	1	3	κιβωτὸν	κιβωτός	noun, accusative fem. sg., ark/chest	1	ark
-EXO 35:12	1	4	τοῦ	ὁ	article, genitive singular	1	the
-EXO 35:12	1	5	μαρτυρίου	μαρτύριον	noun, genitive neut. sg.	1	witness/testimony
+EXO 35:12	1	4	τοῦ	ὁ	article, genitive singular	1	of the
+EXO 35:12	1	5	μαρτυρίου	μαρτύριον	noun, genitive neut. sg.	1	testimony
 EXO 35:12	1	6	καὶ	καί	conjunction	1	and
 EXO 35:12	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
 EXO 35:12	1	8	ἀναφορεῖς	ἀναφορεύς	noun, accusative masc. pl. after τοὺς, carrying poles	1	poles
@@ -198,7 +198,7 @@ EXO 35:12	1	16	καταπέτασμα	καταπέτασμα	noun, accusative ne
 EXO 35:12	1	17	καὶ	καί	conjunction	1	and
 EXO 35:12	1	18	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 35:12	1	19	ἱστία	ἱστίον	noun, accusative neut. pl. after τὰ	1	hangings
-EXO 35:12	1	20	τῆς	ὁ	article, genitive feminine singular	1	the
+EXO 35:12	1	20	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 35:12	1	21	αὐλῆς	αὐλή	noun, genitive fem. sg. after τῆς	1	court
 EXO 35:12	1	22	καὶ	καί	conjunction	1	and
 EXO 35:12	1	23	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -212,15 +212,15 @@ EXO 35:12	1	30	τῆς	ὁ	article, genitive feminine singular	1	—
 EXO 35:12	1	31	σμαράγδου	σμάραγδος	noun, genitive masc. sg./fem.	1	of emerald
 EXO 35:12	1	32	καὶ	καί	conjunction	1	and
 EXO 35:12	1	33	τὰ	ὁ	article, accusative neuter plural	1	the
-EXO 35:12	1	34	θυμιάματα	θυμίαμα	noun, accusative neut. pl.	1	incense (materials)
+EXO 35:12	1	34	θυμιάματα	θυμίαμα	noun, accusative neut. pl.	1	incense
 EXO 35:12	1	35	καὶ	καί	conjunction	1	and
 EXO 35:12	1	36	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 35:12	1	37	ἔλαιον	ἔλαιον	noun, accusative neut. sg.	1	oil
-EXO 35:12	1	38	τοῦ	ὁ	article, genitive singular	1	the
+EXO 35:12	1	38	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 35:12	1	39	χρίσματος	χρίσμα	noun, genitive neut. sg. after τοῦ, of anointing	1	anointing
 EXO 35:13	1	1	καὶ	καί	conjunction	1	and
 EXO 35:13	1	2	τὴν	ὁ	article, accusative feminine singular	1	the
-EXO 35:13	1	3	τράπεζαν	τράπεζα	noun, accusative fem. sg., table	1	a table
+EXO 35:13	1	3	τράπεζαν	τράπεζα	noun, accusative fem. sg., table	1	table
 EXO 35:13	1	4	καὶ	καί	conjunction	1	and
 EXO 35:13	1	5	τοὺς	ὁ	article, accusative masculine plural	1	the
 EXO 35:13	1	6	ἀναφορεῖς	ἀναφορεύς	noun, accusative masc. pl. after τοὺς, carrying poles	1	poles
@@ -232,9 +232,9 @@ EXO 35:13	1	11	σκεύη	σκεῦος	noun, accusative neut. pl. after πάν�
 EXO 35:13	1	12	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	1	its
 EXO 35:13	1	13	καὶ	καί	conjunction	1	and
 EXO 35:13	1	14	τοὺς	ὁ	article, accusative masculine plural	1	the
-EXO 35:13	1	15	ἄρτους	ἄρτος	noun, accusative masc. pl.	1	loaves/bread
-EXO 35:13	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
-EXO 35:13	1	17	προθέσεως	πρόθεσις	noun, genitive fem. sg. after τῆς in ἄρτους τῆς προθέσεως 'bread of setting-before	1	Presence/setting-forth
+EXO 35:13	1	15	ἄρτους	ἄρτος	noun, accusative masc. pl.	1	loaves
+EXO 35:13	1	16	τῆς	ὁ	article, genitive feminine singular	1	of the
+EXO 35:13	1	17	προθέσεως	πρόθεσις	noun, genitive fem. sg. after τῆς in ἄρτους τῆς προθέσεως 'bread of setting-before	1	setting forth
 EXO 35:13	1	18	καὶ	καί	conjunction	1	and
 EXO 35:13	1	19	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 35:13	1	20	θυσιαστήριον	θυσιαστήριον	noun, accusative neut. sg.	1	altar
@@ -245,8 +245,8 @@ EXO 35:13	1	24	σκεύη	σκεῦος	noun, accusative neut. pl. after πάν�
 EXO 35:13	1	25	αὐτοῦ	αὐτός	personal pronoun, genitive singular	1	its
 EXO 35:13	1	26	καὶ	καί	conjunction	1	and
 EXO 35:13	1	27	τὴν	ὁ	article, accusative feminine singular	1	the
-EXO 35:13	1	28	λυχνίαν	λυχνία	noun, accusative fem. sg., lampstand	1	a lampstand
-EXO 35:13	1	29	τοῦ	ὁ	article, genitive singular	1	the
+EXO 35:13	1	28	λυχνίαν	λυχνία	noun, accusative fem. sg., lampstand	1	lampstand
+EXO 35:13	1	29	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 35:13	1	30	φωτὸς	φῶς	noun, genitive neut. sg. after τοῦ, of light	1	light
 EXO 35:13	1	31	καὶ	καί	conjunction	1	and
 EXO 35:13	1	32	πάντα	πᾶς	adjective, accusative neut. pl. after πάντα adverbial object 'all	1	all
@@ -260,12 +260,12 @@ EXO 35:14	1	4	αὐτῆς	αὐτός	pronoun, genitive feminine singular, poss
 EXO 35:14	1	5	καὶ	καί	conjunction	1	and
 EXO 35:14	1	6	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 35:14	1	7	ἔλαιον	ἔλαιον	noun, accusative neut. sg.	1	oil
-EXO 35:14	1	8	τοῦ	ὁ	article, genitive singular	1	the
+EXO 35:14	1	8	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 35:14	1	9	φωτός	φῶς	noun, genitive neut. sg.	1	light
 EXO 35:15	1	1	καὶ	καί	conjunction	1	and
 EXO 35:15	1	2	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 35:15	1	3	θυσιαστήριον	θυσιαστήριον	noun, accusative neut. sg.	1	altar
-EXO 35:15	1	4	τοῦ	ὁ	article, genitive singular	1	the
+EXO 35:15	1	4	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 35:15	1	5	θυμιάματος	θυμίαμα	noun, genitive neut. sg. after θυσιαστήριον, incense	1	incense
 EXO 35:15	1	6	καὶ	καί	conjunction	1	and
 EXO 35:15	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -274,31 +274,31 @@ EXO 35:15	1	9	αὐτοῦ	αὐτός	personal pronoun, genitive singular	1	its
 EXO 35:15	1	10	καὶ	καί	conjunction	1	and
 EXO 35:15	1	11	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 35:15	1	12	ἔλαιον	ἔλαιον	noun, accusative neut. sg.	1	oil
-EXO 35:15	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
+EXO 35:15	1	13	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 35:15	1	14	χρίσεως	χρίσις	noun, genitive fem. sg. after τῆς	1	anointing
 EXO 35:15	1	15	καὶ	καί	conjunction	1	and
 EXO 35:15	1	16	τὸ	ὁ	article, nominative neuter singular	1	the
-EXO 35:15	1	17	θυμίαμα	θυμίαμα	noun, nominative/accusative neut. sg., incense	1	incense/spices for incense
-EXO 35:15	1	18	τῆς	ὁ	article, genitive feminine singular	1	the
-EXO 35:15	1	19	συνθέσεως	σύνθεσις	noun, genitive fem. sg. in σύνθεσις τοῦ ἁγίου 'compound of the sanctuary/incense'	1	compound (incense)
+EXO 35:15	1	17	θυμίαμα	θυμίαμα	noun, nominative/accusative neut. sg., incense	1	incense
+EXO 35:15	1	18	τῆς	ὁ	article, genitive feminine singular	1	of the
+EXO 35:15	1	19	συνθέσεως	σύνθεσις	noun, genitive fem. sg. in σύνθεσις τοῦ ἁγίου 'compound of the sanctuary/incense'	1	compound
 EXO 35:15	1	20	καὶ	καί	conjunction	1	and
 EXO 35:15	1	21	τὸ	ὁ	article, nominative neuter singular	1	the
-EXO 35:15	1	22	ἐπίσπαστρον	ἐπίσπαστρον	noun, accusative neut. sg. after τὸ, hanging/screen	1	hanging/screen
-EXO 35:15	1	23	τῆς	ὁ	article, genitive feminine singular	1	the
-EXO 35:15	1	24	θύρας	θύρα	noun, genitive fem. sg. after τῆς	1	entrance/door
+EXO 35:15	1	22	ἐπίσπαστρον	ἐπίσπαστρον	noun, accusative neut. sg. after τὸ, hanging/screen	1	screen
+EXO 35:15	1	23	τῆς	ὁ	article, genitive feminine singular	1	of the
+EXO 35:15	1	24	θύρας	θύρα	noun, genitive fem. sg. after τῆς	1	door
 EXO 35:15	1	25	τῆς	ὁ	article, genitive feminine singular	1	of the
-EXO 35:15	1	26	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	1	tent/tabernacle
+EXO 35:15	1	26	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	1	tabernacle
 EXO 35:16	1	1	καὶ	καί	conjunction	1	and
 EXO 35:16	1	2	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 35:16	1	3	θυσιαστήριον	θυσιαστήριον	noun, accusative neut. sg.	1	altar
-EXO 35:16	1	4	τοῦ	ὁ	article, genitive singular	1	the
+EXO 35:16	1	4	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 35:16	1	5	ὁλοκαυτώματος	ὁλοκαύτωμα	noun, genitive neut. sg. after τοῦ, of burnt offering	1	burnt offering
 EXO 35:16	1	6	καὶ	καί	conjunction	1	and
 EXO 35:16	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
-EXO 35:16	1	8	ἐσχάραν	ἐσχάρα	noun, accusative fem. sg., grating/grate	1	a grating
+EXO 35:16	1	8	ἐσχάραν	ἐσχάρα	noun, accusative fem. sg., grating/grate	1	grating
 EXO 35:16	1	9	αὐτοῦ	αὐτός	personal pronoun, genitive singular	1	its
 EXO 35:16	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
-EXO 35:16	1	11	χαλκῆν	χαλκοῦς	adjective, accusative fem. sg. with ἐσχάραν	1	of bronze
+EXO 35:16	1	11	χαλκῆν	χαλκοῦς	adjective, accusative fem. sg. with ἐσχάραν	1	bronze
 EXO 35:16	1	12	καὶ	καί	conjunction	1	and
 EXO 35:16	1	13	τοὺς	ὁ	article, accusative masculine plural	1	the
 EXO 35:16	1	14	ἀναφορεῖς	ἀναφορεύς	noun, accusative masc. pl. after τοὺς, carrying poles	1	poles
@@ -313,12 +313,12 @@ EXO 35:16	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 35:16	1	23	λουτῆρα	λουτήρ	noun, accusative masc. sg. after τὸν	1	laver
 EXO 35:16	1	24	καὶ	καί	conjunction	1	and
 EXO 35:16	1	25	τὴν	ὁ	article, accusative feminine singular	1	the
-EXO 35:16	1	26	βάσιν	βάσις	noun, accusative fem. sg. after τὴν	1	its base
+EXO 35:16	1	26	βάσιν	βάσις	noun, accusative fem. sg. after τὴν	1	base
 EXO 35:16	1	27	αὐτοῦ	αὐτός	personal pronoun, genitive singular	1	its
 EXO 35:17	1	1	καὶ	καί	conjunction	1	and
 EXO 35:17	1	2	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 35:17	1	3	ἱστία	ἱστίον	noun, accusative neut. pl. after τὰ	1	hangings
-EXO 35:17	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
+EXO 35:17	1	4	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 35:17	1	5	αὐλῆς	αὐλή	noun, genitive fem. sg. after τῆς	1	court
 EXO 35:17	1	6	καὶ	καί	conjunction	1	and
 EXO 35:17	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -326,24 +326,24 @@ EXO 35:17	1	8	στύλους	στῦλος	noun, accusative masc. pl.	1	posts
 EXO 35:17	1	9	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	1	its
 EXO 35:17	1	10	καὶ	καί	conjunction	1	and
 EXO 35:17	1	11	τὰς	ὁ	article, accusative feminine plural	1	the
-EXO 35:17	1	12	βάσεις	βάσις	noun, accusative fem. pl. after τὰς	1	bases/sockets
+EXO 35:17	1	12	βάσεις	βάσις	noun, accusative fem. pl. after τὰς	1	bases
 EXO 35:17	1	13	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	1	its
 EXO 35:17	1	14	καὶ	καί	conjunction	1	and
 EXO 35:17	1	15	τὸ	ὁ	article, nominative neuter singular	1	the
-EXO 35:17	1	16	ἐπίσπαστρον	ἐπίσπαστρον	noun, accusative neut. sg. after τὸ, hanging/screen	1	hanging/screen
-EXO 35:17	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
-EXO 35:17	1	18	θύρας	θύρα	noun, genitive fem. sg. after τῆς	1	entrance/door
-EXO 35:17	1	19	τῆς	ὁ	article, genitive feminine singular	1	the
+EXO 35:17	1	16	ἐπίσπαστρον	ἐπίσπαστρον	noun, accusative neut. sg. after τὸ, hanging/screen	1	screen
+EXO 35:17	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
+EXO 35:17	1	18	θύρας	θύρα	noun, genitive fem. sg. after τῆς	1	door
+EXO 35:17	1	19	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 35:17	1	20	αὐλῆς	αὐλή	noun, genitive fem. sg. after τῆς	1	court
 EXO 35:18	1	1	καὶ	καί	conjunction	1	and
 EXO 35:18	1	2	τοὺς	ὁ	article, accusative masculine plural	1	the
-EXO 35:18	1	3	πασσάλους	πάσσαλος	noun, accusative masc. pl.	1	pegs/pins
-EXO 35:18	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
-EXO 35:18	1	5	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	1	tent/tabernacle
+EXO 35:18	1	3	πασσάλους	πάσσαλος	noun, accusative masc. pl.	1	pegs
+EXO 35:18	1	4	τῆς	ὁ	article, genitive feminine singular	1	of the
+EXO 35:18	1	5	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	1	tabernacle
 EXO 35:18	1	6	καὶ	καί	conjunction	1	and
 EXO 35:18	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
-EXO 35:18	1	8	πασσάλους	πάσσαλος	noun, accusative masc. pl.	1	pegs/pins
-EXO 35:18	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
+EXO 35:18	1	8	πασσάλους	πάσσαλος	noun, accusative masc. pl.	1	pegs
+EXO 35:18	1	9	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 35:18	1	10	αὐλῆς	αὐλή	noun, genitive fem. sg. after τῆς	1	court
 EXO 35:18	1	11	καὶ	καί	conjunction	1	and
 EXO 35:18	1	12	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -351,15 +351,15 @@ EXO 35:18	1	13	σχοινία	σχοινίον	noun, accusative neut. pl. after 
 EXO 35:18	1	14	αὐτῶν	αὐτός	personal pronoun, genitive plural	1	their
 EXO 35:19	1	1	καὶ	καί	conjunction	1	and
 EXO 35:19	1	2	τὰς	ὁ	article, accusative feminine plural	1	the
-EXO 35:19	1	3	στολὰς	στολή	noun, accusative fem. pl. after τὰς	1	garments/vestments
+EXO 35:19	1	3	στολὰς	στολή	noun, accusative fem. pl. after τὰς	1	garments
 EXO 35:19	1	4	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 35:19	1	5	ἁγίας	ἅγιος	adjective, accusative fem. pl. with στολὰς	1	holy
-EXO 35:19	1	6	Ἀαρὼν	Ἀαρών	personal name, nominative masc. sg. variant accent	1	Aaron
-EXO 35:19	1	7	τοῦ	ὁ	article, genitive singular	1	the
+EXO 35:19	1	6	Ἀαρὼν	Ἀαρών	personal name, nominative masc. sg. variant accent	1	of Aaron
+EXO 35:19	1	7	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 35:19	1	8	ἱερέως	ἱερεύς	noun, genitive masculine singular, in apposition	1	priest
 EXO 35:19	1	9	καὶ	καί	conjunction	1	and
 EXO 35:19	1	10	τὰς	ὁ	article, accusative feminine plural	1	the
-EXO 35:19	1	11	στολὰς	στολή	noun, accusative fem. pl. after τὰς	1	garments/vestments
+EXO 35:19	1	11	στολὰς	στολή	noun, accusative fem. pl. after τὰς	1	garments
 EXO 35:19	1	12	ἐν	ἐν	preposition with dative	1	in
 EXO 35:19	1	13	αἷς	ὅς	relative pronoun, dative fem. pl.	1	which
 EXO 35:19	1	14	λειτουργοῦσιν	λειτουργέω	present active indicative, 3rd pl.	1	they minister
@@ -367,25 +367,25 @@ EXO 35:19	1	15	ἐν	ἐν	preposition with dative	1	in
 EXO 35:19	1	16	αὐταῖς	αὐτός	pronoun, dative fem. pl. after ἐν, resumptive 'in them'	1	them
 EXO 35:19	1	17	ἐν	ἐν	preposition with dative	1	in
 EXO 35:19	1	18	τῷ	ὁ	article, dative masculine singular	1	the
-EXO 35:19	1	19	ἁγίῳ	ἅγιος	adjective/noun, dative neut. sg. after ἐν τῷ in ἁγίῳ τῶν ἁγίων	1	holy (place)
+EXO 35:19	1	19	ἁγίῳ	ἅγιος	adjective/noun, dative neut. sg. after ἐν τῷ in ἁγίῳ τῶν ἁγίων	1	holy place
 EXO 35:19	1	20	καὶ	καί	conjunction	1	and
 EXO 35:19	1	21	τοὺς	ὁ	article, accusative masculine plural	1	the
-EXO 35:19	1	22	χιτῶνας	χιτών	noun, accusative masc. pl.	1	tunics/coats
-EXO 35:19	1	23	τοῖς	ὁ	article, dative neuter plural	1	the
+EXO 35:19	1	22	χιτῶνας	χιτών	noun, accusative masc. pl.	1	tunics
+EXO 35:19	1	23	τοῖς	ὁ	article, dative neuter plural	1	for the
 EXO 35:19	1	24	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
-EXO 35:19	1	25	Ἀαρὼν	Ἀαρών	personal name, nominative masc. sg. variant accent	1	Aaron
-EXO 35:19	1	26	τῆς	ὁ	article, genitive feminine singular	1	the
+EXO 35:19	1	25	Ἀαρὼν	Ἀαρών	personal name, nominative masc. sg. variant accent	1	of Aaron
+EXO 35:19	1	26	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 35:19	1	27	ἱερατείας	ἱερατεία	noun, genitive fem. sg. after τῆς 'of/for the priesthood', in apposition	1	priestly service
 EXO 35:19	1	28	καὶ	καί	conjunction	1	and
 EXO 35:19	1	29	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 35:19	1	30	ἔλαιον	ἔλαιον	noun, accusative neut. sg.	1	oil
-EXO 35:19	1	31	τοῦ	ὁ	article, genitive singular	1	the
+EXO 35:19	1	31	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 35:19	1	32	χρίσματος	χρίσμα	noun, genitive neut. sg. after τοῦ, of anointing	1	anointing
 EXO 35:19	1	33	καὶ	καί	conjunction	1	and
 EXO 35:19	1	34	τὸ	ὁ	article, nominative neuter singular	1	the
-EXO 35:19	1	35	θυμίαμα	θυμίαμα	noun, nominative/accusative neut. sg., incense	1	incense/spices for incense
-EXO 35:19	1	36	τῆς	ὁ	article, genitive feminine singular	1	the
-EXO 35:19	1	37	συνθέσεως	σύνθεσις	noun, genitive fem. sg. in σύνθεσις τοῦ ἁγίου 'compound of the sanctuary/incense'	1	compound (incense)
+EXO 35:19	1	35	θυμίαμα	θυμίαμα	noun, nominative/accusative neut. sg., incense	1	incense
+EXO 35:19	1	36	τῆς	ὁ	article, genitive feminine singular	1	of the
+EXO 35:19	1	37	συνθέσεως	σύνθεσις	noun, genitive fem. sg. in σύνθεσις τοῦ ἁγίου 'compound of the sanctuary/incense'	1	compound
 EXO 35:20	1	1	Καὶ	καί	conjunction	1	and
 EXO 35:20	1	2	ἐξῆλθε	ἐξέρχομαι	aorist active indicative, 3rd sg.	1	went out/departed
 EXO 35:20	1	3	πᾶσα	πᾶς	adjective, nominative fem. sg. with συναγωγὴ	1	all (the whole)
@@ -398,15 +398,15 @@ EXO 35:21	1	1	Καὶ	καί	conjunction	1	and
 EXO 35:21	1	2	ἤνεγκαν	φέρω	aorist active indicative, 3rd pl.	1	they brought
 EXO 35:21	1	3	ἕκαστος	ἕκαστος	pronoun, nominative masc. sg., each one	1	each man
 EXO 35:21	1	4	ὧν	ὅς	relative pronoun, genitive pl. 'whose'	1	whose
-EXO 35:21	1	5	ἔφερεν	φέρω	imperfect active indicative, 3rd sg. with καρδία subject 'their heart brought/moved	1	moved/impelled
+EXO 35:21	1	5	ἔφερεν	φέρω	imperfect active indicative, 3rd sg. with καρδία subject 'their heart brought/moved	1	moved
 EXO 35:21	1	6	ἡ	ὁ	article, nominative feminine singular	1	the
 EXO 35:21	1	7	καρδία	καρδία	noun, nominative feminine singular after ἡ	1	heart
 EXO 35:21	1	8	αὐτῶν	αὐτός	personal pronoun, genitive plural	1	their
 EXO 35:21	1	9	καὶ	καί	conjunction	1	and
-EXO 35:21	1	10	οἷς	ὅς	relative pronoun, dative masc. pl. 'to whom it seemed	1	whose (to whom)
-EXO 35:21	1	11	ἔδοξε	δοκέω	aorist active indicative, 3rd sg. impersonal with dative, 'it seemed good'	1	were willing/it seemed good
-EXO 35:21	1	12	τῇ	ὁ	article, dative feminine singular	1	the
-EXO 35:21	1	13	ψυχῇ	ψυχή	noun, dative fem. sg. after τῇ	1	in soul/mind
+EXO 35:21	1	10	οἷς	ὅς	relative pronoun, dative masc. pl. 'to whom it seemed	1	to whom
+EXO 35:21	1	11	ἔδοξε	δοκέω	aorist active indicative, 3rd sg. impersonal with dative, 'it seemed good'	1	it seemed good
+EXO 35:21	1	12	τῇ	ὁ	article, dative feminine singular	1	to the
+EXO 35:21	1	13	ψυχῇ	ψυχή	noun, dative fem. sg. after τῇ	1	soul
 EXO 35:21	1	14	αὐτῶν	αὐτός	personal pronoun, genitive plural	1	their
 EXO 35:21	1	15	ἤνεγκαν	φέρω	aorist active indicative, 3rd pl.	1	they brought
 EXO 35:21	1	16	ἀφαίρεμα	ἀφαίρεμα	noun, nominative/accusative neut. sg.	1	an offering
@@ -415,22 +415,22 @@ EXO 35:21	1	18	εἰς	εἰς	preposition with accusative	1	for
 EXO 35:21	1	19	πάντα	πᾶς	adjective, accusative neut. pl. after πάντα adverbial object 'all	1	all
 EXO 35:21	1	20	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 35:21	1	21	ἔργα	ἔργον	noun, accusative neut. pl.	1	works
-EXO 35:21	1	22	τῆς	ὁ	article, genitive feminine singular	1	the
-EXO 35:21	1	23	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	1	tent/tabernacle
+EXO 35:21	1	22	τῆς	ὁ	article, genitive feminine singular	1	of the
+EXO 35:21	1	23	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	1	tabernacle
 EXO 35:21	1	24	τοῦ	ὁ	article, genitive singular	1	of the
-EXO 35:21	1	25	μαρτυρίου	μαρτύριον	noun, genitive neut. sg.	1	witness/testimony
+EXO 35:21	1	25	μαρτυρίου	μαρτύριον	noun, genitive neut. sg.	1	testimony
 EXO 35:21	1	26	καὶ	καί	conjunction	1	and
 EXO 35:21	1	27	εἰς	εἰς	preposition with accusative	1	for
 EXO 35:21	1	28	πάντα	πᾶς	adjective, accusative neut. pl. after πάντα adverbial object 'all	1	all
 EXO 35:21	1	29	τὰ	ὁ	article, accusative neuter plural	1	the
-EXO 35:21	1	30	κάτεργα	κάτεργον	noun, accusative neut. pl. after πάντα τὰ	1	service (works/furnishing)
+EXO 35:21	1	30	κάτεργα	κάτεργον	noun, accusative neut. pl. after πάντα τὰ	1	service
 EXO 35:21	1	31	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	1	of it
 EXO 35:21	1	32	καὶ	καί	conjunction	1	and
 EXO 35:21	1	33	εἰς	εἰς	preposition with accusative	1	for
 EXO 35:21	1	34	πάσας	πᾶς	adjective, accusative feminine plural with ἡμέρας after τὰς, duration	1	all
 EXO 35:21	1	35	τὰς	ὁ	article, accusative feminine plural	1	the
-EXO 35:21	1	36	στολὰς	στολή	noun, accusative fem. pl. after τὰς	1	garments/vestments
-EXO 35:21	1	37	τοῦ	ὁ	article, genitive singular	1	the
+EXO 35:21	1	36	στολὰς	στολή	noun, accusative fem. pl. after τὰς	1	garments
+EXO 35:21	1	37	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 35:21	1	38	ἁγίου	ἅγιος	adjective/noun, genitive neut. sg. after τοῦ 'of the sanctuary'	1	sanctuary
 EXO 35:22	1	1	Καὶ	καί	conjunction	1	and
 EXO 35:22	1	2	ἤνεγκαν	φέρω	aorist active indicative, 3rd pl.	1	they brought
@@ -441,34 +441,34 @@ EXO 35:22	1	6	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 35:22	1	7	γυναικῶν	γυνή	noun, genitive feminine plural	1	women
 EXO 35:22	1	8	αὐτῶν	αὐτός	personal pronoun, genitive plural	1	their
 EXO 35:22	1	9	πᾶς	πᾶς	adjective/pronoun, nominative masc. sg. with participle ὁ ζητῶν, everyone	1	everyone
-EXO 35:22	1	10	ᾧ	ὅς	relative pronoun, dative masc. sg. with πᾶς	1	whose
-EXO 35:22	1	11	ἔδοξε	δοκέω	aorist active indicative, 3rd sg. impersonal with dative, 'it seemed good'	1	were willing/it seemed good
-EXO 35:22	1	12	τῇ	ὁ	article, dative feminine singular	1	the
-EXO 35:22	1	13	διανοίᾳ	διάνοια	noun, dative fem. sg. after ἐν τῇ	1	in the mind/heart
+EXO 35:22	1	10	ᾧ	ὅς	relative pronoun, dative masc. sg. with πᾶς	1	to whom
+EXO 35:22	1	11	ἔδοξε	δοκέω	aorist active indicative, 3rd sg. impersonal with dative, 'it seemed good'	1	it seemed good
+EXO 35:22	1	12	τῇ	ὁ	article, dative feminine singular	1	in the
+EXO 35:22	1	13	διανοίᾳ	διάνοια	noun, dative fem. sg. after ἐν τῇ	1	mind
 EXO 35:22	1	14	ἤνεγκαν	φέρω	aorist active indicative, 3rd pl.	1	they brought
-EXO 35:22	1	15	σφραγίδας	σφραγίς	noun, accusative fem. pl., signet rings	1	signets/rings
+EXO 35:22	1	15	σφραγίδας	σφραγίς	noun, accusative fem. pl., signet rings	1	seals
 EXO 35:22	1	16	καὶ	καί	conjunction	1	and
 EXO 35:22	1	17	ἐνώτια	ἐνώτιον	noun, accusative neut. pl.	1	earrings
 EXO 35:22	1	18	καὶ	καί	conjunction	1	and
 EXO 35:22	1	19	δακτυλίους	δακτύλιος	noun, accusative masc. pl.	1	rings
 EXO 35:22	1	20	καὶ	καί	conjunction	1	and
-EXO 35:22	1	21	ἐμπλόκια	ἐμπλόκιον	noun, accusative neut. pl., brooches/ornaments	1	ornaments/brooches
+EXO 35:22	1	21	ἐμπλόκια	ἐμπλόκιον	noun, accusative neut. pl., brooches/ornaments	1	ornaments
 EXO 35:22	1	22	καὶ	καί	conjunction	1	and
 EXO 35:22	1	23	περιδέξια	περιδέξιον	noun, accusative neut. pl.	1	bracelets
-EXO 35:22	1	24	πᾶν	πᾶς	adjective, nominative neut. sg. with διανοῖγον	1	every (thing)
+EXO 35:22	1	24	πᾶν	πᾶς	adjective, nominative neut. sg. with διανοῖγον	1	every
 EXO 35:22	1	25	σκεῦος	σκεῦος	noun, accusative neut. sg. after πᾶν, article/vessel	1	article
 EXO 35:22	1	26	χρυσοῦν	χρυσοῦς	adjective, accusative neut. sg. with σκεῦος	1	of gold
 EXO 35:23	1	1	καὶ	καί	conjunction	1	and
-EXO 35:23	1	2	πάντες	πᾶς	adjective/pronoun, nominative masc. pl.	1	all (who)
-EXO 35:23	1	3	ὅσοι	ὅσος	relative pronoun, nominative masc. pl.	1	whoever/as many as
+EXO 35:23	1	2	πάντες	πᾶς	adjective/pronoun, nominative masc. pl.	1	all
+EXO 35:23	1	3	ὅσοι	ὅσος	relative pronoun, nominative masc. pl.	1	who
 EXO 35:23	1	4	ἤνεγκαν	φέρω	aorist active indicative, 3rd pl.	1	they brought
 EXO 35:23	1	5	ἀφαίρεμα	ἀφαίρεμα	noun, nominative/accusative neut. sg.	1	an offering
 EXO 35:23	1	6	χρυσίου	χρυσίον	noun, genitive neut. sg.	1	of gold
 EXO 35:23	1	7	Κυρίῳ	κύριος	noun, dative masculine singular, to the Lord	1	to the Lord
 EXO 35:23	1	8	καὶ	καί	conjunction	1	and
 EXO 35:23	1	9	πᾶς	πᾶς	adjective/pronoun, nominative masc. sg. with participle ὁ ζητῶν, everyone	1	everyone
-EXO 35:23	1	10	ᾧ	ὅς	relative pronoun, dative masc. sg. with πᾶς	1	whose
-EXO 35:23	1	11	εὑρέθη	εὑρίσκω	aorist passive indicative, 3rd sg., was found	1	was found (had)
+EXO 35:23	1	10	ᾧ	ὅς	relative pronoun, dative masc. sg. with πᾶς	1	to whom
+EXO 35:23	1	11	εὑρέθη	εὑρίσκω	aorist passive indicative, 3rd sg., was found	1	was found
 EXO 35:23	1	12	παρ᾽	παρά	preposition, elided with dative αὐτῷ παρ᾽ αὐτῷ 'with him'	1	with
 EXO 35:23	1	13	αὐτῷ	αὐτός	pronoun, dative masc. sg. αὐτῷ τε καὶ τῷ Ἐλιὰβ 'to him and to Eliab'	1	him
 EXO 35:23	1	14	ὑάκινθος	ὑάκινθος	noun, nominative fem. sg. in list at 35:23 'violet	1	violet
@@ -502,16 +502,16 @@ EXO 35:24	1	10	ἀφαιρέματα	ἀφαίρεμα	noun, accusative neut. pl
 EXO 35:24	1	11	Κυρίῳ	κύριος	noun, dative masculine singular, to the Lord	1	to the Lord
 EXO 35:24	1	12	καὶ	καί	conjunction	1	and
 EXO 35:24	1	13	παρ᾽	παρά	preposition, elided with dative αὐτῷ παρ᾽ αὐτῷ 'with him'	1	with
-EXO 35:24	1	14	οἷς	ὅς	relative pronoun, dative masc. pl. 'to whom it seemed	1	whose (to whom)
-EXO 35:24	1	15	εὑρέθη	εὑρίσκω	aorist passive indicative, 3rd sg., was found	1	was found (had)
+EXO 35:24	1	14	οἷς	ὅς	relative pronoun, dative masc. pl. 'to whom it seemed	1	whom
+EXO 35:24	1	15	εὑρέθη	εὑρίσκω	aorist passive indicative, 3rd sg., was found	1	was found
 EXO 35:24	1	16	ξύλα	ξύλον	noun, accusative neut. pl. in lists	1	wood
 EXO 35:24	1	17	ἄσηπτα	ἄσηπτος	adjective, accusative neut. pl.	1	decay-resistant
 EXO 35:24	1	18	εἰς	εἰς	preposition with accusative	1	for
 EXO 35:24	1	19	πάντα	πᾶς	adjective, accusative neut. pl. after πάντα adverbial object 'all	1	all
 EXO 35:24	1	20	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 35:24	1	21	ἔργα	ἔργον	noun, accusative neut. pl.	1	works
-EXO 35:24	1	22	τῆς	ὁ	article, genitive feminine singular	1	the
-EXO 35:24	1	23	κατασκευῆς	κατασκευή	noun, genitive fem. sg. after τῆς, making/equipment 'works of the construction'	1	work/construction
+EXO 35:24	1	22	τῆς	ὁ	article, genitive feminine singular	1	of the
+EXO 35:24	1	23	κατασκευῆς	κατασκευή	noun, genitive fem. sg. after τῆς, making/equipment 'works of the construction'	1	construction
 EXO 35:24	1	24	ἤνεγκαν	φέρω	aorist active indicative, 3rd pl.	1	they brought
 EXO 35:25	1	1	Καὶ	καί	conjunction	1	and
 EXO 35:25	1	2	πᾶσα	πᾶς	adjective, nominative fem. sg. with συναγωγὴ	1	every
@@ -590,19 +590,19 @@ EXO 35:29	1	3	ἀνὴρ	ἀνήρ	noun, nominative masc. sg. in οὐκ ἔθη
 EXO 35:29	1	4	ἢ	ἤ	disjunctive particle, or	1	or
 EXO 35:29	1	5	γυνὴ	γυνή	noun, nominative fem. sg. after πᾶσα	1	woman
 EXO 35:29	1	6	ὧν	ὅς	relative pronoun, genitive pl. 'whose'	1	whose
-EXO 35:29	1	7	ἔφερεν	φέρω	imperfect active indicative, 3rd sg. with καρδία subject 'their heart brought/moved	1	moved/impelled
+EXO 35:29	1	7	ἔφερεν	φέρω	imperfect active indicative, 3rd sg. with καρδία subject 'their heart brought/moved	1	moved
 EXO 35:29	1	8	ἡ	ὁ	article, nominative feminine singular	1	the
-EXO 35:29	1	9	διάνοια	διάνοια	noun, nominative fem. sg. after ἡ	1	mind/heart
+EXO 35:29	1	9	διάνοια	διάνοια	noun, nominative fem. sg. after ἡ	1	mind
 EXO 35:29	1	10	αὐτῶν	αὐτός	pronoun, genitive pl. following παρά ὑμῶν as intensive	1	their
-EXO 35:29	1	11	εἰσελθόντας	εἰσέρχομαι	aorist active participle, accusative masc. pl. with object clause	1	undertaking/entering upon
-EXO 35:29	1	12	ποιεῖν	ποιέω	present active infinitive	1	to work/make
+EXO 35:29	1	11	εἰσελθόντας	εἰσέρχομαι	aorist active participle, accusative masc. pl. with object clause	1	coming in
+EXO 35:29	1	12	ποιεῖν	ποιέω	present active infinitive	1	to do
 EXO 35:29	1	13	πάντα	πᾶς	adjective, accusative neut. pl. after πάντα adverbial object 'all	1	all
 EXO 35:29	1	14	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 35:29	1	15	ἔργα	ἔργον	noun, accusative neut. pl.	1	works
-EXO 35:29	1	16	ὅσα	ὅσος	relative pronoun, accusative neut. pl.	1	all that/what
+EXO 35:29	1	16	ὅσα	ὅσος	relative pronoun, accusative neut. pl.	1	that
 EXO 35:29	1	17	συνέταξε	συντάσσω	aorist active indicative, 3rd sg.	1	commanded
 EXO 35:29	1	18	Κύριος	κύριος	noun, nominative masculine singular, the Lord	1	the Lord
-EXO 35:29	1	19	ποιῆσαι	ποιέω	aorist active infinitive	1	to do/make
+EXO 35:29	1	19	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
 EXO 35:29	1	20	αὐτὰ	αὐτός	pronoun, accusative neut. pl.	1	them
 EXO 35:29	1	21	διὰ	διά	preposition with genitive, through	1	through
 EXO 35:29	1	22	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	Moses
@@ -615,11 +615,11 @@ EXO 35:29	1	28	Κυρίῳ	κύριος	noun, dative masculine singular, to the 
 EXO 35:30	1	1	Καὶ	καί	conjunction	1	and
 EXO 35:30	1	2	εἶπε	λέγω	aorist active indicative, 3rd sg.	1	said
 EXO 35:30	1	3	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses
-EXO 35:30	1	4	τοῖς	ὁ	article, dative neuter plural	1	the
+EXO 35:30	1	4	τοῖς	ὁ	article, dative neuter plural	1	to the
 EXO 35:30	1	5	υἱοῖς	υἱός	noun, dative masculine plural, in apposition	1	sons
-EXO 35:30	1	6	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	Israel
-EXO 35:30	1	7	ἰδοὺ	ἰδού	presentative particle	1	behold/see
-EXO 35:30	1	8	ἀνακέκληκεν	ἀνακαλέω	perfect active indicative, 3rd sg.	1	summoned/called
+EXO 35:30	1	6	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
+EXO 35:30	1	7	ἰδοὺ	ἰδού	presentative particle	1	behold
+EXO 35:30	1	8	ἀνακέκληκεν	ἀνακαλέω	perfect active indicative, 3rd sg.	1	has called
 EXO 35:30	1	9	ὁ	ὁ	article nominative masculine singular	1	the
 EXO 35:30	1	10	Θεὸς	θεός	noun, nominative masculine singular	1	God
 EXO 35:30	1	11	ἐξ	ἐκ	preposition with genitive	1	by
@@ -629,12 +629,12 @@ EXO 35:30	1	14	Βεσελεὴλ	Βεσελεήλ	personal name, accusative masc
 EXO 35:30	1	15	τὸν	ὁ	article, accusative masculine singular	1	son
 EXO 35:30	1	16	τοῦ	ὁ	article, genitive singular	1	—
 EXO 35:30	1	17	Οὐρὶ	Οὐρί	personal name, genitive singular after τοῦ	1	of Uri
-EXO 35:30	1	18	υἱοῦ	υἱός	noun, genitive masculine singular	1	of the son
-EXO 35:30	1	19	Ὢρ	Ὤρ	personal name, genitive singular after υἱοῦ	1	of Or (Hur)
+EXO 35:30	1	18	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
+EXO 35:30	1	19	Ὢρ	Ὤρ	personal name, genitive singular after υἱοῦ	1	of Hur
 EXO 35:30	1	20	ἐκ	ἐκ	preposition with the genitive	1	from
 EXO 35:30	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 35:30	1	22	φυλῆς	φυλή	noun, genitive fem. sg. after ἐκ/τῆς	1	tribe
-EXO 35:30	1	23	Ἰούδα	Ἰούδα	indeclinable personal name, nominative in context	1	Judah
+EXO 35:30	1	23	Ἰούδα	Ἰούδα	indeclinable personal name, nominative in context	1	of Judah
 EXO 35:31	1	1	καὶ	καί	conjunction	1	and
 EXO 35:31	1	2	ἐνέπλησεν	ἐμπίμπλημι	aorist active indicative, 3rd sg.	1	he filled
 EXO 35:31	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
@@ -696,14 +696,14 @@ EXO 35:34	1	17	Δάν	Δάν	indeclinable personal name, nominative in context	1
 EXO 35:35	1	1	καὶ	καί	conjunction	1	and
 EXO 35:35	1	2	ἐνέπλησεν	ἐμπίμπλημι	aorist active indicative, 3rd sg.	1	he filled
 EXO 35:35	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-EXO 35:35	1	4	σοφίας	σοφία	noun, genitive fem. sg.	1	of wisdom/skill
+EXO 35:35	1	4	σοφίας	σοφία	noun, genitive fem. sg.	1	of wisdom
 EXO 35:35	1	5	διανοίας	διάνοια	noun, genitive fem. sg.	1	of understanding
 EXO 35:35	1	6	συνιέναι	συνίημι	present active infinitive	1	to understand
-EXO 35:35	1	7	ποιῆσαι	ποιέω	aorist active infinitive	1	to do/make
+EXO 35:35	1	7	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
 EXO 35:35	1	8	πάντα	πᾶς	adjective, accusative neut. pl. after πάντα adverbial object 'all	1	all
 EXO 35:35	1	9	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 35:35	1	10	ἔργα	ἔργον	noun, accusative neut. pl.	1	works
-EXO 35:35	1	11	τοῦ	ὁ	article, genitive singular	1	the
+EXO 35:35	1	11	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 35:35	1	12	ἁγίου	ἅγιος	adjective/noun, genitive neut. sg. after τοῦ 'of the sanctuary'	1	sanctuary
 EXO 35:35	1	13	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 35:35	1	14	ὑφαντὰ	ὑφαντός	adjective, accusative neut. pl. after τὰ	1	woven works
@@ -711,16 +711,16 @@ EXO 35:35	1	15	καὶ	καί	conjunction	1	and
 EXO 35:35	1	16	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 35:35	1	17	ποικιλτὰ	ποικιλτός	adjective, accusative neut. pl. after τὰ, embroidered/variegated works	1	embroidered works
 EXO 35:35	1	18	ὑφάναι	ὑφαίνω	aorist active infinitive	1	to weave
-EXO 35:35	1	19	τῷ	ὁ	article, dative masculine singular	1	the
-EXO 35:35	1	20	κοκκίνῳ	κόκκινος	adjective/noun, dative neut. sg. after τῷ, with scarlet	1	with scarlet
+EXO 35:35	1	19	τῷ	ὁ	article, dative masculine singular	1	with the
+EXO 35:35	1	20	κοκκίνῳ	κόκκινος	adjective/noun, dative neut. sg. after τῷ, with scarlet	1	scarlet
 EXO 35:35	1	21	καὶ	καί	conjunction	1	and
 EXO 35:35	1	22	τῇ	ὁ	article, dative feminine singular	1	the
 EXO 35:35	1	23	πορφύρᾳ	πορφύρα	noun, nominative fem. sg. in list	1	purple
 EXO 35:35	1	24	καὶ	καί	conjunction	1	and
 EXO 35:35	1	25	τῇ	ὁ	article, dative feminine singular	1	the
 EXO 35:35	1	26	βύσσῳ	βύσσος	noun, dative fem. sg. after τῇ, instrumental 'with fine linen'	1	fine linen
-EXO 35:35	1	27	ποιεῖν	ποιέω	present active infinitive	1	to work/make
-EXO 35:35	1	28	πᾶν	πᾶς	adjective, nominative neut. sg. with διανοῖγον	1	every (thing)
+EXO 35:35	1	27	ποιεῖν	ποιέω	present active infinitive	1	to do
+EXO 35:35	1	28	πᾶν	πᾶς	adjective, nominative neut. sg. with διανοῖγον	1	every
 EXO 35:35	1	29	ἔργον	ἔργον	noun, accusative neut. sg. as manner 'work/workmanship'	1	work
-EXO 35:35	1	30	ἀρχιτεκτονίας	ἀρχιτεκτονία	noun, genitive fem. sg. after τὰ ἔργα? here ἔργον ἀρχιτεκτονίας / τὰ ἔργα τῆς ἀρχιτεκτονίας, master workmanship/design	1	of craftsmanship/design
-EXO 35:35	1	31	ποικιλίας	ποικιλία	noun, genitive fem. sg. after ἀρχιτεκτονίας phrase ἔργον ἀρχιτεκτονίας ποικιλίας 'work of designed embroidery'	1	of embroidery (variegated work)
+EXO 35:35	1	30	ἀρχιτεκτονίας	ἀρχιτεκτονία	noun, genitive fem. sg. after τὰ ἔργα? here ἔργον ἀρχιτεκτονίας / τὰ ἔργα τῆς ἀρχιτεκτονίας, master workmanship/design	1	of craftsmanship
+EXO 35:35	1	31	ποικιλίας	ποικιλία	noun, genitive fem. sg. after ἀρχιτεκτονίας phrase ἔργον ἀρχιτεκτονίας ποικιλίας 'work of designed embroidery'	1	of embroidery

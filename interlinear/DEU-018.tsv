@@ -41,7 +41,7 @@ DEU 18:3	1	2	αὕτη	οὗτος	demonstrative pronoun, nominative feminine si
 DEU 18:3	1	3	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
 DEU 18:3	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
 DEU 18:3	1	5	κρίσις	κρίσις	noun, nominative feminine singular	1	due
-DEU 18:3	1	6	τῶν	ὁ	definite article, genitive plural	1	the
+DEU 18:3	1	6	τῶν	ὁ	definite article, genitive plural	1	of the
 DEU 18:3	1	7	ἱερέων	ἱερεὺς	noun, genitive masculine plural after τῶν	1	priests
 DEU 18:3	1	8	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 DEU 18:3	1	9	παρὰ	παρά	preposition with the genitive	1	from
@@ -134,7 +134,7 @@ DEU 18:6	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 18:6	1	5	Λευίτης	Λευίτης	title, nominative masculine singular	1	Levite
 DEU 18:6	1	6	ἐκ	ἐκ	preposition with the genitive	1	from
 DEU 18:6	1	7	μιᾶς	εἷς	cardinal numeral, genitive feminine singular	1	one
-DEU 18:6	1	8	τῶν	ὁ	definite article, genitive plural	1	the
+DEU 18:6	1	8	τῶν	ὁ	definite article, genitive plural	1	of the
 DEU 18:6	1	9	πόλεων	πόλις	noun, genitive fem. pl. after τῶν	1	cities
 DEU 18:6	1	10	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 18:6	1	11	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -174,7 +174,7 @@ DEU 18:7	1	13	ἀδελφοὶ	ἀδελφός	noun, nominative masc. pl.?	1	bre
 DEU 18:7	1	14	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 18:7	1	15	οἱ	ὁ	article, nominative masc. pl.	1	the
 DEU 18:7	1	16	Λευῖται	Λευίτης	title, nominative masculine plural	1	Levites
-DEU 18:7	1	17	οἱ	ὁ	article, nominative masc. pl.	1	the
+DEU 18:7	1	17	οἱ	ὁ	article, nominative masc. pl.	1	—
 DEU 18:7	1	18	παρεστηκότες	παρίσταμαι	perfect active participle, nominative masculine plural	1	standing
 DEU 18:7	1	19	ἐκεῖ	ἐκεῖ	adverb	1	there
 DEU 18:7	1	20	ἔναντι	ἔναντι	preposition with the genitive	1	before
@@ -208,9 +208,9 @@ DEU 18:9	1	17	ποιεῖν	ποιέω	present active infinitive	1	to do
 DEU 18:9	1	18	κατὰ	κατά	preposition with the accusative	1	according to
 DEU 18:9	1	19	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 DEU 18:9	1	20	βδελύγματα	βδέλυγμα	noun, accusative neuter plural	1	abominations
-DEU 18:9	1	21	τῶν	ὁ	definite article, genitive plural	1	the
+DEU 18:9	1	21	τῶν	ὁ	definite article, genitive plural	1	of the
 DEU 18:9	1	22	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
-DEU 18:9	1	23	ἐκείνων	ἐκεῖνος	demonstrative pronoun, genitive plural	1	of those
+DEU 18:9	1	23	ἐκείνων	ἐκεῖνος	demonstrative pronoun, genitive plural	1	those
 DEU 18:10	1	1	οὐχ	οὐ	negative adverb	1	not
 DEU 18:10	1	2	εὑρήσεται	εὑρίσκω	future passive indicative, 3rd singular	1	shall be found
 DEU 18:10	1	3	ἐν	ἐν	preposition with the dative	1	in
@@ -232,7 +232,7 @@ DEU 18:10	1	18	κληδονιζόμενος	κληδονίζομαι	present mid
 DEU 18:10	1	19	καὶ	καί	conjunction	1	and
 DEU 18:10	1	20	οἰωνιζόμενος	οἰωνίζομαι	present middle participle, nominative masculine singular	1	taking omens from birds
 DEU 18:10	1	21	φαρμακὸς	φαρμακός	noun, nominative masculine singular	1	sorcerer
-DEU 18:11	1	1	ἐπαείδων	ἐπαείδω	present active participle, nominative masculine singular	1	singing charms
+DEU 18:11	1	1	ἐπαείδων	ἐπαείδω	present active participle, nominative masculine singular	1	chanting
 DEU 18:11	1	2	ἐπαοιδὴν	ἐπαοιδή	noun, accusative feminine singular	1	charm
 DEU 18:11	1	3	ἐγγαστρίμυθος	ἐγγαστρίμυθος	noun, nominative masculine singular	1	medium
 DEU 18:11	1	4	καὶ	καί	conjunction	1	and
@@ -325,12 +325,12 @@ DEU 18:16	1	10	ἐν	ἐν	preposition with the dative	1	in
 DEU 18:16	1	11	Χωρὴβ	Χωρήβ	place name, indeclinable after ἐν	1	Horeb
 DEU 18:16	1	12	τῇ	ὁ	definite article, dative feminine singular	1	the
 DEU 18:16	1	13	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
-DEU 18:16	1	14	τῆς	ὁ	definite article, genitive feminine singular	1	the
+DEU 18:16	1	14	τῆς	ὁ	definite article, genitive feminine singular	1	of the
 DEU 18:16	1	15	ἐκκλησίας	ἐκκλησία	noun, genitive feminine singular	1	assembly
 DEU 18:16	1	16	λέγοντες	λέγω	present active participle, nominative masculine plural	1	saying
 DEU 18:16	1	17	οὐ	οὐ	negative adverb with future indicative	1	not
 DEU 18:16	1	18	προσθήσομεν	προστίθημι	future active indicative, 1st plural	1	shall do again
-DEU 18:16	1	19	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
+DEU 18:16	1	19	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	—
 DEU 18:16	1	20	ἀκοῦσαι	ἀκούω	aorist active infinitive	1	to hear
 DEU 18:16	1	21	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 18:16	1	22	φωνὴν	φωνή	noun, accusative feminine singular	1	voice
@@ -391,14 +391,14 @@ DEU 18:19	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 18:19	1	3	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 DEU 18:19	1	4	ἐκεῖνος	ἐκεῖνος	demonstrative adjective, nominative masculine singular	1	that
 DEU 18:19	1	5	ὃς	ὅς	relative pronoun, nominative masc. sg.	1	who
-DEU 18:19	1	6	ἐὰν	ἐάν	conditional conjunction	1	if
+DEU 18:19	1	6	ἐὰν	ἐάν	conditional conjunction	1	ever
 DEU 18:19	1	7	μὴ	μή	negative particle	1	not
 DEU 18:19	1	8	ἀκούσῃ	ἀκούω	aorist active subjunctive, 3rd singular	1	listens
 DEU 18:19	1	9	τῶν	ὁ	definite article, genitive plural	1	the
 DEU 18:19	1	10	λόγων	λόγος	noun, genitive masculine plural	1	words
 DEU 18:19	1	11	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 18:19	1	12	ὅσα	ὅσος	relative pronoun, accusative neuter plural	1	what
-DEU 18:19	1	13	ἐὰν	ἐάν	conditional conjunction	1	if
+DEU 18:19	1	13	ἐὰν	ἐάν	conditional conjunction	1	ever
 DEU 18:19	1	14	λαλήσῃ	λαλέω	aorist active subjunctive, 3rd singular	1	speaks
 DEU 18:19	1	15	ἐπὶ	ἐπί	preposition	1	in
 DEU 18:19	1	16	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
@@ -414,7 +414,7 @@ DEU 18:20	1	1	Πλὴν	πλήν	adverb	1	only
 DEU 18:20	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 18:20	1	3	προφήτης	προφήτης	noun, nominative masculine singular	1	prophet
 DEU 18:20	1	4	ὃς	ὅς	relative pronoun, nominative masc. sg.	1	who
-DEU 18:20	1	5	ἐὰν	ἐάν	conditional conjunction	1	if
+DEU 18:20	1	5	ἐὰν	ἐάν	conditional conjunction	1	ever
 DEU 18:20	1	6	ἀσεβήσῃ	ἀσεβέω	aorist active subjunctive, 3rd singular	1	acts impiously
 DEU 18:20	1	7	λαλῆσαι	λαλέω	aorist active infinitive	1	to speak
 DEU 18:20	1	8	ῥῆμα	ῥῆμα	noun, accusative neuter singular	1	word
@@ -429,11 +429,11 @@ DEU 18:20	1	16	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to hi
 DEU 18:20	1	17	λαλῆσαι	λαλέω	aorist active infinitive	1	to speak
 DEU 18:20	1	18	καὶ	καί	conjunction	1	and
 DEU 18:20	1	19	ὃς	ὅς	relative pronoun, nominative masc. sg.	1	who
-DEU 18:20	1	20	ἐὰν	ἐάν	conditional conjunction	1	if
+DEU 18:20	1	20	ἐὰν	ἐάν	conditional conjunction	1	ever
 DEU 18:20	1	21	λαλήσῃ	λαλέω	aorist active subjunctive, 3rd singular	1	speaks
-DEU 18:20	1	22	ἐπ᾽	ἐπί	preposition, elided	1	at
+DEU 18:20	1	22	ἐπ᾽	ἐπί	preposition, elided	1	in
 DEU 18:20	1	23	ὀνόματι	ὄνομα	noun, dative neuter singular	1	name
-DEU 18:20	1	24	θεῶν	θεός	noun, genitive masculine plural	1	gods
+DEU 18:20	1	24	θεῶν	θεός	noun, genitive masculine plural	1	of gods
 DEU 18:20	1	25	ἑτέρων	ἕτερος	adjective, genitive masculine plural	1	other
 DEU 18:20	1	26	ἀποθανεῖται	ἀποθνῄσκω	future middle indicative, 3rd singular	1	shall die
 DEU 18:20	1	27	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -455,7 +455,7 @@ DEU 18:21	1	13	οὐκ	οὐ	negative particle	1	not
 DEU 18:21	1	14	ἐλάλησε	λαλέω	aorist active indicative, 3rd singular	1	spoke
 DEU 18:21	1	15	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 18:22	1	1	ὅσα	ὅσος	relative pronoun, accusative neuter plural	1	what
-DEU 18:22	1	2	ἐὰν	ἐάν	conditional conjunction	1	if
+DEU 18:22	1	2	ἐὰν	ἐάν	conditional conjunction	1	ever
 DEU 18:22	1	3	λαλήσῃ	λαλέω	aorist active subjunctive, 3rd singular	1	speaks
 DEU 18:22	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 18:22	1	5	προφήτης	προφήτης	noun, nominative masculine singular	1	prophet

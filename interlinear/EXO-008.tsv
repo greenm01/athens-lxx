@@ -24,7 +24,7 @@ EXO 8:1	1	22	λατρεύσωσιν	λατρεύω	present active subjunctive, t
 EXO 8:2	1	1	Εἰ	εἰ	conditional conjunction	1	if
 EXO 8:2	1	2	δὲ	δέ	conjunction	1	and
 EXO 8:2	1	3	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
-EXO 8:2	1	4	βούλει	βούλομαι	present middle indicative, second singular	1	you wish
+EXO 8:2	1	4	βούλει	βούλομαι	present middle indicative, second singular	1	wish
 EXO 8:2	1	5	σὺ	σύ	pronoun, nominative second singular	1	you
 EXO 8:2	1	6	ἐξαποστεῖλαι	ἐξαποστέλλω	aorist active infinitive after ὥστε/τοῦ μὴ	1	to send out
 EXO 8:2	1	7	ἰδοὺ	ἰδού	interjection	1	look
@@ -51,7 +51,7 @@ EXO 8:3	1	13	καὶ	καί	conjunction	1	and
 EXO 8:3	1	14	εἰς	εἰς	preposition with the accusative	1	into
 EXO 8:3	1	15	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 8:3	1	16	ταμιεῖα	ταμιεῖον	noun, accusative neuter plural after τὰ/eἰς τὰ, chambers	1	chambers
-EXO 8:3	1	17	τῶν	ὁ	article, genitive masculine plural	1	the
+EXO 8:3	1	17	τῶν	ὁ	article, genitive masculine plural	1	of the
 EXO 8:3	1	18	κοιτώνων	κοιτών	noun, genitive masculine plural after τῶν	1	bedchambers
 EXO 8:3	1	19	σου	σύ	pronoun, possessive genitive second singular	1	your
 EXO 8:3	1	20	καὶ	καί	conjunction	1	and
@@ -63,11 +63,11 @@ EXO 8:3	1	25	καὶ	καί	conjunction	1	and
 EXO 8:3	1	26	εἰς	εἰς	preposition with the accusative	1	into
 EXO 8:3	1	27	τοὺς	ὁ	article, accusative masculine plural	1	the
 EXO 8:3	1	28	οἴκους	οἶκος	noun, accusative masculine plural after τοὺς/eἰς τοὺς	1	houses
-EXO 8:3	1	29	τῶν	ὁ	article, genitive masculine plural	1	the
+EXO 8:3	1	29	τῶν	ὁ	article, genitive masculine plural	1	of the
 EXO 8:3	1	30	θεραπόντων	θεράπων	noun, genitive masculine plural after τῶν, attendants/servants	1	servants
 EXO 8:3	1	31	σου	σύ	pronoun, possessive genitive second singular	1	your
 EXO 8:3	1	32	καὶ	καί	conjunction	1	and
-EXO 8:3	1	33	τοῦ	ὁ	article, genitive singular	1	the
+EXO 8:3	1	33	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 8:3	1	34	λαοῦ	λαός	noun, genitive masculine singular	1	people
 EXO 8:3	1	35	σου	σύ	pronoun, possessive genitive second singular	1	your
 EXO 8:3	1	36	καὶ	καί	conjunction	1	and
@@ -107,12 +107,12 @@ EXO 8:5	1	3	Κύριος	κύριος	noun, nominative masculine singular, the L
 EXO 8:5	1	4	πρὸς	πρός	preposition with the accusative	1	to
 EXO 8:5	1	5	Μωυσῆν	Μωυσῆς	personal name, accusative masculine singular	1	Moses
 EXO 8:5	1	6	εἶπον	λέγω	aorist active imperative, second singular	1	say
-EXO 8:5	1	7	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
+EXO 8:5	1	7	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	to Aaron
 EXO 8:5	1	8	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 8:5	1	9	ἀδελφῷ	ἀδελφός	noun, dative masculine singular after τῷ	1	brother
 EXO 8:5	1	10	σου	σύ	pronoun, possessive genitive second singular	1	your
 EXO 8:5	1	11	ἔκτεινον	ἐκτείνω	aorist active imperative, second singular	1	stretch out
-EXO 8:5	1	12	τῇ	ὁ	article, dative feminine singular	1	the
+EXO 8:5	1	12	τῇ	ὁ	article, dative feminine singular	1	with the
 EXO 8:5	1	13	χειρί	χείρ	noun, dative feminine singular after τῇ	1	hand
 EXO 8:5	1	14	σου	σύ	pronoun, possessive genitive second singular	1	your
 EXO 8:5	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -141,7 +141,7 @@ EXO 8:6	1	1	Καὶ	καί	conjunction	1	and
 EXO 8:6	1	2	ἐξέτεινεν	ἐκτείνω	aorist active indicative, third singular	1	stretched out
 EXO 8:6	1	3	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
 EXO 8:6	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
-EXO 8:6	1	5	χεῖρα	χείρ	noun, accusative feminine singular	1	a hand
+EXO 8:6	1	5	χεῖρα	χείρ	noun, accusative feminine singular	1	hand
 EXO 8:6	1	6	ἐπὶ	ἐπί	preposition (case from context)	1	on
 EXO 8:6	1	7	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 8:6	1	8	ὕδατα	ὕδωρ	noun, accusative neuter plural after τὰ	1	waters
@@ -153,7 +153,7 @@ EXO 8:6	1	13	βατράχους	βάτραχος	noun, accusative masculine plur
 EXO 8:6	1	14	καὶ	καί	conjunction	1	and
 EXO 8:6	1	15	ἀνεβιβάσθη	ἀναβιβάζω	aorist passive indicative, third singular, passive in form 'came up (was brought up)' with collective βάτραχος	1	came up
 EXO 8:6	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
-EXO 8:6	1	17	βάτραχος	βάτραχος	noun, nominative masculine singular after ὁ, collective in sense	1	frog (collectively)
+EXO 8:6	1	17	βάτραχος	βάτραχος	noun, nominative masculine singular after ὁ, collective in sense	1	frog
 EXO 8:6	1	18	καὶ	καί	conjunction	1	and
 EXO 8:6	1	19	ἐκάλυψε	καλύπτω	aorist active indicative, third singular	1	covered
 EXO 8:6	1	20	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -314,7 +314,7 @@ EXO 8:12	1	12	Κύριον	κύριος	noun, accusative masculine singular, the
 EXO 8:12	1	13	περὶ	περί	preposition with the accusative	1	concerning
 EXO 8:12	1	14	τοῦ	ὁ	article, genitive singular	1	the
 EXO 8:12	1	15	ὁρισμοῦ	ὁρισμός	noun, genitive masculine singular	1	appointed time
-EXO 8:12	1	16	τῶν	ὁ	article, genitive masculine plural	1	the
+EXO 8:12	1	16	τῶν	ὁ	article, genitive masculine plural	1	of the
 EXO 8:12	1	17	βατράχων	βάτραχος	noun, genitive masculine plural after τῶν	1	frogs
 EXO 8:12	1	18	ὡς	ὡς	adverb	1	like
 EXO 8:12	1	19	ἐτάξατο	τάσσω	aorist middle indicative, third singular as printed, 'as Pharaoh had appointed'	1	had appointed
@@ -362,7 +362,7 @@ EXO 8:15	1	10	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singul
 EXO 8:15	1	11	καὶ	καί	conjunction	1	and
 EXO 8:15	1	12	οὐκ	οὐ	particle	1	not
 EXO 8:15	1	13	εἰσήκουσεν	εἰσακούω	aorist active indicative, third singular with genitive	1	listened
-EXO 8:15	1	14	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
+EXO 8:15	1	14	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	to them
 EXO 8:15	1	15	καθάπερ	καθάπερ	comparative conjunction	1	just as
 EXO 8:15	1	16	ἐλάλησε	λαλέω	aorist active indicative, third singular, feminine subject in context	1	spoke
 EXO 8:15	1	17	Κύριος	κύριος	noun, nominative masculine singular, the LORD	1	the Lord
@@ -372,9 +372,9 @@ EXO 8:16	1	3	Κύριος	κύριος	noun, nominative masculine singular, the 
 EXO 8:16	1	4	πρὸς	πρός	preposition with the accusative	1	to
 EXO 8:16	1	5	Μωυσῆν	Μωυσῆς	personal name, accusative masculine singular	1	Moses
 EXO 8:16	1	6	εἶπον	λέγω	aorist active imperative, second singular	1	say
-EXO 8:16	1	7	Ἀαρών	Ἀαρών	indeclinable personal name, nominative in context	1	Aaron
+EXO 8:16	1	7	Ἀαρών	Ἀαρών	indeclinable personal name, nominative in context	1	to Aaron
 EXO 8:16	1	8	ἔκτεινον	ἐκτείνω	aorist active imperative, second singular	1	stretch out
-EXO 8:16	1	9	τῇ	ὁ	article, dative feminine singular	1	the
+EXO 8:16	1	9	τῇ	ὁ	article, dative feminine singular	1	with the
 EXO 8:16	1	10	χειρὶ	χείρ	noun, dative feminine singular after τῇ, instrumental ('with the hand' holding the staff)	1	hand
 EXO 8:16	1	11	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 8:16	1	12	ῥάβδον	ῥάβδος	noun, accusative feminine singular after τὴν	1	staff
@@ -383,7 +383,7 @@ EXO 8:16	1	14	καὶ	καί	conjunction	1	and
 EXO 8:16	1	15	πάταξον	πατάσσω	aorist active imperative, second singular	1	strike
 EXO 8:16	1	16	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 8:16	1	17	χῶμα	χῶμα	noun, accusative neuter singular, dust/earth	1	dust
-EXO 8:16	1	18	τῆς	ὁ	article, genitive feminine singular	1	the
+EXO 8:16	1	18	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 8:16	1	19	γῆς	γῆ	noun, genitive feminine singular	1	land
 EXO 8:16	1	20	καὶ	καί	conjunction	1	and
 EXO 8:16	1	21	ἔσονται	εἰμί	future indicative, third plural	1	will be
@@ -404,7 +404,7 @@ EXO 8:16	1	35	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine 
 EXO 8:17	1	1	Ἐξέτεινεν	ἐκτείνω	aorist active indicative, third singular	1	stretched out
 EXO 8:17	1	2	οὖν	οὖν	inferential particle	1	then
 EXO 8:17	1	3	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
-EXO 8:17	1	4	τῇ	ὁ	article, dative feminine singular	1	the
+EXO 8:17	1	4	τῇ	ὁ	article, dative feminine singular	1	with the
 EXO 8:17	1	5	χειρὶ	χείρ	noun, dative feminine singular after τῇ, instrumental ('with the hand' holding the staff)	1	hand
 EXO 8:17	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 8:17	1	7	ῥάβδον	ῥάβδος	noun, accusative feminine singular after τὴν	1	staff
@@ -445,12 +445,12 @@ EXO 8:18	1	3	ὡσαύτως	ὡσαύτως	adverb	1	likewise
 EXO 8:18	1	4	καὶ	καί	conjunction	1	and
 EXO 8:18	1	5	οἱ	ὁ	article, nominative masculine plural	1	the
 EXO 8:18	1	6	ἐπαοιδοὶ	ἐπαοιδός	noun, nominative masculine plural after οἱ, enchanters	1	enchanters
-EXO 8:18	1	7	ταῖς	ὁ	article, dative feminine plural	1	the
+EXO 8:18	1	7	ταῖς	ὁ	article, dative feminine plural	1	with the
 EXO 8:18	1	8	φαρμακίαις	φαρμακία	noun, dative feminine plural after ταῖς, instrumental 'by their sorceries'	1	sorceries
 EXO 8:18	1	9	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 EXO 8:18	1	10	ἐξαγαγεῖν	ἐξάγω	aorist active infinitive, produce/bring forth	1	to bring forth
 EXO 8:18	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
-EXO 8:18	1	12	σκνίφα	σκνίψ	noun, accusative masculine singular after τὸν, collective	1	gnat (collectively)
+EXO 8:18	1	12	σκνίφα	σκνίψ	noun, accusative masculine singular after τὸν, collective	1	gnat
 EXO 8:18	1	13	καὶ	καί	conjunction	1	and
 EXO 8:18	1	14	οὐκ	οὐ	particle	1	not
 EXO 8:18	1	15	ἠδύναντο	δύναμαι	imperfect middle indicative, third plural	1	they were able
@@ -469,7 +469,7 @@ EXO 8:19	1	1	Εἶπαν	λέγω	aorist active indicative, third person plural	
 EXO 8:19	1	2	οὖν	οὖν	inferential particle	1	then
 EXO 8:19	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 EXO 8:19	1	4	ἐπαοιδοὶ	ἐπαοιδός	noun, nominative masculine plural after οἱ, enchanters	1	enchanters
-EXO 8:19	1	5	τῷ	ὁ	article, dative masculine singular	1	the
+EXO 8:19	1	5	τῷ	ὁ	article, dative masculine singular	1	to
 EXO 8:19	1	6	Φαραώ	Φαραώ	royal title/name as printed Φαραώ (indeclined); case from syntax per occurrence	1	Pharaoh
 EXO 8:19	1	7	δάκτυλος	δάκτυλος	noun, nominative masculine singular	1	the finger
 EXO 8:19	1	8	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
@@ -576,7 +576,7 @@ EXO 8:22	1	5	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular after τῇ
 EXO 8:22	1	6	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun/adjective, dative feminine singular with ἡμέρᾳ after τῇ	1	that
 EXO 8:22	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 8:22	1	8	γῆν	γῆ	noun, accusative feminine singular	1	land
-EXO 8:22	1	9	Γεσὲν	Γεσέν	indeclinable place name, genitive/dative in context after γῆς/ἐν γῇ	1	of Gesen
+EXO 8:22	1	9	Γεσὲν	Γεσέν	indeclinable place name, genitive/dative in context after γῆς/ἐν γῇ	1	of Goshen
 EXO 8:22	1	10	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
 EXO 8:22	1	11	ἧς	ὅς	relative pronoun, genitive feminine singular in ἐφ᾽ ἧς/ἐφ᾽ ᾗ construction 'on which' (dative in sense)	1	which
 EXO 8:22	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -606,13 +606,13 @@ EXO 8:23	1	1	Καὶ	καί	conjunction	1	and
 EXO 8:23	1	2	δώσω	δίδωμι	future active indicative, first singular	1	I will make
 EXO 8:23	1	3	διαστολὴν	διαστολή	noun, accusative feminine singular, distinction/separation	1	a distinction
 EXO 8:23	1	4	ἀνὰ	ἀνά	preposition with accusative μέσον in ἀνὰ μέσον αὐτῶν 'between them'	1	between
-EXO 8:23	1	5	μέσον	μέσος	adjective, accusative neuter singular substantival	1	(with ἀνά)
+EXO 8:23	1	5	μέσον	μέσος	adjective, accusative neuter singular substantival	1	midst
 EXO 8:23	1	6	τοῦ	ὁ	article, genitive singular	1	the
 EXO 8:23	1	7	ἐμοῦ	ἐμός	possessive adjective, genitive masculine singular	1	my
 EXO 8:23	1	8	λαοῦ	λαός	noun, genitive masculine singular	1	of the people
 EXO 8:23	1	9	καὶ	καί	conjunction	1	and
 EXO 8:23	1	10	ἀνὰ	ἀνά	preposition with accusative μέσον in ἀνὰ μέσον αὐτῶν 'between them'	1	between
-EXO 8:23	1	11	μέσον	μέσος	adjective, accusative neuter singular substantival	1	(with ἀνά)
+EXO 8:23	1	11	μέσον	μέσος	adjective, accusative neuter singular substantival	1	midst
 EXO 8:23	1	12	τοῦ	ὁ	article, genitive singular	1	the
 EXO 8:23	1	13	σοῦ	σός	possessive adjective, genitive masculine singular	1	your
 EXO 8:23	1	14	λαοῦ	λαός	noun, genitive masculine singular	1	of the people
@@ -622,7 +622,7 @@ EXO 8:23	1	17	τῇ	ὁ	article, dative feminine singular	1	the
 EXO 8:23	1	18	αὔριον	αὔριον	temporal adverb, substantival after εἰς/ἐν τῇ in printed phrases	1	tomorrow
 EXO 8:23	1	19	ἔσται	εἰμί	future indicative, third singular	1	will be
 EXO 8:23	1	20	τὸ	ὁ	article, nominative neuter singular	1	the
-EXO 8:23	1	21	σημεῖον	σημεῖον	noun, accusative neuter singular	1	a sign
+EXO 8:23	1	21	σημεῖον	σημεῖον	noun, accusative neuter singular	1	sign
 EXO 8:23	1	22	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 EXO 8:23	1	23	ἐπὶ	ἐπί	preposition (case from context)	1	on
 EXO 8:23	1	24	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -639,12 +639,12 @@ EXO 8:24	1	9	πλῆθος	πλῆθος	noun, nominative neuter singular	1	mult
 EXO 8:24	1	10	εἰς	εἰς	preposition with the accusative	1	into
 EXO 8:24	1	11	τοὺς	ὁ	article, accusative masculine plural	1	the
 EXO 8:24	1	12	οἴκους	οἶκος	noun, accusative masculine plural after τοὺς/eἰς τοὺς	1	houses
-EXO 8:24	1	13	Φαραὼ	Φαραώ	royal title/name (indeclined); case from syntax per occurrence	1	Pharaoh
+EXO 8:24	1	13	Φαραὼ	Φαραώ	royal title/name (indeclined); case from syntax per occurrence	1	of Pharaoh
 EXO 8:24	1	14	καὶ	καί	conjunction	1	and
 EXO 8:24	1	15	εἰς	εἰς	preposition with the accusative	1	into
 EXO 8:24	1	16	τοὺς	ὁ	article, accusative masculine plural	1	the
 EXO 8:24	1	17	οἴκους	οἶκος	noun, accusative masculine plural after τοὺς/eἰς τοὺς	1	houses
-EXO 8:24	1	18	τῶν	ὁ	article, genitive masculine plural	1	the
+EXO 8:24	1	18	τῶν	ὁ	article, genitive masculine plural	1	of the
 EXO 8:24	1	19	θεραπόντων	θεράπων	noun, genitive masculine plural after τῶν, attendants/servants	1	servants
 EXO 8:24	1	20	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
 EXO 8:24	1	21	καὶ	καί	conjunction	1	and
@@ -668,7 +668,7 @@ EXO 8:25	1	6	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in
 EXO 8:25	1	7	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 EXO 8:25	1	8	ἐλθόντες	ἔρχομαι	aorist active participle, nominative masculine plural	1	having come
 EXO 8:25	1	9	θύσατε	θύω	aorist active imperative, second plural	1	sacrifice
-EXO 8:25	1	10	Κυρίῳ	κύριος	noun, dative masculine singular, to the LORD	1	the Lord
+EXO 8:25	1	10	Κυρίῳ	κύριος	noun, dative masculine singular, to the LORD	1	to the Lord
 EXO 8:25	1	11	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 8:25	1	12	Θεῷ	θεός	noun, dative masculine singular	1	God
 EXO 8:25	1	13	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
@@ -684,11 +684,11 @@ EXO 8:26	1	6	γενέσθαι	γίνομαι	aorist middle infinitive after το
 EXO 8:26	1	7	οὕτω	οὕτως	adverb as printed	1	so
 EXO 8:26	1	8	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 8:26	1	9	γὰρ	γάρ	conjunction	1	for
-EXO 8:26	1	10	βδελύγματα	βδέλυγμα	noun, accusative neuter plural after τὰ, representations/things abominable (sacrifices offensive to Egyptians)	1	the abominations
+EXO 8:26	1	10	βδελύγματα	βδέλυγμα	noun, accusative neuter plural after τὰ, representations/things abominable (sacrifices offensive to Egyptians)	1	abominations
 EXO 8:26	1	11	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 8:26	1	12	Αἰγυπτίων	Αἰγύπτιος	ethnic noun, genitive masculine plural after τῶν	1	of the Egyptians
 EXO 8:26	1	13	θύσομεν	θύω	future active indicative, first plural	1	we will sacrifice
-EXO 8:26	1	14	Κυρίῳ	κύριος	noun, dative masculine singular, to the LORD	1	the Lord
+EXO 8:26	1	14	Κυρίῳ	κύριος	noun, dative masculine singular, to the LORD	1	to the Lord
 EXO 8:26	1	15	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 8:26	1	16	Θεῷ	θεός	noun, dative masculine singular	1	God
 EXO 8:26	1	17	ἡμῶν	ἐγώ	personal pronoun, genitive plural	1	our
@@ -726,7 +726,7 @@ EXO 8:28	1	5	ἐξαποστελῶ	ἐξαποστέλλω	future active indica
 EXO 8:28	1	6	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 EXO 8:28	1	7	καὶ	καί	conjunction	1	and
 EXO 8:28	1	8	θύσετε	θύω	future active indicative, second plural	1	you shall sacrifice
-EXO 8:28	1	9	Κυρίῳ	κύριος	noun, dative masculine singular, to the LORD	1	the Lord
+EXO 8:28	1	9	Κυρίῳ	κύριος	noun, dative masculine singular, to the LORD	1	to the Lord
 EXO 8:28	1	10	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 8:28	1	11	Θεῷ	θεός	noun, dative masculine singular	1	God
 EXO 8:28	1	12	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
@@ -736,7 +736,7 @@ EXO 8:28	1	15	ἐρήμῳ	ἔρημος	noun, dative feminine singular after �
 EXO 8:28	1	16	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
 EXO 8:28	1	17	οὐ	οὐ	negative adverb with future indicative	1	not
 EXO 8:28	1	18	μακρὰν	μακράν	adverb after οὐ 'not far' with πορευθῆναι	1	far
-EXO 8:28	1	19	ἀποτενεῖτε	ἀποτείνω	future active indicative, second plural as printed ἀποτενεῖτε, 'you shall (not) stretch out/go far'	1	go far
+EXO 8:28	1	19	ἀποτενεῖτε	ἀποτείνω	future active indicative, second plural as printed ἀποτενεῖτε, 'you shall (not) stretch out/go far'	1	you will extend
 EXO 8:28	1	20	πορευθῆναι	πορεύομαι	aorist passive-form infinitive of purpose, active in sense	1	to go
 EXO 8:28	1	21	εὔξασθε	εὔχομαι	aorist middle imperative, second plural, pray	1	pray
 EXO 8:28	1	22	οὖν	οὖν	inferential particle	1	then
@@ -747,8 +747,8 @@ EXO 8:28	1	26	Κύριον	κύριος	noun, accusative masculine singular, the
 EXO 8:29	1	1	Εἶπε	λέγω	aorist active indicative, third person singular	1	said
 EXO 8:29	1	2	δε	δέ	postpositive conjunction, unaccented as printed	1	and
 EXO 8:29	1	3	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses
-EXO 8:29	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
-EXO 8:29	1	5	δὲ	δέ	conjunction	1	and
+EXO 8:29	1	4	ὁ	ὁ	article, nominative masculine singular	1	for my part
+EXO 8:29	1	5	δὲ	δέ	conjunction	1	—
 EXO 8:29	1	6	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
 EXO 8:29	1	7	ἐξελεύσομαι	ἐξέρχομαι	future middle indicative, first singular	1	will go out
 EXO 8:29	1	8	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -780,13 +780,13 @@ EXO 8:29	1	33	προσθῇς	προστίθημι	aorist active subjunctive, se
 EXO 8:29	1	34	ἔτι	ἔτι	temporal adverb	1	still
 EXO 8:29	1	35	Φαραὼ	Φαραώ	royal title/name (indeclined); case from syntax per occurrence	1	Pharaoh
 EXO 8:29	1	36	ἀπατῆσαι	ἀπατάω	aorist active infinitive	1	to deceive
-EXO 8:29	1	37	τοῦ	ὁ	article, genitive singular	1	the
+EXO 8:29	1	37	τοῦ	ὁ	article, genitive singular	1	—
 EXO 8:29	1	38	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
 EXO 8:29	1	39	ἐξαποστεῖλαι	ἐξαποστέλλω	aorist active infinitive after ὥστε/τοῦ μὴ	1	to send out
 EXO 8:29	1	40	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 8:29	1	41	λαὸν	λαός	noun, accusative masculine singular	1	people
 EXO 8:29	1	42	θῦσαι	θύω	aorist active infinitive after τοῦ μὴ construction, of purpose	1	to sacrifice
-EXO 8:29	1	43	Κυρίῳ	κύριος	noun, dative masculine singular, to the LORD	1	the Lord
+EXO 8:29	1	43	Κυρίῳ	κύριος	noun, dative masculine singular, to the LORD	1	to the Lord
 EXO 8:30	1	1	Ἐξῆλθε	ἐξέρχομαι	aorist active indicative, third singular	1	went out
 EXO 8:30	1	2	δὲ	δέ	conjunction	1	and
 EXO 8:30	1	3	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses

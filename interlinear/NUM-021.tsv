@@ -5,13 +5,13 @@ NUM 21:1	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 NUM 21:1	1	4	Χαναναῖος	Χαναναῖος	noun, nominative masculine singular	1	Canaanite
 NUM 21:1	1	5	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 NUM 21:1	1	6	Ἀρὰδ	Ἀράδ	indeclinable personal name, nominative in context	1	Arad
-NUM 21:1	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
-NUM 21:1	1	8	κατοικῶν	κατοικέω	present active participle, nominative masculine singular; substantival	1	inhabitant
+NUM 21:1	1	7	ὁ	ὁ	article, nominative masculine singular	1	—
+NUM 21:1	1	8	κατοικῶν	κατοικέω	present active participle, nominative masculine singular; substantival	1	dwelling
 NUM 21:1	1	8	κατοικῶν			2	one living
 NUM 21:1	1	9	κατὰ	κατά	preposition with the accusative	1	according to
 NUM 21:1	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 21:1	1	11	ἔρημον	ἔρημος	adjective, accusative feminine singular	1	wilderness
-NUM 21:1	1	12	ὅτι	ὅτι	causal conjunction	1	because
+NUM 21:1	1	12	ὅτι	ὅτι	causal conjunction	1	that
 NUM 21:1	1	13	ἦλθεν	ἔρχομαι	aorist active indicative, third person singular	1	he came
 NUM 21:1	1	14	Ἰσραὴλ	Ἰσραήλ	indeclinable proper name, nominative in context	1	Israel
 NUM 21:1	1	15	ὁδὸν	ὁδός	noun accusative feminine singular	1	the way
@@ -54,12 +54,12 @@ NUM 21:3	1	2	εἰσήκουσε	εἰσακούω	aorist active indicative, thi
 NUM 21:3	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 NUM 21:3	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 21:3	1	5	φωνῆς	φωνή	noun, genitive feminine singular	1	voice
-NUM 21:3	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable proper name, genitive in context	1	Israel
+NUM 21:3	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable proper name, genitive in context	1	of Israel
 NUM 21:3	1	7	καὶ	καί	conjunction	1	and
 NUM 21:3	1	8	παρέδωκε	παραδίδωμι	aorist active indicative, third singular	1	delivered
 NUM 21:3	1	8	παρέδωκε			2	handed over
 NUM 21:3	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
-NUM 21:3	1	10	Χανανὶ	Χανανί	indeclinable personal or collective name, accusative in context	1	Chanani
+NUM 21:3	1	10	Χανανὶ	Χανανί	indeclinable personal or collective name, accusative in context	1	Canaanite
 NUM 21:3	1	10	Χανανὶ			2	the Canaanite
 NUM 21:3	1	11	ὑποχείριον	ὑποχείριος	adjective, accusative masculine singular	1	under one's hand
 NUM 21:3	1	11	ὑποχείριον			2	into one's power
@@ -76,7 +76,7 @@ NUM 21:3	1	20	καὶ	καί	conjunction	1	and
 NUM 21:3	1	21	ἐπεκάλεσε	ἐπικαλέω	aorist active indicative, third singular	1	named
 NUM 21:3	1	22	τὸ	ὁ	article, accusative neuter singular	1	the
 NUM 21:3	1	23	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
-NUM 21:3	1	24	τοῦ	ὁ	article, genitive singular	1	the
+NUM 21:3	1	24	τοῦ	ὁ	article, genitive singular	1	of the
 NUM 21:3	1	25	τόπου	τόπος	noun, genitive masculine singular	1	place
 NUM 21:3	1	26	ἐκείνου	ἐκεῖνος	demonstrative pronoun, genitive masculine singular	1	that
 NUM 21:3	1	27	ἀνάθεμα	ἀνάθεμα	noun, accusative neuter singular; place name in context	1	Anathema
@@ -154,7 +154,7 @@ NUM 21:6	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 NUM 21:6	1	19	λαὸν	λαός	noun, accusative masculine singular	1	people
 NUM 21:6	1	20	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 21:6	1	21	ὄφεις	ὄφις	noun, accusative masculine plural	1	snakes
-NUM 21:6	1	22	τοὺς	ὁ	article, accusative masculine plural	1	the
+NUM 21:6	1	22	τοὺς	ὁ	article, accusative masculine plural	1	—
 NUM 21:6	1	23	θανατοῦντας	θανατόω	present active participle, accusative masculine plural	1	deadly
 NUM 21:6	1	23	θανατοῦντας			2	causing death
 NUM 21:6	1	24	καὶ	καί	conjunction	1	and
@@ -165,7 +165,7 @@ NUM 21:6	1	28	καὶ	καί	conjunction	1	and
 NUM 21:6	1	29	ἀπέθανε	ἀποθνῄσκω	aorist active indicative, third singular; singular with collective subject	1	died
 NUM 21:6	1	30	λαὸς	λαός	noun, nominative masculine singular	1	a people
 NUM 21:6	1	31	πολὺς	πολύς	adjective, nominative masculine singular	1	numerous
-NUM 21:6	1	32	τῶν	ὁ	article, genitive plural	1	the
+NUM 21:6	1	32	τῶν	ὁ	article, genitive plural	1	of the
 NUM 21:6	1	33	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 21:6	1	34	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 21:7	1	1	Καὶ	καί	conjunction	1	and
@@ -194,7 +194,7 @@ NUM 21:7	1	23	ἀφελέτω	ἀφαιρέω	aorist active imperative, third si
 NUM 21:7	1	24	ἀφ᾽	ἀπό	preposition with genitive	1	from
 NUM 21:7	1	25	ἡμῶν	ἐγώ	personal pronoun genitive first plural	1	us
 NUM 21:7	1	26	τὸν	ὁ	article accusative masculine singular	1	the
-NUM 21:7	1	27	ὄφιν	ὄφις	noun, accusative masculine singular	1	a snake
+NUM 21:7	1	27	ὄφιν	ὄφις	noun, accusative masculine singular	1	snake
 NUM 21:8	1	1	Καὶ	καί	conjunction	1	and
 NUM 21:8	1	2	ηὔξατο	εὔχομαι	aorist middle indicative, third singular	1	prayed
 NUM 21:8	1	3	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses
@@ -253,7 +253,7 @@ NUM 21:9	1	17	καὶ	καί	conjunction	1	and
 NUM 21:9	1	18	ἐπέβλεψεν	ἐπιβλέπω	aorist active indicative, third singular	1	looked upon
 NUM 21:9	1	19	ἐπὶ	ἐπί	preposition (case from context)	1	on
 NUM 21:9	1	20	τὸν	ὁ	article, accusative masculine singular	1	the
-NUM 21:9	1	21	ὄφιν	ὄφις	noun, accusative masculine singular	1	a snake
+NUM 21:9	1	21	ὄφιν	ὄφις	noun, accusative masculine singular	1	snake
 NUM 21:9	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
 NUM 21:9	1	23	χαλκοῦν	χαλκοῦς	adjective, accusative masculine singular	1	bronze
 NUM 21:9	1	24	καὶ	καί	conjunction	1	and
@@ -312,22 +312,22 @@ NUM 21:13	1	10	ἐν	ἐν	preposition with the dative	1	in
 NUM 21:13	1	11	τῇ	ὁ	article, dative feminine singular	1	the
 NUM 21:13	1	12	ἐρήμῳ	ἔρημος	substantival adjective, dative feminine singular	1	wilderness
 NUM 21:13	1	12	ἐρήμῳ			2	desert
-NUM 21:13	1	13	τὸ	ὁ	article, nominative neuter singular	1	the
-NUM 21:13	1	14	ἐξέχον	ἐξέχω	present active participle, nominative neuter singular	1	projecting
+NUM 21:13	1	13	τὸ	ὁ	article, nominative neuter singular	1	that which
+NUM 21:13	1	14	ἐξέχον	ἐξέχω	present active participle, nominative neuter singular	1	projects
 NUM 21:13	1	14	ἐξέχον			2	extending
 NUM 21:13	1	15	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 21:13	1	16	τῶν	ὁ	article, genitive neuter plural	1	the
 NUM 21:13	1	17	ὁρίων	ὅριον	noun, genitive neuter plural	1	borders
-NUM 21:13	1	18	τῶν	ὁ	article, genitive masculine plural	1	the
-NUM 21:13	1	19	Ἀμοῤῥαίων	Ἀμορραῖος	substantival adjective, genitive masculine plural	1	of the Amorites
+NUM 21:13	1	18	τῶν	ὁ	article, genitive masculine plural	1	of the
+NUM 21:13	1	19	Ἀμοῤῥαίων	Ἀμορραῖος	substantival adjective, genitive masculine plural	1	Amorites
 NUM 21:13	1	20	ἔστι	εἰμί	present indicative, third singular	1	is
 NUM 21:13	1	21	γὰρ	γάρ	conjunction	1	for
 NUM 21:13	1	22	Ἀρνῶν	Ἀρνῶν	indeclinable river name, nominative in context	1	Arnon
 NUM 21:13	1	23	ὅρια	ὅριον	noun, nominative neuter plural	1	boundaries
 NUM 21:13	1	23	ὅρια			2	borders
-NUM 21:13	1	24	Μωὰβ	Μωάβ	indeclinable place name, case from local syntax	1	Moab
+NUM 21:13	1	24	Μωὰβ	Μωάβ	indeclinable place name, case from local syntax	1	of Moab
 NUM 21:13	1	25	ἀναμέσον	ἀναμέσον	adverb/preposition	1	between
-NUM 21:13	1	26	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	of Moab
+NUM 21:13	1	26	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	Moab
 NUM 21:13	1	27	καὶ	καί	conjunction	1	and
 NUM 21:13	1	28	ἀναμέσον	ἀναμέσον	adverb/preposition	1	between
 NUM 21:13	1	29	τοῦ	ὁ	article, genitive singular	1	the
@@ -346,14 +346,14 @@ NUM 21:14	1	11	καὶ	καί	conjunction	1	and
 NUM 21:14	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 21:14	1	13	χειμάῤῥους	χείμαρρος	noun, accusative masculine plural	1	streams
 NUM 21:14	1	13	χειμάῤῥους			2	ravines
-NUM 21:14	1	14	Ἀρνῶν	Ἀρνῶν	indeclinable river name, genitive in context	1	Arnon
+NUM 21:14	1	14	Ἀρνῶν	Ἀρνῶν	indeclinable river name, genitive in context	1	of Arnon
 NUM 21:15	1	1	καὶ	καί	conjunction	1	and
 NUM 21:15	1	2	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 21:15	1	3	χειμάῤῥους	χείμαρρος	noun, accusative masculine plural	1	streams
 NUM 21:15	1	3	χειμάῤῥους			2	ravines
 NUM 21:15	1	4	κατέστησε	καθίστημι	aorist active indicative, third singular	1	set
 NUM 21:15	1	5	κατοικῆσαι	κατοικέω	aorist active infinitive	1	to live
-NUM 21:15	1	6	Ἢρ	Ἤρ	indeclinable personal name, nominative in context	1	Er
+NUM 21:15	1	6	Ἢρ	Ἤρ	indeclinable personal name, nominative in context	1	Ar
 NUM 21:15	1	7	καὶ	καί	conjunction	1	and
 NUM 21:15	1	8	πρόσκειται	πρόσκειμαι	present middle indicative, third singular	1	adjoins
 NUM 21:15	1	9	τοῖς	ὁ	article, dative neuter plural	1	the
@@ -400,7 +400,7 @@ NUM 21:18	1	4	ἄρχοντες			2	officials
 NUM 21:18	1	5	ἐξελατόμησαν	ἐκλατομέω	aorist active indicative, third plural	1	hewed out
 NUM 21:18	1	6	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
 NUM 21:18	1	7	βασιλεῖς	βασιλεύς	noun, nominative masculine plural	1	kings
-NUM 21:18	1	8	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
+NUM 21:18	1	8	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	of nations
 NUM 21:18	1	9	ἐν	ἐν	preposition with the dative	1	in
 NUM 21:18	1	10	τῇ	ὁ	article, dative feminine singular	1	the
 NUM 21:18	1	11	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	reign
@@ -414,12 +414,12 @@ NUM 21:19	1	1	Καὶ	καί	conjunction	1	and
 NUM 21:19	1	2	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 21:19	1	3	φρέατος	φρέαρ	noun, genitive neuter singular	1	well
 NUM 21:19	1	4	εἰς	εἰς	preposition with the accusative	1	into
-NUM 21:19	1	5	Μανθανείν	Μανθανείν	indeclinable place name	1	Manthanein
-NUM 21:19	1	5	Μανθανείν			2	Mattanah
+NUM 21:19	1	5	Μανθανείν	Μανθανείν	indeclinable place name	1	Mattanah
+NUM 21:19	1	5	Μανθανείν			2	Manthanein
 NUM 21:19	1	6	καὶ	καί	conjunction	1	and
 NUM 21:19	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
-NUM 21:19	1	8	Μανθανεὶν	Μανθανείν	indeclinable place name	1	Manthanein
-NUM 21:19	1	8	Μανθανεὶν			2	Mattanah
+NUM 21:19	1	8	Μανθανεὶν	Μανθανείν	indeclinable place name	1	Mattanah
+NUM 21:19	1	8	Μανθανεὶν			2	Manthanein
 NUM 21:19	1	9	εἰς	εἰς	preposition with the accusative	1	into
 NUM 21:19	1	10	Νααλιήλ	Νααλιήλ	indeclinable place name	1	Nahaliel
 NUM 21:19	1	10	Νααλιήλ			2	Naaliel
@@ -445,8 +445,8 @@ NUM 21:20	1	12	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 21:20	1	13	κορυφῆς	κορυφή	noun, genitive fem. sg. after ἐπὶ τῆς, top	1	top
 NUM 21:20	1	14	τοῦ	ὁ	article, genitive neuter singular	1	of the
 NUM 21:20	1	15	λελαξευμένου	λαξεύω	perfect passive participle, genitive neuter singular; used substantivally	1	hewn rock
-NUM 21:20	1	16	τὸ	ὁ	article, accusative neuter singular	1	the
-NUM 21:20	1	17	βλέπον	βλέπω	present active participle, accusative neuter singular	1	overlooking
+NUM 21:20	1	16	τὸ	ὁ	article, accusative neuter singular	1	that which
+NUM 21:20	1	17	βλέπον	βλέπω	present active participle, accusative neuter singular	1	overlooks
 NUM 21:20	1	18	κατὰ	κατά	preposition with accusative; κατὰ πρόσωπον idiom	1	in front of
 NUM 21:20	1	19	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	1	(with κατά)
 NUM 21:20	1	20	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -459,8 +459,8 @@ NUM 21:21	1	5	πρὸς	πρός	preposition with the accusative	1	to
 NUM 21:21	1	6	Σηὼν	Σηών	indeclinable personal name, accusative in context	1	Sihon
 NUM 21:21	1	6	Σηὼν			2	Seon
 NUM 21:21	1	7	Βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
-NUM 21:21	1	8	Ἀμοῤῥαίων	Ἀμορραῖος	gentilic adjective, genitive masculine plural	1	Amorites
-NUM 21:21	1	9	λόγοις	λόγος	noun, dative masculine plural	1	words
+NUM 21:21	1	8	Ἀμοῤῥαίων	Ἀμορραῖος	gentilic adjective, genitive masculine plural	1	of the Amorites
+NUM 21:21	1	9	λόγοις	λόγος	noun, dative masculine plural	1	with words
 NUM 21:21	1	10	εἰρηνικοῖς	εἰρηνικός	adjective, dative masculine plural	1	peaceful
 NUM 21:21	1	11	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 NUM 21:22	1	1	παρελευσόμεθα	παρέρχομαι	future middle indicative, first plural	1	we will pass through
@@ -476,7 +476,7 @@ NUM 21:22	1	10	οὔτε	οὔτε	negative conjunction, neither/nor in οὐκ.
 NUM 21:22	1	11	εἰς	εἰς	preposition with the accusative	1	into
 NUM 21:22	1	12	ἀγρὸν	ἀγρός	noun, accusative masculine singular	1	field
 NUM 21:22	1	13	οὔτε	οὔτε	negative conjunction, neither/nor in οὐκ...οὔτε series	1	nor
-NUM 21:22	1	14	εἰς	εἰς	preposition with accusative	1	on
+NUM 21:22	1	14	εἰς	εἰς	preposition with accusative	1	into
 NUM 21:22	1	14	εἰς			2	upon
 NUM 21:22	1	15	ἀμπελῶνά	ἀμπελών	noun, accusative masculine singular	1	vineyard
 NUM 21:22	1	16	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -594,7 +594,7 @@ NUM 21:26	1	2	γὰρ	γάρ	conjunction	1	for
 NUM 21:26	1	3	Ἐσεβὼν	Ἐσεβών	indeclinable place name	1	Heshbon
 NUM 21:26	1	3	Ἐσεβὼν			2	Esebon
 NUM 21:26	1	4	πόλις	πόλις	noun, nominative feminine singular	1	city
-NUM 21:26	1	5	Σηὼν	Σηών	indeclinable personal name, accusative in context	1	Sihon
+NUM 21:26	1	5	Σηὼν	Σηών	indeclinable personal name, accusative in context	1	of Sihon
 NUM 21:26	1	5	Σηὼν			2	Seon
 NUM 21:26	1	6	τοῦ	ὁ	article, genitive singular	1	the
 NUM 21:26	1	7	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
@@ -604,7 +604,7 @@ NUM 21:26	1	10	καὶ	καί	conjunction	1	and
 NUM 21:26	1	11	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 NUM 21:26	1	12	ἐπολέμησε	πολεμέω	aorist active indicative, third singular	1	made war
 NUM 21:26	1	13	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
-NUM 21:26	1	14	Μωὰβ	Μωάβ	indeclinable place name, case from local syntax	1	Moab
+NUM 21:26	1	14	Μωὰβ	Μωάβ	indeclinable place name, case from local syntax	1	of Moab
 NUM 21:26	1	15	τὸ	ὁ	article, accusative neuter singular; forms an adverbial time expression	1	in the
 NUM 21:26	1	16	πρότερον	πρότερος	adjective, accusative neuter singular; adverbial with τό	1	formerly
 NUM 21:26	1	16	πρότερον			2	before
@@ -616,7 +616,7 @@ NUM 21:26	1	21	γῆν	γῆ	noun, accusative feminine singular	1	land
 NUM 21:26	1	22	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
 NUM 21:26	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 21:26	1	24	Ἀροὴρ	Ἀροήρ	indeclinable place name, genitive in context	1	Aroer
-NUM 21:26	1	25	ἕως	ἕως	temporal conjunction/preposition	1	until
+NUM 21:26	1	25	ἕως	ἕως	temporal conjunction/preposition	1	as far as
 NUM 21:26	1	26	Ἀρνῶν	Ἀρνῶν	indeclinable river name, genitive in context	1	Arnon
 NUM 21:27	1	1	Διὰ	διά	preposition with the accusative	1	because of
 NUM 21:27	1	2	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
@@ -633,7 +633,7 @@ NUM 21:27	1	10	οἰκοδομηθῇ	οἰκοδομέω	aorist passive subjunc
 NUM 21:27	1	11	καὶ	καί	conjunction	1	and
 NUM 21:27	1	12	κατασκευασθῇ	κατασκευάζω	aorist passive subjunctive, third singular	1	may be established
 NUM 21:27	1	13	πόλις	πόλις	noun, nominative feminine singular	1	city
-NUM 21:27	1	14	Σηών	Σηών	indeclinable personal name, accusative in context	1	Sihon
+NUM 21:27	1	14	Σηών	Σηών	indeclinable personal name, accusative in context	1	of Sihon
 NUM 21:27	1	14	Σηών			2	Seon
 NUM 21:28	1	1	ὅτι	ὅτι	causal conjunction	1	since
 NUM 21:28	1	1	ὅτι			2	because
@@ -707,15 +707,15 @@ NUM 21:31	1	2	δὲ	δέ	postpositive conjunction	1	and
 NUM 21:31	1	3	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	Israel
 NUM 21:31	1	4	ἐν	ἐν	preposition with the dative	1	in
 NUM 21:31	1	5	πάσαις	πᾶς	adjective, dative feminine plural	1	all
-NUM 21:31	1	6	ταῖς	ὁ	article, dative feminine plural; introduces a prepositional phrase	1	those
+NUM 21:31	1	6	ταῖς	ὁ	article, dative feminine plural; introduces a prepositional phrase	1	the
 NUM 21:31	1	7	πόλεσι	πόλις	noun, dative feminine plural after ταῖς	1	cities
-NUM 21:31	1	8	τῶν	ὁ	article, genitive masculine plural	1	the
-NUM 21:31	1	9	Ἀμοῤῥαίων	Ἀμορραῖος	substantival adjective, genitive masculine plural	1	of the Amorites
+NUM 21:31	1	8	τῶν	ὁ	article, genitive masculine plural	1	of the
+NUM 21:31	1	9	Ἀμοῤῥαίων	Ἀμορραῖος	substantival adjective, genitive masculine plural	1	Amorites
 NUM 21:32	1	1	Καὶ	καί	conjunction	1	and
 NUM 21:32	1	2	ἀπέστειλε	ἀποστέλλω	aorist active indicative, third person singular	1	he sent
 NUM 21:32	1	3	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses
 NUM 21:32	1	4	κατασκέψασθαι	κατασκέπτομαι	aorist middle infinitive	1	to scout
-NUM 21:32	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
+NUM 21:32	1	5	τὴν	ὁ	article, accusative feminine singular	1	—
 NUM 21:32	1	6	Ἰαζήρ	Ἰαζήρ	indeclinable place name	1	Jazer
 NUM 21:32	1	6	Ἰαζήρ			2	Iazer
 NUM 21:32	1	7	Καὶ	καί	conjunction	1	and
@@ -818,7 +818,7 @@ NUM 21:35	1	13	ἕως	ἕως	preposition with the articular infinitive	1	until
 NUM 21:35	1	14	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive governed by ἕως	1	—
 NUM 21:35	1	15	μὴ	μή	negative particle	1	not
 NUM 21:35	1	16	καταλιπεῖν	καταλείπω	aorist active infinitive, leave (his father)	1	to leave
-NUM 21:35	1	17	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	to him
+NUM 21:35	1	17	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	of him
 NUM 21:35	1	18	ζωγρείαν	ζωγρεία	noun, accusative feminine singular	1	a survivor
 NUM 21:35	1	18	ζωγρείαν			2	a captive
 NUM 21:35	1	19	καὶ	καί	conjunction	1	and

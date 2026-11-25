@@ -46,7 +46,7 @@ NUM 35:3	1	1	καὶ	καί	conjunction	1	and
 NUM 35:3	1	2	ἔσονται	εἰμί	future indicative, third plural	1	will be
 NUM 35:3	1	3	αἱ	ὁ	article, nominative feminine plural	1	the
 NUM 35:3	1	4	πόλεις	πόλις	noun, accusative feminine plural	1	cities
-NUM 35:3	1	5	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
+NUM 35:3	1	5	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	for them
 NUM 35:3	1	6	κατοικεῖν	κατοικέω	present active infinitive	1	to dwell
 NUM 35:3	1	6	κατοικεῖν			2	to live
 NUM 35:3	1	7	καὶ	καί	conjunction	1	and
@@ -58,8 +58,8 @@ NUM 35:3	1	12	τοῖς	ὁ	article, dative neuter plural	1	to the
 NUM 35:3	1	13	κτήνεσιν	κτῆνος	noun, dative neuter plural	1	livestock
 NUM 35:3	1	14	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 35:3	1	15	καὶ	καί	conjunction	1	and
-NUM 35:3	1	16	τῇ	ὁ	article, dative feminine singular	1	the
-NUM 35:3	1	17	ὑπάρξει	ὑπάρχω	future active indicative, third singular	1	will be available
+NUM 35:3	1	16	τῇ	ὁ	article, dative feminine singular	1	to the
+NUM 35:3	1	17	ὑπάρξει	ὑπάρχω	future active indicative, third singular	1	possessions
 NUM 35:3	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 35:3	1	19	καὶ	καί	conjunction	1	and
 NUM 35:3	1	20	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
@@ -67,9 +67,9 @@ NUM 35:3	1	21	τοῖς	ὁ	article, dative neuter plural	1	the
 NUM 35:3	1	22	τετράποσιν	τετράπους	adjective/noun, dative neuter plural after ἐν τοῖς as printed (movable nu)	1	cattle
 NUM 35:3	1	23	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 35:4	1	1	Καὶ	καί	conjunction	1	and
-NUM 35:4	1	2	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 35:4	1	3	συγκυροῦντα	συγκυρέω	present active participle, nominative neuter plural	1	belonging with them
-NUM 35:4	1	4	τῶν	ὁ	article, genitive plural	1	the
+NUM 35:4	1	2	τὰ	ὁ	article, accusative neuter plural	1	the things
+NUM 35:4	1	3	συγκυροῦντα	συγκυρέω	present active participle, nominative neuter plural	1	belonging to
+NUM 35:4	1	4	τῶν	ὁ	article, genitive plural	1	of the
 NUM 35:4	1	5	πόλεων	πόλις	noun, genitive feminine plural	1	cities
 NUM 35:4	1	5	πόλεων			2	towns
 NUM 35:4	1	6	ἃς	ὅς	relative pronoun, accusative of duration, accusative feminine plural	1	which
@@ -78,7 +78,7 @@ NUM 35:4	1	8	τοῖς	ὁ	article, dative masculine plural	1	to the
 NUM 35:4	1	9	Λευίταις	Λευίτης	proper noun, dative masculine plural	1	Levites
 NUM 35:4	1	10	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 35:4	1	11	τείχους	τεῖχος	noun, genitive neuter singular	1	wall
-NUM 35:4	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
+NUM 35:4	1	12	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 35:4	1	13	πόλεως	πόλις	noun, genitive feminine singular	1	city
 NUM 35:4	1	13	πόλεως			2	town
 NUM 35:4	1	14	καὶ	καί	conjunction	1	and
@@ -186,7 +186,7 @@ NUM 35:8	1	5	δώσετε	δίδωμι	future active indicative, second plural	1
 NUM 35:8	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 35:8	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 35:8	1	8	κατασχέσεως	κατάσχεσις	noun, genitive feminine singular	1	holding
-NUM 35:8	1	9	τῶν	ὁ	article, genitive masculine plural	1	the
+NUM 35:8	1	9	τῶν	ὁ	article, genitive masculine plural	1	—
 NUM 35:8	1	10	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 NUM 35:8	1	11	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 35:8	1	12	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -338,7 +338,7 @@ NUM 35:15	1	18	εἰς	εἰς	preposition with the accusative	1	as
 NUM 35:15	1	19	φυγαδευτήριον	φυγαδευτήριον	noun, accusative neuter singular	1	a refuge
 NUM 35:15	1	20	φεύγειν	φεύγω	present active infinitive	1	to flee
 NUM 35:15	1	21	ἐκεῖ	ἐκεῖ	adverb of place	1	there
-NUM 35:15	1	22	παντὶ	πᾶς	adjective, dative masculine singular	1	all
+NUM 35:15	1	22	παντὶ	πᾶς	adjective, dative masculine singular	1	for everyone
 NUM 35:15	1	23	πατάξαντι	πατάσσω	aorist active participle, dative masculine singular	1	who struck
 NUM 35:15	1	24	ψυχὴν	ψυχή	noun, accusative feminine singular	1	a person
 NUM 35:15	1	25	ἀκουσίως	ἀκουσίως	adverb	1	unintentionally
@@ -440,7 +440,7 @@ NUM 35:21	1	3	μῆνιν	μῆνις	noun, accusative feminine singular	1	wrath
 NUM 35:21	1	4	ἐπάταξεν	πατάσσω	aorist active indicative, third singular	1	struck
 NUM 35:21	1	4	ἐπάταξεν			2	struck down
 NUM 35:21	1	5	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-NUM 35:21	1	6	τῇ	ὁ	article, dative feminine singular	1	the
+NUM 35:21	1	6	τῇ	ὁ	article, dative feminine singular	1	—
 NUM 35:21	1	7	χειρὶ	χείρ	noun, dative feminine singular	1	with the hand
 NUM 35:21	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 NUM 35:21	1	9	καὶ	καί	conjunction	1	and
@@ -487,7 +487,7 @@ NUM 35:22	1	15	οὐκ	οὐ	negative particle	1	not
 NUM 35:22	1	16	ἐξ	ἐκ	preposition with the genitive	1	from
 NUM 35:22	1	17	ἐνέδρου	ἔνεδρον	noun, genitive neuter singular	1	ambush
 NUM 35:23	1	1	ἢ	ἤ	disjunctive conjunction	1	or
-NUM 35:23	1	2	ἐν	ἐν	preposition with the dative	1	in
+NUM 35:23	1	2	ἐν	ἐν	preposition with the dative	1	with
 NUM 35:23	1	3	παντὶ	πᾶς	adjective, dative masculine singular	1	any
 NUM 35:23	1	4	λίθῳ	λίθος	noun, dative masculine singular	1	a stone
 NUM 35:23	1	5	ἐν	ἐν	preposition with the dative	1	in
@@ -546,7 +546,7 @@ NUM 35:25	1	13	καὶ	καί	conjunction	1	and
 NUM 35:25	1	14	εἰς	εἰς	preposition with accusative	1	into
 NUM 35:25	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 35:25	1	16	πόλιν	πόλις	noun, accusative feminine singular	1	city
-NUM 35:25	1	17	τοῦ	ὁ	article, genitive singular	1	the
+NUM 35:25	1	17	τοῦ	ὁ	article, genitive singular	1	of the
 NUM 35:25	1	18	φυγαδευτηρίου	φυγαδευτήριον	noun, genitive neuter singular	1	refuge
 NUM 35:25	1	19	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 NUM 35:25	1	20	ἀποκαταστήσει	ἀποκαθίστημι	future active indicative, third singular	1	will restore
@@ -570,9 +570,9 @@ NUM 35:25	1	36	μέγας	μέγας	adjective, nominative masculine singular	1	
 NUM 35:25	1	37	ὃν	ὅς	relative pronoun, accusative masculine singular	1	whom
 NUM 35:25	1	38	ἔχρισεν	χρίω	aorist active indicative, third singular	1	anointed
 NUM 35:25	1	39	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-NUM 35:25	1	40	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+NUM 35:25	1	40	τῷ	ὁ	article, dative masculine/neuter singular	1	with the
 NUM 35:25	1	41	ἐλαίῳ	ἔλαιον	noun, dative neuter singular	1	oil
-NUM 35:25	1	42	τῷ	ὁ	article, dative masculine/neuter singular	1	with the
+NUM 35:25	1	42	τῷ	ὁ	article, dative masculine/neuter singular	1	—
 NUM 35:25	1	43	ἁγίῳ	ἅγιος	adjective, dative masculine singular	1	holy
 NUM 35:26	1	1	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 NUM 35:26	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -586,7 +586,7 @@ NUM 35:26	1	8	ὅρια			2	borders
 NUM 35:26	1	9	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 35:26	1	10	πόλεως	πόλις	noun, genitive feminine singular	1	city
 NUM 35:26	1	10	πόλεως			2	town
-NUM 35:26	1	11	τοῦ	ὁ	article, genitive singular	1	the
+NUM 35:26	1	11	τοῦ	ὁ	article, genitive singular	1	of the
 NUM 35:26	1	12	φυγαδευτηρίου	φυγαδευτήριον	noun, genitive neuter singular	1	refuge
 NUM 35:26	1	13	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 NUM 35:26	1	14	εἰς	εἰς	preposition with the accusative	1	into
@@ -623,7 +623,7 @@ NUM 35:28	1	1	ἐν	ἐν	preposition with the dative	1	in
 NUM 35:28	1	2	γὰρ	γάρ	conjunction	1	for
 NUM 35:28	1	3	τῇ	ὁ	article, dative feminine singular	1	the
 NUM 35:28	1	4	πόλει	πόλις	noun, dative feminine singular	1	city
-NUM 35:28	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
+NUM 35:28	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 35:28	1	6	καταφυγῆς	καταφυγή	noun, genitive feminine singular	1	refuge
 NUM 35:28	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 NUM 35:28	1	8	κατοικείτω	κατοικέω	present active imperative, third singular	1	let him dwell
@@ -650,7 +650,7 @@ NUM 35:28	1	27	εἰς	εἰς	preposition with the accusative	1	into
 NUM 35:28	1	28	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 35:28	1	29	γῆν	γῆ	noun, accusative feminine singular	1	land
 NUM 35:28	1	29	γῆν			2	country
-NUM 35:28	1	30	τῆς	ὁ	article, genitive feminine singular	1	the
+NUM 35:28	1	30	τῆς	ὁ	article, genitive feminine singular	1	—
 NUM 35:28	1	31	κατασχέσεως	κατάσχεσις	noun, genitive feminine singular	1	of the holding
 NUM 35:28	1	32	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 NUM 35:29	1	1	Καὶ	καί	conjunction	1	and
@@ -674,8 +674,8 @@ NUM 35:30	1	1	Πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 35:30	1	2	πατάξας	πατάσσω	aorist active participle, nominative masculine singular	1	having struck
 NUM 35:30	1	3	ψυχὴν	ψυχή	noun, accusative feminine singular	1	a person
 NUM 35:30	1	4	διὰ	διά	preposition with the accusative	1	by
-NUM 35:30	1	5	στόματος	στόμα	noun, genitive neuter singular	1	the testimony
-NUM 35:30	1	6	μαρτύρων	μάρτυς	noun, genitive masculine plural	1	witnesses
+NUM 35:30	1	5	στόματος	στόμα	noun, genitive neuter singular	1	mouth
+NUM 35:30	1	6	μαρτύρων	μάρτυς	noun, genitive masculine plural	1	of witnesses
 NUM 35:30	1	7	φονεύσει	φονεύω	future active indicative, third singular	1	shall kill
 NUM 35:30	1	8	τὸν	ὁ	article, accusative masculine singular	1	the one
 NUM 35:30	1	9	φονεύσαντα	φονεύω	aorist active participle, accusative masculine singular	1	who killed
@@ -756,13 +756,13 @@ NUM 35:33	1	25	γῆ	γῆ	noun, nominative feminine singular	1	land
 NUM 35:33	1	26	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 35:33	1	27	τοῦ	ὁ	article, genitive singular	1	the
 NUM 35:33	1	28	αἵματος	αἷμα	noun, genitive neuter singular	1	blood
-NUM 35:33	1	29	τοῦ	ὁ	article, genitive singular	1	the
+NUM 35:33	1	29	τοῦ	ὁ	article, genitive singular	1	—
 NUM 35:33	1	30	ἐκχυθέντος	ἐκχέω	aorist passive participle, genitive neuter singular	1	shed
 NUM 35:33	1	31	ἐπ᾽	ἐπί	preposition with the accusative	1	on
 NUM 35:33	1	32	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
 NUM 35:33	1	33	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
 NUM 35:33	1	34	ἐπὶ	ἐπί	preposition (case from context)	1	on
-NUM 35:33	1	35	τοῦ	ὁ	article, genitive masculine singular	1	of the
+NUM 35:33	1	35	τοῦ	ὁ	article, genitive masculine singular	1	the
 NUM 35:33	1	36	αἵματος	αἷμα	noun, genitive neuter singular	1	blood
 NUM 35:33	1	37	τοῦ	ὁ	article, genitive singular	1	of the one
 NUM 35:33	1	38	ἐκχέοντος	ἐκχέω	present active participle, genitive masculine singular	1	who poured it out

@@ -97,7 +97,7 @@ DEU 24:4	1	8	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	he
 DEU 24:4	1	9	ἐπαναστρέψας	ἐπαναστρέφω	aorist active participle, nominative masculine singular	1	returning
 DEU 24:4	1	10	λαβεῖν	λαμβάνω	aorist active infinitive	1	to take
 DEU 24:4	1	11	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
-DEU 24:4	1	12	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
+DEU 24:4	1	12	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	—
 DEU 24:4	1	13	εἶναι	εἰμί	present infinitive	1	to be
 DEU 24:4	1	14	ἑαυτῷ	ἑαυτοῦ	pronoun, dative masculine singular	1	for himself
 DEU 24:4	1	15	γυναῖκα	γυνή	noun, accusative feminine singular	1	wife
@@ -209,7 +209,7 @@ DEU 24:8	1	11	κατὰ	κατά	preposition with the accusative	1	according to
 DEU 24:8	1	12	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 DEU 24:8	1	13	τὸν	ὁ	definite article, accusative masculine singular	1	the
 DEU 24:8	1	14	νόμον	νόμος	noun, accusative masculine singular	1	law
-DEU 24:8	1	15	ὃν	ὅς	relative pronoun, accusative masculine singular	1	in which
+DEU 24:8	1	15	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
 DEU 24:8	1	16	ἂν	ἄν	modal particle with the subjunctive	1	ever
 DEU 24:8	1	17	ἀναγγείλωσιν	ἀναγγέλλω	aorist active subjunctive, 3rd plural	1	declare
 DEU 24:8	1	18	ὑμῖν	σύ	pronoun, dative 2nd plural	1	to you
@@ -317,7 +317,7 @@ DEU 24:13	1	27	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 24:14	1	1	Οὐκ	οὐ	negative particle	1	not
 DEU 24:14	1	2	ἀποστερήσεις	ἀποστερέω	future active indicative, 2nd singular	1	shall defraud
 DEU 24:14	1	3	μισθὸν	μισθός	noun, accusative masculine singular	1	wages
-DEU 24:14	1	4	πένητος	πένης	adjective, genitive masculine singular	1	poor
+DEU 24:14	1	4	πένητος	πένης	adjective, genitive masculine singular	1	of the poor
 DEU 24:14	1	5	καὶ	καί	conjunction	1	and
 DEU 24:14	1	6	ἐνδεοῦς	ἐνδεής	adjective, genitive masculine singular	1	needy
 DEU 24:14	1	7	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -398,10 +398,10 @@ DEU 24:18	1	1	καὶ	καί	conjunction	1	and
 DEU 24:18	1	2	οὐκ	οὐ	negative particle	1	not
 DEU 24:18	1	3	ἐνεχυράσεις	ἐνεχυράζω	future active indicative, 2nd singular	1	shall take as pledge
 DEU 24:18	1	4	ἱμάτιον	ἱμάτιον	noun, accusative neuter singular	1	garment
-DEU 24:18	1	5	χήρας	χήρα	noun, genitive feminine singular	1	widow
+DEU 24:18	1	5	χήρας	χήρα	noun, genitive feminine singular	1	of a widow
 DEU 24:18	1	6	καὶ	καί	conjunction	1	and
 DEU 24:18	1	7	μνησθήσῃ	μιμνήσκομαι	future passive indicative, 2nd singular	1	shall remember
-DEU 24:18	1	8	ὅτι	ὅτι	conjunction	1	for
+DEU 24:18	1	8	ὅτι	ὅτι	conjunction	1	that
 DEU 24:18	1	9	οἰκέτης	οἰκέτης	noun, nominative masculine singular	1	servant
 DEU 24:18	1	10	ἦσθα	εἰμί	imperfect indicative, 2nd singular	1	were
 DEU 24:18	1	11	ἐν	ἐν	preposition with the dative	1	in
@@ -443,7 +443,7 @@ DEU 24:19	1	16	οὐκ	οὐ	negative particle	1	not
 DEU 24:19	1	17	ἐπαναστραφήσῃ	ἐπαναστρέφομαι	future passive indicative, 2nd singular	1	shall return
 DEU 24:19	1	18	λαβεῖν	λαμβάνω	aorist active infinitive	1	to take
 DEU 24:19	1	19	αὐτό	αὐτός	pronoun, nominative/accusative neuter singular	1	it
-DEU 24:19	1	20	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 24:19	1	20	τῷ	ὁ	definite article, dative masculine/neuter singular	1	for the
 DEU 24:19	1	21	πτωχῷ	πτωχός	adjective, dative masculine singular	1	poor
 DEU 24:19	1	22	καὶ	καί	conjunction	1	and
 DEU 24:19	1	23	τῷ	ὁ	definite article, dative masculine/neuter singular	1	for the
@@ -466,7 +466,7 @@ DEU 24:19	1	39	ἐν	ἐν	preposition with the dative	1	in
 DEU 24:19	1	40	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
 DEU 24:19	1	41	τοῖς	ὁ	article, dative neuter plural	1	the
 DEU 24:19	1	42	ἔργοις	ἔργον	noun, dative neuter plural	1	works
-DEU 24:19	1	43	τῶν	ὁ	definite article, genitive plural	1	the
+DEU 24:19	1	43	τῶν	ὁ	definite article, genitive plural	1	of the
 DEU 24:19	1	44	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
 DEU 24:19	1	45	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 24:20	1	1	Ἐὰν	ἐάν	conditional conjunction	1	if
@@ -477,8 +477,8 @@ DEU 24:20	1	5	ἐπαναστρέψεις	ἐπαναστρέφω	future active 
 DEU 24:20	1	6	καλαμήσασθαι	καλαμάομαι	aorist middle infinitive	1	to glean
 DEU 24:20	1	7	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 DEU 24:20	1	8	ὀπίσω	ὀπίσω	adverb	1	after
-DEU 24:20	1	9	σου	σύ	pronoun, genitive 2nd singular	1	your
-DEU 24:20	1	10	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 24:20	1	9	σου	σύ	pronoun, genitive 2nd singular	1	you
+DEU 24:20	1	10	τῷ	ὁ	definite article, dative masculine/neuter singular	1	for the
 DEU 24:20	1	11	προσηλύτῳ	προσήλυτος	noun, dative masculine singular	1	sojourner
 DEU 24:20	1	12	καὶ	καί	conjunction	1	and
 DEU 24:20	1	13	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
@@ -489,7 +489,7 @@ DEU 24:20	1	17	χήρᾳ	χήρα	noun, dative feminine singular	1	widow
 DEU 24:20	1	18	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
 DEU 24:20	1	19	καὶ	καί	conjunction	1	and
 DEU 24:20	1	20	μνησθήσῃ	μιμνήσκομαι	future passive indicative, 2nd singular	1	shall remember
-DEU 24:20	1	21	ὅτι	ὅτι	conjunction	1	for
+DEU 24:20	1	21	ὅτι	ὅτι	conjunction	1	that
 DEU 24:20	1	22	οἰκέτης	οἰκέτης	noun, nominative masculine singular	1	servant
 DEU 24:20	1	23	ἦσθα	εἰμί	imperfect indicative, 2nd singular	1	were
 DEU 24:20	1	24	ἐν	ἐν	preposition with the dative	1	in
@@ -514,8 +514,8 @@ DEU 24:21	1	7	οὐκ	οὐ	negative particle	1	not
 DEU 24:21	1	8	ἐπανατρυγήσεις	ἐπανατρυγάω	future active indicative, 2nd singular	1	shall gather again
 DEU 24:21	1	9	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 DEU 24:21	1	10	ὀπίσω	ὀπίσω	adverb	1	after
-DEU 24:21	1	11	σου	σύ	pronoun, genitive 2nd singular	1	your
-DEU 24:21	1	12	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 24:21	1	11	σου	σύ	pronoun, genitive 2nd singular	1	you
+DEU 24:21	1	12	τῷ	ὁ	definite article, dative masculine/neuter singular	1	for the
 DEU 24:21	1	13	προσηλύτῳ	προσήλυτος	noun, dative masculine singular	1	sojourner
 DEU 24:21	1	14	καὶ	καί	conjunction	1	and
 DEU 24:21	1	15	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
@@ -526,7 +526,7 @@ DEU 24:21	1	19	χήρᾳ	χήρα	noun, dative feminine singular	1	widow
 DEU 24:21	1	20	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
 DEU 24:21	1	21	καὶ	καί	conjunction	1	and
 DEU 24:21	1	22	μνησθήσῃ	μιμνήσκομαι	future passive indicative, 2nd singular	1	shall remember
-DEU 24:21	1	23	ὅτι	ὅτι	conjunction	1	for
+DEU 24:21	1	23	ὅτι	ὅτι	conjunction	1	that
 DEU 24:21	1	24	οἰκέτης	οἰκέτης	noun, nominative masculine singular	1	servant
 DEU 24:21	1	25	ἦσθα	εἰμί	imperfect indicative, 2nd singular	1	were
 DEU 24:21	1	26	ἐν	ἐν	preposition with the dative	1	in
