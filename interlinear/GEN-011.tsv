@@ -17,7 +17,7 @@ GEN 11:1	1	11	πᾶσι			2	for everyone
 GEN 11:2	1	1	Καὶ	καί	conjunction	1	and
 GEN 11:2	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 GEN 11:2	1	3	ἐν	ἐν	preposition introducing a temporal articular infinitive	1	when
-GEN 11:2	1	4	τῷ	ὁ	article, dative neuter singular, introducing a temporal infinitive	1	(marks the infinitive)
+GEN 11:2	1	4	τῷ	ὁ	article, dative neuter singular, introducing a temporal infinitive	1	—
 GEN 11:2	1	5	κινῆσαι	κινέω	aorist active infinitive in a temporal clause	1	set out
 GEN 11:2	1	5	κινῆσαι			2	moved
 GEN 11:2	1	6	αὐτοὺς	αὐτός	pronoun, accusative masculine plural, subject of κινῆσαι	1	they
@@ -93,7 +93,7 @@ GEN 11:4	1	18	ἑαυτῶν	ἑαυτοῦ	reflexive pronoun, possessive geniti
 GEN 11:4	1	18	ἑαυτῶν			2	of ourselves
 GEN 11:4	1	19	ὄνομα	ὄνομα	noun, accusative neuter singular, object of ποιήσωμεν	1	name
 GEN 11:4	1	20	πρὸ	πρό	preposition with the genitive	1	before
-GEN 11:4	1	21	τοῦ	ὁ	article, genitive neuter singular, introducing a temporal infinitive	1	(marks the infinitive)
+GEN 11:4	1	21	τοῦ	ὁ	article, genitive neuter singular, introducing a temporal infinitive	1	—
 GEN 11:4	1	22	διασπαρῆναι	διασπείρω	aorist passive infinitive, with the speakers as understood subject	1	being scattered
 GEN 11:4	1	22	διασπαρῆναι			2	being dispersed
 GEN 11:4	1	23	ἐπὶ	ἐπί	preposition with the genitive	1	upon
@@ -240,7 +240,7 @@ GEN 11:10	1	8	ἐτῶν	ἔτος	noun, genitive neuter plural, of age	1	of yea
 GEN 11:10	1	9	ἑκατὸν	ἑκατόν	indeclinable cardinal numeral	1	one hundred
 GEN 11:10	1	10	ὅτε	ὅτε	temporal conjunction	1	when
 GEN 11:10	1	11	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
-GEN 11:10	1	12	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:10	1	12	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:10	1	13	Ἀρφαξὰδ	Ἀρφαξάδ	indeclinable personal name, accusative in context	1	Arphaxad
 GEN 11:10	1	14	δευτέρου	δεύτερος	ordinal adjective, genitive neuter singular, of time	1	in the second
 GEN 11:10	1	15	ἔτους	ἔτος	noun, genitive neuter singular, of time	1	year
@@ -251,11 +251,11 @@ GEN 11:11	1	1	καὶ	καί	conjunction	1	and
 GEN 11:11	1	2	ἔζησε	ζάω	aorist active indicative, third singular	1	lived
 GEN 11:11	1	3	Σὴμ	Σήμ	indeclinable personal name, nominative in context	1	Shem
 GEN 11:11	1	4	μετὰ	μετά	preposition with the accusative	1	after
-GEN 11:11	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	(marks the infinitive)
+GEN 11:11	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	—
 GEN 11:11	1	6	γεννῆσαι	γεννάω	aorist active infinitive with an accusative subject	1	fathered
 GEN 11:11	1	6	γεννῆσαι			2	begot
 GEN 11:11	1	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular, subject of γεννῆσαι	1	he
-GEN 11:11	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:11	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:11	1	9	Ἀρφαξὰδ	Ἀρφαξάδ	indeclinable personal name, accusative in context	1	Arphaxad
 GEN 11:11	1	10	πεντακόσια	πεντακόσιοι	cardinal numeral, accusative neuter plural	1	five hundred
 GEN 11:11	1	11	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
@@ -274,18 +274,18 @@ GEN 11:12	1	5	τριακονταπέντε	τριακονταπέντε	indeclin
 GEN 11:12	1	6	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
 GEN 11:12	1	7	καὶ	καί	conjunction	1	and
 GEN 11:12	1	8	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
-GEN 11:12	1	9	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:12	1	9	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:12	1	10	Καϊνᾶν	Καϊνᾶν	indeclinable personal name, accusative in context	1	Cainan
 GEN 11:12	1	10	Καϊνᾶν			2	Kainan
 GEN 11:13	1	1	καὶ	καί	conjunction	1	and
 GEN 11:13	1	2	ἔζησεν	ζάω	aorist active indicative, third singular	1	lived
 GEN 11:13	1	3	Ἀρφαξὰδ	Ἀρφαξάδ	indeclinable personal name, nominative in context	1	Arphaxad
 GEN 11:13	1	4	μετὰ	μετά	preposition with the accusative	1	after
-GEN 11:13	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	(marks the infinitive)
+GEN 11:13	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	—
 GEN 11:13	1	6	γεννῆσαι	γεννάω	aorist active infinitive with an accusative subject	1	fathered
 GEN 11:13	1	6	γεννῆσαι			2	begot
 GEN 11:13	1	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular, subject of γεννῆσαι	1	he
-GEN 11:13	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:13	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:13	1	9	Καϊνᾶν	Καϊνᾶν	indeclinable personal name, accusative in context	1	Cainan
 GEN 11:13	1	9	Καϊνᾶν			2	Kainan
 GEN 11:13	1	10	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
@@ -307,7 +307,7 @@ GEN 11:13	1	24	τριάκοντα	τριάκοντα	indeclinable cardinal numer
 GEN 11:13	1	25	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
 GEN 11:13	1	26	καὶ	καί	conjunction	1	and
 GEN 11:13	1	27	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
-GEN 11:13	1	28	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:13	1	28	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:13	1	29	Σαλά	Σαλά	indeclinable personal name, accusative in context	1	Sala
 GEN 11:13	1	29	Σαλά			2	Shelah
 GEN 11:13	1	30	καὶ	καί	conjunction	1	and
@@ -315,11 +315,11 @@ GEN 11:13	1	31	ἔζησε	ζάω	aorist active indicative, third singular	1	liv
 GEN 11:13	1	32	Καϊνᾶν	Καϊνᾶν	indeclinable personal name, nominative in context	1	Cainan
 GEN 11:13	1	32	Καϊνᾶν			2	Kainan
 GEN 11:13	1	33	μετὰ	μετά	preposition with the accusative	1	after
-GEN 11:13	1	34	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	(marks the infinitive)
+GEN 11:13	1	34	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	—
 GEN 11:13	1	35	γεννῆσαι	γεννάω	aorist active infinitive with an accusative subject	1	fathered
 GEN 11:13	1	35	γεννῆσαι			2	begot
 GEN 11:13	1	36	αὐτὸν	αὐτός	pronoun, accusative masculine singular, subject of γεννῆσαι	1	he
-GEN 11:13	1	37	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:13	1	37	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:13	1	38	Σαλὰ	Σαλά	indeclinable personal name, accusative in context	1	Sala
 GEN 11:13	1	38	Σαλὰ			2	Shelah
 GEN 11:13	1	39	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
@@ -341,18 +341,18 @@ GEN 11:13	1	53	τριάκοντα	τριάκοντα	indeclinable cardinal numer
 GEN 11:13	1	54	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
 GEN 11:13	1	55	καὶ	καί	conjunction	1	and
 GEN 11:13	1	56	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
-GEN 11:13	1	57	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:13	1	57	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:13	1	58	Ἕβερ	Ἕβερ	indeclinable personal name, accusative in context	1	Eber
 GEN 11:14	1	1	καὶ	καί	conjunction	1	and
 GEN 11:14	1	2	ἔζησε	ζάω	aorist active indicative, third singular	1	lived
 GEN 11:14	1	3	Σαλὰ	Σαλά	indeclinable personal name, nominative in context	1	Sala
 GEN 11:14	1	3	Σαλὰ			2	Shelah
 GEN 11:14	1	4	μετὰ	μετά	preposition with the accusative	1	after
-GEN 11:14	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	(marks the infinitive)
+GEN 11:14	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	—
 GEN 11:14	1	6	γεννῆσαι	γεννάω	aorist active infinitive with an accusative subject	1	fathered
 GEN 11:14	1	6	γεννῆσαι			2	begot
 GEN 11:14	1	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular, subject of γεννῆσαι	1	he
-GEN 11:14	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:14	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:14	1	9	Ἕβερ	Ἕβερ	indeclinable personal name, accusative in context	1	Eber
 GEN 11:15	1	1	τριακόσια	τριακόσιοι	cardinal numeral, accusative neuter plural	1	three hundred
 GEN 11:15	1	2	τριάκοντα	τριάκοντα	indeclinable cardinal numeral	1	thirty
@@ -372,18 +372,18 @@ GEN 11:16	1	5	τριακοντατέσσαρα	τριακοντατέσσαρε�
 GEN 11:16	1	6	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
 GEN 11:16	1	7	καὶ	καί	conjunction	1	and
 GEN 11:16	1	8	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
-GEN 11:16	1	9	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:16	1	9	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:16	1	10	Φαλέγ	Φαλέγ	indeclinable personal name, accusative in context	1	Phaleg
 GEN 11:16	1	10	Φαλέγ			2	Peleg
 GEN 11:17	1	1	καὶ	καί	conjunction	1	and
 GEN 11:17	1	2	ἔζησεν	ζάω	aorist active indicative, third singular	1	lived
 GEN 11:17	1	3	Ἕβερ	Ἕβερ	indeclinable personal name, nominative in context	1	Eber
 GEN 11:17	1	4	μετὰ	μετά	preposition with the accusative	1	after
-GEN 11:17	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	(marks the infinitive)
+GEN 11:17	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	—
 GEN 11:17	1	6	γεννῆσαι	γεννάω	aorist active infinitive with an accusative subject	1	fathered
 GEN 11:17	1	6	γεννῆσαι			2	begot
 GEN 11:17	1	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular, subject of γεννῆσαι	1	he
-GEN 11:17	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:17	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:17	1	9	Φαλὲγ	Φαλέγ	indeclinable personal name, accusative in context	1	Phaleg
 GEN 11:17	1	9	Φαλὲγ			2	Peleg
 GEN 11:17	1	10	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
@@ -405,7 +405,7 @@ GEN 11:18	1	5	τριάκοντα	τριάκοντα	indeclinable cardinal numera
 GEN 11:18	1	6	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
 GEN 11:18	1	7	καὶ	καί	conjunction	1	and
 GEN 11:18	1	8	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
-GEN 11:18	1	9	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:18	1	9	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:18	1	10	Ῥαγαῦ	Ῥαγαῦ	indeclinable personal name, accusative in context	1	Reu
 GEN 11:18	1	10	Ῥαγαῦ			2	Rhagau
 GEN 11:19	1	1	καὶ	καί	conjunction	1	and
@@ -413,11 +413,11 @@ GEN 11:19	1	2	ἔζησε	ζάω	aorist active indicative, third singular	1	live
 GEN 11:19	1	3	Φαλὲγ	Φαλέγ	indeclinable personal name, nominative in context	1	Phaleg
 GEN 11:19	1	3	Φαλὲγ			2	Peleg
 GEN 11:19	1	4	μετὰ	μετά	preposition with the accusative	1	after
-GEN 11:19	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	(marks the infinitive)
+GEN 11:19	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	—
 GEN 11:19	1	6	γεννῆσαι	γεννάω	aorist active infinitive with an accusative subject	1	fathered
 GEN 11:19	1	6	γεννῆσαι			2	begot
 GEN 11:19	1	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular, subject of γεννῆσαι	1	he
-GEN 11:19	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:19	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:19	1	9	Ῥαγαῦ	Ῥαγαῦ	indeclinable personal name, accusative in context	1	Reu
 GEN 11:19	1	9	Ῥαγαῦ			2	Rhagau
 GEN 11:19	1	10	διακόσια	διακόσιοι	cardinal numeral, accusative neuter plural	1	two hundred
@@ -440,7 +440,7 @@ GEN 11:20	1	6	δύο	δύο	indeclinable cardinal numeral	1	two
 GEN 11:20	1	7	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
 GEN 11:20	1	8	καὶ	καί	conjunction	1	and
 GEN 11:20	1	9	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
-GEN 11:20	1	10	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:20	1	10	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:20	1	11	Σερούχ	Σερούχ	indeclinable personal name, accusative in context	1	Serug
 GEN 11:20	1	11	Σερούχ			2	Serouch
 GEN 11:21	1	1	καὶ	καί	conjunction	1	and
@@ -448,11 +448,11 @@ GEN 11:21	1	2	ἔζησε	ζάω	aorist active indicative, third singular	1	live
 GEN 11:21	1	3	Ῥαγαῦ	Ῥαγαῦ	indeclinable personal name, nominative in context	1	Reu
 GEN 11:21	1	3	Ῥαγαῦ			2	Rhagau
 GEN 11:21	1	4	μετὰ	μετά	preposition with the accusative	1	after
-GEN 11:21	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	(marks the infinitive)
+GEN 11:21	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	—
 GEN 11:21	1	6	γεννῆσαι	γεννάω	aorist active infinitive with an accusative subject	1	fathered
 GEN 11:21	1	6	γεννῆσαι			2	begot
 GEN 11:21	1	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular, subject of γεννῆσαι	1	he
-GEN 11:21	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:21	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:21	1	9	Σεροὺχ	Σερούχ	indeclinable personal name, accusative in context	1	Serug
 GEN 11:21	1	9	Σεροὺχ			2	Serouch
 GEN 11:21	1	10	διακόσια	διακόσιοι	cardinal numeral, accusative neuter plural	1	two hundred
@@ -474,7 +474,7 @@ GEN 11:22	1	5	τριάκοντα	τριάκοντα	indeclinable cardinal numera
 GEN 11:22	1	6	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
 GEN 11:22	1	7	καὶ	καί	conjunction	1	and
 GEN 11:22	1	8	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
-GEN 11:22	1	9	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:22	1	9	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:22	1	10	Ναχώρ	Ναχώρ	indeclinable personal name, accusative in context	1	Nahor
 GEN 11:22	1	10	Ναχώρ			2	Nachor
 GEN 11:23	1	1	καὶ	καί	conjunction	1	and
@@ -482,11 +482,11 @@ GEN 11:23	1	2	ἔζησε	ζάω	aorist active indicative, third singular	1	live
 GEN 11:23	1	3	Σεροὺχ	Σερούχ	indeclinable personal name, nominative in context	1	Serug
 GEN 11:23	1	3	Σεροὺχ			2	Serouch
 GEN 11:23	1	4	μετὰ	μετά	preposition with the accusative	1	after
-GEN 11:23	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	(marks the infinitive)
+GEN 11:23	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	—
 GEN 11:23	1	6	γεννῆσαι	γεννάω	aorist active infinitive with an accusative subject	1	fathered
 GEN 11:23	1	6	γεννῆσαι			2	begot
 GEN 11:23	1	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular, subject of γεννῆσαι	1	he
-GEN 11:23	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:23	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:23	1	9	Ναχὼρ	Ναχώρ	indeclinable personal name, accusative in context	1	Nahor
 GEN 11:23	1	9	Ναχὼρ			2	Nachor
 GEN 11:23	1	10	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
@@ -506,7 +506,7 @@ GEN 11:24	1	4	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	ye
 GEN 11:24	1	5	ἑβδομηκονταεννέα	ἑβδομηκονταεννέα	indeclinable compound cardinal numeral	1	seventy-nine
 GEN 11:24	1	6	καὶ	καί	conjunction	1	and
 GEN 11:24	1	7	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
-GEN 11:24	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:24	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:24	1	9	Θάρα	Θάρα	indeclinable personal name, accusative in context	1	Terah
 GEN 11:24	1	9	Θάρα			2	Thara
 GEN 11:25	1	1	καὶ	καί	conjunction	1	and
@@ -514,11 +514,11 @@ GEN 11:25	1	2	ἔζησε	ζάω	aorist active indicative, third singular	1	live
 GEN 11:25	1	3	Ναχὼρ	Ναχώρ	indeclinable personal name, nominative in context	1	Nahor
 GEN 11:25	1	3	Ναχὼρ			2	Nachor
 GEN 11:25	1	4	μετὰ	μετά	preposition with the accusative	1	after
-GEN 11:25	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	(marks the infinitive)
+GEN 11:25	1	5	τὸ	ὁ	article, accusative neuter singular, introducing an infinitive after μετά	1	—
 GEN 11:25	1	6	γεννῆσαι	γεννάω	aorist active infinitive with an accusative subject	1	fathered
 GEN 11:25	1	6	γεννῆσαι			2	begot
 GEN 11:25	1	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular, subject of γεννῆσαι	1	he
-GEN 11:25	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:25	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:25	1	9	Θάρα	Θάρα	indeclinable personal name, accusative in context	1	Terah
 GEN 11:25	1	9	Θάρα			2	Thara
 GEN 11:25	1	10	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
@@ -539,15 +539,15 @@ GEN 11:26	1	4	ἑβδομήκοντα	ἑβδομήκοντα	indeclinable cardi
 GEN 11:26	1	5	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
 GEN 11:26	1	6	καὶ	καί	conjunction	1	and
 GEN 11:26	1	7	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
-GEN 11:26	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:26	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:26	1	9	Ἅβραμ	Ἅβραμ	indeclinable personal name, accusative in context	1	Abram
 GEN 11:26	1	9	Ἅβραμ			2	Habram
 GEN 11:26	1	10	καὶ	καί	conjunction	1	and
-GEN 11:26	1	11	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:26	1	11	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:26	1	12	Ναχὼρ	Ναχώρ	indeclinable personal name, accusative in context	1	Nahor
 GEN 11:26	1	12	Ναχὼρ			2	Nachor
 GEN 11:26	1	13	καὶ	καί	conjunction	1	and
-GEN 11:26	1	14	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:26	1	14	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:26	1	15	Ἀῤῥάν	Ἀῤῥάν	indeclinable personal name, accusative in context	1	Haran
 GEN 11:26	1	15	Ἀῤῥάν			2	Arrhan
 GEN 11:27	1	1	Αὗται	οὗτος	demonstrative pronoun, nominative feminine plural	1	these
@@ -560,22 +560,22 @@ GEN 11:27	1	6	Θάρα	Θάρα	indeclinable personal name, nominative in contex
 GEN 11:27	1	6	Θάρα			2	Thara
 GEN 11:27	1	7	δὲ	δέ	postpositive conjunction	1	now
 GEN 11:27	1	8	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
-GEN 11:27	1	9	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:27	1	9	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:27	1	10	Ἅβραμ	Ἅβραμ	indeclinable personal name, accusative in context	1	Abram
 GEN 11:27	1	10	Ἅβραμ			2	Habram
 GEN 11:27	1	11	καὶ	καί	conjunction	1	and
-GEN 11:27	1	12	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:27	1	12	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:27	1	13	Ναχὼρ	Ναχώρ	indeclinable personal name, accusative in context	1	Nahor
 GEN 11:27	1	13	Ναχὼρ			2	Nachor
 GEN 11:27	1	14	καὶ	καί	conjunction	1	and
-GEN 11:27	1	15	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:27	1	15	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:27	1	16	Ἀῤῥάν	Ἀῤῥάν	indeclinable personal name, accusative in context	1	Haran
 GEN 11:27	1	16	Ἀῤῥάν			2	Arrhan
 GEN 11:27	1	17	καὶ	καί	conjunction	1	and
 GEN 11:27	1	18	Ἀῤῥὰν	Ἀῤῥάν	indeclinable personal name, nominative in context	1	Haran
 GEN 11:27	1	18	Ἀῤῥὰν			2	Arrhan
 GEN 11:27	1	19	ἐγέννησε	γεννάω	aorist active indicative, third singular	1	fathered
-GEN 11:27	1	20	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:27	1	20	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:27	1	21	Λώτ	Λώτ	indeclinable personal name, accusative in context	1	Lot
 GEN 11:28	1	1	Καὶ	καί	conjunction	1	and
 GEN 11:28	1	2	ἀπέθανεν	ἀποθνῄσκω	aorist active indicative, third singular with an expressed subject	1	died
@@ -645,14 +645,14 @@ GEN 11:31	1	1	Καὶ	καί	conjunction	1	and
 GEN 11:31	1	2	ἔλαβε	λαμβάνω	aorist active indicative, third singular	1	took
 GEN 11:31	1	3	Θάρα	Θάρα	indeclinable personal name, nominative in context	1	Terah
 GEN 11:31	1	3	Θάρα			2	Thara
-GEN 11:31	1	4	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:31	1	4	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:31	1	5	Ἅβραμ	Ἅβραμ	indeclinable personal name, accusative in context	1	Abram
 GEN 11:31	1	5	Ἅβραμ			2	Habram
 GEN 11:31	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 11:31	1	7	υἱὸν	υἱός	noun, accusative masculine singular	1	son
 GEN 11:31	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
 GEN 11:31	1	9	καὶ	καί	conjunction	1	and
-GEN 11:31	1	10	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 11:31	1	10	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 11:31	1	11	Λὼτ	Λώτ	indeclinable personal name, accusative in context	1	Lot
 GEN 11:31	1	12	υἱὸν	υἱός	noun, accusative masculine singular, in apposition	1	son
 GEN 11:31	1	12	υἱὸν			2	a son
@@ -664,7 +664,7 @@ GEN 11:31	1	15	τοῦ	ὁ	article, genitive masculine singular	1	of the
 GEN 11:31	1	16	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 GEN 11:31	1	17	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
 GEN 11:31	1	18	καὶ	καί	conjunction	1	and
-GEN 11:31	1	19	τὴν	ὁ	article with a personal name, accusative feminine singular	1	(marks the name)
+GEN 11:31	1	19	τὴν	ὁ	article with a personal name, accusative feminine singular	1	—
 GEN 11:31	1	20	Σάραν	Σάρα	personal name, accusative feminine singular	1	Sara
 GEN 11:31	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 11:31	1	22	νύμφην	νύμφη	noun, accusative feminine singular	1	daughter-in-law

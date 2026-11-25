@@ -23,7 +23,7 @@ GEN 2:2	1	4	Θεὸς	θεός	noun, nominative masculine singular	1	God
 GEN 2:2	1	5	ἐν	ἐν	preposition with the dative	1	in
 GEN 2:2	1	6	τῇ	ὁ	article, dative feminine singular	1	the
 GEN 2:2	1	7	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
-GEN 2:2	1	8	τῇ	ὁ	article, dative feminine singular	1	(marks the following adjective)
+GEN 2:2	1	8	τῇ	ὁ	article, dative feminine singular	1	—
 GEN 2:2	1	9	ἕκτῃ	ἕκτος	ordinal adjective, dative feminine singular	1	sixth
 GEN 2:2	1	10	τὰ	ὁ	article, accusative neuter plural	1	the
 GEN 2:2	1	11	ἔργα	ἔργον	noun, accusative neuter plural	1	works
@@ -35,7 +35,7 @@ GEN 2:2	1	16	κατέπαυσε	καταπαύω	aorist active indicative, third
 GEN 2:2	1	16	κατέπαυσε			2	he ceased
 GEN 2:2	1	17	τῇ	ὁ	article, dative feminine singular	1	on the
 GEN 2:2	1	18	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
-GEN 2:2	1	19	τῇ	ὁ	article, dative feminine singular	1	(marks the following adjective)
+GEN 2:2	1	19	τῇ	ὁ	article, dative feminine singular	1	—
 GEN 2:2	1	20	ἑβδόμῃ	ἕβδομος	ordinal adjective, dative feminine singular	1	seventh
 GEN 2:2	1	21	ἀπὸ	ἀπό	preposition with the genitive	1	from
 GEN 2:2	1	22	πάντων	πᾶς	adjective, genitive neuter plural	1	all
@@ -50,7 +50,7 @@ GEN 2:3	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 2:3	1	4	Θεὸς	θεός	noun, nominative masculine singular	1	God
 GEN 2:3	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 2:3	1	6	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
-GEN 2:3	1	7	τὴν	ὁ	article, accusative feminine singular	1	(marks the following adjective)
+GEN 2:3	1	7	τὴν	ὁ	article, accusative feminine singular	1	—
 GEN 2:3	1	8	ἑβδόμην	ἕβδομος	ordinal adjective, accusative feminine singular	1	seventh
 GEN 2:3	1	9	καὶ	καί	conjunction	1	and
 GEN 2:3	1	10	ἡγίασεν	ἁγιάζω	aorist active indicative, third singular	1	he made holy
@@ -100,7 +100,7 @@ GEN 2:5	1	3	χλωρὸν	χλωρός	substantival adjective, accusative neuter
 GEN 2:5	1	3	χλωρὸν			2	green plant
 GEN 2:5	1	4	ἀγροῦ	ἀγρός	noun, genitive masculine singular	1	of the field
 GEN 2:5	1	5	πρὸ	πρό	preposition with the genitive	1	before
-GEN 2:5	1	6	τοῦ	ὁ	article with the infinitive, genitive neuter singular	1	(marks the infinitive)
+GEN 2:5	1	6	τοῦ	ὁ	article with the infinitive, genitive neuter singular	1	—
 GEN 2:5	1	7	γενέσθαι	γίνομαι	aorist middle infinitive	1	coming into being
 GEN 2:5	1	8	ἐπὶ	ἐπί	preposition with the genitive	1	upon
 GEN 2:5	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -110,7 +110,7 @@ GEN 2:5	1	12	πάντα	πᾶς	adjective, accusative masculine singular	1	every
 GEN 2:5	1	13	χόρτον	χόρτος	noun, accusative masculine singular	1	grass
 GEN 2:5	1	14	ἀγροῦ	ἀγρός	noun, genitive masculine singular	1	of the field
 GEN 2:5	1	15	πρὸ	πρό	preposition with the genitive	1	before
-GEN 2:5	1	16	τοῦ	ὁ	article with the infinitive, genitive neuter singular	1	(marks the infinitive)
+GEN 2:5	1	16	τοῦ	ὁ	article with the infinitive, genitive neuter singular	1	—
 GEN 2:5	1	17	ἀνατεῖλαι	ἀνατέλλω	aorist active infinitive	1	springing up
 GEN 2:5	1	17	ἀνατεῖλαι			2	sprouting
 GEN 2:5	1	18	οὐ	οὐ	negative particle	1	not
@@ -230,7 +230,7 @@ GEN 2:9	1	26	παραδείσου	παράδεισος	noun, genitive masculine 
 GEN 2:9	1	27	καὶ	καί	conjunction	1	and
 GEN 2:9	1	28	τὸ	ὁ	article, accusative neuter singular	1	the
 GEN 2:9	1	29	ξύλον	ξύλον	noun, accusative neuter singular	1	tree
-GEN 2:9	1	30	τοῦ	ὁ	article with the infinitive, genitive neuter singular	1	(marks the infinitive)
+GEN 2:9	1	30	τοῦ	ὁ	article with the infinitive, genitive neuter singular	1	—
 GEN 2:9	1	31	εἰδέναι	οἶδα	perfect active infinitive with present sense	1	to know
 GEN 2:9	1	32	γνωστὸν	γνωστός	substantival adjective, accusative neuter singular	1	what can be known
 GEN 2:9	1	32	γνωστὸν			2	what is known
@@ -258,7 +258,7 @@ GEN 2:11	1	1	Ὄνομα	ὄνομα	noun, nominative neuter singular	1	name
 GEN 2:11	1	2	τῷ	ὁ	article, dative masculine singular	1	of the
 GEN 2:11	1	3	ἑνὶ	εἷς	cardinal numeral, dative masculine singular	1	one
 GEN 2:11	1	3	ἑνὶ			2	first
-GEN 2:11	1	4	Φεισών	Φεισών	indeclinable river name, nominative	1	Pheison
+GEN 2:11	1	4	Φεισών	Φεισών	indeclinable river name, nominative	1	Pishon
 GEN 2:11	1	5	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 GEN 2:11	1	6	ὁ	ὁ	article before a participle, nominative masculine singular	1	the one
 GEN 2:11	1	7	κυκλῶν	κυκλόω	present active participle, nominative masculine singular	1	encircling
@@ -290,16 +290,16 @@ GEN 2:12	1	12	ἄνθραξ			2	a red gemstone
 GEN 2:12	1	13	καὶ	καί	conjunction	1	and
 GEN 2:12	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 2:12	1	15	λίθος	λίθος	noun, nominative masculine singular	1	stone
-GEN 2:12	1	16	ὁ	ὁ	article, nominative masculine singular	1	(marks the following adjective)
+GEN 2:12	1	16	ὁ	ὁ	article, nominative masculine singular	1	—
 GEN 2:12	1	17	πράσινος	πράσινος	adjective, nominative masculine singular	1	green
 GEN 2:12	1	17	πράσινος			2	leek-green
 GEN 2:13	1	1	Καὶ	καί	conjunction	1	and
 GEN 2:13	1	2	ὄνομα	ὄνομα	noun, nominative neuter singular	1	name
 GEN 2:13	1	3	τῷ	ὁ	article, dative masculine singular	1	of the
 GEN 2:13	1	4	ποταμῷ	ποταμός	noun, dative masculine singular	1	river
-GEN 2:13	1	5	τῷ	ὁ	article before an attributive ordinal, dative masculine singular	1	(marks the following ordinal)
+GEN 2:13	1	5	τῷ	ὁ	article before an attributive ordinal, dative masculine singular	1	—
 GEN 2:13	1	6	δευτέρῳ	δεύτερος	ordinal adjective, dative masculine singular	1	second
-GEN 2:13	1	7	Γηών	Γηών	indeclinable river name, nominative	1	Geon
+GEN 2:13	1	7	Γηών	Γηών	indeclinable river name, nominative	1	Gihon
 GEN 2:13	1	8	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 GEN 2:13	1	9	ὁ	ὁ	article before a participle, nominative masculine singular	1	the one
 GEN 2:13	1	10	κυκλῶν	κυκλόω	present active participle, nominative masculine singular	1	encircling
@@ -311,7 +311,7 @@ GEN 2:13	1	14	Αἰθιοπίας	Αἰθιοπία	proper noun, genitive femini
 GEN 2:14	1	1	Καὶ	καί	conjunction	1	and
 GEN 2:14	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 2:14	1	3	ποταμὸς	ποταμός	noun, nominative masculine singular	1	river
-GEN 2:14	1	4	ὁ	ὁ	article, nominative masculine singular	1	(marks the following adjective)
+GEN 2:14	1	4	ὁ	ὁ	article, nominative masculine singular	1	—
 GEN 2:14	1	5	τρίτος	τρίτος	ordinal adjective, nominative masculine singular	1	third
 GEN 2:14	1	6	Τίγρις	Τίγρις	proper noun, nominative masculine singular	1	Tigris
 GEN 2:14	1	7	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
@@ -325,7 +325,7 @@ GEN 2:14	1	12	Ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 2:14	1	13	δὲ	δέ	postpositive conjunction	1	now
 GEN 2:14	1	13	δὲ			2	and
 GEN 2:14	1	14	ποταμὸς	ποταμός	noun, nominative masculine singular	1	river
-GEN 2:14	1	15	ὁ	ὁ	article, nominative masculine singular	1	(marks the following adjective)
+GEN 2:14	1	15	ὁ	ὁ	article, nominative masculine singular	1	—
 GEN 2:14	1	16	τέταρτος	τέταρτος	ordinal adjective, nominative masculine singular	1	fourth
 GEN 2:14	1	17	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 GEN 2:14	1	18	Εὐφράτης	Εὐφράτης	proper noun, nominative masculine singular	1	Euphrates
@@ -376,7 +376,7 @@ GEN 2:17	1	1	ἀπὸ	ἀπό	preposition with the genitive	1	from
 GEN 2:17	1	2	δὲ	δέ	postpositive conjunction	1	but
 GEN 2:17	1	3	τοῦ	ὁ	article, genitive neuter singular	1	the
 GEN 2:17	1	4	ξύλου	ξύλον	noun, genitive neuter singular	1	tree
-GEN 2:17	1	5	τοῦ	ὁ	article with the infinitive, genitive neuter singular	1	(marks the infinitive)
+GEN 2:17	1	5	τοῦ	ὁ	article with the infinitive, genitive neuter singular	1	—
 GEN 2:17	1	6	γινώσκειν	γινώσκω	present active infinitive	1	to know
 GEN 2:17	1	7	καλὸν	καλός	substantival adjective, accusative neuter singular	1	good
 GEN 2:17	1	8	καὶ	καί	conjunction	1	and
@@ -438,7 +438,7 @@ GEN 2:19	1	21	ἤγαγεν	ἄγω	aorist active indicative, third singular	1	h
 GEN 2:19	1	21	ἤγαγεν			2	he led
 GEN 2:19	1	22	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
 GEN 2:19	1	23	πρὸς	πρός	preposition with the accusative	1	to
-GEN 2:19	1	24	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 2:19	1	24	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 2:19	1	25	Ἀδὰμ	Ἀδάμ	indeclinable personal name	1	Adam
 GEN 2:19	1	26	ἰδεῖν	ὁράω	aorist active infinitive of purpose	1	to see
 GEN 2:19	1	27	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
@@ -495,7 +495,7 @@ GEN 2:21	1	5	Θεὸς	θεός	noun, nominative masculine singular	1	God
 GEN 2:21	1	6	ἔκστασιν	ἔκστασις	noun, accusative feminine singular	1	a trance
 GEN 2:21	1	6	ἔκστασιν			2	a deep stupor
 GEN 2:21	1	7	ἐπὶ	ἐπί	preposition with the accusative	1	upon
-GEN 2:21	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 2:21	1	8	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 2:21	1	9	Ἀδὰμ	Ἀδάμ	indeclinable personal name	1	Adam
 GEN 2:21	1	10	καὶ	καί	conjunction	1	and
 GEN 2:21	1	11	ὕπνωσε	ὑπνόω	aorist active indicative, third singular	1	he fell asleep
@@ -525,7 +525,7 @@ GEN 2:22	1	7	πλευρὰν			2	side
 GEN 2:22	1	8	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 GEN 2:22	1	9	ἔλαβεν	λαμβάνω	aorist active indicative, third singular	1	he took
 GEN 2:22	1	10	ἀπὸ	ἀπό	preposition with the genitive	1	from
-GEN 2:22	1	11	τοῦ	ὁ	article with a personal name, genitive masculine singular	1	(marks the name)
+GEN 2:22	1	11	τοῦ	ὁ	article with a personal name, genitive masculine singular	1	—
 GEN 2:22	1	12	Ἀδὰμ	Ἀδάμ	indeclinable personal name	1	Adam
 GEN 2:22	1	13	εἰς	εἰς	preposition with the accusative	1	into
 GEN 2:22	1	14	γυναῖκα	γυνή	noun, accusative feminine singular	1	a woman
@@ -534,7 +534,7 @@ GEN 2:22	1	16	ἤγαγεν	ἄγω	aorist active indicative, third singular	1	h
 GEN 2:22	1	16	ἤγαγεν			2	he led
 GEN 2:22	1	17	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
 GEN 2:22	1	18	πρὸς	πρός	preposition with the accusative	1	to
-GEN 2:22	1	19	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 2:22	1	19	τὸν	ὁ	article with a personal name, accusative masculine singular	1	—
 GEN 2:22	1	20	Ἀδάμ	Ἀδάμ	indeclinable personal name	1	Adam
 GEN 2:23	1	1	Καὶ	καί	conjunction	1	and
 GEN 2:23	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
