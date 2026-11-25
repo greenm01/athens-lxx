@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 ISA 63:1	1	1	ΤΙΣ	τίς	interrogative pronoun, nominative masculine singular	1	who
 ISA 63:1	1	2	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 ISA 63:1	1	3	ὁ	ὁ	article	1	the one
-ISA 63:1	1	4	παραγινόμενος	παραγίνομαι	present middle participle, nominative masculine singular	1	who comes
+ISA 63:1	1	4	παραγινόμενος	παραγίνομαι	present middle participle, nominative masculine singular	1	coming
 ISA 63:1	1	4	παραγινόμενος			2	who arrives
 ISA 63:1	1	5	ἐξ	ἐκ	preposition with the genitive	1	from
 ISA 63:1	1	6	Ἐδώμ	Ἐδώμ	indeclinable proper name, genitive in context	1	Edom
@@ -10,7 +10,7 @@ ISA 63:1	1	7	ἐρύθημα	ἐρύθημα	noun, accusative neuter singular; a
 ISA 63:1	1	7	ἐρύθημα			2	red
 ISA 63:1	1	8	ἱμάτιον	ἱμάτιον	noun, accusative neuter singular	1	garment
 ISA 63:1	1	9	ἐκ	ἐκ	preposition with the genitive	1	from
-ISA 63:1	1	10	Βοσόρ	Βοσόρ	indeclinable place name, accusative in context	1	Bosor
+ISA 63:1	1	10	Βοσόρ	Βοσόρ	indeclinable place name, accusative in context	1	Bozrah
 ISA 63:1	1	10	Βοσόρ			2	Bezer
 ISA 63:1	1	11	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this one
 ISA 63:1	1	12	ὡραῖος	ὡραῖος	adjective, nominative masculine singular predicate	1	beautiful
@@ -23,14 +23,14 @@ ISA 63:1	1	17	μετὰ	μετά	preposition with genitive	1	with
 ISA 63:1	1	18	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	strength
 ISA 63:1	1	18	ἰσχύος			2	might
 ISA 63:1	1	19	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-ISA 63:1	1	20	διαλέγομαι	διαλέγομαι	present middle indicative, first singular	1	I speak
+ISA 63:1	1	20	διαλέγομαι	διαλέγομαι	present middle indicative, first singular	1	speak
 ISA 63:1	1	20	διαλέγομαι			2	I declare
 ISA 63:1	1	21	δικαιοσύνην	δικαιοσύνη	noun, accusative feminine singular	1	righteousness
 ISA 63:1	1	21	δικαιοσύνην			2	justice
 ISA 63:1	1	22	καὶ	καί	conjunction	1	and
 ISA 63:1	1	23	κρίσιν	κρίσις	noun, accusative feminine singular	1	justice
 ISA 63:1	1	23	κρίσιν			2	judgment
-ISA 63:1	1	24	σωτηρίου	σωτήριος	adjective, genitive neuter singular; substantival	1	salvation
+ISA 63:1	1	24	σωτηρίου	σωτήριος	adjective, genitive neuter singular; substantival	1	of salvation
 ISA 63:1	1	24	σωτηρίου			2	deliverance
 ISA 63:2	1	1	Διατί	διατί	adverb	1	why
 ISA 63:2	1	2	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -48,10 +48,10 @@ ISA 63:2	1	12	πατητοῦ	πατητός	adjective, genitive masculine singu
 ISA 63:2	1	12	πατητοῦ			2	trampled
 ISA 63:2	1	13	ληνοῦ	ληνός	noun, genitive feminine singular	1	a winepress
 ISA 63:3	1	1	Πλήρης	πλήρης	adjective, nominative masculine singular	1	full
-ISA 63:3	1	2	καταπεπατημένης	καταπατέω	perfect passive participle, genitive feminine singular; substantival, implicit winepress	1	trodden winepress
+ISA 63:3	1	2	καταπεπατημένης	καταπατέω	perfect passive participle, genitive feminine singular; substantival, implicit winepress	1	of a trodden winepress
 ISA 63:3	1	2	καταπεπατημένης			2	what has been trodden
 ISA 63:3	1	3	καὶ	καί	conjunction	1	and
-ISA 63:3	1	4	τῶν	ὁ	article, genitive neuter plural	1	the
+ISA 63:3	1	4	τῶν	ὁ	article, genitive neuter plural	1	of the
 ISA 63:3	1	5	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 ISA 63:3	1	6	οὐκ	οὐ	negative particle	1	not
 ISA 63:3	1	7	ἔστιν	εἰμί	present active indicative, third singular	1	is
@@ -71,12 +71,12 @@ ISA 63:3	1	20	ἐν	ἐν	preposition with dative	1	in
 ISA 63:3	1	21	ὀργῇ	ὀργή	noun dative feminine singular	1	anger
 ISA 63:3	1	22	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ISA 63:3	1	23	καὶ	καί	conjunction	1	and
-ISA 63:3	1	24	κατήγαγον	κατάγω	aorist active indicative, third plural	1	carried down
+ISA 63:3	1	24	κατήγαγον	κατάγω	aorist active indicative, third plural	1	I brought down
 ISA 63:3	1	25	τὸ	ὁ	article, neuter singular (case from context)	1	the
 ISA 63:3	1	26	αἷμα	αἷμα	noun, accusative neuter singular	1	blood
 ISA 63:3	1	27	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 ISA 63:3	1	28	εἰς	εἰς	preposition with the accusative	1	into
-ISA 63:3	1	29	γῆν	γῆ	noun, accusative feminine singular	1	the land
+ISA 63:3	1	29	γῆν	γῆ	noun, accusative feminine singular	1	the earth
 ISA 63:3	1	30	καὶ	καί	conjunction	1	and
 ISA 63:3	1	31	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 ISA 63:3	1	32	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -86,13 +86,13 @@ ISA 63:3	1	35	ἐμόλυνα	μολύνω	aorist active indicative, first singu
 ISA 63:3	1	35	ἐμόλυνα			2	I defiled
 ISA 63:4	1	1	Ἡμέρα	ἡμέρα	noun, nominative feminine singular	1	day
 ISA 63:4	1	2	γὰρ	γάρ	conjunction	1	for
-ISA 63:4	1	3	ἀνταποδόσεως	ἀνταπόδοσις	noun, genitive feminine singular	1	repayment
+ISA 63:4	1	3	ἀνταποδόσεως	ἀνταπόδοσις	noun, genitive feminine singular	1	of repayment
 ISA 63:4	1	3	ἀνταποδόσεως			2	recompense
 ISA 63:4	1	4	ἐπῆλθεν	ἐπέρχομαι	aorist active indicative, third singular	1	has come upon
-ISA 63:4	1	5	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
+ISA 63:4	1	5	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 ISA 63:4	1	6	καὶ	καί	conjunction	1	and
 ISA 63:4	1	7	ἐνιαυτὸς	ἐνιαυτός	noun, nominative masculine singular	1	year
-ISA 63:4	1	8	λυτρώσεως	λύτρωσις	noun, genitive feminine singular	1	redemption
+ISA 63:4	1	8	λυτρώσεως	λύτρωσις	noun, genitive feminine singular	1	of redemption
 ISA 63:4	1	9	πάρεστι	πάρειμι	present indicative, third singular	1	is here
 ISA 63:4	1	9	πάρεστι			2	is at hand
 ISA 63:5	1	1	Καὶ	καί	conjunction	1	and
@@ -132,16 +132,16 @@ ISA 63:6	1	10	ἐν	ἐν	preposition with the dative	1	in
 ISA 63:6	1	11	θυμῷ	θυμός	noun, dative masculine singular	1	anger
 ISA 63:6	1	12	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ISA 63:6	1	13	καὶ	καί	conjunction	1	and
-ISA 63:6	1	14	κατήγαγον	κατάγω	aorist active indicative, third plural	1	carried down
+ISA 63:6	1	14	κατήγαγον	κατάγω	aorist active indicative, third plural	1	I brought down
 ISA 63:6	1	15	τὸ	ὁ	article, neuter singular (case from context)	1	the
 ISA 63:6	1	16	αἷμα	αἷμα	noun, accusative neuter singular	1	blood
 ISA 63:6	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 ISA 63:6	1	18	εἰς	εἰς	preposition with the accusative	1	into
-ISA 63:6	1	19	γῆν	γῆ	noun, accusative feminine singular	1	the land
+ISA 63:6	1	19	γῆν	γῆ	noun, accusative feminine singular	1	the earth
 ISA 63:7	1	1	Τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 63:7	1	2	ἔλεον	ἔλεος	noun, accusative masculine singular	1	mercy
 ISA 63:7	1	2	ἔλεον			2	kindness
-ISA 63:7	1	3	Κυρίου	κύριος	noun, genitive masculine singular; divine title	1	Lord
+ISA 63:7	1	3	Κυρίου	κύριος	noun, genitive masculine singular; divine title	1	of the Lord
 ISA 63:7	1	4	ἐμνήσθην	μιμνῄσκομαι	aorist passive indicative, first singular	1	I remembered
 ISA 63:7	1	5	τὰς	ὁ	article, accusative feminine plural	1	the
 ISA 63:7	1	6	ἀρετὰς	ἀρετή	noun, accusative feminine plural	1	praiseworthy acts
@@ -157,7 +157,7 @@ ISA 63:7	1	14	ἀνταποδίδωσι	ἀνταποδίδωμι	present active
 ISA 63:7	1	15	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 ISA 63:7	1	16	κριτὴς	κριτής	noun, nominative masculine singular	1	judge
 ISA 63:7	1	17	ἀγαθὸς	ἀγαθός	adjective, nominative masculine singular	1	good
-ISA 63:7	1	18	τῷ	ὁ	article, dative masculine singular	1	the
+ISA 63:7	1	18	τῷ	ὁ	article, dative masculine singular	1	to the
 ISA 63:7	1	19	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
 ISA 63:7	1	20	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 ISA 63:7	1	21	ἐπάγει	ἐπάγω	present active indicative, third singular	1	brings
@@ -263,7 +263,7 @@ ISA 63:11	1	6	λαοῦ	λαός	noun, genitive masculine singular	1	people
 ISA 63:11	1	7	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 ISA 63:11	1	8	ποῦ	ποῦ	interrogative adverb of place	1	where
 ISA 63:11	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
-ISA 63:11	1	10	ἀναβιβάσας	ἀναβιβάζω	aorist active participle, nominative masculine singular	1	who brought up
+ISA 63:11	1	10	ἀναβιβάσας	ἀναβιβάζω	aorist active participle, nominative masculine singular	1	one who brought up
 ISA 63:11	1	11	ἐκ	ἐκ	preposition with the genitive	1	from
 ISA 63:11	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
 ISA 63:11	1	13	θαλάσσης	θάλασσα	noun, genitive feminine singular	1	sea
@@ -274,17 +274,17 @@ ISA 63:11	1	17	προβάτων	πρόβατον	noun, genitive neuter plural	1	
 ISA 63:11	1	18	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
 ISA 63:11	1	19	ποῦ	ποῦ	interrogative adverb of place	1	where
 ISA 63:11	1	20	ἐστιν	εἰμί	present indicative, third singular	1	is
-ISA 63:11	1	21	ὁ	ὁ	article, nominative masculine singular	1	the
+ISA 63:11	1	21	ὁ	ὁ	article, nominative masculine singular	1	the one
 ISA 63:11	1	22	θεὶς	τίθημι	aorist active participle, nominative masculine singular	1	who placed
 ISA 63:11	1	23	ἐν	ἐν	preposition with the dative	1	in
-ISA 63:11	1	24	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
+ISA 63:11	1	24	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 ISA 63:11	1	25	τὸ	ὁ	article, neuter singular (case from context)	1	the
 ISA 63:11	1	26	πνεῦμα	πνεῦμα	noun, accusative neuter singular	1	spirit
 ISA 63:11	1	27	τὸ	ὁ	article, accusative neuter singular	1	the
 ISA 63:11	1	28	ἅγιον	ἅγιος	adjective, accusative neuter singular	1	holy
-ISA 63:12	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
+ISA 63:12	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the one
 ISA 63:12	1	2	ἀγαγὼν	ἄγω	aorist active participle, nominative masculine singular	1	who led
-ISA 63:12	1	3	τῇ	ὁ	article, dative feminine singular	1	the
+ISA 63:12	1	3	τῇ	ὁ	article, dative feminine singular	1	by the
 ISA 63:12	1	4	δεξιᾷ	δεξιός	adjective, dative feminine singular; substantival	1	right hand
 ISA 63:12	1	5	Μωσῆν	Μωσῆς	noun, accusative masculine singular; personal name	1	Moses
 ISA 63:12	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -292,13 +292,13 @@ ISA 63:12	1	7	βραχίων	βραχίων	noun, nominative masculine singular	
 ISA 63:12	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
 ISA 63:12	1	9	δόξης	δόξα	noun, genitive fem. sg	1	glory
 ISA 63:12	1	10	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-ISA 63:12	1	11	κατίσχυσεν	κατισχύω	aorist active indicative, third singular, καρδία subject 'was hardened/strong' (stubborn)	1	grew strong
+ISA 63:12	1	11	κατίσχυσεν	κατισχύω	aorist active indicative, third singular, καρδία subject 'was hardened/strong' (stubborn)	1	overpowered
 ISA 63:12	1	12	ὕδωρ	ὕδωρ	noun, accusative neuter singular	1	water
 ISA 63:12	1	13	ἀπὸ	ἀπό	preposition with the genitive	1	from
 ISA 63:12	1	14	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the face
 ISA 63:12	1	15	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 ISA 63:12	1	16	ποιῆσαι	ποιέω	aorist active infinitive	1	to make
-ISA 63:12	1	17	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+ISA 63:12	1	17	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	for himself
 ISA 63:12	1	18	ὄνομα	ὄνομα	noun, nominative neuter singular	1	name
 ISA 63:12	1	19	αἰώνιον	αἰώνιος	adjective, nominative neuter singular	1	everlasting
 ISA 63:13	1	1	Καὶ	καί	conjunction	1	and
@@ -341,7 +341,7 @@ ISA 63:14	1	18	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 63:14	1	19	ποιῆσαι	ποιέω	aorist active infinitive	1	to make
 ISA 63:14	1	20	σεαυτῷ	σεαυτοῦ	reflexive pronoun, dative masculine singular	1	for yourself
 ISA 63:14	1	21	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
-ISA 63:14	1	22	δόξης	δόξα	noun, genitive fem. sg	1	glory
+ISA 63:14	1	22	δόξης	δόξα	noun, genitive fem. sg	1	of glory
 ISA 63:15	1	1	Ἐπίστρεψον	ἐπιστρέφω	aorist active imperative second singular	1	turn back
 ISA 63:15	1	2	ἐκ	ἐκ	preposition with the genitive	1	from
 ISA 63:15	1	3	τοῦ	ὁ	article, genitive masculine singular	1	the
@@ -357,7 +357,7 @@ ISA 63:15	1	10	τοῦ	ὁ	article, genitive singular	1	the
 ISA 63:15	1	11	ἁγίου	ἅγιος	adjective, genitive neuter singular	1	holy
 ISA 63:15	1	12	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 63:15	1	13	καὶ	καί	conjunction	1	and
-ISA 63:15	1	14	δόξης	δόξα	noun, genitive feminine singular	1	glory
+ISA 63:15	1	14	δόξης	δόξα	noun, genitive feminine singular	1	of glory
 ISA 63:15	1	15	σοῦ	σύ	personal pronoun, genitive singular	1	your
 ISA 63:15	1	16	ποῦ	ποῦ	interrogative adverb of place	1	where
 ISA 63:15	1	17	ἐστιν	εἰμί	present indicative, third singular	1	is
@@ -377,7 +377,7 @@ ISA 63:15	1	29	τοῦ	ὁ	article, genitive neuter singular	1	of the
 ISA 63:15	1	30	ἐλέους	ἔλεος	noun genitive neuter singular	1	mercy
 ISA 63:15	1	31	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 63:15	1	32	καὶ	καί	conjunction	1	and
-ISA 63:15	1	33	τῶν	ὁ	article, genitive masculine plural	1	the
+ISA 63:15	1	33	τῶν	ὁ	article, genitive masculine plural	1	of the
 ISA 63:15	1	34	οἰκτιρμῶν	οἰκτιρμός	noun genitive masculine plural	1	compassions
 ISA 63:15	1	35	σου	σύ	personal pronoun, possessive genitive singular	1	your
 ISA 63:15	1	36	ὅτι	ὅτι	causal conjunction	1	because
@@ -449,12 +449,12 @@ ISA 63:17	1	27	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 63:18	1	1	ἵνα	ἵνα	conjunction	1	so that
 ISA 63:18	1	2	μικρὸν	μικρός	substantival adjective, accusative neuter singular	1	a little
 ISA 63:18	1	3	κληρονομήσωμεν	κληρονομέω	aorist active subjunctive, first plural	1	we inherit
-ISA 63:18	1	4	τοῦ	ὁ	article, genitive singular	1	the
+ISA 63:18	1	4	τοῦ	ὁ	article, genitive singular	1	of the
 ISA 63:18	1	5	ὄρους	ὄρος	noun, genitive neuter singular	1	mountain
 ISA 63:18	1	6	τοῦ	ὁ	article, genitive singular	1	the
 ISA 63:18	1	7	ἁγίου	ἅγιος	adjective, genitive neuter singular	1	holy
 ISA 63:18	1	8	σου	σύ	pronoun, possessive genitive second singular	1	your
-ISA 63:18	1	9	οἱ	ὁ	article, nominative masculine plural	1	who
+ISA 63:18	1	9	οἱ	ὁ	article, nominative masculine plural	1	the
 ISA 63:18	1	10	ὑπεναντίοι	ὑπεναντίος	substantival adjective, nominative masculine plural	1	adversaries
 ISA 63:18	1	11	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 ISA 63:18	1	12	κατεπάτησαν	καταπατέω	aorist active indicative, third plural	1	trampled

@@ -7,7 +7,7 @@ ISA 50:1	1	4	ποῖον	ποῖος	interrogative adjective, nominative neuter 
 ISA 50:1	1	5	τὸ	ὁ	article, nominative neuter singular	1	the
 ISA 50:1	1	6	βιβλίον	βιβλίον	noun, nominative neuter singular	1	document
 ISA 50:1	1	6	βιβλίον			2	scroll
-ISA 50:1	1	7	τοῦ	ὁ	article, genitive singular	1	the
+ISA 50:1	1	7	τοῦ	ὁ	article, genitive singular	1	of the
 ISA 50:1	1	8	ἀποστασίου	ἀποστάσιον	noun, genitive neuter singular	1	divorce
 ISA 50:1	1	8	ἀποστασίου			2	dismissal
 ISA 50:1	1	9	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -24,12 +24,12 @@ ISA 50:1	1	18	πέπρακα	πιπράσκω	perfect active indicative, first s
 ISA 50:1	1	19	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 ISA 50:1	1	20	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 ISA 50:1	1	21	ἰδοὺ	ἰδού	presentative particle	1	behold
-ISA 50:1	1	22	ταῖς	ὁ	article, dative feminine plural	1	the
+ISA 50:1	1	22	ταῖς	ὁ	article, dative feminine plural	1	for the
 ISA 50:1	1	23	ἁμαρτίαις	ἁμαρτία	noun, dative feminine plural	1	sins
 ISA 50:1	1	24	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 ISA 50:1	1	25	ἐπράθητε	πιπράσκω	aorist passive indicative, second plural	1	you were sold
 ISA 50:1	1	26	καὶ	καί	conjunction	1	and
-ISA 50:1	1	27	ταῖς	ὁ	article, dative feminine plural	1	the
+ISA 50:1	1	27	ταῖς	ὁ	article, dative feminine plural	1	for the
 ISA 50:1	1	28	ἀνομίαις	ἀνομία	noun, dative feminine plural	1	lawless deeds
 ISA 50:1	1	29	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 ISA 50:1	1	30	ἐξαπέστειλα	ἐξαποστέλλω	aorist active indicative, first singular	1	I sent away
@@ -50,7 +50,7 @@ ISA 50:2	1	11	ἦν	εἰμί	imperfect indicative, third singular	1	was
 ISA 50:2	1	12	ὁ	ὁ	article, nominative masculine singular	1	anyone
 ISA 50:2	1	13	ὑπακούων	ὑπακούω	present active participle, nominative masculine singular	1	who heeds
 ISA 50:2	1	13	ὑπακούων			2	who listens
-ISA 50:2	1	14	μὴ	μή	negative particle	1	not
+ISA 50:2	1	14	μὴ	μή	negative particle	1	[marks a question]
 ISA 50:2	1	15	οὐκ	οὐ	negative particle	1	not
 ISA 50:2	1	16	ἰσχύει	ἰσχύω	present active indicative, third singular	1	has the power
 ISA 50:2	1	16	ἰσχύει			2	is strong enough
@@ -58,7 +58,7 @@ ISA 50:2	1	17	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 50:2	1	18	χείρ	χείρ	noun, nominative feminine singular	1	hand
 ISA 50:2	1	19	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 ISA 50:2	1	19	μου			2	of me
-ISA 50:2	1	20	τοῦ	ὁ	article	1	than
+ISA 50:2	1	20	τοῦ	ὁ	article	1	the
 ISA 50:2	1	21	ῥύσασθαι	ῥύομαι	aorist middle infinitive	1	to rescue
 ISA 50:2	1	21	ῥύσασθαι			2	to deliver
 ISA 50:2	1	22	ἢ	ἤ	disjunctive conjunction	1	or
@@ -110,7 +110,7 @@ ISA 50:4	1	2	Κύριος	κύριος	noun, nominative masculine singular	1	the
 ISA 50:4	1	3	δίδωσί	δίδωμι	present active indicative, third singular	1	gives
 ISA 50:4	1	4	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 ISA 50:4	1	5	γλῶσσαν	γλῶσσα	noun, accusative feminine singular	1	tongue
-ISA 50:4	1	6	παιδείας	παιδεία	noun genitive feminine singular	1	instruction
+ISA 50:4	1	6	παιδείας	παιδεία	noun genitive feminine singular	1	of instruction
 ISA 50:4	1	7	τοῦ	ὁ	article, genitive neuter singular	1	the
 ISA 50:4	1	8	γνῶναι	γινώσκω	aorist active infinitive	1	to know
 ISA 50:4	1	9	ἐν	ἐν	preposition with the dative	1	in
@@ -172,7 +172,7 @@ ISA 50:6	1	17	οὐκ	οὐ	negative adverb	1	not
 ISA 50:6	1	18	ἀπέστρεψα	ἀποστρέφω	aorist active indicative, first singular	1	I turned away
 ISA 50:6	1	19	ἀπὸ	ἀπό	preposition with the genitive	1	from
 ISA 50:6	1	20	αἰσχύνης	αἰσχύνη	noun, genitive feminine singular	1	shame
-ISA 50:6	1	21	ἐμπτυσμάτων	ἔμπτυσμα	noun, genitive neuter plural	1	spitting
+ISA 50:6	1	21	ἐμπτυσμάτων	ἔμπτυσμα	noun, genitive neuter plural	1	of spitting
 ISA 50:6	1	21	ἐμπτυσμάτων			2	spittle
 ISA 50:7	1	1	καὶ	καί	conjunction	1	and
 ISA 50:7	1	2	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -212,8 +212,8 @@ ISA 50:8	1	6	τίς	τίς	interrogative pronoun, nominative masculine singular	
 ISA 50:8	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 50:8	1	8	κρινόμενός	κρίνω	present middle/passive participle, nominative masculine singular	1	who disputes
 ISA 50:8	1	8	κρινόμενός			2	who goes to court
-ISA 50:8	1	9	μοι	ἐγώ	personal pronoun, dative singular	1	to me
-ISA 50:8	1	10	ἀντιστήτω	ἀνθίστημι	aorist active imperative, third singular	1	let him stand against me
+ISA 50:8	1	9	μοι	ἐγώ	personal pronoun, dative singular	1	with me
+ISA 50:8	1	10	ἀντιστήτω	ἀνθίστημι	aorist active imperative, third singular	1	let him stand against
 ISA 50:8	1	10	ἀντιστήτω			2	let him oppose
 ISA 50:8	1	11	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 ISA 50:8	1	12	ἅμα	ἅμα	adverb	1	together
@@ -222,7 +222,7 @@ ISA 50:8	1	14	τίς	τίς	interrogative pronoun, nominative masculine singular
 ISA 50:8	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 50:8	1	16	κρινόμενός	κρίνω	present middle/passive participle, nominative masculine singular	1	who disputes
 ISA 50:8	1	16	κρινόμενός			2	who goes to court
-ISA 50:8	1	17	μοι	ἐγώ	personal pronoun, dative singular	1	to me
+ISA 50:8	1	17	μοι	ἐγώ	personal pronoun, dative singular	1	with me
 ISA 50:8	1	18	ἐγγισάτω	ἐγγίζω	aorist active imperative, third singular	1	let him draw near
 ISA 50:8	1	19	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 ISA 50:9	1	1	Ἰδοὺ	ἰδού	presentative particle	1	behold
@@ -240,7 +240,7 @@ ISA 50:9	1	11	ὑμεῖς	σύ	pronoun, nominative second plural	1	you
 ISA 50:9	1	12	ὡς	ὡς	comparative particle	1	as
 ISA 50:9	1	13	ἱμάτιον	ἱμάτιον	noun, accusative neuter singular	1	garment
 ISA 50:9	1	13	ἱμάτιον			2	cloak
-ISA 50:9	1	14	παλαιωθήσεσθε	παλαιόω	future passive indicative, second plural	1	you will grow old
+ISA 50:9	1	14	παλαιωθήσεσθε	παλαιόω	future passive indicative, second plural	1	will grow old
 ISA 50:9	1	14	παλαιωθήσεσθε			2	you will wear out
 ISA 50:9	1	15	καὶ	καί	conjunction	1	and
 ISA 50:9	1	16	ὡς	ὡς	comparative particle	1	as
@@ -255,10 +255,10 @@ ISA 50:10	1	4	ὁ	ὁ	article nominative masculine singular	1	the one
 ISA 50:10	1	5	φοβούμενος	φοβέομαι	present middle participle nominative masculine singular	1	fearing
 ISA 50:10	1	6	τὸν	ὁ	article accusative masculine singular	1	the
 ISA 50:10	1	7	Κύριον	κύριος	noun accusative masculine singular	1	Lord
-ISA 50:10	1	8	ἀκουσάτω	ἀκούω	aorist active imperative, third singular	1	let hear
+ISA 50:10	1	8	ἀκουσάτω	ἀκούω	aorist active imperative, third singular	1	let him hear
 ISA 50:10	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 ISA 50:10	1	10	φωνῆς	φωνή	noun, genitive fem. sg	1	voice
-ISA 50:10	1	11	τοῦ	ὁ	article, genitive singular	1	the
+ISA 50:10	1	11	τοῦ	ὁ	article, genitive singular	1	of the
 ISA 50:10	1	12	παιδὸς	παῖς	noun, genitive masculine singular	1	servant
 ISA 50:10	1	13	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
 ISA 50:10	1	14	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -288,7 +288,7 @@ ISA 50:11	1	1	Ἰδοὺ	ἰδού	presentative particle	1	behold
 ISA 50:11	1	2	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 ISA 50:11	1	3	ὑμεῖς	σύ	pronoun, nominative second plural	1	you
 ISA 50:11	1	4	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
-ISA 50:11	1	5	καίετε	καίω	present active indicative, second plural	1	you kindle
+ISA 50:11	1	5	καίετε	καίω	present active indicative, second plural	1	kindle
 ISA 50:11	1	6	καὶ	καί	conjunction	1	and
 ISA 50:11	1	7	κατισχύετε	κατισχύω	present active indicative, second plural	1	strengthen
 ISA 50:11	1	7	κατισχύετε			2	make strong
@@ -307,7 +307,7 @@ ISA 50:11	1	18	ᾗ	ὅς	relative pronoun, dative feminine singular; attracted i
 ISA 50:11	1	19	ἐξεκαύσατε	ἐκκαίω	aorist active indicative, second plural	1	you kindled
 ISA 50:11	1	20	δι᾽	διά	elided preposition with the accusative	1	because of
 ISA 50:11	1	21	ἐμὲ	ἐγώ	pronoun, accusative first singular	1	me
-ISA 50:11	1	22	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
+ISA 50:11	1	22	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	came to pass
 ISA 50:11	1	23	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 ISA 50:11	1	24	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 ISA 50:11	1	25	ἐν	ἐν	preposition with the dative	1	in

@@ -12,7 +12,7 @@ ISA 37:1	1	10	τὰ	ὁ	article, neuter plural (case from context)	1	the
 ISA 37:1	1	11	ἱμάτια	ἱμάτιον	noun, accusative neuter plural	1	clothing
 ISA 37:1	1	11	ἱμάτια			2	garments
 ISA 37:1	1	12	καὶ	καί	conjunction	1	and
-ISA 37:1	1	13	σάκκον	σάκκος	noun, accusative masculine singular	1	sack
+ISA 37:1	1	13	σάκκον	σάκκος	noun, accusative masculine singular	1	sackcloth
 ISA 37:1	1	14	περιεβάλετο	περιβάλλω	aorist middle indicative, third singular	1	he wrapped around himself
 ISA 37:1	1	14	περιεβάλετο			2	he put on
 ISA 37:1	1	15	καὶ	καί	conjunction	1	and
@@ -37,11 +37,11 @@ ISA 37:2	1	10	γραμματέα			2	secretary
 ISA 37:2	1	11	καὶ	καί	conjunction	1	and
 ISA 37:2	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
 ISA 37:2	1	13	πρεσβυτέρους	πρεσβύτης	noun, accusative masc. pl	1	elders
-ISA 37:2	1	14	τῶν	ὁ	article, genitive plural	1	the
+ISA 37:2	1	14	τῶν	ὁ	article, genitive plural	1	of the
 ISA 37:2	1	15	ἱερέων	ἱερεύς	noun, genitive masculine plural	1	priests
 ISA 37:2	1	16	περιβεβλημένους	περιβάλλω	perfect middle participle, accusative masculine plural	1	having wrapped around themselves
 ISA 37:2	1	16	περιβεβλημένους			2	clothed
-ISA 37:2	1	17	σάκκους	σάκκος	noun, accusative masculine plural	1	sacks
+ISA 37:2	1	17	σάκκους	σάκκος	noun, accusative masculine plural	1	sackcloth
 ISA 37:2	1	18	πρὸς	πρός	preposition with the accusative	1	to
 ISA 37:2	1	19	Ἡσαΐαν	Ἡσαΐας	noun, accusative masculine singular; personal name	1	Isaiah
 ISA 37:2	1	20	υἱὸν	υἱός	noun, accusative masculine singular	1	son
@@ -55,12 +55,12 @@ ISA 37:3	1	4	τάδε	ὅδε	demonstrative pronoun, accusative neuter plural, i
 ISA 37:3	1	5	λέγει	λέγω	present active indicative, third singular	1	says
 ISA 37:3	1	6	Ἐζεκίας	Ἐζεκίας	noun, nominative masculine singular; personal name	1	Hezekiah
 ISA 37:3	1	7	ἡμέρα	ἡμέρα	noun, nominative feminine singular	1	day
-ISA 37:3	1	8	θλίψεως	θλῖψις	noun, genitive feminine singular	1	distress
+ISA 37:3	1	8	θλίψεως	θλῖψις	noun, genitive feminine singular	1	of distress
 ISA 37:3	1	8	θλίψεως			2	trouble
 ISA 37:3	1	9	καὶ	καί	conjunction	1	and
 ISA 37:3	1	10	ὀνειδισμοῦ	ὀνειδισμός	noun, genitive masculine singular	1	reproach
 ISA 37:3	1	11	καὶ	καί	conjunction	1	and
-ISA 37:3	1	12	ἐλεγμοῦ	ἐλεγμός	noun, genitive masculine singular	1	testing
+ISA 37:3	1	12	ἐλεγμοῦ	ἐλεγμός	noun, genitive masculine singular	1	rebuke
 ISA 37:3	1	12	ἐλεγμοῦ			2	exposure
 ISA 37:3	1	13	καὶ	καί	conjunction	1	and
 ISA 37:3	1	14	ὀργῆς	ὀργή	noun, genitive feminine singular	1	anger
@@ -72,12 +72,12 @@ ISA 37:3	1	18	ὅτι	ὅτι	causal conjunction	1	because
 ISA 37:3	1	19	ἥκει	ἥκω	present active indicative, third singular; with resultative sense	1	has come
 ISA 37:3	1	20	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 37:3	1	21	ὠδὶν	ὠδίν	noun, nominative feminine singular	1	labor pain
-ISA 37:3	1	22	τῇ	ὁ	article, dative feminine singular	1	the
+ISA 37:3	1	22	τῇ	ὁ	article, dative feminine singular	1	to the
 ISA 37:3	1	23	τικτούσῃ	τίκτω	present active participle, dative feminine singular; substantival	1	woman giving birth
 ISA 37:3	1	23	τικτούσῃ			2	woman in labor
 ISA 37:3	1	24	ἰσχὺν	ἰσχύς	noun, accusative feminine singular	1	strength
 ISA 37:3	1	24	ἰσχὺν			2	power
-ISA 37:3	1	25	δὲ	δέ	postpositive conjunction	1	and
+ISA 37:3	1	25	δὲ	δέ	postpositive conjunction	1	but
 ISA 37:3	1	26	οὐκ	οὐ	negative particle	1	not
 ISA 37:3	1	27	ἔχει	ἔχω	present active indicative, third singular	1	has
 ISA 37:3	1	28	τοῦ	ὁ	article, genitive neuter singular, marks the infinitive	1	—
@@ -91,13 +91,13 @@ ISA 37:4	1	4	Θεός	θεός	noun, nominative masculine singular	1	God
 ISA 37:4	1	5	σου	σύ	personal pronoun, genitive second singular	1	your
 ISA 37:4	1	6	τοὺς	ὁ	article, accusative masculine plural	1	the
 ISA 37:4	1	7	λόγους	λόγος	noun, accusative masculine plural	1	words
-ISA 37:4	1	8	Ῥαψάκου	Ῥαψάκης	noun, genitive masculine singular; Assyrian title used as a name	1	Rabshakeh
+ISA 37:4	1	8	Ῥαψάκου	Ῥαψάκης	noun, genitive masculine singular; Assyrian title used as a name	1	of Rabshakeh
 ISA 37:4	1	8	Ῥαψάκου			2	Rhapsakes
 ISA 37:4	1	9	οὓς	ὅς	relative pronoun, accusative masculine plural	1	which
 ISA 37:4	1	10	ἀπέστειλεν	ἀποστέλλω	aorist active indicative, third singular	1	sent
 ISA 37:4	1	11	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 ISA 37:4	1	12	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
-ISA 37:4	1	13	Ἀσσυρίων	Ἀσσύριος	adjective, genitive masculine plural; substantival	1	Assyrians
+ISA 37:4	1	13	Ἀσσυρίων	Ἀσσύριος	adjective, genitive masculine plural; substantival	1	of the Assyrians
 ISA 37:4	1	14	ὀνειδίζειν	ὀνειδίζω	present active infinitive	1	to reproach
 ISA 37:4	1	14	ὀνειδίζειν			2	to mock
 ISA 37:4	1	15	Θεὸν	θεός	noun, accusative masculine singular	1	God
@@ -116,8 +116,8 @@ ISA 37:4	1	26	καὶ	καί	conjunction	1	and
 ISA 37:4	1	27	δεηθήσῃ	δέομαι	future passive indicative, second singular	1	you will plead
 ISA 37:4	1	27	δεηθήσῃ			2	you will pray
 ISA 37:4	1	28	πρὸς	πρός	preposition with the accusative	1	to
-ISA 37:4	1	29	Κύριόν	κύριος	noun, accusative masculine singular	1	lord
-ISA 37:4	1	30	σου	σύ	personal pronoun, genitive singular	1	you
+ISA 37:4	1	29	Κύριόν	κύριος	noun, accusative masculine singular	1	Lord
+ISA 37:4	1	30	σου	σύ	personal pronoun, genitive singular	1	your
 ISA 37:4	1	31	περὶ	περί	preposition with the genitive	1	on account of
 ISA 37:4	1	31	περὶ			2	concerning
 ISA 37:4	1	32	τῶν	ὁ	article, genitive masculine plural	1	the
@@ -129,7 +129,7 @@ ISA 37:5	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 ISA 37:5	1	4	παῖδες	παῖς	noun, nominative masculine plural	1	male servants
 ISA 37:5	1	4	παῖδες			2	servants
 ISA 37:5	1	5	τοῦ	ὁ	article, genitive singular	1	the
-ISA 37:5	1	6	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
+ISA 37:5	1	6	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of the king
 ISA 37:5	1	7	Ἐζεκίου	Ἐζεκίας	noun, genitive masculine singular; personal name	1	Hezekiah
 ISA 37:5	1	7	Ἐζεκίου			2	Ezekias
 ISA 37:5	1	8	πρὸς	πρός	preposition with the accusative	1	to
@@ -156,17 +156,17 @@ ISA 37:6	1	18	λόγων	λόγος	noun, genitive masc. pl	1	words
 ISA 37:6	1	19	ὧν	ὅς	relative pronoun, genitive neuter plural; attracted to antecedent ἐνυπνίων	1	which
 ISA 37:6	1	20	ἤκουσας	ἀκούω	aorist active indicative, second singular	1	you listened to
 ISA 37:6	1	20	ἤκουσας			2	you heeded
-ISA 37:6	1	21	οὓς	ὅς	relative pronoun, accusative masculine plural	1	whom
+ISA 37:6	1	21	οὓς	ὅς	relative pronoun, accusative masculine plural	1	which
 ISA 37:6	1	22	ὠνείδισάν	ὀνειδίζω	aorist active indicative, third plural	1	they reproached
 ISA 37:6	1	22	ὠνείδισάν			2	they mocked
 ISA 37:6	1	23	με	ἐγώ	personal pronoun accusative first singular	1	me
 ISA 37:6	1	24	οἱ	ὁ	article, nominative masculine plural	1	the
 ISA 37:6	1	25	πρέσβεις	πρέσβυς	noun, accusative masculine plural	1	envoys
-ISA 37:6	1	26	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
-ISA 37:6	1	27	Ἀσσυρίων	Ἀσσύριος	adjective, genitive masculine plural; substantival	1	Assyrians
+ISA 37:6	1	26	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	of the king
+ISA 37:6	1	27	Ἀσσυρίων	Ἀσσύριος	adjective, genitive masculine plural; substantival	1	of the Assyrians
 ISA 37:7	1	1	Ἰδοὺ	ἰδού	presentative particle	1	behold
 ISA 37:7	1	2	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-ISA 37:7	1	3	ἐμβαλῶ	ἐμβάλλω	future active indicative, first singular	1	I will put into
+ISA 37:7	1	3	ἐμβαλῶ	ἐμβάλλω	future active indicative, first singular	1	will put
 ISA 37:7	1	3	ἐμβαλῶ			2	I will send into
 ISA 37:7	1	4	εἰς	εἰς	preposition with the accusative	1	into
 ISA 37:7	1	5	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
@@ -219,7 +219,7 @@ ISA 37:9	1	2	ἐξῆλθε	ἐξέρχομαι	aorist active indicative, 3rd sg
 ISA 37:9	1	3	Θαρακὰ	Θαρακά	indeclinable personal name, nominative in context	1	Tirhakah
 ISA 37:9	1	3	Θαρακὰ			2	Tharaka
 ISA 37:9	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
-ISA 37:9	1	5	Αἰθιόπων	Αἰθίοψ	noun, genitive masculine plural; gentilic noun	1	Ethiopians
+ISA 37:9	1	5	Αἰθιόπων	Αἰθίοψ	noun, genitive masculine plural; gentilic noun	1	of the Ethiopians
 ISA 37:9	1	5	Αἰθιόπων			2	Cushites
 ISA 37:9	1	6	πολιορκῆσαι	πολιορκέω	aorist active infinitive	1	to besiege
 ISA 37:9	1	6	πολιορκῆσαι			2	to lay siege
@@ -227,7 +227,7 @@ ISA 37:9	1	7	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	hi
 ISA 37:9	1	8	καὶ	καί	conjunction	1	and
 ISA 37:9	1	9	ἀκούσας	ἀκούω	aorist active participle, nominative masculine singular	1	having heard
 ISA 37:9	1	9	ἀκούσας			2	hearing
-ISA 37:9	1	10	ἀπέστρεψε	ἀποστρέφω	aorist active indicative, third singular	1	brought back
+ISA 37:9	1	10	ἀπέστρεψε	ἀποστρέφω	aorist active indicative, third singular	1	turned back
 ISA 37:9	1	10	ἀπέστρεψε			2	restored
 ISA 37:9	1	11	καὶ	καί	conjunction	1	and
 ISA 37:9	1	12	ἀπέστειλεν	ἀποστέλλω	aorist active indicative, third singular	1	sent
@@ -239,7 +239,7 @@ ISA 37:9	1	16	λέγων	λέγω	present active participle, nominative masculin
 ISA 37:10	1	1	Οὕτως	οὕτως	adverb of manner	1	so
 ISA 37:10	1	1	Οὕτως			2	thus
 ISA 37:10	1	2	ἐρεῖτε	λέγω	future active indicative, second plural	1	you will say
-ISA 37:10	1	3	Ἐζεκίᾳ	Ἐζεκίας	noun, dative masculine singular; personal name	1	Hezekiah
+ISA 37:10	1	3	Ἐζεκίᾳ	Ἐζεκίας	noun, dative masculine singular; personal name	1	to Hezekiah
 ISA 37:10	1	4	βασιλεῖ	βασιλεύς	noun, dative masc. sg	1	king
 ISA 37:10	1	5	τῆς	ὁ	article, genitive feminine singular	1	of
 ISA 37:10	1	6	Ἰουδαίας	Ἰουδαία	noun, genitive feminine singular; place name	1	Judea
@@ -251,48 +251,48 @@ ISA 37:10	1	9	ἀπατάτω			2	let him mislead
 ISA 37:10	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 37:10	1	11	θεός	θεός	noun, nominative masculine singular	1	God
 ISA 37:10	1	12	σου	σύ	personal pronoun, possessive genitive singular	1	your
-ISA 37:10	1	13	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
-ISA 37:10	1	14	ᾧ	ὅς	relative pronoun, dative masculine singular	1	which
+ISA 37:10	1	13	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	on
+ISA 37:10	1	14	ᾧ	ὅς	relative pronoun, dative masculine singular	1	whom
 ISA 37:10	1	15	σὺ	σύ	personal pronoun, nominative singular	1	you
 ISA 37:10	1	16	πεποιθὼς	πείθω	perfect active participle, nominative masculine singular	1	trusting
 ISA 37:10	1	16	πεποιθὼς			2	confident
 ISA 37:10	1	17	ἐπ'	ἐπί	preposition with dative	1	on
 ISA 37:10	1	17	ἐπ'			2	in
-ISA 37:10	1	18	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+ISA 37:10	1	18	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 ISA 37:10	1	19	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 ISA 37:10	1	20	οὐ	οὐ	negative particle	1	not
 ISA 37:10	1	21	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
-ISA 37:10	1	22	παραδοθῇ	παραδίδωμι	aorist passive subjunctive, 3rd sg	1	he might be delivered
+ISA 37:10	1	22	παραδοθῇ	παραδίδωμι	aorist passive subjunctive, 3rd sg	1	may be delivered
 ISA 37:10	1	23	ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 ISA 37:10	1	24	ἐν	ἐν	preposition with the dative	1	in
 ISA 37:10	1	25	χειρὶ	χείρ	noun, dative feminine singular	1	hand
-ISA 37:10	1	26	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
-ISA 37:10	1	27	Ἀσσυρίων	Ἀσσύριος	adjective, genitive masculine plural; substantival	1	Assyrians
+ISA 37:10	1	26	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	of the king
+ISA 37:10	1	27	Ἀσσυρίων	Ἀσσύριος	adjective, genitive masculine plural; substantival	1	of the Assyrians
 ISA 37:11	1	1	Ἢ	ἤ	disjunctive conjunction	1	or
 ISA 37:11	1	2	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 ISA 37:11	1	3	οὐκ	οὐ	negative particle	1	not
 ISA 37:11	1	4	ἤκουσας	ἀκούω	aorist active indicative, second singular	1	have you heard
-ISA 37:11	1	5	ἃ	ὅς	relative pronoun, nominative neuter plural	1	which
+ISA 37:11	1	5	ἃ	ὅς	relative pronoun, nominative neuter plural	1	what
 ISA 37:11	1	6	ἐποίησαν	ποιέω	aorist active indicative, third plural	1	they did
 ISA 37:11	1	7	βασιλεῖς	βασιλεύς	noun, nominative masculine plural	1	kings
-ISA 37:11	1	8	Ἀσσυρίων	Ἀσσύριος	substantival adjective, genitive masculine plural	1	the Assyrians
+ISA 37:11	1	8	Ἀσσυρίων	Ἀσσύριος	substantival adjective, genitive masculine plural	1	of the Assyrians
 ISA 37:11	1	9	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 ISA 37:11	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 37:11	1	11	γῆν	γῆ	noun, accusative feminine singular	1	land
-ISA 37:11	1	12	ὡς	ὡς	comparative adverb/conjunction	1	like
+ISA 37:11	1	12	ὡς	ὡς	comparative adverb/conjunction	1	how
 ISA 37:11	1	13	ἀπώλεσαν	ἀπόλλυμι	aorist active indicative, 3rd pl	1	destroyed
 ISA 37:11	1	14	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	it
 ISA 37:11	1	15	καὶ	καί	conjunction	1	and
 ISA 37:11	1	16	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
-ISA 37:11	1	17	ῥυσθήσῃ	ῥύομαι	future passive indicative, second singular	1	will you be rescued
+ISA 37:11	1	17	ῥυσθήσῃ	ῥύομαι	future passive indicative, second singular	1	will be rescued
 ISA 37:11	1	17	ῥυσθήσῃ			2	will you be delivered
-ISA 37:12	1	1	Μὴ	μή	negative particle	1	not
+ISA 37:12	1	1	Μὴ	μή	negative particle	1	[marks a question]
 ISA 37:12	1	2	ἐρρύσαντο	ῥύομαι	aorist middle indicative, third plural	1	they rescued
 ISA 37:12	1	2	ἐρρύσαντο			2	they delivered
 ISA 37:12	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 ISA 37:12	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
 ISA 37:12	1	5	θεοὶ	θεός	noun, nominative masc. pl	1	gods
-ISA 37:12	1	6	τῶν	ὁ	article, genitive neuter plural	1	the
+ISA 37:12	1	6	τῶν	ὁ	article, genitive neuter plural	1	of the
 ISA 37:12	1	7	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 ISA 37:12	1	8	οὓς	ὅς	relative pronoun, accusative masculine plural; refers to people of the preceding ἐθνῶν	1	whom
 ISA 37:12	1	9	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -343,7 +343,7 @@ ISA 37:14	1	5	βιβλίον	βιβλίον	noun, accusative neuter singular	1	l
 ISA 37:14	1	5	βιβλίον			2	scroll
 ISA 37:14	1	6	παρὰ	παρά	preposition with genitive	1	from
 ISA 37:14	1	7	τῶν	ὁ	article, genitive plural	1	the
-ISA 37:14	1	8	ἀγγέλων	ἄγγελος	noun, genitive masculine plural	1	of messengers
+ISA 37:14	1	8	ἀγγέλων	ἄγγελος	noun, genitive masculine plural	1	messengers
 ISA 37:14	1	9	καὶ	καί	conjunction	1	and
 ISA 37:14	1	10	ἀνέγνω	ἀναγινώσκω	aorist active indicative, third singular	1	he read
 ISA 37:14	1	11	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
@@ -354,7 +354,7 @@ ISA 37:14	1	15	οἶκον	οἶκος	noun, accusative masculine singular	1	hou
 ISA 37:14	1	16	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 ISA 37:14	1	17	καὶ	καί	conjunction	1	and
 ISA 37:14	1	18	ἤνοιξεν	ἀνοίγω	aorist active indicative, third singular	1	he opened
-ISA 37:14	1	19	αὐτὸ	αὐτός	pronoun, nominative neut. sg	1	the same
+ISA 37:14	1	19	αὐτὸ	αὐτός	pronoun, nominative neut. sg	1	it
 ISA 37:14	1	20	Ἐζεκίας	Ἐζεκίας	noun, nominative masculine singular; personal name	1	Hezekiah
 ISA 37:14	1	21	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
 ISA 37:14	1	22	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
@@ -378,13 +378,13 @@ ISA 37:16	1	11	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 ISA 37:16	1	12	Θεὸς	θεός	noun, nominative masculine singular	1	God
 ISA 37:16	1	13	μόνος	μόνος	adjective, nominative masculine singular	1	alone
 ISA 37:16	1	14	εἶ	εἰμί	present indicative, second singular	1	are
-ISA 37:16	1	15	πάσης	πᾶς	adjective, genitive feminine singular	1	every
+ISA 37:16	1	15	πάσης	πᾶς	adjective, genitive feminine singular	1	of every
 ISA 37:16	1	15	πάσης			2	all
-ISA 37:16	1	16	βασιλείας	βασιλεία	noun, accusative feminine plural	1	kingdoms
+ISA 37:16	1	16	βασιλείας	βασιλεία	noun, accusative feminine plural	1	kingdom
 ISA 37:16	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
 ISA 37:16	1	18	οἰκουμένης	οἰκουμένη	noun genitive feminine singular	1	inhabited world
 ISA 37:16	1	19	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
-ISA 37:16	1	20	ἐποίησας	ποιέω	aorist active indicative, second singular	1	you made
+ISA 37:16	1	20	ἐποίησας	ποιέω	aorist active indicative, second singular	1	made
 ISA 37:16	1	21	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 37:16	1	22	οὐρανὸν	οὐρανός	noun, accusative masculine singular	1	heaven
 ISA 37:16	1	22	οὐρανὸν			2	the sky
@@ -393,7 +393,7 @@ ISA 37:16	1	24	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 37:16	1	25	γῆν	γῆ	noun, accusative feminine singular	1	earth
 ISA 37:17	1	1	κλῖνον	κλίνω	aorist active imperative, second singular	1	incline
 ISA 37:17	1	1	κλῖνον			2	bend
-ISA 37:17	1	2	Κύριε	κύριος	noun, vocative masculine singular	1	lord
+ISA 37:17	1	2	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 ISA 37:17	1	3	τὸ	ὁ	article, accusative neuter singular	1	the
 ISA 37:17	1	4	οὖς	οὖς	noun, accusative neuter singular	1	ear
 ISA 37:17	1	5	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -420,16 +420,16 @@ ISA 37:17	1	22	ὀνειδίζειν	ὀνειδίζω	present active infinitive
 ISA 37:17	1	22	ὀνειδίζειν			2	to mock
 ISA 37:17	1	23	Θεὸν	θεός	noun, accusative masculine singular	1	God
 ISA 37:17	1	24	ζῶντα	ζάω	present active participle, accusative masculine singular	1	living
-ISA 37:18	1	1	Ἐπ᾽	ἐπί	elided preposition with accusative	1	on
+ISA 37:18	1	1	Ἐπ᾽	ἐπί	elided preposition with accusative	1	in
 ISA 37:18	1	1	Ἐπ᾽			2	upon
-ISA 37:18	1	2	ἀληθείας	ἀλήθεια	noun, genitive feminine singular	1	faithfulness
-ISA 37:18	1	2	ἀληθείας			2	truth
+ISA 37:18	1	2	ἀληθείας	ἀλήθεια	noun, genitive feminine singular	1	truth
+ISA 37:18	1	2	ἀληθείας			2	faithfulness
 ISA 37:18	1	3	γὰρ	γάρ	postpositive conjunction	1	for
 ISA 37:18	1	4	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 ISA 37:18	1	4	Κύριε			2	Lord
 ISA 37:18	1	5	ἠρήμωσαν	ἐρημόω	aorist active indicative, third plural	1	laid waste
 ISA 37:18	1	6	βασιλεῖς	βασιλεύς	noun, nominative masculine plural	1	kings
-ISA 37:18	1	7	Ἀσσυρίων	Ἀσσύριος	adjective, genitive masculine plural; substantival	1	Assyrians
+ISA 37:18	1	7	Ἀσσυρίων	Ἀσσύριος	adjective, genitive masculine plural; substantival	1	of the Assyrians
 ISA 37:18	1	8	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 37:18	1	9	οἰκουμένην	οἰκουμένη	substantival adjective accusative feminine singular	1	inhabited world
 ISA 37:18	1	10	ὅλην	ὅλος	adjective, accusative feminine singular with ἡμέραν/νύκτα	1	whole
@@ -444,7 +444,7 @@ ISA 37:19	1	2	ἐνέβαλον			2	they put in
 ISA 37:19	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 ISA 37:19	1	4	εἴδωλα	εἴδωλον	noun, accusative neuter plural	1	idols
 ISA 37:19	1	4	εἴδωλα			2	images
-ISA 37:19	1	5	αὐτῶν	αὐτός	pronoun, genitive neuter plural	1	they
+ISA 37:19	1	5	αὐτῶν	αὐτός	pronoun, genitive neuter plural	1	their
 ISA 37:19	1	6	εἰς	εἰς	preposition with the accusative	1	into
 ISA 37:19	1	7	τὸ	ὁ	article, nominative neuter singular	1	the
 ISA 37:19	1	8	πῦρ	πῦρ	noun, nominative neuter singular	1	fire
@@ -454,8 +454,8 @@ ISA 37:19	1	11	θεοὶ	θεός	noun, nominative masculine plural	1	gods
 ISA 37:19	1	12	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 ISA 37:19	1	13	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 ISA 37:19	1	14	ἔργα	ἔργον	noun, nominative neuter plural	1	works
-ISA 37:19	1	15	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
-ISA 37:19	1	16	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	men
+ISA 37:19	1	15	χειρῶν	χείρ	noun, genitive feminine plural	1	of hands
+ISA 37:19	1	16	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	of men
 ISA 37:19	1	17	ξύλα	ξύλον	noun, accusative neuter plural	1	wood
 ISA 37:19	1	18	καὶ	καί	conjunction	1	and
 ISA 37:19	1	19	λίθοι	λίθος	noun, nominative masc. pl., in apposition	1	stones
@@ -479,11 +479,11 @@ ISA 37:20	1	13	γνῷ	γινώσκω	aorist active subjunctive, third singular	
 ISA 37:20	1	14	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
 ISA 37:20	1	15	βασιλεία	βασιλεία	noun, nominative feminine singular	1	kingdom
 ISA 37:20	1	15	βασιλεία			2	kingship
-ISA 37:20	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
+ISA 37:20	1	16	τῆς	ὁ	article, genitive feminine singular	1	of the
 ISA 37:20	1	17	γῆς	γῆ	noun, genitive feminine singular	1	earth
-ISA 37:20	1	18	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+ISA 37:20	1	18	ὅτι	ὅτι	causal/that conjunction (from context)	1	that
 ISA 37:20	1	19	σὺ	σύ	pronoun, nominative second singular	1	you
-ISA 37:20	1	20	εἶ	εἰμί	present indicative, second singular	1	you are
+ISA 37:20	1	20	εἶ	εἰμί	present indicative, second singular	1	are
 ISA 37:20	1	21	Θεὸς	θεός	noun, nominative masculine singular, nominative used for the vocative	1	God
 ISA 37:20	1	22	μόνος	μόνος	adjective, nominative masculine singular	1	alone
 ISA 37:21	1	1	Καὶ	καί	conjunction	1	and
@@ -503,22 +503,22 @@ ISA 37:21	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 37:21	1	15	Θεὸς	θεός	noun, nominative masculine singular	1	God
 ISA 37:21	1	16	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 ISA 37:21	1	17	ἤκουσα	ἀκούω	aorist active indicative, first singular	1	I heard
-ISA 37:21	1	18	ἃ	ὅς	relative pronoun, nominative neuter plural	1	which
+ISA 37:21	1	18	ἃ	ὅς	relative pronoun, nominative neuter plural	1	what
 ISA 37:21	1	19	προσηύξω	προσεύχομαι	aorist middle indicative, second singular	1	you prayed
 ISA 37:21	1	20	πρὸς	πρός	preposition with the accusative	1	to
 ISA 37:21	1	21	μὲ	ἐγώ	personal pronoun, accusative first singular	1	me
-ISA 37:21	1	22	περὶ	περί	preposition with the accusative	1	about/on
+ISA 37:21	1	22	περὶ	περί	preposition with the accusative	1	about
 ISA 37:21	1	23	Σενναχηρεὶμ	Σενναχηρείμ	indeclinable personal name	1	Sennacherib
 ISA 37:21	1	23	Σενναχηρεὶμ			2	Sennachereim
 ISA 37:21	1	24	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
-ISA 37:21	1	25	Ἀσσυρίων	Ἀσσύριος	adjective, genitive masculine plural; substantival	1	Assyrians
+ISA 37:21	1	25	Ἀσσυρίων	Ἀσσύριος	adjective, genitive masculine plural; substantival	1	of the Assyrians
 ISA 37:22	1	1	Οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 ISA 37:22	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
-ISA 37:22	1	3	λόγος	λόγος	noun, nominative masculine singular	1	instruction
-ISA 37:22	1	3	λόγος			2	word
+ISA 37:22	1	3	λόγος	λόγος	noun, nominative masculine singular	1	word
+ISA 37:22	1	3	λόγος			2	instruction
 ISA 37:22	1	4	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
 ISA 37:22	1	5	ἐλάλησε	λαλέω	aorist active indicative, third singular	1	spoke
-ISA 37:22	1	6	περὶ	περί	preposition with genitive	1	for
+ISA 37:22	1	6	περὶ	περί	preposition with genitive	1	about
 ISA 37:22	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 ISA 37:22	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 37:22	1	9	Θεός	θεός	noun, nominative masculine singular	1	God
@@ -544,7 +544,7 @@ ISA 37:23	1	1	Τίνα	τίς	interrogative pronoun, accusative masculine singul
 ISA 37:23	1	2	ὠνείδισας	ὀνειδίζω	aorist active indicative, second singular	1	you reproached
 ISA 37:23	1	3	καὶ	καί	conjunction	1	and
 ISA 37:23	1	4	παρώξυνας	παροξύνω	aorist active indicative, second singular	1	you provoked
-ISA 37:23	1	5	ἢ	ἤ	particle	1	only
+ISA 37:23	1	5	ἢ	ἤ	particle	1	or
 ISA 37:23	1	6	πρὸς	πρός	preposition with the accusative	1	to
 ISA 37:23	1	7	τίνα	τίς	interrogative pronoun, accusative masculine singular	1	whom
 ISA 37:23	1	8	ὕψωσας	ὑψόω	aorist active indicative, second singular	1	you raised
@@ -567,19 +567,19 @@ ISA 37:23	1	20	εἰς	εἰς	preposition with the accusative of duration	1	for
 ISA 37:23	1	21	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 37:23	1	22	ἅγιον	ἅγιος	adjective, accusative masculine singular; substantival	1	Holy One
 ISA 37:23	1	23	τοῦ	ὁ	article, genitive masculine singular	1	of the
-ISA 37:23	1	24	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
-ISA 37:24	1	1	Ὅτι	ὅτι	conjunction introducing a content clause	1	that
-ISA 37:24	1	2	δι᾽	διά	elided preposition with the accusative	1	because of
-ISA 37:24	1	3	ἀγγέλων	ἄγγελος	noun, genitive masculine plural	1	of messengers
+ISA 37:23	1	24	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
+ISA 37:24	1	1	Ὅτι	ὅτι	conjunction introducing a content clause	1	because
+ISA 37:24	1	2	δι᾽	διά	elided preposition with the accusative	1	through
+ISA 37:24	1	3	ἀγγέλων	ἄγγελος	noun, genitive masculine plural	1	messengers
 ISA 37:24	1	4	σου	σύ	personal pronoun, possessive genitive singular	1	your
 ISA 37:24	1	5	ὠνείδισας	ὀνειδίζω	aorist active indicative, second singular	1	you reproached
 ISA 37:24	1	6	Κύριον	κύριος	noun, accusative masculine singular, the Lord	1	the Lord
 ISA 37:24	1	7	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 ISA 37:24	1	8	γὰρ	γάρ	conjunction	1	for
 ISA 37:24	1	9	εἶπας	λέγω	aorist active indicative, second singular	1	you said
-ISA 37:24	1	10	τῷ	ὁ	article, dative neuter singular	1	the
+ISA 37:24	1	10	τῷ	ὁ	article, dative neuter singular	1	with the
 ISA 37:24	1	11	πλήθει	πλῆθος	noun, dative neuter singular	1	multitude
-ISA 37:24	1	12	τῶν	ὁ	article, genitive plural	1	the
+ISA 37:24	1	12	τῶν	ὁ	article, genitive plural	1	of the
 ISA 37:24	1	13	ἁρμάτων	ἅρμα	noun, genitive neut. pl	1	chariots
 ISA 37:24	1	14	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 ISA 37:24	1	14	μου			2	of me
@@ -588,20 +588,20 @@ ISA 37:24	1	16	ἀνέβην	ἀναβαίνω	aorist active indicative, 1st sin
 ISA 37:24	1	17	εἰς	εἰς	preposition with the accusative	1	into
 ISA 37:24	1	18	ὕψος	ὕψος	noun, accusative neuter singular	1	height
 ISA 37:24	1	18	ὕψος			2	on high
-ISA 37:24	1	19	ὀρέων	ὄρος	noun, genitive neuter plural	1	mountains
+ISA 37:24	1	19	ὀρέων	ὄρος	noun, genitive neuter plural	1	of mountains
 ISA 37:24	1	20	καὶ	καί	conjunction	1	and
 ISA 37:24	1	21	εἰς	εἰς	preposition with the accusative	1	into
 ISA 37:24	1	22	τὰ	ὁ	article, accusative neuter plural	1	the
 ISA 37:24	1	23	ἔσχατα	ἔσχατος	adjective, accusative neuter plural; substantival	1	farthest reaches
 ISA 37:24	1	23	ἔσχατα			2	extremities
 ISA 37:24	1	24	τοῦ	ὁ	article, genitive singular	1	the
-ISA 37:24	1	25	Λιβάνου	Λίβανος	noun, genitive masculine singular; place name	1	Lebanon
+ISA 37:24	1	25	Λιβάνου	Λίβανος	noun, genitive masculine singular; place name	1	of Lebanon
 ISA 37:24	1	26	καὶ	καί	conjunction	1	and
 ISA 37:24	1	27	ἔκοψα	κόπτω	aorist active indicative, first singular	1	I cut down
 ISA 37:24	1	28	τὸ	ὁ	article, accusative neuter singular	1	the
 ISA 37:24	1	29	ὕψος	ὕψος	noun, accusative neuter singular	1	loftiness
 ISA 37:24	1	29	ὕψος			2	height
-ISA 37:24	1	30	τῆς	ὁ	article, genitive feminine singular	1	the
+ISA 37:24	1	30	τῆς	ὁ	article, genitive feminine singular	1	of the
 ISA 37:24	1	31	κέδρου	κέδρος	noun, genitive feminine singular	1	cedar
 ISA 37:24	1	32	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 ISA 37:24	1	33	καὶ	καί	conjunction	1	and
@@ -614,11 +614,11 @@ ISA 37:24	1	39	εἰσῆλθον	εἰσέρχομαι	aorist active indicative
 ISA 37:24	1	40	εἰς	εἰς	preposition with the accusative	1	into
 ISA 37:24	1	41	ὕψος	ὕψος	noun, accusative neuter singular	1	height
 ISA 37:24	1	41	ὕψος			2	on high
-ISA 37:24	1	42	μέρους	μέρος	noun, genitive neuter singular	1	edge
-ISA 37:24	1	43	τοῦ	ὁ	article, genitive masculine singular	1	the
+ISA 37:24	1	42	μέρους	μέρος	noun, genitive neuter singular	1	of part
+ISA 37:24	1	43	τοῦ	ὁ	article, genitive masculine singular	1	of the
 ISA 37:24	1	44	δρυμοῦ	δρυμός	noun, genitive masculine singular	1	woodland
 ISA 37:24	1	44	δρυμοῦ			2	thicket
-ISA 37:24	1	45	τοῦ	ὁ	article, genitive singular	1	the
+ISA 37:24	1	45	τοῦ	ὁ	article, genitive singular	1	of the
 ISA 37:24	1	46	Καρμήλου	Κάρμηλος	noun, genitive masculine singular; place name	1	Carmel
 ISA 37:25	1	1	καὶ	καί	conjunction	1	and
 ISA 37:25	1	2	ἔθηκα	τίθημι	aorist active indicative, first singular	1	I set up
@@ -630,8 +630,8 @@ ISA 37:25	1	5	ἠρήμωσα			2	I laid waste
 ISA 37:25	1	6	ὕδατα	ὕδωρ	noun, nominative neuter plural	1	waters
 ISA 37:25	1	7	καὶ	καί	conjunction	1	and
 ISA 37:25	1	8	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
-ISA 37:25	1	9	συναγωγὴν	συναγωγή	noun, accusative fem. sg	1	congregation
-ISA 37:25	1	10	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
+ISA 37:25	1	9	συναγωγὴν	συναγωγή	noun, accusative fem. sg	1	gathering
+ISA 37:25	1	10	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	of water
 ISA 37:26	1	1	Οὐ	οὐ	negative particle	1	not
 ISA 37:26	1	2	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 ISA 37:26	1	3	ἤκουσας	ἀκούω	aorist active indicative, second singular	1	you listened to
@@ -640,14 +640,14 @@ ISA 37:26	1	4	πάλαι	πάλαι	adverb	1	long ago
 ISA 37:26	1	4	πάλαι			2	formerly
 ISA 37:26	1	5	ἃ	ὅς	relative pronoun, accusative neuter plural	1	which
 ISA 37:26	1	6	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-ISA 37:26	1	7	ἐποίησα	ποιέω	aorist active indicative, first singular	1	I did
+ISA 37:26	1	7	ἐποίησα	ποιέω	aorist active indicative, first singular	1	did
 ISA 37:26	1	8	ἐξ	ἐκ	preposition with the genitive	1	from
 ISA 37:26	1	9	ἀρχαίων	ἀρχαῖος	adjective, genitive masculine plural	1	ancient
 ISA 37:26	1	10	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
 ISA 37:26	1	11	συνέταξα	συντάσσω	aorist active indicative, first singular	1	I arranged
 ISA 37:26	1	11	συνέταξα			2	I ordained
 ISA 37:26	1	12	νῦν	νῦν	adverb of time	1	now
-ISA 37:26	1	13	δὲ	δέ	postpositive conjunction	1	now
+ISA 37:26	1	13	δὲ	δέ	postpositive conjunction	1	but
 ISA 37:26	1	14	ἐπέδειξα	ἐπιδείκνυμι	aorist active indicative, first singular	1	I showed
 ISA 37:26	1	14	ἐπέδειξα			2	I displayed
 ISA 37:26	1	15	ἐξερημῶσαι	ἐξερημόω	aorist active infinitive	1	to lay waste
@@ -709,20 +709,20 @@ ISA 37:29	1	1	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 37:29	1	2	δὲ	δέ	postpositive conjunction	1	and
 ISA 37:29	1	3	θυμός	θυμός	noun, nominative masculine singular	1	anger
 ISA 37:29	1	4	σου	σύ	pronoun, possessive genitive second singular	1	your
-ISA 37:29	1	5	ὃν	ὅς	relative pronoun, accusative masculine singular	1	whom
+ISA 37:29	1	5	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
 ISA 37:29	1	6	ἐθυμώθης	θυμόω	aorist passive indicative, second singular	1	you were angry
 ISA 37:29	1	6	ἐθυμώθης			2	you raged
 ISA 37:29	1	7	πρός	πρός	preposition with the accusative	1	to
 ISA 37:29	1	8	με	ἐγώ	personal pronoun, accusative singular	1	me
 ISA 37:29	1	9	καὶ	καί	conjunction	1	and
 ISA 37:29	1	10	ἡ	ὁ	article, nominative feminine singular	1	the
-ISA 37:29	1	11	πικρία	Πικρία	place name, nominative fem. sg. predicate 'Bitterness'	1	Pikria (Bitterness)
+ISA 37:29	1	11	πικρία	Πικρία	place name, nominative fem. sg. predicate 'Bitterness'	1	bitterness
 ISA 37:29	1	12	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 37:29	1	13	ἀνέβη	ἀναβαίνω	aorist active indicative, third singular	1	went up
 ISA 37:29	1	14	πρὸς	πρός	preposition with the accusative	1	to
 ISA 37:29	1	15	μὲ	ἐγώ	personal pronoun, accusative first singular	1	me
 ISA 37:29	1	16	καὶ	καί	conjunction	1	and
-ISA 37:29	1	17	ἐμβαλῶ	ἐμβάλλω	future active indicative, first singular	1	I will put into
+ISA 37:29	1	17	ἐμβαλῶ	ἐμβάλλω	future active indicative, first singular	1	I will put
 ISA 37:29	1	17	ἐμβαλῶ			2	I will send into
 ISA 37:29	1	18	φιμὸν	φιμός	noun, accusative masculine singular	1	muzzle
 ISA 37:29	1	19	εἰς	εἰς	preposition with the accusative	1	into
@@ -756,7 +756,7 @@ ISA 37:30	1	6	φάγε	ἐσθίω	aorist active imperative, second singular	1	e
 ISA 37:30	1	7	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	1	this
 ISA 37:30	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 37:30	1	9	ἐνιαυτὸν	ἐνιαυτός	noun, accusative masculine singular	1	year
-ISA 37:30	1	10	ἃ	ὅς	relative pronoun, accusative neuter plural	1	which
+ISA 37:30	1	10	ἃ	ὅς	relative pronoun, accusative neuter plural	1	what
 ISA 37:30	1	11	ἐσπαρκας	σπείρω	perfect active indicative, second singular	1	you have sown
 ISA 37:30	1	12	καὶ	καί	conjunction	1	and
 ISA 37:30	1	13	τῷ	ὁ	article, dative masculine singular	1	the
@@ -768,7 +768,7 @@ ISA 37:30	1	18	κατάλειμμα	κατάλειμμα	noun, accusative neuter
 ISA 37:30	1	19	τῷ	ὁ	article, dative neuter singular; dative of time	1	in the
 ISA 37:30	1	20	δὲ	δέ	postpositive conjunction	1	now
 ISA 37:30	1	20	δὲ			2	but
-ISA 37:30	1	21	τρίτῳ	τρίτος	ordinal adjective, dative masculine singular; substantival	1	third one
+ISA 37:30	1	21	τρίτῳ	τρίτος	ordinal adjective, dative masculine singular; substantival	1	third
 ISA 37:30	1	22	ἔτει	ἔτος	noun, dative neut. sg	1	year
 ISA 37:30	1	23	σπείραντες	σπείρω	aorist active participle, nominative masculine plural	1	having sown
 ISA 37:30	1	23	σπείραντες			2	sowing
@@ -785,7 +785,7 @@ ISA 37:30	1	32	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 ISA 37:31	1	1	Καὶ	καί	conjunction	1	and
 ISA 37:31	1	2	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
 ISA 37:31	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 37:31	1	4	καταλελειμμένοι	καταλείπω	perfect passive participle, nominative masculine plural; substantival	1	those left behind
+ISA 37:31	1	4	καταλελειμμένοι	καταλείπω	perfect passive participle, nominative masculine plural; substantival	1	ones left behind
 ISA 37:31	1	4	καταλελειμμένοι			2	survivors
 ISA 37:31	1	5	ἐν	ἐν	preposition with the dative	1	in
 ISA 37:31	1	6	τῇ	ὁ	article, dative feminine singular	1	the
@@ -797,7 +797,7 @@ ISA 37:31	1	10	κάτω	κάτω	adverb, below	1	below
 ISA 37:31	1	11	καὶ	καί	conjunction	1	and
 ISA 37:31	1	12	ποιήσουσι	ποιέω	future active indicative, third plural	1	will produce
 ISA 37:31	1	12	ποιήσουσι			2	will make
-ISA 37:31	1	13	σπέρμα	σπέρμα	noun, accusative neuter singular, collective offspring	1	offspring
+ISA 37:31	1	13	σπέρμα	σπέρμα	noun, accusative neuter singular, collective offspring	1	seed
 ISA 37:31	1	14	ἄνω	ἄνω	adverb, above	1	above
 ISA 37:32	1	1	ὅτι	ὅτι	causal conjunction	1	because
 ISA 37:32	1	2	ἐξ	ἐκ	preposition with the genitive	1	from
@@ -805,10 +805,10 @@ ISA 37:32	1	3	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place na
 ISA 37:32	1	4	ἐξελεύσονται	ἐξέρχομαι	future middle indicative, third plural	1	will come out
 ISA 37:32	1	4	ἐξελεύσονται			2	will go out
 ISA 37:32	1	5	οἱ	ὁ	article, nominative masc. pl	1	the
-ISA 37:32	1	6	καταλελειμμένοι	καταλείπω	perfect passive participle, nominative masculine plural	1	remain
+ISA 37:32	1	6	καταλελειμμένοι	καταλείπω	perfect passive participle, nominative masculine plural	1	ones left behind
 ISA 37:32	1	7	καὶ	καί	conjunction	1	and
 ISA 37:32	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 37:32	1	9	σωζόμενοι	σῴζω	present passive participle, nominative masculine plural; substantival	1	those being saved
+ISA 37:32	1	9	σωζόμενοι	σῴζω	present passive participle, nominative masculine plural; substantival	1	being saved
 ISA 37:32	1	9	σωζόμενοι			2	survivors
 ISA 37:32	1	10	ἐξ	ἐκ	preposition with genitive	1	from
 ISA 37:32	1	11	ὄρους	ὄρος	noun genitive neuter singular	1	mountain
@@ -827,10 +827,10 @@ ISA 37:33	1	2	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter s
 ISA 37:33	1	3	οὕτως	οὕτως	adverb	1	thus
 ISA 37:33	1	4	λέγει	λέγω	present active indicative, third singular	1	says
 ISA 37:33	1	5	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-ISA 37:33	1	6	ἐπὶ	ἐπί	preposition with dative, causal	1	for
+ISA 37:33	1	6	ἐπὶ	ἐπί	preposition with dative, causal	1	concerning
 ISA 37:33	1	6	ἐπὶ			2	on account of
 ISA 37:33	1	7	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
-ISA 37:33	1	8	Ἀσσυρίων	Ἀσσύριος	substantival adjective, genitive masculine plural	1	the Assyrians
+ISA 37:33	1	8	Ἀσσυρίων	Ἀσσύριος	substantival adjective, genitive masculine plural	1	of the Assyrians
 ISA 37:33	1	9	οὐ	οὐ	negative particle in the emphatic negation οὐ μή	1	by no means
 ISA 37:33	1	10	μὴ	μή	negative particle completing οὐ μή	1	not
 ISA 37:33	1	11	εἰσέλθῃ	εἰσέρχομαι	aorist active subjunctive, third singular	1	enters
@@ -916,7 +916,7 @@ ISA 37:36	1	6	ἀνεῖλεν	ἀναιρέω	aorist active indicative, third s
 ISA 37:36	1	7	ἐκ	ἐκ	preposition with the genitive	1	from
 ISA 37:36	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
 ISA 37:36	1	9	παρεμβολῆς	παρεμβολή	noun, genitive fem. sg	1	camp
-ISA 37:36	1	10	τῶν	ὁ	article, genitive masculine plural	1	the
+ISA 37:36	1	10	τῶν	ὁ	article, genitive masculine plural	1	of the
 ISA 37:36	1	11	Ἀσσυρίων	Ἀσσύριος	adjective, genitive masculine plural; substantival	1	Assyrians
 ISA 37:36	1	12	ἑκατὸν	ἑκατόν	indeclinable cardinal numeral	1	one hundred
 ISA 37:36	1	13	καὶ	καί	conjunction	1	and
@@ -939,7 +939,7 @@ ISA 37:37	1	3	ἀπῆλθε	ἀπέρχομαι	aorist active indicative, third
 ISA 37:37	1	4	Σενναχηρεὶμ	Σενναχηρείμ	indeclinable personal name	1	Sennacherib
 ISA 37:37	1	4	Σενναχηρεὶμ			2	Sennachereim
 ISA 37:37	1	5	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
-ISA 37:37	1	6	Ἀσσυρίων	Ἀσσύριος	adjective, genitive masculine plural; substantival	1	Assyrians
+ISA 37:37	1	6	Ἀσσυρίων	Ἀσσύριος	adjective, genitive masculine plural; substantival	1	of the Assyrians
 ISA 37:37	1	7	καὶ	καί	conjunction	1	and
 ISA 37:37	1	8	ᾤκησεν	οἰκέω	aorist active indicative, third singular	1	he dwelt
 ISA 37:37	1	8	ᾤκησεν			2	he settled
@@ -966,7 +966,7 @@ ISA 37:38	1	15	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 ISA 37:38	1	16	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 ISA 37:38	1	17	ἐπάταξαν	πατάσσω	aorist active indicative, third plural	1	struck
 ISA 37:38	1	18	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-ISA 37:38	1	19	μαχαίραις	μάχαιρα	noun, dative feminine plural	1	swords
+ISA 37:38	1	19	μαχαίραις	μάχαιρα	noun, dative feminine plural	1	with swords
 ISA 37:38	1	20	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
 ISA 37:38	1	21	δὲ	δέ	postpositive conjunction	1	and
 ISA 37:38	1	22	διεσώθησαν	διασῴζω	aorist passive indicative, third plural	1	escaped

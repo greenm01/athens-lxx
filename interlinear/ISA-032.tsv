@@ -57,7 +57,7 @@ ISA 32:4	1	1	καὶ	καί	conjunction	1	and
 ISA 32:4	1	2	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 32:4	1	3	καρδία	καρδία	noun, nominative feminine singular	1	heart
 ISA 32:4	1	4	τῶν	ὁ	article, genitive plural	1	the
-ISA 32:4	1	5	ἀσθενῶν	ἀσθενέω	present active participle, nominative masculine singular; substantival	1	the weak one
+ISA 32:4	1	5	ἀσθενῶν	ἀσθενέω	present active participle, nominative masculine singular; substantival	1	of the weak
 ISA 32:4	1	5	ἀσθενῶν			2	one who is weak
 ISA 32:4	1	6	προσέξει	προσέχω	future active indicative, third singular	1	will pay attention
 ISA 32:4	1	6	προσέξει			2	will heed
@@ -69,7 +69,7 @@ ISA 32:4	1	10	αἱ	ὁ	article, nominative feminine plural	1	the
 ISA 32:4	1	11	γλῶσσαι	γλῶσσα	noun, nominative feminine plural	1	tongues
 ISA 32:4	1	12	αἱ	ὁ	article, nominative feminine plural	1	the
 ISA 32:4	1	13	ψελλίζουσαι	ψελλίζω	present active participle, nominative feminine plural	1	stammering
-ISA 32:4	1	14	ταχὺ	ταχύ	adverb of manner	1	so quickly
+ISA 32:4	1	14	ταχὺ	ταχύ	adverb of manner	1	quickly
 ISA 32:4	1	15	μαθήσονται	μανθάνω	future middle indicative, third plural	1	will learn
 ISA 32:4	1	16	λαλεῖν	λαλέω	present active infinitive	1	to speak
 ISA 32:4	1	17	εἰρήνην	εἰρήνη	noun, accusative feminine singular	1	peace
@@ -108,7 +108,7 @@ ISA 32:6	1	10	μάταια			2	empty things
 ISA 32:6	1	11	ποιήσει	ποιέω	future active indicative, third singular	1	will do
 ISA 32:6	1	11	ποιήσει			2	will work
 ISA 32:6	1	12	τοῦ	ὁ	article, genitive masculine singular, in apposition	1	the
-ISA 32:6	1	13	συντελεῖν	συντελέω	present active infinitive	1	to complete/do
+ISA 32:6	1	13	συντελεῖν	συντελέω	present active infinitive	1	to do
 ISA 32:6	1	14	ἄνομα	ἄνομος	adjective, accusative neuter plural; substantival	1	lawless things
 ISA 32:6	1	14	ἄνομα			2	lawless deeds
 ISA 32:6	1	15	καὶ	καί	conjunction	1	and
@@ -134,7 +134,7 @@ ISA 32:7	1	1	Ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 32:7	1	2	γὰρ	γάρ	conjunction	1	for
 ISA 32:7	1	3	βουλὴ	βουλή	noun, nominative feminine singular	1	counsel
 ISA 32:7	1	3	βουλὴ			2	plan
-ISA 32:7	1	4	τῶν	ὁ	article, genitive feminine plural	1	the
+ISA 32:7	1	4	τῶν	ὁ	article, genitive feminine plural	1	of the
 ISA 32:7	1	5	πονηρῶν	πονηρός	adjective, genitive feminine plural	1	evil
 ISA 32:7	1	5	πονηρῶν			2	wicked
 ISA 32:7	1	6	ἄνομα	ἄνομος	adjective, accusative neuter plural; substantival	1	lawless things
@@ -146,13 +146,13 @@ ISA 32:7	1	9	ταπεινοὺς	ταπεινός	adjective, accusative masculin
 ISA 32:7	1	9	ταπεινοὺς			2	humble people
 ISA 32:7	1	10	ἐν	ἐν	preposition with the dative	1	with
 ISA 32:7	1	11	λόγοις	λόγος	noun, dative masculine plural	1	words
-ISA 32:7	1	12	ἀδίκοις	ἄδικος	adjective, dative neuter plural; substantival	1	unjust means
+ISA 32:7	1	12	ἀδίκοις	ἄδικος	adjective, dative neuter plural; substantival	1	unjust
 ISA 32:7	1	12	ἀδίκοις			2	wrongful things
 ISA 32:7	1	13	καὶ	καί	conjunction	1	and
 ISA 32:7	1	14	διασκεδάσαι	διασκεδάζω	aorist active infinitive	1	to scatter
 ISA 32:7	1	14	διασκεδάσαι			2	to frustrate
 ISA 32:7	1	15	λόγους	λόγος	noun, accusative masculine plural	1	words
-ISA 32:7	1	16	ταπεινῶν	ταπεινός	adjective, genitive masculine plural; substantival	1	the lowly
+ISA 32:7	1	16	ταπεινῶν	ταπεινός	adjective, genitive masculine plural; substantival	1	of the lowly
 ISA 32:7	1	16	ταπεινῶν			2	the humble
 ISA 32:7	1	17	ἐν	ἐν	preposition with the dative	1	in
 ISA 32:7	1	18	κρίσει	κρίσις	noun, dative feminine singular	1	judgment
@@ -162,15 +162,15 @@ ISA 32:8	1	3	εὐσεβεῖς	εὐσεβής	adjective, nominative masculine 
 ISA 32:8	1	3	εὐσεβεῖς			2	the devout
 ISA 32:8	1	4	συνετὰ	συνετός	adjective, accusative neuter plural; substantival	1	wise things
 ISA 32:8	1	4	συνετὰ			2	sensible plans
-ISA 32:8	1	5	ἐβουλεύσαντο	βουλεύω	aorist middle indicative third plural	1	they plotted
+ISA 32:8	1	5	ἐβουλεύσαντο	βουλεύω	aorist middle indicative third plural	1	planned
 ISA 32:8	1	6	καὶ	καί	conjunction	1	and
 ISA 32:8	1	7	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 ISA 32:8	1	8	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 32:8	1	9	βουλὴ	βουλή	noun, nominative feminine singular	1	counsel
 ISA 32:8	1	9	βουλὴ			2	plan
 ISA 32:8	1	10	μενεῖ	μένω	future active indicative, third singular	1	shall remain
-ISA 32:9	1	1	Γυναῖκες	γυνή	noun, nominative feminine plural	1	wives
-ISA 32:9	1	1	Γυναῖκες			2	women
+ISA 32:9	1	1	Γυναῖκες	γυνή	noun, nominative feminine plural	1	women
+ISA 32:9	1	1	Γυναῖκες			2	wives
 ISA 32:9	1	2	πλούσιαι	πλούσιος	adjective, nominative feminine plural	1	wealthy
 ISA 32:9	1	2	πλούσιαι			2	rich
 ISA 32:9	1	3	ἀνάστητε	ἀνίστημι	aorist active imperative, 2nd pl	1	rise up
@@ -184,7 +184,7 @@ ISA 32:9	1	9	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 ISA 32:9	1	9	μου			2	of me
 ISA 32:9	1	10	θυγατέρες	θυγάτηρ	noun, nominative feminine plural	1	daughters
 ISA 32:9	1	11	ἐν	ἐν	preposition with the dative	1	in
-ISA 32:9	1	12	ἐλπίδι	ἐλπίς	noun, dative feminine singular	1	security
+ISA 32:9	1	12	ἐλπίδι	ἐλπίς	noun, dative feminine singular	1	hope
 ISA 32:9	1	12	ἐλπίδι			2	confidence
 ISA 32:9	1	13	ἀκούσατε	ἀκούω	aorist active imperative, second plural	1	hear
 ISA 32:9	1	14	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -235,16 +235,16 @@ ISA 32:11	1	12	ὀσφύας			2	loins
 ISA 32:12	1	1	καὶ	καί	conjunction	1	and
 ISA 32:12	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	on
 ISA 32:12	1	3	τῶν	ὁ	article, genitive masculine plural	1	the
-ISA 32:12	1	4	μαστῶν	μαστός	noun, genitive masculine plural	1	of breasts
+ISA 32:12	1	4	μαστῶν	μαστός	noun, genitive masculine plural	1	breasts
 ISA 32:12	1	5	κόπτεσθε	κόπτομαι	present middle imperative, second plural	1	mourn
 ISA 32:12	1	5	κόπτεσθε			2	beat your breasts
 ISA 32:12	1	6	περὶ	περί	preposition with the genitive	1	on account of
 ISA 32:12	1	6	περὶ			2	concerning
 ISA 32:12	1	7	ἀγροῦ	ἀγρός	noun, genitive masculine singular	1	field
-ISA 32:12	1	8	ἐπιθυμήματος	ἐπιθύμημα	noun, genitive neuter singular	1	desire
+ISA 32:12	1	8	ἐπιθυμήματος	ἐπιθύμημα	noun, genitive neuter singular	1	of desire
 ISA 32:12	1	9	καὶ	καί	conjunction	1	and
 ISA 32:12	1	10	ἀμπέλου	ἄμπελος	noun, genitive feminine singular	1	vine
-ISA 32:12	1	11	γεννήματος	γέννημα	noun, genitive neuter singular	1	produce
+ISA 32:12	1	11	γεννήματος	γέννημα	noun, genitive neuter singular	1	of produce
 ISA 32:12	1	11	γεννήματος			2	yield
 ISA 32:13	1	1	Ἐπὶ	ἐπί	preposition	1	on
 ISA 32:13	1	2	γῆν	γῆ	noun, accusative feminine singular	1	land
@@ -256,11 +256,11 @@ ISA 32:13	1	6	ἄκανθα			2	thornbush
 ISA 32:13	1	7	καὶ	καί	conjunction	1	and
 ISA 32:13	1	8	χόρτος	χόρτος	noun, nominative masculine singular	1	grass
 ISA 32:13	1	8	χόρτος			2	herbage
-ISA 32:13	1	9	ἀναβήσεται	ἀναβαίνω	future middle indicative, third singular	1	will come
+ISA 32:13	1	9	ἀναβήσεται	ἀναβαίνω	future middle indicative, third singular	1	will come up
 ISA 32:13	1	10	καὶ	καί	conjunction	1	and
 ISA 32:13	1	11	ἐκ	ἐκ	preposition with the genitive	1	from
-ISA 32:13	1	12	πάσης	πᾶς	adjective, genitive feminine singular	1	all
-ISA 32:13	1	13	οἰκίας	οἰκία	noun, accusative feminine plural	1	houses
+ISA 32:13	1	12	πάσης	πᾶς	adjective, genitive feminine singular	1	every
+ISA 32:13	1	13	οἰκίας	οἰκία	noun, accusative feminine plural	1	house
 ISA 32:13	1	14	εὐφροσύνη	εὐφροσύνη	noun, nominative feminine singular	1	gladness
 ISA 32:13	1	14	εὐφροσύνη			2	rejoicing
 ISA 32:13	1	15	ἀρθήσεται	αἴρω	future passive indicative, 3rd sg., shall be carried	1	shall be carried
@@ -270,8 +270,8 @@ ISA 32:14	1	2	πλουσία			2	rich
 ISA 32:14	1	3	οἶκοι	οἶκος	noun, nominative masculine plural	1	houses
 ISA 32:14	1	4	ἐγκαταλελειμμένοι	ἐγκαταλείπω	perfect passive participle, nominative masculine plural	1	abandoned
 ISA 32:14	1	4	ἐγκαταλελειμμένοι			2	left behind
-ISA 32:14	1	5	πλοῦτον	πλοῦτος	noun, accusative masculine singular	1	with wealth
-ISA 32:14	1	6	πόλεως	πόλις	noun, genitive feminine singular	1	city
+ISA 32:14	1	5	πλοῦτον	πλοῦτος	noun, accusative masculine singular	1	wealth
+ISA 32:14	1	6	πόλεως	πόλις	noun, genitive feminine singular	1	of the city
 ISA 32:14	1	6	πόλεως			2	town
 ISA 32:14	1	7	καὶ	καί	conjunction	1	and
 ISA 32:14	1	8	οἴκους	οἶκος	noun, accusative masculine plural	1	houses
@@ -289,11 +289,11 @@ ISA 32:14	1	17	τοῦ	ὁ	article, genitive masculine singular	1	the
 ISA 32:14	1	18	αἰῶνος	αἰών	noun, genitive masculine singular; in an expression of perpetuity	1	age
 ISA 32:14	1	19	εὐφροσύνη	εὐφροσύνη	noun, nominative feminine singular	1	gladness
 ISA 32:14	1	19	εὐφροσύνη			2	rejoicing
-ISA 32:14	1	20	ὄνων	ὄνος	noun, genitive masculine plural	1	asses
+ISA 32:14	1	20	ὄνων	ὄνος	noun, genitive masculine plural	1	of asses
 ISA 32:14	1	21	ἀγρίων	ἄγριος	adjective, genitive masculine plural	1	wild
 ISA 32:14	1	22	βοσκήματα	βόσκημα	noun, nominative neuter plural	1	pastures
 ISA 32:14	1	22	βοσκήματα			2	grazing grounds
-ISA 32:14	1	23	ποιμένων	ποιμήν	noun, genitive masculine plural	1	herdsmen
+ISA 32:14	1	23	ποιμένων	ποιμήν	noun, genitive masculine plural	1	of herdsmen
 ISA 32:14	1	23	ποιμένων			2	shepherds
 ISA 32:15	1	1	ἕως	ἕως	temporal conjunction with ἄν and the subjunctive	1	until
 ISA 32:15	1	2	ἂν	ἄν	modal particle, modal particle	1	—
@@ -314,7 +314,7 @@ ISA 32:15	1	14	καὶ	καί	conjunction	1	and
 ISA 32:15	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 32:15	1	16	Χέρμελ	Χέρμελ	indeclinable place name, nominative in context	1	Carmel
 ISA 32:15	1	16	Χέρμελ			2	Chermel
-ISA 32:15	1	17	εἰς	εἰς	preposition with accusative	1	for
+ISA 32:15	1	17	εἰς	εἰς	preposition with accusative	1	as
 ISA 32:15	1	18	δρυμὸν	δρυμός	noun, accusative masculine singular	1	woodland
 ISA 32:15	1	18	δρυμὸν			2	forest
 ISA 32:15	1	19	λογισθήσεται	λογίζομαι	future passive indicative, third singular	1	shall be reckoned
@@ -338,15 +338,15 @@ ISA 32:17	1	2	ἔσται	εἰμί	future indicative, third singular	1	will be
 ISA 32:17	1	3	τὰ	ὁ	article, nominative neuter plural	1	the
 ISA 32:17	1	4	ἔργα	ἔργον	noun, nominative neuter plural	1	works
 ISA 32:17	1	4	ἔργα			2	deeds
-ISA 32:17	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
+ISA 32:17	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 ISA 32:17	1	6	δικαιοσύνης	δικαιοσύνη	noun genitive feminine singular	1	righteousness
 ISA 32:17	1	7	εἰρήνη	εἰρήνη	noun, nominative feminine singular	1	peace
 ISA 32:17	1	8	καὶ	καί	conjunction	1	and
 ISA 32:17	1	9	κρατήσει	κρατέω	future active indicative, third singular	1	will seize
 ISA 32:17	1	9	κρατήσει			2	will take hold
 ISA 32:17	1	10	ἡ	ὁ	article, nominative feminine singular	1	the
-ISA 32:17	1	11	δικαιοσύνη	δικαιοσύνη	noun, nominative feminine singular	1	honesty
-ISA 32:17	1	11	δικαιοσύνη			2	righteousness
+ISA 32:17	1	11	δικαιοσύνη	δικαιοσύνη	noun, nominative feminine singular	1	righteousness
+ISA 32:17	1	11	δικαιοσύνη			2	honesty
 ISA 32:17	1	12	ἀνάπαυσιν	ἀνάπαυσις	noun, accusative feminine singular	1	a resting place
 ISA 32:17	1	12	ἀνάπαυσιν			2	rest
 ISA 32:17	1	13	καὶ	καί	conjunction	1	and
@@ -362,7 +362,7 @@ ISA 32:18	1	4	λαὸς	λαός	noun, nominative masculine singular	1	people
 ISA 32:18	1	5	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 ISA 32:18	1	6	ἐν	ἐν	preposition with the dative	1	in
 ISA 32:18	1	7	πόλει	πόλις	noun, dative feminine singular	1	city
-ISA 32:18	1	8	εἰρήνης	εἰρήνη	noun, genitive feminine singular	1	peace
+ISA 32:18	1	8	εἰρήνης	εἰρήνη	noun, genitive feminine singular	1	of peace
 ISA 32:18	1	9	καὶ	καί	conjunction	1	and
 ISA 32:18	1	10	ἐνοικήσει	ἐνοικέω	future active indicative, third singular	1	will live there
 ISA 32:18	1	10	ἐνοικήσει			2	will dwell

@@ -1,13 +1,13 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 ISA 26:1	1	1	Ὠδὴ	ᾠδή	noun nominative feminine singular	1	song
-ISA 26:1	1	2	Τῇ	ὁ	article, dative feminine singular	1	the
+ISA 26:1	1	2	Τῇ	ὁ	article, dative feminine singular	1	on the
 ISA 26:1	1	3	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 ISA 26:1	1	4	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative feminine singular	1	that
 ISA 26:1	1	5	ᾄσονται	ᾄδω	future middle indicative, third plural	1	they will sing
 ISA 26:1	1	6	τὸ	ὁ	article, accusative neuter singular	1	the
 ISA 26:1	1	7	ᾆσμα	ᾆσμα	noun, accusative neuter singular	1	song
 ISA 26:1	1	8	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
-ISA 26:1	1	9	ἐπὶ	ἐπί	preposition with the genitive	1	by
+ISA 26:1	1	9	ἐπὶ	ἐπί	preposition with the genitive	1	in
 ISA 26:1	1	10	γῆς	γῆ	noun, genitive feminine singular	1	the land
 ISA 26:1	1	11	Ἰούδα	Ἰούδας	indeclinable tribal name, genitive in context	1	of Judah
 ISA 26:1	1	12	λέγοντες	λέγω	present active participle, nominative masculine plural, with impersonal passive in sense 'saying'	1	saying
@@ -27,9 +27,9 @@ ISA 26:1	1	22	περίτειχος	περίτειχος	noun, accusative neuter 
 ISA 26:1	1	22	περίτειχος			2	rampart
 ISA 26:2	1	1	Ἀνοίξατε	ἀνοίγω	aorist active imperative, second plural	1	open
 ISA 26:2	1	2	πύλας	πύλη	noun, accusative feminine plural	1	gates
-ISA 26:2	1	3	εἰσελθάτω	εἰσέρχομαι	aorist active imperative, third singular	1	let him enter
+ISA 26:2	1	3	εἰσελθάτω	εἰσέρχομαι	aorist active imperative, third singular	1	let enter
 ISA 26:2	1	3	εἰσελθάτω			2	let it enter
-ISA 26:2	1	4	δίκαιος	δίκαιος	adjective, nominative masculine singular; used substantivally	1	righteous person
+ISA 26:2	1	4	δίκαιος	δίκαιος	adjective, nominative masculine singular; used substantivally	1	righteous
 ISA 26:2	1	5	λαὸς	λαός	noun, nominative masculine singular	1	people
 ISA 26:2	1	6	φυλάσσων	φυλάσσω	present active participle, nominative masculine singular	1	keeping
 ISA 26:2	1	7	δικαιοσύνην	δικαιοσύνη	noun, accusative feminine singular	1	righteousness
@@ -70,7 +70,7 @@ ISA 26:5	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
 ISA 26:5	1	5	ἐνοικοῦντας	ἐνοικέω	present active participle, accusative masculine plural; substantival	1	inhabitants
 ISA 26:5	1	5	ἐνοικοῦντας			2	those who live in
 ISA 26:5	1	6	ἐν	ἐν	preposition with the dative	1	in
-ISA 26:5	1	7	ὑψηλοῖς	ὑψηλός	adjective, dative masculine plural; substantival	1	lofty ones
+ISA 26:5	1	7	ὑψηλοῖς	ὑψηλός	adjective, dative masculine plural; substantival	1	high places
 ISA 26:5	1	7	ὑψηλοῖς			2	towering ones
 ISA 26:5	1	8	πόλεις	πόλις	noun, accusative feminine plural	1	cities
 ISA 26:5	1	9	ὀχυρὰς	ὀχυρός	adjective, accusative feminine plural	1	fortified
@@ -79,7 +79,7 @@ ISA 26:5	1	10	καταβαλεῖς			2	you will bring down
 ISA 26:5	1	11	καὶ	καί	conjunction	1	and
 ISA 26:5	1	12	κατάξεις	κατάγω	future active indicative, second singular	1	you will bring down
 ISA 26:5	1	13	αὐτὰς	αὐτός	pronoun, accusative feminine plural, referring to bricks	1	them
-ISA 26:5	1	14	ἕως	ἕως	preposition with genitive	1	until
+ISA 26:5	1	14	ἕως	ἕως	preposition with genitive	1	as far as
 ISA 26:5	1	15	τοῦ	ὁ	article, genitive neuter singular	1	the
 ISA 26:5	1	16	ἐδάφους	ἔδαφος	noun, genitive neuter singular	1	floor
 ISA 26:6	1	1	Καὶ	καί	conjunction	1	and
@@ -87,13 +87,13 @@ ISA 26:6	1	2	πατήσουσιν	πατέω	future active indicative, third plu
 ISA 26:6	1	2	πατήσουσιν			2	will trample
 ISA 26:6	1	3	αὐτὰς	αὐτός	pronoun, accusative feminine plural	1	them
 ISA 26:6	1	4	πόδες	πούς	noun, nominative masculine plural	1	feet
-ISA 26:6	1	5	πραέων	πραΰς	adjective, genitive masculine plural; substantival	1	the meek
+ISA 26:6	1	5	πραέων	πραΰς	adjective, genitive masculine plural; substantival	1	of the meek
 ISA 26:6	1	5	πραέων			2	gentle people
 ISA 26:6	1	6	καὶ	καί	conjunction	1	and
-ISA 26:6	1	7	ταπεινῶν	ταπεινός	adjective, genitive masculine plural; substantival	1	the lowly
+ISA 26:6	1	7	ταπεινῶν	ταπεινός	adjective, genitive masculine plural; substantival	1	of the lowly
 ISA 26:6	1	7	ταπεινῶν			2	the humble
 ISA 26:7	1	1	Ὁδὸς	ὁδός	noun nominative feminine singular	1	way
-ISA 26:7	1	2	εὐσεβῶν	εὐσεβής	adjective, genitive masculine plural; substantival	1	godly people
+ISA 26:7	1	2	εὐσεβῶν	εὐσεβής	adjective, genitive masculine plural; substantival	1	of godly people
 ISA 26:7	1	2	εὐσεβῶν			2	the devout
 ISA 26:7	1	3	εὐθεῖα	εὐθύς	adjective, nominative feminine singular	1	straight
 ISA 26:7	1	3	εὐθεῖα			2	upright
@@ -105,14 +105,14 @@ ISA 26:7	1	7	παρεσκευασμένη	παρασκευάζω	perfect passive
 ISA 26:7	1	7	παρεσκευασμένη			2	made ready
 ISA 26:7	1	8	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 26:7	1	9	ὁδὸς	ὁδός	noun nominative feminine singular	1	way
-ISA 26:7	1	10	τῶν	ὁ	article, genitive masculine plural	1	of
+ISA 26:7	1	10	τῶν	ὁ	article, genitive masculine plural	1	of the
 ISA 26:7	1	11	εὐσεβῶν	εὐσεβής	adjective, genitive masculine plural; substantival	1	godly people
 ISA 26:7	1	11	εὐσεβῶν			2	the devout
 ISA 26:8	1	1	Ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 26:8	1	2	γὰρ	γάρ	conjunction	1	for
 ISA 26:8	1	3	ὁδὸς	ὁδός	noun nominative feminine singular	1	way
 ISA 26:8	1	4	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-ISA 26:8	1	5	κρίσις	κρίσις	noun, nominative fem. sg	1	case
+ISA 26:8	1	5	κρίσις	κρίσις	noun, nominative fem. sg	1	judgment
 ISA 26:8	1	6	ἠλπίσαμεν	ἐλπίζω	aorist active indicative, first plural	1	we hoped
 ISA 26:8	1	6	ἠλπίσαμεν			2	we put our hope
 ISA 26:8	1	7	ἐπὶ	ἐπί	preposition with the dative	1	upon
@@ -124,15 +124,15 @@ ISA 26:8	1	12	ἐπὶ	ἐπί	preposition with dative	1	in
 ISA 26:8	1	13	τῇ	ὁ	article, dative feminine singular	1	the
 ISA 26:8	1	14	μνείᾳ	μνεία	noun, dative feminine singular	1	remembrance
 ISA 26:8	1	14	μνείᾳ			2	mention
-ISA 26:9	1	1	ᾗ	ὅς	relative pronoun, dative feminine singular, referring to the land	1	in which
+ISA 26:9	1	1	ᾗ	ὅς	relative pronoun, dative feminine singular, referring to the land	1	which
 ISA 26:9	1	1	ᾗ			2	where
 ISA 26:9	1	2	ἐπιθυμεῖ	ἐπιθυμέω	present active indicative, third singular	1	longs
 ISA 26:9	1	2	ἐπιθυμεῖ			2	desires
 ISA 26:9	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
-ISA 26:9	1	4	ψυχὴ	ψυχή	noun, nominative feminine singular	1	life
+ISA 26:9	1	4	ψυχὴ	ψυχή	noun, nominative feminine singular	1	soul
 ISA 26:9	1	5	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
-ISA 26:9	1	6	ἐπιθυμίᾳ	ἐπιθυμία	noun, dative feminine singular	1	desire
-ISA 26:9	1	7	ψυχῆς	ψυχή	noun, genitive feminine singular	1	soul
+ISA 26:9	1	6	ἐπιθυμίᾳ	ἐπιθυμία	noun, dative feminine singular	1	with desire
+ISA 26:9	1	7	ψυχῆς	ψυχή	noun, genitive feminine singular	1	of soul
 ISA 26:9	1	8	Ὠδὴ	ᾠδή	noun nominative feminine singular	1	song
 ISA 26:9	1	9	ἐκ	ἐκ	preposition with the genitive	1	from
 ISA 26:9	1	10	νυκτὸς	νύξ	noun, genitive feminine singular	1	night
@@ -143,7 +143,7 @@ ISA 26:9	1	13	πνεῦμά	πνεῦμα	noun, nominative neuter singular	1	spi
 ISA 26:9	1	14	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 ISA 26:9	1	15	πρὸς	πρός	preposition with the accusative	1	to
 ISA 26:9	1	16	σὲ	σύ	personal pronoun, emphatic accusative singular governed by πρός	1	you
-ISA 26:9	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
+ISA 26:9	1	17	ὁ	ὁ	article, nominative masculine singular	1	O
 ISA 26:9	1	18	Θεὸς	θεός	noun, nominative masculine singular	1	God
 ISA 26:9	1	19	διότι	διότι	causal conjunction	1	because
 ISA 26:9	1	20	φῶς	φῶς	noun, nominative neuter singular	1	light
@@ -157,8 +157,8 @@ ISA 26:9	1	26	γῆς	γῆ	noun, genitive feminine singular	1	land
 ISA 26:9	1	27	δικαιοσύνην	δικαιοσύνη	noun, accusative feminine singular	1	righteousness
 ISA 26:9	1	27	δικαιοσύνην			2	justice
 ISA 26:9	1	28	μάθετε	μανθάνω	aorist active imperative, second plural	1	learn
-ISA 26:9	1	29	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 26:9	1	30	ἐνοικοῦντες	ἐνοικέω	present active participle, nominative masculine plural	1	living in
+ISA 26:9	1	29	οἱ	ὁ	article, nominative masculine plural	1	you
+ISA 26:9	1	30	ἐνοικοῦντες	ἐνοικέω	present active participle, nominative masculine plural	1	dwelling
 ISA 26:9	1	31	ἐπὶ	ἐπί	preposition	1	on
 ISA 26:9	1	32	τῆς	ὁ	article, genitive feminine singular	1	the
 ISA 26:9	1	33	γῆς	γῆ	noun, genitive feminine singular	1	land
@@ -190,11 +190,11 @@ ISA 26:10	1	23	δόξαν	δόξα	noun, accusative fem. sg	1	glory
 ISA 26:10	1	24	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 ISA 26:11	1	1	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 ISA 26:11	1	1	Κύριε			2	Lord
-ISA 26:11	1	2	ὑψηλός	ὑψηλός	adjective, nominative masculine singular	1	tall
+ISA 26:11	1	2	ὑψηλός	ὑψηλός	adjective, nominative masculine singular	1	high
 ISA 26:11	1	3	σου	σύ	pronoun, genitive 2nd singular	1	your
 ISA 26:11	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
-ISA 26:11	1	5	βραχίων	βραχίων	noun, nominative masculine singular	1	foreleg
-ISA 26:11	1	5	βραχίων			2	arm
+ISA 26:11	1	5	βραχίων	βραχίων	noun, nominative masculine singular	1	arm
+ISA 26:11	1	5	βραχίων			2	foreleg
 ISA 26:11	1	6	καὶ	καί	conjunction	1	and
 ISA 26:11	1	7	οὐκ	οὐ	negative adverb	1	not
 ISA 26:11	1	8	ᾔδεισαν	οἶδα	pluperfect active indicative, 3rd plural	1	knew
@@ -230,7 +230,7 @@ ISA 26:12	1	11	ἔργα	ἔργον	noun, accusative neuter plural	1	works
 ISA 26:12	1	12	ἡμῶν	ἐγώ	personal pronoun genitive first plural	1	our
 ISA 26:12	1	13	ἀπέδωκας	ἀποδίδωμι	aorist active indicative, second singular	1	you gave back
 ISA 26:12	1	13	ἀπέδωκας			2	you rendered
-ISA 26:12	1	14	ἡμῖν	ἐγώ	pronoun, dative 1st pl	1	us
+ISA 26:12	1	14	ἡμῖν	ἐγώ	pronoun, dative 1st pl	1	to us
 ISA 26:13	1	1	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 ISA 26:13	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 26:13	1	3	Θεὸς	θεός	noun, nominative masculine singular	1	God
@@ -284,7 +284,7 @@ ISA 26:15	1	4	Κύριε			2	Lord
 ISA 26:15	1	5	πρόσθες	προστίθημι	aorist active imperative, second singular	1	add
 ISA 26:15	1	6	κακὰ	κακός	adjective, accusative neuter plural; substantival	1	evils
 ISA 26:15	1	6	κακὰ			2	calamities
-ISA 26:15	1	7	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
+ISA 26:15	1	7	πᾶσι	πᾶς	adjective, dative neuter plural	1	to all
 ISA 26:15	1	8	τοῖς	ὁ	article, dative masculine plural	1	the
 ISA 26:15	1	9	ἐνδόξοις	ἔνδοξος	adjective, dative masculine plural; substantival	1	prominent people
 ISA 26:15	1	9	ἐνδόξοις			2	the honored
@@ -314,7 +314,7 @@ ISA 26:16	1	12	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
 ISA 26:17	1	1	Καὶ	καί	conjunction	1	and
 ISA 26:17	1	2	ὡς	ὡς	comparative particle	1	as
 ISA 26:17	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
-ISA 26:17	1	4	ὠδίνουσα	ὠδίνω	present active participle, nominative feminine singular; substantival	1	a woman in labor
+ISA 26:17	1	4	ὠδίνουσα	ὠδίνω	present active participle, nominative feminine singular; substantival	1	woman in labor
 ISA 26:17	1	5	ἐγγίζει	ἐγγίζω	present active indicative, third singular	1	is close
 ISA 26:17	1	5	ἐγγίζει			2	is near
 ISA 26:17	1	6	τοῦ	ὁ	article, genitive neuter singular	1	—
@@ -327,15 +327,15 @@ ISA 26:17	1	12	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	he
 ISA 26:17	1	13	ἐκέκραξεν	κράζω	aorist active indicative, third singular	1	cried out
 ISA 26:17	1	14	οὕτως	οὕτως	adverb of manner	1	so
 ISA 26:17	1	14	οὕτως			2	thus
-ISA 26:17	1	15	ἐγενήθημεν	γίνομαι	aorist middle indicative, first plural	1	we pressed
-ISA 26:17	1	16	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+ISA 26:17	1	15	ἐγενήθημεν	γίνομαι	aorist middle indicative, first plural	1	we became
+ISA 26:17	1	16	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
 ISA 26:17	1	17	ἀγαπητῷ	ἀγαπητός	adjective, dative masculine singular; substantival	1	beloved one
 ISA 26:17	1	18	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 26:18	1	1	Διὰ	διά	preposition with the accusative	1	because of
 ISA 26:18	1	2	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 26:18	1	3	φόβον	φόβος	noun, accusative masc. sg	1	fear
 ISA 26:18	1	4	σου	σύ	pronoun, possessive genitive second singular	1	your
-ISA 26:18	1	5	Κύριε	κύριος	noun, vocative masculine singular	1	my lord
+ISA 26:18	1	5	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 ISA 26:18	1	5	Κύριε			2	lord
 ISA 26:18	1	6	ἐν	ἐν	preposition with the dative	1	in
 ISA 26:18	1	7	γαστρὶ	γαστήρ	noun, dative feminine singular	1	womb
@@ -359,7 +359,7 @@ ISA 26:18	1	20	γῆς	γῆ	noun, genitive feminine singular	1	land
 ISA 26:18	1	21	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 ISA 26:18	1	22	πεσοῦνται	πίπτω	future middle indicative, third plural	1	will fall
 ISA 26:18	1	23	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 26:18	1	24	ἐνοικοῦντες	ἐνοικέω	present active participle, nominative masculine plural	1	living in
+ISA 26:18	1	24	ἐνοικοῦντες	ἐνοικέω	present active participle, nominative masculine plural	1	dwelling
 ISA 26:18	1	25	ἐπι	ἐπί	preposition with genitive	1	on
 ISA 26:18	1	25	ἐπι			2	upon
 ISA 26:18	1	26	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -374,13 +374,13 @@ ISA 26:19	1	5	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 26:19	1	6	καὶ	καί	conjunction	1	and
 ISA 26:19	1	7	ἐγερθήσονται	ἐγείρω	future passive indicative, third plural	1	they will be raised
 ISA 26:19	1	7	ἐγερθήσονται			2	they will rise
-ISA 26:19	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
+ISA 26:19	1	8	οἱ	ὁ	article, nominative masculine plural	1	those
 ISA 26:19	1	9	ἐν	ἐν	preposition with the dative	1	in
 ISA 26:19	1	10	τοῖς	ὁ	article, dative neuter plural	1	the
 ISA 26:19	1	11	μνημείοις	μνημεῖον	noun, dative neuter plural	1	tombs
 ISA 26:19	1	12	καὶ	καί	conjunction	1	and
 ISA 26:19	1	13	εὐφρανθήσονται	εὐφραίνω	future passive indicative, third plural	1	they will rejoice
-ISA 26:19	1	14	οἱ	ὁ	article, nominative masculine plural	1	the
+ISA 26:19	1	14	οἱ	ὁ	article, nominative masculine plural	1	those
 ISA 26:19	1	15	ἐν	ἐν	preposition with the dative	1	in
 ISA 26:19	1	16	τῇ	ὁ	article, dative feminine singular	1	the
 ISA 26:19	1	17	γῇ	γῆ	noun, dative feminine singular	1	land
@@ -388,7 +388,7 @@ ISA 26:19	1	18	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 26:19	1	19	γὰρ	γάρ	explanatory conjunction	1	for
 ISA 26:19	1	20	δρόσος	δρόσος	noun, nominative feminine singular	1	dew
 ISA 26:19	1	21	ἡ	ὁ	article, nominative feminine singular	1	the
-ISA 26:19	1	22	παρὰ	παρά	preposition with the accusative of place	1	beside
+ISA 26:19	1	22	παρὰ	παρά	preposition with the accusative of place	1	from
 ISA 26:19	1	22	παρὰ			2	near
 ISA 26:19	1	23	σοῦ	σύ	personal pronoun, emphatic genitive singular governed by παρά	1	you
 ISA 26:19	1	24	ἴαμα	ἴαμα	noun, nominative neuter singular	1	healing
@@ -400,8 +400,8 @@ ISA 26:19	1	28	δὲ	δέ	postpositive connective	1	now
 ISA 26:19	1	28	δὲ			2	and
 ISA 26:19	1	29	γῆ	γῆ	noun, nominative feminine singular	1	land
 ISA 26:19	1	29	γῆ			2	earth
-ISA 26:19	1	30	τῶν	ὁ	article, genitive masculine plural	1	the
-ISA 26:19	1	31	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	1	of the ungodly
+ISA 26:19	1	30	τῶν	ὁ	article, genitive masculine plural	1	of the
+ISA 26:19	1	31	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	1	ungodly
 ISA 26:19	1	32	πεσεῖται	πίπτω	future middle indicative, third singular	1	will fall
 ISA 26:20	1	1	Βάδιζε	βαδίζω	present active imperative, second person singular	1	go
 ISA 26:20	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -446,12 +446,12 @@ ISA 26:21	1	10	ἐπὶ	ἐπί	preposition (case from context)	1	on
 ISA 26:21	1	11	τοὺς	ὁ	article, accusative masculine plural	1	the
 ISA 26:21	1	12	ἐνοικοῦντας	ἐνοικέω	present active participle, accusative masculine plural; substantival	1	inhabitants
 ISA 26:21	1	12	ἐνοικοῦντας			2	those who live in
-ISA 26:21	1	13	ἐπὶ	ἐπί	preposition with genitive	1	at
+ISA 26:21	1	13	ἐπὶ	ἐπί	preposition with genitive	1	on
 ISA 26:21	1	13	ἐπὶ			2	beside
 ISA 26:21	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
 ISA 26:21	1	15	γῆς	γῆ	noun, genitive feminine singular	1	earth
 ISA 26:21	1	16	κατ᾽	κατά	elided preposition with genitive	1	against
-ISA 26:21	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+ISA 26:21	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 ISA 26:21	1	18	καὶ	καί	conjunction	1	and
 ISA 26:21	1	19	ἀνακαλύψει	ἀνακαλύπτω	future active indicative, third singular	1	will uncover
 ISA 26:21	1	19	ἀνακαλύψει			2	will expose
@@ -463,8 +463,8 @@ ISA 26:21	1	24	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	he
 ISA 26:21	1	25	καὶ	καί	conjunction	1	and
 ISA 26:21	1	26	οὐ	οὐ	negative particle	1	not
 ISA 26:21	1	27	κατακαλύψει	κατακαλύπτω	future active indicative, third singular	1	will cover completely
-ISA 26:21	1	28	ἔτι	ἔτι	temporal adverb	1	still
+ISA 26:21	1	28	ἔτι	ἔτι	temporal adverb	1	any longer
 ISA 26:21	1	29	τοὺς	ὁ	article, accusative masculine plural	1	the
-ISA 26:21	1	30	ἀνῃρημένους	ἀναιρέω	perfect passive participle, accusative masculine plural; substantival	1	those killed
+ISA 26:21	1	30	ἀνῃρημένους	ἀναιρέω	perfect passive participle, accusative masculine plural; substantival	1	slain
 ISA 26:21	1	30	ἀνῃρημένους			2	the slain
-ISA 26:21	1	31	ἔτι	ἔτι	temporal adverb	1	still
+ISA 26:21	1	31	ἔτι	ἔτι	temporal adverb	1	any longer

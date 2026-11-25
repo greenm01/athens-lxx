@@ -3,10 +3,10 @@ ISA 13:1	1	1	ΟΡΑΣΙΣ	ὅρασις	noun, nominative feminine singular	1	vis
 ISA 13:1	1	2	ΗΝ	ὅς	relative pronoun, accusative feminine singular	1	which
 ISA 13:1	1	3	ΕΙΔΕΝ	ὁράω	aorist active indicative, third singular	1	saw
 ISA 13:1	1	4	ΗΣΑΙΑΣ	Ἡσαΐας	noun, nominative masculine singular; personal name	1	Isaiah
-ISA 13:1	1	5	ΑΜΩΣ	Ἀμώς	indeclinable personal name, genitive in context	1	Amoz
-ISA 13:1	1	6	ΚΑΤΑ	κατά	preposition with accusative	1	according to
+ISA 13:1	1	5	ΑΜΩΣ	Ἀμώς	indeclinable personal name, genitive in context	1	of Amoz
+ISA 13:1	1	6	ΚΑΤΑ	κατά	preposition with accusative	1	against
 ISA 13:1	1	7	ΒΑΒΥΛΩΝΟΣ	Βαβυλών	noun, genitive feminine singular; place name	1	Babylon
-ISA 13:2	1	1	Ἐπ᾽	ἐπί	preposition with the accusative	1	over
+ISA 13:2	1	1	Ἐπ᾽	ἐπί	preposition with the accusative	1	on
 ISA 13:2	1	2	ὄρους	ὄρος	noun, genitive neuter singular	1	mountain
 ISA 13:2	1	3	πεδινοῦ	πεδινός	adjective, genitive neuter singular	1	level
 ISA 13:2	1	3	πεδινοῦ			2	flat
@@ -22,13 +22,13 @@ ISA 13:2	1	10	μὴ	μή	negative with subjunctive/optative (wish/prohibition fr
 ISA 13:2	1	11	φοβεῖσθε	φοβέω	present middle imperative, second plural	1	fear
 ISA 13:2	1	12	παρακαλεῖτε	παρακαλέω	present active imperative, second plural	1	beckon
 ISA 13:2	1	12	παρακαλεῖτε			2	summon
-ISA 13:2	1	13	τῇ	ὁ	article, dative feminine singular	1	the
+ISA 13:2	1	13	τῇ	ὁ	article, dative feminine singular	1	with the
 ISA 13:2	1	14	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 ISA 13:2	1	15	ἀνοίξατε	ἀνοίγω	aorist active imperative, second plural	1	open
 ISA 13:2	1	16	οἱ	ὁ	article, nominative masculine plural	1	the
 ISA 13:2	1	17	ἄρχοντες	ἄρχων	noun, nominative masculine plural; direct address	1	rulers
 ISA 13:3	1	1	Ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-ISA 13:3	1	2	συντάσσω	συντάσσω	present active indicative, first singular	1	I command
+ISA 13:3	1	2	συντάσσω	συντάσσω	present active indicative, first singular	1	command
 ISA 13:3	1	2	συντάσσω			2	I give orders
 ISA 13:3	1	3	καὶ	καί	conjunction	1	and
 ISA 13:3	1	4	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
@@ -69,10 +69,10 @@ ISA 13:4	1	12	καὶ	καί	conjunction	1	and
 ISA 13:4	1	13	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 ISA 13:4	1	14	συνηγμένων	συνάγω	perfect passive participle, genitive neuter plural	1	gathered together
 ISA 13:5	1	1	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-ISA 13:5	1	2	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	Sabaoth
+ISA 13:5	1	2	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	of hosts
 ISA 13:5	1	2	Σαβαὼθ			2	hosts
 ISA 13:5	1	3	ἐντέταλται	ἐντέλλομαι	perfect middle indicative, third singular	1	has commanded
-ISA 13:5	1	4	ἔθνει	ἔθνος	noun, dative neut. sg	1	to a (foreign) people
+ISA 13:5	1	4	ἔθνει	ἔθνος	noun, dative neut. sg	1	to a nation
 ISA 13:5	1	5	ὁπλομάχῳ	ὁπλομάχος	adjective, dative neuter singular	1	armed for battle
 ISA 13:5	1	5	ὁπλομάχῳ			2	fighting in armor
 ISA 13:5	1	6	ἔρχεσθαι	ἔρχομαι	present middle infinitive	1	to come
@@ -82,7 +82,7 @@ ISA 13:5	1	9	πόρρωθεν	πόρρωθεν	adverb	1	from far away
 ISA 13:5	1	10	ἀπ᾽	ἀπό	preposition with the genitive, elided	1	from
 ISA 13:5	1	11	ἄκρου	ἄκρος	adjective, genitive neuter singular; substantival	1	summit
 ISA 13:5	1	11	ἄκρου			2	top
-ISA 13:5	1	12	θεμελίου	θεμέλιον	noun, genitive neuter singular	1	foundation
+ISA 13:5	1	12	θεμελίου	θεμέλιον	noun, genitive neuter singular	1	of the foundation
 ISA 13:5	1	13	τοῦ	ὁ	article, genitive masculine singular	1	of the
 ISA 13:5	1	14	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
 ISA 13:5	1	15	κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -115,8 +115,8 @@ ISA 13:7	1	4	χεῖρες	χείρ	noun, nominative feminine plural	1	hands
 ISA 13:7	1	5	ἐκλυθήσονται	ἐκλύω	future passive indicative, third plural	1	will go limp
 ISA 13:7	1	5	ἐκλυθήσονται			2	will fail
 ISA 13:7	1	6	καὶ	καί	conjunction	1	and
-ISA 13:7	1	7	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
-ISA 13:7	1	8	ψυχὴ	ψυχή	noun, nominative feminine singular	1	person
+ISA 13:7	1	7	πᾶσα	πᾶς	adjective, nominative feminine singular	1	every
+ISA 13:7	1	8	ψυχὴ	ψυχή	noun, nominative feminine singular	1	soul
 ISA 13:7	1	9	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of man
 ISA 13:7	1	10	δειλιάσει	δειλιάω	future active indicative, third singular	1	will be afraid
 ISA 13:7	1	10	δειλιάσει			2	will lose courage
@@ -130,7 +130,7 @@ ISA 13:8	1	7	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	t
 ISA 13:8	1	8	ἕξουσιν	ἔχω	future active indicative, third plural	1	will seize
 ISA 13:8	1	8	ἕξουσιν			2	will grip
 ISA 13:8	1	9	ὡς	ὡς	comparative particle	1	as
-ISA 13:8	1	10	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
+ISA 13:8	1	10	γυναικὸς	γυνή	noun, genitive feminine singular	1	of a woman
 ISA 13:8	1	11	τικτούσης	τίκτω	present active participle, genitive feminine singular	1	giving birth
 ISA 13:8	1	11	τικτούσης			2	in labor
 ISA 13:8	1	12	καὶ	καί	conjunction	1	and
@@ -139,7 +139,7 @@ ISA 13:8	1	13	συμφοράσουσιν			2	they will share distress
 ISA 13:8	1	14	ἕτερος	ἕτερος	adjective/pronoun, nominative masc. sg., the one	1	one
 ISA 13:8	1	15	πρὸς	πρός	preposition with the accusative	1	to
 ISA 13:8	1	16	τὸν	ὁ	article, accusative masculine singular	1	the
-ISA 13:8	1	17	ἕτερον	ἕτερος	adjective, accusative masculine singular; substantival	1	the other
+ISA 13:8	1	17	ἕτερον	ἕτερος	adjective, accusative masculine singular; substantival	1	other
 ISA 13:8	1	17	ἕτερον			2	another
 ISA 13:8	1	18	καὶ	καί	conjunction	1	and
 ISA 13:8	1	19	ἐκστήσονται	ἐξίστημι	future middle indicative, third plural	1	they will be startled
@@ -200,7 +200,7 @@ ISA 13:10	1	19	δώσουσι	δίδωμι	future active indicative, third plura
 ISA 13:10	1	20	καὶ	καί	conjunction	1	and
 ISA 13:10	1	21	σκοτισθήσεται	σκοτίζω	future passive indicative, third singular	1	will be darkened
 ISA 13:10	1	22	τοῦ	ὁ	article, genitive masculine singular	1	the
-ISA 13:10	1	23	ἡλίου	ἥλιος	noun, genitive masc. sg	1	of the sun
+ISA 13:10	1	23	ἡλίου	ἥλιος	noun, genitive masc. sg	1	sun
 ISA 13:10	1	24	ἀνατέλλοντος	ἀνατέλλω	present active participle, genitive masculine singular	1	rising
 ISA 13:10	1	25	καὶ	καί	conjunction	1	and
 ISA 13:10	1	26	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -213,14 +213,14 @@ ISA 13:10	1	32	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	he
 ISA 13:11	1	1	Καὶ	καί	conjunction	1	and
 ISA 13:11	1	2	ἐντελοῦμαι	ἐντέλλομαι	future middle indicative, first singular	1	I will decree
 ISA 13:11	1	2	ἐντελοῦμαι			2	I will ordain
-ISA 13:11	1	3	τῇ	ὁ	article, dative feminine singular	1	the
+ISA 13:11	1	3	τῇ	ὁ	article, dative feminine singular	1	for the
 ISA 13:11	1	4	οἰκουμένῃ	οἰκουμένη	noun, dative feminine singular	1	inhabited world
 ISA 13:11	1	5	ὅλῃ	ὅλος	adjective dative feminine singular modifying οἰκουμένῃ	1	whole
 ISA 13:11	1	6	κακὰ	κακός	adjective, accusative neuter plural; substantival	1	evils
 ISA 13:11	1	6	κακὰ			2	calamities
 ISA 13:11	1	7	καὶ	καί	conjunction	1	and
-ISA 13:11	1	8	τοῖς	ὁ	article dative masculine plural	1	the
-ISA 13:11	1	9	ἀσεβέσι	ἀσεβής	adjective, dative masculine plural; substantival	1	the impious
+ISA 13:11	1	8	τοῖς	ὁ	article dative masculine plural	1	for the
+ISA 13:11	1	9	ἀσεβέσι	ἀσεβής	adjective, dative masculine plural; substantival	1	impious
 ISA 13:11	1	9	ἀσεβέσι			2	ungodly people
 ISA 13:11	1	10	τὰς	ὁ	article, accusative feminine plural	1	the
 ISA 13:11	1	11	ἁμαρτίας	ἁμαρτία	noun, accusative feminine plural	1	sins
@@ -229,7 +229,7 @@ ISA 13:11	1	13	καὶ	καί	conjunction	1	and
 ISA 13:11	1	14	ἀπολῶ	ἀπόλλυμι	future active indicative, first singular	1	I will destroy
 ISA 13:11	1	15	ὕβριν	ὕβρις	noun, accusative feminine singular	1	arrogance
 ISA 13:11	1	15	ὕβριν			2	outrage
-ISA 13:11	1	16	ἀνόμων	ἄνομος	adjective, genitive masculine plural; substantival	1	lawless people
+ISA 13:11	1	16	ἀνόμων	ἄνομος	adjective, genitive masculine plural; substantival	1	of the lawless
 ISA 13:11	1	17	καὶ	καί	conjunction	1	and
 ISA 13:11	1	18	ὕβριν	ὕβρις	noun, accusative feminine singular	1	arrogance
 ISA 13:11	1	18	ὕβριν			2	outrage
@@ -239,7 +239,7 @@ ISA 13:11	1	20	ταπεινώσω			2	I will humble
 ISA 13:12	1	1	Καὶ	καί	conjunction	1	and
 ISA 13:12	1	2	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
 ISA 13:12	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 13:12	1	4	καταλελειμμένοι	καταλείπω	perfect passive participle, nominative masculine plural; substantival	1	those left behind
+ISA 13:12	1	4	καταλελειμμένοι	καταλείπω	perfect passive participle, nominative masculine plural; substantival	1	left behind
 ISA 13:12	1	4	καταλελειμμένοι			2	survivors
 ISA 13:12	1	5	ἔντιμοι	ἔντιμος	adjective, nominative masculine plural	1	precious
 ISA 13:12	1	5	ἔντιμοι			2	valuable
@@ -256,8 +256,8 @@ ISA 13:12	1	14	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine si
 ISA 13:12	1	15	μᾶλλον	μᾶλλον	adverb; comparative	1	more
 ISA 13:12	1	16	ἔντιμος	ἔντιμος	adjective, nominative masculine singular	1	precious
 ISA 13:12	1	16	ἔντιμος			2	valuable
-ISA 13:12	1	17	ἔσται	εἰμί	future indicative, third singular	1	it shall be
-ISA 13:12	1	18	ἢ	ἤ	conjunction	1	or
+ISA 13:12	1	17	ἔσται	εἰμί	future indicative, third singular	1	will be
+ISA 13:12	1	18	ἢ	ἤ	conjunction	1	than
 ISA 13:12	1	19	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 13:12	1	20	λίθος	λίθος	noun, nominative masculine singular	1	stone
 ISA 13:12	1	21	ὁ	ὁ	article, nominative masculine singular, marks the following adjective	1	—
@@ -278,13 +278,13 @@ ISA 13:13	1	9	ἐκ	ἐκ	preposition with the genitive	1	from
 ISA 13:13	1	10	τῶν	ὁ	article, genitive neuter plural	1	the
 ISA 13:13	1	11	θεμελίων	θεμέλιον	noun, genitive neuter plural	1	foundations
 ISA 13:13	1	12	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
-ISA 13:13	1	13	διὰ	διά	preposition with genitive	1	through
-ISA 13:13	1	14	θυμὸν	θυμός	noun, accusative masculine singular	1	anger
+ISA 13:13	1	13	διὰ	διά	preposition with genitive	1	because of
+ISA 13:13	1	14	θυμὸν	θυμός	noun, accusative masculine singular	1	wrath
 ISA 13:13	1	14	θυμὸν			2	rage
-ISA 13:13	1	15	ὀργῆς	ὀργή	noun, genitive feminine singular	1	anger
+ISA 13:13	1	15	ὀργῆς	ὀργή	noun, genitive feminine singular	1	of anger
 ISA 13:13	1	15	ὀργῆς			2	wrath
 ISA 13:13	1	16	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-ISA 13:13	1	17	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	Sabaoth
+ISA 13:13	1	17	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	of hosts
 ISA 13:13	1	17	Σαβαὼθ			2	hosts
 ISA 13:13	1	18	ἐν	ἐν	preposition with the dative	1	in
 ISA 13:13	1	19	τῇ	ὁ	article, dative feminine singular	1	the
@@ -299,7 +299,7 @@ ISA 13:13	1	26	αὐτοῦ	αὐτός	pronoun genitive masculine singular	1	hi
 ISA 13:14	1	1	Καὶ	καί	conjunction	1	and
 ISA 13:14	1	2	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
 ISA 13:14	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 13:14	1	4	καταλελειμμένοι	καταλείπω	perfect passive participle, nominative masculine plural; substantival	1	those left behind
+ISA 13:14	1	4	καταλελειμμένοι	καταλείπω	perfect passive participle, nominative masculine plural; substantival	1	left behind
 ISA 13:14	1	4	καταλελειμμένοι			2	survivors
 ISA 13:14	1	5	ὡς	ὡς	comparative conjunction	1	like
 ISA 13:14	1	5	ὡς			2	as
@@ -372,10 +372,10 @@ ISA 13:16	1	17	ἕξουσιν			2	they will take
 ISA 13:17	1	1	Ἰδοὺ	ἰδού	presentative particle	1	behold
 ISA 13:17	1	1	Ἰδοὺ			2	look
 ISA 13:17	1	2	ἐπεγείρω	ἐπεγείρω	present active indicative, first singular; prospective	1	I am raising up
-ISA 13:17	1	3	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	with you
+ISA 13:17	1	3	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	against you
 ISA 13:17	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
 ISA 13:17	1	5	Μήδους	Μῆδος	noun, accusative masculine plural	1	Medes
-ISA 13:17	1	6	οἱ	ὁ	article, nominative masculine plural	1	the
+ISA 13:17	1	6	οἱ	ὁ	article, nominative masculine plural	1	who
 ISA 13:17	1	7	οὐ	οὐ	negative particle	1	not
 ISA 13:17	1	8	λογίζονται	λογίζομαι	present middle indicative, third plural	1	they care for
 ISA 13:17	1	8	λογίζονται			2	they value
@@ -387,7 +387,7 @@ ISA 13:17	1	12	χρείαν			2	use
 ISA 13:17	1	13	ἔχουσι	ἔχω	present active indicative, third plural	1	they have
 ISA 13:18	1	1	Τοξεύματα	τόξευμα	noun, accusative neuter plural	1	arrows
 ISA 13:18	1	1	Τοξεύματα			2	projectiles
-ISA 13:18	1	2	νεανίσκων	νεανίσκος	noun, genitive masculine plural	1	young men
+ISA 13:18	1	2	νεανίσκων	νεανίσκος	noun, genitive masculine plural	1	of young men
 ISA 13:18	1	3	συντρίψουσι	συντρίβω	future active indicative, third plural	1	they will crush
 ISA 13:18	1	3	συντρίψουσι			2	they will shatter
 ISA 13:18	1	4	καὶ	καί	conjunction	1	and
@@ -400,7 +400,7 @@ ISA 13:18	1	10	ἐλεήσουσιν	ἐλεέω	future active indicative, third
 ISA 13:18	1	10	ἐλεήσουσιν			2	they will pity
 ISA 13:18	1	11	οὐδὲ	οὐδέ	conjunction/negative	1	nor
 ISA 13:18	1	12	ἐπὶ	ἐπί	preposition (case from context)	1	on
-ISA 13:18	1	13	τοῖς	ὁ	article, dative neuter plural	1	to the
+ISA 13:18	1	13	τοῖς	ὁ	article, dative neuter plural	1	the
 ISA 13:18	1	13	τοῖς			2	for the
 ISA 13:18	1	14	τέκνοις	τέκνον	noun, dative neuter plural	1	children
 ISA 13:18	1	15	σου	σύ	personal pronoun, possessive genitive singular	1	your
@@ -417,7 +417,7 @@ ISA 13:19	1	5	καλεῖται			2	is named
 ISA 13:19	1	6	ἔνδοξος	ἔνδοξος	adjective, nominative masculine singular	1	honored
 ISA 13:19	1	7	ὑπὸ	ὑπό	preposition governing the genitive	1	by
 ISA 13:19	1	8	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
-ISA 13:19	1	9	Χαλδαίων	Χαλδαῖος	substantival adjective, genitive masculine plural	1	Chaldeans
+ISA 13:19	1	9	Χαλδαίων	Χαλδαῖος	substantival adjective, genitive masculine plural	1	of the Chaldeans
 ISA 13:19	1	10	ὃν	ὅς	relative pronoun, accusative masculine singular	1	in which
 ISA 13:19	1	11	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
 ISA 13:19	1	11	τρόπον			2	way
@@ -439,7 +439,7 @@ ISA 13:20	1	8	μὴ	μή	negative particle completing οὐ μή	1	not
 ISA 13:20	1	9	εἰσέλθωσιν	εἰσέρχομαι	aorist active subjunctive, third plural	1	they enter
 ISA 13:20	1	10	εἰς	εἰς	preposition with the accusative	1	into
 ISA 13:20	1	11	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
-ISA 13:20	1	12	διὰ	διά	preposition governing the genitive	1	by
+ISA 13:20	1	12	διὰ	διά	preposition governing the genitive	1	through
 ISA 13:20	1	13	πολλῶν	πολύς	adjective, genitive neuter plural	1	many
 ISA 13:20	1	14	γενεῶν	γενεά	noun, genitive feminine plural	1	generations
 ISA 13:20	1	14	γενεῶν			2	family lines
@@ -456,7 +456,7 @@ ISA 13:20	1	23	μὴ	μή	particle	1	at all
 ISA 13:20	1	24	ἀναπαύσονται	ἀναπαύω	future middle indicative, third plural	1	they will rest
 ISA 13:20	1	24	ἀναπαύσονται			2	they will settle
 ISA 13:20	1	25	ἐν	ἐν	preposition with the dative	1	in
-ISA 13:20	1	26	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	that same
+ISA 13:20	1	26	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 ISA 13:21	1	1	Καὶ	καί	conjunction	1	and
 ISA 13:21	1	2	ἀναπαύσονται	ἀναπαύω	future middle indicative, third plural	1	they will rest
 ISA 13:21	1	2	ἀναπαύσονται			2	they will settle
@@ -465,7 +465,7 @@ ISA 13:21	1	4	θηρία	θηρίον	noun, nominative neuter plural	1	wild anim
 ISA 13:21	1	5	καὶ	καί	conjunction	1	and
 ISA 13:21	1	6	πλησθήσονται	πίμπλημι	future passive indicative, third plural with genitive	1	will be filled
 ISA 13:21	1	7	οἰκίαι	οἰκία	noun, nominative feminine plural	1	houses
-ISA 13:21	1	8	ἤχου	ἦχος	noun, genitive masculine singular	1	noise
+ISA 13:21	1	8	ἤχου	ἦχος	noun, genitive masculine singular	1	of noise
 ISA 13:21	1	8	ἤχου			2	sound
 ISA 13:21	1	9	καὶ	καί	conjunction	1	and
 ISA 13:21	1	10	ἀναπαύσονται	ἀναπαύω	future middle indicative, third plural	1	they will rest
@@ -489,10 +489,10 @@ ISA 13:22	1	7	ἐχῖνοι	ἐχῖνος	noun, nominative masculine plural	1	
 ISA 13:22	1	8	ἐν	ἐν	preposition with the dative	1	in
 ISA 13:22	1	9	τοῖς	ὁ	article, dative masculine plural	1	the
 ISA 13:22	1	10	οἴκοις	οἶκος	noun, dative masculine plural	1	houses
-ISA 13:22	1	11	σπατάλης	σπατάλη	noun, genitive feminine singular	1	luxury
+ISA 13:22	1	11	σπατάλης	σπατάλη	noun, genitive feminine singular	1	of luxury
 ISA 13:22	1	11	σπατάλης			2	extravagance
 ISA 13:22	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-ISA 13:22	1	13	Ταχὺ	ταχύ	adverb of manner	1	so quickly
+ISA 13:22	1	13	Ταχὺ	ταχύ	adverb of manner	1	quickly
 ISA 13:22	1	14	ἔρχεται	ἔρχομαι	present middle indicative, third singular	1	he comes
 ISA 13:22	1	15	καὶ	καί	conjunction	1	and
 ISA 13:22	1	16	οὐ	οὐ	negative particle	1	not

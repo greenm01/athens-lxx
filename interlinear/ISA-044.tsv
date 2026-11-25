@@ -14,12 +14,12 @@ ISA 44:2	1	2	λέγει	λέγω	present active indicative, third singular	1	say
 ISA 44:2	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 ISA 44:2	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 44:2	1	5	Θεὸς	θεός	noun, nominative masculine singular	1	God
-ISA 44:2	1	6	ὁ	ὁ	article, nominative masculine singular; attributive position	1	the
+ISA 44:2	1	6	ὁ	ὁ	article, nominative masculine singular; attributive position	1	the one
 ISA 44:2	1	7	ποιήσας	ποιέω	aorist active participle, nominative masculine singular	1	who made
 ISA 44:2	1	8	σε	σύ	personal pronoun, accusative singular	1	you
 ISA 44:2	1	9	καὶ	καί	conjunction	1	and
-ISA 44:2	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
-ISA 44:2	1	11	πλάσας	πλάσσω	aorist active participle, nominative masculine singular; substantival	1	the one who formed
+ISA 44:2	1	10	ὁ	ὁ	article, nominative masculine singular	1	the one
+ISA 44:2	1	11	πλάσας	πλάσσω	aorist active participle, nominative masculine singular; substantival	1	who formed
 ISA 44:2	1	11	πλάσας			2	the maker
 ISA 44:2	1	12	ἐκ	ἐκ	preposition with the genitive	1	from
 ISA 44:2	1	13	κοιλίας	κοιλία	noun, genitive feminine singular	1	womb
@@ -37,13 +37,13 @@ ISA 44:2	1	23	ἠγαπημένος	ἀγαπάω	perfect passive participle nom
 ISA 44:2	1	24	Ἰσραὴλ	Ἰσραήλ	indeclinable proper name, direct address	1	Israel
 ISA 44:2	1	25	ὃν	ὅς	relative pronoun, accusative masculine singular	1	whom
 ISA 44:2	1	26	ἐξελεξάμην	ἐκλέγω	aorist middle indicative, first singular	1	I chose
-ISA 44:3	1	1	Ὅτι	ὅτι	conjunction introducing direct speech	1	that
+ISA 44:3	1	1	Ὅτι	ὅτι	conjunction introducing direct speech	1	for
 ISA 44:3	1	2	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
-ISA 44:3	1	3	δώσω	δίδωμι	future active indicative, first singular	1	I will give
+ISA 44:3	1	3	δώσω	δίδωμι	future active indicative, first singular	1	will give
 ISA 44:3	1	4	ὕδωρ	ὕδωρ	noun, accusative neuter singular	1	water
 ISA 44:3	1	5	ἐν	ἐν	preposition with the dative	1	in
 ISA 44:3	1	6	δίψει	δίψα	noun, dative feminine singular	1	thirst
-ISA 44:3	1	7	τοῖς	ὁ	article, dative masculine plural	1	who
+ISA 44:3	1	7	τοῖς	ὁ	article, dative masculine plural	1	to those
 ISA 44:3	1	8	πορευομένοις	πορεύομαι	present middle participle, dative masculine plural	1	going
 ISA 44:3	1	8	πορευομένοις			2	traveling
 ISA 44:3	1	9	ἐν	ἐν	preposition with the dative	1	in
@@ -92,11 +92,11 @@ ISA 44:5	1	8	βοήσεται	βοάω	future middle indicative, third singular	
 ISA 44:5	1	9	ἐπὶ	ἐπί	preposition (case from context)	1	on
 ISA 44:5	1	10	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 ISA 44:5	1	11	ὀνόματι	ὄνομα	noun, dative neuter singular	1	name
-ISA 44:5	1	12	Ἰακὼβ	Ἰακὼβ	indeclinable personal name, nominative in context	1	Jacob
+ISA 44:5	1	12	Ἰακὼβ	Ἰακὼβ	indeclinable personal name, nominative in context	1	of Jacob
 ISA 44:5	1	13	καὶ	καί	conjunction	1	and
-ISA 44:5	1	14	ἕτερος	ἕτερος	adjective, nominative masculine singular; reciprocal construction	1	one
+ISA 44:5	1	14	ἕτερος	ἕτερος	adjective, nominative masculine singular; reciprocal construction	1	another
 ISA 44:5	1	15	ἐπιγράψει	ἐπιγράφω	future active indicative, third singular	1	will write on
-ISA 44:5	1	16	χειρὶ	χείρ	noun, dative feminine singular	1	on his hand
+ISA 44:5	1	16	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 ISA 44:5	1	16	χειρὶ			2	with his hand
 ISA 44:5	1	17	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 ISA 44:5	1	18	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -114,10 +114,10 @@ ISA 44:6	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 44:6	1	4	Θεὸς	θεός	noun, nominative masculine singular	1	God
 ISA 44:6	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 44:6	1	6	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
-ISA 44:6	1	7	τοῦ	ὁ	article, genitive singular	1	the
+ISA 44:6	1	7	τοῦ	ὁ	article, genitive singular	1	—
 ISA 44:6	1	8	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 ISA 44:6	1	9	καὶ	καί	conjunction	1	and
-ISA 44:6	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
+ISA 44:6	1	10	ὁ	ὁ	article, nominative masculine singular	1	the one
 ISA 44:6	1	11	ῥυσάμενος	ῥύομαι	aorist middle participle, nominative masculine singular	1	who rescued
 ISA 44:6	1	12	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 ISA 44:6	1	13	Θεὸς	θεός	noun, nominative masculine singular	1	God
@@ -145,8 +145,8 @@ ISA 44:7	1	7	ἀναγγειλάτω	ἀναγγέλλω	aorist active imperativ
 ISA 44:7	1	8	καὶ	καί	conjunction	1	and
 ISA 44:7	1	9	ἑτοιμασάτω	ἑτοιμάζω	aorist active imperative, third singular	1	let him prepare
 ISA 44:7	1	10	μοι	ἐγώ	pronoun, dative 1st singular	1	to me
-ISA 44:7	1	11	ἀφ᾽	ἀπό	preposition with the genitive, elided	1	from
-ISA 44:7	1	12	οὗ	οὗ	relative adverb	1	where
+ISA 44:7	1	11	ἀφ᾽	ἀπό	preposition with the genitive, elided	1	since
+ISA 44:7	1	12	οὗ	οὗ	relative adverb	1	—
 ISA 44:7	1	13	ἐποίησα	ποιέω	aorist active indicative, first singular	1	I made
 ISA 44:7	1	14	ἄνθρωπον	ἄνθρωπος	noun, accusative masculine singular	1	man
 ISA 44:7	1	14	ἄνθρωπον			2	human being
@@ -158,7 +158,7 @@ ISA 44:7	1	19	τὰ	ὁ	article, accusative neuter plural	1	the
 ISA 44:7	1	20	ἐπερχόμενα	ἐπέρχομαι	present middle participle, accusative neuter plural; substantival	1	things to come
 ISA 44:7	1	21	πρὸ	πρό	preposition with τοῦ + infinitive	1	before
 ISA 44:7	1	22	τοῦ	ὁ	article, genitive neuter singular	1	the
-ISA 44:7	1	23	ἐλθεῖν	ἔρχομαι	aorist active infinitive	1	to come
+ISA 44:7	1	23	ἐλθεῖν	ἔρχομαι	aorist active infinitive	1	coming
 ISA 44:7	1	24	ἀναγγειλάτωσαν	ἀναγγέλλω	aorist active imperative, 3rd plural	1	let them report
 ISA 44:7	1	25	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 ISA 44:8	1	1	Μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
@@ -219,7 +219,7 @@ ISA 44:10	1	5	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 ISA 44:10	1	6	αἰσχυνθήσονται	αἰσχύνω	future passive indicative, third plural	1	will be ashamed
 ISA 44:10	1	6	αἰσχυνθήσονται			2	will be put to shame
 ISA 44:10	1	7	πάντες	πᾶς	adjective, nominative masculine plural	1	all
-ISA 44:10	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
+ISA 44:10	1	8	οἱ	ὁ	article, nominative masculine plural	1	the ones
 ISA 44:10	1	9	πλάσσοντες	πλάσσω	present active participle, nominative masculine plural	1	who shape
 ISA 44:10	1	10	θεὸν	θεός	noun, accusative masculine singular	1	god
 ISA 44:10	1	11	καὶ	καί	conjunction	1	and
@@ -229,7 +229,7 @@ ISA 44:11	1	1	καὶ	καί	conjunction	1	and
 ISA 44:11	1	2	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 ISA 44:11	1	3	ὅθεν	ὅθεν	relative adverb	1	from where
 ISA 44:11	1	3	ὅθεν			2	from the place where
-ISA 44:11	1	4	ἐγένοντο	γίνομαι	aorist middle indicative, third plural	1	were
+ISA 44:11	1	4	ἐγένοντο	γίνομαι	aorist middle indicative, third plural	1	they came
 ISA 44:11	1	5	ἐξηράνθησαν	ξηραίνω	aorist passive indicative, third plural	1	dried up
 ISA 44:11	1	5	ἐξηράνθησαν			2	withered
 ISA 44:11	1	6	καὶ	καί	conjunction	1	and
@@ -251,13 +251,13 @@ ISA 44:12	1	1	ὅτι	ὅτι	causal conjunction	1	because
 ISA 44:12	1	2	ὤξυνε	ὀξύνω	aorist active indicative, third singular	1	sharpened
 ISA 44:12	1	3	τέκτων	τέκτων	noun, nominative masculine singular	1	a craftsman
 ISA 44:12	1	4	σίδηρον	σίδηρος	noun, accusative masculine singular	1	iron
-ISA 44:12	1	5	σκεπάρνῳ	σκέπαρνον	noun, dative neuter singular	1	adze
+ISA 44:12	1	5	σκεπάρνῳ	σκέπαρνον	noun, dative neuter singular	1	with an adze
 ISA 44:12	1	6	εἰργάσατο	ἐργάζομαι	aorist middle indicative, third singular	1	worked
 ISA 44:12	1	7	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
 ISA 44:12	1	8	ἐν	ἐν	preposition with the dative	1	in
 ISA 44:12	1	9	ἄνθραξι	ἄνθραξ	noun, dative masculine plural	1	coals
 ISA 44:12	1	10	καὶ	καί	conjunction	1	and
-ISA 44:12	1	11	ἐν	ἐν	preposition with the dative	1	in
+ISA 44:12	1	11	ἐν	ἐν	preposition with the dative	1	with
 ISA 44:12	1	12	τερέτρῳ	τέρετρον	noun, dative neuter singular	1	borer
 ISA 44:12	1	12	τερέτρῳ			2	drill
 ISA 44:12	1	13	ἔστησεν	ἵστημι	aorist active indicative, third singular	1	set up
@@ -266,7 +266,7 @@ ISA 44:12	1	14	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
 ISA 44:12	1	15	καὶ	καί	conjunction	1	and
 ISA 44:12	1	16	εἰργάσατο	ἐργάζομαι	aorist middle indicative, third singular	1	worked
 ISA 44:12	1	17	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
-ISA 44:12	1	18	ἐν	ἐν	preposition with the dative	1	in
+ISA 44:12	1	18	ἐν	ἐν	preposition with the dative	1	with
 ISA 44:12	1	19	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 ISA 44:12	1	20	βραχίονι	βραχίων	noun, dative masculine singular	1	arm
 ISA 44:12	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -290,22 +290,22 @@ ISA 44:13	1	3	ξύλον	ξύλον	noun, accusative neuter singular	1	wood
 ISA 44:13	1	4	ἔστησεν	ἵστημι	aorist active indicative, third singular	1	set up
 ISA 44:13	1	4	ἔστησεν			2	placed
 ISA 44:13	1	5	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
-ISA 44:13	1	6	ἐν	ἐν	preposition with the dative	1	in
+ISA 44:13	1	6	ἐν	ἐν	preposition with the dative	1	with
 ISA 44:13	1	7	μέτρῳ	μέτρον	noun, dative neuter singular	1	measure
 ISA 44:13	1	8	καὶ	καί	conjunction	1	and
-ISA 44:13	1	9	ἐν	ἐν	preposition with the dative	1	in
+ISA 44:13	1	9	ἐν	ἐν	preposition with the dative	1	with
 ISA 44:13	1	10	κόλλῃ	κόλλα	noun, dative feminine singular	1	glue
 ISA 44:13	1	11	ἐῤῥύθμισεν	ῥυθμίζω	aorist active indicative, third singular	1	shaped
 ISA 44:13	1	12	αὐτό	αὐτός	pronoun, accusative neuter singular	1	it
 ISA 44:13	1	13	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	made
 ISA 44:13	1	14	αὐτὸ	αὐτός	pronoun, accusative neut. sg. 'it	1	it
-ISA 44:13	1	15	ἐν	ἐν	preposition with dative	1	among
+ISA 44:13	1	15	ἐν	ἐν	preposition with dative	1	with
 ISA 44:13	1	16	παραγωνίσκοις	παραγωνίσκος	noun, dative masculine plural	1	small squares
 ISA 44:13	1	16	παραγωνίσκοις			2	angle gauges
 ISA 44:13	1	17	καὶ	καί	conjunction	1	and
 ISA 44:13	1	18	ἐμόρφωσεν	μορφόω	aorist active indicative, third singular	1	formed
 ISA 44:13	1	19	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-ISA 44:13	1	20	ἐν	ἐν	preposition with the dative	1	in
+ISA 44:13	1	20	ἐν	ἐν	preposition with the dative	1	with
 ISA 44:13	1	21	παραγραφίδι	παραγραφίς	noun, dative feminine singular	1	marking tool
 ISA 44:13	1	21	παραγραφίδι			2	scriber
 ISA 44:13	1	22	καὶ	καί	conjunction	1	and
@@ -313,16 +313,16 @@ ISA 44:13	1	23	ἐποίησεν	ποιέω	aorist active indicative, third sing
 ISA 44:13	1	24	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
 ISA 44:13	1	25	ὡς	ὡς	comparative particle	1	as
 ISA 44:13	1	26	μορφὴν	μορφή	noun, accusative feminine singular	1	form
-ISA 44:13	1	27	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	man
+ISA 44:13	1	27	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	of a man
 ISA 44:13	1	27	ἀνδρὸς			2	husband
 ISA 44:13	1	28	καὶ	καί	conjunction	1	and
 ISA 44:13	1	29	ὡς	ὡς	comparative particle	1	as
 ISA 44:13	1	30	ὡραιότητα	ὡραιότης	noun, accusative feminine singular	1	beauty
-ISA 44:13	1	31	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
+ISA 44:13	1	31	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of man
 ISA 44:13	1	32	στῆσαι	ἵστημι	aorist active infinitive	1	to set
 ISA 44:13	1	32	στῆσαι			2	to stand
 ISA 44:13	1	33	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
-ISA 44:13	1	34	ἐν	ἐν	preposition with dative	1	among
+ISA 44:13	1	34	ἐν	ἐν	preposition with dative	1	in
 ISA 44:13	1	35	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
 ISA 44:14	1	1	Ὁ	ὅς	relative pronoun, nominative masculine singular	1	who
 ISA 44:14	1	2	ἔκοψεν	κόπτω	aorist active indicative, third singular	1	cut down
@@ -352,15 +352,15 @@ ISA 44:14	1	23	ἐμήκυνεν	μηκύνω	aorist active indicative, third si
 ISA 44:14	1	23	ἐμήκυνεν			2	lengthened
 ISA 44:15	1	1	ἵνα	ἵνα	conjunction	1	so that
 ISA 44:15	1	2	ᾖ	εἰμί	present active subjunctive, third singular	1	may be
-ISA 44:15	1	3	ἀνθρώποις	ἄνθρωπος	noun, dative masculine plural	1	men
-ISA 44:15	1	4	εἰς	εἰς	preposition with the accusative	1	into
+ISA 44:15	1	3	ἀνθρώποις	ἄνθρωπος	noun, dative masculine plural	1	for men
+ISA 44:15	1	4	εἰς	εἰς	preposition with the accusative	1	for
 ISA 44:15	1	5	καῦσιν	καῦσις	noun, accusative feminine singular	1	burning
 ISA 44:15	1	5	καῦσιν			2	fuel
 ISA 44:15	1	6	καὶ	καί	conjunction	1	and
 ISA 44:15	1	7	λαβὼν	λαμβάνω	aorist active participle, nominative masculine singular	1	taking
 ISA 44:15	1	7	λαβὼν			2	having taken
 ISA 44:15	1	8	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
-ISA 44:15	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
+ISA 44:15	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	it
 ISA 44:15	1	10	ἐθερμάνθη	θερμαίνω	aorist passive indicative, third singular	1	warmed himself
 ISA 44:15	1	10	ἐθερμάνθη			2	got warm
 ISA 44:15	1	11	καὶ	καί	conjunction	1	and
@@ -368,10 +368,10 @@ ISA 44:15	1	12	καύσαντες	καίω	aorist active participle, nominative 
 ISA 44:15	1	13	ἔπεψαν	πέσσω	aorist active indicative, 3rd pl., baked	1	baked
 ISA 44:15	1	14	ἄρτους	ἄρτος	noun, accusative masculine plural	1	loaves
 ISA 44:15	1	14	ἄρτους			2	bread
-ISA 44:15	1	15	ἐπ᾽	ἐπί	preposition with genitive, elided	1	at
-ISA 44:15	1	16	αὐτοῦ	αὐτός	personal pronoun, genitive masculine singular	1	him
+ISA 44:15	1	15	ἐπ᾽	ἐπί	preposition with genitive, elided	1	on
+ISA 44:15	1	16	αὐτοῦ	αὐτός	personal pronoun, genitive masculine singular	1	it
 ISA 44:15	1	17	τὸ	ὁ	article, nominative neuter singular	1	the
-ISA 44:15	1	18	δὲ	δέ	postpositive conjunction	1	and/but
+ISA 44:15	1	18	δὲ	δέ	postpositive conjunction	1	but
 ISA 44:15	1	19	λοιπὸν	λοιπός	adjective, accusative neuter singular; substantival	1	rest
 ISA 44:15	1	19	λοιπὸν			2	remainder
 ISA 44:15	1	20	εἰργάσατο	ἐργάζομαι	aorist middle indicative third singular	1	he made
@@ -391,10 +391,10 @@ ISA 44:15	1	31	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to 
 ISA 44:16	1	1	οὗ	ὅς	relative pronoun, genitive neuter singular	1	of which
 ISA 44:16	1	2	τὸ	ὁ	article, nominative neuter singular	1	the
 ISA 44:16	1	3	ἥμισυ	ἥμισυς	adjective, nominative neuter singular; substantival	1	half
-ISA 44:16	1	4	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+ISA 44:16	1	4	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	its
 ISA 44:16	1	5	κατέκαυσεν	κατακαίω	aorist active indicative, 3rd sg	1	burned (up)
 ISA 44:16	1	6	ἐν	ἐν	preposition with dative	1	in
-ISA 44:16	1	7	πυρὶ	πῦρ	noun, dative neut. sg. variant accent	1	in fire
+ISA 44:16	1	7	πυρὶ	πῦρ	noun, dative neut. sg. variant accent	1	fire
 ISA 44:16	1	8	καὶ	καί	conjunction	1	and
 ISA 44:16	1	9	ἐπὶ	ἐπί	preposition (case from context)	1	on
 ISA 44:16	1	10	τοῦ	ὁ	article, genitive singular	1	the
@@ -406,18 +406,18 @@ ISA 44:16	1	15	ἄρτους	ἄρτος	noun, accusative masculine plural	1	loa
 ISA 44:16	1	15	ἄρτους			2	bread
 ISA 44:16	1	16	ἐπ'	ἐπί	preposition with dative	1	on
 ISA 44:16	1	16	ἐπ'			2	in
-ISA 44:16	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+ISA 44:16	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 ISA 44:16	1	18	καὶ	καί	conjunction	1	and
-ISA 44:16	1	19	ἐπ᾽	ἐπί	preposition with genitive, elided	1	at
+ISA 44:16	1	19	ἐπ᾽	ἐπί	preposition with genitive, elided	1	on
 ISA 44:16	1	20	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	it
 ISA 44:16	1	21	κρέας	κρέας	noun, accusative neuter singular	1	meat
 ISA 44:16	1	22	ὀπτήσας	ὀπτάω	aorist active participle, nominative masculine singular	1	having roasted
-ISA 44:16	1	23	ὀπτὸν	ὀπτός	adjective, accusative neuter singular	1	roasted
+ISA 44:16	1	23	ὀπτὸν	ὀπτός	adjective, accusative neuter singular	1	a roast
 ISA 44:16	1	24	ἔφαγε	ἐσθίω	aorist active indicative, third singular	1	ate
 ISA 44:16	1	25	καὶ	καί	conjunction	1	and
 ISA 44:16	1	26	ἐνεπλήσθη	ἐμπίπλημι	aorist passive indicative, third singular	1	was filled
 ISA 44:16	1	26	ἐνεπλήσθη			2	ate her fill
-ISA 44:16	1	27	καὶ	καί	additive particle	1	also
+ISA 44:16	1	27	καὶ	καί	additive particle	1	and
 ISA 44:16	1	28	θερμανθεὶς	θερμαίνω	aorist passive participle, nominative masculine singular	1	having warmed himself
 ISA 44:16	1	29	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 ISA 44:16	1	30	ἡδύ	ἡδύς	adjective, nominative neuter singular	1	pleasant
@@ -429,7 +429,7 @@ ISA 44:16	1	34	καὶ	καί	conjunction	1	and
 ISA 44:16	1	35	ἴδον	ὁράω	aorist active indicative, first singular	1	I saw
 ISA 44:16	1	36	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
 ISA 44:17	1	1	Τὸ	ὁ	article, nominative neuter singular	1	the
-ISA 44:17	1	2	δὲ	δέ	postpositive conjunction	1	and/but
+ISA 44:17	1	2	δὲ	δέ	postpositive conjunction	1	but
 ISA 44:17	1	3	λοιπὸν	λοιπός	adjective, accusative neuter singular; substantival	1	rest
 ISA 44:17	1	3	λοιπὸν			2	remainder
 ISA 44:17	1	4	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	its
@@ -494,15 +494,15 @@ ISA 44:19	1	17	φρονήσει	φρόνησις	noun, dative feminine singular	
 ISA 44:19	1	18	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 ISA 44:19	1	19	τὸ	ὁ	article, nominative neuter singular	1	the
 ISA 44:19	1	20	ἥμισυ	ἥμισυς	adjective, nominative neuter singular; substantival	1	half
-ISA 44:19	1	21	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+ISA 44:19	1	21	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	of it
 ISA 44:19	1	22	κατέκαυσεν	κατακαίω	aorist active indicative, 3rd sg	1	burned (up)
 ISA 44:19	1	23	ἐν	ἐν	preposition with dative	1	in
-ISA 44:19	1	24	πυρὶ	πῦρ	noun, dative neut. sg. variant accent	1	in fire
+ISA 44:19	1	24	πυρὶ	πῦρ	noun, dative neut. sg. variant accent	1	fire
 ISA 44:19	1	25	καὶ	καί	conjunction	1	and
 ISA 44:19	1	26	ἔπεψεν	πέσσω	aorist active indicative, third singular	1	baked
-ISA 44:19	1	27	ἐπὶ	ἐπί	preposition	1	on/upon
+ISA 44:19	1	27	ἐπὶ	ἐπί	preposition	1	on
 ISA 44:19	1	28	τῶν	ὁ	article, genitive masculine plural	1	the
-ISA 44:19	1	29	ἀνθράκων	ἄνθραξ	noun, genitive masculine plural	1	of coals
+ISA 44:19	1	29	ἀνθράκων	ἄνθραξ	noun, genitive masculine plural	1	coals
 ISA 44:19	1	30	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 ISA 44:19	1	31	ἄρτους	ἄρτος	noun, accusative masculine plural	1	loaves
 ISA 44:19	1	31	ἄρτους			2	bread
@@ -514,14 +514,14 @@ ISA 44:19	1	36	καὶ	καί	conjunction	1	and
 ISA 44:19	1	37	τὸ	ὁ	article, accusative neuter singular	1	the
 ISA 44:19	1	38	λοιπὸν	λοιπός	adjective, accusative neuter singular; substantival	1	rest
 ISA 44:19	1	38	λοιπὸν			2	remainder
-ISA 44:19	1	39	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+ISA 44:19	1	39	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	of it
 ISA 44:19	1	40	εἰς	εἰς	preposition with the accusative	1	into
 ISA 44:19	1	41	βδέλυγμα	βδέλυγμα	noun, nominative neuter singular	1	an abomination
 ISA 44:19	1	42	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
 ISA 44:19	1	43	καὶ	καί	conjunction	1	and
 ISA 44:19	1	44	προσκυνοῦσιν	προσκυνέω	present active indicative, third plural	1	they bow down
 ISA 44:19	1	44	προσκυνοῦσιν			2	they worship
-ISA 44:19	1	45	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+ISA 44:19	1	45	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to it
 ISA 44:20	1	1	Γνῶθι	γινώσκω	aorist active imperative, second singular	1	know
 ISA 44:20	1	2	ὅτι	ὅτι	conjunction	1	that
 ISA 44:20	1	3	σποδὸς	σποδός	noun, genitive feminine singular	1	ashes
@@ -532,8 +532,8 @@ ISA 44:20	1	7	καὶ	καί	conjunction	1	and
 ISA 44:20	1	8	πλανῶνται	πλανάω	present passive indicative, 3rd pl., 'are wandering'	1	wander
 ISA 44:20	1	9	καὶ	καί	conjunction	1	and
 ISA 44:20	1	10	οὐδεὶς	οὐδείς	pronoun, nominative masculine singular	1	no one
-ISA 44:20	1	11	δύναται	δύναμαι	present middle indicative, third singular	1	could prevail
-ISA 44:20	1	11	δύναται			2	is able
+ISA 44:20	1	11	δύναται	δύναμαι	present middle indicative, third singular	1	is able
+ISA 44:20	1	11	δύναται			2	could prevail
 ISA 44:20	1	12	ἐξελέσθαι	ἐξαιρέω	aorist middle infinitive	1	to rescue
 ISA 44:20	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 44:20	1	14	ψυχὴν	ψυχή	noun, accusative feminine singular	1	life
@@ -658,13 +658,13 @@ ISA 44:24	1	21	καὶ	καί	conjunction	1	and
 ISA 44:24	1	22	ἐστερέωσα	στερεόω	aorist active indicative, first singular	1	I made firm
 ISA 44:24	1	22	ἐστερέωσα			2	I established
 ISA 44:24	1	23	τὴν	ὁ	article, accusative feminine singular	1	the
-ISA 44:24	1	24	γῆν	γῆ	noun, accusative feminine singular	1	land
+ISA 44:24	1	24	γῆν	γῆ	noun, accusative feminine singular	1	earth
 ISA 44:25	1	1	Τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
-ISA 44:25	1	2	ἕτερος	ἕτερος	adjective, nominative masculine singular; reciprocal construction	1	one
+ISA 44:25	1	2	ἕτερος	ἕτερος	adjective, nominative masculine singular; reciprocal construction	1	other
 ISA 44:25	1	3	διασκεδάσει	διασκεδάζω	future active indicative, third singular	1	will scatter
 ISA 44:25	1	3	διασκεδάσει			2	will frustrate
 ISA 44:25	1	4	σημεῖα	σημεῖον	noun, accusative neuter plural	1	signs
-ISA 44:25	1	5	ἐγγαστριμύθων	ἐγγαστρίμυθος	noun, genitive masculine plural	1	spirit mediums
+ISA 44:25	1	5	ἐγγαστριμύθων	ἐγγαστρίμυθος	noun, genitive masculine plural	1	of spirit mediums
 ISA 44:25	1	5	ἐγγαστριμύθων			2	ventriloquists
 ISA 44:25	1	6	καὶ	καί	conjunction	1	and
 ISA 44:25	1	7	μαντείας	μαντεία	noun, genitive feminine singular	1	divination
@@ -674,7 +674,7 @@ ISA 44:25	1	10	ἀποστρέφων	ἀποστρέφω	present active particip
 ISA 44:25	1	11	φρονίμους	φρόνιμος	adjective, accusative masculine plural	1	wise men
 ISA 44:25	1	12	εἰς	εἰς	preposition with accusative	1	to
 ISA 44:25	1	13	τὰ	ὁ	article, accusative neuter plural	1	the
-ISA 44:25	1	14	ὀπίσω	ὀπίσω	adverb; with article	1	what is behind
+ISA 44:25	1	14	ὀπίσω	ὀπίσω	adverb; with article	1	things behind
 ISA 44:25	1	15	καὶ	καί	conjunction	1	and
 ISA 44:25	1	16	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 44:25	1	17	βουλὴν	βουλή	noun, accusative feminine singular	1	counsel
@@ -684,7 +684,7 @@ ISA 44:25	1	19	μωραίνων	μωραίνω	present active participle, nomina
 ISA 44:26	1	1	καὶ	καί	conjunction	1	and
 ISA 44:26	1	2	ἱστῶν	ἵστημι	present active participle, nominative masculine singular	1	establishing
 ISA 44:26	1	3	ῥήματα	ῥῆμα	noun, accusative neuter plural	1	words
-ISA 44:26	1	4	παίδων	παῖς	noun, genitive masculine plural	1	servants
+ISA 44:26	1	4	παίδων	παῖς	noun, genitive masculine plural	1	of servants
 ISA 44:26	1	5	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 ISA 44:26	1	6	καὶ	καί	conjunction	1	and
 ISA 44:26	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -695,13 +695,13 @@ ISA 44:26	1	10	ἀγγέλων	ἄγγελος	noun, genitive masculine plural	1
 ISA 44:26	1	11	αὐτοῦ	αὐτός	pronoun genitive masculine singular	1	his
 ISA 44:26	1	12	ἀληθεύων	ἀληθεύω	present active participle, nominative masculine singular	1	making true
 ISA 44:26	1	12	ἀληθεύων			2	confirming
-ISA 44:26	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
+ISA 44:26	1	13	ὁ	ὁ	article, nominative masculine singular	1	the one
 ISA 44:26	1	14	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
-ISA 44:26	1	15	τῇ	ὁ	article, dative feminine singular	1	the
+ISA 44:26	1	15	τῇ	ὁ	article, dative feminine singular	1	to
 ISA 44:26	1	16	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 ISA 44:26	1	17	κατοικηθήσῃ	κατοικέω	future passive indicative, second singular	1	you will be inhabited
 ISA 44:26	1	18	καὶ	καί	conjunction	1	and
-ISA 44:26	1	19	ταῖς	ὁ	article, dative feminine plural	1	the
+ISA 44:26	1	19	ταῖς	ὁ	article, dative feminine plural	1	to the
 ISA 44:26	1	20	πόλεσι	πόλις	noun, dative feminine plural	1	cities
 ISA 44:26	1	21	τῆς	ὁ	article, genitive feminine singular	1	of
 ISA 44:26	1	22	Ἰουδαίας	Ἰουδαία	noun, genitive feminine singular; place name	1	Judea
@@ -713,9 +713,9 @@ ISA 44:26	1	26	ἔρημα	ἔρημος	adjective, accusative neuter plural; su
 ISA 44:26	1	27	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 ISA 44:26	1	28	ἀνατελεῖ	ἀνατέλλω	future active indicative, third singular	1	will bring up again
 ISA 44:26	1	28	ἀνατελεῖ			2	will make rise
-ISA 44:27	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
+ISA 44:27	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the one
 ISA 44:27	1	2	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
-ISA 44:27	1	3	τῇ	ὁ	article, dative feminine singular	1	the
+ISA 44:27	1	3	τῇ	ὁ	article, dative feminine singular	1	to the
 ISA 44:27	1	4	ἀβύσσῳ	ἄβυσσος	noun, dative feminine singular	1	deep
 ISA 44:27	1	4	ἀβύσσῳ			2	abyss
 ISA 44:27	1	5	ἐρημωθήσῃ	ἐρημόω	future passive indicative, second singular	1	you will be laid waste
@@ -725,9 +725,9 @@ ISA 44:27	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
 ISA 44:27	1	8	ποταμούς	ποταμός	noun, accusative masculine plural	1	rivers
 ISA 44:27	1	9	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 44:27	1	10	ξηρανῶ	ξηραίνω	future active indicative, first singular	1	I will dry up
-ISA 44:28	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
+ISA 44:28	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the one
 ISA 44:28	1	2	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
-ISA 44:28	1	3	Κύρῳ	Κῦρος	noun, dative masculine singular	1	Cyrus
+ISA 44:28	1	3	Κύρῳ	Κῦρος	noun, dative masculine singular	1	to Cyrus
 ISA 44:28	1	4	φρονεῖν	φρονέω	present active infinitive	1	to think
 ISA 44:28	1	4	φρονεῖν			2	to discern
 ISA 44:28	1	5	καὶ	καί	conjunction	1	and
@@ -739,8 +739,8 @@ ISA 44:28	1	9	μου	ἐγώ	personal pronoun, genitive first singular	1	my
 ISA 44:28	1	10	ποιήσει	ποιέω	future active indicative, third singular	1	will do
 ISA 44:28	1	10	ποιήσει			2	will carry out
 ISA 44:28	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
-ISA 44:28	1	12	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
-ISA 44:28	1	13	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
+ISA 44:28	1	12	λέγων	λέγω	present active participle, nominative masculine singular	1	one saying
+ISA 44:28	1	13	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	to Jerusalem
 ISA 44:28	1	14	οἰκοδομηθήσῃ	οἰκοδομέω	future passive indicative, second singular	1	you will be built
 ISA 44:28	1	15	καὶ	καί	conjunction	1	and
 ISA 44:28	1	16	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -749,5 +749,5 @@ ISA 44:28	1	17	οἶκον			2	household
 ISA 44:28	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 44:28	1	19	ἅγιόν	ἅγιος	adjective, accusative masculine singular	1	holy
 ISA 44:28	1	20	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-ISA 44:28	1	21	θεμελιώσω	θεμελιόω	future active indicative, first singular	1	I will lay your foundation
+ISA 44:28	1	21	θεμελιώσω	θεμελιόω	future active indicative, first singular	1	I will found
 ISA 44:28	1	21	θεμελιώσω			2	I will establish

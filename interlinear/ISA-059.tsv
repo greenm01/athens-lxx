@@ -1,5 +1,5 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
-ISA 59:1	1	1	ΜΗ	μή	negative particle	1	do not
+ISA 59:1	1	1	ΜΗ	μή	negative particle	1	[marks a question]
 ISA 59:1	1	2	οὐκ	οὐ	negative particle	1	not
 ISA 59:1	1	3	ἰσχύει	ἰσχύω	present active indicative, third singular	1	has the power
 ISA 59:1	1	3	ἰσχύει			2	is strong enough
@@ -16,7 +16,7 @@ ISA 59:1	1	11	τὸ	ὁ	article, nominative neuter singular	1	the
 ISA 59:1	1	12	οὖς	οὖς	noun, nominative neuter singular	1	ear
 ISA 59:1	1	13	αὐτοῦ	αὐτός	pronoun genitive masculine singular	1	his
 ISA 59:1	1	14	τοῦ	ὁ	article genitive neuter singular	1	the
-ISA 59:1	1	15	μὴ	μή	interrogative particle	1	surely not
+ISA 59:1	1	15	μὴ	μή	interrogative particle	1	not
 ISA 59:1	1	15	μὴ			2	is it
 ISA 59:1	1	16	εἰσακοῦσαι	εἰσακούω	aorist active infinitive	1	to listen to
 ISA 59:2	1	1	Ἀλλὰ	ἀλλά	adversative conjunction	1	but
@@ -35,13 +35,13 @@ ISA 59:2	1	12	καὶ	καί	conjunction	1	and
 ISA 59:2	1	13	διὰ	διά	preposition with accusative	1	because of
 ISA 59:2	1	14	τὰς	ὁ	article, accusative feminine plural	1	the
 ISA 59:2	1	15	ἁμαρτίας	ἁμαρτία	noun, accusative feminine plural	1	sins
-ISA 59:2	1	16	ὑμῶν	σύ	personal pronoun, genitive plural	1	you
+ISA 59:2	1	16	ὑμῶν	σύ	personal pronoun, genitive plural	1	your
 ISA 59:2	1	17	ἀπέστρεψε	ἀποστρέφω	aorist active indicative, third singular	1	turned away
 ISA 59:2	1	18	τὸ	ὁ	article, accusative neuter singular	1	the
 ISA 59:2	1	19	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
 ISA 59:2	1	20	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 ISA 59:2	1	21	ἀφ᾽	ἀπό	preposition with the genitive, elided	1	from
-ISA 59:2	1	22	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
+ISA 59:2	1	22	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	you
 ISA 59:2	1	23	τοῦ	ὁ	article, genitive singular	1	the
 ISA 59:2	1	24	μὴ	μή	negative particle	1	not
 ISA 59:2	1	25	ἐλεῆσαι	ἐλεέω	aorist active infinitive	1	to show mercy
@@ -97,16 +97,16 @@ ISA 59:4	1	17	καὶ	καί	conjunction	1	and
 ISA 59:4	1	18	τίκτουσιν	τίκτω	present active indicative, third plural	1	they give birth
 ISA 59:4	1	19	ἀνομίαν	ἀνομία	noun accusative feminine singular	1	lawlessness
 ISA 59:5	1	1	Ὠὰ	ᾠόν	noun, accusative neuter plural	1	eggs
-ISA 59:5	1	2	ἀσπίδων	ἀσπίς	noun, genitive feminine plural	1	asps
+ISA 59:5	1	2	ἀσπίδων	ἀσπίς	noun, genitive feminine plural	1	of asps
 ISA 59:5	1	2	ἀσπίδων			2	venomous snakes
 ISA 59:5	1	3	ἔρρηξαν	ῥήγνυμι	aorist active indicative, third plural	1	they broke open
 ISA 59:5	1	3	ἔρρηξαν			2	they hatched
 ISA 59:5	1	4	καὶ	καί	conjunction	1	and
 ISA 59:5	1	5	ἱστὸν	ἱστός	noun, accusative masculine singular	1	web
-ISA 59:5	1	6	ἀράχνης	ἀράχνη	noun, genitive feminine singular	1	spider
+ISA 59:5	1	6	ἀράχνης	ἀράχνη	noun, genitive feminine singular	1	of a spider
 ISA 59:5	1	7	ὑφαίνουσι	ὑφαίνω	present active indicative, third plural	1	they weave
 ISA 59:5	1	8	καὶ	καί	conjunction	1	and
-ISA 59:5	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
+ISA 59:5	1	9	ὁ	ὁ	article, nominative masculine singular	1	the one
 ISA 59:5	1	10	μέλλων	μέλλω	present active participle, nominative masculine singular	1	who is about
 ISA 59:5	1	11	τῶν	ὁ	article, genitive neuter plural	1	the
 ISA 59:5	1	12	ὠῶν	ᾠόν	noun, genitive neuter plural	1	eggs
@@ -140,12 +140,12 @@ ISA 59:6	1	15	τὰ	ὁ	article, neuter plural (case from context)	1	the
 ISA 59:6	1	16	γὰρ	γάρ	explanatory conjunction	1	for
 ISA 59:6	1	17	ἔργα	ἔργον	noun, accusative neuter plural	1	works
 ISA 59:6	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-ISA 59:6	1	19	ἔργα	ἔργον	noun, accusative neuter plural	1	work
-ISA 59:6	1	20	ἀνομίας	ἀνομία	noun, accusative feminine plural	1	lawlessnesses
+ISA 59:6	1	19	ἔργα	ἔργον	noun, accusative neuter plural	1	works
+ISA 59:6	1	20	ἀνομίας	ἀνομία	noun, accusative feminine plural	1	of lawlessness
 ISA 59:6	1	20	ἀνομίας			2	iniquities
 ISA 59:6	1	21	καὶ	καί	conjunction	1	and
 ISA 59:6	1	22	ἔργον	ἔργον	noun, nominative neuter singular	1	work
-ISA 59:6	1	23	ἀδικίας	ἀδικία	noun, genitive feminine singular	1	injustice
+ISA 59:6	1	23	ἀδικίας	ἀδικία	noun, genitive feminine singular	1	of injustice
 ISA 59:6	1	24	ἐν	ἐν	preposition with the dative	1	in
 ISA 59:6	1	25	χερσὶν	χείρ	noun, dative feminine plural	1	hands
 ISA 59:6	1	26	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -153,7 +153,7 @@ ISA 59:7	1	1	Οἱ	ὁ	article, nominative masculine plural	1	the
 ISA 59:7	1	2	δὲ	δέ	postpositive conjunction	1	now
 ISA 59:7	1	3	πόδες	πούς	noun, nominative masculine plural	1	feet
 ISA 59:7	1	4	αὐτῶν	αὐτός	pronoun, possessive genitive plural	1	their
-ISA 59:7	1	5	ἐπὶ	ἐπί	preposition (case/government from context)	1	on
+ISA 59:7	1	5	ἐπὶ	ἐπί	preposition (case/government from context)	1	to
 ISA 59:7	1	6	πονηρίαν	πονηρία	noun, accusative feminine singular	1	harm
 ISA 59:7	1	7	τρέχουσι	τρέχω	present active indicative, third plural	1	run
 ISA 59:7	1	8	ταχινοὶ	ταχινός	adjective, nominative masculine plural	1	swift
@@ -168,7 +168,7 @@ ISA 59:7	1	14	διαλογισμοὶ			2	reasonings
 ISA 59:7	1	15	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 ISA 59:7	1	16	διαλογισμοὶ	διαλογισμός	noun, nominative masculine plural	1	thoughts
 ISA 59:7	1	16	διαλογισμοὶ			2	reasonings
-ISA 59:7	1	17	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	1	the fools
+ISA 59:7	1	17	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	1	of fools
 ISA 59:7	1	18	σύντριμμα	σύντριμμα	noun, nominative neuter singular	1	ruin
 ISA 59:7	1	18	σύντριμμα			2	crushing
 ISA 59:7	1	19	καὶ	καί	conjunction	1	and
@@ -181,7 +181,7 @@ ISA 59:7	1	24	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 ISA 59:8	1	1	καὶ	καί	conjunction	1	and
 ISA 59:8	1	2	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 ISA 59:8	1	2	ὁδὸν			2	path
-ISA 59:8	1	3	εἰρήνης	εἰρήνη	noun, genitive feminine singular	1	peace
+ISA 59:8	1	3	εἰρήνης	εἰρήνη	noun, genitive feminine singular	1	of peace
 ISA 59:8	1	4	οὐκ	οὐ	negative particle	1	not
 ISA 59:8	1	5	ἔγνωσαν	γινώσκω	aorist active indicative, third plural	1	knew
 ISA 59:8	1	5	ἔγνωσαν			2	could distinguish
@@ -213,15 +213,15 @@ ISA 59:9	1	3	ἀπέστη			2	moved away
 ISA 59:9	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 59:9	1	5	κρίσις	κρίσις	noun, nominative feminine singular	1	justice
 ISA 59:9	1	6	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
-ISA 59:9	1	7	αὐτῶν	αὐτός	personal pronoun, genitive plural	1	they
-ISA 59:9	1	7	αὐτῶν			2	them
+ISA 59:9	1	7	αὐτῶν	αὐτός	personal pronoun, genitive plural	1	them
+ISA 59:9	1	7	αὐτῶν			2	they
 ISA 59:9	1	8	καὶ	καί	conjunction	1	and
 ISA 59:9	1	9	οὐ	οὐ	negative particle	1	not
 ISA 59:9	1	10	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
-ISA 59:9	1	11	καταλάβῃ	καταλαμβάνω	aorist active subjunctive, third singular	1	overtakes
+ISA 59:9	1	11	καταλάβῃ	καταλαμβάνω	aorist active subjunctive, third singular	1	will overtake
 ISA 59:9	1	12	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 ISA 59:9	1	13	δικαιοσύνη	δικαιοσύνη	noun, nominative feminine singular	1	righteousness
-ISA 59:9	1	14	ὑπομεινάντων	ὑπομένω	aorist active participle, genitive masculine plural	1	while they waited
+ISA 59:9	1	14	ὑπομεινάντων	ὑπομένω	aorist active participle, genitive masculine plural	1	having waited
 ISA 59:9	1	14	ὑπομεινάντων			2	they waited
 ISA 59:9	1	15	αὐτῶν	αὐτός	personal pronoun, genitive plural	1	they
 ISA 59:9	1	15	αὐτῶν			2	them
@@ -314,7 +314,7 @@ ISA 59:13	1	2	καὶ	καί	conjunction	1	and
 ISA 59:13	1	3	ἐψευσάμεθα	ψεύδομαι	aorist middle indicative, first plural	1	we lied
 ISA 59:13	1	3	ἐψευσάμεθα			2	we dealt falsely
 ISA 59:13	1	4	ἐν	ἐν	preposition with the dative	1	in
-ISA 59:13	1	5	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+ISA 59:13	1	5	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 ISA 59:13	1	6	καὶ	καί	conjunction	1	and
 ISA 59:13	1	7	ἀπέστημεν	ἀφίστημι	aorist active indicative, first plural	1	we turned away
 ISA 59:13	1	7	ἀπέστημεν			2	we withdrew
@@ -339,7 +339,7 @@ ISA 59:13	1	24	ἀδίκους	ἄδικος	adjective, accusative masculine plu
 ISA 59:14	1	1	καὶ	καί	conjunction	1	and
 ISA 59:14	1	2	ἀπεστήσαμεν	ἀφίστημι	aorist active indicative, first plural	1	we removed
 ISA 59:14	1	2	ἀπεστήσαμεν			2	we drove away
-ISA 59:14	1	3	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	after
+ISA 59:14	1	3	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	back
 ISA 59:14	1	3	ὀπίσω			2	behind
 ISA 59:14	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 59:14	1	5	κρίσιν	κρίσις	noun, accusative feminine singular	1	justice
@@ -363,7 +363,7 @@ ISA 59:14	1	19	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 59:14	1	20	ἀλήθεια	ἀλήθεια	noun, nominative feminine singular	1	truth
 ISA 59:14	1	20	ἀλήθεια			2	faithfulness
 ISA 59:14	1	21	καὶ	καί	conjunction	1	and
-ISA 59:14	1	22	δι᾽	διά	elided preposition with the accusative	1	because of
+ISA 59:14	1	22	δι᾽	διά	elided preposition with the accusative	1	through
 ISA 59:14	1	23	εὐθείας	εὐθύς	adjective, genitive feminine singular; substantival	1	a straight path
 ISA 59:14	1	24	οὐκ	οὐ	negative adverb with future indicative	1	not
 ISA 59:14	1	25	ἠδύναντο	δύναμαι	imperfect middle indicative, third plural	1	they were able
@@ -378,7 +378,7 @@ ISA 59:15	1	6	μετέστησαν	μεθίστημι	aorist active indicative, 
 ISA 59:15	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 59:15	1	8	διάνοιαν	διάνοια	noun, accusative feminine singular	1	mind
 ISA 59:15	1	8	διάνοιαν			2	understanding
-ISA 59:15	1	9	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
+ISA 59:15	1	9	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 ISA 59:15	1	10	τοῦ	ὁ	article, genitive singular, marks purpose	1	—
 ISA 59:15	1	11	συνιέναι	συνίημι	present active infinitive	1	to understand
 ISA 59:15	1	12	καὶ	καί	conjunction	1	and
@@ -404,17 +404,17 @@ ISA 59:16	1	8	κατενόησε			2	he considered
 ISA 59:16	1	9	καὶ	καί	conjunction	1	and
 ISA 59:16	1	10	οὐκ	οὐ	negative adverb with future indicative	1	not
 ISA 59:16	1	11	ἦν	εἰμί	imperfect indicative, third singular	1	was there
-ISA 59:16	1	12	ὁ	ὁ	article, nominative masculine singular	1	anyone
+ISA 59:16	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 59:16	1	13	ἀντιληψόμενος	ἀντιλαμβάνομαι	future middle participle, nominative masculine singular; substantival	1	one who would help
 ISA 59:16	1	14	καὶ	καί	conjunction	1	and
 ISA 59:16	1	15	ἠμύνατο	ἀμύνω	aorist middle indicative, third singular	1	defended
 ISA 59:16	1	15	ἠμύνατο			2	came to the defense of
 ISA 59:16	1	16	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-ISA 59:16	1	17	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+ISA 59:16	1	17	τῷ	ὁ	article, dative masculine/neuter singular	1	with the
 ISA 59:16	1	18	βραχίονι	βραχίων	noun, dative masculine singular	1	arm
 ISA 59:16	1	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 ISA 59:16	1	20	καὶ	καί	conjunction	1	and
-ISA 59:16	1	21	τῇ	ὁ	article, dative feminine singular	1	to the
+ISA 59:16	1	21	τῇ	ὁ	article, dative feminine singular	1	with the
 ISA 59:16	1	22	ἐλεημοσύνῃ	ἐλεημοσύνη	noun, dative feminine singular	1	mercy
 ISA 59:16	1	22	ἐλεημοσύνῃ			2	righteousness
 ISA 59:16	1	23	αὐτοῦ	αὐτός	possessive pronoun, genitive masculine singular	1	his
@@ -428,7 +428,7 @@ ISA 59:17	1	5	θώρακα	θώραξ	noun, accusative masculine singular	1	brea
 ISA 59:17	1	6	καὶ	καί	conjunction	1	and
 ISA 59:17	1	7	περιέθετο	περιτίθημι	aorist middle indicative, third singular	1	put on
 ISA 59:17	1	8	περικεφαλαίαν	περικεφαλαία	noun, accusative feminine singular	1	a helmet
-ISA 59:17	1	9	σωτηρίου	σωτήριος	adjective, genitive neuter singular; substantival	1	salvation
+ISA 59:17	1	9	σωτηρίου	σωτήριος	adjective, genitive neuter singular; substantival	1	of salvation
 ISA 59:17	1	9	σωτηρίου			2	deliverance
 ISA 59:17	1	10	ἐπὶ	ἐπί	preposition (case from context)	1	on
 ISA 59:17	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -437,12 +437,12 @@ ISA 59:17	1	13	καὶ	καί	conjunction	1	and
 ISA 59:17	1	14	περιεβάλετο	περιβάλλω	aorist middle indicative, third singular	1	put on
 ISA 59:17	1	15	ἱμάτιον	ἱμάτιον	noun, accusative neuter singular	1	garment
 ISA 59:17	1	15	ἱμάτιον			2	cloak
-ISA 59:17	1	16	ἐκδικήσεως	ἐκδίκησις	noun, genitive feminine singular	1	vengeance
+ISA 59:17	1	16	ἐκδικήσεως	ἐκδίκησις	noun, genitive feminine singular	1	of vengeance
 ISA 59:17	1	16	ἐκδικήσεως			2	retribution
 ISA 59:17	1	17	καὶ	καί	conjunction	1	and
 ISA 59:17	1	18	τὸ	ὁ	article, accusative neuter singular	1	the
 ISA 59:17	1	19	περιβόλαιον	περιβόλαιον	noun, nominative neut. sg	1	covering
-ISA 59:17	1	20	ζήλου	ζῆλος	noun, genitive masculine singular	1	zeal
+ISA 59:17	1	20	ζήλου	ζῆλος	noun, genitive masculine singular	1	of zeal
 ISA 59:17	1	20	ζήλου			2	jealousy
 ISA 59:18	1	1	ὡς	ὡς	comparative particle	1	as
 ISA 59:18	1	2	ἀνταποδώσων	ἀνταποδίδωμι	future active participle, nominative masculine singular	1	who will repay
@@ -456,24 +456,24 @@ ISA 59:18	1	6	ὑπεναντίοις			2	opponents
 ISA 59:18	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 ISA 59:18	1	8	ἄμυναν	ἄμυνα	noun, accusative feminine singular	1	retribution
 ISA 59:18	1	8	ἄμυναν			2	reprisal
-ISA 59:18	1	9	τοῖς	ὁ	article, dative masculine plural	1	the
+ISA 59:18	1	9	τοῖς	ὁ	article, dative masculine plural	1	to the
 ISA 59:18	1	10	ἐχθροῖς	ἐχθρός	noun, dative masc. pl	1	enemies
 ISA 59:18	1	11	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-ISA 59:18	1	12	ταῖς	ὁ	article, dative feminine plural	1	the
+ISA 59:18	1	12	ταῖς	ὁ	article, dative feminine plural	1	to the
 ISA 59:18	1	13	νήσοις	νῆσος	noun, dative feminine plural	1	islands
 ISA 59:18	1	14	ἀνταπόδομα	ἀνταπόδομα	noun, accusative neuter singular; cognate accusative	1	repayment
 ISA 59:18	1	14	ἀνταπόδομα			2	recompense
 ISA 59:18	1	15	ἀνταποδώσει	ἀνταποδίδωμι	future active indicative third singular	1	will repay
 ISA 59:19	1	1	Καὶ	καί	conjunction	1	and
 ISA 59:19	1	2	φοβηθήσονται	φοβέομαι	future passive indicative, 3rd pl	1	they will fear
-ISA 59:19	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
+ISA 59:19	1	3	οἱ	ὁ	article, nominative masculine plural	1	those
 ISA 59:19	1	4	ἀπὸ	ἀπό	preposition with the genitive	1	from
 ISA 59:19	1	5	δυσμῶν	δυσμή	noun, genitive feminine plural	1	west
 ISA 59:19	1	6	τὸ	ὁ	article, accusative neuter singular	1	the
 ISA 59:19	1	7	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 ISA 59:19	1	8	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 ISA 59:19	1	9	καὶ	καί	conjunction	1	and
-ISA 59:19	1	10	οἱ	ὁ	article, nominative masculine plural	1	the
+ISA 59:19	1	10	οἱ	ὁ	article, nominative masculine plural	1	those
 ISA 59:19	1	11	ἀπὸ	ἀπό	preposition with the genitive	1	from
 ISA 59:19	1	12	ἀνατολῶν	ἀνατολή	noun, genitive feminine plural	1	rising
 ISA 59:19	1	12	ἀνατολῶν			2	sunrise
@@ -541,7 +541,7 @@ ISA 59:21	1	26	στόμα	στόμα	noun, accusative neuter singular	1	mouth
 ISA 59:21	1	27	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 59:21	1	28	οὐ	οὐ	negative particle	1	not
 ISA 59:21	1	29	μὴ	μή	negative particle	1	not
-ISA 59:21	1	30	ἐκλίπῃ	ἐκλείπω	aorist active subjunctive, third singular	1	may fail
+ISA 59:21	1	30	ἐκλίπῃ	ἐκλείπω	aorist active subjunctive, third singular	1	will fail
 ISA 59:21	1	30	ἐκλίπῃ			2	may cease
 ISA 59:21	1	31	ἐκ	ἐκ	preposition with the genitive	1	from
 ISA 59:21	1	32	τοῦ	ὁ	article, genitive singular	1	the
@@ -551,14 +551,14 @@ ISA 59:21	1	35	καὶ	καί	conjunction	1	and
 ISA 59:21	1	36	ἐκ	ἐκ	preposition with the genitive	1	from
 ISA 59:21	1	37	τοῦ	ὁ	article, genitive neuter singular	1	the
 ISA 59:21	1	38	στόματος	στόμα	noun, genitive neuter singular	1	mouth
-ISA 59:21	1	39	τοῦ	ὁ	article, genitive neuter singular	1	the
+ISA 59:21	1	39	τοῦ	ὁ	article, genitive neuter singular	1	of the
 ISA 59:21	1	40	σπέρματός	σπέρμα	noun, genitive neuter singular	1	offspring
 ISA 59:21	1	41	σου	σύ	personal pronoun, possessive genitive singular	1	your
 ISA 59:21	1	42	καὶ	καί	conjunction	1	and
 ISA 59:21	1	43	ἐκ	ἐκ	preposition with the genitive	1	from
 ISA 59:21	1	44	τοῦ	ὁ	article, genitive neuter singular	1	the
 ISA 59:21	1	45	στόματος	στόμα	noun, genitive neuter singular	1	mouth
-ISA 59:21	1	46	τοῦ	ὁ	article, genitive singular	1	the
+ISA 59:21	1	46	τοῦ	ὁ	article, genitive singular	1	of the
 ISA 59:21	1	47	σπέρματος	σπέρμα	noun, genitive neuter singular	1	seed
 ISA 59:21	1	47	σπέρματος			2	offspring
 ISA 59:21	1	48	τοῦ	ὁ	article, genitive neuter singular	1	of the

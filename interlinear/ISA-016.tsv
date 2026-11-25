@@ -6,19 +6,19 @@ ISA 16:1	1	3	ἑρπετὰ			2	creeping things
 ISA 16:1	1	4	ἐπὶ	ἐπί	preposition (case from context)	1	on
 ISA 16:1	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 16:1	1	6	γῆν	γῆ	noun, accusative feminine singular	1	land
-ISA 16:1	1	7	μὴ	μή	negative particle	1	not
+ISA 16:1	1	7	μὴ	μή	negative particle	1	[marks a question]
 ISA 16:1	1	8	πέτρα	πέτρα	noun, dative feminine singular; printed without dative subscript	1	rock
 ISA 16:1	1	9	ἔρημός	ἔρημος	adjective, nominative feminine singular	1	desolate
 ISA 16:1	1	9	ἔρημός			2	deserted
 ISA 16:1	1	10	ἐστι	εἰμί	present indicative, third singular	1	is
 ISA 16:1	1	11	τὸ	ὁ	article, nominative neuter singular	1	the
 ISA 16:1	1	12	ὄρος	ὄρος	noun, nominative neuter singular	1	mountain
-ISA 16:1	1	13	θυγατρὸς	θυγάτηρ	noun, genitive feminine singular	1	daughter
+ISA 16:1	1	13	θυγατρὸς	θυγάτηρ	noun, genitive feminine singular	1	of the daughter
 ISA 16:1	1	14	Σιών	Σιών	indeclinable place name, genitive	1	of Zion
 ISA 16:2	1	1	ἔσῃ	εἰμί	future middle indicative, second singular	1	you will be
 ISA 16:2	1	2	γὰρ	γάρ	postpositive conjunction	1	for
 ISA 16:2	1	3	ὡς	ὡς	comparative conjunction	1	like
-ISA 16:2	1	4	πετεινοῦ	πετεινόν	noun, genitive neuter singular	1	bird
+ISA 16:2	1	4	πετεινοῦ	πετεινόν	noun, genitive neuter singular	1	of a bird
 ISA 16:2	1	5	ἀνιπταμένου	ἀνίπταμαι	present middle participle, genitive neuter singular	1	flying away
 ISA 16:2	1	5	ἀνιπταμένου			2	taking flight
 ISA 16:2	1	6	νεοσσὸς	νεοσσός	noun, nominative masculine singular	1	nestling
@@ -50,11 +50,11 @@ ISA 16:3	1	10	σκοτίᾳ	σκοτία	noun, dative feminine singular	1	darkne
 ISA 16:3	1	11	φεύγουσιν	φεύγω	present active indicative, third plural	1	they are fleeing
 ISA 16:3	1	12	ἐξέστησαν	ἐξίστημι	aorist active indicative, third plural	1	were alarmed
 ISA 16:3	1	13	μὴ	μή	negative particle	1	not
-ISA 16:3	1	14	ἀχθῆς	ἄγω	aorist passive subjunctive, second singular	1	you may be led away
+ISA 16:3	1	14	ἀχθῆς	ἄγω	aorist passive subjunctive, second singular	1	be led away
 ISA 16:3	1	14	ἀχθῆς			2	you may be taken away
 ISA 16:4	1	1	παροικήσουσί	παροικέω	future active indicative, third plural	1	will dwell as foreigners
 ISA 16:4	1	1	παροικήσουσί			2	will sojourn
-ISA 16:4	1	2	σοι	σύ	personal pronoun, dative singular	1	to you
+ISA 16:4	1	2	σοι	σύ	personal pronoun, dative singular	1	with you
 ISA 16:4	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 ISA 16:4	1	4	φυγάδες	φυγάς	noun, nominative masculine plural	1	fugitives
 ISA 16:4	1	4	φυγάδες			2	refugees
@@ -62,10 +62,10 @@ ISA 16:4	1	5	Μωάβ	Μωάβ	indeclinable place name, genitive in context	1	of
 ISA 16:4	1	6	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
 ISA 16:4	1	7	γὰρ	γάρ	postpositive conjunction	1	for
 ISA 16:4	1	8	σκέπη	σκέπη	noun, nominative feminine singular	1	covering
-ISA 16:4	1	9	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	to you
+ISA 16:4	1	9	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	for you
 ISA 16:4	1	10	ἀπὸ	ἀπό	preposition with the genitive	1	from
 ISA 16:4	1	11	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the face
-ISA 16:4	1	12	διώκοντος	διώκω	present active participle, genitive masculine singular	1	pursuing
+ISA 16:4	1	12	διώκοντος	διώκω	present active participle, genitive masculine singular	1	of the pursuer
 ISA 16:4	1	13	ὅτι	ὅτι	causal conjunction	1	because
 ISA 16:4	1	14	ἤρθη	αἴρω	aorist passive indicative, third singular	1	was removed
 ISA 16:4	1	14	ἤρθη			2	was taken away
@@ -98,13 +98,13 @@ ISA 16:5	1	6	καὶ	καί	conjunction	1	and
 ISA 16:5	1	7	καθιεῖται	καθίζω	future middle indicative, third singular	1	will sit
 ISA 16:5	1	7	καθιεῖται			2	will sit down
 ISA 16:5	1	8	ἐπ᾽	ἐπί	preposition with genitive	1	on
-ISA 16:5	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
+ISA 16:5	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	it
 ISA 16:5	1	10	μετὰ	μετά	preposition with genitive	1	with
 ISA 16:5	1	11	ἀληθείας	ἀλήθεια	noun, genitive feminine singular	1	faithfulness
 ISA 16:5	1	11	ἀληθείας			2	truth
 ISA 16:5	1	12	ἐν	ἐν	preposition with the dative	1	in
 ISA 16:5	1	13	σκηνῇ	σκηνή	noun, dative feminine singular	1	tent
-ISA 16:5	1	14	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
+ISA 16:5	1	14	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 ISA 16:5	1	15	κρίνων	κρίνω	present active participle, nominative masculine singular	1	judging
 ISA 16:5	1	16	καὶ	καί	conjunction	1	and
 ISA 16:5	1	17	ἐκζητῶν	ἐκζητέω	present active participle nominative masculine singular	1	seeking out
@@ -146,16 +146,16 @@ ISA 16:6	1	23	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 16:6	1	24	οὐχ	οὐ	negative particle	1	not
 ISA 16:6	1	25	οὕτως	οὕτως	adverb	1	thus
 ISA 16:7	1	1	Ὀλολύξει	ὀλολύζω	future active indicative, third singular	1	will wail
-ISA 16:7	1	2	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	of Moab
-ISA 16:7	1	3	ἐν	ἐν	preposition with the dative; instrumental	1	with
+ISA 16:7	1	2	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	Moab
+ISA 16:7	1	3	ἐν	ἐν	preposition with the dative; instrumental	1	in
 ISA 16:7	1	4	γὰρ	γάρ	postpositive conjunction	1	for
 ISA 16:7	1	5	τῇ	ὁ	article, dative feminine singular	1	the
 ISA 16:7	1	6	Μωαβίτιδι	Μωαβῖτις	adjective, dative feminine singular; substantival geographic adjective	1	Moab
 ISA 16:7	1	6	Μωαβίτιδι			2	Moabite country
 ISA 16:7	1	7	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 ISA 16:7	1	8	ὀλολύξουσι	ὀλολύζω	future active indicative, third plural	1	they will wail
-ISA 16:7	1	9	τοῖς	ὁ	article, dative masculine plural	1	the
-ISA 16:7	1	10	κατοικοῦσι	κατοικέω	present active participle, dative masculine plural	1	living
+ISA 16:7	1	9	τοῖς	ὁ	article, dative masculine plural	1	for those
+ISA 16:7	1	10	κατοικοῦσι	κατοικέω	present active participle, dative masculine plural	1	dwelling in
 ISA 16:7	1	10	κατοικοῦσι			2	inhabiting
 ISA 16:7	1	11	δὲ	δέ	postpositive conjunction	1	and
 ISA 16:7	1	12	Σὲθ	Σέθ	indeclinable place name, accusative in context	1	Seth
@@ -168,11 +168,11 @@ ISA 16:7	1	16	ἐντραπήσῃ			2	you will be abashed
 ISA 16:8	1	1	τὰ	ὁ	article, neuter plural (case from context)	1	the
 ISA 16:8	1	2	πεδία	πεδίον	noun, nominative neuter plural	1	plains
 ISA 16:8	1	2	πεδία			2	fields
-ISA 16:8	1	3	Ἑσεβών	Ἑσεβών	indeclinable place name, genitive in context	1	Heshbon
+ISA 16:8	1	3	Ἑσεβών	Ἑσεβών	indeclinable place name, genitive in context	1	of Heshbon
 ISA 16:8	1	3	Ἑσεβών			2	Hesebon
 ISA 16:8	1	4	πενθήσει	πενθέω	future active indicative, third singular	1	will mourn
 ISA 16:8	1	5	ἄμπελος	ἄμπελος	noun, nominative feminine singular	1	a vine
-ISA 16:8	1	6	Σεβαμά	Σεβαμά	indeclinable place name, genitive in context	1	Sibmah
+ISA 16:8	1	6	Σεβαμά	Σεβαμά	indeclinable place name, genitive in context	1	of Sibmah
 ISA 16:8	1	6	Σεβαμά			2	Sebama
 ISA 16:8	1	7	καταπίνοντες	καταπίνω	present active participle, nominative masculine plural	1	swallowing up
 ISA 16:8	1	7	καταπίνοντες			2	engulfing
@@ -189,14 +189,14 @@ ISA 16:8	1	15	Ἰαζήρ	Ἰαζήρ	indeclinable place name after ἕως	1	Ja
 ISA 16:8	1	15	Ἰαζήρ			2	Iazer
 ISA 16:8	1	16	Οὐ	οὐ	negative adverb with future indicative	1	not
 ISA 16:8	1	17	μὴ	μή	negative particle completing οὐ μή	1	not
-ISA 16:8	1	18	συνάψητε	συνάπτω	aorist active subjunctive, 2nd pl	1	engage
+ISA 16:8	1	18	συνάψητε	συνάπτω	aorist active subjunctive, 2nd pl	1	you shall reach
 ISA 16:8	1	19	πλανήθητε	πλανάω	aorist passive imperative, second plural	1	wander
 ISA 16:8	1	19	πλανήθητε			2	go astray
 ISA 16:8	1	20	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 16:8	1	21	ἔρημον	ἔρημος	substantival adjective, accusative feminine singular	1	wilderness
 ISA 16:8	1	21	ἔρημον			2	desert
 ISA 16:8	1	22	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 16:8	1	23	ἀπεσταλμένοι	ἀποστέλλω	perfect passive participle, nominative masculine plural; substantival	1	those sent out
+ISA 16:8	1	23	ἀπεσταλμένοι	ἀποστέλλω	perfect passive participle, nominative masculine plural; substantival	1	ones sent out
 ISA 16:8	1	23	ἀπεσταλμένοι			2	envoys
 ISA 16:8	1	24	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
 ISA 16:8	1	25	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
@@ -213,10 +213,10 @@ ISA 16:9	1	3	κλαύσωμεν	κλαίω	aorist active subjunctive, first plur
 ISA 16:9	1	4	ὡς	ὡς	comparative particle	1	as
 ISA 16:9	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 16:9	1	6	κλαυθμὸν	κλαυθμός	noun, accusative masculine singular	1	weeping
-ISA 16:9	1	7	Ἰαζὴρ	Ἰαζήρ	indeclinable place name, genitive in context	1	Jazer
+ISA 16:9	1	7	Ἰαζὴρ	Ἰαζήρ	indeclinable place name, genitive in context	1	of Jazer
 ISA 16:9	1	7	Ἰαζὴρ			2	Iazer
 ISA 16:9	1	8	ἄμπελον	ἄμπελος	noun, accusative feminine singular	1	a vine
-ISA 16:9	1	9	Σεβαμά	Σεβαμά	indeclinable place name, genitive in context	1	Sibmah
+ISA 16:9	1	9	Σεβαμά	Σεβαμά	indeclinable place name, genitive in context	1	of Sibmah
 ISA 16:9	1	9	Σεβαμά			2	Sebama
 ISA 16:9	1	10	τὰ	ὁ	article, accusative neuter plural	1	the
 ISA 16:9	1	11	δένδρα	δένδρον	noun, accusative neuter plural	1	trees
@@ -229,7 +229,7 @@ ISA 16:9	1	15	καὶ	καί	conjunction	1	and
 ISA 16:9	1	16	Ἐλεαλὴ	Ἐλεαλή	indeclinable place name, direct address	1	Elealeh
 ISA 16:9	1	16	Ἐλεαλὴ			2	Eleale
 ISA 16:9	1	17	ὅτι	ὅτι	causal conjunction	1	because
-ISA 16:9	1	18	ἐπὶ	ἐπί	preposition	1	on/upon
+ISA 16:9	1	18	ἐπὶ	ἐπί	preposition	1	on
 ISA 16:9	1	19	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 ISA 16:9	1	20	θερισμῷ	θερισμός	noun, dative masculine singular	1	harvest
 ISA 16:9	1	20	θερισμῷ			2	reaping
@@ -244,7 +244,7 @@ ISA 16:9	1	27	καὶ	καί	conjunction	1	and
 ISA 16:9	1	28	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 ISA 16:9	1	29	πεσοῦνται	πίπτω	future middle indicative, third plural	1	will fall
 ISA 16:10	1	1	Καὶ	καί	conjunction	1	and
-ISA 16:10	1	2	ἀρθήσεται	αἴρω	future passive indicative, 3rd sg., shall be carried	1	shall be carried
+ISA 16:10	1	2	ἀρθήσεται	αἴρω	future passive indicative, 3rd sg., shall be carried	1	shall be taken away
 ISA 16:10	1	3	εὐφροσύνη	εὐφροσύνη	noun, nominative feminine singular	1	gladness
 ISA 16:10	1	3	εὐφροσύνη			2	rejoicing
 ISA 16:10	1	4	καὶ	καί	conjunction	1	and
@@ -283,7 +283,7 @@ ISA 16:11	1	4	κοιλία	κοιλία	noun, nominative feminine singular	1	bel
 ISA 16:11	1	4	κοιλία			2	inward parts
 ISA 16:11	1	5	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 ISA 16:11	1	5	μου			2	of me
-ISA 16:11	1	6	ἐπὶ	ἐπί	preposition with the genitive	1	upon
+ISA 16:11	1	6	ἐπὶ	ἐπί	preposition with the genitive	1	for
 ISA 16:11	1	7	Μωὰβ	Μωάβ	indeclinable place name, case from local syntax	1	Moab
 ISA 16:11	1	8	ὡς	ὡς	comparative particle	1	as
 ISA 16:11	1	9	κιθάρα	κιθάρα	noun, nominative feminine singular	1	lyre
@@ -297,18 +297,18 @@ ISA 16:11	1	14	μου	ἐγώ	personal pronoun, possessive genitive singular	1	m
 ISA 16:11	1	14	μου			2	of me
 ISA 16:11	1	15	ὡσεὶ	ὡσεί	comparative particle	1	like
 ISA 16:11	1	16	τεῖχος	τεῖχος	noun, nominative neut. sg	1	a wall
-ISA 16:11	1	17	ὃ	ὅς	relative pronoun, nominative neut. sg. in ὅ τι οὖν ἐὰν ᾖ 'whatever it may be'	1	what
+ISA 16:11	1	17	ὃ	ὅς	relative pronoun, nominative neut. sg. in ὅ τι οὖν ἐὰν ᾖ 'whatever it may be'	1	which
 ISA 16:11	1	18	ἐνεκαίνισας	ἐγκαινίζω	aorist active indicative, second singular	1	you renewed
 ISA 16:11	1	18	ἐνεκαίνισας			2	you restored
 ISA 16:12	1	1	Καὶ	καί	conjunction	1	and
 ISA 16:12	1	2	ἔσται	εἰμί	future middle indicative third singular	1	it will be
 ISA 16:12	1	3	ὡς	ὡς	comparative conjunction	1	like
 ISA 16:12	1	4	τὸ	ὁ	article nominative neuter singular	1	the
-ISA 16:12	1	5	ἐντραπῆναί	ἐντρέπομαι	aorist passive infinitive	1	to humble yourself
+ISA 16:12	1	5	ἐντραπῆναί	ἐντρέπομαι	aorist passive infinitive	1	to be ashamed
 ISA 16:12	1	6	σε	σύ	pronoun, accusative 2nd singular	1	you
 ISA 16:12	1	7	ὅτι	ὅτι	causal conjunction	1	because
 ISA 16:12	1	8	ἐκοπίασε	κοπιάω	aorist active indicative, third singular	1	struggled
-ISA 16:12	1	9	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	of Moab
+ISA 16:12	1	9	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	Moab
 ISA 16:12	1	10	ἐπὶ	ἐπί	preposition (case from context)	1	on
 ISA 16:12	1	11	τοῖς	ὁ	article, dative masculine plural	1	the
 ISA 16:12	1	12	βωμοῖς	βωμός	noun, dative masculine plural	1	altars
@@ -324,7 +324,7 @@ ISA 16:12	1	20	προσεύξασθαι	προσεύχομαι	aorist middle inf
 ISA 16:12	1	21	καὶ	καί	conjunction	1	and
 ISA 16:12	1	22	οὐ	οὐ	negative particle	1	not
 ISA 16:12	1	23	μὴ	μή	negative particle	1	not
-ISA 16:12	1	24	δύνηται	δύναμαι	present middle subjunctive, third singular	1	can
+ISA 16:12	1	24	δύνηται	δύναμαι	present middle subjunctive, third singular	1	will be able
 ISA 16:12	1	24	δύνηται			2	is able
 ISA 16:12	1	25	ἐξελέσθαι	ἐξαιρέω	aorist middle infinitive	1	to rescue
 ISA 16:12	1	25	ἐξελέσθαι			2	to deliver
@@ -340,16 +340,16 @@ ISA 16:13	1	7	ἐπὶ	ἐπί	preposition with accusative	1	against
 ISA 16:13	1	7	ἐπὶ			2	concerning
 ISA 16:13	1	8	Μωὰβ	Μωάβ	indeclinable place name, case from local syntax	1	Moab
 ISA 16:13	1	9	ὁπότε	ὁπότε	temporal conjunction	1	when
-ISA 16:13	1	10	καὶ	καί	conjunction	1	and
+ISA 16:13	1	10	καὶ	καί	conjunction	1	also
 ISA 16:13	1	11	ἐλάλησε	λαλέω	aorist active indicative, third singular	1	spoke
 ISA 16:14	1	1	Καὶ	καί	conjunction	1	and
 ISA 16:14	1	2	νῦν	νῦν	adverb of time	1	now
-ISA 16:14	1	3	λέγω	λέγω	present active indicative, first person singular	1	say
+ISA 16:14	1	3	λέγω	λέγω	present active indicative, first person singular	1	I say
 ISA 16:14	1	4	ἐν	ἐν	preposition with the dative	1	in
 ISA 16:14	1	5	τρισὶν	τρεῖς	cardinal numeral, dative feminine plural	1	three
 ISA 16:14	1	6	ἔτεσιν	ἔτος	noun, dative neuter plural	1	years
 ISA 16:14	1	7	ἐτῶν	ἔτος	noun, genitive neuter plural of age	1	years
-ISA 16:14	1	8	μισθωτοῦ	μισθωτός	adjective, genitive masculine singular; substantival	1	hired worker
+ISA 16:14	1	8	μισθωτοῦ	μισθωτός	adjective, genitive masculine singular; substantival	1	of a hired worker
 ISA 16:14	1	9	ἀτιμασθήσεται	ἀτιμάζω	future passive indicative, third singular	1	shall be dishonored
 ISA 16:14	1	10	ἡ	ὁ	article nominative feminine singular	1	the
 ISA 16:14	1	11	δόξα	δόξα	noun nominative feminine singular	1	glory
@@ -358,7 +358,7 @@ ISA 16:14	1	13	ἐν	ἐν	preposition with the dative	1	in
 ISA 16:14	1	14	παντὶ	πᾶς	adjective, dative masculine singular	1	all
 ISA 16:14	1	15	τῷ	ὁ	article, dative masculine singular	1	the
 ISA 16:14	1	16	πλούτῳ	πλοῦτος	noun, dative masculine singular	1	wealth
-ISA 16:14	1	17	τῷ	ὁ	article, dative masculine singular	1	to the
+ISA 16:14	1	17	τῷ	ὁ	article, dative masculine singular	1	the
 ISA 16:14	1	18	πολλῷ	πολύς	adjective, dative masculine singular	1	great
 ISA 16:14	1	18	πολλῷ			2	abundant
 ISA 16:14	1	19	καὶ	καί	conjunction	1	and
@@ -367,5 +367,5 @@ ISA 16:14	1	21	ὀλιγοστὸς	ὀλιγοστός	adjective, nominative ma
 ISA 16:14	1	21	ὀλιγοστὸς			2	few
 ISA 16:14	1	22	καὶ	καί	conjunction	1	and
 ISA 16:14	1	23	οὐκ	οὐ	negative particle	1	not
-ISA 16:14	1	24	ἔντιμος	ἔντιμος	adjective, nominative masculine singular	1	precious
+ISA 16:14	1	24	ἔντιμος	ἔντιμος	adjective, nominative masculine singular	1	honored
 ISA 16:14	1	24	ἔντιμος			2	valuable

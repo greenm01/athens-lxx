@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 ISA 3:1	1	1	ΙΔΟΥ	ἰδού	presentative particle	1	look
 ISA 3:1	1	1	ΙΔΟΥ			2	behold
-ISA 3:1	1	2	δὴ	δή	emphatic particle	1	please
+ISA 3:1	1	2	δὴ	δή	emphatic particle	1	indeed
 ISA 3:1	1	2	δὴ			2	now
 ISA 3:1	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 3:1	1	4	δεσπότης	δεσπότης	noun, nominative masculine singular	1	Master
@@ -29,7 +29,7 @@ ISA 3:2	1	9	ἄρτου	ἄρτος	noun, genitive masculine singular	1	of bread
 ISA 3:2	1	10	καὶ	καί	conjunction	1	and
 ISA 3:2	1	11	ἰσχὺν	ἰσχύς	noun, accusative feminine singular	1	supply
 ISA 3:2	1	11	ἰσχὺν			2	strength
-ISA 3:2	1	12	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
+ISA 3:2	1	12	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	of water
 ISA 3:2	1	13	γίγαντα	γίγας	noun, accusative masculine singular	1	giant
 ISA 3:2	1	13	γίγαντα			2	mighty man
 ISA 3:2	1	14	καὶ	καί	conjunction	1	and
@@ -106,7 +106,7 @@ ISA 3:5	1	21	ἄτιμος			2	person without honor
 ISA 3:5	1	22	πρὸς	πρός	preposition with the accusative	1	to
 ISA 3:5	1	23	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 3:5	1	24	ἔντιμον	ἔντιμος	adjective, accusative masculine singular; substantival	1	honored person
-ISA 3:6	1	1	Ὅτι	ὅτι	conjunction introducing reported content	1	that
+ISA 3:6	1	1	Ὅτι	ὅτι	conjunction introducing reported content	1	for
 ISA 3:6	1	2	ἐπιλήψεται	ἐπιλαμβάνομαι	future middle indicative, third singular	1	will take hold of
 ISA 3:6	1	2	ἐπιλήψεται			2	will grasp
 ISA 3:6	1	3	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
@@ -160,7 +160,7 @@ ISA 3:7	1	21	ἱμάτιον	ἱμάτιον	noun, nominative neuter singular	1	
 ISA 3:7	1	22	οὐκ	οὐ	negative particle	1	not
 ISA 3:7	1	23	ἔσομαι	εἰμί	future middle indicative, first singular	1	I will be
 ISA 3:7	1	24	ἀρχηγὸς	ἀρχηγός	noun, nominative masculine singular	1	leader
-ISA 3:7	1	25	τοῦ	ὁ	article, genitive singular	1	the
+ISA 3:7	1	25	τοῦ	ὁ	article, genitive singular	1	of the
 ISA 3:7	1	26	λαοῦ	λαός	noun, genitive masculine singular	1	people
 ISA 3:7	1	27	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	this
 ISA 3:8	1	1	Ὅτι	ὅτι	causal conjunction	1	because
@@ -177,7 +177,7 @@ ISA 3:8	1	9	αἱ	ὁ	article, nominative feminine plural	1	the
 ISA 3:8	1	10	γλῶσσαι	γλῶσσα	noun, nominative feminine plural	1	tongues
 ISA 3:8	1	11	αὐτῶν	αὐτός	pronoun genitive plural	1	their
 ISA 3:8	1	12	μετὰ	μετά	preposition with the genitive	1	with
-ISA 3:8	1	13	ἀνομίας	ἀνομία	noun, accusative feminine plural	1	lawlessnesses
+ISA 3:8	1	13	ἀνομίας	ἀνομία	noun, accusative feminine plural	1	lawlessness
 ISA 3:8	1	13	ἀνομίας			2	iniquities
 ISA 3:8	1	14	τὰ	ὁ	definite article substantivizing τὰ πρὸς Κύριον	1	the things
 ISA 3:8	1	15	πρὸς	πρός	preposition with the accusative	1	to
@@ -196,17 +196,17 @@ ISA 3:9	1	8	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 3:9	1	9	αἰσχύνη	αἰσχύνη	noun, nominative feminine singular	1	shame
 ISA 3:9	1	10	τοῦ	ὁ	article genitive neuter singular	1	of the
 ISA 3:9	1	11	προσώπου	πρόσωπον	noun, genitive neuter singular	1	face
-ISA 3:9	1	12	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
+ISA 3:9	1	12	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 ISA 3:9	1	13	ἀντέστη	ἀνθίστημι	aorist active indicative, third singular	1	stood against
 ISA 3:9	1	13	ἀντέστη			2	opposed
 ISA 3:9	1	14	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 ISA 3:9	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
-ISA 3:9	1	16	δὲ	δέ	postpositive conjunction	1	now
+ISA 3:9	1	16	δὲ	δέ	postpositive conjunction	1	and
 ISA 3:9	1	17	ἁμαρτίαν	ἁμαρτία	noun, accusative feminine singular	1	offense
 ISA 3:9	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 ISA 3:9	1	19	ὡς	ὡς	comparative particle	1	as
 ISA 3:9	1	19	ὡς			2	like
-ISA 3:9	1	20	Σοδόμων	Σόδομα	noun, genitive neuter plural; place name	1	Sodom
+ISA 3:9	1	20	Σοδόμων	Σόδομα	noun, genitive neuter plural; place name	1	of Sodom
 ISA 3:9	1	21	ἀπήγγειλαν	ἀπαγγέλλω	aorist active indicative, third plural	1	reported
 ISA 3:9	1	21	ἀπήγγειλαν			2	told
 ISA 3:9	1	22	καὶ	καί	conjunction	1	and
@@ -214,34 +214,34 @@ ISA 3:9	1	23	ἐνεφάνισαν	ἐμφανίζω	aorist active indicative, t
 ISA 3:9	1	23	ἐνεφάνισαν			2	they made known
 ISA 3:9	1	24	Οὐαὶ	οὐαί	interjection	1	alas
 ISA 3:9	1	24	Οὐαὶ			2	woe
-ISA 3:9	1	25	τῇ	ὁ	article, dative feminine singular	1	the
-ISA 3:9	1	26	ψυχῇ	ψυχή	noun, dative feminine singular	1	heart
-ISA 3:9	1	26	ψυχῇ			2	soul
+ISA 3:9	1	25	τῇ	ὁ	article, dative feminine singular	1	to the
+ISA 3:9	1	26	ψυχῇ	ψυχή	noun, dative feminine singular	1	soul
+ISA 3:9	1	26	ψυχῇ			2	heart
 ISA 3:9	1	27	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 ISA 3:9	1	28	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 ISA 3:9	1	29	βεβούλευνται	βουλεύομαι	perfect middle indicative, third plural	1	they have plotted
 ISA 3:9	1	29	βεβούλευνται			2	they have planned
 ISA 3:9	1	30	βουλὴν	βουλή	noun, accusative feminine singular	1	plan
 ISA 3:9	1	31	πονηρὰν	πονηρός	adjective, accusative feminine singular	1	wicked
-ISA 3:9	1	32	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	concerning
-ISA 3:9	1	33	ἑαυτῶν	ἑαυτοῦ	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	1	our own
+ISA 3:9	1	32	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	against
+ISA 3:9	1	33	ἑαυτῶν	ἑαυτοῦ	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	1	themselves
 ISA 3:9	1	33	ἑαυτῶν			2	of ourselves
 ISA 3:10	1	1	εἴπαντες	λέγω	aorist active participle, nominative masculine plural	1	having said
 ISA 3:10	1	1	εἴπαντες			2	saying
 ISA 3:10	1	2	δήσωμεν	δέω	aorist active subjunctive, first plural	1	let us bind
 ISA 3:10	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
-ISA 3:10	1	4	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	1	a righteous person
+ISA 3:10	1	4	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	1	righteous one
 ISA 3:10	1	5	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 ISA 3:10	1	6	δύχρηστος	δύσχρηστος	adjective, nominative masculine singular; printed δύχρηστος	1	troublesome
 ISA 3:10	1	6	δύχρηστος			2	inconvenient
-ISA 3:10	1	7	ἡμῖν	ἐγώ	personal pronoun dative first plural	1	us
-ISA 3:10	1	8	ἐστι	εἰμί	present indicative third singular with neuter plural subject	1	are
+ISA 3:10	1	7	ἡμῖν	ἐγώ	personal pronoun dative first plural	1	to us
+ISA 3:10	1	8	ἐστι	εἰμί	present indicative third singular with neuter plural subject	1	is
 ISA 3:10	1	9	τοίνυν	τοίνυν	inferential particle	1	therefore
 ISA 3:10	1	9	τοίνυν			2	then
 ISA 3:10	1	10	τὰ	ὁ	article, neuter plural (case from context)	1	the
 ISA 3:10	1	11	γενήματα	γένημα	noun, accusative neuter plural	1	produce
 ISA 3:10	1	11	γενήματα			2	fruits
-ISA 3:10	1	12	τῶν	ὁ	article, genitive neuter plural	1	the
+ISA 3:10	1	12	τῶν	ὁ	article, genitive neuter plural	1	of the
 ISA 3:10	1	13	ἔργων	ἔργον	noun, genitive neuter plural	1	works
 ISA 3:10	1	14	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 ISA 3:10	1	15	φάγονται	ἐσθίω	future middle indicative, third plural	1	will eat
@@ -250,13 +250,13 @@ ISA 3:11	1	1	Οὐαὶ			2	woe
 ISA 3:11	1	2	τῷ	ὁ	article, dative masculine singular	1	to the
 ISA 3:11	1	3	ἀνόμῳ	ἄνομος	adjective, dative masculine singular; substantival	1	lawless person
 ISA 3:11	1	4	πονηρὰ	πονηρός	adjective, nominative neuter plural; substantival	1	evil things
-ISA 3:11	1	5	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+ISA 3:11	1	5	κατὰ	κατά	preposition with genitive Μωυσῆ	1	according to
 ISA 3:11	1	6	τὰ	ὁ	article, accusative neuter plural	1	the
 ISA 3:11	1	7	ἔργα	ἔργον	noun, accusative neuter plural	1	works
-ISA 3:11	1	8	τῶν	ὁ	article, genitive plural	1	the
+ISA 3:11	1	8	τῶν	ὁ	article, genitive plural	1	—
 ISA 3:11	1	9	χειρῶν	χείρ	noun, genitive feminine plural	1	of the hands
 ISA 3:11	1	10	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-ISA 3:11	1	11	συμβήσεται	συμβαίνω	future middle indicative, third singular impersonal with accusative-infinitive	1	it will happen
+ISA 3:11	1	11	συμβήσεται	συμβαίνω	future middle indicative, third singular impersonal with accusative-infinitive	1	will happen
 ISA 3:11	1	12	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 ISA 3:12	1	1	Λαός	λαός	noun, nominative masculine singular	1	people
 ISA 3:12	1	2	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
@@ -269,14 +269,14 @@ ISA 3:12	1	6	καλαμῶνται			2	they strip bare
 ISA 3:12	1	7	ὑμᾶς	σύ	pronoun, accusative 2nd pl	1	you
 ISA 3:12	1	8	καὶ	καί	conjunction	1	and
 ISA 3:12	1	9	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 3:12	1	10	ἀπαιτοῦντες	ἀπαιτέω	present active participle, nominative masculine plural; substantival	1	those who demand payment
+ISA 3:12	1	10	ἀπαιτοῦντες	ἀπαιτέω	present active participle, nominative masculine plural; substantival	1	ones who demand payment
 ISA 3:12	1	10	ἀπαιτοῦντες			2	exactors
 ISA 3:12	1	11	κυριεύουσιν	κυριεύω	present active indicative, third plural	1	they rule over
 ISA 3:12	1	11	κυριεύουσιν			2	they dominate
 ISA 3:12	1	12	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	you
 ISA 3:12	1	13	λαός	λαός	noun, nominative masculine singular	1	people
 ISA 3:12	1	14	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-ISA 3:12	1	15	οἱ	ὁ	article, nominative masculine plural	1	the
+ISA 3:12	1	15	οἱ	ὁ	article, nominative masculine plural	1	—
 ISA 3:12	1	16	μακαρίζοντες	μακαρίζω	present active participle, nominative masculine plural; substantival	1	those who call blessed
 ISA 3:12	1	16	μακαρίζοντες			2	those who call fortunate
 ISA 3:12	1	17	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
@@ -286,7 +286,7 @@ ISA 3:12	1	20	καὶ	καί	conjunction	1	and
 ISA 3:12	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 3:12	1	22	τρίβον	τρίβος	noun, accusative feminine singular	1	path
 ISA 3:12	1	22	τρίβον			2	track
-ISA 3:12	1	23	τῶν	ὁ	article, genitive plural	1	the
+ISA 3:12	1	23	τῶν	ὁ	article, genitive plural	1	of the
 ISA 3:12	1	24	ποδῶν	πούς	noun, genitive masculine plural	1	feet
 ISA 3:12	1	25	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 ISA 3:12	1	26	ταράσσουσιν	ταράσσω	present active indicative, third plural	1	they disrupt
@@ -295,23 +295,23 @@ ISA 3:13	1	1	Ἀλλὰ	ἀλλά	adversative conjunction	1	but
 ISA 3:13	1	2	νῦν	νῦν	adverb of time	1	now
 ISA 3:13	1	3	καταστήσεται	καθίστημι	future middle indicative, third singular	1	will take his stand
 ISA 3:13	1	3	καταστήσεται			2	will set himself
-ISA 3:13	1	4	εἰς	εἰς	preposition with the accusative	1	into
-ISA 3:13	1	5	κρίσιν	κρίσις	noun, accusative feminine singular	1	justice
-ISA 3:13	1	5	κρίσιν			2	judgment
+ISA 3:13	1	4	εἰς	εἰς	preposition with the accusative	1	for
+ISA 3:13	1	5	κρίσιν	κρίσις	noun, accusative feminine singular	1	judgment
+ISA 3:13	1	5	κρίσιν			2	justice
 ISA 3:13	1	6	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 ISA 3:13	1	7	καὶ	καί	conjunction	1	and
 ISA 3:13	1	8	στήσει	ἵστημι	future active indicative, third singular	1	he will set
 ISA 3:13	1	9	εἰς	εἰς	preposition with accusative	1	to
-ISA 3:13	1	10	κρίσιν	κρίσις	noun, accusative feminine singular	1	justice
-ISA 3:13	1	10	κρίσιν			2	judgment
+ISA 3:13	1	10	κρίσιν	κρίσις	noun, accusative feminine singular	1	judgment
+ISA 3:13	1	10	κρίσιν			2	justice
 ISA 3:13	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 3:13	1	12	λαὸν	λαός	noun, accusative masculine singular	1	people
 ISA 3:13	1	13	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 ISA 3:14	1	1	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 ISA 3:14	1	2	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-ISA 3:14	1	3	εἰς	εἰς	preposition with the accusative	1	into
-ISA 3:14	1	4	κρίσιν	κρίσις	noun, accusative feminine singular	1	justice
-ISA 3:14	1	4	κρίσιν			2	judgment
+ISA 3:14	1	3	εἰς	εἰς	preposition with the accusative	1	for
+ISA 3:14	1	4	κρίσιν	κρίσις	noun, accusative feminine singular	1	judgment
+ISA 3:14	1	4	κρίσιν			2	justice
 ISA 3:14	1	5	ἥξει	ἥκω	future active indicative, third singular as printed Ἥξει	1	will come
 ISA 3:14	1	6	μετὰ	μετά	preposition with genitive	1	with
 ISA 3:14	1	7	τῶν	ὁ	article, genitive plural	1	the
@@ -336,16 +336,16 @@ ISA 3:14	1	23	καὶ	καί	conjunction	1	and
 ISA 3:14	1	24	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 3:14	1	25	ἁρπαγὴ	ἁρπαγή	noun, nominative feminine singular	1	loot
 ISA 3:14	1	25	ἁρπαγὴ			2	plunder
-ISA 3:14	1	26	τοῦ	ὁ	article, genitive singular	1	the
+ISA 3:14	1	26	τοῦ	ὁ	article, genitive singular	1	of the
 ISA 3:14	1	27	πτωχοῦ	πτωχός	adjective, genitive masculine singular; substantival	1	poor person
 ISA 3:14	1	27	πτωχοῦ			2	the poor
 ISA 3:14	1	28	ἐν	ἐν	preposition with the dative	1	in
 ISA 3:14	1	29	τοῖς	ὁ	article, dative masculine plural	1	the
 ISA 3:14	1	30	οἴκοις	οἶκος	noun, dative masculine plural	1	houses
 ISA 3:14	1	31	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
-ISA 3:15	1	1	Τί	τίς	interrogative pronoun, accusative neuter singular	1	what
+ISA 3:15	1	1	Τί	τίς	interrogative pronoun, accusative neuter singular	1	why
 ISA 3:15	1	2	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
-ISA 3:15	1	3	ἀδικεῖτε	ἀδικέω	present active indicative, second plural	1	you wrong
+ISA 3:15	1	3	ἀδικεῖτε	ἀδικέω	present active indicative, second plural	1	wrong
 ISA 3:15	1	3	ἀδικεῖτε			2	you mistreat
 ISA 3:15	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 3:15	1	5	λαόν	λαός	noun, accusative masculine singular	1	people
@@ -353,14 +353,14 @@ ISA 3:15	1	6	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ISA 3:15	1	7	καὶ	καί	conjunction	1	and
 ISA 3:15	1	8	τὸ	ὁ	article, neuter singular (case from context)	1	the
 ISA 3:15	1	9	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
-ISA 3:15	1	10	τῶν	ὁ	article, genitive plural	1	the
+ISA 3:15	1	10	τῶν	ὁ	article, genitive plural	1	of the
 ISA 3:15	1	11	πτωχῶν	πτωχός	substantival adjective genitive masculine plural	1	poor
 ISA 3:15	1	12	καταισχύνετε	καταισχύνω	present active indicative, second plural	1	you put to shame
 ISA 3:15	1	12	καταισχύνετε			2	you disgrace
 ISA 3:15	1	13	φησὶ	φημί	present active indicative, third singular	1	says
 ISA 3:15	1	14	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 ISA 3:15	1	15	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-ISA 3:15	1	16	τῶν	ὁ	article, genitive plural	1	the
+ISA 3:15	1	16	τῶν	ὁ	article, genitive plural	1	of the
 ISA 3:15	1	17	στρατιῶν	στρατιά	noun, genitive feminine plural	1	hosts
 ISA 3:15	1	17	στρατιῶν			2	armies
 ISA 3:16	1	1	Τάδε	ὅδε	demonstrative pronoun, accusative neuter plural, introducing the message 'these things'	1	these things
@@ -375,19 +375,19 @@ ISA 3:16	1	8	θυγατέρες	θυγάτηρ	noun, nominative feminine plural	
 ISA 3:16	1	9	Σιὼν	Σιών	indeclinable place name, genitive in context	1	of Zion
 ISA 3:16	1	10	καὶ	καί	conjunction	1	and
 ISA 3:16	1	11	ἐπορεύθησαν	πορεύομαι	aorist passive/deponent indicative, third plural	1	went
-ISA 3:16	1	12	ὑψηλῷ	ὑψηλός	adjective, dative masculine singular	1	high
+ISA 3:16	1	12	ὑψηλῷ	ὑψηλός	adjective, dative masculine singular	1	with high
 ISA 3:16	1	12	ὑψηλῷ			2	held high
 ISA 3:16	1	13	τραχήλῳ	τράχηλος	noun, dative masculine singular	1	neck
 ISA 3:16	1	14	καὶ	καί	conjunction	1	and
 ISA 3:16	1	15	ἐν	ἐν	preposition with the dative	1	in
 ISA 3:16	1	16	νεύμασιν	νεῦμα	noun, dative neuter plural	1	signals
 ISA 3:16	1	16	νεύμασιν			2	gestures
-ISA 3:16	1	17	ὀφθαλμῶν	ὀφθαλμός	noun, genitive masculine plural	1	eyes
+ISA 3:16	1	17	ὀφθαλμῶν	ὀφθαλμός	noun, genitive masculine plural	1	of eyes
 ISA 3:16	1	18	καὶ	καί	conjunction	1	and
 ISA 3:16	1	19	τῇ	ὁ	article, dative feminine singular	1	on the
 ISA 3:16	1	20	πορείᾳ	πορεία	noun, dative feminine singular	1	walk
 ISA 3:16	1	20	πορείᾳ			2	gait
-ISA 3:16	1	21	τῶν	ὁ	article, genitive plural	1	the
+ISA 3:16	1	21	τῶν	ὁ	article, genitive plural	1	of the
 ISA 3:16	1	22	ποδῶν	πούς	noun, genitive masculine plural	1	feet
 ISA 3:16	1	23	ἅμα	ἅμα	adverb	1	together
 ISA 3:16	1	24	σύρουσαι	σύρω	present active participle, nominative feminine plural	1	dragging
@@ -395,13 +395,13 @@ ISA 3:16	1	24	σύρουσαι			2	trailing
 ISA 3:16	1	25	τοὺς	ὁ	article, accusative masculine plural	1	the
 ISA 3:16	1	26	χιτῶνας	χιτών	noun, accusative masc. pl	1	tunics
 ISA 3:16	1	27	καὶ	καί	conjunction	1	and
-ISA 3:16	1	28	τοῖς	ὁ	article, dative masculine plural	1	the
+ISA 3:16	1	28	τοῖς	ὁ	article, dative masculine plural	1	with the
 ISA 3:16	1	29	ποσὶν	πούς	noun, dative masculine plural	1	feet
 ISA 3:16	1	30	ἅμα	ἅμα	adverb	1	together
 ISA 3:16	1	31	παίζουσαι	παίζω	present active participle, nominative feminine plural	1	playing
 ISA 3:16	1	31	παίζουσαι			2	dancing
 ISA 3:17	1	1	καὶ	καί	conjunction	1	and
-ISA 3:17	1	2	ταπεινώσει	ταπείνωσις	noun, dative feminine singular	1	affliction
+ISA 3:17	1	2	ταπεινώσει	ταπείνωσις	noun, dative feminine singular	1	will bring low
 ISA 3:17	1	2	ταπεινώσει			2	humiliation
 ISA 3:17	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 3:17	1	4	Θεὸς	θεός	noun, nominative masculine singular	1	God
@@ -452,15 +452,15 @@ ISA 3:19	1	3	κάθεμα	κάθεμα	noun, accusative neuter singular	1	pendan
 ISA 3:19	1	3	κάθεμα			2	neck ornament
 ISA 3:19	1	4	καὶ	καί	conjunction	1	and
 ISA 3:19	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
-ISA 3:19	1	6	κόσμον	κόσμος	noun, accusative masc. sg., ornament	1	his ornaments
-ISA 3:19	1	7	τοῦ	ὁ	article, genitive neuter singular	1	the
-ISA 3:19	1	8	προσώπου	πρόσωπον	noun, genitive neuter singular	1	presence
-ISA 3:19	1	8	προσώπου			2	face
+ISA 3:19	1	6	κόσμον	κόσμος	noun, accusative masc. sg., ornament	1	ornament
+ISA 3:19	1	7	τοῦ	ὁ	article, genitive neuter singular	1	of the
+ISA 3:19	1	8	προσώπου	πρόσωπον	noun, genitive neuter singular	1	face
+ISA 3:19	1	8	προσώπου			2	presence
 ISA 3:19	1	9	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 ISA 3:20	1	1	καὶ	καί	conjunction	1	and
 ISA 3:20	1	2	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 3:20	1	3	σύνθεσιν	σύνθεσις	noun, accusative fem. sg	1	arrangement
-ISA 3:20	1	4	τοῦ	ὁ	article, genitive singular	1	the
+ISA 3:20	1	4	τοῦ	ὁ	article, genitive singular	1	of the
 ISA 3:20	1	5	κόσμου	κόσμος	noun, genitive masculine singular	1	adornment
 ISA 3:20	1	5	κόσμου			2	ornaments
 ISA 3:20	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -499,7 +499,7 @@ ISA 3:22	1	2	τὰ	ὁ	article, accusative neuter plural	1	the
 ISA 3:22	1	3	ἐπιβλήματα	ἐπίβλημα	noun, accusative neuter plural	1	coverings
 ISA 3:22	1	3	ἐπιβλήματα			2	wraps
 ISA 3:22	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
-ISA 3:22	1	5	κατὰ	κατά	preposition with the accusative	1	according to
+ISA 3:22	1	5	κατὰ	κατά	preposition with the accusative	1	for
 ISA 3:22	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 3:22	1	7	οἰκίαν	οἰκία	noun, accusative feminine singular	1	house
 ISA 3:22	1	8	καὶ	καί	conjunction	1	and
@@ -521,7 +521,7 @@ ISA 3:23	1	10	καὶ	καί	conjunction	1	and
 ISA 3:23	1	11	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 3:23	1	12	βύσσον	βύσσος	noun, accusative feminine singular	1	fine linen
 ISA 3:23	1	13	σὺν	σύν	preposition with the dative, 'with	1	with
-ISA 3:23	1	14	χρυσίῳ	χρυσίον	noun, dative neut. sg., instrumental 'with gold'	1	with gold
+ISA 3:23	1	14	χρυσίῳ	χρυσίον	noun, dative neut. sg., instrumental 'with gold'	1	gold
 ISA 3:23	1	15	καὶ	καί	conjunction	1	and
 ISA 3:23	1	16	ὑακίνθῳ	ὑάκινθος	noun, dative feminine singular	1	blue-purple yarn
 ISA 3:23	1	16	ὑακίνθῳ			2	hyacinth-colored material
@@ -536,7 +536,7 @@ ISA 3:24	1	1	καὶ	καί	conjunction	1	and
 ISA 3:24	1	2	ἔσται	εἰμί	future indicative, third singular	1	will be
 ISA 3:24	1	3	ἀντὶ	ἀντί	preposition with the genitive	1	in place of
 ISA 3:24	1	3	ἀντὶ			2	instead of
-ISA 3:24	1	4	ὀσμῆς	ὀσμή	noun, genitive feminine singular	1	of aroma
+ISA 3:24	1	4	ὀσμῆς	ὀσμή	noun, genitive feminine singular	1	aroma
 ISA 3:24	1	5	ἡδείας	ἡδύς	adjective, genitive feminine singular	1	sweet
 ISA 3:24	1	5	ἡδείας			2	pleasant
 ISA 3:24	1	6	κονιορτὸς	κονιορτός	noun, nominative masculine singular, dust	1	fine dust
@@ -544,7 +544,7 @@ ISA 3:24	1	7	καὶ	καί	conjunction	1	and
 ISA 3:24	1	8	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
 ISA 3:24	1	9	ζώνης	ζώνη	noun, genitive feminine singular	1	belt
 ISA 3:24	1	9	ζώνης			2	girdle
-ISA 3:24	1	10	σχοινίῳ	σχοινίον	noun, dative neuter singular	1	a measuring line
+ISA 3:24	1	10	σχοινίῳ	σχοινίον	noun, dative neuter singular	1	with a cord
 ISA 3:24	1	10	σχοινίῳ			2	a cord
 ISA 3:24	1	11	ζώσῃ	ζώννυμι	future middle indicative, second singular	1	you will gird yourself
 ISA 3:24	1	12	καὶ	καί	conjunction	1	and
@@ -552,9 +552,9 @@ ISA 3:24	1	13	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
 ISA 3:24	1	14	τοῦ	ὁ	article, genitive singular	1	the
 ISA 3:24	1	15	κόσμου	κόσμος	noun, genitive masculine singular	1	adornment
 ISA 3:24	1	15	κόσμου			2	ornaments
-ISA 3:24	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
+ISA 3:24	1	16	τῆς	ὁ	article, genitive feminine singular	1	of the
 ISA 3:24	1	17	κεφαλῆς	κεφαλή	noun, genitive feminine singular	1	head
-ISA 3:24	1	18	τοῦ	ὁ	article, genitive singular	1	the
+ISA 3:24	1	18	τοῦ	ὁ	article, genitive singular	1	of the
 ISA 3:24	1	19	χρυσίου	χρυσίον	noun, genitive neuter singular	1	gold
 ISA 3:24	1	20	φαλάκρωμα	φαλάκρωμα	noun, accusative neuter singular	1	baldness
 ISA 3:24	1	20	φαλάκρωμα			2	bald patch
@@ -586,7 +586,7 @@ ISA 3:25	1	9	μαχαίρᾳ			2	sword
 ISA 3:25	1	10	πεσεῖται	πίπτω	future middle indicative, third singular	1	will fall
 ISA 3:25	1	11	καὶ	καί	conjunction	1	and
 ISA 3:25	1	12	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 3:25	1	13	ἰσχύοντες	ἰσχύω	present active participle, nominative masculine plural; substantival	1	the powerful
+ISA 3:25	1	13	ἰσχύοντες	ἰσχύω	present active participle, nominative masculine plural; substantival	1	powerful
 ISA 3:25	1	13	ἰσχύοντες			2	those in power
 ISA 3:25	1	14	ὑμῶν	σύ	pronoun, genitive second plural	1	your
 ISA 3:25	1	15	μαχαίρᾳ	μάχαιρα	noun, dative feminine singular	1	by the sword

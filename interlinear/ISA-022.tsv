@@ -1,13 +1,13 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 ISA 22:1	1	1	ΤΟ	ὁ	article, nominative neuter singular	1	the
 ISA 22:1	1	2	ΟΡΑΜΑ	ὅραμα	noun, nominative neuter singular	1	vision
-ISA 22:1	1	3	ΤΗΣ	ὁ	article, genitive feminine singular	1	the
+ISA 22:1	1	3	ΤΗΣ	ὁ	article, genitive feminine singular	1	of the
 ISA 22:1	1	4	ΦΑΡΑΓΓΟΣ	φάραγξ	noun, genitive feminine singular	1	valley
 ISA 22:1	1	4	ΦΑΡΑΓΓΟΣ			2	ravine
-ISA 22:1	1	5	ΣΙΩΝ	Σιών	indeclinable place name, genitive in context	1	Zion
+ISA 22:1	1	5	ΣΙΩΝ	Σιών	indeclinable place name, genitive in context	1	of Zion
 ISA 22:1	1	6	Τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 ISA 22:1	1	7	ἐγένετό	γίνομαι	aorist middle indicative, third singular	1	happened
-ISA 22:1	1	8	σοι	σύ	personal pronoun, dative singular	1	for you
+ISA 22:1	1	8	σοι	σύ	personal pronoun, dative singular	1	to you
 ISA 22:1	1	9	νῦν	νῦν	adverb of time	1	now
 ISA 22:1	1	10	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 ISA 22:1	1	11	ἀνέβητε	ἀναβαίνω	aorist active indicative, 2nd pl	1	you went up
@@ -15,7 +15,7 @@ ISA 22:1	1	12	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 ISA 22:1	1	13	εἰς	εἰς	preposition with the accusative	1	into
 ISA 22:1	1	14	δώματα	δῶμα	noun, accusative neuter plural	1	rooftops
 ISA 22:1	1	14	δώματα			2	roofs
-ISA 22:1	1	15	μάταια	μάταιος	adjective, accusative neuter plural; substantival	1	worthless things
+ISA 22:1	1	15	μάταια	μάταιος	adjective, accusative neuter plural; substantival	1	vain
 ISA 22:1	1	15	μάταια			2	empty things
 ISA 22:2	1	1	Ἐνεπλήσθη	ἐμπίπλημι	aorist passive indicative, third singular	1	was filled
 ISA 22:2	1	1	Ἐνεπλήσθη			2	ate her fill
@@ -32,7 +32,7 @@ ISA 22:2	1	9	τραυματίαι	τραυματίας	noun, nominative masculin
 ISA 22:2	1	10	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 22:2	1	11	οὐ	οὐ	negative adverb with future indicative	1	not
 ISA 22:2	1	12	τραυματίαι	τραυματίας	noun, nominative masculine plural	1	wounded people
-ISA 22:2	1	13	μαχαίρας	μάχαιρα	noun, genitive feminine singular	1	sword
+ISA 22:2	1	13	μαχαίρας	μάχαιρα	noun, genitive feminine singular	1	of sword
 ISA 22:2	1	14	οὐδὲ	οὐδέ	negative conjunction	1	nor
 ISA 22:2	1	15	οἱ	ὁ	article nominative masculine plural	1	the
 ISA 22:2	1	16	νεκροί	νεκρός	adjective, nominative masculine plural; substantival or predicate	1	dead people
@@ -40,7 +40,7 @@ ISA 22:2	1	16	νεκροί			2	dead
 ISA 22:2	1	17	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 22:2	1	18	νεκροὶ	νεκρός	adjective, nominative masculine plural; substantival or predicate	1	dead people
 ISA 22:2	1	18	νεκροὶ			2	dead
-ISA 22:2	1	19	πολέμου	πόλεμος	noun, genitive masculine singular	1	war
+ISA 22:2	1	19	πολέμου	πόλεμος	noun, genitive masculine singular	1	of war
 ISA 22:2	1	19	πολέμου			2	battle
 ISA 22:3	1	1	Πάντες	πᾶς	adjective, nominative masculine plural	1	all
 ISA 22:3	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -49,13 +49,13 @@ ISA 22:3	1	4	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 22:3	1	5	πεφεύγασι	φεύγω	perfect active indicative, third plural	1	have fled
 ISA 22:3	1	6	καὶ	καί	conjunction	1	and
 ISA 22:3	1	7	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 22:3	1	8	ἁλόντες	ἁλίσκομαι	aorist active participle, nominative masculine plural; substantival	1	those captured
+ISA 22:3	1	8	ἁλόντες	ἁλίσκομαι	aorist active participle, nominative masculine plural; substantival	1	captured
 ISA 22:3	1	9	σκληρῶς	σκληρῶς	adverb	1	harshly
 ISA 22:3	1	10	δεδεμένοι	δέω	perfect passive participle, nominative masculine plural	1	bound
 ISA 22:3	1	11	εἰσὶ	εἰμί	present active indicative, third plural	1	are
 ISA 22:3	1	12	καὶ	καί	conjunction	1	and
 ISA 22:3	1	13	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 22:3	1	14	ἰσχύοντες	ἰσχύω	present active participle, nominative masculine plural; substantival	1	the powerful
+ISA 22:3	1	14	ἰσχύοντες	ἰσχύω	present active participle, nominative masculine plural; substantival	1	powerful
 ISA 22:3	1	14	ἰσχύοντες			2	those in power
 ISA 22:3	1	15	ἐν	ἐν	preposition with the dative	1	in
 ISA 22:3	1	16	σοὶ	σύ	personal pronoun, dative singular	1	you
@@ -78,11 +78,11 @@ ISA 22:4	1	9	κατισχύσητε			2	you insist
 ISA 22:4	1	10	παρακαλεῖν	παρακαλέω	present active infinitive	1	to comfort
 ISA 22:4	1	10	παρακαλεῖν			2	to console
 ISA 22:4	1	11	με	ἐγώ	personal pronoun, accusative singular	1	me
-ISA 22:4	1	12	ἐπὶ	ἐπί	preposition (case from context)	1	to
+ISA 22:4	1	12	ἐπὶ	ἐπί	preposition (case from context)	1	over
 ISA 22:4	1	13	τὸ	ὁ	article, neuter singular (case from context)	1	the
 ISA 22:4	1	14	σύντριμμα	σύντριμμα	noun, accusative neuter singular	1	ruin
 ISA 22:4	1	14	σύντριμμα			2	destruction
-ISA 22:4	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
+ISA 22:4	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
 ISA 22:4	1	16	θυγατρὸς	θυγάτηρ	noun, genitive feminine singular	1	daughter
 ISA 22:4	1	17	τοῦ	ὁ	article, genitive neuter singular	1	of the
 ISA 22:4	1	18	γένους	γένος	noun, genitive neuter singular	1	people
@@ -90,7 +90,7 @@ ISA 22:4	1	18	γένους			2	family
 ISA 22:4	1	19	μου	ἐγώ	personal pronoun, genitive first singular	1	my
 ISA 22:5	1	1	ὅτι	ὅτι	causal conjunction	1	because
 ISA 22:5	1	2	ἡμέρα	ἡμέρα	noun, nominative feminine singular	1	day
-ISA 22:5	1	3	ταραχῆς	ταραχή	noun, genitive feminine singular	1	trouble
+ISA 22:5	1	3	ταραχῆς	ταραχή	noun, genitive feminine singular	1	of trouble
 ISA 22:5	1	3	ταραχῆς			2	turmoil
 ISA 22:5	1	4	καὶ	καί	conjunction	1	and
 ISA 22:5	1	5	ἀπωλείας	ἀπώλεια	noun, genitive feminine singular	1	destruction
@@ -106,7 +106,7 @@ ISA 22:5	1	12	Σαβαώθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	Sab
 ISA 22:5	1	12	Σαβαώθ			2	hosts
 ISA 22:5	1	13	ἐν	ἐν	preposition with the dative	1	in
 ISA 22:5	1	14	φάραγγι	φάραγξ	noun, dative feminine singular	1	ravine
-ISA 22:5	1	15	Σιὼν	Σιών	indeclinable place name, genitive in context	1	Zion
+ISA 22:5	1	15	Σιὼν	Σιών	indeclinable place name, genitive in context	1	of Zion
 ISA 22:5	1	16	πλανῶνται	πλανάω	present passive indicative, 3rd pl., 'are wandering'	1	wander
 ISA 22:5	1	17	ἀπὸ	ἀπό	preposition with the genitive	1	from
 ISA 22:5	1	18	μικροῦ	μικρός	adjective, genitive masculine singular; used substantivally	1	the youngest
@@ -125,11 +125,11 @@ ISA 22:6	1	5	φαρέτρας	φαρέτρα	noun, accusative feminine plural	1	
 ISA 22:6	1	6	καὶ	καί	conjunction	1	and
 ISA 22:6	1	7	ἀναβᾶται	ἀναβάτης	noun, nominative masculine plural	1	riders
 ISA 22:6	1	8	ἄνθρωποι	ἄνθρωπος	noun, nominative masculine plural	1	men
-ISA 22:6	1	9	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
+ISA 22:6	1	9	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	on
 ISA 22:6	1	10	ἵπποις	ἵππος	noun, dative masculine plural	1	horses
 ISA 22:6	1	11	καὶ	καί	conjunction	1	and
 ISA 22:6	1	12	συναγωγὴ	συναγωγή	noun nominative feminine singular	1	an assembly
-ISA 22:6	1	13	παρατάξεως	παράταξις	noun, genitive feminine singular	1	battle formation
+ISA 22:6	1	13	παρατάξεως	παράταξις	noun, genitive feminine singular	1	of battle formation
 ISA 22:6	1	13	παρατάξεως			2	battle
 ISA 22:7	1	1	Καὶ	καί	conjunction	1	and
 ISA 22:7	1	2	ἔσονται	εἰμί	future indicative, third plural	1	will be
@@ -140,7 +140,7 @@ ISA 22:7	1	5	φάραγγές	φάραγξ	noun, nominative feminine plural	1	ra
 ISA 22:7	1	5	φάραγγές			2	valleys
 ISA 22:7	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 22:7	1	7	πλησθήσονται	πίμπλημι	future passive indicative, third plural with genitive	1	will be filled
-ISA 22:7	1	8	ἁρμάτων	ἅρμα	noun, genitive neut. pl	1	chariots
+ISA 22:7	1	8	ἁρμάτων	ἅρμα	noun, genitive neut. pl	1	with chariots
 ISA 22:7	1	9	οἱ	ὁ	article, nominative masculine plural	1	the
 ISA 22:7	1	10	δὲ	δέ	postpositive conjunction	1	and
 ISA 22:7	1	11	ἱππεῖς	ἱππεύς	noun, nominative masculine plural	1	horsemen
@@ -157,7 +157,7 @@ ISA 22:8	1	4	πύλας	πύλη	noun, accusative feminine plural	1	gates
 ISA 22:8	1	5	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 ISA 22:8	1	6	καὶ	καί	conjunction	1	and
 ISA 22:8	1	7	ἐμβλέψονται	ἐμβλέπω	future middle indicative, third plural	1	they will look
-ISA 22:8	1	8	τῇ	ὁ	article, dative feminine singular	1	the
+ISA 22:8	1	8	τῇ	ὁ	article, dative feminine singular	1	on the
 ISA 22:8	1	9	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 ISA 22:8	1	10	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative feminine singular	1	that
 ISA 22:8	1	11	εἰς	εἰς	preposition with the accusative	1	into
@@ -165,7 +165,7 @@ ISA 22:8	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
 ISA 22:8	1	13	ἐκλεκτοὺς	ἐκλεκτός	adjective, accusative masculine plural	1	choice
 ISA 22:8	1	13	ἐκλεκτοὺς			2	selected
 ISA 22:8	1	14	οἴκους	οἶκος	noun, accusative masculine plural	1	houses
-ISA 22:8	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
+ISA 22:8	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
 ISA 22:8	1	16	πόλεως	πόλις	noun, genitive feminine singular	1	city
 ISA 22:8	1	16	πόλεως			2	town
 ISA 22:9	1	1	καὶ	καί	conjunction	1	and
@@ -174,9 +174,9 @@ ISA 22:9	1	2	ἀνακαλύψουσι			2	they will expose
 ISA 22:9	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 ISA 22:9	1	4	κρυπτὰ	κρυπτός	adjective, accusative neuter plural; substantival	1	hidden things
 ISA 22:9	1	4	κρυπτὰ			2	hidden places
-ISA 22:9	1	5	τῶν	ὁ	article, genitive plural	1	the
+ISA 22:9	1	5	τῶν	ὁ	article, genitive plural	1	of the
 ISA 22:9	1	6	οἴκων	οἶκος	noun, genitive masculine plural	1	houses
-ISA 22:9	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
+ISA 22:9	1	7	τῆς	ὁ	article, genitive feminine singular	1	of the
 ISA 22:9	1	8	ἄκρας	ἄκρα	noun, genitive feminine singular	1	citadel
 ISA 22:9	1	8	ἄκρας			2	stronghold
 ISA 22:9	1	9	Δαυίδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
@@ -186,12 +186,12 @@ ISA 22:9	1	12	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 ISA 22:9	1	13	πλείους	πολύς	comparative adjective, nominative masculine plural	1	more numerous
 ISA 22:9	1	14	εἰσὶ	εἰμί	present active indicative, third plural	1	are
 ISA 22:9	1	15	καὶ	καί	conjunction	1	and
-ISA 22:9	1	16	ὅτι	ὅτι	causal conjunction	1	because
+ISA 22:9	1	16	ὅτι	ὅτι	causal conjunction	1	that
 ISA 22:9	1	17	ἀπέστρεψαν	ἀποστρέφω	aorist active indicative, third plural	1	they diverted
 ISA 22:9	1	17	ἀπέστρεψαν			2	they turned away
 ISA 22:9	1	18	τὸ	ὁ	article, nominative neuter singular	1	the
 ISA 22:9	1	19	ὕδωρ	ὕδωρ	noun, nominative neuter singular	1	water
-ISA 22:9	1	20	τῆς	ὁ	article, genitive feminine singular	1	the
+ISA 22:9	1	20	τῆς	ὁ	article, genitive feminine singular	1	of the
 ISA 22:9	1	21	ἀρχαίας	ἀρχαῖος	adjective, genitive feminine singular	1	old
 ISA 22:9	1	21	ἀρχαίας			2	ancient
 ISA 22:9	1	22	κολυμβήθρας	κολυμβήθρα	noun, genitive feminine singular	1	pool
@@ -212,12 +212,12 @@ ISA 22:10	1	8	καθείλοσαν			2	they demolished
 ISA 22:10	1	9	τοὺς	ὁ	article, accusative masculine plural	1	the
 ISA 22:10	1	10	οἴκους	οἶκος	noun, accusative masculine plural	1	houses
 ISA 22:10	1	11	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	of Jerusalem
-ISA 22:10	1	12	εἰς	εἰς	preposition with the accusative	1	into
+ISA 22:10	1	12	εἰς	εἰς	preposition with the accusative	1	for
 ISA 22:10	1	13	ὀχύρωμα	ὀχύρωμα	noun, accusative neuter singular	1	fortification
 ISA 22:10	1	13	ὀχύρωμα			2	reinforcement
-ISA 22:10	1	14	τοῦ	ὁ	article, genitive singular	1	the
+ISA 22:10	1	14	τοῦ	ὁ	article, genitive singular	1	of the
 ISA 22:10	1	15	τείχους	τεῖχος	noun, genitive neuter singular	1	wall
-ISA 22:10	1	16	τῇ	ὁ	article, dative feminine singular	1	the
+ISA 22:10	1	16	τῇ	ὁ	article, dative feminine singular	1	for the
 ISA 22:10	1	17	πόλει	πόλις	noun, dative feminine singular	1	city
 ISA 22:11	1	1	Καὶ	καί	conjunction	1	and
 ISA 22:11	1	2	ἐποιήσατε	ποιέω	aorist active indicative, second plural	1	you made
@@ -239,19 +239,19 @@ ISA 22:11	1	13	ἀρχαίας			2	ancient
 ISA 22:11	1	14	καὶ	καί	conjunction	1	and
 ISA 22:11	1	15	οὐκ	οὐ	negative particle	1	not
 ISA 22:11	1	16	ἐνεβλέψατε	ἐμβλέπω	aorist active indicative, second plural	1	you looked
-ISA 22:11	1	17	εἰς	εἰς	preposition with accusative	1	into
+ISA 22:11	1	17	εἰς	εἰς	preposition with accusative	1	to
 ISA 22:11	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 22:11	1	19	ἀπ᾿	ἀπό	elided preposition with genitive	1	from
-ISA 22:11	1	20	ἀρχῆς	ἀρχή	noun, genitive feminine singular	1	head
+ISA 22:11	1	20	ἀρχῆς	ἀρχή	noun, genitive feminine singular	1	the beginning
 ISA 22:11	1	20	ἀρχῆς			2	beginning
 ISA 22:11	1	21	ποιήσαντα	ποιέω	aorist active participle, accusative masculine singular; substantival	1	one who made
 ISA 22:11	1	21	ποιήσαντα			2	maker
-ISA 22:11	1	22	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
+ISA 22:11	1	22	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 ISA 22:11	1	23	καὶ	καί	conjunction	1	and
 ISA 22:11	1	24	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 22:11	1	25	κτήσαντα	κτάομαι	aorist active participle, accusative masculine singular; substantival	1	one who established
 ISA 22:11	1	25	κτήσαντα			2	one who acquired
-ISA 22:11	1	26	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
+ISA 22:11	1	26	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 ISA 22:11	1	27	πόρρωθεν	πόρρωθεν	adverb	1	from far away
 ISA 22:11	1	28	οὐκ	οὐ	particle	1	not
 ISA 22:11	1	29	εἴδατε	ὁράω	aorist active indicative, second plural	1	you saw
@@ -272,9 +272,9 @@ ISA 22:12	1	12	κοπετὸν	κοπετός	noun, accusative masculine singula
 ISA 22:12	1	13	καὶ	καί	conjunction	1	and
 ISA 22:12	1	14	ξύρησιν	ξύρησις	noun, accusative feminine singular	1	shaving
 ISA 22:12	1	15	καὶ	καί	conjunction	1	and
-ISA 22:12	1	16	ζῶσιν	ζῶσις	noun, accusative feminine singular	1	putting on
-ISA 22:12	1	16	ζῶσιν			2	girding
-ISA 22:12	1	17	σάκκων	σάκκος	noun, genitive masculine plural	1	sackcloth garments
+ISA 22:12	1	16	ζῶσιν	ζῶσις	noun, accusative feminine singular	1	girding
+ISA 22:12	1	16	ζῶσιν			2	putting on
+ISA 22:12	1	17	σάκκων	σάκκος	noun, genitive masculine plural	1	of sackcloth
 ISA 22:12	1	17	σάκκων			2	sacks
 ISA 22:13	1	1	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
 ISA 22:13	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -303,7 +303,7 @@ ISA 22:13	1	20	καὶ	καί	conjunction	1	and
 ISA 22:13	1	21	πίωμεν	πίνω	aorist active subjunctive, first plural	1	let us drink
 ISA 22:13	1	22	αὔριον	αὔριον	temporal adverb, substantival	1	tomorrow
 ISA 22:13	1	23	γὰρ	γάρ	postpositive conjunction	1	for
-ISA 22:13	1	24	ἀποθνήσκομεν	ἀποθνῄσκω	present active indicative, first plural in question 'why are we dying?'	1	are we dying
+ISA 22:13	1	24	ἀποθνήσκομεν	ἀποθνῄσκω	present active indicative, first plural in question 'why are we dying?'	1	we die
 ISA 22:14	1	1	Καὶ	καί	conjunction	1	and
 ISA 22:14	1	2	ἀνακεκαλυμμένα	ἀνακαλύπτω	perfect passive participle, nominative neuter plural	1	revealed
 ISA 22:14	1	2	ἀνακεκαλυμμένα			2	uncovered
@@ -329,7 +329,7 @@ ISA 22:14	1	19	ἀποθάνητε	ἀποθνῄσκω	aorist active subjunctiv
 ISA 22:14	1	20	εἶπε	λέγω	aorist active indicative, third singular	1	said
 ISA 22:14	1	21	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 ISA 22:14	1	22	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-ISA 22:14	1	23	τῶν	ὁ	article, genitive plural	1	the
+ISA 22:14	1	23	τῶν	ὁ	article, genitive plural	1	of the
 ISA 22:14	1	24	δυνάμεων	δύναμις	noun, genitive feminine plural	1	hosts
 ISA 22:14	1	24	δυνάμεων			2	powers
 ISA 22:15	1	1	τάδε	ὅδε	demonstrative pronoun, accusative neuter plural, introducing the message 'these things'	1	these things
@@ -372,7 +372,7 @@ ISA 22:17	1	1	καὶ	καί	conjunction	1	and
 ISA 22:17	1	2	ἐποίησας	ποιέω	aorist active indicative, second singular	1	you made
 ISA 22:17	1	3	σεαυτῷ	σεαυτοῦ	reflexive pronoun, dative masculine singular	1	for yourself
 ISA 22:17	1	4	ἐν	ἐν	preposition with the dative	1	in
-ISA 22:17	1	5	ὑψηλῷ	ὑψηλός	adjective, dative masculine singular	1	high
+ISA 22:17	1	5	ὑψηλῷ	ὑψηλός	adjective, dative masculine singular	1	high place
 ISA 22:17	1	5	ὑψηλῷ			2	held high
 ISA 22:17	1	6	μνημεῖον	μνημεῖον	noun, accusative neuter singular	1	tomb
 ISA 22:17	1	6	μνημεῖον			2	memorial
@@ -470,7 +470,7 @@ ISA 22:20	1	10	παῖδά	παῖς	noun, accusative masculine singular	1	serva
 ISA 22:20	1	11	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ISA 22:20	1	12	Ἐλιακεὶμ	Ἐλιακείμ	indeclinable personal name, accusative in context	1	Eliakim
 ISA 22:20	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
-ISA 22:20	1	14	τοῦ	ὁ	article, genitive singular	1	the
+ISA 22:20	1	14	τοῦ	ὁ	article, genitive singular	1	son of
 ISA 22:20	1	15	Χελκίου	Χελκίας	noun, genitive masculine singular; personal name	1	Hilkiah
 ISA 22:20	1	15	Χελκίου			2	Chelkias
 ISA 22:21	1	1	καὶ	καί	conjunction	1	and
@@ -504,13 +504,13 @@ ISA 22:21	1	25	καὶ	καί	conjunction	1	and
 ISA 22:21	1	26	ἔσται	εἰμί	future indicative, third singular	1	will be
 ISA 22:21	1	27	ὡς	ὡς	comparative particle	1	as
 ISA 22:21	1	28	πατὴρ	πατήρ	noun, nominative masculine singular	1	father
-ISA 22:21	1	29	τοῖς	ὁ	article, dative masculine plural	1	the
+ISA 22:21	1	29	τοῖς	ὁ	article, dative masculine plural	1	to
 ISA 22:21	1	30	ἐνοικοῦσιν	ἐνοικέω	present active participle, dative masculine plural; substantival	1	those who dwell
 ISA 22:21	1	30	ἐνοικοῦσιν			2	inhabitants
 ISA 22:21	1	31	ἐν	ἐν	preposition with the dative	1	in
 ISA 22:21	1	32	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 ISA 22:21	1	33	καὶ	καί	conjunction	1	and
-ISA 22:21	1	34	τοῖς	ὁ	article, dative masculine plural	1	the
+ISA 22:21	1	34	τοῖς	ὁ	article, dative masculine plural	1	to
 ISA 22:21	1	35	ἐνοικοῦσιν	ἐνοικέω	present active participle, dative masculine plural; substantival	1	those who dwell
 ISA 22:21	1	35	ἐνοικοῦσιν			2	inhabitants
 ISA 22:21	1	36	ἐν	ἐν	preposition with the dative	1	in
@@ -567,10 +567,10 @@ ISA 22:23	1	7	πιστῷ	πιστός	adjective, dative masculine singular	1	se
 ISA 22:23	1	7	πιστῷ			2	reliable
 ISA 22:23	1	8	καὶ	καί	conjunction	1	and
 ISA 22:23	1	9	ἔσται	εἰμί	future indicative, third singular	1	he shall be
-ISA 22:23	1	10	εἰς	εἰς	preposition with accusative	1	into
+ISA 22:23	1	10	εἰς	εἰς	preposition with accusative	1	for
 ISA 22:23	1	11	θρόνον	θρόνος	noun accusative masculine singular	1	throne
 ISA 22:23	1	12	δόξης	δόξα	noun, genitive feminine singular	1	of glory
-ISA 22:23	1	13	τοῦ	ὁ	article, genitive masculine singular	1	the
+ISA 22:23	1	13	τοῦ	ὁ	article, genitive masculine singular	1	of the
 ISA 22:23	1	14	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 ISA 22:23	1	14	οἴκου			2	household
 ISA 22:23	1	15	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -600,11 +600,11 @@ ISA 22:24	1	19	τὸ	ὁ	article, neuter singular (case from context)	1	the
 ISA 22:24	1	20	σκεῦος	σκεῦος	noun, nominative neuter singular	1	vessel
 ISA 22:24	1	20	σκεῦος			2	utensil
 ISA 22:24	1	21	τὸ	ὁ	article, neuter singular (case from context)	1	the
-ISA 22:24	1	22	μικρὸν	μικρός	substantival adjective, accusative neuter singular	1	a little
+ISA 22:24	1	22	μικρὸν	μικρός	substantival adjective, accusative neuter singular	1	small
 ISA 22:24	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
-ISA 22:24	1	24	σκεύους	σκεῦος	noun, genitive neuter singular	1	object
-ISA 22:24	1	24	σκεύους			2	vessel
-ISA 22:24	1	25	τῶν	ὁ	article, genitive neuter plural	1	the
+ISA 22:24	1	24	σκεύους	σκεῦος	noun, genitive neuter singular	1	vessel
+ISA 22:24	1	24	σκεύους			2	object
+ISA 22:24	1	25	τῶν	ὁ	article, genitive neuter plural	1	of the
 ISA 22:24	1	26	Ἀγανὼθ	Ἀγανώθ	indeclinable vessel designation in genitive position	1	bowls
 ISA 22:24	1	26	Ἀγανὼθ			2	basins
 ISA 22:24	1	27	καὶ	καί	conjunction	1	and
@@ -612,7 +612,7 @@ ISA 22:24	1	28	ἔσονται	εἰμί	future middle indicative, third plural	
 ISA 22:24	1	29	ἐπικρεμάμενοι	ἐπικρεμάννυμι	present middle participle, nominative masculine plural	1	hanging
 ISA 22:24	1	29	ἐπικρεμάμενοι			2	depending
 ISA 22:24	1	30	ἐν	ἐν	preposition with the dative	1	in
-ISA 22:24	1	31	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+ISA 22:24	1	31	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 ISA 22:25	1	1	Ἐν	ἐν	preposition with the dative	1	in
 ISA 22:25	1	2	τῇ	ὁ	article, dative feminine singular	1	the
 ISA 22:25	1	3	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
@@ -643,7 +643,7 @@ ISA 22:25	1	22	ἐξολοθρευθήσεται			2	will be wiped out
 ISA 22:25	1	23	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 22:25	1	24	δόξα	δόξα	noun, nominative feminine singular	1	glory
 ISA 22:25	1	25	ἡ	ὁ	article, nominative feminine singular	1	the
-ISA 22:25	1	26	ἐπ᾽	ἐπί	preposition with the accusative, elided	1	against
+ISA 22:25	1	26	ἐπ᾽	ἐπί	preposition with the accusative, elided	1	on
 ISA 22:25	1	27	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 ISA 22:25	1	28	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 ISA 22:25	1	29	Κύριος	κύριος	noun, nominative masculine singular, the LORD (capitalized, no article)	1	the LORD

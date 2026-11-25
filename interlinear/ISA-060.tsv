@@ -33,7 +33,7 @@ ISA 60:2	1	10	ἐπὶ			2	upon
 ISA 60:2	1	11	δὲ	δέ	postpositive conjunction	1	but
 ISA 60:2	1	12	σὲ	σύ	pronoun, accusative second singular	1	you
 ISA 60:2	1	13	φανήσεται	φαίνω	future passive indicative, third singular	1	will appear
-ISA 60:2	1	14	Κύριος	κύριος	noun, nominative masculine singular	1	master
+ISA 60:2	1	14	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 ISA 60:2	1	15	καὶ	καί	conjunction	1	and
 ISA 60:2	1	16	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 60:2	1	17	δόξα	δόξα	noun nominative feminine singular	1	glory
@@ -50,8 +50,8 @@ ISA 60:3	1	4	τῷ	ὁ	article, dative neuter singular	1	by the
 ISA 60:3	1	5	φωτί	φῶς	noun, dative neuter singular	1	light
 ISA 60:3	1	6	σου	σύ	personal pronoun, possessive genitive singular	1	your
 ISA 60:3	1	7	καὶ	καί	conjunction	1	and
-ISA 60:3	1	8	ἔθνη	ὁ	article, dative feminine singular	1	by the
-ISA 60:3	1	9	τῇ	ὁ	article, dative feminine singular	1	the
+ISA 60:3	1	8	ἔθνη	ὁ	article, dative feminine singular	1	nations
+ISA 60:3	1	9	τῇ	ὁ	article, dative feminine singular	1	by the
 ISA 60:3	1	10	λαμπρότητι	λαμπρότης	noun, dative feminine singular	1	brightness
 ISA 60:3	1	10	λαμπρότητι			2	splendor
 ISA 60:3	1	11	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -83,7 +83,7 @@ ISA 60:4	1	20	καὶ	καί	conjunction	1	and
 ISA 60:4	1	21	αἱ	ὁ	article, nominative feminine plural	1	the
 ISA 60:4	1	22	θυγατέρες	θυγάτηρ	noun, nominative feminine plural	1	daughters
 ISA 60:4	1	23	σου	σύ	personal pronoun, possessive genitive singular	1	your
-ISA 60:4	1	24	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+ISA 60:4	1	24	ἐπ᾽	ἐπί	preposition with the accusative	1	on
 ISA 60:4	1	25	ὤμων	ὦμος	noun, genitive masculine plural	1	shoulders
 ISA 60:4	1	26	ἀρθήσονται	αἴρω	future passive indicative, third plural	1	will be carried
 ISA 60:4	1	26	ἀρθήσονται			2	will be lifted
@@ -95,16 +95,16 @@ ISA 60:5	1	5	καὶ	καί	conjunction	1	and
 ISA 60:5	1	6	φοβηθήσῃ	φοβέομαι	future passive indicative, second singular	1	you shall fear
 ISA 60:5	1	7	καὶ	καί	conjunction	1	and
 ISA 60:5	1	8	ἐκστήσῃ	ἐξίστημι	future middle indicative, second singular	1	you will be astounded
-ISA 60:5	1	9	τῇ	ὁ	definite article	1	the
+ISA 60:5	1	9	τῇ	ὁ	definite article	1	in the
 ISA 60:5	1	10	καρδίᾳ	καρδία	noun, dative feminine singular	1	heart
 ISA 60:5	1	11	ὅτι	ὅτι	causal conjunction	1	because
 ISA 60:5	1	12	μεταβαλεῖ	μεταβάλλω	future active indicative, third singular	1	will turn
 ISA 60:5	1	12	μεταβαλεῖ			2	will be transferred
-ISA 60:5	1	13	εἰς	εἰς	preposition with accusative	1	against
+ISA 60:5	1	13	εἰς	εἰς	preposition with accusative	1	to
 ISA 60:5	1	14	σὲ	σύ	personal pronoun accusative second singular	1	you
 ISA 60:5	1	15	πλοῦτος	πλοῦτος	noun, nominative masculine singular	1	wealth
 ISA 60:5	1	15	πλοῦτος			2	riches
-ISA 60:5	1	16	θαλάσσης	θάλασσα	noun, genitive feminine singular	1	sea
+ISA 60:5	1	16	θαλάσσης	θάλασσα	noun, genitive feminine singular	1	of the sea
 ISA 60:6	1	1	καὶ	καί	conjunction	1	and
 ISA 60:6	1	2	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	of nations
 ISA 60:6	1	3	καὶ	καί	conjunction	1	and
@@ -113,7 +113,7 @@ ISA 60:6	1	5	καὶ	καί	conjunction	1	and
 ISA 60:6	1	6	ἥξουσί	ἥκω	future active indicative, third plural	1	will come
 ISA 60:6	1	7	σοι	σύ	personal pronoun, dative singular	1	to you
 ISA 60:6	1	8	ἀγέλαι	ἀγέλη	noun, nominative feminine plural	1	herds
-ISA 60:6	1	9	καμήλων	κάμηλος	noun, genitive feminine plural	1	camels
+ISA 60:6	1	9	καμήλων	κάμηλος	noun, genitive feminine plural	1	of camels
 ISA 60:6	1	10	καὶ	καί	conjunction	1	and
 ISA 60:6	1	11	καλύψουσί	καλύπτω	future active indicative, third plural	1	will cover
 ISA 60:6	1	12	σε	σύ	personal pronoun, accusative singular	1	you
@@ -145,7 +145,7 @@ ISA 60:7	1	1	Καὶ	καί	conjunction	1	and
 ISA 60:7	1	2	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 ISA 60:7	1	3	τὰ	ὁ	article, nominative neuter plural	1	the
 ISA 60:7	1	4	πρόβατα	πρόβατον	noun, nominative neuter plural	1	sheep
-ISA 60:7	1	5	Κηδὰρ	Κηδάρ	indeclinable personal name, nominative in context	1	Kedar
+ISA 60:7	1	5	Κηδὰρ	Κηδάρ	indeclinable personal name, nominative in context	1	of Kedar
 ISA 60:7	1	6	συναχθήσονται	συνάγω	future passive indicative, third plural	1	they will be gathered
 ISA 60:7	1	7	καὶ	καί	conjunction	1	and
 ISA 60:7	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -170,7 +170,7 @@ ISA 60:7	1	25	μου	ἐγώ	personal pronoun genitive first singular	1	my
 ISA 60:7	1	26	δοξασθήσεται	δοξάζω	future passive indicative, third singular	1	will be glorified
 ISA 60:7	1	26	δοξασθήσεται			2	will be honored
 ISA 60:8	1	1	Τίνες	τίς	interrogative pronoun, nominative masculine plural	1	who
-ISA 60:8	1	2	οἵδε	ὅδε	demonstrative pronoun, nominative masculine plural; introduces an offer	1	here
+ISA 60:8	1	2	οἵδε	ὅδε	demonstrative pronoun, nominative masculine plural; introduces an offer	1	these
 ISA 60:8	1	3	ὡς	ὡς	comparative particle	1	as
 ISA 60:8	1	4	νεφέλαι	νεφέλη	noun, nominative feminine plural	1	clouds
 ISA 60:8	1	5	πέτανται	πέτομαι	present middle indicative, third plural	1	fly
@@ -216,7 +216,7 @@ ISA 60:9	1	31	τὸ	ὁ	article, neuter singular (case from context)	1	the
 ISA 60:9	1	32	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 60:9	1	33	ἅγιον	ἅγιος	adjective, accusative masculine singular; substantival	1	holy one
 ISA 60:9	1	34	τοῦ	ὁ	article, genitive masculine singular	1	of the
-ISA 60:9	1	35	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
+ISA 60:9	1	35	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 ISA 60:9	1	36	ἔνδοξον	ἔνδοξος	adjective, accusative masculine singular	1	glorious
 ISA 60:9	1	36	ἔνδοξον			2	honored
 ISA 60:9	1	37	εἶναι	εἰμί	present infinitive, complementary to ἤρξατο	1	to be
@@ -233,7 +233,7 @@ ISA 60:10	1	10	βασιλεῖς	βασιλεύς	noun, nominative masculine plu
 ISA 60:10	1	11	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 ISA 60:10	1	12	παραστήσονταί	παρίστημι	future middle indicative, third plural	1	will stand by
 ISA 60:10	1	12	παραστήσονταί			2	will attend
-ISA 60:10	1	13	σοι	σύ	personal pronoun, dative singular	1	to you
+ISA 60:10	1	13	σοι	σύ	personal pronoun, dative singular	1	you
 ISA 60:10	1	14	διὰ	διά	preposition with the accusative	1	because of
 ISA 60:10	1	15	γὰρ	γάρ	postpositive conjunction	1	for
 ISA 60:10	1	16	ὀργήν	ὀργή	noun, accusative feminine singular	1	anger
@@ -251,7 +251,7 @@ ISA 60:11	1	2	ἀνοιχθήσονται	ἀνοίγω	future passive indicativ
 ISA 60:11	1	3	αἱ	ὁ	article, nominative feminine plural	1	the
 ISA 60:11	1	4	πύλαι	πύλη	noun, nominative fem. pl	1	gates
 ISA 60:11	1	5	σου	σύ	personal pronoun, possessive genitive singular	1	your
-ISA 60:11	1	6	διαπαντὸς	διαπαντός	adverb modifying the offering	1	continual
+ISA 60:11	1	6	διαπαντὸς	διαπαντός	adverb modifying the offering	1	continually
 ISA 60:11	1	6	διαπαντὸς			2	regular
 ISA 60:11	1	7	ἡμέρας	ἡμέρα	noun, genitive feminine singular; genitive of time	1	by day
 ISA 60:11	1	8	καὶ	καί	conjunction	1	and
@@ -288,12 +288,12 @@ ISA 60:12	1	17	ἐρημωθήσονται	ἐρημόω	future passive indicati
 ISA 60:13	1	1	Καὶ	καί	conjunction	1	and
 ISA 60:13	1	2	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 60:13	1	3	δόξα	δόξα	noun, nominative fem. sg	1	glory
-ISA 60:13	1	4	τοῦ	ὁ	article, genitive singular	1	the
-ISA 60:13	1	5	Λιβάνου	Λίβανος	noun, genitive masculine singular; place name	1	Lebanon
+ISA 60:13	1	4	τοῦ	ὁ	article, genitive singular	1	—
+ISA 60:13	1	5	Λιβάνου	Λίβανος	noun, genitive masculine singular; place name	1	of Lebanon
 ISA 60:13	1	6	πρὸς	πρός	preposition with the accusative	1	to
 ISA 60:13	1	7	σὲ	σύ	personal pronoun, emphatic accusative singular governed by πρός	1	you
 ISA 60:13	1	8	ἥξει	ἥκω	future active indicative, third singular as printed Ἥξει	1	will come
-ISA 60:13	1	9	ἐν	ἐν	preposition with the dative	1	in
+ISA 60:13	1	9	ἐν	ἐν	preposition with the dative	1	with
 ISA 60:13	1	10	κυπαρίσσῳ	κυπάρισσος	noun, dative feminine singular	1	cypress
 ISA 60:13	1	11	καὶ	καί	conjunction	1	and
 ISA 60:13	1	12	πεύκῃ	πεύκη	noun, dative feminine singular	1	pine
@@ -310,7 +310,7 @@ ISA 60:13	1	21	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ISA 60:13	1	22	καὶ	καί	conjunction	1	and
 ISA 60:13	1	23	τὸν	ὁ	article with a personal name, accusative masculine singular, marks the name	1	—
 ISA 60:13	1	24	τόπον	τόπος	noun, accusative masculine singular	1	place
-ISA 60:13	1	25	τῶν	ὁ	article, genitive masculine plural	1	the
+ISA 60:13	1	25	τῶν	ὁ	article, genitive masculine plural	1	of the
 ISA 60:13	1	26	ποδῶν	πούς	noun, genitive masculine plural	1	feet
 ISA 60:13	1	27	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ISA 60:13	1	28	δοξάσω	δοξάζω	future active indicative, first singular	1	I will glorify
@@ -321,10 +321,10 @@ ISA 60:14	1	4	σὲ	σύ	personal pronoun, emphatic accusative singular governed
 ISA 60:14	1	5	δεδοικότες	δείδω	perfect active participle, nominative masculine plural	1	fearing
 ISA 60:14	1	5	δεδοικότες			2	afraid
 ISA 60:14	1	6	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-ISA 60:14	1	7	ταπεινωσάντων	ταπεινόω	aorist active participle, genitive masculine plural	1	who humbled
+ISA 60:14	1	7	ταπεινωσάντων	ταπεινόω	aorist active participle, genitive masculine plural	1	of those who humbled
 ISA 60:14	1	8	σε	σύ	personal pronoun, accusative singular	1	you
 ISA 60:14	1	9	καὶ	καί	conjunction	1	and
-ISA 60:14	1	10	παροξυνάντων	παροξύνω	aorist active participle, genitive masculine plural; substantival	1	those who provoked
+ISA 60:14	1	10	παροξυνάντων	παροξύνω	aorist active participle, genitive masculine plural; substantival	1	of those who provoked
 ISA 60:14	1	11	σε	σύ	personal pronoun, accusative singular	1	you
 ISA 60:14	1	12	καὶ	καί	conjunction	1	and
 ISA 60:14	1	13	προσκυνήσουσιν	προσκυνέω	future active indicative, third plural	1	will bow down
@@ -333,11 +333,11 @@ ISA 60:14	1	14	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 ISA 60:14	1	15	τὰ	ὁ	article, accusative neuter plural	1	the
 ISA 60:14	1	16	ἴχνη	ἴχνος	noun, accusative neuter plural	1	footsteps
 ISA 60:14	1	16	ἴχνη			2	tracks
-ISA 60:14	1	17	τῶν	ὁ	article, genitive plural	1	the
+ISA 60:14	1	17	τῶν	ὁ	article, genitive plural	1	of the
 ISA 60:14	1	18	ποδῶν	πούς	noun, genitive masculine plural	1	feet
 ISA 60:14	1	19	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 60:14	1	20	πάντες	πᾶς	adjective, nominative masculine plural	1	all
-ISA 60:14	1	21	οἱ	ὁ	article, nominative masculine plural	1	the
+ISA 60:14	1	21	οἱ	ὁ	article, nominative masculine plural	1	those
 ISA 60:14	1	22	παροξύναντές	παροξύνω	aorist active participle, nominative masculine plural; substantival	1	who provoked
 ISA 60:14	1	23	σε	σύ	personal pronoun, accusative singular	1	you
 ISA 60:14	1	24	καὶ	καί	conjunction	1	and
@@ -345,7 +345,7 @@ ISA 60:14	1	25	κληθήσῃ	καλέω	future passive indicative, second sing
 ISA 60:14	1	26	πόλις	πόλις	noun, nominative feminine singular	1	city
 ISA 60:14	1	27	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 ISA 60:14	1	28	Σιὼν	Σιών	indeclinable place name, apposition to πόλις	1	Zion
-ISA 60:14	1	29	ἁγίου	ἅγιος	adjective, genitive masculine singular; substantival	1	holy one
+ISA 60:14	1	29	ἁγίου	ἅγιος	adjective, genitive masculine singular; substantival	1	of the Holy One
 ISA 60:14	1	30	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 ISA 60:15	1	1	Διὰ	διά	preposition with the accusative	1	because of
 ISA 60:15	1	2	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -358,8 +358,8 @@ ISA 60:15	1	7	μεμισημένην	μισέω	perfect passive participle, accu
 ISA 60:15	1	8	καὶ	καί	conjunction	1	and
 ISA 60:15	1	9	οὐκ	οὐ	negative adverb with future indicative	1	not
 ISA 60:15	1	10	ἦν	εἰμί	imperfect indicative, third singular	1	was there
-ISA 60:15	1	11	ὁ	ὁ	article, nominative masculine singular	1	anyone
-ISA 60:15	1	12	βοηθῶν	βοηθέω	present active participle, nominative masculine singular	1	helps
+ISA 60:15	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
+ISA 60:15	1	12	βοηθῶν	βοηθέω	present active participle, nominative masculine singular	1	one who helps
 ISA 60:15	1	13	καὶ	καί	conjunction	1	and
 ISA 60:15	1	14	θήσω	τίθημι	future active indicative, first singular	1	I will make
 ISA 60:15	1	15	σε	σύ	pronoun, accusative second singular	1	you
@@ -367,7 +367,7 @@ ISA 60:15	1	16	ἀγαλλίαμα	ἀγαλλίαμα	noun, nominative neuter s
 ISA 60:15	1	16	ἀγαλλίαμα			2	rejoicing
 ISA 60:15	1	17	αἰώνιον	αἰώνιος	adjective, nominative neuter singular	1	everlasting
 ISA 60:15	1	18	εὐφροσύνην	εὐφροσύνη	noun accusative feminine singular	1	gladness
-ISA 60:15	1	19	γενεῶν	γενεά	noun, genitive feminine plural	1	generations
+ISA 60:15	1	19	γενεῶν	γενεά	noun, genitive feminine plural	1	of generations
 ISA 60:15	1	19	γενεῶν			2	family lines
 ISA 60:15	1	20	γενεαῖς	γενεά	noun, dative feminine plural	1	for generations
 ISA 60:16	1	1	Καὶ	καί	conjunction	1	and
@@ -378,7 +378,7 @@ ISA 60:16	1	4	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	of nations
 ISA 60:16	1	5	καὶ	καί	conjunction	1	and
 ISA 60:16	1	6	πλοῦτον	πλοῦτος	noun, accusative masculine singular	1	wealth
 ISA 60:16	1	6	πλοῦτον			2	riches
-ISA 60:16	1	7	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
+ISA 60:16	1	7	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	of kings
 ISA 60:16	1	8	φάγεσαι	ἐσθίω	future middle indicative, second singular	1	you will eat
 ISA 60:16	1	8	φάγεσαι			2	eat
 ISA 60:16	1	9	καὶ	καί	conjunction	1	and
@@ -386,7 +386,7 @@ ISA 60:16	1	10	γνώσῃ	γινώσκω	future middle indicative, 2nd singular
 ISA 60:16	1	11	ὅτι	ὅτι	conjunction	1	that
 ISA 60:16	1	12	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
 ISA 60:16	1	13	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-ISA 60:16	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
+ISA 60:16	1	14	ὁ	ὁ	article, nominative masculine singular	1	the one
 ISA 60:16	1	15	σώζων	σῴζω	present active participle, nominative masculine singular	1	who saves
 ISA 60:16	1	16	σε	σύ	personal pronoun, accusative singular	1	you
 ISA 60:16	1	17	καὶ	καί	conjunction	1	and
@@ -398,14 +398,14 @@ ISA 60:16	1	21	Θεὸς	θεός	noun, nominative masculine singular	1	God
 ISA 60:16	1	22	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 ISA 60:17	1	1	Καὶ	καί	conjunction	1	and
 ISA 60:17	1	2	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
-ISA 60:17	1	3	χαλκοῦ	χαλκός	noun, genitive masculine singular	1	of bronze
+ISA 60:17	1	3	χαλκοῦ	χαλκός	noun, genitive masculine singular	1	bronze
 ISA 60:17	1	3	χαλκοῦ			2	of copper
 ISA 60:17	1	4	οἴσω	φέρω	future active indicative, first singular	1	I shall bring
 ISA 60:17	1	5	σοι	σύ	pronoun, dative second singular	1	to you
 ISA 60:17	1	6	χρυσίον	χρυσίον	noun, nominative neuter singular	1	gold
 ISA 60:17	1	7	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
 ISA 60:17	1	8	δὲ	δέ	postpositive conjunction	1	and
-ISA 60:17	1	9	σιδήρου	σίδηρος	noun, genitive masculine singular	1	of iron
+ISA 60:17	1	9	σιδήρου	σίδηρος	noun, genitive masculine singular	1	iron
 ISA 60:17	1	10	οἴσω	φέρω	future active indicative, first singular	1	I shall bring
 ISA 60:17	1	11	σοι	σύ	pronoun, dative second singular	1	to you
 ISA 60:17	1	12	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular	1	silver
@@ -469,12 +469,12 @@ ISA 60:19	1	1	Καὶ	καί	conjunction	1	and
 ISA 60:19	1	2	οὐκ	οὐ	negative particle	1	not
 ISA 60:19	1	3	ἔσται	εἰμί	future indicative, third singular	1	shall be
 ISA 60:19	1	4	σοι	σύ	personal pronoun, dative singular	1	to you
-ISA 60:19	1	5	ἔτι	ἔτι	temporal adverb	1	still
+ISA 60:19	1	5	ἔτι	ἔτι	temporal adverb	1	any more
 ISA 60:19	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 60:19	1	7	ἥλιος	ἥλιος	noun, nominative masculine singular	1	sun
-ISA 60:19	1	8	εἰς	εἰς	preposition with the accusative	1	into
+ISA 60:19	1	8	εἰς	εἰς	preposition with the accusative	1	for
 ISA 60:19	1	9	φῶς	φῶς	noun, accusative neuter singular	1	light
-ISA 60:19	1	10	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
+ISA 60:19	1	10	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	of day
 ISA 60:19	1	11	οὐδὲ	οὐδέ	conjunction	1	nor
 ISA 60:19	1	12	ἀνατολὴ	ἀνατολή	noun, nominative feminine singular	1	rising
 ISA 60:19	1	13	σελήνης	σελήνη	noun, genitive feminine singular	1	moon
@@ -484,7 +484,7 @@ ISA 60:19	1	15	σοι	σύ	personal pronoun, dative singular	1	to you
 ISA 60:19	1	16	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 60:19	1	17	νύκτα	νύξ	noun, accusative feminine singular; accusative of duration	1	night
 ISA 60:19	1	18	ἀλλ᾽	ἀλλά	adversative conjunction	1	but
-ISA 60:19	1	19	ἔσται	εἰμί	future indicative, third singular	1	it shall be
+ISA 60:19	1	19	ἔσται	εἰμί	future indicative, third singular	1	shall be
 ISA 60:19	1	20	σοι	σύ	personal pronoun, dative singular	1	to you
 ISA 60:19	1	21	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 ISA 60:19	1	22	φῶς	φῶς	noun, nominative neuter singular	1	light
@@ -520,17 +520,17 @@ ISA 60:20	1	20	ἀναπληρωθήσονται	ἀναπληρόω	future pass
 ISA 60:20	1	20	ἀναπληρωθήσονται			2	will be fulfilled
 ISA 60:20	1	21	αἱ	ὁ	article, nominative feminine plural	1	the
 ISA 60:20	1	22	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days
-ISA 60:20	1	23	τοῦ	ὁ	article, genitive singular	1	the
+ISA 60:20	1	23	τοῦ	ὁ	article, genitive singular	1	of the
 ISA 60:20	1	24	πένθους	πένθος	noun, genitive neuter singular	1	mourning
 ISA 60:20	1	25	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 60:21	1	1	καὶ	καί	conjunction	1	and
 ISA 60:21	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
-ISA 60:21	1	3	λαός	λαός	noun, nominative masculine singular	1	the people
+ISA 60:21	1	3	λαός	λαός	noun, nominative masculine singular	1	people
 ISA 60:21	1	4	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 60:21	1	5	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 ISA 60:21	1	6	δίκαιος	δίκαιος	adjective nominative masculine singular	1	righteous
 ISA 60:21	1	7	καὶ	καί	conjunction	1	and
-ISA 60:21	1	8	διὰ	διά	preposition with the accusative	1	because of
+ISA 60:21	1	8	διὰ	διά	preposition with the accusative	1	through
 ISA 60:21	1	9	αἰῶνος	αἰών	noun, genitive masculine singular	1	age
 ISA 60:21	1	9	αἰῶνος			2	eternity
 ISA 60:21	1	10	κληρονομήσουσι	κληρονομέω	future active indicative, third plural	1	they shall inherit
@@ -540,27 +540,27 @@ ISA 60:21	1	13	φυλάσσων	φυλάσσω	present active participle, nomina
 ISA 60:21	1	14	τὸ	ὁ	article, accusative neuter singular	1	the
 ISA 60:21	1	15	φύτευμα	φύτευμα	noun, accusative neuter singular	1	planting
 ISA 60:21	1	16	ἔργα	ἔργον	noun, accusative neuter plural	1	works
-ISA 60:21	1	17	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
+ISA 60:21	1	17	χειρῶν	χείρ	noun, genitive feminine plural	1	of hands
 ISA 60:21	1	18	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-ISA 60:21	1	19	εἰς	εἰς	preposition with the accusative	1	into
+ISA 60:21	1	19	εἰς	εἰς	preposition with the accusative	1	for
 ISA 60:21	1	20	δόξαν	δόξα	noun, accusative feminine singular	1	splendor
 ISA 60:21	1	20	δόξαν			2	glory
 ISA 60:22	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
-ISA 60:22	1	2	ὀλιγοστὸς	ὀλιγοστός	adjective, nominative masculine singular; substantival	1	the fewest
+ISA 60:22	1	2	ὀλιγοστὸς	ὀλιγοστός	adjective, nominative masculine singular; substantival	1	fewest
 ISA 60:22	1	2	ὀλιγοστὸς			2	the smallest
 ISA 60:22	1	3	ἔσται	εἰμί	future indicative, third singular	1	will be
 ISA 60:22	1	4	εἰς	εἰς	preposition with the accusative	1	into
 ISA 60:22	1	5	χιλιάδας	χιλιάς	noun, accusative feminine plural	1	thousands
 ISA 60:22	1	6	καὶ	καί	conjunction	1	and
 ISA 60:22	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
-ISA 60:22	1	8	ἐλάχιστος	ἐλάχιστος	adjective, nominative masculine singular; superlative, substantival	1	the least
+ISA 60:22	1	8	ἐλάχιστος	ἐλάχιστος	adjective, nominative masculine singular; superlative, substantival	1	least
 ISA 60:22	1	8	ἐλάχιστος			2	the smallest
 ISA 60:22	1	9	εἰς	εἰς	preposition with the accusative of result	1	into
 ISA 60:22	1	10	ἔθνος	ἔθνος	noun, accusative neuter singular	1	a nation
 ISA 60:22	1	11	μέγα	μέγας	adjective, accusative neuter singular	1	great
 ISA 60:22	1	12	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-ISA 60:22	1	13	Κύριος	κύριος	noun, nominative masculine singular	1	am the Lord
-ISA 60:22	1	14	κατὰ	κατά	preposition with the accusative	1	according to
+ISA 60:22	1	13	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
+ISA 60:22	1	14	κατὰ	κατά	preposition with the accusative	1	in due
 ISA 60:22	1	15	καιρὸν	καιρός	noun, accusative masculine singular	1	time
 ISA 60:22	1	16	συνάξω	συνάγω	future active indicative, first singular	1	I will gather
 ISA 60:22	1	16	συνάξω			2	I will collect

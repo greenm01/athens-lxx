@@ -1,6 +1,6 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 ISA 19:1	1	1	ΟΡΑΣΙΣ	ὅρασις	noun, nominative feminine singular	1	vision
-ISA 19:1	1	2	ΑΙΓΥΠΤΟΥ	Αἴγυπτος	noun, genitive feminine singular; place name	1	Egypt
+ISA 19:1	1	2	ΑΙΓΥΠΤΟΥ	Αἴγυπτος	noun, genitive feminine singular; place name	1	of Egypt
 ISA 19:1	1	3	Ἰδοὺ	ἰδού	presentative particle	1	behold
 ISA 19:1	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 ISA 19:1	1	5	κάθηται	κάθημαι	present middle indicative, third singular	1	sits
@@ -9,7 +9,7 @@ ISA 19:1	1	7	νεφέλης	νεφέλη	noun, genitive fem. sg	1	cloud
 ISA 19:1	1	8	Κούφης	κοῦφος	adjective, genitive feminine singular	1	light
 ISA 19:1	1	9	καὶ	καί	conjunction	1	and
 ISA 19:1	1	10	ἥξει	ἥκω	future active indicative, third singular as printed Ἥξει	1	will come
-ISA 19:1	1	11	εἰς	εἰς	preposition with accusative	1	in
+ISA 19:1	1	11	εἰς	εἰς	preposition with accusative	1	into
 ISA 19:1	1	12	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular	1	Egypt
 ISA 19:1	1	13	καὶ	καί	conjunction	1	and
 ISA 19:1	1	14	σεισθήσεται	σείω	future passive indicative, third singular; singular with neuter plural subject	1	will be shaken
@@ -47,12 +47,12 @@ ISA 19:2	1	15	πλησίον			2	fellow
 ISA 19:2	1	16	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 ISA 19:2	1	17	ἐπεγερθήσεται	ἐπεγείρω	future passive indicative, third singular	1	will rise up
 ISA 19:2	1	18	πόλις	πόλις	noun, nominative feminine singular	1	city
-ISA 19:2	1	19	ἐπὶ	ἐπί	preposition with accusative of direction	1	toward
+ISA 19:2	1	19	ἐπὶ	ἐπί	preposition with accusative of direction	1	against
 ISA 19:2	1	20	πόλιν	πόλις	noun, accusative feminine singular	1	city
 ISA 19:2	1	21	καὶ	καί	conjunction	1	and
 ISA 19:2	1	22	νομὸς	νομός	noun, nominative masculine singular	1	district
 ISA 19:2	1	22	νομὸς			2	province
-ISA 19:2	1	23	ἐπὶ	ἐπί	preposition (case from context)	1	on
+ISA 19:2	1	23	ἐπὶ	ἐπί	preposition (case from context)	1	against
 ISA 19:2	1	24	νομόν	νομός	noun, accusative masculine singular	1	district
 ISA 19:2	1	24	νομόν			2	province
 ISA 19:3	1	1	Καὶ	καί	conjunction	1	and
@@ -60,8 +60,8 @@ ISA 19:3	1	2	ταραχθήσεται	ταράσσω	future passive indicative, 
 ISA 19:3	1	2	ταραχθήσεται			2	will be disturbed
 ISA 19:3	1	3	τὸ	ὁ	article, nominative neuter singular	1	the
 ISA 19:3	1	4	πνεῦμα	πνεῦμα	noun, nominative neuter singular	1	spirit
-ISA 19:3	1	5	των	ὁ	article, genitive masculine plural	1	the
-ISA 19:3	1	6	Αἰγυπτίων	Αἰγύπτιος	ethnic noun, genitive masculine plural	1	of the Egyptians
+ISA 19:3	1	5	των	ὁ	article, genitive masculine plural	1	of the
+ISA 19:3	1	6	Αἰγυπτίων	Αἰγύπτιος	ethnic noun, genitive masculine plural	1	Egyptians
 ISA 19:3	1	7	ἐν	ἐν	preposition with the dative	1	in
 ISA 19:3	1	8	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 ISA 19:3	1	9	καὶ	καί	conjunction	1	and
@@ -82,11 +82,11 @@ ISA 19:3	1	21	ἀγάλματα			2	statues
 ISA 19:3	1	22	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 ISA 19:3	1	22	αὐτῶν			2	of them
 ISA 19:3	1	23	καὶ	καί	conjunction	1	and
-ISA 19:3	1	24	τοὺς	ὁ	article, accusative masculine plural	1	the
+ISA 19:3	1	24	τοὺς	ὁ	article, accusative masculine plural	1	those
 ISA 19:3	1	25	ἐκ	ἐκ	preposition with the genitive	1	from
 ISA 19:3	1	26	τῆς	ὁ	article, genitive feminine singular	1	the
 ISA 19:3	1	27	γῆς	γῆ	noun, genitive feminine singular	1	earth
-ISA 19:3	1	28	φωνοῦντας	φωνέω	present active participle, accusative masculine plural; substantival	1	those who call out
+ISA 19:3	1	28	φωνοῦντας	φωνέω	present active participle, accusative masculine plural; substantival	1	who call out
 ISA 19:3	1	29	καὶ	καί	conjunction	1	and
 ISA 19:3	1	30	τοὺς	ὁ	article, accusative masculine plural	1	the
 ISA 19:3	1	31	ἐγγαστριμύθους	ἐγγαστρίμυθος	noun, accusative masculine plural	1	ventriloquists
@@ -102,7 +102,7 @@ ISA 19:4	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 19:4	1	4	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular	1	Egypt
 ISA 19:4	1	5	εἰς	εἰς	preposition with the accusative	1	into
 ISA 19:4	1	6	χεῖρας	χείρ	noun, accusative feminine plural	1	hands
-ISA 19:4	1	7	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	human beings
+ISA 19:4	1	7	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	of men
 ISA 19:4	1	7	ἀνθρώπων			2	people
 ISA 19:4	1	8	κυρίων	κύριος	noun, genitive masculine plural	1	masters
 ISA 19:4	1	8	κυρίων			2	lords
@@ -128,7 +128,7 @@ ISA 19:5	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 ISA 19:5	1	4	Αἰγύπτιοι	Αἰγύπτιος	ethnic noun, nominative masculine plural	1	Egyptians
 ISA 19:5	1	5	ὕδωρ	ὕδωρ	noun, accusative neuter singular	1	water
 ISA 19:5	1	6	τὸ	ὁ	article, nominative neuter singular	1	the
-ISA 19:5	1	7	παρὰ	παρά	preposition with genitive	1	from
+ISA 19:5	1	7	παρὰ	παρά	preposition with genitive	1	by
 ISA 19:5	1	8	θάλασσαν	θάλασσα	noun, accusative feminine singular	1	sea
 ISA 19:5	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 19:5	1	10	δὲ	δέ	postpositive conjunction	1	now
@@ -139,27 +139,27 @@ ISA 19:5	1	12	ἐκλείψει			2	will be lacking
 ISA 19:5	1	13	καὶ	καί	conjunction	1	and
 ISA 19:5	1	14	ξηρανθήσεται	ξηραίνω	future passive indicative, third singular	1	will dry up
 ISA 19:6	1	1	Καὶ	καί	conjunction	1	and
-ISA 19:6	1	2	ἐκλείψουσιν	ἐκλείπω	future active indicative, third plural	1	will faint
+ISA 19:6	1	2	ἐκλείψουσιν	ἐκλείπω	future active indicative, third plural	1	will fail
 ISA 19:6	1	2	ἐκλείψουσιν			2	will give out
 ISA 19:6	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 19:6	1	4	ποταμοὶ	ποταμός	noun, nominative masculine plural	1	currents
-ISA 19:6	1	4	ποταμοὶ			2	rivers
+ISA 19:6	1	4	ποταμοὶ	ποταμός	noun, nominative masculine plural	1	rivers
+ISA 19:6	1	4	ποταμοὶ			2	currents
 ISA 19:6	1	5	καὶ	καί	conjunction	1	and
 ISA 19:6	1	6	αἱ	ὁ	article, nominative feminine plural	1	the
 ISA 19:6	1	7	διῶρυγες	διῶρυξ	noun, nominative feminine plural	1	canals
 ISA 19:6	1	7	διῶρυγες			2	channels
-ISA 19:6	1	8	τοῦ	ὁ	article, genitive singular	1	the
+ISA 19:6	1	8	τοῦ	ὁ	article, genitive singular	1	of the
 ISA 19:6	1	9	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	river
 ISA 19:6	1	10	καὶ	καί	conjunction	1	and
 ISA 19:6	1	11	ξηρανθήσεται	ξηραίνω	future passive indicative, third singular	1	will dry up
 ISA 19:6	1	12	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
-ISA 19:6	1	13	συναγωγὴ	συναγωγή	noun, nominative feminine singular	1	congregation
-ISA 19:6	1	14	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
+ISA 19:6	1	13	συναγωγὴ	συναγωγή	noun, nominative feminine singular	1	gathering
+ISA 19:6	1	14	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	of water
 ISA 19:6	1	15	καὶ	καί	conjunction	1	and
 ISA 19:6	1	16	ἐν	ἐν	preposition with the dative	1	in
-ISA 19:6	1	17	παντὶ	πᾶς	adjective, dative masculine singular	1	all
+ISA 19:6	1	17	παντὶ	πᾶς	adjective, dative masculine singular	1	every
 ISA 19:6	1	18	ἕλει	ἕλος	noun, dative neuter singular	1	marsh
-ISA 19:6	1	19	καλάμου	κάλαμος	noun, genitive masc. sg., calamus/cane	1	of (sweet) cane/calamus
+ISA 19:6	1	19	καλάμου	κάλαμος	noun, genitive masc. sg., calamus/cane	1	of reed
 ISA 19:6	1	20	καὶ	καί	conjunction	1	and
 ISA 19:6	1	21	παπύρου	πάπυρος	noun, genitive feminine singular	1	papyrus
 ISA 19:7	1	1	καὶ	καί	conjunction	1	and
@@ -172,7 +172,7 @@ ISA 19:7	1	7	τοῦ	ὁ	article, genitive singular	1	the
 ISA 19:7	1	8	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	river
 ISA 19:7	1	9	καὶ	καί	conjunction	1	and
 ISA 19:7	1	10	πᾶν	πᾶς	adjective nominative neuter singular modifying the substantival participle σπειρόμενον	1	everything
-ISA 19:7	1	11	τὸ	ὁ	article nominative neuter singular	1	the
+ISA 19:7	1	11	τὸ	ὁ	article nominative neuter singular	1	—
 ISA 19:7	1	12	σπειρόμενον	σπείρω	present passive participle nominative neuter singular	1	being sown
 ISA 19:7	1	12	σπειρόμενον			2	crops
 ISA 19:7	1	13	διὰ	διά	preposition with the genitive	1	through
@@ -189,7 +189,7 @@ ISA 19:8	1	4	ἁλιεῖς			2	fishermen
 ISA 19:8	1	5	καὶ	καί	conjunction	1	and
 ISA 19:8	1	6	στενάξουσι	στενάζω	future active indicative, third plural	1	they will groan
 ISA 19:8	1	7	πάντες	πᾶς	adjective, nominative masculine plural	1	all
-ISA 19:8	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
+ISA 19:8	1	8	οἱ	ὁ	article, nominative masculine plural	1	—
 ISA 19:8	1	9	βάλλοντες	βάλλω	present active participle, nominative masculine plural; substantival	1	those who cast
 ISA 19:8	1	10	ἄγκιστρον	ἄγκιστρον	noun, accusative neuter singular	1	fishhook
 ISA 19:8	1	10	ἄγκιστρον			2	hook
@@ -197,7 +197,7 @@ ISA 19:8	1	11	εἰς	εἰς	preposition with the accusative	1	into
 ISA 19:8	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 19:8	1	13	ποταμὸν	ποταμός	noun, accusative masculine singular	1	river
 ISA 19:8	1	14	καὶ	καί	conjunction	1	and
-ISA 19:8	1	15	οἱ	ὁ	article, nominative masculine plural	1	the
+ISA 19:8	1	15	οἱ	ὁ	article, nominative masculine plural	1	—
 ISA 19:8	1	16	βάλλοντες	βάλλω	present active participle, nominative masculine plural; substantival	1	those who cast
 ISA 19:8	1	17	σαγήνας	σαγήνη	noun, accusative feminine plural	1	drag nets
 ISA 19:8	1	17	σαγήνας			2	seines
@@ -210,7 +210,7 @@ ISA 19:9	1	1	Καὶ	καί	conjunction	1	and
 ISA 19:9	1	2	αἰσχύνη	αἰσχύνη	noun, nominative feminine singular	1	shame
 ISA 19:9	1	3	λήψεται	λαμβάνω	future middle indicative, third singular	1	will seize
 ISA 19:9	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
-ISA 19:9	1	5	ἐργαζομένους	ἐργάζομαι	present middle participle accusative masculine plural	1	who practice
+ISA 19:9	1	5	ἐργαζομένους	ἐργάζομαι	present middle participle accusative masculine plural	1	ones who work
 ISA 19:9	1	6	τὸ	ὁ	article, accusative neuter singular	1	the
 ISA 19:9	1	7	λίνον	λίνον	noun, accusative neuter singular	1	flax
 ISA 19:9	1	8	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -218,13 +218,13 @@ ISA 19:9	1	9	σχιστὸν	σχιστός	adjective, accusative neuter singula
 ISA 19:9	1	9	σχιστὸν			2	combed
 ISA 19:9	1	10	καὶ	καί	conjunction	1	and
 ISA 19:9	1	11	τοὺς	ὁ	article accusative masculine plural	1	the
-ISA 19:9	1	12	ἐργαζομένους	ἐργάζομαι	present middle participle accusative masculine plural	1	who practice
+ISA 19:9	1	12	ἐργαζομένους	ἐργάζομαι	present middle participle accusative masculine plural	1	ones who work
 ISA 19:9	1	13	τὴν	ὁ	article accusative feminine singular	1	the
 ISA 19:9	1	14	βύσσον	βύσσος	noun, accusative fem. sg., fine linen/byssus	1	fine linen
 ISA 19:10	1	1	καὶ	καί	conjunction	1	and
 ISA 19:10	1	2	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
 ISA 19:10	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 19:10	1	4	διαλογιζόμενοι	διαλογίζομαι	present middle participle, nominative masculine plural; substantival	1	those who calculate
+ISA 19:10	1	4	διαλογιζόμενοι	διαλογίζομαι	present middle participle, nominative masculine plural; substantival	1	ones who calculate
 ISA 19:10	1	4	διαλογιζόμενοι			2	those who reason
 ISA 19:10	1	5	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
 ISA 19:10	1	6	ἐν	ἐν	preposition with the dative	1	in
@@ -232,7 +232,7 @@ ISA 19:10	1	7	ὀδύνῃ	ὀδύνη	noun, dative feminine singular	1	pain
 ISA 19:10	1	7	ὀδύνῃ			2	distress
 ISA 19:10	1	8	καὶ	καί	conjunction	1	and
 ISA 19:10	1	9	πάντες	πᾶς	adjective, nominative masculine plural	1	all
-ISA 19:10	1	10	οἱ	ὁ	article, nominative masculine plural	1	the
+ISA 19:10	1	10	οἱ	ὁ	article, nominative masculine plural	1	—
 ISA 19:10	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 19:10	1	12	ζύθον	ζῦθος	noun, accusative masculine singular	1	beer
 ISA 19:10	1	13	ποιοῦντες	ποιέω	present active participle, nominative masculine plural; substantival	1	those who make
@@ -250,12 +250,12 @@ ISA 19:11	1	3	ἔσονται	εἰμί	future middle indicative, third plural	1
 ISA 19:11	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
 ISA 19:11	1	5	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
 ISA 19:11	1	5	ἄρχοντες			2	officials
-ISA 19:11	1	6	Τάνεως	Τάνις	noun, genitive feminine singular; place name	1	Tanis
+ISA 19:11	1	6	Τάνεως	Τάνις	noun, genitive feminine singular; place name	1	of Tanis
 ISA 19:11	1	7	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 19:11	1	8	σοφοὶ	σοφός	adjective/noun, nominative masc. pl	1	the skilled men
+ISA 19:11	1	8	σοφοὶ	σοφός	adjective/noun, nominative masc. pl	1	wise
 ISA 19:11	1	9	σύμβουλοι	σύμβουλος	noun, nominative masculine plural	1	counselors
 ISA 19:11	1	9	σύμβουλοι			2	advisers
-ISA 19:11	1	10	τοῦ	ὁ	article, genitive singular	1	the
+ISA 19:11	1	10	τοῦ	ὁ	article, genitive singular	1	of the
 ISA 19:11	1	11	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 ISA 19:11	1	12	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 19:11	1	13	βουλὴ	βουλή	noun, nominative feminine singular	1	counsel
@@ -265,50 +265,50 @@ ISA 19:11	1	15	μωρανθήσεται	μωραίνω	future passive indicative
 ISA 19:11	1	15	μωρανθήσεται			2	will be made foolish
 ISA 19:11	1	16	πῶς	πῶς	interrogative adverb	1	how
 ISA 19:11	1	17	ἐρεῖτε	λέγω	future active indicative, second plural	1	you will say
-ISA 19:11	1	18	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+ISA 19:11	1	18	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 ISA 19:11	1	19	βασιλεῖ	βασιλεύς	noun, dative masculine singular	1	king
 ISA 19:11	1	20	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-ISA 19:11	1	21	συνετῶν	συνετός	adjective, genitive masculine plural; substantival	1	wise people
+ISA 19:11	1	21	συνετῶν	συνετός	adjective, genitive masculine plural; substantival	1	of wise men
 ISA 19:11	1	21	συνετῶν			2	those with understanding
 ISA 19:11	1	22	ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
 ISA 19:11	1	23	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-ISA 19:11	1	24	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
+ISA 19:11	1	24	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	of kings
 ISA 19:11	1	25	τῶν	ὁ	article, genitive masculine plural; introduces a prepositional phrase	1	who were
 ISA 19:11	1	26	ἐξ	ἐκ	preposition with the genitive	1	from
-ISA 19:11	1	27	ἀρχῆς	ἀρχή	noun, genitive feminine singular	1	office
+ISA 19:11	1	27	ἀρχῆς	ἀρχή	noun, genitive feminine singular	1	the beginning
 ISA 19:12	1	1	Ποῦ	ποῦ	interrogative adverb of place	1	where
 ISA 19:12	1	2	εἰσι	εἰμί	present active indicative, third plural	1	are
 ISA 19:12	1	3	νῦν	νῦν	adverb of time	1	now
 ISA 19:12	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 19:12	1	5	σοφοί	σοφός	adjective/noun, nominative masc. pl	1	the skilled men
+ISA 19:12	1	5	σοφοί	σοφός	adjective/noun, nominative masc. pl	1	wise men
 ISA 19:12	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 19:12	1	7	καὶ	καί	conjunction	1	and
 ISA 19:12	1	8	ἀναγγειλάτωσάν	ἀναγγέλλω	aorist active imperative, third plural	1	let them announce
 ISA 19:12	1	8	ἀναγγειλάτωσάν			2	let them declare
 ISA 19:12	1	9	σοι	σύ	personal pronoun, dative singular	1	to you
 ISA 19:12	1	10	καὶ	καί	conjunction	1	and
-ISA 19:12	1	11	εἰπάτωσαν	λέγω	aorist active imperative, third plural	1	let speak
+ISA 19:12	1	11	εἰπάτωσαν	λέγω	aorist active imperative, third plural	1	let them say
 ISA 19:12	1	12	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 ISA 19:12	1	13	βεβούλευται	βουλεύομαι	perfect middle indicative, third singular	1	has planned
 ISA 19:12	1	13	βεβούλευται			2	has determined
 ISA 19:12	1	14	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-ISA 19:12	1	15	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	Sabaoth
+ISA 19:12	1	15	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	of hosts
 ISA 19:12	1	15	Σαβαὼθ			2	hosts
-ISA 19:12	1	16	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+ISA 19:12	1	16	ἐπ᾽	ἐπί	preposition with the accusative	1	against
 ISA 19:12	1	17	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular	1	Egypt
 ISA 19:13	1	1	Ἐξέλιπον	ἐκλείπω	aorist active indicative, third plural	1	failed
 ISA 19:13	1	1	Ἐξέλιπον			2	perished
 ISA 19:13	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
 ISA 19:13	1	3	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
 ISA 19:13	1	3	ἄρχοντες			2	officials
-ISA 19:13	1	4	Τάνεως	Τάνις	noun, genitive feminine singular; place name	1	Tanis
+ISA 19:13	1	4	Τάνεως	Τάνις	noun, genitive feminine singular; place name	1	of Tanis
 ISA 19:13	1	5	καὶ	καί	conjunction	1	and
 ISA 19:13	1	6	ὑψώθησαν	ὑψόω	aorist passive indicative, third plural	1	were lifted up
 ISA 19:13	1	6	ὑψώθησαν			2	grew proud
 ISA 19:13	1	7	οἱ	ὁ	article, nominative masculine plural	1	the
 ISA 19:13	1	8	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
 ISA 19:13	1	8	ἄρχοντες			2	officials
-ISA 19:13	1	9	Μέμφεως	Μέμφις	noun, genitive feminine singular; place name	1	Memphis
+ISA 19:13	1	9	Μέμφεως	Μέμφις	noun, genitive feminine singular; place name	1	of Memphis
 ISA 19:13	1	10	καὶ	καί	conjunction	1	and
 ISA 19:13	1	11	πλανήσουσιν	πλανάω	future active indicative, third plural	1	they will lead astray
 ISA 19:13	1	12	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular	1	Egypt
@@ -320,7 +320,7 @@ ISA 19:14	1	3	ἐκέρασεν	κεράννυμι	aorist active indicative, thi
 ISA 19:14	1	3	ἐκέρασεν			2	blended
 ISA 19:14	1	4	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 ISA 19:14	1	5	πνεῦμα	πνεῦμα	noun, accusative neuter singular	1	spirit
-ISA 19:14	1	6	πλανήσεως	πλάνησις	noun, genitive feminine singular	1	wandering
+ISA 19:14	1	6	πλανήσεως	πλάνησις	noun, genitive feminine singular	1	of error
 ISA 19:14	1	6	πλανήσεως			2	confusion
 ISA 19:14	1	7	καὶ	καί	conjunction	1	and
 ISA 19:14	1	8	ἐπλάνησαν	πλανάω	aorist active indicative, third plural	1	they led astray
@@ -335,7 +335,7 @@ ISA 19:14	1	16	ὡς	ὡς	comparative particle	1	as
 ISA 19:14	1	16	ὡς			2	like
 ISA 19:14	1	17	πλανᾶται	πλανάω	present passive indicative, third singular	1	wanders
 ISA 19:14	1	17	πλανᾶται			2	staggers
-ISA 19:14	1	18	ὁ	ὁ	article, nominative masculine singular, introducing two participles	1	that
+ISA 19:14	1	18	ὁ	ὁ	article, nominative masculine singular, introducing two participles	1	the
 ISA 19:14	1	18	ὁ			2	the one that
 ISA 19:14	1	19	μεθύων	μεθύω	present active participle, nominative masculine singular; substantival	1	drunk person
 ISA 19:14	1	19	μεθύων			2	one who is drunk
@@ -346,7 +346,7 @@ ISA 19:14	1	23	ἅμα	ἅμα	adverb	1	together
 ISA 19:15	1	1	Καὶ	καί	conjunction	1	and
 ISA 19:15	1	2	οὐκ	οὐ	negative particle	1	not
 ISA 19:15	1	3	ἔσται	εἰμί	future indicative, third singular	1	it shall be
-ISA 19:15	1	4	τοῖς	ὁ	article, dative masculine plural	1	the
+ISA 19:15	1	4	τοῖς	ὁ	article, dative masculine plural	1	for the
 ISA 19:15	1	5	Αἰγυπτίοις	Αἰγύπτιος	ethnic noun, dative masculine plural	1	Egyptians
 ISA 19:15	1	6	ἔργον	ἔργον	noun, accusative neuter singular	1	deed
 ISA 19:15	1	7	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
@@ -354,7 +354,7 @@ ISA 19:15	1	8	ποιήσει	ποιέω	future active indicative, third singular
 ISA 19:15	1	9	κεφαλὴν	κεφαλή	noun, accusative feminine singular	1	head
 ISA 19:15	1	10	καὶ	καί	conjunction	1	and
 ISA 19:15	1	11	οὐρὰν	οὐρά	noun, accusative feminine singular	1	tail
-ISA 19:15	1	12	ἀρχὴν	ἀρχή	noun, accusative feminine singular; adverbial accusative with the article	1	at first
+ISA 19:15	1	12	ἀρχὴν	ἀρχή	noun, accusative feminine singular; adverbial accusative with the article	1	beginning
 ISA 19:15	1	12	ἀρχὴν			2	in the beginning
 ISA 19:15	1	13	καὶ	καί	conjunction	1	and
 ISA 19:15	1	14	τέλος	τέλος	noun, accusative neuter singular; εἰς τέλος idiom	1	the end
@@ -378,26 +378,26 @@ ISA 19:16	1	16	προσώπου	πρόσωπον	noun, genitive neuter singular	
 ISA 19:16	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
 ISA 19:16	1	18	χειρὸς	χείρ	noun genitive feminine singular	1	hand
 ISA 19:16	1	19	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-ISA 19:16	1	20	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	Sabaoth
+ISA 19:16	1	20	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	of hosts
 ISA 19:16	1	20	Σαβαὼθ			2	hosts
 ISA 19:16	1	21	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 ISA 19:16	1	22	αὐτὸς	αὐτός	pronoun, nominative masc. sg. intensive, he himself	1	he
 ISA 19:16	1	23	ἐπιβαλεῖ	ἐπιβάλλω	future active indicative, third singular	1	will lay
 ISA 19:16	1	23	ἐπιβαλεῖ			2	will put
-ISA 19:16	1	24	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
+ISA 19:16	1	24	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	on them
 ISA 19:17	1	1	Καὶ	καί	conjunction	1	and
 ISA 19:17	1	2	ἔσται	εἰμί	future indicative, third singular	1	will be
 ISA 19:17	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
 ISA 19:17	1	4	χώρα	χώρα	noun, nominative feminine singular	1	country
 ISA 19:17	1	4	χώρα			2	land
-ISA 19:17	1	5	τῶν	ὁ	article, genitive plural	1	the
+ISA 19:17	1	5	τῶν	ὁ	article, genitive plural	1	of the
 ISA 19:17	1	6	Ἰουδαίων	Ἰουδαῖος	adjective, genitive masculine plural; substantival	1	Judeans
-ISA 19:17	1	7	τοῖς	ὁ	article, dative masculine plural	1	the
+ISA 19:17	1	7	τοῖς	ὁ	article, dative masculine plural	1	to the
 ISA 19:17	1	8	Αἰγυπτίοις	Αἰγύπτιος	ethnic noun, dative masculine plural	1	Egyptians
-ISA 19:17	1	9	εἰς	εἰς	preposition with the accusative	1	into
+ISA 19:17	1	9	εἰς	εἰς	preposition with the accusative	1	for
 ISA 19:17	1	10	φόβητρον	φόβητρον	noun, accusative neuter singular	1	terror
 ISA 19:17	1	10	φόβητρον			2	object of fear
-ISA 19:17	1	11	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+ISA 19:17	1	11	πᾶς	πᾶς	adjective, nominative masculine singular	1	everyone
 ISA 19:17	1	12	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
 ISA 19:17	1	13	ἂν	ἄν	modal particle, modal particle	1	—
 ISA 19:17	1	14	ὀνομάσῃ	ὀνομάζω	aorist active subjunctive, third singular	1	may name
@@ -411,13 +411,13 @@ ISA 19:17	1	20	βουλὴν	βουλή	noun, accusative feminine singular	1	pla
 ISA 19:17	1	21	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 ISA 19:17	1	22	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	Sabaoth
 ISA 19:17	1	22	Σαβαὼθ			2	hosts
-ISA 19:17	1	23	ἣν	ὅς	relative pronoun, accusative feminine singular	1	whom
+ISA 19:17	1	23	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 ISA 19:17	1	24	βεβούλευται	βουλεύομαι	perfect middle indicative, third singular	1	has planned
 ISA 19:17	1	24	βεβούλευται			2	has determined
 ISA 19:17	1	25	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-ISA 19:17	1	26	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	Sabaoth
+ISA 19:17	1	26	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	of hosts
 ISA 19:17	1	26	Σαβαὼθ			2	hosts
-ISA 19:17	1	27	ἐπ᾽	ἐπί	elided preposition with accusative	1	on
+ISA 19:17	1	27	ἐπ᾽	ἐπί	elided preposition with accusative	1	against
 ISA 19:17	1	27	ἐπ᾽			2	upon
 ISA 19:17	1	28	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	it
 ISA 19:18	1	1	Τῇ	ὁ	article, dative feminine singular	1	the
@@ -431,17 +431,17 @@ ISA 19:18	1	8	Αἰγύπτῳ	Αἴγυπτος	place name, dative feminine sin
 ISA 19:18	1	9	λαλοῦσαι	λαλέω	present active participle, nominative feminine plural	1	speaking
 ISA 19:18	1	10	τῇ	ὁ	article, dative feminine singular	1	the
 ISA 19:18	1	11	γλώσσῃ	γλῶσσα	noun, dative feminine singular	1	tongue
-ISA 19:18	1	12	τῇ	ὁ	article, dative feminine singular; introduces a place name	1	of
+ISA 19:18	1	12	τῇ	ὁ	article, dative feminine singular; introduces a place name	1	—
 ISA 19:18	1	13	Χαναανίτιδι	Χαναανῖτις	adjective, dative feminine singular; geographic adjective	1	Canaanite
 ISA 19:18	1	13	Χαναανίτιδι			2	of Canaan
 ISA 19:18	1	14	καὶ	καί	conjunction	1	and
 ISA 19:18	1	15	ὀμνύουσαι	ὄμνυμι	present active participle, nominative feminine plural	1	swearing
-ISA 19:18	1	16	τῷ	ὁ	article dative neuter singular	1	to the
+ISA 19:18	1	16	τῷ	ὁ	article dative neuter singular	1	by the
 ISA 19:18	1	17	ὀνόματι	ὄνομα	noun dative neuter singular	1	name
 ISA 19:18	1	18	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-ISA 19:18	1	19	Σαβαώθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	Sabaoth
+ISA 19:18	1	19	Σαβαώθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	of hosts
 ISA 19:18	1	19	Σαβαώθ			2	hosts
-ISA 19:18	1	20	πόλεις	πόλις	noun, accusative feminine plural	1	cities
+ISA 19:18	1	20	πόλεις	πόλις	noun, accusative feminine plural	1	city
 ISA 19:18	1	21	ἀσεδὲκ	Ἀσεδέκ	indeclinable place designation	1	Asedek
 ISA 19:18	1	21	ἀσεδὲκ			2	Righteousness
 ISA 19:18	1	22	κληθήσεται	καλέω	future passive indicative, third singular	1	will be called
@@ -463,7 +463,7 @@ ISA 19:19	1	11	Αἰγυπτίων	Αἰγύπτιος	ethnic noun, genitive mas
 ISA 19:19	1	12	καὶ	καί	conjunction	1	and
 ISA 19:19	1	13	στήλη	στήλη	noun, nominative feminine singular	1	pillar
 ISA 19:19	1	13	στήλη			2	standing stone
-ISA 19:19	1	14	πρὸς	πρός	preposition with accusative	1	to
+ISA 19:19	1	14	πρὸς	πρός	preposition with accusative	1	at
 ISA 19:19	1	14	πρὸς			2	toward
 ISA 19:19	1	15	τὸ	ὁ	article, accusative neuter singular	1	the
 ISA 19:19	1	16	ὅριον	ὅριον	noun, accusative neuter singular	1	border
@@ -478,7 +478,7 @@ ISA 19:20	1	4	σημεῖον	σημεῖον	noun, accusative neuter singular	1
 ISA 19:20	1	5	εἰς	εἰς	preposition with the accusative	1	for
 ISA 19:20	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
 ISA 19:20	1	7	αἰῶνα	αἰών	noun accusative masculine singular	1	age
-ISA 19:20	1	8	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
+ISA 19:20	1	8	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 ISA 19:20	1	9	Σαβαὼθ	Σαβαώθ	indeclinable Hebrew divine epithet	1	Sabaoth
 ISA 19:20	1	9	Σαβαὼθ			2	hosts
 ISA 19:20	1	10	ἐν	ἐν	preposition with the dative	1	in
@@ -509,7 +509,7 @@ ISA 19:21	1	1	καὶ	καί	conjunction	1	and
 ISA 19:21	1	2	γνωστὸς	γνωστός	adjective, nominative masculine singular	1	known
 ISA 19:21	1	3	ἔσται	εἰμί	future indicative, third singular	1	will be
 ISA 19:21	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-ISA 19:21	1	5	τοῖς	ὁ	article, dative neuter plural	1	the
+ISA 19:21	1	5	τοῖς	ὁ	article, dative neuter plural	1	to the
 ISA 19:21	1	6	Αἰγυπτίοις	Αἰγύπτιος	ethnic noun, dative masculine plural	1	Egyptians
 ISA 19:21	1	7	καὶ	καί	conjunction	1	and
 ISA 19:21	1	8	γνώσονται	γιγνώσκω	future middle indicative, third plural	1	shall know
@@ -524,7 +524,7 @@ ISA 19:21	1	16	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative fem
 ISA 19:21	1	17	καὶ	καί	conjunction	1	and
 ISA 19:21	1	18	ποιήσουσι	ποιέω	future active indicative, third plural	1	will make
 ISA 19:21	1	18	ποιήσουσι			2	will offer
-ISA 19:21	1	19	θυσίας	θυσία	noun, genitive feminine singular	1	offering
+ISA 19:21	1	19	θυσίας	θυσία	noun, genitive feminine singular	1	offerings
 ISA 19:21	1	20	καὶ	καί	conjunction	1	and
 ISA 19:21	1	21	δῶρον	δῶρον	noun, accusative neuter singular	1	gift
 ISA 19:21	1	22	καὶ	καί	conjunction	1	and
@@ -542,12 +542,12 @@ ISA 19:22	1	2	πατάξει	πατάσσω	future active indicative, third sing
 ISA 19:22	1	3	Κύριος	κύριος	noun, nominative masculine singular, the Lord	1	the Lord
 ISA 19:22	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
 ISA 19:22	1	5	Αἰγυπτίους	Αἰγύπτιος	ethnic noun, accusative masc. pl	1	Egyptians
-ISA 19:22	1	6	πληγῇ	πληγή	noun, dative feminine singular	1	plague
+ISA 19:22	1	6	πληγῇ	πληγή	noun, dative feminine singular	1	with a stroke
 ISA 19:22	1	7	μεγάλῃ	μέγας	adjective, dative feminine singular	1	great
 ISA 19:22	1	8	καὶ	καί	conjunction	1	and
 ISA 19:22	1	9	ἰάσεται	ἰάομαι	future middle indicative, third singular	1	he will heal
 ISA 19:22	1	10	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-ISA 19:22	1	11	ἰάσει	ἴασις	noun, dative feminine singular	1	healing
+ISA 19:22	1	11	ἰάσει	ἴασις	noun, dative feminine singular	1	with healing
 ISA 19:22	1	12	καὶ	καί	conjunction	1	and
 ISA 19:22	1	13	ἐπιστραφήσονται	ἐπιστρέφω	future passive indicative, third plural, middle in sense	1	will turn back
 ISA 19:22	1	13	ἐπιστραφήσονται			2	will be turned
@@ -566,7 +566,7 @@ ISA 19:23	1	3	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative femi
 ISA 19:23	1	4	ἔσται	εἰμί	future indicative, third singular	1	will be
 ISA 19:23	1	5	ὁδὸς	ὁδός	noun nominative feminine singular	1	way
 ISA 19:23	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
-ISA 19:23	1	7	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
+ISA 19:23	1	7	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	Egypt
 ISA 19:23	1	8	πρὸς	πρός	preposition with the accusative	1	to
 ISA 19:23	1	9	Ἀσσυρίους	Ἀσσύριος	substantival adjective, accusative masculine plural; ethnic adjective	1	Assyrians
 ISA 19:23	1	10	καὶ	καί	conjunction	1	and
@@ -580,7 +580,7 @@ ISA 19:23	1	17	πορεύσονται	πορεύομαι	future middle indicativ
 ISA 19:23	1	18	πρὸς	πρός	preposition with the accusative	1	to
 ISA 19:23	1	19	Ἀσσυρίους	Ἀσσύριος	substantival adjective, accusative masculine plural; ethnic adjective	1	Assyrians
 ISA 19:23	1	20	καὶ	καί	conjunction	1	and
-ISA 19:23	1	21	δουλεύσουσιν	δουλεύω	future active indicative, third plural	1	they will serve
+ISA 19:23	1	21	δουλεύσουσιν	δουλεύω	future active indicative, third plural	1	will serve
 ISA 19:23	1	22	οἱ	ὁ	article, nominative masculine plural	1	the
 ISA 19:23	1	23	Αἰγύπτιοι	Αἰγύπτιος	ethnic noun, nominative masculine plural	1	Egyptians
 ISA 19:23	1	24	τοῖς	ὁ	article, dative masculine plural	1	the
@@ -591,11 +591,11 @@ ISA 19:24	1	3	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative femi
 ISA 19:24	1	4	ἔσται	εἰμί	future indicative, third singular	1	will be
 ISA 19:24	1	5	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 ISA 19:24	1	6	τρίτος	τρίτος	ordinal adjective, nominative masculine singular	1	third
-ISA 19:24	1	7	ἐν	ἐν	preposition with the dative	1	in
+ISA 19:24	1	7	ἐν	ἐν	preposition with the dative	1	among
 ISA 19:24	1	8	τοῖς	ὁ	article, dative neuter plural	1	the
 ISA 19:24	1	9	Αἰγυπτίοις	Αἰγύπτιος	ethnic noun, dative masculine plural	1	Egyptians
 ISA 19:24	1	10	καὶ	καί	conjunction	1	and
-ISA 19:24	1	11	ἐν	ἐν	preposition with the dative	1	in
+ISA 19:24	1	11	ἐν	ἐν	preposition with the dative	1	among
 ISA 19:24	1	12	τοῖς	ὁ	article, dative masculine plural	1	the
 ISA 19:24	1	13	Ἀσσυρίοις	Ἀσσύριος	adjective, dative masculine plural; substantival	1	Assyrians
 ISA 19:24	1	14	εὐλογημένος	εὐλογέω	perfect passive participle, nominative masculine singular	1	blessed
@@ -617,7 +617,7 @@ ISA 19:25	1	11	ἐν	ἐν	preposition with the dative	1	in
 ISA 19:25	1	12	Αἰγύπτῳ	Αἴγυπτος	place name, dative feminine singular	1	Egypt
 ISA 19:25	1	13	καὶ	καί	conjunction	1	and
 ISA 19:25	1	14	ἔργον	ἔργον	noun, nominative neuter singular	1	work
-ISA 19:25	1	15	χειρός	χείρ	noun, genitive feminine singular	1	hand
+ISA 19:25	1	15	χειρός	χείρ	noun, genitive feminine singular	1	of hand
 ISA 19:25	1	16	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ISA 19:25	1	17	ἐν	ἐν	preposition with the dative	1	in
 ISA 19:25	1	18	Ἀσσυρίοις	Ἀσσύριος	adjective, dative masculine plural; substantival	1	Assyrians
