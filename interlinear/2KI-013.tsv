@@ -3,7 +3,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:1	1	2	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
 2KI 13:1	1	3	εἰκοστῷ	εἰκοστός	ordinal adjective, dative neuter singular	1	twentieth
 2KI 13:1	1	4	καὶ	καί	conjunction	1	and
-2KI 13:1	1	5	τρίτῳ	τρίτος	ordinal adjective, dative masculine singular; substantival	1	third one
+2KI 13:1	1	5	τρίτῳ	τρίτος	ordinal adjective, dative masculine singular; substantival	1	third
 2KI 13:1	1	6	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
 2KI 13:1	1	7	Ἰωὰς	Ἰωάς	personal name, genitive masculine singular or indeclinable genitive in context	1	of Joash
 2KI 13:1	1	8	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
@@ -16,7 +16,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:1	1	13	Ἰωάχαζ			2	Joachaz
 2KI 13:1	1	14	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2KI 13:1	1	15	Ἰηοὺ	Ἰηού	indeclinable personal name, genitive in context	1	of Jehu
-2KI 13:1	1	16	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2KI 13:1	1	16	ἐπὶ	ἐπί	preposition (case from context)	1	over
 2KI 13:1	1	17	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, accusative in context	1	Israel
 2KI 13:1	1	18	ἐν	ἐν	preposition with the dative	1	in
 2KI 13:1	1	19	Σαμαρείᾳ	Σαμάρεια	noun, dative feminine singular; place name	1	Samaria
@@ -39,8 +39,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:2	1	13	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 2KI 13:2	1	14	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	1	of Nebat
 2KI 13:2	1	14	Ναβὰτ			2	of Nabat
-2KI 13:2	1	15	ὃς	ὅς	relative pronoun, accusative feminine singular	1	which
-2KI 13:2	1	16	ἐξήμαρτε	ἐξαμαρτάνω	aorist active indicative, third singular	1	he caused to sin
+2KI 13:2	1	15	ὃς	ὅς	relative pronoun, accusative feminine singular	1	who
+2KI 13:2	1	16	ἐξήμαρτε	ἐξαμαρτάνω	aorist active indicative, third singular	1	caused to sin
 2KI 13:2	1	17	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 13:2	1	18	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, dative in context	1	Israel
 2KI 13:2	1	19	οὐκ	οὐ	particle	1	not
@@ -52,7 +52,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:3	1	2	ὠργίσθη	ὀργίζω	aorist passive indicative, third singular	1	was angry
 2KI 13:3	1	3	θυμῷ	ὀργή	noun, dative masculine singular	1	with wrath
 2KI 13:3	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-2KI 13:3	1	5	ἐν	ἐν	preposition with the dative	1	in
+2KI 13:3	1	5	ἐν	ἐν	preposition with the dative	1	with
 2KI 13:3	1	6	τῷ	ὁ	article, dative neuter singular	1	the
 2KI 13:3	1	7	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, accusative in context	1	Israel
 2KI 13:3	1	8	καὶ	καί	conjunction	1	and
@@ -66,7 +66,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:3	1	16	καὶ	καί	conjunction	1	and
 2KI 13:3	1	17	ἐν	ἐν	preposition with the dative	1	in
 2KI 13:3	1	18	χειρὶ	χείρ	noun, dative feminine singular	1	hand
-2KI 13:3	1	19	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
+2KI 13:3	1	19	υἱοῦ	υἱός	noun, genitive masculine singular	1	of the son
 2KI 13:3	1	20	Ἄδερ	Ἄδερ	indeclinable personal name, genitive in context	1	of Hadad
 2KI 13:3	1	21	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 2KI 13:3	1	22	Ἀζαὴλ	Ἀζαήλ	indeclinable personal name, genitive in context	1	of Hazael
@@ -103,7 +103,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:5	1	6	Ἰσραήλ	Ἰσραήλ	indeclinable national name, dative in context	1	Israel
 2KI 13:5	1	7	καὶ	καί	conjunction	1	and
 2KI 13:5	1	8	ἐξῆλθεν	ἐξέρχομαι	aorist active indicative, third singular	1	came out
-2KI 13:5	1	9	ὑποκάτωθεν	ὑποκάτωθεν	adverb	1	below
+2KI 13:5	1	9	ὑποκάτωθεν	ὑποκάτωθεν	adverb	1	from under
 2KI 13:5	1	9	ὑποκάτωθεν			2	from below
 2KI 13:5	1	10	χειρὸς	χείρ	noun, genitive feminine singular	1	hand
 2KI 13:5	1	11	Συρίας	Συρία	noun, genitive feminine singular; place name	1	of Syria
@@ -126,14 +126,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:6	1	3	ἀπέστησαν	ἀφίστημι	aorist active indicative, third plural	1	they turned away
 2KI 13:6	1	4	ἀπὸ	ἀπό	preposition with the genitive	1	from
 2KI 13:6	1	5	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
-2KI 13:6	1	6	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+2KI 13:6	1	6	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 2KI 13:6	1	6	οἴκου			2	household
 2KI 13:6	1	7	Ἱεροβοὰμ	Ἱεροβοάμ	indeclinable personal name, genitive in context	1	of Jeroboam
 2KI 13:6	1	8	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 2KI 13:6	1	9	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	1	of Nebat
 2KI 13:6	1	9	Ναβὰτ			2	of Nabat
-2KI 13:6	1	10	ὃς	ὅς	relative pronoun, accusative feminine singular	1	which
-2KI 13:6	1	11	ἐξήμαρτε	ἐξαμαρτάνω	aorist active indicative, third singular	1	he caused to sin
+2KI 13:6	1	10	ὃς	ὅς	relative pronoun, accusative feminine singular	1	who
+2KI 13:6	1	11	ἐξήμαρτε	ἐξαμαρτάνω	aorist active indicative, third singular	1	caused to sin
 2KI 13:6	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 13:6	1	13	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, dative in context	1	Israel
 2KI 13:6	1	14	ἐν	ἐν	preposition with the dative	1	in
@@ -181,14 +181,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:8	1	1	Καὶ	καί	conjunction	1	and
 2KI 13:8	1	2	τὰ	ὁ	article, nominative neuter plural	1	the
 2KI 13:8	1	3	λοιπὰ	λοιπός	adjective, nominative neuter plural	1	remaining
-2KI 13:8	1	4	τῶν	ὁ	article, genitive plural	1	the
+2KI 13:8	1	4	τῶν	ὁ	article, genitive plural	1	of the
 2KI 13:8	1	5	λόγων	λόγος	noun, genitive masculine plural	1	accounts
 2KI 13:8	1	6	Ἰωάχαζ	Ἰωάχαζ	indeclinable personal name, genitive in context	1	of Jehoahaz
 2KI 13:8	1	6	Ἰωάχαζ			2	of Joachaz
 2KI 13:8	1	7	καὶ	καί	conjunction	1	and
 2KI 13:8	1	8	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 2KI 13:8	1	9	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
-2KI 13:8	1	10	ἐποίησε	ποιέω	aorist active indicative, third singular	1	he made
+2KI 13:8	1	10	ἐποίησε	ποιέω	aorist active indicative, third singular	1	he did
 2KI 13:8	1	11	καὶ	καί	conjunction	1	and
 2KI 13:8	1	12	αἱ	ὁ	article, nominative feminine plural	1	the
 2KI 13:8	1	13	δυναστεῖαι	δυναστεία	noun, nominative feminine plural	1	might
@@ -199,9 +199,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:8	1	18	γεγραμμένα	γράφω	perfect middle/passive participle, accusative neuter plural	1	written
 2KI 13:8	1	19	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2KI 13:8	1	20	βιβλίου	βιβλίον	noun, genitive neuter singular	1	the book
-2KI 13:8	1	21	λόγων	λόγος	noun, genitive masculine plural	1	words
+2KI 13:8	1	21	λόγων	λόγος	noun, genitive masculine plural	1	of the words
 2KI 13:8	1	21	λόγων			2	deeds
-2KI 13:8	1	22	τῶν	ὁ	article, genitive plural	1	the
+2KI 13:8	1	22	τῶν	ὁ	article, genitive plural	1	of the
 2KI 13:8	1	23	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
 2KI 13:8	1	24	τοῖς	ὁ	article, dative masculine plural	1	to the
 2KI 13:8	1	25	βασιλεῦσιν	βασιλεύς	noun, dative masculine plural	1	kings
@@ -245,7 +245,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:10	1	13	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2KI 13:10	1	14	Ἰωάχαζ	Ἰωάχαζ	indeclinable personal name, genitive in context	1	of Jehoahaz
 2KI 13:10	1	14	Ἰωάχαζ			2	of Joachaz
-2KI 13:10	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2KI 13:10	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	over
 2KI 13:10	1	16	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, accusative in context	1	Israel
 2KI 13:10	1	17	ἐν	ἐν	preposition with the dative	1	in
 2KI 13:10	1	18	Σαμαρείᾳ	Σαμάρεια	noun, dative feminine singular; place name	1	Samaria
@@ -268,8 +268,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:11	1	14	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 2KI 13:11	1	15	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	1	of Nebat
 2KI 13:11	1	15	Ναβὰτ			2	of Nabat
-2KI 13:11	1	16	ὃς	ὅς	relative pronoun, accusative feminine plural	1	by which
-2KI 13:11	1	17	ἐξήμαρτε	ἐξαμαρτάνω	aorist active indicative, third singular	1	he caused to sin
+2KI 13:11	1	16	ὃς	ὅς	relative pronoun, accusative feminine plural	1	who
+2KI 13:11	1	17	ἐξήμαρτε	ἐξαμαρτάνω	aorist active indicative, third singular	1	caused to sin
 2KI 13:11	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 13:11	1	19	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, dative in context	1	Israel
 2KI 13:11	1	20	ἐν	ἐν	preposition with the dative	1	in
@@ -279,13 +279,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:12	1	1	Καὶ	καί	conjunction	1	and
 2KI 13:12	1	2	τὰ	ὁ	article, nominative neuter plural	1	the
 2KI 13:12	1	3	λοιπὰ	λοιπός	adjective, nominative neuter plural	1	remaining
-2KI 13:12	1	4	τῶν	ὁ	article, genitive plural	1	the
+2KI 13:12	1	4	τῶν	ὁ	article, genitive plural	1	of the
 2KI 13:12	1	5	λόγων	λόγος	noun, genitive masculine plural	1	accounts
 2KI 13:12	1	6	Ἰωὰς	Ἰωάς	indeclinable personal name, genitive in context	1	of Joash
 2KI 13:12	1	7	καὶ	καί	conjunction	1	and
 2KI 13:12	1	8	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 2KI 13:12	1	9	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
-2KI 13:12	1	10	ἐποίησε	ποιέω	aorist active indicative, third singular	1	he made
+2KI 13:12	1	10	ἐποίησε	ποιέω	aorist active indicative, third singular	1	he did
 2KI 13:12	1	11	καὶ	καί	conjunction	1	and
 2KI 13:12	1	12	αἱ	ὁ	article, nominative feminine plural	1	the
 2KI 13:12	1	13	δυναστεῖαι	δυναστεία	noun, nominative feminine plural	1	might
@@ -302,9 +302,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:12	1	23	γεγραμμένα	γράφω	perfect middle/passive participle, accusative neuter plural	1	written
 2KI 13:12	1	24	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2KI 13:12	1	25	βιβλίου	βιβλίον	noun, genitive neuter singular	1	the book
-2KI 13:12	1	26	λόγων	λόγος	noun, genitive masculine plural	1	words
+2KI 13:12	1	26	λόγων	λόγος	noun, genitive masculine plural	1	of the words
 2KI 13:12	1	26	λόγων			2	deeds
-2KI 13:12	1	27	τῶν	ὁ	article, genitive plural	1	the
+2KI 13:12	1	27	τῶν	ὁ	article, genitive plural	1	of the
 2KI 13:12	1	28	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
 2KI 13:12	1	29	τοῖς	ὁ	article, dative masculine plural	1	to the
 2KI 13:12	1	30	βασιλεῦσιν	βασιλεύς	noun, dative masculine plural	1	kings
@@ -320,7 +320,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:13	1	8	καὶ	καί	conjunction	1	and
 2KI 13:13	1	9	Ἱεροβοὰμ	Ἱεροβοάμ	indeclinable personal name, genitive in context	1	Jeroboam
 2KI 13:13	1	9	Ἱεροβοὰμ			2	Hieroboam
-2KI 13:13	1	10	ἐκάθισεν	καθίζω	aorist active indicative, third person singular	1	he sat down
+2KI 13:13	1	10	ἐκάθισεν	καθίζω	aorist active indicative, third person singular	1	sat
 2KI 13:13	1	11	ἐπὶ	ἐπί	preposition	1	on
 2KI 13:13	1	12	τοῦ	ὁ	article, genitive singular	1	the
 2KI 13:13	1	13	θρόνου	θρόνος	noun, genitive masculine singular after ἐπὶ τοῦ	1	throne
@@ -335,8 +335,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:13	1	22	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
 2KI 13:13	1	23	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2KI 13:14	1	1	Καὶ	καί	conjunction	1	and
-2KI 13:14	1	2	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
-2KI 13:14	1	2	Ἐλισσαιὲ			2	Elisha
+2KI 13:14	1	2	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elisha
+2KI 13:14	1	2	Ἐλισσαιὲ			2	Elissaie
 2KI 13:14	1	3	ἠῤῥώστησε	ἀρρωστέω	aorist active indicative, third singular	1	became ill
 2KI 13:14	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 2KI 13:14	1	5	ἀρρωστίαν	ἀρρωστία	noun, accusative feminine singular	1	illness
@@ -408,8 +408,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:16	1	21	τόξον	τόξον	noun, accusative neuter singular	1	bow
 2KI 13:16	1	22	Καὶ	καί	conjunction	1	and
 2KI 13:16	1	23	ἐπέθηκεν	ἐπιτίθημι	aorist active indicative, third singular	1	put on
-2KI 13:16	1	24	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
-2KI 13:16	1	24	Ἐλισσαιὲ			2	Elisha
+2KI 13:16	1	24	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elisha
+2KI 13:16	1	24	Ἐλισσαιὲ			2	Elissaie
 2KI 13:16	1	25	τὴν	ὁ	article, accusative feminine singular	1	the
 2KI 13:16	1	26	χεῖρα	χείρ	noun, accusative feminine singular	1	hand
 2KI 13:16	1	27	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -430,8 +430,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:17	1	9	ἤνοιξε	ἀνοίγω	aorist active indicative, third singular	1	opened
 2KI 13:17	1	10	καὶ	καί	conjunction	1	and
 2KI 13:17	1	11	εἶπεν	λέγω	aorist active indicative, third singular	1	said
-2KI 13:17	1	12	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
-2KI 13:17	1	12	Ἐλισσαιέ			2	Elisha
+2KI 13:17	1	12	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elisha
+2KI 13:17	1	12	Ἐλισσαιέ			2	Elissaie
 2KI 13:17	1	13	ῥοίζησον	ῥοιζέω	aorist active imperative, second singular	1	shoot
 2KI 13:17	1	14	καὶ	καί	conjunction	1	and
 2KI 13:17	1	15	ἐροίζησε	ῥοιζέω	aorist active indicative, third singular	1	he shot
@@ -441,7 +441,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:17	1	19	σωτηρίας	σωτηρία	noun, genitive feminine singular	1	of victory
 2KI 13:17	1	19	σωτηρίας			2	of deliverance
 2KI 13:17	1	20	τῷ	ὁ	article, dative masculine singular	1	for
-2KI 13:17	1	21	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+2KI 13:17	1	21	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 2KI 13:17	1	22	καὶ	καί	conjunction	1	and
 2KI 13:17	1	23	βέλος	βέλος	noun, nominative neuter singular	1	arrow
 2KI 13:17	1	24	σωτηρίας	σωτηρία	noun, genitive feminine singular	1	of victory
@@ -461,8 +461,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:18	1	1	Καὶ	καί	conjunction	1	and
 2KI 13:18	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2KI 13:18	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-2KI 13:18	1	4	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
-2KI 13:18	1	4	Ἐλισσαιέ			2	Elisha
+2KI 13:18	1	4	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elisha
+2KI 13:18	1	4	Ἐλισσαιέ			2	Elissaie
 2KI 13:18	1	5	λάβε	λαμβάνω	aorist active imperative, second singular	1	take
 2KI 13:18	1	6	τόξα	τόξον	noun, nominative neuter plural	1	bows
 2KI 13:18	1	7	καὶ	καί	conjunction	1	and
@@ -475,7 +475,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:18	1	14	πάταξον	πατάσσω	aorist active imperative, second singular	1	strike
 2KI 13:18	1	15	εἰς	εἰς	preposition with the accusative	1	into
 2KI 13:18	1	16	τὴν	ὁ	article, accusative feminine singular	1	the
-2KI 13:18	1	17	γῆν	γῆ	noun, accusative feminine singular	1	land
+2KI 13:18	1	17	γῆν	γῆ	noun, accusative feminine singular	1	ground
 2KI 13:18	1	18	καὶ	καί	conjunction	1	and
 2KI 13:18	1	19	ἐπάταξεν	πατάσσω	aorist active indicative, third singular	1	struck
 2KI 13:18	1	19	ἐπάταξεν			2	struck down
@@ -488,7 +488,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:19	1	2	ἐλυπήθη	λυπέω	aorist passive indicative, third singular	1	was distressed
 2KI 13:19	1	2	ἐλυπήθη			2	was grieved
 2KI 13:19	1	3	ἐπ᾽	ἐπί	preposition with the accusative	1	over
-2KI 13:19	1	4	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+2KI 13:19	1	4	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 2KI 13:19	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 13:19	1	6	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 2KI 13:19	1	7	τοῦ	ὁ	article, genitive singular	1	the
@@ -519,8 +519,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:19	1	28	Συρίαν			2	Syria
 2KI 13:20	1	1	Καὶ	καί	conjunction	1	and
 2KI 13:20	1	2	ἀπέθανεν	ἀποθνῄσκω	aorist active indicative, third singular	1	died
-2KI 13:20	1	3	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
-2KI 13:20	1	3	Ἐλισσαιὲ			2	Elisha
+2KI 13:20	1	3	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elisha
+2KI 13:20	1	3	Ἐλισσαιὲ			2	Elissaie
 2KI 13:20	1	4	καὶ	καί	conjunction	1	and
 2KI 13:20	1	5	ἔθαψαν	θάπτω	aorist active indicative, third plural (subject unexpressed)	1	they buried
 2KI 13:20	1	6	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
@@ -552,8 +552,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:21	1	16	ἐν	ἐν	preposition with the dative	1	in
 2KI 13:21	1	17	τῷ	ὁ	article, dative masculine singular	1	the
 2KI 13:21	1	18	τάφῳ	τάφος	noun, dative masculine singular after ἐν τῷ	1	tomb
-2KI 13:21	1	19	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, genitive in context	1	of Elissaie
-2KI 13:21	1	19	Ἐλισσαιέ			2	of Elisha
+2KI 13:21	1	19	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, genitive in context	1	of Elisha
+2KI 13:21	1	19	Ἐλισσαιέ			2	of Elissaie
 2KI 13:21	1	20	καὶ	καί	conjunction	1	and
 2KI 13:21	1	21	ἐπορεύθη	πορεύομαι	aorist passive indicative, third singular; middle sense	1	went
 2KI 13:21	1	21	ἐπορεύθη			2	journeyed
@@ -562,13 +562,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:21	1	23	ἥψατο			2	took hold of
 2KI 13:21	1	24	τῶν	ὁ	article, genitive neuter plural	1	the
 2KI 13:21	1	25	ὀστέων	ὀστέον	noun, genitive neuter plural	1	bones
-2KI 13:21	1	26	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, genitive in context	1	of Elissaie
-2KI 13:21	1	26	Ἐλισσαιὲ			2	of Elisha
+2KI 13:21	1	26	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, genitive in context	1	of Elisha
+2KI 13:21	1	26	Ἐλισσαιὲ			2	of Elissaie
 2KI 13:21	1	27	καὶ	καί	conjunction	1	and
 2KI 13:21	1	28	ἔζησε	ζάω	aorist active indicative, third singular	1	lived
 2KI 13:21	1	29	καὶ	καί	conjunction	1	and
 2KI 13:21	1	30	ἀνέστη	ἀνίστημι	aorist active indicative, third singular	1	rose up
-2KI 13:21	1	31	ἐπὶ	ἐπί	preposition	1	on/upon
+2KI 13:21	1	31	ἐπὶ	ἐπί	preposition	1	on
 2KI 13:21	1	32	τοὺς	ὁ	article, accusative masculine plural	1	the
 2KI 13:21	1	33	πόδας	πούς	noun, accusative masculine plural	1	feet
 2KI 13:21	1	34	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -592,10 +592,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:23	1	6	οἰκτείρησεν	οἰκτείρω	aorist active indicative, third singular	1	had compassion
 2KI 13:23	1	7	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 2KI 13:23	1	8	καὶ	καί	conjunction	1	and
-2KI 13:23	1	9	ἐπέβλεψεν	ἐπιβλέπω	aorist active indicative, third singular	1	looked back
+2KI 13:23	1	9	ἐπέβλεψεν	ἐπιβλέπω	aorist active indicative, third singular	1	looked
 2KI 13:23	1	10	πρὸς	πρός	preposition with the accusative	1	to
 2KI 13:23	1	11	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-2KI 13:23	1	12	διὰ	διά	preposition (genitive 'through/by the hand of'; accusative with articular infinitive 'because')	1	through
+2KI 13:23	1	12	διὰ	διά	preposition (genitive 'through/by the hand of'; accusative with articular infinitive 'because')	1	because of
 2KI 13:23	1	13	τὴν	ὁ	article, accusative fem. sg.	1	the
 2KI 13:23	1	14	διαθήκην	διαθήκη	noun, accusative feminine singular	1	covenant
 2KI 13:23	1	15	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -616,7 +616,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 13:23	1	30	οὐκ	οὐ	negative particle	1	not
 2KI 13:23	1	31	ἀπέρριψεν	ἀπορρίπτω	aorist active indicative, third singular	1	cast away
 2KI 13:23	1	32	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-2KI 13:23	1	33	ἀπὸ	ἀπό	preposition with genitive expressing separation	1	away from
+2KI 13:23	1	33	ἀπὸ	ἀπό	preposition with genitive expressing separation	1	from
 2KI 13:23	1	34	τοῦ	ὁ	article, genitive neuter singular	1	the
 2KI 13:23	1	35	προσώπου	πρόσωπον	noun, genitive neuter singular	1	face
 2KI 13:23	1	36	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his

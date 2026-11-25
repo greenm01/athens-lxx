@@ -33,7 +33,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:1	1	28	λιμὸν			2	hunger
 2KI 8:1	1	29	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2KI 8:1	1	30	τὴν	ὁ	article, accusative feminine singular	1	the
-2KI 8:1	1	31	γῆν	γῆ	noun, accusative feminine singular	1	ground
+2KI 8:1	1	31	γῆν	γῆ	noun, accusative feminine singular	1	land
 2KI 8:1	1	31	γῆν			2	earth
 2KI 8:1	1	32	καί	καί	conjunction	1	and
 2KI 8:1	1	33	γε	γε	emphatic particle	1	indeed
@@ -76,7 +76,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:3	1	3	μετὰ	μετά	preposition with accusative	1	after
 2KI 8:3	1	4	τὸ	ὁ	article, accusative neuter singular, introduces the infinitive	1	—
 2KI 8:3	1	5	τέλος	τέλος	noun accusative neuter singular	1	end
-2KI 8:3	1	6	τῶν	ὁ	article, genitive plural	1	the
+2KI 8:3	1	6	τῶν	ὁ	article, genitive plural	1	of the
 2KI 8:3	1	7	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 2KI 8:3	1	8	ἐτῶν	ἔτος	noun, genitive neuter plural of age	1	years
 2KI 8:3	1	9	καὶ	καί	conjunction	1	and
@@ -85,7 +85,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:3	1	12	γυνὴ	γυνή	noun, nominative feminine singular	1	woman
 2KI 8:3	1	13	ἐκ	ἐκ	preposition with the genitive	1	from
 2KI 8:3	1	14	γῆς	γῆ	noun, genitive feminine singular	1	land
-2KI 8:3	1	15	τῶν	ὁ	article, genitive plural	1	the
+2KI 8:3	1	15	τῶν	ὁ	article, genitive plural	1	of the
 2KI 8:3	1	16	ἀλλοφύλων	ἀλλόφυλος	adjective, genitive masculine plural; substantival	1	Philistines
 2KI 8:3	1	16	ἀλλοφύλων			2	people of another tribe
 2KI 8:3	1	17	καὶ	καί	conjunction	1	and
@@ -96,7 +96,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:3	1	22	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 2KI 8:3	1	23	περὶ	περί	preposition with the genitive	1	on account of
 2KI 8:3	1	23	περὶ			2	concerning
-2KI 8:3	1	24	τοῦ	ὁ	article, genitive masculine singular	1	of the
+2KI 8:3	1	24	τοῦ	ὁ	article, genitive masculine singular	1	the
 2KI 8:3	1	25	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2KI 8:3	1	25	οἴκου			2	household
 2KI 8:3	1	26	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
@@ -133,7 +133,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:4	1	23	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
 2KI 8:4	1	23	Ἐλισσαιέ			2	Elisha
 2KI 8:5	1	1	Καὶ	καί	conjunction	1	and
-2KI 8:5	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	became
+2KI 8:5	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 2KI 8:5	1	3	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; subject of the genitive absolute	1	he
 2KI 8:5	1	4	ἐξηγουμένου	ἐξηγέομαι	present middle participle, genitive masculine singular	1	was recounting
 2KI 8:5	1	5	τῷ	ὁ	article, dative masculine singular	1	to the
@@ -159,7 +159,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:5	1	24	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 2KI 8:5	1	25	περὶ	περί	preposition with the genitive	1	concerning
 2KI 8:5	1	25	περὶ			2	on account of
-2KI 8:5	1	26	τοῦ	ὁ	article, genitive masculine singular	1	of the
+2KI 8:5	1	26	τοῦ	ὁ	article, genitive masculine singular	1	the
 2KI 8:5	1	27	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2KI 8:5	1	27	οἴκου			2	household
 2KI 8:5	1	28	ἑαυτῆς	αὐτός	pronoun, genitive feminine singular	1	her
@@ -268,8 +268,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:8	1	12	μαναὰ			2	a gift
 2KI 8:8	1	13	καὶ	καί	conjunction	1	and
 2KI 8:8	1	14	δεῦρο	δεῦρο	interjection	1	come
-2KI 8:8	1	15	εἰς	εἰς	preposition with the accusative	1	into
-2KI 8:8	1	16	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	1	meeting
+2KI 8:8	1	15	εἰς	εἰς	preposition with the accusative	1	to
+2KI 8:8	1	16	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	1	a meeting with
 2KI 8:8	1	16	ἀπάντησιν			2	encounter
 2KI 8:8	1	17	τοῦ	ὁ	article, genitive singular	1	the
 2KI 8:8	1	18	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
@@ -279,7 +279,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:8	1	22	ἐπιζήτησον	ἐπιζητέω	aorist active imperative, second singular	1	consult
 2KI 8:8	1	23	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 8:8	1	24	Κύριον	κύριος	noun, accusative masculine singular	1	Lord
-2KI 8:8	1	25	παρ᾽	παρά	preposition with the accusative, elided	1	beside
+2KI 8:8	1	25	παρ᾽	παρά	preposition with the accusative, elided	1	through
 2KI 8:8	1	26	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 2KI 8:8	1	27	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 2KI 8:8	1	28	εἰ	εἰ	interrogative particle introducing an indirect question	1	whether
@@ -293,8 +293,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:9	1	2	ἐπορεύθη	πορεύομαι	aorist passive indicative, third singular; middle sense	1	went
 2KI 8:9	1	2	ἐπορεύθη			2	journeyed
 2KI 8:9	1	3	Ἀζαὴλ	Ἀζαήλ	indeclinable personal name, nominative in context	1	Hazael
-2KI 8:9	1	4	εἰς	εἰς	preposition with accusative	1	into
-2KI 8:9	1	5	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	1	meeting
+2KI 8:9	1	4	εἰς	εἰς	preposition with accusative	1	to
+2KI 8:9	1	5	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	1	a meeting with
 2KI 8:9	1	5	ἀπάντησιν			2	encounter
 2KI 8:9	1	6	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 2KI 8:9	1	7	καὶ	καί	conjunction	1	and
@@ -313,12 +313,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:9	1	18	Δαμασκοῦ	Δαμασκός	place name, genitive feminine singular	1	of Damascus
 2KI 8:9	1	19	ἄρσιν	ἄρσις	noun, accusative feminine singular	1	a load
 2KI 8:9	1	19	ἄρσιν			2	a gift
-2KI 8:9	1	20	τεσσαράκοντα	τεσσαράκοντα	indeclinable cardinal numeral	1	forty
+2KI 8:9	1	20	τεσσαράκοντα	τεσσαράκοντα	indeclinable cardinal numeral	1	of forty
 2KI 8:9	1	21	καμήλων	κάμηλος	noun, genitive feminine plural	1	camels
 2KI 8:9	1	22	καὶ	καί	conjunction	1	and
 2KI 8:9	1	23	ἦλθε	ἔρχομαι	aorist active indicative, third singular	1	came
 2KI 8:9	1	24	καὶ	καί	conjunction	1	and
-2KI 8:9	1	25	ἔστη	ἵστημι	aorist active indicative, third singular	1	was established
+2KI 8:9	1	25	ἔστη	ἵστημι	aorist active indicative, third singular	1	stood
 2KI 8:9	1	26	ἐνώπιον	ἐνώπιον	preposition with the genitive	1	before
 2KI 8:9	1	26	ἐνώπιον			2	in the sight of
 2KI 8:9	1	27	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
@@ -384,9 +384,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:12	1	1	Καὶ	καί	conjunction	1	and
 2KI 8:12	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2KI 8:12	1	3	Ἀζαήλ	Ἀζαήλ	indeclinable personal name, nominative in context	1	Hazael
-2KI 8:12	1	4	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
+2KI 8:12	1	4	τί	τίς	interrogative pronoun, accusative neuter singular	1	why
 2KI 8:12	1	5	ὅτι	ὅτι	causal conjunction	1	that
-2KI 8:12	1	6	κύριός	κύριος	noun, nominative masculine singular	1	the Lord
+2KI 8:12	1	6	κύριός	κύριος	noun, nominative masculine singular	1	lord
 2KI 8:12	1	7	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2KI 8:12	1	8	κλαίει	κλαίω	present active indicative, third singular	1	weeps
 2KI 8:12	1	9	καὶ	καί	conjunction	1	and
@@ -443,7 +443,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:13	1	12	κύων	κύων	noun, nominative masculine singular	1	dog
 2KI 8:13	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 8:13	1	14	τεθνηκὼς	θνῄσκω	perfect active participle, nominative masculine singular	1	dead
-2KI 8:13	1	15	ὅτι	ὅτι	causal conjunction	1	because
+2KI 8:13	1	15	ὅτι	ὅτι	causal conjunction	1	that
 2KI 8:13	1	16	ποιήσει	ποιέω	future active indicative, third singular	1	will do
 2KI 8:13	1	16	ποιήσει			2	will carry out
 2KI 8:13	1	17	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -470,7 +470,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:14	1	6	εἰσῆλθε	εἰσέρχομαι	aorist active indicative, third singular; εἰσελθεῖν πρός of marital relations	1	went in
 2KI 8:14	1	7	πρὸς	πρός	preposition with the accusative	1	to
 2KI 8:14	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
-2KI 8:14	1	9	κύριον	κύριος	noun, accusative masculine singular	1	Lord
+2KI 8:14	1	9	κύριον	κύριος	noun, accusative masculine singular	1	master
 2KI 8:14	1	10	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2KI 8:14	1	11	καὶ	καί	conjunction	1	and
 2KI 8:14	1	12	εἶπεν	λέγω	aorist active indicative, third singular	1	said
@@ -488,7 +488,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:14	1	23	ζωῇ	ζωή	noun, dative feminine singular	1	life
 2KI 8:14	1	24	ζήσῃ	ζάω	future middle indicative, second singular	1	you will live
 2KI 8:15	1	1	Καὶ	καί	conjunction	1	and
-2KI 8:15	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	became
+2KI 8:15	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 2KI 8:15	1	3	τῇ	ὁ	article, dative feminine singular	1	the
 2KI 8:15	1	4	ἐπαύριον	ἐπαύριον	adverb	1	next day
 2KI 8:15	1	5	καὶ	καί	conjunction	1	and
@@ -517,7 +517,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:16	1	1	Ἐν	ἐν	preposition with the dative	1	in
 2KI 8:16	1	2	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
 2KI 8:16	1	3	πέμπτῳ	πέμπτος	ordinal adjective, dative masculine singular	1	fifth
-2KI 8:16	1	4	τοῦ	ὁ	article, genitive masculine singular	1	of the
+2KI 8:16	1	4	τοῦ	ὁ	article, genitive masculine singular	1	—
 2KI 8:16	1	5	Ἰωρὰμ	Ἰωράμ	indeclinable personal name, genitive in context	1	of Joram
 2KI 8:16	1	6	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 2KI 8:16	1	7	Ἀχαὰβ	Ἀχαάβ	indeclinable personal name, genitive in context	1	of Ahab
@@ -556,7 +556,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:18	1	2	ἐπορεύθη			2	journeyed
 2KI 8:18	1	3	ἐν	ἐν	preposition with the dative	1	in
 2KI 8:18	1	4	ὁδῷ	ὁδός	noun, dative feminine singular after τῇ/ἐν τῇ	1	way
-2KI 8:18	1	5	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
+2KI 8:18	1	5	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	of the kings
 2KI 8:18	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2KI 8:18	1	7	καθὼς	καθώς	comparative conjunction	1	just as
 2KI 8:18	1	8	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	did
@@ -575,7 +575,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:18	1	21	πονηρὸν	πονηρός	substantival adjective, accusative neuter singular	1	evil
 2KI 8:18	1	22	ἐνώπιον	ἐνώπιον	preposition with the genitive	1	before
 2KI 8:18	1	22	ἐνώπιον			2	in the sight of
-2KI 8:18	1	23	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+2KI 8:18	1	23	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 2KI 8:19	1	1	Καὶ	καί	conjunction	1	and
 2KI 8:19	1	2	οὐκ	οὐ	negative particle	1	not
 2KI 8:19	1	3	ἠθέλησε	ἐθέλω	aorist active indicative, 3rd singular	1	was willing
@@ -613,7 +613,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:20	1	9	χειρὸς	χείρ	noun, genitive feminine singular	1	hand
 2KI 8:20	1	10	Ἰούδα	Ἰούδα	indeclinable tribal name, genitive in context	1	of Judah
 2KI 8:20	1	11	καὶ	καί	conjunction	1	and
-2KI 8:20	1	12	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	reigned
+2KI 8:20	1	12	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	made king
 2KI 8:20	1	13	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
 2KI 8:20	1	14	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, accusative masculine plural in context	1	themselves
 2KI 8:20	1	15	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
@@ -629,10 +629,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:21	1	10	μετ᾽	μετά	elided preposition with the genitive	1	with
 2KI 8:21	1	11	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 2KI 8:21	1	12	καὶ	καί	conjunction	1	and
-2KI 8:21	1	13	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	became
+2KI 8:21	1	13	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 2KI 8:21	1	14	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; subject of the genitive absolute	1	he
 2KI 8:21	1	15	ἀναστάντος	ἀνίστημι	aorist active participle, genitive masculine singular	1	having risen
-2KI 8:21	1	16	νυκτὸς	νύξ	noun, genitive feminine singular	1	night
+2KI 8:21	1	16	νυκτὸς	νύξ	noun, genitive feminine singular	1	by night
 2KI 8:21	1	17	καὶ	καί	conjunction	1	and
 2KI 8:21	1	18	ἐπάταξε	πατάσσω	aorist active indicative, third singular	1	struck
 2KI 8:21	1	19	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -680,7 +680,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:23	1	1	Καὶ	καί	conjunction	1	and
 2KI 8:23	1	2	τὰ	ὁ	article, nominative neuter plural	1	the
 2KI 8:23	1	3	λοιπὰ	λοιπός	adjective, nominative neuter plural	1	remaining
-2KI 8:23	1	4	τῶν	ὁ	article, genitive plural	1	the
+2KI 8:23	1	4	τῶν	ὁ	article, genitive plural	1	of the
 2KI 8:23	1	5	λόγων	λόγος	noun, genitive masculine plural	1	accounts
 2KI 8:23	1	6	Ἰωρὰμ	Ἰωράμ	indeclinable personal name, genitive in context	1	of Joram
 2KI 8:23	1	7	καὶ	καί	conjunction	1	and
@@ -694,9 +694,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:23	1	14	γέγραπται	γράφω	perfect middle/passive indicative, third singular	1	is written
 2KI 8:23	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2KI 8:23	1	16	βιβλίῳ	βιβλίον	noun, dative neuter singular	1	book
-2KI 8:23	1	17	λόγων	λόγος	noun, genitive masculine plural	1	words
+2KI 8:23	1	17	λόγων	λόγος	noun, genitive masculine plural	1	of words
 2KI 8:23	1	17	λόγων			2	deeds
-2KI 8:23	1	18	τῶν	ὁ	article, genitive plural	1	the
+2KI 8:23	1	18	τῶν	ὁ	article, genitive plural	1	of the
 2KI 8:23	1	19	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
 2KI 8:23	1	20	τοῖς	ὁ	article, dative masculine plural	1	to the
 2KI 8:23	1	21	βασιλεῦσιν	βασιλεύς	noun, dative masculine plural	1	kings
@@ -779,7 +779,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:27	1	2	ἐπορεύθη			2	journeyed
 2KI 8:27	1	3	ἐν	ἐν	preposition with the dative	1	in
 2KI 8:27	1	4	ὁδῷ	ὁδός	noun, dative feminine singular after τῇ/ἐν τῇ	1	way
-2KI 8:27	1	5	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+2KI 8:27	1	5	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 2KI 8:27	1	5	οἴκου			2	household
 2KI 8:27	1	6	Ἀχαὰβ	Ἀχαάβ	indeclinable personal name, genitive in context	1	of Ahab
 2KI 8:27	1	7	καὶ	καί	conjunction	1	and
@@ -788,14 +788,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:27	1	10	πονηρὸν	πονηρός	substantival adjective, accusative neuter singular	1	evil
 2KI 8:27	1	11	ἐνώπιον	ἐνώπιον	preposition with the genitive	1	before
 2KI 8:27	1	11	ἐνώπιον			2	in the sight of
-2KI 8:27	1	12	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+2KI 8:27	1	12	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 2KI 8:27	1	13	καθὼς	καθώς	comparative conjunction	1	just as
 2KI 8:27	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 8:27	1	15	οἶκος	οἶκος	noun, nominative masculine singular	1	house
 2KI 8:27	1	16	Ἀχαάβ	Ἀχαάβ	indeclinable personal name, genitive in context	1	of Ahab
-2KI 8:27	1	17	γαμβρὸς	γαμβρός	noun, nominative masc. sg. after ὁ, father-in-law, in apposition	1	father-in-law
+2KI 8:27	1	17	γαμβρὸς	γαμβρός	noun, nominative masc. sg. after ὁ, father-in-law, in apposition	1	son-in-law
 2KI 8:27	1	18	γὰρ	γάρ	conjunction	1	for
-2KI 8:27	1	19	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+2KI 8:27	1	19	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 2KI 8:27	1	19	οἴκου			2	household
 2KI 8:27	1	20	Ἀχαάβ	Ἀχαάβ	indeclinable personal name, genitive in context	1	of Ahab
 2KI 8:27	1	21	ἐστι	εἰμί	present indicative, third singular	1	is
@@ -812,7 +812,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:28	1	9	μετὰ			2	with
 2KI 8:28	1	10	Ἀζαὴλ	Ἀζαήλ	indeclinable personal name, accusative in context	1	Hazael
 2KI 8:28	1	11	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
-2KI 8:28	1	12	ἀλλοφύλων	ἀλλόφυλος	substantival adjective, genitive masculine plural	1	of the Philistines
+2KI 8:28	1	12	ἀλλοφύλων	ἀλλόφυλος	substantival adjective, genitive masculine plural	1	of the foreigners
 2KI 8:28	1	13	ἐν	ἐν	preposition with the dative	1	in
 2KI 8:28	1	14	Ῥαμὼθ	Ῥαμώθ	indeclinable place name, genitive in context	1	Ramoth
 2KI 8:28	1	15	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	1	of Gilead
@@ -840,12 +840,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:29	1	14	ὧν	ὅς	relative pronoun, genitive neuter plural	1	which
 2KI 8:29	1	15	ἐπάταξαν	πατάσσω	aorist active indicative, third plural	1	struck
 2KI 8:29	1	16	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-2KI 8:29	1	17	οἱ	ὁ	article nominative masculine plural	1	those
+2KI 8:29	1	17	οἱ	ὁ	article nominative masculine plural	1	the
 2KI 8:29	1	18	Σύροι	Σύρος	noun, nominative masculine plural	1	Syrians
 2KI 8:29	1	19	ἐν	ἐν	preposition with the dative	1	in
 2KI 8:29	1	20	Ῥαμὼθ	Ῥαμώθ	indeclinable place name, genitive in context	1	Ramoth
 2KI 8:29	1	21	ἐν	ἐν	preposition in temporal articular infinitive	1	when
-2KI 8:29	1	22	τῷ	ὁ	article, dative neuter singular	1	introduces the temporal infinitive
+2KI 8:29	1	22	τῷ	ὁ	article, dative neuter singular	1	—
 2KI 8:29	1	23	πολεμεῖν	πολεμέω	present active infinitive	1	was fighting
 2KI 8:29	1	24	αὐτὸν	αὐτός	pronoun, accusative masculine singular; subject of the temporal infinitive	1	he
 2KI 8:29	1	25	μετὰ	μετά	preposition with genitive	1	with

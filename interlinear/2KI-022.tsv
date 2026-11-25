@@ -21,8 +21,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:1	1	19	τῇ	ὁ	article, dative feminine singular	1	to the
 2KI 22:1	1	20	μητρὶ	μήτηρ	noun, dative feminine singular	1	mother
 2KI 22:1	1	21	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
-2KI 22:1	1	22	Ἰεδιδὰ	Ἰεδιδά	indeclinable personal name, nominative in context	1	Iedida
-2KI 22:1	1	22	Ἰεδιδὰ			2	Jedidah
+2KI 22:1	1	22	Ἰεδιδὰ	Ἰεδιδά	indeclinable personal name, nominative in context	1	Jedidah
+2KI 22:1	1	22	Ἰεδιδὰ			2	Iedida
 2KI 22:1	1	23	θυγάτηρ	θυγάτηρ	noun, nominative feminine singular	1	daughter
 2KI 22:1	1	24	Ἐδεϊὰ	Ἐδεϊά	indeclinable personal name, genitive in context	1	of Adaiah
 2KI 22:1	1	24	Ἐδεϊὰ			2	of Edeia
@@ -59,7 +59,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:3	1	4	τῷ	ὁ	article, dative neuter singular	1	the
 2KI 22:3	1	5	ὀκτωκαιδεκάτῳ	ὀκτωκαιδέκατος	ordinal adjective, dative neuter singular	1	eighteenth
 2KI 22:3	1	6	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
-2KI 22:3	1	7	τῷ	ὁ	article, dative masculine singular	1	the
+2KI 22:3	1	7	τῷ	ὁ	article, dative masculine singular	1	of the
 2KI 22:3	1	8	βασιλεῖ	βασιλεύς	noun, dative masc. sg	1	king
 2KI 22:3	1	9	Ἰωσίᾳ	Ἰωσίας	personal name, dative masculine singular	1	Josiah
 2KI 22:3	1	10	ἐν	ἐν	preposition with the dative	1	in
@@ -72,19 +72,19 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:3	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 22:3	1	17	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2KI 22:3	1	18	τὸν	ὁ	article, accusative masculine singular, marks the name	1	—
-2KI 22:3	1	19	Σαφφὰν	Σαφφάν	indeclinable personal name, accusative in context	1	Saphphan
-2KI 22:3	1	19	Σαφφὰν			2	Shaphan
+2KI 22:3	1	19	Σαφφὰν	Σαφφάν	indeclinable personal name, accusative in context	1	Shaphan
+2KI 22:3	1	19	Σαφφὰν			2	Saphphan
 2KI 22:3	1	20	υἱὸν	υἱός	noun, accusative masculine singular, in apposition	1	son
 2KI 22:3	1	20	υἱὸν			2	a son
-2KI 22:3	1	21	Ἐσσελίου	Ἐσσέλιος	personal name, genitive masculine singular	1	of Esselios
-2KI 22:3	1	21	Ἐσσελίου			2	of Azaliah
+2KI 22:3	1	21	Ἐσσελίου	Ἐσσέλιος	personal name, genitive masculine singular	1	of Azaliah
+2KI 22:3	1	21	Ἐσσελίου			2	of Esselios
 2KI 22:3	1	22	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-2KI 22:3	1	23	Μεσσολλὰμ	Μεσσολλάμ	indeclinable personal name, genitive in context	1	of Messollam
-2KI 22:3	1	23	Μεσσολλὰμ			2	of Meshullam
+2KI 22:3	1	23	Μεσσολλὰμ	Μεσσολλάμ	indeclinable personal name, genitive in context	1	of Meshullam
+2KI 22:3	1	23	Μεσσολλὰμ			2	of Messollam
 2KI 22:3	1	24	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 22:3	1	25	γραμματέα	γραμματεύς	noun, accusative masculine singular	1	scribe
 2KI 22:3	1	25	γραμματέα			2	secretary
-2KI 22:3	1	26	τοῦ	ὁ	article, genitive singular	1	the
+2KI 22:3	1	26	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 22:3	1	27	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2KI 22:3	1	27	οἴκου			2	household
 2KI 22:3	1	28	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
@@ -119,7 +119,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:5	1	3	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
 2KI 22:5	1	4	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2KI 22:5	1	5	χεῖρα	χείρ	noun, accusative feminine singular	1	the hand
-2KI 22:5	1	6	ποιούντων	ποιέω	present active imperative, genitive masculine plural	1	doing
+2KI 22:5	1	6	ποιούντων	ποιέω	present active imperative, genitive masculine plural	1	of those doing
 2KI 22:5	1	7	τὰ	ὁ	article, accusative neuter plural	1	the
 2KI 22:5	1	8	ἔργα	ἔργον	noun, accusative neuter plural	1	works
 2KI 22:5	1	9	τῶν	ὁ	article, genitive plural	1	the
@@ -131,8 +131,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:5	1	14	καὶ	καί	conjunction	1	and
 2KI 22:5	1	15	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
 2KI 22:5	1	16	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
-2KI 22:5	1	17	τοῖς	ὁ	article, dative neuter plural	1	the
-2KI 22:5	1	18	ποιοῦσι	ποιέω	present active indicative, 3rd plural	1	do
+2KI 22:5	1	17	τοῖς	ὁ	article, dative neuter plural	1	to the
+2KI 22:5	1	18	ποιοῦσι	ποιέω	present active indicative, 3rd plural	1	doing
 2KI 22:5	1	19	τὰ	ὁ	article, accusative neuter plural	1	the
 2KI 22:5	1	20	ἔργα	ἔργον	noun, accusative neuter plural	1	work
 2KI 22:5	1	21	τοῖς	ὁ	article, dative neuter plural	1	the
@@ -145,7 +145,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:5	1	27	τὸ	ὁ	article, accusative neuter singular	1	the
 2KI 22:5	1	28	βεδὲκ	Βεδέκ	indeclinable word for structural damage, accusative in context	1	damage
 2KI 22:5	1	28	βεδὲκ			2	bedek
-2KI 22:5	1	29	τοῦ	ὁ	article, genitive singular	1	the
+2KI 22:5	1	29	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 22:5	1	30	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2KI 22:5	1	30	οἴκου			2	household
 2KI 22:6	1	1	τοῖς	ὁ	article, dative masculine plural	1	to the
@@ -157,21 +157,21 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:6	1	7	τοῖς	ὁ	article, dative masculine plural	1	to the
 2KI 22:6	1	8	τειχισταῖς	τειχιστής	noun, dative masculine plural	1	wall builders
 2KI 22:6	1	9	καὶ	καί	conjunction	1	and
-2KI 22:6	1	10	τοῦ	ὁ	article, genitive neuter singular	1	to
+2KI 22:6	1	10	τοῦ	ὁ	article, genitive neuter singular	1	—
 2KI 22:6	1	11	κτήσασθαι	κτάομαι	aorist middle infinitive	1	to acquire
 2KI 22:6	1	12	ξύλα	ξύλον	noun, accusative neuter plural	1	wood
 2KI 22:6	1	13	καὶ	καί	conjunction	1	and
 2KI 22:6	1	14	λίθους	λίθος	noun, accusative masc. pl.	1	stones
 2KI 22:6	1	15	λατομητοὺς	λατομητός	adjective, accusative masculine plural	1	quarried
-2KI 22:6	1	16	τοῦ	ὁ	article, genitive singular	1	the
+2KI 22:6	1	16	τοῦ	ὁ	article, genitive singular	1	—
 2KI 22:6	1	17	κραταιῶσαι	κραταιόω	aorist active infinitive	1	to repair
 2KI 22:6	1	18	τὸ	ὁ	article, accusative neuter singular	1	the
 2KI 22:6	1	19	βεδὲκ	Βεδέκ	indeclinable word for structural damage, accusative in context	1	damage
 2KI 22:6	1	19	βεδὲκ			2	bedek
-2KI 22:6	1	20	τοῦ	ὁ	article, genitive singular	1	the
+2KI 22:6	1	20	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 22:6	1	21	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2KI 22:6	1	21	οἴκου			2	household
-2KI 22:7	1	1	πλὴν	πλήν	preposition/adverb with the genitive	1	except
+2KI 22:7	1	1	πλὴν	πλήν	preposition/adverb with the genitive	1	however
 2KI 22:7	1	2	οὐκ	οὐ	negative particle	1	not
 2KI 22:7	1	3	ἐξελογίζοντο	ἐκλογίζομαι	imperfect middle indicative, third plural	1	they required an accounting
 2KI 22:7	1	4	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
@@ -193,15 +193,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:8	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 22:8	1	7	μέγας	μέγας	adjective, nominative masculine singular	1	high
 2KI 22:8	1	8	πρὸς	πρός	preposition with the accusative	1	to
-2KI 22:8	1	9	Σαφφὰν	Σαφφάν	indeclinable personal name, accusative in context	1	Saphphan
-2KI 22:8	1	9	Σαφφὰν			2	Shaphan
+2KI 22:8	1	9	Σαφφὰν	Σαφφάν	indeclinable personal name, accusative in context	1	Shaphan
+2KI 22:8	1	9	Σαφφὰν			2	Saphphan
 2KI 22:8	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 22:8	1	11	γραμματέα	γραμματεύς	noun, accusative masculine singular	1	scribe
 2KI 22:8	1	11	γραμματέα			2	secretary
 2KI 22:8	1	12	βιβλίον	βιβλίον	noun, accusative neuter singular	1	scroll
-2KI 22:8	1	13	τοῦ	ὁ	article, genitive singular	1	the
-2KI 22:8	1	14	νόμου	νόμος	noun, genitive masculine singular	1	of the law
-2KI 22:8	1	15	εὗρον	εὑρίσκω	aorist active indicative, 3rd pl.	1	found
+2KI 22:8	1	13	τοῦ	ὁ	article, genitive singular	1	of the
+2KI 22:8	1	14	νόμου	νόμος	noun, genitive masculine singular	1	law
+2KI 22:8	1	15	εὗρον	εὑρίσκω	aorist active indicative, 3rd pl.	1	I found
 2KI 22:8	1	16	ἐν	ἐν	preposition with the dative	1	in
 2KI 22:8	1	17	οἴκῳ	οἶκος	noun, dative masculine singular	1	the house
 2KI 22:8	1	17	οἴκῳ			2	a house
@@ -212,8 +212,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:8	1	22	τὸ	ὁ	article, accusative neuter singular	1	the
 2KI 22:8	1	23	βιβλίον	βιβλίον	noun, accusative neuter singular	1	scroll
 2KI 22:8	1	24	πρὸς	πρός	preposition with the accusative	1	to
-2KI 22:8	1	25	Σαφφὰν	Σαφφάν	indeclinable personal name, accusative in context	1	Saphphan
-2KI 22:8	1	25	Σαφφὰν			2	Shaphan
+2KI 22:8	1	25	Σαφφὰν	Σαφφάν	indeclinable personal name, accusative in context	1	Shaphan
+2KI 22:8	1	25	Σαφφὰν			2	Saphphan
 2KI 22:8	1	26	καὶ	καί	conjunction	1	and
 2KI 22:8	1	27	ἀνέγνω	ἀναγινώσκω	aorist active indicative, third singular	1	he read
 2KI 22:8	1	28	αὐτό	αὐτός	pronoun, accusative neuter singular	1	it
@@ -249,7 +249,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:9	1	30	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
 2KI 22:9	1	31	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2KI 22:9	1	32	χεῖρα	χείρ	noun, accusative feminine singular	1	the hand
-2KI 22:9	1	33	ποιούντων	ποιέω	present active imperative, genitive masculine plural	1	doing
+2KI 22:9	1	33	ποιούντων	ποιέω	present active imperative, genitive masculine plural	1	of those doing
 2KI 22:9	1	34	τὰ	ὁ	article, accusative neuter plural	1	the
 2KI 22:9	1	35	ἔργα	ἔργον	noun, accusative neuter plural	1	works
 2KI 22:9	1	36	τῶν	ὁ	article, genitive plural	1	the
@@ -260,8 +260,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:9	1	40	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2KI 22:10	1	1	Καὶ	καί	conjunction	1	and
 2KI 22:10	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
-2KI 22:10	1	3	Σαφφὰν	Σαφφάν	indeclinable personal name, accusative in context	1	Saphphan
-2KI 22:10	1	3	Σαφφὰν			2	Shaphan
+2KI 22:10	1	3	Σαφφὰν	Σαφφάν	indeclinable personal name, accusative in context	1	Shaphan
+2KI 22:10	1	3	Σαφφὰν			2	Saphphan
 2KI 22:10	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 22:10	1	5	γραμματεὺς	γραμματεύς	noun, nominative masculine singular	1	scribe
 2KI 22:10	1	5	γραμματεὺς			2	secretary
@@ -278,8 +278,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:10	1	16	καὶ	καί	conjunction	1	and
 2KI 22:10	1	17	ἀνέγνω	ἀναγινώσκω	aorist active indicative, third singular	1	he read
 2KI 22:10	1	18	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
-2KI 22:10	1	19	Σαφφὰν	Σαφφάν	indeclinable personal name, accusative in context	1	Saphphan
-2KI 22:10	1	19	Σαφφὰν			2	Shaphan
+2KI 22:10	1	19	Σαφφὰν	Σαφφάν	indeclinable personal name, accusative in context	1	Shaphan
+2KI 22:10	1	19	Σαφφὰν			2	Saphphan
 2KI 22:10	1	20	ἐνώπιον	ἐνώπιον	preposition with genitive	1	before
 2KI 22:10	1	21	τοῦ	ὁ	article, genitive singular	1	the
 2KI 22:10	1	22	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
@@ -291,48 +291,48 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:11	1	6	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2KI 22:11	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
 2KI 22:11	1	8	λόγους	λόγος	noun, accusative masc. pl	1	words
-2KI 22:11	1	9	τοῦ	ὁ	article, genitive singular	1	the
+2KI 22:11	1	9	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 22:11	1	10	βιβλίου	βιβλίον	noun, genitive neuter singular	1	scroll
-2KI 22:11	1	11	τοῦ	ὁ	article, genitive singular	1	the
-2KI 22:11	1	12	νόμου	νόμος	noun, genitive masculine singular	1	of the law
+2KI 22:11	1	11	τοῦ	ὁ	article, genitive singular	1	of the
+2KI 22:11	1	12	νόμου	νόμος	noun, genitive masculine singular	1	law
 2KI 22:11	1	13	καὶ	καί	conjunction	1	and
 2KI 22:11	1	14	ἔῤῥηξε	ῥήγνυμι	aorist active indicative, third singular	1	he tore
 2KI 22:11	1	15	τὰ	ὁ	article, neuter plural (case from context)	1	the
 2KI 22:11	1	16	ἱμάτια	ἱμάτιον	noun, accusative neuter plural after τὰ	1	clothes
-2KI 22:11	1	17	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	himself
+2KI 22:11	1	17	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	his own
 2KI 22:12	1	1	Καὶ	καί	conjunction	1	and
 2KI 22:12	1	2	ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, third singular	1	commanded
 2KI 22:12	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 22:12	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2KI 22:12	1	5	τῷ	ὁ	article, dative masculine singular; with a proper name	1	to
 2KI 22:12	1	6	Χελκίᾳ	Χελκίας	personal name, dative masculine singular	1	Hilkiah
-2KI 22:12	1	7	τῷ	ὁ	article, dative masculine singular	1	for the
+2KI 22:12	1	7	τῷ	ὁ	article, dative masculine singular	1	the
 2KI 22:12	1	8	ἱερεῖ	ἱερεύς	noun, dative masculine singular	1	priest
 2KI 22:12	1	9	καὶ	καί	conjunction	1	and
-2KI 22:12	1	10	τῷ	ὁ	article, dative masculine singular	1	for
+2KI 22:12	1	10	τῷ	ὁ	article, dative masculine singular	1	to
 2KI 22:12	1	11	Ἀχικὰμ	Ἀχικάμ	indeclinable personal name, dative in context	1	Ahikam
 2KI 22:12	1	11	Ἀχικὰμ			2	Achikam
 2KI 22:12	1	12	υἱῷ	υἱός	noun, dative masculine singular	1	son
-2KI 22:12	1	13	Σαφφὰν	Σαφφάν	indeclinable personal name, genitive in context	1	of Saphphan
-2KI 22:12	1	13	Σαφφὰν			2	of Shaphan
+2KI 22:12	1	13	Σαφφὰν	Σαφφάν	indeclinable personal name, genitive in context	1	of Shaphan
+2KI 22:12	1	13	Σαφφὰν			2	of Saphphan
 2KI 22:12	1	14	καὶ	καί	conjunction	1	and
-2KI 22:12	1	15	τῷ	ὁ	article, dative masculine singular	1	for
+2KI 22:12	1	15	τῷ	ὁ	article, dative masculine singular	1	to
 2KI 22:12	1	16	Ἀχοβὼρ	Ἀχοβώρ	indeclinable personal name, dative in context	1	Achbor
 2KI 22:12	1	16	Ἀχοβὼρ			2	Achobor
 2KI 22:12	1	17	υἱῷ	υἱός	noun, dative masculine singular	1	son
 2KI 22:12	1	18	Μιχαίου	Μιχαῖος	personal name, genitive masculine singular	1	of Michaiah
 2KI 22:12	1	18	Μιχαίου			2	of Micaiah
 2KI 22:12	1	19	καὶ	καί	conjunction	1	and
-2KI 22:12	1	20	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
-2KI 22:12	1	21	Σαφφὰν	Σαφφάν	indeclinable personal name, accusative in context	1	Saphphan
-2KI 22:12	1	21	Σαφφὰν			2	Shaphan
+2KI 22:12	1	20	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to
+2KI 22:12	1	21	Σαφφὰν	Σαφφάν	indeclinable personal name, accusative in context	1	Shaphan
+2KI 22:12	1	21	Σαφφὰν			2	Saphphan
 2KI 22:12	1	22	τῷ	ὁ	article, dative masculine singular	1	the
-2KI 22:12	1	23	γραμματεῖ	γραμματεύς	noun, dative masculine singular	1	the scribe
+2KI 22:12	1	23	γραμματεῖ	γραμματεύς	noun, dative masculine singular	1	scribe
 2KI 22:12	1	24	καὶ	καί	conjunction	1	and
-2KI 22:12	1	25	τῷ	ὁ	article, dative neuter singular	1	the
+2KI 22:12	1	25	τῷ	ὁ	article, dative neuter singular	1	to
 2KI 22:12	1	26	Ἀσαίᾳ	Ἀσαίας	personal name, dative masculine singular	1	Asahiah
 2KI 22:12	1	27	δούλῳ	δοῦλος	noun, dative masculine singular	1	servant
-2KI 22:12	1	28	τοῦ	ὁ	article, genitive singular	1	the
+2KI 22:12	1	28	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 22:12	1	29	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2KI 22:12	1	30	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 2KI 22:13	1	1	δεῦτε	δεῦτε	exhortative adverb addressed to several people	1	come
@@ -358,7 +358,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:13	1	17	περὶ			2	on account of
 2KI 22:13	1	18	τῶν	ὁ	article, genitive plural	1	the
 2KI 22:13	1	19	λόγων	λόγος	noun, genitive masculine plural	1	words
-2KI 22:13	1	20	τοῦ	ὁ	article, genitive singular	1	the
+2KI 22:13	1	20	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 22:13	1	21	βιβλίου	βιβλίον	noun, genitive neuter singular	1	scroll
 2KI 22:13	1	22	τοῦ	ὁ	article, genitive neuter singular; attributive	1	the
 2KI 22:13	1	23	εὑρεθέντος	εὑρίσκω	aorist passive participle, genitive neuter singular	1	that was found
@@ -374,7 +374,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:13	1	32	ἐν	ἐν	preposition with the dative	1	in
 2KI 22:13	1	33	ἡμῖν	ἐγώ	personal pronoun, dative plural	1	us
 2KI 22:13	1	34	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
-2KI 22:13	1	35	οὗ	οὗ	relative adverb of place	1	where
+2KI 22:13	1	35	οὗ	οὗ	relative adverb of place	1	which
 2KI 22:13	1	36	οὐκ	οὐ	negative particle	1	not
 2KI 22:13	1	37	ἤκουσαν	ἀκούω	aorist active indicative, third plural	1	they heard
 2KI 22:13	1	38	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -406,28 +406,28 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:14	1	9	Ἀχοβὼρ	Ἀχοβώρ	indeclinable personal name, nominative in context	1	Achbor
 2KI 22:14	1	9	Ἀχοβὼρ			2	Achobor
 2KI 22:14	1	10	καὶ	καί	conjunction	1	and
-2KI 22:14	1	11	Σαφφὰν	Σαφφάν	indeclinable personal name, accusative in context	1	Saphphan
-2KI 22:14	1	11	Σαφφὰν			2	Shaphan
+2KI 22:14	1	11	Σαφφὰν	Σαφφάν	indeclinable personal name, accusative in context	1	Shaphan
+2KI 22:14	1	11	Σαφφὰν			2	Saphphan
 2KI 22:14	1	12	καὶ	καί	conjunction	1	and
 2KI 22:14	1	13	Ἀσαίας	Ἀσαίας	personal name, nominative masculine singular	1	Asahiah
 2KI 22:14	1	14	πρὸς	πρός	preposition with the accusative	1	to
-2KI 22:14	1	15	Ὄλδαν	Ὄλδα	personal name, accusative feminine singular	1	Olda
-2KI 22:14	1	15	Ὄλδαν			2	Huldah
+2KI 22:14	1	15	Ὄλδαν	Ὄλδα	personal name, accusative feminine singular	1	Huldah
+2KI 22:14	1	15	Ὄλδαν			2	Olda
 2KI 22:14	1	16	τὴν	ὁ	article, accusative feminine singular	1	the
 2KI 22:14	1	17	προφῆτιν	προφῆτις	noun, accusative feminine singular	1	prophetess
 2KI 22:14	1	18	γυναῖκα	γυνή	noun, accusative feminine singular	1	wife
-2KI 22:14	1	19	Σελλοὺμ	Σελλούμ	indeclinable personal name, genitive in context	1	of Sellum
-2KI 22:14	1	19	Σελλοὺμ			2	of Shallum
+2KI 22:14	1	19	Σελλοὺμ	Σελλούμ	indeclinable personal name, genitive in context	1	of Shallum
+2KI 22:14	1	19	Σελλοὺμ			2	of Sellum
 2KI 22:14	1	20	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-2KI 22:14	1	21	Θεκκουὲ	Θεκκουέ	indeclinable personal name, genitive in context	1	of Thekkue
-2KI 22:14	1	21	Θεκκουὲ			2	of Tikvah
+2KI 22:14	1	21	Θεκκουὲ	Θεκκουέ	indeclinable personal name, genitive in context	1	of Tikvah
+2KI 22:14	1	21	Θεκκουὲ			2	of Thekkue
 2KI 22:14	1	22	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 2KI 22:14	1	23	Ἀρὰς	Ἀράς	indeclinable personal name, genitive in context	1	of Harhas
 2KI 22:14	1	23	Ἀρὰς			2	of Aras
 2KI 22:14	1	24	τοῦ	ὁ	article, genitive masculine singular	1	the
-2KI 22:14	1	25	ἱματιοφύλακος	ἱματιοφύλαξ	noun, genitive masculine singular	1	of the keeper of the wardrobe
+2KI 22:14	1	25	ἱματιοφύλακος	ἱματιοφύλαξ	noun, genitive masculine singular	1	keeper of the wardrobe
 2KI 22:14	1	26	καὶ	καί	conjunction	1	and
-2KI 22:14	1	27	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
+2KI 22:14	1	27	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	she
 2KI 22:14	1	28	κατῴκει	κατοικέω	imperfect active indicative, third singular	1	was dwelling
 2KI 22:14	1	28	κατῴκει			2	was living
 2KI 22:14	1	29	ἐν	ἐν	preposition with the dative	1	in
@@ -451,7 +451,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:15	1	9	Θεὸς	θεός	noun, nominative masculine singular	1	God
 2KI 22:15	1	10	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2KI 22:15	1	11	εἴπατε	λέγω	aorist active imperative, second plural	1	say
-2KI 22:15	1	12	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+2KI 22:15	1	12	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 2KI 22:15	1	13	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	man
 2KI 22:15	1	14	τῷ	ὁ	article, dative masculine singular	1	the
 2KI 22:15	1	15	ἀποστείλαντι	ἀποστέλλω	aorist active participle, dative masculine singular	1	who sent
@@ -478,7 +478,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:16	1	17	πάντας	πᾶς	adjective, accusative masc. pl. with λόγους	1	all
 2KI 22:16	1	18	τοὺς	ὁ	article, accusative masculine plural	1	the
 2KI 22:16	1	19	λόγους	λόγος	noun accusative masculine plural	1	words
-2KI 22:16	1	20	τῆς	ὁ	article, genitive feminine singular	1	the
+2KI 22:16	1	20	τῆς	ὁ	article, genitive feminine singular	1	of the
 2KI 22:16	1	21	βίβλου	βίβλος	noun, genitive feminine singular	1	scroll
 2KI 22:16	1	22	οὓς	ὅς	relative pronoun, accusative neuter singular	1	which
 2KI 22:16	1	23	ἀνέγνω	ἀναγιγνώσκω	aorist active indicative, 3rd sg.	1	read (aloud)
@@ -491,7 +491,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:17	1	5	καὶ	καί	conjunction	1	and
 2KI 22:17	1	6	ἐθυμίων	θυμιάω	imperfect active indicative, third plural	1	they were burning incense
 2KI 22:17	1	6	ἐθυμίων			2	they offered incense
-2KI 22:17	1	7	θεοῖς	θεός	noun, dative masc. pl.	1	gods
+2KI 22:17	1	7	θεοῖς	θεός	noun, dative masc. pl.	1	to gods
 2KI 22:17	1	8	ἑτέροις	ἕτερος	adjective, dative masculine plural	1	other
 2KI 22:17	1	9	ὅπως	ὅπως	conjunction of purpose with the subjunctive	1	so that
 2KI 22:17	1	9	ὅπως			2	in order that
@@ -500,7 +500,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:17	1	12	ἐν	ἐν	preposition with the dative	1	in
 2KI 22:17	1	13	τοῖς	ὁ	article dative neuter plural	1	the
 2KI 22:17	1	14	ἔργοις	ἔργον	noun, dative neuter plural	1	works
-2KI 22:17	1	15	τῶν	ὁ	article, genitive plural	1	the
+2KI 22:17	1	15	τῶν	ὁ	article, genitive plural	1	of the
 2KI 22:17	1	16	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
 2KI 22:17	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 2KI 22:17	1	18	καὶ	καί	conjunction	1	and
@@ -554,7 +554,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:19	1	11	προσώπου	πρόσωπον	noun, genitive neuter singular	1	presence
 2KI 22:19	1	11	προσώπου			2	face
 2KI 22:19	1	12	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-2KI 22:19	1	13	ὡς	ὡς	comparative adverb/conjunction	1	like
+2KI 22:19	1	13	ὡς	ὡς	comparative adverb/conjunction	1	when
 2KI 22:19	1	14	ἤκουσας	ἀκούω	aorist active indicative, second singular	1	you listened to
 2KI 22:19	1	14	ἤκουσας			2	you heeded
 2KI 22:19	1	15	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
@@ -569,7 +569,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:19	1	24	ἐνοικοῦντας	ἐνοικέω	present active participle, accusative masculine plural; substantival	1	inhabitants
 2KI 22:19	1	24	ἐνοικοῦντας			2	those who live in
 2KI 22:19	1	25	αὐτὸν	αὐτός	pronoun, genitive masculine singular	1	its
-2KI 22:19	1	26	τοῦ	ὁ	article, genitive masculine singular	1	of the
+2KI 22:19	1	26	τοῦ	ὁ	article, genitive masculine singular	1	—
 2KI 22:19	1	27	εἶναι	εἰμί	present infinitive	1	to be
 2KI 22:19	1	28	εἰς	εἰς	preposition with the accusative	1	into
 2KI 22:19	1	29	ἀφανισμὸν	ἀφανισμός	noun, accusative masculine singular	1	destruction
@@ -627,7 +627,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:20	1	30	οἷς	ὅς	relative pronoun, dative neut. pl.	1	which
 2KI 22:20	1	31	ἐγώ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 2KI 22:20	1	32	εἰμι	εἰμί	present active indicative, first singular	1	am
-2KI 22:20	1	33	ἐπάγω	ἐπάγω	present active indicative, first singular	1	I am bringing
+2KI 22:20	1	33	ἐπάγω	ἐπάγω	present active indicative, first singular	1	bringing
 2KI 22:20	1	34	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2KI 22:20	1	35	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 22:20	1	36	τόπον	τόπος	noun, accusative masculine singular	1	place

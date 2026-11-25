@@ -1,14 +1,14 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:1	1	1	ΚΑΙ	καί	conjunction	1	and
 2KI 18:1	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
-2KI 18:1	1	3	ἐν	ἐν	preposition in a temporal articular infinitive	1	when
+2KI 18:1	1	3	ἐν	ἐν	preposition in a temporal articular infinitive	1	in
 2KI 18:1	1	4	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
-2KI 18:1	1	5	τρίτῳ	τρίτος	ordinal adjective, dative masculine singular; substantival	1	third one
+2KI 18:1	1	5	τρίτῳ	τρίτος	ordinal adjective, dative masculine singular; substantival	1	third
 2KI 18:1	1	6	τῷ	ὁ	article, dative masculine singular	1	the
-2KI 18:1	1	7	Ὠσηὲ	Ὠσηέ	indeclinable personal name, nominative in context	1	Hosea
+2KI 18:1	1	7	Ὠσηὲ	Ὠσηέ	indeclinable personal name, nominative in context	1	of Hoshea
 2KI 18:1	1	8	υἱῷ	υἱός	noun, dative masculine singular	1	son
-2KI 18:1	1	9	Ἠλὰ	Ἠλά	indeclinable personal name, genitive in context	1	of Ela
-2KI 18:1	1	9	Ἠλὰ			2	of Elah
+2KI 18:1	1	9	Ἠλὰ	Ἠλά	indeclinable personal name, genitive in context	1	of Elah
+2KI 18:1	1	9	Ἠλὰ			2	of Ela
 2KI 18:1	1	10	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 2KI 18:1	1	11	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2KI 18:1	1	12	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	became king
@@ -40,8 +40,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:2	1	21	τῇ	ὁ	article, dative feminine singular	1	to the
 2KI 18:2	1	22	μητρὶ	μήτηρ	noun, dative feminine singular	1	mother
 2KI 18:2	1	23	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
-2KI 18:2	1	24	Ἄβου	Ἄβου	indeclinable personal name, nominative in context	1	Abu
-2KI 18:2	1	24	Ἄβου			2	Abi
+2KI 18:2	1	24	Ἄβου	Ἄβου	indeclinable personal name, nominative in context	1	Abi
+2KI 18:2	1	24	Ἄβου			2	Abu
 2KI 18:2	1	25	θυγάτηρ	θυγάτηρ	noun, nominative feminine singular	1	daughter
 2KI 18:2	1	26	Ζαχαρίου	Ζαχάριος	personal name, genitive masculine singular	1	of Zachariah
 2KI 18:2	1	26	Ζαχαρίου			2	of Zechariah
@@ -62,7 +62,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:3	1	14	πατὴρ	πατήρ	noun, nominative masculine singular	1	father
 2KI 18:3	1	15	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
 2KI 18:4	1	1	Αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
-2KI 18:4	1	2	ἐξῆρε	ἐξαίρω	aorist active indicative, third singular	1	drove out
+2KI 18:4	1	2	ἐξῆρε	ἐξαίρω	aorist active indicative, third singular	1	removed
 2KI 18:4	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 2KI 18:4	1	4	ὑψηλὰ	ὑψηλός	substantival adjective, accusative neuter plural	1	high places
 2KI 18:4	1	5	καὶ	καί	conjunction	1	and
@@ -89,7 +89,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:4	1	23	ἕως			2	up to
 2KI 18:4	1	24	τῶν	ὁ	article, genitive plural	1	the
 2KI 18:4	1	25	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
-2KI 18:4	1	26	ἐκείνων	οὗτος	demonstrative pronoun, genitive feminine plural	1	these
+2KI 18:4	1	26	ἐκείνων	οὗτος	demonstrative pronoun, genitive feminine plural	1	those
 2KI 18:4	1	27	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 2KI 18:4	1	28	οἱ	ὁ	article, nominative masculine plural	1	the
 2KI 18:4	1	29	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
@@ -99,10 +99,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:4	1	33	Καὶ	καί	conjunction	1	and
 2KI 18:4	1	34	ἐκάλεσεν	καλέω	aorist active indicative, third singular	1	called
 2KI 18:4	1	35	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
-2KI 18:4	1	36	Νεσθάν	Νεσθάν	indeclinable designation of the bronze serpent, accusative in context	1	Nesthan
-2KI 18:4	1	36	Νεσθάν			2	Nehushtan
+2KI 18:4	1	36	Νεσθάν	Νεσθάν	indeclinable designation of the bronze serpent, accusative in context	1	Nehushtan
+2KI 18:4	1	36	Νεσθάν			2	Nesthan
 2KI 18:5	1	1	Ἐν	ἐν	preposition with dative expressing trust	1	in
-2KI 18:5	1	2	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+2KI 18:5	1	2	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 2KI 18:5	1	3	Θεῷ	θεός	noun, dative masculine singular	1	God
 2KI 18:5	1	4	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2KI 18:5	1	5	ἤλπισε	ἐλπίζω	aorist active indicative, third singular	1	he trusted
@@ -126,7 +126,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:6	1	1	καὶ	καί	conjunction	1	and
 2KI 18:6	1	2	ἐκολλήθη	κολλάω	aorist passive indicative, third singular	1	clung
 2KI 18:6	1	3	τῷ	ὁ	article, dative masculine singular	1	the
-2KI 18:6	1	4	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+2KI 18:6	1	4	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 2KI 18:6	1	5	οὐκ	οὐ	negative adverb with future indicative	1	not
 2KI 18:6	1	6	ἀπέστη	ἀφίστημι	aorist active indicative, third singular	1	departed
 2KI 18:6	1	6	ἀπέστη			2	moved away
@@ -139,7 +139,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:6	1	11	τὰς	ὁ	article, accusative feminine plural	1	the
 2KI 18:6	1	12	ἐντολὰς	ἐντολή	noun, accusative feminine plural	1	commandments
 2KI 18:6	1	13	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-2KI 18:6	1	14	ὅσας	ὅσος	relative pronoun, accusative feminine plural	1	as
+2KI 18:6	1	14	ὅσας	ὅσος	relative pronoun, accusative feminine plural	1	that
 2KI 18:6	1	15	ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, third singular	1	commanded
 2KI 18:6	1	16	Μωσῆ	Μωυσῆς	personal name, nominative masculine singular	1	Moses
 2KI 18:7	1	1	Καὶ	καί	conjunction	1	and
@@ -149,7 +149,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:7	1	5	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 2KI 18:7	1	6	ἐν	ἐν	preposition with the dative	1	in
 2KI 18:7	1	7	πᾶσιν	πᾶς	adjective, dative neuter plural	1	everything
-2KI 18:7	1	8	οἷς	ὅς	relative pronoun, dative neuter plural after ἐν	1	in which
+2KI 18:7	1	8	οἷς	ὅς	relative pronoun, dative neuter plural after ἐν	1	which
 2KI 18:7	1	9	ἐποίει	ποιέω	imperfect active indicative, third singular	1	he did
 2KI 18:7	1	10	συνῆκε	συνίημι	aorist active indicative, third singular	1	acted with insight
 2KI 18:7	1	11	καὶ	καί	conjunction	1	and
@@ -162,13 +162,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:7	1	18	οὐκ	οὐ	negative particle	1	not
 2KI 18:7	1	19	ἐδούλευσεν	δουλεύω	aorist active indicative, third singular	1	served
 2KI 18:7	1	19	ἐδούλευσεν			2	worked
-2KI 18:7	1	20	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+2KI 18:7	1	20	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 2KI 18:8	1	1	Αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 2KI 18:8	1	2	ἐπάταξε	πατάσσω	aorist active indicative, third singular	1	struck
 2KI 18:8	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
 2KI 18:8	1	4	ἀλλοφύλους	ἀλλόφυλος	adjective, accusative masculine plural; substantival	1	Philistines
 2KI 18:8	1	4	ἀλλοφύλους			2	people of another tribe
-2KI 18:8	1	5	ἕως	ἕως	temporal conjunction/preposition (from context)	1	until
+2KI 18:8	1	5	ἕως	ἕως	temporal conjunction/preposition (from context)	1	as far as
 2KI 18:8	1	6	Γάζης	Γάζα	noun, genitive feminine singular; place name	1	Gaza
 2KI 18:8	1	7	καὶ	καί	conjunction	1	and
 2KI 18:8	1	8	ἕως	ἕως	preposition with the genitive	1	as far as
@@ -189,26 +189,26 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:9	1	5	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
 2KI 18:9	1	6	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 2KI 18:9	1	7	τετάρτῳ	τέταρτος	ordinal adjective, dative masculine singular	1	fourth
-2KI 18:9	1	8	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
-2KI 18:9	1	9	Ἐζεκίᾳ	Ἐζεκίας	personal name, genitive masculine singular	1	of Hezekiah
-2KI 18:9	1	10	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
+2KI 18:9	1	8	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	of King
+2KI 18:9	1	9	Ἐζεκίᾳ	Ἐζεκίας	personal name, genitive masculine singular	1	Hezekiah
+2KI 18:9	1	10	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	that is
 2KI 18:9	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 18:9	1	12	ἐνιαυτὸς	ἐνιαυτός	noun, nominative masculine singular	1	year
 2KI 18:9	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 18:9	1	14	ἕβδομος	ἕβδομος	ordinal adjective, nominative masculine singular	1	seventh
 2KI 18:9	1	15	τῷ	ὁ	article, dative masculine singular	1	the
-2KI 18:9	1	16	Ὠσηὲ	Ὠσηέ	indeclinable personal name, genitive in context	1	of Hosea
+2KI 18:9	1	16	Ὠσηὲ	Ὠσηέ	indeclinable personal name, genitive in context	1	of Hoshea
 2KI 18:9	1	17	υἱῷ	υἱός	noun, dative masculine singular	1	son
-2KI 18:9	1	18	Ἠλὰ	Ἠλά	indeclinable personal name, genitive in context	1	of Ela
-2KI 18:9	1	18	Ἠλὰ			2	of Elah
+2KI 18:9	1	18	Ἠλὰ	Ἠλά	indeclinable personal name, genitive in context	1	of Elah
+2KI 18:9	1	18	Ἠλὰ			2	of Ela
 2KI 18:9	1	19	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 2KI 18:9	1	20	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2KI 18:9	1	21	ἀνέβη	ἀναβαίνω	aorist active indicative, third singular	1	went up
-2KI 18:9	1	22	Σαλαμανασσὰρ	Σαλαμανασσάρ	indeclinable personal name, nominative in context	1	Salamanassar
-2KI 18:9	1	22	Σαλαμανασσὰρ			2	Shalmaneser
+2KI 18:9	1	22	Σαλαμανασσὰρ	Σαλαμανασσάρ	indeclinable personal name, nominative in context	1	Shalmaneser
+2KI 18:9	1	22	Σαλαμανασσὰρ			2	Salamanassar
 2KI 18:9	1	23	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2KI 18:9	1	24	Ἀσσυρίων	Ἀσσύριος	noun, genitive masculine plural	1	of the Assyrians
-2KI 18:9	1	25	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2KI 18:9	1	25	ἐπὶ	ἐπί	preposition (case from context)	1	against
 2KI 18:9	1	26	Σαμάρειαν	Σαμάρεια	noun, accusative feminine singular; place name	1	Samaria
 2KI 18:9	1	27	καὶ	καί	conjunction	1	and
 2KI 18:9	1	28	ἐπολιόρκει	πολιορκέω	imperfect active indicative, third singular	1	was besieging
@@ -231,7 +231,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:10	1	14	ἐνιαυτὸς	ἐνιαυτός	noun, nominative masculine singular	1	year
 2KI 18:10	1	15	ἔννατος	ἔννατος	ordinal adjective, nominative neuter singular	1	ninth
 2KI 18:10	1	16	τῷ	ὁ	article, dative masculine singular	1	the
-2KI 18:10	1	17	Ὠσηὲ	Ὠσηέ	indeclinable personal name, genitive in context	1	of Hosea
+2KI 18:10	1	17	Ὠσηὲ	Ὠσηέ	indeclinable personal name, genitive in context	1	of Hoshea
 2KI 18:10	1	18	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 2KI 18:10	1	19	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2KI 18:10	1	20	καὶ	καί	conjunction	1	and
@@ -243,7 +243,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:11	1	4	Ἀσσυρίων	Ἀσσύριος	noun, genitive masculine plural	1	of the Assyrians
 2KI 18:11	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 2KI 18:11	1	6	Σαμάρειαν	Σαμάρεια	noun, accusative feminine singular; place name	1	Samaria
-2KI 18:11	1	7	εἰς	εἰς	preposition with accusative; denotes purpose	1	for
+2KI 18:11	1	7	εἰς	εἰς	preposition with accusative; denotes purpose	1	to
 2KI 18:11	1	8	Ἀσσυρίους	Ἀσσύριος	noun, accusative masculine plural	1	Assyria
 2KI 18:11	1	8	Ἀσσυρίους			2	the Assyrians
 2KI 18:11	1	9	καὶ	καί	conjunction	1	and
@@ -272,7 +272,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:12	1	7	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 2KI 18:12	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 2KI 18:12	1	9	καὶ	καί	conjunction	1	and
-2KI 18:12	1	10	παρέβησαν	παραβαίνω	perfect active indicative, third plural	1	they have violated
+2KI 18:12	1	10	παρέβησαν	παραβαίνω	perfect active indicative, third plural	1	violated
 2KI 18:12	1	11	τὴν	ὁ	article, accusative feminine singular	1	the
 2KI 18:12	1	12	διαθήκην	διαθήκη	noun, accusative feminine singular	1	covenant
 2KI 18:12	1	13	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -290,19 +290,19 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:12	1	24	οὐκ	οὐ	negative particle	1	not
 2KI 18:12	1	25	ἐποίησαν	ποιέω	aorist active indicative, third person plural	1	they did
 2KI 18:13	1	1	Καὶ	καί	conjunction	1	and
-2KI 18:13	1	2	τῷ	ὁ	article, dative neuter singular	1	the
+2KI 18:13	1	2	τῷ	ὁ	article, dative neuter singular	1	in the
 2KI 18:13	1	3	τεσσαρεσκαιδεκάτῳ	τεσσαρεσκαιδέκατος	ordinal adjective, dative neuter singular	1	fourteenth
 2KI 18:13	1	4	ἔτει	ἔτος	noun, dative neuter singular	1	year
-2KI 18:13	1	5	τοῦ	ὁ	article, genitive singular	1	the
+2KI 18:13	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 18:13	1	6	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 2KI 18:13	1	7	Ἐζεκίου	Ἐζεκίας	noun, genitive masculine singular; personal name	1	Hezekiah
 2KI 18:13	1	7	Ἐζεκίου			2	Ezekias
 2KI 18:13	1	8	ἀνέβη	ἀναβαίνω	aorist active indicative, third singular	1	went up
-2KI 18:13	1	9	Σεναχηρεὶμ	Σεναχηρείμ	indeclinable personal name, nominative in context	1	Senachereim
-2KI 18:13	1	9	Σεναχηρεὶμ			2	Sennacherib
+2KI 18:13	1	9	Σεναχηρεὶμ	Σεναχηρείμ	indeclinable personal name, nominative in context	1	Sennacherib
+2KI 18:13	1	9	Σεναχηρεὶμ			2	Senachereim
 2KI 18:13	1	10	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2KI 18:13	1	11	Ἀσσυρίων	Ἀσσύριος	noun, genitive masculine plural	1	of the Assyrians
-2KI 18:13	1	12	ἐπὶ	ἐπί	preposition with genitive	1	at
+2KI 18:13	1	12	ἐπὶ	ἐπί	preposition with genitive	1	against
 2KI 18:13	1	12	ἐπὶ			2	beside
 2KI 18:13	1	13	τὰς	ὁ	article, accusative feminine plural	1	the
 2KI 18:13	1	14	πόλεις	πόλις	noun, accusative feminine plural	1	cities
@@ -328,7 +328,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:14	1	14	ἀποστράφηθι	ἀποστρέφω	aorist passive imperative, second singular; intransitive sense	1	return
 2KI 18:14	1	15	ἀπ᾽	ἀπό	preposition with the genitive, elided	1	from
 2KI 18:14	1	16	ἐμοῦ	ἐγώ	pronoun, genitive first singular (after μετ᾽/comparative ἐμοῦ from context)	1	me
-2KI 18:14	1	17	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
+2KI 18:14	1	17	ὃ	ὅς	relative pronoun, nominative neuter singular	1	whatever
 2KI 18:14	1	18	ἐὰν	ἐάν	modal particle in an indefinite relative clause, modal particle	1	—
 2KI 18:14	1	19	ἐπιθῇς	ἐπιτίθημι	aorist active subjunctive, second singular	1	you impose
 2KI 18:14	1	20	ἐπ᾽	ἐπί	preposition with accusative	1	against
@@ -366,7 +366,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:15	1	13	ἐν	ἐν	preposition with the dative	1	in
 2KI 18:15	1	14	θησαυροῖς	θησαυρός	noun, dative masculine plural	1	treasures
 2KI 18:15	1	14	θησαυροῖς			2	storehouses
-2KI 18:15	1	15	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+2KI 18:15	1	15	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 2KI 18:15	1	16	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2KI 18:15	1	17	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 2KI 18:16	1	1	Ἐν	ἐν	preposition with the dative	1	in
@@ -376,8 +376,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:16	1	5	συνέκοψεν	συγκόπτω	aorist active indicative, third singular	1	cut away
 2KI 18:16	1	6	Ἐζεκίας	Ἐζεκίας	noun, nominative masculine singular; personal name	1	Hezekiah
 2KI 18:16	1	7	τὰς	ὁ	article, accusative feminine plural	1	the
-2KI 18:16	1	8	θύρας	θύρα	noun, accusative feminine plural	1	entrances
-2KI 18:16	1	9	ναοῦ	ναός	noun, genitive masculine singular	1	temple
+2KI 18:16	1	8	θύρας	θύρα	noun, accusative feminine plural	1	doors
+2KI 18:16	1	9	ναοῦ	ναός	noun, genitive masculine singular	1	of the temple
 2KI 18:16	1	9	ναοῦ			2	sanctuary
 2KI 18:16	1	10	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2KI 18:16	1	11	καὶ	καί	conjunction	1	and
@@ -391,18 +391,18 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:16	1	19	καὶ	καί	conjunction	1	and
 2KI 18:16	1	20	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
 2KI 18:16	1	21	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
-2KI 18:16	1	22	βασιλεῖ	βασιλεύς	noun, dative masc. sg	1	king
+2KI 18:16	1	22	βασιλεῖ	βασιλεύς	noun, dative masc. sg	1	to the king
 2KI 18:16	1	23	Ἀσσυρίων	Ἀσσύριος	noun, genitive masculine plural	1	of the Assyrians
 2KI 18:17	1	1	Καὶ	καί	conjunction	1	and
 2KI 18:17	1	2	ἀπέστειλε	ἀποστέλλω	aorist active indicative, third person singular	1	he sent
 2KI 18:17	1	3	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2KI 18:17	1	4	Ἀσσυρίων	Ἀσσύριος	noun, genitive masculine plural	1	of the Assyrians
 2KI 18:17	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
-2KI 18:17	1	6	θαρθὰν	θαρθάν	indeclinable Assyrian office title, accusative in context	1	tharthan
+2KI 18:17	1	6	θαρθὰν	θαρθάν	indeclinable Assyrian office title, accusative in context	1	Tartan
 2KI 18:17	1	6	θαρθὰν			2	field commander
 2KI 18:17	1	7	καὶ	καί	conjunction	1	and
 2KI 18:17	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
-2KI 18:17	1	9	Ῥαβσαρεὶς	Ῥαβσαρείς	indeclinable Assyrian office title, accusative in context	1	Rabsareis
+2KI 18:17	1	9	Ῥαβσαρεὶς	Ῥαβσαρείς	indeclinable Assyrian office title, accusative in context	1	Rabsaris
 2KI 18:17	1	9	Ῥαβσαρεὶς			2	chief officer
 2KI 18:17	1	10	καὶ	καί	conjunction	1	and
 2KI 18:17	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -419,7 +419,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:17	1	20	δυνάμει	δύναμις	noun, dative feminine singular	1	forces
 2KI 18:17	1	20	δυνάμει			2	troops
 2KI 18:17	1	21	βαρείᾳ	βαρύς	adjective, dative feminine singular	1	large
-2KI 18:17	1	22	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2KI 18:17	1	22	ἐπὶ	ἐπί	preposition (case from context)	1	against
 2KI 18:17	1	23	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 2KI 18:17	1	24	Καὶ	καί	conjunction	1	and
 2KI 18:17	1	25	ἀνέβησαν	ἀναβαίνω	aorist active indicative, third plural	1	went up
@@ -432,7 +432,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:17	1	32	ἐν	ἐν	preposition with the dative	1	in
 2KI 18:17	1	33	τῷ	ὁ	article, dative masculine singular	1	the
 2KI 18:17	1	34	ὑδραγωγῷ	ὑδραγωγός	noun, dative masculine singular	1	aqueduct
-2KI 18:17	1	35	τῆς	ὁ	article, genitive feminine singular	1	the
+2KI 18:17	1	35	τῆς	ὁ	article, genitive feminine singular	1	of the
 2KI 18:17	1	36	κολυμβήθρας	κολυμβήθρα	noun, genitive feminine singular	1	pool
 2KI 18:17	1	36	κολυμβήθρας			2	reservoir
 2KI 18:17	1	37	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -442,9 +442,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:17	1	41	ἐν	ἐν	preposition with the dative	1	in
 2KI 18:17	1	42	τῇ	ὁ	article, dative feminine singular	1	the
 2KI 18:17	1	43	ὁδῷ	ὁδός	noun, dative feminine singular	1	way
-2KI 18:17	1	44	τοῦ	ὁ	article, genitive singular	1	the
+2KI 18:17	1	44	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 18:17	1	45	ἀγροῦ	ἀγρός	noun, genitive masculine singular	1	field
-2KI 18:17	1	46	τοῦ	ὁ	article, genitive singular	1	the
+2KI 18:17	1	46	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 18:17	1	47	γναφέως	γναφεύς	noun, genitive masculine singular	1	cloth fuller
 2KI 18:17	1	47	γναφέως			2	cloth finisher
 2KI 18:18	1	1	Καὶ	καί	conjunction	1	and
@@ -463,8 +463,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:18	1	14	οἰκονόμος	οἰκονόμος	noun, nominative masculine singular	1	steward
 2KI 18:18	1	14	οἰκονόμος			2	administrator
 2KI 18:18	1	15	καὶ	καί	conjunction	1	and
-2KI 18:18	1	16	Σομνὰς	Σομνάς	personal name, nominative masculine singular	1	Somnas
-2KI 18:18	1	16	Σομνὰς			2	Shebna
+2KI 18:18	1	16	Σομνὰς	Σομνάς	personal name, nominative masculine singular	1	Shebna
+2KI 18:18	1	16	Σομνὰς			2	Somnas
 2KI 18:18	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 18:18	1	18	γραμματεὺς	γραμματεύς	noun, nominative masculine singular	1	scribe
 2KI 18:18	1	18	γραμματεὺς			2	secretary
@@ -475,7 +475,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:18	1	22	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2KI 18:18	1	23	Σαφὰτ	Σαφάτ	indeclinable personal name, genitive in context	1	of Shaphat
 2KI 18:18	1	24	ὁ	ὁ	article, nominative masculine singular	1	the
-2KI 18:18	1	25	ἀναμιμνήσκων	ἀναμιμνῄσκω	present active participle, nominative masculine singular	1	the recorder
+2KI 18:18	1	25	ἀναμιμνήσκων	ἀναμιμνῄσκω	present active participle, nominative masculine singular	1	recorder
 2KI 18:19	1	1	Καὶ	καί	conjunction	1	and
 2KI 18:19	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 2KI 18:19	1	3	πρὸς	πρός	preposition with the accusative	1	to
@@ -558,10 +558,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:21	1	31	Φαραὼ	Φαραώ	indeclinable personal name, nominative in context	1	Pharaoh
 2KI 18:21	1	32	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2KI 18:21	1	33	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
-2KI 18:21	1	34	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
-2KI 18:21	1	35	τοῖς	ὁ	article, dative masculine plural	1	the
+2KI 18:21	1	34	πᾶσι	πᾶς	adjective, dative neuter plural	1	to all
+2KI 18:21	1	35	τοῖς	ὁ	article, dative masculine plural	1	—
 2KI 18:21	1	36	πεποιθόσιν	πείθω	perfect active participle, dative masculine plural; substantival, present sense	1	those who trust
-2KI 18:21	1	37	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+2KI 18:21	1	37	ἐπ᾽	ἐπί	preposition with the accusative	1	on
 2KI 18:21	1	38	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 2KI 18:22	1	1	Καὶ	καί	conjunction	1	and
 2KI 18:22	1	2	ὅτι	ὅτι	causal conjunction	1	because
@@ -577,7 +577,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:22	1	11	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 2KI 18:22	1	12	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 2KI 18:22	1	13	οὗ	ὅς	relative pronoun, genitive masculine singular	1	whose
-2KI 18:22	1	14	ἀπέστησεν	ἀφίστημι	aorist active indicative, third singular	1	put at a distance
+2KI 18:22	1	14	ἀπέστησεν	ἀφίστημι	aorist active indicative, third singular	1	removed
 2KI 18:22	1	14	ἀπέστησεν			2	moved away
 2KI 18:22	1	15	Ἐζεκίας	Ἐζεκίας	noun, nominative masculine singular; personal name	1	Hezekiah
 2KI 18:22	1	16	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -592,7 +592,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:22	1	25	τῷ	ὁ	article, dative masculine singular	1	to the
 2KI 18:22	1	26	Ἰούδᾳ	Ἰούδας	personal name, dative masculine singular	1	Judah
 2KI 18:22	1	27	καὶ	καί	conjunction	1	and
-2KI 18:22	1	28	τῇ	ὁ	article, dative feminine singular	1	for the
+2KI 18:22	1	28	τῇ	ὁ	article, dative feminine singular	1	to the
 2KI 18:22	1	29	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 2KI 18:22	1	30	ἐνώπιον	ἐνώπιον	preposition with genitive	1	before
 2KI 18:22	1	31	τοῦ	ὁ	article, genitive singular	1	the
@@ -607,7 +607,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:23	1	3	μίχθητε			2	deal with
 2KI 18:23	1	4	δὴ	δή	emphatic particle	1	please
 2KI 18:23	1	4	δὴ			2	now
-2KI 18:23	1	5	τῷ	ὁ	article, dative masculine singular	1	to the
+2KI 18:23	1	5	τῷ	ὁ	article, dative masculine singular	1	the
 2KI 18:23	1	6	κυρίῳ	κύριος	noun, dative masculine singular	1	master
 2KI 18:23	1	7	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2KI 18:23	1	8	τῷ	ὁ	article, dative masculine/neuter singular	1	the
@@ -624,7 +624,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:23	1	18	δοῦναι			2	to provide
 2KI 18:23	1	19	σαυτῷ	σεαυτοῦ	pronoun, dative masculine singular	1	for yourself
 2KI 18:23	1	20	ἐπιβάτας	ἐπιβάτης	noun, accusative masculine plural	1	riders
-2KI 18:23	1	21	ἐπ᾽	ἐπί	elided preposition with the accusative	1	against
+2KI 18:23	1	21	ἐπ᾽	ἐπί	elided preposition with the accusative	1	on
 2KI 18:23	1	21	ἐπ᾽			2	upon
 2KI 18:23	1	22	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 2KI 18:24	1	1	Καὶ	καί	conjunction	1	and
@@ -632,37 +632,37 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:24	1	3	ἀποστρέψεις	ἀποστρέφω	future active indicative second singular	1	will you turn away
 2KI 18:24	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
 2KI 18:24	1	5	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
-2KI 18:24	1	6	τοπάρχου	τοπάρχης	noun, genitive masculine singular	1	governor
+2KI 18:24	1	6	τοπάρχου	τοπάρχης	noun, genitive masculine singular	1	of a governor
 2KI 18:24	1	6	τοπάρχου			2	district ruler
 2KI 18:24	1	7	ἑνὸς	εἷς	cardinal numeral, genitive masculine singular	1	of one
-2KI 18:24	1	8	τῶν	ὁ	article, genitive plural	1	the
+2KI 18:24	1	8	τῶν	ὁ	article, genitive plural	1	of the
 2KI 18:24	1	9	δούλων	δοῦλος	noun, genitive masculine plural	1	slaves
 2KI 18:24	1	10	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2KI 18:24	1	11	κυρίου	κύριος	noun, genitive masculine singular	1	master
 2KI 18:24	1	12	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2KI 18:24	1	13	τῶν	ὁ	article, genitive masculine plural	1	the
-2KI 18:24	1	14	ἐλαχίστων	ἐλάχιστος	substantival adjective, genitive masculine plural; superlative	1	the least
+2KI 18:24	1	14	ἐλαχίστων	ἐλάχιστος	substantival adjective, genitive masculine plural; superlative	1	least
 2KI 18:24	1	15	καὶ	καί	conjunction	1	and
 2KI 18:24	1	16	ἤλπισας	ἐλπίζω	aorist active indicative, second singular	1	you put your hope
 2KI 18:24	1	16	ἤλπισας			2	you trusted
 2KI 18:24	1	17	σαυτῷ	σεαυτοῦ	pronoun, dative masculine singular	1	for yourself
-2KI 18:24	1	18	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+2KI 18:24	1	18	ἐπ᾽	ἐπί	preposition with the accusative	1	on
 2KI 18:24	1	19	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular after εἰς	1	Egypt
-2KI 18:24	1	20	εἰς	εἰς	preposition with the accusative	1	into
+2KI 18:24	1	20	εἰς	εἰς	preposition with the accusative	1	for
 2KI 18:24	1	21	ἅρματα	ἅρμα	noun, nominative neuter plural	1	chariots
 2KI 18:24	1	22	καὶ	καί	conjunction	1	and
 2KI 18:24	1	23	ἱππεῖς	ἱππεύς	noun, nominative masculine plural	1	horsemen
 2KI 18:25	1	1	Νῦν	νῦν	temporal adverb	1	now
 2KI 18:25	1	2	οὖν	οὖν	inferential particle	1	then
-2KI 18:25	1	3	μὴ	μή	negative particle introducing apprehension	1	lest
-2KI 18:25	1	4	ἄνευ	ἄνευ	preposition with the genitive	1	without/apart from
-2KI 18:25	1	5	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+2KI 18:25	1	3	μὴ	μή	negative particle introducing apprehension	1	[marks a question]
+2KI 18:25	1	4	ἄνευ	ἄνευ	preposition with the genitive	1	without
+2KI 18:25	1	5	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 2KI 18:25	1	6	ἀνέβημεν	ἀναβαίνω	aorist active indicative, 1st plural	1	we went up
-2KI 18:25	1	7	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2KI 18:25	1	7	ἐπὶ	ἐπί	preposition (case from context)	1	against
 2KI 18:25	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 18:25	1	9	τόπον	τόπος	noun, accusative masculine singular	1	place
 2KI 18:25	1	10	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	1	this
-2KI 18:25	1	11	τοῦ	ὁ	article, genitive singular	1	the
+2KI 18:25	1	11	τοῦ	ὁ	article, genitive singular	1	—
 2KI 18:25	1	12	διαφθεῖραι	διαφθείρω	aorist active infinitive	1	to destroy
 2KI 18:25	1	13	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	it
 2KI 18:25	1	14	Κύριος	κύριος	noun nominative masculine singular	1	the Lord
@@ -671,7 +671,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:25	1	16	πρὸς			2	toward
 2KI 18:25	1	17	μὲ	ἐγώ	personal pronoun accusative first singular	1	me
 2KI 18:25	1	18	ἀνάβηθι	ἀναβαίνω	aorist active imperative, second singular	1	go up
-2KI 18:25	1	19	ἐπὶ	ἐπί	preposition with the accusative	1	upon
+2KI 18:25	1	19	ἐπὶ	ἐπί	preposition with the accusative	1	against
 2KI 18:25	1	20	τὴν	ὁ	article, accusative feminine singular	1	the
 2KI 18:25	1	21	γῆν	γῆ	noun, accusative feminine singular	1	land
 2KI 18:25	1	22	ταύτην	οὗτος	demonstrative pronoun, accusative feminine singular	1	this
@@ -684,8 +684,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:26	1	4	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2KI 18:26	1	5	Χελκίου	Χελκίας	personal name, genitive masculine singular	1	of Hilkiah
 2KI 18:26	1	6	καὶ	καί	conjunction	1	and
-2KI 18:26	1	7	Σομνὰς	Σομνάς	personal name, nominative masculine singular	1	Somnas
-2KI 18:26	1	7	Σομνὰς			2	Shebna
+2KI 18:26	1	7	Σομνὰς	Σομνάς	personal name, nominative masculine singular	1	Shebna
+2KI 18:26	1	7	Σομνὰς			2	Somnas
 2KI 18:26	1	8	καὶ	καί	conjunction	1	and
 2KI 18:26	1	9	Ἰωὰς	Ἰωάς	indeclinable personal name, genitive in context	1	Joash
 2KI 18:26	1	9	Ἰωὰς			2	Ioas
@@ -727,7 +727,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:27	1	4	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 2KI 18:27	1	5	Ῥαψάκης	Ῥαψάκης	noun, nominative masculine singular; Assyrian title used as a name	1	Rabshakeh
 2KI 18:27	1	5	Ῥαψάκης			2	Rhapsakes
-2KI 18:27	1	6	μὴ	μή	negative particle	1	not
+2KI 18:27	1	6	μὴ	μή	negative particle	1	[marks a question]
 2KI 18:27	1	7	πρὸς	πρός	preposition with the accusative	1	to
 2KI 18:27	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 18:27	1	9	κύριόν	κύριος	noun, accusative masculine singular	1	master
@@ -739,7 +739,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:27	1	14	ἀπέστειλέ	ἀποστέλλω	aorist active indicative, third singular as printed (movable nu dropped before με)	1	sent
 2KI 18:27	1	15	με	ἐγώ	personal pronoun, accusative singular	1	me
 2KI 18:27	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
-2KI 18:27	1	17	κύριός	κύριος	noun, nominative masculine singular	1	Lord
+2KI 18:27	1	17	κύριός	κύριος	noun, nominative masculine singular	1	master
 2KI 18:27	1	18	μου	ἐγώ	personal pronoun, genitive first singular	1	my
 2KI 18:27	1	19	λαλῆσαι	λαλέω	aorist active infinitive	1	to speak
 2KI 18:27	1	20	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -754,7 +754,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:27	1	29	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2KI 18:27	1	30	τοῦ	ὁ	article, genitive singular	1	the
 2KI 18:27	1	31	τείχους	τεῖχος	noun, genitive neuter singular	1	wall
-2KI 18:27	1	32	τοῦ	ὁ	article, genitive singular	1	the
+2KI 18:27	1	32	τοῦ	ὁ	article, genitive singular	1	—
 2KI 18:27	1	33	φαγεῖν	ἐσθίω	aorist active infinitive	1	to eat
 2KI 18:27	1	34	τὴν	ὁ	article, accusative feminine singular	1	the
 2KI 18:27	1	35	κόπρον	κόπρος	noun, accusative feminine singular	1	dung
@@ -783,9 +783,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:28	1	13	ἀκούσατε	ἀκούω	aorist active imperative, second plural	1	hear
 2KI 18:28	1	14	τοὺς	ὁ	article, accusative masculine plural	1	the
 2KI 18:28	1	15	λόγους	λόγος	noun, accusative masc. pl	1	words
-2KI 18:28	1	16	τοῦ	ὁ	article, genitive singular	1	the
+2KI 18:28	1	16	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 18:28	1	17	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
-2KI 18:28	1	18	τοῦ	ὁ	article, genitive masculine singular	1	of the
+2KI 18:28	1	18	τοῦ	ὁ	article, genitive masculine singular	1	the
 2KI 18:28	1	19	μεγάλου	μέγας	adjective, genitive masculine singular	1	great
 2KI 18:28	1	20	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2KI 18:28	1	21	Ἀσσυρίων	Ἀσσύριος	noun, genitive masculine plural	1	of the Assyrians
@@ -827,19 +827,19 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:30	1	18	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 2KI 18:30	1	19	ἐν	ἐν	preposition with the dative	1	in
 2KI 18:30	1	20	χειρὶ	χείρ	noun, dative feminine singular	1	hand
-2KI 18:30	1	21	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
+2KI 18:30	1	21	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	of the king
 2KI 18:30	1	22	Ἀσσυρίων	Ἀσσύριος	noun, genitive masculine plural	1	of the Assyrians
 2KI 18:31	1	1	Μὴ	μή	negative particle	1	not
 2KI 18:31	1	2	ἀκούετε	ἀκούω	present active imperative, second plural	1	hear
 2KI 18:31	1	2	ἀκούετε			2	listen
 2KI 18:31	1	3	Ἐζεκίου	Ἐζεκίας	noun, genitive masculine singular; personal name	1	Hezekiah
-2KI 18:31	1	4	ὅτι	ὅτι	conjunction	1	that
+2KI 18:31	1	4	ὅτι	ὅτι	conjunction	1	for
 2KI 18:31	1	5	τάδε	ὅδε	demonstrative pronoun, accusative neuter plural, introducing the message 'these things'	1	these things
 2KI 18:31	1	6	λέγει	λέγω	present active indicative, third singular	1	says
 2KI 18:31	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 18:31	1	8	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2KI 18:31	1	9	Ἀσσυρίων	Ἀσσύριος	noun, genitive masculine plural	1	of the Assyrians
-2KI 18:31	1	10	ποιήσατε	ποιέω	aorist active imperative, second plural	1	show
+2KI 18:31	1	10	ποιήσατε	ποιέω	aorist active imperative, second plural	1	make
 2KI 18:31	1	11	μετ᾽	μετά	elided preposition with the genitive	1	with
 2KI 18:31	1	12	ἐμοῦ	ἐγώ	personal pronoun, emphatic first person genitive singular	1	me
 2KI 18:31	1	13	εὐλογίαν	εὐλογία	noun, accusative feminine singular	1	a peace agreement
@@ -864,7 +864,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:31	1	30	καὶ	καί	conjunction	1	and
 2KI 18:31	1	31	πίεται	πίνω	future middle indicative, 3rd sg.	1	shall drink
 2KI 18:31	1	32	ὕδωρ	ὕδωρ	noun, nominative neuter singular	1	water
-2KI 18:31	1	33	τοῦ	ὁ	article, genitive singular	1	the
+2KI 18:31	1	33	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 18:31	1	34	λάκκου	λάκκος	noun, genitive masculine singular	1	well
 2KI 18:31	1	35	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2KI 18:32	1	1	ἕως	ἕως	preposition with the genitive	1	as far as
@@ -886,7 +886,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:32	1	14	καὶ	καί	conjunction	1	and
 2KI 18:32	1	15	οἴνου	οἶνος	noun genitive masculine singular	1	of wine
 2KI 18:32	1	16	καὶ	καί	conjunction	1	and
-2KI 18:32	1	17	ἀμπελώνων	ἀμπελών	noun, genitive masculine plural	1	vineyards
+2KI 18:32	1	17	ἀμπελώνων	ἀμπελών	noun, genitive masculine plural	1	of vineyards
 2KI 18:32	1	18	καὶ	καί	conjunction	1	and
 2KI 18:32	1	19	ἄρτου	ἄρτος	noun, genitive masculine singular	1	of bread
 2KI 18:32	1	20	γῆ	γῆ	noun, nominative fem. sg.	1	a land
@@ -905,7 +905,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:32	1	33	ἀκούετε	ἀκούω	present active imperative, second plural	1	hear
 2KI 18:32	1	33	ἀκούετε			2	listen
 2KI 18:32	1	34	Ἐζεκίου	Ἐζεκίας	noun, genitive masculine singular; personal name	1	Hezekiah
-2KI 18:32	1	35	ὅτι	ὅτι	conjunction	1	is it that
+2KI 18:32	1	35	ὅτι	ὅτι	conjunction	1	for
 2KI 18:32	1	36	ἀπατᾷ	ἀπατάω	present active indicative, third singular	1	deceives
 2KI 18:32	1	37	ὑμᾶς	σύ	pronoun, accusative 2nd pl.	1	you
 2KI 18:32	1	38	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
@@ -913,13 +913,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:32	1	40	ῥύσεται	ῥύομαι	future middle indicative, third singular	1	will rescue
 2KI 18:32	1	40	ῥύσεται			2	will deliver
 2KI 18:32	1	41	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
-2KI 18:33	1	1	Μὴ	μή	negative particle	1	not
+2KI 18:33	1	1	Μὴ	μή	negative particle	1	[marks a question]
 2KI 18:33	1	2	ῥυόμενοι	ῥύομαι	present middle participle, nominative masculine plural; cognate participle reinforcing the following verb	1	really
 2KI 18:33	1	3	ἐρρύσαντο	ῥύομαι	aorist middle indicative, third plural	1	they rescued
 2KI 18:33	1	3	ἐρρύσαντο			2	they delivered
 2KI 18:33	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
 2KI 18:33	1	5	θεοὶ	θεός	noun, nominative masc. pl	1	gods
-2KI 18:33	1	6	τῶν	ὁ	article, genitive neuter plural	1	the
+2KI 18:33	1	6	τῶν	ὁ	article, genitive neuter plural	1	of the
 2KI 18:33	1	7	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 2KI 18:33	1	8	ἕκαστος	ἕκαστος	distributive adjective, nominative masculine singular, with a plural verb	1	each one
 2KI 18:33	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -928,7 +928,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:33	1	11	χώραν			2	region
 2KI 18:33	1	12	ἐκ	ἐκ	preposition with the genitive	1	from
 2KI 18:33	1	13	χειρὸς	χείρ	noun, genitive feminine singular	1	hand
-2KI 18:33	1	14	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
+2KI 18:33	1	14	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	of the king
 2KI 18:33	1	15	Ἀσσυρίων	Ἀσσύριος	noun, genitive masculine plural	1	of the Assyrians
 2KI 18:34	1	1	ποῦ	ποῦ	interrogative adverb of place	1	where
 2KI 18:34	1	2	ἐστιν	εἰμί	present indicative, third singular	1	is
@@ -942,14 +942,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:34	1	9	ἐστιν	εἰμί	present indicative, third singular	1	is
 2KI 18:34	1	10	ὁ	ὁ	article nominative masculine singular	1	the
 2KI 18:34	1	11	Θεὸς	θεός	noun nominative masculine singular	1	God
-2KI 18:34	1	12	Σεφφαρουαὶμ	Σεφφαρουαίμ	indeclinable place name, genitive in context	1	of Sephpharuaim
-2KI 18:34	1	12	Σεφφαρουαὶμ			2	of Sepharvaim
+2KI 18:34	1	12	Σεφφαρουαὶμ	Σεφφαρουαίμ	indeclinable place name, genitive in context	1	of Sepharvaim
+2KI 18:34	1	12	Σεφφαρουαὶμ			2	of Sephpharuaim
 2KI 18:34	1	13	Ἀνὰ	Ἀνά	indeclinable place name, genitive in context	1	of Hena
 2KI 18:34	1	13	Ἀνὰ			2	of Ana
 2KI 18:34	1	14	καὶ	καί	conjunction	1	and
-2KI 18:34	1	15	Αὐά	Αὐά	indeclinable place name, genitive in context	1	of Aua
+2KI 18:34	1	15	Αὐά	Αὐά	indeclinable place name, genitive in context	1	of Ivah
 2KI 18:34	1	15	Αὐά			2	of Ivvah
-2KI 18:34	1	16	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
+2KI 18:34	1	16	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	[marks a question]
 2KI 18:34	1	17	ἐξείλαντο	ἐξαιρέω	aorist middle indicative, third plural	1	did they rescue
 2KI 18:34	1	18	Σαμάρειαν	Σαμάρεια	noun, accusative feminine singular; place name	1	Samaria
 2KI 18:34	1	19	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -960,17 +960,17 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:35	1	3	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
 2KI 18:35	1	4	τοῖς	ὁ	article, dative neuter plural	1	the
 2KI 18:35	1	5	θεοῖς	θεός	noun, dative masc. pl.	1	gods
-2KI 18:35	1	6	τῶν	ὁ	article, genitive plural	1	the
+2KI 18:35	1	6	τῶν	ὁ	article, genitive plural	1	of the
 2KI 18:35	1	7	γαιῶν	γαῖα	noun, genitive feminine plural	1	lands
 2KI 18:35	1	8	οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
-2KI 18:35	1	9	ἐξείλαντο	ἐξαιρέω	aorist middle indicative, third plural	1	did they rescue
+2KI 18:35	1	9	ἐξείλαντο	ἐξαιρέω	aorist middle indicative, third plural	1	rescued
 2KI 18:35	1	10	τὰς	ὁ	article, accusative feminine plural	1	the
 2KI 18:35	1	11	γαίας	γαῖα	noun, accusative feminine plural	1	lands
 2KI 18:35	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 2KI 18:35	1	13	ἐκ	ἐκ	preposition with the genitive	1	from
 2KI 18:35	1	14	χειρός	χείρ	noun, genitive feminine singular	1	hand
 2KI 18:35	1	15	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-2KI 18:35	1	16	ὅτι	ὅτι	causal conjunction	1	because
+2KI 18:35	1	16	ὅτι	ὅτι	causal conjunction	1	that
 2KI 18:35	1	17	ἐξελεῖται	ἐξαιρέω	future middle indicative, third singular	1	shall rescue
 2KI 18:35	1	18	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 2KI 18:35	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -986,9 +986,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:36	1	6	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 2KI 18:36	1	7	λόγον	λόγος	noun, accusative masculine singular	1	word
 2KI 18:36	1	7	λόγον			2	message
-2KI 18:36	1	8	ὅτι	ὅτι	conjunction introducing the content	1	that
+2KI 18:36	1	8	ὅτι	ὅτι	conjunction introducing the content	1	for
 2KI 18:36	1	9	ἐντολὴ	ἐντολή	noun, nominative feminine singular	1	the command
-2KI 18:36	1	10	τοῦ	ὁ	article, genitive singular	1	the
+2KI 18:36	1	10	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 18:36	1	11	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2KI 18:36	1	12	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 2KI 18:36	1	13	οὐκ	οὐ	negative particle	1	not
@@ -1004,11 +1004,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:37	1	7	οἰκονόμος			2	administrator
 2KI 18:37	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 18:37	1	9	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2KI 18:37	1	10	Χελκείου	Χέλκειος	personal name, genitive masculine singular	1	of Chelkeios
-2KI 18:37	1	10	Χελκείου			2	of Hilkiah
+2KI 18:37	1	10	Χελκείου	Χέλκειος	personal name, genitive masculine singular	1	of Hilkiah
+2KI 18:37	1	10	Χελκείου			2	of Chelkeios
 2KI 18:37	1	11	καὶ	καί	conjunction	1	and
-2KI 18:37	1	12	Σομνὰς	Σομνάς	personal name, nominative masculine singular	1	Somnas
-2KI 18:37	1	12	Σομνὰς			2	Shebna
+2KI 18:37	1	12	Σομνὰς	Σομνάς	personal name, nominative masculine singular	1	Shebna
+2KI 18:37	1	12	Σομνὰς			2	Somnas
 2KI 18:37	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 18:37	1	14	γραμματεὺς	γραμματεύς	noun, nominative masculine singular	1	scribe
 2KI 18:37	1	14	γραμματεὺς			2	secretary
@@ -1018,7 +1018,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 18:37	1	17	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2KI 18:37	1	18	Ἀσὰφ	Ἀσάφ	indeclinable personal name, genitive in context	1	of Asaph
 2KI 18:37	1	19	ὁ	ὁ	article, nominative masculine singular	1	the
-2KI 18:37	1	20	ἀναμιμνήσκων	ἀναμιμνῄσκω	present active participle, nominative masculine singular	1	the recorder
+2KI 18:37	1	20	ἀναμιμνήσκων	ἀναμιμνῄσκω	present active participle, nominative masculine singular	1	recorder
 2KI 18:37	1	21	πρὸς	πρός	preposition with the accusative	1	to
 2KI 18:37	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 18:37	1	23	Ἐζεκίαν	Ἐζεκίας	noun, accusative masculine singular; personal name	1	Hezekiah

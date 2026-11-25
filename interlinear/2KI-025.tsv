@@ -6,7 +6,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:1	1	5	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
 2KI 25:1	1	6	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 2KI 25:1	1	7	ἐννάτῳ	ἔννατος	ordinal adjective, dative neuter singular	1	ninth
-2KI 25:1	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
+2KI 25:1	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
 2KI 25:1	1	9	βασιλείας	βασιλεία	noun, genitive feminine singular	1	reign
 2KI 25:1	1	10	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2KI 25:1	1	11	ἐν	ἐν	preposition with the dative	1	in
@@ -30,12 +30,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:1	1	29	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 2KI 25:1	1	30	καὶ	καί	conjunction	1	and
 2KI 25:1	1	31	παρενέβαλεν	παρεμβάλλω	aorist active indicative, 3rd sg. intransitive	1	was encamped
-2KI 25:1	1	32	ἐπ᾽	ἐπί	elided preposition with accusative	1	on
+2KI 25:1	1	32	ἐπ᾽	ἐπί	elided preposition with accusative	1	against
 2KI 25:1	1	32	ἐπ᾽			2	upon
 2KI 25:1	1	33	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 2KI 25:1	1	34	καὶ	καί	conjunction	1	and
 2KI 25:1	1	35	ᾠκοδόμησεν	οἰκοδομέω	aorist active indicative, third singular	1	built
-2KI 25:1	1	36	ἐπ	ἐπί	preposition with the genitive	1	over
+2KI 25:1	1	36	ἐπ	ἐπί	preposition with the genitive	1	against
 2KI 25:1	1	37	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 2KI 25:1	1	38	περίτειχος	περίτειχος	noun, accusative neuter singular	1	surrounding wall
 2KI 25:1	1	38	περίτειχος			2	rampart
@@ -46,17 +46,17 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:2	1	4	πόλιν	πόλις	noun, accusative feminine singular	1	city
 2KI 25:2	1	5	περιοχῆς	περιοχή	noun, genitive feminine singular	1	siege
 2KI 25:2	1	5	περιοχῆς			2	encirclement
-2KI 25:2	1	6	ἕως	ἕως	preposition with the genitive	1	as far as
+2KI 25:2	1	6	ἕως	ἕως	preposition with the genitive	1	until
 2KI 25:2	1	6	ἕως			2	up to
 2KI 25:2	1	7	τοῦ	ὁ	article, genitive singular	1	the
 2KI 25:2	1	8	ἑνδεκάτου	ἑνδέκατος	ordinal adjective, genitive neuter singular	1	eleventh
 2KI 25:2	1	9	ἔτους	ἔτος	noun, genitive neuter singular, of time	1	year
-2KI 25:2	1	10	τοῦ	ὁ	article, genitive singular	1	the
+2KI 25:2	1	10	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 25:2	1	11	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
-2KI 25:2	1	12	Σεδεκίου	Σεδέκιος	personal name, genitive masculine singular	1	of Zedekiah
+2KI 25:2	1	12	Σεδεκίου	Σεδέκιος	personal name, genitive masculine singular	1	Zedekiah
 2KI 25:2	1	12	Σεδεκίου			2	of Sedekios
 2KI 25:2	1	13	ἐννάτῃ	ἔννατος	ordinal adjective, dative feminine singular	1	ninth
-2KI 25:2	1	14	τοῦ	ὁ	article, genitive singular	1	the
+2KI 25:2	1	14	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 25:2	1	15	μηνός	μήν	noun, genitive masculine singular	1	month
 2KI 25:3	1	1	Καὶ	καί	conjunction	1	and
 2KI 25:3	1	2	ἐνίσχυσεν	ἐνισχύω	aorist active indicative, third singular	1	grew strong
@@ -89,7 +89,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:4	1	12	νυκτὸς	νύξ	noun, genitive feminine singular; genitive of time	1	at night
 2KI 25:4	1	13	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 2KI 25:4	1	13	ὁδὸν			2	path
-2KI 25:4	1	14	πύλης	πύλη	noun, genitive feminine singular	1	gate
+2KI 25:4	1	14	πύλης	πύλη	noun, genitive feminine singular	1	of the gate
 2KI 25:4	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
 2KI 25:4	1	16	ἀναμέσον	ἀναμέσον	preposition with genitive	1	between
 2KI 25:4	1	17	τῶν	ὁ	article, genitive plural	1	the
@@ -97,7 +97,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:4	1	19	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 2KI 25:4	1	20	ἥ	ὅς	relative pronoun, nominative feminine singular	1	which
 2KI 25:4	1	21	ἐστι	εἰμί	present indicative, third singular	1	is
-2KI 25:4	1	22	τοῦ	ὁ	article, genitive singular	1	the
+2KI 25:4	1	22	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 25:4	1	23	κήπου	κῆπος	noun, genitive masculine singular	1	garden
 2KI 25:4	1	24	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2KI 25:4	1	25	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
@@ -113,13 +113,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:4	1	34	ἐπορεύθη			2	journeyed
 2KI 25:4	1	35	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 2KI 25:4	1	36	τὴν	ὁ	article, accusative fem. sg.	1	the
-2KI 25:4	1	37	Ἄραβα	Ἄραβα	place/region name after article τὴν	1	Araba
+2KI 25:4	1	37	Ἄραβα	Ἄραβα	place/region name after article τὴν	1	Arabah
 2KI 25:5	1	1	καὶ	καί	conjunction	1	and
 2KI 25:5	1	2	ἐδίωξεν	διώκω	aorist active indicative, third singular	1	pursued
 2KI 25:5	1	2	ἐδίωξεν			2	went after
 2KI 25:5	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
 2KI 25:5	1	4	δύναμις	δύναμις	noun, nominative feminine singular	1	army
-2KI 25:5	1	5	τῶν	ὁ	article, genitive plural	1	the
+2KI 25:5	1	5	τῶν	ὁ	article, genitive plural	1	of the
 2KI 25:5	1	6	Χαλδαίων	Χαλδαῖος	substantival adjective, genitive masculine plural	1	Chaldeans
 2KI 25:5	1	7	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	after
 2KI 25:5	1	7	ὀπίσω			2	behind
@@ -137,7 +137,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:5	1	19	δύναμις	δύναμις	noun, nominative feminine singular	1	strength
 2KI 25:5	1	20	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2KI 25:5	1	21	διεσπάρη	διασπείρω	aorist passive indicative, third person singular	1	scattered
-2KI 25:5	1	22	ἐπάνωθεν	ἐπάνω	preposition governing the genitive	1	from above
+2KI 25:5	1	22	ἐπάνωθεν	ἐπάνω	preposition governing the genitive	1	away from
 2KI 25:5	1	22	ἐπάνωθεν			2	on top of
 2KI 25:5	1	23	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 2KI 25:6	1	1	Καὶ	καί	conjunction	1	and
@@ -152,8 +152,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:6	1	10	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 2KI 25:6	1	11	Βαβυλῶνος	Βαβυλών	place name, genitive feminine singular in context	1	of Babylon
 2KI 25:6	1	12	εἰς	εἰς	preposition with the accusative	1	into
-2KI 25:6	1	13	Δεβλαθά	Δεβλαθά	indeclinable place name, accusative in context	1	Deblatha
-2KI 25:6	1	13	Δεβλαθά			2	Riblah
+2KI 25:6	1	13	Δεβλαθά	Δεβλαθά	indeclinable place name, accusative in context	1	Riblah
+2KI 25:6	1	13	Δεβλαθά			2	Deblatha
 2KI 25:6	1	14	καὶ	καί	conjunction	1	and
 2KI 25:6	1	15	ἐλάλησε	λαλέω	aorist active indicative, third singular	1	spoke
 2KI 25:6	1	16	μετ᾽	μετά	preposition; with genitive, accompaniment; with accusative, sequence	1	with
@@ -202,8 +202,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:8	1	16	βαβυλῶνος	Βαβυλών	place name, genitive feminine singular in context	1	of Babylon
 2KI 25:8	1	17	καὶ	καί	conjunction	1	and
 2KI 25:8	1	18	ἦλθε	ἔρχομαι	aorist active indicative, third singular	1	came
-2KI 25:8	1	19	Ναβουζαρδὰν	Ναβουζαρδάν	indeclinable personal name, nominative in context	1	Nabuzar-adan
-2KI 25:8	1	19	Ναβουζαρδὰν			2	Nebuzaradan
+2KI 25:8	1	19	Ναβουζαρδὰν	Ναβουζαρδάν	indeclinable personal name, nominative in context	1	Nebuzaradan
+2KI 25:8	1	19	Ναβουζαρδὰν			2	Nabuzar-adan
 2KI 25:8	1	20	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 25:8	1	21	ἀρχιμάγειρος	ἀρχιμάγειρος	noun, nominative masculine singular; royal office in this context	1	captain of the guard
 2KI 25:8	1	21	ἀρχιμάγειρος			2	chief cook
@@ -229,7 +229,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:9	1	12	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 2KI 25:9	1	13	τοὺς	ὁ	article, accusative masculine plural	1	the
 2KI 25:9	1	14	οἴκους	οἶκος	noun, accusative masculine plural	1	houses
-2KI 25:9	1	15	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, accusative in context	1	Jerusalem
+2KI 25:9	1	15	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, accusative in context	1	of Jerusalem
 2KI 25:9	1	16	καὶ	καί	conjunction	1	and
 2KI 25:9	1	17	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 2KI 25:9	1	18	οἶκον	οἶκος	noun, accusative masculine singular	1	house
@@ -274,11 +274,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:11	1	21	τὸ	ὁ	article, accusative neuter singular	1	the
 2KI 25:11	1	22	λοιπὸν	λοιπός	substantival adjective, accusative neuter singular	1	remainder
 2KI 25:11	1	23	τοῦ	ὁ	article, genitive neuter singular	1	of the
-2KI 25:11	1	24	στηρίγματος	στήριγμα	noun, genitive neuter singular	1	remaining force
+2KI 25:11	1	24	στηρίγματος	στήριγμα	noun, genitive neuter singular	1	multitude
 2KI 25:11	1	25	μετῆρεν	μεταίρω	aorist active indicative, third singular	1	removed
 2KI 25:11	1	26	ὁ	ὁ	article, nominative masculine singular	1	the
-2KI 25:11	1	27	Ναβουζαρδὰν	Ναβουζαρδάν	indeclinable personal name, nominative in context	1	Nabuzar-adan
-2KI 25:11	1	27	Ναβουζαρδὰν			2	Nebuzaradan
+2KI 25:11	1	27	Ναβουζαρδὰν	Ναβουζαρδάν	indeclinable personal name, nominative in context	1	Nebuzaradan
+2KI 25:11	1	27	Ναβουζαρδὰν			2	Nabuzar-adan
 2KI 25:11	1	28	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 25:11	1	29	ἀρχιμάγειρος	ἀρχιμάγειρος	noun, nominative masculine singular; royal office in this context	1	captain of the guard
 2KI 25:11	1	29	ἀρχιμάγειρος			2	chief cook
@@ -286,16 +286,16 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:12	1	2	ἀπὸ	ἀπό	preposition with the genitive	1	from
 2KI 25:12	1	3	τῶν	ὁ	article, genitive plural	1	the
 2KI 25:12	1	4	πτωχῶν	πτωχός	substantival adjective genitive masculine plural	1	poor
-2KI 25:12	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
+2KI 25:12	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 2KI 25:12	1	6	γῆς	γῆ	noun, genitive feminine singular	1	land
 2KI 25:12	1	7	ὑπέλιπεν	ὑπολείπω	aorist active indicative, third singular	1	left behind
 2KI 25:12	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 25:12	1	9	ἀρχιμάγειρος	ἀρχιμάγειρος	noun, nominative masculine singular; royal office in this context	1	captain of the guard
 2KI 25:12	1	9	ἀρχιμάγειρος			2	chief cook
-2KI 25:12	1	10	εἰς	εἰς	preposition with the accusative	1	into
+2KI 25:12	1	10	εἰς	εἰς	preposition with the accusative	1	as
 2KI 25:12	1	11	ἀμπελουργοὺς	ἀμπελουργός	noun, accusative masculine plural	1	vine growers
 2KI 25:12	1	12	καὶ	καί	conjunction	1	and
-2KI 25:12	1	13	εἰς	εἰς	preposition with the accusative	1	into
+2KI 25:12	1	13	εἰς	εἰς	preposition with the accusative	1	as
 2KI 25:12	1	14	Γηβείμ	Γηβείμ	indeclinable plural designation of field workers in context	1	Gebim
 2KI 25:12	1	14	Γηβείμ			2	farm workers
 2KI 25:13	1	1	Καὶ	καί	conjunction	1	and
@@ -342,7 +342,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:14	1	6	Ἰαμὶν			2	shovels
 2KI 25:14	1	7	καὶ	καί	conjunction	1	and
 2KI 25:14	1	8	τὰς	ὁ	article, accusative feminine plural	1	the
-2KI 25:14	1	9	φιάλας	φιάλη	noun, accusative fem. pl. after τὰς, bowls/basins	1	basins/bowls
+2KI 25:14	1	9	φιάλας	φιάλη	noun, accusative fem. pl. after τὰς, bowls/basins	1	bowls
 2KI 25:14	1	10	καὶ	καί	conjunction	1	and
 2KI 25:14	1	11	τὰς	ὁ	article, accusative feminine plural	1	the
 2KI 25:14	1	12	θυίσκας	θυΐσκη	noun, accusative feminine plural	1	small pans
@@ -352,8 +352,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:14	1	16	σκεύη	σκεῦος	noun, accusative neuter plural	1	vessels
 2KI 25:14	1	17	τὰ	ὁ	article, accusative neuter plural; introduces attributive adjective, introduces the adjective	1	—
 2KI 25:14	1	18	χαλκᾶ	χαλκοῦς	adjective, accusative neuter plural	1	bronze
-2KI 25:14	1	19	ἐν	ἐν	preposition with dative	1	in/with
-2KI 25:14	1	20	οἷς	ὅς	relative pronoun, dative neut. pl. after ἐν 'with which	1	with which
+2KI 25:14	1	19	ἐν	ἐν	preposition with dative	1	with
+2KI 25:14	1	20	οἷς	ὅς	relative pronoun, dative neut. pl. after ἐν 'with which	1	which
 2KI 25:14	1	21	λειτουργοῦσιν	λειτουργέω	present active indicative, third plural	1	they minister
 2KI 25:14	1	22	ἐν	ἐν	preposition with the dative	1	in
 2KI 25:14	1	23	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
@@ -363,7 +363,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:15	1	3	πυρεῖα	πυρεῖον	noun, accusative neuter plural	1	fire pans
 2KI 25:15	1	4	καὶ	καί	conjunction	1	and
 2KI 25:15	1	5	τὰς	ὁ	article, accusative feminine plural	1	the
-2KI 25:15	1	6	φιάλας	φιάλη	noun, accusative fem. pl. after τὰς, bowls/basins	1	basins/bowls
+2KI 25:15	1	6	φιάλας	φιάλη	noun, accusative fem. pl. after τὰς, bowls/basins	1	bowls
 2KI 25:15	1	7	τὰς	ὁ	article, accusative feminine plural	1	the
 2KI 25:15	1	8	ἀργυρᾶς	ἀργυροῦς	adjective, accusative feminine plural	1	of silver
 2KI 25:15	1	9	καὶ	καί	conjunction	1	and
@@ -394,10 +394,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:16	1	16	οὐκ	οὐ	negative adverb with future indicative	1	not
 2KI 25:16	1	17	ἦν	εἰμί	imperfect indicative, third singular	1	was
 2KI 25:16	1	18	σταθμὸς	σταθμός	noun, nominative masculine singular	1	weight
-2KI 25:16	1	19	τοῦ	ὁ	article, genitive singular	1	the
-2KI 25:16	1	20	χαλκοῦ	χαλκός	noun, genitive masculine singular	1	of bronze
+2KI 25:16	1	19	τοῦ	ὁ	article, genitive singular	1	of the
+2KI 25:16	1	20	χαλκοῦ	χαλκός	noun, genitive masculine singular	1	bronze
 2KI 25:16	1	20	χαλκοῦ			2	of copper
-2KI 25:16	1	21	πάντων	πᾶς	adjective, genitive neuter plural	1	all
+2KI 25:16	1	21	πάντων	πᾶς	adjective, genitive neuter plural	1	of all
 2KI 25:16	1	22	τῶν	ὁ	article, genitive neuter plural	1	the
 2KI 25:16	1	23	σκευῶν	σκεῦος	noun, genitive neuter plural	1	vessels
 2KI 25:17	1	1	Ὀκτωκαίδεκα	ὀκτωκαίδεκα	indeclinable cardinal numeral	1	eighteen
@@ -453,8 +453,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:18	1	4	ἀρχιμάγειρος	ἀρχιμάγειρος	noun, nominative masculine singular; royal office in this context	1	captain of the guard
 2KI 25:18	1	4	ἀρχιμάγειρος			2	chief cook
 2KI 25:18	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
-2KI 25:18	1	6	Σαραίαν	Σαραίας	personal name, accusative masculine singular	1	Saraias
-2KI 25:18	1	6	Σαραίαν			2	Seraiah
+2KI 25:18	1	6	Σαραίαν	Σαραίας	personal name, accusative masculine singular	1	Seraiah
+2KI 25:18	1	6	Σαραίαν			2	Saraias
 2KI 25:18	1	7	ἱερέα	ἱερεύς	noun, accusative masculine singular	1	priest
 2KI 25:18	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 25:18	1	9	πρῶτον	πρῶτος	adverb	1	first
@@ -463,7 +463,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:18	1	12	Σοφονίαν	Σοφονίας	noun, accusative masculine singular; personal name	1	Zephaniah
 2KI 25:18	1	12	Σοφονίαν			2	Sophonias
 2KI 25:18	1	13	υἱὸν	υἱός	noun, accusative masculine singular	1	son
-2KI 25:18	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+2KI 25:18	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 2KI 25:18	1	15	δευτερώσεως	δευτέρωσις	noun, genitive feminine singular	1	second rank
 2KI 25:18	1	16	καὶ	καί	conjunction	1	and
 2KI 25:18	1	17	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -485,14 +485,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:19	1	9	ἦν	εἰμί	imperfect indicative, third singular	1	was
 2KI 25:19	1	10	ἐπιστάτης	ἐπιστάτης	noun, nominative masculine singular	1	overseer
 2KI 25:19	1	11	ἐπὶ	ἐπί	preposition (case from context)	1	on
-2KI 25:19	1	12	τῶν	ὁ	article, genitive plural	1	the
+2KI 25:19	1	12	τῶν	ὁ	article, genitive plural	1	of the
 2KI 25:19	1	13	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	1	men
 2KI 25:19	1	14	τῶν	ὁ	article, genitive masculine plural	1	of the
 2KI 25:19	1	15	πολεμιστῶν	πολεμιστής	noun, genitive masculine plural	1	warriors
 2KI 25:19	1	16	καὶ	καί	conjunction	1	and
 2KI 25:19	1	17	πέντε	πέντε	indeclinable cardinal numeral	1	five
 2KI 25:19	1	18	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
-2KI 25:19	1	19	τῶν	ὁ	article, genitive masculine plural	1	the
+2KI 25:19	1	19	τῶν	ὁ	article, genitive masculine plural	1	of the
 2KI 25:19	1	20	ὁρώντων	ὁράω	present active participle, genitive masculine plural; literal reference to access to the king	1	who had access to
 2KI 25:19	1	21	τὸ	ὁ	article, accusative neuter singular	1	the
 2KI 25:19	1	22	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
@@ -507,7 +507,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:19	1	31	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 25:19	1	32	γραμματέα	γραμματεύς	noun, accusative masculine singular	1	scribe
 2KI 25:19	1	32	γραμματέα			2	secretary
-2KI 25:19	1	33	τοῦ	ὁ	article, genitive singular	1	the
+2KI 25:19	1	33	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 25:19	1	34	ἄρχοντος	ἄρχων	noun, genitive masculine singular	1	leader
 2KI 25:19	1	35	τῆς	ὁ	article, genitive feminine singular	1	of the
 2KI 25:19	1	36	δυνάμεως	δύναμις	noun, genitive feminine singular	1	fighting force
@@ -521,7 +521,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:19	1	43	καὶ	καί	conjunction	1	and
 2KI 25:19	1	44	ἑξήκοντα	ἑξήκοντα	indeclinable cardinal numeral	1	sixty
 2KI 25:19	1	45	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
-2KI 25:19	1	46	τοῦ	ὁ	article, genitive masculine singular	1	the
+2KI 25:19	1	46	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2KI 25:19	1	47	λαοῦ	λαός	noun, genitive masculine singular	1	people
 2KI 25:19	1	48	τῆς	ὁ	article, genitive feminine singular	1	of the
 2KI 25:19	1	49	γῆς	γῆ	noun, genitive feminine singular	1	land
@@ -533,8 +533,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:20	1	1	Καὶ	καί	conjunction	1	and
 2KI 25:20	1	2	ἔλαβεν	λαμβάνω	aorist active indicative, third singular, preceding coordinated subjects	1	took
 2KI 25:20	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-2KI 25:20	1	4	Ναβουζαρδὰν	Ναβουζαρδάν	indeclinable personal name, nominative in context	1	Nabuzar-adan
-2KI 25:20	1	4	Ναβουζαρδὰν			2	Nebuzaradan
+2KI 25:20	1	4	Ναβουζαρδὰν	Ναβουζαρδάν	indeclinable personal name, nominative in context	1	Nebuzaradan
+2KI 25:20	1	4	Ναβουζαρδὰν			2	Nabuzar-adan
 2KI 25:20	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 25:20	1	6	ἀρχιμάγειρος	ἀρχιμάγειρος	noun, nominative masculine singular; royal office in this context	1	captain of the guard
 2KI 25:20	1	6	ἀρχιμάγειρος			2	chief cook
@@ -546,8 +546,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:20	1	12	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 2KI 25:20	1	13	Βαβυλῶνος	Βαβυλών	place name, genitive feminine singular in context	1	of Babylon
 2KI 25:20	1	14	εἰς	εἰς	preposition with the accusative	1	into
-2KI 25:20	1	15	Δεβλαθά	Δεβλαθά	indeclinable place name, accusative in context	1	Deblatha
-2KI 25:20	1	15	Δεβλαθά			2	Riblah
+2KI 25:20	1	15	Δεβλαθά	Δεβλαθά	indeclinable place name, accusative in context	1	Riblah
+2KI 25:20	1	15	Δεβλαθά			2	Deblatha
 2KI 25:21	1	1	Καὶ	καί	conjunction	1	and
 2KI 25:21	1	2	ἔπαισεν	παίω	aorist active indicative, third singular	1	struck
 2KI 25:21	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -557,11 +557,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:21	1	7	ἐθανάτωσεν	θανατόω	aorist active indicative, third singular	1	he put to death
 2KI 25:21	1	8	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 2KI 25:21	1	9	ἐν	ἐν	preposition with the dative	1	in
-2KI 25:21	1	10	Δεβλαθὰ	Δεβλαθά	indeclinable place name, accusative in context	1	Deblatha
-2KI 25:21	1	10	Δεβλαθὰ			2	Riblah
+2KI 25:21	1	10	Δεβλαθὰ	Δεβλαθά	indeclinable place name, accusative in context	1	Riblah
+2KI 25:21	1	10	Δεβλαθὰ			2	Deblatha
 2KI 25:21	1	11	ἐν	ἐν	preposition with the dative	1	in
 2KI 25:21	1	12	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
-2KI 25:21	1	13	Αἰμὰθ	Αἰμάθ	indeclinable place name, accusative in context	1	Hamath
+2KI 25:21	1	13	Αἰμὰθ	Αἰμάθ	indeclinable place name, accusative in context	1	of Hamath
 2KI 25:21	1	14	καὶ	καί	conjunction	1	and
 2KI 25:21	1	15	ἀπῳκίσθη	ἀποικίζω	aorist passive indicative, third singular	1	was deported
 2KI 25:21	1	16	Ἰούδας	Ἰούδας	personal name, nominative masculine singular	1	Judah
@@ -610,7 +610,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:23	1	10	οἱ	ὁ	article, nominative masculine plural	1	the
 2KI 25:23	1	11	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
 2KI 25:23	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-2KI 25:23	1	13	ὅτι	ὅτι	causal conjunction	1	because
+2KI 25:23	1	13	ὅτι	ὅτι	causal conjunction	1	that
 2KI 25:23	1	14	κατέστησε	καθίστημι	aorist active indicative, third singular	1	set
 2KI 25:23	1	15	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2KI 25:23	1	16	Βαβυλῶνος	Βαβυλών	place name, genitive feminine singular in context	1	of Babylon
@@ -633,14 +633,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:23	1	30	Ἰωανὰν	Ἰωανάν	indeclinable personal name, nominative in context	1	Johanan
 2KI 25:23	1	30	Ἰωανὰν			2	Joanan
 2KI 25:23	1	31	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2KI 25:23	1	32	Καρὴθ	Καρής	indeclinable personal name, genitive in context	1	of Kareth
-2KI 25:23	1	32	Καρὴθ			2	of Kareah
+2KI 25:23	1	32	Καρὴθ	Καρής	indeclinable personal name, genitive in context	1	of Kareah
+2KI 25:23	1	32	Καρὴθ			2	of Kareth
 2KI 25:23	1	33	καὶ	καί	conjunction	1	and
-2KI 25:23	1	34	Σαραίας	Σαραίας	noun, nominative masculine singular	1	Saraias
-2KI 25:23	1	34	Σαραίας			2	Seraiah
+2KI 25:23	1	34	Σαραίας	Σαραίας	noun, nominative masculine singular	1	Seraiah
+2KI 25:23	1	34	Σαραίας			2	Saraias
 2KI 25:23	1	35	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2KI 25:23	1	36	Θαναμὰθ	Θαναμάθ	indeclinable personal name, genitive in context	1	of Thanamath
-2KI 25:23	1	36	Θαναμὰθ			2	of Tanhumeth
+2KI 25:23	1	36	Θαναμὰθ	Θαναμάθ	indeclinable personal name, genitive in context	1	of Tanhumeth
+2KI 25:23	1	36	Θαναμὰθ			2	of Thanamath
 2KI 25:23	1	37	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 25:23	1	38	Νετωφαθίτης	Νετωφαθίτης	noun, nominative masculine singular	1	Netophathite
 2KI 25:23	1	39	καὶ	καί	conjunction	1	and
@@ -648,7 +648,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:23	1	40	Ἰεζονίας			2	Iezonias
 2KI 25:23	1	41	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2KI 25:23	1	42	τοῦ	ὁ	article, genitive masculine singular	1	of the
-2KI 25:23	1	43	Μαχαθθεὶ	Μαχαθθεί	indeclinable clan designation, genitive in context	1	of the Machathite
+2KI 25:23	1	43	Μαχαθθεὶ	Μαχαθθεί	indeclinable clan designation, genitive in context	1	Maachathite
 2KI 25:23	1	43	Μαχαθθεὶ			2	of the Maacathite
 2KI 25:23	1	44	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
 2KI 25:23	1	45	καὶ	καί	conjunction	1	and
@@ -661,7 +661,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:24	1	4	Γοδολίας	Γοδολίας	personal name, nominative masculine singular	1	Gedaliah
 2KI 25:24	1	4	Γοδολίας			2	Godolias
 2KI 25:24	1	5	καὶ	καί	conjunction	1	and
-2KI 25:24	1	6	τοῖς	ὁ	article, dative masculine plural	1	the
+2KI 25:24	1	6	τοῖς	ὁ	article, dative masculine plural	1	to the
 2KI 25:24	1	7	ἀνδράσιν	ἀνήρ	noun, dative masculine plural	1	men
 2KI 25:24	1	8	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 2KI 25:24	1	9	καὶ	καί	conjunction	1	and
@@ -671,7 +671,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:24	1	13	φοβεῖσθε	φοβέω	present middle imperative, second plural after μὴ	1	fear
 2KI 25:24	1	14	πάροδον	πάροδος	noun, accusative feminine singular	1	passage
 2KI 25:24	1	14	πάροδον			2	crossing
-2KI 25:24	1	15	τῶν	ὁ	article, genitive plural	1	the
+2KI 25:24	1	15	τῶν	ὁ	article, genitive plural	1	of the
 2KI 25:24	1	16	Χαλδαίων	Χαλδαῖος	substantival adjective, genitive masculine plural	1	Chaldeans
 2KI 25:24	1	17	καθίσατε	καθίζω	aorist active imperative, second plural	1	stay
 2KI 25:24	1	18	ἐν	ἐν	preposition with the dative	1	in
@@ -700,13 +700,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:25	1	10	Ναθανίου	Ναθανίας	personal name, genitive masculine singular	1	of Nethaniah
 2KI 25:25	1	10	Ναθανίου			2	of Nathanias
 2KI 25:25	1	11	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-2KI 25:25	1	12	Ἐλισαμὰ	Ἐλισαμά	indeclinable personal name, genitive in context	1	of Elisama
-2KI 25:25	1	12	Ἐλισαμὰ			2	of Elishama
+2KI 25:25	1	12	Ἐλισαμὰ	Ἐλισαμά	indeclinable personal name, genitive in context	1	of Elishama
+2KI 25:25	1	12	Ἐλισαμὰ			2	of Elisama
 2KI 25:25	1	13	ἐκ	ἐκ	preposition with the genitive	1	from
 2KI 25:25	1	14	τοῦ	ὁ	article, genitive neuter singular	1	the
 2KI 25:25	1	15	σπέρματος	σπέρμα	noun, genitive neuter singular	1	seed
 2KI 25:25	1	15	σπέρματος			2	offspring
-2KI 25:25	1	16	τῶν	ὁ	article, genitive masculine plural	1	the
+2KI 25:25	1	16	τῶν	ὁ	article, genitive masculine plural	1	of the
 2KI 25:25	1	17	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
 2KI 25:25	1	18	καὶ	καί	conjunction	1	and
 2KI 25:25	1	19	δέκα	δέκα	indeclinable cardinal numeral	1	ten
@@ -741,7 +741,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:26	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
 2KI 25:26	1	7	μικροῦ	μικρός	adjective, genitive masculine singular; used substantivally	1	the youngest
 2KI 25:26	1	8	καὶ	καί	conjunction	1	and
-2KI 25:26	1	9	ἕως	ἕως	temporal conjunction/preposition (from context)	1	until
+2KI 25:26	1	9	ἕως	ἕως	temporal conjunction/preposition (from context)	1	as far as
 2KI 25:26	1	10	μεγάλου	μέγας	adjective, genitive masculine singular; used substantivally	1	the oldest
 2KI 25:26	1	11	καὶ	καί	conjunction	1	and
 2KI 25:26	1	12	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -758,7 +758,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:26	1	21	ἐφοβήθησαν	φοβέομαι	aorist passive indicative, third plural	1	were afraid
 2KI 25:26	1	22	ἀπὸ	ἀπό	preposition with the genitive	1	from
 2KI 25:26	1	23	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the face
-2KI 25:26	1	24	τῶν	ὁ	article, genitive plural	1	the
+2KI 25:26	1	24	τῶν	ὁ	article, genitive plural	1	of the
 2KI 25:26	1	25	Χαλδαίων	Χαλδαῖος	substantival adjective, genitive masculine plural	1	Chaldeans
 2KI 25:27	1	1	Καὶ	καί	conjunction	1	and
 2KI 25:27	1	2	ἐγενήθη	γίνομαι	aorist passive-form indicative, third singular; intransitive sense	1	occurred
@@ -768,12 +768,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:27	1	6	καὶ	καί	conjunction	1	and
 2KI 25:27	1	7	ἑβδόμῳ	ἕβδομος	ordinal adjective, dative masculine singular	1	seventh
 2KI 25:27	1	8	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
-2KI 25:27	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
+2KI 25:27	1	9	τῆς	ὁ	article, genitive feminine singular	1	of the
 2KI 25:27	1	10	μετοικεσίας	μετοικεσία	noun, genitive feminine singular	1	exile
 2KI 25:27	1	10	μετοικεσίας			2	resettlement
 2KI 25:27	1	11	τοῦ	ὁ	article, genitive singular	1	the
-2KI 25:27	1	12	Ἰωαχεὶν	Ἰωαχείν	indeclinable personal name, genitive in context	1	of Joachein
-2KI 25:27	1	12	Ἰωαχεὶν			2	of Jehoiachin
+2KI 25:27	1	12	Ἰωαχεὶν	Ἰωαχείν	indeclinable personal name, genitive in context	1	of Jehoiachin
+2KI 25:27	1	12	Ἰωαχεὶν			2	of Joachein
 2KI 25:27	1	13	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2KI 25:27	1	14	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 2KI 25:27	1	15	ἐν	ἐν	preposition with the dative	1	in
@@ -786,8 +786,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:27	1	22	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2KI 25:27	1	23	μηνὸς	μήν	noun, genitive masculine singular	1	month
 2KI 25:27	1	24	ὕψωσεν	ὑψόω	aorist active indicative, third singular	1	lifted
-2KI 25:27	1	25	Εὐειλμαρωδὰχ	Εὐειλμαρωδάχ	indeclinable personal name, nominative in context	1	Eueilmarodach
-2KI 25:27	1	25	Εὐειλμαρωδὰχ			2	Evil-merodach
+2KI 25:27	1	25	Εὐειλμαρωδὰχ	Εὐειλμαρωδάχ	indeclinable personal name, nominative in context	1	Evil-merodach
+2KI 25:27	1	25	Εὐειλμαρωδὰχ			2	Eueilmarodach
 2KI 25:27	1	26	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2KI 25:27	1	27	Βαβυλῶνος	Βαβυλών	place name, genitive feminine singular in context	1	of Babylon
 2KI 25:27	1	28	ἐν	ἐν	preposition with the dative	1	in
@@ -799,8 +799,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:27	1	33	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2KI 25:27	1	34	τὴν	ὁ	article, accusative feminine singular	1	the
 2KI 25:27	1	35	κεφαλὴν	κεφαλή	noun, accusative feminine singular; accusative in exclamation	1	head
-2KI 25:27	1	36	Ἰωαχεὶν	Ἰωαχείν	indeclinable personal name, genitive in context	1	of Joachein
-2KI 25:27	1	36	Ἰωαχεὶν			2	of Jehoiachin
+2KI 25:27	1	36	Ἰωαχεὶν	Ἰωαχείν	indeclinable personal name, genitive in context	1	of Jehoiachin
+2KI 25:27	1	36	Ἰωαχεὶν			2	of Joachein
 2KI 25:27	1	37	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2KI 25:27	1	38	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 2KI 25:27	1	39	καὶ	καί	conjunction	1	and
@@ -822,7 +822,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:28	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 25:28	1	9	θρόνον	θρόνος	noun accusative masculine singular	1	throne
 2KI 25:28	1	10	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-2KI 25:28	1	11	ἐπάνωθεν	ἐπάνωθεν	adverb, above/over	1	from above
+2KI 25:28	1	11	ἐπάνωθεν	ἐπάνωθεν	adverb, above/over	1	above
 2KI 25:28	1	12	τῶν	ὁ	article, genitive masculine plural	1	the
 2KI 25:28	1	13	θρόνων	θρόνος	noun, genitive masculine plural	1	thrones
 2KI 25:28	1	14	τῶν	ὁ	article, genitive masculine plural	1	of the
@@ -836,7 +836,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:29	1	2	ἠλλοίωσε	ἀλλοιόω	aorist active indicative, third singular	1	altered
 2KI 25:29	1	3	τὰ	ὁ	article, neuter plural (case from context)	1	the
 2KI 25:29	1	4	ἱμάτια	ἱμάτιον	noun, accusative neuter plural after τὰ	1	clothes
-2KI 25:29	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
+2KI 25:29	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 2KI 25:29	1	6	φυλακῆς	φυλακή	noun, genitive feminine singular	1	imprisonment
 2KI 25:29	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2KI 25:29	1	8	καὶ	καί	conjunction	1	and
@@ -850,7 +850,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:29	1	14	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 2KI 25:29	1	15	τὰς	ὁ	article, accusative feminine plural	1	the
 2KI 25:29	1	16	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
-2KI 25:29	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
+2KI 25:29	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
 2KI 25:29	1	18	ζωῆς	ζωή	noun, genitive feminine singular	1	life
 2KI 25:29	1	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2KI 25:30	1	1	Καὶ	καί	conjunction	1	and
@@ -878,6 +878,6 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 25:30	1	19	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 2KI 25:30	1	20	τὰς	ὁ	article, accusative feminine plural	1	the
 2KI 25:30	1	21	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
-2KI 25:30	1	22	τῆς	ὁ	article, genitive feminine singular	1	the
+2KI 25:30	1	22	τῆς	ὁ	article, genitive feminine singular	1	of the
 2KI 25:30	1	23	ζωῆς	ζωή	noun, genitive feminine singular	1	life
 2KI 25:30	1	24	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his

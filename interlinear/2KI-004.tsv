@@ -65,10 +65,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:2	1	19	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2KI 4:2	1	20	οὐκ	οὐ	negative particle	1	not
 2KI 4:2	1	21	ἔστι	εἰμί	present active indicative, third singular	1	is
-2KI 4:2	1	22	τῇ	ὁ	article, dative feminine singular	1	the
+2KI 4:2	1	22	τῇ	ὁ	article, dative feminine singular	1	to the
 2KI 4:2	1	23	δούλῃ	δούλη	noun, dative feminine singular	1	female servant
 2KI 4:2	1	24	σου	σύ	pronoun, possessive genitive second singular	1	your
-2KI 4:2	1	25	οὐδὲν	οὐδείς	pronoun/adjective, accusative neuter singular	1	nothing
+2KI 4:2	1	25	οὐδὲν	οὐδείς	pronoun/adjective, accusative neuter singular	1	anything
 2KI 4:2	1	26	ἐν	ἐν	preposition with the dative	1	in
 2KI 4:2	1	27	τῷ	ὁ	article, dative masculine singular	1	the
 2KI 4:2	1	28	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
@@ -83,7 +83,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:3	1	4	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	her
 2KI 4:3	1	5	δεῦρο	δεῦρο	interjection	1	come
 2KI 4:3	1	6	αἴτησον	αἰτέω	aorist active imperative, second singular	1	ask for
-2KI 4:3	1	7	σεαυτῇ	σεαυτοῦ	reflexive pronoun, dative feminine second singular	1	yourself
+2KI 4:3	1	7	σεαυτῇ	σεαυτοῦ	reflexive pronoun, dative feminine second singular	1	for yourself
 2KI 4:3	1	8	σκεύη	σκεῦος	noun, accusative neuter plural	1	vessels
 2KI 4:3	1	9	ἔξωθεν	ἔξωθεν	adverb of place	1	outside
 2KI 4:3	1	10	παρὰ	παρά	preposition with genitive τοῦ Κυρίου, from	1	from
@@ -92,11 +92,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:3	1	13	γειτόνων	γείτων	noun, genitive masculine plural	1	neighbors
 2KI 4:3	1	14	σου	σύ	pronoun, possessive genitive second singular	1	your
 2KI 4:3	1	15	σκεύη	σκεῦος	noun, accusative neuter plural	1	vessels
-2KI 4:3	1	16	κενά	κενός	adjective, accusative neuter plural; substantival	1	empty things
+2KI 4:3	1	16	κενά	κενός	adjective, accusative neuter plural; substantival	1	empty
 2KI 4:3	1	17	μὴ	μή	negative particle	1	not
 2KI 4:3	1	18	ὀλιγώσῃς	ὀλιγόω	aorist active subjunctive, second singular	1	get too few
 2KI 4:4	1	1	Καὶ	καί	conjunction	1	and
-2KI 4:4	1	2	εἰσελεύσῃ	εἰσέρχομαι	future middle indicative, second person singular	1	will go in
+2KI 4:4	1	2	εἰσελεύσῃ	εἰσέρχομαι	future middle indicative, second person singular	1	you shall go in
 2KI 4:4	1	3	καὶ	καί	conjunction	1	and
 2KI 4:4	1	4	ἀποκλείσεις	ἀποκλείω	future active indicative, second singular	1	you shall shut
 2KI 4:4	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -116,9 +116,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:4	1	17	πάντα	πᾶς	adjective, accusative neut. pl. after πάντα adverbial object 'all	1	all
 2KI 4:4	1	18	τὰ	ὁ	article, accusative neuter plural	1	the
 2KI 4:4	1	19	σκεύη	σκεῦος	noun, accusative neuter plural	1	vessels
-2KI 4:4	1	20	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these things
+2KI 4:4	1	20	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these
 2KI 4:4	1	21	καὶ	καί	conjunction	1	and
-2KI 4:4	1	22	τὸ	ὁ	article, neuter singular (case from context)	1	the
+2KI 4:4	1	22	τὸ	ὁ	article, neuter singular (case from context)	1	—
 2KI 4:4	1	23	πληρωθὲν	πληρόω	aorist passive participle, nominative neuter singular	1	what has been filled
 2KI 4:4	1	24	ἀρεῖς	αἴρω	future active indicative, second singular	1	you shall carry
 2KI 4:5	1	1	Καὶ	καί	conjunction	1	and
@@ -166,8 +166,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:6	1	14	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
 2KI 4:6	1	15	οὐκ	οὐ	negative particle	1	not
 2KI 4:6	1	16	ἔστιν	εἰμί	present indicative, third singular	1	there is
-2KI 4:6	1	17	ἔτι	ἔτι	adverb of time	1	again
-2KI 4:6	1	17	ἔτι			2	any more
+2KI 4:6	1	17	ἔτι	ἔτι	adverb of time	1	any more
+2KI 4:6	1	17	ἔτι			2	again
 2KI 4:6	1	18	σκεῦος	σκεῦος	noun, nominative neuter singular	1	vessel
 2KI 4:6	1	19	καὶ	καί	conjunction	1	and
 2KI 4:6	1	20	ἔστη	ἵστημι	aorist active indicative, third singular	1	stopped
@@ -180,7 +180,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:7	1	4	ἀπήγγειλε			2	reported
 2KI 4:7	1	5	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 2KI 4:7	1	6	ἀνθρώπῳ	ἄνθρωπος	noun, dative masculine singular after τῷ	1	man
-2KI 4:7	1	7	τοῦ	ὁ	article, genitive singular	1	the
+2KI 4:7	1	7	τοῦ	ὁ	article, genitive singular	1	—
 2KI 4:7	1	8	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 2KI 4:7	1	9	καὶ	καί	conjunction	1	and
 2KI 4:7	1	10	εἶπεν	λέγω	aorist active indicative, third singular	1	said
@@ -256,7 +256,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:9	1	16	ἅγιος	ἅγιος	adjective, nominative masculine singular	1	holy
 2KI 4:9	1	17	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this one
 2KI 4:9	1	18	διαπορεύεται	διαπορεύομαι	present middle indicative, third singular	1	passes
-2KI 4:9	1	19	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
+2KI 4:9	1	19	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	by
 2KI 4:9	1	20	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	1	us
 2KI 4:9	1	21	διὰ	διά	preposition with genitive in an expression of frequency	1	through
 2KI 4:9	1	22	παντός	πᾶς	substantival adjective, genitive neuter singular; substantival in the expression διὰ παντός	1	all the time
@@ -319,10 +319,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:12	1	14	ἐκάλεσεν	καλέω	aorist active indicative, third singular	1	called
 2KI 4:12	1	15	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
 2KI 4:12	1	16	καὶ	καί	conjunction	1	and
-2KI 4:12	1	17	ἔστη	ἵστημι	aorist active indicative, third singular	1	was established
+2KI 4:12	1	17	ἔστη	ἵστημι	aorist active indicative, third singular	1	stood
 2KI 4:12	1	18	ἐνώπιον	ἐνώπιον	preposition with the genitive	1	before
 2KI 4:12	1	18	ἐνώπιον			2	in the sight of
-2KI 4:12	1	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+2KI 4:12	1	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	him
 2KI 4:13	1	1	Καὶ	καί	conjunction	1	and
 2KI 4:13	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2KI 4:13	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -432,7 +432,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:16	1	18	δὲ	δέ	postpositive conjunction	1	now
 2KI 4:16	1	18	δὲ			2	but
 2KI 4:16	1	19	εἶπε	λέγω	aorist active indicative, third singular	1	said
-2KI 4:16	1	20	μὴ	μή	negative particle	1	not
+2KI 4:16	1	20	μὴ	μή	negative particle	1	no
 2KI 4:16	1	21	κύριε	κύριος	noun, vocative masculine singular	1	master
 2KI 4:16	1	22	ἄνθρωπε	ἄνθρωπος	noun, vocative masculine singular	1	man
 2KI 4:16	1	23	τοῦ	ὁ	article, genitive masculine singular	1	of
@@ -462,7 +462,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:17	1	16	ὥρα	ὥρα	noun, nominative feminine singular	1	time
 2KI 4:17	1	16	ὥρα			2	hour
 2KI 4:17	1	17	ζῶσα	ζάω	present active participle, nominative feminine singular	1	alive
-2KI 4:17	1	18	ὡς	ὡς	adverbial in οὐδ᾽ ὡς refrain	1	even so
+2KI 4:17	1	18	ὡς	ὡς	adverbial in οὐδ᾽ ὡς refrain	1	as
 2KI 4:17	1	19	ἐλάλησε	λαλέω	aorist active indicative, third singular	1	spoke
 2KI 4:17	1	20	πρὸς	πρός	preposition with the accusative	1	to
 2KI 4:17	1	21	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
@@ -500,7 +500,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:19	1	13	καὶ	καί	conjunction	1	and
 2KI 4:19	1	14	εἶπε	λέγω	aorist active indicative, third singular	1	said
 2KI 4:19	1	15	τῷ	ὁ	article, dative neuter singular	1	to the
-2KI 4:19	1	16	παιδαρίῳ	παιδάριον	noun, dative neuter singular	1	boy
+2KI 4:19	1	16	παιδαρίῳ	παιδάριον	noun, dative neuter singular	1	servant
 2KI 4:19	1	16	παιδαρίῳ			2	lad
 2KI 4:19	1	17	ἆρον	αἴρω	aorist active imperative, second singular	1	take away
 2KI 4:19	1	18	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
@@ -521,8 +521,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:20	1	11	τῶν	ὁ	article, genitive neuter plural	1	the
 2KI 4:20	1	12	γονάτων	γόνυ	noun, genitive neuter plural after τῶν/ἀπὸ τῶν, knees	1	knees
 2KI 4:20	1	13	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
-2KI 4:20	1	14	ἕως	ἕως	preposition governing the genitive	1	as far as
-2KI 4:20	1	15	μεσημβρίας	μεσημβρία	noun, genitive feminine singular; genitive of time	1	at noon
+2KI 4:20	1	14	ἕως	ἕως	preposition governing the genitive	1	until
+2KI 4:20	1	15	μεσημβρίας	μεσημβρία	noun, genitive feminine singular; genitive of time	1	noon
 2KI 4:20	1	16	καὶ	καί	conjunction	1	and
 2KI 4:20	1	17	ἀπέθανε	ἀποθνῄσκω	aorist active indicative, third singular	1	he died
 2KI 4:21	1	1	Καὶ	καί	conjunction	1	and
@@ -534,7 +534,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:21	1	7	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2KI 4:21	1	8	τὴν	ὁ	article, accusative feminine singular	1	the
 2KI 4:21	1	9	κλίνην	κλίνη	noun, accusative feminine singular after ἐπὶ τὴν	1	bed
-2KI 4:21	1	10	τοῦ	ὁ	article, genitive singular	1	the
+2KI 4:21	1	10	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 4:21	1	11	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
 2KI 4:21	1	12	τοῦ	ὁ	article, genitive singular	1	of
 2KI 4:21	1	13	Θεοῦ	θεός	noun, genitive masculine singular	1	God
@@ -557,15 +557,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:22	1	9	δή			2	now
 2KI 4:22	1	10	μοι	ἐγώ	pronoun, dative first singular	1	to me
 2KI 4:22	1	11	ἕν	εἷς	cardinal numeral, nominative neuter singular	1	one
-2KI 4:22	1	12	τῶν	ὁ	article, genitive plural	1	the
+2KI 4:22	1	12	τῶν	ὁ	article, genitive plural	1	of the
 2KI 4:22	1	13	παιδαρίων	παιδάριον	noun, genitive neuter plural	1	young men
 2KI 4:22	1	14	καὶ	καί	conjunction	1	and
 2KI 4:22	1	15	μίαν	εἷς	numeral, accusative feminine singular	1	one
-2KI 4:22	1	16	τῶν	ὁ	article, genitive plural	1	the
+2KI 4:22	1	16	τῶν	ὁ	article, genitive plural	1	of the
 2KI 4:22	1	17	ὄνων	ὄνος	noun, genitive masculine plural after τῶν	1	asses
 2KI 4:22	1	18	καὶ	καί	conjunction	1	and
 2KI 4:22	1	19	δραμοῦμαι	τρέχω	future middle indicative, first singular	1	I will run
-2KI 4:22	1	20	ἕως	ἕως	preposition with the genitive	1	until
+2KI 4:22	1	20	ἕως	ἕως	preposition with the genitive	1	as far as
 2KI 4:22	1	21	τοῦ	ὁ	article, genitive singular	1	the
 2KI 4:22	1	22	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
 2KI 4:22	1	23	τοῦ	ὁ	article, genitive singular	1	of
@@ -574,10 +574,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:22	1	26	ἐπιστρέψω	ἐπιστρέφω	future active indicative, first singular	1	I will return
 2KI 4:23	1	1	Καὶ	καί	conjunction	1	and
 2KI 4:23	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
-2KI 4:23	1	3	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
+2KI 4:23	1	3	τί	τίς	interrogative pronoun, accusative neuter singular	1	why
 2KI 4:23	1	4	ὅτι	ὅτι	causal conjunction	1	that
 2KI 4:23	1	5	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
-2KI 4:23	1	6	πορεύῃ	πορεύομαι	present middle indicative, second singular	1	are you going
+2KI 4:23	1	6	πορεύῃ	πορεύομαι	present middle indicative, second singular	1	are going
 2KI 4:23	1	7	πρὸς	πρός	preposition with the accusative	1	to
 2KI 4:23	1	8	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 2KI 4:23	1	9	σήμερον	σήμερον	adverb	1	today
@@ -657,7 +657,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:26	1	10	σοι	σύ	personal pronoun, dative singular	1	to you
 2KI 4:26	1	11	ἡ	ὁ	article, nominative feminine singular	1	the
 2KI 4:26	1	12	εἰρήνη	εἰρήνη	noun, nominative feminine singular	1	peace
-2KI 4:26	1	13	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+2KI 4:26	1	13	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 2KI 4:26	1	14	ἀνδρί	ἀνήρ	noun, dative masculine singular	1	husband
 2KI 4:26	1	15	σου	σύ	pronoun, possessive genitive second singular	1	your
 2KI 4:26	1	16	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -684,11 +684,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:27	1	12	ποδῶν	πούς	noun, genitive masculine plural	1	feet
 2KI 4:27	1	13	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 2KI 4:27	1	14	καὶ	καί	conjunction	1	and
-2KI 4:27	1	15	ἤγγισε	ἐγγίζω	aorist active indicative, third singular, transitive 'brought near'	1	brought near
+2KI 4:27	1	15	ἤγγισε	ἐγγίζω	aorist active indicative, third singular, transitive 'brought near'	1	came near
 2KI 4:27	1	16	Γιεζεὶ	Γιεζεί	indeclinable personal name, accusative in context	1	Giezei
 2KI 4:27	1	16	Γιεζεὶ			2	Gehazi
-2KI 4:27	1	17	ἀπώσασθαι	ἀπωθέω	aorist middle infinitive	1	to reject
-2KI 4:27	1	17	ἀπώσασθαι			2	to push away
+2KI 4:27	1	17	ἀπώσασθαι	ἀπωθέω	aorist middle infinitive	1	to push away
+2KI 4:27	1	17	ἀπώσασθαι			2	to reject
 2KI 4:27	1	18	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	her
 2KI 4:27	1	19	καὶ	καί	conjunction	1	and
 2KI 4:27	1	20	εἶπεν	λέγω	aorist active indicative, third singular	1	said
@@ -734,7 +734,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:29	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2KI 4:29	1	3	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
 2KI 4:29	1	3	Ἐλισσαιὲ			2	Elisha
-2KI 4:29	1	4	τῷ	ὁ	article, dative masculine singular	1	the
+2KI 4:29	1	4	τῷ	ὁ	article, dative masculine singular	1	to
 2KI 4:29	1	5	Γιεζεί	Γιεζεί	indeclinable personal name, accusative in context	1	Giezei
 2KI 4:29	1	5	Γιεζεί			2	Gehazi
 2KI 4:29	1	6	ζῶσαι	ζώννυμι	aorist middle imperative, second singular	1	gird up
@@ -784,7 +784,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:30	1	2	εἶπεν	λέγω	aorist active indicative, third person singular	1	said
 2KI 4:30	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
 2KI 4:30	1	4	μήτηρ	μήτηρ	noun, nominative feminine singular	1	mother
-2KI 4:30	1	5	τοῦ	ὁ	article, genitive singular	1	the
+2KI 4:30	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 4:30	1	6	παιδαρίου	παιδάριον	noun, genitive neuter singular	1	boy
 2KI 4:30	1	6	παιδαρίου			2	child
 2KI 4:30	1	7	ζῇ	ζάω	present active indicative, third singular; oath formula	1	lives
@@ -927,7 +927,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:34	1	38	διεθερμάνθη	διαθερμαίνω	aorist passive indicative, third singular	1	grew hot
 2KI 4:34	1	39	ἡ	ὁ	article nominative feminine singular	1	the
 2KI 4:34	1	40	σὰρξ	σάρξ	noun nominative feminine singular	1	flesh
-2KI 4:34	1	41	τοῦ	ὁ	article, genitive singular	1	the
+2KI 4:34	1	41	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 4:34	1	42	παιδαρίου	παιδάριον	noun, genitive neuter singular	1	boy
 2KI 4:34	1	42	παιδαρίου			2	child
 2KI 4:35	1	1	Καὶ	καί	conjunction	1	and
@@ -1075,9 +1075,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:39	1	15	συνέλεξεν	συλλέγω	aorist active indicative, third singular	1	gleaned
 2KI 4:39	1	15	συνέλεξεν			2	gathered
 2KI 4:39	1	16	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
-2KI 4:39	1	17	αὐτῆς	αὐτός	pronoun, genitive feminine singular; of the person denoted by ψυχή	1	its
+2KI 4:39	1	17	αὐτῆς	αὐτός	pronoun, genitive feminine singular; of the person denoted by ψυχή	1	it
 2KI 4:39	1	17	αὐτῆς			2	his
-2KI 4:39	1	18	τολύπην	τολύπη	noun, accusative feminine singular	1	a bundle
+2KI 4:39	1	18	τολύπην	τολύπη	noun, accusative feminine singular	1	gourd
 2KI 4:39	1	19	ἀγρίαν	ἄγριος	adjective, accusative feminine singular	1	wild
 2KI 4:39	1	20	πλῆρες	πλήρης	adjective, nominative/accusative neut. sg., full	1	full
 2KI 4:39	1	21	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -1212,7 +1212,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:43	1	16	λαῷ	λαός	noun, dative masculine singular	1	people
 2KI 4:43	1	17	καὶ	καί	conjunction	1	and
 2KI 4:43	1	18	ἐσθιέτωσαν	ἐσθίω	present active imperative, third plural	1	let them eat
-2KI 4:43	1	19	ὅτι	ὅτι	conjunction	1	that
+2KI 4:43	1	19	ὅτι	ὅτι	conjunction	1	for
 2KI 4:43	1	20	τάδε	ὅδε	demonstrative pronoun, accusative neuter plural, introducing the message 'these things'	1	these things
 2KI 4:43	1	21	λέγει	λέγω	present active indicative, third singular	1	says
 2KI 4:43	1	22	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord

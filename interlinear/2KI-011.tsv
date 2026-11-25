@@ -18,7 +18,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:1	1	15	τὸ	ὁ	article, accusative neuter singular	1	the
 2KI 11:1	1	16	σπέρμα	σπέρμα	noun, accusative neuter singular, collective offspring	1	offspring
 2KI 11:1	1	16	σπέρμα			2	seed
-2KI 11:1	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
+2KI 11:1	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
 2KI 11:1	1	18	βασιλείας	βασιλεία	noun, genitive feminine singular	1	kingdom
 2KI 11:1	1	18	βασιλείας			2	reign
 2KI 11:2	1	1	Καὶ	καί	conjunction	1	and
@@ -26,9 +26,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:2	1	3	Ἰωσαβεὲ	Ἰωσαβέε	indeclinable personal name, nominative in context	1	Josabee
 2KI 11:2	1	3	Ἰωσαβεὲ			2	Jehosheba
 2KI 11:2	1	4	θυγάτηρ	θυγάτηρ	noun, nominative feminine singular	1	daughter
-2KI 11:2	1	5	τοῦ	ὁ	article, genitive singular	1	the
+2KI 11:2	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 11:2	1	6	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
-2KI 11:2	1	7	Ἰωρὰμ	Ἰωράμ	indeclinable personal name, genitive in context	1	of Joram
+2KI 11:2	1	7	Ἰωρὰμ	Ἰωράμ	indeclinable personal name, genitive in context	1	Joram
 2KI 11:2	1	8	ἀδελφὴ	ἀδελφή	noun, nominative feminine singular	1	sister
 2KI 11:2	1	9	Ὀχοζίου	Ὀχοζίας	personal name, genitive masculine singular	1	of Ahaziah
 2KI 11:2	1	9	Ὀχοζίου			2	of Ochozias
@@ -38,8 +38,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:2	1	13	Ὀχοζίου	Ὀχοζίας	personal name, genitive masculine singular	1	of Ahaziah
 2KI 11:2	1	13	Ὀχοζίου			2	of Ochozias
 2KI 11:2	1	14	καὶ	καί	conjunction	1	and
-2KI 11:2	1	15	ἔκλεψεν	κλέπτω	aorist active indicative, third singular	1	had stolen
-2KI 11:2	1	15	ἔκλεψεν			2	stole
+2KI 11:2	1	15	ἔκλεψεν	κλέπτω	aorist active indicative, third singular	1	stole
+2KI 11:2	1	15	ἔκλεψεν			2	had stolen
 2KI 11:2	1	16	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 2KI 11:2	1	17	ἐκ	ἐκ	preposition with the genitive	1	from
 2KI 11:2	1	18	μέσου	μέσος	noun, genitive neuter singular	1	midst
@@ -57,7 +57,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:2	1	30	ἐν	ἐν	preposition with the dative	1	in
 2KI 11:2	1	31	τῷ	ὁ	article, dative neuter singular	1	the
 2KI 11:2	1	32	ταμιείῳ	ταμιεῖον	noun, dative neuter singular	1	inner room
-2KI 11:2	1	33	τῶν	ὁ	article, genitive feminine plural	1	in
+2KI 11:2	1	33	τῶν	ὁ	article, genitive feminine plural	1	of the
 2KI 11:2	1	34	κλινῶν	κλίνη	noun, genitive feminine plural after τῶν/ἐπὶ τῶν	1	beds
 2KI 11:2	1	35	καὶ	καί	conjunction	1	and
 2KI 11:2	1	36	ἔκρυψεν	κρύπτω	aorist active indicative, third singular	1	she hid
@@ -84,7 +84,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:3	1	12	Γοθολία	Γοθολία	personal name, nominative feminine singular	1	Athaliah
 2KI 11:3	1	12	Γοθολία			2	Gotholia
 2KI 11:3	1	13	βασιλεύουσα	βασιλεύω	present active participle, nominative feminine singular	1	was reigning
-2KI 11:3	1	14	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2KI 11:3	1	14	ἐπὶ	ἐπί	preposition (case from context)	1	over
 2KI 11:3	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
 2KI 11:3	1	16	γῆς	γῆ	noun, genitive feminine singular	1	land
 2KI 11:4	1	1	Καὶ	καί	conjunction	1	and
@@ -201,7 +201,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:7	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 2KI 11:7	1	14	φυλακὴν	φυλακή	noun, accusative feminine singular	1	charge
 2KI 11:7	1	14	φυλακὴν			2	guard duty
-2KI 11:7	1	15	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+2KI 11:7	1	15	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 2KI 11:7	1	15	οἴκου			2	household
 2KI 11:7	1	16	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2KI 11:7	1	17	πρὸς	πρός	preposition with the accusative	1	to
@@ -238,7 +238,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:8	1	26	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2KI 11:8	1	27	ἐν	ἐν	preposition with the dative	1	in
 2KI 11:8	1	28	τῷ	ὁ	article, dative masculine singular	1	the
-2KI 11:8	1	29	ἐκπορεύεσθαι	ἐκπορεύομαι	present middle infinitive	1	goes out
+2KI 11:8	1	29	ἐκπορεύεσθαι	ἐκπορεύομαι	present middle infinitive	1	going out
 2KI 11:8	1	30	αὐτὸν	αὐτός	pronoun, accusative masculine singular; subject of the temporal infinitive	1	he
 2KI 11:8	1	31	καὶ	καί	conjunction	1	and
 2KI 11:8	1	32	ἐν	ἐν	preposition marking time with an articular infinitive	1	when
@@ -255,7 +255,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:9	1	8	Ἰωαδαὲ	Ἰωαδαέ	indeclinable personal name, nominative in context	1	Joadae
 2KI 11:9	1	8	Ἰωαδαὲ			2	Jehoiada
 2KI 11:9	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
-2KI 11:9	1	10	συνετός	συνετός	substantival adjective, nominative masculine singular	1	the discerning one
+2KI 11:9	1	10	συνετός	συνετός	substantival adjective, nominative masculine singular	1	discerning one
 2KI 11:9	1	11	Καὶ	καί	conjunction	1	and
 2KI 11:9	1	12	ἔλαβεν	λαμβάνω	aorist active indicative, third singular, of taking a wife	1	took
 2KI 11:9	1	13	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	each man
@@ -269,7 +269,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:9	1	21	σάββατον	σάββατον	noun, accusative neut. sg. after τὸ	1	sabbath
 2KI 11:9	1	22	μετὰ	μετά	preposition with genitive	1	with
 2KI 11:9	1	23	τῶν	ὁ	article, genitive plural	1	the
-2KI 11:9	1	24	ἐκπορευομένων	ἐκπορεύομαι	present middle/passive participle, genitive masculine plural	1	as they were going out
+2KI 11:9	1	24	ἐκπορευομένων	ἐκπορεύομαι	present middle/passive participle, genitive masculine plural	1	going out
 2KI 11:9	1	25	τὸ	ὁ	article, nominative neuter singular	1	the
 2KI 11:9	1	26	σάββατον	σάββατον	noun, accusative neut. sg. after τὸ	1	sabbath
 2KI 11:9	1	27	καὶ	καί	conjunction	1	and
@@ -320,7 +320,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:11	1	17	οἴκου			2	household
 2KI 11:11	1	18	τῆς	ὁ	article, genitive feminine singular	1	the
 2KI 11:11	1	19	δεξιᾶς	δεξιός	adjective, genitive feminine singular	1	right
-2KI 11:11	1	20	ἕως	ἕως	temporal conjunction/preposition	1	until
+2KI 11:11	1	20	ἕως	ἕως	temporal conjunction/preposition	1	as far as
 2KI 11:11	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
 2KI 11:11	1	22	ὠμίας	ὠμία	noun, genitive feminine singular	1	shoulder
 2KI 11:11	1	23	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -328,10 +328,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:11	1	24	οἴκου			2	household
 2KI 11:11	1	25	τῆς	ὁ	article, genitive feminine singular	1	the
 2KI 11:11	1	26	εὐωνύμου	εὐώνυμος	adjective, genitive feminine singular	1	left
-2KI 11:11	1	27	τοῦ	ὁ	article, genitive singular	1	the
+2KI 11:11	1	27	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 11:11	1	28	θυσιαστηρίου	θυσιαστήριον	noun, genitive neuter singular	1	altar
 2KI 11:11	1	29	καὶ	καί	conjunction	1	and
-2KI 11:11	1	30	τοῦ	ὁ	article, genitive singular	1	the
+2KI 11:11	1	30	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 11:11	1	31	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2KI 11:11	1	31	οἴκου			2	household
 2KI 11:11	1	32	ἐπὶ	ἐπί	preposition (case from context)	1	on
@@ -376,10 +376,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:13	1	3	Γοθολία			2	Gotholia
 2KI 11:13	1	4	τὴν	ὁ	article, accusative fem. sg.	1	the
 2KI 11:13	1	5	φωνὴν	φωνή	noun, accusative feminine singular	1	voice
-2KI 11:13	1	6	τῶν	ὁ	article genitive masculine plural	1	the
+2KI 11:13	1	6	τῶν	ὁ	article genitive masculine plural	1	of the
 2KI 11:13	1	7	τρεχόντων	τρέχω	present active participle, genitive masculine plural; used substantivally	1	runners
 2KI 11:13	1	7	τρεχόντων			2	guards
-2KI 11:13	1	8	τοῦ	ὁ	article, genitive singular	1	the
+2KI 11:13	1	8	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 11:13	1	9	λαοῦ	λαός	noun, genitive masculine singular	1	people
 2KI 11:13	1	10	καὶ	καί	conjunction	1	and
 2KI 11:13	1	11	εἰσῆλθε	εἰσέρχομαι	aorist active indicative, third singular; εἰσελθεῖν πρός of marital relations	1	went in
@@ -396,7 +396,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:14	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 11:14	1	6	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2KI 11:14	1	7	εἱστήκει	ἵστημι	pluperfect active indicative, 3rd sg.	1	was standing
-2KI 11:14	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2KI 11:14	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	by
 2KI 11:14	1	9	τοῦ	ὁ	article, genitive singular	1	the
 2KI 11:14	1	10	στύλου	στῦλος	noun, genitive masc. sg. after τοῦ	1	post
 2KI 11:14	1	11	κατὰ	κατά	preposition with the accusative	1	according to
@@ -485,11 +485,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:16	1	6	εἰσῆλθαν	εἰσέρχομαι	aorist middle indicative, third plural	1	they went in
 2KI 11:16	1	7	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 2KI 11:16	1	7	ὁδὸν			2	path
-2KI 11:16	1	8	εἰσόδου	εἴσοδος	noun, genitive feminine singular	1	entry
+2KI 11:16	1	8	εἰσόδου	εἴσοδος	noun, genitive feminine singular	1	of the entry
 2KI 11:16	1	8	εἰσόδου			2	coming in
-2KI 11:16	1	9	τῶν	ὁ	article, genitive masculine plural	1	the
+2KI 11:16	1	9	τῶν	ὁ	article, genitive masculine plural	1	of the
 2KI 11:16	1	10	ἵππων	ἵππος	noun, genitive masculine plural after τῶν	1	horses
-2KI 11:16	1	11	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+2KI 11:16	1	11	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 2KI 11:16	1	11	οἴκου			2	household
 2KI 11:16	1	12	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 11:16	1	13	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
@@ -511,11 +511,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:17	1	12	ἀναμέσον	ἀνὰ μέσον	preposition as one word with genitive, through the midst of	1	between
 2KI 11:17	1	13	τοῦ	ὁ	article, genitive singular	1	the
 2KI 11:17	1	14	λαοῦ	λαός	noun, genitive masculine singular	1	people
-2KI 11:17	1	15	τοῦ	ὁ	article, genitive masculine singular	1	of the
+2KI 11:17	1	15	τοῦ	ὁ	article, genitive masculine singular	1	—
 2KI 11:17	1	16	εἶναι	εἰμί	present infinitive	1	to be
-2KI 11:17	1	17	εἰς	εἰς	preposition with the accusative	1	into
+2KI 11:17	1	17	εἰς	εἰς	preposition with the accusative	1	as
 2KI 11:17	1	18	λαὸν	λαός	noun, accusative masculine singular	1	people
-2KI 11:17	1	19	τῷ	ὁ	article, dative masculine singular	1	to the
+2KI 11:17	1	19	τῷ	ὁ	article, dative masculine singular	1	—
 2KI 11:17	1	20	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 2KI 11:17	1	21	καὶ	καί	conjunction	1	and
 2KI 11:17	1	22	ἀναμέσον	ἀνὰ μέσον	prepositional phrase with genitive following, between	1	between
@@ -531,12 +531,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:18	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 11:18	1	5	λαὸς	λαός	noun, nominative masculine singular	1	people
 2KI 11:18	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
-2KI 11:18	1	7	γῆς	γῆ	noun, genitive feminine singular	1	earth
+2KI 11:18	1	7	γῆς	γῆ	noun, genitive feminine singular	1	land
 2KI 11:18	1	8	εἰς	εἰς	preposition with accusative	1	into
 2KI 11:18	1	9	οἶκον	οἶκος	noun, accusative masculine singular	1	the house
 2KI 11:18	1	9	οἶκον			2	household
 2KI 11:18	1	10	τοῦ	ὁ	article, genitive singular	1	the
-2KI 11:18	1	11	Βάαλ	Βάαλ	indeclinable divine name, dative in context	1	Baal
+2KI 11:18	1	11	Βάαλ	Βάαλ	indeclinable divine name, dative in context	1	of Baal
 2KI 11:18	1	12	καὶ	καί	conjunction	1	and
 2KI 11:18	1	13	κατέσπασαν	κατασπάω	aorist active indicative, third plural	1	they pulled down
 2KI 11:18	1	14	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
@@ -589,22 +589,22 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:19	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 11:19	1	14	λαὸν	λαός	noun, accusative masculine singular	1	people
 2KI 11:19	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
-2KI 11:19	1	16	γῆς	γῆ	noun, genitive feminine singular	1	earth
+2KI 11:19	1	16	γῆς	γῆ	noun, genitive feminine singular	1	land
 2KI 11:19	1	17	καὶ	καί	conjunction	1	and
 2KI 11:19	1	18	κατήγαγον	κατάγω	aorist active indicative, third plural	1	carried down
 2KI 11:19	1	19	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 11:19	1	20	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 2KI 11:19	1	21	ἐξ	ἐκ	preposition with the genitive	1	from
-2KI 11:19	1	22	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
+2KI 11:19	1	22	οἴκου	οἶκος	noun, genitive masculine singular	1	the house
 2KI 11:19	1	23	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2KI 11:19	1	24	καὶ	καί	conjunction	1	and
 2KI 11:19	1	25	εἰσῆλθον	εἰσέρχομαι	aorist active indicative, third plural	1	they entered
 2KI 11:19	1	26	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 2KI 11:19	1	26	ὁδὸν			2	path
-2KI 11:19	1	27	πύλης	πύλη	noun, genitive feminine singular	1	gate
+2KI 11:19	1	27	πύλης	πύλη	noun, genitive feminine singular	1	of the gate
 2KI 11:19	1	28	τῶν	ὁ	article, genitive masculine plural	1	of the
 2KI 11:19	1	29	παρατρεχόντων	παρατρέχω	present active participle, genitive masculine plural	1	runners
-2KI 11:19	1	30	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+2KI 11:19	1	30	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 2KI 11:19	1	30	οἴκου			2	household
 2KI 11:19	1	31	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 11:19	1	32	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
@@ -613,7 +613,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:19	1	35	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 2KI 11:19	1	36	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2KI 11:19	1	37	θρόνου	θρόνος	noun genitive masculine singular	1	throne
-2KI 11:19	1	38	τῶν	ὁ	article, genitive plural	1	the
+2KI 11:19	1	38	τῶν	ὁ	article, genitive plural	1	of the
 2KI 11:19	1	39	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
 2KI 11:20	1	1	Καὶ	καί	conjunction	1	and
 2KI 11:20	1	2	ἐχάρη	χαίρω	aorist passive indicative, third person singular	1	rejoiced
