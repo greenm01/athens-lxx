@@ -33,7 +33,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:2	1	16	τὸν	ὁ	article, accusative masculine singular	1	the
 1MA 13:2	1	17	λαὸν	λαός	noun, accusative masculine singular	1	people
 1MA 13:3	1	1	καὶ	καί	conjunction	1	and
-1MA 13:3	1	2	παρεκάλεσεν	παρακαλέω	aorist active indicative, third singular	1	comforted
+1MA 13:3	1	2	παρεκάλεσεν	παρακαλέω	aorist active indicative, third singular	1	exhorted
 1MA 13:3	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 1MA 13:3	1	4	καὶ	καί	conjunction	1	and
 1MA 13:3	1	5	εἶπεν	λέγω	aorist active indicative, third singular	1	said
@@ -49,7 +49,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:3	1	15	καὶ	καί	conjunction	1	and
 1MA 13:3	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
 1MA 13:3	1	17	οἶκος	οἶκος	noun, nominative masculine singular	1	house
-1MA 13:3	1	18	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
+1MA 13:3	1	18	τοῦ	ὁ	article, genitive masculine/neuter singular	1	of the
 1MA 13:3	1	19	πατρός	πατήρ	noun, genitive masculine singular	1	father
 1MA 13:3	1	20	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 1MA 13:3	1	21	ἐποιήσαμεν	ποιέω	aorist active indicative, first plural	1	we did
@@ -78,7 +78,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:4	1	9	τοῦ	ὁ	article, genitive singular	1	the
 1MA 13:4	1	10	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 1MA 13:4	1	11	καὶ	καί	conjunction	1	and
-1MA 13:4	1	12	κατελείφθην	καταλείπω	aorist passive indicative, first singular	1	I was left
+1MA 13:4	1	12	κατελείφθην	καταλείπω	aorist passive indicative, first singular	1	was left
 1MA 13:4	1	13	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 1MA 13:4	1	14	μόνος	μόνος	adjective, nominative masculine singular	1	alone
 1MA 13:5	1	1	Καὶ	καί	conjunction	1	and
@@ -98,11 +98,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:5	1	15	γάρ	γάρ	causal particle	1	for
 1MA 13:5	1	16	εἰμι	εἰμί	present indicative, 1st sg.	1	I am
 1MA 13:5	1	17	κρείσσων	κρείσσων	comparative adjective, nominative masculine singular	1	better
-1MA 13:5	1	18	τῶν	ὁ	article, genitive masculine plural	1	the
-1MA 13:5	1	19	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	kinsmen
-1MA 13:5	1	19	ἀδελφῶν			2	brothers
+1MA 13:5	1	18	τῶν	ὁ	article, genitive masculine plural	1	than the
+1MA 13:5	1	19	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
+1MA 13:5	1	19	ἀδελφῶν			2	kinsmen
 1MA 13:5	1	20	μου	ἐγώ	personal pronoun genitive first singular	1	my
-1MA 13:6	1	1	Πλὴν	πλήν	preposition/adverb with the genitive	1	except
+1MA 13:6	1	1	Πλὴν	πλήν	preposition/adverb with the genitive	1	but
 1MA 13:6	1	2	ἐκδικήσω	ἐκδικέω	future active indicative, first singular	1	I will avenge
 1MA 13:6	1	3	περὶ	περί	preposition with genitive	1	for
 1MA 13:6	1	4	τοῦ	ὁ	article, genitive singular	1	the
@@ -119,7 +119,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:6	1	15	καὶ	καί	conjunction	1	and
 1MA 13:6	1	16	τῶν	ὁ	article, genitive neuter plural	1	the
 1MA 13:6	1	17	τέκνων	τέκνον	noun, genitive neuter plural	1	children
-1MA 13:6	1	18	ἡμῶν	ἐγώ	personal pronoun, genitive first plural	1	us
+1MA 13:6	1	18	ἡμῶν	ἐγώ	personal pronoun, genitive first plural	1	our
 1MA 13:6	1	19	ὅτι	ὅτι	causal conjunction	1	because
 1MA 13:6	1	20	συνήχθησαν	συνάγω	aorist passive indicative third plural	1	gathered together
 1MA 13:6	1	21	πάντα	πᾶς	adjective, accusative neuter plural	1	all
@@ -133,7 +133,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:7	1	2	ἀνεζωπύρησε	ἀναζωπυρέω	aorist active indicative, third singular, revived (spirit as subject in sense, intransitive use)	1	revived
 1MA 13:7	1	3	τὸ	ὁ	article, neuter singular (case from context)	1	the
 1MA 13:7	1	4	πνεῦμα	πνεῦμα	noun, accusative neuter singular	1	spirit
-1MA 13:7	1	5	τοῦ	ὁ	article, genitive singular	1	the
+1MA 13:7	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 1MA 13:7	1	6	λαοῦ	λαός	noun, genitive masculine singular	1	people
 1MA 13:7	1	7	ἅμα	ἅμα	adverb with dative	1	upon
 1MA 13:7	1	8	τῷ	ὁ	article, dative neuter singular, with the infinitive ἀκοῦσαι in a temporal construction with ἅμα, article with infinitive	1	—
@@ -153,7 +153,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:8	1	10	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
 1MA 13:8	1	11	Ἰούδου	Ἰούδας	noun, genitive masculine singular	1	Judas
 1MA 13:8	1	12	καὶ	καί	conjunction	1	and
-1MA 13:8	1	13	Ἰωνάθου	Ἰωνάθης	noun, genitive masculine singular	1	of Jonathan
+1MA 13:8	1	13	Ἰωνάθου	Ἰωνάθης	noun, genitive masculine singular	1	Jonathan
 1MA 13:8	1	14	τοῦ	ὁ	article, genitive singular	1	the
 1MA 13:8	1	15	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
 1MA 13:8	1	16	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -200,7 +200,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:11	1	7	καὶ	καί	conjunction	1	and
 1MA 13:11	1	8	μετ᾽	μετά	elided preposition with the genitive	1	with
 1MA 13:11	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
-1MA 13:11	1	10	δύναμιν	δύναμις	noun accusative feminine singular	1	strength
+1MA 13:11	1	10	δύναμιν	δύναμις	noun accusative feminine singular	1	force
 1MA 13:11	1	11	ἱκανὴν	ἱκανός	adjective, accusative feminine singular	1	large
 1MA 13:11	1	12	εἰς	εἰς	preposition with the accusative	1	to
 1MA 13:11	1	12	εἰς			2	into
@@ -209,7 +209,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:11	1	14	καὶ	καί	conjunction	1	and
 1MA 13:11	1	15	ἐξέβαλε	ἐκβάλλω	aorist active indicative, third singular	1	he drove out
 1MA 13:11	1	15	ἐξέβαλε			2	he cast out
-1MA 13:11	1	16	τοὺς	ὁ	article, accusative masculine plural	1	the
+1MA 13:11	1	16	τοὺς	ὁ	article, accusative masculine plural	1	those
 1MA 13:11	1	17	ἐν	ἐν	preposition with the dative	1	in
 1MA 13:11	1	18	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 1MA 13:11	1	19	ὄντας	εἰμί	present active participle, accusative masculine plural	1	who were
@@ -252,7 +252,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:14	1	1	Καὶ	καί	conjunction	1	and
 1MA 13:14	1	2	ἐπέγνω	ἐπιγιγνώσκω	aorist active indicative, third singular	1	recognized
 1MA 13:14	1	3	Τρύφων	Τρύφων	noun, nominative masculine singular	1	Tryphon
-1MA 13:14	1	4	ὅτι	ὅτι	causal conjunction	1	because
+1MA 13:14	1	4	ὅτι	ὅτι	causal conjunction	1	that
 1MA 13:14	1	5	ἀνέστη	ἀνίστημι	aorist active indicative, third singular	1	rose up
 1MA 13:14	1	6	Σίμων	Σίμων	noun, nominative masculine singular	1	Simon
 1MA 13:14	1	7	ἀντὶ	ἀντί	preposition with the genitive	1	in place of
@@ -284,7 +284,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:15	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 1MA 13:15	1	7	ἀδελφός	ἀδελφός	noun, nominative masculine singular	1	brother
 1MA 13:15	1	8	σου	σύ	pronoun, possessive genitive second singular	1	your
-1MA 13:15	1	9	εἰς	εἰς	preposition with the accusative	1	so as
+1MA 13:15	1	9	εἰς	εἰς	preposition with the accusative	1	to
 1MA 13:15	1	10	τὸ	ὁ	article, accusative neuter singular	1	the
 1MA 13:15	1	11	βασιλικὸν	βασιλικός	substantival adjective, accusative neuter singular	1	royal treasury
 1MA 13:15	1	12	δι᾽	διά	elided preposition with the accusative	1	because of
@@ -336,7 +336,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:17	1	17	μήποτε	μήποτε	conjunction	1	lest
 1MA 13:17	1	18	ἔχθραν	ἔχθρα	noun, accusative feminine singular	1	enmity
 1MA 13:17	1	18	ἔχθραν			2	hostility
-1MA 13:17	1	19	ἄρῃ	αἴρω	aorist active subjunctive, third singular	1	arise
+1MA 13:17	1	19	ἄρῃ	αἴρω	aorist active subjunctive, third singular	1	he incur
 1MA 13:17	1	20	μεγάλην	μέγας	adjective, accusative feminine singular	1	great
 1MA 13:17	1	21	πρὸς	πρός	preposition with the accusative	1	to
 1MA 13:17	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -344,7 +344,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:18	1	1	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 1MA 13:18	1	2	ὅτι	ὅτι	conjunction giving the substance of the complaint	1	that
 1MA 13:18	1	3	οὐκ	οὐ	negative particle	1	not
-1MA 13:18	1	4	ἀπέστειλα	ἀποστέλλω	aorist active indicative, first singular	1	sent
+1MA 13:18	1	4	ἀπέστειλα	ἀποστέλλω	aorist active indicative, first singular	1	I sent
 1MA 13:18	1	5	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 1MA 13:18	1	6	τὸ	ὁ	article, accusative neuter singular	1	the
 1MA 13:18	1	7	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular after τὸ, silver/money (from context)	1	silver
@@ -364,7 +364,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:19	1	10	διεψεύσατο	διαψεύδομαι	aorist middle indicative, third singular	1	broke his word
 1MA 13:19	1	11	καὶ	καί	conjunction	1	and
 1MA 13:19	1	12	οὐκ	οὐ	negative particle	1	not
-1MA 13:19	1	13	ἀφῆκε	ἀφίημι	aorist active indicative, third singular	1	release
+1MA 13:19	1	13	ἀφῆκε	ἀφίημι	aorist active indicative, third singular	1	released
 1MA 13:19	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 1MA 13:19	1	15	Ἰωνάθαν	Ἰωνάθαν	indeclinable personal name, nominative in context	1	Jonathan
 1MA 13:20	1	1	Καὶ	καί	conjunction	1	and
@@ -462,8 +462,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:23	1	1	Ὡς	ὡς	comparative particle	1	as
 1MA 13:23	1	2	δὲ	δέ	postpositive conjunction	1	and
 1MA 13:23	1	3	ἤγγισε	ἐγγίζω	aorist active indicative, 3rd sg. intransitive as earlier transitive entries vary; here 'he drew near'	1	he came near
-1MA 13:23	1	4	τῇ	ὁ	article, dative feminine singular	1	the
-1MA 13:23	1	5	Βασκαμᾷ	Βασκαμά	noun, dative feminine singular	1	Baskama
+1MA 13:23	1	4	τῇ	ὁ	article, dative feminine singular	1	to
+1MA 13:23	1	5	Βασκαμᾷ	Βασκαμά	noun, dative feminine singular	1	Bascama
 1MA 13:23	1	6	ἀπέκτεινε	ἀποκτείνω	aorist active indicative, 3rd sg.	1	killed
 1MA 13:23	1	7	τὸν	ὁ	article, accusative masculine singular	1	the
 1MA 13:23	1	8	Ἰωνάθαν	Ἰωνάθαν	indeclinable personal name, nominative in context	1	Jonathan
@@ -494,7 +494,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:25	1	13	ἔθαψαν	θάπτω	aorist active indicative, third plural (subject unexpressed)	1	they buried
 1MA 13:25	1	14	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
 1MA 13:25	1	15	ἐν	ἐν	preposition with the dative	1	in
-1MA 13:25	1	16	Μωδεεὶμ	Μωδεείμ	indeclinable proper noun, place name	1	Modeim
+1MA 13:25	1	16	Μωδεεὶμ	Μωδεείμ	indeclinable proper noun, place name	1	Modin
 1MA 13:25	1	17	πόλει	πόλις	noun, dative feminine singular	1	a city
 1MA 13:25	1	18	τῶν	ὁ	article, genitive masculine plural	1	of the
 1MA 13:25	1	19	πατέρων	πατήρ	noun, genitive masculine plural after τῶν	1	fathers
@@ -502,8 +502,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:26	1	1	Καὶ	καί	conjunction	1	and
 1MA 13:26	1	2	ἐκόψαντο	κόπτομαι	aorist middle indicative, third plural with cognate accusative κοπετὸν, beat the breast in lamentation	1	wailed
 1MA 13:26	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-1MA 13:26	1	4	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
-1MA 13:26	1	5	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
+1MA 13:26	1	4	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
+1MA 13:26	1	5	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 1MA 13:26	1	6	κοπετὸν	κοπετός	noun, accusative masculine singular, lamentation	1	lamentation
 1MA 13:26	1	7	μέγαν	μέγας	adjective, accusative masculine singular with κοπετὸν	1	great
 1MA 13:26	1	8	καὶ	καί	conjunction	1	and
@@ -521,7 +521,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:27	1	8	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 1MA 13:27	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 1MA 13:27	1	10	καὶ	καί	conjunction	1	and
-1MA 13:27	1	11	τῶν	ὁ	article, genitive masculine plural	1	the
+1MA 13:27	1	11	τῶν	ὁ	article, genitive masculine plural	1	of the
 1MA 13:27	1	12	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 1MA 13:27	1	13	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 1MA 13:27	1	14	καὶ	καί	conjunction	1	and
@@ -537,7 +537,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:27	1	24	καὶ	καί	conjunction	1	and
 1MA 13:27	1	25	ἐκ	ἐκ	preposition with the genitive	1	from
 1MA 13:27	1	26	τῶν	ὁ	article, genitive plural	1	the
-1MA 13:27	1	27	ἔμπροσθεν	ἔμπροσθεν	preposition with genitive	1	ahead of
+1MA 13:27	1	27	ἔμπροσθεν	ἔμπροσθεν	preposition with genitive	1	front
 1MA 13:28	1	1	Καὶ	καί	conjunction	1	and
 1MA 13:28	1	2	ἔστησεν	ἵστημι	aorist active indicative, third singular	1	set up
 1MA 13:28	1	2	ἔστησεν			2	placed
@@ -561,7 +561,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:28	1	18	τέσσαρσιν	τέσσαρες	cardinal numeral, dative masculine plural modifying ἀδελφοῖς	1	four
 1MA 13:28	1	19	ἀδελφοῖς	ἀδελφός	noun, dative masculine plural	1	brothers
 1MA 13:29	1	1	Καὶ	καί	conjunction	1	and
-1MA 13:29	1	2	ταύταις	οὗτος	demonstrative pronoun, dative feminine plural	1	these
+1MA 13:29	1	2	ταύταις	οὗτος	demonstrative pronoun, dative feminine plural	1	for these
 1MA 13:29	1	3	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
 1MA 13:29	1	4	μηχανήματα	μηχάνημα	noun, accusative neuter plural	1	structures
 1MA 13:29	1	5	περιθεὶς	περιτίθημι	aorist active participle, nominative masculine singular	1	having placed around
@@ -578,16 +578,16 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:29	1	15	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 1MA 13:29	1	16	αἰώνιον	αἰώνιος	adjective, nominative neuter singular	1	everlasting
 1MA 13:29	1	17	καὶ	καί	conjunction	1	and
-1MA 13:29	1	18	παρὰ	παρά	preposition with genitive	1	on
+1MA 13:29	1	18	παρὰ	παρά	preposition with genitive	1	beside
 1MA 13:29	1	19	ταῖς	ὁ	article, dative feminine plural	1	the
 1MA 13:29	1	20	πανοπλίαις	πανοπλία	noun, dative feminine plural	1	suits of armor
 1MA 13:29	1	21	πλοῖα	πλοῖον	noun, nominative neuter plural; direct address	1	ships
 1MA 13:29	1	22	ἐπιγεγλυμμένα	ἐπιγλύφω	perfect passive participle, accusative neuter plural	1	carved
-1MA 13:29	1	23	εἰς	εἰς	preposition with the accusative	1	into
+1MA 13:29	1	23	εἰς	εἰς	preposition with the accusative	1	so as
 1MA 13:29	1	24	τὸ	ὁ	article, accusative neuter singular	1	the
 1MA 13:29	1	25	θεωρεῖσθαι	θεωρέω	present passive infinitive	1	to be seen
 1MA 13:29	1	26	ὑπὸ	ὑπό	preposition with the accusative	1	by
-1MA 13:29	1	27	πάντων	πᾶς	substantival adjective, genitive masculine plural	1	of all
+1MA 13:29	1	27	πάντων	πᾶς	substantival adjective, genitive masculine plural	1	all
 1MA 13:29	1	28	τῶν	ὁ	article, genitive plural	1	—
 1MA 13:29	1	29	πλεόντων	πλέω	present active participle, genitive masculine plural	1	who sail
 1MA 13:29	1	30	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -598,7 +598,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:30	1	4	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
 1MA 13:30	1	5	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	made
 1MA 13:30	1	6	ἐν	ἐν	preposition with the dative	1	in
-1MA 13:30	1	7	Μωδεὶμ	Μωδείμ	indeclinable proper noun, place name	1	Modeim
+1MA 13:30	1	7	Μωδεὶμ	Μωδείμ	indeclinable proper noun, place name	1	Modin
 1MA 13:30	1	8	ἕως	ἕως	preposition with genitive	1	until
 1MA 13:30	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 1MA 13:30	1	10	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
@@ -606,11 +606,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:31	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 1MA 13:31	1	2	δὲ	δέ	postpositive conjunction	1	and
 1MA 13:31	1	3	Τρύφων	Τρύφων	noun, nominative masculine singular	1	Tryphon
-1MA 13:31	1	4	ἐπορεύετο	πορεύομαι	imperfect middle indicative, third singular	1	kept moving
+1MA 13:31	1	4	ἐπορεύετο	πορεύομαι	imperfect middle indicative, third singular	1	dealt
 1MA 13:31	1	4	ἐπορεύετο			2	was surging
 1MA 13:31	1	5	δόλῳ	δόλος	noun, dative masculine singular	1	with deceit
 1MA 13:31	1	6	μετὰ	μετά	preposition with genitive	1	with
-1MA 13:31	1	7	Ἀντιόχου	Ἀντίοχος	noun, genitive masculine singular	1	of Antiochus
+1MA 13:31	1	7	Ἀντιόχου	Ἀντίοχος	noun, genitive masculine singular	1	Antiochus
 1MA 13:31	1	8	τοῦ	ὁ	article, genitive singular	1	the
 1MA 13:31	1	9	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 1MA 13:31	1	10	τοῦ	ὁ	article, genitive masculine singular	1	the
@@ -627,8 +627,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:32	1	6	περιέθετο	περιτίθημι	aorist middle indicative, third singular	1	put on
 1MA 13:32	1	7	τὸ	ὁ	article, accusative neuter singular	1	the
 1MA 13:32	1	8	διάδημα	διάδημα	noun, accusative neuter singular	1	diadem
-1MA 13:32	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
-1MA 13:32	1	10	Ἀσίας	Ἀσία	noun, genitive feminine singular	1	Asia
+1MA 13:32	1	9	τῆς	ὁ	article, genitive feminine singular	1	—
+1MA 13:32	1	10	Ἀσίας	Ἀσία	noun, genitive feminine singular	1	of Asia
 1MA 13:32	1	11	καὶ	καί	conjunction	1	and
 1MA 13:32	1	12	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
 1MA 13:32	1	13	πληγὴν	πληγή	noun, accusative feminine singular	1	blow
@@ -642,7 +642,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:33	1	4	τὰ	ὁ	article, neuter plural (case from context)	1	the
 1MA 13:33	1	5	ὀχυρώματα	ὀχύρωμα	noun, accusative neuter plural	1	fortifications
 1MA 13:33	1	5	ὀχυρώματα			2	strongholds
-1MA 13:33	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
+1MA 13:33	1	6	τῆς	ὁ	article, genitive feminine singular	1	of
 1MA 13:33	1	7	Ἰουδαίας	Ἰουδαία	noun, genitive feminine singular; place name	1	Judea
 1MA 13:33	1	7	Ἰουδαίας			2	Judah
 1MA 13:33	1	8	καὶ	καί	conjunction	1	and
@@ -677,14 +677,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:34	1	11	τοῦ	ὁ	article, genitive neuter singular	1	the
 1MA 13:34	1	12	ποιῆσαι	ποιέω	aorist active infinitive	1	to make
 1MA 13:34	1	13	ἄφεσιν	ἄφεσις	noun, accusative feminine singular	1	an exemption
-1MA 13:34	1	14	τῇ	ὁ	article, dative feminine singular	1	the
+1MA 13:34	1	14	τῇ	ὁ	article, dative feminine singular	1	for the
 1MA 13:34	1	15	χώρᾳ	χώρα	noun, dative feminine singular	1	country
 1MA 13:34	1	15	χώρᾳ			2	region
 1MA 13:34	1	16	ὅτι	ὅτι	causal conjunction	1	because
 1MA 13:34	1	17	πᾶσαι	πᾶς	adjective, nominative feminine plural	1	all
 1MA 13:34	1	18	αἱ	ὁ	article, nominative feminine plural	1	the
 1MA 13:34	1	19	πράξεις	πρᾶξις	noun, nominative feminine plural	1	deeds
-1MA 13:34	1	20	Τρύφωνος	Τρύφων	noun, genitive masculine singular	1	Tryphon
+1MA 13:34	1	20	Τρύφωνος	Τρύφων	noun, genitive masculine singular	1	of Tryphon
 1MA 13:34	1	21	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 1MA 13:34	1	22	ἁρπαγαί	ἁρπαγή	noun, nominative feminine plural	1	plunderings
 1MA 13:35	1	1	Καὶ	καί	conjunction	1	and
@@ -711,12 +711,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:36	1	4	ἀρχιερεῖ	ἀρχιερεύς	noun, dative masculine singular	1	the high priest
 1MA 13:36	1	5	καὶ	καί	conjunction	1	and
 1MA 13:36	1	6	φίλῳ	φίλος	adjective, dative masculine singular	1	friend
-1MA 13:36	1	7	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	of the king
+1MA 13:36	1	7	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	of kings
 1MA 13:36	1	8	καὶ	καί	conjunction	1	and
 1MA 13:36	1	9	πρεσβυτέροις	πρεσβύτερος	adjective, dative masculine plural; substantival	1	elders
 1MA 13:36	1	10	καὶ	καί	conjunction	1	and
 1MA 13:36	1	11	ἔθνει	ἔθνος	noun, dative neuter singular	1	nation
-1MA 13:36	1	12	Ἰουδαίων	Ἰουδαῖος	adjective, genitive masculine plural; substantival	1	Judeans
+1MA 13:36	1	12	Ἰουδαίων	Ἰουδαῖος	adjective, genitive masculine plural; substantival	1	of Judeans
 1MA 13:36	1	13	χαίρειν	χαίρω	present active infinitive	1	greetings
 1MA 13:37	1	1	Τὸν	ὁ	article, accusative masculine singular	1	the
 1MA 13:37	1	2	στέφανον	στέφανος	noun, accusative masculine singular	1	crown
@@ -738,8 +738,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:37	1	18	μεγάλην	μέγας	adjective, accusative feminine singular	1	great
 1MA 13:37	1	19	καὶ	καί	conjunction	1	and
 1MA 13:37	1	20	γράφειν	γράφω	present active infinitive	1	to write
-1MA 13:37	1	21	τοῖς	ὁ	article, dative neuter plural	1	the
-1MA 13:37	1	22	ἐπὶ	ἐπί	preposition (case from context)	1	on
+1MA 13:37	1	21	τοῖς	ὁ	article, dative neuter plural	1	to those
+1MA 13:37	1	22	ἐπὶ	ἐπί	preposition (case from context)	1	over
 1MA 13:37	1	23	τῶν	ὁ	article, genitive feminine plural	1	the
 1MA 13:37	1	24	χρειῶν	χρεία	noun, genitive feminine plural	1	affairs
 1MA 13:37	1	25	τοῦ	ὁ	article, genitive singular	1	the
@@ -778,8 +778,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:39	1	15	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
 1MA 13:39	1	16	ὠφείλετε	ὀφείλω	imperfect active indicative, second plural	1	you owed
 1MA 13:39	1	17	καὶ	καί	conjunction	1	and
-1MA 13:39	1	18	εἴτι	εἴτι	indefinite expression	1	if in anything
-1MA 13:39	1	19	ἄλλο	ἄλλος	adjective, accusative neuter singular; substantival	1	other thing
+1MA 13:39	1	18	εἴτι	εἴτι	indefinite expression	1	if anything
+1MA 13:39	1	19	ἄλλο	ἄλλος	adjective, accusative neuter singular; substantival	1	other
 1MA 13:39	1	19	ἄλλο			2	else
 1MA 13:39	1	20	ἐτελωνεῖτο	τελωνέω	imperfect passive indicative, third singular	1	was taxed
 1MA 13:39	1	21	ἐν	ἐν	preposition with the dative	1	in
@@ -793,12 +793,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:40	1	5	ἡμῶν	ἐγώ	first-person plural personal pronoun, genitive	1	of us
 1MA 13:40	1	6	γραφῆναι	γράφω	aorist passive infinitive	1	to be written
 1MA 13:40	1	7	εἰς	εἰς	preposition with the accusative	1	into
-1MA 13:40	1	8	τοὺς	ὁ	article accusative masculine plural	1	the
-1MA 13:40	1	9	περὶ	περί	preposition with genitive	1	under
+1MA 13:40	1	8	τοὺς	ὁ	article accusative masculine plural	1	those
+1MA 13:40	1	9	περὶ	περί	preposition with genitive	1	around
 1MA 13:40	1	10	ἡμᾶς	ἐγώ	first person plural personal pronoun, accusative	1	us
 1MA 13:40	1	11	ἐγγραφέσθωσαν	ἐγγράφω	aorist passive imperative, third plural	1	let them be enrolled
 1MA 13:40	1	12	καὶ	καί	conjunction	1	and
-1MA 13:40	1	13	γινέσθω	γίνομαι	present middle imperative, third singular	1	let it be done
+1MA 13:40	1	13	γινέσθω	γίνομαι	present middle imperative, third singular	1	let there be
 1MA 13:40	1	14	ἀναμέσον	ἀναμέσον	preposition with genitive	1	between
 1MA 13:40	1	15	ἡμῶν	ἐγώ	pronoun, genitive first plural	1	us
 1MA 13:40	1	16	εἰρήνη	εἰρήνη	noun, nominative feminine singular	1	peace
@@ -808,12 +808,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:41	1	4	ἤρθη	αἴρω	aorist passive indicative, third singular	1	was removed
 1MA 13:41	1	4	ἤρθη			2	was taken away
 1MA 13:41	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
-1MA 13:41	1	6	ζυγὸς	ζυγός	noun, nominative masculine singular	1	a yoke
-1MA 13:41	1	7	τῶν	ὁ	article, genitive plural	1	the
+1MA 13:41	1	6	ζυγὸς	ζυγός	noun, nominative masculine singular	1	yoke
+1MA 13:41	1	7	τῶν	ὁ	article, genitive plural	1	of the
 1MA 13:41	1	8	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 1MA 13:41	1	9	ἀπὸ	ἀπό	preposition with the genitive	1	from
 1MA 13:41	1	10	τοῦ	ὁ	article, genitive singular	1	the
-1MA 13:41	1	11	Ἰσραήλ	Ἰσραήλ	article, genitive masculine singular, article with a name	1	—
+1MA 13:41	1	11	Ἰσραήλ	Ἰσραήλ	article, genitive masculine singular, article with a name	1	Israel
 1MA 13:42	1	1	Καὶ	καί	conjunction	1	and
 1MA 13:42	1	2	ἤρξατο	ἄρχω	aorist middle indicative, third singular	1	began
 1MA 13:42	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -835,7 +835,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:42	1	19	στρατηγοῦ	στρατηγός	noun, genitive masculine singular	1	commander
 1MA 13:42	1	20	καὶ	καί	conjunction	1	and
 1MA 13:42	1	21	ἡγουμένου	ἡγέομαι	present middle/passive participle, genitive masculine singular	1	leader
-1MA 13:42	1	22	Ἰουδαίων	Ἰουδαῖος	adjective, genitive masculine plural; substantival	1	Judeans
+1MA 13:42	1	22	Ἰουδαίων	Ἰουδαῖος	adjective, genitive masculine plural; substantival	1	of Judeans
 1MA 13:43	1	1	Ἐν	ἐν	preposition with the dative	1	in
 1MA 13:43	1	2	ταῖς	ὁ	article, dative feminine plural	1	the
 1MA 13:43	1	3	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
@@ -846,7 +846,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:43	1	7	ἐπὶ	ἐπί	preposition (accusative)	1	upon
 1MA 13:43	1	8	Γάζαν	Γάζα	noun, accusative feminine singular	1	Gaza
 1MA 13:43	1	9	καὶ	καί	conjunction	1	and
-1MA 13:43	1	10	ἐκύκλωσεν	κυκλόω	aorist active indicative, 3rd sg. with accusative ὁδὸν, made go round/led round	1	led round
+1MA 13:43	1	10	ἐκύκλωσεν	κυκλόω	aorist active indicative, 3rd sg. with accusative ὁδὸν, made go round/led round	1	surrounded
 1MA 13:43	1	11	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 1MA 13:43	1	12	παρεμβολαῖς	παρεμβολή	noun, dative feminine plural	1	with camps
 1MA 13:43	1	13	καὶ	καί	conjunction	1	and
@@ -854,7 +854,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:43	1	15	ἑλεπόλεις	ἑλέπολις	noun, accusative feminine plural	1	siege towers
 1MA 13:43	1	16	καὶ	καί	conjunction	1	and
 1MA 13:43	1	17	προσήγαγε	προσάγω	aorist active indicative, third singular	1	brought up
-1MA 13:43	1	18	τῇ	ὁ	article, dative feminine singular	1	the
+1MA 13:43	1	18	τῇ	ὁ	article, dative feminine singular	1	to the
 1MA 13:43	1	19	πόλει	πόλις	noun, dative feminine singular	1	city
 1MA 13:43	1	20	καὶ	καί	conjunction	1	and
 1MA 13:43	1	21	ἐπάταξε	πατάσσω	aorist active indicative, third singular	1	struck
@@ -864,7 +864,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:43	1	25	κατελάβετο	καταλαμβάνω	aorist middle indicative, third singular	1	he seized
 1MA 13:44	1	1	Καὶ	καί	conjunction	1	and
 1MA 13:44	1	2	ἐξήλλοντο	ἐξάλλομαι	imperfect middle indicative, third plural	1	were leaping out
-1MA 13:44	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
+1MA 13:44	1	3	οἱ	ὁ	article, nominative masculine plural	1	those
 1MA 13:44	1	4	ἐν	ἐν	preposition with the dative	1	in
 1MA 13:44	1	5	τῇ	ὁ	article, dative feminine singular	1	the
 1MA 13:44	1	6	ἑλεπόλει	ἑλέπολις	noun, dative feminine singular	1	siege tower
@@ -880,7 +880,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:44	1	16	πόλει	πόλις	noun, dative feminine singular	1	city
 1MA 13:45	1	1	Καὶ	καί	conjunction	1	and
 1MA 13:45	1	2	ἀνέβησαν	ἀναβαίνω	aorist active indicative, third plural	1	went up
-1MA 13:45	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
+1MA 13:45	1	3	οἱ	ὁ	article, nominative masculine plural	1	those
 1MA 13:45	1	4	ἐν	ἐν	preposition with the dative	1	in
 1MA 13:45	1	5	τῇ	ὁ	article, dative feminine singular	1	the
 1MA 13:45	1	6	πόλει	πόλις	noun, dative feminine singular	1	city
@@ -912,7 +912,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:46	1	2	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
 1MA 13:46	1	3	μὴ	μή	interrogative particle	1	not
 1MA 13:46	1	4	ἡμῖν	ἐγώ	personal pronoun dative first plural	1	to us
-1MA 13:46	1	5	χρήσῃ	χράομαι	future middle indicative, second singular	1	you will deal
+1MA 13:46	1	5	χρήσῃ	χράομαι	future middle indicative, second singular	1	deal
 1MA 13:46	1	6	κατὰ	κατά	preposition with accusative	1	according to
 1MA 13:46	1	7	τὰς	ὁ	article accusative feminine plural	1	the
 1MA 13:46	1	8	πονηρίας	πονηρία	noun, genitive fem. sg	1	wrongdoings
@@ -952,7 +952,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:47	1	26	εἰσῆλθεν	εἰσέρχομαι	aorist active indicative, third singular	1	entered
 1MA 13:47	1	27	εἰς	εἰς	preposition with the accusative	1	into
 1MA 13:47	1	28	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
-1MA 13:47	1	29	ὑμνῶν	ὕμνος	noun, genitive masculine plural	1	hymns
+1MA 13:47	1	29	ὑμνῶν	ὕμνος	noun, genitive masculine plural	1	singing hymns
 1MA 13:47	1	30	καὶ	καί	conjunction	1	and
 1MA 13:47	1	31	εὐλογῶν	εὐλογέω	present active participle, nominative masculine singular	1	blessing
 1MA 13:48	1	1	Καὶ	καί	conjunction	1	and
@@ -1073,12 +1073,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:51	1	39	ἐχθρὸς	ἐχθρός	noun, nominative masc. sg	1	enemy
 1MA 13:51	1	40	μέγας	μέγας	adjective, nominative masculine singular	1	great
 1MA 13:51	1	41	ἐξ	ἐκ	preposition with the genitive	1	from
-1MA 13:51	1	42	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
+1MA 13:51	1	42	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 1MA 13:52	1	1	Καὶ	καί	conjunction	1	and
 1MA 13:52	1	2	ἔστησε	ἵστημι	aorist active indicative, 3rd sg.	1	established
-1MA 13:52	1	3	κατ᾽	κατά	elided preposition with the accusative of direction	1	toward
+1MA 13:52	1	3	κατ᾽	κατά	elided preposition with the accusative of direction	1	each
 1MA 13:52	1	4	ἐνιαυτὸν	ἐνιαυτός	noun, accusative masculine singular	1	year
-1MA 13:52	1	5	τοῦ	ὁ	article, genitive masculine singular	1	of the
+1MA 13:52	1	5	τοῦ	ὁ	article, genitive masculine singular	1	—
 1MA 13:52	1	6	ἄγειν	ἄγω	present active infinitive	1	to observe
 1MA 13:52	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 1MA 13:52	1	8	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
@@ -1091,7 +1091,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:53	1	2	προσωχύρωσε	προσοχυρόω	aorist active indicative, third singular	1	fortified further
 1MA 13:53	1	3	τὸ	ὁ	article, accusative neuter singular	1	the
 1MA 13:53	1	4	ὄρος	ὄρος	noun, nominative/accusative neut. sg. after τὸ	1	mountain
-1MA 13:53	1	5	τοῦ	ὁ	article, genitive singular	1	the
+1MA 13:53	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 1MA 13:53	1	6	ἱεροῦ	ἱερόν	noun, genitive neuter singular	1	temple
 1MA 13:53	1	7	τὸ	ὁ	article, accusative masculine singular	1	the one
 1MA 13:53	1	8	παρὰ	παρά	preposition with genitive	1	beside
@@ -1103,8 +1103,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:53	1	14	αὐτὸς	αὐτός	emphatic pronoun, nominative masculine singular	1	he
 1MA 13:53	1	14	αὐτὸς			2	he himself
 1MA 13:53	1	15	καὶ	καί	conjunction	1	and
-1MA 13:53	1	16	οἱ	ὁ	article, nominative masculine plural	1	the
-1MA 13:53	1	17	παρ᾽	παρά	preposition with the accusative, elided	1	beside
+1MA 13:53	1	16	οἱ	ὁ	article, nominative masculine plural	1	those
+1MA 13:53	1	17	παρ᾽	παρά	preposition with the accusative, elided	1	with
 1MA 13:53	1	18	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 1MA 13:54	1	1	Καὶ	καί	conjunction	1	and
 1MA 13:54	1	2	ἴδε	ὁράω	aorist active indicative, third singular	1	saw
@@ -1114,7 +1114,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:54	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
 1MA 13:54	1	7	υἱὸν	υἱός	noun, accusative masculine singular	1	son
 1MA 13:54	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-1MA 13:54	1	9	ὅτι	ὅτι	causal conjunction	1	because
+1MA 13:54	1	9	ὅτι	ὅτι	causal conjunction	1	that
 1MA 13:54	1	10	ἀνήρ	ἀνήρ	noun, nominative masculine singular	1	man
 1MA 13:54	1	11	ἐστι	εἰμί	present indicative, third singular	1	is
 1MA 13:54	1	12	καὶ	καί	conjunction	1	and
@@ -1122,7 +1122,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:54	1	14	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 1MA 13:54	1	15	ἡγούμενον	ἡγέομαι	present middle participle, accusative masculine singular; substantival	1	leader
 1MA 13:54	1	15	ἡγούμενον			2	one leading
-1MA 13:54	1	16	τῶν	ὁ	article, genitive plural	1	the
+1MA 13:54	1	16	τῶν	ὁ	article, genitive plural	1	of the
 1MA 13:54	1	17	δυνάμεων	δύναμις	noun, genitive feminine plural	1	forces
 1MA 13:54	1	18	πασῶν	πᾶς	adjective, genitive feminine plural	1	all
 1MA 13:54	1	19	καὶ	καί	conjunction	1	and
