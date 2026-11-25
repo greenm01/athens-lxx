@@ -15,7 +15,7 @@ LJE 1:1	1	11	Βαβυλῶνα	Βαβυλών	noun, accusative feminine singular
 LJE 1:1	1	12	ὑπὸ	ὑπό	Preposition with genitive	1	by
 LJE 1:1	1	13	τοῦ	ὁ	article, genitive singular	1	the
 LJE 1:1	1	14	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
-LJE 1:1	1	15	τῶν	ὁ	article, genitive masculine plural	1	the
+LJE 1:1	1	15	τῶν	ὁ	article, genitive masculine plural	1	of the
 LJE 1:1	1	16	Βαβυλωνίων	Βαβυλώνιος	adjective, genitive masculine plural; substantival	1	Babylonians
 LJE 1:1	1	17	ἀναγγεῖλαι	ἀναγγέλλω	aorist active infinitive	1	to announce
 LJE 1:1	1	17	ἀναγγεῖλαι			2	to make known
@@ -43,7 +43,7 @@ LJE 1:1	1	37	ὑπὸ	ὑπό	Preposition with genitive	1	by
 LJE 1:1	1	38	Ναβουχοδονόσορ	Ναβουχοδονόσορ	noun, genitive masculine singular; indeclinable	1	Nebuchadnezzar
 LJE 1:1	1	39	τοῦ	ὁ	article, genitive singular	1	the
 LJE 1:1	1	40	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
-LJE 1:1	1	41	τῶν	ὁ	article, genitive masculine plural	1	the
+LJE 1:1	1	41	τῶν	ὁ	article, genitive masculine plural	1	of the
 LJE 1:1	1	42	Βαβυλωνίων	Βαβυλώνιος	adjective, genitive masculine plural; substantival	1	Babylonians
 LJE 1:2	1	1	Εἰσελθόντες	εἰσέρχομαι	aorist active participle, nominative masculine plural	1	when you enter
 LJE 1:2	1	1	Εἰσελθόντες			2	having entered
@@ -83,7 +83,7 @@ LJE 1:3	1	9	χρυσοῦς	χρυσοῦς	adjective, accusative masculine plur
 LJE 1:3	1	9	χρυσοῦς			2	made of gold
 LJE 1:3	1	10	καὶ	καί	conjunction	1	and
 LJE 1:3	1	11	ξυλίνους	ξύλινος	adjective, accusative masculine plural	1	wooden
-LJE 1:3	1	12	ἐπ᾽	ἐπί	preposition, elided	1	upon/on
+LJE 1:3	1	12	ἐπ᾽	ἐπί	preposition, elided	1	on
 LJE 1:3	1	13	ὤμοις	ὦμος	noun, dative masculine plural	1	shoulders
 LJE 1:3	1	14	αἰρομένους	αἴρω	present passive participle, accusative masculine plural	1	being carried
 LJE 1:3	1	14	αἰρομένους			2	being borne
@@ -96,9 +96,9 @@ LJE 1:3	1	18	ἔθνεσιν			2	peoples
 LJE 1:4	1	1	Εὐλαβήθητε	εὐλαβέομαι	aorist passive imperative, second plural	1	be on your guard
 LJE 1:4	1	1	Εὐλαβήθητε			2	take care
 LJE 1:4	1	2	οὖν	οὖν	inferential particle	1	then
-LJE 1:4	1	3	μὴ	μή	negative particle	1	not
+LJE 1:4	1	3	μὴ	μή	negative particle	1	lest
 LJE 1:4	1	4	καὶ	καί	conjunction	1	and
-LJE 1:4	1	5	ὑμεῖς	σύ	personal pronoun, nominative plural	1	you (plural)
+LJE 1:4	1	5	ὑμεῖς	σύ	personal pronoun, nominative plural	1	you
 LJE 1:4	1	6	ἀφομοιωθέντες	ἀφομοιόω	aorist passive participle, nominative masculine plural	1	being made like
 LJE 1:4	1	6	ἀφομοιωθέντες			2	being likened
 LJE 1:4	1	7	τοῖς	ὁ	article, dative masculine plural	1	to the
@@ -140,7 +140,7 @@ LJE 1:6	1	2	γὰρ	γάρ	conjunction	1	for
 LJE 1:6	1	3	ἄγγελός	ἄγγελος	noun, nominative masc. sg	1	angel
 LJE 1:6	1	4	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 LJE 1:6	1	5	μεθ᾽	μετά	preposition with the genitive, elided	1	with
-LJE 1:6	1	6	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
+LJE 1:6	1	6	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	you
 LJE 1:6	1	7	ἐστι	εἰμί	present indicative, third singular	1	is
 LJE 1:6	1	8	αὐτός	αὐτός	pronoun, nominative masculine singular	1	he
 LJE 1:6	1	9	τε	τε	postpositive connective particle	1	and
@@ -196,7 +196,7 @@ LJE 1:9	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 LJE 1:9	1	9	ἔστι	εἰμί	present indicative, third singular	1	is
 LJE 1:9	1	10	δὲ	δέ	conjunction	1	and
 LJE 1:9	1	11	καὶ	καί	conjunction	1	also
-LJE 1:9	1	12	ὅτι	ὅτι	conjunction introducing reported content	1	that
+LJE 1:9	1	12	ὅτι	ὅτι	conjunction introducing reported content	1	when
 LJE 1:9	1	13	ὑφαιρούμενοι	ὑφαιρέω	present middle participle, nominative masculine plural	1	pilfering
 LJE 1:9	1	13	ὑφαιρούμενοι			2	taking away secretly
 LJE 1:9	1	14	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -207,7 +207,7 @@ LJE 1:9	1	18	Θεῶν	θεός	noun, genitive masculine plural	1	gods
 LJE 1:9	1	19	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 LJE 1:9	1	20	χρυσίον	χρυσίον	noun, accusative neut. sg., gold	1	gold
 LJE 1:9	1	21	καὶ	καί	conjunction	1	and
-LJE 1:9	1	22	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular	1	the silver
+LJE 1:9	1	22	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular	1	silver
 LJE 1:9	1	23	εἰς	εἰς	Preposition with accusative	1	for
 LJE 1:9	1	24	ἑαυτοὺς	ἑαυτοῦ	reflexive pronoun, accusative masculine plural	1	themselves
 LJE 1:9	1	25	καταναλώσουσι	καταναλίσκω	future active indicative, third plural	1	they will spend
@@ -283,10 +283,10 @@ LJE 1:13	1	3	ἔχει	ἔχω	present active indicative, third singular	1	has
 LJE 1:13	1	4	ὡς	ὡς	comparative particle	1	as
 LJE 1:13	1	5	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 LJE 1:13	1	6	κριτὴς	κριτής	noun, nominative masculine singular	1	judge
-LJE 1:13	1	7	χώρας	χώρα	noun, genitive feminine singular	1	country
+LJE 1:13	1	7	χώρας	χώρα	noun, genitive feminine singular	1	of a country
 LJE 1:13	1	7	χώρας			2	region
 LJE 1:13	1	8	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
-LJE 1:13	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
+LJE 1:13	1	9	τὸν	ὁ	article, accusative masculine singular	1	the one
 LJE 1:13	1	10	εἰς	εἰς	Preposition with accusative	1	against
 LJE 1:13	1	11	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 LJE 1:13	1	12	ἁμαρτάνοντα	ἁμαρτάνω	present active participle, accusative masculine singular	1	who offends
@@ -327,7 +327,7 @@ LJE 1:15	1	1	Ὥσπερ	ὥσπερ	comparative conjunction	1	just as
 LJE 1:15	1	2	γὰρ	γάρ	postpositive conjunction	1	for
 LJE 1:15	1	3	σκεῦος	σκεῦος	noun, nominative neuter singular	1	vessel
 LJE 1:15	1	3	σκεῦος			2	container
-LJE 1:15	1	4	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
+LJE 1:15	1	4	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a man
 LJE 1:15	1	5	συντριβὲν	συντρίβω	aorist passive participle, nominative neuter singular	1	broken
 LJE 1:15	1	5	συντριβὲν			2	smashed
 LJE 1:15	1	6	ἄχρηστον	ἄχρηστος	adjective, nominative neuter singular	1	useless
@@ -356,8 +356,8 @@ LJE 1:16	1	16	κονιορτοῦ	κονιορτός	noun, genitive masculine si
 LJE 1:16	1	17	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LJE 1:16	1	18	τῶν	ὁ	article, genitive masculine plural	1	the
 LJE 1:16	1	19	ποδῶν	πούς	noun, genitive masculine plural	1	feet
-LJE 1:16	1	20	τῶν	ὁ	article, genitive plural	1	the
-LJE 1:16	1	21	εἰσπορευομένων	εἰσπορεύομαι	present middle participle, genitive masculine plural	1	entering
+LJE 1:16	1	20	τῶν	ὁ	article, genitive plural	1	of those
+LJE 1:16	1	21	εἰσπορευομένων	εἰσπορεύομαι	present middle participle, genitive masculine plural	1	who enter
 LJE 1:17	1	1	Καὶ	καί	conjunction	1	and
 LJE 1:17	1	2	ὥσπερ	ὥσπερ	comparative conjunction	1	just as
 LJE 1:17	1	3	τινὶ	τις	Indefinite pronoun; dative masculine singular	1	for someone
@@ -418,7 +418,7 @@ LJE 1:19	1	2	δὲ	δέ	postpositive conjunction	1	and
 LJE 1:19	1	3	ὥσπερ	ὥσπερ	comparative conjunction	1	just as
 LJE 1:19	1	4	δοκὸς	δοκός	noun, nominative feminine singular	1	beam
 LJE 1:19	1	4	δοκὸς			2	timber
-LJE 1:19	1	5	τῶν	ὁ	article, genitive masculine plural	1	the
+LJE 1:19	1	5	τῶν	ὁ	article, genitive masculine plural	1	of the
 LJE 1:19	1	6	ἐκ	ἐκ	preposition with the genitive	1	from
 LJE 1:19	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
 LJE 1:19	1	8	οἰκίας	οἰκία	noun, genitive feminine singular	1	house
@@ -538,7 +538,7 @@ LJE 1:24	1	8	οὐκ	οὐ	negative particle	1	not
 LJE 1:24	1	9	ἔστι	εἰμί	present active indicative, third singular	1	there is
 LJE 1:24	1	10	πνεῦμα	πνεῦμα	noun, nominative neuter singular	1	breath
 LJE 1:24	1	10	πνεῦμα			2	spirit
-LJE 1:25	1	1	Ἄνευ	ἄνευ	preposition with the genitive	1	without/apart from
+LJE 1:25	1	1	Ἄνευ	ἄνευ	preposition with the genitive	1	without
 LJE 1:25	1	2	ποδῶν	πούς	noun, genitive masculine plural	1	feet
 LJE 1:25	1	3	ἐπ᾽	ἐπί	elided preposition with accusative	1	on
 LJE 1:25	1	3	ἐπ᾽			2	upon
@@ -566,7 +566,7 @@ LJE 1:26	1	2	τὸ	ὁ	article, accusative neuter singular	1	the
 LJE 1:26	1	3	εἴποτε	εἴποτε	Conditional conjunction	1	if ever
 LJE 1:26	1	4	ἐπὶ	ἐπί	preposition (case from context)	1	on
 LJE 1:26	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
-LJE 1:26	1	6	γῆν	γῆ	noun, accusative feminine singular	1	land
+LJE 1:26	1	6	γῆν	γῆ	noun, accusative feminine singular	1	ground
 LJE 1:26	1	7	πέσῃ	πίπτω	aorist active subjunctive, third singular	1	it falls
 LJE 1:26	1	8	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
 LJE 1:26	1	9	δι᾽	διά	Preposition with genitive	1	by
@@ -662,7 +662,7 @@ LJE 1:29	1	2	γὰρ	γάρ	postpositive conjunction	1	for
 LJE 1:29	1	3	κληθείησαν	καλέω	aorist passive optative, third plural	1	could they be called
 LJE 1:29	1	3	κληθείησαν			2	might they be called
 LJE 1:29	1	4	θεοί	θεός	noun, nominative masculine plural	1	gods
-LJE 1:29	1	5	ὅτι	ὅτι	conjunction introducing reported content	1	that
+LJE 1:29	1	5	ὅτι	ὅτι	conjunction introducing reported content	1	because
 LJE 1:29	1	6	γυναῖκες	γυνή	noun, nominative feminine plural	1	wives
 LJE 1:29	1	6	γυναῖκες			2	women
 LJE 1:29	1	7	παρατιθέασι	παρατίθημι	present active indicative, third plural	1	set offerings before
@@ -682,7 +682,7 @@ LJE 1:30	1	7	ἱερεῖς	ἱερεύς	noun, nominative masculine plural	1	pr
 LJE 1:30	1	8	διφρεύουσιν	διφρεύω	present active indicative, third plural	1	sit on stools
 LJE 1:30	1	9	ἔχοντες	ἔχω	present active participle, nominative masculine plural	1	having
 LJE 1:30	1	10	τοὺς	ὁ	article, accusative masculine plural	1	the
-LJE 1:30	1	11	χιτῶνας	χιτών	noun, accusative masc. pl	1	tunics/coats
+LJE 1:30	1	11	χιτῶνας	χιτών	noun, accusative masc. pl	1	tunics
 LJE 1:30	1	12	διερρωγότας	διαρρήγνυμι	perfect active participle, accusative masculine plural; intransitive perfect	1	torn
 LJE 1:30	1	12	διερρωγότας			2	rent
 LJE 1:30	1	13	καὶ	καί	conjunction	1	and
@@ -712,7 +712,7 @@ LJE 1:31	1	9	τινὲς	τις	Indefinite pronoun; nominative masculine plural	
 LJE 1:31	1	10	ἐν	ἐν	preposition with the dative	1	in
 LJE 1:31	1	11	περιδείπνῳ	περίδειπνον	noun, dative neuter singular	1	funeral meal
 LJE 1:31	1	11	περιδείπνῳ			2	funeral feast
-LJE 1:31	1	12	νεκροῦ	νεκρός	adjective, genitive masculine singular; used substantivally	1	dead one
+LJE 1:31	1	12	νεκροῦ	νεκρός	adjective, genitive masculine singular; used substantivally	1	of a dead one
 LJE 1:32	1	1	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LJE 1:32	1	2	τοῦ	ὁ	article, genitive singular	1	the
 LJE 1:32	1	3	ἱματισμοῦ	ἱματισμός	noun, genitive masculine singular	1	clothing
@@ -778,7 +778,7 @@ LJE 1:34	1	18	μὴ	μή	negative with subjunctive/optative (wish/prohibition fr
 LJE 1:34	1	19	ἐπιζητήσωσιν	ἐπιζητέω	aorist active subjunctive, third plural	1	they will demand it
 LJE 1:34	1	19	ἐπιζητήσωσιν			2	they will seek it
 LJE 1:35	1	1	ἐκ	ἐκ	preposition with the genitive	1	from
-LJE 1:35	1	2	θανάτου	θάνατος	noun, genitive masculine singular	1	of death
+LJE 1:35	1	2	θανάτου	θάνατος	noun, genitive masculine singular	1	death
 LJE 1:35	1	3	ἄνθρωπον	ἄνθρωπος	noun, accusative masculine singular	1	man
 LJE 1:35	1	4	οὐ	οὐ	negative particle	1	not
 LJE 1:35	1	5	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	at all
@@ -822,7 +822,7 @@ LJE 1:37	1	6	ὀρφανὸν	ὀρφανός	noun/adjective, accusative masc. s
 LJE 1:37	1	7	εὖ	εὖ	adverb of manner	1	well
 LJE 1:37	1	8	ποιήσωσι	ποιέω	aorist active subjunctive, third plural	1	they will treat
 LJE 1:37	1	8	ποιήσωσι			2	they will do
-LJE 1:38	1	1	Τοῖς	ὁ	article, dative neuter plural	1	the
+LJE 1:38	1	1	Τοῖς	ὁ	article, dative neuter plural	1	to the
 LJE 1:38	1	2	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LJE 1:38	1	3	τοῦ	ὁ	article, genitive singular	1	the
 LJE 1:38	1	4	ὄρους	ὄρος	noun, genitive neuter singular	1	mountain
@@ -851,7 +851,7 @@ LJE 1:39	1	1	Πῶς	πῶς	interrogative adverb	1	how
 LJE 1:39	1	2	οὖν	οὖν	inferential particle	1	then
 LJE 1:39	1	3	νομιστέον	νομιστέος	adjective, nominative neuter singular; impersonal verbal adjective	1	should one regard
 LJE 1:39	1	3	νομιστέον			2	must one consider
-LJE 1:39	1	4	ἢ	ἤ	particle	1	than
+LJE 1:39	1	4	ἢ	ἤ	particle	1	or
 LJE 1:39	1	5	κλητέον	κλητέος	adjective, nominative neuter singular; impersonal verbal adjective	1	should one call
 LJE 1:39	1	5	κλητέον			2	must one call
 LJE 1:39	1	6	αὐτοὺς	αὐτός	pronoun, accusative masculine plural; subject of infinitive	1	them
@@ -929,7 +929,7 @@ LJE 1:43	1	5	ἐφελκυσθεῖσα	ἐφέλκω	aorist passive participle,
 LJE 1:43	1	5	ἐφελκυσθεῖσα			2	drawn away
 LJE 1:43	1	6	ὑπό	ὑπό	Preposition with genitive	1	by
 LJE 1:43	1	7	τινος	τις	Indefinite pronoun; genitive masculine singular	1	one
-LJE 1:43	1	8	τῶν	ὁ	article, genitive plural	1	the
+LJE 1:43	1	8	τῶν	ὁ	article, genitive plural	1	of the
 LJE 1:43	1	9	παραπορευομένων	παραπορεύομαι	present middle participle, genitive masculine plural	1	passersby
 LJE 1:43	1	9	παραπορευομένων			2	those passing by
 LJE 1:43	1	10	κοιμηθῇ	κοιμάομαι	aorist passive subjunctive, 3rd singular	1	lies
@@ -1032,7 +1032,7 @@ LJE 1:47	1	16	ἐπιγινομένοις	ἐπιγίνομαι	present middle p
 LJE 1:47	1	16	ἐπιγινομένοις			2	later generations
 LJE 1:48	1	1	Ὅταν	ὅταν	temporal conjunction with subjunctive	1	whenever
 LJE 1:48	1	2	γὰρ	γάρ	conjunction	1	for
-LJE 1:48	1	3	ἐπέλθῃ	ἐπέρχομαι	aorist active subjunctive, third singular	1	may come upon
+LJE 1:48	1	3	ἐπέλθῃ	ἐπέρχομαι	aorist active subjunctive, third singular	1	comes
 LJE 1:48	1	3	ἐπέλθῃ			2	may attack
 LJE 1:48	1	4	ἐπ᾽	ἐπί	Preposition with accusative	1	upon
 LJE 1:48	1	5	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -1100,12 +1100,12 @@ LJE 1:50	1	24	εἰσὶ	εἰμί	present indicative, third plural	1	are
 LJE 1:50	1	25	θεοί	θεός	noun, nominative masculine plural	1	gods
 LJE 1:50	1	26	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 LJE 1:50	1	27	ἔργα	ἔργον	noun, nominative neuter plural	1	works
-LJE 1:50	1	28	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
-LJE 1:50	1	29	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	men
+LJE 1:50	1	28	χειρῶν	χείρ	noun, genitive feminine plural	1	of hands
+LJE 1:50	1	29	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	of men
 LJE 1:50	1	30	καὶ	καί	conjunction	1	and
 LJE 1:50	1	31	οὐδὲν	οὐδείς	adjective, nominative neuter singular	1	no
 LJE 1:50	1	31	οὐδὲν			2	not one
-LJE 1:50	1	32	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+LJE 1:50	1	32	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 LJE 1:50	1	33	ἔργον	ἔργον	noun, accusative neut. sg. as manner 'work/workmanship'	1	work
 LJE 1:50	1	34	ἐν	ἐν	preposition with the dative	1	in
 LJE 1:50	1	35	αὐτοῖς	αὐτός	pronoun, dative neuter plural	1	them
@@ -1121,7 +1121,7 @@ LJE 1:51	1	8	εἰσὶ	εἰμί	present indicative, third plural	1	are
 LJE 1:51	1	9	θεοί	θεός	noun, nominative masculine plural	1	gods
 LJE 1:52	1	1	Βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 LJE 1:52	1	2	γὰρ	γάρ	postpositive conjunction	1	for
-LJE 1:52	1	3	χώρας	χώρα	noun, genitive feminine singular	1	country
+LJE 1:52	1	3	χώρας	χώρα	noun, genitive feminine singular	1	of a country
 LJE 1:52	1	3	χώρας			2	region
 LJE 1:52	1	4	οὐ	οὐ	negative particle in the emphatic negation οὐ μή	1	not
 LJE 1:52	1	5	μὴ	μή	negative particle completing οὐ μή	1	at all
@@ -1158,7 +1158,7 @@ LJE 1:54	1	8	τοῦ	ὁ	article, genitive singular	1	the
 LJE 1:54	1	9	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
 LJE 1:54	1	10	καὶ	καί	conjunction	1	and
 LJE 1:54	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
-LJE 1:54	1	12	γῆς	γῆ	noun, genitive feminine singular	1	land
+LJE 1:54	1	12	γῆς	γῆ	noun, genitive feminine singular	1	earth
 LJE 1:54	1	13	καὶ	καί	conjunction	1	and
 LJE 1:54	1	14	γὰρ	γάρ	postpositive conjunction	1	for
 LJE 1:54	1	15	ὅταν	ὅταν	conjunction	1	whenever
@@ -1166,7 +1166,7 @@ LJE 1:54	1	16	ἐμπέσῃ	ἐμπίπτω	aorist active subjunctive, third si
 LJE 1:54	1	16	ἐμπέσῃ			2	breaks out
 LJE 1:54	1	17	εἰς	εἰς	preposition with the accusative	1	into
 LJE 1:54	1	18	οἰκίαν	οἰκία	noun, accusative feminine singular	1	house
-LJE 1:54	1	19	θεῶν	θεός	noun, genitive masculine plural	1	gods
+LJE 1:54	1	19	θεῶν	θεός	noun, genitive masculine plural	1	of gods
 LJE 1:54	1	20	ξυλίνων	ξύλινος	adjective, genitive masculine plural	1	wooden
 LJE 1:54	1	20	ξυλίνων			2	made of wood
 LJE 1:54	1	21	ἢ	ἤ	disjunctive conjunction	1	or
@@ -1245,7 +1245,7 @@ LJE 1:57	1	9	ἀργύριον	ἀργύριον	noun, nominative/accusative neu
 LJE 1:57	1	10	καὶ	καί	conjunction	1	and
 LJE 1:57	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
 LJE 1:57	1	12	ἱματισμὸν	ἱματισμός	noun, accusative masc. sg	1	clothing
-LJE 1:57	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
+LJE 1:57	1	13	τὸν	ὁ	article, accusative masculine singular	1	—
 LJE 1:57	1	14	περικείμενον	περίκειμαι	present middle participle, accusative masculine singular	1	that lies around
 LJE 1:57	1	14	περικείμενον			2	that is worn by
 LJE 1:57	1	15	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
@@ -1361,7 +1361,7 @@ LJE 1:61	1	4	ἐπιταγῇ	ἐπιτάσσω	aorist passive subjunctive, thir
 LJE 1:61	1	5	ὑπὸ	ὑπό	Preposition with genitive	1	by
 LJE 1:61	1	6	τοῦ	ὁ	article genitive masculine singular	1	the
 LJE 1:61	1	7	Θεοῦ	θεός	noun, genitive masc. sg	1	God
-LJE 1:61	1	8	ἐπιπορεύεσθαι	ἐπιπορεύομαι	present middle infinitive	1	to travel over
+LJE 1:61	1	8	ἐπιπορεύεσθαι	ἐπιπορεύομαι	present middle infinitive	1	to travel
 LJE 1:61	1	8	ἐπιπορεύεσθαι			2	to pass over
 LJE 1:61	1	9	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
 LJE 1:61	1	10	ὅλην	ὅλος	adjective, accusative feminine singular with ἡμέραν/νύκτα	1	whole
@@ -1376,7 +1376,7 @@ LJE 1:62	1	1	Τό	ὁ	article, accusative neuter singular	1	the
 LJE 1:62	1	2	τε	τε	postpositive connective particle	1	and
 LJE 1:62	1	3	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
 LJE 1:62	1	4	ἐξαποσταλὲν	ἐξαποστέλλω	aorist passive participle, nominative neuter singular	1	sent out
-LJE 1:62	1	5	ἄνωθεν	ἄνωθεν	adverb of place	1	above
+LJE 1:62	1	5	ἄνωθεν	ἄνωθεν	adverb of place	1	from above
 LJE 1:62	1	5	ἄνωθεν			2	at the top
 LJE 1:62	1	6	ἐξαναλῶσαι	ἐξαναλίσκω	aorist active infinitive	1	to consume
 LJE 1:62	1	6	ἐξαναλῶσαι			2	to burn up
@@ -1498,7 +1498,7 @@ LJE 1:68	1	5	ἐστὶν	εἰμί	present indicative, third singular	1	is
 LJE 1:68	1	6	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
 LJE 1:68	1	7	φανερὸν	φανερός	adjective, nominative neuter singular	1	plain
 LJE 1:68	1	7	φανερὸν			2	visible
-LJE 1:68	1	8	ὅτι	ὅτι	causal conjunction	1	because
+LJE 1:68	1	8	ὅτι	ὅτι	causal conjunction	1	that
 LJE 1:68	1	9	εἰσὶ	εἰμί	present indicative, third plural	1	are
 LJE 1:68	1	10	θεοί	θεός	noun, nominative masculine plural	1	gods
 LJE 1:68	1	11	διὸ	διό	Inferential conjunction	1	therefore
@@ -1514,7 +1514,7 @@ LJE 1:69	1	4	σικυηράτῳ	σικυήρατον	noun, dative neuter singul
 LJE 1:69	1	4	σικυηράτῳ			2	cucumber garden
 LJE 1:69	1	5	προβασκάνιον	προβασκάνιον	noun, nominative neuter singular	1	scarecrow
 LJE 1:69	1	5	προβασκάνιον			2	deterrent
-LJE 1:69	1	6	οὐδὲν	οὐδείς	pronoun/adjective, accusative neuter singular	1	anything
+LJE 1:69	1	6	οὐδὲν	οὐδείς	pronoun/adjective, accusative neuter singular	1	nothing
 LJE 1:69	1	7	φυλάσσον	φυλάσσω	present active participle, nominative neuter singular	1	guarding
 LJE 1:69	1	7	φυλάσσον			2	keeping watch over
 LJE 1:69	1	8	οὕτως	οὕτως	adverb	1	thus
@@ -1576,7 +1576,7 @@ LJE 1:71	1	5	καὶ	καί	conjunction	1	and
 LJE 1:71	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
 LJE 1:71	1	7	μαρμάρου	μάρμαρος	noun, genitive feminine singular	1	marble
 LJE 1:71	1	7	μαρμάρου			2	polished stone
-LJE 1:71	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
+LJE 1:71	1	8	τῆς	ὁ	article, genitive feminine singular	1	—
 LJE 1:71	1	9	ἐπ᾽	ἐπί	Preposition with genitive	1	on
 LJE 1:71	1	10	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
 LJE 1:71	1	11	σηπομένης	σήπω	present passive participle, genitive feminine singular	1	decaying
@@ -1594,8 +1594,8 @@ LJE 1:71	1	20	ὑστέρου	ὕστερος	adjective, genitive masculine sing
 LJE 1:71	1	20	ὑστέρου			2	in the end
 LJE 1:71	1	21	βρωθήσονται	ἐσθίω	future passive indicative, third plural	1	will be eaten away
 LJE 1:71	1	21	βρωθήσονται			2	will be devoured
-LJE 1:71	1	22	ἀπ᾽	ἀπό	preposition, elided	1	of
-LJE 1:71	1	23	αὐτῶν	αὐτός	pronoun, genitive feminine plural	1	by these
+LJE 1:71	1	22	ἀπ᾽	ἀπό	preposition, elided	1	by
+LJE 1:71	1	23	αὐτῶν	αὐτός	pronoun, genitive feminine plural	1	them
 LJE 1:71	1	23	αὐτῶν			2	from these
 LJE 1:71	1	24	καὶ	καί	conjunction	1	and
 LJE 1:71	1	25	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be

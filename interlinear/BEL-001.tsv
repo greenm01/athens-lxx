@@ -24,7 +24,7 @@ BEL 1:2	1	2	ἦν	εἰμί	imperfect indicative, third singular	1	was
 BEL 1:2	1	3	Δανιὴλ	Δανιήλ	noun, nominative masculine singular; indeclinable	1	Daniel
 BEL 1:2	1	4	συμβιωτὴς	συμβιωτής	noun, nominative masculine singular	1	companion
 BEL 1:2	1	4	συμβιωτὴς			2	associate
-BEL 1:2	1	5	τοῦ	ὁ	article, genitive singular	1	the
+BEL 1:2	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 BEL 1:2	1	6	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 BEL 1:2	1	7	καὶ	καί	conjunction	1	and
 BEL 1:2	1	8	ἔνδοξος	ἔνδοξος	adjective, nominative masculine singular	1	esteemed
@@ -51,7 +51,7 @@ BEL 1:3	1	11	εἰς	εἰς	Preposition with accusative	1	for
 BEL 1:3	1	12	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 BEL 1:3	1	13	ἑκάστης	ἕκαστος	adjective, genitive feminine singular; distributive time expression	1	each
 BEL 1:3	1	14	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
-BEL 1:3	1	15	σεμιδάλεως	σεμίδαλις	noun, genitive feminine singular	1	fine flour
+BEL 1:3	1	15	σεμιδάλεως	σεμίδαλις	noun, genitive feminine singular	1	of fine flour
 BEL 1:3	1	16	ἀρτάβαι	ἀρτάβη	noun, nominative feminine plural	1	artabas
 BEL 1:3	1	16	ἀρτάβαι			2	measures
 BEL 1:3	1	17	δεκαδύο	δεκαδύο	Indeclinable cardinal numeral	1	twelve
@@ -121,7 +121,7 @@ BEL 1:5	1	18	τὴν	ὁ	article, accusative feminine singular	1	the
 BEL 1:5	1	19	γῆν	γῆ	noun, accusative feminine singular	1	earth
 BEL 1:5	1	20	καὶ	καί	conjunction	1	and
 BEL 1:5	1	21	ἔχοντα	ἔχω	present active participle, accusative neuter singular	1	having
-BEL 1:5	1	22	πάσης	πᾶς	adjective, genitive feminine singular	1	all
+BEL 1:5	1	22	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
 BEL 1:5	1	23	σαρκὸς	σάρξ	noun, genitive feminine singular	1	flesh
 BEL 1:5	1	24	κυρείαν	κυρεία	noun, accusative feminine singular	1	dominion
 BEL 1:5	1	24	κυρείαν			2	rule
@@ -140,7 +140,7 @@ BEL 1:6	1	11	ζῶν	ζάω	present active participle, nominative neuter singula
 BEL 1:6	1	11	ζῶν			2	alive
 BEL 1:6	1	12	θεός	θεός	noun, nominative masculine singular; predicate with infinitive	1	a god
 BEL 1:6	1	13	ἢ	ἤ	disjunctive conjunction	1	or
-BEL 1:6	1	14	οὐχ	οὐ	Interrogative negative particle	1	do you not
+BEL 1:6	1	14	οὐχ	οὐ	Interrogative negative particle	1	not
 BEL 1:6	1	15	ὁρᾷς	ὁράω	present active indicative, second singular	1	you see
 BEL 1:6	1	16	ὅσα	ὅσος	adjective, accusative neuter plural; used substantivally	1	how much
 BEL 1:6	1	16	ὅσα			2	all that
@@ -222,7 +222,7 @@ BEL 1:9	1	22	Βήλ	Βήλ	noun, accusative masculine singular; indeclinable	1	B
 BEL 1:9	1	23	καὶ	καί	conjunction	1	and
 BEL 1:9	1	24	εἶπε	λέγω	aorist active indicative, third singular	1	said
 BEL 1:9	1	25	Δανιὴλ	Δανιήλ	noun, nominative masculine singular; indeclinable	1	Daniel
-BEL 1:9	1	26	τῷ	ὁ	article, dative masculine singular	1	the
+BEL 1:9	1	26	τῷ	ὁ	article, dative masculine singular	1	to the
 BEL 1:9	1	27	βασιλεῖ	βασιλεύς	noun, dative masculine singular	1	king
 BEL 1:9	1	28	γινέσθω	γίνομαι	present middle imperative, third singular	1	let it be done
 BEL 1:9	1	28	γινέσθω			2	let it happen
@@ -235,7 +235,7 @@ BEL 1:10	1	1	Καὶ	καί	conjunction	1	and
 BEL 1:10	1	2	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 BEL 1:10	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 BEL 1:10	1	4	ἱερεῖς	ἱερεύς	noun, nominative masculine plural	1	priests
-BEL 1:10	1	5	τοῦ	ὁ	article, genitive singular	1	the
+BEL 1:10	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 BEL 1:10	1	6	Βὴλ	Βήλ	noun, genitive masculine singular; indeclinable	1	Bel
 BEL 1:10	1	7	ἑβδομήκοντα	ἑβδομήκοντα	indeclinable cardinal numeral	1	seventy
 BEL 1:10	1	8	χωρὶς	χωρίς	preposition/improper preposition with the genitive	1	apart from
@@ -259,7 +259,7 @@ BEL 1:11	1	1	Καὶ	καί	conjunction	1	and
 BEL 1:11	1	2	εἶπαν	λέγω	aorist active indicative, third person plural	1	said
 BEL 1:11	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 BEL 1:11	1	4	ἱερεῖς	ἱερεύς	noun, nominative masculine plural	1	priests
-BEL 1:11	1	5	τοῦ	ὁ	article, genitive singular	1	the
+BEL 1:11	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 BEL 1:11	1	6	Βήλ	Βήλ	noun, genitive masculine singular; indeclinable	1	Bel
 BEL 1:11	1	7	ἰδοὺ	ἰδού	presentative particle	1	behold
 BEL 1:11	1	8	ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
@@ -322,7 +322,7 @@ BEL 1:13	1	4	ὅτι	ὅτι	causal conjunction	1	because
 BEL 1:13	1	5	πεποιήκεισαν	ποιέω	pluperfect active indicative, third plural	1	they had made
 BEL 1:13	1	6	ὑπὸ	ὑπό	preposition with the accusative	1	under
 BEL 1:13	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
-BEL 1:13	1	8	τράπεζαν	τράπεζα	noun, accusative fem. sg., table	1	a table
+BEL 1:13	1	8	τράπεζαν	τράπεζα	noun, accusative fem. sg., table	1	table
 BEL 1:13	1	9	κεκρυμμένην	κρύπτω	perfect passive participle, accusative feminine singular	1	hidden
 BEL 1:13	1	9	κεκρυμμένην			2	concealed
 BEL 1:13	1	10	εἴσοδον	εἴσοδος	noun, accusative feminine singular	1	entrance
@@ -388,13 +388,13 @@ BEL 1:14	1	39	ἐν	ἐν	Preposition with dative	1	with
 BEL 1:14	1	40	τῷ	ὁ	article, dative masculine singular	1	the
 BEL 1:14	1	41	δακτυλίῳ	δακτύλιος	noun, dative masculine singular	1	signet ring
 BEL 1:14	1	41	δακτυλίῳ			2	ring
-BEL 1:14	1	42	τοῦ	ὁ	article, genitive singular	1	the
+BEL 1:14	1	42	τοῦ	ὁ	article, genitive singular	1	of the
 BEL 1:14	1	43	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 BEL 1:14	1	44	καὶ	καί	conjunction	1	and
 BEL 1:14	1	45	ἀπῆλθον	ἀπέρχομαι	aorist active indicative, third plural	1	they went away
 BEL 1:15	1	1	Οἱ	ὁ	article, nominative masculine plural	1	the
 BEL 1:15	1	2	δὲ	δέ	conjunction	1	and
-BEL 1:15	1	3	ἱερεῖς	ἱερεύς	noun, nominative masc. pl	1	the priests
+BEL 1:15	1	3	ἱερεῖς	ἱερεύς	noun, nominative masc. pl	1	priests
 BEL 1:15	1	4	ἦλθον	ἔρχομαι	aorist active indicative, third plural	1	came
 BEL 1:15	1	5	τὴν	ὁ	article, accusative feminine singular; marks temporal accusative	1	at
 BEL 1:15	1	6	νύκτα	νύξ	noun, accusative feminine singular	1	night
@@ -436,7 +436,7 @@ BEL 1:17	1	5	σῶοι			2	undamaged
 BEL 1:17	1	6	αἱ	ὁ	article, nominative feminine plural	1	the
 BEL 1:17	1	7	σφραγίδες	σφραγίς	noun, nominative feminine plural	1	seals
 BEL 1:17	1	8	Δανιήλ	Δανιήλ	noun, vocative masculine singular; indeclinable	1	Daniel
-BEL 1:17	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
+BEL 1:17	1	9	ὁ	ὁ	article, nominative masculine singular	1	he
 BEL 1:17	1	10	δὲ	δέ	postpositive conjunction	1	and
 BEL 1:17	1	11	εἶπε	λέγω	aorist active indicative, third singular	1	said
 BEL 1:17	1	12	σῶοι	σῶος	adjective, nominative masculine plural; masculine form in the printed clause with feminine σφραγίδες	1	intact
@@ -456,7 +456,7 @@ BEL 1:18	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
 BEL 1:18	1	10	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 BEL 1:18	1	11	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 BEL 1:18	1	12	τὴν	ὁ	article, accusative feminine singular	1	the
-BEL 1:18	1	13	τράπεζαν	τράπεζα	noun, accusative fem. sg., table	1	a table
+BEL 1:18	1	13	τράπεζαν	τράπεζα	noun, accusative fem. sg., table	1	table
 BEL 1:18	1	14	ἐβόησε	βοάω	aorist active indicative, third singular	1	cried out
 BEL 1:18	1	15	φωνῇ	φωνή	noun, dative feminine singular, instrumental	1	with a voice
 BEL 1:18	1	16	μεγάλῃ	μέγας	adjective, dative feminine singular with φωνῇ	1	loud
@@ -511,7 +511,7 @@ BEL 1:20	1	5	ὁρῶ	ὁράω	present active indicative, first singular	1	I se
 BEL 1:20	1	6	τὰ	ὁ	article, neuter plural (case from context)	1	the
 BEL 1:20	1	7	ἴχνη	ἴχνος	noun, accusative neuter plural; reconnaissance context	1	footprints
 BEL 1:20	1	7	ἴχνη			2	tracks
-BEL 1:20	1	8	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	1	men
+BEL 1:20	1	8	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	1	of men
 BEL 1:20	1	9	καὶ	καί	conjunction	1	and
 BEL 1:20	1	10	γυναικῶν	γυνή	noun, genitive feminine plural	1	women
 BEL 1:20	1	11	καὶ	καί	conjunction	1	and
@@ -562,7 +562,7 @@ BEL 1:22	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 BEL 1:22	1	9	Βὴλ	Βήλ	noun, accusative masculine singular; indeclinable	1	Bel
 BEL 1:22	1	10	ἔκδοτον	ἔκδοτος	adjective, accusative masculine singular; predicate adjective	1	over
 BEL 1:22	1	10	ἔκδοτον			2	into custody
-BEL 1:22	1	11	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+BEL 1:22	1	11	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 BEL 1:22	1	12	Δανιὴλ	Δανιήλ	noun, dative masculine singular; indeclinable	1	Daniel
 BEL 1:22	1	13	καὶ	καί	conjunction	1	and
 BEL 1:22	1	14	κατέστρεψεν	καταστρέφω	aorist active indicative, third singular	1	he pulled down
@@ -774,7 +774,7 @@ BEL 1:30	1	11	παρέδωκεν	παραδίδωμι	aorist active indicative, 
 BEL 1:30	1	12	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 BEL 1:30	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
 BEL 1:30	1	14	Δανιήλ	Δανιήλ	noun, accusative masculine singular; indeclinable	1	Daniel
-BEL 1:31	1	1	Οἱ	ὁ	article, nominative masculine plural	1	the
+BEL 1:31	1	1	Οἱ	ὁ	article, nominative masculine plural	1	they
 BEL 1:31	1	2	δὲ	δέ	postpositive conjunction	1	now
 BEL 1:31	1	3	ἐνέβαλον	ἐμβάλλω	aorist active indicative, third plural	1	threw in
 BEL 1:31	1	3	ἐνέβαλον			2	cast
@@ -786,7 +786,7 @@ BEL 1:31	1	7	λάκκον			2	pit
 BEL 1:31	1	8	τῶν	ὁ	article, genitive masculine plural	1	the
 BEL 1:31	1	9	λεόντων	λέων	noun, genitive masculine plural	1	of lions
 BEL 1:31	1	10	καὶ	καί	conjunction	1	and
-BEL 1:31	1	11	ἦν	εἰμί	imperfect indicative, 3rd sg	1	was (remained)
+BEL 1:31	1	11	ἦν	εἰμί	imperfect indicative, 3rd sg	1	was
 BEL 1:31	1	12	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 BEL 1:31	1	13	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
 BEL 1:31	1	14	ἕξ	ἕξ	indeclinable cardinal numeral	1	six
@@ -837,7 +837,7 @@ BEL 1:33	1	12	ἕψεμα			2	cooked food
 BEL 1:33	1	13	καὶ	καί	conjunction	1	and
 BEL 1:33	1	14	ἐνέθρυψεν	ἐνθρύπτω	aorist active indicative, third singular	1	he crumbled
 BEL 1:33	1	14	ἐνέθρυψεν			2	he broke into pieces
-BEL 1:33	1	15	ἄρτους	ἄρτος	noun, accusative masc. pl	1	bread/loaves
+BEL 1:33	1	15	ἄρτους	ἄρτος	noun, accusative masc. pl	1	loaves
 BEL 1:33	1	16	εἰς	εἰς	preposition with the accusative	1	into
 BEL 1:33	1	17	σκάφην	σκάφη	noun, accusative feminine singular	1	bowl
 BEL 1:33	1	17	σκάφην			2	trough
@@ -850,7 +850,7 @@ BEL 1:33	1	22	πεδίον	πεδίον	noun, accusative neuter singular	1	field
 BEL 1:33	1	22	πεδίον			2	plain
 BEL 1:33	1	23	ἀπενέγκαι	ἀποφέρω	aorist active infinitive	1	to carry
 BEL 1:33	1	23	ἀπενέγκαι			2	to take
-BEL 1:33	1	24	τοῖς	ὁ	article, dative masculine plural	1	the
+BEL 1:33	1	24	τοῖς	ὁ	article, dative masculine plural	1	to the
 BEL 1:33	1	25	θερισταῖς	θεριστής	noun, dative masculine plural	1	reapers
 BEL 1:33	1	25	θερισταῖς			2	harvesters
 BEL 1:34	1	1	Καὶ	καί	conjunction	1	and
@@ -870,7 +870,7 @@ BEL 1:34	1	11	ἔχεις	ἔχω	present active indicative, second singular	1	y
 BEL 1:34	1	12	εἰς	εἰς	Preposition with accusative	1	to
 BEL 1:34	1	12	εἰς			2	into
 BEL 1:34	1	13	Βαβυλῶνα	Βαβυλών	noun, accusative feminine singular; place name	1	Babylon
-BEL 1:34	1	14	τῷ	ὁ	article, dative masculine singular	1	the
+BEL 1:34	1	14	τῷ	ὁ	article, dative masculine singular	1	to
 BEL 1:34	1	15	Δανιὴλ	Δανιήλ	noun, dative masculine singular; indeclinable	1	Daniel
 BEL 1:34	1	16	εἰς	εἰς	preposition with the accusative	1	into
 BEL 1:34	1	17	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -906,9 +906,9 @@ BEL 1:36	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine sin
 BEL 1:36	1	9	καὶ	καί	conjunction	1	and
 BEL 1:36	1	10	βαστάσας	βαστάζω	aorist active participle, nominative masculine singular	1	lifting
 BEL 1:36	1	10	βαστάσας			2	carrying
-BEL 1:36	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
+BEL 1:36	1	11	τῆς	ὁ	article, genitive feminine singular	1	by the
 BEL 1:36	1	12	κόμης	κόμη	noun, genitive feminine singular	1	hair
-BEL 1:36	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
+BEL 1:36	1	13	τῆς	ὁ	article, genitive feminine singular	1	of the
 BEL 1:36	1	14	κεφαλῆς	κεφαλή	noun, genitive feminine singular	1	head
 BEL 1:36	1	15	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
 BEL 1:36	1	16	ἔθηκεν	τίθημι	aorist active indicative, third singular	1	he set
@@ -919,7 +919,7 @@ BEL 1:36	1	18	εἰς			2	into
 BEL 1:36	1	19	Βαβυλῶνα	Βαβυλών	noun, accusative feminine singular; place name	1	Babylon
 BEL 1:36	1	20	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
 BEL 1:36	1	20	ἐπάνω			2	above
-BEL 1:36	1	21	τοῦ	ὁ	article, genitive masculine singular	1	of the
+BEL 1:36	1	21	τοῦ	ὁ	article, genitive masculine singular	1	the
 BEL 1:36	1	22	λάκκου	λάκκος	noun, genitive masculine singular	1	den
 BEL 1:36	1	22	λάκκου			2	pit
 BEL 1:36	1	23	ἐν	ἐν	Preposition with dative	1	with
@@ -987,7 +987,7 @@ BEL 1:40	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 BEL 1:40	1	2	δὲ	δέ	postpositive conjunction	1	and
 BEL 1:40	1	3	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 BEL 1:40	1	4	ἦλθε	ἔρχομαι	aorist active indicative, third singular	1	came
-BEL 1:40	1	5	τῇ	ὁ	article, dative feminine singular	1	the
+BEL 1:40	1	5	τῇ	ὁ	article, dative feminine singular	1	on the
 BEL 1:40	1	6	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 BEL 1:40	1	7	τῇ	ὁ	article, dative feminine singular, marks the following adjective	1	—
 BEL 1:40	1	8	ἑβδόμῃ	ἕβδομος	ordinal adjective, dative feminine singular	1	seventh
@@ -1031,11 +1031,11 @@ BEL 1:42	1	1	Καὶ	καί	conjunction	1	and
 BEL 1:42	1	2	ἀνέσπασεν	ἀνασπάω	aorist active indicative, third singular	1	he pulled up
 BEL 1:42	1	2	ἀνέσπασεν			2	he drew up
 BEL 1:42	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-BEL 1:42	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
+BEL 1:42	1	4	τοὺς	ὁ	article, accusative masculine plural	1	those
 BEL 1:42	1	5	δὲ	δέ	postpositive conjunction	1	now
-BEL 1:42	1	6	αἰτίους	αἴτιος	adjective, accusative masculine plural; used substantivally	1	those responsible
+BEL 1:42	1	6	αἰτίους	αἴτιος	adjective, accusative masculine plural; used substantivally	1	responsible
 BEL 1:42	1	6	αἰτίους			2	the ones to blame
-BEL 1:42	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
+BEL 1:42	1	7	τῆς	ὁ	article, genitive feminine singular	1	for the
 BEL 1:42	1	8	ἀπωλείας	ἀπώλεια	noun, genitive feminine singular	1	ruin
 BEL 1:42	1	8	ἀπωλείας			2	destruction
 BEL 1:42	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
