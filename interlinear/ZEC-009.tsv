@@ -1,17 +1,17 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 ZEC 9:1	1	1	ΛΗΜΜΑ	λῆμμα	noun, nominative neuter singular	1	pronouncement
 ZEC 9:1	1	1	ΛΗΜΜΑ			2	oracle
-ZEC 9:1	1	2	λόγου	λόγος	noun, genitive masculine singular	1	word
+ZEC 9:1	1	2	λόγου	λόγος	noun, genitive masculine singular	1	of the word
 ZEC 9:1	1	2	λόγου			2	message
-ZEC 9:1	1	3	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	1	the Lord
+ZEC 9:1	1	3	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	1	of the Lord
 ZEC 9:1	1	4	ἐν	ἐν	preposition with dative	1	in
 ZEC 9:1	1	5	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
 ZEC 9:1	1	6	Σεδρὰχ	Σεδράχ	indeclinable place name, genitive in context	1	of Hadrach
 ZEC 9:1	1	6	Σεδρὰχ			2	Sedrach
 ZEC 9:1	1	7	καὶ	καί	conjunction	1	and
-ZEC 9:1	1	8	Δαμασκοῦ	Δαμασκός	noun, genitive feminine singular; place name	1	Damascus
+ZEC 9:1	1	8	Δαμασκοῦ	Δαμασκός	noun, genitive feminine singular; place name	1	of Damascus
 ZEC 9:1	1	9	θυσίας	θυσία	noun, genitive feminine singular	1	sacrifice
-ZEC 9:1	1	10	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
+ZEC 9:1	1	10	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 ZEC 9:1	1	11	διότι	διότι	causal conjunction	1	because
 ZEC 9:1	1	12	Κύριος	κύριος	noun, nominative masculine singular, the LORD (capitalized, no article)	1	the LORD
 ZEC 9:1	1	13	ἐφορᾷ	ἐφοράω	present active indicative, third singular	1	looks on
@@ -41,7 +41,7 @@ ZEC 9:3	1	2	ᾠκοδόμησε	οἰκοδομέω	aorist active indicative, th
 ZEC 9:3	1	3	Τύρος	Τύρος	noun, nominative feminine singular; place name	1	Tyre
 ZEC 9:3	1	4	ὀχυρώματα	ὀχύρωμα	noun, accusative neuter plural	1	strongholds
 ZEC 9:3	1	4	ὀχυρώματα			2	fortifications
-ZEC 9:3	1	5	ἑαυτῇ	ἑαυτοῦ	pronoun, dative feminine singular; reflexive	1	herself
+ZEC 9:3	1	5	ἑαυτῇ	ἑαυτοῦ	pronoun, dative feminine singular; reflexive	1	for herself
 ZEC 9:3	1	6	καὶ	καί	conjunction	1	and
 ZEC 9:3	1	7	ἐθησαύρισεν	θησαυρίζω	aorist active indicative, third singular	1	she stored up
 ZEC 9:3	1	7	ἐθησαύρισεν			2	she hoarded
@@ -57,7 +57,7 @@ ZEC 9:3	1	13	χρυσίον	χρυσίον	noun, nominative neuter singular	1	go
 ZEC 9:3	1	14	ὡς	ὡς	comparative adverb/conjunction	1	like
 ZEC 9:3	1	15	πηλὸν	πηλός	noun, accusative masculine singular	1	mud
 ZEC 9:3	1	15	πηλὸν			2	clay
-ZEC 9:3	1	16	ὁδῶν	ὁδός	noun, genitive feminine plural	1	ways
+ZEC 9:3	1	16	ὁδῶν	ὁδός	noun, genitive feminine plural	1	of the roads
 ZEC 9:3	1	16	ὁδῶν			2	paths
 ZEC 9:4	1	1	Διὰ	διά	preposition with the accusative	1	because of
 ZEC 9:4	1	2	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
@@ -94,12 +94,12 @@ ZEC 9:5	1	11	Ἀκκάρων	Ἀκκάρων	indeclinable place name, nominative
 ZEC 9:5	1	11	Ἀκκάρων			2	Akkaron
 ZEC 9:5	1	12	ὅτι	ὅτι	causal conjunction	1	because
 ZEC 9:5	1	13	ἠσχύνθη	αἰσχύνομαι	aorist passive indicative, third singular	1	she was put to shame
-ZEC 9:5	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+ZEC 9:5	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 ZEC 9:5	1	15	ἐλπίδος	ἐλπίς	noun, genitive feminine singular	1	hope
 ZEC 9:5	1	15	ἐλπίδος			2	expectation
 ZEC 9:5	1	16	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 ZEC 9:5	1	17	καὶ	καί	conjunction	1	and
-ZEC 9:5	1	18	ἀπολεῖται	ἀπόλλυμι	future middle indicative, third singular	1	will fail
+ZEC 9:5	1	18	ἀπολεῖται	ἀπόλλυμι	future middle indicative, third singular	1	will perish
 ZEC 9:5	1	18	ἀπολεῖται			2	will disappear
 ZEC 9:5	1	19	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 ZEC 9:5	1	20	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -121,7 +121,7 @@ ZEC 9:6	1	6	καὶ	καί	conjunction	1	and
 ZEC 9:6	1	7	καθελῶ	καθαιρέω	future active indicative, first singular	1	I will bring down
 ZEC 9:6	1	8	ὕβριν	ὕβρις	noun, accusative feminine singular	1	arrogance
 ZEC 9:6	1	8	ὕβριν			2	outrage
-ZEC 9:6	1	9	ἀλλοφύλων	ἀλλόφυλος	adjective, genitive masculine plural; substantival	1	Philistines
+ZEC 9:6	1	9	ἀλλοφύλων	ἀλλόφυλος	adjective, genitive masculine plural; substantival	1	of the Philistines
 ZEC 9:6	1	9	ἀλλοφύλων			2	people of another tribe
 ZEC 9:7	1	1	καὶ	καί	conjunction	1	and
 ZEC 9:7	1	2	ἐξαρῶ	ἐξαίρω	future active indicative, first singular	1	I will remove
@@ -139,13 +139,13 @@ ZEC 9:7	1	12	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 ZEC 9:7	1	13	ἐκ	ἐκ	preposition with the genitive	1	from
 ZEC 9:7	1	14	μέσου	μέσος	adjective, genitive neuter singular; substantival	1	midst
 ZEC 9:7	1	14	μέσου			2	middle
-ZEC 9:7	1	15	ὀδόντων	ὀδούς	noun, genitive masculine plural	1	teeth
+ZEC 9:7	1	15	ὀδόντων	ὀδούς	noun, genitive masculine plural	1	of teeth
 ZEC 9:7	1	16	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 ZEC 9:7	1	17	καὶ	καί	conjunction	1	and
 ZEC 9:7	1	18	ὑπολειφθήσονται	ὑπολείπω	future passive indicative, third plural	1	will be left
 ZEC 9:7	1	19	καὶ	καί	conjunction	1	and
 ZEC 9:7	1	20	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
-ZEC 9:7	1	21	τῷ	ὁ	article, dative masculine singular	1	the
+ZEC 9:7	1	21	τῷ	ὁ	article, dative masculine singular	1	—
 ZEC 9:7	1	22	Θεῷ	θεός	noun, dative masculine singular	1	to God
 ZEC 9:7	1	23	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 ZEC 9:7	1	24	καὶ	καί	conjunction	1	and
@@ -164,7 +164,7 @@ ZEC 9:7	1	34	Ἰεβουσαῖος	Ἰεβουσαῖος	adjective, nominative
 ZEC 9:8	1	1	Καὶ	καί	conjunction	1	and
 ZEC 9:8	1	2	ὑποστήσομαι	ὑφίστημι	future middle indicative, first singular	1	I will set in place
 ZEC 9:8	1	2	ὑποστήσομαι			2	I will provide
-ZEC 9:8	1	3	τῷ	ὁ	article, dative masculine singular	1	the
+ZEC 9:8	1	3	τῷ	ὁ	article, dative masculine singular	1	for the
 ZEC 9:8	1	4	οἴκῳ	οἶκος	noun, dative masculine singular after ἐν τῷ	1	house
 ZEC 9:8	1	5	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ZEC 9:8	1	6	ἀνάστημα	ἀνάστημα	noun, accusative neuter singular	1	defensive post
@@ -177,8 +177,8 @@ ZEC 9:8	1	11	ἀνακάμπτειν	ἀνακάμπτω	present active infiniti
 ZEC 9:8	1	11	ἀνακάμπτειν			2	to return
 ZEC 9:8	1	12	καὶ	καί	conjunction	1	and
 ZEC 9:8	1	13	οὐ	οὐ	negative particle	1	not
-ZEC 9:8	1	14	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
-ZEC 9:8	1	15	ἐπέλθῃ	ἐπέρχομαι	aorist active subjunctive, third singular	1	may come upon
+ZEC 9:8	1	14	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	(with οὐ)
+ZEC 9:8	1	15	ἐπέλθῃ	ἐπέρχομαι	aorist active subjunctive, third singular	1	may come
 ZEC 9:8	1	15	ἐπέλθῃ			2	may attack
 ZEC 9:8	1	16	ἐπ᾽	ἐπί	elided preposition with the accusative	1	against
 ZEC 9:8	1	16	ἐπ᾽			2	upon
@@ -213,12 +213,12 @@ ZEC 9:9	1	14	δίκαιος	δίκαιος	adjective nominative masculine singul
 ZEC 9:9	1	15	καὶ	καί	conjunction	1	and
 ZEC 9:9	1	16	σώζων	σῴζω	present active participle, nominative masculine singular	1	saving
 ZEC 9:9	1	16	σώζων			2	bringing rescue
-ZEC 9:9	1	17	αὐτὸς	αὐτός	pronoun, nominative masculine singular; intensive	1	himself
+ZEC 9:9	1	17	αὐτὸς	αὐτός	pronoun, nominative masculine singular; intensive	1	he
 ZEC 9:9	1	18	πραῢς	πραΰς	adjective, nominative masculine singular	1	gentle
 ZEC 9:9	1	19	καὶ	καί	conjunction	1	and
 ZEC 9:9	1	20	ἐπιβεβηκὼς	ἐπιβαίνω	perfect active participle, nominative masculine singular	1	mounted
 ZEC 9:9	1	20	ἐπιβεβηκὼς			2	having mounted
-ZEC 9:9	1	21	ἐπὶ	ἐπί	preposition with accusative of direction	1	toward
+ZEC 9:9	1	21	ἐπὶ	ἐπί	preposition with accusative of direction	1	upon
 ZEC 9:9	1	22	ὑποζύγιον	ὑποζύγιον	noun, accusative neuter singular	1	beast of burden
 ZEC 9:9	1	23	καὶ	καί	conjunction	1	and
 ZEC 9:9	1	24	πῶλον	πῶλος	noun, accusative masculine singular	1	colt
@@ -246,7 +246,7 @@ ZEC 9:10	1	15	πλῆθος			2	abundance
 ZEC 9:10	1	16	καὶ	καί	conjunction	1	and
 ZEC 9:10	1	17	εἰρήνη	εἰρήνη	noun, nominative feminine singular	1	peace
 ZEC 9:10	1	18	ἐξ	ἐκ	preposition with the genitive before a vowel	1	from
-ZEC 9:10	1	19	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	of nations
+ZEC 9:10	1	19	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 ZEC 9:10	1	20	καὶ	καί	conjunction	1	and
 ZEC 9:10	1	21	κατάρξει	κατάρχω	future active indicative, third singular	1	will rule
 ZEC 9:10	1	22	ὑδάτων	ὕδωρ	noun, genitive neuter plural	1	waters
@@ -258,14 +258,14 @@ ZEC 9:10	1	26	ποταμῶν	ποταμός	noun, genitive masculine plural	1	r
 ZEC 9:10	1	27	δι᾽	διά	elided preposition with the accusative	1	because of
 ZEC 9:10	1	28	ἐκβολὰς	ἐκβολή	noun, accusative feminine plural	1	outlets
 ZEC 9:10	1	28	ἐκβολὰς			2	river mouths
-ZEC 9:10	1	29	γῆς	γῆ	noun, genitive feminine singular	1	earth
+ZEC 9:10	1	29	γῆς	γῆ	noun, genitive feminine singular	1	of the earth
 ZEC 9:11	1	1	Καὶ	καί	conjunction	1	and
 ZEC 9:11	1	2	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 ZEC 9:11	1	3	ἐν	ἐν	preposition with the dative	1	in
 ZEC 9:11	1	4	αἵματι	αἷμα	noun, dative neuter singular	1	blood
-ZEC 9:11	1	5	διαθήκης	διαθήκη	noun, genitive feminine singular	1	covenant
+ZEC 9:11	1	5	διαθήκης	διαθήκη	noun, genitive feminine singular	1	of the covenant
 ZEC 9:11	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
-ZEC 9:11	1	7	ἐξαπέστειλας	ἐξαποστέλλω	aorist active indicative, second singular	1	you would have sent away
+ZEC 9:11	1	7	ἐξαπέστειλας	ἐξαποστέλλω	aorist active indicative, second singular	1	you sent out
 ZEC 9:11	1	8	τοὺς	ὁ	article, accusative masculine plural	1	the
 ZEC 9:11	1	9	δεσμίους	δέσμιος	adjective, accusative masculine plural; substantival	1	prisoners
 ZEC 9:11	1	9	δεσμίους			2	captives
@@ -280,16 +280,16 @@ ZEC 9:11	1	15	ὕδωρ	ὕδωρ	noun, nominative neuter singular	1	water
 ZEC 9:12	1	1	καθήσεσθε	κάθημαι	future middle indicative, second plural	1	you will sit
 ZEC 9:12	1	1	καθήσεσθε			2	you will stay
 ZEC 9:12	1	2	ἐν	ἐν	preposition with the dative	1	in
-ZEC 9:12	1	3	ὀχυρώματι	ὀχύρωμα	noun, dative neuter singular after ἐν τῷ	1	fortress/prison
+ZEC 9:12	1	3	ὀχυρώματι	ὀχύρωμα	noun, dative neuter singular after ἐν τῷ	1	fortress
 ZEC 9:12	1	4	δέσμιοι	δέσμιος	adjective, nominative masculine plural; substantival	1	prisoners
 ZEC 9:12	1	4	δέσμιοι			2	captives
-ZEC 9:12	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
+ZEC 9:12	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 ZEC 9:12	1	6	συναγωγῆς	συναγωγή	noun, genitive feminine singular	1	congregation
 ZEC 9:12	1	7	καὶ	καί	conjunction	1	and
 ZEC 9:12	1	8	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
 ZEC 9:12	1	9	μιᾶς	εἷς	cardinal numeral, genitive feminine singular	1	one
-ZEC 9:12	1	10	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
-ZEC 9:12	1	11	παροικεσίας	παροικεσία	noun, genitive feminine singular	1	sojourn
+ZEC 9:12	1	10	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	day
+ZEC 9:12	1	11	παροικεσίας	παροικεσία	noun, genitive feminine singular	1	of sojourning
 ZEC 9:12	1	11	παροικεσίας			2	residence as an outsider
 ZEC 9:12	1	12	σου	σύ	personal pronoun, possessive genitive singular	1	your
 ZEC 9:12	1	13	διπλᾶ	διπλοῦς	adjective, accusative neuter plural; substantival	1	double
@@ -315,10 +315,10 @@ ZEC 9:13	1	13	τὰ	ὁ	article, neuter plural (case from context)	1	the
 ZEC 9:13	1	14	τέκνα	τέκνον	noun, nominative neuter plural	1	children
 ZEC 9:13	1	15	σου	σύ	pronoun, possessive genitive second singular	1	your
 ZEC 9:13	1	16	Σιὼν	Σιών	indeclinable place name, genitive in context	1	Zion
-ZEC 9:13	1	17	ἐπὶ	ἐπί	preposition with accusative	1	on
+ZEC 9:13	1	17	ἐπὶ	ἐπί	preposition with accusative	1	against
 ZEC 9:13	1	18	τὰ	ὁ	article, accusative neuter plural	1	the
 ZEC 9:13	1	19	τέκνα	τέκνον	noun, accusative neuter plural	1	children
-ZEC 9:13	1	20	τῶν	ὁ	article, genitive plural	1	the
+ZEC 9:13	1	20	τῶν	ὁ	article, genitive plural	1	of the
 ZEC 9:13	1	21	Ἑλλήνων	Ἕλλην	noun, genitive masculine plural	1	Greeks
 ZEC 9:13	1	22	καὶ	καί	conjunction	1	and
 ZEC 9:13	1	23	ψηλαφήσω	ψηλαφάω	future active indicative, first singular	1	I will handle
@@ -326,7 +326,7 @@ ZEC 9:13	1	23	ψηλαφήσω			2	I will take hold of
 ZEC 9:13	1	24	σε	σύ	personal pronoun, accusative singular	1	you
 ZEC 9:13	1	25	ὡς	ὡς	comparative particle	1	as
 ZEC 9:13	1	26	ῥομφαίαν	ῥομφαία	noun, accusative feminine singular	1	sword
-ZEC 9:13	1	27	μαχητοῦ	μαχητής	noun, genitive masculine singular	1	fighter
+ZEC 9:13	1	27	μαχητοῦ	μαχητής	noun, genitive masculine singular	1	of a fighter
 ZEC 9:13	1	27	μαχητοῦ			2	warrior
 ZEC 9:14	1	1	Καὶ	καί	conjunction	1	and
 ZEC 9:14	1	2	ἔσται	εἰμί	future indicative, third singular	1	will be
@@ -344,14 +344,14 @@ ZEC 9:14	1	12	Κύριος	κύριος	noun, nominative masculine singular	1	th
 ZEC 9:14	1	13	παντοκράτωρ	παντοκράτωρ	noun, nominative masculine singular; divine title	1	Almighty
 ZEC 9:14	1	13	παντοκράτωρ			2	Ruler of all
 ZEC 9:14	1	14	ἐν	ἐν	preposition with the dative	1	in
-ZEC 9:14	1	15	σάλπιγγι	σάλπιγξ	noun, dative feminine singular	1	with a trumpet
+ZEC 9:14	1	15	σάλπιγγι	σάλπιγξ	noun, dative feminine singular	1	trumpet
 ZEC 9:14	1	16	σαλπιεῖ	σαλπίζω	future active indicative, third singular	1	he will sound a trumpet
 ZEC 9:14	1	17	καὶ	καί	conjunction	1	and
 ZEC 9:14	1	18	πορεύσεται	πορεύομαι	future middle indicative, third singular with κτήνη collective	1	shall go
 ZEC 9:14	1	19	ἐν	ἐν	preposition with the dative	1	in
 ZEC 9:14	1	20	σάλῳ	σάλος	noun, dative masculine singular	1	commotion
 ZEC 9:14	1	20	σάλῳ			2	tumult
-ZEC 9:14	1	21	ἀπειλῆς	ἀπειλή	noun, genitive feminine singular	1	threat
+ZEC 9:14	1	21	ἀπειλῆς	ἀπειλή	noun, genitive feminine singular	1	of threat
 ZEC 9:14	1	22	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 ZEC 9:15	1	1	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 ZEC 9:15	1	2	παντοκράτωρ	παντοκράτωρ	noun, nominative masculine singular; divine title	1	Almighty
@@ -369,7 +369,7 @@ ZEC 9:15	1	9	καταχώσουσιν			2	they will cover over
 ZEC 9:15	1	10	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 ZEC 9:15	1	11	ἐν	ἐν	preposition with the dative	1	in
 ZEC 9:15	1	12	λίθοις	λίθος	noun, dative masculine plural	1	stones
-ZEC 9:15	1	13	σφενδόνης	σφενδόνη	noun, genitive feminine singular	1	sling
+ZEC 9:15	1	13	σφενδόνης	σφενδόνη	noun, genitive feminine singular	1	of a sling
 ZEC 9:15	1	14	καὶ	καί	conjunction	1	and
 ZEC 9:15	1	15	ἐκπίονται	ἐκπίνω	future middle indicative, third plural	1	they will drink up
 ZEC 9:15	1	16	τὸ	ὁ	article, neuter singular (case from context)	1	the
@@ -420,14 +420,14 @@ ZEC 9:17	1	8	τι	τις	indefinite pronoun, nominative neuter singular	1	anythi
 ZEC 9:17	1	8	τι			2	something
 ZEC 9:17	1	9	καλὸν	καλός	adjective, nominative neuter singular	1	fine
 ZEC 9:17	1	9	καλὸν			2	beautiful
-ZEC 9:17	1	10	παρ᾽	παρά	preposition with the accusative, elided	1	beside
-ZEC 9:17	1	11	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+ZEC 9:17	1	10	παρ᾽	παρά	preposition with the accusative, elided	1	from
+ZEC 9:17	1	11	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	him
 ZEC 9:17	1	12	σῖτος	σῖτος	noun, nominative masculine singular after ὁ	1	the grain
 ZEC 9:17	1	13	νεανίσκοις	νεανίσκος	noun, dative masculine plural after τοῖς/σὺν τοῖς	1	young men
 ZEC 9:17	1	14	καὶ	καί	conjunction	1	and
 ZEC 9:17	1	15	οἶνος	οἶνος	noun, nominative masculine singular	1	wine
 ZEC 9:17	1	16	εὐωδιάζων	εὐωδιάζω	present active participle, nominative masculine singular	1	giving fragrance
 ZEC 9:17	1	16	εὐωδιάζων			2	making fragrant
-ZEC 9:17	1	17	εἰς	εἰς	preposition with the accusative	1	into
+ZEC 9:17	1	17	εἰς	εἰς	preposition with the accusative	1	for
 ZEC 9:17	1	18	παρθένους	παρθένος	noun, accusative feminine plural	1	young women
 ZEC 9:17	1	18	παρθένους			2	virgins

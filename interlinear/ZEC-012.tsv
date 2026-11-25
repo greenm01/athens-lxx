@@ -1,13 +1,13 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 ZEC 12:1	1	1	ΛΗΜΜΑ	λῆμμα	noun, nominative neuter singular	1	pronouncement
 ZEC 12:1	1	1	ΛΗΜΜΑ			2	oracle
-ZEC 12:1	1	2	λόγου	λόγος	noun, genitive masculine singular	1	word
+ZEC 12:1	1	2	λόγου	λόγος	noun, genitive masculine singular	1	of the word
 ZEC 12:1	1	2	λόγου			2	message
-ZEC 12:1	1	3	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	1	the Lord
+ZEC 12:1	1	3	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	1	of the Lord
 ZEC 12:1	1	4	ἐπὶ	ἐπί	preposition with accusative	1	against
 ZEC 12:1	1	4	ἐπὶ			2	concerning
 ZEC 12:1	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
-ZEC 12:1	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
+ZEC 12:1	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 ZEC 12:1	1	7	λέγει	λέγω	present active indicative, third singular	1	says
 ZEC 12:1	1	8	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 ZEC 12:1	1	9	ἐκτείνων	ἐκτείνω	present active participle, nominative masculine singular	1	stretching out
@@ -25,9 +25,9 @@ ZEC 12:1	1	16	πνεῦμα	πνεῦμα	noun, accusative neuter singular	1	spi
 ZEC 12:1	1	17	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of man
 ZEC 12:1	1	18	ἐν	ἐν	preposition with the dative	1	in
 ZEC 12:1	1	19	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
-ZEC 12:2	1	1	ἰδοὺ	ἰδού	presentative particle	1	behold/see
+ZEC 12:2	1	1	ἰδοὺ	ἰδού	presentative particle	1	behold
 ZEC 12:2	1	2	ἐγὼ	ἐγώ	pronoun, nominative 1st sg.	1	I
-ZEC 12:2	1	3	τίθημι	τίθημι	present active indicative, 1st sg. with διαθήκην 'I make a covenant'	1	I make/establish
+ZEC 12:2	1	3	τίθημι	τίθημι	present active indicative, 1st sg. with διαθήκην 'I make a covenant'	1	make
 ZEC 12:2	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 ZEC 12:2	1	5	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 ZEC 12:2	1	6	ὡς	ὡς	comparative adverb/conjunction	1	like
@@ -47,7 +47,7 @@ ZEC 12:2	1	17	καὶ	καί	conjunction	1	and
 ZEC 12:2	1	18	ἔσται	εἰμί	future indicative, third singular	1	will be
 ZEC 12:2	1	19	περιοχὴ	περιοχή	noun, nominative feminine singular	1	encirclement
 ZEC 12:2	1	19	περιοχὴ			2	siege
-ZEC 12:2	1	20	ἐπὶ	ἐπί	preposition (case from context)	1	on
+ZEC 12:2	1	20	ἐπὶ	ἐπί	preposition (case from context)	1	against
 ZEC 12:2	1	21	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 ZEC 12:3	1	1	καὶ	καί	conjunction	1	and
 ZEC 12:3	1	2	ἔσται	εἰμί	future indicative, third singular	1	will be
@@ -62,12 +62,12 @@ ZEC 12:3	1	9	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place nam
 ZEC 12:3	1	10	λίθον	λίθος	noun, accusative masculine singular	1	stone
 ZEC 12:3	1	11	καταπατούμενον	καταπατέω	present passive participle, accusative masculine singular	1	being trampled
 ZEC 12:3	1	11	καταπατούμενον			2	trodden on
-ZEC 12:3	1	12	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
+ZEC 12:3	1	12	πᾶσι	πᾶς	adjective, dative neuter plural	1	by all
 ZEC 12:3	1	13	τοῖς	ὁ	article, dative neuter plural	1	the
 ZEC 12:3	1	14	ἔθνεσι	ἔθνος	noun, dative neuter plural	1	nations
 ZEC 12:3	1	15	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 ZEC 12:3	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
-ZEC 12:3	1	17	καταπατῶν	καταπατέω	present active participle, nominative masculine singular; substantival	1	the one who tramples
+ZEC 12:3	1	17	καταπατῶν	καταπατέω	present active participle, nominative masculine singular; substantival	1	one who tramples
 ZEC 12:3	1	18	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 ZEC 12:3	1	19	ἐμπαίζων	ἐμπαίζω	present active participle, nominative masculine singular	1	mocking
 ZEC 12:3	1	19	ἐμπαίζων			2	making sport
@@ -75,7 +75,7 @@ ZEC 12:3	1	20	ἐμπαίξεται	ἐμπαίζω	future middle indicative, th
 ZEC 12:3	1	20	ἐμπαίξεται			2	will make sport
 ZEC 12:3	1	21	καὶ	καί	conjunction	1	and
 ZEC 12:3	1	22	ἐπισυναχθήσονται	ἐπισυνάγω	future passive indicative, third plural	1	will be gathered together
-ZEC 12:3	1	23	ἐπ᾽	ἐπί	elided preposition with accusative	1	on
+ZEC 12:3	1	23	ἐπ᾽	ἐπί	elided preposition with accusative	1	against
 ZEC 12:3	1	23	ἐπ᾽			2	upon
 ZEC 12:3	1	24	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 ZEC 12:3	1	25	πάντα	πᾶς	adjective, accusative neuter plural	1	all
@@ -95,7 +95,7 @@ ZEC 12:4	1	7	παντοκράτωρ	παντοκράτωρ	noun, nominative masc
 ZEC 12:4	1	7	παντοκράτωρ			2	Ruler of all
 ZEC 12:4	1	8	πατάξω	πατάσσω	future active indicative, 1st sg.	1	I will strike
 ZEC 12:4	1	9	πάντα	πᾶς	adjective, accusative neuter plural	1	all
-ZEC 12:4	1	10	ἵππον	ἵππος	noun, accusative fem. sg. collective after πᾶσαν τὴν, cavalry/horses	1	cavalry
+ZEC 12:4	1	10	ἵππον	ἵππος	noun, accusative fem. sg. collective after πᾶσαν τὴν, cavalry/horses	1	horse
 ZEC 12:4	1	11	ἐν	ἐν	preposition with the dative	1	in
 ZEC 12:4	1	12	ἐκστάσει	ἔκστασις	noun, dative feminine singular	1	panic
 ZEC 12:4	1	12	ἐκστάσει			2	bewilderment
@@ -120,7 +120,7 @@ ZEC 12:4	1	28	καὶ	καί	conjunction	1	and
 ZEC 12:4	1	29	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 ZEC 12:4	1	30	τοὺς	ὁ	article, accusative masculine plural	1	the
 ZEC 12:4	1	31	ἵππους	ἵππος	noun, accusative masculine plural	1	horses
-ZEC 12:4	1	32	τῶν	ὁ	article, genitive plural	1	the
+ZEC 12:4	1	32	τῶν	ὁ	article, genitive plural	1	of the
 ZEC 12:4	1	33	λαῶν	λαός	noun, genitive masculine plural	1	peoples
 ZEC 12:4	1	34	πατάξω	πατάσσω	future active indicative, 1st sg.	1	I will strike
 ZEC 12:4	1	35	ἐν	ἐν	preposition with the dative	1	in
@@ -136,14 +136,14 @@ ZEC 12:5	1	6	ἐν	ἐν	preposition with dative	1	in
 ZEC 12:5	1	7	ταῖς	ὁ	article dative feminine plural	1	the
 ZEC 12:5	1	8	καρδίαις	καρδία	noun, dative feminine plural	1	hearts
 ZEC 12:5	1	9	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-ZEC 12:5	1	10	εὑρήσομεν	εὑρίσκω	future active indicative, first plural after μὴ in question	1	shall we find
-ZEC 12:5	1	11	ἑαυτοῖς	ἑαυτοῦ	reflexive pronoun, dative masculine plural	1	for themselves
+ZEC 12:5	1	10	εὑρήσομεν	εὑρίσκω	future active indicative, first plural after μὴ in question	1	we will find
+ZEC 12:5	1	11	ἑαυτοῖς	ἑαυτοῦ	reflexive pronoun, dative masculine plural	1	for ourselves
 ZEC 12:5	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
 ZEC 12:5	1	13	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	dwelling
 ZEC 12:5	1	13	κατοικοῦντας			2	inhabiting
 ZEC 12:5	1	14	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, accusative in context	1	Jerusalem
 ZEC 12:5	1	15	ἐν	ἐν	preposition with the dative	1	in
-ZEC 12:5	1	16	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+ZEC 12:5	1	16	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 ZEC 12:5	1	17	παντοκράτορι	παντοκράτωρ	noun, dative masculine singular	1	Almighty
 ZEC 12:5	1	17	παντοκράτορι			2	ruler of all
 ZEC 12:5	1	18	Θεῷ	θεός	noun, dative masculine singular, in apposition	1	God
@@ -163,7 +163,7 @@ ZEC 12:6	1	10	δαλὸν	δαλός	noun, accusative masculine singular	1	fireb
 ZEC 12:6	1	10	δαλὸν			2	burning log
 ZEC 12:6	1	11	πυρὸς	πῦρ	noun, genitive neuter singular	1	of fire
 ZEC 12:6	1	12	ἐν	ἐν	preposition with the dative	1	in
-ZEC 12:6	1	13	ξύλοις	ξύλον	noun, dative neuter plural after τοῖς, in sense wooden (vessels of wood)	1	wooden vessels
+ZEC 12:6	1	13	ξύλοις	ξύλον	noun, dative neuter plural after τοῖς, in sense wooden (vessels of wood)	1	wood
 ZEC 12:6	1	14	καὶ	καί	conjunction	1	and
 ZEC 12:6	1	15	ὡς	ὡς	comparative particle	1	as
 ZEC 12:6	1	16	λαμπάδα	λαμπάς	noun, accusative feminine singular	1	torch
@@ -185,10 +185,10 @@ ZEC 12:6	1	29	λαοὺς	λαός	noun, accusative masculine plural	1	peoples
 ZEC 12:6	1	30	κυκλόθεν	κυκλόθεν	adverb	1	from every side
 ZEC 12:6	1	30	κυκλόθεν			2	all around
 ZEC 12:6	1	31	καὶ	καί	conjunction	1	and
-ZEC 12:6	1	32	κατοικήσει	κατοικέω	future active indicative, third singular	1	he will dwell
+ZEC 12:6	1	32	κατοικήσει	κατοικέω	future active indicative, third singular	1	will dwell
 ZEC 12:6	1	33	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 ZEC 12:6	1	34	ἔτι	ἔτι	temporal adverb	1	still
-ZEC 12:6	1	35	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	concerning
+ZEC 12:6	1	35	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	by
 ZEC 12:6	1	36	ἑαυτὴν	ἑαυτοῦ	pronoun, accusative feminine singular; reflexive	1	herself
 ZEC 12:6	1	37	ἐν	ἐν	preposition with the dative	1	in
 ZEC 12:6	1	38	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
@@ -198,7 +198,7 @@ ZEC 12:7	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	the
 ZEC 12:7	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
 ZEC 12:7	1	5	σκηνώματα	σκήνωμα	noun, accusative neuter plural	1	dwellings
 ZEC 12:7	1	5	σκηνώματα			2	habitations
-ZEC 12:7	1	6	Ἰούδα	Ἰούδας	indeclinable personal name, genitive in context	1	Judah
+ZEC 12:7	1	6	Ἰούδα	Ἰούδας	indeclinable personal name, genitive in context	1	of Judah
 ZEC 12:7	1	7	καθὼς	καθώς	comparative conjunction	1	just as
 ZEC 12:7	1	8	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
 ZEC 12:7	1	9	ἀρχῆς	ἀρχή	noun, genitive feminine singular	1	beginning
@@ -209,17 +209,17 @@ ZEC 12:7	1	12	μεγαλύνηται	μεγαλύνω	present passive subjunctiv
 ZEC 12:7	1	12	μεγαλύνηται			2	may grow great
 ZEC 12:7	1	13	καύχημα	καύχημα	noun, nominative neuter singular	1	boast
 ZEC 12:7	1	13	καύχημα			2	glory
-ZEC 12:7	1	14	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+ZEC 12:7	1	14	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 ZEC 12:7	1	14	οἴκου			2	household
 ZEC 12:7	1	15	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 ZEC 12:7	1	16	καὶ	καί	conjunction	1	and
 ZEC 12:7	1	17	ἔπαρσις	ἔπαρσις	noun, nominative feminine singular	1	exaltation
 ZEC 12:7	1	17	ἔπαρσις			2	pride
-ZEC 12:7	1	18	τῶν	ὁ	article, genitive plural	1	the
+ZEC 12:7	1	18	τῶν	ὁ	article, genitive plural	1	of the
 ZEC 12:7	1	19	κατοικούντων	κατοικέω	present active participle, genitive masculine plural; substantival	1	inhabitants
 ZEC 12:7	1	19	κατοικούντων			2	those living
 ZEC 12:7	1	20	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	of Jerusalem
-ZEC 12:7	1	21	ἐπὶ	ἐπί	preposition	1	on
+ZEC 12:7	1	21	ἐπὶ	ἐπί	preposition	1	over
 ZEC 12:7	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
 ZEC 12:7	1	23	Ἰούδαν	Ἰούδας	noun, accusative masculine singular; personal name used for Judah	1	Judah
 ZEC 12:8	1	1	Καὶ	καί	conjunction	1	and
@@ -239,7 +239,7 @@ ZEC 12:8	1	12	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place nam
 ZEC 12:8	1	13	καὶ	καί	conjunction	1	and
 ZEC 12:8	1	14	ἔσται	εἰμί	future indicative, third singular	1	will be
 ZEC 12:8	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
-ZEC 12:8	1	16	ἀσθενῶν	ἀσθενέω	present active participle, nominative masculine singular; substantival	1	the weak one
+ZEC 12:8	1	16	ἀσθενῶν	ἀσθενέω	present active participle, nominative masculine singular; substantival	1	weak one
 ZEC 12:8	1	16	ἀσθενῶν			2	one who is weak
 ZEC 12:8	1	17	ἐν	ἐν	preposition with the dative	1	in
 ZEC 12:8	1	18	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
@@ -248,7 +248,7 @@ ZEC 12:8	1	20	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative femi
 ZEC 12:8	1	21	τῇ	ὁ	article, dative feminine singular	1	the
 ZEC 12:8	1	22	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 ZEC 12:8	1	23	ὡς	ὡς	comparative adverb/conjunction	1	like
-ZEC 12:8	1	24	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
+ZEC 12:8	1	24	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
 ZEC 12:8	1	25	ὁ	ὁ	article, nominative masculine singular	1	the
 ZEC 12:8	1	26	δὲ	δέ	postpositive conjunction	1	and
 ZEC 12:8	1	27	οἶκος	οἶκος	noun, nominative masculine singular	1	house
@@ -268,7 +268,7 @@ ZEC 12:9	1	3	ἐν	ἐν	preposition with dative	1	in
 ZEC 12:9	1	4	τῇ	ὁ	article, dative feminine singular	1	the
 ZEC 12:9	1	5	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 ZEC 12:9	1	6	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative feminine singular	1	that
-ZEC 12:9	1	7	ζητήσω	ζητέω	future active indicative, first singular	1	shall I seek
+ZEC 12:9	1	7	ζητήσω	ζητέω	future active indicative, first singular	1	I will seek
 ZEC 12:9	1	8	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	1	in order
 ZEC 12:9	1	9	ἐξᾶραι	ἐξαίρω	aorist active infinitive	1	to remove
 ZEC 12:9	1	9	ἐξᾶραι			2	to do away with
@@ -276,8 +276,8 @@ ZEC 12:9	1	10	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 ZEC 12:9	1	11	τὰ	ὁ	article, accusative neuter plural	1	the
 ZEC 12:9	1	12	ἔθνη	ἔθνος	noun, accusative neuter plural	1	nations
 ZEC 12:9	1	13	τὰ	ὁ	article, accusative neuter plural	1	the
-ZEC 12:9	1	14	ἐπερχόμενα	ἐπέρχομαι	present middle participle, accusative neuter plural	1	coming against
-ZEC 12:9	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	on
+ZEC 12:9	1	14	ἐπερχόμενα	ἐπέρχομαι	present middle participle, accusative neuter plural	1	coming
+ZEC 12:9	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	against
 ZEC 12:9	1	16	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 ZEC 12:10	1	1	Καὶ	καί	conjunction	1	and
 ZEC 12:10	1	2	ἐκχεῶ	ἐκχέω	future active indicative, first singular	1	I will pour out
@@ -293,14 +293,14 @@ ZEC 12:10	1	10	κατοικοῦντας	κατοικέω	present active partici
 ZEC 12:10	1	10	κατοικοῦντας			2	inhabiting
 ZEC 12:10	1	11	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, accusative in context	1	Jerusalem
 ZEC 12:10	1	12	πνεῦμα	πνεῦμα	noun, accusative neuter singular	1	spirit
-ZEC 12:10	1	13	χάριτος	χάρις	noun, genitive feminine singular	1	grace
+ZEC 12:10	1	13	χάριτος	χάρις	noun, genitive feminine singular	1	of grace
 ZEC 12:10	1	13	χάριτος			2	favor
 ZEC 12:10	1	14	καὶ	καί	conjunction	1	and
 ZEC 12:10	1	15	οἰκτιρμοῦ	οἰκτιρμός	noun, genitive masculine singular	1	compassion
 ZEC 12:10	1	15	οἰκτιρμοῦ			2	mercy
 ZEC 12:10	1	16	καὶ	καί	conjunction	1	and
-ZEC 12:10	1	17	ἐπιβλέψονται	ἐπιβλέπω	future middle indicative, third plural	1	they will look upon
-ZEC 12:10	1	17	ἐπιβλέψονται			2	they will look
+ZEC 12:10	1	17	ἐπιβλέψονται	ἐπιβλέπω	future middle indicative, third plural	1	they will look
+ZEC 12:10	1	17	ἐπιβλέψονται			2	they will look upon
 ZEC 12:10	1	18	πρὸς	πρός	preposition with the accusative	1	to
 ZEC 12:10	1	19	μὲ	ἐγώ	personal pronoun, accusative first singular	1	me
 ZEC 12:10	1	20	ἀνθ᾽	ἀντί	preposition with genitive; with ὧν in a causal clause	1	because
@@ -316,14 +316,14 @@ ZEC 12:10	1	26	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1
 ZEC 12:10	1	27	κοπετὸν	κοπετός	noun, accusative masculine singular	1	mourning
 ZEC 12:10	1	27	κοπετὸν			2	lamentation
 ZEC 12:10	1	28	ὡς	ὡς	comparative particle	1	as
-ZEC 12:10	1	29	ἐπ᾽	ἐπί	preposition with the accusative, elided	1	against
+ZEC 12:10	1	29	ἐπ᾽	ἐπί	preposition with the accusative, elided	1	over
 ZEC 12:10	1	30	ἀγαπητὸν	ἀγαπητός	adjective, accusative masculine singular; substantival	1	beloved one
 ZEC 12:10	1	31	καὶ	καί	conjunction	1	and
 ZEC 12:10	1	32	ὀδυνηθήσονται	ὀδυνάομαι	future passive indicative, third plural	1	they will grieve
 ZEC 12:10	1	32	ὀδυνηθήσονται			2	they will suffer pain
 ZEC 12:10	1	33	ὀδύνην	ὀδύνη	noun, accusative feminine singular	1	pain
 ZEC 12:10	1	34	ὡς	ὡς	comparative adverb/conjunction	1	like
-ZEC 12:10	1	35	ἐπὶ	ἐπί	preposition (case from context)	1	on
+ZEC 12:10	1	35	ἐπὶ	ἐπί	preposition (case from context)	1	over
 ZEC 12:10	1	36	τῷ	ὁ	article, dative masculine singular	1	the
 ZEC 12:10	1	37	πρωτοτόκῳ	πρωτότοκος	adjective, dative masculine singular; substantival	1	firstborn
 ZEC 12:11	1	1	Ἐν	ἐν	preposition with the dative	1	in
@@ -340,7 +340,7 @@ ZEC 12:11	1	9	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place na
 ZEC 12:11	1	10	ὡς	ὡς	comparative adverb/conjunction	1	like
 ZEC 12:11	1	11	κοπετὸς	κοπετός	noun, nominative masculine singular	1	mourning
 ZEC 12:11	1	11	κοπετὸς			2	lamentation
-ZEC 12:11	1	12	ῥοῶνος	ῥοών	noun, genitive masculine singular	1	pomegranate grove
+ZEC 12:11	1	12	ῥοῶνος	ῥοών	noun, genitive masculine singular	1	of a pomegranate grove
 ZEC 12:11	1	12	ῥοῶνος			2	pomegranate orchard
 ZEC 12:11	1	13	ἐν	ἐν	preposition with the dative	1	in
 ZEC 12:11	1	14	πεδίῳ	πεδίον	noun, dative neuter singular	1	field

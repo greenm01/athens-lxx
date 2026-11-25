@@ -1,19 +1,19 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 HOS 2:1	1	1	ΕΙΠΑΤΕ	λέγω	aorist active imperative, second plural	1	say
-HOS 2:1	1	2	τῷ	ὁ	article, dative masculine singular	1	the
+HOS 2:1	1	2	τῷ	ὁ	article, dative masculine singular	1	to the
 HOS 2:1	1	3	ἀδελφῷ	ἀδελφός	noun, dative masculine singular	1	brother
 HOS 2:1	1	4	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 HOS 2:1	1	5	λαός	λαός	noun, nominative masculine singular	1	people
 HOS 2:1	1	6	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 HOS 2:1	1	7	καὶ	καί	conjunction	1	and
-HOS 2:1	1	8	τῇ	ὁ	article, dative feminine singular	1	the
+HOS 2:1	1	8	τῇ	ὁ	article, dative feminine singular	1	to the
 HOS 2:1	1	9	ἀδελφῇ	ἀδελφή	noun, dative feminine singular	1	sister
 HOS 2:1	1	10	ὑμῶν	σύ	pronoun, genitive second plural	1	your
 HOS 2:1	1	11	ἠλεημένη	ἐλεέω	perfect passive participle, nominative feminine singular	1	shown mercy
 HOS 2:1	1	11	ἠλεημένη			2	pitied
 HOS 2:2	1	1	κρίθητε	κρίνω	aorist passive imperative, second plural	1	bring a case
 HOS 2:2	1	1	κρίθητε			2	contend
-HOS 2:2	1	2	πρὸς	πρός	preposition with the accusative	1	to
+HOS 2:2	1	2	πρὸς	πρός	preposition with the accusative	1	with
 HOS 2:2	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
 HOS 2:2	1	4	μητέρα	μήτηρ	noun, accusative feminine singular	1	mother
 HOS 2:2	1	5	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
@@ -28,25 +28,25 @@ HOS 2:2	1	11	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 HOS 2:2	1	12	καὶ	καί	conjunction	1	and
 HOS 2:2	1	13	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
 HOS 2:2	1	14	οὐκ	οὐ	negative particle	1	not
-HOS 2:2	1	15	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
+HOS 2:2	1	15	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	husband
 HOS 2:2	1	16	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 HOS 2:2	1	17	Καὶ	καί	conjunction	1	and
 HOS 2:2	1	18	ἐξαρῶ	ἐξαίρω	future active indicative, first singular	1	I will remove
 HOS 2:2	1	18	ἐξαρῶ			2	I will take away
 HOS 2:2	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
 HOS 2:2	1	20	πορνείαν	πορνεία	noun, accusative feminine singular	1	unfaithfulness
-HOS 2:2	1	21	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	1	its
+HOS 2:2	1	21	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	1	her
 HOS 2:2	1	22	ἐκ	ἐκ	preposition with the genitive	1	from
 HOS 2:2	1	23	προσώπου	πρόσωπον	noun, genitive neuter singular after ἀπό, in the phrase 'from the face of'	1	the face
 HOS 2:2	1	24	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 HOS 2:2	1	25	καὶ	καί	conjunction	1	and
 HOS 2:2	1	26	τὴν	ὁ	article, accusative feminine singular	1	the
 HOS 2:2	1	27	μοιχείαν	μοιχεία	noun, accusative feminine singular	1	adultery
-HOS 2:2	1	28	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	1	its
+HOS 2:2	1	28	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	1	her
 HOS 2:2	1	29	ἐκ	ἐκ	preposition with the genitive	1	from
 HOS 2:2	1	30	μέσου	μέσος	adjective, genitive neuter singular; substantival	1	midst
 HOS 2:2	1	30	μέσου			2	middle
-HOS 2:2	1	31	μαστῶν	μαστός	noun, genitive masculine plural	1	breasts
+HOS 2:2	1	31	μαστῶν	μαστός	noun, genitive masculine plural	1	of breasts
 HOS 2:2	1	32	αὐτῆς	αὐτός	possessive pronoun, genitive feminine singular	1	her
 HOS 2:3	1	1	ὅπως	ὅπως	conjunction of purpose with the subjunctive	1	so that
 HOS 2:3	1	1	ὅπως			2	in order that
@@ -94,7 +94,7 @@ HOS 2:4	1	7	ἐλεήσω	ἐλεέω	aorist active subjunctive, first singular	
 HOS 2:4	1	7	ἐλεήσω			2	I may take pity
 HOS 2:4	1	8	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 HOS 2:4	1	9	τέκνα	τέκνον	noun, nominative neuter plural	1	children
-HOS 2:4	1	10	πορνείας	πορνεία	noun, genitive feminine singular	1	prostitution
+HOS 2:4	1	10	πορνείας	πορνεία	noun, genitive feminine singular	1	of prostitution
 HOS 2:4	1	10	πορνείας			2	sexual immorality
 HOS 2:4	1	11	ἐστίν	εἰμί	present indicative, third singular	1	is
 HOS 2:5	1	1	Ὅτι	ὅτι	causal conjunction	1	because
@@ -105,7 +105,7 @@ HOS 2:5	1	5	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 HOS 2:5	1	6	κατήσχυνεν	καταισχύνω	aorist active indicative, third singular	1	she acted shamefully
 HOS 2:5	1	6	κατήσχυνεν			2	she brought disgrace
 HOS 2:5	1	7	ἡ	ὁ	article, nominative feminine singular	1	the
-HOS 2:5	1	8	τεκοῦσα	τίκτω	aorist active participle, nominative feminine singular; substantival	1	the one who gave birth
+HOS 2:5	1	8	τεκοῦσα	τίκτω	aorist active participle, nominative feminine singular; substantival	1	one who gave birth
 HOS 2:5	1	9	αὐτά	αὐτός	pronoun, accusative neuter plural	1	them
 HOS 2:5	1	10	εἶπε	λέγω	aorist active indicative, third singular	1	said
 HOS 2:5	1	11	γὰρ	γάρ	postpositive conjunction	1	for
@@ -158,16 +158,16 @@ HOS 2:6	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 HOS 2:6	1	7	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 HOS 2:6	1	7	ὁδὸν			2	path
 HOS 2:6	1	8	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
-HOS 2:6	1	9	ἐν	ἐν	preposition with the dative	1	in
+HOS 2:6	1	9	ἐν	ἐν	preposition with the dative	1	with
 HOS 2:6	1	10	σκόλοψι	σκόλοψ	noun, dative masculine plural	1	thorns
 HOS 2:6	1	10	σκόλοψι			2	thorn stakes
 HOS 2:6	1	11	καὶ	καί	conjunction	1	and
-HOS 2:6	1	12	ἀνοικοδομήσω	ἀνοικοδομέω	future active indicative, first singular	1	I will build up
-HOS 2:6	1	12	ἀνοικοδομήσω			2	I will wall up
+HOS 2:6	1	12	ἀνοικοδομήσω	ἀνοικοδομέω	future active indicative, first singular	1	I will wall up
+HOS 2:6	1	12	ἀνοικοδομήσω			2	I will build up
 HOS 2:6	1	13	τὰς	ὁ	article, accusative feminine plural	1	the
 HOS 2:6	1	14	ὁδοὺς	ὁδός	noun, accusative feminine plural	1	ways
 HOS 2:6	1	14	ὁδοὺς			2	roads
-HOS 2:6	1	15	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	1	its
+HOS 2:6	1	15	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	1	her
 HOS 2:6	1	16	καὶ	καί	conjunction	1	and
 HOS 2:6	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
 HOS 2:6	1	18	τρίβον	τρίβος	noun, accusative feminine singular	1	path
@@ -180,11 +180,11 @@ HOS 2:7	1	1	καὶ	καί	conjunction	1	and
 HOS 2:7	1	2	καταδιώξεται	καταδιώκω	future middle indicative, 3rd sg.	1	will pursue
 HOS 2:7	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
 HOS 2:7	1	4	ἐραστὰς	ἐραστής	noun, accusative masculine plural	1	lovers
-HOS 2:7	1	5	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
+HOS 2:7	1	5	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 HOS 2:7	1	6	καὶ	καί	conjunction	1	and
 HOS 2:7	1	7	οὐ	οὐ	negative particle	1	not
 HOS 2:7	1	8	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
-HOS 2:7	1	9	καταλάβῃ	καταλαμβάνω	aorist active subjunctive, third singular	1	overtakes
+HOS 2:7	1	9	καταλάβῃ	καταλαμβάνω	aorist active subjunctive, third singular	1	may overtake
 HOS 2:7	1	10	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 HOS 2:7	1	11	καὶ	καί	conjunction	1	and
 HOS 2:7	1	12	ζητήσει	ζητέω	future active indicative, third singular	1	she will seek
@@ -193,13 +193,13 @@ HOS 2:7	1	13	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	t
 HOS 2:7	1	14	καὶ	καί	conjunction	1	and
 HOS 2:7	1	15	οὐ	οὐ	negative particle	1	not
 HOS 2:7	1	16	μὴ	μή	negative particle	1	not
-HOS 2:7	1	17	εὕρῃ	εὑρίσκω	aorist active subjunctive, 3rd sg. continuing condition, finds/catches	1	catches
+HOS 2:7	1	17	εὕρῃ	εὑρίσκω	aorist active subjunctive, 3rd sg. continuing condition, finds/catches	1	may find
 HOS 2:7	1	18	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 HOS 2:7	1	19	Καὶ	καί	conjunction	1	and
 HOS 2:7	1	20	ἐρεῖ	λέγω	future active indicative, third singular	1	will say
 HOS 2:7	1	21	πορεύσομαι	πορεύομαι	future middle indicative, first person singular	1	I will go
 HOS 2:7	1	22	καὶ	καί	conjunction	1	and
-HOS 2:7	1	23	ἐπιστρέψω	ἐπιστρέφω	future active indicative, first singular	1	I will reverse
+HOS 2:7	1	23	ἐπιστρέψω	ἐπιστρέφω	future active indicative, first singular	1	I will return
 HOS 2:7	1	23	ἐπιστρέψω			2	I will turn back
 HOS 2:7	1	24	πρὸς	πρός	preposition with accusative	1	to
 HOS 2:7	1	25	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -213,12 +213,12 @@ HOS 2:7	1	31	καλῶς	καλῶς	adverb	1	well
 HOS 2:7	1	32	μοι	ἐγώ	pronoun, dative first singular	1	to me
 HOS 2:7	1	33	ἦν	εἰμί	imperfect indicative, third singular	1	was
 HOS 2:7	1	34	τότε	τότε	temporal adverb	1	then
-HOS 2:7	1	35	ἢ	ἤ	disjunctive conjunction	1	or
+HOS 2:7	1	35	ἢ	ἤ	disjunctive conjunction	1	than
 HOS 2:7	1	36	νῦν	νῦν	adverb of time	1	now
 HOS 2:8	1	1	καὶ	καί	conjunction	1	and
-HOS 2:8	1	2	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
+HOS 2:8	1	2	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	she
 HOS 2:8	1	3	οὐκ	οὐ	negative adverb	1	not
-HOS 2:8	1	4	ἔγνω	γινώσκω	aorist active indicative, third singular; sexual sense in context	1	had known
+HOS 2:8	1	4	ἔγνω	γινώσκω	aorist active indicative, third singular; sexual sense in context	1	knew
 HOS 2:8	1	5	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 HOS 2:8	1	6	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 HOS 2:8	1	7	δέδωκα	δίδωμι	perfect active indicative, first singular	1	I have given
@@ -236,14 +236,14 @@ HOS 2:8	1	18	ἀργύριον	ἀργύριον	noun, accusative neuter singula
 HOS 2:8	1	18	ἀργύριον			2	money
 HOS 2:8	1	19	ἐπλήθυνα	πληθύνω	aorist active indicative, first singular	1	I multiplied
 HOS 2:8	1	19	ἐπλήθυνα			2	I increased
-HOS 2:8	1	20	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	her
-HOS 2:8	1	21	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
+HOS 2:8	1	20	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	for her
+HOS 2:8	1	21	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	she
 HOS 2:8	1	22	δὲ	δέ	postpositive conjunction	1	and
 HOS 2:8	1	23	ἀργυρᾶ	ἀργυροῦς	adjective, accusative neuter plural; substantival	1	silver objects
 HOS 2:8	1	24	καὶ	καί	conjunction	1	and
 HOS 2:8	1	25	χρυσᾶ	χρυσοῦς	adjective, accusative neuter plural; substantival	1	gold objects
-HOS 2:8	1	26	ἐποίησε	ποιέω	aorist active indicative, third singular	1	he treated
-HOS 2:8	1	27	τῇ	ὁ	article, dative feminine singular	1	the
+HOS 2:8	1	26	ἐποίησε	ποιέω	aorist active indicative, third singular	1	she made
+HOS 2:8	1	27	τῇ	ὁ	article, dative feminine singular	1	for
 HOS 2:8	1	28	Βάαλ	Βάαλ	indeclinable divine name, feminine dative article in context	1	Baal
 HOS 2:9	1	1	Διὰ	διά	preposition with the accusative	1	because of
 HOS 2:9	1	2	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
@@ -257,7 +257,7 @@ HOS 2:9	1	8	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 HOS 2:9	1	9	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	by
 HOS 2:9	1	10	ὥραν	ὥρα	noun, accusative feminine singular	1	season
 HOS 2:9	1	10	ὥραν			2	time
-HOS 2:9	1	11	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
+HOS 2:9	1	11	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	its
 HOS 2:9	1	12	καὶ	καί	conjunction	1	and
 HOS 2:9	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
 HOS 2:9	1	14	οἶνόν	οἶνος	noun, accusative masc. sg. after τὸν	1	wine
@@ -276,7 +276,7 @@ HOS 2:9	1	25	τὰ	ὁ	article, accusative neuter plural	1	the
 HOS 2:9	1	26	ὀθόνιά	ὀθόνιον	noun, accusative neuter plural	1	linen cloths
 HOS 2:9	1	26	ὀθόνιά			2	linen garments
 HOS 2:9	1	27	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-HOS 2:9	1	28	τοῦ	ὁ	article, genitive singular	1	the
+HOS 2:9	1	28	τοῦ	ὁ	article, genitive singular	1	so as
 HOS 2:9	1	29	μὴ	μή	negative particle	1	not
 HOS 2:9	1	30	καλύπτειν	καλύπτω	present active infinitive	1	to cover
 HOS 2:9	1	31	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -316,16 +316,16 @@ HOS 2:11	1	6	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 HOS 2:11	1	7	τὰς	ὁ	article, accusative feminine plural	1	the
 HOS 2:11	1	8	ἑορτὰς	ἑορτή	noun, accusative feminine plural	1	festivals
 HOS 2:11	1	8	ἑορτὰς			2	feasts
-HOS 2:11	1	9	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
+HOS 2:11	1	9	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 HOS 2:11	1	10	καὶ	καί	conjunction	1	and
 HOS 2:11	1	11	τὰς	ὁ	article, accusative feminine plural	1	the
 HOS 2:11	1	12	νουμηνίας	νουμηνία	noun, accusative feminine plural	1	new moons
 HOS 2:11	1	12	νουμηνίας			2	new moon observances
-HOS 2:11	1	13	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
+HOS 2:11	1	13	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 HOS 2:11	1	14	καὶ	καί	conjunction	1	and
 HOS 2:11	1	15	τὰ	ὁ	article, accusative neuter plural	1	the
 HOS 2:11	1	16	σάββατα	σάββατον	noun, accusative neuter plural	1	sabbaths
-HOS 2:11	1	17	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
+HOS 2:11	1	17	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 HOS 2:11	1	18	καὶ	καί	conjunction	1	and
 HOS 2:11	1	19	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 HOS 2:11	1	20	τὰς	ὁ	article, accusative feminine plural	1	the
@@ -349,7 +349,7 @@ HOS 2:12	1	11	μισθώματά	μίσθωμα	noun, nominative neuter plural	1
 HOS 2:12	1	11	μισθώματά			2	payments
 HOS 2:12	1	12	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 HOS 2:12	1	13	ταῦτά	οὗτος	demonstrative pronoun, nominative neut. pl.	1	these things
-HOS 2:12	1	14	ἐστιν	εἰμί	present active indicative, third person singular	1	is
+HOS 2:12	1	14	ἐστιν	εἰμί	present active indicative, third person singular	1	are
 HOS 2:12	1	15	ἃ	ὅς	relative pronoun, accusative neuter plural	1	which
 HOS 2:12	1	16	ἔδωκάν	δίδωμι	aorist active indicative, 3rd pl.	1	they gave
 HOS 2:12	1	17	μοι	ἐγώ	pronoun, dative 1st sg.	1	to me
@@ -390,27 +390,27 @@ HOS 2:13	1	3	ἐπ᾽			2	upon
 HOS 2:13	1	4	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
 HOS 2:13	1	5	τὰς	ὁ	article, accusative feminine plural	1	the
 HOS 2:13	1	6	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
-HOS 2:13	1	7	τῶν	ὁ	article, genitive plural	1	the
+HOS 2:13	1	7	τῶν	ὁ	article, genitive plural	1	of the
 HOS 2:13	1	8	Βααλεὶμ	Βααλείμ	indeclinable plural divine title, genitive in context	1	Baals
 HOS 2:13	1	8	Βααλεὶμ			2	Baalim
 HOS 2:13	1	9	ἐν	ἐν	preposition with the dative	1	in
 HOS 2:13	1	10	αἷς	ὅς	relative pronoun, dative fem. pl. after ἐν	1	which
 HOS 2:13	1	11	ἐπέθυεν	ἐπιθύω	imperfect active indicative, third singular	1	she would sacrifice
 HOS 2:13	1	11	ἐπέθυεν			2	she offered sacrifices
-HOS 2:13	1	12	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
+HOS 2:13	1	12	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 HOS 2:13	1	13	καὶ	καί	conjunction	1	and
 HOS 2:13	1	14	περιετίθετο	περιτίθημι	imperfect middle indicative, third singular	1	she would put on
 HOS 2:13	1	14	περιετίθετο			2	she put on
 HOS 2:13	1	15	τὰ	ὁ	article, neuter plural (case from context)	1	the
 HOS 2:13	1	16	ἐνώτια	ἐνώτιον	noun, accusative neuter plural	1	earrings
-HOS 2:13	1	17	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
+HOS 2:13	1	17	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 HOS 2:13	1	18	καὶ	καί	conjunction	1	and
 HOS 2:13	1	19	τὰ	ὁ	article, accusative neuter plural	1	the
 HOS 2:13	1	20	καθόρμια	καθόρμιον	noun, accusative neuter plural	1	necklaces
 HOS 2:13	1	20	καθόρμια			2	pendants
 HOS 2:13	1	21	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 HOS 2:13	1	22	καὶ	καί	conjunction	1	and
-HOS 2:13	1	23	ἐπορεύετο	πορεύομαι	imperfect middle indicative, third singular	1	kept moving
+HOS 2:13	1	23	ἐπορεύετο	πορεύομαι	imperfect middle indicative, third singular	1	would go
 HOS 2:13	1	23	ἐπορεύετο			2	was surging
 HOS 2:13	1	24	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	after
 HOS 2:13	1	24	ὀπίσω			2	behind
@@ -418,7 +418,7 @@ HOS 2:13	1	25	τῶν	ὁ	article, genitive plural	1	the
 HOS 2:13	1	26	ἐραστῶν	ἐραστής	noun, genitive masculine plural	1	lovers
 HOS 2:13	1	27	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 HOS 2:13	1	28	ἐμοῦ	ἐγώ	personal pronoun, genitive first singular	1	me
-HOS 2:13	1	29	δὲ	δέ	postpositive conjunction	1	now
+HOS 2:13	1	29	δὲ	δέ	postpositive conjunction	1	but
 HOS 2:13	1	30	ἐπελάθετο	ἐπιλανθάνομαι	aorist middle indicative, third singular	1	she forgot
 HOS 2:13	1	31	λέγει	λέγω	present active indicative, third singular	1	says
 HOS 2:13	1	32	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -436,9 +436,9 @@ HOS 2:14	1	9	ὡς	ὡς	comparative particle	1	as
 HOS 2:14	1	10	ἔρημον	ἔρημος	adjective, accusative feminine singular; substantival	1	wilderness
 HOS 2:14	1	11	καὶ	καί	conjunction	1	and
 HOS 2:14	1	12	λαλήσω	λαλέω	future active indicative, first singular	1	I will speak
-HOS 2:14	1	13	ἐπὶ	ἐπί	preposition with the accusative	1	against
+HOS 2:14	1	13	ἐπὶ	ἐπί	preposition with the accusative	1	to
 HOS 2:14	1	14	τὴν	ὁ	article, accusative feminine singular	1	the
-HOS 2:14	1	15	καρδίαν	καρδία	noun, accusative feminine singular	1	heart's desire
+HOS 2:14	1	15	καρδίαν	καρδία	noun, accusative feminine singular	1	heart
 HOS 2:14	1	16	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 HOS 2:15	1	1	Καὶ	καί	conjunction	1	and
 HOS 2:15	1	2	δώσω	δίδωμι	future active indicative, 1st sg.	1	I will give
@@ -451,10 +451,10 @@ HOS 2:15	1	7	ἐκεῖθεν	ἐκεῖθεν	adverb, from there	1	from there
 HOS 2:15	1	8	καὶ	καί	conjunction	1	and
 HOS 2:15	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
 HOS 2:15	1	10	κοιλάδα	κοιλάς	noun, accusative feminine singular	1	valley
-HOS 2:15	1	11	Ἀχὼρ	Ἀχώρ	indeclinable place name, genitive in context	1	Achor
+HOS 2:15	1	11	Ἀχὼρ	Ἀχώρ	indeclinable place name, genitive in context	1	of Achor
 HOS 2:15	1	11	Ἀχὼρ			2	Achor Valley
 HOS 2:15	1	12	διανοῖξαι	διανοίγω	aorist active infinitive	1	to open up
-HOS 2:15	1	13	σύνεσιν	σύνεσις	noun, accusative fem. sg.	1	understanding/wisdom
+HOS 2:15	1	13	σύνεσιν	σύνεσις	noun, accusative fem. sg.	1	understanding
 HOS 2:15	1	14	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 HOS 2:15	1	15	καὶ	καί	conjunction	1	and
 HOS 2:15	1	16	ταπεινωθήσεται	ταπεινόω	future passive indicative, third singular	1	will be humbled
@@ -462,15 +462,15 @@ HOS 2:15	1	17	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 HOS 2:15	1	18	κατὰ	κατά	preposition with the accusative	1	according to
 HOS 2:15	1	19	τὰς	ὁ	article, accusative feminine plural	1	the
 HOS 2:15	1	20	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
-HOS 2:15	1	21	νηπιότητος	νηπιότης	noun, genitive feminine singular	1	childhood
+HOS 2:15	1	21	νηπιότητος	νηπιότης	noun, genitive feminine singular	1	of childhood
 HOS 2:15	1	21	νηπιότητος			2	infancy
 HOS 2:15	1	22	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 HOS 2:15	1	23	καὶ	καί	conjunction	1	and
 HOS 2:15	1	24	κατὰ	κατά	preposition with the accusative	1	according to
 HOS 2:15	1	25	τὰς	ὁ	article, accusative feminine plural	1	the
 HOS 2:15	1	26	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
-HOS 2:15	1	27	ἀναβάσεως	ἀνάβασις	noun, genitive feminine singular	1	ascent
-HOS 2:15	1	28	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	1	its
+HOS 2:15	1	27	ἀναβάσεως	ἀνάβασις	noun, genitive feminine singular	1	of ascent
+HOS 2:15	1	28	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	1	her
 HOS 2:15	1	29	ἐκ	ἐκ	preposition with the genitive	1	from
 HOS 2:15	1	30	γῆς	γῆ	noun, genitive feminine singular	1	the land
 HOS 2:15	1	31	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
@@ -500,12 +500,12 @@ HOS 2:17	1	2	ἐξαρῶ	ἐξαίρω	future active indicative, first singular
 HOS 2:17	1	2	ἐξαρῶ			2	I will take away
 HOS 2:17	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 HOS 2:17	1	4	ὀνόματα	ὄνομα	noun, accusative neuter plural	1	names
-HOS 2:17	1	5	τῶν	ὁ	article, genitive plural	1	the
+HOS 2:17	1	5	τῶν	ὁ	article, genitive plural	1	of the
 HOS 2:17	1	6	Βααλεὶμ	Βααλείμ	indeclinable plural divine title, genitive in context	1	Baals
 HOS 2:17	1	6	Βααλεὶμ			2	Baalim
 HOS 2:17	1	7	ἐκ	ἐκ	preposition with the genitive	1	from
 HOS 2:17	1	8	στόματος	στόμα	noun, genitive neuter singular	1	the mouth
-HOS 2:17	1	9	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
+HOS 2:17	1	9	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 HOS 2:17	1	10	καὶ	καί	conjunction	1	and
 HOS 2:17	1	11	οὐ	οὐ	negative particle	1	not
 HOS 2:17	1	12	μὴ	μή	negative particle completing οὐ μή, with οὐ	1	—
@@ -517,7 +517,7 @@ HOS 2:17	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 HOS 2:18	1	1	Καὶ	καί	conjunction	1	and
 HOS 2:18	1	2	διαθήσομαι	διατίθημι	future middle indicative, first singular	1	I will establish
 HOS 2:18	1	2	διαθήσομαι			2	I will make
-HOS 2:18	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
+HOS 2:18	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	for them
 HOS 2:18	1	4	ἐν	ἐν	preposition with the dative	1	in
 HOS 2:18	1	5	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative feminine singular	1	that
 HOS 2:18	1	6	τῇ	ὁ	article, dative feminine singular	1	the
@@ -526,7 +526,7 @@ HOS 2:18	1	8	διαθήκην	διαθήκη	noun, accusative feminine singular	
 HOS 2:18	1	9	μετὰ	μετά	preposition with genitive	1	with
 HOS 2:18	1	10	τῶν	ὁ	article, genitive neuter plural	1	the
 HOS 2:18	1	11	θηρίων	θηρίον	noun, genitive neuter plural	1	wild animals
-HOS 2:18	1	12	τοῦ	ὁ	article, genitive singular	1	the
+HOS 2:18	1	12	τοῦ	ὁ	article, genitive singular	1	of the
 HOS 2:18	1	13	ἀγροῦ	ἀγρός	noun, genitive masculine singular	1	field
 HOS 2:18	1	14	καὶ	καί	conjunction	1	and
 HOS 2:18	1	15	μετὰ	μετά	preposition with the genitive	1	with
@@ -539,7 +539,7 @@ HOS 2:18	1	20	καὶ	καί	conjunction	1	and
 HOS 2:18	1	21	μετὰ	μετά	preposition with the genitive	1	with
 HOS 2:18	1	22	τῶν	ὁ	article, genitive plural	1	the
 HOS 2:18	1	23	ἑρπετῶν	ἑρπετόν	noun, genitive neuter plural	1	creeping creatures
-HOS 2:18	1	24	τῆς	ὁ	article, genitive feminine singular	1	the
+HOS 2:18	1	24	τῆς	ὁ	article, genitive feminine singular	1	of the
 HOS 2:18	1	25	γῆς	γῆ	noun, genitive feminine singular	1	earth
 HOS 2:18	1	26	καὶ	καί	conjunction	1	and
 HOS 2:18	1	27	τόξον	τόξον	noun, nominative neuter singular	1	bow
@@ -557,7 +557,7 @@ HOS 2:18	1	36	καὶ	καί	conjunction	1	and
 HOS 2:18	1	37	κατοικιῶ	κατοικίζω	future active indicative, first singular	1	I will settle
 HOS 2:18	1	37	κατοικιῶ			2	I will make dwell
 HOS 2:18	1	38	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-HOS 2:18	1	39	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+HOS 2:18	1	39	ἐπ᾽	ἐπί	preposition with the accusative	1	in
 HOS 2:18	1	40	ἐλπίδι	ἐλπίς	noun dative feminine singular	1	hope
 HOS 2:19	1	1	Καὶ	καί	conjunction	1	and
 HOS 2:19	1	2	μνηστεύσομαί	μνηστεύω	future middle indicative, first singular	1	I will betroth
@@ -635,7 +635,7 @@ HOS 2:22	1	13	καὶ	καί	conjunction	1	and
 HOS 2:22	1	14	αὐτὰ	αὐτός	pronoun, nominative neuter plural	1	they
 HOS 2:22	1	15	ἐπακούσεται	ἐπακούω	future middle indicative, third singular; singular with neuter plural subject	1	will answer
 HOS 2:22	1	15	ἐπακούσεται			2	will listen to
-HOS 2:22	1	16	τῷ	ὁ	article, dative masculine singular	1	the
+HOS 2:22	1	16	τῷ	ὁ	article, dative masculine singular	1	to
 HOS 2:22	1	17	Ἰεζραέλ	Ἰεζραέλ	indeclinable name, dative in context	1	Jezreel
 HOS 2:23	1	1	Καὶ	καί	conjunction	1	and
 HOS 2:23	1	2	σπερῶ	σπείρω	future active indicative, first singular	1	I will sow
@@ -653,7 +653,7 @@ HOS 2:23	1	12	ἠλεημένην	ἐλεέω	perfect passive participle, accusa
 HOS 2:23	1	12	ἠλεημένην			2	pitied
 HOS 2:23	1	13	καὶ	καί	conjunction	1	and
 HOS 2:23	1	14	ἐρῶ	λέγω	future active indicative, first singular	1	I will say
-HOS 2:23	1	15	τῷ	ὁ	article, dative masculine singular	1	the
+HOS 2:23	1	15	τῷ	ὁ	article, dative masculine singular	1	to the
 HOS 2:23	1	16	οὐ	οὐ	negative particle	1	not
 HOS 2:23	1	17	λαῷ	λαός	noun, dative masculine singular	1	people
 HOS 2:23	1	18	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my

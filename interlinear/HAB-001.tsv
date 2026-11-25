@@ -40,7 +40,7 @@ HAB 1:3	1	4	κόπους			2	hardships
 HAB 1:3	1	5	καὶ	καί	conjunction	1	and
 HAB 1:3	1	6	πόνους	πόνος	noun, accusative masculine plural	1	sufferings
 HAB 1:3	1	6	πόνους			2	pains
-HAB 1:3	1	7	ἐπιβλέπειν	ἐπιβλέπω	present active infinitive	1	to look upon
+HAB 1:3	1	7	ἐπιβλέπειν	ἐπιβλέπω	present active infinitive	1	to look
 HAB 1:3	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	on
 HAB 1:3	1	9	ταλαιπωρίαν	ταλαιπωρία	noun, accusative feminine singular	1	misery
 HAB 1:3	1	9	ταλαιπωρίαν			2	ruin
@@ -65,7 +65,7 @@ HAB 1:4	1	10	νόμος			2	instruction
 HAB 1:4	1	11	καὶ	καί	conjunction	1	and
 HAB 1:4	1	12	οὐ	οὐ	negative particle	1	not
 HAB 1:4	1	13	διεξάγεται	διεξάγω	present middle/passive indicative, third singular	1	is carried through
-HAB 1:4	1	14	εἰς	εἰς	preposition with the accusative; εἰς τέλος idiom	1	in
+HAB 1:4	1	14	εἰς	εἰς	preposition with the accusative; εἰς τέλος idiom	1	to
 HAB 1:4	1	15	τέλος	τέλος	noun, accusative neuter singular; εἰς τέλος idiom	1	completion
 HAB 1:4	1	15	τέλος			2	the end
 HAB 1:4	1	16	κρῖμα	κρῖμα	noun, accusative neuter singular	1	justice
@@ -75,7 +75,7 @@ HAB 1:4	1	18	ὁ	ὁ	article, nominative masculine singular	1	the
 HAB 1:4	1	19	ἀσεβὴς	ἀσεβής	adjective, nominative masculine singular; used substantivally	1	ungodly person
 HAB 1:4	1	20	καταδυναστεύει	καταδυναστεύω	present active indicative, third singular	1	oppresses
 HAB 1:4	1	21	τὸν	ὁ	article, accusative masculine singular	1	the
-HAB 1:4	1	22	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	1	a righteous person
+HAB 1:4	1	22	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	1	righteous person
 HAB 1:4	1	23	ἕνεκεν	ἕνεκα	preposition with genitive	1	because of
 HAB 1:4	1	24	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	this
 HAB 1:4	1	25	ἐξελεύσεται	ἐξέρχομαι	future middle indicative, third singular	1	will come out
@@ -86,8 +86,8 @@ HAB 1:4	1	28	διεστραμμένον	διαστρέφω	perfect middle/passiv
 HAB 1:4	1	28	διεστραμμένον			2	perverted
 HAB 1:5	1	1	Ἴδετε	ὁράω	aorist active imperative, second plural	1	see
 HAB 1:5	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
-HAB 1:5	1	3	καταφρονηταὶ	καταφρονητής	noun, nominative masculine plural; nominative used as address	1	you who despise
-HAB 1:5	1	3	καταφρονηταὶ			2	scoffers
+HAB 1:5	1	3	καταφρονηταὶ	καταφρονητής	noun, nominative masculine plural; nominative used as address	1	scoffers
+HAB 1:5	1	3	καταφρονηταὶ			2	you who despise
 HAB 1:5	1	4	καὶ	καί	conjunction	1	and
 HAB 1:5	1	5	ἐπιβλέψατε	ἐπιβλέπω	aorist active imperative, second plural	1	look
 HAB 1:5	1	5	ἐπιβλέψατε			2	look upon
@@ -102,7 +102,7 @@ HAB 1:5	1	10	ἀφανίσθητε			2	be destroyed
 HAB 1:5	1	11	διότι	διότι	causal conjunction	1	because
 HAB 1:5	1	12	ἔργον	ἔργον	noun, accusative neut. sg. as manner 'work/workmanship'	1	work
 HAB 1:5	1	13	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-HAB 1:5	1	14	ἐργάζομαι	ἐργάζομαι	present middle indicative, first singular	1	I am doing
+HAB 1:5	1	14	ἐργάζομαι	ἐργάζομαι	present middle indicative, first singular	1	am doing
 HAB 1:5	1	14	ἐργάζομαι			2	I work
 HAB 1:5	1	15	ἐν	ἐν	preposition with the dative	1	in
 HAB 1:5	1	16	ταῖς	ὁ	article, dative feminine plural	1	the
@@ -111,16 +111,16 @@ HAB 1:5	1	18	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	
 HAB 1:5	1	19	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
 HAB 1:5	1	20	οὐ	οὐ	particle	1	not
 HAB 1:5	1	21	μὴ	μή	negative particle completing οὐ μή	1	(with οὐ)
-HAB 1:5	1	22	πιστεύσητε	πιστεύω	aorist active subjunctive, second plural	1	you believe
+HAB 1:5	1	22	πιστεύσητε	πιστεύω	aorist active subjunctive, second plural	1	you will believe
 HAB 1:5	1	23	ἐάν	ἐάν	conditional conjunction with the subjunctive	1	if
 HAB 1:5	1	24	τις	τις	indefinite pronoun, nominative masculine singular	1	one
 HAB 1:5	1	25	ἐκδιηγῆται	ἐκδιηγέομαι	present middle subjunctive, third singular	1	recounts
 HAB 1:5	1	25	ἐκδιηγῆται			2	tells in detail
 HAB 1:5	1	26	ὑμῖν	σύ	pronoun, dative second plural	1	to you
-HAB 1:6	1	1	Ὅτι	ὅτι	conjunction introducing an oath	1	that
+HAB 1:6	1	1	Ὅτι	ὅτι	conjunction introducing an oath	1	for
 HAB 1:6	1	2	ἰδοὺ	ἰδού	presentative particle	1	behold
 HAB 1:6	1	3	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-HAB 1:6	1	4	ἐξεγείρω	ἐξεγείρω	present active indicative, first singular; prospective	1	I am rousing
+HAB 1:6	1	4	ἐξεγείρω	ἐξεγείρω	present active indicative, first singular; prospective	1	am rousing
 HAB 1:6	1	4	ἐξεγείρω			2	I am raising
 HAB 1:6	1	5	ἐφ᾽	ἐπί	elided preposition with accusative	1	against
 HAB 1:6	1	6	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
@@ -144,7 +144,7 @@ HAB 1:6	1	20	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 HAB 1:6	1	21	τὰ	ὁ	article, neuter plural (case from context)	1	the
 HAB 1:6	1	22	πλάτη	πλάτος	noun, accusative neuter plural	1	expanses
 HAB 1:6	1	22	πλάτη			2	breadths
-HAB 1:6	1	23	τῆς	ὁ	article, genitive feminine singular	1	the
+HAB 1:6	1	23	τῆς	ὁ	article, genitive feminine singular	1	of the
 HAB 1:6	1	24	γῆς	γῆ	noun, genitive feminine singular	1	land
 HAB 1:6	1	25	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	1	in order
 HAB 1:6	1	26	κατακληρονομῆσαι	κατακληρονομέω	aorist active infinitive	1	to inherit
@@ -210,7 +210,7 @@ HAB 1:8	1	25	ὡς	ὡς	comparative particle	1	as
 HAB 1:8	1	26	ἀετὸς	ἀετός	noun, nominative masculine singular	1	eagle
 HAB 1:8	1	27	πρόθυμος	πρόθυμος	adjective, nominative masculine singular	1	eager
 HAB 1:8	1	27	πρόθυμος			2	ready
-HAB 1:8	1	28	εἰς	εἰς	preposition with the accusative	1	into
+HAB 1:8	1	28	εἰς	εἰς	preposition with the accusative	1	for
 HAB 1:8	1	29	τὸ	ὁ	article, accusative neuter singular	1	the
 HAB 1:8	1	30	φαγεῖν	ἐσθίω	aorist active infinitive	1	to eat
 HAB 1:9	1	1	Συντέλεια	συντέλεια	noun, nominative feminine singular	1	destruction
@@ -244,9 +244,9 @@ HAB 1:10	1	8	παίγνια			2	objects of sport
 HAB 1:10	1	9	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 HAB 1:10	1	10	καὶ	καί	conjunction	1	and
 HAB 1:10	1	11	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
-HAB 1:10	1	12	εἰς	εἰς	preposition with the accusative	1	into
+HAB 1:10	1	12	εἰς	εἰς	preposition with the accusative	1	at
 HAB 1:10	1	13	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
-HAB 1:10	1	14	ὀχύρωμα	ὀχύρωμα	noun, accusative neuter singular after τὸ	1	fortress/prison
+HAB 1:10	1	14	ὀχύρωμα	ὀχύρωμα	noun, accusative neuter singular after τὸ	1	fortress
 HAB 1:10	1	15	ἐμπαίξεται	ἐμπαίζω	future middle indicative, third singular	1	will mock
 HAB 1:10	1	15	ἐμπαίξεται			2	will make sport
 HAB 1:10	1	16	καὶ	καί	conjunction	1	and
@@ -262,8 +262,8 @@ HAB 1:11	1	1	τότε	τότε	temporal adverb	1	then
 HAB 1:11	1	2	μεταβαλεῖ	μεταβάλλω	future active indicative, third singular	1	will change
 HAB 1:11	1	2	μεταβαλεῖ			2	will turn
 HAB 1:11	1	3	τὸ	ὁ	article, nominative neuter singular	1	the
-HAB 1:11	1	4	πνεῦμα	πνεῦμα	noun, nominative neuter singular; nominative reading, also formally accusative	1	wind
-HAB 1:11	1	4	πνεῦμα			2	spirit
+HAB 1:11	1	4	πνεῦμα	πνεῦμα	noun, nominative neuter singular; nominative reading, also formally accusative	1	spirit
+HAB 1:11	1	4	πνεῦμα			2	wind
 HAB 1:11	1	5	καὶ	καί	conjunction	1	and
 HAB 1:11	1	6	διελεύσεται	διέρχομαι	future middle indicative, third singular	1	will pass
 HAB 1:11	1	6	διελεύσεται			2	will pass by
@@ -272,7 +272,7 @@ HAB 1:11	1	8	ἐξιλάσεται	ἐξιλάσκομαι	future middle indicat
 HAB 1:11	1	9	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 HAB 1:11	1	10	ἡ	ὁ	article, nominative feminine singular	1	the
 HAB 1:11	1	11	ἰσχὺς	ἰσχύς	noun, nominative feminine singular	1	strength
-HAB 1:11	1	12	τῷ	ὁ	article, dative masculine singular	1	the
+HAB 1:11	1	12	τῷ	ὁ	article, dative masculine singular	1	to the
 HAB 1:11	1	13	Θεῷ	θεός	noun, dative masculine singular	1	God
 HAB 1:11	1	14	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 HAB 1:12	1	1	Οὐχὶ	οὐχί	negative particle, emphatic form	1	not
@@ -291,9 +291,9 @@ HAB 1:12	1	13	οὐ	οὐ	negative particle	1	not
 HAB 1:12	1	14	μὴ	μή	negative particle completing οὐ μή	1	(with οὐ)
 HAB 1:12	1	15	ἀποθάνωμεν	ἀποθνῄσκω	aorist active subjunctive, first plural	1	we will die
 HAB 1:12	1	16	Κύριε	κύριος	noun, vocative masculine singular	1	Lord
-HAB 1:12	1	17	εἰς	εἰς	preposition with the accusative	1	into
-HAB 1:12	1	18	κρῖμα	κρῖμα	noun, accusative neuter singular	1	justice
-HAB 1:12	1	18	κρῖμα			2	judgment
+HAB 1:12	1	17	εἰς	εἰς	preposition with the accusative	1	for
+HAB 1:12	1	18	κρῖμα	κρῖμα	noun, accusative neuter singular	1	judgment
+HAB 1:12	1	18	κρῖμα			2	justice
 HAB 1:12	1	19	τέταχας	τάσσω	perfect active indicative, second singular	1	you have appointed
 HAB 1:12	1	19	τέταχας			2	you have set
 HAB 1:12	1	20	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
@@ -310,7 +310,7 @@ HAB 1:12	1	27	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	h
 HAB 1:13	1	1	Καθαρὸς	καθαρός	adjective, nominative masculine singular	1	clear
 HAB 1:13	1	1	Καθαρὸς			2	free
 HAB 1:13	1	2	ὀφθαλμός	ὀφθαλμός	noun, nominative masculine singular	1	eye
-HAB 1:13	1	3	σου	σύ	pronoun, genitive second singular; object of φείδομαι	1	you
+HAB 1:13	1	3	σου	σύ	pronoun, genitive second singular; object of φείδομαι	1	your
 HAB 1:13	1	4	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive expressing prevention	1	[introduces the infinitive]
 HAB 1:13	1	5	μὴ	μή	negative particle	1	not
 HAB 1:13	1	6	ὁρᾶν	ὁράω	present active infinitive	1	to look at
@@ -318,17 +318,17 @@ HAB 1:13	1	6	ὁρᾶν			2	to see
 HAB 1:13	1	7	πονηρὰ	πονηρός	adjective, accusative neuter plural; substantival	1	evil things
 HAB 1:13	1	7	πονηρὰ			2	evils
 HAB 1:13	1	8	καὶ	καί	conjunction	1	and
-HAB 1:13	1	9	ἐπιβλέπειν	ἐπιβλέπω	present active infinitive	1	to look upon
-HAB 1:13	1	10	ἐπὶ	ἐπί	preposition with genitive	1	for
+HAB 1:13	1	9	ἐπιβλέπειν	ἐπιβλέπω	present active infinitive	1	to look
+HAB 1:13	1	10	ἐπὶ	ἐπί	preposition with genitive	1	upon
 HAB 1:13	1	11	πόνους	πόνος	noun, accusative masculine plural	1	sufferings
 HAB 1:13	1	11	πόνους			2	pains
 HAB 1:13	1	12	οὐ	οὐ	negative adverb with future indicative	1	not
 HAB 1:13	1	13	δυνήσῃ	δύναμαι	future middle indicative, 2nd sg.	1	you will be able
 HAB 1:13	1	14	εἰς	εἰς	preposition with the accusative	1	for
 HAB 1:13	1	15	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
-HAB 1:13	1	16	ἐπιβλέπεις	ἐπιβλέπω	present active indicative, second singular	1	do you look upon
+HAB 1:13	1	16	ἐπιβλέπεις	ἐπιβλέπω	present active indicative, second singular	1	do you look
 HAB 1:13	1	16	ἐπιβλέπεις			2	you look upon
-HAB 1:13	1	17	ἐπὶ	ἐπί	preposition with the accusative	1	against
+HAB 1:13	1	17	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 HAB 1:13	1	18	καταφρονοῦντας	καταφρονέω	present active participle, accusative masculine plural; substantival	1	those who despise
 HAB 1:13	1	18	καταφρονοῦντας			2	the scornful
 HAB 1:13	1	19	παρασιωπήσῃ	παρασιωπάω	future middle indicative, second singular	1	will you keep silent
@@ -338,7 +338,7 @@ HAB 1:13	1	21	τῷ	ὁ	article, dative masculine singular	1	the
 HAB 1:13	1	22	καταπίνειν	καταπίνω	present active infinitive	1	to swallow up
 HAB 1:13	1	23	ἀσεβῆ	ἀσεβής	adjective/noun, accusative masc. sg. after τὸν, the wicked	1	wicked
 HAB 1:13	1	24	τὸν	ὁ	article, accusative masculine singular	1	the
-HAB 1:13	1	25	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	1	a righteous person
+HAB 1:13	1	25	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	1	righteous person
 HAB 1:14	1	1	Καὶ	καί	conjunction	1	and
 HAB 1:14	1	2	ποιήσεις	ποιέω	future active indicative, second singular	1	you shall make
 HAB 1:14	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the

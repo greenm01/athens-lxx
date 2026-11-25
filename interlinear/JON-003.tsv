@@ -60,7 +60,7 @@ JON 3:3	1	17	τῷ	ὁ	article, dative masculine singular	1	to
 JON 3:3	1	18	Θεῷ	θεός	noun, dative masculine singular; dative of reference	1	God
 JON 3:3	1	19	ὡσεὶ	ὡσεί	approximative adverb	1	about
 JON 3:3	1	20	πορείας	πορεία	noun, genitive feminine singular; genitive of measure	1	journey
-JON 3:3	1	21	ὁδοῦ	ὁδός	noun, genitive feminine singular	1	travel
+JON 3:3	1	21	ὁδοῦ	ὁδός	noun, genitive feminine singular	1	of travel
 JON 3:3	1	21	ὁδοῦ			2	road
 JON 3:3	1	22	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	of days
 JON 3:3	1	23	τριῶν	τρεῖς	cardinal numeral, genitive plural (ἔτι τριῶν ἡμερῶν, genitive absolute-like time phrase as printed)	1	three
@@ -68,7 +68,7 @@ JON 3:4	1	1	Καὶ	καί	conjunction	1	and
 JON 3:4	1	2	ἤρξατο	ἄρχω	aorist middle indicative, third singular	1	began
 JON 3:4	1	3	Ἰωνᾶς	Ἰωνᾶς	noun, nominative masculine singular; personal name	1	Jonah
 JON 3:4	1	3	Ἰωνᾶς			2	Ionas
-JON 3:4	1	4	τοῦ	ὁ	article, genitive masculine singular	1	of the
+JON 3:4	1	4	τοῦ	ὁ	article, genitive masculine singular	1	(marks the infinitive)
 JON 3:4	1	5	εἰσπορεύεσθαι	εἰσπορεύομαι	present middle infinitive	1	to go in
 JON 3:4	1	5	εἰσπορεύεσθαι			2	to enter
 JON 3:4	1	6	εἰς	εἰς	preposition with the accusative	1	into
@@ -76,7 +76,7 @@ JON 3:4	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 JON 3:4	1	8	πόλιν	πόλις	noun, accusative feminine singular	1	city
 JON 3:4	1	9	ὡσεὶ	ὡσεί	approximative adverb	1	about
 JON 3:4	1	10	πορείαν	πορεία	noun, accusative feminine singular	1	journey
-JON 3:4	1	11	ὁδοῦ	ὁδός	noun, genitive feminine singular	1	travel
+JON 3:4	1	11	ὁδοῦ	ὁδός	noun, genitive feminine singular	1	of travel
 JON 3:4	1	11	ὁδοῦ			2	road
 JON 3:4	1	12	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	of a day
 JON 3:4	1	13	μιᾶς	εἷς	cardinal numeral, genitive feminine singular	1	one
@@ -112,7 +112,7 @@ JON 3:5	1	13	σάκκους	σάκκος	noun, accusative masculine plural	1	sac
 JON 3:5	1	13	σάκκους			2	coarse cloths
 JON 3:5	1	14	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JON 3:5	1	15	μεγάλου	μέγας	adjective, genitive masculine singular; substantival	1	greatest
-JON 3:5	1	16	αὐτῶν	αὐτός	pronoun, genitive masculine plural; governed by ὀπίσω	1	them
+JON 3:5	1	16	αὐτῶν	αὐτός	pronoun, genitive masculine plural; governed by ὀπίσω	1	their
 JON 3:5	1	17	ἕως	ἕως	preposition with the genitive	1	as far as
 JON 3:5	1	17	ἕως			2	up to
 JON 3:5	1	18	μικροῦ	μικρός	adjective, genitive masculine singular; substantival	1	least
@@ -225,7 +225,7 @@ JON 3:8	1	25	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JON 3:8	1	26	τῆς	ὁ	article, genitive feminine singular	1	the
 JON 3:8	1	27	ἀδικίας	ἀδικία	noun, genitive feminine singular	1	wrongdoing
 JON 3:8	1	27	ἀδικίας			2	injustice
-JON 3:8	1	28	τῆς	ὁ	article, genitive feminine singular	1	of the
+JON 3:8	1	28	τῆς	ὁ	article, genitive feminine singular	1	—
 JON 3:8	1	29	ἐν	ἐν	preposition with the dative	1	in
 JON 3:8	1	30	χερσὶν	χείρ	noun, dative feminine plural after ταῖς/ἐν ταῖς (poetic χερσὶν)	1	hands
 JON 3:8	1	31	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -242,7 +242,7 @@ JON 3:9	1	8	ἀποστρέψει	ἀποστρέφω	future active indicative, 
 JON 3:9	1	9	ἐξ	ἐκ	preposition with the genitive before a vowel	1	from
 JON 3:9	1	10	ὀργῆς	ὀργή	noun, genitive feminine singular	1	anger
 JON 3:9	1	10	ὀργῆς			2	wrath
-JON 3:9	1	11	θυμοῦ	θυμός	noun, genitive masculine singular	1	fury
+JON 3:9	1	11	θυμοῦ	θυμός	noun, genitive masculine singular	1	of fury
 JON 3:9	1	11	θυμοῦ			2	wrath
 JON 3:9	1	12	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
 JON 3:9	1	13	καὶ	καί	conjunction	1	and

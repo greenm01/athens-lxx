@@ -37,7 +37,7 @@ JON 4:2	1	24	διὰ	διά	preposition with the accusative	1	because of
 JON 4:2	1	25	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 JON 4:2	1	26	προέφθασα	προφθάνω	aorist active indicative, first singular	1	I acted ahead of time
 JON 4:2	1	26	προέφθασα			2	I was quick
-JON 4:2	1	27	τοῦ	ὁ	article, genitive masculine singular	1	of the
+JON 4:2	1	27	τοῦ	ὁ	article, genitive masculine singular	1	(marks the infinitive)
 JON 4:2	1	28	φυγεῖν	φεύγω	aorist active infinitive	1	to flee
 JON 4:2	1	28	φυγεῖν			2	to escape
 JON 4:2	1	29	εἰς	εἰς	preposition with the accusative	1	into
@@ -82,12 +82,12 @@ JON 4:3	1	12	καλὸν	καλός	adjective, nominative neuter singular; predi
 JON 4:3	1	12	καλὸν			2	good
 JON 4:3	1	13	τὸ	ὁ	article, nominative neuter singular	1	the
 JON 4:3	1	14	ἀποθανεῖν	ἀποθνῄσκω	aorist active infinitive	1	to die
-JON 4:3	1	15	με	ἐγώ	personal pronoun, accusative first singular; subject of infinitive	1	I
-JON 4:3	1	15	με			2	me
+JON 4:3	1	15	με	ἐγώ	personal pronoun, accusative first singular; subject of infinitive	1	me
+JON 4:3	1	15	με			2	I
 JON 4:3	1	16	ἢ	ἤ	comparative conjunction	1	than
 JON 4:3	1	17	ζῆν	ζάω	present active infinitive	1	to live
-JON 4:3	1	18	με	ἐγώ	personal pronoun, accusative first singular; subject of infinitive	1	I
-JON 4:3	1	18	με			2	me
+JON 4:3	1	18	με	ἐγώ	personal pronoun, accusative first singular; subject of infinitive	1	me
+JON 4:3	1	18	με			2	I
 JON 4:4	1	1	Καὶ	καί	conjunction	1	and
 JON 4:4	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 JON 4:4	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -96,7 +96,7 @@ JON 4:4	1	5	Ἰωνᾶν	Ἰωνᾶς	noun, accusative masculine singular; perso
 JON 4:4	1	5	Ἰωνᾶν			2	Ionas
 JON 4:4	1	6	εἰ	εἰ	interrogative particle introducing a direct question	1	(marks a question)
 JON 4:4	1	7	σφόδρα	σφόδρα	adverb of degree	1	greatly
-JON 4:4	1	8	λελύπησαι	λυπέω	perfect middle/passive indicative, second singular	1	are you distressed
+JON 4:4	1	8	λελύπησαι	λυπέω	perfect middle/passive indicative, second singular	1	are distressed
 JON 4:4	1	8	λελύπησαι			2	have you been grieved
 JON 4:4	1	9	σύ	σύ	personal pronoun, nominative singular, emphatic	1	you
 JON 4:5	1	1	Καὶ	καί	conjunction	1	and
@@ -253,7 +253,7 @@ JON 4:9	1	7	Ἰωνᾶν	Ἰωνᾶς	noun, accusative masculine singular; perso
 JON 4:9	1	7	Ἰωνᾶν			2	Ionas
 JON 4:9	1	8	εἰ	εἰ	interrogative particle introducing a direct question	1	(marks a question)
 JON 4:9	1	9	σφόδρα	σφόδρα	adverb of degree	1	greatly
-JON 4:9	1	10	λελύπησαι	λυπέω	perfect middle/passive indicative, second singular	1	are you distressed
+JON 4:9	1	10	λελύπησαι	λυπέω	perfect middle/passive indicative, second singular	1	are distressed
 JON 4:9	1	10	λελύπησαι			2	have you been grieved
 JON 4:9	1	11	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 JON 4:9	1	12	ἐπὶ	ἐπί	preposition with dative	1	over
@@ -264,7 +264,7 @@ JON 4:9	1	14	κολοκύντῃ			2	gourd plant
 JON 4:9	1	15	Καὶ	καί	conjunction	1	and
 JON 4:9	1	16	εἶπε	λέγω	aorist active indicative, third singular	1	said
 JON 4:9	1	17	σφόδρα	σφόδρα	adverb of degree	1	greatly
-JON 4:9	1	18	λελύπημαι	λυπέω	perfect middle/passive indicative, first singular	1	I am distressed
+JON 4:9	1	18	λελύπημαι	λυπέω	perfect middle/passive indicative, first singular	1	am distressed
 JON 4:9	1	18	λελύπημαι			2	I am grieved
 JON 4:9	1	19	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 JON 4:9	1	20	ἕως	ἕως	preposition with the genitive	1	as far as
@@ -274,7 +274,7 @@ JON 4:10	1	1	Καὶ	καί	conjunction	1	and
 JON 4:10	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 JON 4:10	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JON 4:10	1	4	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
-JON 4:10	1	5	ἐφείσω	φείδομαι	aorist middle indicative, second singular	1	you had pity
+JON 4:10	1	5	ἐφείσω	φείδομαι	aorist middle indicative, second singular	1	had pity
 JON 4:10	1	5	ἐφείσω			2	you cared
 JON 4:10	1	6	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
 JON 4:10	1	6	ὑπὲρ			2	concerning
@@ -294,13 +294,13 @@ JON 4:10	1	15	καὶ	καί	conjunction	1	and
 JON 4:10	1	16	οὐκ	οὐ	negative adverb with future indicative	1	not
 JON 4:10	1	17	ἐξέθρεψας	ἐκτρέφω	aorist active indicative, second singular	1	you raised
 JON 4:10	1	17	ἐξέθρεψας			2	you nurtured
-JON 4:10	1	18	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
+JON 4:10	1	18	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 JON 4:10	1	19	ἣ	ὅς	relative pronoun, nominative feminine singular	1	which
 JON 4:10	1	20	ὑπὸ	ὑπό	preposition with accusative; temporal	1	during
 JON 4:10	1	21	νύκτα	νύξ	noun, accusative feminine singular	1	night
 JON 4:10	1	22	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	came to be
 JON 4:10	1	22	ἐγενήθη			2	sprang up
-JON 4:10	1	23	καὶ	καί	additive conjunction	1	also
+JON 4:10	1	23	καὶ	καί	additive conjunction	1	and
 JON 4:10	1	23	καὶ			2	too
 JON 4:10	1	24	ὑπὸ	ὑπό	preposition with accusative; temporal	1	during
 JON 4:10	1	25	νύκτα	νύξ	noun, accusative feminine singular	1	night
@@ -328,7 +328,7 @@ JON 4:11	1	15	ἢ	ἤ	comparative conjunction	1	than
 JON 4:11	1	16	δώδεκα	δώδεκα	indeclinable cardinal numeral	1	twelve
 JON 4:11	1	17	μυριάδες	μυριάς	noun, nominative feminine plural	1	groups of ten thousand
 JON 4:11	1	17	μυριάδες			2	myriads
-JON 4:11	1	18	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	human beings
+JON 4:11	1	18	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	of human beings
 JON 4:11	1	18	ἀνθρώπων			2	people
 JON 4:11	1	19	οἵτινες	ὅστις	relative pronoun, nominative masculine plural; qualitative relative pronoun	1	who
 JON 4:11	1	20	οὐκ	οὐ	negative particle	1	not

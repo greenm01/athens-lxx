@@ -19,7 +19,7 @@ HOS 6:1	1	15	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 HOS 6:1	1	16	ὅτι	ὅτι	causal conjunction	1	because
 HOS 6:1	1	17	αὐτὸς	αὐτός	emphatic pronoun, nominative masculine singular	1	he
 HOS 6:1	1	17	αὐτὸς			2	he himself
-HOS 6:1	1	18	ἥρπακε	ἁρπάζω	perfect active indicative, third singular	1	he has seized
+HOS 6:1	1	18	ἥρπακε	ἁρπάζω	perfect active indicative, third singular	1	has seized
 HOS 6:1	1	18	ἥρπακε			2	he has torn away
 HOS 6:1	1	19	καὶ	καί	conjunction	1	and
 HOS 6:1	1	20	ἰάσεται	ἰάομαι	future middle indicative, third singular	1	he will heal
@@ -45,14 +45,14 @@ HOS 6:3	1	1	καὶ	καί	conjunction	1	and
 HOS 6:3	1	2	ζησόμεθα	ζάω	future middle indicative, first plural	1	we will live
 HOS 6:3	1	3	ἐνώπιον	ἐνώπιον	preposition with the genitive	1	before
 HOS 6:3	1	3	ἐνώπιον			2	in the sight of
-HOS 6:3	1	4	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+HOS 6:3	1	4	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	him
 HOS 6:3	1	5	καὶ	καί	conjunction	1	and
 HOS 6:3	1	6	γνωσόμεθα	γινώσκω	future middle indicative, first plural	1	we will know
 HOS 6:3	1	7	διώξωμεν	διώκω	aorist active subjunctive, first plural	1	let us pursue
 HOS 6:3	1	7	διώξωμεν			2	let us press on
-HOS 6:3	1	8	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	1	the
-HOS 6:3	1	9	γνῶναι	γινώσκω	aorist active infinitive	1	to find out
-HOS 6:3	1	9	γνῶναι			2	to know
+HOS 6:3	1	8	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	1	—
+HOS 6:3	1	9	γνῶναι	γινώσκω	aorist active infinitive	1	to know
+HOS 6:3	1	9	γνῶναι			2	to find out
 HOS 6:3	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 HOS 6:3	1	11	Κύριον	κύριος	noun, accusative masculine singular	1	Lord
 HOS 6:3	1	12	ὡς	ὡς	comparative particle	1	as
@@ -60,7 +60,7 @@ HOS 6:3	1	13	ὄρθρον	ὄρθρος	noun, accusative masculine singular	1	d
 HOS 6:3	1	13	ὄρθρον			2	daybreak
 HOS 6:3	1	14	ἕτοιμον	ἕτοιμος	adjective, accusative masculine singular	1	ready
 HOS 6:3	1	14	ἕτοιμον			2	prepared
-HOS 6:3	1	15	εὑρήσομεν	εὑρίσκω	future active indicative, first plural after μὴ in question	1	shall we find
+HOS 6:3	1	15	εὑρήσομεν	εὑρίσκω	future active indicative, first plural after μὴ in question	1	we will find
 HOS 6:3	1	16	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 HOS 6:3	1	17	καὶ	καί	conjunction	1	and
 HOS 6:3	1	18	ἥξει	ἥκω	future active indicative, third singular as printed Ἥξει	1	will come
@@ -72,11 +72,11 @@ HOS 6:3	1	22	πρώϊμος			2	of the early season
 HOS 6:3	1	23	καὶ	καί	conjunction	1	and
 HOS 6:3	1	24	ὄψιμος	ὄψιμος	adjective, nominative masculine singular	1	late
 HOS 6:3	1	24	ὄψιμος			2	of the late season
-HOS 6:3	1	25	τῇ	ὁ	article, dative feminine singular	1	the
+HOS 6:3	1	25	τῇ	ὁ	article, dative feminine singular	1	to the
 HOS 6:3	1	26	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
 HOS 6:4	1	1	Τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 HOS 6:4	1	2	σοι	σύ	personal pronoun, dative singular	1	to you
-HOS 6:4	1	3	ποιήσω	ποιέω	future active indicative, first singular	1	I will make
+HOS 6:4	1	3	ποιήσω	ποιέω	future active indicative, first singular	1	shall I do
 HOS 6:4	1	4	Ἐφραίμ	Ἐφραίμ	indeclinable proper noun, vocative in context	1	Ephraim
 HOS 6:4	1	5	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 HOS 6:4	1	6	σοι	σύ	personal pronoun, dative singular	1	to you
@@ -110,7 +110,7 @@ HOS 6:5	1	8	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	th
 HOS 6:5	1	9	ἐν	ἐν	preposition with the dative	1	in
 HOS 6:5	1	10	ῥήμασι	ῥῆμα	noun, dative neuter plural	1	words
 HOS 6:5	1	10	ῥήμασι			2	utterances
-HOS 6:5	1	11	στόματός	στόμα	noun, genitive neuter singular	1	mouth
+HOS 6:5	1	11	στόματός	στόμα	noun, genitive neuter singular	1	of mouth
 HOS 6:5	1	12	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 HOS 6:5	1	13	καὶ	καί	conjunction	1	and
 HOS 6:5	1	14	τὸ	ὁ	article, nominative neuter singular	1	the
@@ -128,7 +128,7 @@ HOS 6:6	1	3	θέλω	θέλω	present active indicative, first singular	1	I want
 HOS 6:6	1	3	θέλω			2	I desire
 HOS 6:6	1	4	καὶ	καί	conjunction	1	and
 HOS 6:6	1	5	οὐ	οὐ	negative particle	1	not
-HOS 6:6	1	6	θυσίαν	θυσία	noun, accusative feminine singular	1	grain offering
+HOS 6:6	1	6	θυσίαν	θυσία	noun, accusative feminine singular	1	sacrifice
 HOS 6:6	1	7	καὶ	καί	conjunction	1	and
 HOS 6:6	1	8	ἐπίγνωσιν	ἐπίγνωσις	noun, accusative feminine singular	1	knowledge
 HOS 6:6	1	8	ἐπίγνωσιν			2	recognition
@@ -162,7 +162,7 @@ HOS 6:9	1	1	καὶ	καί	conjunction	1	and
 HOS 6:9	1	2	ἡ	ὁ	article, nominative feminine singular	1	the
 HOS 6:9	1	3	ἰσχύς	ἰσχύς	noun, nominative feminine singular	1	strength
 HOS 6:9	1	4	σου	σύ	pronoun, possessive genitive second singular	1	your
-HOS 6:9	1	5	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	man
+HOS 6:9	1	5	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	of a man
 HOS 6:9	1	5	ἀνδρὸς			2	husband
 HOS 6:9	1	6	πειρατοῦ	πειρατής	noun, genitive masculine singular	1	bandit
 HOS 6:9	1	6	πειρατοῦ			2	robber
@@ -177,7 +177,7 @@ HOS 6:9	1	12	Σίκιμα	Σίκιμα	indeclinable place name, accusative in co
 HOS 6:9	1	12	Σίκιμα			2	Sikima
 HOS 6:9	1	13	ὅτι	ὅτι	causal conjunction	1	because
 HOS 6:9	1	14	ἀνομίαν	ἀνομία	noun accusative feminine singular	1	lawlessness
-HOS 6:9	1	15	ἐποίησαν	ποιέω	aorist active indicative, third plural	1	made
+HOS 6:9	1	15	ἐποίησαν	ποιέω	aorist active indicative, third plural	1	they committed
 HOS 6:10	1	1	Ἐν	ἐν	preposition with the dative	1	in
 HOS 6:10	1	2	τῷ	ὁ	article, dative masculine singular	1	the
 HOS 6:10	1	3	οἴκῳ	οἶκος	noun, dative masculine singular	1	house

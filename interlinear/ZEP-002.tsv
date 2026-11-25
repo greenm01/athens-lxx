@@ -11,7 +11,7 @@ ZEP 2:1	1	7	ἀπαίδευτον	ἀπαίδευτος	adjective, nominative ne
 ZEP 2:1	1	7	ἀπαίδευτον			2	untrained
 ZEP 2:2	1	1	πρὸ	πρό	preposition with the genitive	1	before
 ZEP 2:2	1	2	τοῦ	ὁ	article with the infinitive, genitive neuter singular	1	(marks the infinitive)
-ZEP 2:2	1	3	γενέσθαι	γίνομαι	aorist middle infinitive	1	coming into being
+ZEP 2:2	1	3	γενέσθαι	γίνομαι	aorist middle infinitive	1	to become
 ZEP 2:2	1	4	ὑμᾶς	σύ	personal pronoun, accusative second plural, subject of infinitive	1	you
 ZEP 2:2	1	5	ὡς	ὡς	comparative particle	1	as
 ZEP 2:2	1	6	ἄνθος	ἄνθος	noun, nominative neuter singular	1	flower
@@ -19,19 +19,19 @@ ZEP 2:2	1	6	ἄνθος			2	blossom
 ZEP 2:2	1	7	παραπορευόμενον	παραπορεύομαι	present middle participle, nominative neuter singular	1	passing by
 ZEP 2:2	1	7	παραπορευόμενον			2	passing away
 ZEP 2:2	1	8	πρὸ	πρό	preposition with the genitive	1	before
-ZEP 2:2	1	9	τοῦ	ὁ	article, genitive singular	1	the
-ZEP 2:2	1	10	ἐπελθεῖν	ἐπέρχομαι	aorist active infinitive	1	to come upon
-ZEP 2:2	1	11	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
+ZEP 2:2	1	9	τοῦ	ὁ	article, genitive singular	1	(marks the infinitive)
+ZEP 2:2	1	10	ἐπελθεῖν	ἐπέρχομαι	aorist active infinitive	1	to come
+ZEP 2:2	1	11	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	upon
 ZEP 2:2	1	12	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 ZEP 2:2	1	13	ὀργὴν	ὀργή	noun, accusative feminine singular	1	anger
-ZEP 2:2	1	14	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
+ZEP 2:2	1	14	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 ZEP 2:2	1	15	πρὸ	πρό	preposition with the genitive	1	before
 ZEP 2:2	1	16	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	1	(marks the infinitive)
-ZEP 2:2	1	17	ἐπελθεῖν	ἐπέρχομαι	aorist active infinitive	1	to come upon
-ZEP 2:2	1	18	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
+ZEP 2:2	1	17	ἐπελθεῖν	ἐπέρχομαι	aorist active infinitive	1	to come
+ZEP 2:2	1	18	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	upon
 ZEP 2:2	1	19	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 ZEP 2:2	1	20	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
-ZEP 2:2	1	21	θυμοῦ	θυμός	noun, genitive masculine singular after μετὰ	1	anger
+ZEP 2:2	1	21	θυμοῦ	θυμός	noun, genitive masculine singular after μετὰ	1	of anger
 ZEP 2:2	1	22	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 ZEP 2:3	1	1	Ζητήσατε	ζητέω	aorist active imperative, second plural	1	seek
 ZEP 2:3	1	2	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -58,7 +58,7 @@ ZEP 2:3	1	16	σκεπασθῆτε	σκεπάζω	aorist passive subjunctive, se
 ZEP 2:3	1	16	σκεπασθῆτε			2	you may be covered
 ZEP 2:3	1	17	ἐν	ἐν	preposition with the dative	1	in
 ZEP 2:3	1	18	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
-ZEP 2:3	1	19	ὀργῆς	ὀργή	noun, genitive feminine singular	1	anger
+ZEP 2:3	1	19	ὀργῆς	ὀργή	noun, genitive feminine singular	1	of anger
 ZEP 2:3	1	19	ὀργῆς			2	wrath
 ZEP 2:3	1	20	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 ZEP 2:4	1	1	Διότι	διότι	causal conjunction	1	because
@@ -70,7 +70,7 @@ ZEP 2:4	1	5	καὶ	καί	conjunction	1	and
 ZEP 2:4	1	6	Ἀσκάλων	Ἀσκάλων	noun, nominative feminine singular; place name	1	Ashkelon
 ZEP 2:4	1	6	Ἀσκάλων			2	Ascalon
 ZEP 2:4	1	7	ἔσται	εἰμί	future indicative, third singular	1	will be
-ZEP 2:4	1	8	εἰς	εἰς	preposition with the accusative	1	into
+ZEP 2:4	1	8	εἰς	εἰς	preposition with the accusative	1	for
 ZEP 2:4	1	9	ἀφανισμὸν	ἀφανισμός	noun, accusative masculine singular	1	destruction
 ZEP 2:4	1	9	ἀφανισμὸν			2	obliteration
 ZEP 2:4	1	10	καὶ	καί	conjunction	1	and
@@ -85,7 +85,7 @@ ZEP 2:4	1	15	Ἀκκαρὼν			2	Akkaron
 ZEP 2:4	1	16	ἐκριζωθήσεται	ἐκριζόω	future passive indicative, third singular	1	will be uprooted
 ZEP 2:5	1	1	Οὐαὶ	οὐαί	interjection	1	alas
 ZEP 2:5	1	1	Οὐαὶ			2	woe
-ZEP 2:5	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
+ZEP 2:5	1	2	οἱ	ὁ	article, nominative masculine plural	1	—
 ZEP 2:5	1	3	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	those living
 ZEP 2:5	1	3	κατοικοῦντες			2	those dwelling
 ZEP 2:5	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -94,7 +94,7 @@ ZEP 2:5	1	5	σχοίνισμα			2	measured strip
 ZEP 2:5	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
 ZEP 2:5	1	7	θαλάσσης	θάλασσα	noun, genitive feminine singular	1	sea
 ZEP 2:5	1	8	πάροικοι	πάροικος	noun, nominative masculine plural	1	sojourners
-ZEP 2:5	1	9	Κρητῶν	Κρής	noun, genitive masculine plural; gentilic noun	1	Cretans
+ZEP 2:5	1	9	Κρητῶν	Κρής	noun, genitive masculine plural; gentilic noun	1	of Cretans
 ZEP 2:5	1	10	λόγος	λόγος	noun, nominative masculine singular	1	word
 ZEP 2:5	1	10	λόγος			2	message
 ZEP 2:5	1	11	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
@@ -116,7 +116,7 @@ ZEP 2:6	1	5	ποιμνίων	ποίμνιον	noun, genitive neuter plural	1	of 
 ZEP 2:6	1	6	καὶ	καί	conjunction	1	and
 ZEP 2:6	1	7	μάνδρα	μάνδρα	noun, nominative feminine singular	1	enclosure
 ZEP 2:6	1	7	μάνδρα			2	fold
-ZEP 2:6	1	8	προβάτων	πρόβατον	noun, genitive neuter plural	1	sheep
+ZEP 2:6	1	8	προβάτων	πρόβατον	noun, genitive neuter plural	1	of sheep
 ZEP 2:7	1	1	καὶ	καί	conjunction	1	and
 ZEP 2:7	1	2	ἔσται	εἰμί	future indicative, third singular	1	it shall be
 ZEP 2:7	1	3	τὸ	ὁ	article, nominative neuter singular	1	the
@@ -124,10 +124,10 @@ ZEP 2:7	1	4	σχοίνισμα	σχοίνισμα	noun, nominative neuter singul
 ZEP 2:7	1	4	σχοίνισμα			2	measured strip
 ZEP 2:7	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 ZEP 2:7	1	6	θαλάσσης	θάλασσα	noun, genitive feminine singular	1	sea
-ZEP 2:7	1	7	τοῖς	ὁ	article, dative masculine plural	1	the
+ZEP 2:7	1	7	τοῖς	ὁ	article, dative masculine plural	1	for the
 ZEP 2:7	1	8	καταλοίποις	κατάλοιπος	adjective, dative masculine plural; substantival	1	those left
 ZEP 2:7	1	8	καταλοίποις			2	survivors
-ZEP 2:7	1	9	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+ZEP 2:7	1	9	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 ZEP 2:7	1	9	οἴκου			2	household
 ZEP 2:7	1	10	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 ZEP 2:7	1	11	ἐπ᾿	ἐπί	elided preposition with accusative	1	on
@@ -146,7 +146,7 @@ ZEP 2:7	1	19	καταλύσουσιν			2	will spend the night
 ZEP 2:7	1	20	ἀπὸ	ἀπό	preposition with the genitive	1	from
 ZEP 2:7	1	21	προσώπου	πρόσωπον	noun, genitive neuter singular	1	presence
 ZEP 2:7	1	21	προσώπου			2	face
-ZEP 2:7	1	22	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+ZEP 2:7	1	22	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 ZEP 2:7	1	23	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 ZEP 2:7	1	24	ὅτι	ὅτι	causal conjunction	1	because
 ZEP 2:7	1	24	ὅτι			2	for
@@ -171,10 +171,10 @@ ZEP 2:8	1	3	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	of
 ZEP 2:8	1	4	καὶ	καί	conjunction	1	and
 ZEP 2:8	1	5	κονδυλισμοὺς	κονδυλισμός	noun, accusative masculine plural	1	blows
 ZEP 2:8	1	5	κονδυλισμοὺς			2	punches
-ZEP 2:8	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-ZEP 2:8	1	7	Ἀμμῶν	Ἀμμών	indeclinable national name with Greek genitive interpretation	1	of Ammon
+ZEP 2:8	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
+ZEP 2:8	1	7	Ἀμμῶν	Ἀμμών	indeclinable national name with Greek genitive interpretation	1	Ammon
 ZEP 2:8	1	8	ἐν	ἐν	preposition with the dative	1	in
-ZEP 2:8	1	9	οἷς	ὅς	relative pronoun, dative neuter plural after ἐν	1	in which
+ZEP 2:8	1	9	οἷς	ὅς	relative pronoun, dative neuter plural after ἐν	1	which
 ZEP 2:8	1	10	ὠνείδιζον	ὀνειδίζω	imperfect active indicative, third plural	1	were taunting
 ZEP 2:8	1	10	ὠνείδιζον			2	reviled
 ZEP 2:8	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -193,13 +193,13 @@ ZEP 2:9	1	3	ζῶ	ζάω	present active indicative, first singular	1	I live
 ZEP 2:9	1	4	ἐγὼ	ἐγώ	pronoun, nominative first singular emphatic	1	I
 ZEP 2:9	1	5	λέγει	λέγω	present active indicative, third singular	1	says
 ZEP 2:9	1	6	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-ZEP 2:9	1	7	τῶν	ὁ	article, genitive plural	1	the
+ZEP 2:9	1	7	τῶν	ὁ	article, genitive plural	1	of the
 ZEP 2:9	1	8	δυνάμεων	δύναμις	noun, genitive feminine plural	1	hosts
 ZEP 2:9	1	8	δυνάμεων			2	powers
 ZEP 2:9	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
 ZEP 2:9	1	10	Θεὸς	θεός	noun, nominative masculine singular	1	God
 ZEP 2:9	1	11	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
-ZEP 2:9	1	12	διότι	διότι	causal conjunction	1	because
+ZEP 2:9	1	12	διότι	διότι	causal conjunction	1	that
 ZEP 2:9	1	13	Μωὰβ	Μωάβ	indeclinable name, nominative in context	1	Moab
 ZEP 2:9	1	14	ὡς	ὡς	comparative particle	1	as
 ZEP 2:9	1	15	Σόδομα	Σόδομα	place name, accusative neuter plural	1	Sodom
@@ -228,7 +228,7 @@ ZEP 2:9	1	34	καὶ	καί	conjunction	1	and
 ZEP 2:9	1	35	οἱ	ὁ	article, nominative masculine plural	1	the
 ZEP 2:9	1	36	κατάλοιποι	κατάλοιπος	adjective, nominative masculine plural; substantival	1	survivors
 ZEP 2:9	1	36	κατάλοιποι			2	those left
-ZEP 2:9	1	37	τοῦ	ὁ	article, genitive singular	1	the
+ZEP 2:9	1	37	τοῦ	ὁ	article, genitive singular	1	of the
 ZEP 2:9	1	38	λαοῦ	λαός	noun, genitive masculine singular	1	people
 ZEP 2:9	1	39	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ZEP 2:9	1	40	διαρπῶνται	διαρπάζω	present middle/passive indicative, third plural	1	plunder
@@ -238,7 +238,7 @@ ZEP 2:9	1	42	καὶ	καί	conjunction	1	and
 ZEP 2:9	1	43	οἱ	ὁ	article, nominative masculine plural	1	the
 ZEP 2:9	1	44	κατάλοιποι	κατάλοιπος	adjective, nominative masculine plural; substantival	1	survivors
 ZEP 2:9	1	44	κατάλοιποι			2	those left
-ZEP 2:9	1	45	ἔθνους	ἔθνος	noun, genitive neuter singular	1	nation
+ZEP 2:9	1	45	ἔθνους	ἔθνος	noun, genitive neuter singular	1	of nation
 ZEP 2:9	1	46	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ZEP 2:9	1	47	κληρονομήσουσιν	κληρονομέω	future active indicative, third plural	1	will inherit
 ZEP 2:9	1	47	κληρονομήσουσιν			2	will take possession
@@ -275,9 +275,9 @@ ZEP 2:11	1	7	ἐξολεθρεύσει			2	will wipe out
 ZEP 2:11	1	8	πάντας	πᾶς	adjective, accusative masc. pl. with λόγους	1	all
 ZEP 2:11	1	9	τοὺς	ὁ	article, accusative masculine plural	1	the
 ZEP 2:11	1	10	θεοὺς	θεός	noun, accusative masc. pl. after παρὰ πάντας τοὺς, gods	1	gods
-ZEP 2:11	1	11	τῶν	ὁ	article, genitive plural	1	the
+ZEP 2:11	1	11	τῶν	ὁ	article, genitive plural	1	of the
 ZEP 2:11	1	12	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
-ZEP 2:11	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
+ZEP 2:11	1	13	τῆς	ὁ	article, genitive feminine singular	1	of the
 ZEP 2:11	1	14	γῆς	γῆ	noun, genitive feminine singular	1	earth
 ZEP 2:11	1	15	καὶ	καί	conjunction	1	and
 ZEP 2:11	1	16	προσκυνήσουσιν	προσκυνέω	future active indicative, third plural	1	will bow down
@@ -309,7 +309,7 @@ ZEP 2:13	1	2	ἐκτενεῖ			2	will extend
 ZEP 2:13	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
 ZEP 2:13	1	4	χεῖρα	χείρ	noun, accusative feminine singular	1	hand
 ZEP 2:13	1	5	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-ZEP 2:13	1	6	ἐπὶ	ἐπί	preposition (case from context)	1	on
+ZEP 2:13	1	6	ἐπὶ	ἐπί	preposition (case from context)	1	against
 ZEP 2:13	1	7	βορρᾶν	βορρᾶς	noun, accusative masculine singular	1	north
 ZEP 2:13	1	8	καὶ	καί	conjunction	1	and
 ZEP 2:13	1	9	ἀπολεῖ	ἀπόλλυμι	future active indicative, third singular	1	will destroy
@@ -335,7 +335,7 @@ ZEP 2:14	1	2	νεμήσονται	νέμω	future middle indicative, third plura
 ZEP 2:14	1	2	νεμήσονται			2	will pasture
 ZEP 2:14	1	3	ἐν	ἐν	preposition with the dative	1	in
 ZEP 2:14	1	4	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
-ZEP 2:14	1	5	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
+ZEP 2:14	1	5	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	of it
 ZEP 2:14	1	6	ποίμνια	ποίμνιον	noun, nominative neuter plural	1	flocks
 ZEP 2:14	1	7	καὶ	καί	conjunction	1	and
 ZEP 2:14	1	8	πάντα	πᾶς	adjective, accusative neuter plural	1	all
@@ -394,24 +394,24 @@ ZEP 2:15	1	10	ἡ	ὁ	article, nominative feminine singular	1	the
 ZEP 2:15	1	11	λέγουσα	λέγω	present active participle, nominative feminine singular	1	saying
 ZEP 2:15	1	12	ἐν	ἐν	preposition with the dative	1	in
 ZEP 2:15	1	13	καρδίᾳ	καρδία	noun, dative feminine singular	1	heart
-ZEP 2:15	1	14	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
+ZEP 2:15	1	14	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 ZEP 2:15	1	14	αὐτῆς			2	its
 ZEP 2:15	1	15	ἐγώ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-ZEP 2:15	1	16	εἰμι	εἰμί	present indicative, first singular	1	I am
+ZEP 2:15	1	16	εἰμι	εἰμί	present indicative, first singular	1	am
 ZEP 2:15	1	17	καὶ	καί	conjunction	1	and
 ZEP 2:15	1	18	οὐκ	οὐ	negative particle	1	not
 ZEP 2:15	1	19	ἔστι	εἰμί	present active indicative, third singular	1	is
 ZEP 2:15	1	20	μετ᾽	μετά	preposition with the accusative	1	after
 ZEP 2:15	1	21	ἐμὲ	ἐγώ	personal pronoun, emphatic accusative singular governed by ἐπί	1	me
-ZEP 2:15	1	22	ἔτι	ἔτι	adverb of time	1	again
-ZEP 2:15	1	22	ἔτι			2	any more
+ZEP 2:15	1	22	ἔτι	ἔτι	adverb of time	1	any more
+ZEP 2:15	1	22	ἔτι			2	again
 ZEP 2:15	1	23	Πῶς	πῶς	interrogative adverb	1	how
 ZEP 2:15	1	24	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	became
 ZEP 2:15	1	25	εἰς	εἰς	preposition with accusative	1	into
 ZEP 2:15	1	26	ἀφανισμὸν	ἀφανισμός	noun, accusative masculine singular	1	destruction
 ZEP 2:15	1	26	ἀφανισμὸν			2	obliteration
 ZEP 2:15	1	27	νομὴ	νομή	noun, nominative feminine singular, pasturage	1	pasture
-ZEP 2:15	1	28	θηρίων	θηρίον	noun, genitive neuter plural	1	wild animals
+ZEP 2:15	1	28	θηρίων	θηρίον	noun, genitive neuter plural	1	of wild animals
 ZEP 2:15	1	29	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 ZEP 2:15	1	30	ὁ	ὁ	article, nominative masculine singular	1	the
 ZEP 2:15	1	31	παραπορευόμενος	παραπορεύομαι	present middle participle, nominative masculine singular; substantival	1	one passing by

@@ -1,5 +1,5 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
-HAG 2:1	1	1	Τῌ	ὁ	article, dative feminine singular	1	the
+HAG 2:1	1	1	Τῌ	ὁ	article, dative feminine singular	1	on the
 HAG 2:1	1	2	τετράδι	τετράς	noun, dative feminine singular; date formula, with εἰκάς	1	fourth day
 HAG 2:1	1	3	καὶ	καί	conjunction	1	and
 HAG 2:1	1	4	εἰκάδι	εἰκάς	noun, dative feminine singular; date formula	1	twentieth day
@@ -7,7 +7,7 @@ HAG 2:1	1	5	τοῦ	ὁ	article, genitive masculine singular	1	of the
 HAG 2:1	1	6	μηνὸς	μήν	noun, genitive masculine singular	1	month
 HAG 2:1	1	7	τοῦ	ὁ	article, genitive masculine singular; attributive	1	the
 HAG 2:1	1	8	ἕκτου	ἕκτος	ordinal adjective, genitive masculine singular	1	sixth
-HAG 2:1	1	9	τῷ	ὁ	article, dative masculine singular	1	the
+HAG 2:1	1	9	τῷ	ὁ	article, dative masculine singular	1	in the
 HAG 2:1	1	10	δευτέρῳ	δεύτερος	ordinal adjective, dative masculine singular	1	second
 HAG 2:1	1	11	ἔτει	ἔτος	noun, dative neuter singular	1	year
 HAG 2:1	1	12	ἐπὶ	ἐπί	preposition with genitive, reign dating	1	in the reign of
@@ -16,7 +16,7 @@ HAG 2:1	1	13	Δαρείου	Δαρεῖος	noun, genitive masculine singular; p
 HAG 2:1	1	13	Δαρείου			2	Dareios
 HAG 2:1	1	14	τοῦ	ὁ	article, genitive singular	1	the
 HAG 2:1	1	15	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
-HAG 2:1	1	16	τῷ	ὁ	article, dative masculine singular	1	the
+HAG 2:1	1	16	τῷ	ὁ	article, dative masculine singular	1	in the
 HAG 2:1	1	17	ἑβδόμῳ	ἕβδομος	ordinal adjective, dative masculine singular	1	seventh
 HAG 2:1	1	18	μηνὶ	μήν	noun, dative masculine singular	1	month
 HAG 2:1	1	19	μιᾷ	εἷς	cardinal numeral, dative feminine singular; with εἰκάδι in a date formula	1	first day
@@ -41,11 +41,11 @@ HAG 2:2	1	3	πρὸς	πρός	preposition with the accusative	1	to
 HAG 2:2	1	4	Ζοροβάβελ	Ζοροβάβελ	indeclinable personal name, case from context	1	Zerubbabel
 HAG 2:2	1	4	Ζοροβάβελ			2	Zorobabel
 HAG 2:2	1	5	τὸν	ὁ	article, accusative masculine singular; substantival, with following genitive	1	the son
-HAG 2:2	1	6	τοῦ	ὁ	article, genitive singular	1	the
+HAG 2:2	1	6	τοῦ	ὁ	article, genitive singular	1	of
 HAG 2:2	1	7	Σαλαθιὴλ	Σαλαθιήλ	indeclinable personal name, genitive in context	1	Shealtiel
 HAG 2:2	1	7	Σαλαθιὴλ			2	Salathiel
 HAG 2:2	1	8	ἐκ	ἐκ	preposition with genitive	1	from
-HAG 2:2	1	9	φυλῆς	φυλή	noun, genitive fem. sg. after ἐκ/τῆς	1	of the tribe
+HAG 2:2	1	9	φυλῆς	φυλή	noun, genitive fem. sg. after ἐκ/τῆς	1	tribe
 HAG 2:2	1	10	Ἰούδα	Ἰούδας	tribal name, genitive singular after φυλῆς	1	of Judah
 HAG 2:2	1	11	καὶ	καί	conjunction	1	and
 HAG 2:2	1	12	πρὸς	πρός	preposition with accusative	1	to
@@ -66,7 +66,7 @@ HAG 2:2	1	23	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 HAG 2:2	1	24	τοὺς	ὁ	article, accusative masculine plural	1	the
 HAG 2:2	1	25	καταλοίπους	κατάλοιπος	adjective, accusative masculine plural; substantival	1	survivors
 HAG 2:2	1	25	καταλοίπους			2	those left
-HAG 2:2	1	26	τοῦ	ὁ	article, genitive singular	1	the
+HAG 2:2	1	26	τοῦ	ὁ	article, genitive singular	1	of the
 HAG 2:2	1	27	λαοῦ	λαός	noun, genitive masculine singular	1	people
 HAG 2:2	1	28	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 HAG 2:3	1	1	τὶς	τίς	interrogative pronoun, nominative masculine singular	1	who
@@ -82,16 +82,16 @@ HAG 2:3	1	9	ἐν	ἐν	preposition with the dative	1	in
 HAG 2:3	1	10	τῇ	ὁ	article, dative feminine singular	1	the
 HAG 2:3	1	11	δόξῃ	δόξα	noun, dative feminine singular	1	glory
 HAG 2:3	1	11	δόξῃ			2	splendor
-HAG 2:3	1	12	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
+HAG 2:3	1	12	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	its
 HAG 2:3	1	13	τῇ	ὁ	article, dative feminine singular	1	the
 HAG 2:3	1	14	ἔμπροσθεν	ἔμπροσθεν	temporal adverb, attributive in context	1	previous
 HAG 2:3	1	14	ἔμπροσθεν			2	former
 HAG 2:3	1	15	καὶ	καί	conjunction	1	and
 HAG 2:3	1	16	πῶς	πῶς	interrogative adverb	1	how
 HAG 2:3	1	17	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
-HAG 2:3	1	18	βλέπετε	βλέπω	present active indicative, second plural	1	you see
+HAG 2:3	1	18	βλέπετε	βλέπω	present active indicative, second plural	1	see
 HAG 2:3	1	18	βλέπετε			2	do you see
-HAG 2:3	1	19	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
+HAG 2:3	1	19	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 HAG 2:3	1	20	νῦν	νῦν	temporal adverb	1	now
 HAG 2:3	1	21	καθὼς	καθώς	comparative conjunction	1	just as
 HAG 2:3	1	22	οὐχ	οὐ	negative particle	1	not
@@ -113,7 +113,7 @@ HAG 2:4	1	8	κατίσχυε	κατισχύω	present active imperative, second 
 HAG 2:4	1	8	κατίσχυε			2	take courage
 HAG 2:4	1	9	Ἰησοῦ	Ἰησοῦς	noun, vocative masculine singular; personal name	1	Joshua
 HAG 2:4	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
-HAG 2:4	1	11	τοῦ	ὁ	article, genitive masculine singular	1	the
+HAG 2:4	1	11	τοῦ	ὁ	article, genitive masculine singular	1	son of
 HAG 2:4	1	12	Ἰωσεδὲκ	Ἰωσεδέκ	indeclinable personal name, genitive in context	1	Josedech
 HAG 2:4	1	12	Ἰωσεδὲκ			2	Iosedek
 HAG 2:4	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -121,13 +121,13 @@ HAG 2:4	1	14	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	
 HAG 2:4	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
 HAG 2:4	1	16	μέγας	μέγας	adjective, nominative masculine singular	1	high
 HAG 2:4	1	17	καὶ	καί	conjunction	1	and
-HAG 2:4	1	18	κατισχυέτω	κατισχύω	present active imperative, third singular	1	let them be strong
+HAG 2:4	1	18	κατισχυέτω	κατισχύω	present active imperative, third singular	1	let be strong
 HAG 2:4	1	18	κατισχυέτω			2	let it take courage
 HAG 2:4	1	19	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 HAG 2:4	1	20	ὁ	ὁ	article, nominative masculine singular	1	the
 HAG 2:4	1	21	λαὸς	λαός	noun, nominative masculine singular	1	people
 HAG 2:4	1	22	τῆς	ὁ	article, genitive feminine singular	1	of the
-HAG 2:4	1	23	γῆς	γῆ	noun, genitive feminine singular	1	earth
+HAG 2:4	1	23	γῆς	γῆ	noun, genitive feminine singular	1	land
 HAG 2:4	1	24	λέγει	λέγω	present active indicative, third singular	1	says
 HAG 2:4	1	25	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 HAG 2:4	1	26	καὶ	καί	conjunction	1	and
@@ -137,7 +137,7 @@ HAG 2:4	1	28	διότι	διότι	causal conjunction	1	because
 HAG 2:4	1	29	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
 HAG 2:4	1	30	μεθ᾽	μετά	preposition with the genitive, elided	1	with
 HAG 2:4	1	31	ὑμῶν	σύ	personal pronoun, genitive second plural governed by μετά	1	you
-HAG 2:4	1	32	εἰμι	εἰμί	present indicative, first singular	1	I am
+HAG 2:4	1	32	εἰμι	εἰμί	present indicative, first singular	1	am
 HAG 2:4	1	33	λέγει	λέγω	present active indicative, third singular	1	says
 HAG 2:4	1	34	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 HAG 2:4	1	35	παντοκράτωρ	παντοκράτωρ	noun, nominative masculine singular; divine title	1	Almighty
@@ -155,7 +155,7 @@ HAG 2:4	1	43	ἐξελθόντων	ἐξέρχομαι	aorist active participle,
 HAG 2:4	1	44	ὑμῶν	σύ	personal pronoun, genitive second plural, subject of genitive absolute	1	you
 HAG 2:4	1	45	ἐκ	ἐκ	preposition with the genitive	1	from
 HAG 2:4	1	46	τῆς	ὁ	article, genitive feminine singular	1	the
-HAG 2:4	1	47	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
+HAG 2:4	1	47	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	Egypt
 HAG 2:4	1	48	καὶ	καί	conjunction	1	and
 HAG 2:4	1	49	τὸ	ὁ	article, nominative neuter singular	1	the
 HAG 2:4	1	50	πνεῦμά	πνεῦμα	noun, nominative neuter singular	1	spirit
@@ -176,7 +176,7 @@ HAG 2:6	1	6	ἔτι	ἔτι	adverb of time	1	again
 HAG 2:6	1	6	ἔτι			2	any more
 HAG 2:6	1	7	ἅπαξ	ἅπαξ	adverb	1	once
 HAG 2:6	1	8	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-HAG 2:6	1	9	σείσω	σείω	future active indicative, first singular	1	I will shake
+HAG 2:6	1	9	σείσω	σείω	future active indicative, first singular	1	will shake
 HAG 2:6	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 HAG 2:6	1	11	οὐρανὸν	οὐρανός	noun, accusative masculine singular	1	heaven
 HAG 2:6	1	11	οὐρανὸν			2	the sky
@@ -197,7 +197,7 @@ HAG 2:7	1	7	ἥξει	ἥκω	future active indicative, third singular as printe
 HAG 2:7	1	8	τὰ	ὁ	article, nominative neuter plural	1	the
 HAG 2:7	1	9	ἐκλεκτὰ	ἐκλεκτός	adjective, nominative neuter plural; substantival, neuter plural subject	1	choice things
 HAG 2:7	1	9	ἐκλεκτὰ			2	treasures
-HAG 2:7	1	10	πάντων	πᾶς	adjective, genitive neuter plural	1	all
+HAG 2:7	1	10	πάντων	πᾶς	adjective, genitive neuter plural	1	of all
 HAG 2:7	1	11	τῶν	ὁ	article, genitive plural	1	the
 HAG 2:7	1	12	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 HAG 2:7	1	13	καὶ	καί	conjunction	1	and
@@ -206,7 +206,7 @@ HAG 2:7	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
 HAG 2:7	1	16	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 HAG 2:7	1	16	οἶκον			2	household
 HAG 2:7	1	17	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	1	this
-HAG 2:7	1	18	δόξης	δόξα	noun, genitive fem. sg. after τῆς	1	glory
+HAG 2:7	1	18	δόξης	δόξα	noun, genitive fem. sg. after τῆς	1	with glory
 HAG 2:7	1	19	λέγει	λέγω	present active indicative, third singular	1	says
 HAG 2:7	1	20	κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 HAG 2:7	1	21	παντοκράτωρ	παντοκράτωρ	noun, nominative masculine singular; divine title	1	Almighty
@@ -228,12 +228,12 @@ HAG 2:9	1	2	μεγάλη			2	large
 HAG 2:9	1	3	ἔσται	εἰμί	future indicative, third singular	1	will be
 HAG 2:9	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
 HAG 2:9	1	5	δόξα	δόξα	noun, nominative fem. sg. after ἡ	1	glory
-HAG 2:9	1	6	τοῦ	ὁ	article, genitive singular	1	the
+HAG 2:9	1	6	τοῦ	ὁ	article, genitive singular	1	of the
 HAG 2:9	1	7	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 HAG 2:9	1	7	οἴκου			2	household
 HAG 2:9	1	8	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	this
 HAG 2:9	1	9	ἡ	ὁ	article, nominative feminine singular	1	the
-HAG 2:9	1	10	ἐσχάτη	ἔσχατος	adjective, nominative feminine singular; likely modifies ἄβυσσος; can also be read with κεφαλή	1	uttermost
+HAG 2:9	1	10	ἐσχάτη	ἔσχατος	adjective, nominative feminine singular; likely modifies ἄβυσσος; can also be read with κεφαλή	1	last
 HAG 2:9	1	10	ἐσχάτη			2	farthest
 HAG 2:9	1	11	ὑπὲρ	ὑπέρ	preposition with accusative; comparison	1	greater than
 HAG 2:9	1	11	ὑπὲρ			2	beyond
@@ -248,12 +248,12 @@ HAG 2:9	1	17	καὶ	καί	conjunction	1	and
 HAG 2:9	1	18	εἰρήνην	εἰρήνη	noun, accusative feminine singular	1	peace
 HAG 2:9	1	19	ψυχῆς	ψυχή	noun, genitive feminine singular	1	of soul
 HAG 2:9	1	19	ψυχῆς			2	of life
-HAG 2:9	1	20	εἰς	εἰς	preposition with the accusative	1	into
+HAG 2:9	1	20	εἰς	εἰς	preposition with the accusative	1	for
 HAG 2:9	1	21	περιποίησιν	περιποίησις	noun, accusative feminine singular	1	preservation
 HAG 2:9	1	21	περιποίησιν			2	keeping safe
-HAG 2:9	1	22	παντὶ	πᾶς	adjective, dative masculine singular; modifies οἴκῳ	1	all
-HAG 2:9	1	23	τῷ	ὁ	article, dative masculine/neuter singular	1	the
-HAG 2:9	1	24	κτίζοντι	κτίζω	present active participle, dative masculine singular; substantival	1	the one building
+HAG 2:9	1	22	παντὶ	πᾶς	adjective, dative masculine singular; modifies οἴκῳ	1	to every
+HAG 2:9	1	23	τῷ	ὁ	article, dative masculine/neuter singular	1	—
+HAG 2:9	1	24	κτίζοντι	κτίζω	present active participle, dative masculine singular; substantival	1	one building
 HAG 2:9	1	24	κτίζοντι			2	anyone who builds
 HAG 2:9	1	25	τοῦ	ὁ	article, genitive singular	1	the
 HAG 2:9	1	26	ἀναστῆσαι	ἀνίστημι	aorist active infinitive	1	to raise up
@@ -298,7 +298,7 @@ HAG 2:12	1	4	ἱερεῖς	ἱερεύς	noun, accusative masculine plural	1	pr
 HAG 2:12	1	5	νόμον	νόμος	noun, accusative masc. sg. after τὸν	1	law
 HAG 2:12	1	6	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 HAG 2:12	1	7	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
-HAG 2:12	1	8	λάβῃ	λαμβάνω	aorist active subjunctive, third singular	1	he should take
+HAG 2:12	1	8	λάβῃ	λαμβάνω	aorist active subjunctive, third singular	1	should take
 HAG 2:12	1	9	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	a man
 HAG 2:12	1	10	κρέας	κρέας	noun, accusative neuter singular	1	meat
 HAG 2:12	1	10	κρέας			2	flesh
@@ -329,7 +329,7 @@ HAG 2:12	1	31	ἐλαίου	ἔλαιον	noun, genitive neuter singular	1	oil
 HAG 2:12	1	32	ἢ	ἤ	disjunctive conjunction	1	or
 HAG 2:12	1	33	παντὸς	πᾶς	adjective, genitive neuter singular	1	any
 HAG 2:12	1	34	βρώματος	βρῶμα	noun, genitive neuter singular	1	food
-HAG 2:12	1	35	εἰ	εἰ	interrogative particle in direct question	1	(marks question)
+HAG 2:12	1	35	εἰ	εἰ	interrogative particle in direct question	1	[marks a question]
 HAG 2:12	1	36	ἁγιασθήσεται	ἁγιάζω	future passive indicative, third singular	1	shall become holy
 HAG 2:12	1	37	Καὶ	καί	conjunction	1	and
 HAG 2:12	1	38	ἀπεκρίθησαν	ἀποκρίνομαι	aorist passive indicative, third plural	1	answered
@@ -337,7 +337,7 @@ HAG 2:12	1	39	οἱ	ὁ	article, nominative masculine plural	1	the
 HAG 2:12	1	40	ἱερεῖς	ἱερεύς	noun, nominative masculine plural	1	priests
 HAG 2:12	1	41	καὶ	καί	conjunction	1	and
 HAG 2:12	1	42	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
-HAG 2:12	1	43	οὔ	οὐ	negative particle	1	not
+HAG 2:12	1	43	οὔ	οὐ	negative particle	1	no
 HAG 2:13	1	1	Καὶ	καί	conjunction	1	and
 HAG 2:13	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 HAG 2:13	1	3	Ἀγγαῖος	Ἀγγαῖος	noun, nominative masculine singular; personal name	1	Haggai
@@ -354,17 +354,17 @@ HAG 2:13	1	10	ἐπὶ	ἐπί	preposition with dative	1	because of
 HAG 2:13	1	11	ψυχῇ	ψυχή	noun, dative feminine singular	1	person
 HAG 2:13	1	11	ψυχῇ			2	life
 HAG 2:13	1	12	ἐπὶ	ἐπί	preposition (case from context)	1	on
-HAG 2:13	1	13	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
-HAG 2:13	1	14	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	these
-HAG 2:13	1	15	εἰ	εἰ	interrogative particle in direct question	1	(marks question)
-HAG 2:13	1	16	μιανθήσεται	μιαίνω	future passive indicative, third singular	1	he shall be defiled
+HAG 2:13	1	13	παντὸς	πᾶς	adjective, genitive neuter singular	1	any
+HAG 2:13	1	14	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	of these
+HAG 2:13	1	15	εἰ	εἰ	interrogative particle in direct question	1	[marks a question]
+HAG 2:13	1	16	μιανθήσεται	μιαίνω	future passive indicative, third singular	1	it shall be defiled
 HAG 2:13	1	17	Καὶ	καί	conjunction	1	and
 HAG 2:13	1	18	ἀπεκρίθησαν	ἀποκρίνομαι	aorist passive indicative, third plural	1	answered
 HAG 2:13	1	19	οἱ	ὁ	article, nominative masculine plural	1	the
 HAG 2:13	1	20	ἱερεῖς	ἱερεύς	noun, nominative masculine plural	1	priests
 HAG 2:13	1	21	καὶ	καί	conjunction	1	and
 HAG 2:13	1	22	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
-HAG 2:13	1	23	μιανθήσεται	μιαίνω	future passive indicative, third singular	1	he shall be defiled
+HAG 2:13	1	23	μιανθήσεται	μιαίνω	future passive indicative, third singular	1	it shall be defiled
 HAG 2:14	1	1	Καὶ	καί	conjunction	1	and
 HAG 2:14	1	2	ἀπεκρίθη	ἀποκρίνομαι	aorist passive indicative, third singular	1	answered
 HAG 2:14	1	3	Ἀγγαῖος	Ἀγγαῖος	noun, nominative masculine singular; personal name	1	Haggai
@@ -391,7 +391,7 @@ HAG 2:14	1	20	οὕτως	οὕτως	adverb of manner	1	so
 HAG 2:14	1	21	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 HAG 2:14	1	22	τὰ	ὁ	article, accusative neuter plural	1	the
 HAG 2:14	1	23	ἔργα	ἔργον	noun, accusative neuter plural	1	works
-HAG 2:14	1	24	τῶν	ὁ	article, genitive plural	1	the
+HAG 2:14	1	24	τῶν	ὁ	article, genitive plural	1	of the
 HAG 2:14	1	25	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
 HAG 2:14	1	26	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 HAG 2:14	1	27	καὶ	καί	conjunction	1	and
@@ -407,15 +407,15 @@ HAG 2:14	1	35	λημμάτων	λῆμμα	noun, genitive neuter plural	1	taking
 HAG 2:14	1	35	λημμάτων			2	receipts
 HAG 2:14	1	36	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 HAG 2:14	1	37	τῶν	ὁ	article, genitive neuter plural	1	the
-HAG 2:14	1	38	ὀρθρινῶν	ὀρθρινός	adjective, genitive neuter plural	1	of early morning
+HAG 2:14	1	38	ὀρθρινῶν	ὀρθρινός	adjective, genitive neuter plural	1	early morning
 HAG 2:14	1	38	ὀρθρινῶν			2	morning
 HAG 2:14	1	39	ὀδυνηθήσονται	ὀδυνάω	future passive indicative, third plural	1	will be distressed
 HAG 2:14	1	39	ὀδυνηθήσονται			2	will suffer pain
 HAG 2:14	1	40	ἀπὸ	ἀπό	preposition with the genitive	1	from
 HAG 2:14	1	41	προσώπου	πρόσωπον	after ἀπό, genitive neuter singular	1	the face
-HAG 2:14	1	42	πόνων	πόνος	noun, genitive masculine plural after τῶν	1	toils
-HAG 2:14	1	43	αὐτῶν	αὐτός	pronoun referring to the sheep, genitive neuter plural	1	of them
-HAG 2:14	1	43	αὐτῶν			2	their
+HAG 2:14	1	42	πόνων	πόνος	noun, genitive masculine plural after τῶν	1	of toils
+HAG 2:14	1	43	αὐτῶν	αὐτός	pronoun referring to the sheep, genitive neuter plural	1	their
+HAG 2:14	1	43	αὐτῶν			2	of them
 HAG 2:14	1	44	καὶ	καί	conjunction	1	and
 HAG 2:14	1	45	ἐμισεῖτε	μισέω	imperfect active indicative, second plural	1	you hated
 HAG 2:14	1	46	ἐν	ἐν	preposition with the dative	1	in
@@ -464,7 +464,7 @@ HAG 2:16	1	8	εἴκοσι	εἴκοσι	indeclinable cardinal numeral with χρ
 HAG 2:16	1	9	σάτα	σάτον	noun, accusative neuter plural; unit of dry measure	1	seahs
 HAG 2:16	1	9	σάτα			2	sata
 HAG 2:16	1	10	καὶ	καί	conjunction	1	and
-HAG 2:16	1	11	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
+HAG 2:16	1	11	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	there were
 HAG 2:16	1	12	κριθῆς	κριθή	noun, genitive feminine singular	1	barley
 HAG 2:16	1	13	δέκα	δέκα	indeclinable cardinal numeral	1	ten
 HAG 2:16	1	14	σάτα	σάτον	noun, accusative neuter plural; unit of dry measure	1	seahs
@@ -478,8 +478,8 @@ HAG 2:16	1	19	ὑπολήνιον			2	vat under the press
 HAG 2:16	1	20	ἐξαντλῆσαι	ἐξαντλέω	aorist active infinitive	1	to draw out
 HAG 2:16	1	20	ἐξαντλῆσαι			2	to draw off
 HAG 2:16	1	21	πεντήκοντα	πεντήκοντα	indeclinable cardinal numeral	1	fifty
-HAG 2:16	1	22	μετρητὰς	μετρητής	noun, accusative masculine plural; unit of liquid measure	1	metretes measures
-HAG 2:16	1	22	μετρητὰς			2	measures
+HAG 2:16	1	22	μετρητὰς	μετρητής	noun, accusative masculine plural; unit of liquid measure	1	measures
+HAG 2:16	1	22	μετρητὰς			2	metretes measures
 HAG 2:16	1	23	καὶ	καί	conjunction	1	and
 HAG 2:16	1	24	ἐγένοντο	γίνομαι	aorist middle indicative, third plural, of a total	1	amounted to
 HAG 2:16	1	24	ἐγένοντο			2	were
@@ -528,14 +528,14 @@ HAG 2:18	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
 HAG 2:18	1	14	τετράδος	τετράς	noun, genitive feminine singular; date formula, with εἰκάς	1	fourth day
 HAG 2:18	1	15	καὶ	καί	conjunction	1	and
 HAG 2:18	1	16	εἰκάδος	εἰκάς	noun, genitive feminine singular; date formula with τετράδος	1	twentieth day
-HAG 2:18	1	17	τοῦ	ὁ	article, genitive singular	1	the
+HAG 2:18	1	17	τοῦ	ὁ	article, genitive singular	1	of the
 HAG 2:18	1	18	ἐνάτου	ἔνατος	ordinal adjective, genitive masculine singular	1	ninth
 HAG 2:18	1	19	μηνὸς	μήν	noun, genitive masculine singular	1	month
 HAG 2:18	1	20	καὶ	καί	conjunction	1	and
 HAG 2:18	1	21	ἀπὸ	ἀπό	preposition with the genitive	1	from
 HAG 2:18	1	22	τῆς	ὁ	article, genitive feminine singular	1	the
 HAG 2:18	1	23	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
-HAG 2:18	1	24	ἧς	ὅς	relative pronoun, genitive feminine singular	1	which
+HAG 2:18	1	24	ἧς	ὅς	relative pronoun, genitive feminine singular	1	on which
 HAG 2:18	1	25	ἐθεμελιώθη	θεμελιόω	aorist passive indicative, third singular	1	was founded
 HAG 2:18	1	25	ἐθεμελιώθη			2	was laid on foundations
 HAG 2:18	1	26	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -548,17 +548,17 @@ HAG 2:18	1	30	ἐν	ἐν	preposition with dative	1	in
 HAG 2:18	1	31	ταῖς	ὁ	article dative feminine plural	1	the
 HAG 2:18	1	32	καρδίαις	καρδία	noun dative feminine plural	1	hearts
 HAG 2:18	1	33	ὑμῶν	σύ	personal pronoun genitive second plural	1	your
-HAG 2:19	1	1	εἰ	εἰ	interrogative particle in direct question	1	(marks question)
+HAG 2:19	1	1	εἰ	εἰ	interrogative particle in direct question	1	[marks a question]
 HAG 2:19	1	2	ἔτι	ἔτι	temporal adverb	1	still
 HAG 2:19	1	3	ἐπιγνωσθήσεται	ἐπιγιγνώσκω	future passive indicative, third singular	1	will be known
 HAG 2:19	1	4	ἐπὶ	ἐπί	preposition (case from context)	1	on
 HAG 2:19	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
 HAG 2:19	1	6	ἅλω	ἅλως	noun, genitive feminine singular	1	threshing floor
 HAG 2:19	1	7	καὶ	καί	conjunction	1	and
-HAG 2:19	1	8	εἰ	εἰ	interrogative particle in direct question	1	(marks question)
+HAG 2:19	1	8	εἰ	εἰ	interrogative particle in direct question	1	[marks a question]
 HAG 2:19	1	9	ἔτι	ἔτι	temporal adverb	1	still
 HAG 2:19	1	10	ἡ	ὁ	article, nominative feminine singular	1	the
-HAG 2:19	1	11	ἄμπελος	ἄμπελος	noun, nominative feminine singular	1	a vine
+HAG 2:19	1	11	ἄμπελος	ἄμπελος	noun, nominative feminine singular	1	vine
 HAG 2:19	1	12	καὶ	καί	conjunction	1	and
 HAG 2:19	1	13	ἡ	ὁ	article, nominative feminine singular	1	the
 HAG 2:19	1	14	συκῆ	συκῆ	noun, nominative feminine singular	1	fig tree
@@ -569,7 +569,7 @@ HAG 2:19	1	18	καὶ	καί	conjunction	1	and
 HAG 2:19	1	19	τὰ	ὁ	article, nominative neuter plural	1	the
 HAG 2:19	1	20	ξύλα	ξύλον	noun, nominative neuter plural	1	trees
 HAG 2:19	1	21	τῆς	ὁ	article, genitive feminine singular	1	of the
-HAG 2:19	1	22	ἐλαίας	ἐλαία	noun, genitive feminine singular	1	of an olive tree
+HAG 2:19	1	22	ἐλαίας	ἐλαία	noun, genitive feminine singular	1	olive tree
 HAG 2:19	1	23	τὰ	ὁ	article, nominative neuter plural	1	the
 HAG 2:19	1	24	οὐ	οὐ	negative particle	1	not
 HAG 2:19	1	25	φέροντα	φέρω	present active participle, nominative neuter plural	1	bearing
@@ -608,15 +608,15 @@ HAG 2:21	1	2	πρὸς	πρός	preposition with the accusative	1	to
 HAG 2:21	1	3	Ζοροβάβελ	Ζοροβάβελ	indeclinable personal name, case from context	1	Zerubbabel
 HAG 2:21	1	3	Ζοροβάβελ			2	Zorobabel
 HAG 2:21	1	4	τὸν	ὁ	article, accusative masculine singular; substantival, with following genitive	1	the son
-HAG 2:21	1	5	τοῦ	ὁ	article, genitive singular	1	the
+HAG 2:21	1	5	τοῦ	ὁ	article, genitive singular	1	of
 HAG 2:21	1	6	Σαλαθιὴλ	Σαλαθιήλ	indeclinable personal name, genitive in context	1	Shealtiel
 HAG 2:21	1	6	Σαλαθιὴλ			2	Salathiel
 HAG 2:21	1	7	ἐκ	ἐκ	preposition with genitive	1	from
-HAG 2:21	1	8	φυλῆς	φυλή	noun, genitive fem. sg. after ἐκ/τῆς	1	of the tribe
+HAG 2:21	1	8	φυλῆς	φυλή	noun, genitive fem. sg. after ἐκ/τῆς	1	tribe
 HAG 2:21	1	9	Ἰούδα	Ἰούδας	personal name, genitive masculine singular	1	of Judah
 HAG 2:21	1	10	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 HAG 2:21	1	11	ἐγὼ	ἐγώ	personal pronoun, nominative singular	1	I
-HAG 2:21	1	12	σείω	σείω	present active indicative, first singular; prospective in context	1	I am shaking
+HAG 2:21	1	12	σείω	σείω	present active indicative, first singular; prospective in context	1	am shaking
 HAG 2:21	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
 HAG 2:21	1	14	οὐρανὸν	οὐρανός	noun, accusative masculine singular	1	heaven
 HAG 2:21	1	14	οὐρανὸν			2	the sky
@@ -633,14 +633,14 @@ HAG 2:22	1	1	καὶ	καί	conjunction	1	and
 HAG 2:22	1	2	καταστρέψω	καταστρέφω	future active indicative, first singular	1	I will overturn
 HAG 2:22	1	2	καταστρέψω			2	I will overthrow
 HAG 2:22	1	3	θρόνους	θρόνος	noun, accusative masculine plural	1	thrones
-HAG 2:22	1	4	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
+HAG 2:22	1	4	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	of kings
 HAG 2:22	1	5	καὶ	καί	conjunction	1	and
 HAG 2:22	1	6	ἐξολεθρεύσω	ἐξολεθρεύω	future active indicative, first singular	1	I will wipe out
 HAG 2:22	1	6	ἐξολεθρεύσω			2	I will destroy
 HAG 2:22	1	7	δύναμιν	δύναμις	noun, accusative fem. sg. after τὴν, host/army in this phrase	1	host
-HAG 2:22	1	8	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
+HAG 2:22	1	8	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	of kings
 HAG 2:22	1	9	τῶν	ὁ	article, genitive neuter plural	1	of the
-HAG 2:22	1	10	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	of nations
+HAG 2:22	1	10	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 HAG 2:22	1	11	καὶ	καί	conjunction	1	and
 HAG 2:22	1	12	καταστρέψω	καταστρέφω	future active indicative, first singular	1	I will overturn
 HAG 2:22	1	12	καταστρέψω			2	I will overthrow

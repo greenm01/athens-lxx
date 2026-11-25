@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 MAL 3:1	1	1	ΙΔΟΥ	ἰδού	presentative particle	1	look
 MAL 3:1	1	1	ΙΔΟΥ			2	behold
 MAL 3:1	1	2	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
-MAL 3:1	1	3	ἐξαποστέλλω	ἐξαποστέλλω	present active indicative, first singular, 'I am sending (against)'	1	I send
+MAL 3:1	1	3	ἐξαποστέλλω	ἐξαποστέλλω	present active indicative, first singular, 'I am sending (against)'	1	send
 MAL 3:1	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 MAL 3:1	1	5	ἄγγελόν	ἄγγελος	noun, accusative masc. sg. after τὸν, angel/messenger	1	messenger
 MAL 3:1	1	5	ἄγγελόν			2	angel
@@ -24,18 +24,18 @@ MAL 3:1	1	18	ναὸν	ναός	noun, accusative masculine singular	1	temple
 MAL 3:1	1	18	ναὸν			2	sanctuary
 MAL 3:1	1	19	αὐτοῦ	αὐτός	pronoun genitive masculine singular	1	his
 MAL 3:1	1	20	Κύριος	κύριος	noun nominative masculine singular	1	the Lord
-MAL 3:1	1	21	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
+MAL 3:1	1	21	ὃν	ὅς	relative pronoun, accusative masculine singular	1	whom
 MAL 3:1	1	22	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
-MAL 3:1	1	23	ζητεῖτε	ζητέω	present active indicative, second plural	1	you seek
+MAL 3:1	1	23	ζητεῖτε	ζητέω	present active indicative, second plural	1	seek
 MAL 3:1	1	24	καὶ	καί	conjunction	1	and
 MAL 3:1	1	25	ὁ	ὁ	article, nominative masculine singular	1	the
 MAL 3:1	1	26	ἄγγελος	ἄγγελος	noun, nominative masculine singular	1	messenger
 MAL 3:1	1	26	ἄγγελος			2	angel
-MAL 3:1	1	27	τῆς	ὁ	article, genitive feminine singular	1	the
+MAL 3:1	1	27	τῆς	ὁ	article, genitive feminine singular	1	of the
 MAL 3:1	1	28	διαθήκης	διαθήκη	noun, genitive feminine singular	1	covenant
-MAL 3:1	1	29	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
+MAL 3:1	1	29	ὃν	ὅς	relative pronoun, accusative masculine singular	1	whom
 MAL 3:1	1	30	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
-MAL 3:1	1	31	θέλετε	θέλω	present active indicative, second plural	1	you want
+MAL 3:1	1	31	θέλετε	θέλω	present active indicative, second plural	1	want
 MAL 3:1	1	31	θέλετε			2	you desire
 MAL 3:1	1	32	ἰδοὺ	ἰδού	presentative particle	1	behold
 MAL 3:1	1	33	ἔρχεται	ἔρχομαι	present middle indicative, third singular	1	is coming
@@ -48,7 +48,7 @@ MAL 3:2	1	2	τίς	τίς	interrogative pronoun, nominative masculine singular	1
 MAL 3:2	1	3	ὑπομενεῖ	ὑπομένω	future active indicative, third singular	1	will endure
 MAL 3:2	1	3	ὑπομενεῖ			2	will withstand
 MAL 3:2	1	4	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
-MAL 3:2	1	5	εἰσόδου	εἴσοδος	noun, genitive feminine singular	1	entry
+MAL 3:2	1	5	εἰσόδου	εἴσοδος	noun, genitive feminine singular	1	of entry
 MAL 3:2	1	5	εἰσόδου			2	coming in
 MAL 3:2	1	6	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 MAL 3:2	1	7	καὶ	καί	conjunction	1	and
@@ -62,17 +62,17 @@ MAL 3:2	1	12	ὀπτασίᾳ			2	manifestation
 MAL 3:2	1	13	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 MAL 3:2	1	14	διότι	διότι	causal conjunction	1	because
 MAL 3:2	1	15	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
-MAL 3:2	1	16	εἰσπορεύεται	εἰσπορεύομαι	present middle indicative, third singular	1	he is coming in
+MAL 3:2	1	16	εἰσπορεύεται	εἰσπορεύομαι	present middle indicative, third singular	1	is coming in
 MAL 3:2	1	16	εἰσπορεύεται			2	he enters
 MAL 3:2	1	17	ὡς	ὡς	comparative adverb/conjunction	1	like
 MAL 3:2	1	18	πῦρ	πῦρ	noun, nominative neuter singular	1	fire
-MAL 3:2	1	19	χωνευτηρίου	χωνευτήριον	noun, genitive neuter singular	1	smelting furnace
+MAL 3:2	1	19	χωνευτηρίου	χωνευτήριον	noun, genitive neuter singular	1	of a smelting furnace
 MAL 3:2	1	19	χωνευτηρίου			2	crucible
 MAL 3:2	1	20	καὶ	καί	conjunction	1	and
 MAL 3:2	1	21	ὡς	ὡς	comparative particle	1	as
 MAL 3:2	1	22	ποιὰ	πόα	noun, nominative feminine singular; printed ποιὰ	1	herb
 MAL 3:2	1	22	ποιὰ			2	grass
-MAL 3:2	1	23	πλυνόντων	πλύνω	present active participle, genitive masculine plural; substantival	1	launderers
+MAL 3:2	1	23	πλυνόντων	πλύνω	present active participle, genitive masculine plural; substantival	1	of launderers
 MAL 3:2	1	23	πλυνόντων			2	those who wash
 MAL 3:3	1	1	Καὶ	καί	conjunction	1	and
 MAL 3:3	1	2	καθιεῖται	καθίζω	future middle indicative, third singular	1	he will sit
@@ -118,17 +118,17 @@ MAL 3:3	1	35	δικαιοσύνῃ	δικαιοσύνη	noun, dative feminine si
 MAL 3:3	1	35	δικαιοσύνῃ			2	innocence
 MAL 3:4	1	1	καὶ	καί	conjunction	1	and
 MAL 3:4	1	2	ἀρέσει	ἀρέσκω	future active indicative, third singular	1	it will be pleasing
-MAL 3:4	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	the
-MAL 3:4	1	4	Κυρίῳ	κύριος	noun, dative masculine singular after τῷ, master	1	master
-MAL 3:4	1	5	θυσία	θυσία	noun, nominative feminine singular	1	grain offering
+MAL 3:4	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
+MAL 3:4	1	4	Κυρίῳ	κύριος	noun, dative masculine singular after τῷ, master	1	Lord
+MAL 3:4	1	5	θυσία	θυσία	noun, nominative feminine singular	1	sacrifice
 MAL 3:4	1	6	Ἰούδα	Ἰούδας	indeclinable national name, genitive in context	1	of Judah
 MAL 3:4	1	7	καὶ	καί	conjunction	1	and
 MAL 3:4	1	8	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 MAL 3:4	1	9	καθὼς	καθώς	comparative conjunction	1	just as
 MAL 3:4	1	10	αἱ	ὁ	article, nominative feminine plural	1	the
 MAL 3:4	1	11	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days
-MAL 3:4	1	12	τοῦ	ὁ	article, genitive singular	1	the
-MAL 3:4	1	13	αἰῶνος	αἰών	noun, genitive masculine singular	1	long ago
+MAL 3:4	1	12	τοῦ	ὁ	article, genitive singular	1	of
+MAL 3:4	1	13	αἰῶνος	αἰών	noun, genitive masculine singular	1	old
 MAL 3:4	1	13	αἰῶνος			2	of old
 MAL 3:4	1	14	καὶ	καί	conjunction	1	and
 MAL 3:4	1	15	καθὼς	καθώς	comparative conjunction	1	just as
@@ -149,17 +149,17 @@ MAL 3:5	1	8	ἔσομαι	εἰμί	future middle indicative, first person singu
 MAL 3:5	1	9	μάρτυς	μάρτυς	noun, nominative masculine singular	1	witness
 MAL 3:5	1	10	ταχὺς	ταχύς	adjective, nominative masculine singular	1	swift
 MAL 3:5	1	10	ταχὺς			2	quick
-MAL 3:5	1	11	ἐπὶ	ἐπί	preposition with accusative	1	onto
+MAL 3:5	1	11	ἐπὶ	ἐπί	preposition with accusative	1	against
 MAL 3:5	1	12	τὰς	ὁ	article, accusative feminine plural	1	the
 MAL 3:5	1	13	φαρμακοὺς	φαρμακός	noun, accusative feminine plural	1	sorceresses
 MAL 3:5	1	13	φαρμακοὺς			2	women who practice magic
 MAL 3:5	1	14	καὶ	καί	conjunction	1	and
-MAL 3:5	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	on
+MAL 3:5	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	against
 MAL 3:5	1	16	τὰς	ὁ	article, accusative feminine plural	1	the
 MAL 3:5	1	17	μοιχαλίδας	μοιχαλίς	noun, accusative feminine plural	1	adulteresses
 MAL 3:5	1	18	καὶ	καί	conjunction	1	and
-MAL 3:5	1	19	ἐπὶ	ἐπί	preposition (case from context)	1	on
-MAL 3:5	1	20	τοὺς	ὁ	article, accusative masculine plural	1	the
+MAL 3:5	1	19	ἐπὶ	ἐπί	preposition (case from context)	1	against
+MAL 3:5	1	20	τοὺς	ὁ	article, accusative masculine plural	1	—
 MAL 3:5	1	21	ὀμνύοντας	ὄμνυμι	present active participle, accusative masculine plural; substantival	1	those who swear
 MAL 3:5	1	22	τῷ	ὁ	article, dative neuter singular	1	by the
 MAL 3:5	1	23	ὀνόματί	ὄνομα	noun, dative neuter singular	1	name
@@ -168,33 +168,33 @@ MAL 3:5	1	25	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 MAL 3:5	1	26	ψεύδει	ψεῦδος	noun, dative neuter singular	1	falsehood
 MAL 3:5	1	26	ψεύδει			2	a lie
 MAL 3:5	1	27	καὶ	καί	conjunction	1	and
-MAL 3:5	1	28	ἐπὶ	ἐπί	preposition (case from context)	1	on
-MAL 3:5	1	29	τοὺς	ὁ	article, accusative masculine plural	1	the
+MAL 3:5	1	28	ἐπὶ	ἐπί	preposition (case from context)	1	against
+MAL 3:5	1	29	τοὺς	ὁ	article, accusative masculine plural	1	—
 MAL 3:5	1	30	ἀποστεροῦντας	ἀποστερέω	present active participle, accusative masculine plural; substantival	1	those who withhold
 MAL 3:5	1	30	ἀποστεροῦντας			2	those who deprive
 MAL 3:5	1	31	μισθὸν	μισθός	noun, accusative masculine singular	1	wages
 MAL 3:5	1	31	μισθὸν			2	pay
-MAL 3:5	1	32	μισθωτοῦ	μισθωτός	adjective, genitive masculine singular; substantival	1	hired worker
+MAL 3:5	1	32	μισθωτοῦ	μισθωτός	adjective, genitive masculine singular; substantival	1	of hired worker
 MAL 3:5	1	33	καὶ	καί	conjunction	1	and
-MAL 3:5	1	34	τοὺς	ὁ	article, accusative masculine plural	1	the
+MAL 3:5	1	34	τοὺς	ὁ	article, accusative masculine plural	1	—
 MAL 3:5	1	35	καταδυναστεύοντας	καταδυναστεύω	present active participle, accusative masculine plural; substantival	1	those who oppress
 MAL 3:5	1	36	χήραν	χήρα	noun, accusative fem. sg. after πᾶσαν	1	widow
 MAL 3:5	1	37	καὶ	καί	conjunction	1	and
-MAL 3:5	1	38	τοὺς	ὁ	article, accusative masculine plural	1	the
+MAL 3:5	1	38	τοὺς	ὁ	article, accusative masculine plural	1	—
 MAL 3:5	1	39	κονδυλίζοντας	κονδυλίζω	present active participle, accusative masculine plural; substantival	1	those who beat
 MAL 3:5	1	39	κονδυλίζοντας			2	those who strike
 MAL 3:5	1	40	ὀρφανοὺς	ὀρφανός	adjective, accusative masculine plural; substantival	1	orphans
 MAL 3:5	1	40	ὀρφανοὺς			2	the fatherless
 MAL 3:5	1	41	καὶ	καί	conjunction	1	and
-MAL 3:5	1	42	τοὺς	ὁ	article, accusative masculine plural	1	the
+MAL 3:5	1	42	τοὺς	ὁ	article, accusative masculine plural	1	—
 MAL 3:5	1	43	ἐκκλίνοντας	ἐκκλίνω	present active participle, accusative masculine plural; substantival	1	those who turn aside
 MAL 3:5	1	43	ἐκκλίνοντας			2	those turning away
 MAL 3:5	1	44	κρίσιν	κρίσις	noun, accusative feminine singular	1	justice
 MAL 3:5	1	44	κρίσιν			2	judgment
-MAL 3:5	1	45	προσηλύτου	προσήλυτος	noun, genitive masculine singular	1	resident foreigner
+MAL 3:5	1	45	προσηλύτου	προσήλυτος	noun, genitive masculine singular	1	of resident foreigner
 MAL 3:5	1	45	προσηλύτου			2	newcomer
 MAL 3:5	1	46	καὶ	καί	conjunction	1	and
-MAL 3:5	1	47	τοὺς	ὁ	article, accusative masculine plural	1	the
+MAL 3:5	1	47	τοὺς	ὁ	article, accusative masculine plural	1	—
 MAL 3:5	1	48	μὴ	μή	negative particle	1	not
 MAL 3:5	1	49	φοβουμένους	φοβέομαι	present middle participle, accusative masculine plural; substantival	1	those who fear
 MAL 3:5	1	50	με	ἐγώ	personal pronoun, accusative singular	1	me
@@ -222,7 +222,7 @@ MAL 3:7	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
 MAL 3:7	1	8	τῶν	ὁ	article, genitive feminine plural	1	the
 MAL 3:7	1	9	ἀδικιῶν	ἀδικία	noun, genitive feminine plural	1	wrongdoings
 MAL 3:7	1	9	ἀδικιῶν			2	injustices
-MAL 3:7	1	10	τῶν	ὁ	article, genitive plural	1	the
+MAL 3:7	1	10	τῶν	ὁ	article, genitive plural	1	of the
 MAL 3:7	1	11	πατέρων	πατήρ	noun, genitive masculine plural after τῶν	1	fathers
 MAL 3:7	1	12	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 MAL 3:7	1	13	Ἐξεκλίνατε	ἐκκλίνω	aorist active indicative, second plural	1	you turned aside
@@ -247,23 +247,23 @@ MAL 3:7	1	27	Κύριος	κύριος	noun, nominative masculine singular	1	the
 MAL 3:7	1	28	παντοκράτωρ	παντοκράτωρ	noun, nominative masculine singular; divine title	1	Almighty
 MAL 3:7	1	28	παντοκράτωρ			2	Ruler of all
 MAL 3:7	1	29	Καὶ	καί	conjunction	1	and
-MAL 3:7	1	30	εἴπατε	λέγω	aorist active imperative, second plural as printed for εἴπατε/εἴπετε	1	say
+MAL 3:7	1	30	εἴπατε	λέγω	aorist active imperative, second plural as printed for εἴπατε/εἴπετε	1	you said
 MAL 3:7	1	31	ἐν	ἐν	preposition with the dative	1	in
 MAL 3:7	1	32	τίνι	τίς	interrogative pronoun, dative neuter singular	1	what
 MAL 3:7	1	33	ἐπιστρέψωμεν	ἐπιστρέφω	aorist active subjunctive, first plural	1	should we return
 MAL 3:7	1	33	ἐπιστρέψωμεν			2	shall we return
-MAL 3:8	1	1	Εἰ	εἰ	conditional conjunction	1	if
+MAL 3:8	1	1	Εἰ	εἰ	conditional conjunction	1	[marks a question]
 MAL 3:8	1	2	πτερνιεῖ	πτερνίζω	future active indicative, third singular	1	will defraud
 MAL 3:8	1	2	πτερνιεῖ			2	will cheat
 MAL 3:8	1	3	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 MAL 3:8	1	4	Θεόν	θεός	noun, accusative masculine singular	1	God
 MAL 3:8	1	5	διότι	διότι	causal conjunction	1	because
 MAL 3:8	1	6	ὑμεῖς	σύ	personal pronoun, nominative plural	1	you (plural)
-MAL 3:8	1	7	πτερνίζετέ	πτερνίζω	present active indicative, second plural	1	you defraud
+MAL 3:8	1	7	πτερνίζετέ	πτερνίζω	present active indicative, second plural	1	defraud
 MAL 3:8	1	7	πτερνίζετέ			2	you cheat
 MAL 3:8	1	8	με	ἐγώ	personal pronoun, accusative singular	1	me
 MAL 3:8	1	9	Καὶ	καί	conjunction	1	and
-MAL 3:8	1	10	εἴπατε	λέγω	aorist active imperative, second plural as printed for εἴπατε/εἴπετε	1	say
+MAL 3:8	1	10	εἴπατε	λέγω	aorist active imperative, second plural as printed for εἴπατε/εἴπετε	1	you said
 MAL 3:8	1	11	ἐν	ἐν	preposition with dative	1	in
 MAL 3:8	1	12	τίνι	τίς	interrogative pronoun, dative neuter singular	1	what
 MAL 3:8	1	13	ἐπτερνίκαμέν	πτερνίζω	perfect active indicative, first plural	1	we have defrauded
@@ -284,12 +284,12 @@ MAL 3:9	1	1	καὶ	καί	conjunction	1	and
 MAL 3:9	1	2	ἀποβλέποντες	ἀποβλέπω	present active participle, nominative masculine plural	1	looking steadfastly
 MAL 3:9	1	2	ἀποβλέποντες			2	looking away
 MAL 3:9	1	3	ὑμεῖς	σύ	personal pronoun, nominative plural	1	you (plural)
-MAL 3:9	1	4	ἀποβλέπετε	ἀποβλέπω	present active indicative, second plural	1	you keep looking
+MAL 3:9	1	4	ἀποβλέπετε	ἀποβλέπω	present active indicative, second plural	1	keep looking
 MAL 3:9	1	4	ἀποβλέπετε			2	you look away
 MAL 3:9	1	5	καὶ	καί	conjunction	1	and
 MAL 3:9	1	6	ἐμὲ	ἐγώ	personal pronoun, emphatic accusative singular governed by ἐπί	1	me
 MAL 3:9	1	7	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
-MAL 3:9	1	8	πτερνίζετε	πτερνίζω	present active indicative, second plural	1	you defraud
+MAL 3:9	1	8	πτερνίζετε	πτερνίζω	present active indicative, second plural	1	defraud
 MAL 3:9	1	8	πτερνίζετε			2	you cheat
 MAL 3:9	1	9	τὸ	ὁ	article, nominative neuter singular	1	the
 MAL 3:9	1	10	ἔθνος	ἔθνος	noun, nominative neuter singular	1	nation
@@ -329,8 +329,8 @@ MAL 3:10	1	24	παντοκράτωρ	παντοκράτωρ	noun, nominative mas
 MAL 3:10	1	24	παντοκράτωρ			2	Ruler of all
 MAL 3:10	1	25	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 MAL 3:10	1	26	μὴ	μή	negative particle	1	not
-MAL 3:10	1	27	ἀνοίξω	ἀνοίγω	future active indicative, first person singular	1	will open
-MAL 3:10	1	28	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	with you
+MAL 3:10	1	27	ἀνοίξω	ἀνοίγω	future active indicative, first person singular	1	I will open
+MAL 3:10	1	28	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	for you
 MAL 3:10	1	29	τοὺς	ὁ	article, accusative masculine plural	1	the
 MAL 3:10	1	30	καταράκτας	καταράκτης	noun, accusative masculine plural	1	floodgates
 MAL 3:10	1	30	καταράκτας			2	sluices
@@ -360,18 +360,18 @@ MAL 3:11	1	7	οὐ	οὐ	particle	1	not
 MAL 3:11	1	8	μὴ	μή	negative particle completing οὐ μή	1	(with οὐ)
 MAL 3:11	1	9	διαφθερῶ	διαφθείρω	future active indicative, first singular	1	I will destroy
 MAL 3:11	1	9	διαφθερῶ			2	I will spoil
-MAL 3:11	1	10	ὑμῶν	σύ	pronoun, genitive second plural, subject of genitive absolute	1	you
+MAL 3:11	1	10	ὑμῶν	σύ	pronoun, genitive second plural, subject of genitive absolute	1	your
 MAL 3:11	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
 MAL 3:11	1	12	καρπὸν	καρπός	noun, accusative masculine singular after τὸν/πάντα τὸν	1	fruit
 MAL 3:11	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
 MAL 3:11	1	14	γῆς	γῆ	noun, genitive feminine singular	1	earth
 MAL 3:12	1	1	καὶ	καί	conjunction	1	and
 MAL 3:12	1	2	οὐ	οὐ	particle	1	not
-MAL 3:12	1	3	μὴ	μή	negative particle	1	not
+MAL 3:12	1	3	μὴ	μή	negative particle	1	(with οὐ)
 MAL 3:12	1	4	ἀσθενήσῃ	ἀσθενέω	aorist active subjunctive, third singular	1	it may fail
 MAL 3:12	1	4	ἀσθενήσῃ			2	it may grow weak
 MAL 3:12	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
-MAL 3:12	1	6	ἄμπελος	ἄμπελος	noun, nominative feminine singular	1	a vine
+MAL 3:12	1	6	ἄμπελος	ἄμπελος	noun, nominative feminine singular	1	vine
 MAL 3:12	1	7	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 MAL 3:12	1	8	ἡ	ὁ	article, nominative feminine singular	1	the
 MAL 3:12	1	9	ἐν	ἐν	preposition with the dative	1	in
@@ -388,7 +388,7 @@ MAL 3:12	1	17	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 MAL 3:12	1	18	τὰ	ὁ	article, nominative neuter plural	1	the
 MAL 3:12	1	19	ἔθνη	ἔθνος	noun, nominative neuter plural	1	nations
 MAL 3:12	1	20	διότι	διότι	causal conjunction	1	because
-MAL 3:12	1	21	ἔσεσθε	εἰμί	future middle indicative, second plural	1	you will be (plural)
+MAL 3:12	1	21	ἔσεσθε	εἰμί	future middle indicative, second plural	1	will be
 MAL 3:12	1	22	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
 MAL 3:12	1	23	γῆ	γῆ	noun, nominative feminine singular	1	earth
 MAL 3:12	1	24	θελητὴ	θελητός	adjective, nominative feminine singular	1	desirable
@@ -407,23 +407,23 @@ MAL 3:13	1	6	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	
 MAL 3:13	1	7	λέγει	λέγω	present active indicative, third singular	1	says
 MAL 3:13	1	8	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 MAL 3:14	1	1	Καὶ	καί	conjunction	1	and
-MAL 3:14	1	2	εἴπατε	λέγω	aorist active imperative, second plural as printed for εἴπατε/εἴπετε	1	say
+MAL 3:14	1	2	εἴπατε	λέγω	aorist active imperative, second plural as printed for εἴπατε/εἴπετε	1	you said
 MAL 3:14	1	3	ἐν	ἐν	preposition with dative	1	in
 MAL 3:14	1	4	τίνι	τίς	interrogative pronoun, dative neuter singular	1	what
-MAL 3:14	1	5	κατελαλήσαμεν	καταλαλέω	aorist active indicative, first plural	1	we spoke against
+MAL 3:14	1	5	κατελαλήσαμεν	καταλαλέω	aorist active indicative, first plural	1	we spoke
 MAL 3:14	1	6	κατὰ	κατά	preposition with genitive	1	against
 MAL 3:14	1	7	σοῦ	σύ	personal pronoun, genitive second singular	1	you
-MAL 3:14	1	8	Εἴπατε	λέγω	aorist active imperative, second plural as printed for εἴπατε/εἴπετε	1	say
+MAL 3:14	1	8	Εἴπατε	λέγω	aorist active imperative, second plural as printed for εἴπατε/εἴπετε	1	you said
 MAL 3:14	1	9	μάταιος	μάταιος	adjective, nominative masculine singular	1	futile
 MAL 3:14	1	9	μάταιος			2	in vain
 MAL 3:14	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
-MAL 3:14	1	11	δουλεύων	δουλεύω	present active participle, nominative masculine singular; substantival	1	the one who serves
+MAL 3:14	1	11	δουλεύων	δουλεύω	present active participle, nominative masculine singular; substantival	1	one who serves
 MAL 3:14	1	12	Θεῷ	θεός	noun, dative masculine singular	1	God
 MAL 3:14	1	13	καὶ	καί	conjunction	1	and
 MAL 3:14	1	14	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 MAL 3:14	1	15	πλέον	πολύς	adjective, nominative neuter singular; comparative, substantival	1	gain
 MAL 3:14	1	15	πλέον			2	anything more
-MAL 3:14	1	16	ὅτι	ὅτι	causal conjunction	1	because
+MAL 3:14	1	16	ὅτι	ὅτι	causal conjunction	1	that
 MAL 3:14	1	17	ἐφυλάξαμεν	φυλάσσω	aorist active indicative, first plural	1	we kept
 MAL 3:14	1	17	ἐφυλάξαμεν			2	we observed
 MAL 3:14	1	18	τὰ	ὁ	article, neuter plural (case from context)	1	the
@@ -431,7 +431,7 @@ MAL 3:14	1	19	φυλάγματα	φύλαγμα	noun, accusative neuter plural	1
 MAL 3:14	1	19	φυλάγματα			2	observances
 MAL 3:14	1	20	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 MAL 3:14	1	21	καὶ	καί	conjunction	1	and
-MAL 3:14	1	22	διότι	διότι	causal conjunction	1	because
+MAL 3:14	1	22	διότι	διότι	causal conjunction	1	that
 MAL 3:14	1	23	ἐπορεύθημεν	πορεύομαι	aorist passive indicative, first plural	1	we went
 MAL 3:14	1	23	ἐπορεύθημεν			2	we walked
 MAL 3:14	1	24	ἱκέται	ἱκέτης	noun, nominative masculine plural	1	suppliants
@@ -445,7 +445,7 @@ MAL 3:14	1	28	παντοκράτορος			2	Ruler of all
 MAL 3:15	1	1	καὶ	καί	conjunction	1	and
 MAL 3:15	1	2	νῦν	νῦν	adverb of time	1	now
 MAL 3:15	1	3	ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
-MAL 3:15	1	4	μακαρίζομεν	μακαρίζω	present active indicative, first plural	1	we call blessed
+MAL 3:15	1	4	μακαρίζομεν	μακαρίζω	present active indicative, first plural	1	call blessed
 MAL 3:15	1	4	μακαρίζομεν			2	we call fortunate
 MAL 3:15	1	5	ἀλλοτρίους	ἀλλότριος	adjective, accusative masculine plural; substantival	1	outsiders
 MAL 3:15	1	5	ἀλλοτρίους			2	foreigners
@@ -464,7 +464,7 @@ MAL 3:15	1	14	ἐσώθησαν	σῴζω	aorist passive indicative, third plura
 MAL 3:16	1	1	Τότε	τότε	temporal adverb	1	then
 MAL 3:16	1	2	ἐλάλησαν	λαλέω	aorist active indicative, third plural	1	spoke
 MAL 3:16	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
-MAL 3:16	1	4	φοβούμενοι	φοβέομαι	present middle participle, nominative masculine plural; substantival	1	those who fear
+MAL 3:16	1	4	φοβούμενοι	φοβέομαι	present middle participle, nominative masculine plural; substantival	1	ones who fear
 MAL 3:16	1	4	φοβούμενοι			2	those who revere
 MAL 3:16	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 MAL 3:16	1	6	Κύριον	κύριος	noun, accusative masculine singular	1	Lord
@@ -475,7 +475,7 @@ MAL 3:16	1	10	πλησίον	πλησίον	adverb used as a substantival expres
 MAL 3:16	1	10	πλησίον			2	fellow
 MAL 3:16	1	11	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 MAL 3:16	1	12	καὶ	καί	conjunction	1	and
-MAL 3:16	1	13	προσέσχε	προσέχω	aorist active indicative, third singular	1	he paid attention
+MAL 3:16	1	13	προσέσχε	προσέχω	aorist active indicative, third singular	1	paid attention
 MAL 3:16	1	13	προσέσχε			2	he gave heed
 MAL 3:16	1	14	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 MAL 3:16	1	15	καὶ	καί	conjunction	1	and
@@ -484,12 +484,12 @@ MAL 3:16	1	17	καὶ	καί	conjunction	1	and
 MAL 3:16	1	18	ἔγραψε	γράφω	aorist active indicative, 3rd sg.	1	wrote
 MAL 3:16	1	19	βιβλίον	βιβλίον	noun, accusative neuter singular	1	book
 MAL 3:16	1	19	βιβλίον			2	scroll
-MAL 3:16	1	20	μνημοσύνου	μνημόσυνον	noun, genitive neuter singular	1	remembrance
+MAL 3:16	1	20	μνημοσύνου	μνημόσυνον	noun, genitive neuter singular	1	of remembrance
 MAL 3:16	1	20	μνημοσύνου			2	memorial
 MAL 3:16	1	21	ἐνώπιον	ἐνώπιον	preposition with the genitive	1	before
-MAL 3:16	1	22	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-MAL 3:16	1	23	τοῖς	ὁ	article, dative masculine plural; in apposition	1	the
-MAL 3:16	1	24	φοβουμένοις	φοβέομαι	present middle participle, dative masculine plural; substantival	1	those who fear
+MAL 3:16	1	22	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	him
+MAL 3:16	1	23	τοῖς	ὁ	article, dative masculine plural; in apposition	1	for the
+MAL 3:16	1	24	φοβουμένοις	φοβέομαι	present middle participle, dative masculine plural; substantival	1	ones who fear
 MAL 3:16	1	24	φοβουμένοις			2	those who revere
 MAL 3:16	1	25	τὸν	ὁ	article, accusative masculine singular	1	the
 MAL 3:16	1	26	Κύριον	κύριος	noun, accusative masculine singular, the Lord	1	Lord
@@ -506,12 +506,12 @@ MAL 3:17	1	4	λέγει	λέγω	present active indicative, third singular	1	say
 MAL 3:17	1	5	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 MAL 3:17	1	6	παντοκράτωρ	παντοκράτωρ	noun, nominative masculine singular; divine title	1	Almighty
 MAL 3:17	1	6	παντοκράτωρ			2	Ruler of all
-MAL 3:17	1	7	εἰς	εἰς	preposition with the accusative	1	into
+MAL 3:17	1	7	εἰς	εἰς	preposition with the accusative	1	for
 MAL 3:17	1	8	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
 MAL 3:17	1	9	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 MAL 3:17	1	10	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-MAL 3:17	1	11	ποιῶ	ποιέω	present active indicative, first singular	1	I am doing
-MAL 3:17	1	12	εἰς	εἰς	preposition with the accusative	1	into
+MAL 3:17	1	11	ποιῶ	ποιέω	present active indicative, first singular	1	am making
+MAL 3:17	1	12	εἰς	εἰς	preposition with the accusative	1	for
 MAL 3:17	1	13	περιποίησιν	περιποίησις	noun, accusative feminine singular	1	possession
 MAL 3:17	1	13	περιποίησιν			2	treasured possession
 MAL 3:17	1	14	καὶ	καί	conjunction	1	and
