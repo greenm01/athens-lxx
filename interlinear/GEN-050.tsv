@@ -7,7 +7,7 @@ GEN 50:1	1	5	πρόσωπον	πρόσωπον	noun, accusative neuter singular 
 GEN 50:1	1	6	τοῦ	ὁ	article, genitive singular	1	the
 GEN 50:1	1	7	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 GEN 50:1	1	8	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; possessive	1	his
-GEN 50:1	1	9	ἔκλαυσεν	κλαίω	aorist active indicative, third singular with accusative	1	wept for
+GEN 50:1	1	9	ἔκλαυσεν	κλαίω	aorist active indicative, third singular with accusative	1	wept
 GEN 50:1	1	10	ἐπ᾽	ἐπί	preposition with accusative, elided	1	over
 GEN 50:1	1	11	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 GEN 50:1	1	12	καὶ	καί	conjunction	1	and
@@ -221,7 +221,7 @@ GEN 50:11	1	1	Καὶ	καί	conjunction	1	and
 GEN 50:11	1	2	ἴδον	ὁράω	aorist active indicative, third plural	1	they saw
 GEN 50:11	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 GEN 50:11	1	4	κάτοικοι	κάτοικος	noun, nominative masculine plural after οἱ, inhabitants	1	inhabitants
-GEN 50:11	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 50:11	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 50:11	1	6	γῆς	γῆ	noun, genitive feminine singular	1	land
 GEN 50:11	1	7	Χαναὰν	Χαναάν	indeclinable place name, genitive in context	1	of Canaan
 GEN 50:11	1	8	τὸ	ὁ	article, neuter singular (case from context)	1	the
@@ -242,7 +242,7 @@ GEN 50:11	1	22	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter 
 GEN 50:11	1	23	ἐκάλεσε	καλέω	aorist active indicative, third singular, impersonal naming formula	1	called
 GEN 50:11	1	24	τὸ	ὁ	article, neuter singular (case from context)	1	the
 GEN 50:11	1	25	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
-GEN 50:11	1	26	τοῦ	ὁ	article, genitive singular	1	the
+GEN 50:11	1	26	τοῦ	ὁ	article, genitive singular	1	of the
 GEN 50:11	1	27	τόπου	τόπος	noun, genitive masculine singular after τοῦ/ἐκ τοῦ	1	place
 GEN 50:11	1	28	ἐκείνου	ἐκεῖνος	demonstrative pronoun, genitive masculine singular with τόπου	1	that
 GEN 50:11	1	29	Πένθος	πένθος	common noun as place-name, nominative neuter singular predicate in naming formula 'Mourning (of Egypt)'	1	Mourning
@@ -329,7 +329,7 @@ GEN 50:15	1	9	πατὴρ	πατήρ	noun, nominative masculine singular	1	fathe
 GEN 50:15	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 GEN 50:15	1	11	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
 GEN 50:15	1	12	μή	μή	negative particle with ποτέ introducing apprehension	1	what if
-GEN 50:15	1	13	ποτε	ποτε	indefinite temporal particle	1	(with μή)
+GEN 50:15	1	13	ποτε	ποτε	indefinite temporal particle	1	—
 GEN 50:15	1	14	μνησικακήσῃ	μνησικακέω	aorist active subjunctive, third singular after μή ποτε with dative ἡμῖν, bear a grudge	1	bear a grudge
 GEN 50:15	1	15	ἡμῖν	ἡμεῖς	pronoun, dative first plural	1	to us
 GEN 50:15	1	16	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
@@ -426,7 +426,7 @@ GEN 50:20	1	12	ἐμοῦ	ἐγώ	pronoun, genitive first singular (after μετ
 GEN 50:20	1	13	εἰς	εἰς	preposition with accusative of intended result	1	for
 GEN 50:20	1	14	ἀγαθὰ	ἀγαθός	substantival adjective, accusative neuter plural	1	good
 GEN 50:20	1	15	ὅπως	ὅπως	purpose conjunction	1	so that
-GEN 50:20	1	16	ἂν	ἄν	modal particle with subjunctive	1	(with ὅπως)
+GEN 50:20	1	16	ἂν	ἄν	modal particle with subjunctive	1	—
 GEN 50:20	1	17	γενηθῇ	γίνομαι	aorist passive subjunctive, third singular after ἂν in purpose construction ὅπως ἂν γενηθῇ	1	it might come about
 GEN 50:20	1	18	ὡς	ὡς	comparative adverb/conjunction	1	like
 GEN 50:20	1	19	σήμερον	σήμερον	temporal adverb	1	today
@@ -469,7 +469,7 @@ GEN 50:22	1	11	καὶ	καί	conjunction	1	and
 GEN 50:22	1	12	πᾶσα	πᾶς	adjective, nominative feminine singular with πανοικία	1	all
 GEN 50:22	1	13	ἡ	ὁ	article, nominative feminine singular	1	the
 GEN 50:22	1	14	πανοικία	πανοικία	noun, nominative feminine singular after ἡ, whole household	1	whole household
-GEN 50:22	1	15	τοῦ	ὁ	article, genitive singular	1	the
+GEN 50:22	1	15	τοῦ	ὁ	article, genitive singular	1	of the
 GEN 50:22	1	16	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 GEN 50:22	1	17	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; possessive	1	his
 GEN 50:22	1	18	καὶ	καί	conjunction	1	and
@@ -562,7 +562,7 @@ GEN 50:26	1	7	καὶ	καί	conjunction	1	and
 GEN 50:26	1	8	ἔθαψαν	θάπτω	aorist active indicative, third plural (subject unexpressed)	1	they buried
 GEN 50:26	1	9	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 GEN 50:26	1	10	καὶ	καί	conjunction	1	and
-GEN 50:26	1	11	ἔθηκαν	τίθημι	aorist active indicative, third plural	1	put/laid
+GEN 50:26	1	11	ἔθηκαν	τίθημι	aorist active indicative, third plural	1	put
 GEN 50:26	1	12	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 GEN 50:26	1	13	ἐν	ἐν	preposition with the dative	1	in
 GEN 50:26	1	14	τῇ	ὁ	article, dative feminine singular	1	the

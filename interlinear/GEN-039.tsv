@@ -17,11 +17,11 @@ GEN 39:1	1	15	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	a man
 GEN 39:1	1	16	Αἰγύπτιος	Αἰγύπτιος	ethnic adjective/noun, nominative masculine singular in apposition	1	an Egyptian
 GEN 39:1	1	17	ἐκ	ἐκ	preposition with the genitive	1	from
 GEN 39:1	1	18	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
-GEN 39:1	1	19	τῶν	ὁ	article, genitive plural	1	the
+GEN 39:1	1	19	τῶν	ὁ	article, genitive plural	1	—
 GEN 39:1	1	20	Ἰσμαηλιτῶν	Ἰσμαηλίτης	ethnic noun, genitive masculine plural after τῶν	1	of the Ishmaelites
 GEN 39:1	1	21	οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
 GEN 39:1	1	22	κατήγαγον	κατάγω	aorist active indicative, third plural	1	carried down
-GEN 39:1	1	23	αὐτῶν	αὐτός	pronoun, genitive masculine plural as printed; the clause expects an accusative singular object	1	of them
+GEN 39:1	1	23	αὐτῶν	αὐτός	pronoun, genitive masculine plural as printed; the clause expects an accusative singular object	1	him
 GEN 39:1	1	24	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 GEN 39:2	1	1	Καὶ	καί	conjunction	1	and
 GEN 39:2	1	2	ἦν	εἰμί	imperfect indicative, third singular	1	was
@@ -93,8 +93,8 @@ GEN 39:4	1	27	Ἰωσήφ	Ἰωσήφ	indeclinable personal name, genitive in co
 GEN 39:5	1	1	Ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 GEN 39:5	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 39:5	1	3	μετὰ	μετά	preposition with the accusative, temporal	1	after
-GEN 39:5	1	4	τὸ	ὁ	article, neuter singular (case from context)	1	the
-GEN 39:5	1	5	κατασταθῆναι	καθίστημι	aorist passive infinitive after τὸ with accusative subject αὐτὸν, temporal after μετά	1	was appointed
+GEN 39:5	1	4	τὸ	ὁ	article, neuter singular (case from context)	1	—
+GEN 39:5	1	5	κατασταθῆναι	καθίστημι	aorist passive infinitive after τὸ with accusative subject αὐτὸν, temporal after μετά	1	to be appointed
 GEN 39:5	1	6	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 GEN 39:5	1	7	ἐπὶ	ἐπί	preposition (case from context)	1	over
 GEN 39:5	1	8	τοῦ	ὁ	article, genitive singular	1	the
@@ -111,7 +111,7 @@ GEN 39:5	1	18	ηὐλόγησε	εὐλογέω	aorist active indicative, third 
 GEN 39:5	1	19	Κύριος	κύριος	noun, nominative masculine singular, the LORD (capitalized, no article)	1	the Lord
 GEN 39:5	1	20	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 39:5	1	21	οἶκον	οἶκος	noun, accusative masculine singular	1	house
-GEN 39:5	1	22	τοῦ	ὁ	article, genitive singular	1	the
+GEN 39:5	1	22	τοῦ	ὁ	article, genitive singular	1	—
 GEN 39:5	1	23	Αἰγυπτίου	Αἰγύπτιος	ethnic noun, genitive masculine singular after τοῦ	1	of the Egyptian
 GEN 39:5	1	24	διὰ	διά	preposition (genitive 'through/by the hand of'; accusative with articular infinitive 'because')	1	because of
 GEN 39:5	1	25	Ἰωσήφ	Ἰωσήφ	indeclinable personal name, genitive in context	1	Joseph
@@ -169,12 +169,12 @@ GEN 39:7	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third sing
 GEN 39:7	1	3	μετὰ	μετά	preposition with the accusative, temporal	1	after
 GEN 39:7	1	4	τὰ	ὁ	article, neuter plural (case from context)	1	the
 GEN 39:7	1	5	ῥήματα	ῥῆμα	noun, accusative neuter plural after τὰ, here 'things/events'	1	things
-GEN 39:7	1	6	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these things
+GEN 39:7	1	6	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these
 GEN 39:7	1	7	καὶ	καί	conjunction	1	and
 GEN 39:7	1	8	ἐπέβαλεν	ἐπιβάλλω	aorist active indicative, third singular, idiom 'cast her eyes on'	1	cast
 GEN 39:7	1	9	ἡ	ὁ	article, nominative feminine singular	1	the
 GEN 39:7	1	10	γυνὴ	γυνή	noun, nominative feminine singular after ἡ	1	wife
-GEN 39:7	1	11	τοῦ	ὁ	article, genitive singular	1	the
+GEN 39:7	1	11	τοῦ	ὁ	article, genitive singular	1	of the
 GEN 39:7	1	12	κυρίου	κύριος	noun, genitive masculine singular	1	master
 GEN 39:7	1	13	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 GEN 39:7	1	14	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -193,9 +193,9 @@ GEN 39:8	1	3	οὐκ	οὐ	negative adverb with future indicative	1	not
 GEN 39:8	1	4	ἤθελεν	ἐθέλω	imperfect active indicative, third singular	1	was willing
 GEN 39:8	1	5	εἶπε	λέγω	aorist active indicative, third singular	1	said
 GEN 39:8	1	6	δὲ	δέ	postpositive conjunction	1	and
-GEN 39:8	1	7	τῇ	ὁ	article, dative feminine singular	1	the
+GEN 39:8	1	7	τῇ	ὁ	article, dative feminine singular	1	to the
 GEN 39:8	1	8	γυναικὶ	γυνή	noun, dative feminine singular after τῇ	1	wife
-GEN 39:8	1	9	τοῦ	ὁ	article, genitive singular	1	the
+GEN 39:8	1	9	τοῦ	ὁ	article, genitive singular	1	of the
 GEN 39:8	1	10	κυρίου	κύριος	noun, genitive masculine singular	1	master
 GEN 39:8	1	11	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 GEN 39:8	1	12	εἰ	εἰ	conditional conjunction, in 39:8 introducing Joseph's premise 'if/since' as printed	1	if
@@ -239,7 +239,7 @@ GEN 39:9	1	14	οὐδὲν	οὐδείς	pronoun/adjective, accusative neuter si
 GEN 39:9	1	15	πλὴν	πλήν	preposition/adverb with the genitive	1	except
 GEN 39:9	1	16	σοῦ	σύ	pronoun, genitive second singular	1	of you
 GEN 39:9	1	17	διὰ	διά	preposition with accusative; governs causal infinitival clause	1	because of
-GEN 39:9	1	18	τὸ	ὁ	article, neuter singular (case from context)	1	the
+GEN 39:9	1	18	τὸ	ὁ	article, neuter singular (case from context)	1	—
 GEN 39:9	1	19	σὲ	σύ	pronoun, accusative second singular after διὰ	1	you
 GEN 39:9	1	20	γυναῖκα	γυνή	noun, accusative feminine singular, wife taken for Er	1	a wife
 GEN 39:9	1	21	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -296,7 +296,7 @@ GEN 39:11	1	16	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	
 GEN 39:11	1	17	καὶ	καί	conjunction	1	and
 GEN 39:11	1	18	οὐθεὶς	οὐδείς	pronoun, nominative masculine singular as printed οὐθεὶς	1	no one
 GEN 39:11	1	19	ἦν	εἰμί	imperfect indicative, third singular	1	was
-GEN 39:11	1	20	τῶν	ὁ	article, genitive plural	1	the
+GEN 39:11	1	20	τῶν	ὁ	article, genitive plural	1	of those
 GEN 39:11	1	21	ἐν	ἐν	preposition with the dative	1	in
 GEN 39:11	1	22	τῇ	ὁ	article, dative feminine singular	1	the
 GEN 39:11	1	23	οἰκίᾳ	οἰκία	noun, dative feminine singular after ἐν τῇ	1	house
@@ -491,7 +491,7 @@ GEN 39:20	1	7	ἀνέβαλεν	ἀναβάλλω	aorist active indicative, thir
 GEN 39:20	1	8	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 GEN 39:20	1	9	εἰς	εἰς	preposition with the accusative	1	into
 GEN 39:20	1	10	τὸ	ὁ	article, neuter singular (case from context)	1	the
-GEN 39:20	1	11	ὀχύρωμα	ὀχύρωμα	noun, accusative neuter singular after τὸ	1	fortress/prison
+GEN 39:20	1	11	ὀχύρωμα	ὀχύρωμα	noun, accusative neuter singular after τὸ	1	fortress
 GEN 39:20	1	12	εἰς	εἰς	preposition with the accusative	1	into
 GEN 39:20	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 39:20	1	14	τόπον	τόπος	noun, accusative masculine singular after τὸν	1	place
@@ -505,7 +505,7 @@ GEN 39:20	1	21	κατέχονται	κατέχω	present passive indicative, thi
 GEN 39:20	1	22	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 GEN 39:20	1	23	ἐν	ἐν	preposition with the dative	1	in
 GEN 39:20	1	24	τῷ	ὁ	article, dative masculine/neuter singular	1	the
-GEN 39:20	1	25	ὀχυρώματι	ὀχύρωμα	noun, dative neuter singular after ἐν τῷ	1	fortress/prison
+GEN 39:20	1	25	ὀχυρώματι	ὀχύρωμα	noun, dative neuter singular after ἐν τῷ	1	fortress
 GEN 39:21	1	1	Καὶ	καί	conjunction	1	and
 GEN 39:21	1	2	ἦν	εἰμί	imperfect indicative, third singular	1	was
 GEN 39:21	1	3	Κύριος	κύριος	noun, nominative masculine singular, the LORD (capitalized, no article)	1	the Lord

@@ -19,7 +19,7 @@ GEN 45:1	1	17	οὐ	οὐ	negative adverb with future indicative	1	not
 GEN 45:1	1	18	παρειστήκει	παρίστημι	pluperfect active indicative, third singular with οὐδεὶς	1	was standing by
 GEN 45:1	1	19	οὐδεὶς	οὐδείς	pronoun, nominative masculine singular	1	no one
 GEN 45:1	1	20	ἔτι	ἔτι	temporal adverb	1	still
-GEN 45:1	1	21	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 45:1	1	21	τῷ	ὁ	article, dative masculine/neuter singular	1	—
 GEN 45:1	1	22	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, dative in context	1	Joseph
 GEN 45:1	1	23	ἡνίκα	ἡνίκα	temporal conjunction	1	when
 GEN 45:1	1	24	ἀνεγνωρίζετο	ἀναγνωρίζομαι	imperfect middle indicative, third singular, 'was making himself known'	1	was making himself known
@@ -167,7 +167,7 @@ GEN 45:8	1	5	με	ἐγώ	pronoun, accusative first singular	1	me
 GEN 45:8	1	6	ἀπεστάλκατε	ἀποστέλλω	perfect active indicative, second plural	1	you sent
 GEN 45:8	1	7	ὧδε	ὧδε	adverb of place	1	here
 GEN 45:8	1	8	ἀλλ᾽	ἀλλά	elided conjunction; ἀλλ᾽ ἤ construction after a negative	1	but
-GEN 45:8	1	9	ἢ	ἤ	particle; with ἀλλά following a negative	1	(with ἀλλά)
+GEN 45:8	1	9	ἢ	ἤ	particle; with ἀλλά following a negative	1	—
 GEN 45:8	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 45:8	1	11	Θεός	θεός	noun, nominative masculine singular	1	God
 GEN 45:8	1	12	καὶ	καί	conjunction	1	and
@@ -222,7 +222,7 @@ GEN 45:10	1	1	καὶ	καί	conjunction	1	and
 GEN 45:10	1	2	κατοικήσεις	κατοικέω	future active indicative, second singular	1	you will dwell
 GEN 45:10	1	3	ἐν	ἐν	preposition with the dative	1	in
 GEN 45:10	1	4	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
-GEN 45:10	1	5	Γεσὲν	Γεσέν	indeclinable place name, genitive in context after ἐν γῇ (45:10)	1	of Gesem
+GEN 45:10	1	5	Γεσὲν	Γεσέν	indeclinable place name, genitive in context after ἐν γῇ (45:10)	1	of Goshen
 GEN 45:10	1	6	Ἀραβίας	Ἀραβία	place name, genitive feminine singular at 45:10	1	of Arabia
 GEN 45:10	1	7	καὶ	καί	conjunction	1	and
 GEN 45:10	1	8	ἔσῃ	εἰμί	future indicative, second singular	1	you shall be
@@ -236,7 +236,7 @@ GEN 45:10	1	15	σου	σύ	pronoun, possessive genitive second singular	1	your
 GEN 45:10	1	16	καὶ	καί	conjunction	1	and
 GEN 45:10	1	17	οἱ	ὁ	article, nominative masculine plural	1	the
 GEN 45:10	1	18	υἱοὶ	υἱός	noun, nominative masculine plural (vocative in address only)	1	sons
-GEN 45:10	1	19	τῶν	ὁ	article, genitive plural	1	the
+GEN 45:10	1	19	τῶν	ὁ	article, genitive plural	1	of the
 GEN 45:10	1	20	υἱῶν	υἱός	noun, genitive masculine plural after τῶν	1	sons
 GEN 45:10	1	21	σου	σύ	pronoun, possessive genitive second singular	1	your
 GEN 45:10	1	22	καὶ	καί	conjunction	1	and
@@ -307,7 +307,7 @@ GEN 45:13	1	11	ἐν	ἐν	preposition with the dative	1	in
 GEN 45:13	1	12	Αἰγύπτῳ	Αἴγυπτος	place name, dative feminine singular after ἐν (45:13 τὴν ἐν Αἰγύπτῳ)	1	Egypt
 GEN 45:13	1	13	καὶ	καί	conjunction	1	and
 GEN 45:13	1	14	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural (from context)	1	whatever
-GEN 45:13	1	15	ἴδετε	ὁράω	aorist active imperative, second plural	1	see
+GEN 45:13	1	15	ἴδετε	ὁράω	aorist active imperative, second plural	1	you saw
 GEN 45:13	1	16	καὶ	καί	conjunction	1	and
 GEN 45:13	1	17	ταχύναντες	ταχύνω	aorist active participle, nominative masculine plural before imperative, with haste	1	quickly
 GEN 45:13	1	18	καταγάγετε	κατάγω	aorist active imperative, second plural	1	bring down
@@ -393,7 +393,7 @@ GEN 45:17	1	18	εἰς	εἰς	preposition with the accusative	1	into
 GEN 45:17	1	19	γῆν	γῆ	noun, accusative feminine singular	1	the land
 GEN 45:17	1	20	Χαναάν	Χαναάν	indeclinable place name, genitive in context	1	of Canaan
 GEN 45:18	1	1	καὶ	καί	conjunction	1	and
-GEN 45:18	1	2	παραλαβόντες	παραλαμβάνω	aorist active participle, nominative masculine plural before ἥκετε	1	having taken (with you)
+GEN 45:18	1	2	παραλαβόντες	παραλαμβάνω	aorist active participle, nominative masculine plural before ἥκετε	1	having taken along
 GEN 45:18	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 45:18	1	4	πατέρα	πατήρ	noun, accusative masculine singular after πρός/accusative from context	1	father
 GEN 45:18	1	5	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
@@ -415,7 +415,7 @@ GEN 45:18	1	20	καὶ	καί	conjunction	1	and
 GEN 45:18	1	21	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you will eat
 GEN 45:18	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 45:18	1	23	μυελὸν	μυελός	noun, accusative masculine singular after τὸν, 'marrow' = fat/best of the land	1	marrow
-GEN 45:18	1	24	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 45:18	1	24	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 45:18	1	25	γῆς	γῆ	noun, genitive feminine singular	1	land
 GEN 45:19	1	1	Σὺ	σύ	pronoun, nominative second singular	1	you
 GEN 45:19	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -453,7 +453,7 @@ GEN 45:20	1	10	τὰ	ὁ	article, neuter plural (case from context)	1	the
 GEN 45:20	1	11	γὰρ	γάρ	explanatory conjunction	1	for
 GEN 45:20	1	12	πάντα	πᾶς	adjective, accusative neuter plural	1	all things
 GEN 45:20	1	13	ἀγαθὰ	ἀγαθός	adjective, nominative neuter plural after τὰ (πάντα) substantival	1	the good things
-GEN 45:20	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 45:20	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 45:20	1	15	γῆς	γῆ	noun, genitive feminine singular	1	land
 GEN 45:20	1	16	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular (βασιλεὺς Αἰγύπτου 'king of Egypt')	1	of Egypt
 GEN 45:20	1	17	ὑμῖν	σύ	pronoun, dative second plural	1	to you
@@ -575,7 +575,7 @@ GEN 45:26	1	18	Καὶ	καί	conjunction	1	and
 GEN 45:26	1	19	ἐξέστη	ἐξίστημι	aorist active indicative, third singular (intransitive), with καρδία 'their heart failed'	1	was stunned
 GEN 45:26	1	20	ἡ	ὁ	article, nominative feminine singular	1	the
 GEN 45:26	1	21	διάνοια	διάνοια	noun, nominative feminine singular after ἡ	1	mind
-GEN 45:26	1	22	Ἰακώβ	Ἰακώβ	indeclinable personal name, nominative in context	1	Jacob
+GEN 45:26	1	22	Ἰακώβ	Ἰακώβ	indeclinable personal name, nominative in context	1	of Jacob
 GEN 45:26	1	23	οὐ	οὐ	negative adverb with future indicative	1	not
 GEN 45:26	1	24	γὰρ	γάρ	explanatory conjunction	1	for
 GEN 45:26	1	25	ἐπίστευσεν	πιστεύω	aorist active indicative, third singular with dative αὐτοῖς	1	believed
