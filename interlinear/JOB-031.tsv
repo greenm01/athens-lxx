@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 JOB 31:1	1	1	ΔΙΑΘΗΚΗΝ	διαθήκη	noun, accusative feminine singular	1	a covenant
 JOB 31:1	1	2	ἐθέμην	τίθημι	aorist middle indicative, first singular	1	I put
-JOB 31:1	1	3	τοῖς	ὁ	article, dative neuter plural	1	the
+JOB 31:1	1	3	τοῖς	ὁ	article, dative neuter plural	1	with the
 JOB 31:1	1	4	ὀφθαλμοῖς	ὀφθαλμός	noun, dative masculine plural	1	eyes
 JOB 31:1	1	5	μου	ἐγώ	pronoun, genitive 1st singular	1	my
 JOB 31:1	1	6	καὶ	καί	conjunction	1	and
@@ -25,12 +25,12 @@ JOB 31:3	1	1	Οὐχὶ	οὐχί	negative particle	1	not
 JOB 31:3	1	2	καὶ	καί	conjunction	1	and
 JOB 31:3	1	3	ἀπώλεια	ἀπώλεια	noun, nominative feminine singular	1	destruction
 JOB 31:3	1	3	ἀπώλεια			2	ruin
-JOB 31:3	1	4	τῷ	ὁ	article, dative masculine singular	1	the
-JOB 31:3	1	5	ἀδίκῳ	ἄδικος	adjective, dative neuter singular; substantival	1	wrong
+JOB 31:3	1	4	τῷ	ὁ	article, dative masculine singular	1	to the
+JOB 31:3	1	5	ἀδίκῳ	ἄδικος	adjective, dative neuter singular; substantival	1	unjust one
 JOB 31:3	1	5	ἀδίκῳ			2	injustice
 JOB 31:3	1	6	καὶ	καί	conjunction	1	and
 JOB 31:3	1	7	ἀπαλλοτρίωσις	ἀπαλλοτρίωσις	noun, nominative feminine singular	1	alienation
-JOB 31:3	1	8	τοῖς	ὁ	article, dative neuter plural	1	the
+JOB 31:3	1	8	τοῖς	ὁ	article, dative neuter plural	1	to
 JOB 31:3	1	9	ποιοῦσιν	ποιέω	present active indicative, third plural	1	those who do
 JOB 31:3	1	10	ἀνομίαν	ἀνομία	noun accusative feminine singular	1	lawlessness
 JOB 31:4	1	1	Οὐχὶ	οὐχί	negative particle, emphatic form	1	not
@@ -124,7 +124,7 @@ JOB 31:9	1	11	καὶ	καί	conjunction	1	and
 JOB 31:9	1	12	ἐγκάθετος	ἐγκάθετος	adjective, nominative masculine singular	1	lying in wait
 JOB 31:9	1	13	ἐγενόμην	γίνομαι	aorist middle indicative, first singular	1	I came to be
 JOB 31:9	1	13	ἐγενόμην			2	I was born
-JOB 31:9	1	14	ἐπὶ	ἐπί	preposition (case from context)	1	on
+JOB 31:9	1	14	ἐπὶ	ἐπί	preposition (case from context)	1	at
 JOB 31:9	1	15	θύραις	θύρα	noun, dative feminine plural	1	doors
 JOB 31:9	1	16	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	her
 JOB 31:10	1	1	ἀλέσαι	ἀλέω	aorist active optative, third singular	1	may she grind
@@ -141,7 +141,7 @@ JOB 31:10	1	11	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 31:10	1	12	ταπεινωθείη	ταπεινόω	aorist passive optative, third singular	1	may they be humbled
 JOB 31:11	1	1	Θυμὸς	θυμός	noun, nominative masculine singular	1	wrath
 JOB 31:11	1	2	γὰρ	γάρ	causal particle	1	for
-JOB 31:11	1	3	ὀργῆς	ὀργή	noun, genitive feminine singular	1	anger
+JOB 31:11	1	3	ὀργῆς	ὀργή	noun, genitive feminine singular	1	of anger
 JOB 31:11	1	4	ἀκάθεκτος	ἀκάθεκτος	adjective, nominative masculine singular	1	unrestrained
 JOB 31:11	1	5	τὸ	ὁ	article, accusative neuter singular	1	the
 JOB 31:11	1	6	μιᾶναι	μιαίνω	aorist active infinitive	1	to defile
@@ -161,19 +161,19 @@ JOB 31:12	1	11	ἂν	ἄν	modal particle with the relative and subjunctive	1	ev
 JOB 31:12	1	12	ἐπέλθῃ	ἐπέρχομαι	aorist active subjunctive, third singular	1	falls
 JOB 31:12	1	13	ἐκ	ἐκ	preposition with the genitive	1	from
 JOB 31:12	1	14	ῥιζῶν	ῥίζα	noun, genitive feminine plural	1	the roots
-JOB 31:12	1	15	ἀπώλεσεν	ἀπόλλυμι	aorist active indicative, third singular	1	he destroyed
+JOB 31:12	1	15	ἀπώλεσεν	ἀπόλλυμι	aorist active indicative, third singular	1	it destroyed
 JOB 31:13	1	1	Εἰ	εἰ	conditional conjunction	1	if
 JOB 31:13	1	2	δὲ	δέ	postpositive conjunction	1	and
 JOB 31:13	1	3	καὶ	καί	conjunction	1	and
 JOB 31:13	1	4	ἐφαύλισα	φαυλίζω	aorist active indicative, first singular	1	I treated with contempt
 JOB 31:13	1	5	κρίμα	κρίμα	noun, accusative neuter singular	1	claim
-JOB 31:13	1	6	θεράποντός	θεράπων	noun, genitive masculine singular	1	servant
+JOB 31:13	1	6	θεράποντός	θεράπων	noun, genitive masculine singular	1	of servant
 JOB 31:13	1	7	μου	ἐγώ	personal pronoun genitive first singular	1	my
 JOB 31:13	1	8	ἢ	ἤ	disjunctive conjunction	1	or
 JOB 31:13	1	9	θεραπαίνης	θεράπαινα	noun, genitive fem. sg	1	of a maidservant
 JOB 31:13	1	10	κρινομένων	κρίνω	present passive participle, genitive masculine plural	1	when they contended
 JOB 31:13	1	11	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-JOB 31:13	1	12	πρὸς	πρός	preposition with the accusative	1	to
+JOB 31:13	1	12	πρὸς	πρός	preposition with the accusative	1	with
 JOB 31:13	1	13	ἐμέ	ἐγώ	personal pronoun accusative first singular	1	me
 JOB 31:14	1	1	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 JOB 31:14	1	2	γὰρ	γάρ	conjunction	1	for
@@ -190,7 +190,7 @@ JOB 31:14	1	12	καὶ	καί	conjunction	1	and
 JOB 31:14	1	13	ἐπισκοπὴν	ἐπισκοπή	noun, accusative feminine singular	1	visitation
 JOB 31:14	1	14	τίνα	τίς	interrogative pronoun, accusative masculine singular	1	what
 JOB 31:14	1	15	ἀπόκρισιν	ἀπόκρισις	noun, accusative feminine singular	1	answer
-JOB 31:14	1	16	ποιήσομαι	ποιέω	future middle indicative, first singular	1	I will take
+JOB 31:14	1	16	ποιήσομαι	ποιέω	future middle indicative, first singular	1	I will make
 JOB 31:14	1	16	ποιήσομαι			2	I will carry out
 JOB 31:15	1	1	Πότερον	πότερον	interrogative particle, introduces question	1	—
 JOB 31:15	1	2	οὐχ	οὐ	negative particle	1	not
@@ -209,10 +209,10 @@ JOB 31:15	1	12	δὲ			2	but
 JOB 31:15	1	13	ἐν	ἐν	preposition with the dative	1	in
 JOB 31:15	1	14	τῇ	ὁ	article, dative feminine singular	1	the
 JOB 31:15	1	15	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	same
-JOB 31:15	1	16	κοιλίᾳ	κοιλία	noun, dative feminine singular	1	the womb
+JOB 31:15	1	16	κοιλίᾳ	κοιλία	noun, dative feminine singular	1	womb
 JOB 31:16	1	1	Ἀδύνατοι	ἀδύνατος	adjective, nominative masculine plural	1	the powerless
 JOB 31:16	1	2	δὲ	δέ	postpositive conjunction	1	and
-JOB 31:16	1	3	ἦν	εἰμί	imperfect indicative, third singular	1	was
+JOB 31:16	1	3	ἦν	εἰμί	imperfect indicative, third singular	1	which
 JOB 31:16	1	4	ποτε	ποτέ	adverb	1	ever
 JOB 31:16	1	5	εἶχον	ἔχω	imperfect active indicative, third plural	1	they had
 JOB 31:16	1	6	χρείαν	χρεία	noun, accusative feminine singular	1	need
@@ -241,7 +241,7 @@ JOB 31:17	1	12	ὀρφανῷ	ὀρφανός	adjective, dative masculine singul
 JOB 31:17	1	13	ἐξ	ἐκ	preposition with genitive	1	from
 JOB 31:17	1	14	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	it
 JOB 31:18	1	1	ὅτι	ὅτι	causal conjunction	1	because
-JOB 31:18	1	2	ἐκ	ἐκ	preposition with genitive of position	1	at
+JOB 31:18	1	2	ἐκ	ἐκ	preposition with genitive of position	1	from
 JOB 31:18	1	3	νεότητός	νεότης	noun, genitive feminine singular	1	youth
 JOB 31:18	1	4	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 31:18	1	5	ἐξέτρεφον	ἐκτρέφω	imperfect active indicative, third plural	1	I raised them
@@ -283,12 +283,12 @@ JOB 31:21	1	1	εἰ	εἰ	conditional conjunction	1	if
 JOB 31:21	1	2	δὲ	δέ	postpositive conjunction	1	and
 JOB 31:21	1	3	καὶ	καί	conjunction	1	and
 JOB 31:21	1	4	ἐπῆρα	ἐπαίρω	aorist active indicative, first singular	1	I raised
-JOB 31:21	1	5	ὀρφανῷ	ὀρφανός	adjective, dative masculine singular	1	orphan
+JOB 31:21	1	5	ὀρφανῷ	ὀρφανός	adjective, dative masculine singular	1	against the orphan
 JOB 31:21	1	6	χεῖρά	χείρ	noun, accusative feminine singular	1	hand
 JOB 31:21	1	7	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 31:21	1	8	πεποιθὼς	πείθω	perfect active participle, nominative masculine singular	1	trusting
 JOB 31:21	1	8	πεποιθὼς			2	confident
-JOB 31:21	1	9	ὅτι	ὅτι	causal conjunction	1	because
+JOB 31:21	1	9	ὅτι	ὅτι	causal conjunction	1	that
 JOB 31:21	1	10	πολλή	πολύς	adjective, nominative feminine singular	1	great
 JOB 31:21	1	11	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 JOB 31:21	1	12	βοήθεια	βοήθεια	noun nominative feminine singular	1	help
@@ -345,7 +345,7 @@ JOB 31:25	1	5	πολλοῦ	πολύς	adjective, genitive neuter singular	1	muc
 JOB 31:25	1	5	πολλοῦ			2	abundant
 JOB 31:25	1	6	πλούτου	πλοῦτος	noun, genitive masculine singular	1	wealth
 JOB 31:25	1	6	πλούτου			2	riches
-JOB 31:25	1	7	γενομένου	γίνομαι	aorist middle participle, genitive masculine singular	1	was born
+JOB 31:25	1	7	γενομένου	γίνομαι	aorist middle participle, genitive masculine singular	1	having become
 JOB 31:25	1	8	μοι	ἐγώ	pronoun, dative first singular	1	to me
 JOB 31:25	1	9	καὶ	καί	conjunction	1	and
 JOB 31:25	1	10	εἰ	εἰ	conditional conjunction	1	if
@@ -385,7 +385,7 @@ JOB 31:27	1	10	καὶ	καί	conjunction	1	and
 JOB 31:27	1	11	χεῖρά	χείρ	noun, accusative feminine singular	1	hand
 JOB 31:27	1	12	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 31:27	1	13	ἐπιθεὶς	ἐπιτίθημι	aorist active participle, nominative masculine singular	1	having put
-JOB 31:27	1	14	ἐπὶ	ἐπί	preposition (case from context)	1	with
+JOB 31:27	1	14	ἐπὶ	ἐπί	preposition (case from context)	1	on
 JOB 31:27	1	15	στόματί	στόμα	noun dative neuter singular	1	mouth
 JOB 31:27	1	16	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 31:27	1	17	ἐφίλησα	φιλέω	aorist active indicative, first singular	1	I kissed
@@ -421,7 +421,7 @@ JOB 31:29	1	14	καρδία	καρδία	noun nominative feminine singular	1	hea
 JOB 31:29	1	15	μου	ἐγώ	personal pronoun genitive first singular	1	my
 JOB 31:29	1	16	εὖγε	εὖγε	interjection	1	aha
 JOB 31:29	1	17	εὖγε	εὖγε	interjection	1	aha
-JOB 31:30	1	1	ἀκοῦσαι	ἀκούω	aorist active infinitive	1	to hear
+JOB 31:30	1	1	ἀκοῦσαι	ἀκούω	aorist active infinitive	1	may hear
 JOB 31:30	1	2	ἄρα	ἄρα	particle	1	then
 JOB 31:30	1	3	τὸ	ὁ	article accusative neuter singular	1	the
 JOB 31:30	1	4	οὖς	οὖς	noun accusative neuter singular	1	ear
@@ -431,7 +431,7 @@ JOB 31:30	1	7	κατάραν	κατάρα	noun, accusative feminine singular	1	a
 JOB 31:30	1	8	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 31:30	1	9	θρυλληθείην	θρυλλέω	aorist passive optative, first singular	1	may I become a byword
 JOB 31:30	1	10	δὲ	δέ	postpositive conjunction	1	and
-JOB 31:30	1	11	ὑπὸ	ὑπό	preposition with the accusative	1	under
+JOB 31:30	1	11	ὑπὸ	ὑπό	preposition with the accusative	1	by
 JOB 31:30	1	12	λαοῦ	λαός	noun, genitive masculine singular	1	people
 JOB 31:30	1	13	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 31:30	1	14	κακούμενος	κακόω	present passive participle, nominative masculine singular	1	suffering harm
@@ -454,8 +454,8 @@ JOB 31:31	1	16	οὐ	οὐ	negative particle	1	not
 JOB 31:31	1	17	πλησθῆναι	πίμπλημι	aorist passive infinitive	1	to be filled
 JOB 31:31	1	18	λίαν	λίαν	adverb of degree	1	very
 JOB 31:31	1	18	λίαν			2	exceedingly
-JOB 31:31	1	19	μου	ἐγώ	personal pronoun genitive first singular	1	my
-JOB 31:31	1	20	χρηστοῦ	χρηστός	adjective, genitive neuter singular	1	of good
+JOB 31:31	1	19	μου	ἐγώ	personal pronoun genitive first singular	1	I
+JOB 31:31	1	20	χρηστοῦ	χρηστός	adjective, genitive neuter singular	1	kind
 JOB 31:31	1	21	ὄντος	εἰμί	present participle genitive masculine singular, genitive absolute	1	there being
 JOB 31:32	1	1	Ἔξω	ἔξω	adverb of place	1	outside
 JOB 31:32	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -473,7 +473,7 @@ JOB 31:32	1	12	ἠνέῳκτο	ἀνοίγω	pluperfect middle/passive indicati
 JOB 31:33	1	1	Εἰ	εἰ	conditional conjunction	1	if
 JOB 31:33	1	2	δὲ	δέ	postpositive conjunction	1	and
 JOB 31:33	1	3	καὶ	καί	conjunction	1	and
-JOB 31:33	1	4	ἁμαρτὼν	ἁμαρτάνω	aorist active participle, nominative masculine singular	1	who sinned
+JOB 31:33	1	4	ἁμαρτὼν	ἁμαρτάνω	aorist active participle, nominative masculine singular	1	having sinned
 JOB 31:33	1	5	ἀκουσίως	ἀκουσίως	adverb	1	unintentionally
 JOB 31:33	1	6	ἔκρυψα	κρύπτω	aorist active indicative, first singular	1	I hid
 JOB 31:33	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -503,7 +503,7 @@ JOB 31:34	1	19	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 31:34	1	20	κόλπῳ	κόλπος	noun, dative masculine singular	1	with a bosom
 JOB 31:34	1	21	κενῷ	κενός	adjective, accusative neuter singular	1	empty
 JOB 31:35	1	1	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
-JOB 31:35	1	2	δῴη	δίδωμι	aorist active optative, third singular	1	may he give
+JOB 31:35	1	2	δῴη	δίδωμι	aorist active optative, third singular	1	might give
 JOB 31:35	1	3	ἀκούοντά	ἀκούω	present active participle, accusative masculine singular	1	one who hears
 JOB 31:35	1	4	μου	ἐγώ	pronoun, possessive genitive first singular	1	me
 JOB 31:35	1	5	χεῖρα	χείρ	noun, accusative feminine singular	1	a hand
@@ -516,8 +516,8 @@ JOB 31:35	1	11	συγγραφὴν	συγγραφή	noun, accusative feminine si
 JOB 31:35	1	12	δὲ	δέ	postpositive conjunction	1	and
 JOB 31:35	1	13	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 JOB 31:35	1	14	εἶχον	ἔχω	imperfect active indicative, first singular	1	I had
-JOB 31:35	1	15	κατά	κατά	preposition with the accusative	1	according to
-JOB 31:35	1	16	τινος	τις	pronoun, genitive masculine singular	1	of someone
+JOB 31:35	1	15	κατά	κατά	preposition with the accusative	1	against
+JOB 31:35	1	16	τινος	τις	pronoun, genitive masculine singular	1	someone
 JOB 31:36	1	1	εἰ	εἰ	conditional conjunction	1	if
 JOB 31:36	1	2	ἐπ᾽	ἐπί	preposition with the accusative	1	over
 JOB 31:36	1	3	ὤμοις	ὦμος	noun, dative masculine plural	1	shoulders
@@ -537,8 +537,8 @@ JOB 31:37	1	9	παρὰ	παρά	preposition with genitive	1	from
 JOB 31:37	1	10	χρεωφειλέτου	χρεωφειλέτης	noun, genitive masculine singular	1	a debtor
 JOB 31:37	1	11	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 31:38	1	1	εἰ	εἰ	conditional conjunction	1	if
-JOB 31:38	1	2	ἐπ᾽	ἐπί	preposition with dative	1	on
-JOB 31:38	1	3	ἐμοί	ἐγώ	personal pronoun, emphatic dative singular	1	to me
+JOB 31:38	1	2	ἐπ᾽	ἐπί	preposition with dative	1	against
+JOB 31:38	1	3	ἐμοί	ἐγώ	personal pronoun, emphatic dative singular	1	me
 JOB 31:38	1	4	ποτε	ποτέ	adverb	1	ever
 JOB 31:38	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
 JOB 31:38	1	6	γῆ	γῆ	noun, nominative feminine singular	1	land
@@ -567,7 +567,7 @@ JOB 31:39	1	11	καὶ	καί	conjunction	1	and
 JOB 31:39	1	12	ψυχὴν	ψυχή	noun, accusative feminine singular	1	life
 JOB 31:39	1	12	ψυχὴν			2	soul
 JOB 31:39	1	13	κυρίου	κύριος	noun, genitive masculine singular	1	of the owner
-JOB 31:39	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+JOB 31:39	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 JOB 31:39	1	15	γῆς	γῆ	noun, genitive feminine singular	1	land
 JOB 31:39	1	16	ἐκβαλὼν	ἐκβάλλω	aorist active participle, nominative masculine singular	1	having cast out
 JOB 31:39	1	17	ἐλύπησα	λυπέω	aorist active indicative, first singular	1	I caused grief

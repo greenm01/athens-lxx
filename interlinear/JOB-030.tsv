@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 JOB 30:1	1	1	ΝΥΝΙ	νυνί	adverb	1	now
 JOB 30:1	1	2	δὲ	δέ	postpositive conjunction	1	and
 JOB 30:1	1	3	κατεγέλασάν	καταγελάω	aorist active indicative, third plural	1	laughed at
-JOB 30:1	1	4	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
+JOB 30:1	1	4	μου	ἐγώ	pronoun, possessive genitive first singular	1	me
 JOB 30:1	1	5	ἐλάχιστοι	ἐλάχιστος	adjective, nominative masculine plural	1	the least
 JOB 30:1	1	6	νῦν	νῦν	adverb of time	1	now
 JOB 30:1	1	7	νουθετοῦσί	νουθετέω	present active indicative, third plural	1	admonish
@@ -10,14 +10,14 @@ JOB 30:1	1	8	με	ἐγώ	personal pronoun accusative first singular	1	me
 JOB 30:1	1	9	ἐν	ἐν	preposition with dative	1	at
 JOB 30:1	1	10	μέρει	μέρος	noun, dative neuter singular	1	part
 JOB 30:1	1	10	μέρει			2	region
-JOB 30:1	1	11	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
-JOB 30:1	1	12	ὧν	ὅς	relative pronoun, genitive neuter plural; attracted to antecedent	1	which
+JOB 30:1	1	11	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	of days
+JOB 30:1	1	12	ὧν	ὅς	relative pronoun, genitive neuter plural; attracted to antecedent	1	whose
 JOB 30:1	1	13	ἐξουδένουν	ἐξουδενόω	imperfect active indicative, third plural	1	despised
 JOB 30:1	1	14	τοὺς	ὁ	article, accusative masculine plural	1	the
 JOB 30:1	1	15	πατέρας	πατήρ	noun, accusative masculine plural	1	fathers
 JOB 30:1	1	15	πατέρας			2	ancestors
 JOB 30:1	1	16	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-JOB 30:1	1	17	οὓς	ὅς	relative pronoun, accusative masculine plural	1	which
+JOB 30:1	1	17	οὓς	ὅς	relative pronoun, accusative masculine plural	1	whom
 JOB 30:1	1	18	οὐχ	οὐ	negative particle	1	not
 JOB 30:1	1	19	ἡγησάμην	ἡγέομαι	aorist middle indicative, first singular	1	I considered
 JOB 30:1	1	20	ἀξίους	ἄξιος	adjective, accusative masculine plural	1	worthy
@@ -41,7 +41,7 @@ JOB 30:2	1	11	συντέλεια	συντέλεια	noun, nominative feminine si
 JOB 30:3	1	1	Ἐν	ἐν	preposition with the dative	1	in
 JOB 30:3	1	2	ἐνδείᾳ	ἔνδεια	noun, dative feminine singular	1	want
 JOB 30:3	1	3	καὶ	καί	conjunction	1	and
-JOB 30:3	1	4	λιμῷ	λιμός	noun, dative masc. sg	1	by famine
+JOB 30:3	1	4	λιμῷ	λιμός	noun, dative masc. sg	1	famine
 JOB 30:3	1	5	ἄγονος	ἄγονος	adjective, nominative masculine singular	1	barren
 JOB 30:3	1	6	οἱ	ὁ	article, nominative masculine plural	1	the
 JOB 30:3	1	7	φεύγοντες	φεύγω	present active participle, nominative masculine plural	1	fleeing
@@ -57,7 +57,7 @@ JOB 30:4	1	2	περικλῶντες	περικλάω	present active participle,
 JOB 30:4	1	3	ἅλιμα	ἅλιμος	adjective, accusative neuter plural	1	saltwort
 JOB 30:4	1	4	ἐπὶ	ἐπί	preposition (case from context)	1	on
 JOB 30:4	1	5	ἠχοῦντι	ἠχέω	present active participle, dative neuter singular	1	a resounding place
-JOB 30:5	1	1	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	which
+JOB 30:5	1	1	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	whose
 JOB 30:5	1	2	ἅλιμα	ἅλιμος	adjective, accusative neuter plural	1	saltwort
 JOB 30:5	1	3	ἦν	εἰμί	imperfect indicative, third singular	1	was
 JOB 30:5	1	4	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -82,7 +82,7 @@ JOB 30:5	1	21	μεγάλου	μέγας	adjective, genitive masculine singular	1
 JOB 30:6	1	1	Ἐπανέστησάν	ἐπανίστημι	aorist active indicative third plural	1	rose up
 JOB 30:6	1	2	μοι	ἐγώ	personal pronoun dative first singular	1	against me
 JOB 30:6	1	3	κλέπται	κλέπτης	noun, nominative masculine plural	1	thieves
-JOB 30:6	1	4	ὧν	ὅς	relative pronoun, genitive neuter plural	1	which
+JOB 30:6	1	4	ὧν	ὅς	relative pronoun, genitive neuter plural	1	whose
 JOB 30:6	1	5	οἱ	ὁ	article, nominative masculine plural	1	the
 JOB 30:6	1	6	οἶκοι	οἶκος	noun, nominative masculine plural	1	houses
 JOB 30:6	1	7	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -93,12 +93,12 @@ JOB 30:6	1	11	πετρῶν	πέτρα	noun, genitive feminine plural	1	of rocks
 JOB 30:7	1	1	ἀναμέσον	ἀναμέσον	preposition with genitive	1	between
 JOB 30:7	1	2	εὐήχων	εὐηχής	adjective, dative neuter singular	1	resounding places
 JOB 30:7	1	3	βοήσονται	βοάω	future middle indicative, third plural	1	they will cry out
-JOB 30:7	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
+JOB 30:7	1	4	οἱ	ὁ	article, nominative masculine plural	1	who
 JOB 30:7	1	5	ὑπὸ	ὑπό	preposition with the accusative	1	under
 JOB 30:7	1	6	φρύγανα	φρύγανον	noun, accusative neuter plural	1	brushwood
 JOB 30:7	1	7	ἄγρια	ἄγριος	adjective, nominative neut. pl	1	wild
 JOB 30:7	1	8	διητῶντο	διαιτάομαι	imperfect middle indicative, third plural	1	were living
-JOB 30:8	1	1	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	1	the fools
+JOB 30:8	1	1	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	1	of fools
 JOB 30:8	1	2	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 JOB 30:8	1	3	καὶ	καί	conjunction	1	and
 JOB 30:8	1	4	ἀτίμων	ἄτιμος	adjective, genitive masculine plural	1	of dishonored people
@@ -119,7 +119,7 @@ JOB 30:9	1	8	ἐμὲ	ἐγώ	personal pronoun, emphatic accusative singular	1	m
 JOB 30:9	1	9	θρύλλημα	θρύλλημα	noun, accusative neuter singular	1	a byword
 JOB 30:9	1	10	ἔχουσιν	ἔχω	present active indicative, third plural	1	they have
 JOB 30:10	1	1	ἐβδελύξαντό	βδελύσσομαι	aorist middle indicative, third plural	1	they abhorred
-JOB 30:10	1	2	με	ἐγώ	pronoun, accusative first singular	1	to me
+JOB 30:10	1	2	με	ἐγώ	pronoun, accusative first singular	1	me
 JOB 30:10	1	3	ἀποστάντες	ἀφίστημι	aorist active participle, nominative masculine plural	1	having withdrawn
 JOB 30:10	1	4	μακρὰν	μακράν	adverb	1	far
 JOB 30:10	1	5	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -146,8 +146,8 @@ JOB 30:11	1	12	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 30:11	1	13	ἐξαπέστειλαν	ἐξαποστέλλω	aorist active indicative, third plural	1	sent away
 JOB 30:12	1	1	ἐπὶ	ἐπί	preposition (case from context)	1	on
 JOB 30:12	1	2	δεξιῶν	δεξιός	adjective, genitive plural substantival	1	the right side
-JOB 30:12	1	3	τοῦ	ὁ	article, genitive singular	1	the
-JOB 30:12	1	4	βλαστοῦ	βλαστός	noun, genitive masculine singular	1	a shoot
+JOB 30:12	1	3	τοῦ	ὁ	article, genitive singular	1	of the
+JOB 30:12	1	4	βλαστοῦ	βλαστός	noun, genitive masculine singular	1	shoot
 JOB 30:12	1	5	ἐπανέστησαν	ἐπανίστημι	second aorist active indicative third plural	1	rose up
 JOB 30:12	1	6	πόδας	πούς	noun, accusative masculine plural	1	feet
 JOB 30:12	1	7	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -177,7 +177,7 @@ JOB 30:14	1	4	με	ἐγώ	personal pronoun, accusative singular	1	me
 JOB 30:14	1	5	κέχρηται	χράομαι	perfect middle indicative, third singular	1	has treated
 JOB 30:14	1	6	δέ	δέ	postpositive conjunction	1	and
 JOB 30:14	1	7	μοι	ἐγώ	personal pronoun, dative singular	1	to me
-JOB 30:14	1	8	ὡς	ὡς	adverb	1	when
+JOB 30:14	1	8	ὡς	ὡς	adverb	1	as
 JOB 30:14	1	9	ἐβούλετο	βούλομαι	imperfect middle/passive indicative, third singular	1	wished
 JOB 30:14	1	10	Ἐν	ἐν	preposition with the dative	1	in
 JOB 30:14	1	11	ὀδύναις	ὀδύνη	noun, dative feminine plural	1	pains
@@ -202,8 +202,8 @@ JOB 30:15	1	17	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 30:15	1	18	παρῆλθεν	παρέρχομαι	aorist active indicative, third singular	1	passed by
 JOB 30:16	1	1	Καὶ	καί	conjunction	1	and
 JOB 30:16	1	2	νῦν	νῦν	adverb of time	1	now
-JOB 30:16	1	3	ἐπ᾽	ἐπί	elided preposition with the accusative	1	against
-JOB 30:16	1	3	ἐπ᾽			2	upon
+JOB 30:16	1	3	ἐπ᾽	ἐπί	elided preposition with the accusative	1	upon
+JOB 30:16	1	3	ἐπ᾽			2	against
 JOB 30:16	1	4	ἐμὲ	ἐγώ	pronoun, accusative first singular, subject of infinitive	1	me
 JOB 30:16	1	5	ἐκχυθήσεται	ἐκχέω	future passive indicative, third singular	1	will be poured out
 JOB 30:16	1	6	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -245,7 +245,7 @@ JOB 30:18	1	15	με	ἐγώ	personal pronoun, accusative singular	1	me
 JOB 30:19	1	1	Ἥγηται	ἡγέομαι	perfect middle indicative, third singular	1	has regarded
 JOB 30:19	1	2	δέ	δέ	postpositive conjunction	1	and
 JOB 30:19	1	3	με	ἐγώ	personal pronoun, accusative singular	1	me
-JOB 30:19	1	4	ἴσα	ἴσος	adjective, accusative neuter plural	1	as in
+JOB 30:19	1	4	ἴσα	ἴσος	adjective, accusative neuter plural	1	like
 JOB 30:19	1	5	πηλῷ	πηλός	noun, dative masculine singular	1	clay
 JOB 30:19	1	6	ἐν	ἐν	preposition with the dative	1	in
 JOB 30:19	1	7	γῇ	γῆ	noun, dative feminine singular	1	land
@@ -268,7 +268,7 @@ JOB 30:20	1	11	κατενόησάς	κατανοέω	aorist active indicative, s
 JOB 30:20	1	12	με	ἐγώ	personal pronoun, accusative singular	1	me
 JOB 30:21	1	1	Ἐπέβησας	ἐπιβαίνω	aorist active indicative, second singular	1	you bore down
 JOB 30:21	1	2	δέ	δέ	postpositive conjunction	1	and
-JOB 30:21	1	3	μοι	ἐγώ	personal pronoun, dative singular	1	to me
+JOB 30:21	1	3	μοι	ἐγώ	personal pronoun, dative singular	1	upon me
 JOB 30:21	1	4	ἀνελεημόνως	ἀνελεημόνως	adverb	1	mercilessly
 JOB 30:21	1	5	ὡς	ὡς	comparative particle	1	as
 JOB 30:21	1	6	χειρὶ	χείρ	noun, dative feminine singular	1	with a hand
@@ -295,7 +295,7 @@ JOB 30:23	1	6	ἐκτρίψει	ἐκτρίβω	future active indicative, 3rd si
 JOB 30:23	1	7	οἰκία	οἰκία	noun, nominative feminine singular	1	house
 JOB 30:23	1	8	γὰρ	γάρ	postpositive conjunction	1	for
 JOB 30:23	1	9	γῆ	γῆ	noun, nominative feminine singular	1	earth
-JOB 30:23	1	10	παντὶ	πᾶς	adjective, dative masculine singular	1	all
+JOB 30:23	1	10	παντὶ	πᾶς	adjective, dative masculine singular	1	for every
 JOB 30:23	1	11	θνητῷ	θνητός	adjective, dative masculine singular	1	mortal
 JOB 30:24	1	1	Εἰ	εἰ	conditional conjunction	1	if
 JOB 30:24	1	2	γὰρ	γάρ	postpositive conjunction	1	for
@@ -313,9 +313,9 @@ JOB 30:24	1	12	μοι	ἐγώ	personal pronoun, dative first singular	1	to me
 JOB 30:24	1	13	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 JOB 30:25	1	1	Ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 JOB 30:25	1	2	δὲ	δέ	postpositive conjunction	1	and
-JOB 30:25	1	3	ἐπὶ	ἐπί	preposition with dative	1	in
+JOB 30:25	1	3	ἐπὶ	ἐπί	preposition with dative	1	over
 JOB 30:25	1	4	παντὶ	πᾶς	adjective, dative neuter singular	1	every
-JOB 30:25	1	5	ἀδυνάτῳ	ἀδύνατος	adjective, dative masculine singular	1	for the powerless
+JOB 30:25	1	5	ἀδυνάτῳ	ἀδύνατος	adjective, dative masculine singular	1	powerless one
 JOB 30:25	1	6	ἔκλαυσα	κλαίω	aorist active indicative, first singular	1	I wept
 JOB 30:25	1	7	καὶ	καί	conjunction	1	and
 JOB 30:25	1	8	ἐστέναξα	στενάζω	aorist active indicative, first singular	1	groaned
@@ -343,7 +343,7 @@ JOB 30:27	1	5	καὶ	καί	conjunction	1	and
 JOB 30:27	1	6	οὐ	οὐ	negative particle	1	not
 JOB 30:27	1	7	σιωπήσεται	σιωπάω	future middle indicative, third singular	1	will stay silent
 JOB 30:27	1	7	σιωπήσεται			2	will keep quiet
-JOB 30:27	1	8	προέφθασαν	προφθάνω	aorist active indicative third plural	1	went ahead
+JOB 30:27	1	8	προέφθασαν	προφθάνω	aorist active indicative third plural	1	overtook
 JOB 30:27	1	9	δέ	δέ	postpositive conjunction	1	and
 JOB 30:27	1	10	με	ἐγώ	personal pronoun, accusative singular	1	me
 JOB 30:27	1	11	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days

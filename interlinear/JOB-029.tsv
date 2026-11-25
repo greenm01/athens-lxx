@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 JOB 29:1	1	1	ΠΡΟΣΘΕΙΣ	προστίθημι	aorist active participle, nominative masculine singular	1	continuing
 JOB 29:1	1	2	δὲ	δέ	postpositive conjunction	1	now
 JOB 29:1	1	3	ἔτι	ἔτι	temporal adverb	1	still
-JOB 29:1	1	4	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+JOB 29:1	1	4	τῷ	ὁ	article, dative masculine/neuter singular	1	—
 JOB 29:1	1	5	προοιμίῳ	προοίμιον	noun, dative neuter singular	1	with the discourse
 JOB 29:1	1	6	Ἰὼβ	Ἰώβ	indeclinable personal name	1	Job
 JOB 29:1	1	7	λέγει	λέγω	present active indicative, third singular	1	says
@@ -17,7 +17,7 @@ JOB 29:2	1	8	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
 JOB 29:2	1	9	τῶν	ὁ	article, genitive plural	1	the
 JOB 29:2	1	10	ἔμπροσθεν	ἔμπροσθεν	temporal adverb, attributive in context	1	former
 JOB 29:2	1	11	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
-JOB 29:2	1	12	ὧν	ὅς	relative pronoun, genitive neuter plural	1	whose
+JOB 29:2	1	12	ὧν	ὅς	relative pronoun, genitive neuter plural	1	in which
 JOB 29:2	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 JOB 29:2	1	14	Θεὸς	θεός	noun, nominative masculine singular	1	God
 JOB 29:2	1	15	ἐφύλαττέ	φυλάσσω	imperfect active indicative, third singular	1	guarded
@@ -76,7 +76,7 @@ JOB 29:6	1	9	ὄρη	ὄρος	noun, nominative neuter plural	1	mountains
 JOB 29:6	1	10	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 29:6	1	11	ἐχεῖτο	χέω	imperfect middle/passive indicative, third singular	1	was being poured out
 JOB 29:6	1	12	γάλακτι	γάλα	noun, dative neut. sg	1	with milk
-JOB 29:7	1	1	ὅτε	ὅτε	conjunction	1	because
+JOB 29:7	1	1	ὅτε	ὅτε	conjunction	1	when
 JOB 29:7	1	2	ἐξεπορευόμην	ἐκπορεύομαι	imperfect middle indicative, 1st sg.	1	I was coming out
 JOB 29:7	1	3	ὄρθριος	ὄρθριος	adjective, nominative masculine singular	1	early in the morning
 JOB 29:7	1	4	ἐν	ἐν	preposition with the dative	1	in
@@ -110,14 +110,14 @@ JOB 29:9	1	9	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JOB 29:10	1	1	Οἱ	ὁ	article, nominative masculine plural	1	the
 JOB 29:10	1	2	δὲ	δέ	postpositive conjunction	1	and
 JOB 29:10	1	3	ἀκούσαντες	ἀκούω	aorist active participle, nominative masculine plural	1	having heard
-JOB 29:10	1	4	περὶ	περί	preposition with genitive	1	for
+JOB 29:10	1	4	περὶ	περί	preposition with genitive	1	about
 JOB 29:10	1	5	ἐμοῦ	ἐγώ	personal pronoun, emphatic genitive first singular	1	me
 JOB 29:10	1	6	ἐμακάρισάν	μακαρίζω	aorist active indicative, third plural	1	called blessed
 JOB 29:10	1	7	με	ἐγώ	personal pronoun, accusative singular	1	me
 JOB 29:10	1	8	καὶ	καί	conjunction	1	and
 JOB 29:10	1	9	γλῶσσα	γλῶσσα	noun, nominative feminine singular	1	tongue
 JOB 29:10	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-JOB 29:10	1	11	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+JOB 29:10	1	11	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 JOB 29:10	1	12	λάρυγγι	λάρυγξ	noun, dative masculine singular	1	throat
 JOB 29:10	1	13	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JOB 29:10	1	14	ἐκολλήθη	κολλάω	aorist passive indicative, third singular	1	clung
@@ -147,8 +147,8 @@ JOB 29:12	1	12	βοηθὸς	βοηθός	noun nominative masculine singular	1	a
 JOB 29:12	1	13	ἐβοήθησα	βοηθέω	aorist active indicative, first singular	1	I helped
 JOB 29:13	1	1	εὐλογία	εὐλογία	noun, nominative feminine singular	1	blessing
 JOB 29:13	1	2	ἀπολλυμένου	ἀπόλλυμι	present middle participle, genitive masculine singular	1	of one perishing
-JOB 29:13	1	3	ἐπ᾽	ἐπί	elided preposition with the accusative	1	against
-JOB 29:13	1	3	ἐπ᾽			2	upon
+JOB 29:13	1	3	ἐπ᾽	ἐπί	elided preposition with the accusative	1	upon
+JOB 29:13	1	3	ἐπ᾽			2	against
 JOB 29:13	1	4	ἐμὲ	ἐγώ	personal pronoun accusative first singular	1	me
 JOB 29:13	1	5	ἔλθοι	ἔρχομαι	aorist active optative, third singular, of wish	1	may it come
 JOB 29:13	1	6	στόμα	στόμα	noun, accusative neuter singular	1	mouth
@@ -162,7 +162,7 @@ JOB 29:14	1	3	ἐνδεδύκειν	ἐνδύω	pluperfect active indicative, fi
 JOB 29:14	1	4	ἠμφιασάμην	ἀμφιάζω	aorist middle indicative, first singular	1	I clothed myself
 JOB 29:14	1	5	δὲ	δέ	postpositive conjunction	1	and
 JOB 29:14	1	6	κρίμα	κρίμα	noun, nominative/accusative neut. sg., judgment	1	judgment
-JOB 29:14	1	7	ἴσα	ἴσος	adjective, accusative neuter plural	1	as in
+JOB 29:14	1	7	ἴσα	ἴσος	adjective, accusative neuter plural	1	like
 JOB 29:14	1	8	διπλοίδι	διπλοΐς	noun, dative feminine singular	1	a double cloak
 JOB 29:15	1	1	Ὀφθαλμὸς	ὀφθαλμός	noun, nominative masculine singular	1	eye
 JOB 29:15	1	2	ἤμην	εἰμί	imperfect indicative, first singular	1	I was
@@ -200,7 +200,7 @@ JOB 29:18	1	5	γηράσει	γηράσκω	future active indicative, third sing
 JOB 29:18	1	6	ὥσπερ	ὥσπερ	comparative conjunction	1	just as
 JOB 29:18	1	7	στέλεχος	στέλεχος	noun, nominative neuter singular; of a tree	1	trunk
 JOB 29:18	1	8	φοίνικος	φοῖνιξ	noun, genitive masculine singular	1	of a palm tree
-JOB 29:18	1	9	πολὺν	πολύς	adjective, accusative masculine singular	1	numerous
+JOB 29:18	1	9	πολὺν	πολύς	adjective, accusative masculine singular	1	long
 JOB 29:18	1	10	δὲ	δέ	postpositive conjunction	1	and
 JOB 29:18	1	11	χρόνον	χρόνος	noun, accusative masculine singular	1	time
 JOB 29:18	1	12	βιώσω	βιόω	future active indicative, first singular	1	I will live
@@ -252,7 +252,7 @@ JOB 29:22	1	6	οὐ	οὐ	negative particle	1	not
 JOB 29:22	1	7	προσέθεντο	προστίθημι	aorist middle indicative, third plural	1	they added
 JOB 29:22	1	8	καὶ	καί	conjunction	1	and
 JOB 29:22	1	9	περιχαρεῖς	περιχαρής	adjective, nominative masculine plural	1	overjoyed
-JOB 29:22	1	10	ἐγίνοντο	γίνομαι	imperfect middle indicative, 3rd pl.	1	there were
+JOB 29:22	1	10	ἐγίνοντο	γίνομαι	imperfect middle indicative, 3rd pl.	1	they became
 JOB 29:22	1	11	ὁπότε	ὁπότε	temporal conjunction	1	when
 JOB 29:22	1	12	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 JOB 29:22	1	13	ἐλάλουν	λαλέω	imperfect active indicative third plural	1	I spoke
