@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:1	1	1	ΚΑΙ	καί	conjunction	1	and
-2KI 5:1	1	2	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naiman
-2KI 5:1	1	2	Ναιμὰν			2	Naaman
+2KI 5:1	1	2	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naaman
+2KI 5:1	1	2	Ναιμὰν			2	Naiman
 2KI 5:1	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 5:1	1	4	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 2KI 5:1	1	4	ἄρχων			2	chief
@@ -56,8 +56,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:2	1	14	ἐνώπιον			2	in the sight of
 2KI 5:2	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
 2KI 5:2	1	16	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
-2KI 5:2	1	17	Ναιμάν	Ναιμάν	indeclinable personal name, genitive in context	1	of Naiman
-2KI 5:2	1	17	Ναιμάν			2	of Naaman
+2KI 5:2	1	17	Ναιμάν	Ναιμάν	indeclinable personal name, genitive in context	1	of Naaman
+2KI 5:2	1	17	Ναιμάν			2	of Naiman
 2KI 5:3	1	1	Ἡ	ὁ	article, nominative feminine singular; used pronominally with δέ	1	she
 2KI 5:3	1	2	δὲ	δέ	postpositive conjunction	1	and
 2KI 5:3	1	3	εἶπε	λέγω	aorist active indicative, third singular	1	said
@@ -110,8 +110,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:5	1	3	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2KI 5:5	1	4	Συρίας	Συρία	noun, genitive feminine singular; place name	1	of Syria
 2KI 5:5	1	5	πρὸς	πρός	preposition with the accusative	1	to
-2KI 5:5	1	6	Ναιμάν	Ναιμάν	indeclinable personal name, nominative in context	1	Naiman
-2KI 5:5	1	6	Ναιμάν			2	Naaman
+2KI 5:5	1	6	Ναιμάν	Ναιμάν	indeclinable personal name, nominative in context	1	Naaman
+2KI 5:5	1	6	Ναιμάν			2	Naiman
 2KI 5:5	1	7	δεῦρο	δεῦρο	adverb used imperatively	1	come here
 2KI 5:5	1	8	εἴσελθε	εἰσέρχομαι	aorist active imperative, second singular	1	go in
 2KI 5:5	1	9	καὶ	καί	conjunction	1	and
@@ -163,8 +163,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:6	1	21	ἀπέστειλα			2	I sent
 2KI 5:6	1	22	πρὸς	πρός	preposition with the accusative	1	to
 2KI 5:6	1	23	σὲ	σύ	personal pronoun, emphatic accusative singular governed by πρός	1	you
-2KI 5:6	1	24	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naiman
-2KI 5:6	1	24	Ναιμὰν			2	Naaman
+2KI 5:6	1	24	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naaman
+2KI 5:6	1	24	Ναιμὰν			2	Naiman
 2KI 5:6	1	25	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 5:6	1	26	δοῦλόν	δοῦλος	noun, accusative masculine singular	1	servant
 2KI 5:6	1	26	δοῦλόν			2	slave
@@ -225,8 +225,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:8	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 2KI 5:8	1	3	ὡς	ὡς	comparative particle	1	when
 2KI 5:8	1	4	ἤκουσεν	ἀκούω	aorist active indicative, third singular	1	heard
-2KI 5:8	1	5	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
-2KI 5:8	1	5	Ἐλισσαιὲ			2	Elisha
+2KI 5:8	1	5	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elisha
+2KI 5:8	1	5	Ἐλισσαιὲ			2	Elissaie
 2KI 5:8	1	6	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 2KI 5:8	1	7	τοῦ	ὁ	article, genitive singular	1	of
 2KI 5:8	1	8	Θεοῦ	θεός	noun, genitive masculine singular	1	God
@@ -256,8 +256,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:8	1	30	δὴ			2	now
 2KI 5:8	1	31	πρὸς	πρός	preposition with the accusative	1	to
 2KI 5:8	1	32	μὲ	ἐγώ	personal pronoun, accusative first singular	1	me
-2KI 5:8	1	33	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naiman
-2KI 5:8	1	33	Ναιμὰν			2	Naaman
+2KI 5:8	1	33	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naaman
+2KI 5:8	1	33	Ναιμὰν			2	Naiman
 2KI 5:8	1	34	καὶ	καί	conjunction	1	and
 2KI 5:8	1	35	γνώτω	γινώσκω	aorist active imperative, third singular	1	let him know
 2KI 5:8	1	36	ὅτι	ὅτι	conjunction introducing a content clause	1	that
@@ -267,8 +267,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:8	1	40	Ἰσραήλ	Ἰσραήλ	indeclinable national name, dative in context	1	Israel
 2KI 5:9	1	1	Καὶ	καί	conjunction	1	and
 2KI 5:9	1	2	ἦλθε	ἔρχομαι	aorist active indicative, third singular	1	came
-2KI 5:9	1	3	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naiman
-2KI 5:9	1	3	Ναιμὰν			2	Naaman
+2KI 5:9	1	3	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naaman
+2KI 5:9	1	3	Ναιμὰν			2	Naiman
 2KI 5:9	1	4	ἐν	ἐν	preposition with dative in expression of conveyance	1	with
 2KI 5:9	1	5	ἵππῳ	ἵππος	noun, dative masculine singular	1	a horse
 2KI 5:9	1	6	καὶ	καί	conjunction	1	and
@@ -281,14 +281,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:9	1	13	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2KI 5:9	1	14	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2KI 5:9	1	14	οἴκου			2	household
-2KI 5:9	1	15	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, genitive in context	1	of Elissaie
-2KI 5:9	1	15	Ἐλισσαιέ			2	of Elisha
+2KI 5:9	1	15	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, genitive in context	1	of Elisha
+2KI 5:9	1	15	Ἐλισσαιέ			2	of Elissaie
 2KI 5:10	1	1	Καὶ	καί	conjunction	1	and
 2KI 5:10	1	2	ἀπέστειλε	ἀποστέλλω	aorist active indicative, third singular	1	sent
 2KI 5:10	1	3	πρὸς	πρός	preposition with the accusative	1	to
 2KI 5:10	1	4	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-2KI 5:10	1	5	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
-2KI 5:10	1	5	Ἐλισσαιὲ			2	Elisha
+2KI 5:10	1	5	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elisha
+2KI 5:10	1	5	Ἐλισσαιὲ			2	Elissaie
 2KI 5:10	1	6	ἄγγελον	ἄγγελος	noun, accusative masculine singular	1	a messenger
 2KI 5:10	1	7	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 2KI 5:10	1	8	πορευθεὶς	πορεύομαι	aorist passive participle, nominative masculine singular	1	go
@@ -309,8 +309,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:10	1	21	καθαρίσθητι	καθαρίζω	aorist passive imperative, second singular	1	be clean
 2KI 5:11	1	1	Καὶ	καί	conjunction	1	and
 2KI 5:11	1	2	ἐθυμώθη	θυμόω	aorist passive indicative, third singular	1	was enraged
-2KI 5:11	1	3	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naiman
-2KI 5:11	1	3	Ναιμὰν			2	Naaman
+2KI 5:11	1	3	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naaman
+2KI 5:11	1	3	Ναιμὰν			2	Naiman
 2KI 5:11	1	4	καὶ	καί	conjunction	1	and
 2KI 5:11	1	5	ἀπῆλθε	ἀπέρχομαι	aorist active indicative, third singular	1	went away
 2KI 5:11	1	6	καὶ	καί	conjunction	1	and
@@ -348,7 +348,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:12	1	3	Ναεβανὰ	Ναεβανά	indeclinable river name, nominative in context	1	Naebana
 2KI 5:12	1	3	Ναεβανὰ			2	Abana
 2KI 5:12	1	4	καὶ	καί	conjunction	1	and
-2KI 5:12	1	5	Φαρφὰρ	Φαρφάρ	indeclinable river name, nominative in context	1	Phaphar
+2KI 5:12	1	5	Φαρφὰρ	Φαρφάρ	indeclinable river name, nominative in context	1	Pharpar
 2KI 5:12	1	5	Φαρφὰρ			2	Parpar
 2KI 5:12	1	6	ποταμοὶ	ποταμός	noun, nominative masculine plural	1	rivers
 2KI 5:12	1	6	ποταμοὶ			2	currents
@@ -406,8 +406,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:14	1	1	Καὶ	καί	conjunction	1	and
 2KI 5:14	1	2	κατέβη	καταβαίνω	aorist active indicative, third singular	1	came down
 2KI 5:14	1	2	κατέβη			2	descended
-2KI 5:14	1	3	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naiman
-2KI 5:14	1	3	Ναιμὰν			2	Naaman
+2KI 5:14	1	3	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naaman
+2KI 5:14	1	3	Ναιμὰν			2	Naiman
 2KI 5:14	1	4	καὶ	καί	conjunction	1	and
 2KI 5:14	1	5	ἐβαπτίσατο	βαπτίζω	aorist middle indicative, third singular	1	he immersed himself
 2KI 5:14	1	6	ἐν	ἐν	preposition with the dative	1	in
@@ -418,8 +418,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:14	1	10	κατὰ	κατά	preposition with the accusative	1	according to
 2KI 5:14	1	11	τὸ	ὁ	article, accusative neuter singular	1	the
 2KI 5:14	1	12	ῥῆμα	ῥῆμα	noun, accusative neuter singular after τό	1	saying
-2KI 5:14	1	13	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, genitive in context	1	of Elissaie
-2KI 5:14	1	13	Ἐλισσαιέ			2	of Elisha
+2KI 5:14	1	13	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, genitive in context	1	of Elisha
+2KI 5:14	1	13	Ἐλισσαιέ			2	of Elissaie
 2KI 5:14	1	14	Καὶ	καί	conjunction	1	and
 2KI 5:14	1	15	ἐπέστρεψεν	ἐπιστρέφω	aorist active indicative, third singular, intransitive in sense 'returned'	1	returned
 2KI 5:14	1	16	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -435,8 +435,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:15	1	1	Καὶ	καί	conjunction	1	and
 2KI 5:15	1	2	ἐπέστρεψε	ἐπιστρέφω	aorist active indicative, third person singular	1	returned
 2KI 5:15	1	3	πρὸς	πρός	preposition with the accusative	1	to
-2KI 5:15	1	4	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
-2KI 5:15	1	4	Ἐλισσαιὲ			2	Elisha
+2KI 5:15	1	4	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elisha
+2KI 5:15	1	4	Ἐλισσαιὲ			2	Elissaie
 2KI 5:15	1	5	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 2KI 5:15	1	6	καὶ	καί	conjunction	1	and
 2KI 5:15	1	7	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
@@ -482,8 +482,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:15	1	45	σου	σύ	pronoun, possessive genitive second singular	1	your
 2KI 5:16	1	1	Καὶ	καί	conjunction	1	and
 2KI 5:16	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
-2KI 5:16	1	3	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
-2KI 5:16	1	3	Ἐλισσαιέ			2	Elisha
+2KI 5:16	1	3	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elisha
+2KI 5:16	1	3	Ἐλισσαιέ			2	Elissaie
 2KI 5:16	1	4	ζῇ	ζάω	present active indicative, third singular; oath formula	1	lives
 2KI 5:16	1	5	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 2KI 5:16	1	6	ᾧ	ὅς	relative pronoun, dative masculine singular	1	whom
@@ -501,8 +501,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:16	1	17	ἠπείθησε	ἀπειθέω	aorist active indicative, third singular	1	refused
 2KI 5:17	1	1	Καὶ	καί	conjunction	1	and
 2KI 5:17	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
-2KI 5:17	1	3	Ναιμάν	Ναιμάν	indeclinable personal name, nominative in context	1	Naiman
-2KI 5:17	1	3	Ναιμάν			2	Naaman
+2KI 5:17	1	3	Ναιμάν	Ναιμάν	indeclinable personal name, nominative in context	1	Naaman
+2KI 5:17	1	3	Ναιμάν			2	Naiman
 2KI 5:17	1	4	καὶ	καί	conjunction	1	and
 2KI 5:17	1	5	εἰ	εἰ	conditional conjunction	1	if
 2KI 5:17	1	6	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
@@ -590,11 +590,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:18	1	47	τούτῳ	οὗτος	demonstrative adjective, dative neut. sg.	1	this
 2KI 5:19	1	1	Καὶ	καί	conjunction	1	and
 2KI 5:19	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
-2KI 5:19	1	3	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
-2KI 5:19	1	3	Ἐλισσαιὲ			2	Elisha
+2KI 5:19	1	3	Ἐλισσαιὲ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elisha
+2KI 5:19	1	3	Ἐλισσαιὲ			2	Elissaie
 2KI 5:19	1	4	πρὸς	πρός	preposition with the accusative	1	to
-2KI 5:19	1	5	Ναιμάν	Ναιμάν	indeclinable personal name, nominative in context	1	Naiman
-2KI 5:19	1	5	Ναιμάν			2	Naaman
+2KI 5:19	1	5	Ναιμάν	Ναιμάν	indeclinable personal name, nominative in context	1	Naaman
+2KI 5:19	1	5	Ναιμάν			2	Naiman
 2KI 5:19	1	6	δεῦρο	δεῦρο	interjection	1	come
 2KI 5:19	1	7	εἰς	εἰς	preposition with the accusative	1	into
 2KI 5:19	1	8	εἰρήνην	εἰρήνη	noun, accusative feminine singular	1	peace
@@ -611,12 +611,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:19	1	17	Ἰσραήλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 2KI 5:20	1	1	Καὶ	καί	conjunction	1	and
 2KI 5:20	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
-2KI 5:20	1	3	Γιεζεὶ	Γιεζεί	indeclinable personal name, accusative in context	1	Giezei
-2KI 5:20	1	3	Γιεζεὶ			2	Gehazi
+2KI 5:20	1	3	Γιεζεὶ	Γιεζεί	indeclinable personal name, accusative in context	1	Gehazi
+2KI 5:20	1	3	Γιεζεὶ			2	Giezei
 2KI 5:20	1	4	τὸ	ὁ	article, nominative neuter singular	1	the
 2KI 5:20	1	5	παιδάριον	παιδάριον	noun, nominative neuter singular after τὸ	1	lad
-2KI 5:20	1	6	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, genitive in context	1	of Elissaie
-2KI 5:20	1	6	Ἐλισσαιέ			2	of Elisha
+2KI 5:20	1	6	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, genitive in context	1	of Elisha
+2KI 5:20	1	6	Ἐλισσαιέ			2	of Elissaie
 2KI 5:20	1	7	ἰδοὺ	ἰδού	presentative particle	1	behold
 2KI 5:20	1	8	ἐφείσατο	φείδομαι	aorist middle indicative, third singular	1	spared
 2KI 5:20	1	8	ἐφείσατο			2	held back
@@ -624,8 +624,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:20	1	10	κύριός	κύριος	noun, nominative masculine singular	1	master
 2KI 5:20	1	11	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2KI 5:20	1	12	τοῦ	ὁ	article, genitive singular	1	the
-2KI 5:20	1	13	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naiman
-2KI 5:20	1	13	Ναιμὰν			2	Naaman
+2KI 5:20	1	13	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naaman
+2KI 5:20	1	13	Ναιμὰν			2	Naiman
 2KI 5:20	1	14	τοῦ	ὁ	article, genitive singular	1	the
 2KI 5:20	1	15	Σύρου	Σύρος	substantival adjective, genitive masculine singular; ethnic adjective	1	Syrian
 2KI 5:20	1	15	Σύρου			2	Aramean
@@ -654,18 +654,18 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:20	1	37	τι	τις	indefinite pronoun, accusative neuter singular	1	something
 2KI 5:21	1	1	Καὶ	καί	conjunction	1	and
 2KI 5:21	1	2	ἐδίωξε	διώκω	aorist active indicative, third singular	1	pursued
-2KI 5:21	1	3	Γιεζεὶ	Γιεζεί	indeclinable personal name, accusative in context	1	Giezei
-2KI 5:21	1	3	Γιεζεὶ			2	Gehazi
+2KI 5:21	1	3	Γιεζεὶ	Γιεζεί	indeclinable personal name, accusative in context	1	Gehazi
+2KI 5:21	1	3	Γιεζεὶ			2	Giezei
 2KI 5:21	1	4	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	after
 2KI 5:21	1	4	ὀπίσω			2	behind
 2KI 5:21	1	5	τοῦ	ὁ	article, genitive singular	1	the
-2KI 5:21	1	6	Ναιμάν	Ναιμάν	indeclinable personal name, nominative in context	1	Naiman
-2KI 5:21	1	6	Ναιμάν			2	Naaman
+2KI 5:21	1	6	Ναιμάν	Ναιμάν	indeclinable personal name, nominative in context	1	Naaman
+2KI 5:21	1	6	Ναιμάν			2	Naiman
 2KI 5:21	1	7	καὶ	καί	conjunction	1	and
 2KI 5:21	1	8	εἶδεν	ὁράω	aorist active indicative, third singular	1	saw
 2KI 5:21	1	9	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-2KI 5:21	1	10	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naiman
-2KI 5:21	1	10	Ναιμὰν			2	Naaman
+2KI 5:21	1	10	Ναιμὰν	Ναιμάν	indeclinable personal name, nominative in context	1	Naaman
+2KI 5:21	1	10	Ναιμὰν			2	Naiman
 2KI 5:21	1	11	τρέχοντα	τρέχω	present active participle, accusative masculine singular	1	running
 2KI 5:21	1	12	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	after
 2KI 5:21	1	12	ὀπίσω			2	behind
@@ -719,8 +719,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:22	1	34	στολάς	στολή	noun, accusative feminine plural	1	garments
 2KI 5:23	1	1	Καὶ	καί	conjunction	1	and
 2KI 5:23	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
-2KI 5:23	1	3	Ναιμάν	Ναιμάν	indeclinable personal name, nominative in context	1	Naiman
-2KI 5:23	1	3	Ναιμάν			2	Naaman
+2KI 5:23	1	3	Ναιμάν	Ναιμάν	indeclinable personal name, nominative in context	1	Naaman
+2KI 5:23	1	3	Ναιμάν			2	Naiman
 2KI 5:23	1	4	οὔκουν	οὔκουν	inferential particle in a reply	1	well then
 2KI 5:23	1	5	λάβε	λαμβάνω	aorist active imperative, second singular	1	take
 2KI 5:23	1	6	διτάλαντον	διτάλαντον	noun, accusative neuter singular	1	two talents
@@ -784,15 +784,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:25	1	11	εἶπε	λέγω	aorist active indicative, third singular	1	said
 2KI 5:25	1	12	πρὸς	πρός	preposition with the accusative	1	to
 2KI 5:25	1	13	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-2KI 5:25	1	14	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
-2KI 5:25	1	14	Ἐλισσαιέ			2	Elisha
+2KI 5:25	1	14	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elisha
+2KI 5:25	1	14	Ἐλισσαιέ			2	Elissaie
 2KI 5:25	1	15	πόθεν	πόθεν	interrogative adverb	1	from where
-2KI 5:25	1	16	Γιεζεί	Γιεζεί	indeclinable personal name, accusative in context	1	Giezei
-2KI 5:25	1	16	Γιεζεί			2	Gehazi
+2KI 5:25	1	16	Γιεζεί	Γιεζεί	indeclinable personal name, accusative in context	1	Gehazi
+2KI 5:25	1	16	Γιεζεί			2	Giezei
 2KI 5:25	1	17	καὶ	καί	conjunction	1	and
 2KI 5:25	1	18	εἶπε	λέγω	aorist active indicative, third singular	1	said
-2KI 5:25	1	19	Γιεζεὶ	Γιεζεί	indeclinable personal name, accusative in context	1	Giezei
-2KI 5:25	1	19	Γιεζεὶ			2	Gehazi
+2KI 5:25	1	19	Γιεζεὶ	Γιεζεί	indeclinable personal name, accusative in context	1	Gehazi
+2KI 5:25	1	19	Γιεζεὶ			2	Giezei
 2KI 5:25	1	20	οὐ	οὐ	negative particle	1	not
 2KI 5:25	1	21	πεπόρευται	πορεύομαι	perfect middle indicative, third singular	1	has walked
 2KI 5:25	1	21	πεπόρευται			2	has gone about
@@ -806,8 +806,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:26	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 2KI 5:26	1	3	πρὸς	πρός	preposition with the accusative	1	to
 2KI 5:26	1	4	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-2KI 5:26	1	5	Ἑλισαιέ	Ἑλισαιέ	indeclinable personal name, nominative in context	1	Elisaie
-2KI 5:26	1	5	Ἑλισαιέ			2	Elisha
+2KI 5:26	1	5	Ἑλισαιέ	Ἑλισαιέ	indeclinable personal name, nominative in context	1	Elisha
+2KI 5:26	1	5	Ἑλισαιέ			2	Elisaie
 2KI 5:26	1	6	οὐχὶ	οὐχί	negative particle, emphatic form	1	not
 2KI 5:26	1	7	ἡ	ὁ	article, nominative feminine singular	1	the
 2KI 5:26	1	8	καρδία	καρδία	noun, nominative feminine singular	1	heart
@@ -850,8 +850,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:27	1	1	Καὶ	καί	conjunction	1	and
 2KI 5:27	1	2	ἡ	ὁ	article, nominative feminine singular	1	the
 2KI 5:27	1	3	λέπρα	λέπρα	noun, nominative feminine singular	1	scaly disease
-2KI 5:27	1	4	Ναιμὰν	Ναιμάν	indeclinable personal name, genitive in context	1	of Naiman
-2KI 5:27	1	4	Ναιμὰν			2	of Naaman
+2KI 5:27	1	4	Ναιμὰν	Ναιμάν	indeclinable personal name, genitive in context	1	of Naaman
+2KI 5:27	1	4	Ναιμὰν			2	of Naiman
 2KI 5:27	1	5	κολληθήσεται	κολλάω	future passive indicative, third singular	1	will cling
 2KI 5:27	1	6	ἐν	ἐν	preposition with the dative	1	in
 2KI 5:27	1	7	σοὶ	σύ	personal pronoun, dative singular after ἐν	1	you
