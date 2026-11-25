@@ -1,6 +1,6 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 PSA 3:1	1	1	ΨΑΛΜΟΣ	ψαλμός	noun nominative masculine singular	1	a psalm
-PSA 3:1	1	2	τῷ	ὁ	article dative masculine singular	1	to the
+PSA 3:1	1	2	τῷ	ὁ	article dative masculine singular	1	of
 PSA 3:1	1	3	Δαυὶδ	Δαυίδ	indeclinable personal name, dative in superscription	1	David
 PSA 3:1	1	4	ὁπότε	ὁπότε	temporal conjunction	1	when
 PSA 3:1	1	5	ἀπεδίδρασκεν	ἀποδιδράσκω	imperfect active indicative third singular	1	he was fleeing
@@ -34,7 +34,7 @@ PSA 3:3	1	14	ἐν	ἐν	preposition with dative	1	in
 PSA 3:3	1	15	τῷ	ὁ	article dative masculine singular	1	the
 PSA 3:3	1	16	Θεῷ	θεός	noun dative masculine singular	1	God
 PSA 3:3	1	17	αὐτοῦ	αὐτός	pronoun genitive masculine singular	1	his
-PSA 3:3	1	18	Διάψαλμα	διάψαλμα	noun neuter singular, musical direction of uncertain force	1	musical interlude
+PSA 3:3	1	18	Διάψαλμα	διάψαλμα	noun neuter singular, musical direction of uncertain force	1	pause
 PSA 3:4	1	1	Σὺ	σύ	personal pronoun nominative second singular	1	you
 PSA 3:4	1	2	δὲ	δέ	conjunction	1	but
 PSA 3:4	1	3	Κύριε	κύριος	noun vocative masculine singular	1	O Lord
@@ -61,7 +61,7 @@ PSA 3:5	1	9	ἐξ	ἐκ	preposition with genitive	1	from
 PSA 3:5	1	10	ὄρους	ὄρος	noun genitive neuter singular	1	mountain
 PSA 3:5	1	11	ἁγίου	ἅγιος	adjective genitive neuter singular	1	holy
 PSA 3:5	1	12	αὐτοῦ	αὐτός	pronoun genitive masculine singular	1	his
-PSA 3:5	1	13	Διάψαλμα	διάψαλμα	noun neuter singular, musical direction of uncertain force	1	musical interlude
+PSA 3:5	1	13	Διάψαλμα	διάψαλμα	noun neuter singular, musical direction of uncertain force	1	pause
 PSA 3:6	1	1	Ἐγὼ	ἐγώ	personal pronoun nominative first singular	1	I
 PSA 3:6	1	2	δὲ	δέ	conjunction	1	but
 PSA 3:6	1	3	ἐκοιμήθην	κοιμάω	aorist passive indicative first singular, intransitive	1	I lay down
@@ -115,4 +115,4 @@ PSA 3:9	1	9	σου	σύ	personal pronoun genitive second singular	1	your
 PSA 3:9	1	10	ἡ	ὁ	article nominative feminine singular	1	the
 PSA 3:9	1	11	εὐλογία	εὐλογία	noun nominative feminine singular	1	blessing
 PSA 3:9	1	12	σου	σύ	personal pronoun genitive second singular	1	your
-PSA 3:9	1	13	Διάψαλμα	διάψαλμα	noun neuter singular, musical direction of uncertain force	1	musical interlude
+PSA 3:9	1	13	Διάψαλμα	διάψαλμα	noun neuter singular, musical direction of uncertain force	1	pause
