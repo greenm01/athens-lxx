@@ -16,14 +16,14 @@ JDG 21:1	1	14	θυγατέρα	θυγάτηρ	noun, accusative feminine singular
 JDG 21:1	1	15	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 JDG 21:1	1	16	τῷ	ὁ	article, dative masculine singular	1	to the
 JDG 21:1	1	17	Βενιαμεὶν	Βενιαμίν	indeclinable tribal name, dative in context	1	Benjamin
-JDG 21:1	1	18	εἰς	εἰς	preposition with the accusative	1	into
+JDG 21:1	1	18	εἰς	εἰς	preposition with the accusative	1	as
 JDG 21:1	1	19	γυναῖκα	γυνή	noun, accusative feminine singular	1	wife
 JDG 21:2	1	1	Καὶ	καί	conjunction	1	and
 JDG 21:2	1	2	παρεγένοντο	παραγίνομαι	aorist middle indicative, third plural	1	arrived
-JDG 21:2	1	3	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+JDG 21:2	1	3	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 JDG 21:2	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 JDG 21:2	1	5	λαὸς	λαός	noun, nominative masculine singular	1	people
-JDG 21:2	1	6	εἰς	εἰς	preposition with the accusative	1	into
+JDG 21:2	1	6	εἰς	εἰς	preposition with the accusative	1	to
 JDG 21:2	1	7	Μασσηφὰ	Μασσηφά	indeclinable place name, case from syntax	1	Mizpah
 JDG 21:2	1	8	καὶ	καί	conjunction	1	and
 JDG 21:2	1	9	Βαιθὴλ	Βαιθήλ	indeclinable place name, accusative in context	1	Bethel
@@ -31,7 +31,7 @@ JDG 21:2	1	9	Βαιθὴλ			2	Baithel
 JDG 21:2	1	10	καὶ	καί	conjunction	1	and
 JDG 21:2	1	11	ἐκάθισαν	καθίζω	aorist active indicative, third plural	1	sat down
 JDG 21:2	1	12	ἐκεῖ	ἐκεῖ	adverb of place	1	there
-JDG 21:2	1	13	ἕως	ἕως	preposition with the genitive	1	as far as
+JDG 21:2	1	13	ἕως	ἕως	preposition of temporal limit	1	until
 JDG 21:2	1	13	ἕως			2	up to
 JDG 21:2	1	14	ἑσπέρας	ἑσπέρα	noun, genitive feminine singular	1	evening
 JDG 21:2	1	15	ἐνώπιον	ἐνώπιον	preposition with genitive	1	before
@@ -56,20 +56,20 @@ JDG 21:3	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 JDG 21:3	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 JDG 21:3	1	7	Θεὸς	θεός	noun, nominative masculine singular	1	God
 JDG 21:3	1	8	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
-JDG 21:3	1	9	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	became
+JDG 21:3	1	9	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	happened
 JDG 21:3	1	10	αὗτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 JDG 21:3	1	11	ἐν	ἐν	preposition with the dative	1	in
 JDG 21:3	1	12	τῷ	ὁ	article, dative neuter singular	1	the
 JDG 21:3	1	13	Ἰσραὴλ	Ἰσραήλ	indeclinable proper name, dative in context	1	Israel
 JDG 21:3	1	14	τοῦ	ὁ	article, genitive neuter singular, introduces the infinitive	1	—
-JDG 21:3	1	15	ἐπισκεπῆναι	ἐπισκέπτομαι	aorist passive infinitive	1	to be counted
+JDG 21:3	1	15	ἐπισκεπῆναι	ἐπισκέπτομαι	aorist passive infinitive	1	to be missing
 JDG 21:3	1	15	ἐπισκεπῆναι			2	to be mustered
 JDG 21:3	1	16	σήμερον	σήμερον	adverb of time	1	today
 JDG 21:3	1	17	ἐν	ἐν	preposition with the dative	1	in
 JDG 21:3	1	18	τῷ	ὁ	article, dative neuter singular	1	the
 JDG 21:3	1	19	Ἰσραὴλ	Ἰσραήλ	indeclinable proper name, dative in context	1	Israel
-JDG 21:3	1	20	φυλὴν	φυλή	noun, accusative feminine singular	1	clan
-JDG 21:3	1	20	φυλὴν			2	tribe
+JDG 21:3	1	20	φυλὴν	φυλή	noun, accusative feminine singular	1	tribe
+JDG 21:3	1	20	φυλὴν			2	clan
 JDG 21:3	1	21	μίαν	εἷς	numeral, accusative feminine singular	1	one
 JDG 21:4	1	1	Καὶ	καί	conjunction	1	and
 JDG 21:4	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
@@ -103,9 +103,9 @@ JDG 21:5	1	11	τῇ	ὁ	article, dative feminine singular	1	the
 JDG 21:5	1	12	ἐκκλησίᾳ	ἐκκλησία	noun, dative feminine singular	1	assembly
 JDG 21:5	1	13	ἐκ	ἐκ	preposition with the genitive	1	from
 JDG 21:5	1	14	πασῶν	πᾶς	adjective, genitive feminine plural	1	all
-JDG 21:5	1	15	φυλῶν	φυλή	noun, genitive feminine plural	1	clans
-JDG 21:5	1	15	φυλῶν			2	tribes
-JDG 21:5	1	16	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, accusative in context	1	Israel
+JDG 21:5	1	15	φυλῶν	φυλή	noun, genitive feminine plural	1	tribes
+JDG 21:5	1	15	φυλῶν			2	clans
+JDG 21:5	1	16	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, accusative in context	1	of Israel
 JDG 21:5	1	17	πρὸς	πρός	preposition with the accusative	1	to
 JDG 21:5	1	18	Κύριον	κύριος	noun, accusative masculine singular, the Lord	1	the Lord
 JDG 21:5	1	19	ὅτι	ὅτι	causal conjunction	1	because
@@ -118,7 +118,7 @@ JDG 21:5	1	24	μὴ	μή	negative with subjunctive/optative (wish/prohibition fr
 JDG 21:5	1	25	ἀναβάντι	ἀναβαίνω	aorist active participle, dative masculine singular	1	who came up
 JDG 21:5	1	26	πρὸς	πρός	preposition with the accusative	1	to
 JDG 21:5	1	27	Κύριον	κύριος	noun, accusative masculine singular, the Lord	1	the Lord
-JDG 21:5	1	28	εἰς	εἰς	preposition with the accusative	1	into
+JDG 21:5	1	28	εἰς	εἰς	preposition with the accusative	1	to
 JDG 21:5	1	29	Μασσηφὰ	Μασσηφά	indeclinable place name, case from syntax	1	Mizpah
 JDG 21:5	1	30	λέγοντες	λέγω	present active participle, nominative masculine plural	1	saying
 JDG 21:5	1	31	θανάτῳ	θάνατος	noun, dative masculine singular; cognate dative emphasizing the following verb	1	certainly
@@ -145,9 +145,9 @@ JDG 21:6	1	16	μία	εἷς	cardinal numeral/adjective, nominative feminine sin
 JDG 21:6	1	17	ἐξ	ἐκ	preposition with the genitive	1	from
 JDG 21:6	1	18	Ἰσραήλ	Ἰσραήλ	indeclinable proper name, genitive in context	1	Israel
 JDG 21:7	1	1	Τί	τίς	interrogative pronoun, accusative neuter singular	1	what
-JDG 21:7	1	2	ποιήσωμεν	ποιέω	aorist active subjunctive, first plural	1	we should do
+JDG 21:7	1	2	ποιήσωμεν	ποιέω	aorist active subjunctive, first plural	1	should we do
 JDG 21:7	1	3	τοῖς	ὁ	article, dative neuter plural	1	to the
-JDG 21:7	1	4	ὑπολειφθεῖσιν	ὑπολείπω	aorist passive participle, dative neuter plural	1	that are left
+JDG 21:7	1	4	ὑπολειφθεῖσιν	ὑπολείπω	aorist passive participle, dative neuter plural	1	who are left
 JDG 21:7	1	4	ὑπολειφθεῖσιν			2	that have been left
 JDG 21:7	1	5	εἰς	εἰς	preposition governing the accusative	1	for
 JDG 21:7	1	6	γυναῖκας	γυνή	noun, accusative feminine plural	1	wives
@@ -164,22 +164,22 @@ JDG 21:7	1	16	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JDG 21:7	1	17	τῶν	ὁ	article, genitive plural	1	the
 JDG 21:7	1	18	θυγατέρων	θυγάτηρ	noun, genitive feminine plural	1	daughters
 JDG 21:7	1	19	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
-JDG 21:7	1	20	εἰς	εἰς	preposition with the accusative	1	into
+JDG 21:7	1	20	εἰς	εἰς	preposition with the accusative	1	as
 JDG 21:7	1	21	γυναῖκας	γυνή	noun, accusative feminine plural	1	wives
 JDG 21:8	1	1	Καὶ	καί	conjunction	1	and
 JDG 21:8	1	2	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
 JDG 21:8	1	3	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
 JDG 21:8	1	4	μία	εἷς	numeral, nominative feminine singular	1	one
 JDG 21:8	1	5	τῶν	ὁ	article, genitive plural	1	the
-JDG 21:8	1	6	φυλῶν	φυλή	noun, genitive feminine plural	1	clans
-JDG 21:8	1	6	φυλῶν			2	tribes
+JDG 21:8	1	6	φυλῶν	φυλή	noun, genitive feminine plural	1	tribes
+JDG 21:8	1	6	φυλῶν			2	clans
 JDG 21:8	1	7	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
-JDG 21:8	1	8	ἥτις	ὅστις	relative pronoun, nominative feminine singular; indefinite	1	whoever
+JDG 21:8	1	8	ἥτις	ὅστις	relative pronoun, nominative feminine singular; indefinite	1	which
 JDG 21:8	1	9	οὐκ	οὐ	negative particle	1	not
 JDG 21:8	1	10	ἀνέβη	ἀναβαίνω	aorist active indicative, 3rd sg.	1	came up
 JDG 21:8	1	11	πρὸς	πρός	preposition with the accusative	1	to
 JDG 21:8	1	12	Κύριον	κύριος	noun, accusative masculine singular, the Lord	1	the Lord
-JDG 21:8	1	13	εἰς	εἰς	preposition with the accusative	1	into
+JDG 21:8	1	13	εἰς	εἰς	preposition with the accusative	1	to
 JDG 21:8	1	14	Μασσηφά	Μασσηφά	indeclinable place name, case from syntax	1	Mizpah
 JDG 21:8	1	15	καὶ	καί	conjunction	1	and
 JDG 21:8	1	16	ἰδοὺ	ἰδού	presentative particle	1	behold
@@ -187,15 +187,15 @@ JDG 21:8	1	17	οὐκ	οὐ	negative particle	1	not
 JDG 21:8	1	18	ἦλθεν	ἔρχομαι	aorist active indicative, third singular	1	came
 JDG 21:8	1	18	ἦλθεν			2	had come
 JDG 21:8	1	19	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
-JDG 21:8	1	20	εἰς	εἰς	preposition with the accusative	1	into
+JDG 21:8	1	20	εἰς	εἰς	preposition with the accusative	1	to
 JDG 21:8	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 21:8	1	22	παρεμβολὴν	παρεμβολή	noun, accusative feminine singular	1	camp
 JDG 21:8	1	22	παρεμβολὴν			2	encampment
 JDG 21:8	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
-JDG 21:8	1	24	Ἰαβεῖς	Ἰαβεῖς	indeclinable place name, genitive in context	1	Iabeis
-JDG 21:8	1	24	Ἰαβεῖς			2	Jabesh
+JDG 21:8	1	24	Ἰαβεῖς	Ἰαβεῖς	indeclinable place name, genitive in context	1	Jabesh
+JDG 21:8	1	24	Ἰαβεῖς			2	Iabeis
 JDG 21:8	1	25	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	1	of Gilead
-JDG 21:8	1	26	εἰς	εἰς	preposition with the accusative	1	into
+JDG 21:8	1	26	εἰς	εἰς	preposition with the accusative	1	to
 JDG 21:8	1	27	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 21:8	1	28	ἐκκλησίαν	ἐκκλησία	noun, accusative feminine singular	1	assembly
 JDG 21:9	1	1	Καὶ	καί	conjunction	1	and
@@ -211,8 +211,8 @@ JDG 21:9	1	10	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
 JDG 21:9	1	11	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JDG 21:9	1	12	τῶν	ὁ	article, genitive plural	1	the
 JDG 21:9	1	13	οἰκούντων	οἰκέω	present active participle, genitive masculine plural; substantival	1	those living in
-JDG 21:9	1	14	Ἰαβεῖς	Ἰαβεῖς	indeclinable place name, genitive in context	1	Iabeis
-JDG 21:9	1	14	Ἰαβεῖς			2	Jabesh
+JDG 21:9	1	14	Ἰαβεῖς	Ἰαβεῖς	indeclinable place name, genitive in context	1	Jabesh
+JDG 21:9	1	14	Ἰαβεῖς			2	Iabeis
 JDG 21:9	1	15	Γαλαάδ	Γαλαάδ	indeclinable place name, genitive in context	1	of Gilead
 JDG 21:10	1	1	Καὶ	καί	conjunction	1	and
 JDG 21:10	1	2	ἀπέστειλαν	ἀποστέλλω	aorist active indicative, third plural	1	sent
@@ -220,7 +220,7 @@ JDG 21:10	1	3	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 JDG 21:10	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
 JDG 21:10	1	5	συναγωγὴ	συναγωγή	noun, nominative feminine singular	1	congregation
 JDG 21:10	1	6	δώδεκα	δώδεκα	indeclinable cardinal numeral	1	twelve
-JDG 21:10	1	7	χιλιάδας	χιλιάς	noun, accusative feminine plural	1	thousands
+JDG 21:10	1	7	χιλιάδας	χιλιάς	noun, accusative feminine plural	1	thousand
 JDG 21:10	1	8	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	1	men
 JDG 21:10	1	9	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JDG 21:10	1	10	τῶν	ὁ	article, genitive masculine plural	1	the
@@ -238,8 +238,8 @@ JDG 21:10	1	20	πατάξατε	πατάσσω	aorist active imperative, second 
 JDG 21:10	1	21	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 JDG 21:10	1	22	τοὺς	ὁ	article, accusative masculine plural	1	the
 JDG 21:10	1	23	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	inhabiting
-JDG 21:10	1	24	Ἰαβεῖς	Ἰαβεῖς	indeclinable place name, genitive in context	1	Iabeis
-JDG 21:10	1	24	Ἰαβεῖς			2	Jabesh
+JDG 21:10	1	24	Ἰαβεῖς	Ἰαβεῖς	indeclinable place name, genitive in context	1	Jabesh
+JDG 21:10	1	24	Ἰαβεῖς			2	Iabeis
 JDG 21:10	1	25	Γαλαάδ	Γαλαάδ	indeclinable place name, genitive in context	1	of Gilead
 JDG 21:10	1	26	ἐν	ἐν	preposition governing the dative	1	with
 JDG 21:10	1	27	στόματι	στόμα	noun, dative neuter singular	1	the edge
@@ -260,7 +260,7 @@ JDG 21:11	1	6	ποιήσετε	ποιέω	future active indicative, second perso
 JDG 21:11	1	7	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 JDG 21:11	1	8	ἀρσενικὸν	ἀρσενικός	adjective, accusative neut. sg. with πᾶν	1	male
 JDG 21:11	1	9	καὶ	καί	conjunction	1	and
-JDG 21:11	1	10	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
+JDG 21:11	1	10	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	every
 JDG 21:11	1	11	γυναῖκα	γυνή	noun, accusative feminine singular	1	woman
 JDG 21:11	1	12	γινώσκουσαν	γινώσκω	present active participle, accusative feminine singular	1	who knows
 JDG 21:11	1	13	κοίτην	κοίτη	noun, accusative feminine singular	1	a bed
@@ -273,8 +273,8 @@ JDG 21:12	1	3	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JDG 21:12	1	4	τῶν	ὁ	article, genitive plural	1	the
 JDG 21:12	1	5	κατοικούντων	κατοικέω	present active participle, genitive masculine plural; substantival	1	inhabitants
 JDG 21:12	1	5	κατοικούντων			2	those living
-JDG 21:12	1	6	Ἰαβεῖς	Ἰαβεῖς	indeclinable place name, genitive in context	1	Iabeis
-JDG 21:12	1	6	Ἰαβεῖς			2	Jabesh
+JDG 21:12	1	6	Ἰαβεῖς	Ἰαβεῖς	indeclinable place name, genitive in context	1	Jabesh
+JDG 21:12	1	6	Ἰαβεῖς			2	Iabeis
 JDG 21:12	1	7	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	1	of Gilead
 JDG 21:12	1	8	τετρακοσίας	τετρακόσιοι	cardinal numeral, accusative feminine plural	1	four hundred
 JDG 21:12	1	9	νεάνιδας	νεᾶνις	noun, accusative feminine plural	1	young women
@@ -283,7 +283,7 @@ JDG 21:12	1	11	αἳ	ὅς	relative pronoun, nominative feminine plural	1	who
 JDG 21:12	1	12	οὐκ	οὐ	negative particle	1	not
 JDG 21:12	1	13	ἔγνωσαν	γινώσκω	aorist active indicative, third plural	1	have known
 JDG 21:12	1	14	ἄνδρα	ἀνήρ	noun, accusative masculine singular	1	man
-JDG 21:12	1	15	εἰς	εἰς	preposition with the accusative	1	into
+JDG 21:12	1	15	εἰς	εἰς	preposition with the accusative	1	in
 JDG 21:12	1	16	κοίτην	κοίτη	noun, accusative feminine singular	1	a bed
 JDG 21:12	1	16	κοίτην			2	sexual relations
 JDG 21:12	1	17	ἄρσενος	ἄρσην	noun, genitive masculine singular	1	of a male
@@ -294,9 +294,9 @@ JDG 21:12	1	21	εἰς	εἰς	preposition with the accusative	1	into
 JDG 21:12	1	22	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 21:12	1	23	παρεμβολὴν	παρεμβολή	noun, accusative feminine singular	1	camp
 JDG 21:12	1	23	παρεμβολὴν			2	encampment
-JDG 21:12	1	24	εἰς	εἰς	preposition with the accusative	1	into
-JDG 21:12	1	25	Σηλὼμ	Σηλώμ	indeclinable place name, accusative in context	1	Selom
-JDG 21:12	1	25	Σηλὼμ			2	Shiloh
+JDG 21:12	1	24	εἰς	εἰς	preposition with the accusative	1	to
+JDG 21:12	1	25	Σηλὼμ	Σηλώμ	indeclinable place name, accusative in context	1	Shiloh
+JDG 21:12	1	25	Σηλὼμ			2	Selom
 JDG 21:12	1	26	ἥ	ὅς	relative pronoun, nominative feminine singular	1	which
 JDG 21:12	1	27	ἐστιν	εἰμί	present indicative, third singular	1	is
 JDG 21:12	1	28	ἐν	ἐν	preposition with the dative	1	in
@@ -342,12 +342,12 @@ JDG 21:14	1	14	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	the
 JDG 21:14	1	15	τὰς	ὁ	article, accusative feminine plural	1	the
 JDG 21:14	1	16	γυναῖκας	γυνή	noun, accusative feminine plural	1	wives
 JDG 21:14	1	17	αἵτινες	ὅστις	relative pronoun, nominative feminine plural	1	who
-JDG 21:14	1	18	ἦσαν	εἰμί	imperfect indicative, 3rd pl.	1	there were
+JDG 21:14	1	18	ἦσαν	εἰμί	imperfect indicative, 3rd pl.	1	were
 JDG 21:14	1	19	ἐκ	ἐκ	preposition with the genitive	1	from
 JDG 21:14	1	20	τῶν	ὁ	article, genitive feminine plural	1	the
-JDG 21:14	1	21	γυναικῶν	γυνή	noun, genitive feminine plural	1	wives
-JDG 21:14	1	22	Ἰαβεῖς	Ἰαβεῖς	indeclinable place name, genitive in context	1	of Iabeis
-JDG 21:14	1	22	Ἰαβεῖς			2	of Jabesh
+JDG 21:14	1	21	γυναικῶν	γυνή	noun, genitive feminine plural	1	women
+JDG 21:14	1	22	Ἰαβεῖς	Ἰαβεῖς	indeclinable place name, genitive in context	1	of Jabesh
+JDG 21:14	1	22	Ἰαβεῖς			2	of Iabeis
 JDG 21:14	1	23	Γαλαάδ	Γαλαάδ	indeclinable place name, genitive in context	1	of Gilead
 JDG 21:14	1	24	καὶ	καί	conjunction	1	and
 JDG 21:14	1	25	ἤρεσεν	ἀρέσκω	aorist active indicative, third singular	1	pleased
@@ -367,7 +367,7 @@ JDG 21:15	1	8	ἐποίησε	ποιέω	aorist active indicative, third singula
 JDG 21:15	1	9	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JDG 21:15	1	10	διακοπὴν	διακοπή	noun, accusative feminine singular	1	breach
 JDG 21:15	1	10	διακοπὴν			2	break
-JDG 21:15	1	11	ἐν	ἐν	preposition with the dative	1	in
+JDG 21:15	1	11	ἐν	ἐν	preposition with the dative	1	among
 JDG 21:15	1	12	ταῖς	ὁ	article, dative feminine plural	1	the
 JDG 21:15	1	13	φυλαῖς	φυλή	noun, dative feminine plural	1	tribes
 JDG 21:15	1	13	φυλαῖς			2	clans
@@ -382,14 +382,14 @@ JDG 21:16	1	7	τί	τίς	interrogative pronoun, accusative neuter singular	1	wh
 JDG 21:16	1	8	ποιήσωμεν	ποιέω	aorist active subjunctive, first plural	1	we should do
 JDG 21:16	1	9	τοῖς	ὁ	article, dative masculine plural	1	for
 JDG 21:16	1	10	ἐπιλοίποις	ἐπίλοιπος	substantival adjective, dative masculine plural	1	those who remain
-JDG 21:16	1	11	εἰς	εἰς	preposition with the accusative	1	into
+JDG 21:16	1	11	εἰς	εἰς	preposition with the accusative	1	for
 JDG 21:16	1	12	γυναῖκας	γυνή	noun, accusative feminine plural	1	wives
 JDG 21:16	1	13	ὅτι	ὅτι	causal conjunction	1	because
 JDG 21:16	1	14	ἠφάνισται	ἀφανίζω	perfect passive indicative, third singular	1	has disappeared
 JDG 21:16	1	15	ἐκ	ἐκ	preposition with the genitive	1	from
 JDG 21:16	1	16	τοῦ	ὁ	article, genitive singular	1	the
 JDG 21:16	1	17	Βενιαμεὶν	Βενιαμίν	indeclinable tribal name, genitive in context	1	Benjamin
-JDG 21:16	1	18	γυνή	γυνή	noun, nominative feminine singular	1	wife
+JDG 21:16	1	18	γυνή	γυνή	noun, nominative feminine singular	1	woman
 JDG 21:17	1	1	Καὶ	καί	conjunction	1	and
 JDG 21:17	1	2	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
 JDG 21:17	1	3	κληρονομία	κληρονομία	noun, nominative feminine singular	1	inheritance
@@ -435,7 +435,7 @@ JDG 21:19	1	4	ἑορτὴ	ἑορτή	noun, nominative feminine singular	1	a fe
 JDG 21:19	1	5	τῷ	ὁ	article, dative masculine singular	1	to the
 JDG 21:19	1	6	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 JDG 21:19	1	7	ἐν	ἐν	preposition with the dative	1	in
-JDG 21:19	1	8	Σηλὼ	Σηλώ	indeclinable place name, dative in context	1	Selo
+JDG 21:19	1	8	Σηλὼ	Σηλώ	indeclinable place name, dative in context	1	Shiloh
 JDG 21:19	1	9	ἀφ᾽	ἀπό	preposition with the genitive, elided	1	from
 JDG 21:19	1	10	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
 JDG 21:19	1	11	εἰς	εἰς	preposition with the accusative	1	into
@@ -459,7 +459,7 @@ JDG 21:19	1	26	ἀναβαινούσῃ	ἀναβαίνω	present active partici
 JDG 21:19	1	27	ἐκ	ἐκ	preposition with the genitive	1	from
 JDG 21:19	1	28	Βαιθὴλ	Βαιθήλ	indeclinable place name, genitive in context	1	Bethel
 JDG 21:19	1	28	Βαιθὴλ			2	Baithel
-JDG 21:19	1	29	εἰς	εἰς	preposition with the accusative of purpose	1	for
+JDG 21:19	1	29	εἰς	εἰς	preposition with the accusative of purpose	1	to
 JDG 21:19	1	30	Σίκιμα	Σίκιμα	indeclinable place name, accusative in context	1	Shechem
 JDG 21:19	1	31	καὶ	καί	conjunction	1	and
 JDG 21:19	1	32	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -467,11 +467,11 @@ JDG 21:19	1	33	νότου	νότος	noun, genitive masculine singular	1	south
 JDG 21:19	1	34	τοῦ	ὁ	article, genitive singular	1	the
 JDG 21:19	1	35	Λιβάνου	Λίβανος	noun, genitive masculine singular; place name in this context	1	Libanos
 JDG 21:19	1	36	τῆς	ὁ	article, genitive feminine singular	1	the
-JDG 21:19	1	37	Λεβωνᾶ	Λεβωνᾶ	indeclinable place name, genitive in apposition	1	Lebona
-JDG 21:19	1	37	Λεβωνᾶ			2	Lebonah
+JDG 21:19	1	37	Λεβωνᾶ	Λεβωνᾶ	indeclinable place name, genitive in apposition	1	Lebonah
+JDG 21:19	1	37	Λεβωνᾶ			2	Lebona
 JDG 21:20	1	1	Καὶ	καί	conjunction	1	and
 JDG 21:20	1	2	ἐνετείλαντο	ἐντέλλομαι	aorist middle indicative, third plural	1	they commanded
-JDG 21:20	1	3	τοῖς	ὁ	article, dative masculine plural	1	the
+JDG 21:20	1	3	τοῖς	ὁ	article, dative masculine plural	1	to the
 JDG 21:20	1	4	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 JDG 21:20	1	5	Βενιαμεὶν	Βενιαμείν	indeclinable personal name, dative in context	1	Benjamin
 JDG 21:20	1	6	λέγοντες	λέγω	present active participle, nominative masculine plural, with impersonal passive in sense 'saying'	1	saying
@@ -493,7 +493,7 @@ JDG 21:21	1	9	θυγατέρες	θυγάτηρ	noun, nominative feminine plural
 JDG 21:21	1	10	τῶν	ὁ	article, genitive masculine plural	1	of the
 JDG 21:21	1	11	κατοικούντων	κατοικέω	present active participle, genitive masculine plural; substantival	1	inhabitants
 JDG 21:21	1	11	κατοικούντων			2	those living
-JDG 21:21	1	12	Σηλὼ	Σηλώ	indeclinable place name, genitive in context	1	of Selo
+JDG 21:21	1	12	Σηλὼ	Σηλώ	indeclinable place name, genitive in context	1	Shiloh
 JDG 21:21	1	12	Σηλὼ			2	of Shiloh
 JDG 21:21	1	13	χορεῦσαι	χορεύω	aorist active infinitive	1	to dance
 JDG 21:21	1	14	ἐν	ἐν	preposition with the dative	1	in
@@ -512,11 +512,11 @@ JDG 21:21	1	25	γυναῖκας	γυνή	noun, accusative feminine plural	1	wiv
 JDG 21:21	1	26	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JDG 21:21	1	27	τῶν	ὁ	article, genitive plural	1	the
 JDG 21:21	1	28	θυγατέρων	θυγάτηρ	noun, genitive feminine plural	1	daughters
-JDG 21:21	1	29	Σηλὼ	Σηλώ	indeclinable place name, genitive in context	1	of Selo
-JDG 21:21	1	29	Σηλὼ			2	of Shiloh
+JDG 21:21	1	29	Σηλὼ	Σηλώ	indeclinable place name, genitive in context	1	of Shiloh
+JDG 21:21	1	29	Σηλὼ			2	of Selo
 JDG 21:21	1	30	καὶ	καί	conjunction	1	and
-JDG 21:21	1	31	ἀπελεύσεσθε	ἐπιστρέφω	future active indicative, second plural	1	you shall return
-JDG 21:21	1	32	εἰς	εἰς	preposition with the accusative	1	into
+JDG 21:21	1	31	ἀπελεύσεσθε	ἐπιστρέφω	future active indicative, second plural	1	you shall depart
+JDG 21:21	1	32	εἰς	εἰς	preposition with the accusative	1	to
 JDG 21:21	1	33	γῆν	γῆ	noun, accusative feminine singular	1	the land
 JDG 21:21	1	34	Βενιαμείν	Βενιαμείν	indeclinable personal name, genitive in context	1	of Benjamin
 JDG 21:22	1	1	Καὶ	καί	conjunction	1	and
@@ -532,7 +532,7 @@ JDG 21:22	1	10	ἀδελφοὶ	ἀδελφός	noun, nominative masculine plura
 JDG 21:22	1	11	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JDG 21:22	1	12	κρίνεσθαι	κρίνω	aorist passive infinitive	1	to plead their case
 JDG 21:22	1	12	κρίνεσθαι			2	to be judged
-JDG 21:22	1	13	πρὸς	πρός	preposition with the accusative	1	to
+JDG 21:22	1	13	πρὸς	πρός	preposition with the accusative	1	with
 JDG 21:22	1	14	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	1	us
 JDG 21:22	1	15	καὶ	καί	conjunction	1	and
 JDG 21:22	1	16	ἐροῦμεν	λέγω	future active indicative, first plural	1	we shall say
@@ -612,11 +612,11 @@ JDG 21:24	1	11	ἀνὴρ	ἀνήρ	noun, nominative masculine singular; distrib
 JDG 21:24	1	12	εἰς	εἰς	preposition with the accusative	1	to
 JDG 21:24	1	12	εἰς			2	unto
 JDG 21:24	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
-JDG 21:24	1	14	φυλὴν	φυλή	noun, accusative feminine singular	1	clan
-JDG 21:24	1	14	φυλὴν			2	tribe
+JDG 21:24	1	14	φυλὴν	φυλή	noun, accusative feminine singular	1	tribe
+JDG 21:24	1	14	φυλὴν			2	clan
 JDG 21:24	1	15	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 JDG 21:24	1	16	καὶ	καί	conjunction	1	and
-JDG 21:24	1	17	εἰς	εἰς	preposition with the accusative	1	into
+JDG 21:24	1	17	εἰς	εἰς	preposition with the accusative	1	to
 JDG 21:24	1	18	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 21:24	1	19	συγγένειαν	συγγένεια	noun, accusative feminine singular after τὴν, kindred (household dependents left behind, object of ὑπελίποντο together with flocks)	1	kindred
 JDG 21:24	1	20	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; possessive	1	his
@@ -625,7 +625,7 @@ JDG 21:24	1	22	ἀπῆλθεν	ἀπέρχομαι	aorist active indicative, th
 JDG 21:24	1	22	ἀπῆλθεν			2	departed
 JDG 21:24	1	23	ἐκεῖθεν	ἐκεῖθεν	adverb of place	1	from there
 JDG 21:24	1	24	ἀνὴρ	ἀνήρ	noun, nominative masculine singular; distributive	1	each man
-JDG 21:24	1	25	εἰς	εἰς	preposition with the accusative	1	into
+JDG 21:24	1	25	εἰς	εἰς	preposition with the accusative	1	to
 JDG 21:24	1	26	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 21:24	1	27	κληρομίαν	κληρονομία	noun, accusative feminine singular; shortened spelling	1	inheritance
 JDG 21:24	1	28	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -641,7 +641,7 @@ JDG 21:25	1	9	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, dative in
 JDG 21:25	1	10	ἀνὴρ	ἀνήρ	noun, nominative masculine singular; distributive	1	each man
 JDG 21:25	1	11	ἕκαστος	ἕκαστος	adjective, nominative masculine singular	1	each
 JDG 21:25	1	12	τὸ	ὁ	article, accusative neuter singular	1	the
-JDG 21:25	1	13	εὐθὲς	εὐθής	adjective, accusative neuter singular	1	upright
+JDG 21:25	1	13	εὐθὲς	εὐθής	adjective, accusative neuter singular	1	right
 JDG 21:25	1	13	εὐθὲς			2	straight
 JDG 21:25	1	14	ἐν	ἐν	preposition with the dative	1	in
 JDG 21:25	1	15	ὀφθαλμοῖς	ὀφθαλμός	noun, dative masculine plural	1	eyes

@@ -6,7 +6,7 @@ NUM 12:1	1	4	καὶ	καί	conjunction	1	and
 NUM 12:1	1	5	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
 NUM 12:1	1	6	κατὰ	κατά	preposition with genitive	1	against
 NUM 12:1	1	7	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	Moses
-NUM 12:1	1	8	ἕνεκεν	ἕνεκα	preposition with the genitive	1	for the sake of
+NUM 12:1	1	8	ἕνεκεν	ἕνεκα	preposition with the genitive	1	because of
 NUM 12:1	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 12:1	1	10	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
 NUM 12:1	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -20,12 +20,12 @@ NUM 12:1	1	18	Αἰθιόπισσαν	Αἰθιόπισσα	noun, accusative fem
 NUM 12:1	1	19	ἔλαβε	λαμβάνω	aorist active indicative, third singular	1	took
 NUM 12:2	1	1	Καὶ	καί	conjunction	1	and
 NUM 12:2	1	2	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
-NUM 12:2	1	3	μὴ	μή	interrogative particle	1	surely
+NUM 12:2	1	3	μὴ	μή	interrogative particle	1	surely not
 NUM 12:2	1	4	Μωυσῇ	Μωυσῆς	noun, dative masculine singular	1	to Moses
 NUM 12:2	1	5	μόνῳ	μόνος	adjective, dative masc. sg. with Κυρίῳ after πλὴν, alone	1	alone
 NUM 12:2	1	6	ἐλάλησε	λαλέω	aorist active indicative, third singular	1	spoke
 NUM 12:2	1	7	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-NUM 12:2	1	8	οὐχὶ	οὐχί	interrogative negative expecting affirmative answer	1	is not
+NUM 12:2	1	8	οὐχὶ	οὐχί	interrogative negative expecting affirmative answer	1	did not
 NUM 12:2	1	9	καὶ	καί	conjunction	1	and
 NUM 12:2	1	10	ἐν	ἐν	preposition with dative, marks intermediary	1	through
 NUM 12:2	1	11	ἡμῖν	ἐγώ	personal pronoun, dative first plural	1	us
@@ -45,7 +45,7 @@ NUM 12:3	1	9	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 12:3	1	10	ἀνθρώπους	ἄνθρωπος	noun, accusative masculine plural after τοὺς	1	men
 NUM 12:3	1	11	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 12:3	1	12	ὄντας	εἰμί	present active participle, accusative masculine plural	1	who were
-NUM 12:3	1	13	ἐπὶ	ἐπί	preposition with genitive	1	at
+NUM 12:3	1	13	ἐπὶ	ἐπί	preposition with genitive	1	upon
 NUM 12:3	1	13	ἐπὶ			2	beside
 NUM 12:3	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 12:3	1	15	γῆς	γῆ	noun, genitive feminine singular	1	earth
@@ -88,7 +88,7 @@ NUM 12:5	1	5	στύλῳ	στῦλος	noun, dative masc. sg. after ἐν	1	pill
 NUM 12:5	1	6	νεφέλης	νεφέλη	noun, genitive fem. sg. after τῆς	1	cloud
 NUM 12:5	1	7	καὶ	καί	conjunction	1	and
 NUM 12:5	1	8	ἔστη	ἵστημι	aorist active indicative, third singular	1	stood
-NUM 12:5	1	9	ἐπὶ	ἐπί	preposition with the genitive	1	upon
+NUM 12:5	1	9	ἐπὶ	ἐπί	preposition with the genitive	1	at
 NUM 12:5	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 12:5	1	11	θύρας	θύρα	noun, genitive feminine singular	1	entrance
 NUM 12:5	1	12	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -117,7 +117,7 @@ NUM 12:6	1	9	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 NUM 12:6	1	10	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 NUM 12:6	1	11	γένηται	γίνομαι	aorist middle subjunctive, 3rd sg. after ἂν	1	may be
 NUM 12:6	1	12	προφήτης	προφήτης	noun, nominative masculine singular	1	prophet
-NUM 12:6	1	13	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
+NUM 12:6	1	13	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	among you
 NUM 12:6	1	14	Κυρίῳ	κύριος	noun, dative masculine singular	1	for the Lord
 NUM 12:6	1	15	ἐν	ἐν	preposition with the dative	1	in
 NUM 12:6	1	16	ὁράματι	ὅραμα	noun, dative neuter singular	1	a vision
@@ -144,13 +144,13 @@ NUM 12:7	1	11	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
 NUM 12:7	1	12	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 NUM 12:7	1	13	πιστός	πιστός	adjective, nominative masculine singular	1	faithful
 NUM 12:7	1	14	ἐστι	εἰμί	present indicative, third singular	1	is
-NUM 12:8	1	1	στόμα	στόμα	noun, accusative neuter singular; metonymy for spoken command	1	command
+NUM 12:8	1	1	στόμα	στόμα	noun, accusative neuter singular; metonymy for spoken command	1	mouth
 NUM 12:8	1	2	κατὰ	κατά	preposition with accusative	1	to
-NUM 12:8	1	3	στόμα	στόμα	noun, accusative neuter singular; metonymy for spoken command	1	command
+NUM 12:8	1	3	στόμα	στόμα	noun, accusative neuter singular; metonymy for spoken command	1	mouth
 NUM 12:8	1	4	λαλήσω	λαλέω	future active indicative, first singular	1	I will speak
-NUM 12:8	1	5	αὐτῷ	αὐτός	pronoun, dative neuter singular	1	it
+NUM 12:8	1	5	αὐτῷ	αὐτός	pronoun, dative neuter singular	1	to him
 NUM 12:8	1	6	ἐν	ἐν	preposition with the dative	1	in
-NUM 12:8	1	7	εἴδει	εἶδος	noun, dative neuter singular after τῷ, of respect	1	in form
+NUM 12:8	1	7	εἴδει	εἶδος	noun, dative neuter singular after τῷ, of respect	1	visible form
 NUM 12:8	1	8	καὶ	καί	conjunction	1	and
 NUM 12:8	1	9	οὐ	οὐ	negative particle	1	not
 NUM 12:8	1	10	δι᾽	διά	elided preposition with genitive	1	through
@@ -171,7 +171,7 @@ NUM 12:8	1	24	θεράποντός	θεράπων	noun, genitive masculine singu
 NUM 12:8	1	25	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 NUM 12:8	1	26	Μωυσῆ	Μωυσῆς	proper name, vocative masculine singular	1	Moses
 NUM 12:9	1	1	Καὶ	καί	conjunction	1	and
-NUM 12:9	1	2	ὀργὴ	ὀργή	noun, dative feminine singular	1	with anger
+NUM 12:9	1	2	ὀργὴ	ὀργή	noun, dative feminine singular	1	wrath
 NUM 12:9	1	3	θυμοῦ	θυμός	noun, genitive masculine singular after μετὰ	1	anger
 NUM 12:9	1	4	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 NUM 12:9	1	5	ἐπ᾽	ἐπί	preposition with the accusative, elided	1	against
@@ -208,7 +208,7 @@ NUM 12:11	1	5	Μωυσῆν	Μωυσῆς	personal name, accusative masculine si
 NUM 12:11	1	6	δέομαι	δέομαι	present middle/passive indicative, first person singular	1	I beg
 NUM 12:11	1	7	κύριε	κύριος	noun, vocative masculine singular	1	my lord
 NUM 12:11	1	8	μὴ	μή	negative particle with the prohibitive subjunctive	1	not
-NUM 12:11	1	9	συνεπιθῇ	συνεπιτίθημι	aorist active subjunctive, third singular	1	let him lay upon
+NUM 12:11	1	9	συνεπιθῇ	συνεπιτίθημι	aorist active subjunctive, third singular	1	lay upon
 NUM 12:11	1	10	ἡμῖν	ἐγώ	personal pronoun, dative plural	1	us
 NUM 12:11	1	11	ἁμαρτίαν	ἁμαρτία	noun, accusative feminine singular	1	sin
 NUM 12:11	1	12	διότι	διότι	causal conjunction	1	because
@@ -219,8 +219,8 @@ NUM 12:11	1	16	ἡμάρτομεν	ἁμαρτάνω	aorist active indicative, f
 NUM 12:12	1	1	μὴ	μή	negative particle	1	not
 NUM 12:12	1	2	γένοιτα	γίνομαι	aorist middle optative, third singular; printed γένοιτα	1	may she become
 NUM 12:12	1	3	ὡσεὶ	ὡσεί	comparative particle	1	like
-NUM 12:12	1	4	ἶσον	ἴσος	adjective, accusative neuter singular; used adverbially	1	equally
-NUM 12:12	1	5	θανάτῳ	θάνατος	noun dative masculine singular	1	by death
+NUM 12:12	1	4	ἶσον	ἴσος	adjective, accusative neuter singular; used adverbially	1	equal
+NUM 12:12	1	5	θανάτῳ	θάνατος	noun dative masculine singular	1	to death
 NUM 12:12	1	6	ὡσεὶ	ὡσεί	comparative particle	1	like
 NUM 12:12	1	7	ἔκτρωμα	ἔκτρωμα	noun, nominative neuter singular	1	a stillborn child
 NUM 12:12	1	8	ἐκπορευόμενον	ἐκπορεύομαι	present middle/passive participle, nominative neuter singular	1	coming out
@@ -242,7 +242,7 @@ NUM 12:13	1	3	Μωυσῆς	Μωυσῆς	personal name, nominative masculine si
 NUM 12:13	1	4	πρὸς	πρός	preposition with the accusative	1	to
 NUM 12:13	1	5	Κύριον	κύριος	noun, accusative masculine singular, the Lord	1	the Lord
 NUM 12:13	1	6	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
-NUM 12:13	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
+NUM 12:13	1	7	ὁ	ὁ	article, nominative masculine singular	1	O
 NUM 12:13	1	8	Θεὸς	θεός	noun, nominative masculine singular; nominative of address	1	God
 NUM 12:13	1	9	δέομαί	δέομαι	present middle/passive indicative, first singular	1	I beg
 NUM 12:13	1	10	σου	σύ	pronoun, genitive second singular	1	you

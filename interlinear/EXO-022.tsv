@@ -5,7 +5,7 @@ EXO 22:1	1	3	τις	τις	indefinite pronoun, nominative masc. sg.	1	someone
 EXO 22:1	1	4	κλέψῃ	κλέπτω	aorist active subjunctive, 3rd sg. after ἐὰν	1	steals
 EXO 22:1	1	5	μόσχον	μόσχος	noun, accusative masc. sg. after τὸν	1	ox/calf
 EXO 22:1	1	6	ἢ	ἤ	particle	1	or
-EXO 22:1	1	7	πρόβατον	πρόβατον	noun, accusative/nominative neut. sg.	1	a lamb
+EXO 22:1	1	7	πρόβατον	πρόβατον	noun, accusative/nominative neut. sg.	1	a sheep
 EXO 22:1	1	8	καὶ	καί	conjunction	1	and
 EXO 22:1	1	9	σφάξῃ	σφάζω	aorist active subjunctive, 3rd sg. continuing condition	1	slaughters
 EXO 22:1	1	10	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
@@ -73,7 +73,7 @@ EXO 22:4	1	12	ἀπὸ	ἀπό	preposition with the genitive	1	from
 EXO 22:4	1	13	μόσχου	μόσχος	noun, genitive masc. sg. after ἀντὶ τοῦ/περὶ from syntax	1	ox
 EXO 22:4	1	14	καὶ	καί	conjunction	1	and
 EXO 22:4	1	15	ὄνου	ὄνος	noun, genitive sg. after ἀπὸ in range 'from ox and ass to sheep'	1	ass
-EXO 22:4	1	16	ἕως	ἕως	temporal conjunction/preposition	1	until
+EXO 22:4	1	16	ἕως	ἕως	preposition with genitive	1	to
 EXO 22:4	1	17	προβάτου	πρόβατον	noun, genitive neut. sg. after ἀντὶ τοῦ/περὶ from syntax	1	sheep
 EXO 22:4	1	18	ζῶντα	ζάω	present active participle, nominative/accusative neut. pl. with κλέμμα understood animals, living/alive	1	alive
 EXO 22:4	1	19	διπλᾶ	διπλοῦς	adjective, nominative/accusative neut. pl.	1	double (of the living)
@@ -98,7 +98,7 @@ EXO 22:5	1	17	ἐκ	ἐκ	preposition with the genitive	1	from
 EXO 22:5	1	18	τοῦ	ὁ	article, genitive singular	1	the
 EXO 22:5	1	19	ἀγροῦ	ἀγρός	noun, genitive masculine singular	1	field
 EXO 22:5	1	20	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
-EXO 22:5	1	21	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 22:5	1	21	κατὰ	κατά	preposition with accusative	1	according to
 EXO 22:5	1	22	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 22:5	1	23	γέννημα	γένημα	noun, accusative neut. sg. after τὸ/κατὰ τὸ	1	produce
 EXO 22:5	1	24	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
@@ -152,7 +152,7 @@ EXO 22:7	1	11	καὶ	καί	conjunction	1	and
 EXO 22:7	1	12	κλαπῇ	κλέπτω	aorist passive subjunctive, 3rd sg. continuing condition, is stolen	1	is stolen
 EXO 22:7	1	13	ἐκ	ἐκ	preposition with the genitive	1	from
 EXO 22:7	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
-EXO 22:7	1	15	οἰκίας	οἰκία	noun, accusative feminine plural	1	houses
+EXO 22:7	1	15	οἰκίας	οἰκία	noun, genitive feminine singular	1	house
 EXO 22:7	1	16	τοῦ	ὁ	article, genitive singular	1	the
 EXO 22:7	1	17	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	a man
 EXO 22:7	1	18	ἐὰν	ἐάν	conditional conjunction	1	if
@@ -177,7 +177,7 @@ EXO 22:8	1	13	τοῦ	ὁ	article, genitive singular	1	the
 EXO 22:8	1	14	Θεοῦ	θεός	noun, genitive masc. sg. after τοῦ	1	God
 EXO 22:8	1	15	καὶ	καί	conjunction	1	and
 EXO 22:8	1	16	ὀμεῖται	ὄμνυμι	future middle indicative, 3rd sg., shall swear	1	shall swear
-EXO 22:8	1	17	ἦ	ἤ	particle in ἦ μὴν oath formula, surely	1	or
+EXO 22:8	1	17	ἦ	ἦ	affirmative particle in oath formula	1	surely
 EXO 22:8	1	18	μὴν	μήν	particle in ἦ μὴν	1	indeed
 EXO 22:8	1	19	μὴ	μή	negative with participle	1	not
 EXO 22:8	1	20	αὐτὸν	αὐτός	pronoun, accusative masculine singular, subject of infinitive	1	he
@@ -188,8 +188,8 @@ EXO 22:8	1	24	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 22:8	1	25	παρακαταθήκης	παρακαταθήκη	noun, genitive fem. sg. after τῆς, deposit/thing entrusted	1	deposit
 EXO 22:8	1	26	τοῦ	ὁ	article, genitive singular	1	the
 EXO 22:8	1	27	πλησίον	πλησίον	noun, genitive/dative masc. sg. after τοῦ/τῷ from syntax, neighbour	1	neighbour
-EXO 22:9	1	1	Κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
-EXO 22:9	1	2	πᾶν	πᾶς	adjective, accusative neut. sg. with	1	whoever
+EXO 22:9	1	1	Κατὰ	κατά	preposition with genitive Μωυσῆ	1	concerning
+EXO 22:9	1	2	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 EXO 22:9	1	3	ῥητὸν	ῥητός	adjective/noun, accusative neut. sg. with κατὰ πᾶν in sentence opening 'in every alleged	1	alleged
 EXO 22:9	1	4	ἀδίκημα	ἀδίκημα	noun, accusative neut. sg. after ῥητὸν, wrong/trespass	1	wrong
 EXO 22:9	1	5	περί	περί	preposition with genitive	1	concerning
@@ -208,7 +208,7 @@ EXO 22:9	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 22:9	1	18	ἐγκαλουμένης	ἐγκαλέω	present passive participle, genitive fem. sg. with ἀπωλείας after τῆς, 'that is claimed/accused'	1	claimed
 EXO 22:9	1	19	ὅ	ὅς	relative pronoun, nominative neut. sg. in ὅ τι οὖν ἐὰν ᾖ 'whatever it may be'	1	what
 EXO 22:9	1	20	τι	τις	indefinite pronoun, nominative neut. sg. in ὅ τι	1	ever
-EXO 22:9	1	21	οὖν	οὖν	inferential particle in ὅ τι οὖν 'whatever then'	1	then/ever
+EXO 22:9	1	21	οὖν	οὖν	inferential particle in ὅ τι οὖν 'whatever then'	1	then
 EXO 22:9	1	22	ἐὰν	ἐάν	particle in indefinite relative clause	1	(marks contingency)
 EXO 22:9	1	23	ᾖ	εἰμί	present active subjunctive, third singular	1	may be
 EXO 22:9	1	24	ἐνώπιον	ἐνώπιον	preposition with genitive	1	before
@@ -237,11 +237,11 @@ EXO 22:10	1	5	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 22:10	1	6	πλησίον	πλησίον	noun, genitive/dative masc. sg. after τοῦ/τῷ from syntax, neighbour	1	neighbour
 EXO 22:10	1	7	ὑποζύγιον	ὑποζύγιον	noun, nominative/accusative neut. sg. after τὸ	1	an ass
 EXO 22:10	1	8	ἢ	ἤ	particle	1	or
-EXO 22:10	1	9	πρόβατον	πρόβατον	noun, accusative/nominative neut. sg.	1	a lamb
+EXO 22:10	1	9	πρόβατον	πρόβατον	noun, accusative/nominative neut. sg.	1	a sheep
 EXO 22:10	1	10	ἢ	ἤ	particle	1	or
 EXO 22:10	1	11	μόσχον	μόσχος	noun, accusative masc. sg. after τὸν	1	ox/calf
 EXO 22:10	1	12	ἢ	ἤ	particle	1	or
-EXO 22:10	1	13	πᾶν	πᾶς	adjective, accusative neut. sg. with	1	whoever
+EXO 22:10	1	13	πᾶν	πᾶς	adjective, accusative neuter singular	1	any
 EXO 22:10	1	14	κτῆνος	κτῆνος	noun, nominative neut. sg. in ἐάν τε κτῆνος 'whether beast'	1	a beast
 EXO 22:10	1	15	φυλάξαι	φυλάσσω	aorist active infinitive of purpose, to guard/keep	1	to keep
 EXO 22:10	1	16	καὶ	καί	conjunction	1	and
@@ -261,7 +261,7 @@ EXO 22:11	1	4	θεοῦ	θεός	noun, genitive masc. sg. after τοῦ	1	God
 EXO 22:11	1	5	ἀνὰ	ἀνά	preposition with accusative μέσον in ἀνὰ μέσον αὐτῶν 'between them'	1	between
 EXO 22:11	1	6	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	1	(with preceding word)
 EXO 22:11	1	7	ἀμφοτέρων	ἀμφότερος	adjective/pronoun, genitive pl. after ἀνὰ μέσον/κρίσις, of both	1	of both
-EXO 22:11	1	8	ἦ	ἤ	particle in ἦ μὴν oath formula, surely	1	or
+EXO 22:11	1	8	ἦ	ἦ	affirmative particle in oath formula	1	surely
 EXO 22:11	1	9	μὴν	μήν	particle in ἦ μὴν	1	indeed
 EXO 22:11	1	10	μὴ	μή	negative with participle	1	not
 EXO 22:11	1	11	αὐτὸν	αὐτός	pronoun, accusative masculine singular, subject of infinitive	1	he
@@ -286,18 +286,18 @@ EXO 22:12	1	1	ἐὰν	ἐάν	conditional conjunction	1	if
 EXO 22:12	1	2	δὲ	δέ	postpositive conjunction	1	and
 EXO 22:12	1	3	κλαπῇ	κλέπτω	aorist passive subjunctive, 3rd sg. continuing condition, is stolen	1	is stolen
 EXO 22:12	1	4	παρ᾽	παρά	preposition, elided	1	from
-EXO 22:12	1	5	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
+EXO 22:12	1	5	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	him
 EXO 22:12	1	6	ἀποτίσει	ἀποτίνω	future active indicative, 3rd sg.	1	shall pay
 EXO 22:12	1	7	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 22:12	1	8	κυρίῳ	κύριος	noun, dative masculine singular after τῷ, master	1	owner
-EXO 22:12	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
+EXO 22:12	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	its
 EXO 22:13	1	1	Ἐὰν	ἐάν	conditional conjunction	1	if
 EXO 22:13	1	2	δὲ	δέ	postpositive conjunction	1	and
 EXO 22:13	1	3	θηριάλωτον	θηριάλωτος	adjective, nominative neut. sg.	1	torn by a beast
 EXO 22:13	1	4	γένηται	γίνομαι	aorist middle subjunctive, 3rd sg. continuing condition	1	becomes/happens
 EXO 22:13	1	5	ἄξει	ἄγω	future active indicative, 3rd sg.	1	shall bring
 EXO 22:13	1	6	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-EXO 22:13	1	7	ἐπὶ	ἐπί	preposition	1	on
+EXO 22:13	1	7	ἐπὶ	ἐπί	preposition	1	to
 EXO 22:13	1	8	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 22:13	1	9	θήραν	θήρα	noun, accusative fem. sg. after ἐπὶ τὴν, the prey/remains as proof	1	prey (remains)
 EXO 22:13	1	10	καὶ	καί	conjunction	1	and
@@ -320,11 +320,11 @@ EXO 22:14	1	14	γένηται	γίνομαι	aorist middle subjunctive, 3rd sg. 
 EXO 22:14	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
 EXO 22:14	1	16	δὲ	δέ	postpositive conjunction	1	and
 EXO 22:14	1	17	κύριος	κύριος	noun, nominative masculine singular; Κύριος	1	owner
-EXO 22:14	1	18	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
+EXO 22:14	1	18	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	its
 EXO 22:14	1	19	μὴ	μή	negative with participle	1	not
 EXO 22:14	1	20	ᾖ	εἰμί	present active subjunctive, third singular	1	may be
 EXO 22:14	1	21	μετ᾽	μετά	preposition with genitive	1	with
-EXO 22:14	1	22	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	him
+EXO 22:14	1	22	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	it
 EXO 22:14	1	23	ἀποτιννύων	ἀποτιννύω	present active participle, nom. masc. sg.	1	paying
 EXO 22:14	1	24	ἀποτίσει	ἀποτίνω	future active indicative, 3rd sg.	1	shall pay
 EXO 22:15	1	1	ἐὰν	ἐάν	conditional conjunction	1	if
@@ -333,7 +333,7 @@ EXO 22:15	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 EXO 22:15	1	4	κύριος	κύριος	noun, nominative masculine singular; Κύριος	1	owner
 EXO 22:15	1	5	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
 EXO 22:15	1	6	μετ᾽	μετά	preposition with genitive	1	with
-EXO 22:15	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	him
+EXO 22:15	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	it
 EXO 22:15	1	8	ᾖ	εἰμί	present active subjunctive, third singular	1	may be
 EXO 22:15	1	9	οὐκ	οὐ	negative adverb	1	not
 EXO 22:15	1	10	ἀποτίσει	ἀποτίνω	future active indicative, 3rd sg.	1	shall pay
@@ -380,7 +380,7 @@ EXO 22:17	1	14	γυναῖκα	γυνή	noun, accusative fem. sg. in εἰς γ�
 EXO 22:17	1	15	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular after τὸ, silver/money	1	the silver
 EXO 22:17	1	16	ἀποτίσει	ἀποτίνω	future active indicative, 3rd sg.	1	shall pay
 EXO 22:17	1	17	αὐτῷ	αὐτός	pronoun, dative masculine/neuter singular	1	to him
-EXO 22:17	1	18	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	concerning
+EXO 22:17	1	18	καθ᾽	κατά	preposition with accusative	1	according to
 EXO 22:17	1	19	ὅσον	ὅσος	relative adjective, accusative neut. sg. after καθ᾽ in καθ᾽ ὅσον 'according to what'	1	as much as
 EXO 22:17	1	20	ἐστὶν	εἰμί	present indicative, third singular	1	is
 EXO 22:17	1	21	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -418,7 +418,7 @@ EXO 22:21	1	11	προσήλυτοι	προσήλυτος	noun, nominative masc. 
 EXO 22:21	1	12	ἐν	ἐν	preposition with dative	1	in
 EXO 22:21	1	13	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
 EXO 22:21	1	14	Αἰγύπτῳ	Αἴγυπτος	place name, dative feminine singular	1	Egypt
-EXO 22:22	1	1	Πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
+EXO 22:22	1	1	Πᾶσαν	πᾶς	adjective, accusative feminine singular	1	any
 EXO 22:22	1	2	χήραν	χήρα	noun, accusative fem. sg. after πᾶσαν	1	widow
 EXO 22:22	1	3	καὶ	καί	conjunction	1	and
 EXO 22:22	1	4	ὀρφανὸν	ὀρφανός	noun/adjective, accusative masc. sg., orphan/fatherless	1	orphan
@@ -440,7 +440,7 @@ EXO 22:23	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 22:23	1	14	φωνῆς	φωνή	noun, genitive fem. sg. after τῆς	1	voice
 EXO 22:23	1	15	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 EXO 22:24	1	1	καὶ	καί	conjunction	1	and
-EXO 22:24	1	2	ὀργισθήσομαι	ὀργίζομαι	future passive indicative, 1st sg. with θυμῷ 'I will be angry with wrath'	1	my wrath shall burn
+EXO 22:24	1	2	ὀργισθήσομαι	ὀργίζομαι	future passive indicative, 1st sg. with θυμῷ 'I will be angry with wrath'	1	I shall be angry
 EXO 22:24	1	3	θυμῷ	θυμός	noun, dative masc. sg., instrumental cognate	1	with wrath
 EXO 22:24	1	4	καὶ	καί	conjunction	1	and
 EXO 22:24	1	5	ἀποκτενῶ	ἀποκτείνω	future active indicative, 1st sg.	1	I will kill
@@ -502,7 +502,7 @@ EXO 22:27	1	9	ἱμάτιον	ἱμάτιον	noun, accusative neut. sg. after �
 EXO 22:27	1	10	ἀσχημοσύνης	ἀσχημοσύνη	noun, genitive fem. sg.	1	of his nakedness
 EXO 22:27	1	11	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
 EXO 22:27	1	12	ἐν	ἐν	preposition with dative	1	in
-EXO 22:27	1	13	τίνι	τίς	interrogative pronoun, dative neut. sg. after ἐν 'in what'	1	in what
+EXO 22:27	1	13	τίνι	τίς	interrogative pronoun, dative neut. sg. after ἐν 'in what'	1	what
 EXO 22:27	1	14	κοιμηθήσεται	κοιμάομαι	future passive indicative, 3rd sg.	1	shall he sleep
 EXO 22:27	1	15	Ἐὰν	ἐάν	conditional conjunction	1	if
 EXO 22:27	1	16	οὖν	οὖν	inferential particle in ὅ τι οὖν 'whatever then'	1	then
@@ -510,7 +510,7 @@ EXO 22:27	1	17	καταβοήσῃ	καταβοάω	aorist active subjunctive, 3
 EXO 22:27	1	18	πρός	πρός	preposition with the accusative	1	to
 EXO 22:27	1	19	με	ἐγώ	pronoun, accusative first singular	1	me
 EXO 22:27	1	20	εἰσακούσομαι	εἰσακούω	future middle indicative, 1st sg. with genitive	1	I will surely hear
-EXO 22:27	1	21	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
+EXO 22:27	1	21	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	him
 EXO 22:27	1	22	ἐλεήμων	ἐλεήμων	adjective, nominative masc. sg.	1	gracious
 EXO 22:27	1	23	γάρ	γάρ	explanatory conjunction	1	for
 EXO 22:27	1	24	εἰμι	εἰμί	present indicative, first singular	1	am
@@ -526,7 +526,7 @@ EXO 22:28	1	9	οὐκ	οὐ	negative adverb	1	not
 EXO 22:28	1	10	ἐρεῖς	λέγω	future active indicative, second singular	1	you shall speak
 EXO 22:28	1	11	κακῶς	κακῶς	adverb	1	evil
 EXO 22:29	1	1	Ἀπαρχὰς	ἀπαρχή	noun, accusative fem. pl.	1	firstfruits
-EXO 22:29	1	2	ἅλωνος	ἅλων	noun, genitive sg.	1	of (your) threshing-floor
+EXO 22:29	1	2	ἅλωνος	ἅλων	noun, genitive sg.	1	of the threshing floor
 EXO 22:29	1	3	καὶ	καί	conjunction	1	and
 EXO 22:29	1	4	ληνοῦ	ληνός	noun, genitive fem. sg., winepress/of vintage	1	of (your) winepress
 EXO 22:29	1	5	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -538,7 +538,7 @@ EXO 22:29	1	10	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 22:29	1	11	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 EXO 22:29	1	12	σου	σύ	pronoun, possessive genitive second singular	1	your
 EXO 22:29	1	13	δώσεις	δίδωμι	future active indicative, 2nd sg.	1	you shall give
-EXO 22:29	1	14	ἐμοί	ἐγώ	pronoun, dative 1st sg. tonic 'mine	1	mine
+EXO 22:29	1	14	ἐμοί	ἐγώ	personal pronoun, dative first singular	1	to me
 EXO 22:30	1	1	Οὕτω	οὕτως	adverb	1	thus
 EXO 22:30	1	2	ποιήσεις	ποιέω	future active indicative, 2nd sg.	1	you shall do
 EXO 22:30	1	3	τὸν	ὁ	article, accusative masculine singular	1	the

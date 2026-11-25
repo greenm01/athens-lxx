@@ -117,7 +117,7 @@ GEN 24:5	1	12	πορευθῆναι	πορεύομαι	aorist passive-form infin
 GEN 24:5	1	12	πορευθῆναι			2	to travel
 GEN 24:5	1	13	μετ᾽	μετά	preposition with genitive, elided	1	with
 GEN 24:5	1	14	ἐμοῦ	ἐγώ	personal pronoun, genitive singular after μετά	1	me
-GEN 24:5	1	15	ὀπίσω	ὀπίσω	adverb of direction	1	following
+GEN 24:5	1	15	ὀπίσω	ὀπίσω	adverb of direction	1	back
 GEN 24:5	1	16	εἰς	εἰς	preposition with the accusative	1	into
 GEN 24:5	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 24:5	1	18	γῆν	γῆ	noun, accusative feminine singular	1	land
@@ -239,7 +239,7 @@ GEN 24:8	1	17	τοῦ	ὁ	article, genitive masculine singular	1	the
 GEN 24:8	1	18	ὅρκου	ὅρκος	noun, genitive masculine singular	1	oath
 GEN 24:8	1	19	μου	ἐγώ	personal pronoun, genitive first singular	1	my
 GEN 24:8	1	20	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	this
-GEN 24:8	1	21	μόνον	μόνος	adjective, accusative masculine singular	1	alone
+GEN 24:8	1	21	μόνον	μόνος	adjective, accusative masculine singular	1	only
 GEN 24:8	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 24:8	1	23	υἱόν	υἱός	noun, accusative masculine singular	1	son
 GEN 24:8	1	24	μου	ἐγώ	personal pronoun, genitive first singular	1	my
@@ -461,8 +461,8 @@ GEN 24:15	1	32	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	he
 GEN 24:16	1	1	Ἡ	ὁ	article, nominative feminine singular	1	the
 GEN 24:16	1	2	δὲ	δέ	postpositive connective	1	now
 GEN 24:16	1	2	δὲ			2	and
-GEN 24:16	1	3	παρθένος	παρθένος	noun, nominative feminine singular	1	young woman
-GEN 24:16	1	3	παρθένος			2	virgin
+GEN 24:16	1	3	παρθένος	παρθένος	noun, nominative feminine singular	1	virgin
+GEN 24:16	1	3	παρθένος			2	young woman
 GEN 24:16	1	4	ἦν	εἰμί	imperfect indicative, third singular	1	was
 GEN 24:16	1	5	καλὴ	καλός	adjective, nominative feminine singular	1	beautiful
 GEN 24:16	1	6	τῇ	ὁ	article, dative feminine singular; dative of respect	1	in
@@ -667,7 +667,7 @@ GEN 24:25	1	13	τοῦ	ὁ	article, genitive neuter singular, with the following
 GEN 24:25	1	14	καταλῦσαι	καταλύω	aorist active infinitive	1	to lodge
 GEN 24:25	1	14	καταλῦσαι			2	to stay
 GEN 24:26	1	1	Καὶ	καί	conjunction	1	and
-GEN 24:26	1	2	εὐδοκήσας	εὐδοκέω	aorist active participle, nominative masculine singular	1	having gladly agreed
+GEN 24:26	1	2	εὐδοκήσας	εὐδοκέω	aorist active participle, nominative masculine singular	1	being well pleased
 GEN 24:26	1	2	εὐδοκήσας			2	consenting
 GEN 24:26	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 24:26	1	4	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
@@ -1089,7 +1089,7 @@ GEN 24:42	1	1	Καὶ	καί	conjunction	1	and
 GEN 24:42	1	2	ἐλθὼν	ἔρχομαι	aorist active participle, nominative masculine singular	1	having come
 GEN 24:42	1	2	ἐλθὼν			2	arriving
 GEN 24:42	1	3	σήμερον	σήμερον	adverb of time	1	today
-GEN 24:42	1	4	ἐπὶ	ἐπί	preposition with accusative	1	onto
+GEN 24:42	1	4	ἐπὶ	ἐπί	preposition with accusative	1	to
 GEN 24:42	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 24:42	1	6	πηγὴν	πηγή	noun, accusative feminine singular	1	spring
 GEN 24:42	1	6	πηγὴν			2	fountain
@@ -1300,7 +1300,7 @@ GEN 24:47	1	34	τὰς	ὁ	article, accusative feminine plural	1	the
 GEN 24:47	1	35	χεῖρας	χείρ	noun, accusative feminine plural	1	hands
 GEN 24:47	1	36	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 GEN 24:48	1	1	καὶ	καί	conjunction	1	and
-GEN 24:48	1	2	εὐδοκήσας	εὐδοκέω	aorist active participle, nominative masculine singular	1	having gladly agreed
+GEN 24:48	1	2	εὐδοκήσας	εὐδοκέω	aorist active participle, nominative masculine singular	1	being well pleased
 GEN 24:48	1	2	εὐδοκήσας			2	consenting
 GEN 24:48	1	3	προσεκύνησα	προσκυνέω	aorist active indicative, first singular	1	I bowed in worship
 GEN 24:48	1	3	προσεκύνησα			2	I bowed down
@@ -1401,7 +1401,7 @@ GEN 24:51	1	5	λαβὼν			2	having taken
 GEN 24:51	1	6	ἀπότρεχε	ἀποτρέχω	present active imperative, second singular	1	depart
 GEN 24:51	1	6	ἀπότρεχε			2	go away
 GEN 24:51	1	7	καὶ	καί	conjunction	1	and
-GEN 24:51	1	8	ἔστω	εἰμί	present imperative, third singular	1	let it be
+GEN 24:51	1	8	ἔστω	εἰμί	present imperative, third singular	1	let her be
 GEN 24:51	1	9	γυνὴ	γυνή	noun, nominative feminine singular	1	wife
 GEN 24:51	1	10	τῷ	ὁ	article, dative masculine singular	1	to the
 GEN 24:51	1	11	υἱῷ	υἱός	noun, dative masculine singular	1	son

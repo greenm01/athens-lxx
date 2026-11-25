@@ -41,7 +41,7 @@ EXO 2:3	1	8	ἔλαβεν	λαμβάνω	aorist active indicative, third person 
 EXO 2:3	1	9	ἡ	ὁ	article, nominative feminine singular	1	the
 EXO 2:3	1	10	μήτηρ	μήτηρ	noun, nominative feminine singular	1	mother
 EXO 2:3	1	11	αὐτῷ	αὐτός	pronoun, dative neuter singular	1	for it
-EXO 2:3	1	12	θίβιν	θίβις	noun, accusative feminine singular	1	a basket
+EXO 2:3	1	12	θίβιν	θίβις	noun, accusative feminine singular	1	basket
 EXO 2:3	1	13	καὶ	καί	conjunction	1	and
 EXO 2:3	1	14	κατέχρισεν	καταχρίω	aorist active indicative, third person singular	1	coated
 EXO 2:3	1	15	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
@@ -119,7 +119,7 @@ EXO 2:6	1	16	ἔφη	φημί	imperfect active indicative, third person singular
 EXO 2:6	1	17	ἀπὸ	ἀπό	preposition with the genitive	1	from
 EXO 2:6	1	18	τῶν	ὁ	article, genitive neuter plural	1	the
 EXO 2:6	1	19	παιδίων	παιδίον	noun, genitive neuter plural	1	children
-EXO 2:6	1	20	τῶν	ὁ	article, genitive masculine plural	1	the
+EXO 2:6	1	20	τῶν	ὁ	article, genitive masculine plural	1	of the
 EXO 2:6	1	21	Ἑβραίων	Ἑβραῖος	gentilic adjective, genitive masculine plural	1	of the Hebrews
 EXO 2:6	1	22	τοῦτο	οὗτος	demonstrative pronoun, nominative neuter singular	1	this one
 EXO 2:7	1	1	Καὶ	καί	conjunction	1	and
@@ -127,7 +127,7 @@ EXO 2:7	1	2	εἶπεν	λέγω	aorist active indicative, third person singular
 EXO 2:7	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
 EXO 2:7	1	4	ἀδελφὴ	ἀδελφή	noun, nominative feminine singular	1	sister
 EXO 2:7	1	5	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	his
-EXO 2:7	1	6	τῇ	ὁ	article, dative feminine singular	1	the
+EXO 2:7	1	6	τῇ	ὁ	article, dative feminine singular	1	to the
 EXO 2:7	1	7	θυγατρὶ	θυγάτηρ	noun, dative feminine singular	1	to the daughter
 EXO 2:7	1	8	Φαραώ	Φαραώ	indeclinable personal name, genitive in context	1	of Pharaoh
 EXO 2:7	1	9	θέλεις	θέλω	present active indicative, second person singular	1	do you want
@@ -281,12 +281,12 @@ EXO 2:13	1	6	δευτέρᾳ	δεύτερος	ordinal adjective, dative feminine
 EXO 2:13	1	7	ὁρᾷ	ὁράω	present active indicative, third person singular	1	he sees
 EXO 2:13	1	8	δύο	δύο	indeclinable cardinal numeral	1	two
 EXO 2:13	1	9	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
-EXO 2:13	1	10	Ἑβραίους	Ἑβραῖος	gentilic adjective, accusative masculine plural	1	Hebrew
+EXO 2:13	1	10	Ἑβραίους	Ἑβραῖος	gentilic adjective, accusative masculine plural	1	Hebrews
 EXO 2:13	1	11	διαπληκτιζομένους	διαπληκτίζομαι	present middle/passive participle, accusative masculine plural	1	quarreling
 EXO 2:13	1	12	καὶ	καί	conjunction	1	and
 EXO 2:13	1	13	λέγει	λέγω	present active indicative, third person singular	1	he says
-EXO 2:13	1	14	τῷ	ὁ	article, dative masculine singular	1	the
-EXO 2:13	1	15	ἀδικοῦντι	ἀδικέω	present active participle, dative masculine singular	1	to the one doing wrong
+EXO 2:13	1	14	τῷ	ὁ	article, dative masculine singular	1	to the one
+EXO 2:13	1	15	ἀδικοῦντι	ἀδικέω	present active participle, dative masculine singular	1	doing wrong
 EXO 2:13	1	16	διατί	διατί	adverb	1	why
 EXO 2:13	1	17	τύπτεις	τύπτω	present active indicative, second person singular	1	do you strike
 EXO 2:13	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -318,7 +318,7 @@ EXO 2:14	1	24	δὲ	δέ	conjunction	1	and
 EXO 2:14	1	25	Μωυσῆς	Μωυσῆς	noun, nominative masculine singular	1	Moses
 EXO 2:14	1	26	καὶ	καί	conjunction	1	and
 EXO 2:14	1	27	εἶπεν	λέγω	aorist active indicative, third person singular	1	said
-EXO 2:14	1	28	εἰ	εἰ	particle	1	if
+EXO 2:14	1	28	εἰ	εἰ	particle	1	surely
 EXO 2:14	1	29	οὕτως	οὕτως	adverb	1	thus
 EXO 2:14	1	30	ἐμφανὲς	ἐμφανής	adjective, nominative neuter singular	1	known
 EXO 2:14	1	31	γέγονε	γίνομαι	perfect active indicative, third person singular	1	has become
@@ -436,7 +436,7 @@ EXO 2:19	1	17	πρόβατα	πρόβατον	noun, accusative neuter plural	1	s
 EXO 2:20	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 EXO 2:20	1	2	δὲ	δέ	conjunction	1	and
 EXO 2:20	1	3	εἶπε	λέγω	aorist active indicative, third person singular	1	said
-EXO 2:20	1	4	ταῖς	ὁ	article, dative feminine plural	1	the
+EXO 2:20	1	4	ταῖς	ὁ	article, dative feminine plural	1	to
 EXO 2:20	1	5	θυγατράσιν	θυγάτηρ	noun, dative feminine plural	1	to the daughters
 EXO 2:20	1	6	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 EXO 2:20	1	7	καὶ	καί	conjunction	1	and
@@ -517,7 +517,7 @@ EXO 2:23	1	26	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	thei
 EXO 2:23	1	27	πρὸς	πρός	preposition with the accusative	1	to
 EXO 2:23	1	28	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 2:23	1	29	Θεὸν	θεός	noun, accusative masculine singular	1	God
-EXO 2:23	1	30	ἀπὸ	ἀπό	preposition with the genitive	1	from
+EXO 2:23	1	30	ἀπὸ	ἀπό	preposition with the genitive	1	because of
 EXO 2:23	1	31	τῶν	ὁ	article, genitive neuter plural	1	the
 EXO 2:23	1	32	ἔργων	ἔργον	noun, genitive neuter plural	1	labors
 EXO 2:24	1	1	Καὶ	καί	conjunction	1	and

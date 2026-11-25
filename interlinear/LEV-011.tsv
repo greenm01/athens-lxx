@@ -32,8 +32,8 @@ LEV 11:3	1	2	κτῆνος	κτῆνος	noun, nominative neuter singular	1	anim
 LEV 11:3	1	3	διχηλοῦν	διχηλέω	present active participle, nominative neuter singular	1	splitting
 LEV 11:3	1	4	ὁπλὴν	ὁπλή	noun, accusative feminine singular	1	hoof
 LEV 11:3	1	5	καὶ	καί	conjunction	1	and
-LEV 11:3	1	6	ὀνυχιστῆρας	ὀνυχιστήρ	noun, accusative masculine plural	1	claws
-LEV 11:3	1	6	ὀνυχιστῆρας			2	hooves
+LEV 11:3	1	6	ὀνυχιστῆρας	ὀνυχιστήρ	noun, accusative masculine plural	1	hooves
+LEV 11:3	1	6	ὀνυχιστῆρας			2	claws
 LEV 11:3	1	7	ὀνυχίζον	ὀνυχίζω	present active participle, nominative neuter singular	1	dividing
 LEV 11:3	1	8	δύο	δύο	cardinal numeral, indeclinable	1	two
 LEV 11:3	1	9	χηλῶν	χηλή	noun, genitive feminine plural	1	hooves
@@ -63,8 +63,8 @@ LEV 11:4	1	14	τὰς	ὁ	article, accusative feminine plural	1	the
 LEV 11:4	1	15	ὁπλὰς	ὁπλή	noun, accusative feminine plural	1	hooves
 LEV 11:4	1	16	καὶ	καί	conjunction	1	and
 LEV 11:4	1	17	ὀνυχιζόντων	ὀνυχίζω	present active participle, genitive masculine plural	1	dividing
-LEV 11:4	1	18	ὀνυχιστῆρας	ὀνυχιστήρ	noun, accusative masculine plural	1	claws
-LEV 11:4	1	18	ὀνυχιστῆρας			2	hooves
+LEV 11:4	1	18	ὀνυχιστῆρας	ὀνυχιστήρ	noun, accusative masculine plural	1	hooves
+LEV 11:4	1	18	ὀνυχιστῆρας			2	claws
 LEV 11:4	1	19	τὸν	ὁ	article, accusative masculine singular	1	the
 LEV 11:4	1	20	κάμηλον	κάμηλος	noun, accusative masculine singular	1	camel
 LEV 11:4	1	21	ὅτι	ὅτι	causal conjunction	1	because
@@ -116,8 +116,8 @@ LEV 11:7	1	6	ὁπλὴν	ὁπλή	noun, accusative feminine singular	1	hoof
 LEV 11:7	1	7	τοῦτο	οὗτος	demonstrative pronoun, nominative neuter singular; subject of the clause, referring to the animal	1	this one
 LEV 11:7	1	8	καὶ	καί	conjunction	1	and
 LEV 11:7	1	9	ὀνυχίζει	ὀνυχίζω	present active indicative, third singular	1	divides
-LEV 11:7	1	10	ὄνυχας	ὄνυξ	noun, accusative masculine plural	1	claws
-LEV 11:7	1	10	ὄνυχας			2	hooves
+LEV 11:7	1	10	ὄνυχας	ὄνυξ	noun, accusative masculine plural	1	hooves
+LEV 11:7	1	10	ὄνυχας			2	claws
 LEV 11:7	1	11	ὁπλῆς	ὁπλή	noun, genitive feminine singular	1	hoof
 LEV 11:7	1	12	καὶ	καί	conjunction	1	and
 LEV 11:7	1	13	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
@@ -260,7 +260,7 @@ LEV 11:13	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
 LEV 11:13	1	13	ἀετὸν	ἀετός	noun, accusative masculine singular	1	eagle
 LEV 11:13	1	14	καὶ	καί	conjunction	1	and
 LEV 11:13	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
-LEV 11:13	1	16	γρύπα	γρύψ	noun, accusative masculine singular	1	griffon vulture
+LEV 11:13	1	16	γρύπα	γρύψ	noun, accusative masculine singular	1	vulture (probably bearded vulture)
 LEV 11:13	1	17	καὶ	καί	conjunction	1	and
 LEV 11:13	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 LEV 11:13	1	19	ἁλιαίετον	ἁλιαίετος	noun, accusative masculine singular	1	sea eagle
@@ -296,7 +296,7 @@ LEV 11:16	1	14	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 11:16	1	15	ὅμοια	ὅμοιος	adjective, accusative neuter plural; used substantivally	1	similar kinds
 LEV 11:16	1	16	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
 LEV 11:17	1	1	καὶ	καί	conjunction	1	and
-LEV 11:17	1	2	νυκτικόρακα	νυκτικόραξ	noun, accusative masculine singular	1	night raven
+LEV 11:17	1	2	νυκτικόρακα	νυκτικόραξ	noun, accusative masculine singular	1	long-eared owl
 LEV 11:17	1	2	νυκτικόρακα			2	night bird
 LEV 11:17	1	3	καὶ	καί	conjunction	1	and
 LEV 11:17	1	4	καταράκτην	καταράκτης	noun, accusative masculine singular	1	diving bird
@@ -319,8 +319,8 @@ LEV 11:19	1	4	χαραδριὸν			2	shorebird
 LEV 11:19	1	5	καὶ	καί	conjunction	1	and
 LEV 11:19	1	6	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 11:19	1	7	ὅμοια	ὅμοιος	adjective, accusative neuter plural; used substantivally	1	similar kinds
-LEV 11:19	1	8	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-LEV 11:19	1	9	καὶ	αὐτός	pronoun, dative masculine singular	1	it
+LEV 11:19	1	8	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to it
+LEV 11:19	1	9	καὶ	καί	coordinating conjunction	1	and
 LEV 11:19	1	10	ἔποπα	ἔποψ	noun, accusative masculine singular	1	hoopoe
 LEV 11:19	1	11	καὶ	καί	conjunction	1	and
 LEV 11:19	1	12	νυκτερίδα	νυκτερίς	noun, accusative feminine singular	1	bat
@@ -330,7 +330,7 @@ LEV 11:20	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 11:20	1	4	ἑρπετὰ	ἑρπετόν	noun, accusative neuter plural	1	creeping creatures
 LEV 11:20	1	4	ἑρπετὰ			2	creeping things
 LEV 11:20	1	5	τῶν	ὁ	article, genitive neuter plural	1	the
-LEV 11:20	1	6	πετεινῶν	πετεινός	substantival adjective, genitive neuter plural	1	birds
+LEV 11:20	1	6	πετεινῶν	πετεινός	substantival adjective, genitive neuter plural	1	winged creatures
 LEV 11:20	1	7	ἃ	ὅς	relative pronoun, nominative neuter plural	1	which
 LEV 11:20	1	8	πορεύεται	πορεύομαι	present middle indicative, third singular	1	moves
 LEV 11:20	1	9	ἐπὶ	ἐπί	preposition (case from context)	1	on
@@ -392,7 +392,7 @@ LEV 11:22	1	19	ὅμοια	ὅμοιος	adjective, accusative neuter plural; us
 LEV 11:22	1	20	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 LEV 11:22	1	21	καὶ	καί	conjunction	1	and
 LEV 11:22	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
-LEV 11:22	1	23	ὀφιομάχην	ὀφιομάχης	noun, accusative masculine singular	1	snake-fighter
+LEV 11:22	1	23	ὀφιομάχην	ὀφιομάχης	noun, accusative masculine singular	1	snake-fighting grasshopper
 LEV 11:22	1	23	ὀφιομάχην			2	a kind of locust
 LEV 11:22	1	24	καὶ	καί	conjunction	1	and
 LEV 11:22	1	25	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -450,8 +450,8 @@ LEV 11:26	1	7	ἐστι	εἰμί	present indicative, third singular	1	is
 LEV 11:26	1	8	διχηλοῦν	διχηλέω	present active participle, nominative neuter singular	1	splitting
 LEV 11:26	1	9	ὁπλὴν	ὁπλή	noun, accusative feminine singular	1	hoof
 LEV 11:26	1	10	καὶ	καί	conjunction	1	and
-LEV 11:26	1	11	ὀνυχιστῆρας	ὀνυχιστήρ	noun, accusative masculine plural	1	claws
-LEV 11:26	1	11	ὀνυχιστῆρας			2	hooves
+LEV 11:26	1	11	ὀνυχιστῆρας	ὀνυχιστήρ	noun, accusative masculine plural	1	hooves
+LEV 11:26	1	11	ὀνυχιστῆρας			2	claws
 LEV 11:26	1	12	ὀνυχίζει	ὀνυχίζω	present active indicative, third singular	1	divides
 LEV 11:26	1	13	καὶ	καί	conjunction	1	and
 LEV 11:26	1	14	μηρυκισμὸν	μηρυκισμός	noun, accusative masculine singular	1	cud
@@ -472,10 +472,10 @@ LEV 11:26	1	28	ἕως	ἕως	improper preposition with genitive	1	until
 LEV 11:26	1	29	ἑσπέρας	ἑσπέρα	noun, genitive feminine singular	1	evening
 LEV 11:27	1	1	Καὶ	καί	conjunction	1	and
 LEV 11:27	1	2	πᾶς	πᾶς	adjective, nominative masculine singular; substantival	1	everyone
-LEV 11:27	1	3	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
+LEV 11:27	1	3	ὃς	ὅς	relative pronoun, nominative masculine singular	1	which
 LEV 11:27	1	4	πορεύεται	πορεύομαι	present middle indicative, third singular	1	moves
 LEV 11:27	1	5	ἐπὶ	ἐπί	preposition with the genitive	1	upon
-LEV 11:27	1	6	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
+LEV 11:27	1	6	χειρῶν	χείρ	noun, genitive feminine plural	1	paws
 LEV 11:27	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 11:27	1	8	ἐν	ἐν	preposition with the dative	1	in
 LEV 11:27	1	9	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
@@ -496,7 +496,7 @@ LEV 11:27	1	23	θνησιμαίων	θνησιμαῖος	adjective, genitive ne
 LEV 11:27	1	24	αὐτῶν	αὐτός	pronoun, genitive neuter plural	1	their
 LEV 11:27	1	25	ἀκάθαρτος	ἀκάθαρτος	adjective, nominative masculine singular	1	unclean
 LEV 11:27	1	26	ἔσται	εἰμί	future indicative, third singular	1	will be
-LEV 11:27	1	27	ἕως	ἕως	preposition with the genitive	1	as far as
+LEV 11:27	1	27	ἕως	ἕως	preposition with the genitive	1	until
 LEV 11:27	1	27	ἕως			2	up to
 LEV 11:27	1	28	ἑσπέρας	ἑσπέρα	noun, genitive feminine singular	1	evening
 LEV 11:28	1	1	καὶ	καί	conjunction	1	and

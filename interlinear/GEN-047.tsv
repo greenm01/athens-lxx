@@ -1,9 +1,9 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
-GEN 47:1	1	1	ΕΛΘΩΝ	ΕΛΘΩΝ	indeclinable personal name, nominative in context	1	ELThON
+GEN 47:1	1	1	ΕΛΘΩΝ	ἔρχομαι	aorist active participle, nominative masculine singular	1	having come
 GEN 47:1	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 47:1	1	3	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
 GEN 47:1	1	4	ἀπήγγειλε	ἀπαγγέλλω	aorist active indicative, third singular	1	announced
-GEN 47:1	1	5	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 47:1	1	5	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 GEN 47:1	1	6	Φαραὼ	Φαραώ	royal title/name (indeclined), case from syntax per occurrence	1	Pharaoh
 GEN 47:1	1	7	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 GEN 47:1	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -50,7 +50,7 @@ GEN 47:2	1	13	Φαραώ	Φαραώ	royal title/name as printed Φαραώ, geni
 GEN 47:3	1	1	Καὶ	καί	conjunction	1	and
 GEN 47:3	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 GEN 47:3	1	3	Φαραὼ	Φαραώ	royal title/name (indeclined), case from syntax per occurrence	1	Pharaoh
-GEN 47:3	1	4	τοῖς	ὁ	article, dative masculine plural	1	the
+GEN 47:3	1	4	τοῖς	ὁ	article, dative masculine plural	1	to the
 GEN 47:3	1	5	ἀδελφοῖς	ἀδελφός	noun, dative masculine plural	1	brothers
 GEN 47:3	1	6	Ἰωσήφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
 GEN 47:3	1	7	τί	τίς	interrogative pronoun nominative neuter singular	1	what
@@ -60,7 +60,7 @@ GEN 47:3	1	10	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 GEN 47:3	1	11	Οἱ	ὁ	article, nominative masculine plural	1	the
 GEN 47:3	1	12	δὲ	δέ	postpositive conjunction	1	and
 GEN 47:3	1	13	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
-GEN 47:3	1	14	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 47:3	1	14	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 GEN 47:3	1	15	Φαραώ	Φαραώ	royal title/name as printed Φαραώ, genitive/nominative from syntax per occurrence	1	Pharaoh
 GEN 47:3	1	16	ποιμένες	ποιμήν	noun, nominative masculine plural	1	shepherds
 GEN 47:3	1	17	προβάτων	πρόβατον	noun, genitive neuter plural	1	of sheep
@@ -80,7 +80,7 @@ GEN 47:3	1	30	τοῦ	ὁ	article, genitive singular	1	the
 GEN 47:3	1	31	νῦν	νῦν	temporal adverb	1	now
 GEN 47:4	1	1	Εἶπαν	λέγω	aorist active indicative, third plural	1	they said
 GEN 47:4	1	2	δὲ	δέ	postpositive conjunction	1	and
-GEN 47:4	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 47:4	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 GEN 47:4	1	4	Φαραώ	Φαραώ	royal title/name as printed Φαραώ, genitive/nominative from syntax per occurrence	1	Pharaoh
 GEN 47:4	1	5	παροικεῖν	παροικέω	present active infinitive of purpose, sojourn	1	to sojourn
 GEN 47:4	1	6	ἐν	ἐν	preposition with the dative	1	in
@@ -91,7 +91,7 @@ GEN 47:4	1	10	οὐ	οὐ	negative adverb with future indicative	1	not
 GEN 47:4	1	11	γάρ	γάρ	explanatory conjunction	1	for
 GEN 47:4	1	12	ἐστι	εἰμί	present indicative, third singular	1	is
 GEN 47:4	1	13	νομὴ	νομή	noun, nominative feminine singular, pasturage	1	pasture
-GEN 47:4	1	14	τοῖς	ὁ	article, dative neuter plural	1	the
+GEN 47:4	1	14	τοῖς	ὁ	article, dative neuter plural	1	for the
 GEN 47:4	1	15	κτήνεσι	κτῆνος	noun, dative neuter plural after τοῖς	1	livestock
 GEN 47:4	1	16	τῶν	ὁ	article, genitive plural	1	the
 GEN 47:4	1	17	παίδων	παῖς	noun, genitive masculine plural after τῶν	1	servants
@@ -217,11 +217,11 @@ GEN 47:8	1	10	σου	σύ	pronoun, possessive genitive second singular	1	your
 GEN 47:9	1	1	Καὶ	καί	conjunction	1	and
 GEN 47:9	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 GEN 47:9	1	3	Ἰακὼβ	Ἰακώβ	indeclinable personal name, nominative in context	1	Jacob
-GEN 47:9	1	4	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 47:9	1	4	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 GEN 47:9	1	5	Φαραώ	Φαραώ	royal title/name as printed Φαραώ, genitive/nominative from syntax per occurrence	1	Pharaoh
 GEN 47:9	1	6	αἱ	ὁ	article, nominative feminine plural	1	the
 GEN 47:9	1	7	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days
-GEN 47:9	1	8	τῶν	ὁ	article, genitive plural	1	the
+GEN 47:9	1	8	τῶν	ὁ	article, genitive plural	1	of the
 GEN 47:9	1	9	ἐτῶν	ἔτος	noun, genitive neuter plural of age	1	years
 GEN 47:9	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
 GEN 47:9	1	11	ζωῆς	ζωή	noun, genitive feminine singular after τῆς	1	life
@@ -237,7 +237,7 @@ GEN 47:9	1	20	πονηραὶ	πονηρός	adjective, nominative feminine plur
 GEN 47:9	1	21	γεγόνασιν	γίνομαι	perfect active indicative, third plural	1	have been
 GEN 47:9	1	22	αἱ	ὁ	article, nominative feminine plural	1	the
 GEN 47:9	1	23	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days
-GEN 47:9	1	24	τῶν	ὁ	article, genitive plural	1	the
+GEN 47:9	1	24	τῶν	ὁ	article, genitive plural	1	of the
 GEN 47:9	1	25	ἐτῶν	ἔτος	noun, genitive neuter plural of age	1	years
 GEN 47:9	1	26	τῆς	ὁ	article, genitive feminine singular	1	the
 GEN 47:9	1	27	ζωῆς	ζωή	noun, genitive feminine singular after τῆς	1	life
@@ -247,9 +247,9 @@ GEN 47:9	1	30	ἀφίκοντο	ἀφικνέομαι	aorist middle indicative, 
 GEN 47:9	1	31	εἰς	εἰς	preposition with the accusative	1	into
 GEN 47:9	1	32	τὰς	ὁ	article, accusative feminine plural	1	the
 GEN 47:9	1	33	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
-GEN 47:9	1	34	τῶν	ὁ	article, genitive plural	1	the
+GEN 47:9	1	34	τῶν	ὁ	article, genitive plural	1	of the
 GEN 47:9	1	35	ἐτῶν	ἔτος	noun, genitive neuter plural of age	1	years
-GEN 47:9	1	36	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 47:9	1	36	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 47:9	1	37	ζωῆς	ζωή	noun, genitive feminine singular after τῆς	1	life
 GEN 47:9	1	38	τῶν	ὁ	article, genitive plural	1	the
 GEN 47:9	1	39	πατέρων	πατήρ	noun, genitive masculine plural after τῶν	1	fathers
@@ -264,7 +264,7 @@ GEN 47:10	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 47:10	1	5	Φαραὼ	Φαραώ	royal title/name (indeclined), case from syntax per occurrence	1	Pharaoh
 GEN 47:10	1	6	ἐξῆλθεν	ἐξέρχομαι	aorist active indicative, third singular	1	came out
 GEN 47:10	1	7	ἀπ᾽	ἀπό	preposition with the genitive, elided	1	from
-GEN 47:10	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+GEN 47:10	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	him
 GEN 47:11	1	1	Καὶ	καί	conjunction	1	and
 GEN 47:11	1	2	κατῴκισεν	κατοικίζω	aorist active indicative, third singular, causative	1	settled
 GEN 47:11	1	3	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
@@ -295,15 +295,15 @@ GEN 47:11	1	27	Φαραώ	Φαραώ	royal title/name as printed Φαραώ, gen
 GEN 47:12	1	1	Καὶ	καί	conjunction	1	and
 GEN 47:12	1	2	ἐσιτομέτρει	σιτομετρέω	imperfect active indicative, third singular with datives and accusative σῖτον, measured out grain	1	was rationing
 GEN 47:12	1	3	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
-GEN 47:12	1	4	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 47:12	1	4	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 GEN 47:12	1	5	πατρὶ	πατήρ	noun, dative masculine singular	1	father
 GEN 47:12	1	6	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 GEN 47:12	1	7	καὶ	καί	conjunction	1	and
-GEN 47:12	1	8	τοῖς	ὁ	article, dative masculine plural	1	the
+GEN 47:12	1	8	τοῖς	ὁ	article, dative masculine plural	1	to
 GEN 47:12	1	9	ἀδελφοῖς	ἀδελφός	noun, dative masculine plural	1	brothers
 GEN 47:12	1	10	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 GEN 47:12	1	11	καὶ	καί	conjunction	1	and
-GEN 47:12	1	12	παντὶ	πᾶς	adjective, dative masculine singular; modifies οἴκῳ	1	all
+GEN 47:12	1	12	παντὶ	πᾶς	adjective, dative masculine singular; modifies οἴκῳ	1	to all
 GEN 47:12	1	13	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 GEN 47:12	1	14	οἴκῳ	οἶκος	noun, dative masculine singular; recipient of ἐσιτομέτρει	1	household
 GEN 47:12	1	15	τοῦ	ὁ	article, genitive singular	1	the
@@ -334,7 +334,7 @@ GEN 47:13	1	19	καὶ	καί	conjunction	1	and
 GEN 47:13	1	20	ἡ	ὁ	article, nominative feminine singular	1	the
 GEN 47:13	1	21	γῆ	γῆ	noun, nominative feminine singular	1	land
 GEN 47:13	1	22	Χαναὰν	Χαναάν	indeclinable place name, nominative in context	1	Canaan
-GEN 47:13	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
+GEN 47:13	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	because of
 GEN 47:13	1	24	τοῦ	ὁ	article, genitive singular	1	the
 GEN 47:13	1	25	λιμοῦ	λιμός	noun, genitive masculine singular	1	famine
 GEN 47:14	1	1	Συνήγαγε	συνάγω	aorist active indicative, third singular	1	gathered
@@ -355,7 +355,7 @@ GEN 47:14	1	15	Χαναὰν	Χαναάν	indeclinable place name, genitive in c
 GEN 47:14	1	16	ἀπὸ	ἀπό	preposition with the genitive	1	from
 GEN 47:14	1	17	τοῦ	ὁ	article, genitive singular	1	the
 GEN 47:14	1	18	σίτου	σῖτος	noun, genitive masculine singular	1	grain
-GEN 47:14	1	19	οὗ	ὅς	relative adverb/pronoun, 'where' of place	1	where
+GEN 47:14	1	19	οὗ	ὅς	relative adverb/pronoun, 'where' of place	1	which
 GEN 47:14	1	20	ἠγόραζον	ἀγοράζω	imperfect active indicative, third plural	1	they were buying
 GEN 47:14	1	21	καὶ	καί	conjunction	1	and
 GEN 47:14	1	22	ἐσιτομέτρει	σιτομετρέω	imperfect active indicative, third singular with datives and accusative σῖτον, measured out grain	1	was rationing
@@ -369,7 +369,7 @@ GEN 47:14	1	29	ἀργύριον	ἀργύριον	noun, nominative/accusative n
 GEN 47:14	1	30	εἰς	εἰς	preposition with the accusative	1	into
 GEN 47:14	1	31	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 47:14	1	32	οἶκον	οἶκος	noun, accusative masculine singular	1	house
-GEN 47:14	1	33	Φαραώ	Φαραώ	royal title/name as printed Φαραώ, genitive/nominative from syntax per occurrence	1	Pharaoh
+GEN 47:14	1	33	Φαραώ	Φαραώ	royal title/name as printed Φαραώ, genitive/nominative from syntax per occurrence	1	of Pharaoh
 GEN 47:15	1	1	Καὶ	καί	conjunction	1	and
 GEN 47:15	1	2	ἐξέλιπε	ἐκλείπω	aorist active indicative, third singular	1	failed/fainted
 GEN 47:15	1	3	τὸ	ὁ	article, neuter singular (case from context)	1	the
@@ -396,7 +396,7 @@ GEN 47:15	1	23	καὶ	καί	conjunction	1	and
 GEN 47:15	1	24	ἱνατὶ	ἱνατί	interrogative adverb as printed	1	why
 GEN 47:15	1	25	ἀποθνήσκομεν	ἀποθνῄσκω	present active indicative, first plural in question 'why are we dying?'	1	are we dying
 GEN 47:15	1	26	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
-GEN 47:15	1	27	σου	σύ	pronoun, possessive genitive second singular	1	your
+GEN 47:15	1	27	σου	σύ	pronoun, possessive genitive second singular	1	you
 GEN 47:15	1	28	ἐκλέλοιπε	ἐκλείπω	perfect active indicative, third singular	1	has failed
 GEN 47:15	1	29	γὰρ	γάρ	explanatory conjunction	1	for
 GEN 47:15	1	30	τὸ	ὁ	article, neuter singular (case from context)	1	the
@@ -411,10 +411,10 @@ GEN 47:16	1	6	τὰ	ὁ	article, neuter plural (case from context)	1	the
 GEN 47:16	1	7	κτήνη	κτῆνος	noun, accusative neuter plural	1	livestock
 GEN 47:16	1	8	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 GEN 47:16	1	9	καὶ	καί	conjunction	1	and
-GEN 47:16	1	10	δώσω	δίδωμι	future active indicative, first singular	1	shall I give
+GEN 47:16	1	10	δώσω	δίδωμι	future active indicative, first singular	1	I will give
 GEN 47:16	1	11	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 GEN 47:16	1	12	ἄρτους	ἄρτος	noun, accusative masculine plural, bread (food at meal)	1	bread
-GEN 47:16	1	13	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
+GEN 47:16	1	13	ἀντὶ	ἀντί	preposition with the genitive	1	in exchange for
 GEN 47:16	1	14	τῶν	ὁ	article, genitive plural	1	the
 GEN 47:16	1	15	κτηνῶν	κτῆνος	noun, genitive neuter plural after τῶν	1	livestock
 GEN 47:16	1	16	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
@@ -435,11 +435,11 @@ GEN 47:17	1	9	ἔδωκεν	δίδωμι	aorist active indicative, third singula
 GEN 47:17	1	10	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 GEN 47:17	1	11	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
 GEN 47:17	1	12	ἄρτους	ἄρτος	noun, accusative masculine plural, bread (food at meal)	1	bread
-GEN 47:17	1	13	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
+GEN 47:17	1	13	ἀντὶ	ἀντί	preposition with the genitive	1	in exchange for
 GEN 47:17	1	14	τῶν	ὁ	article, genitive plural	1	the
 GEN 47:17	1	15	ἵππων	ἵππος	noun, genitive masculine plural after τῶν	1	horses
 GEN 47:17	1	16	καὶ	καί	conjunction	1	and
-GEN 47:17	1	17	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
+GEN 47:17	1	17	ἀντὶ	ἀντί	preposition with the genitive	1	in exchange for
 GEN 47:17	1	18	τῶν	ὁ	article, genitive plural	1	the
 GEN 47:17	1	19	προβάτων	πρόβατον	noun, genitive neuter plural	1	sheep
 GEN 47:17	1	20	καὶ	καί	conjunction	1	and
@@ -447,15 +447,15 @@ GEN 47:17	1	21	ἀντί	ἀντί	preposition with the genitive as printed ἀ�
 GEN 47:17	1	22	τῶν	ὁ	article, genitive plural	1	the
 GEN 47:17	1	23	βοῶν	βοῦς	noun, genitive plural after τῶν	1	cattle
 GEN 47:17	1	24	καὶ	καί	conjunction	1	and
-GEN 47:17	1	25	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
+GEN 47:17	1	25	ἀντὶ	ἀντί	preposition with the genitive	1	in exchange for
 GEN 47:17	1	26	τῶν	ὁ	article, genitive plural	1	the
 GEN 47:17	1	27	ὄνων	ὄνος	noun, genitive masculine plural after τῶν	1	asses
 GEN 47:17	1	28	καὶ	καί	conjunction	1	and
 GEN 47:17	1	29	ἐξέθρεψεν	ἐκτρέφω	aorist active indicative, third singular	1	sustained
 GEN 47:17	1	30	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-GEN 47:17	1	31	ἐν	ἐν	preposition with the dative	1	in
-GEN 47:17	1	32	ἄρτοις	ἄρτος	noun, dative masculine plural after ἐν, instrumental in sense	1	with bread
-GEN 47:17	1	33	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
+GEN 47:17	1	31	ἐν	ἐν	preposition with the dative	1	with
+GEN 47:17	1	32	ἄρτοις	ἄρτος	noun, dative masculine plural after ἐν, instrumental in sense	1	bread
+GEN 47:17	1	33	ἀντὶ	ἀντί	preposition with the genitive	1	in exchange for
 GEN 47:17	1	34	πάντων	πᾶς	substantival adjective, genitive masculine plural	1	all
 GEN 47:17	1	35	τῶν	ὁ	article, genitive plural	1	the
 GEN 47:17	1	36	κτηνῶν	κτῆνος	noun, genitive neuter plural after τῶν	1	livestock
@@ -486,7 +486,7 @@ GEN 47:18	1	19	ποτε	ποτε	enclitic adverb in μή ποτε 'lest ever'	1	
 GEN 47:18	1	20	ἐκτριβῶμεν	ἐκτρίβω	aorist passive subjunctive, first plural after μή ποτε	1	we be destroyed
 GEN 47:18	1	21	ἀπὸ	ἀπό	preposition with the genitive	1	from
 GEN 47:18	1	22	τοῦ	ὁ	article, genitive singular	1	the
-GEN 47:18	1	23	κυρίου	κύριος	noun, genitive masculine singular, the LORD	1	Lord
+GEN 47:18	1	23	κυρίου	κύριος	noun, genitive masculine singular, the LORD	1	master
 GEN 47:18	1	24	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 GEN 47:18	1	25	εἰ	εἰ	conditional conjunction	1	if
 GEN 47:18	1	26	γὰρ	γάρ	explanatory conjunction	1	for
@@ -509,7 +509,7 @@ GEN 47:18	1	42	οὐχ	οὐ	negative particle (plain negative, or interrogative
 GEN 47:18	1	43	ὑπολείπεται	ὑπολείπω	present passive indicative, third singular	1	is left
 GEN 47:18	1	44	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
 GEN 47:18	1	45	τοῦ	ὁ	article, genitive singular	1	the
-GEN 47:18	1	46	κυρίου	κύριος	noun, genitive masculine singular, the LORD	1	Lord
+GEN 47:18	1	46	κυρίου	κύριος	noun, genitive masculine singular, the LORD	1	master
 GEN 47:18	1	47	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 GEN 47:18	1	48	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
 GEN 47:18	1	49	ἢ	ἤ	comparative conjunction	1	than
@@ -525,18 +525,18 @@ GEN 47:19	1	2	οὖν	οὖν	inferential particle	1	then
 GEN 47:19	1	3	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
 GEN 47:19	1	4	ἀποθάνωμεν	ἀποθνῄσκω	aorist active subjunctive, first plural after μὴ	1	die
 GEN 47:19	1	5	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
-GEN 47:19	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
+GEN 47:19	1	6	σου	σύ	pronoun, possessive genitive second singular	1	you
 GEN 47:19	1	7	καὶ	καί	conjunction	1	and
 GEN 47:19	1	8	ἡ	ὁ	article, nominative feminine singular	1	the
 GEN 47:19	1	9	γῆ	γῆ	noun, nominative feminine singular	1	land
 GEN 47:19	1	10	ἐρημωθῇ	ἐρημόω	aorist passive subjunctive, third singular	1	be made desolate
 GEN 47:19	1	11	κτῆσαι	κτάομαι	aorist middle imperative, second singular	1	acquire/buy
-GEN 47:19	1	12	ἡμᾶς	ἐγώ	pronoun, accusative first plural, subject of δεσμεύειν	1	we
+GEN 47:19	1	12	ἡμᾶς	ἐγώ	personal pronoun, first person plural accusative	1	us
 GEN 47:19	1	13	καὶ	καί	conjunction	1	and
 GEN 47:19	1	14	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 47:19	1	15	γῆν	γῆ	noun, accusative feminine singular	1	land
 GEN 47:19	1	16	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
-GEN 47:19	1	17	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
+GEN 47:19	1	17	ἀντὶ	ἀντί	preposition with the genitive	1	in exchange for
 GEN 47:19	1	18	ἄρτων	ἄρτος	noun, genitive masculine plural after περὶ	1	bread
 GEN 47:19	1	19	καὶ	καί	conjunction	1	and
 GEN 47:19	1	20	ἐσόμεθα	εἰμί	future indicative, first plural	1	we shall be
@@ -570,7 +570,7 @@ GEN 47:20	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 47:20	1	6	γῆν	γῆ	noun, accusative feminine singular	1	land
 GEN 47:20	1	7	τῶν	ὁ	article, genitive plural	1	the
 GEN 47:20	1	8	Αἰγυπτίων	Αἰγύπτιος	ethnic noun, genitive masculine plural after τῶν	1	of the Egyptians
-GEN 47:20	1	9	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 47:20	1	9	τῷ	ὁ	article, dative masculine/neuter singular	1	for
 GEN 47:20	1	10	Φαραώ	Φαραώ	royal title/name as printed Φαραώ, genitive/nominative from syntax per occurrence	1	Pharaoh
 GEN 47:20	1	11	ἀπέδοντο	ἀποδίδωμι	aorist middle indicative, third plural, 'sold' in middle sense	1	sold
 GEN 47:20	1	12	γὰρ	γάρ	explanatory conjunction	1	for
@@ -579,7 +579,7 @@ GEN 47:20	1	14	Αἰγύπτιοι	Αἰγύπτιος	ethnic noun, nominative m
 GEN 47:20	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 47:20	1	16	γῆν	γῆ	noun, accusative feminine singular	1	land
 GEN 47:20	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-GEN 47:20	1	18	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 47:20	1	18	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 GEN 47:20	1	19	Φαραώ	Φαραώ	royal title/name as printed Φαραώ, genitive/nominative from syntax per occurrence	1	Pharaoh
 GEN 47:20	1	20	ἐπεκράτησε	ἐπικρατέω	aorist active indicative, third singular	1	prevailed
 GEN 47:20	1	21	γὰρ	γάρ	explanatory conjunction	1	for
@@ -587,17 +587,17 @@ GEN 47:20	1	22	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 47:20	1	23	λιμὸς	λιμός	noun, nominative masculine singular	1	famine
 GEN 47:20	1	24	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 GEN 47:20	1	25	καὶ	καί	conjunction	1	and
-GEN 47:20	1	26	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
+GEN 47:20	1	26	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	came to belong
 GEN 47:20	1	27	ἡ	ὁ	article, nominative feminine singular	1	the
 GEN 47:20	1	28	γῆ	γῆ	noun, nominative feminine singular	1	land
-GEN 47:20	1	29	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 47:20	1	29	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 GEN 47:20	1	30	Φαραώ	Φαραώ	royal title/name as printed Φαραώ, genitive/nominative from syntax per occurrence	1	Pharaoh
 GEN 47:21	1	1	Καὶ	καί	conjunction	1	and
 GEN 47:21	1	2	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 47:21	1	3	λαὸν	λαός	noun, accusative masculine singular	1	people
 GEN 47:21	1	4	κατεδουλώσατο	καταδουλόω	aorist middle indicative, third singular, 'enslaved (the people) to him(self)' (Pharaoh in sense)	1	enslaved
 GEN 47:21	1	5	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-GEN 47:21	1	6	εἰς	εἰς	preposition with the accusative	1	into
+GEN 47:21	1	6	εἰς	εἰς	preposition with the accusative	1	as
 GEN 47:21	1	7	παῖδας	παῖς	noun, accusative masculine plural; status following εἰς	1	servants
 GEN 47:21	1	8	ἀπ᾽	ἀπό	preposition with the genitive, elided	1	from
 GEN 47:21	1	9	ἄκρων	ἄκρος	adjective/noun, genitive neuter plural after ἀπ᾽/τῶν, in ἀπ᾽ ἄκρων ὁρίων 'from the ends of the borders'	1	the ends
@@ -610,7 +610,7 @@ GEN 47:21	1	15	ἄκρων	ἄκρος	adjective/noun, genitive neuter plural af
 GEN 47:22	1	1	Χωρὶς	χωρίς	preposition/improper preposition with the genitive	1	apart from
 GEN 47:22	1	2	τῆς	ὁ	article, genitive feminine singular	1	the
 GEN 47:22	1	3	γῆς	γῆ	noun, genitive feminine singular	1	land
-GEN 47:22	1	4	τῶν	ὁ	article, genitive plural	1	the
+GEN 47:22	1	4	τῶν	ὁ	article, genitive plural	1	of the
 GEN 47:22	1	5	ἱερέων	ἱερεύς	noun, genitive masculine plural after τῶν (printed ἱερέων)	1	priests
 GEN 47:22	1	6	μόνον	μόνος	adjective/adverb, adverbial 'only'	1	only
 GEN 47:22	1	7	οὐκ	οὐ	negative adverb with future indicative	1	not
@@ -642,7 +642,7 @@ GEN 47:22	1	32	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 GEN 47:23	1	1	Εἶπε	λέγω	aorist active indicative, third singular	1	said
 GEN 47:23	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 47:23	1	3	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
-GEN 47:23	1	4	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
+GEN 47:23	1	4	πᾶσι	πᾶς	adjective, dative neuter plural	1	to all
 GEN 47:23	1	5	τοῖς	ὁ	article, dative masculine plural	1	the
 GEN 47:23	1	6	Αἰγυπτίοις	Αἰγύπτιος	ethnic noun, dative masculine plural after τοῖς	1	Egyptians
 GEN 47:23	1	7	ἰδοὺ	ἰδού	presentative particle	1	behold
@@ -656,7 +656,7 @@ GEN 47:23	1	14	σήμερον	σήμερον	temporal adverb	1	today
 GEN 47:23	1	15	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 GEN 47:23	1	16	Φαραώ	Φαραώ	royal title/name as printed Φαραώ, genitive/nominative from syntax per occurrence	1	Pharaoh
 GEN 47:23	1	17	λάβετε	λαμβάνω	aorist active imperative, second plural	1	take
-GEN 47:23	1	18	ἑαυτοῖς	ἑαυτοῦ	reflexive pronoun, dative masculine plural, referring to the speakers	1	for ourselves
+GEN 47:23	1	18	ἑαυτοῖς	ἑαυτοῦ	reflexive pronoun, dative masculine plural, referring to the speakers	1	for yourselves
 GEN 47:23	1	19	σπέρματα	σπέρμα	noun, accusative/nominative neuter plural (from context), seed-grain	1	seed
 GEN 47:23	1	20	καὶ	καί	conjunction	1	and
 GEN 47:23	1	21	σπείρατε	σπείρω	aorist active imperative, second plural	1	sow
@@ -680,13 +680,13 @@ GEN 47:24	1	15	τέσσαρα	τέσσαρες	cardinal numeral, nominative neut
 GEN 47:24	1	16	μέρη	μέρος	noun, nominative neuter plural after τὰ	1	parts
 GEN 47:24	1	17	ἔσται	εἰμί	future indicative, third singular	1	will be
 GEN 47:24	1	18	ὑμῖν	σύ	pronoun, dative second plural	1	to you
-GEN 47:24	1	19	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
-GEN 47:24	1	20	εἰς	εἰς	preposition with the accusative	1	into
+GEN 47:24	1	19	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	for yourselves
+GEN 47:24	1	20	εἰς	εἰς	preposition with the accusative	1	for
 GEN 47:24	1	21	σπέρματα	σπέρμα	noun, accusative/nominative neuter plural (from context), seed-grain	1	seed
 GEN 47:24	1	22	τῇ	ὁ	article, dative feminine singular	1	the
 GEN 47:24	1	23	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
 GEN 47:24	1	24	καὶ	καί	conjunction	1	and
-GEN 47:24	1	25	εἰς	εἰς	preposition with the accusative	1	into
+GEN 47:24	1	25	εἰς	εἰς	preposition with the accusative	1	for
 GEN 47:24	1	26	βρῶσιν	βρῶσις	noun, accusative feminine singular after εἰς, food	1	food
 GEN 47:24	1	27	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 GEN 47:24	1	28	καὶ	καί	conjunction	1	and
@@ -699,7 +699,7 @@ GEN 47:24	1	34	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 GEN 47:25	1	1	Καὶ	καί	conjunction	1	and
 GEN 47:25	1	2	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
 GEN 47:25	1	3	σέσωκας	σῴζω	perfect active indicative, second singular	1	you have saved
-GEN 47:25	1	4	ἡμᾶς	ἐγώ	pronoun, accusative first plural, subject of δεσμεύειν	1	we
+GEN 47:25	1	4	ἡμᾶς	ἐγώ	personal pronoun, first person plural accusative	1	us
 GEN 47:25	1	5	εὕρομεν	εὑρίσκω	aorist active indicative, first plural	1	we found
 GEN 47:25	1	6	χάριν	χάρις	noun, accusative feminine singular, in εὗρεν/ἔδωκεν χάριν 'found/gave favour'	1	favour
 GEN 47:25	1	7	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
@@ -709,13 +709,13 @@ GEN 47:25	1	10	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	ou
 GEN 47:25	1	11	καὶ	καί	conjunction	1	and
 GEN 47:25	1	12	ἐσόμεθα	εἰμί	future indicative, first plural	1	we shall be
 GEN 47:25	1	13	παῖδες	παῖς	noun, nominative masculine plural predicate	1	servants/slaves
-GEN 47:25	1	14	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 47:25	1	14	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 GEN 47:25	1	15	Φαραώ	Φαραώ	royal title/name as printed Φαραώ, genitive/nominative from syntax per occurrence	1	Pharaoh
 GEN 47:26	1	1	Καὶ	καί	conjunction	1	and
 GEN 47:26	1	2	ἔθετο	τίθημι	aorist middle indicative, third singular	1	put
 GEN 47:26	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 GEN 47:26	1	4	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
-GEN 47:26	1	5	εἰς	εἰς	preposition with the accusative	1	into
+GEN 47:26	1	5	εἰς	εἰς	preposition with the accusative	1	as
 GEN 47:26	1	6	πρόσταγμα	πρόσταγμα	noun, accusative neuter singular after εἰς predicate, an ordinance	1	an ordinance
 GEN 47:26	1	7	ἕως	ἕως	temporal conjunction/preposition (from context)	1	until
 GEN 47:26	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -725,12 +725,12 @@ GEN 47:26	1	11	ἐπὶ	ἐπί	preposition (case from context)	1	on
 GEN 47:26	1	12	γῆς	γῆ	noun, genitive feminine singular	1	the land
 GEN 47:26	1	13	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
 GEN 47:26	1	14	ἀποπεμπτοῦν	ἀποπεμπτόω	present active infinitive (contracted), to give the fifth part, defining the ordinance	1	to give one-fifth
-GEN 47:26	1	15	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 47:26	1	15	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 GEN 47:26	1	16	Φαραώ	Φαραώ	royal title/name as printed Φαραώ, genitive/nominative from syntax per occurrence	1	Pharaoh
 GEN 47:26	1	17	χωρὶς	χωρίς	preposition/improper preposition with the genitive	1	apart from
 GEN 47:26	1	18	τῆς	ὁ	article, genitive feminine singular	1	the
 GEN 47:26	1	19	γῆς	γῆ	noun, genitive feminine singular	1	land
-GEN 47:26	1	20	τῶν	ὁ	article, genitive plural	1	the
+GEN 47:26	1	20	τῶν	ὁ	article, genitive plural	1	of the
 GEN 47:26	1	21	ἱερέων	ἱερεύς	noun, genitive masculine plural after τῶν (printed ἱερέων)	1	priests
 GEN 47:26	1	22	μόνων	μόνος	adjective, genitive plural with ἱερέων phrase as printed, adverbial in sense 'only'	1	only
 GEN 47:26	1	23	οὐκ	οὐ	negative adverb with future indicative	1	not
@@ -748,7 +748,7 @@ GEN 47:27	1	8	γῆς	γῆ	noun, genitive feminine singular	1	the land
 GEN 47:27	1	9	Γεσέν	Γεσέν	indeclinable place name, dative/genitive in context after ἐν γῇ/ἐπὶ γῆς (land of Gesem)	1	Gesen
 GEN 47:27	1	10	καὶ	καί	conjunction	1	and
 GEN 47:27	1	11	ἐκληρονόμησαν	κληρονομέω	aorist active indicative, third plural with ἐπὶ αὐτῇ, 'held possessions on it'	1	acquired holdings
-GEN 47:27	1	12	ἐπ᾽	ἐπί	preposition with the accusative, elided	1	against
+GEN 47:27	1	12	ἐπ᾽	ἐπί	preposition with the accusative, elided	1	on
 GEN 47:27	1	13	αὐτῆς	αὐτός	pronoun, genitive feminine singular after ἐπὶ, referring to the land	1	it
 GEN 47:27	1	14	καὶ	καί	conjunction	1	and
 GEN 47:27	1	15	ηὐξήθησαν	αὐξάνω	aorist passive indicative, third plural	1	increased
@@ -819,7 +819,7 @@ GEN 47:29	1	41	ἐν	ἐν	preposition with the dative	1	in
 GEN 47:29	1	42	Αἰγύπτῳ	Αἴγυπτος	place name, dative feminine singular after ἐν γῇ/ἐν	1	Egypt
 GEN 47:30	1	1	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 GEN 47:30	1	2	κοιμηθήσομαι	κοιμάω	future passive indicative, first singular, 'I shall lie (in death)'	1	I shall lie
-GEN 47:30	1	3	μετὰ	μετά	preposition with the accusative, temporal	1	after
+GEN 47:30	1	3	μετὰ	μετά	preposition with the genitive	1	with
 GEN 47:30	1	4	τῶν	ὁ	article, genitive plural	1	the
 GEN 47:30	1	5	πατέρων	πατήρ	noun, genitive masculine plural after τῶν	1	fathers
 GEN 47:30	1	6	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
@@ -839,7 +839,7 @@ GEN 47:30	1	19	Ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 47:30	1	20	δὲ	δέ	postpositive conjunction	1	and
 GEN 47:30	1	21	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 GEN 47:30	1	22	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
-GEN 47:30	1	23	ποιήσω	ποιέω	future active indicative / aorist subjunctive form, first singular, deliberative 'how shall I do?'	1	shall I do
+GEN 47:30	1	23	ποιήσω	ποιέω	future active indicative / aorist subjunctive form, first singular, deliberative 'how shall I do?'	1	I will do
 GEN 47:30	1	24	κατὰ	κατά	preposition with the accusative	1	according to
 GEN 47:30	1	25	τὸ	ὁ	article, neuter singular (case from context)	1	the
 GEN 47:30	1	26	ῥῆμά	ῥῆμα	noun, accusative neuter singular after τὸ as printed with tonic accent	1	word

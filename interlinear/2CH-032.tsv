@@ -34,7 +34,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 32:2	1	1	Καὶ	καί	conjunction	1	and
 2CH 32:2	1	2	εἶδεν	ὁράω	aorist active indicative, third singular	1	saw
 2CH 32:2	1	3	Ἐζεκίας	Ἐζεκίας	noun, nominative masculine singular; personal name	1	Hezekiah
-2CH 32:2	1	4	ὅτι	ὅτι	causal conjunction	1	because
+2CH 32:2	1	4	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 2CH 32:2	1	5	ἥκει	ἥκω	present active indicative, third singular; with resultative sense	1	has arrived
 2CH 32:2	1	5	ἥκει			2	has come
 2CH 32:2	1	6	Σενναχηρεὶμ	Σενναχηρείμ	indeclinable personal name	1	Sennacherib
@@ -277,7 +277,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 32:10	1	15	περιοχῇ			2	enclosure
 2CH 32:10	1	16	ἐν	ἐν	preposition with the dative	1	in
 2CH 32:10	1	17	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
-2CH 32:11	1	1	Οὐχὶ	οὐ	negative particle introducing a question, introduces the question	1	—
+2CH 32:11	1	1	Οὐχὶ	οὐ	negative interrogative particle	1	does not
 2CH 32:11	1	2	Ἐζεκίας	Ἐζεκίας	noun, nominative masculine singular; personal name	1	Hezekiah
 2CH 32:11	1	3	ἀπατᾷ	ἀπατάω	present active indicative, third singular	1	is misleading
 2CH 32:11	1	4	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
@@ -304,7 +304,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 32:11	1	24	χειρὸς	χείρ	noun, genitive feminine singular	1	hand
 2CH 32:11	1	25	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of the king
 2CH 32:11	1	26	Ἀσσούρ	Ἀσσούρ	proper name, indeclinable; territorial sense	1	of Assyria
-2CH 32:12	1	1	Οὐχ	οὐ	negative particle introducing a question, introduces the question	1	—
+2CH 32:12	1	1	Οὐχ	οὐ	negative interrogative particle	1	not
 2CH 32:12	1	2	οὗτός	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 2CH 32:12	1	3	ἐστιν	εἰμί	present indicative, third singular	1	is
 2CH 32:12	1	4	Ἐζεκίας	Ἐζεκίας	noun, nominative masculine singular; personal name	1	Hezekiah
@@ -742,7 +742,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 32:26	1	24	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
 2CH 32:26	1	25	Ἐζεκίου	Ἐζεκίας	noun, genitive masculine singular; proper	1	of Hezekiah
 2CH 32:27	1	1	Καὶ	καί	conjunction	1	and
-2CH 32:27	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
+2CH 32:27	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	there came
 2CH 32:27	1	3	τῷ	ὁ	article, dative masculine singular; before a name, possessive dative	1	for
 2CH 32:27	1	4	Ἐζεκίᾳ	Ἐζεκίας	noun, dative masculine singular; proper	1	Hezekiah
 2CH 32:27	1	5	πλοῦτος	πλοῦτος	noun, nominative masculine singular	1	wealth

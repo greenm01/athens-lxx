@@ -28,10 +28,10 @@ NUM 4:2	1	17	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 NUM 4:3	1	1	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 4:3	1	2	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 4:3	1	3	καὶ	καί	conjunction	1	and
-NUM 4:3	1	4	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 4:3	1	4	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 4:3	1	4	ἐπάνω			2	above
-NUM 4:3	1	5	ἕως	ἕως	preposition with the genitive	1	as far as
-NUM 4:3	1	5	ἕως			2	up to
+NUM 4:3	1	5	ἕως	ἕως	preposition with the genitive	1	up to
+NUM 4:3	1	5	ἕως			2	as far as
 NUM 4:3	1	6	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 NUM 4:3	1	7	πεντήκοντα	πεντήκοντα	indeclinable cardinal numeral	1	fifty
 NUM 4:3	1	8	ἐτῶν	ἔτος	noun, genitive neuter plural of age	1	years
@@ -98,7 +98,7 @@ NUM 4:5	1	16	τὸ	ὁ	article, accusative neuter singular; introduces the attri
 NUM 4:5	1	17	συσκιάζον	συσκιάζω	present active participle, accusative neuter singular	1	screening
 NUM 4:5	1	18	καὶ	καί	conjunction	1	and
 NUM 4:5	1	19	κατακαλύψουσιν	κατακαλύπτω	future active indicative, third plural	1	they shall cover
-NUM 4:5	1	20	ἐν	ἐν	preposition with the dative	1	in
+NUM 4:5	1	20	ἐν	ἐν	preposition with the dative	1	with
 NUM 4:5	1	21	αὐτῷ	αὐτός	pronoun, dative neuter singular	1	it
 NUM 4:5	1	22	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 4:5	1	23	κιβωτὸν	κιβωτός	noun, accusative feminine singular	1	ark
@@ -110,7 +110,7 @@ NUM 4:6	1	1	καὶ	καί	conjunction	1	and
 NUM 4:6	1	2	ἐπιθήσουσιν	ἐπιτίθημι	future active indicative, third plural	1	they shall put
 NUM 4:6	1	3	ἐπ᾽	ἐπί	preposition with the accusative	1	over
 NUM 4:6	1	4	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
-NUM 4:6	1	5	κατακάλυμμα	κατακάλυμμα	noun, nominative neuter singular	1	curtain
+NUM 4:6	1	5	κατακάλυμμα	κατακάλυμμα	noun, nominative neuter singular	1	covering
 NUM 4:6	1	5	κατακάλυμμα			2	hanging
 NUM 4:6	1	6	δέρμα	δέρμα	noun, accusative neuter singular	1	hide
 NUM 4:6	1	6	δέρμα			2	skin
@@ -142,7 +142,7 @@ NUM 4:7	1	6	προκειμένην	πρόκειμαι	present middle participle,
 NUM 4:7	1	7	ἐπιβαλοῦσιν	ἐπιβάλλω	future active indicative, third plural	1	they shall put over
 NUM 4:7	1	8	ἐπ᾽	ἐπί	elided preposition with accusative	1	on
 NUM 4:7	1	8	ἐπ᾽			2	upon
-NUM 4:7	1	9	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
+NUM 4:7	1	9	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 NUM 4:7	1	10	ἱμάτιον	ἱμάτιον	noun, accusative neuter singular	1	garment
 NUM 4:7	1	10	ἱμάτιον			2	cloak
 NUM 4:7	1	11	ὁλοπόρφυρον	ὁλοπόρφυρος	adjective, accusative neuter singular	1	entirely purple
@@ -163,7 +163,7 @@ NUM 4:7	1	24	καὶ	καί	conjunction	1	and
 NUM 4:7	1	25	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 4:7	1	26	σπονδεῖα	σπονδεῖον	noun, accusative neuter plural	1	libation vessels
 NUM 4:7	1	27	ἐν	ἐν	preposition with the dative	1	in
-NUM 4:7	1	28	οἷς	ὅς	relative pronoun, dative neuter plural after ἐν	1	in which
+NUM 4:7	1	28	οἷς	ὅς	relative pronoun, dative neuter plural after ἐν	1	which
 NUM 4:7	1	29	σπένδει	σπένδω	present active indicative, third singular	1	pours libations
 NUM 4:7	1	30	καὶ	καί	conjunction	1	and
 NUM 4:7	1	31	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -178,14 +178,14 @@ NUM 4:8	1	1	καὶ	καί	conjunction	1	and
 NUM 4:8	1	2	ἐπιβαλοῦσιν	ἐπιβάλλω	future active indicative, third plural	1	they shall put over
 NUM 4:8	1	3	ἐπ᾽	ἐπί	elided preposition with accusative	1	on
 NUM 4:8	1	3	ἐπ᾽			2	upon
-NUM 4:8	1	4	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
+NUM 4:8	1	4	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 NUM 4:8	1	5	ἱμάτιον	ἱμάτιον	noun, accusative neuter singular	1	garment
 NUM 4:8	1	5	ἱμάτιον			2	cloak
-NUM 4:8	1	6	κόκκινον	κόκκινος	adjective, accusative/nominative neuter singular substantival, scarlet thread (from context)	1	scarlet (thread)
+NUM 4:8	1	6	κόκκινον	κόκκινος	adjective, accusative/nominative neuter singular substantival, scarlet thread (from context)	1	scarlet
 NUM 4:8	1	7	διάφορον	διάφορος	adjective, accusative neuter singular	1	mixed
 NUM 4:8	1	8	καὶ	καί	conjunction	1	and
 NUM 4:8	1	9	καλύψουσιν	καλύπτω	future active indicative, third plural	1	they shall cover
-NUM 4:8	1	10	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
+NUM 4:8	1	10	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 NUM 4:8	1	11	καλύμματι	κάλυμμα	noun, dative neuter singular	1	cover
 NUM 4:8	1	12	δερματίνῳ	δερμάτινος	adjective, dative neuter singular	1	leather
 NUM 4:8	1	13	ὑακινθίνῳ	ὑακίνθινος	adjective, dative neuter singular	1	blue
@@ -229,17 +229,17 @@ NUM 4:9	1	29	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 NUM 4:9	1	30	ὅσοις	ὅσος	relative pronoun, dative masculine plural	1	whatever
 NUM 4:9	1	31	λειτουργοῦσιν	λειτουργέω	present active indicative, third plural	1	they minister
 NUM 4:9	1	32	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
-NUM 4:9	1	33	ἐν	ἐν	preposition with the dative	1	in
+NUM 4:9	1	33	ἐν	ἐν	preposition with the dative	1	with
 NUM 4:9	1	34	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 NUM 4:10	1	1	καὶ	καί	conjunction	1	and
 NUM 4:10	1	2	ἐμβαλοῦσιν	ἐμβάλλω	future active indicative, third plural	1	they shall put in
-NUM 4:10	1	3	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
+NUM 4:10	1	3	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 NUM 4:10	1	4	καὶ	καί	conjunction	1	and
 NUM 4:10	1	5	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 4:10	1	6	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 4:10	1	7	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+NUM 4:10	1	7	σκεύη	σκεῦος	noun, accusative neuter plural	1	equipment
 NUM 4:10	1	7	σκεύη			2	goods
-NUM 4:10	1	8	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
+NUM 4:10	1	8	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 NUM 4:10	1	9	εἰς	εἰς	preposition with the accusative	1	into
 NUM 4:10	1	10	κάλυμμα	κάλυμμα	noun, nominative neuter singular	1	cover
 NUM 4:10	1	11	δερμάτινον	δερμάτινος	adjective, nominative neuter singular	1	leather
@@ -247,7 +247,7 @@ NUM 4:10	1	12	ὑακίνθινον	ὑακίνθινος	adjective, accusative 
 NUM 4:10	1	12	ὑακίνθινον			2	violet
 NUM 4:10	1	13	καὶ	καί	conjunction	1	and
 NUM 4:10	1	14	ἐπιθήσουσιν	ἐπιτίθημι	future active indicative, third plural	1	they shall put
-NUM 4:10	1	15	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
+NUM 4:10	1	15	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 NUM 4:10	1	16	ἐπ᾽	ἐπί	preposition with the accusative	1	over
 NUM 4:10	1	17	ἀναφορέων	ἀναφορεύς	noun, genitive masculine plural	1	carrying poles
 NUM 4:11	1	1	καὶ	καί	conjunction	1	and
@@ -272,22 +272,22 @@ NUM 4:11	1	16	καὶ	καί	conjunction	1	and
 NUM 4:11	1	17	διεμβαλοῦσι	διεμβάλλω	future active indicative, third plural	1	they shall insert
 NUM 4:11	1	18	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 4:11	1	19	ἀναφορεῖς	ἀναφορεύς	noun, accusative masculine plural	1	carrying poles
-NUM 4:11	1	20	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+NUM 4:11	1	20	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	its
 NUM 4:12	1	1	καὶ	καί	conjunction	1	and
 NUM 4:12	1	2	λήψονται	λαμβάνω	future middle indicative, 3rd pl.	1	they shall take
 NUM 4:12	1	3	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 4:12	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 4:12	1	5	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+NUM 4:12	1	5	σκεύη	σκεῦος	noun, accusative neuter plural	1	equipment
 NUM 4:12	1	5	σκεύη			2	goods
 NUM 4:12	1	6	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 4:12	1	7	λειτουργικὰ	λειτουργικός	adjective, accusative neuter plural	1	for service
 NUM 4:12	1	8	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
 NUM 4:12	1	9	λειτουργοῦσιν	λειτουργέω	present active indicative, third plural	1	they minister
-NUM 4:12	1	10	ἐν	ἐν	preposition with the dative	1	in
+NUM 4:12	1	10	ἐν	ἐν	preposition with the dative	1	with
 NUM 4:12	1	11	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 NUM 4:12	1	12	ἐν	ἐν	preposition with the dative	1	in
 NUM 4:12	1	13	τοῖς	ὁ	article, dative neuter plural	1	the
-NUM 4:12	1	14	ἁγίοις	ἅγιος	adjective/noun, dative pl. after ἐν, among holy ones	1	holy ones
+NUM 4:12	1	14	ἁγίοις	ἅγιος	substantival adjective, dative neuter plural after ἐν	1	sanctuary
 NUM 4:12	1	15	καὶ	καί	conjunction	1	and
 NUM 4:12	1	16	ἐμβαλοῦσιν	ἐμβάλλω	future active indicative, third plural	1	they shall put in
 NUM 4:12	1	17	εἰς	εἰς	preposition with the accusative	1	into
@@ -333,7 +333,7 @@ NUM 4:14	1	9	ὅσοις	ὅσος	relative pronoun, dative masculine plural	1	w
 NUM 4:14	1	10	λειτουργοῦσιν	λειτουργέω	present active indicative, third plural	1	they minister
 NUM 4:14	1	11	ἐπ᾽	ἐπί	preposition with dative	1	on
 NUM 4:14	1	12	αὐτῷ	αὐτός	pronoun, dative neuter singular	1	it
-NUM 4:14	1	13	ἐν	ἐν	preposition with the dative	1	in
+NUM 4:14	1	13	ἐν	ἐν	preposition with the dative	1	with
 NUM 4:14	1	14	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 NUM 4:14	1	15	καὶ	καί	conjunction	1	and
 NUM 4:14	1	16	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -350,7 +350,7 @@ NUM 4:14	1	26	καλυπτῆρα	καλυπτήρ	noun, accusative masculine si
 NUM 4:14	1	27	καὶ	καί	conjunction	1	and
 NUM 4:14	1	28	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 4:14	1	29	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 4:14	1	30	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+NUM 4:14	1	30	σκεύη	σκεῦος	noun, accusative neuter plural	1	equipment
 NUM 4:14	1	30	σκεύη			2	goods
 NUM 4:14	1	31	τοῦ	ὁ	article, genitive neuter singular	1	of the
 NUM 4:14	1	32	θυσιαστηρίου	θυσιαστήριον	noun, genitive neuter singular	1	altar
@@ -366,7 +366,7 @@ NUM 4:14	1	40	καὶ	καί	conjunction	1	and
 NUM 4:14	1	41	ἐμβαλοῦσι	ἐμβάλλω	future active indicative, third plural	1	they shall insert
 NUM 4:14	1	42	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 4:14	1	43	ἀναφορεῖς	ἀναφορεύς	noun, accusative masculine plural	1	carrying poles
-NUM 4:14	1	44	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+NUM 4:14	1	44	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	its
 NUM 4:14	1	45	καὶ	καί	conjunction	1	and
 NUM 4:14	1	46	λήψονται	λαμβάνω	future middle indicative, 3rd pl.	1	they shall take
 NUM 4:14	1	47	ἱμάτιον	ἱμάτιον	noun, accusative neuter singular	1	garment
@@ -401,12 +401,12 @@ NUM 4:15	1	6	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 NUM 4:15	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 NUM 4:15	1	8	καλύπτοντες	καλύπτω	present active participle, nominative masculine plural	1	covering
 NUM 4:15	1	9	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 4:15	1	10	ἅγια	ἅγιος	substantival adjective, accusative neuter plural	1	sanctuary
+NUM 4:15	1	10	ἅγια	ἅγιος	substantival adjective, accusative neuter plural	1	sacred things
 NUM 4:15	1	10	ἅγια			2	holy places
 NUM 4:15	1	11	καὶ	καί	conjunction	1	and
 NUM 4:15	1	12	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 4:15	1	13	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 4:15	1	14	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+NUM 4:15	1	14	σκεύη	σκεῦος	noun, accusative neuter plural	1	equipment
 NUM 4:15	1	14	σκεύη			2	goods
 NUM 4:15	1	15	τὰ	ὁ	article, accusative neuter plural; introduces attributive adjective	1	[introduces the adjective]
 NUM 4:15	1	16	ἅγια	ἅγιος	adjective, accusative neuter plural	1	holy
@@ -479,10 +479,10 @@ NUM 4:16	1	32	καὶ	καί	conjunction	1	and
 NUM 4:16	1	33	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural (from context)	1	whatever
 NUM 4:16	1	34	ἐστὶν	εἰμί	present indicative, third singular	1	is
 NUM 4:16	1	35	ἐν	ἐν	preposition with the dative	1	in
-NUM 4:16	1	36	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
+NUM 4:16	1	36	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 NUM 4:16	1	37	ἐν	ἐν	preposition with the dative	1	in
 NUM 4:16	1	38	τῷ	ὁ	article, dative masculine singular	1	the
-NUM 4:16	1	39	ἁγίῳ	ἅγιος	substantival adjective, dative singular, neuter or masculine	1	a holy place
+NUM 4:16	1	39	ἁγίῳ	ἅγιος	substantival adjective, dative singular, neuter or masculine	1	sanctuary
 NUM 4:16	1	39	ἁγίῳ			2	a holy one
 NUM 4:16	1	40	καὶ	καί	conjunction	1	and
 NUM 4:16	1	41	ἐν	ἐν	preposition with the dative	1	in
@@ -501,7 +501,7 @@ NUM 4:17	1	8	λέγων	λέγω	present active participle, nominative masculine
 NUM 4:18	1	1	μὴ	μή	negative particle with subjunctive	1	do not
 NUM 4:18	1	2	ἐξολεθρεύσητε	ἐξολεθρεύω	aorist active subjunctive, second plural	1	you wipe out
 NUM 4:18	1	3	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 4:18	1	4	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
+NUM 4:18	1	4	φυλῆς	φυλή	noun, genitive feminine singular	1	of the tribe
 NUM 4:18	1	4	φυλῆς			2	tribe
 NUM 4:18	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 NUM 4:18	1	6	δῆμον	δῆμος	noun, accusative masculine singular	1	clan
@@ -584,10 +584,10 @@ NUM 4:23	1	2	πέντε	πέντε	indeclinable cardinal numeral	1	five
 NUM 4:23	1	3	καὶ	καί	conjunction	1	and
 NUM 4:23	1	4	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 4:23	1	5	καὶ	καί	conjunction	1	and
-NUM 4:23	1	6	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 4:23	1	6	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 4:23	1	6	ἐπάνω			2	above
-NUM 4:23	1	7	ἕως	ἕως	preposition with the genitive	1	as far as
-NUM 4:23	1	7	ἕως			2	up to
+NUM 4:23	1	7	ἕως	ἕως	preposition with the genitive	1	up to
+NUM 4:23	1	7	ἕως			2	as far as
 NUM 4:23	1	8	πεντηκονταετοῦς	πεντηκονταετής	adjective, genitive masculine singular; used substantivally	1	fifty years old
 NUM 4:23	1	9	ἐπισκέψασθε	ἐπισκέπτομαι	aorist middle imperative, second plural	1	count
 NUM 4:23	1	10	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -618,7 +618,7 @@ NUM 4:24	1	9	αἴρειν	αἴρω	present active infinitive	1	to carry
 NUM 4:25	1	1	καὶ	καί	conjunction	1	and
 NUM 4:25	1	2	ἀρεῖ	αἴρω	future active indicative, third singular	1	shall carry
 NUM 4:25	1	3	τὰς	ὁ	article, accusative feminine plural	1	the
-NUM 4:25	1	4	δέῤῥεις	δέρρις	noun, accusative feminine plural	1	curtains
+NUM 4:25	1	4	δέῤῥεις	δέρρις	noun, accusative feminine plural	1	hide coverings
 NUM 4:25	1	4	δέῤῥεις			2	screens
 NUM 4:25	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 4:25	1	6	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
@@ -634,7 +634,7 @@ NUM 4:25	1	14	κατακάλυμμα	κατακάλυμμα	noun, accusative neu
 NUM 4:25	1	15	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 NUM 4:25	1	16	καὶ	καί	conjunction	1	and
 NUM 4:25	1	17	τὸ	ὁ	article, nominative neuter singular	1	the
-NUM 4:25	1	18	κατακάλυμμα	κατακάλυμμα	noun, nominative neuter singular	1	curtain
+NUM 4:25	1	18	κατακάλυμμα	κατακάλυμμα	noun, nominative neuter singular	1	covering
 NUM 4:25	1	18	κατακάλυμμα			2	hanging
 NUM 4:25	1	19	τὸ	ὁ	article, accusative neuter singular	1	the
 NUM 4:25	1	20	ὑακίνθινον	ὑακίνθινος	adjective, accusative neuter singular	1	blue
@@ -648,7 +648,7 @@ NUM 4:25	1	25	ἄνωθεν	ἄνωθεν	adverb of place	1	above
 NUM 4:25	1	25	ἄνωθεν			2	at the top
 NUM 4:25	1	26	καὶ	καί	conjunction	1	and
 NUM 4:25	1	27	τὸ	ὁ	article, nominative neuter singular	1	the
-NUM 4:25	1	28	κατακάλυμμα	κατακάλυμμα	noun, nominative neuter singular	1	curtain
+NUM 4:25	1	28	κατακάλυμμα	κατακάλυμμα	noun, nominative neuter singular	1	covering
 NUM 4:25	1	28	κατακάλυμμα			2	hanging
 NUM 4:25	1	29	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 4:25	1	30	θύρας	θύρα	noun, genitive feminine singular	1	entrance
@@ -669,7 +669,7 @@ NUM 4:26	1	9	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 4:26	1	10	θύρας	θύρα	noun, genitive feminine singular	1	entrance
 NUM 4:26	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 4:26	1	12	πύλης	πύλη	noun, genitive feminine singular	1	gate
-NUM 4:26	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
+NUM 4:26	1	13	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 4:26	1	14	αὐλῆς	αὐλή	noun, genitive feminine singular	1	courtyard
 NUM 4:26	1	15	ὅσα	ὅσος	relative adjective, nominative neuter plural	1	that
 NUM 4:26	1	15	ὅσα			2	which
@@ -691,7 +691,7 @@ NUM 4:26	1	28	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 4:26	1	29	καὶ	καί	conjunction	1	and
 NUM 4:26	1	30	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 4:26	1	31	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 4:26	1	32	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+NUM 4:26	1	32	σκεύη	σκεῦος	noun, accusative neuter plural	1	equipment
 NUM 4:26	1	32	σκεύη			2	goods
 NUM 4:26	1	33	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 4:26	1	34	λειτουργικὰ	λειτουργικός	adjective, accusative neuter plural	1	for service
@@ -700,9 +700,9 @@ NUM 4:26	1	36	καὶ	καί	conjunction	1	and
 NUM 4:26	1	37	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 4:26	1	38	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
 NUM 4:26	1	39	λειτουργοῦσιν	λειτουργέω	present active indicative, third plural	1	they minister
-NUM 4:26	1	40	ἐν	ἐν	preposition with the dative	1	in
+NUM 4:26	1	40	ἐν	ἐν	preposition with the dative	1	with
 NUM 4:26	1	41	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
-NUM 4:26	1	42	ποιήσουσι	ποιέω	future active indicative, third plural	1	will make
+NUM 4:26	1	42	ποιήσουσι	ποιέω	future active indicative, third plural	1	they shall prepare
 NUM 4:27	1	1	Κατὰ	κατά	preposition with the accusative	1	according to
 NUM 4:27	1	2	στόμα	στόμα	noun, accusative neuter singular; metonymy for spoken command	1	command
 NUM 4:27	1	3	Ἀαρὼν	Ἀαρών	indeclinable personal name, genitive in context	1	of Aaron
@@ -730,10 +730,10 @@ NUM 4:27	1	24	ἀρτὰ	ἀρτός	adjective, accusative neuter plural; used s
 NUM 4:27	1	25	δι᾽	διά	elided preposition with the accusative	1	because of
 NUM 4:27	1	26	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 4:27	1	27	καὶ	καί	conjunction	1	and
-NUM 4:27	1	28	ἐπισκέψῃ	ἐπισκέπτομαι	future middle indicative, second singular	1	counted
+NUM 4:27	1	28	ἐπισκέψῃ	ἐπισκέπτομαι	future middle indicative, second singular	1	you shall enumerate
 NUM 4:27	1	29	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 NUM 4:27	1	30	ἐξ	ἐκ	preposition with genitive, before a vowel	1	by
-NUM 4:27	1	31	ὀνομάτων	ὄνομα	noun, genitive neuter plural	1	of names
+NUM 4:27	1	31	ὀνομάτων	ὄνομα	noun, genitive neuter plural	1	name
 NUM 4:27	1	32	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 4:27	1	33	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 4:27	1	34	ἀρτὰ	ἀρτός	adjective, accusative neuter plural; used substantivally	1	loads
@@ -758,7 +758,7 @@ NUM 4:28	1	15	ἡ	ὁ	article, nominative feminine singular	1	the
 NUM 4:28	1	16	φυλακὴ	φυλακή	noun, nominative feminine singular	1	charge
 NUM 4:28	1	16	φυλακὴ			2	guard duty
 NUM 4:28	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-NUM 4:28	1	18	ἐν	ἐν	preposition with the dative	1	in
+NUM 4:28	1	18	ἐν	ἐν	preposition with the dative	1	by
 NUM 4:28	1	19	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 NUM 4:28	1	20	Ἰθάμαρ	Ἰθάμαρ	indeclinable personal name, accusative in context	1	Ithamar
 NUM 4:28	1	21	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -783,10 +783,10 @@ NUM 4:30	1	2	πέντε	πέντε	indeclinable cardinal numeral	1	five
 NUM 4:30	1	3	καὶ	καί	conjunction	1	and
 NUM 4:30	1	4	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 4:30	1	5	καὶ	καί	conjunction	1	and
-NUM 4:30	1	6	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 4:30	1	6	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 4:30	1	6	ἐπάνω			2	above
-NUM 4:30	1	7	ἕως	ἕως	preposition with the genitive	1	as far as
-NUM 4:30	1	7	ἕως			2	up to
+NUM 4:30	1	7	ἕως	ἕως	preposition with the genitive	1	up to
+NUM 4:30	1	7	ἕως			2	as far as
 NUM 4:30	1	8	πεντηκονταετοῦς	πεντηκονταετής	adjective, genitive masculine singular; used substantivally	1	fifty years old
 NUM 4:30	1	9	ἐπισκέψασθε	ἐπισκέπτομαι	aorist middle imperative, second plural	1	count
 NUM 4:30	1	10	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -813,7 +813,7 @@ NUM 4:31	1	4	φυλάγματα	φύλαγμα	noun, nominative neuter plural	1	
 NUM 4:31	1	5	τῶν	ὁ	article, genitive plural	1	the
 NUM 4:31	1	6	αἰρομένων	αἴρω	present middle/passive participle, genitive neuter plural	1	carried
 NUM 4:31	1	7	ὑπ᾽	ὑπό	preposition with genitive	1	by
-NUM 4:31	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+NUM 4:31	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 NUM 4:31	1	9	κατὰ	κατά	preposition with the accusative	1	in
 NUM 4:31	1	10	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 4:31	1	11	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -884,7 +884,7 @@ NUM 4:32	1	15	καταπετάσματος	καταπέτασμα	noun, genitive
 NUM 4:32	1	15	καταπετάσματος			2	veil
 NUM 4:32	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 4:32	1	17	πύλης	πύλη	noun, genitive feminine singular	1	gate
-NUM 4:32	1	18	τῆς	ὁ	article, genitive feminine singular	1	the
+NUM 4:32	1	18	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 4:32	1	19	αὐλῆς	αὐλή	noun, genitive feminine singular	1	courtyard
 NUM 4:32	1	20	καὶ	καί	conjunction	1	and
 NUM 4:32	1	21	τὰς	ὁ	article, accusative feminine plural	1	the
@@ -908,18 +908,18 @@ NUM 4:32	1	35	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongin
 NUM 4:32	1	35	σκεύη			2	goods
 NUM 4:32	1	36	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 4:32	1	37	καὶ	καί	conjunction	1	and
-NUM 4:32	1	38	πάντα	πᾶς	adjective, accusative neuter plural	1	all things
+NUM 4:32	1	38	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 4:32	1	39	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 4:32	1	40	λειτουργήματα	λειτούργημα	noun, accusative neuter plural	1	tasks of service
 NUM 4:32	1	41	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-NUM 4:32	1	42	ἐξ	ἐκ	preposition with the genitive	1	from
-NUM 4:32	1	43	ὀνομάτων	ὄνομα	noun, genitive neuter plural	1	of names
+NUM 4:32	1	42	ἐξ	ἐκ	preposition with the genitive	1	by
+NUM 4:32	1	43	ὀνομάτων	ὄνομα	noun, genitive neuter plural	1	name
 NUM 4:32	1	44	ἐπισκέψασθε	ἐπισκέπτομαι	aorist middle imperative, second plural	1	count
 NUM 4:32	1	45	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 NUM 4:32	1	46	καὶ	καί	conjunction	1	and
 NUM 4:32	1	47	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 4:32	1	48	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 4:32	1	49	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+NUM 4:32	1	49	σκεύη	σκεῦος	noun, accusative neuter plural	1	equipment
 NUM 4:32	1	49	σκεύη			2	goods
 NUM 4:32	1	50	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 4:32	1	51	φυλακῆς	φυλακή	noun, genitive feminine singular	1	charge
@@ -946,7 +946,7 @@ NUM 4:33	1	15	σκηνῇ	σκηνή	noun, dative feminine singular	1	tent
 NUM 4:33	1	16	τοῦ	ὁ	article, genitive neuter singular	1	of the
 NUM 4:33	1	17	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	1	testimony
 NUM 4:33	1	17	μαρτυρίου			2	witness
-NUM 4:33	1	18	ἐν	ἐν	preposition with the dative	1	in
+NUM 4:33	1	18	ἐν	ἐν	preposition with the dative	1	by
 NUM 4:33	1	19	χειρὶ	χείρ	noun, dative feminine singular	1	the hand
 NUM 4:33	1	20	Ἰθάμαρ	Ἰθάμαρ	indeclinable personal name, accusative in context	1	Ithamar
 NUM 4:33	1	21	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -979,10 +979,10 @@ NUM 4:35	1	2	πέντε	πέντε	indeclinable cardinal numeral	1	five
 NUM 4:35	1	3	καὶ	καί	conjunction	1	and
 NUM 4:35	1	4	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 4:35	1	5	καὶ	καί	conjunction	1	and
-NUM 4:35	1	6	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 4:35	1	6	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 4:35	1	6	ἐπάνω			2	above
-NUM 4:35	1	7	ἕως	ἕως	preposition with the genitive	1	as far as
-NUM 4:35	1	7	ἕως			2	up to
+NUM 4:35	1	7	ἕως	ἕως	preposition with the genitive	1	up to
+NUM 4:35	1	7	ἕως			2	as far as
 NUM 4:35	1	8	πεντηκονταετοῦς	πεντηκονταετής	adjective, genitive masculine singular; used substantivally	1	fifty years old
 NUM 4:35	1	9	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 4:35	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -1031,10 +1031,10 @@ NUM 4:37	1	15	ἐπεσκέψατο	ἐπισκέπτομαι	aorist middle indi
 NUM 4:37	1	16	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses
 NUM 4:37	1	17	καὶ	καί	conjunction	1	and
 NUM 4:37	1	18	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
-NUM 4:37	1	19	διὰ	διά	preposition with the accusative	1	because of
+NUM 4:37	1	19	διὰ	διά	preposition with the accusative	1	by
 NUM 4:37	1	20	φωνῆς	φωνή	noun, genitive fem. sg. after τῆς	1	voice
 NUM 4:37	1	21	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-NUM 4:37	1	22	ἐν	ἐν	preposition with the dative	1	in
+NUM 4:37	1	22	ἐν	ἐν	preposition with the dative	1	by
 NUM 4:37	1	23	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 NUM 4:37	1	24	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	Moses
 NUM 4:38	1	1	Καὶ	καί	conjunction	1	and
@@ -1054,11 +1054,11 @@ NUM 4:39	1	2	πέντε	πέντε	indeclinable cardinal numeral	1	five
 NUM 4:39	1	3	καὶ	καί	conjunction	1	and
 NUM 4:39	1	4	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 4:39	1	5	καὶ	καί	conjunction	1	and
-NUM 4:39	1	6	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 4:39	1	6	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 4:39	1	6	ἐπάνω			2	above
 NUM 4:39	1	7	καὶ	καί	conjunction	1	and
-NUM 4:39	1	8	ἕως	ἕως	preposition with the genitive	1	as far as
-NUM 4:39	1	8	ἕως			2	up to
+NUM 4:39	1	8	ἕως	ἕως	preposition with the genitive	1	up to
+NUM 4:39	1	8	ἕως			2	as far as
 NUM 4:39	1	9	πεντηκονταετοῦς	πεντηκονταετής	adjective, genitive masculine singular; used substantivally	1	fifty years old
 NUM 4:39	1	10	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 NUM 4:39	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -1112,10 +1112,10 @@ NUM 4:41	1	16	ἐπεσκέψατο	ἐπισκέπτομαι	aorist middle indi
 NUM 4:41	1	17	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses
 NUM 4:41	1	18	καὶ	καί	conjunction	1	and
 NUM 4:41	1	19	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
-NUM 4:41	1	20	διὰ	διά	preposition with the accusative	1	because of
+NUM 4:41	1	20	διὰ	διά	preposition with the accusative	1	by
 NUM 4:41	1	21	φωνῆς	φωνή	noun, genitive fem. sg. after τῆς	1	voice
 NUM 4:41	1	22	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-NUM 4:41	1	23	ἐν	ἐν	preposition with the dative	1	in
+NUM 4:41	1	23	ἐν	ἐν	preposition with the dative	1	by
 NUM 4:41	1	24	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 NUM 4:41	1	25	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	Moses
 NUM 4:42	1	1	Ἐπεσκέπησαν	ἐπισκέπτομαι	aorist passive indicative, third plural	1	were counted
@@ -1136,10 +1136,10 @@ NUM 4:43	1	6	πέντε	πέντε	indeclinable cardinal numeral	1	five
 NUM 4:43	1	7	καὶ	καί	conjunction	1	and
 NUM 4:43	1	8	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 4:43	1	9	καὶ	καί	conjunction	1	and
-NUM 4:43	1	10	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 4:43	1	10	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 4:43	1	10	ἐπάνω			2	above
-NUM 4:43	1	11	ἕως	ἕως	preposition with the genitive	1	as far as
-NUM 4:43	1	11	ἕως			2	up to
+NUM 4:43	1	11	ἕως	ἕως	preposition with the genitive	1	up to
+NUM 4:43	1	11	ἕως			2	as far as
 NUM 4:43	1	12	πεντηκονταετοῦς	πεντηκονταετής	adjective, genitive masculine singular; used substantivally	1	fifty years old
 NUM 4:43	1	13	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 4:43	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -1183,10 +1183,10 @@ NUM 4:45	1	8	ἐπεσκέψατο	ἐπισκέπτομαι	aorist middle indic
 NUM 4:45	1	9	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses
 NUM 4:45	1	10	καὶ	καί	conjunction	1	and
 NUM 4:45	1	11	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
-NUM 4:45	1	12	διὰ	διά	preposition with the accusative	1	because of
+NUM 4:45	1	12	διὰ	διά	preposition with the accusative	1	by
 NUM 4:45	1	13	φωνῆς	φωνή	noun, genitive fem. sg. after τῆς	1	voice
 NUM 4:45	1	14	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-NUM 4:45	1	15	ἐν	ἐν	preposition with the dative	1	in
+NUM 4:45	1	15	ἐν	ἐν	preposition with the dative	1	by
 NUM 4:45	1	16	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 NUM 4:45	1	17	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	Moses
 NUM 4:46	1	1	Πάντες	πᾶς	adjective, nominative masculine plural	1	all
@@ -1218,11 +1218,11 @@ NUM 4:47	1	2	πέντε	πέντε	indeclinable cardinal numeral	1	five
 NUM 4:47	1	3	καὶ	καί	conjunction	1	and
 NUM 4:47	1	4	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 4:47	1	5	καὶ	καί	conjunction	1	and
-NUM 4:47	1	6	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 4:47	1	6	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 4:47	1	6	ἐπάνω			2	above
 NUM 4:47	1	7	καὶ	καί	conjunction	1	and
-NUM 4:47	1	8	ἕως	ἕως	preposition with the genitive	1	as far as
-NUM 4:47	1	8	ἕως			2	up to
+NUM 4:47	1	8	ἕως	ἕως	preposition with the genitive	1	up to
+NUM 4:47	1	8	ἕως			2	as far as
 NUM 4:47	1	9	πεντηκονταετοῦς	πεντηκονταετής	adjective, genitive masculine singular; used substantivally	1	fifty years old
 NUM 4:47	1	10	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 4:47	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -1245,7 +1245,7 @@ NUM 4:47	1	26	τοῦ	ὁ	article, genitive neuter singular	1	of the
 NUM 4:47	1	27	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	1	testimony
 NUM 4:47	1	27	μαρτυρίου			2	witness
 NUM 4:48	1	1	καὶ	καί	conjunction	1	and
-NUM 4:48	1	2	ἐγενήθησαν	γίνομαι	aorist passive-form indicative, third plural, of birth	1	were born
+NUM 4:48	1	2	ἐγενήθησαν	γίνομαι	aorist passive-form indicative, third plural, of birth	1	amounted to
 NUM 4:48	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 NUM 4:48	1	4	ἐπεσκεμμένοι	ἐπισκέπτομαι	perfect passive participle, nominative masculine plural	1	counted
 NUM 4:48	1	5	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -1253,13 +1253,13 @@ NUM 4:48	1	6	ὀκτακισχίλιοι	ὀκτακισχίλιοι	cardinal nu
 NUM 4:48	1	7	πεντακόσιοι	πεντακόσιοι	cardinal numeral, nominative masculine plural	1	five hundred
 NUM 4:48	1	8	καὶ	καί	conjunction	1	and
 NUM 4:48	1	9	ὀγδοήκοντα	ὀγδοήκοντα	indeclinable cardinal numeral with ἐτῶν	1	eighty
-NUM 4:49	1	1	Διὰ	διά	preposition with the accusative	1	because of
+NUM 4:49	1	1	Διὰ	διά	preposition with the accusative	1	by
 NUM 4:49	1	2	φωνῆς	φωνή	noun, genitive fem. sg. after τῆς	1	voice
 NUM 4:49	1	3	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 NUM 4:49	1	4	οὓς	ὅς	relative pronoun, accusative masculine plural; refers to people of the preceding ἐθνῶν	1	whom
 NUM 4:49	1	5	ἐπεσκέψατο	ἐπισκέπτομαι	aorist middle indicative, third singular	1	counted
 NUM 4:49	1	6	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-NUM 4:49	1	7	ἐν	ἐν	preposition with the dative	1	in
+NUM 4:49	1	7	ἐν	ἐν	preposition with the dative	1	by
 NUM 4:49	1	8	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 NUM 4:49	1	9	Μωυσῆ	Μωυσῆς	noun, vocative masculine singular	1	Moses
 NUM 4:49	1	10	ἄνδρα	ἀνήρ	noun, accusative masculine singular; distributive	1	man

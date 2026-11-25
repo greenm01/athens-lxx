@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 JER 1:1	1	1	ΤΟ	ὁ	article, nominative neuter singular	1	the
 JER 1:1	1	2	ῥῆμα	ῥῆμα	noun, nominative neuter singular	1	word
 JER 1:1	1	2	ῥῆμα			2	message
-JER 1:1	1	3	τοῦ	ὁ	article, genitive singular	1	the
+JER 1:1	1	3	τοῦ	ὁ	article, genitive singular	1	of
 JER 1:1	1	4	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 JER 1:1	1	5	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
 JER 1:1	1	6	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	came
@@ -405,7 +405,7 @@ JER 1:17	1	22	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 1:17	1	23	μηδὲ	μηδέ	conjunction	1	nor
 JER 1:17	1	24	πτοηθῇς	πτοέω	aorist passive subjunctive, second singular	1	you be terrified
 JER 1:17	1	25	ἐναντίον	ἐναντίον	improper preposition (genitive)	1	before
-JER 1:17	1	26	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+JER 1:17	1	26	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 JER 1:17	1	27	ὅτι	ὅτι	causal conjunction	1	because
 JER 1:17	1	28	μετὰ	μετά	preposition with genitive	1	with
 JER 1:17	1	29	σοῦ	σύ	personal pronoun, emphatic genitive singular	1	you
@@ -448,7 +448,7 @@ JER 1:18	1	27	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine si
 JER 1:18	1	28	καὶ	καί	conjunction	1	and
 JER 1:18	1	29	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 JER 1:18	1	30	λαῷ	λαός	noun, dative masculine singular	1	people
-JER 1:18	1	31	τῆς	ὁ	article, genitive feminine singular	1	the
+JER 1:18	1	31	τῆς	ὁ	article, genitive feminine singular	1	of the
 JER 1:18	1	32	γῆς	γῆ	noun, genitive feminine singular	1	land
 JER 1:19	1	1	Καὶ	καί	conjunction	1	and
 JER 1:19	1	2	πολεμήσουσί	πολεμέω	future active indicative, third plural	1	will fight

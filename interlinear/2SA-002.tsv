@@ -37,8 +37,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 2:2	1	3	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 2SA 2:2	1	4	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 2SA 2:2	1	5	καὶ	καί	conjunction	1	and
-2SA 2:2	1	6	ἀμφότεραι	ἀμφότερος	adjective, nominative feminine plural; substantival	1	both women
-2SA 2:2	1	6	ἀμφότεραι			2	both
+2SA 2:2	1	6	ἀμφότεραι	ἀμφότερος	adjective, nominative feminine plural; substantival	1	both
+2SA 2:2	1	6	ἀμφότεραι			2	both women
 2SA 2:2	1	7	αἱ	ὁ	article, nominative feminine plural	1	the
 2SA 2:2	1	8	γυναῖκες	γυνή	noun, nominative feminine plural	1	women
 2SA 2:2	1	9	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -50,7 +50,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 2:2	1	14	Ἀβιγαία	Ἀβιγαία	noun, nominative feminine singular	1	Abigaia
 2SA 2:2	1	14	Ἀβιγαία			2	Abigail
 2SA 2:2	1	15	ἡ	ὁ	article, nominative feminine singular	1	the
-2SA 2:2	1	16	γυνὴ	γυνή	noun, nominative feminine singular	1	woman
+2SA 2:2	1	16	γυνὴ	γυνή	noun, nominative feminine singular	1	wife
 2SA 2:2	1	17	Νάβαλ	Νάβαλ	indeclinable personal name, genitive in context	1	of Nabal
 2SA 2:2	1	18	τοῦ	ὁ	article, genitive masculine singular	1	the
 2SA 2:2	1	19	Καρμηλίτου	Καρμηλίτης	noun, genitive masculine singular	1	Carmelite
@@ -315,8 +315,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 2:13	1	2	Ἰωὰβ	Ἰωάβ	indeclinable personal name, nominative in context	1	Joab
 2SA 2:13	1	2	Ἰωὰβ			2	Ioab
 2SA 2:13	1	3	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2SA 2:13	1	4	Σαρουΐα	Σαρουΐα	proper noun, genitive in context	1	of Sarouia
-2SA 2:13	1	4	Σαρουΐα			2	of Zeruiah
+2SA 2:13	1	4	Σαρουΐα	Σαρουΐα	proper noun, genitive in context	1	of Zeruiah
+2SA 2:13	1	4	Σαρουΐα			2	of Sarouia
 2SA 2:13	1	5	καὶ	καί	conjunction	1	and
 2SA 2:13	1	6	οἱ	ὁ	article, nominative masculine plural	1	the
 2SA 2:13	1	7	παῖδες	παῖς	noun, nominative masculine plural	1	male servants
@@ -730,7 +730,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 2:26	1	4	Ἰωάβ	Ἰωάβ	indeclinable personal name, accusative in context	1	Joab
 2SA 2:26	1	5	καὶ	καί	conjunction	1	and
 2SA 2:26	1	6	εἶπεν	λέγω	aorist active indicative, third singular	1	said
-2SA 2:26	1	7	μὴ	μή	negative particle	1	not
+2SA 2:26	1	7	μὴ	μή	negative particle	1	[marks a question]
 2SA 2:26	1	8	εἰς	εἰς	preposition with the accusative	1	into
 2SA 2:26	1	9	νῖκος	νῖκος	noun, accusative neuter singular	1	victory
 2SA 2:26	1	9	νῖκος			2	lasting victory
@@ -740,7 +740,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 2:26	1	12	ἢ	ἤ	disjunctive conjunction	1	or
 2SA 2:26	1	13	οὐκ	οὐ	negative particle	1	not
 2SA 2:26	1	14	οἶδας	οἶδα	perfect active indicative, second singular	1	know
-2SA 2:26	1	15	ὅτι	ὅτι	causal conjunction	1	because
+2SA 2:26	1	15	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 2SA 2:26	1	16	πικρὰ	πικρός	adjective, nominative neuter plural	1	bitter things
 2SA 2:26	1	17	ἔσται	εἰμί	future indicative, third singular	1	will be
 2SA 2:26	1	18	εἰς	εἰς	preposition governing the accusative	1	in

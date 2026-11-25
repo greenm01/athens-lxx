@@ -10,7 +10,7 @@ JOS 20:2	1	2	τοῖς	ὁ	article, dative masculine plural	1	to the
 JOS 20:2	1	3	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 JOS 20:2	1	4	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JOS 20:2	1	5	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
-JOS 20:2	1	6	δότε	δίδωμι	aorist active imperative, second plural	1	give
+JOS 20:2	1	6	δότε	δίδωμι	aorist active imperative, second plural	1	designate
 JOS 20:2	1	7	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 JOS 20:2	1	8	τὰς	ὁ	article, accusative feminine plural	1	the
 JOS 20:2	1	9	πόλεις	πόλις	noun, accusative feminine plural	1	cities
@@ -25,7 +25,7 @@ JOS 20:2	1	16	διὰ	διά	preposition governing the genitive	1	through
 JOS 20:2	1	17	Μωυσῆ	Μωυσῆς	noun, genitive masculine singular	1	Moses
 JOS 20:3	1	1	φυγαδευτήριον	φυγαδευτήριον	noun, accusative neuter singular	1	a refuge
 JOS 20:3	1	2	τῷ	ὁ	article, dative masculine singular	1	for the
-JOS 20:3	1	3	φονευτῇ	φονευτής	noun, dative masculine singular	1	killer
+JOS 20:3	1	3	φονευτῇ	φονευτής	noun, dative masculine singular	1	manslayer
 JOS 20:3	1	4	τῷ	ὁ	article, dative masculine singular	1	who
 JOS 20:3	1	5	πατάξαντι	πατάσσω	aorist active participle, dative masculine singular	1	struck
 JOS 20:3	1	6	ψυχὴν	ψυχή	noun, accusative feminine singular	1	a person
@@ -45,7 +45,7 @@ JOS 20:3	1	16	καὶ	καί	conjunction	1	and
 JOS 20:3	1	17	οὐκ	οὐ	negative particle	1	not
 JOS 20:3	1	18	ἀποθανεῖται	ἀποθνῄσκω	future middle indicative, third singular	1	will die
 JOS 20:3	1	19	ὁ	ὁ	article, nominative masculine singular	1	the
-JOS 20:3	1	20	φονευτὴς	φονευτής	noun, nominative masculine singular	1	killer
+JOS 20:3	1	20	φονευτὴς	φονευτής	noun, nominative masculine singular	1	manslayer
 JOS 20:3	1	21	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOS 20:3	1	22	τοῦ	ὁ	article, genitive singular	1	the
 JOS 20:3	1	23	ἀγχιστεύοντος	ἀγχιστεύω	present active participle, genitive masculine singular	1	nearest relative
@@ -128,7 +128,7 @@ JOS 20:5	1	12	συγκλείσουσι	συγκλείω	future active indicative
 JOS 20:5	1	12	συγκλείσουσι			2	will shut up
 JOS 20:5	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 20:5	1	14	φονεύσαντα	φονεύω	aorist active participle, accusative masculine singular	1	one who killed
-JOS 20:5	1	15	ἐν	ἐν	preposition with the dative	1	in
+JOS 20:5	1	15	ἐν	ἐν	preposition with the dative	1	into
 JOS 20:5	1	16	τῇ	ὁ	article, dative feminine singular	1	the
 JOS 20:5	1	17	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 JOS 20:5	1	18	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -155,7 +155,7 @@ JOS 20:6	1	3	ἐν	ἐν	preposition with the dative	1	in
 JOS 20:6	1	4	τῇ	ὁ	article, dative feminine singular	1	the
 JOS 20:6	1	5	πόλει	πόλις	noun, dative feminine singular	1	city
 JOS 20:6	1	6	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative feminine singular	1	that
-JOS 20:6	1	7	ἕως	ἕως	preposition with the genitive	1	as far as
+JOS 20:6	1	7	ἕως	ἕως	preposition with the genitive	1	until
 JOS 20:6	1	7	ἕως			2	up to
 JOS 20:6	1	8	στῇ	ἵστημι	aorist active subjunctive, third singular	1	he stands
 JOS 20:6	1	9	κατὰ	κατά	preposition in idiom κατὰ πρόσωπον	1	before
@@ -210,7 +210,7 @@ JOS 20:7	1	6	τῇ	ὁ	article, dative feminine singular	1	the
 JOS 20:7	1	7	Γαλιλαίᾳ	Γαλιλαία	noun, dative feminine singular	1	Galilee
 JOS 20:7	1	8	ἐν	ἐν	preposition with dative	1	in
 JOS 20:7	1	9	τῷ	ὁ	article, dative masculine singular	1	the
-JOS 20:7	1	10	ὄρει	ὄρος	noun, dative neut. sg. after ἐν τῷ	1	mount/mountain
+JOS 20:7	1	10	ὄρει	ὄρος	noun, dative neut. sg. after ἐν τῷ	1	mountain
 JOS 20:7	1	11	τῷ	ὁ	article, dative neuter singular	1	of
 JOS 20:7	1	12	Νεφθαλεὶ	Νεφθαλί	indeclinable tribal name, genitive in context	1	Naphtali
 JOS 20:7	1	13	καὶ	καί	conjunction	1	and
@@ -219,7 +219,7 @@ JOS 20:7	1	15	Συχὲμ	Συχέμ	indeclinable personal name, nominative in c
 JOS 20:7	1	15	Συχὲμ			2	Shechem
 JOS 20:7	1	16	ἐν	ἐν	preposition with the dative	1	in
 JOS 20:7	1	17	τῷ	ὁ	article, dative masculine singular	1	the
-JOS 20:7	1	18	ὄρει	ὄρος	noun, dative neut. sg. after ἐν τῷ	1	mount/mountain
+JOS 20:7	1	18	ὄρει	ὄρος	noun, dative neut. sg. after ἐν τῷ	1	mountain
 JOS 20:7	1	19	τῷ	ὁ	article, dative neuter singular	1	of
 JOS 20:7	1	20	Ἐφραὶμ	Ἐφραίμ	indeclinable tribal name, genitive in context	1	Ephraim
 JOS 20:7	1	21	καὶ	καί	conjunction	1	and
@@ -232,9 +232,9 @@ JOS 20:7	1	26	ἐστὶ	εἰμί	present indicative, third singular	1	is
 JOS 20:7	1	27	Χεβρὼν	Χεβρών	proper noun, indeclinable; nominative feminine singular	1	Hebron
 JOS 20:7	1	28	ἐν	ἐν	preposition with the dative	1	in
 JOS 20:7	1	29	τῷ	ὁ	article, dative masculine singular	1	the
-JOS 20:7	1	30	ὄρει	ὄρος	noun, dative neut. sg. after ἐν τῷ	1	mount/mountain
+JOS 20:7	1	30	ὄρει	ὄρος	noun, dative neut. sg. after ἐν τῷ	1	mountain
 JOS 20:7	1	31	τῷ	ὁ	article, dative masculine singular	1	of
-JOS 20:7	1	32	Ἰούδα	Ἰούδας	noun, dative masculine singular	1	Judah
+JOS 20:7	1	32	Ἰούδα	Ἰούδας	noun, dative masculine singular	1	of Judah
 JOS 20:8	1	1	Καὶ	καί	conjunction	1	and
 JOS 20:8	1	2	ἐν	ἐν	preposition with the dative	1	in
 JOS 20:8	1	3	τῷ	ὁ	article, dative masculine singular	1	the
@@ -260,8 +260,8 @@ JOS 20:8	1	17	τῷ	ὁ	article, dative neuter singular	1	the
 JOS 20:8	1	18	πεδίῳ	πεδίον	noun, dative neuter singular	1	plain
 JOS 20:8	1	19	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOS 20:8	1	20	τῆς	ὁ	article, genitive feminine singular	1	the
-JOS 20:8	1	21	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-JOS 20:8	1	21	φυλῆς			2	tribe
+JOS 20:8	1	21	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+JOS 20:8	1	21	φυλῆς			2	clan
 JOS 20:8	1	22	Ῥουβὴν	Ῥουβήν	indeclinable personal name, genitive in context	1	of Reuben
 JOS 20:8	1	23	καὶ	καί	conjunction	1	and
 JOS 20:8	1	24	Ῥαμὼθ	Ῥαμώθ	indeclinable place name, genitive in context	1	Ramoth
@@ -271,8 +271,8 @@ JOS 20:8	1	27	Γαλαὰδ	Γαλαάδ	indeclinable place name, dative in cont
 JOS 20:8	1	27	Γαλαὰδ			2	Galaad
 JOS 20:8	1	28	ἐκ	ἐκ	preposition with the genitive	1	from
 JOS 20:8	1	29	τῆς	ὁ	article, genitive feminine singular	1	the
-JOS 20:8	1	30	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-JOS 20:8	1	30	φυλῆς			2	tribe
+JOS 20:8	1	30	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+JOS 20:8	1	30	φυλῆς			2	clan
 JOS 20:8	1	31	Γὰδ	Γάδ	indeclinable personal name, genitive in context	1	of Gad
 JOS 20:8	1	32	καὶ	καί	conjunction	1	and
 JOS 20:8	1	33	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -283,8 +283,8 @@ JOS 20:8	1	37	Βασανίτιδι	Βασανῖτις	noun, dative feminine sin
 JOS 20:8	1	37	Βασανίτιδι			2	the region of Bashan
 JOS 20:8	1	38	ἐκ	ἐκ	preposition with the genitive	1	from
 JOS 20:8	1	39	τῆς	ὁ	article, genitive feminine singular	1	the
-JOS 20:8	1	40	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-JOS 20:8	1	40	φυλῆς			2	tribe
+JOS 20:8	1	40	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+JOS 20:8	1	40	φυλῆς			2	clan
 JOS 20:8	1	41	Μανασσῆ	Μανασσῆς	noun, genitive masculine singular	1	of Manasseh
 JOS 20:9	1	1	Αὗται	οὗτος	demonstrative pronoun, nominative feminine plural	1	these
 JOS 20:9	1	2	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
@@ -303,9 +303,9 @@ JOS 20:9	1	12	τῷ	ὁ	article, dative masculine singular	1	for the
 JOS 20:9	1	13	προσηλύτῳ	προσήλυτος	noun, dative masculine singular	1	resident alien
 JOS 20:9	1	14	τῷ	ὁ	article, dative masculine singular	1	who
 JOS 20:9	1	15	προσκειμένῳ	προσγίνομαι	present middle participle, dative masculine singular	1	lives there as a sojourner
-JOS 20:9	1	16	ἐν	ἐν	preposition with the dative	1	in
-JOS 20:9	1	17	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	their midst
-JOS 20:9	1	17	αὐτοῖς			2	them
+JOS 20:9	1	16	ἐν	ἐν	preposition with the dative	1	among
+JOS 20:9	1	17	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
+JOS 20:9	1	17	αὐτοῖς			2	their midst
 JOS 20:9	1	18	καταφυγεῖν	καταφεύγω	aorist active infinitive	1	to take refuge
 JOS 20:9	1	19	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 JOS 20:9	1	20	παντὶ	πᾶς	adjective, dative masculine singular	1	all
@@ -315,7 +315,7 @@ JOS 20:9	1	22	ψυχὴν			2	a life
 JOS 20:9	1	23	ἀκουσίως	ἀκουσίως	adverb	1	unintentionally
 JOS 20:9	1	24	ἵνα	ἵνα	conjunction	1	so that
 JOS 20:9	1	25	μὴ	μή	negative with participle	1	not
-JOS 20:9	1	26	ἀποθάνῃ	ἀποθνῄσκω	aorist active subjunctive, 3rd sg. continuing condition	1	dies
+JOS 20:9	1	26	ἀποθάνῃ	ἀποθνῄσκω	aorist active subjunctive, 3rd sg. continuing condition	1	die
 JOS 20:9	1	27	ἐκ	ἐκ	preposition governing the genitive	1	at
 JOS 20:9	1	27	ἐκ			2	from
 JOS 20:9	1	28	χειρὸς	χείρ	noun, genitive feminine singular	1	hand

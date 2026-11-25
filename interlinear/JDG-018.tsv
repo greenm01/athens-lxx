@@ -28,8 +28,8 @@ JDG 18:1	1	24	ὅτι	ὅτι	causal conjunction	1	because
 JDG 18:1	1	25	οὐκ	οὐ	negative particle	1	not
 JDG 18:1	1	26	ἐνέπεσεν	ἐμπίπτω	aorist active indicative, third singular	1	had fallen
 JDG 18:1	1	26	ἐνέπεσεν			2	fell
-JDG 18:1	1	27	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
-JDG 18:1	1	28	ἕως	ἕως	preposition with the genitive	1	as far as
+JDG 18:1	1	27	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to it
+JDG 18:1	1	28	ἕως	ἕως	preposition of temporal limit	1	until
 JDG 18:1	1	28	ἕως			2	up to
 JDG 18:1	1	29	τῶν	ὁ	article, genitive plural	1	the
 JDG 18:1	1	30	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
@@ -82,7 +82,7 @@ JDG 18:2	1	36	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 18:2	1	37	γῆν	γῆ	noun, accusative feminine singular	1	land
 JDG 18:2	1	38	Καὶ	καί	conjunction	1	and
 JDG 18:2	1	39	παρεγένοντο	παραγίνομαι	aorist middle indicative, third plural	1	arrived
-JDG 18:2	1	40	εἰς	εἰς	preposition with the accusative	1	into
+JDG 18:2	1	40	εἰς	εἰς	preposition with the accusative	1	to
 JDG 18:2	1	41	ὄρος	ὄρος	noun, accusative neut. sg. after εἰς	1	mountain
 JDG 18:2	1	42	Ἐφραὶμ	Ἐφραίμ	indeclinable tribal name, genitive in context	1	of Ephraim
 JDG 18:2	1	43	ἕως	ἕως	preposition with the genitive	1	as far as
@@ -94,8 +94,8 @@ JDG 18:2	1	45	Μειχὰ			2	of Micah
 JDG 18:2	1	46	καὶ	καί	conjunction	1	and
 JDG 18:2	1	47	κατέπαυσαν	καταπαύω	aorist active indicative, third plural	1	stopped
 JDG 18:2	1	48	ἐκεῖ	ἐκεῖ	adverb of place	1	there
-JDG 18:3	1	1	Αὐτῶν	αὐτός	pronoun, nominative masculine plural	1	they
-JDG 18:3	1	2	ὄντων	εἰμί	present active participle, genitive masculine plural	1	who are
+JDG 18:3	1	1	Αὐτῶν	αὐτός	pronoun, nominative masculine plural	1	while they
+JDG 18:3	1	2	ὄντων	εἰμί	present active participle, genitive masculine plural	1	were
 JDG 18:3	1	3	παρὰ	παρά	preposition with the dative	1	beside
 JDG 18:3	1	4	τῷ	ὁ	article, dative masculine singular	1	the
 JDG 18:3	1	5	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
@@ -107,7 +107,7 @@ JDG 18:3	1	9	ἐπέγνωσαν	ἐπιγιγνώσκω	aorist active indicativ
 JDG 18:3	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 18:3	1	11	φωνὴν	φωνή	noun, accusative feminine singular	1	voice
 JDG 18:3	1	12	τοῦ	ὁ	article, genitive neuter singular	1	of the
-JDG 18:3	1	13	παιδαρίου	παιδάριον	noun, genitive neuter singular	1	boy
+JDG 18:3	1	13	παιδαρίου	παιδάριον	noun, genitive neuter singular	1	young man
 JDG 18:3	1	13	παιδαρίου			2	child
 JDG 18:3	1	14	τοῦ	ὁ	article, genitive singular	1	the
 JDG 18:3	1	15	νεωτέρου	νεώτερος	adjective, genitive neuter singular; comparative	1	young
@@ -167,8 +167,8 @@ JDG 18:5	1	8	Θεῷ	θεός	noun, dative masculine singular	1	God
 JDG 18:5	1	9	καὶ	καί	conjunction	1	and
 JDG 18:5	1	10	γνωσόμεθα	γινώσκω	future middle indicative, first plural; singular speaker in context	1	we shall know
 JDG 18:5	1	11	εἰ	εἰ	conditional conjunction	1	if
-JDG 18:5	1	12	κατευοδοῖ	κατευοδόω	present active indicative, third singular	1	will prosper
-JDG 18:5	1	12	κατευοδοῖ			2	prospers
+JDG 18:5	1	12	κατευοδοῖ	κατευοδόω	present active indicative, third singular	1	prospers
+JDG 18:5	1	12	κατευοδοῖ			2	will prosper
 JDG 18:5	1	13	ἡ	ὁ	article, nominative feminine singular	1	the
 JDG 18:5	1	14	ὁδὸς	ὁδός	noun, nominative feminine singular	1	way
 JDG 18:5	1	14	ὁδὸς			2	journey
@@ -197,8 +197,8 @@ JDG 18:6	1	14	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural
 JDG 18:6	1	15	καθ᾽	κατά	preposition elided with ἣν	1	by
 JDG 18:6	1	16	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 JDG 18:6	1	17	ὑμεῖς	σύ	pronoun, nominative second plural	1	you
-JDG 18:6	1	18	πορεύεσθε	πορεύομαι	present middle imperative/indicative 2nd pl. in relative	1	you should go
-JDG 18:6	1	19	ἐν	ἐν	preposition with the dative	1	in
+JDG 18:6	1	18	πορεύεσθε	πορεύομαι	present middle indicative, second plural	1	you are traveling
+JDG 18:6	1	19	ἐν	ἐν	preposition with the dative	1	on
 JDG 18:6	1	20	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 JDG 18:7	1	1	Καὶ	καί	conjunction	1	and
 JDG 18:7	1	2	ἐπορεύθησαν	πορεύομαι	aorist passive indicative, third plural; middle sense	1	they went
@@ -208,8 +208,8 @@ JDG 18:7	1	5	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
 JDG 18:7	1	6	καὶ	καί	conjunction	1	and
 JDG 18:7	1	7	παρεγένοντο	παραγίνομαι	aorist middle indicative, third plural	1	arrived
 JDG 18:7	1	8	εἰς	εἰς	preposition with the accusative	1	into
-JDG 18:7	1	9	Λαϊσά	Λαϊσά	indeclinable place name, accusative in context	1	Laisa
-JDG 18:7	1	9	Λαϊσά			2	Laish
+JDG 18:7	1	9	Λαϊσά	Λαϊσά	indeclinable place name, accusative in context	1	Laish
+JDG 18:7	1	9	Λαϊσά			2	Laisa
 JDG 18:7	1	10	καὶ	καί	conjunction	1	and
 JDG 18:7	1	11	ἴδον	ὁράω	aorist active indicative, 3rd pl.	1	saw
 JDG 18:7	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -267,7 +267,7 @@ JDG 18:8	1	6	πρὸς	πρός	preposition with the accusative	1	to
 JDG 18:8	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
 JDG 18:8	1	8	ἀδελφοὺς	ἀδελφός	noun, accusative masculine plural after πρός	1	brothers
 JDG 18:8	1	9	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
-JDG 18:8	1	10	εἰς	εἰς	preposition with the accusative	1	into
+JDG 18:8	1	10	εἰς	εἰς	preposition with the accusative	1	to
 JDG 18:8	1	11	Σαραὰ	Σαραά	indeclinable place name, nominative in context	1	Saraa
 JDG 18:8	1	12	καὶ	καί	conjunction	1	and
 JDG 18:8	1	13	Ἐσθαὸλ	Ἐσθαόλ	indeclinable place name, nominative in context	1	Esthaol
@@ -331,7 +331,7 @@ JDG 18:9	1	43	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 JDG 18:9	1	44	ἀνάστητε	ἀνίστημι	aorist active imperative, second plural	1	get up
 JDG 18:9	1	45	καὶ	καί	conjunction	1	and
 JDG 18:9	1	46	ἀναβῶμεν	ἀναβαίνω	aorist active subjunctive, first plural	1	let us go up
-JDG 18:9	1	47	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+JDG 18:9	1	47	ἐπ᾽	ἐπί	preposition with the accusative	1	against
 JDG 18:9	1	48	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 JDG 18:9	1	49	ὅτι	ὅτι	conjunction	1	that
 JDG 18:9	1	50	εὐρήκαμεν	εὑρίσκω	perfect active indicative, first plural	1	we found
@@ -353,7 +353,7 @@ JDG 18:9	1	62	τοῦ	ὁ	article, genitive neuter singular, introduces the infi
 JDG 18:9	1	63	πορευθῆναι	πορεύομαι	aorist passive-form infinitive of purpose, active in sense	1	to go
 JDG 18:9	1	63	πορευθῆναι			2	to travel
 JDG 18:9	1	64	τοῦ	ὁ	article, genitive singular	1	the
-JDG 18:9	1	65	ἐλθεῖν	ἔρχομαι	aorist active infinitive after ἕως τοῦ with accusative αὐτὸν, until he entered	1	he entered (went)
+JDG 18:9	1	65	ἐλθεῖν	ἔρχομαι	second aorist active infinitive	1	to enter
 JDG 18:9	1	66	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	1	in order
 JDG 18:9	1	67	κατακληρονομῆσαι	κατακληρονομέω	aorist active infinitive	1	to inherit
 JDG 18:9	1	67	κατακληρονομῆσαι			2	to take possession
@@ -375,7 +375,7 @@ JDG 18:10	1	10	γῆ	γῆ	noun, nominative feminine singular	1	land
 JDG 18:10	1	11	εὐρύχωρος	εὐρύχωρος	adjective, nominative feminine singular	1	spacious
 JDG 18:10	1	11	εὐρύχωρος			2	wide
 JDG 18:10	1	12	χερσίν	χείρ	noun, accusative feminine plural; abrupt accusative in the printed text	1	hands
-JDG 18:10	1	13	ὅτι	ὅτι	content conjunction	1	that
+JDG 18:10	1	13	ὅτι	ὅτι	content conjunction	1	because
 JDG 18:10	1	14	παρέδωκεν	παραδίδωμι	aorist active indicative, 3rd sg.	1	handed over
 JDG 18:10	1	15	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 JDG 18:10	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -433,7 +433,7 @@ JDG 18:12	1	13	τόπῳ	τόπος	noun, dative masculine singular	1	place
 JDG 18:12	1	14	ἐκείνῳ	ἐκεῖνος	demonstrative pronoun, dative masculine singular	1	that
 JDG 18:12	1	15	παρεμβολὴ	παρεμβολή	noun, nominative feminine singular	1	camp
 JDG 18:12	1	16	Δὰν	Δάν	indeclinable tribal name, genitive in context	1	of Dan
-JDG 18:12	1	17	ἕως	ἕως	preposition with the genitive	1	as far as
+JDG 18:12	1	17	ἕως	ἕως	preposition of temporal limit	1	until
 JDG 18:12	1	17	ἕως			2	up to
 JDG 18:12	1	18	τῆς	ὁ	article, genitive feminine singular	1	the
 JDG 18:12	1	19	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
@@ -471,8 +471,8 @@ JDG 18:14	1	7	πορευόμενοι	πορεύομαι	present middle participl
 JDG 18:14	1	8	κατασκέψασθαι	κατασκέπτομαι	aorist middle infinitive	1	to scout
 JDG 18:14	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 18:14	1	10	γῆν	γῆ	noun, accusative feminine singular	1	land
-JDG 18:14	1	11	Λαισὰ	Λαισά	indeclinable place name, genitive in context	1	of Laisa
-JDG 18:14	1	11	Λαισὰ			2	of Laish
+JDG 18:14	1	11	Λαισὰ	Λαισά	indeclinable place name, genitive in context	1	of Laish
+JDG 18:14	1	11	Λαισὰ			2	of Laisa
 JDG 18:14	1	12	καὶ	καί	conjunction	1	and
 JDG 18:14	1	13	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
 JDG 18:14	1	14	πρὸς	πρός	preposition with the accusative	1	to
@@ -482,7 +482,7 @@ JDG 18:14	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JDG 18:14	1	18	εἰ	εἰ	interrogative particle, introduces the question	1	—
 JDG 18:14	1	19	οἴδατε	οἶδα	perfect active indicative, second plural	1	you know
 JDG 18:14	1	20	ὅτι	ὅτι	declarative conjunction	1	that
-JDG 18:14	1	21	ἐστὶν	εἰμί	present indicative, third singular	1	is
+JDG 18:14	1	21	ἐστὶν	εἰμί	present indicative, third singular	1	there is
 JDG 18:14	1	22	ἐν	ἐν	preposition with the dative	1	in
 JDG 18:14	1	23	τοῖς	ὁ	article, dative masculine plural	1	the
 JDG 18:14	1	24	οἴκοις	οἶκος	noun, dative masculine plural	1	houses
@@ -512,7 +512,7 @@ JDG 18:15	1	7	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 18:15	1	8	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 JDG 18:15	1	8	οἶκον			2	household
 JDG 18:15	1	9	τοῦ	ὁ	article, genitive neuter singular	1	of the
-JDG 18:15	1	10	παιδαρίου	παιδάριον	noun, genitive neuter singular	1	boy
+JDG 18:15	1	10	παιδαρίου	παιδάριον	noun, genitive neuter singular	1	young man
 JDG 18:15	1	10	παιδαρίου			2	child
 JDG 18:15	1	11	τοῦ	ὁ	article, genitive singular	1	the
 JDG 18:15	1	12	Λευίτου	Λευίτης	noun, genitive masculine singular	1	Levite
@@ -523,7 +523,7 @@ JDG 18:15	1	15	οἶκον			2	household
 JDG 18:15	1	16	Μειχὰ	Μειχά	indeclinable personal name, genitive in context	1	of Meicha
 JDG 18:15	1	16	Μειχὰ			2	of Micah
 JDG 18:15	1	17	καὶ	καί	conjunction	1	and
-JDG 18:15	1	18	ἠσπάσαντο	ἐρωτάω	aorist active indicative, third plural	1	they asked
+JDG 18:15	1	18	ἠσπάσαντο	ἐρωτάω	aorist active indicative, third plural	1	they greeted
 JDG 18:15	1	19	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 JDG 18:15	1	20	εἰς	εἰς	preposition governing the accusative	1	about
 JDG 18:15	1	21	εἰρήνην	εἰρήνη	noun, accusative feminine singular	1	well-being
@@ -667,7 +667,7 @@ JDG 18:19	1	34	ἢ	ἤ	disjunctive conjunction	1	or
 JDG 18:19	1	35	γίνεσθαί	γίνομαι	present middle infinitive	1	to become
 JDG 18:19	1	36	σε	σύ	pronoun, accusative second singular	1	you
 JDG 18:19	1	37	ἱερέα	ἱερεύς	noun, accusative masculine singular	1	priest
-JDG 18:19	1	38	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
+JDG 18:19	1	38	φυλῆς	φυλή	noun, genitive feminine singular	1	of a tribe
 JDG 18:19	1	38	φυλῆς			2	tribe
 JDG 18:19	1	39	καὶ	καί	conjunction	1	and
 JDG 18:19	1	40	συγγενείας	συγγένεια	noun, genitive feminine singular	1	kindred
@@ -850,7 +850,7 @@ JDG 18:26	1	2	ἐπορεύθησαν	πορεύομαι	aorist passive indicati
 JDG 18:26	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 JDG 18:26	1	4	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 JDG 18:26	1	5	Δὰν	Δάν	indeclinable tribal name, genitive in context	1	of Dan
-JDG 18:26	1	6	εἰς	εἰς	preposition with the accusative	1	into
+JDG 18:26	1	6	εἰς	εἰς	preposition with the accusative	1	on
 JDG 18:26	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 18:26	1	8	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 JDG 18:26	1	8	ὁδὸν			2	path
@@ -867,7 +867,7 @@ JDG 18:26	1	17	καὶ	καί	conjunction	1	and
 JDG 18:26	1	18	ἐξένευσε	ἐκνεύω	aorist active indicative, third singular	1	turned away
 JDG 18:26	1	19	καὶ	καί	conjunction	1	and
 JDG 18:26	1	20	ἀνέστρεψεν	ἀναστρέφω	aorist active indicative, third singular	1	returned
-JDG 18:26	1	21	εἰς	εἰς	preposition with the accusative	1	into
+JDG 18:26	1	21	εἰς	εἰς	preposition with the accusative	1	to
 JDG 18:26	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 18:26	1	23	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 JDG 18:26	1	23	οἶκον			2	household
@@ -889,8 +889,8 @@ JDG 18:27	1	13	καὶ	καί	conjunction	1	and
 JDG 18:27	1	14	ἦλθον	ἔρχομαι	aorist active indicative, third plural	1	they came
 JDG 18:27	1	14	ἦλθον			2	they went
 JDG 18:27	1	15	ἕως	ἕως	preposition with genitive	1	until
-JDG 18:27	1	16	Λαισὰ	Λαισά	indeclinable place name, genitive in context	1	Laisa
-JDG 18:27	1	16	Λαισὰ			2	Laish
+JDG 18:27	1	16	Λαισὰ	Λαισά	indeclinable place name, accusative in context	1	Laish
+JDG 18:27	1	16	Λαισὰ			2	Laisa
 JDG 18:27	1	17	ἐπὶ	ἐπί	preposition (case from context)	1	on
 JDG 18:27	1	18	λαὸν	λαός	noun, accusative masculine singular	1	people
 JDG 18:27	1	19	ἡσυχάζοντα	ἡσυχάζω	present active participle, accusative masculine singular	1	living quietly
@@ -1004,7 +1004,7 @@ JDG 18:30	1	23	ἱερεῖς	ἱερεύς	noun, nominative masculine plural	1	
 JDG 18:30	1	24	τῇ	ὁ	article, dative feminine singular	1	for the
 JDG 18:30	1	25	φυλῇ	φυλή	noun, dative feminine singular	1	tribe
 JDG 18:30	1	26	Δὰν	Δάν	indeclinable tribal name, genitive in context	1	of Dan
-JDG 18:30	1	27	ἕως	ἕως	preposition with the genitive	1	as far as
+JDG 18:30	1	27	ἕως	ἕως	preposition of temporal limit	1	until
 JDG 18:30	1	27	ἕως			2	up to
 JDG 18:30	1	28	τῆς	ὁ	article, genitive feminine singular	1	the
 JDG 18:30	1	29	μετοικεσίας	μετοικεσία	noun, genitive feminine singular	1	exile
@@ -1032,5 +1032,5 @@ JDG 18:31	1	15	οἶκος	οἶκος	noun, nominative masculine singular	1	hou
 JDG 18:31	1	16	τοῦ	ὁ	article, genitive masculine singular	1	of
 JDG 18:31	1	17	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 JDG 18:31	1	18	ἐν	ἐν	preposition with the dative	1	in
-JDG 18:31	1	19	Σηλώ	Σηλώ	indeclinable place name, dative in context	1	Selo
-JDG 18:31	1	19	Σηλώ			2	Shiloh
+JDG 18:31	1	19	Σηλώ	Σηλώ	indeclinable place name, dative in context	1	Shiloh
+JDG 18:31	1	19	Σηλώ			2	Selo

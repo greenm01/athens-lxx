@@ -22,7 +22,7 @@ NUM 3:2	1	1	καὶ	καί	conjunction	1	and
 NUM 3:2	1	2	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 NUM 3:2	1	3	τὰ	ὁ	article, nominative neuter plural	1	the
 NUM 3:2	1	4	ὀνόματα	ὄνομα	noun, nominative neuter plural	1	names
-NUM 3:2	1	5	τῶν	ὁ	article, genitive plural	1	the
+NUM 3:2	1	5	τῶν	ὁ	article, genitive plural	1	of the
 NUM 3:2	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 3:2	1	7	Ἀαρών	Ἀαρών	indeclinable personal name, genitive in context	1	Aaron
 NUM 3:2	1	8	πρωτότοκος	πρωτότοκος	substantival adjective, nominative masculine singular	1	firstborn
@@ -36,7 +36,7 @@ NUM 3:2	1	15	Ἰθάμαρ	Ἰθάμαρ	indeclinable personal name, accusative 
 NUM 3:3	1	1	Ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 NUM 3:3	1	2	τὰ	ὁ	article, nominative neuter plural	1	the
 NUM 3:3	1	3	ὀνόματα	ὄνομα	noun, nominative neuter plural	1	names
-NUM 3:3	1	4	τῶν	ὁ	article, genitive plural	1	the
+NUM 3:3	1	4	τῶν	ὁ	article, genitive plural	1	of the
 NUM 3:3	1	5	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 3:3	1	6	Ἀαρὼν	Ἀαρών	proper noun, indeclinable; genitive masculine singular	1	Aaron
 NUM 3:3	1	7	οἱ	ὁ	article, nominative masculine plural; introduces an appositive	1	the
@@ -94,8 +94,8 @@ NUM 3:5	1	5	Μωυσῆν	Μωυσῆς	personal name, accusative masculine sing
 NUM 3:5	1	6	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 NUM 3:6	1	1	λάβε	λαμβάνω	aorist active imperative, second singular	1	take
 NUM 3:6	1	2	τὴν	ὁ	article, accusative feminine singular	1	the
-NUM 3:6	1	3	φυλὴν	φυλή	noun, accusative feminine singular	1	clan
-NUM 3:6	1	3	φυλὴν			2	tribe
+NUM 3:6	1	3	φυλὴν	φυλή	noun, accusative feminine singular	1	tribe
+NUM 3:6	1	3	φυλὴν			2	clan
 NUM 3:6	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 3:6	1	5	Λευὶ	Λευί	indeclinable personal name, genitive in context	1	of Levi
 NUM 3:6	1	6	καὶ	καί	conjunction	1	and
@@ -136,9 +136,9 @@ NUM 3:7	1	21	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 3:7	1	22	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
 NUM 3:8	1	1	καὶ	καί	conjunction	1	and
 NUM 3:8	1	2	φυλάξουσι	φυλάσσω	future active indicative, third plural	1	they will keep
-NUM 3:8	1	3	πάντα	πᾶς	adjective, accusative neuter plural	1	all things
+NUM 3:8	1	3	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 3:8	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 3:8	1	5	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+NUM 3:8	1	5	σκεύη	σκεῦος	noun, accusative neuter plural	1	equipment
 NUM 3:8	1	5	σκεύη			2	goods
 NUM 3:8	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 3:8	1	7	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
@@ -159,7 +159,7 @@ NUM 3:8	1	19	ἔργα	ἔργον	noun, accusative neuter plural	1	labors
 NUM 3:8	1	20	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 3:8	1	21	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
 NUM 3:9	1	1	καὶ	καί	conjunction	1	and
-NUM 3:9	1	2	δώσεις	δίδωμι	future active indicative, second singular	1	will you give
+NUM 3:9	1	2	δώσεις	δίδωμι	future active indicative, second singular	1	you shall give
 NUM 3:9	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 3:9	1	4	Λευίτας	Λευίτης	proper noun, accusative masculine plural	1	Levites
 NUM 3:9	1	5	Ἀαρὼν	Ἀαρών	indeclinable personal name, dative in context	1	to Aaron
@@ -177,7 +177,7 @@ NUM 3:9	1	16	δεδομένοι	δίδωμι	perfect passive participle, nominat
 NUM 3:9	1	17	οὗτοί	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 NUM 3:9	1	18	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 NUM 3:9	1	19	εἰσὶν	εἰμί	present indicative, third plural with οὐκ	1	are
-NUM 3:9	1	20	ἀπὸ	ἀπό	preposition with the genitive	1	by
+NUM 3:9	1	20	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 3:9	1	21	τῶν	ὁ	article, genitive masculine plural	1	the
 NUM 3:9	1	22	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 3:9	1	23	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -188,7 +188,7 @@ NUM 3:10	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 3:10	1	5	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
 NUM 3:10	1	6	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 NUM 3:10	1	7	καταστήσεις	καθίστημι	future active indicative, second singular	1	you shall appoint
-NUM 3:10	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 3:10	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 3:10	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 3:10	1	10	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
 NUM 3:10	1	11	τοῦ	ὁ	article, genitive neuter singular	1	of the
@@ -233,11 +233,11 @@ NUM 3:12	1	6	Λευίτας	Λευίτης	proper noun, accusative masculine plu
 NUM 3:12	1	7	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 3:12	1	8	μέσου	μέσος	adjective, genitive neuter singular; substantival	1	midst
 NUM 3:12	1	8	μέσου			2	middle
-NUM 3:12	1	9	τῶν	ὁ	article, genitive plural	1	the
+NUM 3:12	1	9	τῶν	ὁ	article, genitive plural	1	of the
 NUM 3:12	1	10	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 3:12	1	11	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 3:12	1	12	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
-NUM 3:12	1	13	παντὸς	πᾶς	adjective, genitive neuter singular	1	any
+NUM 3:12	1	13	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
 NUM 3:12	1	14	πρωτοτόκου	πρωτότοκος	noun, genitive masculine singular after ἀπὸ/τοῦ/ἕως	1	firstborn
 NUM 3:12	1	15	διανοίγοντος	διανοίγω	present active participle, genitive neuter singular	1	that opens
 NUM 3:12	1	16	μήτραν	μήτρα	noun, accusative fem. sg.	1	the womb
@@ -275,7 +275,7 @@ NUM 3:13	1	18	ἐν	ἐν	preposition with the dative	1	in
 NUM 3:13	1	19	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, nominative in context	1	Israel
 NUM 3:13	1	20	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 3:13	1	21	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a man
-NUM 3:13	1	22	ἕως	ἕως	temporal conjunction/preposition	1	until
+NUM 3:13	1	22	ἕως	ἕως	temporal conjunction/preposition	1	to
 NUM 3:13	1	23	κτήνους	κτῆνος	noun, genitive neuter singular after ἕως	1	beast
 NUM 3:13	1	24	ἐμοὶ	ἐγώ	pronoun, dative 1st sg. tonic 'mine	1	mine
 NUM 3:13	1	25	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
@@ -311,7 +311,7 @@ NUM 3:15	1	16	ἀρσενικὸν	ἀρσενικός	adjective, nominative neu
 NUM 3:15	1	17	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 3:15	1	18	μηνιαίου	μηνιαῖος	adjective, genitive masculine singular; used substantivally	1	one month old
 NUM 3:15	1	19	καὶ	καί	conjunction	1	and
-NUM 3:15	1	20	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 3:15	1	20	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 3:15	1	20	ἐπάνω			2	above
 NUM 3:15	1	21	ἀριθμήσονται	ἀριθμέω	future passive indicative, third plural	1	shall be numbered
 NUM 3:15	1	22	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -321,7 +321,7 @@ NUM 3:16	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	t
 NUM 3:16	1	4	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses
 NUM 3:16	1	5	καὶ	καί	conjunction	1	and
 NUM 3:16	1	6	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
-NUM 3:16	1	7	διὰ	διά	preposition with the accusative	1	because of
+NUM 3:16	1	7	διὰ	διά	preposition with the accusative	1	by
 NUM 3:16	1	8	φωνῆς	φωνή	noun, genitive fem. sg. after τῆς	1	voice
 NUM 3:16	1	9	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 NUM 3:16	1	10	καθὰ	καθά	comparative conjunction	1	just as
@@ -415,7 +415,7 @@ NUM 3:22	1	7	ἀρσενικοῦ	ἀρσενικός	adjective, genitive neuter
 NUM 3:22	1	8	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 3:22	1	9	μηνιαίου	μηνιαῖος	adjective, genitive masculine singular; used substantivally	1	one month old
 NUM 3:22	1	10	καὶ	καί	conjunction	1	and
-NUM 3:22	1	11	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 3:22	1	11	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 3:22	1	11	ἐπάνω			2	above
 NUM 3:22	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
 NUM 3:22	1	13	ἀριθμὸς	ἀριθμός	noun, nominative masculine singular	1	number
@@ -428,7 +428,7 @@ NUM 3:23	1	2	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine
 NUM 3:23	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 NUM 3:23	1	4	δῆμοι	δῆμος	noun, nominative masculine plural	1	clans
 NUM 3:23	1	5	Γεδσὼν	Γεδσών	indeclinable personal name, nominative in context	1	Gershon
-NUM 3:23	1	6	ὀπίσω	ὀπίσω	preposition with genitive	1	after
+NUM 3:23	1	6	ὀπίσω	ὀπίσω	preposition with genitive	1	behind
 NUM 3:23	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 3:23	1	8	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
 NUM 3:23	1	9	παρεμβαλοῦσι	παρεμβάλλω	future active indicative, third plural	1	shall camp
@@ -493,7 +493,7 @@ NUM 3:26	1	8	καταπέτασμα	καταπέτασμα	noun, accusative neut
 NUM 3:26	1	8	καταπέτασμα			2	veil
 NUM 3:26	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 3:26	1	10	πύλης	πύλη	noun, genitive feminine singular	1	gate
-NUM 3:26	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
+NUM 3:26	1	11	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 3:26	1	12	αὐλῆς	αὐλή	noun, genitive feminine singular	1	courtyard
 NUM 3:26	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 3:26	1	14	οὔσης	εἰμί	present active participle, genitive feminine singular	1	which is
@@ -544,7 +544,7 @@ NUM 3:28	1	4	ἀρσενικὸν	ἀρσενικός	adjective, nominative neut
 NUM 3:28	1	5	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 3:28	1	6	μηνιαίου	μηνιαῖος	adjective, genitive masculine singular; used substantivally	1	one month old
 NUM 3:28	1	7	καὶ	καί	conjunction	1	and
-NUM 3:28	1	8	ἐπάνω	ἐπάνω	improper preposition with genitive	1	near
+NUM 3:28	1	8	ἐπάνω	ἐπάνω	improper preposition with genitive	1	upward
 NUM 3:28	1	8	ἐπάνω			2	over
 NUM 3:28	1	9	ὀκτακισχίλιοι	ὀκτακισχίλιοι	cardinal numeral, nominative masculine plural	1	eight thousand
 NUM 3:28	1	10	καὶ	καί	conjunction	1	and
@@ -566,7 +566,7 @@ NUM 3:29	1	8	πλαγίων	πλάγιος	substantival adjective, genitive neut
 NUM 3:29	1	8	πλαγίων			2	the sides
 NUM 3:29	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 3:29	1	10	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
-NUM 3:29	1	11	κατὰ	κατά	preposition with the accusative	1	according to
+NUM 3:29	1	11	κατὰ	κατά	preposition with the accusative	1	toward
 NUM 3:29	1	12	λίβα	λίψ	noun, accusative masculine singular; a point of the compass	1	southwest
 NUM 3:29	1	12	λίβα			2	the southwest wind
 NUM 3:30	1	1	καὶ	καί	conjunction	1	and
@@ -601,13 +601,13 @@ NUM 3:31	1	14	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 3:31	1	15	θυσιαστήρια	θυσιαστήριον	noun, accusative neuter plural	1	altars
 NUM 3:31	1	16	καὶ	καί	conjunction	1	and
 NUM 3:31	1	17	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 3:31	1	18	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+NUM 3:31	1	18	σκεύη	σκεῦος	noun, accusative neuter plural	1	equipment
 NUM 3:31	1	18	σκεύη			2	goods
 NUM 3:31	1	19	τοῦ	ὁ	article, genitive neuter singular	1	of the
 NUM 3:31	1	20	ἁγίου	ἅγιος	substantival adjective, genitive neuter singular	1	holy place
 NUM 3:31	1	21	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
 NUM 3:31	1	22	λειτουργοῦσιν	λειτουργέω	present active indicative, third plural	1	they minister
-NUM 3:31	1	23	ἐν	ἐν	preposition with the dative	1	in
+NUM 3:31	1	23	ἐν	ἐν	preposition with the dative	1	with
 NUM 3:31	1	24	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 NUM 3:31	1	25	καὶ	καί	conjunction	1	and
 NUM 3:31	1	26	τὸ	ὁ	article, nominative neuter singular	1	the
@@ -623,7 +623,7 @@ NUM 3:32	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 NUM 3:32	1	3	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 NUM 3:32	1	3	ἄρχων			2	chief
 NUM 3:32	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
-NUM 3:32	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 3:32	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 3:32	1	6	τῶν	ὁ	article, genitive masculine plural	1	the
 NUM 3:32	1	7	ἀρχόντων	ἄρχων	noun, genitive masculine plural	1	leaders
 NUM 3:32	1	8	τῶν	ὁ	article, genitive masculine plural	1	the
@@ -668,7 +668,7 @@ NUM 3:34	1	7	ἀρσενικὸν	ἀρσενικός	adjective, nominative neut
 NUM 3:34	1	8	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 3:34	1	9	μηνιαίου	μηνιαῖος	adjective, genitive masculine singular; used substantivally	1	one month old
 NUM 3:34	1	10	καὶ	καί	conjunction	1	and
-NUM 3:34	1	11	ἐπάνω	ἐπάνω	improper preposition with genitive	1	near
+NUM 3:34	1	11	ἐπάνω	ἐπάνω	improper preposition with genitive	1	upward
 NUM 3:34	1	11	ἐπάνω			2	over
 NUM 3:34	1	12	ἑξακισχίλιοι	ἑξακισχίλιοι	cardinal numeral, nominative masculine plural	1	six thousand
 NUM 3:34	1	13	καὶ	καί	conjunction	1	and
@@ -792,7 +792,7 @@ NUM 3:38	1	26	φυλακὰς	φυλακή	noun, accusative feminine plural	1	ch
 NUM 3:38	1	26	φυλακὰς			2	guard duties
 NUM 3:38	1	27	τοῦ	ὁ	article, genitive neuter singular	1	of the
 NUM 3:38	1	28	ἁγίου	ἅγιος	substantival adjective, genitive neuter singular	1	holy place
-NUM 3:38	1	29	εἰς	εἰς	preposition with the accusative	1	into
+NUM 3:38	1	29	εἰς	εἰς	preposition with the accusative	1	for
 NUM 3:38	1	30	τὰς	ὁ	article, accusative feminine plural	1	the
 NUM 3:38	1	31	φυλακὰς	φυλακή	noun, accusative feminine plural	1	charges
 NUM 3:38	1	31	φυλακὰς			2	guard duties
@@ -816,7 +816,7 @@ NUM 3:39	1	7	ἐπεσκέψατο	ἐπισκέπτομαι	aorist middle indic
 NUM 3:39	1	8	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses
 NUM 3:39	1	9	καὶ	καί	conjunction	1	and
 NUM 3:39	1	10	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
-NUM 3:39	1	11	διὰ	διά	preposition with the accusative	1	because of
+NUM 3:39	1	11	διὰ	διά	preposition with the accusative	1	by
 NUM 3:39	1	12	φωνῆς	φωνή	noun, genitive fem. sg. after τῆς	1	voice
 NUM 3:39	1	13	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 NUM 3:39	1	14	κατὰ	κατά	preposition with the accusative	1	according to
@@ -827,7 +827,7 @@ NUM 3:39	1	18	ἀρσενικὸν	ἀρσενικός	adjective, nominative neu
 NUM 3:39	1	19	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 3:39	1	20	μηνιαίου	μηνιαῖος	adjective, genitive masculine singular; used substantivally	1	one month old
 NUM 3:39	1	21	καὶ	καί	conjunction	1	and
-NUM 3:39	1	22	ἐπάνω	ἐπάνω	improper preposition with genitive	1	near
+NUM 3:39	1	22	ἐπάνω	ἐπάνω	improper preposition with genitive	1	upward
 NUM 3:39	1	22	ἐπάνω			2	over
 NUM 3:39	1	23	δύο	δύο	cardinal numeral, genitive here	1	two
 NUM 3:39	1	24	καὶ	καί	conjunction	1	and
@@ -849,14 +849,14 @@ NUM 3:40	1	13	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive 
 NUM 3:40	1	14	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 3:40	1	15	μηνιαίου	μηνιαῖος	adjective, genitive masculine singular; used substantivally	1	one month old
 NUM 3:40	1	16	καὶ	καί	conjunction	1	and
-NUM 3:40	1	17	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 3:40	1	17	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 3:40	1	17	ἐπάνω			2	above
 NUM 3:40	1	18	καὶ	καί	conjunction	1	and
 NUM 3:40	1	19	λάβε	λαμβάνω	aorist active imperative, second singular	1	take
 NUM 3:40	1	20	τὸν	ὁ	article, accusative masculine singular	1	the
 NUM 3:40	1	21	ἀριθμὸν	ἀριθμός	noun, accusative masc. sg. after κατὰ	1	number
 NUM 3:40	1	22	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-NUM 3:40	1	23	ἐξ	ἐκ	preposition with the genitive	1	from
+NUM 3:40	1	23	ἐξ	ἐκ	preposition with the genitive	1	by
 NUM 3:40	1	24	ὀνόματος	ὄνομα	noun, genitive neuter singular governed by ἕνεκεν	1	name
 NUM 3:41	1	1	καὶ	καί	conjunction	1	and
 NUM 3:41	1	2	λήψῃ	λαμβάνω	future middle indicative, second singular	1	you shall take
@@ -881,7 +881,7 @@ NUM 3:41	1	20	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
 NUM 3:41	1	21	πάντων	πᾶς	substantival adjective, genitive masculine plural	1	all
 NUM 3:41	1	22	τῶν	ὁ	article, genitive plural	1	the
 NUM 3:41	1	23	πρωτοτόκων	πρωτότοκος	substantival adjective, genitive neuter plural	1	firstborn
-NUM 3:41	1	24	ἐν	ἐν	preposition with the dative	1	in
+NUM 3:41	1	24	ἐν	ἐν	preposition with the dative	1	among
 NUM 3:41	1	25	τοῖς	ὁ	article, dative neuter plural	1	the
 NUM 3:41	1	26	κτήνεσι	κτῆνος	noun, dative neuter plural after τοῖς	1	livestock
 NUM 3:41	1	27	τῶν	ὁ	article, genitive plural	1	the
@@ -897,7 +897,7 @@ NUM 3:42	1	7	Κύριος	κύριος	noun, nominative masculine singular	1	the
 NUM 3:42	1	8	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 NUM 3:42	1	9	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 NUM 3:42	1	10	πρωτότοκον	πρωτότοκος	adjective/noun, nominative neuter singular after πᾶν	1	a firstborn
-NUM 3:42	1	11	ἐν	ἐν	preposition with the dative	1	in
+NUM 3:42	1	11	ἐν	ἐν	preposition with the dative	1	among
 NUM 3:42	1	12	τοῖς	ὁ	article, dative masculine plural	1	the
 NUM 3:42	1	13	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 NUM 3:42	1	14	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -910,12 +910,12 @@ NUM 3:43	1	5	πρωτότοκα	πρωτότοκος	adjective, accusative neute
 NUM 3:43	1	6	ἀρσενικὰ	ἀρσενικός	adjective, nominative/accusative neut. pl.	1	males
 NUM 3:43	1	7	κατὰ	κατά	preposition with the accusative	1	in
 NUM 3:43	1	8	ἀριθμὸν	ἀριθμός	noun, accusative masc. sg. after κατὰ	1	number
-NUM 3:43	1	9	ἐξ	ἐκ	preposition with the genitive	1	from
+NUM 3:43	1	9	ἐξ	ἐκ	preposition with the genitive	1	by
 NUM 3:43	1	10	ὀνόματος	ὄνομα	noun, genitive neuter singular governed by ἕνεκεν	1	name
 NUM 3:43	1	11	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 3:43	1	12	μηνιαίου	μηνιαῖος	adjective, genitive masculine singular; used substantivally	1	one month old
 NUM 3:43	1	13	καὶ	καί	conjunction	1	and
-NUM 3:43	1	14	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 3:43	1	14	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 3:43	1	14	ἐπάνω			2	above
 NUM 3:43	1	15	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 3:43	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -1001,7 +1001,7 @@ NUM 3:47	1	15	ὀβολοὶ	ὀβολός	noun, nominative masculine plural	1	o
 NUM 3:47	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
 NUM 3:47	1	17	σίκλος	σίκλος	noun, nominative masculine singular	1	shekel
 NUM 3:48	1	1	καὶ	καί	conjunction	1	and
-NUM 3:48	1	2	δώσεις	δίδωμι	future active indicative, second singular	1	will you give
+NUM 3:48	1	2	δώσεις	δίδωμι	future active indicative, second singular	1	you shall give
 NUM 3:48	1	3	τὸ	ὁ	article, accusative neuter singular	1	the
 NUM 3:48	1	4	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular after τὸ, silver/money (from context)	1	silver
 NUM 3:48	1	5	Ἀαρὼν	Ἀαρών	proper noun, indeclinable; dative in context	1	for Aaron
@@ -1013,7 +1013,7 @@ NUM 3:48	1	10	λύτρα	λύτρον	noun, accusative neuter plural	1	ransom
 NUM 3:48	1	10	λύτρα			2	redemption payment
 NUM 3:48	1	11	τῶν	ὁ	article, genitive masculine plural	1	of the
 NUM 3:48	1	12	πλεοναζόντων	πλεονάζω	present active participle, genitive masculine plural; used substantivally	1	those in excess
-NUM 3:48	1	13	ἐν	ἐν	preposition with the dative	1	in
+NUM 3:48	1	13	ἐν	ἐν	preposition with the dative	1	among
 NUM 3:48	1	14	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 NUM 3:49	1	1	Καὶ	καί	conjunction	1	and
 NUM 3:49	1	2	ἔλαβε	λαμβάνω	aorist active indicative, third singular	1	took
@@ -1027,7 +1027,7 @@ NUM 3:49	1	8	τῶν	ὁ	article, genitive plural	1	the
 NUM 3:49	1	9	πλεοναζόντων	πλεονάζω	present active participle, genitive masculine plural; used substantivally	1	those in excess
 NUM 3:49	1	10	ἐν	ἐν	preposition with the dative	1	in
 NUM 3:49	1	11	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
-NUM 3:49	1	12	εἰς	εἰς	preposition with the accusative	1	into
+NUM 3:49	1	12	εἰς	εἰς	preposition with the accusative	1	for
 NUM 3:49	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 3:49	1	14	ἐκλύτρωσιν	ἐκλύτρωσις	noun, accusative feminine singular	1	redemption
 NUM 3:49	1	15	τῶν	ὁ	article, genitive plural	1	the

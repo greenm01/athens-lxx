@@ -45,7 +45,7 @@ RUT 4:2	1	5	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
 RUT 4:2	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
 RUT 4:2	1	7	τῶν	ὁ	article, genitive plural	1	the
 RUT 4:2	1	8	πρεσβυτέρων	πρεσβύτερος	adjective, genitive masculine plural; substantival	1	elders
-RUT 4:2	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
+RUT 4:2	1	9	τῆς	ὁ	article, genitive feminine singular	1	of the
 RUT 4:2	1	10	πόλεως	πόλις	noun, genitive feminine singular	1	city
 RUT 4:2	1	10	πόλεως			2	town
 RUT 4:2	1	11	καὶ	καί	conjunction	1	and
@@ -53,7 +53,7 @@ RUT 4:2	1	12	εἶπε	λέγω	aorist active indicative, third singular	1	said
 RUT 4:2	1	13	καθίσατε	καθίζω	aorist active imperative, second plural	1	sit down
 RUT 4:2	1	14	ὧδε	ὧδε	adverb	1	here
 RUT 4:2	1	15	Καὶ	καί	conjunction	1	and
-RUT 4:2	1	16	ἐκάθισαν	καθίζω	aorist active indicative, third plural	1	sat down
+RUT 4:2	1	16	ἐκάθισαν	καθίζω	aorist active indicative, third plural	1	they sat down
 RUT 4:3	1	1	Καὶ	καί	conjunction	1	and
 RUT 4:3	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 RUT 4:3	1	3	Βοὸς	Βοός	indeclinable personal name	1	Boaz
@@ -86,8 +86,8 @@ RUT 4:3	1	24	ἀγροῦ	ἀγρός	noun, genitive masculine singular	1	field
 RUT 4:3	1	25	Μωάβ	Μωάβ	indeclinable place name, genitive in context	1	of Moab
 RUT 4:4	1	1	Κἀγὼ	κἀγώ	crasis of καί and ἐγώ	1	and I
 RUT 4:4	1	2	εἶπα	λέγω	aorist active indicative, first singular	1	I said
-RUT 4:4	1	3	ἀποκαλύψω	ἀποκαλύπτω	future active indicative, first singular; ἀποκαλύπτω τὸ οὖς idiom	1	I will tell
-RUT 4:4	1	3	ἀποκαλύψω			2	I will uncover
+RUT 4:4	1	3	ἀποκαλύψω	ἀποκαλύπτω	future active indicative, first singular; ἀποκαλύπτω τὸ οὖς idiom	1	I will uncover
+RUT 4:4	1	3	ἀποκαλύψω			2	I will tell
 RUT 4:4	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
 RUT 4:4	1	5	οὖς	οὖς	noun, accusative neuter singular; with ἀποκαλύπτω	1	ear
 RUT 4:4	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -118,7 +118,7 @@ RUT 4:4	1	26	ἀνάγγειλόν	ἀναγγέλλω	aorist active imperative,
 RUT 4:4	1	27	μοι	ἐγώ	pronoun, dative first singular	1	to me
 RUT 4:4	1	28	καὶ	καί	conjunction	1	and
 RUT 4:4	1	29	γνώσομαι	γινώσκω	future middle indicative, first singular	1	I will know
-RUT 4:4	1	30	ὅτι	ὅτι	conjunction introducing a content clause	1	that
+RUT 4:4	1	30	ὅτι	ὅτι	conjunction introducing a content clause	1	because
 RUT 4:4	1	31	οὐκ	οὐ	negative particle	1	not
 RUT 4:4	1	32	ἔστι	εἰμί	present active indicative, third singular	1	is
 RUT 4:4	1	33	πάρεξ	πάρεξ	preposition with genitive	1	besides
@@ -160,7 +160,7 @@ RUT 4:5	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
 RUT 4:5	1	18	Μωαβίτιδος	Μωαβῖτις	noun, genitive feminine singular; gentilic noun	1	Moabite woman
 RUT 4:5	1	19	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
 RUT 4:5	1	20	τοῦ	ὁ	article, genitive masculine singular	1	of the
-RUT 4:5	1	21	τεθνηκότος	θνῄσκω	perfect active participle, genitive masculine singular; substantival	1	the man who died
+RUT 4:5	1	21	τεθνηκότος	θνῄσκω	perfect active participle, genitive masculine singular; substantival	1	man who died
 RUT 4:5	1	21	τεθνηκότος			2	the deceased
 RUT 4:5	1	22	καὶ	καί	conjunction	1	and
 RUT 4:5	1	23	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
@@ -176,7 +176,7 @@ RUT 4:5	1	29	σε	σύ	personal pronoun, accusative second singular; subject of 
 RUT 4:5	1	30	τὸ	ὁ	article, accusative neuter singular	1	the
 RUT 4:5	1	31	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 RUT 4:5	1	32	τοῦ	ὁ	article, genitive masculine singular	1	of the
-RUT 4:5	1	33	τεθνηκότος	θνῄσκω	perfect active participle, genitive masculine singular; substantival	1	the man who died
+RUT 4:5	1	33	τεθνηκότος	θνῄσκω	perfect active participle, genitive masculine singular; substantival	1	man who died
 RUT 4:5	1	33	τεθνηκότος			2	the deceased
 RUT 4:5	1	34	ἐπὶ	ἐπί	preposition with the genitive	1	upon
 RUT 4:5	1	35	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -285,16 +285,16 @@ RUT 4:8	1	14	τὸ	ὁ	article, accusative neuter singular	1	the
 RUT 4:8	1	15	ὑπόδημα	ὑπόδημα	noun, accusative neuter singular	1	sandal
 RUT 4:8	1	16	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 RUT 4:8	1	17	καὶ	καί	conjunction	1	and
-RUT 4:8	1	18	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
+RUT 4:8	1	18	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave it
 RUT 4:8	1	19	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 RUT 4:9	1	1	Καὶ	καί	conjunction	1	and
 RUT 4:9	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 RUT 4:9	1	3	Βοὸς	Βοός	indeclinable personal name	1	Boaz
 RUT 4:9	1	3	Βοὸς			2	Boos
-RUT 4:9	1	4	τοῖς	ὁ	article, dative masculine plural	1	the
+RUT 4:9	1	4	τοῖς	ὁ	article, dative masculine plural	1	to the
 RUT 4:9	1	5	πρεσβυτέροις	πρεσβύτερος	adjective, dative masculine plural; substantival	1	elders
 RUT 4:9	1	6	καὶ	καί	conjunction	1	and
-RUT 4:9	1	7	παντὶ	πᾶς	adjective, dative masculine singular; modifies οἴκῳ	1	all
+RUT 4:9	1	7	παντὶ	πᾶς	adjective, dative masculine singular; modifies οἴκῳ	1	to all
 RUT 4:9	1	8	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 RUT 4:9	1	9	λαῷ	λαός	noun, dative masculine singular	1	people
 RUT 4:9	1	10	μάρτυρες	μάρτυς	noun, nominative masculine plural	1	witnesses
@@ -310,7 +310,7 @@ RUT 4:9	1	19	καὶ	καί	conjunction	1	and
 RUT 4:9	1	20	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 RUT 4:9	1	21	ὅσα	ὅσος	relative adjective, nominative neuter plural	1	that
 RUT 4:9	1	21	ὅσα			2	which
-RUT 4:9	1	22	ὑπάρχει	ὑπάρχω	present active indicative, third singular after οὐχ 'is no more'	1	is
+RUT 4:9	1	22	ὑπάρχει	ὑπάρχω	present active indicative, third singular after οὐχ 'is no more'	1	belongs
 RUT 4:9	1	23	τῷ	ὁ	article, dative masculine singular	1	the
 RUT 4:9	1	24	Χαιλεὼν	Χελεών	indeclinable personal name, dative in context; Athens spelling Χαιλεών	1	Chaileon
 RUT 4:9	1	24	Χαιλεὼν			2	Chilion
@@ -340,7 +340,7 @@ RUT 4:10	1	14	ἀναστῆσαι			2	to preserve
 RUT 4:10	1	15	τὸ	ὁ	article, accusative neuter singular	1	the
 RUT 4:10	1	16	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 RUT 4:10	1	17	τοῦ	ὁ	article, genitive masculine singular	1	of the
-RUT 4:10	1	18	τεθνηκότος	θνῄσκω	perfect active participle, genitive masculine singular; substantival	1	the man who died
+RUT 4:10	1	18	τεθνηκότος	θνῄσκω	perfect active participle, genitive masculine singular; substantival	1	man who died
 RUT 4:10	1	18	τεθνηκότος			2	the deceased
 RUT 4:10	1	19	ἐπὶ	ἐπί	preposition with the genitive	1	upon
 RUT 4:10	1	20	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -354,7 +354,7 @@ RUT 4:10	1	25	ἐξολοθρευθήσεται			2	will be destroyed
 RUT 4:10	1	26	τὸ	ὁ	article, accusative neuter singular	1	the
 RUT 4:10	1	27	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 RUT 4:10	1	28	τοῦ	ὁ	article, genitive masculine singular	1	of the
-RUT 4:10	1	29	τεθνηκότος	θνῄσκω	perfect active participle, genitive masculine singular; substantival	1	the man who died
+RUT 4:10	1	29	τεθνηκότος	θνῄσκω	perfect active participle, genitive masculine singular; substantival	1	man who died
 RUT 4:10	1	29	τεθνηκότος			2	the deceased
 RUT 4:10	1	30	ἐκ	ἐκ	preposition with the genitive	1	from
 RUT 4:10	1	31	τῶν	ὁ	article, genitive plural	1	the
@@ -551,7 +551,7 @@ RUT 4:16	1	3	Νοεμμεὶν			2	Noemmein
 RUT 4:16	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
 RUT 4:16	1	5	παιδίον	παιδίον	noun, accusative neuter singular	1	child
 RUT 4:16	1	6	καὶ	καί	conjunction	1	and
-RUT 4:16	1	7	ἔθηκεν	τίθημι	aorist active indicative, third person singular	1	placed
+RUT 4:16	1	7	ἔθηκεν	τίθημι	aorist active indicative, third person singular	1	placed him
 RUT 4:16	1	8	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	him
 RUT 4:16	1	9	εἰς	εἰς	preposition with the accusative	1	to
 RUT 4:16	1	9	εἰς			2	unto
@@ -584,7 +584,7 @@ RUT 4:17	1	14	τὸ	ὁ	article, accusative neuter singular	1	the
 RUT 4:17	1	15	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 RUT 4:17	1	16	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
 RUT 4:17	1	17	Ὠβήδ	Ὠβήδ	indeclinable personal name	1	Obed
-RUT 4:17	1	18	Οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this one
+RUT 4:17	1	18	Οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	he is
 RUT 4:17	1	18	Οὗτος			2	he
 RUT 4:17	1	19	πατὴρ	πατήρ	noun, nominative masculine singular	1	father
 RUT 4:17	1	20	Ἰεσσαὶ	Ἰεσσαί	indeclinable personal name, genitive in context	1	of Jesse

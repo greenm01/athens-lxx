@@ -49,7 +49,7 @@ GEN 23:3	1	9	εἶπεν	λέγω	aorist active indicative, third singular	1	sai
 GEN 23:3	1	10	Ἁβραὰμ	Ἁβραάμ	proper noun, indeclinable; nominative masculine singular	1	Abraham
 GEN 23:3	1	11	τοῖς	ὁ	article, dative masculine plural	1	to the
 GEN 23:3	1	12	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
-GEN 23:3	1	13	Χὲτ	Χέτ	proper noun, indeclinable; genitive masculine singular	1	Heth
+GEN 23:3	1	13	Χὲτ	Χέτ	indeclinable proper name, genitive in context	1	of Heth
 GEN 23:3	1	14	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 GEN 23:4	1	1	πάροικος	πάροικος	adjective, nominative masculine singular; used substantivally	1	resident foreigner
 GEN 23:4	1	2	καὶ	καί	conjunction	1	and
@@ -79,11 +79,11 @@ GEN 23:5	1	1	Ἀπεκρίθησαν	ἀποκρίνομαι	aorist passive indi
 GEN 23:5	1	2	δὲ	δέ	postpositive conjunction	1	now
 GEN 23:5	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 GEN 23:5	1	4	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-GEN 23:5	1	5	Χὲτ	Χέτ	proper noun, indeclinable; genitive masculine singular	1	Heth
+GEN 23:5	1	5	Χὲτ	Χέτ	indeclinable proper name, genitive in context	1	of Heth
 GEN 23:5	1	6	πρὸς	πρός	preposition with the accusative	1	to
 GEN 23:5	1	7	Ἁβραὰμ	Ἁβραάμ	proper noun, indeclinable; accusative masculine singular	1	Abraham
 GEN 23:5	1	8	λέγοντες	λέγω	present active participle, nominative masculine plural	1	saying
-GEN 23:5	1	9	μὴ	μή	negative particle	1	not
+GEN 23:5	1	9	μὴ	μή	negative particle	1	no
 GEN 23:5	1	10	κύριε	κύριος	noun, vocative masculine singular	1	sir
 GEN 23:5	1	10	κύριε			2	my lord
 GEN 23:6	1	1	ἄκουσον	ἀκούω	aorist active imperative, second singular	1	listen to
@@ -128,11 +128,11 @@ GEN 23:7	1	3	Ἁβραὰμ	Ἁβραάμ	proper noun, indeclinable; nominative 
 GEN 23:7	1	4	προσεκύνησε	προσκυνέω	aorist active indicative, third singular	1	bowed down
 GEN 23:7	1	5	τῷ	ὁ	article, dative masculine singular	1	to the
 GEN 23:7	1	6	λαῷ	λαός	noun, dative masculine singular	1	people
-GEN 23:7	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 23:7	1	7	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 23:7	1	8	γῆς	γῆ	noun, genitive feminine singular	1	land
 GEN 23:7	1	9	τοῖς	ὁ	article, dative masculine plural	1	to the
 GEN 23:7	1	10	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
-GEN 23:7	1	11	Χέτ	Χέτ	proper noun, indeclinable; genitive masculine singular	1	Heth
+GEN 23:7	1	11	Χέτ	Χέτ	indeclinable proper name, genitive in context	1	of Heth
 GEN 23:8	1	1	καὶ	καί	conjunction	1	and
 GEN 23:8	1	2	ἐλάλησε	λαλέω	aorist active indicative, third singular	1	spoke
 GEN 23:8	1	3	πρὸς	πρός	preposition with the accusative	1	to
@@ -163,9 +163,9 @@ GEN 23:8	1	23	καὶ	καί	conjunction	1	and
 GEN 23:8	1	24	λαλήσατε	λαλέω	aorist active imperative, second plural	1	speak
 GEN 23:8	1	25	περὶ	περί	preposition with genitive	1	on behalf of
 GEN 23:8	1	26	ἐμοῦ	ἐγώ	personal pronoun, genitive first singular; governed by περί	1	me
-GEN 23:8	1	27	Ἐφρὼν	Ἐφρών	proper noun, indeclinable; dative masculine singular	1	Ephron
+GEN 23:8	1	27	Ἐφρὼν	Ἐφρών	indeclinable proper name, dative in context	1	to Ephron
 GEN 23:8	1	28	τῷ	ὁ	article, dative masculine singular; introduces a patronymic	1	[introduces a patronymic]
-GEN 23:8	1	29	τοῦ	ὁ	article, genitive masculine singular	1	of the
+GEN 23:8	1	29	τοῦ	ὁ	article, genitive masculine singular	1	son of
 GEN 23:8	1	30	Σαὰρ	Σαάρ	proper noun, indeclinable; genitive masculine singular	1	Saar
 GEN 23:8	1	30	Σαὰρ			2	Zohar
 GEN 23:9	1	1	καὶ	καί	conjunction	1	and
@@ -208,7 +208,7 @@ GEN 23:10	1	4	ἐν	ἐν	preposition with the dative	1	in
 GEN 23:10	1	5	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
 GEN 23:10	1	6	τῶν	ὁ	article, genitive masculine plural	1	of the
 GEN 23:10	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-GEN 23:10	1	8	Χέτ	Χέτ	proper noun, indeclinable; genitive masculine singular	1	Heth
+GEN 23:10	1	8	Χέτ	Χέτ	indeclinable proper name, genitive in context	1	of Heth
 GEN 23:10	1	9	Ἀποκριθεὶς	ἀποκρίνομαι	aorist passive participle, nominative masculine singular	1	answering
 GEN 23:10	1	10	δὲ	δέ	postpositive conjunction	1	now
 GEN 23:10	1	11	Ἐφρὼν	Ἐφρών	proper noun, indeclinable; nominative masculine singular	1	Ephron
@@ -220,7 +220,7 @@ GEN 23:10	1	16	εἶπεν	λέγω	aorist active indicative, third singular	1	s
 GEN 23:10	1	17	ἀκουόντων	ἀκούω	present active participle, genitive masculine plural	1	hearing
 GEN 23:10	1	18	τῶν	ὁ	article, genitive masculine plural	1	of the
 GEN 23:10	1	19	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-GEN 23:10	1	20	Χὲτ	Χέτ	proper noun, indeclinable; genitive masculine singular	1	Heth
+GEN 23:10	1	20	Χὲτ	Χέτ	indeclinable proper name, genitive in context	1	of Heth
 GEN 23:10	1	21	καὶ	καί	conjunction	1	and
 GEN 23:10	1	22	πάντων	πᾶς	adjective, genitive neuter plural	1	all
 GEN 23:10	1	23	τῶν	ὁ	article, genitive masculine plural; introduces a substantival participle	1	those
@@ -263,7 +263,7 @@ GEN 23:12	1	3	Ἁβραὰμ	Ἁβραάμ	proper noun, indeclinable; nominative
 GEN 23:12	1	4	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
 GEN 23:12	1	5	τοῦ	ὁ	article, genitive masculine singular	1	the
 GEN 23:12	1	6	λαοῦ	λαός	noun, genitive masculine singular	1	people
-GEN 23:12	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 23:12	1	7	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 23:12	1	8	γῆς	γῆ	noun, genitive feminine singular	1	land
 GEN 23:13	1	1	καὶ	καί	conjunction	1	and
 GEN 23:13	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
@@ -276,7 +276,7 @@ GEN 23:13	1	8	ἐναντίον	ἐναντίον	preposition with the genitive	
 GEN 23:13	1	9	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
 GEN 23:13	1	10	τοῦ	ὁ	article, genitive masculine singular	1	the
 GEN 23:13	1	11	λαοῦ	λαός	noun, genitive masculine singular	1	people
-GEN 23:13	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 23:13	1	12	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 23:13	1	13	γῆς	γῆ	noun, genitive feminine singular	1	land
 GEN 23:13	1	14	ἐπειδὴ	ἐπειδή	conjunction	1	since
 GEN 23:13	1	15	πρὸς	πρός	preposition with the accusative	1	to
@@ -304,7 +304,7 @@ GEN 23:14	1	3	Ἐφρὼν	Ἐφρών	proper noun, indeclinable; nominative mas
 GEN 23:14	1	4	τῷ	ὁ	article, dative masculine singular	1	to
 GEN 23:14	1	5	Ἁβραὰμ	Ἁβραάμ	proper noun, indeclinable; dative masculine singular	1	Abraham
 GEN 23:14	1	6	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
-GEN 23:15	1	1	οὐχὶ	οὐχί	negative particle, emphatic form	1	not
+GEN 23:15	1	1	οὐχὶ	οὐχί	negative particle, emphatic form	1	no
 GEN 23:15	1	2	κύριε	κύριος	noun, vocative masculine singular	1	sir
 GEN 23:15	1	2	κύριε			2	my lord
 GEN 23:15	1	3	ἀκήκοα	ἀκούω	perfect active indicative, first singular	1	I have heard
@@ -312,7 +312,7 @@ GEN 23:15	1	4	γὰρ	γάρ	postpositive conjunction	1	for
 GEN 23:15	1	5	γῆ	γῆ	noun, nominative feminine singular	1	land
 GEN 23:15	1	6	τετρακοσίων	τετρακόσιοι	cardinal numeral, genitive masculine plural; genitive of price	1	worth four hundred
 GEN 23:15	1	7	διδράχμων	δίδραχμον	noun, genitive neuter plural	1	double drachmas
-GEN 23:15	1	8	ἀργυρίου	ἀργύριον	noun, genitive neuter singular	1	silver
+GEN 23:15	1	8	ἀργυρίου	ἀργύριον	noun, genitive neuter singular	1	of silver
 GEN 23:15	1	9	ἀνὰ	ἀνά	preposition with μέσον, together meaning “between”	1	between
 GEN 23:15	1	10	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	1	(with ἀνά)
 GEN 23:15	1	11	ἐμοῦ	ἐγώ	personal pronoun, emphatic genitive singular after ἀνὰ μέσον	1	me
@@ -349,10 +349,10 @@ GEN 23:16	1	16	τὰ	ὁ	article, accusative neuter plural	1	the
 GEN 23:16	1	17	ὦτα	οὖς	noun, accusative neuter plural	1	ears
 GEN 23:16	1	18	τῶν	ὁ	article, genitive masculine plural	1	of the
 GEN 23:16	1	19	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-GEN 23:16	1	20	Χὲτ	Χέτ	proper noun, indeclinable; genitive masculine singular	1	Heth
+GEN 23:16	1	20	Χὲτ	Χέτ	indeclinable proper name, genitive in context	1	of Heth
 GEN 23:16	1	21	τετρακόσια	τετρακόσιοι	cardinal numeral, accusative neuter plural	1	four hundred
 GEN 23:16	1	22	δίδραχμα	δίδραχμον	noun, accusative neuter plural	1	double drachmas
-GEN 23:16	1	23	ἀργυρίου	ἀργύριον	noun, genitive neuter singular	1	silver
+GEN 23:16	1	23	ἀργυρίου	ἀργύριον	noun, genitive neuter singular	1	of silver
 GEN 23:16	1	24	δοκίμου	δόκιμος	adjective, genitive neuter singular	1	approved
 GEN 23:16	1	24	δοκίμου			2	accepted
 GEN 23:16	1	25	ἐμπόροις	ἔμπορος	noun, dative masculine plural	1	by merchants
@@ -360,8 +360,8 @@ GEN 23:17	1	1	Καὶ	καί	conjunction	1	and
 GEN 23:17	1	2	ἔστη	ἵστημι	aorist active indicative, third singular	1	was established
 GEN 23:17	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 23:17	1	4	ἀγρὸς	ἀγρός	noun, nominative masculine singular	1	field
-GEN 23:17	1	5	Ἐφρὼν	Ἐφρών	proper noun, indeclinable; genitive masculine singular	1	Ephron
-GEN 23:17	1	6	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
+GEN 23:17	1	5	Ἐφρὼν	Ἐφρών	indeclinable proper name, genitive in context	1	of Ephron
+GEN 23:17	1	6	ὃς	ὅς	relative pronoun, nominative masculine singular	1	which
 GEN 23:17	1	7	ἦν	εἰμί	imperfect indicative, third singular	1	was
 GEN 23:17	1	8	ἐν	ἐν	preposition with the dative	1	in
 GEN 23:17	1	9	τῷ	ὁ	article, dative neuter singular	1	the
@@ -369,7 +369,7 @@ GEN 23:17	1	10	διπλῷ	διπλόος	adjective, dative neuter singular	1	do
 GEN 23:17	1	11	σπηλαίῳ	σπήλαιον	noun, dative neuter singular	1	cave
 GEN 23:17	1	12	ὅς	ὅς	relative pronoun, nominative masculine singular	1	which
 GEN 23:17	1	13	ἐστι	εἰμί	present indicative, third singular	1	is
-GEN 23:17	1	14	κατὰ	κατά	in the expression κατὰ πρόσωπον	1	in the presence of
+GEN 23:17	1	14	κατὰ	κατά	in the expression κατὰ πρόσωπον	1	opposite
 GEN 23:17	1	14	κατὰ			2	facing
 GEN 23:17	1	15	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	1	(with κατά)
 GEN 23:17	1	16	Μαμβρῆ	Μαμβρῆ	indeclinable personal name, in a list identifying the men	1	Mamre
@@ -407,7 +407,7 @@ GEN 23:18	1	4	κτῆσιν			2	holding
 GEN 23:18	1	5	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
 GEN 23:18	1	6	τῶν	ὁ	article, genitive masculine plural	1	of the
 GEN 23:18	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-GEN 23:18	1	8	Χὲτ	Χέτ	proper noun, indeclinable; genitive masculine singular	1	Heth
+GEN 23:18	1	8	Χὲτ	Χέτ	indeclinable proper name, genitive in context	1	of Heth
 GEN 23:18	1	9	καὶ	καί	conjunction	1	and
 GEN 23:18	1	10	πάντων	πᾶς	adjective, genitive neuter plural	1	all
 GEN 23:18	1	11	τῶν	ὁ	article, genitive masculine plural; introduces a substantival participle	1	those
@@ -464,4 +464,4 @@ GEN 23:20	1	16	τάφου	τάφος	noun, genitive masculine singular	1	for bur
 GEN 23:20	1	17	παρὰ	παρά	preposition with genitive	1	from
 GEN 23:20	1	18	τῶν	ὁ	article, genitive masculine plural	1	the
 GEN 23:20	1	19	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-GEN 23:20	1	20	Χέτ	Χέτ	proper noun, indeclinable; genitive masculine singular	1	Heth
+GEN 23:20	1	20	Χέτ	Χέτ	indeclinable proper name, genitive in context	1	of Heth

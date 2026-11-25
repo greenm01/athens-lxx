@@ -36,7 +36,7 @@ ISA 63:2	1	1	Διατί	διατί	adverb	1	why
 ISA 63:2	1	2	σου	σύ	pronoun, possessive genitive second singular	1	your
 ISA 63:2	1	3	ἐρυθρὰ	ἐρυθρός	adjective, nominative neuter plural	1	red
 ISA 63:2	1	4	τὰ	ὁ	article, neuter plural (case from context)	1	the
-ISA 63:2	1	5	ἱμάτια	ὁ	article, nominative neuter plural	1	the
+ISA 63:2	1	5	ἱμάτια	ἱμάτιον	noun, nominative neuter plural	1	clothes
 ISA 63:2	1	6	καὶ	καί	conjunction	1	and
 ISA 63:2	1	7	τὰ	ὁ	article, nominative neuter plural	1	the
 ISA 63:2	1	8	ἐνδύματά	ἔνδυμα	noun, nominative neuter plural	1	garments
@@ -168,7 +168,7 @@ ISA 63:7	1	25	ἔλεος	ἔλεος	noun, accusative neuter singular	1	mercy
 ISA 63:7	1	25	ἔλεος			2	kindness
 ISA 63:7	1	26	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 ISA 63:7	1	27	καὶ	καί	conjunction	1	and
-ISA 63:7	1	28	κατὰ	ὁ	article, accusative neuter singular	1	the
+ISA 63:7	1	28	κατὰ	κατά	preposition with accusative	1	according to
 ISA 63:7	1	29	τὸ	ὁ	article, accusative neuter singular	1	the
 ISA 63:7	1	30	πλῆθος	πλῆθος	noun, accusative neuter singular	1	abundance
 ISA 63:7	1	30	πλῆθος			2	multitude
@@ -329,7 +329,7 @@ ISA 63:14	1	7	κατέβη	καταβαίνω	aorist active indicative, third si
 ISA 63:14	1	7	κατέβη			2	descended
 ISA 63:14	1	8	πνεῦμα	πνεῦμα	noun, nominative neuter singular	1	spirit
 ISA 63:14	1	9	παρὰ	παρά	preposition with genitive	1	from
-ISA 63:14	1	10	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+ISA 63:14	1	10	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 ISA 63:14	1	11	καὶ	καί	conjunction	1	and
 ISA 63:14	1	12	ὡδήγησεν	ὁδηγέω	aorist active indicative, 3rd sg. with accusative ὁδὸν, led by the way	1	led
 ISA 63:14	1	13	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them

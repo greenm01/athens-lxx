@@ -24,7 +24,7 @@ DEU 8:1	1	22	ἀγαθὴν	ἀγαθός	adjective, accusative fem. sg.	1	good
 DEU 8:1	1	23	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
 DEU 8:1	1	24	ὤμοσε	ὀμνύω	aorist active indicative, 3rd singular	1	swore
 DEU 8:1	1	25	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 8:1	1	26	τοῖς	ὁ	definite article	1	the
+DEU 8:1	1	26	τοῖς	ὁ	definite article	1	to the
 DEU 8:1	1	27	πατράσιν	πατήρ	noun, dative masculine plural	1	fathers
 DEU 8:1	1	28	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 8:2	1	1	Καὶ	καί	conjunction	1	and
@@ -49,7 +49,7 @@ DEU 8:2	1	19	ὅπως	ὅπως	purpose conjunction	1	so that
 DEU 8:2	1	20	κακώσῃ	κακόω	aorist active subjunctive, 3rd singular	1	might humble
 DEU 8:2	1	21	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 8:2	1	22	καὶ	καί	conjunction	1	and
-DEU 8:2	1	23	πειράσῃ	πειράω	aorist active subjunctive, 3rd singular	1	might prove
+DEU 8:2	1	23	πειράσῃ	πειράω	aorist active subjunctive, 3rd singular	1	might test
 DEU 8:2	1	24	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 8:2	1	25	καὶ	καί	conjunction	1	and
 DEU 8:2	1	26	διαγνωσθῇ	διαγινώσκω	aorist passive subjunctive, 3rd singular	1	might be known
@@ -90,14 +90,14 @@ DEU 8:3	1	22	ἀναγγείλῃ	ἀναγγέλλω	aorist active subjunctive,
 DEU 8:3	1	23	σοι	σύ	pronoun, dative 2nd singular	1	to you
 DEU 8:3	1	24	ὅτι	ὅτι	conjunction	1	that
 DEU 8:3	1	25	οὐκ	οὐ	negative adverb	1	not
-DEU 8:3	1	26	ἐπ᾽	ἐπί	preposition, elided	1	in
+DEU 8:3	1	26	ἐπ᾽	ἐπί	preposition, elided	1	by
 DEU 8:3	1	27	ἄρτῳ	ἄρτος	noun, dative masculine singular	1	bread
 DEU 8:3	1	28	μόνῳ	μόνος	adjective, dative masculine singular	1	alone
 DEU 8:3	1	29	ζήσεται	ζάω	future middle indicative, 3rd singular	1	shall live
 DEU 8:3	1	30	ὁ	ὁ	definite article	1	the
 DEU 8:3	1	31	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 DEU 8:3	1	32	ἀλλ᾽	ἀλλά	conjunction, elided	1	but
-DEU 8:3	1	33	ἐπὶ	ἐπί	preposition	1	on
+DEU 8:3	1	33	ἐπὶ	ἐπί	preposition	1	by
 DEU 8:3	1	34	παντὶ	πᾶς	adjective, dative neuter singular	1	every
 DEU 8:3	1	35	ῥήματι	ῥῆμα	noun, dative neuter singular	1	word
 DEU 8:3	1	36	ἐκπορευομένῳ	ἐκπορεύομαι	present middle participle, dative neuter singular	1	proceeds
@@ -118,13 +118,13 @@ DEU 8:4	1	8	οἱ	ὁ	article, nominative masc. pl.	1	the
 DEU 8:4	1	9	πόδες	πούς	noun, nominative masculine plural	1	feet
 DEU 8:4	1	10	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 8:4	1	11	οὐκ	οὐ	negative adverb	1	not
-DEU 8:4	1	12	ἐτυλώθησαν	τυλόομαι	aorist passive indicative, 3rd plural	1	swelled
+DEU 8:4	1	12	ἐτυλώθησαν	τυλόομαι	aorist passive indicative, 3rd plural	1	grew calloused
 DEU 8:4	1	13	ἰδοὺ	ἰδού	interjection	1	behold
 DEU 8:4	1	14	τεσσαράκοντα	τεσσαράκοντα	cardinal numeral	1	forty
 DEU 8:4	1	15	ἔτη	ἔτος	noun, accusative neuter plural	1	years
 DEU 8:5	1	1	Καὶ	καί	conjunction	1	and
 DEU 8:5	1	2	γνώσῃ	γινώσκω	future middle indicative, 2nd singular	1	shall know
-DEU 8:5	1	3	τῇ	ὁ	definite article	1	the
+DEU 8:5	1	3	τῇ	ὁ	definite article	1	in the
 DEU 8:5	1	4	καρδίᾳ	καρδία	noun, dative fem. sg. after τῇ	1	in heart
 DEU 8:5	1	5	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 8:5	1	6	ὅτι	ὅτι	conjunction	1	that
@@ -188,7 +188,7 @@ DEU 8:7	1	27	διὰ	διά	preposition with the genitive	1	through
 DEU 8:7	1	28	τῶν	ὁ	definite article	1	the
 DEU 8:7	1	29	πεδίων	πεδίον	noun, genitive neuter plural	1	valleys
 DEU 8:8	1	1	γῆ	γῆ	noun, nominative fem. sg.	1	a land
-DEU 8:8	1	2	πυροῦ	πυρός	noun, genitive masculine singular	1	wheat
+DEU 8:8	1	2	πυροῦ	πυρός	noun, genitive masculine singular	1	of wheat
 DEU 8:8	1	3	καὶ	καί	conjunction	1	and
 DEU 8:8	1	4	κριθῆς	κριθή	noun, genitive feminine singular	1	barley
 DEU 8:8	1	5	ἄμπελοι	ἄμπελος	noun, nominative feminine plural	1	vines
@@ -228,7 +228,7 @@ DEU 8:9	1	26	ἐκ	ἐκ	preposition with the genitive	1	from
 DEU 8:9	1	27	τῶν	ὁ	definite article	1	the
 DEU 8:9	1	28	ὀρέων	ὄρος	noun, genitive neuter plural	1	hills
 DEU 8:9	1	29	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
-DEU 8:9	1	30	μεταλλεύσεις	μεταλλεύω	future active indicative, 2nd singular	1	shall dig
+DEU 8:9	1	30	μεταλλεύσεις	μεταλλεύω	future active indicative, 2nd singular	1	shall mine
 DEU 8:9	1	31	χαλκόν	χαλκός	noun, accusative masculine singular	1	copper
 DEU 8:10	1	1	καὶ	καί	conjunction	1	and
 DEU 8:10	1	2	φαγῇ	ἐσθίω	future middle indicative, 2nd singular	1	shall eat
@@ -305,7 +305,7 @@ DEU 8:13	1	13	χρυσίου	χρυσίον	noun, genitive neuter singular	1	gol
 DEU 8:13	1	14	πληθυνθέντος	πληθύνω	aorist passive participle, genitive neuter singular	1	is multiplied
 DEU 8:13	1	15	σοι	σύ	pronoun, dative 2nd singular	1	to you
 DEU 8:13	1	16	καὶ	καί	conjunction	1	and
-DEU 8:13	1	17	πάντων	πᾶς	adjective, genitive neuter plural	1	all things
+DEU 8:13	1	17	πάντων	πᾶς	adjective, genitive neuter plural	1	all
 DEU 8:13	1	18	ὅσων	ὅσος	relative pronoun, genitive neuter plural	1	that
 DEU 8:13	1	19	σοι	σύ	pronoun, dative 2nd singular	1	to you
 DEU 8:13	1	20	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
@@ -358,7 +358,7 @@ DEU 8:15	1	25	ἐξαγαγόντος	ἐξάγω	aorist active participle, geni
 DEU 8:15	1	26	σοι	σύ	pronoun, dative 2nd singular	1	to you
 DEU 8:15	1	27	ἐκ	ἐκ	preposition with the genitive	1	from
 DEU 8:15	1	28	πέτρας	πέτρα	noun, genitive feminine singular	1	rock
-DEU 8:15	1	29	ἀκροτόμου	ἀκρότομος	adjective, genitive feminine singular	1	flint
+DEU 8:15	1	29	ἀκροτόμου	ἀκρότομος	adjective, genitive feminine singular	1	sheer
 DEU 8:15	1	30	πηγὴν	πηγή	noun, accusative feminine singular	1	fountain
 DEU 8:15	1	31	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
 DEU 8:16	1	1	τοῦ	ὁ	definite article	1	the
@@ -413,7 +413,7 @@ DEU 8:17	1	22	μεγάλην	μέγας	adjective, accusative feminine singular	
 DEU 8:17	1	23	ταύτην	οὗτος	demonstrative pronoun, accusative feminine singular	1	this
 DEU 8:18	1	1	καὶ	καί	conjunction	1	and
 DEU 8:18	1	2	μνησθήσῃ	μιμνήσκομαι	future passive indicative, 2nd singular	1	shall remember
-DEU 8:18	1	3	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+DEU 8:18	1	3	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 DEU 8:18	1	4	τοῦ	ὁ	definite article	1	the
 DEU 8:18	1	5	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 8:18	1	6	σου	σύ	pronoun, genitive 2nd singular	1	your
@@ -423,7 +423,7 @@ DEU 8:18	1	9	σοι	σύ	pronoun, dative 2nd singular	1	to you
 DEU 8:18	1	10	δίδωσιν	δίδωμι	present active indicative, 3rd singular	1	gives
 DEU 8:18	1	11	ἰσχὺν	ἰσχύς	noun, accusative feminine singular	1	strength
 DEU 8:18	1	12	τοῦ	ὁ	definite article	1	the
-DEU 8:18	1	13	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
+DEU 8:18	1	13	ποιῆσαι	ποιέω	aorist active infinitive	1	to produce
 DEU 8:18	1	14	δύναμιν	δύναμις	noun, accusative feminine singular	1	wealth
 DEU 8:18	1	15	ἵνα	ἵνα	purpose conjunction	1	so that
 DEU 8:18	1	16	στήσῃ	ἵστημι	aorist active subjunctive, 3rd singular	1	may establish
@@ -432,7 +432,7 @@ DEU 8:18	1	18	διαθήκην	διαθήκη	noun, accusative feminine singular
 DEU 8:18	1	19	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 8:18	1	20	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
 DEU 8:18	1	21	ὤμοσε	ὀμνύω	aorist active indicative, 3rd singular	1	swore
-DEU 8:18	1	22	τοῖς	ὁ	definite article	1	the
+DEU 8:18	1	22	τοῖς	ὁ	definite article	1	to the
 DEU 8:18	1	23	πατράσι	πατήρ	noun, dative masc. pl. after τοῖς	1	fathers
 DEU 8:18	1	24	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 8:18	1	25	ὡς	ὡς	adverb	1	as

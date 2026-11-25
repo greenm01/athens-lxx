@@ -21,9 +21,9 @@ NUM 29:1	1	19	σημασίας	σημασία	noun, genitive feminine singular	1
 NUM 29:1	1	20	ἔσται	εἰμί	future indicative, third singular	1	will be
 NUM 29:1	1	21	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 NUM 29:2	1	1	Καὶ	καί	conjunction	1	and
-NUM 29:2	1	2	ποιήσετε	ποιέω	future active indicative, second person plural	1	you will do
+NUM 29:2	1	2	ποιήσετε	ποιέω	future active indicative, second person plural	1	you shall offer
 NUM 29:2	1	3	ὁλοκαυτώματα	ὁλοκαύτωμα	noun, accusative neuter plural	1	whole burnt offerings
-NUM 29:2	1	4	εἰς	εἰς	preposition with the accusative	1	into
+NUM 29:2	1	4	εἰς	εἰς	preposition with the accusative	1	as
 NUM 29:2	1	5	ὀσμὴν	ὀσμή	noun, accusative feminine singular	1	aroma
 NUM 29:2	1	6	εὐωδίας	εὐωδία	noun, genitive feminine singular	1	of fragrance
 NUM 29:2	1	7	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
@@ -42,8 +42,8 @@ NUM 29:3	1	1	Ἡ	ὁ	article, nominative feminine singular	1	the
 NUM 29:3	1	2	θυσία	θυσία	noun, nominative feminine singular	1	grain offering
 NUM 29:3	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 29:3	1	4	σεμίδαλις	σεμίδαλις	noun, nominative feminine singular	1	fine flour
-NUM 29:3	1	5	ἀναπεποιημένη	ἀναποιέω	perfect passive participle, nominative feminine singular	1	prepared
-NUM 29:3	1	5	ἀναπεποιημένη			2	mixed
+NUM 29:3	1	5	ἀναπεποιημένη	ἀναποιέω	perfect passive participle, nominative feminine singular	1	mixed
+NUM 29:3	1	5	ἀναπεποιημένη			2	prepared
 NUM 29:3	1	6	ἐν	ἐν	preposition with the instrumental dative	1	with
 NUM 29:3	1	7	ἐλαίῳ	ἔλαιον	noun, dative neuter singular	1	oil
 NUM 29:3	1	8	τρία	τρεῖς	cardinal numeral, accusative neuter plural	1	three
@@ -80,7 +80,7 @@ NUM 29:5	1	7	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	
 NUM 29:5	1	8	ἐξιλάσασθαι	ἐξιλάσκομαι	aorist middle infinitive	1	to make atonement
 NUM 29:5	1	9	περὶ	περί	preposition with genitive	1	for
 NUM 29:5	1	10	ὑμῶν	σύ	pronoun, genitive second plural	1	you
-NUM 29:6	1	1	πλὴν	πλήν	preposition/adverb with the genitive	1	except
+NUM 29:6	1	1	πλὴν	πλήν	preposition/adverb with the genitive	1	besides
 NUM 29:6	1	2	τῶν	ὁ	article, genitive plural	1	the
 NUM 29:6	1	3	ὁλοκαυτωμάτων	ὁλοκαύτωμα	noun, genitive neuter plural	1	whole burnt offerings
 NUM 29:6	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -114,7 +114,7 @@ NUM 29:6	1	28	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 29:6	1	29	σύγκρισιν	σύγκρισις	noun, accusative feminine singular	1	prescribed order
 NUM 29:6	1	29	σύγκρισιν			2	ordinance
 NUM 29:6	1	30	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-NUM 29:6	1	31	εἰς	εἰς	preposition with the accusative	1	into
+NUM 29:6	1	31	εἰς	εἰς	preposition with the accusative	1	as
 NUM 29:6	1	32	ὀσμὴν	ὀσμή	noun, accusative feminine singular	1	aroma
 NUM 29:6	1	33	εὐωδίας	εὐωδία	noun, genitive feminine singular	1	of fragrance
 NUM 29:6	1	34	κάρπωμα	κάρπωμα	noun, nominative neuter singular	1	offering
@@ -144,7 +144,7 @@ NUM 29:8	1	1	Καὶ	καί	conjunction	1	and
 NUM 29:8	1	2	προσοίσετε	προσφέρω	future active indicative, second plural	1	you shall bring
 NUM 29:8	1	3	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, nominative neuter singular	1	whole burnt offering
 NUM 29:8	1	3	ὁλοκαύτωμα			2	burnt offering
-NUM 29:8	1	4	εἰς	εἰς	preposition with the accusative	1	into
+NUM 29:8	1	4	εἰς	εἰς	preposition with the accusative	1	as
 NUM 29:8	1	5	ὀσμὴν	ὀσμή	noun, accusative feminine singular	1	aroma
 NUM 29:8	1	6	εὐωδίας	εὐωδία	noun, genitive feminine singular	1	of fragrance
 NUM 29:8	1	7	κάρπωμα	κάρπωμα	noun, nominative neuter singular	1	offering
@@ -166,8 +166,8 @@ NUM 29:9	1	1	Ἡ	ὁ	article, nominative feminine singular	1	the
 NUM 29:9	1	2	θυσία	θυσία	noun, nominative feminine singular	1	grain offering
 NUM 29:9	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 29:9	1	4	σεμίδαλις	σεμίδαλις	noun, nominative feminine singular	1	fine flour
-NUM 29:9	1	5	ἀναπεποιημένη	ἀναποιέω	perfect passive participle, nominative feminine singular	1	prepared
-NUM 29:9	1	5	ἀναπεποιημένη			2	mixed
+NUM 29:9	1	5	ἀναπεποιημένη	ἀναποιέω	perfect passive participle, nominative feminine singular	1	mixed
+NUM 29:9	1	5	ἀναπεποιημένη			2	prepared
 NUM 29:9	1	6	ἐν	ἐν	preposition with the instrumental dative	1	with
 NUM 29:9	1	7	ἐλαίῳ	ἔλαιον	noun, dative neuter singular	1	oil
 NUM 29:9	1	8	τρία	τρεῖς	cardinal numeral, accusative neuter plural	1	three
@@ -189,7 +189,7 @@ NUM 29:10	1	3	τῷ	ὁ	article, dative masculine singular	1	the
 NUM 29:10	1	4	ἀμνῷ	ἀμνός	noun, dative masculine singular	1	for a lamb
 NUM 29:10	1	5	τῷ	ὁ	article, dative masculine singular	1	the
 NUM 29:10	1	6	ἑνὶ	εἷς	cardinal numeral, dative masculine singular	1	one
-NUM 29:10	1	7	εἰς	εἰς	preposition with accusative	1	into
+NUM 29:10	1	7	εἰς	εἰς	preposition with accusative	1	for
 NUM 29:10	1	8	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 29:10	1	9	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 NUM 29:10	1	10	ἀμνούς	ἀμνός	noun, accusative masculine plural	1	lambs
@@ -204,7 +204,7 @@ NUM 29:11	1	7	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular
 NUM 29:11	1	8	ἐξιλάσασθαι	ἐξιλάσκομαι	aorist middle infinitive	1	to make atonement
 NUM 29:11	1	9	περὶ	περί	preposition with genitive	1	for
 NUM 29:11	1	10	ὑμῶν	σύ	pronoun, genitive second plural	1	you
-NUM 29:11	1	11	πλὴν	πλήν	preposition/adverb with the genitive	1	except
+NUM 29:11	1	11	πλὴν	πλήν	preposition/adverb with the genitive	1	besides
 NUM 29:11	1	12	τὸ	ὁ	article, accusative neuter singular	1	the
 NUM 29:11	1	13	περὶ	περί	preposition with genitive	1	for
 NUM 29:11	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -229,7 +229,7 @@ NUM 29:11	1	30	κατὰ	κατά	preposition with the accusative	1	according to
 NUM 29:11	1	31	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 29:11	1	32	σύγκρισιν	σύγκρισις	noun, accusative feminine singular	1	prescribed order
 NUM 29:11	1	32	σύγκρισιν			2	ordinance
-NUM 29:11	1	33	εἰς	εἰς	preposition with the accusative	1	into
+NUM 29:11	1	33	εἰς	εἰς	preposition with the accusative	1	as
 NUM 29:11	1	34	ὀσμὴν	ὀσμή	noun, accusative feminine singular	1	aroma
 NUM 29:11	1	35	εὐωδίας	εὐωδία	noun, genitive feminine singular	1	of fragrance
 NUM 29:11	1	36	κάρπωμα	κάρπωμα	noun, nominative neuter singular	1	offering
@@ -263,7 +263,7 @@ NUM 29:13	1	1	Καὶ	καί	conjunction	1	and
 NUM 29:13	1	2	προσάξετε	προσάγω	future active indicative, second plural	1	you shall offer
 NUM 29:13	1	3	ὁλοκαυτώματα	ὁλοκαύτωμα	noun, accusative neuter plural	1	whole burnt offerings
 NUM 29:13	1	4	κάρπωμα	κάρπωμα	noun, nominative neuter singular	1	offering
-NUM 29:13	1	5	εἰς	εἰς	preposition with the accusative	1	into
+NUM 29:13	1	5	εἰς	εἰς	preposition with the accusative	1	as
 NUM 29:13	1	6	ὀσμὴν	ὀσμή	noun, accusative feminine singular	1	aroma
 NUM 29:13	1	7	εὐωδίας	εὐωδία	noun, genitive feminine singular	1	of fragrance
 NUM 29:13	1	8	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
@@ -290,8 +290,8 @@ NUM 29:14	1	1	Αἱ	ὁ	article, nominative feminine plural	1	the
 NUM 29:14	1	2	θυσίαι	θυσία	noun, nominative feminine plural	1	grain offerings
 NUM 29:14	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 29:14	1	4	σεμίδαλις	σεμίδαλις	noun, nominative feminine singular	1	fine flour
-NUM 29:14	1	5	ἀναπεποιημένη	ἀναποιέω	perfect passive participle, nominative feminine singular	1	prepared
-NUM 29:14	1	5	ἀναπεποιημένη			2	mixed
+NUM 29:14	1	5	ἀναπεποιημένη	ἀναποιέω	perfect passive participle, nominative feminine singular	1	mixed
+NUM 29:14	1	5	ἀναπεποιημένη			2	prepared
 NUM 29:14	1	6	ἐν	ἐν	preposition with the instrumental dative	1	with
 NUM 29:14	1	7	ἐλαίῳ	ἔλαιον	noun, dative neuter singular	1	oil
 NUM 29:14	1	8	τρία	τρεῖς	cardinal numeral, accusative neuter plural	1	three
@@ -310,7 +310,7 @@ NUM 29:14	1	20	τῷ	ὁ	article, dative masculine singular	1	the
 NUM 29:14	1	21	κριῷ	κριός	noun, dative masculine singular	1	ram
 NUM 29:14	1	22	τῷ	ὁ	article, dative masculine singular	1	the
 NUM 29:14	1	23	ἑνὶ	εἷς	cardinal numeral, dative masculine singular	1	one
-NUM 29:14	1	24	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 29:14	1	24	ἐπὶ	ἐπί	preposition (case from context)	1	for
 NUM 29:14	1	25	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 29:14	1	26	δύο	δύο	cardinal numeral, indeclinable	1	two
 NUM 29:14	1	27	κριοὺς	κριός	noun, accusative masculine plural	1	rams
@@ -321,7 +321,7 @@ NUM 29:15	1	4	τῷ	ὁ	article, dative masculine singular	1	the
 NUM 29:15	1	5	ἀμνῷ	ἀμνός	noun, dative masculine singular	1	for a lamb
 NUM 29:15	1	6	τῷ	ὁ	article, dative masculine singular	1	the
 NUM 29:15	1	7	ἑνὶ	εἷς	cardinal numeral, dative masculine singular	1	one
-NUM 29:15	1	8	ἐπὶ	ἐπί	preposition with the accusative	1	over
+NUM 29:15	1	8	ἐπὶ	ἐπί	preposition with the accusative	1	for
 NUM 29:15	1	9	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 29:15	1	10	τεσσαρεσκαίδεκα	τεσσαρεσκαίδεκα	indeclinable cardinal numeral	1	fourteen
 NUM 29:15	1	11	ἀμνούς	ἀμνός	noun, accusative masculine plural	1	lambs
@@ -333,7 +333,7 @@ NUM 29:16	1	4	αἰγῶν	αἴξ	noun, genitive feminine plural	1	goats
 NUM 29:16	1	5	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 29:16	1	6	περὶ	περί	preposition with genitive	1	for
 NUM 29:16	1	7	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
-NUM 29:16	1	8	πλὴν	πλήν	adverb/preposition, except	1	except
+NUM 29:16	1	8	πλὴν	πλήν	adverb/preposition, except	1	besides
 NUM 29:16	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 29:16	1	10	ὁλοκαυτώσεως	ὁλοκαύτωσις	noun, genitive feminine singular	1	whole burnt offering
 NUM 29:16	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -395,7 +395,7 @@ NUM 29:19	1	4	αἰγῶν	αἴξ	noun, genitive feminine plural	1	goats
 NUM 29:19	1	5	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 29:19	1	6	περὶ	περί	preposition with genitive	1	for
 NUM 29:19	1	7	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
-NUM 29:19	1	8	πλὴν	πλήν	adverb/preposition, except	1	except
+NUM 29:19	1	8	πλὴν	πλήν	adverb/preposition, except	1	besides
 NUM 29:19	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 29:19	1	10	ὁλοκαυτώσεως	ὁλοκαύτωσις	noun, genitive feminine singular	1	whole burnt offering
 NUM 29:19	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -455,7 +455,7 @@ NUM 29:22	1	4	αἰγῶν	αἴξ	noun, genitive feminine plural	1	goats
 NUM 29:22	1	5	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 29:22	1	6	περὶ	περί	preposition with genitive	1	for
 NUM 29:22	1	7	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
-NUM 29:22	1	8	πλὴν	πλήν	adverb/preposition, except	1	except
+NUM 29:22	1	8	πλὴν	πλήν	adverb/preposition, except	1	besides
 NUM 29:22	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 29:22	1	10	ἐλοκαυτώσεως	ὁλοκαύτωσις	noun, genitive feminine singular; printed ἐλοκαυτώσεως	1	whole burnt offering
 NUM 29:22	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -514,7 +514,7 @@ NUM 29:25	1	4	αἰγῶν	αἴξ	noun, genitive feminine plural	1	goats
 NUM 29:25	1	5	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 29:25	1	6	περὶ	περί	preposition with genitive	1	for
 NUM 29:25	1	7	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
-NUM 29:25	1	8	πλὴν	πλήν	adverb/preposition, except	1	except
+NUM 29:25	1	8	πλὴν	πλήν	adverb/preposition, except	1	besides
 NUM 29:25	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 29:25	1	10	ὁλοκαυτώσεως	ὁλοκαύτωσις	noun, genitive feminine singular	1	whole burnt offering
 NUM 29:25	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -573,7 +573,7 @@ NUM 29:28	1	4	αἰγῶν	αἴξ	noun, genitive feminine plural	1	goats
 NUM 29:28	1	5	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 29:28	1	6	περὶ	περί	preposition with genitive	1	for
 NUM 29:28	1	7	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
-NUM 29:28	1	8	πλὴν	πλήν	adverb/preposition, except	1	except
+NUM 29:28	1	8	πλὴν	πλήν	adverb/preposition, except	1	besides
 NUM 29:28	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 29:28	1	10	ὁλοκαυτώσεως	ὁλοκαύτωσις	noun, genitive feminine singular	1	whole burnt offering
 NUM 29:28	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -632,7 +632,7 @@ NUM 29:31	1	4	αἰγῶν	αἴξ	noun, genitive feminine plural	1	goats
 NUM 29:31	1	5	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 29:31	1	6	περὶ	περί	preposition with genitive	1	for
 NUM 29:31	1	7	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
-NUM 29:31	1	8	πλὴν	πλήν	adverb/preposition, except	1	except
+NUM 29:31	1	8	πλὴν	πλήν	adverb/preposition, except	1	besides
 NUM 29:31	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 29:31	1	10	ὁλοκαυτώσεως	ὁλοκαύτωσις	noun, genitive feminine singular	1	whole burnt offering
 NUM 29:31	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -691,7 +691,7 @@ NUM 29:34	1	4	αἰγῶν	αἴξ	noun, genitive feminine plural	1	goats
 NUM 29:34	1	5	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 29:34	1	6	περὶ	περί	preposition with genitive	1	for
 NUM 29:34	1	7	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
-NUM 29:34	1	8	πλὴν	πλήν	adverb/preposition, except	1	except
+NUM 29:34	1	8	πλὴν	πλήν	adverb/preposition, except	1	besides
 NUM 29:34	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 29:34	1	10	ὁλοκαυτώσεως	ὁλοκαύτωσις	noun, genitive feminine singular	1	whole burnt offering
 NUM 29:34	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -718,13 +718,13 @@ NUM 29:35	1	10	ἔργον	ἔργον	noun, nominative neuter singular	1	work
 NUM 29:35	1	11	λατρευτὸν	λατρευτός	adjective, nominative neut. sg. with ἔργον, servile	1	servile
 NUM 29:35	1	12	οὐ	οὐ	negative adverb with future indicative	1	not
 NUM 29:35	1	13	ποιήσετε	ποιέω	future active indicative, second plural	1	you shall do
-NUM 29:35	1	14	ἐν	ἐν	preposition with the dative	1	in
+NUM 29:35	1	14	ἐν	ἐν	preposition with the dative	1	on
 NUM 29:35	1	15	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 NUM 29:36	1	1	Καὶ	καί	conjunction	1	and
 NUM 29:36	1	2	προσάξετε	προσάγω	future active indicative, second plural	1	you shall offer
 NUM 29:36	1	3	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, accusative neuter singular	1	whole burnt offering
 NUM 29:36	1	4	κάρπωμα	κάρπωμα	noun, nominative neuter singular	1	offering
-NUM 29:36	1	5	εἰς	εἰς	preposition with the accusative	1	into
+NUM 29:36	1	5	εἰς	εἰς	preposition with the accusative	1	as
 NUM 29:36	1	6	ὀσμὴν	ὀσμή	noun, accusative feminine singular	1	aroma
 NUM 29:36	1	7	εὐωδίας	εὐωδία	noun, genitive feminine singular	1	of fragrance
 NUM 29:36	1	8	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
@@ -769,7 +769,7 @@ NUM 29:38	1	4	αἰγῶν	αἴξ	noun, genitive feminine plural	1	goats
 NUM 29:38	1	5	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 29:38	1	6	περὶ	περί	preposition with genitive	1	for
 NUM 29:38	1	7	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
-NUM 29:38	1	8	πλὴν	πλήν	adverb/preposition, except	1	except
+NUM 29:38	1	8	πλὴν	πλήν	adverb/preposition, except	1	besides
 NUM 29:38	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 29:38	1	10	ὁλοκαυτώσεως	ὁλοκαύτωσις	noun, genitive feminine singular	1	whole burnt offering
 NUM 29:38	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -791,7 +791,7 @@ NUM 29:39	1	5	ἐν	ἐν	preposition with the dative	1	in
 NUM 29:39	1	6	ταῖς	ὁ	article, dative feminine plural	1	the
 NUM 29:39	1	7	ἑορταῖς	ἑορτή	noun, dative feminine plural	1	festivals
 NUM 29:39	1	8	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
-NUM 29:39	1	9	πλὴν	πλήν	preposition/adverb with the genitive	1	except
+NUM 29:39	1	9	πλὴν	πλήν	preposition/adverb with the genitive	1	besides
 NUM 29:39	1	10	τῶν	ὁ	article, genitive masculine plural	1	the
 NUM 29:39	1	11	εὐχῶν	εὐχή	noun, genitive feminine plural	1	vows
 NUM 29:39	1	12	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your

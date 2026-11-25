@@ -16,7 +16,7 @@ GEN 50:1	1	14	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	h
 GEN 50:2	1	1	Καὶ	καί	conjunction	1	and
 GEN 50:2	1	2	προσέταξεν	προστάσσω	aorist active indicative, third singular	1	commanded
 GEN 50:2	1	3	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
-GEN 50:2	1	4	τοῖς	ὁ	article, dative masculine plural	1	the
+GEN 50:2	1	4	τοῖς	ὁ	article, dative masculine plural	1	to
 GEN 50:2	1	5	παισὶν	παῖς	noun, dative masculine plural after τοῖς, servants/courtiers	1	servants
 GEN 50:2	1	6	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; possessive	1	his
 GEN 50:2	1	7	τοῖς	ὁ	article, dative masculine plural; in apposition	1	the
@@ -158,7 +158,7 @@ GEN 50:8	1	15	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; pos
 GEN 50:8	1	16	καὶ	καί	conjunction	1	and
 GEN 50:8	1	17	πᾶσα	πᾶς	adjective, nominative feminine singular with γῆ	1	all
 GEN 50:8	1	18	ἡ	ὁ	article, nominative feminine singular	1	the
-GEN 50:8	1	19	οἰκία	οἰκία	noun, nominative feminine singular after ἡ at 50:8 πᾶσα ἡ οἰκία	1	house
+GEN 50:8	1	19	οἰκία	οἰκία	noun, nominative feminine singular after ἡ at 50:8 πᾶσα ἡ οἰκία	1	household
 GEN 50:8	1	20	ἡ	ὁ	article, nominative feminine singular	1	the
 GEN 50:8	1	21	πατρικὴ	πατρικός	adjective, nominative feminine singular with οἰκία after ἡ	1	paternal
 GEN 50:8	1	22	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; possessive	1	his
@@ -212,7 +212,7 @@ GEN 50:10	1	19	καὶ	καί	conjunction	1	and
 GEN 50:10	1	20	ἐποίησε	ποιέω	aorist active indicative, third singular, made/held (mourning)	1	held
 GEN 50:10	1	21	τὸ	ὁ	article, neuter singular (case from context)	1	the
 GEN 50:10	1	22	πένθος	πένθος	noun, nominative/accusative neuter singular after τὸ (from context)	1	mourning
-GEN 50:10	1	23	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 50:10	1	23	τῷ	ὁ	article, dative masculine/neuter singular	1	for
 GEN 50:10	1	24	πατρὶ	πατήρ	noun, dative masculine singular	1	father
 GEN 50:10	1	25	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; possessive	1	his
 GEN 50:10	1	26	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
@@ -235,7 +235,7 @@ GEN 50:11	1	15	πένθος	πένθος	noun, nominative neuter singular	1	mour
 GEN 50:11	1	16	μέγα	μέγας	adjective, nominative neuter singular; predicative	1	great
 GEN 50:11	1	17	ἐστὶ	εἰμί	present indicative, third singular	1	is
 GEN 50:11	1	18	τοῦτο	οὗτος	demonstrative pronoun, nominative neuter singular	1	this
-GEN 50:11	1	19	τοῖς	ὁ	article, dative masculine plural	1	the
+GEN 50:11	1	19	τοῖς	ὁ	article, dative masculine plural	1	for
 GEN 50:11	1	20	Αἰγυπτίοις	Αἰγύπτιος	ethnic noun, dative masculine plural after τοῖς	1	Egyptians
 GEN 50:11	1	21	διὰ	διά	preposition with the accusative	1	because of
 GEN 50:11	1	22	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
@@ -337,7 +337,7 @@ GEN 50:15	1	17	καὶ	καί	conjunction	1	and
 GEN 50:15	1	18	ἀνταπόδομα	ἀνταπόδομα	noun, accusative neuter singular; cognate accusative with ἀνταποδῷ	1	a repayment
 GEN 50:15	1	19	ἀνταποδῷ	ἀνταποδίδωμι	aorist active subjunctive, third singular after μή ποτε/καὶ continuing fear	1	repay
 GEN 50:15	1	20	ἡμῖν	ἡμεῖς	pronoun, dative first plural	1	to us
-GEN 50:15	1	21	πάντα	πᾶς	adjective, accusative neuter plural	1	all things
+GEN 50:15	1	21	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 GEN 50:15	1	22	τὰ	ὁ	article, neuter plural (case from context)	1	the
 GEN 50:15	1	23	κακὰ	κακός	adjective, accusative neuter plural after τὰ substantival	1	evils
 GEN 50:15	1	24	ἃ	ὅς	relative pronoun, nominative neuter plural	1	which
@@ -377,9 +377,9 @@ GEN 50:17	1	17	νῦν	νῦν	temporal adverb	1	now
 GEN 50:17	1	18	δέξαι	δέχομαι	aorist middle imperative, second singular; accept or pardon the wrong in context	1	accept
 GEN 50:17	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 50:17	1	20	ἀδικίαν	ἀδικία	noun, accusative feminine singular	1	injustice
-GEN 50:17	1	21	τῶν	ὁ	article, genitive plural	1	the
+GEN 50:17	1	21	τῶν	ὁ	article, genitive plural	1	of the
 GEN 50:17	1	22	θεραπόντων	θεράπων	noun, genitive masculine plural after τῶν, attendants/servants	1	servants
-GEN 50:17	1	23	τοῦ	ὁ	article, genitive singular	1	the
+GEN 50:17	1	23	τοῦ	ὁ	article, genitive singular	1	of
 GEN 50:17	1	24	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 GEN 50:17	1	25	τοῦ	ὁ	article, genitive singular	1	the
 GEN 50:17	1	26	πατρός	πατήρ	noun, genitive masculine singular	1	father
@@ -406,7 +406,7 @@ GEN 50:19	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to t
 GEN 50:19	1	4	Ἰωσήφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
 GEN 50:19	1	5	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
 GEN 50:19	1	6	φοβεῖσθε	φοβέω	present middle imperative, second plural after μὴ	1	fear
-GEN 50:19	1	7	τοῦ	ὁ	article, genitive singular	1	the
+GEN 50:19	1	7	τοῦ	ὁ	article, genitive singular	1	of
 GEN 50:19	1	8	γὰρ	γάρ	explanatory conjunction	1	for
 GEN 50:19	1	9	Θεοῦ	θεός	noun, genitive masculine singular; predicate genitive of possession	1	God
 GEN 50:19	1	10	εἰμι	εἰμί	present indicative, first singular	1	am
@@ -418,10 +418,10 @@ GEN 50:20	1	4	ἐμοῦ	ἐγώ	pronoun, genitive first singular (after μετ�
 GEN 50:20	1	5	εἰς	εἰς	preposition with accusative of intended result	1	for
 GEN 50:20	1	6	πονηρὰ	πονηρός	substantival adjective, accusative neuter plural	1	harm
 GEN 50:20	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
-GEN 50:20	1	8	δὲ	δέ	postpositive conjunction	1	and
+GEN 50:20	1	8	δὲ	δέ	postpositive conjunction	1	but
 GEN 50:20	1	9	Θεὸς	θεός	noun, nominative masculine singular	1	God
 GEN 50:20	1	10	ἐβουλεύσατο	βουλεύομαι	aorist middle indicative, third singular	1	purposed
-GEN 50:20	1	11	περὶ	περί	preposition with the accusative	1	about/on
+GEN 50:20	1	11	περὶ	περί	preposition with the accusative	1	concerning
 GEN 50:20	1	12	ἐμοῦ	ἐγώ	pronoun, genitive first singular (after μετ᾽/comparative ἐμοῦ from context)	1	me
 GEN 50:20	1	13	εἰς	εἰς	preposition with accusative of intended result	1	for
 GEN 50:20	1	14	ἀγαθὰ	ἀγαθός	substantival adjective, accusative neuter plural	1	good
@@ -452,7 +452,7 @@ GEN 50:21	1	15	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1
 GEN 50:21	1	16	καὶ	καί	conjunction	1	and
 GEN 50:21	1	17	ἐλάλησεν	λαλέω	aorist active indicative, third singular	1	spoke
 GEN 50:21	1	18	αὐτῶν	αὐτός	pronoun, genitive plural; possessive with καρδίαν	1	their
-GEN 50:21	1	19	εἰς	εἰς	preposition with the accusative	1	into
+GEN 50:21	1	19	εἰς	εἰς	preposition with the accusative	1	to
 GEN 50:21	1	20	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 50:21	1	21	καρδίαν	καρδία	noun, accusative feminine singular after εἰς τὴν, idiom 'spoke to their heart'	1	heart
 GEN 50:22	1	1	Καὶ	καί	conjunction	1	and
@@ -499,7 +499,7 @@ GEN 50:23	1	18	Ἰωσήφ	Ἰωσήφ	indeclinable personal name, genitive in c
 GEN 50:24	1	1	Καὶ	καί	conjunction	1	and
 GEN 50:24	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 GEN 50:24	1	3	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
-GEN 50:24	1	4	τοῖς	ὁ	article, dative masculine plural	1	the
+GEN 50:24	1	4	τοῖς	ὁ	article, dative masculine plural	1	to
 GEN 50:24	1	5	ἀδελφοῖς	ἀδελφός	noun, dative masculine plural	1	brothers
 GEN 50:24	1	6	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; possessive	1	his
 GEN 50:24	1	7	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
@@ -539,7 +539,7 @@ GEN 50:25	1	7	λέγων	λέγω	present active participle, nominative masculin
 GEN 50:25	1	8	ἐν	ἐν	preposition with the dative	1	in
 GEN 50:25	1	9	τῇ	ὁ	article, dative feminine singular	1	the
 GEN 50:25	1	10	ἐπισκοπῇ	ἐπισκοπή	noun, dative feminine singular, cognate with ἐπισκέψεται	1	visitation
-GEN 50:25	1	11	ᾗ	ὅς	relative pronoun, dative feminine singular; antecedent ἐπισκοπῇ	1	with which
+GEN 50:25	1	11	ᾗ	ὅς	relative pronoun, dative feminine singular; antecedent ἐπισκοπῇ	1	in which
 GEN 50:25	1	12	ἐπισκέψεται	ἐπισκέπτομαι	future middle indicative, third singular, visit (in mercy)	1	will visit
 GEN 50:25	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 50:25	1	14	Θεὸς	θεός	noun, nominative masculine singular	1	God

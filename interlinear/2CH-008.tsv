@@ -137,7 +137,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 8:6	1	45	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	reign
 2CH 8:6	1	45	βασιλείᾳ			2	kingship
 2CH 8:6	1	46	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
-2CH 8:7	1	1	Πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+2CH 8:7	1	1	Πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 2CH 8:7	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 8:7	1	3	λαὸς	λαός	noun, nominative masculine singular	1	people
 2CH 8:7	1	4	ὁ	ὁ	article, nominative masculine singular; introduces attributive participle	1	the one
@@ -171,7 +171,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 8:8	1	5	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 2CH 8:8	1	6	τῶν	ὁ	article, genitive masculine plural	1	the
 2CH 8:8	1	7	καταλειφθέντων	καταλείπω	aorist passive participle, genitive masculine plural	1	left behind
-2CH 8:8	1	8	μετ᾽	μετά	elided preposition with the genitive	1	with
+2CH 8:8	1	8	μετ᾽	μετά	preposition with the accusative	1	after
 2CH 8:8	1	9	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 2CH 8:8	1	10	ἐν	ἐν	preposition with the dative	1	in
 2CH 8:8	1	11	τῇ	ὁ	article, dative feminine singular	1	the
@@ -255,7 +255,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 8:11	1	12	οἶκον			2	household
 2CH 8:11	1	13	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
 2CH 8:11	1	14	ᾠκοδόμησεν	οἰκοδομέω	aorist active indicative, third singular	1	built
-2CH 8:11	1	15	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
+2CH 8:11	1	15	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	for her
 2CH 8:11	1	16	ὅτι	ὅτι	causal conjunction	1	because
 2CH 8:11	1	17	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2CH 8:11	1	18	οὐ	οὐ	negative particle	1	not
@@ -398,7 +398,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 8:14	1	52	ἐντολὴ			2	instruction
 2CH 8:14	1	53	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 2CH 8:14	1	54	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
-2CH 8:14	1	55	τοῦ	ὁ	article, genitive singular	1	the
+2CH 8:14	1	55	τοῦ	ὁ	article, genitive singular	1	of
 2CH 8:14	1	56	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 2CH 8:15	1	1	οὐ	οὐ	negative particle	1	not
 2CH 8:15	1	2	παρῆλθον	παρέρχομαι	aorist active indicative, third plural	1	they departed from

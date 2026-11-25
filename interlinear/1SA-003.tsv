@@ -50,7 +50,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 3:3	1	1	Καὶ	καί	conjunction	1	and
 1SA 3:3	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 1SA 3:3	1	3	λύχνος	λύχνος	noun, nominative masc. sg., lamp	1	lamp
-1SA 3:3	1	4	τοῦ	ὁ	article, genitive singular	1	the
+1SA 3:3	1	4	τοῦ	ὁ	article, genitive singular	1	of
 1SA 3:3	1	5	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 1SA 3:3	1	6	πρὶν	πρίν	conjunction	1	before
 1SA 3:3	1	7	ἐπισκευασθῆναι	ἐπισκευάζω	aorist passive infinitive	1	to be tended
@@ -65,7 +65,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 3:3	1	15	οὗ	οὗ	relative adverb of place	1	where
 1SA 3:3	1	16	ἡ	ὁ	article, nominative feminine singular	1	the
 1SA 3:3	1	17	κιβωτὸς	κιβωτός	noun, nominative feminine singular	1	ark
-1SA 3:3	1	18	τοῦ	ὁ	article, genitive singular	1	the
+1SA 3:3	1	18	τοῦ	ὁ	article, genitive singular	1	of
 1SA 3:3	1	19	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 1SA 3:4	1	1	Καὶ	καί	conjunction	1	and
 1SA 3:4	1	2	ἐκάλεσε	καλέω	aorist active indicative, third singular	1	called
@@ -93,7 +93,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 3:5	1	15	κέκληκά	καλέω	perfect active indicative, first singular	1	I have called
 1SA 3:5	1	16	σε	σύ	personal pronoun, accusative singular	1	you
 1SA 3:5	1	17	ἀνάστρεφε	ἀναστρέφω	present active imperative, second singular	1	go back
-1SA 3:5	1	18	κάθευδε	καθεύδω	present active imperative, second singular	1	lie down
+1SA 3:5	1	18	κάθευδε	καθεύδω	present active imperative, second singular	1	go to sleep
 1SA 3:5	1	19	Καὶ	καί	conjunction	1	and
 1SA 3:5	1	20	ἀνέστρεψε	ἀναστρέφω	aorist active indicative, third singular	1	returned
 1SA 3:5	1	20	ἀνέστρεψε			2	turned back
@@ -132,7 +132,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 3:6	1	30	υἱέ	υἱός	noun, vocative masculine singular	1	son
 1SA 3:6	1	31	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 1SA 3:6	1	32	ἀνάστρεφε	ἀναστρέφω	present active imperative, second singular	1	go back
-1SA 3:6	1	33	κάθευδε	καθεύδω	present active imperative, second singular	1	lie down
+1SA 3:6	1	33	κάθευδε	καθεύδω	present active imperative, second singular	1	go to sleep
 1SA 3:7	1	1	Καὶ	καί	conjunction	1	and
 1SA 3:7	1	2	Σαμουὴλ	Σαμουήλ	indeclinable personal name, accusative in context	1	Samuel
 1SA 3:7	1	3	πρὶν	πρίν	conjunction	1	before
@@ -182,7 +182,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 3:9	1	4	τῷ	ὁ	article, dative masculine singular	1	to
 1SA 3:9	1	5	Σαμουήλ	Σαμουήλ	indeclinable personal name, accusative in context	1	Samuel
 1SA 3:9	1	6	ἀνάστρεφε	ἀναστρέφω	present active imperative, second singular	1	go back
-1SA 3:9	1	7	κάθευδε	καθεύδω	present active imperative, second singular	1	lie down
+1SA 3:9	1	7	κάθευδε	καθεύδω	present active imperative, second singular	1	go to sleep
 1SA 3:9	1	8	τέκνον	τέκνον	noun, accusative neuter singular	1	child
 1SA 3:9	1	9	καὶ	καί	conjunction	1	and
 1SA 3:9	1	10	ἔσται	εἰμί	future indicative, third singular	1	it shall happen
@@ -246,7 +246,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 3:11	1	12	ἐν	ἐν	preposition with the dative	1	in
 1SA 3:11	1	13	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 1SA 3:11	1	14	ὥστε	ὥστε	conjunction	1	so that
-1SA 3:11	1	15	παντὸς	πᾶς	adjective, genitive neuter singular	1	any
+1SA 3:11	1	15	παντὸς	πᾶς	adjective, genitive neuter singular	1	everyone
 1SA 3:11	1	16	ἀκούοντος	ἀκούω	present active participle, genitive masculine singular	1	hearing
 1SA 3:11	1	17	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
 1SA 3:11	1	18	ἠχήσει	ἠχέω	future active indicative, third singular	1	will ring
@@ -259,7 +259,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 3:12	1	3	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 1SA 3:12	1	4	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative feminine singular	1	that
 1SA 3:12	1	5	ἐπεγερῶ	ἐπεγείρω	future active indicative, first singular	1	I shall raise up
-1SA 3:12	1	6	ἐπὶ	ἐπί	preposition with the genitive	1	upon
+1SA 3:12	1	6	ἐπὶ	ἐπί	preposition with the genitive	1	against
 1SA 3:12	1	7	Ἠλεὶ	Ἠλεί	indeclinable personal name, case from syntax	1	Eli
 1SA 3:12	1	8	πάντα	πᾶς	adjective, accusative neuter plural	1	everything
 1SA 3:12	1	9	ὅσα	ὅσος	relative adjective, nominative neuter plural	1	that
@@ -309,8 +309,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 3:14	1	5	τῷ	ὁ	article, dative masculine singular	1	to the
 1SA 3:14	1	6	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
 1SA 3:14	1	7	Ἠλεὶ	Ἠλεί	indeclinable personal name, case from syntax	1	of Eli
-1SA 3:14	1	8	εἰ	εἰ	conditional conjunction, introduces the oath	1	—
-1SA 3:14	1	9	ἐξιλασθήσεται	ἐξιλάσκομαι	future passive indicative, third singular	1	shall be atoned for
+1SA 3:14	1	8	εἰ	εἰ	conditional conjunction, introduces the oath	1	(introduces a negative oath)
+1SA 3:14	1	9	ἐξιλασθήσεται	ἐξιλάσκομαι	future passive indicative, third singular	1	shall never be atoned for
 1SA 3:14	1	10	ἀδικία	ἀδικία	noun nominative feminine singular	1	injustice
 1SA 3:14	1	11	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 1SA 3:14	1	12	Ἠλεὶ	Ἠλεί	indeclinable personal name, case from syntax	1	of Eli
@@ -479,7 +479,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 3:21	1	21	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 1SA 3:21	1	22	ἀπ	ἀπό	preposition with genitive, printed without elision mark	1	from
 1SA 3:21	1	23	ἄκρων	ἄκρος	adjective/noun, genitive neuter plural after ἀπ᾽/τῶν, in ἀπ᾽ ἄκρων ὁρίων 'from the ends of the borders'	1	the ends
-1SA 3:21	1	24	τῆς	ὁ	article, genitive feminine singular	1	the
+1SA 3:21	1	24	τῆς	ὁ	article, genitive feminine singular	1	of the
 1SA 3:21	1	25	γῆς	γῆ	noun, genitive feminine singular	1	land
 1SA 3:21	1	26	ἕως	ἕως	preposition with the genitive	1	as far as
 1SA 3:21	1	27	ἄκρων	ἄκρος	adjective/noun, genitive neuter plural after ἀπ᾽/τῶν, in ἀπ᾽ ἄκρων ὁρίων 'from the ends of the borders'	1	the ends
@@ -494,7 +494,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 3:21	1	36	πορευόμενοι	πορεύομαι	present middle/passive participle, nominative masculine plural	1	going
 1SA 3:21	1	37	ἐπορεύοντο	πορεύομαι	imperfect middle indicative, third plural	1	they would go
 1SA 3:21	1	38	καὶ	καί	conjunction	1	and
-1SA 3:21	1	39	πονηρὰ	πονηρός	substantival adjective, accusative neuter plural	1	evil things
+1SA 3:21	1	39	πονηρὰ	πονηρός	adjective, nominative feminine singular	1	evil
 1SA 3:21	1	40	ἡ	ὁ	article, nominative feminine singular	1	the
 1SA 3:21	1	41	ὁδὸς	ὁδός	noun nominative feminine singular	1	way
 1SA 3:21	1	42	αὐτῶν	αὐτός	pronoun, possessive genitive masculine plural	1	their

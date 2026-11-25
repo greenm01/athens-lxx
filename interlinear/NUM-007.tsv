@@ -21,7 +21,7 @@ NUM 7:1	1	17	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 NUM 7:1	1	18	καὶ	καί	conjunction	1	and
 NUM 7:1	1	19	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 7:1	1	20	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 7:1	1	21	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+NUM 7:1	1	21	σκεύη	σκεῦος	noun, accusative neuter plural	1	furnishings
 NUM 7:1	1	21	σκεύη			2	goods
 NUM 7:1	1	22	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 NUM 7:1	1	23	καὶ	καί	conjunction	1	and
@@ -30,7 +30,7 @@ NUM 7:1	1	25	θυσιαστήριον	θυσιαστήριον	noun, accusative 
 NUM 7:1	1	26	καὶ	καί	conjunction	1	and
 NUM 7:1	1	27	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 7:1	1	28	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 7:1	1	29	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+NUM 7:1	1	29	σκεύη	σκεῦος	noun, accusative neuter plural	1	furnishings
 NUM 7:1	1	29	σκεύη			2	goods
 NUM 7:1	1	30	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	its
 NUM 7:1	1	31	καὶ	καί	conjunction	1	and
@@ -54,7 +54,7 @@ NUM 7:2	1	9	πατριῶν	πατριά	noun, genitive feminine plural	1	ancest
 NUM 7:2	1	10	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 NUM 7:2	1	11	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
 NUM 7:2	1	11	ἄρχοντες			2	officials
-NUM 7:2	1	12	φυλῶν	φυλή	noun, genitive feminine plural	1	clans
+NUM 7:2	1	12	φυλῶν	φυλή	noun, genitive feminine plural	1	of the tribes
 NUM 7:2	1	12	φυλῶν			2	tribes
 NUM 7:2	1	13	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 NUM 7:2	1	14	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -83,7 +83,7 @@ NUM 7:3	1	15	παρὰ	παρά	preposition with genitive	1	from
 NUM 7:3	1	16	δύο	δύο	cardinal numeral, indeclinable	1	two
 NUM 7:3	1	17	ἀρχόντων	ἄρχων	noun, genitive masculine plural	1	leaders
 NUM 7:3	1	18	καὶ	καί	conjunction	1	and
-NUM 7:3	1	19	μόσχον	μόσχος	noun, accusative masculine singular	1	an ox
+NUM 7:3	1	19	μόσχον	μόσχος	noun, accusative masculine singular	1	a young bull
 NUM 7:3	1	19	μόσχον			2	young bull
 NUM 7:3	1	20	παρὰ	παρά	preposition with genitive	1	from
 NUM 7:3	1	21	ἑκάστου	ἕκαστος	pronoun, genitive masculine singular, distributive	1	of each
@@ -115,7 +115,7 @@ NUM 7:5	1	13	τοῦ	ὁ	article, genitive neuter singular	1	of the
 NUM 7:5	1	14	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	1	testimony
 NUM 7:5	1	14	μαρτυρίου			2	witness
 NUM 7:5	1	15	καὶ	καί	conjunction	1	and
-NUM 7:5	1	16	δώσεις	δίδωμι	future active indicative, second singular	1	will you give
+NUM 7:5	1	16	δώσεις	δίδωμι	future active indicative, second singular	1	you shall give
 NUM 7:5	1	17	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
 NUM 7:5	1	18	τοῖς	ὁ	article, dative masculine plural	1	the
 NUM 7:5	1	19	Λευίταις	Λευίτης	proper noun, dative masculine plural	1	Levites
@@ -185,7 +185,7 @@ NUM 7:9	1	7	ὅτι	ὅτι	causal conjunction	1	because
 NUM 7:9	1	8	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 7:9	1	9	λειτουργήματα	λειτούργημα	noun, accusative neuter plural	1	tasks of service
 NUM 7:9	1	10	τοῦ	ὁ	article, genitive neuter singular	1	of the
-NUM 7:9	1	11	ἁγίου	ἅγιος	substantival adjective, genitive neuter singular	1	holy place
+NUM 7:9	1	11	ἁγίου	ἅγιος	substantival adjective, genitive neuter singular	1	sanctuary
 NUM 7:9	1	12	ἔχουσιν	ἔχω	present active indicative, third plural	1	they have
 NUM 7:9	1	13	ἐπ᾽	ἐπί	preposition with genitive	1	on
 NUM 7:9	1	14	ὤμων	ὦμος	noun, genitive masculine plural	1	shoulders
@@ -195,7 +195,7 @@ NUM 7:10	1	2	προσήνεγκαν	προσφέρω	aorist active indicative, t
 NUM 7:10	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 NUM 7:10	1	4	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
 NUM 7:10	1	4	ἄρχοντες			2	officials
-NUM 7:10	1	5	εἰς	εἰς	preposition with the accusative	1	into
+NUM 7:10	1	5	εἰς	εἰς	preposition with the accusative	1	for
 NUM 7:10	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
 NUM 7:10	1	7	ἐγκαινισμὸν	ἐγκαινισμός	noun, accusative masculine singular	1	dedication
 NUM 7:10	1	8	τοῦ	ὁ	article, genitive neuter singular	1	of the
@@ -238,7 +238,7 @@ NUM 7:11	1	14	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 7:11	1	15	δῶρα	δῶρον	noun, accusative neuter plural	1	offerings
 NUM 7:11	1	15	δῶρα			2	gifts
 NUM 7:11	1	16	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-NUM 7:11	1	17	εἰς	εἰς	preposition with the accusative	1	into
+NUM 7:11	1	17	εἰς	εἰς	preposition with the accusative	1	for
 NUM 7:11	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 NUM 7:11	1	19	ἐγκαινισμὸν	ἐγκαινισμός	noun, accusative masculine singular	1	dedication
 NUM 7:11	1	20	τοῦ	ὁ	article, genitive neuter singular	1	of the
@@ -262,8 +262,8 @@ NUM 7:12	1	14	Ἀμιναδὰβ			2	Amminadab
 NUM 7:12	1	15	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 NUM 7:12	1	15	ἄρχων			2	chief
 NUM 7:12	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 7:12	1	17	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 7:12	1	17	φυλῆς			2	tribe
+NUM 7:12	1	17	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 7:12	1	17	φυλῆς			2	clan
 NUM 7:12	1	18	Ἰούδα	Ἰούδας	personal name, genitive masculine singular	1	of Judah
 NUM 7:13	1	1	καὶ	καί	conjunction	1	and
 NUM 7:13	1	2	προσήνεγκε	προσφέρω	aorist active indicative, third singular	1	brought near
@@ -303,7 +303,7 @@ NUM 7:13	1	31	θυσίαν	θυσία	noun, accusative feminine singular	1	grain
 NUM 7:14	1	1	θυΐσκην	θυΐσκη	noun, accusative feminine singular	1	incense bowl
 NUM 7:14	1	2	μίαν	εἷς	numeral, accusative feminine singular	1	one
 NUM 7:14	1	3	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-NUM 7:14	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold
+NUM 7:14	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold weights
 NUM 7:14	1	5	πλήρη	πλήρης	adjective, accusative feminine singular	1	full
 NUM 7:14	1	6	θυμιάματος	θυμίαμα	noun, genitive neuter singular	1	incense
 NUM 7:15	1	1	μόσχον	μόσχος	noun, accusative masculine singular	1	young bull
@@ -316,7 +316,7 @@ NUM 7:15	1	6	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	o
 NUM 7:15	1	7	ἀμνὸν	ἀμνός	noun, accusative masculine singular	1	lamb
 NUM 7:15	1	8	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 7:15	1	9	ἐνιαύσιον	ἐνιαύσιος	adjective, accusative masculine singular	1	a year old
-NUM 7:15	1	10	εἰς	εἰς	preposition with the accusative	1	into
+NUM 7:15	1	10	εἰς	εἰς	preposition with the accusative	1	for
 NUM 7:15	1	11	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, nominative neuter singular	1	whole burnt offering
 NUM 7:15	1	11	ὁλοκαύτωμα			2	burnt offering
 NUM 7:16	1	1	καὶ	καί	conjunction	1	and
@@ -365,8 +365,8 @@ NUM 7:18	1	8	Σωγὰρ			2	Zuar
 NUM 7:18	1	9	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 NUM 7:18	1	9	ἄρχων			2	chief
 NUM 7:18	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 7:18	1	11	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 7:18	1	11	φυλῆς			2	tribe
+NUM 7:18	1	11	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 7:18	1	11	φυλῆς			2	clan
 NUM 7:18	1	12	Ἰσσάχαρ	Ἰσσάχαρ	indeclinable personal name, nominative in context	1	Issachar
 NUM 7:19	1	1	καὶ	καί	conjunction	1	and
 NUM 7:19	1	2	προσήνεγκε	προσφέρω	aorist active indicative, third singular	1	brought near
@@ -406,7 +406,7 @@ NUM 7:19	1	31	θυσίαν	θυσία	noun, accusative feminine singular	1	grain
 NUM 7:20	1	1	θυΐσκην	θυΐσκη	noun, accusative feminine singular	1	incense bowl
 NUM 7:20	1	2	μίαν	εἷς	numeral, accusative feminine singular	1	one
 NUM 7:20	1	3	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-NUM 7:20	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold
+NUM 7:20	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold weights
 NUM 7:20	1	5	πλήρη	πλήρης	adjective, accusative feminine singular	1	full
 NUM 7:20	1	6	θυμιάματος	θυμίαμα	noun, genitive neuter singular	1	incense
 NUM 7:21	1	1	μόσχον	μόσχος	noun, accusative masculine singular	1	young bull
@@ -419,7 +419,7 @@ NUM 7:21	1	6	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	o
 NUM 7:21	1	7	ἀμνὸν	ἀμνός	noun, accusative masculine singular	1	lamb
 NUM 7:21	1	8	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 7:21	1	9	ἐνιαύσιον	ἐνιαύσιος	adjective, accusative masculine singular	1	a year old
-NUM 7:21	1	10	εἰς	εἰς	preposition with the accusative	1	into
+NUM 7:21	1	10	εἰς	εἰς	preposition with the accusative	1	for
 NUM 7:21	1	11	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, nominative neuter singular	1	whole burnt offering
 NUM 7:21	1	11	ὁλοκαύτωμα			2	burnt offering
 NUM 7:22	1	1	καὶ	καί	conjunction	1	and
@@ -461,7 +461,7 @@ NUM 7:24	1	3	τῇ	ὁ	article, dative feminine singular	1	the
 NUM 7:24	1	4	τρίτῃ	τρίτος	ordinal adjective, dative feminine singular	1	third
 NUM 7:24	1	5	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 NUM 7:24	1	5	ἄρχων			2	chief
-NUM 7:24	1	6	τῶν	ὁ	article, genitive plural	1	the
+NUM 7:24	1	6	τῶν	ὁ	article, genitive plural	1	of the
 NUM 7:24	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 7:24	1	8	Ζαβουλὼν	Ζαβουλών	indeclinable personal name, nominative in context	1	Zebulun
 NUM 7:24	1	9	Ἐλιὰβ	Ἐλιάβ	indeclinable personal name, nominative in context	1	Eliab
@@ -503,7 +503,7 @@ NUM 7:25	1	29	θυσίαν	θυσία	noun, accusative feminine singular	1	grain
 NUM 7:26	1	1	θυΐσκην	θυΐσκη	noun, accusative feminine singular	1	incense bowl
 NUM 7:26	1	2	μίαν	εἷς	numeral, accusative feminine singular	1	one
 NUM 7:26	1	3	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-NUM 7:26	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold
+NUM 7:26	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold weights
 NUM 7:26	1	5	πλήρη	πλήρης	adjective, accusative feminine singular	1	full
 NUM 7:26	1	6	θυμιάματος	θυμίαμα	noun, genitive neuter singular	1	incense
 NUM 7:27	1	1	μόσχον	μόσχος	noun, accusative masculine singular	1	young bull
@@ -516,7 +516,7 @@ NUM 7:27	1	6	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	o
 NUM 7:27	1	7	ἀμνὸν	ἀμνός	noun, accusative masculine singular	1	lamb
 NUM 7:27	1	8	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 7:27	1	9	ἐνιαύσιον	ἐνιαύσιος	adjective, accusative masculine singular	1	a year old
-NUM 7:27	1	10	εἰς	εἰς	preposition with the accusative	1	into
+NUM 7:27	1	10	εἰς	εἰς	preposition with the accusative	1	for
 NUM 7:27	1	11	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, nominative neuter singular	1	whole burnt offering
 NUM 7:27	1	11	ὁλοκαύτωμα			2	burnt offering
 NUM 7:28	1	1	καὶ	καί	conjunction	1	and
@@ -557,7 +557,7 @@ NUM 7:30	1	3	τῇ	ὁ	article, dative feminine singular	1	the
 NUM 7:30	1	4	τετάρτῃ	τέταρτος	ordinal adjective, dative feminine singular	1	fourth
 NUM 7:30	1	5	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 NUM 7:30	1	5	ἄρχων			2	chief
-NUM 7:30	1	6	τῶν	ὁ	article, genitive plural	1	the
+NUM 7:30	1	6	τῶν	ὁ	article, genitive plural	1	of the
 NUM 7:30	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 7:30	1	8	Ῥουβὴν	Ῥουβήν	indeclinable personal name, nominative in context	1	Reuben
 NUM 7:30	1	9	Ἐλισοὺρ	Ἐλισούρ	indeclinable personal name, nominative in context	1	Elisur
@@ -600,7 +600,7 @@ NUM 7:31	1	29	θυσίαν	θυσία	noun, accusative feminine singular	1	grain
 NUM 7:32	1	1	θυΐσκην	θυΐσκη	noun, accusative feminine singular	1	incense bowl
 NUM 7:32	1	2	μίαν	εἷς	numeral, accusative feminine singular	1	one
 NUM 7:32	1	3	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-NUM 7:32	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold
+NUM 7:32	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold weights
 NUM 7:32	1	5	πλήρη	πλήρης	adjective, accusative feminine singular	1	full
 NUM 7:32	1	6	θυμιάματος	θυμίαμα	noun, genitive neuter singular	1	incense
 NUM 7:33	1	1	μόσχον	μόσχος	noun, accusative masculine singular	1	young bull
@@ -613,7 +613,7 @@ NUM 7:33	1	6	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	o
 NUM 7:33	1	7	ἀμνὸν	ἀμνός	noun, accusative masculine singular	1	lamb
 NUM 7:33	1	8	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 7:33	1	9	ἐνιαύσιον	ἐνιαύσιος	adjective, accusative masculine singular	1	a year old
-NUM 7:33	1	10	εἰς	εἰς	preposition with the accusative	1	into
+NUM 7:33	1	10	εἰς	εἰς	preposition with the accusative	1	for
 NUM 7:33	1	11	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, nominative neuter singular	1	whole burnt offering
 NUM 7:33	1	11	ὁλοκαύτωμα			2	burnt offering
 NUM 7:34	1	1	καὶ	καί	conjunction	1	and
@@ -652,7 +652,7 @@ NUM 7:35	1	19	Σεδιούρ			2	Shedeur
 NUM 7:36	1	1	Τῇ	ὁ	article, dative feminine singular	1	the
 NUM 7:36	1	2	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 NUM 7:36	1	3	τῇ	ὁ	article, dative feminine singular	1	the
-NUM 7:36	1	4	πέμπτῃ	πέμπτος	ordinal adjective, dative fem. sg. with γενεᾷ 'in the fifth generation'	1	in the fifth
+NUM 7:36	1	4	πέμπτῃ	πέμπτος	ordinal adjective, dative fem. sg. with γενεᾷ 'in the fifth generation'	1	fifth
 NUM 7:36	1	5	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 NUM 7:36	1	5	ἄρχων			2	chief
 NUM 7:36	1	6	τῶν	ὁ	article, genitive masculine plural	1	the
@@ -698,7 +698,7 @@ NUM 7:37	1	29	θυσίαν	θυσία	noun, accusative feminine singular	1	grain
 NUM 7:38	1	1	θυΐσκην	θυΐσκη	noun, accusative feminine singular	1	incense bowl
 NUM 7:38	1	2	μίαν	εἷς	numeral, accusative feminine singular	1	one
 NUM 7:38	1	3	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-NUM 7:38	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold
+NUM 7:38	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold weights
 NUM 7:38	1	5	πλήρη	πλήρης	adjective, accusative feminine singular	1	full
 NUM 7:38	1	6	θυμιάματος	θυμίαμα	noun, genitive neuter singular	1	incense
 NUM 7:39	1	1	μόσχον	μόσχος	noun, accusative masculine singular	1	young bull
@@ -711,7 +711,7 @@ NUM 7:39	1	6	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	o
 NUM 7:39	1	7	ἀμνὸν	ἀμνός	noun, accusative masculine singular	1	lamb
 NUM 7:39	1	8	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 7:39	1	9	ἐνιαύσιον	ἐνιαύσιος	adjective, accusative masculine singular	1	a year old
-NUM 7:39	1	10	εἰς	εἰς	preposition with the accusative	1	into
+NUM 7:39	1	10	εἰς	εἰς	preposition with the accusative	1	for
 NUM 7:39	1	11	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, nominative neuter singular	1	whole burnt offering
 NUM 7:39	1	11	ὁλοκαύτωμα			2	burnt offering
 NUM 7:40	1	1	καὶ	καί	conjunction	1	and
@@ -753,7 +753,7 @@ NUM 7:42	1	3	τῇ	ὁ	article, dative feminine singular	1	the
 NUM 7:42	1	4	ἕκτῃ	ἕκτος	ordinal adjective, dative fem. sg. with ἡμέρᾳ	1	sixth
 NUM 7:42	1	5	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 NUM 7:42	1	5	ἄρχων			2	chief
-NUM 7:42	1	6	τῶν	ὁ	article, genitive plural	1	the
+NUM 7:42	1	6	τῶν	ὁ	article, genitive plural	1	of the
 NUM 7:42	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 7:42	1	8	Γὰδ	Γάδ	indeclinable personal name, nominative in context	1	Gad
 NUM 7:42	1	9	Ἐλισὰφ	Ἐλισάφ	indeclinable personal name, nominative in context	1	Elisaph
@@ -795,7 +795,7 @@ NUM 7:43	1	29	θυσίαν	θυσία	noun, accusative feminine singular	1	grain
 NUM 7:44	1	1	θυΐσκην	θυΐσκη	noun, accusative feminine singular	1	incense bowl
 NUM 7:44	1	2	μίαν	εἷς	numeral, accusative feminine singular	1	one
 NUM 7:44	1	3	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-NUM 7:44	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold
+NUM 7:44	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold weights
 NUM 7:44	1	5	πλήρη	πλήρης	adjective, accusative feminine singular	1	full
 NUM 7:44	1	6	θυμιάματος	θυμίαμα	noun, genitive neuter singular	1	incense
 NUM 7:45	1	1	μόσχον	μόσχος	noun, accusative masculine singular	1	young bull
@@ -808,7 +808,7 @@ NUM 7:45	1	6	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	o
 NUM 7:45	1	7	ἀμνὸν	ἀμνός	noun, accusative masculine singular	1	lamb
 NUM 7:45	1	8	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 7:45	1	9	ἐνιαύσιον	ἐνιαύσιος	adjective, accusative masculine singular	1	a year old
-NUM 7:45	1	10	εἰς	εἰς	preposition with the accusative	1	into
+NUM 7:45	1	10	εἰς	εἰς	preposition with the accusative	1	for
 NUM 7:45	1	11	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, nominative neuter singular	1	whole burnt offering
 NUM 7:45	1	11	ὁλοκαύτωμα			2	burnt offering
 NUM 7:46	1	1	καὶ	καί	conjunction	1	and
@@ -849,7 +849,7 @@ NUM 7:48	1	3	τῇ	ὁ	article, dative feminine singular	1	the
 NUM 7:48	1	4	ἑβδόμῃ	ἕβδομος	ordinal adjective, dative fem. sg. with ἡμέρᾳ	1	seventh
 NUM 7:48	1	5	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 NUM 7:48	1	5	ἄρχων			2	chief
-NUM 7:48	1	6	τῶν	ὁ	article, genitive plural	1	the
+NUM 7:48	1	6	τῶν	ὁ	article, genitive plural	1	of the
 NUM 7:48	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 7:48	1	8	Ἐφραὶμ	Ἐφραίμ	indeclinable personal name, nominative in context	1	Ephraim
 NUM 7:48	1	9	Ἐλισαμὰ	Ἐλισαμά	indeclinable personal name, nominative in context	1	Elisama
@@ -892,7 +892,7 @@ NUM 7:49	1	29	θυσίαν	θυσία	noun, accusative feminine singular	1	grain
 NUM 7:50	1	1	θυΐσκην	θυΐσκη	noun, accusative feminine singular	1	incense bowl
 NUM 7:50	1	2	μίαν	εἷς	numeral, accusative feminine singular	1	one
 NUM 7:50	1	3	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-NUM 7:50	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold
+NUM 7:50	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold weights
 NUM 7:50	1	5	πλήρη	πλήρης	adjective, accusative feminine singular	1	full
 NUM 7:50	1	6	θυμιάματος	θυμίαμα	noun, genitive neuter singular	1	incense
 NUM 7:51	1	1	μόσχον	μόσχος	noun, accusative masculine singular	1	young bull
@@ -905,7 +905,7 @@ NUM 7:51	1	6	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	o
 NUM 7:51	1	7	ἀμνὸν	ἀμνός	noun, accusative masculine singular	1	lamb
 NUM 7:51	1	8	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 7:51	1	9	ἐνιαύσιον	ἐνιαύσιος	adjective, accusative masculine singular	1	a year old
-NUM 7:51	1	10	εἰς	εἰς	preposition with the accusative	1	into
+NUM 7:51	1	10	εἰς	εἰς	preposition with the accusative	1	for
 NUM 7:51	1	11	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, nominative neuter singular	1	whole burnt offering
 NUM 7:51	1	11	ὁλοκαύτωμα			2	burnt offering
 NUM 7:52	1	1	καὶ	καί	conjunction	1	and
@@ -947,7 +947,7 @@ NUM 7:54	1	3	τῇ	ὁ	article, dative feminine singular	1	(marks the following 
 NUM 7:54	1	4	ὀγδόῃ	ὄγδοος	ordinal adjective, dative feminine singular	1	eighth
 NUM 7:54	1	5	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 NUM 7:54	1	5	ἄρχων			2	chief
-NUM 7:54	1	6	τῶν	ὁ	article, genitive plural	1	the
+NUM 7:54	1	6	τῶν	ὁ	article, genitive plural	1	of the
 NUM 7:54	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 7:54	1	8	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	1	Manasseh
 NUM 7:54	1	9	Γαμαλιὴλ	Γαμαλιήλ	indeclinable personal name, nominative in context	1	Gamaliel
@@ -989,7 +989,7 @@ NUM 7:55	1	29	θυσίαν	θυσία	noun, accusative feminine singular	1	grain
 NUM 7:56	1	1	θυΐσκην	θυΐσκη	noun, accusative feminine singular	1	incense bowl
 NUM 7:56	1	2	μίαν	εἷς	numeral, accusative feminine singular	1	one
 NUM 7:56	1	3	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-NUM 7:56	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold
+NUM 7:56	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold weights
 NUM 7:56	1	5	πλήρη	πλήρης	adjective, accusative feminine singular	1	full
 NUM 7:56	1	6	θυμιάματος	θυμίαμα	noun, genitive neuter singular	1	incense
 NUM 7:57	1	1	μόσχον	μόσχος	noun, accusative masculine singular	1	young bull
@@ -1002,7 +1002,7 @@ NUM 7:57	1	6	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	o
 NUM 7:57	1	7	ἀμνὸν	ἀμνός	noun, accusative masculine singular	1	lamb
 NUM 7:57	1	8	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 7:57	1	9	ἐνιαύσιον	ἐνιαύσιος	adjective, accusative masculine singular	1	a year old
-NUM 7:57	1	10	εἰς	εἰς	preposition with the accusative	1	into
+NUM 7:57	1	10	εἰς	εἰς	preposition with the accusative	1	for
 NUM 7:57	1	11	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, nominative neuter singular	1	whole burnt offering
 NUM 7:57	1	11	ὁλοκαύτωμα			2	burnt offering
 NUM 7:58	1	1	καὶ	καί	conjunction	1	and
@@ -1086,7 +1086,7 @@ NUM 7:61	1	29	θυσίαν	θυσία	noun, accusative feminine singular	1	grain
 NUM 7:62	1	1	θυΐσκην	θυΐσκη	noun, accusative feminine singular	1	incense bowl
 NUM 7:62	1	2	μίαν	εἷς	numeral, accusative feminine singular	1	one
 NUM 7:62	1	3	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-NUM 7:62	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold
+NUM 7:62	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold weights
 NUM 7:62	1	5	πλήρη	πλήρης	adjective, accusative feminine singular	1	full
 NUM 7:62	1	6	θυμιάματος	θυμίαμα	noun, genitive neuter singular	1	incense
 NUM 7:63	1	1	μόσχον	μόσχος	noun, accusative masculine singular	1	young bull
@@ -1099,7 +1099,7 @@ NUM 7:63	1	6	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	o
 NUM 7:63	1	7	ἀμνὸν	ἀμνός	noun, accusative masculine singular	1	lamb
 NUM 7:63	1	8	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 7:63	1	9	ἐνιαύσιον	ἐνιαύσιος	adjective, accusative masculine singular	1	a year old
-NUM 7:63	1	10	εἰς	εἰς	preposition with the accusative	1	into
+NUM 7:63	1	10	εἰς	εἰς	preposition with the accusative	1	for
 NUM 7:63	1	11	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, nominative neuter singular	1	whole burnt offering
 NUM 7:63	1	11	ὁλοκαύτωμα			2	burnt offering
 NUM 7:64	1	1	καὶ	καί	conjunction	1	and
@@ -1138,10 +1138,10 @@ NUM 7:65	1	19	Γαδεωνί			2	Gideoni
 NUM 7:66	1	1	Τῇ	ὁ	article, dative feminine singular	1	the
 NUM 7:66	1	2	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 NUM 7:66	1	3	τῇ	ὁ	article, dative feminine singular	1	the
-NUM 7:66	1	4	δεκάτῃ	δέκατος	ordinal adjective, dative feminine singular	1	on the tenth
+NUM 7:66	1	4	δεκάτῃ	δέκατος	ordinal adjective, dative feminine singular	1	tenth
 NUM 7:66	1	5	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 NUM 7:66	1	5	ἄρχων			2	chief
-NUM 7:66	1	6	τῶν	ὁ	article, genitive plural	1	the
+NUM 7:66	1	6	τῶν	ὁ	article, genitive plural	1	of the
 NUM 7:66	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 7:66	1	8	Δὰν	Δάν	indeclinable personal name, nominative in context	1	Dan
 NUM 7:66	1	9	Ἀχιέζερ	Ἀχιέζερ	indeclinable personal name, nominative in context	1	Achiezer
@@ -1184,7 +1184,7 @@ NUM 7:67	1	29	θυσίαν	θυσία	noun, accusative feminine singular	1	grain
 NUM 7:68	1	1	θυΐσκην	θυΐσκη	noun, accusative feminine singular	1	incense bowl
 NUM 7:68	1	2	μίαν	εἷς	numeral, accusative feminine singular	1	one
 NUM 7:68	1	3	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-NUM 7:68	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold
+NUM 7:68	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold weights
 NUM 7:68	1	5	πλήρη	πλήρης	adjective, accusative feminine singular	1	full
 NUM 7:68	1	6	θυμιάματας	θυμίαμα	noun, genitive neuter singular as required by πλήρη; printed θυμιάματας	1	incense
 NUM 7:69	1	1	μόσχον	μόσχος	noun, accusative masculine singular	1	young bull
@@ -1241,7 +1241,7 @@ NUM 7:72	1	4	ἑνδεκάτῃ	ἑνδέκατος	ordinal adjective, dative fe
 NUM 7:72	1	5	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular after τῇ	1	day
 NUM 7:72	1	6	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 NUM 7:72	1	6	ἄρχων			2	chief
-NUM 7:72	1	7	τῶν	ὁ	article, genitive plural	1	the
+NUM 7:72	1	7	τῶν	ὁ	article, genitive plural	1	of the
 NUM 7:72	1	8	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 7:72	1	9	Ἀσὴρ	Ἀσήρ	indeclinable personal name, nominative in context	1	Asher
 NUM 7:72	1	10	Φαγαιὴλ	Φαγαιήλ	indeclinable personal name, nominative in context	1	Phagaiel
@@ -1284,7 +1284,7 @@ NUM 7:73	1	29	θυσίαν	θυσία	noun, accusative feminine singular	1	grain
 NUM 7:74	1	1	θυΐσκην	θυΐσκη	noun, accusative feminine singular	1	incense bowl
 NUM 7:74	1	2	μίαν	εἷς	numeral, accusative feminine singular	1	one
 NUM 7:74	1	3	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-NUM 7:74	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold
+NUM 7:74	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold weights
 NUM 7:74	1	5	πλήρη	πλήρης	adjective, accusative feminine singular	1	full
 NUM 7:74	1	6	θυμιάματος	θυμίαμα	noun, genitive neuter singular	1	incense
 NUM 7:75	1	1	μόσχον	μόσχος	noun, accusative masculine singular	1	young bull
@@ -1339,7 +1339,7 @@ NUM 7:78	1	3	τῇ	ὁ	article, dative feminine singular	1	the
 NUM 7:78	1	4	δωδεκάτῃ	δωδέκατος	ordinal adjective, dative feminine singular	1	twelfth
 NUM 7:78	1	5	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 NUM 7:78	1	5	ἄρχων			2	chief
-NUM 7:78	1	6	τῶν	ὁ	article, genitive plural	1	the
+NUM 7:78	1	6	τῶν	ὁ	article, genitive plural	1	of the
 NUM 7:78	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 7:78	1	8	Νεφθαλὶ	Νεφθαλί	indeclinable personal name, nominative in context	1	Naphtali
 NUM 7:78	1	9	Ἀχιρὲ	Ἀχιρέ	indeclinable personal name, nominative in context	1	Achire
@@ -1381,7 +1381,7 @@ NUM 7:79	1	29	θυσίαν	θυσία	noun, accusative feminine singular	1	grain
 NUM 7:80	1	1	θυΐσκην	θυΐσκη	noun, accusative feminine singular	1	incense bowl
 NUM 7:80	1	2	μίαν	εἷς	numeral, accusative feminine singular	1	one
 NUM 7:80	1	3	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-NUM 7:80	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold
+NUM 7:80	1	4	χρυσῶν	χρυσοῦς	substantival adjective, genitive feminine plural; modifies understood δραχμῶν	1	gold weights
 NUM 7:80	1	5	πλήρη	πλήρης	adjective, accusative feminine singular	1	full
 NUM 7:80	1	6	θυμιάματος	θυμίαμα	noun, genitive neuter singular	1	incense
 NUM 7:81	1	1	μόσχον	μόσχος	noun, accusative masculine singular	1	young bull
@@ -1394,7 +1394,7 @@ NUM 7:81	1	6	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	o
 NUM 7:81	1	7	ἀμνὸν	ἀμνός	noun, accusative masculine singular	1	lamb
 NUM 7:81	1	8	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 NUM 7:81	1	9	ἐνιαύσιον	ἐνιαύσιος	adjective, accusative masculine singular	1	a year old
-NUM 7:81	1	10	εἰς	εἰς	preposition with the accusative	1	into
+NUM 7:81	1	10	εἰς	εἰς	preposition with the accusative	1	for
 NUM 7:81	1	11	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, nominative neuter singular	1	whole burnt offering
 NUM 7:81	1	11	ὁλοκαύτωμα			2	burnt offering
 NUM 7:82	1	1	καὶ	καί	conjunction	1	and
@@ -1477,13 +1477,13 @@ NUM 7:85	1	17	πᾶν	πᾶς	adjective, accusative neuter singular with σπέ�
 NUM 7:85	1	18	τὸ	ὁ	article, neuter singular (case from context)	1	the
 NUM 7:85	1	19	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular after τὸ, silver/money (from context)	1	silver
 NUM 7:85	1	20	τῶν	ὁ	article, genitive plural	1	the
-NUM 7:85	1	21	σκευῶν	σκεῦος	noun, genitive neuter plural	1	belongings
+NUM 7:85	1	21	σκευῶν	σκεῦος	noun, genitive neuter plural	1	vessels
 NUM 7:85	1	21	σκευῶν			2	goods
 NUM 7:85	1	22	δισχίλιοι	δισχίλιοι	cardinal numeral, nominative masculine plural	1	two thousand
 NUM 7:85	1	23	καὶ	καί	conjunction	1	and
 NUM 7:85	1	24	τετρακόσιοι	τετρακόσιοι	cardinal numeral, nominative masculine plural	1	four hundred
 NUM 7:85	1	25	σίκλοι	σίκλος	noun, nominative masculine plural	1	shekels
-NUM 7:85	1	26	ἐν	ἐν	preposition with the dative	1	in
+NUM 7:85	1	26	ἐν	ἐν	preposition with the dative	1	according to
 NUM 7:85	1	27	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 NUM 7:85	1	28	σίκλῳ	σίκλος	noun, dative masculine singular	1	shekel
 NUM 7:85	1	29	τῷ	ὁ	article, dative masculine/neuter singular	1	the
@@ -1510,12 +1510,12 @@ NUM 7:86	1	19	θυϊσκῶν	θυΐσκη	noun, genitive feminine plural	1	ince
 NUM 7:86	1	20	εἴκοσι	εἴκοσι	indeclinable cardinal numeral	1	twenty
 NUM 7:86	1	21	καὶ	καί	conjunction	1	and
 NUM 7:86	1	22	ἑκατὸν	ἑκατόν	indeclinable cardinal numeral	1	one hundred
-NUM 7:86	1	23	χρυσοί	χρυσοῦς	adjective, nominative masculine plural; used substantivally	1	gold pieces
+NUM 7:86	1	23	χρυσοί	χρυσοῦς	adjective, nominative masculine plural; used substantivally	1	gold weights
 NUM 7:87	1	1	Πᾶσαι	πᾶς	adjective, nominative feminine plural	1	all
 NUM 7:87	1	2	αἱ	ὁ	article, nominative feminine plural	1	the
 NUM 7:87	1	3	βόες	βοῦς	noun, nominative plural	1	cattle
 NUM 7:87	1	3	βόες			2	oxen
-NUM 7:87	1	4	εἰς	εἰς	preposition with the accusative	1	into
+NUM 7:87	1	4	εἰς	εἰς	preposition with the accusative	1	for
 NUM 7:87	1	5	ὁλοκαύτωσιν	ὁλοκαύτωσις	noun, accusative feminine singular	1	whole burnt offering
 NUM 7:87	1	6	μόσχοι	μόσχος	noun, nominative masculine plural	1	calves
 NUM 7:87	1	6	μόσχοι			2	young bulls

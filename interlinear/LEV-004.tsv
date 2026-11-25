@@ -73,7 +73,7 @@ LEV 4:4	1	5	παρὰ	παρά	preposition with the accusative of place	1	beside
 LEV 4:4	1	5	παρὰ			2	near
 LEV 4:4	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 4:4	1	7	θύραν	θύρα	noun, accusative feminine singular	1	door
-LEV 4:4	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 4:4	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 4:4	1	9	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
 LEV 4:4	1	10	τοῦ	ὁ	article, genitive neuter singular	1	of the
 LEV 4:4	1	11	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	1	testimony
@@ -149,7 +149,7 @@ LEV 4:6	1	16	ἑπτάκις			2	sevenfold
 LEV 4:6	1	17	ἔναντι	ἔναντι	improper preposition with genitive	1	before
 LEV 4:6	1	17	ἔναντι			2	in the presence of
 LEV 4:6	1	18	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
-LEV 4:6	1	19	κατὰ	κατά	preposition with the accusative	1	according to
+LEV 4:6	1	19	κατὰ	κατά	preposition with the accusative	1	toward
 LEV 4:6	1	20	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 4:6	1	21	καταπέτασμα	καταπέτασμα	noun, accusative neuter singular	1	curtain
 LEV 4:6	1	21	καταπέτασμα			2	veil
@@ -204,7 +204,7 @@ LEV 4:7	1	41	τῶν	ὁ	article, genitive neuter plural	1	of the
 LEV 4:7	1	42	ὁλοκαυτωμάτων	ὁλοκαύτωμα	noun, genitive neuter plural	1	whole burnt offerings
 LEV 4:7	1	43	ὅ	ὅς	relative pronoun, nominative neuter singular	1	which
 LEV 4:7	1	44	ἐστι	εἰμί	present indicative, third singular	1	is
-LEV 4:7	1	45	παρὰ	παρά	preposition with the dative	1	with/beside
+LEV 4:7	1	45	παρὰ	παρά	preposition with the dative	1	beside
 LEV 4:7	1	46	τὰς	ὁ	article, accusative feminine plural	1	the
 LEV 4:7	1	47	θύρας	θύρα	noun, accusative feminine plural	1	entrances
 LEV 4:7	1	48	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -247,9 +247,9 @@ LEV 4:9	1	5	καὶ	καί	conjunction	1	and
 LEV 4:9	1	6	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 4:9	1	7	στέαρ	στέαρ	noun, accusative neuter singular	1	fat
 LEV 4:9	1	8	τὸ	ὁ	article, accusative neuter singular	1	the
-LEV 4:9	1	9	ἐπ᾽	ἐπί	elided preposition with the accusative	1	against
+LEV 4:9	1	9	ἐπ᾽	ἐπί	preposition with genitive, elided	1	on
 LEV 4:9	1	9	ἐπ᾽			2	upon
-LEV 4:9	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+LEV 4:9	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 LEV 4:9	1	11	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 4:9	1	12	ἐπὶ	ἐπί	preposition with genitive	1	on
 LEV 4:9	1	13	τῶν	ὁ	article, genitive neuter plural	1	the
@@ -298,7 +298,7 @@ LEV 4:11	1	5	μόσχου	μόσχος	noun, genitive masculine singular	1	young
 LEV 4:11	1	5	μόσχου			2	calf
 LEV 4:11	1	6	καὶ	καί	conjunction	1	and
 LEV 4:11	1	7	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
-LEV 4:11	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+LEV 4:11	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	its
 LEV 4:11	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 4:11	1	10	σάρκα	σάρξ	noun, accusative feminine singular	1	flesh
 LEV 4:11	1	11	σὺν	σύν	preposition with dative	1	with
@@ -334,9 +334,9 @@ LEV 4:12	1	14	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 4:12	1	15	σποδιὰν	σποδιά	noun, accusative feminine singular	1	ashes
 LEV 4:12	1	16	καὶ	καί	conjunction	1	and
 LEV 4:12	1	17	κατακαύσουσιν	κατακαίω	future active indicative, third plural	1	they shall burn up
-LEV 4:12	1	18	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
+LEV 4:12	1	18	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 LEV 4:12	1	19	ἐπὶ	ἐπί	preposition (case from context)	1	on
-LEV 4:12	1	20	ξύλων	ξύλον	noun, genitive neuter plural	1	timbers
+LEV 4:12	1	20	ξύλων	ξύλον	noun, genitive neuter plural	1	wood
 LEV 4:12	1	20	ξύλων			2	pieces of wood
 LEV 4:12	1	21	ἐν	ἐν	preposition with the dative	1	in
 LEV 4:12	1	22	πυρί	πῦρ	noun, dative neuter singular	1	with fire
@@ -400,7 +400,7 @@ LEV 4:14	1	20	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular
 LEV 4:14	1	21	καὶ	καί	conjunction	1	and
 LEV 4:14	1	22	προσάξει	προσάγω	future active indicative, third singular	1	he shall present
 LEV 4:14	1	23	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
-LEV 4:14	1	24	παρὰ	παρά	preposition with the dative	1	with/beside
+LEV 4:14	1	24	παρὰ	παρά	preposition with the dative	1	beside
 LEV 4:14	1	25	τὰς	ὁ	article, accusative feminine plural	1	the
 LEV 4:14	1	26	θύρας	θύρα	noun, accusative feminine plural	1	entrances
 LEV 4:14	1	27	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -509,7 +509,7 @@ LEV 4:18	1	27	μαρτυρίου	μαρτύριον	noun, genitive neuter singul
 LEV 4:18	1	27	μαρτυρίου			2	witness
 LEV 4:18	1	28	καὶ	καί	conjunction	1	and
 LEV 4:18	1	29	τὸ	ὁ	article, accusative neuter singular	1	the
-LEV 4:18	1	30	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+LEV 4:18	1	30	πᾶν	πᾶς	adjective, accusative neuter singular	1	all
 LEV 4:18	1	31	αἷμα	αἷμα	noun, accusative neuter singular	1	blood
 LEV 4:18	1	32	ἐκχεεῖ	ἐκχέω	future active indicative, third singular	1	he shall pour out
 LEV 4:18	1	33	πρὸς	πρός	preposition with the accusative	1	to
@@ -523,7 +523,7 @@ LEV 4:18	1	40	τοῦ	ὁ	article, genitive masculine singular	1	of the
 LEV 4:18	1	41	πρὸς	πρός	preposition with accusative	1	to
 LEV 4:18	1	42	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 4:18	1	43	θύραν	θύρα	noun, accusative feminine singular	1	door
-LEV 4:18	1	44	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 4:18	1	44	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 4:18	1	45	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
 LEV 4:18	1	46	τοῦ	ὁ	article, genitive neuter singular	1	of the
 LEV 4:18	1	47	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	1	testimony
@@ -690,7 +690,7 @@ LEV 4:25	1	21	τῶν	ὁ	article, genitive neuter plural	1	of the
 LEV 4:25	1	22	ὁλοκαυτωμάτων	ὁλοκαύτωμα	noun, genitive neuter plural	1	whole burnt offerings
 LEV 4:25	1	23	καὶ	καί	conjunction	1	and
 LEV 4:25	1	24	τὸ	ὁ	article, accusative neuter singular	1	the
-LEV 4:25	1	25	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+LEV 4:25	1	25	πᾶν	πᾶς	adjective, accusative neuter singular	1	all
 LEV 4:25	1	26	αἷμα	αἷμα	noun, accusative neuter singular	1	blood
 LEV 4:25	1	27	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 4:25	1	28	ἐκχεεῖ	ἐκχέω	future active indicative, third singular	1	he shall pour out
@@ -739,8 +739,8 @@ LEV 4:27	1	6	ἀκουσίως	ἀκουσίως	adverb	1	unintentionally
 LEV 4:27	1	7	ἐκ	ἐκ	preposition with the genitive	1	from
 LEV 4:27	1	8	τοῦ	ὁ	article, genitive masculine singular	1	the
 LEV 4:27	1	9	λαοῦ	λαός	noun, genitive masculine singular	1	people
-LEV 4:27	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
-LEV 4:27	1	11	γῆς	γῆ	noun, genitive feminine singular	1	earth
+LEV 4:27	1	10	τῆς	ὁ	article, genitive feminine singular	1	of the
+LEV 4:27	1	11	γῆς	γῆ	noun, genitive feminine singular	1	land
 LEV 4:27	1	12	ἐν	ἐν	preposition with dative; introduces an infinitive expressing circumstance	1	by
 LEV 4:27	1	13	τῷ	ὁ	article, dative neuter singular; introduces the infinitive governed by ἐν	1	[introduces the infinitive]
 LEV 4:27	1	14	ποιῆσαι	ποιέω	aorist active infinitive	1	doing
@@ -933,7 +933,7 @@ LEV 4:34	1	19	θυσιαστηρίου	θυσιαστήριον	noun, genitive n
 LEV 4:34	1	20	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 4:34	1	21	ὁλοκαυτώσεως	ὁλοκαύτωσις	noun, genitive feminine singular	1	whole burnt offering
 LEV 4:34	1	22	καὶ	καί	conjunction	1	and
-LEV 4:34	1	23	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+LEV 4:34	1	23	πᾶν	πᾶς	adjective, accusative neuter singular	1	all
 LEV 4:34	1	24	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	its
 LEV 4:34	1	25	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 4:34	1	26	αἷμα	αἷμα	noun, accusative neuter singular	1	blood
@@ -947,7 +947,7 @@ LEV 4:34	1	32	θυσιαστηρίου	θυσιαστήριον	noun, genitive n
 LEV 4:34	1	33	τῆς	ὁ	article, genitive feminine singular	1	the
 LEV 4:34	1	34	ὁλοκαυτώσεως	ὁλοκαύτωσις	noun, genitive feminine singular	1	whole burnt offering
 LEV 4:35	1	1	Καὶ	καί	conjunction	1	and
-LEV 4:35	1	2	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+LEV 4:35	1	2	πᾶν	πᾶς	adjective, accusative neuter singular	1	all
 LEV 4:35	1	3	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	its
 LEV 4:35	1	4	τὸ	ὁ	article, neuter singular (case from context)	1	the
 LEV 4:35	1	5	στέαρ	στέαρ	noun, accusative neuter singular	1	fat

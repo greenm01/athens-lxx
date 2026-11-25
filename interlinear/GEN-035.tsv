@@ -153,11 +153,11 @@ GEN 35:4	1	33	καὶ	καί	conjunction	1	and
 GEN 35:4	1	34	ἀπώλεσεν	ἀπόλλυμι	aorist active indicative, third singular	1	destroyed
 GEN 35:4	1	34	ἀπώλεσεν			2	did away with
 GEN 35:4	1	35	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
-GEN 35:4	1	36	ἕως	ἕως	preposition with the genitive	1	as far as
+GEN 35:4	1	36	ἕως	ἕως	preposition with the genitive	1	until
 GEN 35:4	1	36	ἕως			2	up to
 GEN 35:4	1	37	τῆς	ὁ	article before the object of ἀκούω, genitive feminine singular	1	the
 GEN 35:4	1	38	σήμερον	σήμερον	adverb of time	1	today
-GEN 35:4	1	39	ἡμέρας	ἡμέρα	noun, accusative feminine plural; accusative of duration or time	1	days
+GEN 35:4	1	39	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
 GEN 35:5	1	1	Καὶ	καί	conjunction	1	and
 GEN 35:5	1	2	ἐξῆρεν	ἐξαίρω	aorist active indicative, third singular	1	set out
 GEN 35:5	1	2	ἐξῆρεν			2	departed
@@ -200,7 +200,7 @@ GEN 35:6	1	7	ἐστιν	εἰμί	present indicative, third singular	1	is
 GEN 35:6	1	8	ἐν	ἐν	preposition with the dative	1	in
 GEN 35:6	1	9	γῇ	γῆ	noun, dative feminine singular	1	land
 GEN 35:6	1	9	γῇ			2	earth
-GEN 35:6	1	10	Χανάαν	Χαναάν	indeclinable place name	1	Canaan
+GEN 35:6	1	10	Χανάαν	Χαναάν	indeclinable place name	1	of Canaan
 GEN 35:6	1	10	Χανάαν			2	Chanaan
 GEN 35:6	1	11	ἣ	ὅς	relative pronoun, nominative feminine singular	1	which
 GEN 35:6	1	12	ἐστι	εἰμί	present indicative, third singular	1	is
@@ -230,7 +230,7 @@ GEN 35:7	1	9	τοῦ	ὁ	article, genitive masculine singular	1	of the
 GEN 35:7	1	10	τόπου	τόπος	noun, genitive masculine singular	1	place
 GEN 35:7	1	11	Ἰσχυρὸς	ἰσχυρός	adjective, nominative masculine singular; part of a place name	1	Mighty One
 GEN 35:7	1	11	Ἰσχυρὸς			2	Strong One
-GEN 35:7	1	12	Βαιθήλ	Βαιθήλ	indeclinable place name, genitive in context	1	of Bethel
+GEN 35:7	1	12	Βαιθήλ	Βαιθήλ	indeclinable place name, genitive in context	1	Bethel
 GEN 35:7	1	13	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 GEN 35:7	1	14	γὰρ	γάρ	postpositive conjunction	1	for
 GEN 35:7	1	15	ἐπεφάνη	ἐπιφαίνω	aorist passive indicative, third singular	1	appeared
@@ -277,7 +277,7 @@ GEN 35:8	1	19	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 GEN 35:8	1	19	αὐτῆς			2	her
 GEN 35:8	1	20	Βάλανος	βάλανος	noun, nominative feminine singular	1	Oak
 GEN 35:8	1	20	Βάλανος			2	Acorn Tree
-GEN 35:8	1	21	πένθους	πένθος	noun, genitive neuter singular	1	mourning
+GEN 35:8	1	21	πένθους	πένθος	noun, genitive neuter singular	1	of mourning
 GEN 35:8	1	21	πένθους			2	grief
 GEN 35:9	1	1	Ὤφθη	ὁράω	aorist passive indicative, third singular	1	appeared
 GEN 35:9	1	2	δὲ	δέ	postpositive conjunction	1	now
@@ -381,8 +381,8 @@ GEN 35:12	1	15	τῷ	ὁ	article, dative neuter singular	1	to the
 GEN 35:12	1	16	σπέρματί	σπέρμα	noun, dative neuter singular	1	offspring
 GEN 35:12	1	16	σπέρματί			2	descendants
 GEN 35:12	1	17	σου	σύ	personal pronoun, possessive genitive singular	1	your
-GEN 35:12	1	18	μετὰ	μετά	preposition; with genitive, accompaniment; with accusative, sequence	1	with
-GEN 35:12	1	18	μετὰ			2	after
+GEN 35:12	1	18	μετὰ	μετά	preposition with the accusative	1	after
+GEN 35:12	1	18	μετὰ			2	with
 GEN 35:12	1	19	σὲ	σύ	personal pronoun, emphatic accusative singular governed by πρός	1	you
 GEN 35:12	1	20	δώσω	δίδωμι	future active indicative, first singular	1	I will give
 GEN 35:12	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -413,7 +413,7 @@ GEN 35:14	1	4	στήλην			2	standing stone
 GEN 35:14	1	5	ἐν	ἐν	preposition with the dative	1	in
 GEN 35:14	1	6	τῷ	ὁ	article, dative masculine singular	1	the
 GEN 35:14	1	7	τόπῳ	τόπος	noun, dative masculine singular	1	place
-GEN 35:14	1	8	ᾧ	ὅς	relative pronoun, dative neuter singular	1	which
+GEN 35:14	1	8	ᾧ	ὅς	relative pronoun, dative neuter singular	1	where
 GEN 35:14	1	9	ἐλάλησε	λαλέω	aorist active indicative, third singular	1	spoke
 GEN 35:14	1	10	μετ᾽	μετά	preposition; with genitive, accompaniment; with accusative, sequence	1	with
 GEN 35:14	1	10	μετ᾽			2	after
@@ -471,7 +471,7 @@ GEN 35:16	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	hi
 GEN 35:16	1	10	ἐπέκεινα	ἐπέκεινα	preposition with genitive	1	beyond
 GEN 35:16	1	11	τοῦ	ὁ	article, genitive masculine singular	1	of the
 GEN 35:16	1	12	πύργου	πύργος	noun, genitive masculine singular	1	tower
-GEN 35:16	1	13	Γαδέρ	Γαδέρ	indeclinable place name, genitive in context	1	Gader
+GEN 35:16	1	13	Γαδέρ	Γαδέρ	indeclinable place name, genitive in context	1	of Gader
 GEN 35:16	1	13	Γαδέρ			2	Eder
 GEN 35:16	1	14	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 GEN 35:16	1	15	δὲ	δέ	postpositive conjunction	1	now
@@ -537,7 +537,7 @@ GEN 35:18	1	12	τὸ	ὁ	article, accusative neuter singular	1	the
 GEN 35:18	1	13	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 GEN 35:18	1	14	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
 GEN 35:18	1	15	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-GEN 35:18	1	16	ὀδύνης	ὀδύνη	noun, genitive feminine singular	1	pain
+GEN 35:18	1	16	ὀδύνης	ὀδύνη	noun, genitive feminine singular	1	of pain
 GEN 35:18	1	16	ὀδύνης			2	sorrow
 GEN 35:18	1	17	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 GEN 35:18	1	17	μου			2	of me
@@ -583,11 +583,11 @@ GEN 35:20	1	12	στήλη			2	standing stone
 GEN 35:20	1	13	μνημείου	μνημεῖον	noun, genitive neuter singular	1	tomb
 GEN 35:20	1	13	μνημείου			2	burial place
 GEN 35:20	1	14	Ῥαχὴλ	Ῥαχήλ	indeclinable personal name, genitive in context	1	Rachel
-GEN 35:20	1	15	ἕως	ἕως	preposition with the genitive	1	as far as
+GEN 35:20	1	15	ἕως	ἕως	preposition with the genitive	1	until
 GEN 35:20	1	15	ἕως			2	up to
 GEN 35:20	1	16	τῆς	ὁ	article before the object of ἀκούω, genitive feminine singular	1	the
 GEN 35:20	1	17	σήμερον	σήμερον	adverb of time	1	today
-GEN 35:20	1	18	ἡμέρας	ἡμέρα	noun, accusative feminine plural; accusative of duration or time	1	days
+GEN 35:20	1	18	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
 GEN 35:21	1	1	Καὶ	καί	conjunction	1	and
 GEN 35:21	1	2	ἀπῆρεν	ἀπαίρω	aorist active indicative, third singular	1	set out
 GEN 35:21	1	2	ἀπῆρεν			2	departed
@@ -666,22 +666,22 @@ GEN 35:24	1	5	καὶ	καί	conjunction	1	and
 GEN 35:24	1	6	Βενιαμίν	Βενιαμίν	indeclinable personal name, nominative in context	1	Benjamin
 GEN 35:25	1	1	Υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 GEN 35:25	1	2	δὲ	δέ	postpositive conjunction	1	now
-GEN 35:25	1	3	Βαλλᾶς	Βαλλά	declined personal name, genitive feminine singular	1	Balla
+GEN 35:25	1	3	Βαλλᾶς	Βαλλά	declined personal name, genitive feminine singular	1	of Bilhah
 GEN 35:25	1	3	Βαλλᾶς			2	Bilhah
 GEN 35:25	1	4	παιδίσκης	παιδίσκη	noun, genitive feminine singular	1	servant girl
 GEN 35:25	1	4	παιδίσκης			2	female servant
-GEN 35:25	1	5	Ῥαχὴλ	Ῥαχήλ	indeclinable personal name, genitive in context	1	Rachel
+GEN 35:25	1	5	Ῥαχὴλ	Ῥαχήλ	indeclinable personal name, genitive in context	1	of Rachel
 GEN 35:25	1	6	Δὰν	Δάν	indeclinable personal name, nominative in context	1	Dan
 GEN 35:25	1	7	καὶ	καί	conjunction	1	and
 GEN 35:25	1	8	Νεφθαλείμ	Νεφθαλείμ	indeclinable personal name, nominative in context	1	Nephthaleim
 GEN 35:25	1	8	Νεφθαλείμ			2	Naphtali
 GEN 35:26	1	1	Υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 GEN 35:26	1	2	δὲ	δέ	postpositive conjunction	1	now
-GEN 35:26	1	3	Ζελφᾶς	Ζελφά	declined personal name, genitive feminine singular	1	Zelpha
+GEN 35:26	1	3	Ζελφᾶς	Ζελφά	declined personal name, genitive feminine singular	1	of Zilpah
 GEN 35:26	1	3	Ζελφᾶς			2	Zilpah
 GEN 35:26	1	4	παιδίσκης	παιδίσκη	noun, genitive feminine singular	1	servant girl
 GEN 35:26	1	4	παιδίσκης			2	female servant
-GEN 35:26	1	5	Λείας	Λεία	declined personal name, genitive feminine singular	1	Leah
+GEN 35:26	1	5	Λείας	Λεία	declined personal name, genitive feminine singular	1	of Leah
 GEN 35:26	1	5	Λείας			2	Leia
 GEN 35:26	1	6	Γὰδ	Γάδ	indeclinable personal name, nominative in context	1	Gad
 GEN 35:26	1	7	καὶ	καί	conjunction	1	and
@@ -722,7 +722,7 @@ GEN 35:27	1	17	Χεβρὼν	Χεβρών	indeclinable place name, nominative in
 GEN 35:27	1	18	ἐν	ἐν	preposition with the dative	1	in
 GEN 35:27	1	19	γῇ	γῆ	noun, dative feminine singular	1	land
 GEN 35:27	1	19	γῇ			2	earth
-GEN 35:27	1	20	Χαναὰν	Χαναάν	indeclinable place name, genitive in context	1	Canaan
+GEN 35:27	1	20	Χαναὰν	Χαναάν	indeclinable place name, genitive in context	1	of Canaan
 GEN 35:27	1	20	Χαναὰν			2	Chanaan
 GEN 35:27	1	21	οὗ	οὗ	relative adverb of place	1	where
 GEN 35:27	1	22	παρῴκησεν	παροικέω	aorist active indicative, third singular	1	stayed as a foreigner

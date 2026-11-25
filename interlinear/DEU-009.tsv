@@ -26,11 +26,11 @@ DEU 9:1	1	24	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	
 DEU 9:2	1	1	λαὸν	λαός	noun, accusative masculine singular	1	people
 DEU 9:2	1	2	μέγαν	μέγας	adjective, accusative masculine singular	1	great
 DEU 9:2	1	3	καὶ	καί	conjunction	1	and
-DEU 9:2	1	4	πολὺν	πολύς	adjective, accusative masculine singular	1	many
+DEU 9:2	1	4	πολὺν	πολύς	adjective, accusative masculine singular	1	numerous
 DEU 9:2	1	5	καὶ	καί	conjunction	1	and
 DEU 9:2	1	6	εὐμήκη	εὐμήκης	adjective, accusative masculine singular	1	tall
 DEU 9:2	1	7	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
-DEU 9:2	1	8	Ἐνὰκ	Ἐνάκ	people name, genitive singular	1	Enak
+DEU 9:2	1	8	Ἐνὰκ	Ἐνάκ	indeclinable personal name, genitive in context	1	of Enak
 DEU 9:2	1	9	οὓς	ὅς	relative pronoun, accusative masculine plural	1	whom
 DEU 9:2	1	10	σὺ	σύ	pronoun, nominative 2nd singular	1	you
 DEU 9:2	1	11	ᾖσθα	οἶδα	pluperfect active indicative, 2nd singular	1	knew
@@ -41,8 +41,8 @@ DEU 9:2	1	15	τίς	τίς	interrogative pronoun, nominative masculine singular	
 DEU 9:2	1	16	ἀντιστήσεται	ἀνθίστημι	future middle indicative, 3rd singular	1	shall withstand
 DEU 9:2	1	17	κατὰ	κατά	preposition with the accusative	1	before
 DEU 9:2	1	18	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
-DEU 9:2	1	19	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-DEU 9:2	1	20	Ἐνάκ	Ἐνάκ	people name, genitive singular	1	Enak
+DEU 9:2	1	19	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
+DEU 9:2	1	20	Ἐνάκ	Ἐνάκ	indeclinable personal name, genitive in context	1	of Enak
 DEU 9:3	1	1	Καὶ	καί	conjunction	1	and
 DEU 9:3	1	2	γνώσῃ	γινώσκω	future middle indicative, 2nd singular	1	shall know
 DEU 9:3	1	3	σήμερον	σήμερον	adverb	1	today
@@ -51,7 +51,7 @@ DEU 9:3	1	5	Κύριος	κύριος	noun, nominative masculine singular	1	the 
 DEU 9:3	1	6	ὁ	ὁ	definite article	1	the
 DEU 9:3	1	7	Θεός	θεός	noun, nominative masc. sg.	1	God
 DEU 9:3	1	8	σου	σύ	pronoun, genitive 2nd singular	1	your
-DEU 9:3	1	9	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
+DEU 9:3	1	9	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	he
 DEU 9:3	1	10	προπορεύσεται	προπορεύομαι	future middle indicative, 3rd singular	1	shall go before
 DEU 9:3	1	11	πρὸ	πρό	preposition with the genitive	1	before
 DEU 9:3	1	12	προσώπου	πρόσωπον	noun, genitive neuter singular	1	face
@@ -59,11 +59,11 @@ DEU 9:3	1	13	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 9:3	1	14	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
 DEU 9:3	1	15	καταναλίσκον	καταναλίσκω	present active participle, accusative neuter singular	1	consuming
 DEU 9:3	1	16	ἐστίν	εἰμί	present indicative, 3rd singular	1	is
-DEU 9:3	1	17	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
+DEU 9:3	1	17	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	he
 DEU 9:3	1	18	ἐξολοθρεύσει	ἐξολοθρεύω	future active indicative, 3rd singular	1	shall destroy
 DEU 9:3	1	19	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 DEU 9:3	1	20	καὶ	καί	conjunction	1	and
-DEU 9:3	1	21	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
+DEU 9:3	1	21	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	he
 DEU 9:3	1	22	ἀποστρέψει	ἀποστρέφω	future active indicative, 3rd singular	1	shall turn back
 DEU 9:3	1	23	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 DEU 9:3	1	24	πρὸ	πρό	preposition with the genitive	1	before
@@ -87,9 +87,9 @@ DEU 9:4	1	3	ἐν	ἐν	preposition with the dative	1	in
 DEU 9:4	1	4	τῇ	ὁ	definite article	1	the
 DEU 9:4	1	5	καρδίᾳ	καρδία	noun, dative fem. sg. after τῇ	1	heart
 DEU 9:4	1	6	σου	σύ	pronoun, genitive 2nd singular	1	your
-DEU 9:4	1	7	ἐν	ἐν	preposition with the dative	1	in
+DEU 9:4	1	7	ἐν	ἐν	preposition with the dative	1	when
 DEU 9:4	1	8	τῷ	ὁ	definite article	1	the
-DEU 9:4	1	9	ἐξαναλῶσαι	ἐξαναλίσκω	aorist active infinitive after ἐν τῷ	1	has destroyed
+DEU 9:4	1	9	ἐξαναλῶσαι	ἐξαναλίσκω	aorist active infinitive after ἐν τῷ	1	destroys
 DEU 9:4	1	10	Κύριον	κύριος	noun, accusative masculine singular	1	the Lord
 DEU 9:4	1	11	τὸν	ὁ	definite article	1	the
 DEU 9:4	1	12	Θεόν	θεός	noun, accusative masc. sg. after τὸν	1	God
@@ -166,7 +166,7 @@ DEU 9:5	1	36	διαθήκην	διαθήκη	noun, accusative feminine singular	
 DEU 9:5	1	37	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
 DEU 9:5	1	38	ὤμοσε	ὀμνύω	aorist active indicative, 3rd singular	1	swore
 DEU 9:5	1	39	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 9:5	1	40	τοῖς	ὁ	definite article	1	the
+DEU 9:5	1	40	τοῖς	ὁ	definite article	1	to the
 DEU 9:5	1	41	πατράσιν	πατήρ	noun, dative masculine plural	1	fathers
 DEU 9:5	1	42	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 9:5	1	43	Ἀβραὰμ	Ἀβραάμ	personal name, accusative masculine singular	1	Abraham
@@ -195,7 +195,7 @@ DEU 9:6	1	18	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 9:6	1	19	ἀγαθὴν	ἀγαθός	adjective, accusative fem. sg.	1	good
 DEU 9:6	1	20	ταύτην	οὗτος	demonstrative pronoun, accusative feminine singular	1	this
 DEU 9:6	1	21	κληρονομῆσαι	κληρονομέω	aorist active infinitive	1	to possess
-DEU 9:6	1	22	ὅτι	ὅτι	conjunction	1	that
+DEU 9:6	1	22	ὅτι	ὅτι	conjunction	1	for
 DEU 9:6	1	23	λαὸς	λαός	noun, nominative masculine singular	1	people
 DEU 9:6	1	24	σκληροτράχηλος	σκληροτράχηλος	adjective, nominative masculine singular	1	stiff-necked
 DEU 9:6	1	25	εἶ	εἰμί	present indicative, 2nd singular	1	are
@@ -264,7 +264,7 @@ DEU 9:9	1	20	ἐν	ἐν	preposition with the dative	1	in
 DEU 9:9	1	21	τῷ	ὁ	definite article	1	the
 DEU 9:9	1	22	ὄρει	ὄρος	noun, dative neuter singular	1	mount
 DEU 9:9	1	23	τεσσαράκοντα	τεσσαράκοντα	cardinal numeral	1	forty
-DEU 9:9	1	24	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
+DEU 9:9	1	24	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
 DEU 9:9	1	25	καὶ	καί	conjunction	1	and
 DEU 9:9	1	26	τεσσαράκοντα	τεσσαράκοντα	cardinal numeral	1	forty
 DEU 9:9	1	27	νύκτας	νύξ	noun, accusative feminine plural	1	nights
@@ -286,13 +286,13 @@ DEU 9:10	1	8	τὰς	ὁ	definite article	1	the
 DEU 9:10	1	9	λιθίνας	λίθινος	adjective, accusative feminine plural	1	of stone
 DEU 9:10	1	10	τὰς	ὁ	definite article	1	the
 DEU 9:10	1	11	γεγραμμένας	γράφω	perfect passive participle, accusative feminine plural	1	written
-DEU 9:10	1	12	ἐν	ἐν	preposition with the dative	1	in
+DEU 9:10	1	12	ἐν	ἐν	preposition with the dative	1	with
 DEU 9:10	1	13	τῷ	ὁ	definite article	1	the
 DEU 9:10	1	14	δακτύλῳ	δάκτυλος	noun, dative masculine singular	1	finger
 DEU 9:10	1	15	τοῦ	ὁ	definite article	1	the
-DEU 9:10	1	16	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+DEU 9:10	1	16	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 DEU 9:10	1	17	καὶ	καί	conjunction	1	and
-DEU 9:10	1	18	ἐπ᾽	ἐπί	preposition, elided	1	in
+DEU 9:10	1	18	ἐπ᾽	ἐπί	preposition, elided	1	on
 DEU 9:10	1	19	αὐταῖς	αὐτός	pronoun, dative feminine plural	1	them
 DEU 9:10	1	20	ἐγέγραπτο	γράφω	pluperfect passive indicative, 3rd singular	1	were written
 DEU 9:10	1	21	πάντες	πᾶς	adjective, nominative masculine plural	1	all
@@ -312,7 +312,7 @@ DEU 9:10	1	34	τοῦ	ὁ	definite article	1	the
 DEU 9:10	1	35	πυρὸς	πῦρ	noun, genitive neuter singular	1	fire
 DEU 9:10	1	36	ἐν	ἐν	preposition with the dative	1	in
 DEU 9:10	1	37	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
-DEU 9:10	1	38	ἐκκλησίας	ἐκκλησία	noun, genitive feminine singular	1	assembly
+DEU 9:10	1	38	ἐκκλησίας	ἐκκλησία	noun, genitive feminine singular	1	of assembly
 DEU 9:11	1	1	καὶ	καί	conjunction	1	and
 DEU 9:11	1	2	ἐγένετο	γίνομαι	aorist middle indicative, 3rd singular	1	it came about
 DEU 9:11	1	3	διὰ	διά	preposition with the genitive	1	through
@@ -343,7 +343,7 @@ DEU 9:12	1	7	καὶ	καί	conjunction	1	and
 DEU 9:12	1	8	κατάβηθι	καταβαίνω	aorist active imperative, 2nd singular	1	go down
 DEU 9:12	1	9	τοτάχος	τοτάχος	adverb	1	quickly
 DEU 9:12	1	10	ἐντεῦθεν	ἐντεῦθεν	adverb	1	from here
-DEU 9:12	1	11	ὅτι	ὅτι	conjunction	1	that
+DEU 9:12	1	11	ὅτι	ὅτι	conjunction	1	for
 DEU 9:12	1	12	ἠνόμησεν	ἀνομέω	aorist active indicative, 3rd singular	1	has acted corruptly
 DEU 9:12	1	13	ὁ	ὁ	definite article	1	the
 DEU 9:12	1	14	λαός	λαός	noun, nominative masculine singular after ὁ	1	people
@@ -443,7 +443,7 @@ DEU 9:16	1	8	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 9:16	1	9	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 9:16	1	10	καὶ	καί	conjunction	1	and
 DEU 9:16	1	11	ἐποιήσατε	ποιέω	aorist active indicative, 2nd plural	1	made
-DEU 9:16	1	12	ὑμῖν	σύ	pronoun, dative 2nd plural	1	to you
+DEU 9:16	1	12	ὑμῖν	σύ	pronoun, dative 2nd plural	1	for yourselves
 DEU 9:16	1	13	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	yourselves
 DEU 9:16	1	14	μόσχον	μόσχος	noun, accusative masculine singular	1	calf
 DEU 9:16	1	15	χωνευτὸν	χωνευτός	adjective, accusative masculine singular	1	molten
@@ -482,9 +482,9 @@ DEU 9:18	1	5	δεύτερον	δεύτερος	adjective, accusative neuter sing
 DEU 9:18	1	6	καθάπερ	καθάπερ	conjunction	1	just as
 DEU 9:18	1	7	καὶ	καί	conjunction	1	and
 DEU 9:18	1	8	τὸ	ὁ	definite article, nominative/accusative neuter singular	1	the
-DEU 9:18	1	9	πρότερον	πρότερος	adjective, accusative neuter singular	1	former
+DEU 9:18	1	9	πρότερον	πρότερος	adjective, accusative neuter singular	1	formerly
 DEU 9:18	1	10	τεσσαράκοντα	τεσσαράκοντα	cardinal numeral	1	forty
-DEU 9:18	1	11	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
+DEU 9:18	1	11	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
 DEU 9:18	1	12	καὶ	καί	conjunction	1	and
 DEU 9:18	1	13	τεσσαράκοντα	τεσσαράκοντα	cardinal numeral	1	forty
 DEU 9:18	1	14	νύκτας	νύξ	noun, accusative feminine plural	1	nights
@@ -551,7 +551,7 @@ DEU 9:20	1	9	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	hi
 DEU 9:20	1	10	καὶ	καί	conjunction	1	and
 DEU 9:20	1	11	ηὐξάμην	εὔχομαι	aorist middle indicative, 1st singular	1	prayed
 DEU 9:20	1	12	καὶ	καί	conjunction	1	and
-DEU 9:20	1	13	περὶ	περί	preposition with the genitive	1	concerning
+DEU 9:20	1	13	περὶ	περί	preposition with the genitive	1	for
 DEU 9:20	1	14	Ἀαρὼν	Ἀαρών	personal name, nominative masc. sg. variant accent	1	Aaron
 DEU 9:20	1	15	ἐν	ἐν	preposition with the dative	1	in
 DEU 9:20	1	16	τῷ	ὁ	definite article	1	the
@@ -569,7 +569,7 @@ DEU 9:21	1	9	ἔλαβον	λαμβάνω	aorist active indicative, 1st singular
 DEU 9:21	1	10	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 DEU 9:21	1	11	καὶ	καί	conjunction	1	and
 DEU 9:21	1	12	κατέκαυσα	κατακαίω	aorist active indicative, 1st singular	1	burned
-DEU 9:21	1	13	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
+DEU 9:21	1	13	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 DEU 9:21	1	14	ἐν	ἐν	preposition with the dative	1	in
 DEU 9:21	1	15	πυρὶ	πῦρ	noun, dative neuter singular	1	with fire
 DEU 9:21	1	16	καὶ	καί	conjunction	1	and
@@ -580,7 +580,7 @@ DEU 9:21	1	20	κατήλασα	καταλέω	aorist active indicative, 1st sing
 DEU 9:21	1	21	σφόδρα	σφόδρα	adverb	1	greatly
 DEU 9:21	1	22	ἕως	ἕως	preposition with the genitive	1	until
 DEU 9:21	1	23	οὗ	οὗ	relative adverb	1	when
-DEU 9:21	1	24	ἐγένετο	γίνομαι	aorist middle indicative, 3rd singular	1	it came about
+DEU 9:21	1	24	ἐγένετο	γίνομαι	aorist middle indicative, 3rd singular	1	it became
 DEU 9:21	1	25	λεπτὸν	λεπτός	adjective, accusative neuter singular	1	fine
 DEU 9:21	1	26	καὶ	καί	conjunction	1	and
 DEU 9:21	1	27	ἐγενήθη	γίνομαι	aorist passive indicative, 3rd singular	1	became
@@ -602,11 +602,11 @@ DEU 9:21	1	42	ὄρους	ὄρος	noun, genitive neuter singular	1	mount
 DEU 9:22	1	1	Καὶ	καί	conjunction	1	and
 DEU 9:22	1	2	ἐν	ἐν	preposition with the dative	1	in
 DEU 9:22	1	3	τῷ	ὁ	definite article	1	the
-DEU 9:22	1	4	ἐμπυρισμῷ	ἐμπυρισμός	noun, dative masculine singular	1	burning
+DEU 9:22	1	4	ἐμπυρισμῷ	ἐμπυρισμός	noun, dative masculine singular	1	Burning
 DEU 9:22	1	5	καὶ	καί	conjunction	1	and
 DEU 9:22	1	6	ἐν	ἐν	preposition with the dative	1	in
 DEU 9:22	1	7	τῷ	ὁ	definite article	1	the
-DEU 9:22	1	8	πειρασμῷ	πειρασμός	noun, dative masculine singular	1	temptation
+DEU 9:22	1	8	πειρασμῷ	πειρασμός	noun, dative masculine singular	1	Testing
 DEU 9:22	1	9	καὶ	καί	conjunction	1	and
 DEU 9:22	1	10	ἐν	ἐν	preposition with the dative	1	in
 DEU 9:22	1	11	τοῖς	ὁ	definite article	1	the
@@ -670,11 +670,11 @@ DEU 9:25	1	2	ἐδεήθην	δέομαι	aorist passive indicative, 1st singula
 DEU 9:25	1	3	ἔναντι	ἔναντι	preposition with the genitive	1	before
 DEU 9:25	1	4	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 DEU 9:25	1	5	τεσσαράκοντα	τεσσαράκοντα	cardinal numeral	1	forty
-DEU 9:25	1	6	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
+DEU 9:25	1	6	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
 DEU 9:25	1	7	καὶ	καί	conjunction	1	and
 DEU 9:25	1	8	τεσσαράκοντα	τεσσαράκοντα	cardinal numeral	1	forty
 DEU 9:25	1	9	νύκτας	νύξ	noun, accusative feminine plural	1	nights
-DEU 9:25	1	10	ὅσας	ὅσος	relative pronoun, accusative feminine plural	1	as
+DEU 9:25	1	10	ὅσας	ὅσος	relative pronoun, accusative feminine plural	1	as many as
 DEU 9:25	1	11	ἐδεήθην	δέομαι	aorist passive indicative, 1st singular	1	prayed
 DEU 9:25	1	12	εἶπε	λέγω	aorist active indicative, 3rd sg.	1	said
 DEU 9:25	1	13	γὰρ	γάρ	conjunction	1	for
@@ -715,7 +715,7 @@ DEU 9:26	1	31	ἐξήγαγες	ἐξάγω	aorist active indicative, 2nd sg.	1	
 DEU 9:26	1	32	ἐκ	ἐκ	preposition with the genitive	1	from
 DEU 9:26	1	33	γῆς	γῆ	noun, genitive feminine singular	1	land
 DEU 9:26	1	34	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
-DEU 9:26	1	35	ἐν	ἐν	preposition with the dative	1	in
+DEU 9:26	1	35	ἐν	ἐν	preposition with the dative	1	with
 DEU 9:26	1	36	τῇ	ὁ	definite article	1	the
 DEU 9:26	1	37	ἰσχύϊ	ἰσχύς	noun, dative feminine singular	1	strength
 DEU 9:26	1	38	σου	σύ	pronoun, genitive 2nd singular	1	your
@@ -728,7 +728,7 @@ DEU 9:26	1	44	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 9:26	1	45	τῇ	ὁ	definite article	1	the
 DEU 9:26	1	46	κραταιᾷ	κραταιός	adjective, dative feminine singular	1	mighty
 DEU 9:26	1	47	καὶ	καί	conjunction	1	and
-DEU 9:26	1	48	ἐν	ἐν	preposition with the dative	1	in
+DEU 9:26	1	48	ἐν	ἐν	preposition with the dative	1	with
 DEU 9:26	1	49	τῷ	ὁ	definite article	1	the
 DEU 9:26	1	50	βραχίονί	βραχίων	noun, dative masculine singular	1	arm
 DEU 9:26	1	51	σου	σύ	pronoun, genitive 2nd singular	1	your
@@ -814,14 +814,14 @@ DEU 9:29	1	9	ἐξήγαγες	ἐξάγω	aorist active indicative, 2nd sg.	1	y
 DEU 9:29	1	10	ἐκ	ἐκ	preposition with the genitive	1	from
 DEU 9:29	1	11	γῆς	γῆ	noun, genitive feminine singular	1	land
 DEU 9:29	1	12	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
-DEU 9:29	1	13	ἐν	ἐν	preposition with the dative	1	in
+DEU 9:29	1	13	ἐν	ἐν	preposition with the dative	1	with
 DEU 9:29	1	14	τῇ	ὁ	definite article	1	the
 DEU 9:29	1	15	ἰσχύϊ	ἰσχύς	noun, dative feminine singular	1	strength
 DEU 9:29	1	16	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 9:29	1	17	τῇ	ὁ	definite article	1	the
 DEU 9:29	1	18	μεγάλῃ	μέγας	adjective, dative feminine singular	1	great
 DEU 9:29	1	19	καὶ	καί	conjunction	1	and
-DEU 9:29	1	20	ἐν	ἐν	preposition with the dative	1	in
+DEU 9:29	1	20	ἐν	ἐν	preposition with the dative	1	with
 DEU 9:29	1	21	τῷ	ὁ	definite article	1	the
 DEU 9:29	1	22	βραχίονί	βραχίων	noun, dative masculine singular	1	arm
 DEU 9:29	1	23	σου	σύ	pronoun, genitive 2nd singular	1	your

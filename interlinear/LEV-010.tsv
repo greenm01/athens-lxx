@@ -39,7 +39,7 @@ LEV 10:2	1	1	Καὶ	καί	conjunction	1	and
 LEV 10:2	1	2	ἐξῆλθε	ἐξέρχομαι	aorist active indicative, third singular	1	went out
 LEV 10:2	1	3	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
 LEV 10:2	1	4	παρὰ	παρά	preposition with genitive	1	from
-LEV 10:2	1	5	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+LEV 10:2	1	5	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 LEV 10:2	1	6	καὶ	καί	conjunction	1	and
 LEV 10:2	1	7	κατέφαγεν	κατεσθίω	aorist active indicative, third singular	1	devoured
 LEV 10:2	1	8	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -197,7 +197,7 @@ LEV 10:7	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
 LEV 10:7	1	18	χρίσεως	χρίσις	noun, genitive feminine singular	1	anointing
 LEV 10:7	1	19	τὸ	ὁ	article, neuter singular (case from context)	1	the
 LEV 10:7	1	20	παρὰ	παρά	preposition with genitive	1	from
-LEV 10:7	1	21	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+LEV 10:7	1	21	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 LEV 10:7	1	22	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
 LEV 10:7	1	23	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 LEV 10:7	1	24	Καὶ	καί	conjunction	1	and
@@ -209,8 +209,8 @@ LEV 10:7	1	29	Μωυσῆ	Μωυσῆς	noun, vocative masculine singular	1	Mose
 LEV 10:8	1	1	Καὶ	καί	conjunction	1	and
 LEV 10:8	1	2	ἐλάλησε	λαλέω	aorist active indicative, third singular	1	spoke
 LEV 10:8	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-LEV 10:8	1	4	τῷ	ὁ	article, dative masculine singular	1	the
-LEV 10:8	1	5	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
+LEV 10:8	1	4	τῷ	ὁ	article, dative masculine singular before a personal name	1	to
+LEV 10:8	1	5	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, dative in context	1	Aaron
 LEV 10:8	1	6	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 LEV 10:9	1	1	οἶνον	οἶνος	noun, accusative masculine singular	1	wine
 LEV 10:9	1	2	καὶ	καί	conjunction	1	and
@@ -455,7 +455,7 @@ LEV 10:16	1	14	ἐμπεπύριστο	ἐμπυρίζω	pluperfect middle/passi
 LEV 10:16	1	15	Καὶ	καί	conjunction	1	and
 LEV 10:16	1	16	ἐθυμώθη	θυμόω	aorist passive indicative, third singular	1	was enraged
 LEV 10:16	1	17	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses
-LEV 10:16	1	18	ἐπὶ	ἐπί	preposition with the accusative	1	upon
+LEV 10:16	1	18	ἐπὶ	ἐπί	preposition with the accusative	1	at
 LEV 10:16	1	19	Ἐλεάζαρ	Ἐλεάζαρ	indeclinable personal name, accusative in context	1	Eleazar
 LEV 10:16	1	20	καὶ	καί	conjunction	1	and
 LEV 10:16	1	21	Ἰθάμαρ	Ἰθάμαρ	indeclinable personal name, accusative in context	1	Ithamar
@@ -555,7 +555,7 @@ LEV 10:19	1	28	περὶ	περί	preposition with genitive	1	for
 LEV 10:19	1	29	τῆς	ὁ	article, genitive feminine singular	1	the
 LEV 10:19	1	30	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
 LEV 10:19	1	31	σήμερον	σήμερον	adverb of time	1	today
-LEV 10:19	1	32	μὴ	μή	negative particle	1	not
+LEV 10:19	1	32	μὴ	μή	interrogative particle	1	[marks a question]
 LEV 10:19	1	33	ἀρεστὸν	ἀρεστός	predicate adjective, nominative neuter singular	1	pleasing
 LEV 10:19	1	33	ἀρεστὸν			2	agreeable
 LEV 10:19	1	34	ἔσται	εἰμί	future indicative, third singular	1	will be

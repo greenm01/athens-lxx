@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 EXO 29:1	1	1	ΚΑΙ	καί	conjunction, unaccented	1	and
 EXO 29:1	1	2	ταῦτά	οὗτος	demonstrative pronoun, nominative neut. pl.	1	these things
-EXO 29:1	1	3	ἐστιν	εἰμί	present active indicative, third person singular	1	is
+EXO 29:1	1	3	ἐστιν	εἰμί	present active indicative, third person singular	1	are
 EXO 29:1	1	4	ἃ	ὅς	relative pronoun, accusative neut. pl.	1	which
 EXO 29:1	1	5	ποιήσεις	ποιέω	future active indicative, 2nd sg.	1	you shall offer/do
 EXO 29:1	1	6	αὐτοὶς	αὐτός	pronoun, dative masc. pl.	1	for them
@@ -36,7 +36,7 @@ EXO 29:2	1	12	ἐλαίῳ	ἔλαιον	noun, dative neut. sg. after ἐν, wit
 EXO 29:2	1	13	σεμίδαλιν	σεμίδαλις	noun, accusative fem. sg. as material phrase σεμίδαλιν ἐκ πυρῶν 'fine flour of wheat', parallel object accusative	1	fine flour
 EXO 29:2	1	14	ἐκ	ἐκ	preposition with the genitive	1	from
 EXO 29:2	1	15	πυρῶν	πυρός	noun, genitive masc. pl. after ἐκ 'from wheat	1	of wheat
-EXO 29:2	1	16	ποιήσεις	ποιέω	future active indicative, 2nd sg.	1	you shall offer/do
+EXO 29:2	1	16	ποιήσεις	ποιέω	future active indicative, 2nd sg.	1	you shall make
 EXO 29:2	1	17	αὐτά	αὐτός	pronoun, accusative neuter plural	1	them
 EXO 29:3	1	1	καὶ	καί	conjunction	1	and
 EXO 29:3	1	2	ἐπιθήσεις	ἐπιτίθημι	future active indicative, 2nd sg.	1	you shall put
@@ -64,12 +64,12 @@ EXO 29:4	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
 EXO 29:4	1	5	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
 EXO 29:4	1	6	αὐτοῦ	αὐτός	personal pronoun, genitive masculine singular	1	his
 EXO 29:4	1	7	προσάξεις	προσάγω	future active indicative, 2nd sg.	1	you shall bring near
-EXO 29:4	1	8	ἐπὶ	ἐπί	preposition	1	on/upon
+EXO 29:4	1	8	ἐπὶ	ἐπί	preposition	1	to
 EXO 29:4	1	9	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 29:4	1	10	θύρας	θύρα	noun, accusative fem. pl. after ἐπὶ τὰς, at the entrance/doors	1	doors (entrance)
-EXO 29:4	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
+EXO 29:4	1	11	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 29:4	1	12	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	1	tent/tabernacle
-EXO 29:4	1	13	τοῦ	ὁ	article, genitive singular	1	the
+EXO 29:4	1	13	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 29:4	1	14	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	1	testimony
 EXO 29:4	1	15	καὶ	καί	conjunction	1	and
 EXO 29:4	1	16	λούσεις	λούω	future active indicative, 2nd sg.	1	you shall wash
@@ -182,12 +182,12 @@ EXO 29:10	1	1	Καὶ	καί	conjunction	1	and
 EXO 29:10	1	2	προσάξεις	προσάγω	future active indicative, 2nd sg.	1	you shall bring near
 EXO 29:10	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 29:10	1	4	μόσχον	μόσχος	noun, accusative masc. sg. after τὸν, calf/bullock	1	the calf/bullock
-EXO 29:10	1	5	ἐπὶ	ἐπί	preposition	1	on/upon
+EXO 29:10	1	5	ἐπὶ	ἐπί	preposition	1	to
 EXO 29:10	1	6	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 29:10	1	7	θύρας	θύρα	noun, accusative fem. pl. after ἐπὶ τὰς, at the entrance/doors	1	doors (entrance)
-EXO 29:10	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
+EXO 29:10	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 29:10	1	9	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	1	tent/tabernacle
-EXO 29:10	1	10	τοῦ	ὁ	article, genitive singular	1	the
+EXO 29:10	1	10	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 29:10	1	11	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	1	testimony
 EXO 29:10	1	12	καὶ	καί	conjunction	1	and
 EXO 29:10	1	13	ἐπιθήσουσιν	ἐπιτίθημι	future active indicative, 3rd pl.	1	they shall lay
@@ -213,9 +213,9 @@ EXO 29:11	1	6	Κυρίου	κύριος	noun, genitive masculine singular, of th
 EXO 29:11	1	7	παρὰ	παρά	preposition with accusative, beside/at	1	at/beside
 EXO 29:11	1	8	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 29:11	1	9	θύρας	θύρα	noun, accusative fem. pl. after ἐπὶ τὰς, at the entrance/doors	1	doors (entrance)
-EXO 29:11	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
+EXO 29:11	1	10	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 29:11	1	11	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	1	tent/tabernacle
-EXO 29:11	1	12	τοῦ	ὁ	article, genitive singular	1	the
+EXO 29:11	1	12	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 29:11	1	13	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	1	testimony
 EXO 29:12	1	1	καὶ	καί	conjunction	1	and
 EXO 29:12	1	2	λήψῃ	λαμβάνω	future middle indicative, 2nd sg.	1	you shall take
@@ -323,7 +323,7 @@ EXO 29:16	1	5	καὶ	καί	conjunction	1	and
 EXO 29:16	1	6	λαβὼν	λαμβάνω	aorist active participle, nominative masculine singular	1	having taken
 EXO 29:16	1	7	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 29:16	1	8	αἷμα	αἷμα	noun, accusative neuter singular	1	blood
-EXO 29:16	1	9	προσχεεῖς	προσχέω	future active indicative, 2nd sg., shall sprinkle/pour against	1	you shall sprinkle
+EXO 29:16	1	9	προσχεεῖς	προσχέω	future active indicative, 2nd sg., shall sprinkle/pour against	1	you shall pour
 EXO 29:16	1	10	πρὸς	πρός	preposition with the accusative	1	to
 EXO 29:16	1	11	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 29:16	1	12	θυσιαστήριον	θυσιαστήριον	noun, accusative neut. sg.	1	altar
@@ -333,7 +333,7 @@ EXO 29:17	1	2	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 29:17	1	3	κριὸν	κριός	noun, accusative masc. sg. after τὸν, ram, in apposition	1	the ram
 EXO 29:17	1	4	διχοτομήσεις	διχοτομέω	future active indicative, 2nd sg., shall cut in pieces	1	you shall cut up
 EXO 29:17	1	5	κατὰ	κατά	preposition with accusative	1	according to
-EXO 29:17	1	6	μέλη	μέλος	noun, accusative neut. pl. after κατὰ, limbs/pieces 'limb by limb/in its pieces'	1	in pieces
+EXO 29:17	1	6	μέλη	μέλος	noun, accusative neut. pl. after κατὰ, limbs/pieces 'limb by limb/in its pieces'	1	limbs
 EXO 29:17	1	7	καὶ	καί	conjunction	1	and
 EXO 29:17	1	8	πλυνεῖς	πλύνω	future active indicative, 2nd sg., shall wash	1	you shall wash
 EXO 29:17	1	9	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -363,7 +363,7 @@ EXO 29:18	1	8	θυσιαστήριον	θυσιαστήριον	noun, accusative
 EXO 29:18	1	9	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, nominative neut. sg.	1	a whole burnt offering
 EXO 29:18	1	10	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 29:18	1	11	Κυρίῳ	κύριος	noun, dative masculine singular, to the Lord	1	Lord
-EXO 29:18	1	12	εἰς	εἰς	preposition with accusative	1	into
+EXO 29:18	1	12	εἰς	εἰς	preposition with accusative	1	as
 EXO 29:18	1	13	ὀσμὴν	ὀσμή	noun, accusative fem. sg. after εἰς, odour/smell	1	for a (sweet) odour
 EXO 29:18	1	14	εὐωδίας	εὐωδία	noun, genitive fem. sg., of sweetness, pleasing odour	1	of sweet smell
 EXO 29:18	1	15	θυσίασμα	θυσίασμα	noun, nominative neut. sg.	1	a fire-offering
@@ -393,7 +393,7 @@ EXO 29:19	1	20	τοῦ	ὁ	article, genitive singular	1	the
 EXO 29:19	1	21	κριοῦ	κριός	noun, genitive masc. sg.	1	ram
 EXO 29:20	1	1	Καὶ	καί	conjunction	1	and
 EXO 29:20	1	2	σφάξεις	σφάζω	future active indicative, 2nd sg., legislative	1	you shall slaughter
-EXO 29:20	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
+EXO 29:20	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 EXO 29:20	1	4	καὶ	καί	conjunction	1	and
 EXO 29:20	1	5	λήψῃ	λαμβάνω	future middle indicative, 2nd sg.	1	you shall take
 EXO 29:20	1	6	τοῦ	ὁ	article, genitive singular	1	the
@@ -516,7 +516,7 @@ EXO 29:21	1	59	δὲ	δέ	postpositive conjunction	1	and/but
 EXO 29:21	1	60	αἷμα	αἷμα	noun, accusative neuter singular	1	blood
 EXO 29:21	1	61	τοῦ	ὁ	article, genitive singular	1	the
 EXO 29:21	1	62	κριοῦ	κριός	noun, genitive masc. sg.	1	ram
-EXO 29:21	1	63	προσχεεῖς	προσχέω	future active indicative, 2nd sg., shall sprinkle/pour against	1	you shall sprinkle
+EXO 29:21	1	63	προσχεεῖς	προσχέω	future active indicative, 2nd sg., shall sprinkle/pour against	1	you shall pour
 EXO 29:21	1	64	πρὸς	πρός	preposition with the accusative	1	to
 EXO 29:21	1	65	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 29:21	1	66	θυσιαστήριον	θυσιαστήριον	noun, accusative neut. sg.	1	altar
@@ -613,7 +613,7 @@ EXO 29:25	1	12	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 29:25	1	13	θυσιαστήριον	θυσιαστήριον	noun, accusative neut. sg.	1	altar
 EXO 29:25	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 29:25	1	15	ὁλοκαυτώσεως	ὁλοκαύτωσις	noun, genitive fem. sg. after θυσιαστήριον τῆς	1	burnt offering
-EXO 29:25	1	16	εἰς	εἰς	preposition with accusative	1	into
+EXO 29:25	1	16	εἰς	εἰς	preposition with accusative	1	as
 EXO 29:25	1	17	ὀσμὴν	ὀσμή	noun, accusative fem. sg. after εἰς, odour/smell	1	for a (sweet) odour
 EXO 29:25	1	18	εὐωδίας	εὐωδία	noun, genitive fem. sg., of sweetness, pleasing odour	1	of sweet smell
 EXO 29:25	1	19	ἔναντι	ἐναντί	preposition	1	in the sight of
@@ -635,15 +635,15 @@ EXO 29:26	1	11	ἐστιν	εἰμί	present active indicative, third person sin
 EXO 29:26	1	12	Ἀαρὼν	Ἀαρών	personal name, accusative masc. sg.	1	Aaron
 EXO 29:26	1	13	καὶ	καί	conjunction	1	and
 EXO 29:26	1	14	ἀφοριεῖς	ἀφορίζω	future active indicative, 2nd sg., shall separate/set apart	1	you shall wave/separate
-EXO 29:26	1	15	αὐτὸ	αὐτός	pronoun, nominative neut. sg. after τὸ with μέτρον, same	1	the same
+EXO 29:26	1	15	αὐτὸ	αὐτός	pronoun, nominative neut. sg. after τὸ with μέτρον, same	1	it
 EXO 29:26	1	16	ἀφόρισμα	ἀφόρισμα	noun, accusative neut. sg.	1	a wave offering (separation)
 EXO 29:26	1	17	ἔναντι	ἐναντί	preposition	1	in the sight of
 EXO 29:26	1	18	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	1	the Lord
 EXO 29:26	1	19	καὶ	καί	conjunction	1	and
 EXO 29:26	1	20	ἔσται	εἰμί	future indicative, 3rd sg.	1	shall be
 EXO 29:26	1	21	σοι	σύ	personal pronoun, dative second singular	1	to you
-EXO 29:26	1	22	ἐν	ἐν	preposition with dative	1	in
-EXO 29:26	1	23	μερίδι	μερίς	noun, dative fem. sg. after ἐν, as a portion	1	as (your) portion
+EXO 29:26	1	22	ἐν	ἐν	preposition with dative	1	as
+EXO 29:26	1	23	μερίδι	μερίς	noun, dative fem. sg. after ἐν, as a portion	1	a portion
 EXO 29:27	1	1	καὶ	καί	conjunction	1	and
 EXO 29:27	1	2	ἁγιάσεις	ἁγιάζω	future active indicative, 2nd sg.	1	you shall sanctify/reserve
 EXO 29:27	1	3	τὸ	ὁ	article, nominative neuter singular	1	the
@@ -681,7 +681,7 @@ EXO 29:28	1	6	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 EXO 29:28	1	7	αὐτοῦ	αὐτός	personal pronoun, genitive masculine singular	1	his
 EXO 29:28	1	8	νόμιμον	νόμιμος	adjective/noun, nominative neut. sg.	1	an ordinance (due)
 EXO 29:28	1	9	αἰώνιον	αἰώνιος	adjective, nominative neut. sg. with νόμιμον	1	perpetual
-EXO 29:28	1	10	παρὰ	παρά	preposition with accusative, beside/at	1	at/beside
+EXO 29:28	1	10	παρὰ	παρά	preposition with genitive	1	from
 EXO 29:28	1	11	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 29:28	1	12	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 EXO 29:28	1	13	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -692,7 +692,7 @@ EXO 29:28	1	17	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter 
 EXO 29:28	1	18	καὶ	καί	conjunction	1	and
 EXO 29:28	1	19	ἀφαίρεμα	ἀφαίρεμα	noun, nominative neut. sg.	1	a heave/separated portion
 EXO 29:28	1	20	ἔσται	εἰμί	future indicative, 3rd sg.	1	shall be
-EXO 29:28	1	21	παρὰ	παρά	preposition with accusative, beside/at	1	at/beside
+EXO 29:28	1	21	παρὰ	παρά	preposition with genitive	1	from
 EXO 29:28	1	22	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 29:28	1	23	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 EXO 29:28	1	24	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
@@ -725,7 +725,7 @@ EXO 29:29	1	16	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1
 EXO 29:29	1	17	ἐν	ἐν	preposition with dative	1	in
 EXO 29:29	1	18	αὐτοῖς	αὐτός	personal pronoun, dative plural	1	them
 EXO 29:29	1	19	καὶ	καί	conjunction	1	and
-EXO 29:29	1	20	τελειῶσαι	τελειόω	aorist active infinitive with τὰς χεῖρας	1	and to consecrate
+EXO 29:29	1	20	τελειῶσαι	τελειόω	aorist active infinitive with τὰς χεῖρας	1	to consecrate
 EXO 29:29	1	21	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 29:29	1	22	χεῖρας	χείρ	noun, accusative fem. pl.	1	hands
 EXO 29:29	1	23	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
@@ -742,12 +742,12 @@ EXO 29:30	1	10	ἐκ	ἐκ	preposition with the genitive	1	from
 EXO 29:30	1	11	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 29:30	1	12	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 EXO 29:30	1	13	αὐτοῦ	αὐτός	personal pronoun, genitive masculine singular	1	his
-EXO 29:30	1	14	ὃς	ὅς	relative pronoun, nominative masc. sg. in ὃς ἀφώρισται / ὃς ἀφῄρηται relative clauses	1	which
+EXO 29:30	1	14	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
 EXO 29:30	1	15	εἰσελεύσεται	εἰσέρχομαι	future middle indicative, 3rd sg.	1	shall enter
 EXO 29:30	1	16	εἰς	εἰς	preposition with accusative	1	into
 EXO 29:30	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 29:30	1	18	σκηνὴν	σκηνή	noun, accusative fem. sg. after τὴν	1	the tabernacle
-EXO 29:30	1	19	τοῦ	ὁ	article, genitive singular	1	the
+EXO 29:30	1	19	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 29:30	1	20	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	1	testimony
 EXO 29:30	1	21	λειτουργεῖν	λειτουργέω	present active infinitive of purpose	1	to minister
 EXO 29:30	1	22	ἐν	ἐν	preposition with dative	1	in
@@ -783,13 +783,13 @@ EXO 29:32	1	14	ἄρτους	ἄρτος	noun, accusative masc. pl.	1	loaves/bre
 EXO 29:32	1	15	τοὺς	ὁ	article, accusative masculine plural	1	the
 EXO 29:32	1	16	ἐν	ἐν	preposition with dative	1	in
 EXO 29:32	1	17	τῷ	ὁ	article, dative masculine singular	1	the
-EXO 29:32	1	18	κανῷ	κανοῦν	noun, dative neut. sg. after ἐν τῷ	1	in the basket
+EXO 29:32	1	18	κανῷ	κανοῦν	noun, dative neut. sg. after ἐν τῷ	1	basket
 EXO 29:32	1	19	παρὰ	παρά	preposition with accusative, beside/at	1	at/beside
 EXO 29:32	1	20	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 29:32	1	21	θύραν	θύρα	noun, accusative fem. sg. after πρὸς τὴν	1	the door
-EXO 29:32	1	22	τῆς	ὁ	article, genitive feminine singular	1	the
+EXO 29:32	1	22	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 29:32	1	23	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	1	tent/tabernacle
-EXO 29:32	1	24	τοῦ	ὁ	article, genitive singular	1	the
+EXO 29:32	1	24	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 29:32	1	25	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	1	testimony
 EXO 29:33	1	1	ἔδονται	ἐσθίω	future middle indicative, 3rd pl.	1	shall eat
 EXO 29:33	1	2	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
@@ -810,7 +810,7 @@ EXO 29:33	1	16	ἀλλογενὴς	ἀλλογενής	adjective/noun, nominati
 EXO 29:33	1	17	οὐκ	οὐ	negative adverb	1	not
 EXO 29:33	1	18	ἔδεται	ἐσθίω	future middle indicative, 3rd sg.	1	shall eat
 EXO 29:33	1	19	ἀπ᾽	ἀπό	preposition with the genitive, elided	1	from
-EXO 29:33	1	20	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
+EXO 29:33	1	20	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
 EXO 29:33	1	21	ἔστι	εἰμί	present indicative, third singular	1	is
 EXO 29:33	1	22	γὰρ	γάρ	conjunction	1	for
 EXO 29:33	1	23	ἅγια	ἅγιος	adjective, nominative neut. pl.	1	holy (things)
@@ -984,23 +984,23 @@ EXO 29:41	1	16	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 29:41	1	17	σπονδὴν	σπονδή	noun, accusative fem. sg., drink-offering/libation	1	a drink offering
 EXO 29:41	1	18	αὐτοῦ	αὐτός	personal pronoun, genitive masculine singular	1	its
 EXO 29:41	1	19	ποιήσεις	ποιέω	future active indicative, 2nd sg.	1	you shall offer/do
-EXO 29:41	1	20	εἰς	εἰς	preposition with accusative	1	into
+EXO 29:41	1	20	εἰς	εἰς	preposition with accusative	1	as
 EXO 29:41	1	21	ὀσμὴν	ὀσμή	noun, accusative fem. sg. after εἰς, odour/smell	1	for a (sweet) odour
 EXO 29:41	1	22	εὐωδίας	εὐωδία	noun, genitive fem. sg., of sweetness, pleasing odour	1	of sweet smell
 EXO 29:41	1	23	κάρπωμα	κάρπωμα	noun, nominative neut. sg.	1	a continual offering
 EXO 29:41	1	24	Κυρίῳ	κύριος	noun, dative masculine singular, to the Lord	1	the Lord
 EXO 29:42	1	1	θυσίαν	θυσία	noun, accusative fem. sg. after εἰς? κατὰ τὴν θυσίαν 'according to the sacrifice...	1	sacrifice
 EXO 29:42	1	2	ἐνδελεχισμοῦ	ἐνδελεχισμός	noun, genitive masc. sg., continuance 'of continual	1	continual
-EXO 29:42	1	3	εἰς	εἰς	preposition with accusative	1	into
+EXO 29:42	1	3	εἰς	εἰς	preposition with accusative	1	throughout
 EXO 29:42	1	4	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 29:42	1	5	γενεὰς	γενεά	noun, accusative fem. pl. after εἰς τὰς	1	generations
 EXO 29:42	1	6	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 EXO 29:42	1	7	ἐπὶ	ἐπί	preposition	1	on/upon
 EXO 29:42	1	8	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 29:42	1	9	θύρας	θύρα	noun, accusative fem. pl. after ἐπὶ τὰς, at the entrance/doors	1	doors (entrance)
-EXO 29:42	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
+EXO 29:42	1	10	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 29:42	1	11	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	1	tent/tabernacle
-EXO 29:42	1	12	τοῦ	ὁ	article, genitive singular	1	the
+EXO 29:42	1	12	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 29:42	1	13	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	1	testimony
 EXO 29:42	1	14	ἔναντι	ἐναντί	preposition	1	in the sight of
 EXO 29:42	1	15	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	1	the Lord
@@ -1013,7 +1013,7 @@ EXO 29:42	1	21	ὥστε	ὥστε	conjunction with infinitive	1	so as/in order
 EXO 29:42	1	22	λαλῆσαί	λαλέω	aorist active infinitive after ὥστε with σοι dative 'so as to speak to you'	1	to speak
 EXO 29:42	1	23	σοι	σύ	personal pronoun, dative second singular	1	to you
 EXO 29:43	1	1	Καὶ	καί	conjunction	1	and
-EXO 29:43	1	2	τάξομαι	τάσσω	future middle indicative, 1st sg., I will appoint/meet	1	I will meet
+EXO 29:43	1	2	τάξομαι	τάσσω	future middle indicative, first singular	1	I will give instructions
 EXO 29:43	1	3	ἐκεῖ	ἐκεῖ	adverb	1	there
 EXO 29:43	1	4	τοῖς	ὁ	article, dative neuter plural	1	the
 EXO 29:43	1	5	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
@@ -1027,7 +1027,7 @@ EXO 29:44	1	1	καὶ	καί	conjunction	1	and
 EXO 29:44	1	2	ἁγιάσω	ἁγιάζω	future active indicative, 1st sg.	1	I will sanctify
 EXO 29:44	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 29:44	1	4	σκηνὴν	σκηνή	noun, accusative fem. sg. after τὴν	1	the tabernacle
-EXO 29:44	1	5	τοῦ	ὁ	article, genitive singular	1	the
+EXO 29:44	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 29:44	1	6	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	1	testimony
 EXO 29:44	1	7	καὶ	καί	conjunction	1	and
 EXO 29:44	1	8	τὸ	ὁ	article, nominative neuter singular	1	the

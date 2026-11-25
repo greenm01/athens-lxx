@@ -13,8 +13,8 @@ DEU 26:1	1	11	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 26:1	1	12	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 26:1	1	13	δίδωσί	δίδωμι	present active indicative, 3rd singular	1	gives
 DEU 26:1	1	14	σοι	σύ	pronoun, dative 2nd singular	1	to you
-DEU 26:1	1	15	ἐν	ἐν	preposition with the dative	1	in
-DEU 26:1	1	16	κλήρῳ	κλῆρος	noun, dative masculine singular	1	inheritance
+DEU 26:1	1	15	ἐν	ἐν	preposition with the dative	1	by
+DEU 26:1	1	16	κλήρῳ	κλῆρος	noun, dative masculine singular	1	lot
 DEU 26:1	1	17	κατακληρονομῆσαι	κατακληρονομέω	aorist active infinitive	1	to possess
 DEU 26:1	1	18	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 DEU 26:1	1	19	καὶ	καί	conjunction	1	and
@@ -45,8 +45,8 @@ DEU 26:2	1	21	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 26:2	1	22	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 26:2	1	23	δίδωσί	δίδωμι	present active indicative, 3rd singular	1	gives
 DEU 26:2	1	24	σοι	σύ	pronoun, dative 2nd singular	1	to you
-DEU 26:2	1	25	ἐν	ἐν	preposition with the dative	1	in
-DEU 26:2	1	26	κλήρῳ	κλῆρος	noun, dative masculine singular	1	inheritance
+DEU 26:2	1	25	ἐν	ἐν	preposition with the dative	1	by
+DEU 26:2	1	26	κλήρῳ	κλῆρος	noun, dative masculine singular	1	lot
 DEU 26:2	1	27	καὶ	καί	conjunction	1	and
 DEU 26:2	1	28	ἐμβαλεῖς	ἐμβάλλω	future active indicative, 2nd singular	1	shall put
 DEU 26:2	1	29	εἰς	εἰς	preposition with the accusative	1	into
@@ -63,7 +63,7 @@ DEU 26:2	1	39	Κύριος	κύριος	noun, nominative masculine singular	1	th
 DEU 26:2	1	40	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 26:2	1	41	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 26:2	1	42	σου	σύ	pronoun, genitive 2nd singular	1	your
-DEU 26:2	1	43	ἐπικληθῆναι	ἐπικαλέομαι	aorist passive infinitive	1	be called
+DEU 26:2	1	43	ἐπικληθῆναι	ἐπικαλέομαι	aorist passive infinitive	1	to be called upon
 DEU 26:2	1	44	τὸ	ὁ	article, accusative neuter singular	1	the
 DEU 26:2	1	45	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 DEU 26:2	1	46	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -84,9 +84,9 @@ DEU 26:3	1	13	καὶ	καί	conjunction	1	and
 DEU 26:3	1	14	ἐρεῖς	λέγω	future active indicative, 2nd singular	1	shall say
 DEU 26:3	1	15	πρὸς	πρός	preposition with the accusative	1	to
 DEU 26:3	1	16	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
-DEU 26:3	1	17	ἀναγγέλλω	ἀναγγέλλω	present active indicative, 1st singular	1	declare
+DEU 26:3	1	17	ἀναγγέλλω	ἀναγγέλλω	present active indicative, 1st singular	1	I declare
 DEU 26:3	1	18	σήμερον	σήμερον	adverb	1	today
-DEU 26:3	1	19	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
+DEU 26:3	1	19	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 DEU 26:3	1	20	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
 DEU 26:3	1	21	Θεῷ	θεός	noun, dative masculine singular	1	God
 DEU 26:3	1	22	σου	σύ	pronoun, genitive 2nd singular	1	your
@@ -98,7 +98,7 @@ DEU 26:3	1	27	γῆν	γῆ	noun, accusative feminine singular	1	land
 DEU 26:3	1	28	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
 DEU 26:3	1	29	ὤμοσε	ὀμνύω	aorist active indicative, 3rd singular	1	swore
 DEU 26:3	1	30	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 26:3	1	31	τοῖς	ὁ	article, dative neuter plural	1	the
+DEU 26:3	1	31	τοῖς	ὁ	article, dative neuter plural	1	to the
 DEU 26:3	1	32	πατράσιν	πατήρ	noun, dative masculine plural	1	fathers
 DEU 26:3	1	33	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 26:3	1	34	δοῦναι	δίδωμι	aorist active infinitive	1	to give
@@ -172,7 +172,7 @@ DEU 26:6	1	11	ἡμῖν	ἐγώ	pronoun, dative 1st plural	1	to us
 DEU 26:6	1	12	ἔργα	ἔργον	noun, accusative neuter plural	1	works
 DEU 26:6	1	13	σκληρά	σκληρός	adjective, accusative neuter plural	1	hard
 DEU 26:7	1	1	καὶ	καί	conjunction	1	and
-DEU 26:7	1	2	ἀνεβοήσαμεν	ἀναβοάω	aorist active indicative, 1st plural	1	cried out
+DEU 26:7	1	2	ἀνεβοήσαμεν	ἀναβοάω	aorist active indicative, 1st plural	1	we cried out
 DEU 26:7	1	3	πρὸς	πρός	preposition with the accusative	1	to
 DEU 26:7	1	4	Κύριον	κύριος	noun, accusative masculine singular	1	the Lord
 DEU 26:7	1	5	τὸν	ὁ	definite article, accusative masculine singular	1	the
@@ -206,28 +206,28 @@ DEU 26:8	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the
 DEU 26:8	1	5	ἐξ	ἐκ	preposition with the genitive	1	from
 DEU 26:8	1	6	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	Egypt
 DEU 26:8	1	7	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
-DEU 26:8	1	8	ἐν	ἐν	preposition with the dative	1	in
+DEU 26:8	1	8	ἐν	ἐν	preposition with the dative	1	with
 DEU 26:8	1	9	ἰσχύϊ	ἰσχύς	noun, dative feminine singular	1	might
 DEU 26:8	1	10	μεγάλῃ	μέγας	adjective, dative feminine singular	1	great
 DEU 26:8	1	11	καὶ	καί	conjunction	1	and
-DEU 26:8	1	12	ἐν	ἐν	preposition with the dative	1	in
+DEU 26:8	1	12	ἐν	ἐν	preposition with the dative	1	with
 DEU 26:8	1	13	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 DEU 26:8	1	14	κραταιᾷ	κραταιός	adjective, dative feminine singular	1	mighty
 DEU 26:8	1	15	καὶ	καί	conjunction	1	and
-DEU 26:8	1	16	ἐν	ἐν	preposition with the dative	1	in
+DEU 26:8	1	16	ἐν	ἐν	preposition with the dative	1	with
 DEU 26:8	1	17	βραχίονι	βραχίων	noun, dative masculine singular	1	arm
 DEU 26:8	1	18	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 26:8	1	19	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
 DEU 26:8	1	20	ὑψηλῷ	ὑψηλός	adjective, dative masculine singular	1	high
 DEU 26:8	1	21	καὶ	καί	conjunction	1	and
-DEU 26:8	1	22	ἐν	ἐν	preposition with the dative	1	in
-DEU 26:8	1	23	ὁράμασι	ὅραμα	noun, dative neuter plural	1	terrors
+DEU 26:8	1	22	ἐν	ἐν	preposition with the dative	1	with
+DEU 26:8	1	23	ὁράμασι	ὅραμα	noun, dative neuter plural	1	visions
 DEU 26:8	1	24	μεγάλοις	μέγας	adjective, dative neuter plural	1	great
 DEU 26:8	1	25	καὶ	καί	conjunction	1	and
-DEU 26:8	1	26	ἐν	ἐν	preposition with the dative	1	in
+DEU 26:8	1	26	ἐν	ἐν	preposition with the dative	1	with
 DEU 26:8	1	27	σημείοις	σημεῖον	noun, dative neuter plural	1	signs
 DEU 26:8	1	28	καὶ	καί	conjunction	1	and
-DEU 26:8	1	29	ἐν	ἐν	preposition with the dative	1	in
+DEU 26:8	1	29	ἐν	ἐν	preposition with the dative	1	with
 DEU 26:8	1	30	τέρασι	τέρας	noun, dative neuter plural	1	wonders
 DEU 26:9	1	1	καὶ	καί	conjunction	1	and
 DEU 26:9	1	2	εἰσήγαγεν	εἰσάγω	aorist active indicative, 3rd singular	1	brought in
@@ -292,7 +292,7 @@ DEU 26:11	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 26:11	1	12	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 26:11	1	13	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 26:11	1	14	καὶ	καί	conjunction	1	and
-DEU 26:11	1	15	τῇ	ὁ	definite article, dative feminine singular	1	the
+DEU 26:11	1	15	τῇ	ὁ	definite article, dative feminine singular	1	to the
 DEU 26:11	1	16	οἰκίᾳ	οἰκία	noun, dative feminine singular after ἐν τῇ	1	house
 DEU 26:11	1	17	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 26:11	1	18	καὶ	καί	conjunction	1	and
@@ -302,7 +302,7 @@ DEU 26:11	1	21	καὶ	καί	conjunction	1	and
 DEU 26:11	1	22	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 26:11	1	23	προσήλυτος	προσήλυτος	noun, nominative masculine singular	1	sojourner
 DEU 26:11	1	24	ὁ	ὁ	article, nominative masculine singular	1	the
-DEU 26:11	1	25	ἐν	ἐν	preposition with the dative	1	in
+DEU 26:11	1	25	ἐν	ἐν	preposition with the dative	1	among
 DEU 26:11	1	26	σοί	σύ	pronoun, dative 2nd singular	1	you
 DEU 26:12	1	1	Ἐὰν	ἐάν	conditional conjunction	1	if
 DEU 26:12	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -325,16 +325,16 @@ DEU 26:12	1	18	τὸ	ὁ	article, accusative neuter singular	1	the
 DEU 26:12	1	19	δεύτερον	δεύτερος	adjective, accusative neuter singular	1	second
 DEU 26:12	1	20	ἐπιδέκατον	ἐπιδέκατον	noun, accusative neuter singular	1	tithe
 DEU 26:12	1	21	δώσεις	δίδωμι	future active indicative, 2nd singular	1	shall give
-DEU 26:12	1	22	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 26:12	1	22	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
 DEU 26:12	1	23	Λευίτῃ	Λευίτης	title, dative masculine singular	1	Levite
 DEU 26:12	1	24	καὶ	καί	conjunction	1	and
-DEU 26:12	1	25	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 26:12	1	25	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
 DEU 26:12	1	26	προσηλύτῳ	προσήλυτος	noun, dative masculine singular	1	sojourner
 DEU 26:12	1	27	καὶ	καί	conjunction	1	and
-DEU 26:12	1	28	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 26:12	1	28	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
 DEU 26:12	1	29	ὀρφανῷ	ὀρφανός	adjective, dative masculine singular	1	orphan
 DEU 26:12	1	30	καὶ	καί	conjunction	1	and
-DEU 26:12	1	31	τῇ	ὁ	definite article, dative feminine singular	1	the
+DEU 26:12	1	31	τῇ	ὁ	definite article, dative feminine singular	1	to the
 DEU 26:12	1	32	χήρᾳ	χήρα	noun, dative feminine singular	1	widow
 DEU 26:12	1	33	καὶ	καί	conjunction	1	and
 DEU 26:12	1	34	φάγονται	ἐσθίω	future middle indicative, 3rd plural	1	shall eat
@@ -351,7 +351,7 @@ DEU 26:13	1	4	Κυρίου	κύριος	noun, genitive masculine singular	1	the 
 DEU 26:13	1	5	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
 DEU 26:13	1	6	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 26:13	1	7	σου	σύ	pronoun, genitive 2nd singular	1	your
-DEU 26:13	1	8	ἐξεκάθαρα	ἐκκαθαίρω	aorist active indicative, 1st singular	1	cleared out
+DEU 26:13	1	8	ἐξεκάθαρα	ἐκκαθαίρω	aorist active indicative, 1st singular	1	I cleared out
 DEU 26:13	1	9	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 DEU 26:13	1	10	ἅγιά	ἅγιον	adjective, accusative neuter plural	1	holy things
 DEU 26:13	1	11	μου	ἐγώ	pronoun, genitive 1st singular	1	my
@@ -362,63 +362,63 @@ DEU 26:13	1	15	μου	ἐγώ	pronoun, genitive 1st singular	1	my
 DEU 26:13	1	16	καὶ	καί	conjunction	1	and
 DEU 26:13	1	17	ἔδωκα	δίδωμι	aorist active indicative, 1st singular	1	gave
 DEU 26:13	1	18	αὐτὰ	αὐτός	pronoun, nominative/accusative neuter plural	1	them
-DEU 26:13	1	19	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 26:13	1	19	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
 DEU 26:13	1	20	Λευίτῃ	Λευίτης	title, dative masculine singular	1	Levite
 DEU 26:13	1	21	καὶ	καί	conjunction	1	and
-DEU 26:13	1	22	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 26:13	1	22	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
 DEU 26:13	1	23	προσηλύτῳ	προσήλυτος	noun, dative masculine singular	1	sojourner
 DEU 26:13	1	24	καὶ	καί	conjunction	1	and
-DEU 26:13	1	25	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 26:13	1	25	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
 DEU 26:13	1	26	ὀρφανῷ	ὀρφανός	adjective, dative masculine singular	1	orphan
 DEU 26:13	1	27	καὶ	καί	conjunction	1	and
-DEU 26:13	1	28	τῇ	ὁ	definite article, dative feminine singular	1	the
+DEU 26:13	1	28	τῇ	ὁ	definite article, dative feminine singular	1	to the
 DEU 26:13	1	29	χήρᾳ	χήρα	noun, dative feminine singular	1	widow
 DEU 26:13	1	30	κατὰ	κατά	preposition with the accusative	1	according to
 DEU 26:13	1	31	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 DEU 26:13	1	32	τὰς	ὁ	article, accusative feminine plural	1	the
 DEU 26:13	1	33	ἐντολὰς	ἐντολή	noun, accusative feminine plural	1	commandments
 DEU 26:13	1	34	ἃς	ὅς	relative pronoun, accusative feminine plural	1	which
-DEU 26:13	1	35	ἐνετείλω	ἐντέλλομαι	aorist middle indicative, 2nd singular	1	commanded
+DEU 26:13	1	35	ἐνετείλω	ἐντέλλομαι	aorist middle indicative, 2nd singular	1	you commanded
 DEU 26:13	1	36	μοι	ἐγώ	pronoun, dative 1st singular	1	to me
-DEU 26:13	1	37	οὐ	οὐ	negative adverb with future indicative	1	not
-DEU 26:13	1	38	παρῆλθον	παρέρχομαι	aorist active indicative, 1st singular	1	transgressed
+DEU 26:13	1	37	οὐ	οὐ	negative adverb with future indicative	1	I did not
+DEU 26:13	1	38	παρῆλθον	παρέρχομαι	aorist active indicative, 1st singular	1	transgress
 DEU 26:13	1	39	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 26:13	1	40	ἐντολήν	ἐντολή	noun, accusative feminine singular	1	commandment
 DEU 26:13	1	41	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 26:13	1	42	καὶ	καί	conjunction	1	and
-DEU 26:13	1	43	οὐκ	οὐ	negative particle	1	not
-DEU 26:13	1	44	ἐπελαθόμην	ἐπιλανθάνομαι	aorist middle indicative, 1st singular	1	forgot
+DEU 26:13	1	43	οὐκ	οὐ	negative particle	1	I did not
+DEU 26:13	1	44	ἐπελαθόμην	ἐπιλανθάνομαι	aorist middle indicative, 1st singular	1	forget
 DEU 26:14	1	1	καὶ	καί	conjunction	1	and
-DEU 26:14	1	2	οὐκ	οὐ	negative particle	1	not
-DEU 26:14	1	3	ἔφαγον	ἐσθίω	aorist active indicative, 1st singular	1	ate
+DEU 26:14	1	2	οὐκ	οὐ	negative particle	1	I did not
+DEU 26:14	1	3	ἔφαγον	ἐσθίω	aorist active indicative, 1st singular	1	eat
 DEU 26:14	1	4	ἐν	ἐν	preposition with the dative	1	in
 DEU 26:14	1	5	ὀδύνῃ	ὀδύνη	noun, dative feminine singular	1	sorrow
 DEU 26:14	1	6	μου	ἐγώ	pronoun, genitive 1st singular	1	my
 DEU 26:14	1	7	ἀπ᾽	ἀπό	preposition, elided	1	of
 DEU 26:14	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
-DEU 26:14	1	9	οὐκ	οὐ	negative particle	1	not
-DEU 26:14	1	10	ἐκάρπωσα	καρπόομαι	aorist middle indicative, 1st singular	1	offered
+DEU 26:14	1	9	οὐκ	οὐ	negative particle	1	I did not
+DEU 26:14	1	10	ἐκάρπωσα	καρπόομαι	aorist middle indicative, 1st singular	1	offer
 DEU 26:14	1	11	ἀπ᾽	ἀπό	preposition, elided	1	of
 DEU 26:14	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 DEU 26:14	1	13	εἰς	εἰς	preposition with the accusative	1	into
 DEU 26:14	1	14	ἀκάθαρτον	ἀκάθαρτος	adjective, nominative neuter singular	1	unclean
-DEU 26:14	1	15	οὐκ	οὐ	negative particle	1	not
-DEU 26:14	1	16	ἔδωκα	δίδωμι	aorist active indicative, 1st singular	1	gave
+DEU 26:14	1	15	οὐκ	οὐ	negative particle	1	I did not
+DEU 26:14	1	16	ἔδωκα	δίδωμι	aorist active indicative, 1st singular	1	give
 DEU 26:14	1	17	ἀπ᾽	ἀπό	preposition, elided	1	of
 DEU 26:14	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 DEU 26:14	1	19	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
 DEU 26:14	1	20	τεθνηκότι	θνῄσκω	perfect active participle, dative masculine singular	1	dead man
-DEU 26:14	1	21	ὑπήκουσα	ὑπακούω	aorist active indicative, 1st singular	1	listened to
+DEU 26:14	1	21	ὑπήκουσα	ὑπακούω	aorist active indicative, 1st singular	1	I obeyed
 DEU 26:14	1	22	τῆς	ὁ	definite article, genitive feminine singular	1	the
 DEU 26:14	1	23	φωνῆς	φωνή	noun, genitive feminine singular	1	voice
 DEU 26:14	1	24	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 DEU 26:14	1	25	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
 DEU 26:14	1	26	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 26:14	1	27	μου	ἐγώ	pronoun, genitive 1st singular	1	my
-DEU 26:14	1	28	ἐποίησα	ποιέω	aorist active indicative, 1st singular	1	have done
+DEU 26:14	1	28	ἐποίησα	ποιέω	aorist active indicative, 1st singular	1	I have done
 DEU 26:14	1	29	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 DEU 26:14	1	30	καθὰ	καθά	conjunction	1	as
-DEU 26:14	1	31	ἐνετείλω	ἐντέλλομαι	aorist middle indicative, 2nd singular	1	commanded
+DEU 26:14	1	31	ἐνετείλω	ἐντέλλομαι	aorist middle indicative, 2nd singular	1	you commanded
 DEU 26:14	1	32	μοι	ἐγώ	pronoun, dative 1st singular	1	to me
 DEU 26:15	1	1	Κάτιδε	καθοράω	aorist active imperative, 2nd singular	1	look down
 DEU 26:15	1	2	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -444,8 +444,8 @@ DEU 26:15	1	21	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
 DEU 26:15	1	22	ἔδωκας	δίδωμι	aorist active indicative, 2nd singular	1	gave
 DEU 26:15	1	23	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 DEU 26:15	1	24	καθὰ	καθά	conjunction	1	as
-DEU 26:15	1	25	ὤμοσας	ὀμνύω	aorist active indicative, 2nd singular	1	swore
-DEU 26:15	1	26	τοῖς	ὁ	article, dative neuter plural	1	the
+DEU 26:15	1	25	ὤμοσας	ὀμνύω	aorist active indicative, 2nd singular	1	you swore
+DEU 26:15	1	26	τοῖς	ὁ	article, dative neuter plural	1	to the
 DEU 26:15	1	27	πατράσιν	πατήρ	noun, dative masculine plural	1	fathers
 DEU 26:15	1	28	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 DEU 26:15	1	29	δοῦναι	δίδωμι	aorist active infinitive	1	to give
@@ -455,7 +455,7 @@ DEU 26:15	1	32	ῥέουσαν	ῥέω	present active participle, accusative fem
 DEU 26:15	1	33	γάλα	γάλα	noun, accusative neuter singular	1	milk
 DEU 26:15	1	34	καὶ	καί	conjunction	1	and
 DEU 26:15	1	35	μέλι	μέλι	noun, accusative neuter singular	1	honey
-DEU 26:16	1	1	Ἐν	ἐν	preposition with the dative	1	in
+DEU 26:16	1	1	Ἐν	ἐν	preposition with the dative	1	on
 DEU 26:16	1	2	τῇ	ὁ	definite article, dative feminine singular	1	the
 DEU 26:16	1	3	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 DEU 26:16	1	4	ταύτῃ	οὗτος	demonstrative pronoun, dative feminine singular	1	this
@@ -517,7 +517,7 @@ DEU 26:17	1	24	τὰ	ὁ	definite article, nominative/accusative neuter plural	1
 DEU 26:17	1	25	κρίματα	κρίμα	noun, accusative neuter plural	1	judgments
 DEU 26:17	1	26	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 26:17	1	27	καὶ	καί	conjunction	1	and
-DEU 26:17	1	28	ὑπακούειν	ὑπακούω	present active infinitive	1	to listen to
+DEU 26:17	1	28	ὑπακούειν	ὑπακούω	present active infinitive	1	to obey
 DEU 26:17	1	29	τῆς	ὁ	definite article, genitive feminine singular	1	the
 DEU 26:17	1	30	φωνῆς	φωνή	noun, genitive feminine singular	1	voice
 DEU 26:17	1	31	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -530,7 +530,7 @@ DEU 26:18	1	6	γενέσθαι	γίνομαι	aorist middle infinitive	1	to be
 DEU 26:18	1	7	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 26:18	1	8	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 DEU 26:18	1	9	λαὸν	λαός	noun, accusative masculine singular	1	people
-DEU 26:18	1	10	περιούσιον	περιούσιος	adjective, accusative masculine singular	1	peculiar
+DEU 26:18	1	10	περιούσιον	περιούσιος	adjective, accusative masculine singular	1	treasured
 DEU 26:18	1	11	καθάπερ	καθάπερ	adverb	1	as
 DEU 26:18	1	12	εἶπέ	λέγω	aorist active indicative, third singular	1	said
 DEU 26:18	1	13	σοι	σύ	pronoun, dative 2nd singular	1	to you
@@ -547,7 +547,7 @@ DEU 26:19	1	5	πάντων	πᾶς	adjective, genitive neuter plural	1	all
 DEU 26:19	1	6	τῶν	ὁ	definite article, genitive plural	1	the
 DEU 26:19	1	7	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 DEU 26:19	1	8	ὡς	ὡς	adverb	1	as
-DEU 26:19	1	9	ἐποίησέ	ποιέω	aorist active indicative, 3rd singular	1	did
+DEU 26:19	1	9	ἐποίησέ	ποιέω	aorist active indicative, 3rd singular	1	he made
 DEU 26:19	1	10	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 26:19	1	11	ὀνομαστὸν	ὀνομαστός	adjective, accusative masculine singular	1	renowned
 DEU 26:19	1	12	καὶ	καί	conjunction	1	and
@@ -559,7 +559,7 @@ DEU 26:19	1	17	εἶναί	εἰμί	present active infinitive	1	to be
 DEU 26:19	1	18	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 26:19	1	19	λαὸν	λαός	noun, accusative masculine singular	1	people
 DEU 26:19	1	20	ἅγιον	ἅγιος	adjective, accusative masculine singular	1	holy
-DEU 26:19	1	21	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
+DEU 26:19	1	21	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 DEU 26:19	1	22	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
 DEU 26:19	1	23	Θεῷ	θεός	noun, dative masculine singular	1	God
 DEU 26:19	1	24	σου	σύ	pronoun, genitive 2nd singular	1	your

@@ -38,8 +38,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:1	1	34	ἐκάθισαν	καθίζω	aorist active indicative, third plural	1	sat down
 2SA 11:1	1	34	ἐκάθισαν			2	besieged
 2SA 11:1	1	35	ἐπὶ	ἐπί	preposition governing the accusative	1	against
-2SA 11:1	1	36	Ῥαββάθ	Ῥαββάθ	indeclinable place name, accusative in context	1	Rabbath
-2SA 11:1	1	36	Ῥαββάθ			2	Rabbah
+2SA 11:1	1	36	Ῥαββάθ	Ῥαββάθ	indeclinable place name, accusative in context	1	Rabbah
+2SA 11:1	1	36	Ῥαββάθ			2	Rabbath
 2SA 11:1	1	37	Καὶ	καί	conjunction	1	and
 2SA 11:1	1	38	Δαυὶδ	Δαυίδ	indeclinable personal name, accusative in context	1	David
 2SA 11:1	1	39	ἐκάθισεν	καθίζω	aorist active indicative, third singular	1	settled
@@ -91,7 +91,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:3	1	7	γυναῖκα	γυνή	noun, accusative feminine singular	1	woman
 2SA 11:3	1	8	καὶ	καί	conjunction	1	and
 2SA 11:3	1	9	εἶπεν	λέγω	aorist active indicative, third singular	1	said
-2SA 11:3	1	10	οὐχὶ	οὐχί	negative particle, emphatic form	1	not
+2SA 11:3	1	10	οὐχὶ	οὐχί	negative particle, emphatic form	1	is not
 2SA 11:3	1	11	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 2SA 11:3	1	12	Βηθσαβεὲ	Βηθσαβεέ	indeclinable personal name, nominative in context	1	Bethsabee
 2SA 11:3	1	12	Βηθσαβεὲ			2	Bathsheba
@@ -222,7 +222,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:8	1	19	ἐξ	ἐκ	preposition with the genitive	1	from
 2SA 11:8	1	20	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2SA 11:8	1	20	οἴκου			2	household
-2SA 11:8	1	21	τοῦ	ὁ	article, genitive singular	1	the
+2SA 11:8	1	21	τοῦ	ὁ	article, genitive singular	1	of the
 2SA 11:8	1	22	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2SA 11:8	1	23	καὶ	καί	conjunction	1	and
 2SA 11:8	1	24	ἐξῆλθεν	ἐξέρχομαι	aorist active indicative, third singular	1	came out
@@ -252,7 +252,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:9	1	15	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 2SA 11:9	1	16	καὶ	καί	conjunction	1	and
 2SA 11:9	1	17	οὐ	οὐ	negative particle	1	not
-2SA 11:9	1	18	κατέβη	καταβαίνω	aorist active indicative, third singular	1	came down
+2SA 11:9	1	18	κατέβη	καταβαίνω	aorist active indicative, third singular	1	went down
 2SA 11:9	1	18	κατέβη			2	descended
 2SA 11:9	1	19	εἰς	εἰς	preposition with the accusative of destination	1	into
 2SA 11:9	1	20	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -265,8 +265,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:10	1	4	Δαυὶδ	Δαυίδ	indeclinable personal name, dative in context	1	David
 2SA 11:10	1	5	λέγοντες	λέγω	present active participle, nominative masculine plural, with impersonal passive	1	saying
 2SA 11:10	1	6	ὅτι	ὅτι	conjunction	1	that
-2SA 11:10	1	7	οὐ	οὐ	negative particle in the emphatic negation οὐ μή	1	by no means
-2SA 11:10	1	8	κατέβη	καταβαίνω	aorist active indicative, third singular	1	came down
+2SA 11:10	1	7	οὐ	οὐ	negative particle in the emphatic negation οὐ μή	1	not
+2SA 11:10	1	8	κατέβη	καταβαίνω	aorist active indicative, third singular	1	went down
 2SA 11:10	1	8	κατέβη			2	descended
 2SA 11:10	1	9	Οὐρίας	Οὐρίας	noun, nominative masculine singular	1	Uriah
 2SA 11:10	1	10	εἰς	εἰς	preposition with the accusative	1	into
@@ -287,7 +287,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:10	1	24	τί	τίς	interrogative pronoun, accusative neuter singular	1	why
 2SA 11:10	1	25	ὅτι	ὅτι	conjunction	1	is it that
 2SA 11:10	1	26	οὐ	οὐ	particle	1	not
-2SA 11:10	1	27	κατέβης	καταβαίνω	aorist active indicative, second singular	1	you came down
+2SA 11:10	1	27	κατέβης	καταβαίνω	aorist active indicative, second singular	1	you went down
 2SA 11:10	1	28	εἰς	εἰς	preposition with the accusative	1	into
 2SA 11:10	1	29	τὸν	ὁ	article, accusative masculine singular	1	the
 2SA 11:10	1	30	οἶκόν	οἶκος	noun accusative masculine singular	1	house
@@ -377,7 +377,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:12	1	22	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 2SA 11:12	1	23	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative feminine singular	1	that
 2SA 11:12	1	24	καὶ	καί	conjunction	1	and
-2SA 11:12	1	25	τῇ	ὁ	article, dative feminine singular	1	for
+2SA 11:12	1	25	τῇ	ὁ	article, dative feminine singular	1	the
 2SA 11:12	1	26	ἐπαύριον	ἐπαύριον	adverb	1	next day
 2SA 11:13	1	1	Καὶ	καί	conjunction	1	and
 2SA 11:13	1	2	ἐκάλεσεν	καλέω	aorist active indicative, third singular	1	called
@@ -452,8 +452,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:15	1	14	καὶ	καί	conjunction	1	and
 2SA 11:15	1	15	ἀποστραφήσεσθε	ἀποστρέφω	future active indicative, second plural	1	you shall turn away
 2SA 11:15	1	16	ἀπὸ	ἀπό	preposition with the genitive	1	from
-2SA 11:15	1	17	ὄπισθεν	ὄπισθεν	adverb used as preposition	1	following
-2SA 11:15	1	17	ὄπισθεν			2	behind
+2SA 11:15	1	17	ὄπισθεν	ὄπισθεν	adverb used as preposition	1	behind
+2SA 11:15	1	17	ὄπισθεν			2	following
 2SA 11:15	1	18	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 2SA 11:15	1	19	καὶ	καί	conjunction	1	and
 2SA 11:15	1	20	πληγήσεται	πλήσσω	future passive indicative, third singular	1	will be struck
@@ -564,7 +564,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:20	1	19	οὐκ	οὐ	negative particle	1	not
 2SA 11:20	1	20	ᾔδειτε	οἶδα	pluperfect active indicative, second plural	1	did you know
 2SA 11:20	1	20	ᾔδειτε			2	you knew
-2SA 11:20	1	21	ὅτι	ὅτι	causal conjunction	1	because
+2SA 11:20	1	21	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 2SA 11:20	1	22	τοξεύουσιν	τοξεύω	present active indicative, third plural	1	shoot arrows
 2SA 11:20	1	23	ἀπάνωθεν	ἐπάνω	preposition governing the genitive	1	from above
 2SA 11:20	1	23	ἀπάνωθεν			2	on top of
@@ -811,9 +811,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:26	1	1	Καὶ	καί	conjunction	1	and
 2SA 11:26	1	2	ἤκουσεν	ἀκούω	aorist active indicative, third singular	1	heard
 2SA 11:26	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
-2SA 11:26	1	4	γυνὴ	γυνή	noun, nominative feminine singular	1	woman
+2SA 11:26	1	4	γυνὴ	γυνή	noun, nominative feminine singular	1	wife
 2SA 11:26	1	5	Οὐρίου	Οὐρίας	noun, genitive masculine singular	1	of Uriah
-2SA 11:26	1	6	ὅτι	ὅτι	causal conjunction	1	because
+2SA 11:26	1	6	ὅτι	ὅτι	causal conjunction	1	that
 2SA 11:26	1	7	ἀπέθανεν	ἀποθνῄσκω	aorist active indicative, third singular	1	he died
 2SA 11:26	1	8	Οὐρίας	Οὐρίας	noun, nominative masculine singular	1	Uriah
 2SA 11:26	1	9	ὁ	ὁ	article, nominative masculine singular	1	the

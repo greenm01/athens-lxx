@@ -36,12 +36,12 @@ EXO 9:2	1	9	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 EXO 9:2	1	10	καὶ	καί	conjunction	1	and
 EXO 9:2	1	11	ἔτι	ἔτι	temporal adverb	1	still
 EXO 9:2	1	12	ἐγκρατεῖς	ἐγκρατέω	present active indicative, second singular with genitive αὐτοῦ, detain	1	you detain
-EXO 9:2	1	13	αὐτοῦ	αὐτός	pronoun, genitive masculine singular, object of ἐγκρατεῖς	1	it
+EXO 9:2	1	13	αὐτοῦ	αὐτός	pronoun, genitive masculine singular, object of ἐγκρατεῖς	1	them
 EXO 9:3	1	1	ἰδοὺ	ἰδού	interjection	1	look
 EXO 9:3	1	2	χεὶρ	χείρ	noun, nominative feminine singular	1	the hand
 EXO 9:3	1	3	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	1	of the Lord
 EXO 9:3	1	4	ἔσται	εἰμί	future indicative, third singular	1	will be
-EXO 9:3	1	5	ἐν	ἐν	preposition with the dative	1	in
+EXO 9:3	1	5	ἐν	ἐν	preposition with the dative	1	upon
 EXO 9:3	1	6	τοῖς	ὁ	article, dative neuter plural	1	the
 EXO 9:3	1	7	κτήνεσί	κτῆνος	noun, dative neuter plural after τοῖς/ἐν τοῖς	1	livestock
 EXO 9:3	1	8	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -49,14 +49,14 @@ EXO 9:3	1	9	τοῖς	ὁ	article, dative neuter plural	1	the
 EXO 9:3	1	10	ἐν	ἐν	preposition with the dative	1	in
 EXO 9:3	1	11	τοῖς	ὁ	article, dative neuter plural	1	the
 EXO 9:3	1	12	πεδίοις	πεδίον	noun, dative neuter plural after τοῖς/ἐν τοῖς	1	fields
-EXO 9:3	1	13	ἔν	ἐν	preposition with the dative	1	in
+EXO 9:3	1	13	ἔν	ἐν	preposition with the dative	1	upon
 EXO 9:3	1	14	τε	τε	particle	1	both
 EXO 9:3	1	15	τοῖς	ὁ	article, dative neuter plural	1	the
 EXO 9:3	1	16	ἵπποις	ἵππος	noun, dative masculine plural after τοῖς	1	horses
 EXO 9:3	1	17	καὶ	καί	conjunction	1	and
-EXO 9:3	1	18	ἐν	ἐν	preposition with the dative	1	in
+EXO 9:3	1	18	ἐν	ἐν	preposition with the dative	1	upon
 EXO 9:3	1	19	τοῖς	ὁ	article, dative neuter plural	1	the
-EXO 9:3	1	20	ὑποζυγίοις	ὑποζύγιον	noun, dative neuter plural after τοῖς, beasts of burden	1	asses
+EXO 9:3	1	20	ὑποζυγίοις	ὑποζύγιον	noun, dative neuter plural after τοῖς, beasts of burden	1	beasts of burden
 EXO 9:3	1	21	καὶ	καί	conjunction	1	and
 EXO 9:3	1	22	ἐν	ἐν	preposition with the dative	1	in
 EXO 9:3	1	23	τοῖς	ὁ	article, dative neuter plural	1	the
@@ -98,7 +98,7 @@ EXO 9:4	1	27	κτηνῶν	κτῆνος	noun, genitive neuter plural after τ�
 EXO 9:4	1	28	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 9:4	1	29	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 EXO 9:4	1	30	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
-EXO 9:4	1	31	ῥητόν	ῥητός	adjective, nominative neuter singular	1	a single thing
+EXO 9:4	1	31	ῥητόν	ῥητός	adjective, nominative neuter singular	1	a single one
 EXO 9:5	1	1	Καὶ	καί	conjunction	1	and
 EXO 9:5	1	2	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	set
 EXO 9:5	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -176,7 +176,7 @@ EXO 9:8	1	10	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	to you
 EXO 9:8	1	11	πλήρεις	πλήρης	adjective, accusative feminine plural with χεῖρας	1	full
 EXO 9:8	1	12	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 9:8	1	13	χεῖρας	χείρ	noun, accusative feminine plural after τὰς	1	hands
-EXO 9:8	1	14	αἰθάλης	αἰθάλη	noun, genitive feminine singular, ashes/soot	1	of ashes
+EXO 9:8	1	14	αἰθάλης	αἰθάλη	noun, genitive feminine singular, ashes/soot	1	of soot
 EXO 9:8	1	15	καμιναίας	καμιναῖος	adjective/noun, genitive feminine singular with αἰθάλης 'of the furnace'	1	of the furnace
 EXO 9:8	1	16	καὶ	καί	conjunction	1	and
 EXO 9:8	1	17	πασάτω	πάσσω	aorist active imperative, third singular, sprinkle/scatter	1	let scatter
@@ -226,8 +226,8 @@ EXO 9:9	1	32	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine s
 EXO 9:10	1	1	Καὶ	καί	conjunction	1	and
 EXO 9:10	1	2	ἔλαβον	λαμβάνω	aorist active indicative, third plural	1	they took
 EXO 9:10	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
-EXO 9:10	1	4	αἰθάλην	αἰθάλη	noun, accusative feminine singular after τὴν	1	ashes
-EXO 9:10	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
+EXO 9:10	1	4	αἰθάλην	αἰθάλη	noun, accusative feminine singular after τὴν	1	soot
+EXO 9:10	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 9:10	1	6	καμιναίας	καμιναῖος	adjective/noun, genitive feminine singular with αἰθάλης 'of the furnace'	1	furnace
 EXO 9:10	1	7	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
 EXO 9:10	1	8	Φαραὼ	Φαραώ	royal title/name (indeclined); case from syntax per occurrence	1	Pharaoh
@@ -359,7 +359,7 @@ EXO 9:15	1	3	ἀποστείλας	ἀποστέλλω	aorist active participle,
 EXO 9:15	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 9:15	1	5	χεῖρά	χείρ	noun, accusative feminine singular after τὴν	1	hand
 EXO 9:15	1	6	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-EXO 9:15	1	7	πατάξω	πατάσσω	future active indicative, first singular	1	I would strike
+EXO 9:15	1	7	πατάξω	πατάσσω	future active indicative, first singular	1	I will strike
 EXO 9:15	1	8	σε	σύ	pronoun, accusative second singular	1	you
 EXO 9:15	1	9	καὶ	καί	conjunction	1	and
 EXO 9:15	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -367,7 +367,7 @@ EXO 9:15	1	11	λαόν	λαός	noun, accusative masculine singular	1	people
 EXO 9:15	1	12	σου	σύ	pronoun, possessive genitive second singular	1	your
 EXO 9:15	1	13	θανάτῳ	θάνατος	noun, dative masculine singular with θανάτῳ understood instrumental, by pestilence	1	with pestilence
 EXO 9:15	1	14	καὶ	καί	conjunction	1	and
-EXO 9:15	1	15	ἐκτριβήσῃ	ἐκτρίβω	future passive indicative, second singular	1	you would be destroyed
+EXO 9:15	1	15	ἐκτριβήσῃ	ἐκτρίβω	future passive indicative, second singular	1	you will be destroyed
 EXO 9:15	1	16	ἀπὸ	ἀπό	preposition with the genitive	1	from
 EXO 9:15	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 9:15	1	18	γῆς	γῆ	noun, genitive feminine singular	1	land
@@ -591,7 +591,7 @@ EXO 9:24	1	21	τοιαύτη	τοιοῦτος	demonstrative adjective, nominati
 EXO 9:24	1	22	ἐν	ἐν	preposition with the dative	1	in
 EXO 9:24	1	23	Αἰγύπτῳ	Αἴγυπτος	place name, dative feminine singular	1	Egypt
 EXO 9:24	1	24	ἀφ᾽	ἀπό	preposition with the genitive, elided	1	from
-EXO 9:24	1	25	οὗ	ὅς	relative adverb/pronoun, 'where' of place	1	where
+EXO 9:24	1	25	οὗ	ὅς	relative adverb/pronoun, 'where' of place	1	when
 EXO 9:24	1	26	γεγένηται	γίνομαι	perfect middle indicative, third singular	1	has come into being
 EXO 9:24	1	27	ἐπ᾽	ἐπί	preposition with the accusative	1	over
 EXO 9:24	1	28	αὐτῆς	αὐτός	pronoun, genitive feminine singular, referring to Egypt	1	it

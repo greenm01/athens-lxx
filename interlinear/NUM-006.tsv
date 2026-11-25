@@ -95,11 +95,11 @@ NUM 6:5	1	18	πληρωθῶσιν	πληρόω	aorist passive subjunctive, thir
 NUM 6:5	1	19	αἱ	ὁ	article, nominative feminine plural	1	the
 NUM 6:5	1	20	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days
 NUM 6:5	1	21	ἃς	ὅς	relative pronoun, accusative of duration, accusative feminine plural	1	which
-NUM 6:5	1	22	ηὔξατο	εὔχομαι	aorist middle indicative, third singular	1	prayed
+NUM 6:5	1	22	ηὔξατο	εὔχομαι	aorist middle indicative, third singular	1	he vowed
 NUM 6:5	1	23	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 NUM 6:5	1	24	ἅγιος	ἅγιος	adjective, nominative masculine singular	1	holy
 NUM 6:5	1	25	ἔσται	εἰμί	future indicative, third singular	1	will be
-NUM 6:5	1	26	τρέφων	τρέφω	present active participle, nominative masculine singular after ὁ, 'who has fed/sustained'	1	who sustains
+NUM 6:5	1	26	τρέφων	τρέφω	present active participle, nominative masculine singular after ὁ, 'who has fed/sustained'	1	letting grow
 NUM 6:5	1	27	κόμην	κόμη	noun, accusative feminine singular	1	long hair
 NUM 6:5	1	28	τρίχα	θρίξ	noun, accusative feminine singular	1	hair
 NUM 6:5	1	29	κεφαλῆς	κεφαλή	noun, genitive feminine singular	1	head
@@ -162,14 +162,14 @@ NUM 6:8	1	2	δέ	δέ	postpositive conjunction, tonic accent	1	and
 NUM 6:8	1	3	τις	τις	indefinite pronoun, nominative masc. sg.	1	someone
 NUM 6:8	1	4	θανάτῳ	θάνατος	noun dative masculine singular	1	by death
 NUM 6:8	1	5	ἀποθάνῃ	ἀποθνῄσκω	aorist active subjunctive, 3rd sg. continuing condition	1	dies
-NUM 6:8	1	6	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+NUM 6:8	1	6	ἐπ᾽	ἐπί	preposition with the accusative	1	beside
 NUM 6:8	1	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 NUM 6:8	1	8	ἐξάπινα	ἐξάπινα	adverb	1	suddenly
 NUM 6:8	1	9	παραχρῆμα	παραχρῆμα	adverb	1	immediately
 NUM 6:8	1	10	μιανθήσεται	μιαίνω	future passive indicative, third singular	1	shall be unclean
 NUM 6:8	1	11	ἡ	ὁ	article, nominative feminine singular	1	the
-NUM 6:8	1	12	κεφαλὴ	κεφαλή	noun, nominative feminine singular	1	top
-NUM 6:8	1	12	κεφαλὴ			2	head
+NUM 6:8	1	12	κεφαλὴ	κεφαλή	noun, nominative feminine singular	1	head
+NUM 6:8	1	12	κεφαλὴ			2	top
 NUM 6:8	1	13	εὐχῆς	εὐχή	noun, genitive feminine singular	1	vow
 NUM 6:8	1	14	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 NUM 6:8	1	15	καὶ	καί	conjunction	1	and
@@ -202,7 +202,7 @@ NUM 6:10	1	12	περιστερῶν	περιστερά	noun, genitive feminine p
 NUM 6:10	1	13	πρὸς	πρός	preposition with the accusative	1	to
 NUM 6:10	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 NUM 6:10	1	15	ἱερέα	ἱερεύς	noun, accusative masculine singular	1	priest
-NUM 6:10	1	16	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 6:10	1	16	ἐπὶ	ἐπί	preposition (case from context)	1	at
 NUM 6:10	1	17	τὰς	ὁ	article, accusative feminine plural	1	the
 NUM 6:10	1	18	θύρας	θύρα	noun, accusative feminine plural	1	entrances
 NUM 6:10	1	19	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -271,8 +271,8 @@ NUM 6:12	1	12	ἄλογοι			2	not counted
 NUM 6:12	1	13	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
 NUM 6:12	1	14	ὅτι	ὅτι	causal conjunction	1	because
 NUM 6:12	1	15	ἐμιάνθη	μιαίνω	aorist passive indicative, third singular	1	was defiled
-NUM 6:12	1	16	κεφαλὴ	κεφαλή	noun, nominative feminine singular	1	top
-NUM 6:12	1	16	κεφαλὴ			2	head
+NUM 6:12	1	16	κεφαλὴ	κεφαλή	noun, nominative feminine singular	1	head
+NUM 6:12	1	16	κεφαλὴ			2	top
 NUM 6:12	1	17	εὐχῆς	εὐχή	noun, genitive feminine singular	1	vow
 NUM 6:12	1	18	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 NUM 6:13	1	1	Καὶ	καί	conjunction	1	and
@@ -358,7 +358,7 @@ NUM 6:16	1	5	ἔναντι	ἔναντι	improper preposition with genitive	1	be
 NUM 6:16	1	5	ἔναντι			2	in the presence of
 NUM 6:16	1	6	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 NUM 6:16	1	7	καὶ	καί	conjunction	1	and
-NUM 6:16	1	8	ποιήσει	ποιέω	future active indicative, third singular	1	he shall do
+NUM 6:16	1	8	ποιήσει	ποιέω	future active indicative, third singular	1	he shall offer
 NUM 6:16	1	9	τὸ	ὁ	article, accusative neuter singular; stands for the sacrifice	1	the offering
 NUM 6:16	1	10	περὶ	περί	preposition with genitive	1	for
 NUM 6:16	1	11	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
@@ -375,7 +375,7 @@ NUM 6:17	1	5	θυσίαν	θυσία	noun, accusative feminine singular	1	sacrif
 NUM 6:17	1	6	σωτηρίου	σωτήριον	substantival adjective, genitive neuter singular	1	of well-being
 NUM 6:17	1	6	σωτηρίου			2	of peace
 NUM 6:17	1	7	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
-NUM 6:17	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 6:17	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	with
 NUM 6:17	1	9	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 NUM 6:17	1	10	κανῷ	κανοῦν	noun, dative neuter singular after τῷ	1	basket
 NUM 6:17	1	11	τῶν	ὁ	article, genitive plural	1	the
@@ -471,7 +471,7 @@ NUM 6:20	1	2	προσοίσει	προσφέρω	future active indicative, third
 NUM 6:20	1	3	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
 NUM 6:20	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 NUM 6:20	1	5	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
-NUM 6:20	1	6	ἐπίθεμα	ἐπίθεμα	noun, accusative neuter singular	1	offering placed on the altar
+NUM 6:20	1	6	ἐπίθεμα	ἐπίθεμα	noun, accusative neuter singular	1	presented offering
 NUM 6:20	1	7	ἔναντι	ἔναντι	improper preposition with genitive	1	before
 NUM 6:20	1	7	ἔναντι			2	in the presence of
 NUM 6:20	1	8	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
@@ -479,16 +479,16 @@ NUM 6:20	1	9	ἅγιον	ἅγιος	adjective, nominative neuter singular; used
 NUM 6:20	1	10	ἔσται	εἰμί	future indicative, third singular	1	it shall be
 NUM 6:20	1	11	τῷ	ὁ	article, dative masculine singular	1	to
 NUM 6:20	1	12	ἱερεῖ	ἱερεύς	noun, dative masculine singular	1	priest
-NUM 6:20	1	13	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 6:20	1	13	ἐπὶ	ἐπί	preposition (case from context)	1	besides
 NUM 6:20	1	14	τοῦ	ὁ	article, genitive neuter singular	1	the
 NUM 6:20	1	15	στηθυνίου	στηθύνιον	noun, genitive neuter singular	1	breast
 NUM 6:20	1	16	τοῦ	ὁ	article, genitive neuter singular	1	of the
-NUM 6:20	1	17	ἐπιθέματος	ἐπίθεμα	noun, genitive neuter singular	1	offering placed on the altar
+NUM 6:20	1	17	ἐπιθέματος	ἐπίθεμα	noun, genitive neuter singular	1	presented offering
 NUM 6:20	1	18	καὶ	καί	conjunction	1	and
-NUM 6:20	1	19	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 6:20	1	19	ἐπὶ	ἐπί	preposition (case from context)	1	besides
 NUM 6:20	1	20	τοῦ	ὁ	article, genitive masculine singular	1	of the
-NUM 6:20	1	21	βραχίονος	βραχίων	noun, genitive masculine singular	1	arm
-NUM 6:20	1	21	βραχίονος			2	foreleg
+NUM 6:20	1	21	βραχίονος	βραχίων	noun, genitive masculine singular	1	foreleg
+NUM 6:20	1	21	βραχίονος			2	arm
 NUM 6:20	1	22	τοῦ	ὁ	article, genitive neuter singular	1	of the
 NUM 6:20	1	23	ἀφαιρέματος	ἀφαίρεμα	noun, genitive neuter singular	1	contribution
 NUM 6:20	1	23	ἀφαιρέματος			2	portion set apart

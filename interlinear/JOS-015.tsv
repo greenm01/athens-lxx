@@ -14,12 +14,12 @@ JOS 15:1	1	11	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOS 15:1	1	12	τῶν	ὁ	article, genitive neuter plural	1	the
 JOS 15:1	1	13	ὁρίων	ὅριον	noun, genitive neuter plural	1	borders
 JOS 15:1	1	14	τῆς	ὁ	article, genitive feminine singular	1	of
-JOS 15:1	1	15	Ἰδουμαίας	Ἰδουμαία	noun, genitive feminine singular; place name	1	Idumea
+JOS 15:1	1	15	Ἰδουμαίας	Ἰδουμαία	noun, genitive feminine singular; place name	1	of Idumea
 JOS 15:1	1	15	Ἰδουμαίας			2	Edom
 JOS 15:1	1	16	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOS 15:1	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
 JOS 15:1	1	18	ἐρήμου	ἔρημος	noun, genitive feminine singular	1	desert
-JOS 15:1	1	19	Σὶν	Σίν	place name indeclinable, genitive in context after ἐρήμου	1	Sin
+JOS 15:1	1	19	Σὶν	Σίν	place name indeclinable, genitive in context after ἐρήμου	1	of Zin
 JOS 15:1	1	20	ἕως	ἕως	preposition with the genitive	1	as far as
 JOS 15:1	1	20	ἕως			2	up to
 JOS 15:1	1	21	Κάδης	Κάδης	indeclinable place name, nominative in context	1	Kadesh
@@ -33,7 +33,7 @@ JOS 15:2	1	5	ὅρια	ὅριον	noun, nominative neuter plural	1	boundaries
 JOS 15:2	1	5	ὅρια			2	borders
 JOS 15:2	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOS 15:2	1	7	νότου	νότος	noun, genitive masculine singular	1	south
-JOS 15:2	1	8	ἕως	ἕως	temporal conjunction/preposition	1	until
+JOS 15:2	1	8	ἕως	ἕως	temporal conjunction/preposition	1	to
 JOS 15:2	1	9	μέρους	μέρος	noun, genitive neuter singular	1	edge
 JOS 15:2	1	9	μέρους			2	end
 JOS 15:2	1	10	θαλάσσης	θάλασσα	noun, genitive feminine singular	1	of the sea
@@ -127,7 +127,7 @@ JOS 15:5	1	8	θάλασσα	θάλασσα	noun, nominative feminine singular	1	
 JOS 15:5	1	9	ἡ	ὁ	article, nominative feminine singular	1	the
 JOS 15:5	1	10	ἀλυκὴ	ἁλυκός	adjective, nominative feminine singular	1	Salt
 JOS 15:5	1	10	ἀλυκὴ			2	salty
-JOS 15:5	1	11	ἕως	ἕως	temporal conjunction/preposition	1	until
+JOS 15:5	1	11	ἕως	ἕως	temporal conjunction/preposition	1	to
 JOS 15:5	1	12	μέρους	μέρος	noun, genitive neuter singular	1	edge
 JOS 15:5	1	12	μέρους			2	end
 JOS 15:5	1	13	τοῦ	ὁ	article, genitive singular	1	the
@@ -178,7 +178,7 @@ JOS 15:6	1	16	ἐπὶ			2	to
 JOS 15:6	1	17	λίθον	λίθος	noun, accusative masculine singular	1	stone
 JOS 15:6	1	18	Βαιὼν	Βαιών	indeclinable personal name, genitive in context	1	of Baion
 JOS 15:6	1	18	Βαιὼν			2	of Bohan
-JOS 15:6	1	19	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
+JOS 15:6	1	19	υἱοῦ	υἱός	noun, genitive masculine singular	1	of the son
 JOS 15:6	1	20	Ῥουβήν	Ῥουβήν	indeclinable personal name, genitive in context	1	of Reuben
 JOS 15:7	1	1	καὶ	καί	conjunction	1	and
 JOS 15:7	1	2	προσαναβαίνει	προσαναβαίνω	present active indicative, third singular	1	goes up toward
@@ -245,7 +245,7 @@ JOS 15:8	1	10	νώτου			2	back
 JOS 15:8	1	11	Ἰεβοὺς	Ἰεβούς	indeclinable place name, genitive in context	1	of Jebus
 JOS 15:8	1	12	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 JOS 15:8	1	13	ἐστὶν	εἰμί	present indicative, third singular	1	is
-JOS 15:8	1	14	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	of Jerusalem
+JOS 15:8	1	14	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, nominative in context	1	Jerusalem
 JOS 15:8	1	15	καὶ	καί	conjunction	1	and
 JOS 15:8	1	16	διεκβάλλει	διεκβάλλω	present active indicative, third singular	1	comes out
 JOS 15:8	1	16	διεκβάλλει			2	runs out
@@ -281,7 +281,7 @@ JOS 15:9	1	3	τὸ	ὁ	article, nominative neuter singular	1	the
 JOS 15:9	1	4	ὅριον	ὅριον	noun, nominative neuter singular	1	boundary
 JOS 15:9	1	5	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOS 15:9	1	6	κορυφῆς	κορυφή	noun, genitive feminine singular	1	the top
-JOS 15:9	1	7	τοῦ	ὁ	article, genitive singular	1	the
+JOS 15:9	1	7	τοῦ	ὁ	article, genitive singular	1	of the
 JOS 15:9	1	8	ὄρους	ὄρος	noun, genitive neuter singular	1	mountain
 JOS 15:9	1	9	ἐπὶ	ἐπί	preposition governing the accusative	1	to
 JOS 15:9	1	10	πηγὴν	πηγή	noun, accusative feminine singular	1	spring
@@ -417,9 +417,9 @@ JOS 15:13	1	7	μερίδα			2	piece
 JOS 15:13	1	8	ἐν	ἐν	preposition with the dative	1	in
 JOS 15:13	1	9	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
 JOS 15:13	1	9	μέσῳ			2	the middle
-JOS 15:13	1	10	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+JOS 15:13	1	10	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 JOS 15:13	1	11	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
-JOS 15:13	1	12	διὰ	διά	preposition with genitive	1	through
+JOS 15:13	1	12	διὰ	διά	preposition with genitive	1	according to
 JOS 15:13	1	13	προστάγματος	πρόσταγμα	noun, genitive neuter singular	1	command
 JOS 15:13	1	14	τοῦ	ὁ	article, genitive masculine singular	1	of
 JOS 15:13	1	15	Θεοῦ	θεός	noun, genitive masculine singular	1	God
@@ -507,15 +507,15 @@ JOS 15:16	1	20	εἰς	εἰς	preposition with the accusative	1	into
 JOS 15:16	1	21	γυναῖκα	γυνή	noun, accusative feminine singular	1	wife
 JOS 15:17	1	1	Καὶ	καί	conjunction	1	and
 JOS 15:17	1	2	ἔλαβεν	λαμβάνω	aorist active indicative, third singular	1	he took
-JOS 15:17	1	3	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
+JOS 15:17	1	3	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 JOS 15:17	1	4	Γοθονιὴλ	Γοθονιήλ	indeclinable personal name, nominative in context	1	Gothoniel
 JOS 15:17	1	4	Γοθονιὴλ			2	Othniel
 JOS 15:17	1	5	υἱὸς	υἱός	noun, nominative masculine singular	1	a son
-JOS 15:17	1	6	Κενέζ	Κενέζ	indeclinable personal name, nominative in context	1	Kenez
+JOS 15:17	1	6	Κενέζ	Κενέζ	indeclinable personal name, nominative in context	1	of Kenaz
 JOS 15:17	1	7	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
 JOS 15:17	1	8	Χάλεβ	Χάλεβ	indeclinable personal name, nominative in context	1	Caleb
 JOS 15:17	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
-JOS 15:17	1	10	νεώτερος	νέος	comparative adjective, nominative masculine singular after ὁ, 'the younger/youngest'	1	youngest
+JOS 15:17	1	10	νεώτερος	νέος	comparative adjective, nominative masculine singular after ὁ, 'the younger/youngest'	1	younger
 JOS 15:17	1	11	καὶ	καί	coordinating conjunction	1	and
 JOS 15:17	1	12	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
 JOS 15:17	1	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -542,7 +542,7 @@ JOS 15:18	1	11	αἰτήσομαι	αἰτέω	future middle indicative, first s
 JOS 15:18	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 15:18	1	13	πατέρα	πατήρ	noun, accusative masculine singular after πρός/accusative from context	1	father
 JOS 15:18	1	14	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-JOS 15:18	1	15	ἀγρόν	ἀγρός	noun, accusative masculine singular	1	field
+JOS 15:18	1	15	ἀγρόν	ἀγρός	noun, accusative masculine singular	1	for a field
 JOS 15:18	1	16	Καὶ	καί	conjunction	1	and
 JOS 15:18	1	17	ἐβόησεν	βοάω	aorist active indicative, third singular	1	she called out
 JOS 15:18	1	18	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -579,12 +579,12 @@ JOS 15:19	1	20	Χάλεβ	Χάλεβ	indeclinable personal name, nominative in c
 JOS 15:19	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 15:19	1	22	Γωλὰθ	Γωλάθ	indeclinable place name, nominative in context	1	Golath
 JOS 15:19	1	23	τὴν	ὁ	article, accusative feminine singular	1	the
-JOS 15:19	1	24	ἄνω	ἄνω	adverb, above	1	above
+JOS 15:19	1	24	ἄνω	ἄνω	adverb, above	1	upper
 JOS 15:19	1	25	καὶ	καί	conjunction	1	and
 JOS 15:19	1	26	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 15:19	1	27	Γωλὰθ	Γωλάθ	indeclinable place name, nominative in context	1	Golath
 JOS 15:19	1	28	τὴν	ὁ	article, accusative feminine singular	1	the
-JOS 15:19	1	29	κάτω	κάτω	adverb, below	1	below
+JOS 15:19	1	29	κάτω	κάτω	adverb, below	1	lower
 JOS 15:20	1	1	Αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 JOS 15:20	1	2	ἡ	ὁ	article, nominative feminine singular	1	the
 JOS 15:20	1	3	κληρονομία	κληρονομία	noun, nominative feminine singular	1	inheritance
@@ -663,12 +663,12 @@ JOS 15:28	1	4	Βηρσαβεὲ			2	Bathsheba
 JOS 15:28	1	5	καὶ	καί	conjunction	1	and
 JOS 15:28	1	6	αἱ	ὁ	article, nominative feminine plural	1	the
 JOS 15:28	1	7	κῶμαι	κώμη	noun, nominative feminine plural	1	villages
-JOS 15:28	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	its
+JOS 15:28	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JOS 15:28	1	9	καὶ	καί	conjunction	1	and
 JOS 15:28	1	10	αἱ	ὁ	article, nominative feminine plural	1	the
 JOS 15:28	1	11	ἐπαύλεις	ἔπαυλις	noun, nominative feminine plural	1	settlements
 JOS 15:28	1	11	ἐπαύλεις			2	outlying hamlets
-JOS 15:28	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	its
+JOS 15:28	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JOS 15:29	1	1	Βααλὰ	Βααλά	indeclinable place name, nominative in context	1	Baala
 JOS 15:29	1	2	καὶ	καί	conjunction	1	and
 JOS 15:29	1	3	Αὐεὶμ	Αὐείμ	indeclinable place name, nominative in context	1	Aueim
@@ -1060,15 +1060,15 @@ JOS 15:63	1	3	Ἰεβουσαῖος	Ἰεβουσαῖος	noun, nominative mas
 JOS 15:63	1	4	κατῴκει	κατοικέω	imperfect active indicative, third singular	1	was dwelling
 JOS 15:63	1	4	κατῴκει			2	was living
 JOS 15:63	1	5	ἐν	ἐν	preposition with the dative	1	in
-JOS 15:63	1	6	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	of Jerusalem
+JOS 15:63	1	6	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, dative in context	1	Jerusalem
 JOS 15:63	1	7	καὶ	καί	conjunction	1	and
 JOS 15:63	1	8	οὐκ	οὐ	particle	1	not
 JOS 15:63	1	9	ἠδυνήθησαν	δύναμαι	aorist passive indicative, third plural	1	were able
 JOS 15:63	1	10	οἱ	ὁ	article, nominative masculine plural	1	the
 JOS 15:63	1	11	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 JOS 15:63	1	12	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
-JOS 15:63	1	13	ἀπολέσαι	ἀπόλλυμι	aorist active infinitive	1	to remove
-JOS 15:63	1	13	ἀπολέσαι			2	to destroy
+JOS 15:63	1	13	ἀπολέσαι	ἀπόλλυμι	aorist active infinitive	1	to destroy
+JOS 15:63	1	13	ἀπολέσαι			2	to remove
 JOS 15:63	1	14	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 JOS 15:63	1	15	καὶ	καί	conjunction	1	and
 JOS 15:63	1	16	κατῴκησαν	κατοικέω	aorist active indicative, third plural	1	they settled

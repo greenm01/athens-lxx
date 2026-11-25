@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 DEU 13:1	1	1	ΕΑΝ	ἐάν	conditional conjunction	1	if
 DEU 13:1	1	2	δὲ	δέ	postpositive conjunction	1	and
 DEU 13:1	1	3	ἀναστῇ	ἀνίστημι	aorist active subjunctive, 3rd singular	1	arises
-DEU 13:1	1	4	ἐν	ἐν	preposition with the dative	1	in
+DEU 13:1	1	4	ἐν	ἐν	preposition with the dative	1	among
 DEU 13:1	1	5	σοὶ	σύ	pronoun, dative 2nd singular	1	you
 DEU 13:1	1	6	προφήτης	προφήτης	noun, nominative masculine singular	1	prophet
 DEU 13:1	1	7	ἢ	ἤ	conjunction	1	or
@@ -56,7 +56,7 @@ DEU 13:3	1	18	Θεὸς	θεός	noun, nominative masculine singular	1	God
 DEU 13:3	1	19	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 13:3	1	20	ὑμᾶς	σύ	pronoun, accusative 2nd plural	1	you
 DEU 13:3	1	21	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-DEU 13:3	1	22	εἰδέναι	οἶδα	perfect active infinitive	1	know
+DEU 13:3	1	22	εἰδέναι	οἶδα	perfect active infinitive	1	to know
 DEU 13:3	1	23	εἰ	εἰ	conjunction	1	whether
 DEU 13:3	1	24	ὑμεῖς	σύ	pronoun, nominative 2nd pl. emphatic subject	1	you
 DEU 13:3	1	25	ἀγαπᾶτε	ἀγαπάω	present active indicative, 2nd plural	1	love
@@ -150,7 +150,7 @@ DEU 13:5	1	47	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 DEU 13:5	1	48	καὶ	καί	conjunction	1	and
 DEU 13:5	1	49	ἀφανιεῖτε	ἀφανίζω	future active indicative, 2nd plural	1	shall put away
 DEU 13:5	1	50	τὸν	ὁ	definite article, accusative masculine singular	1	the
-DEU 13:5	1	51	πονηρὸν	πονηρός	adjective, accusative masculine singular	1	evil one
+DEU 13:5	1	51	πονηρὸν	πονηρός	adjective, accusative masculine singular	1	evil
 DEU 13:5	1	52	ἐξ	ἐκ	preposition with the genitive	1	from
 DEU 13:5	1	53	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	you
 DEU 13:5	1	54	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	yourselves
@@ -180,7 +180,7 @@ DEU 13:6	1	23	ἢ	ἤ	conjunction	1	or
 DEU 13:6	1	24	ἡ	ὁ	definite article, nominative feminine singular	1	the
 DEU 13:6	1	25	γυνή	γυνή	noun, nominative feminine singular	1	wife
 DEU 13:6	1	26	σου	σύ	pronoun, genitive 2nd singular	1	your
-DEU 13:6	1	27	ἡ	ὁ	definite article, nominative feminine singular	1	the
+DEU 13:6	1	27	ἡ	ὁ	definite article, nominative feminine singular	1	who is
 DEU 13:6	1	28	ἐν	ἐν	preposition with the dative	1	in
 DEU 13:6	1	29	κόλπῳ	κόλπος	noun, dative masculine singular	1	bosom
 DEU 13:6	1	30	σου	σύ	pronoun, genitive 2nd singular	1	your
@@ -228,18 +228,18 @@ DEU 13:7	1	17	σοῦ	σύ	pronoun, genitive 2nd singular	1	you
 DEU 13:7	1	18	ἀπ᾽	ἀπό	preposition, elided	1	from
 DEU 13:7	1	19	ἄκρου	ἄκρον	noun, genitive neuter singular	1	end
 DEU 13:7	1	20	τῆς	ὁ	definite article, genitive feminine singular	1	the
-DEU 13:7	1	21	γῆς	γῆ	noun, genitive feminine singular	1	land
+DEU 13:7	1	21	γῆς	γῆ	noun, genitive feminine singular	1	earth
 DEU 13:7	1	22	ἕως	ἕως	preposition with the genitive	1	as far as
 DEU 13:7	1	23	ἄκρου	ἄκρον	noun, genitive neuter singular	1	end
 DEU 13:7	1	24	τῆς	ὁ	definite article, genitive feminine singular	1	the
-DEU 13:7	1	25	γῆς	γῆ	noun, genitive feminine singular	1	land
+DEU 13:7	1	25	γῆς	γῆ	noun, genitive feminine singular	1	earth
 DEU 13:8	1	1	οὐ	οὐ	negative adverb with future indicative	1	not
 DEU 13:8	1	2	συνθελήσεις	συνθέλω	future active indicative, 2nd singular	1	consent
 DEU 13:8	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 DEU 13:8	1	4	καὶ	καί	conjunction	1	and
 DEU 13:8	1	5	οὐκ	οὐ	negative adverb	1	not
 DEU 13:8	1	6	εἰσακούσῃ	εἰσακούω	future middle indicative, 2nd singular	1	listen to
-DEU 13:8	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
+DEU 13:8	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 DEU 13:8	1	8	καὶ	καί	conjunction	1	and
 DEU 13:8	1	9	οὐ	οὐ	negative adverb with future indicative	1	not
 DEU 13:8	1	10	φείσεται	φείδομαι	future middle indicative, 3rd singular	1	shall spare
@@ -258,7 +258,7 @@ DEU 13:8	1	22	μὴ	μή	negative particle	1	not
 DEU 13:8	1	23	σκεπάσῃς	σκεπάζω	aorist active subjunctive, 2nd singular	1	conceal
 DEU 13:8	1	24	ἐπ᾽	ἐπί	preposition ἐπί, elided	1	over
 DEU 13:8	1	25	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
-DEU 13:9	1	1	ἀναγγέλλων	ἀναγγέλλω	present active participle, nominative masculine singular	1	surely
+DEU 13:9	1	1	ἀναγγέλλων	ἀναγγέλλω	present active participle, nominative masculine singular	1	reporting
 DEU 13:9	1	2	ἀναγγελεῖς	ἀναγγέλλω	future active indicative, 2nd singular	1	shall report
 DEU 13:9	1	3	περὶ	περί	preposition with the genitive	1	concerning
 DEU 13:9	1	4	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
@@ -282,7 +282,7 @@ DEU 13:9	1	21	λαοῦ	λαός	noun, genitive masculine singular	1	people
 DEU 13:9	1	22	ἐπ᾽	ἐπί	preposition, elided	1	at
 DEU 13:9	1	23	ἐσχάτῳ	ἔσχατος	adjective, dative neuter singular	1	last
 DEU 13:10	1	1	καὶ	καί	conjunction	1	and
-DEU 13:10	1	2	λιθοβολήσουσιν	λιθοβολέω	future active indicative, 3rd plural	1	shall stone
+DEU 13:10	1	2	λιθοβολήσουσιν	λιθοβολέω	future active indicative, 3rd plural	1	they shall stone
 DEU 13:10	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 DEU 13:10	1	4	ἐν	ἐν	preposition with the dative	1	in
 DEU 13:10	1	5	λίθοις	λίθος	noun, dative masculine plural	1	stones
@@ -307,7 +307,7 @@ DEU 13:10	1	23	ἐξ	ἐκ	preposition with the genitive	1	from
 DEU 13:10	1	24	οἴκου	οἶκος	noun, genitive masculine singular	1	house of
 DEU 13:10	1	25	δουλείας	δουλεία	noun, genitive feminine singular	1	bondage
 DEU 13:11	1	1	καὶ	καί	conjunction	1	and
-DEU 13:11	1	2	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+DEU 13:11	1	2	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 DEU 13:11	1	3	Ἰσραὴλ	Ἰσραήλ	people name, nominative singular	1	Israel
 DEU 13:11	1	4	ἀκούσας	ἀκούω	aorist active participle, nominative masculine singular	1	hearing
 DEU 13:11	1	5	φοβηθήσεται	φοβέομαι	future passive indicative, 3rd singular	1	shall fear
@@ -321,7 +321,7 @@ DEU 13:11	1	12	τὸ	ὁ	definite article, nominative/accusative neuter singular
 DEU 13:11	1	13	πονηρὸν	πονηρός	adjective, accusative neuter singular	1	evil
 DEU 13:11	1	14	ῥῆμα	ῥῆμα	noun, accusative neuter singular	1	thing
 DEU 13:11	1	15	τοῦτο	οὗτος	demonstrative pronoun, nominative/accusative neuter singular	1	this
-DEU 13:11	1	16	ἐν	ἐν	preposition with the dative	1	in
+DEU 13:11	1	16	ἐν	ἐν	preposition with the dative	1	among
 DEU 13:11	1	17	ὑμῖν	σύ	pronoun, dative 2nd plural	1	you
 DEU 13:12	1	1	Ἐὰν	ἐάν	conditional conjunction	1	if
 DEU 13:12	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -380,7 +380,7 @@ DEU 13:14	1	14	γεγένηται	γίνομαι	perfect middle indicative, 3rd 
 DEU 13:14	1	15	τὸ	ὁ	definite article, nominative/accusative neuter singular	1	the
 DEU 13:14	1	16	βδέλυγμα	βδέλυγμα	noun, nominative neuter singular	1	abomination
 DEU 13:14	1	17	τοῦτο	οὗτος	demonstrative pronoun, nominative/accusative neuter singular	1	this
-DEU 13:14	1	18	ἐν	ἐν	preposition with the dative	1	in
+DEU 13:14	1	18	ἐν	ἐν	preposition with the dative	1	among
 DEU 13:14	1	19	ὑμῖν	σύ	pronoun, dative 2nd plural	1	you
 DEU 13:15	1	1	ἀνελὼν	ἀναιρέω	aorist active participle, nominative masculine singular	1	surely
 DEU 13:15	1	2	ἀνελεῖς	ἀναιρέω	future active indicative, 2nd singular	1	shall slay
@@ -392,8 +392,8 @@ DEU 13:15	1	7	τῇ	ὁ	definite article, dative feminine singular	1	the
 DEU 13:15	1	8	πόλει	πόλις	noun, dative feminine singular	1	city
 DEU 13:15	1	9	ἐκείνῃ	ἐκεῖνος	demonstrative adjective, dative feminine singular	1	that
 DEU 13:15	1	10	ἐν	ἐν	preposition with the dative	1	in
-DEU 13:15	1	11	φόνῳ	φόνος	noun, dative masculine singular	1	edge
-DEU 13:15	1	12	μαχαίρας	μάχαιρα	noun, genitive feminine singular	1	sword
+DEU 13:15	1	11	φόνῳ	φόνος	noun, dative masculine singular	1	slaughter
+DEU 13:15	1	12	μαχαίρας	μάχαιρα	noun, genitive feminine singular	1	of the sword
 DEU 13:15	1	13	ἀναθέματι	ἀνάθεμα	noun, dative neuter singular	1	utterly
 DEU 13:15	1	14	ἀναθεματιεῖτε	ἀναθεματίζω	future active indicative, 2nd plural	1	shall devote to destruction
 DEU 13:15	1	15	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
@@ -401,7 +401,7 @@ DEU 13:15	1	16	καὶ	καί	conjunction	1	and
 DEU 13:15	1	17	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 DEU 13:15	1	18	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 DEU 13:15	1	19	ἐν	ἐν	preposition with the dative	1	in
-DEU 13:15	1	20	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	her
+DEU 13:15	1	20	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 DEU 13:16	1	1	καὶ	καί	conjunction	1	and
 DEU 13:16	1	2	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 DEU 13:16	1	3	κτήνη	κτῆνος	noun, accusative neuter plural	1	cattle
@@ -430,7 +430,7 @@ DEU 13:16	1	25	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 DEU 13:16	1	26	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 DEU 13:16	1	27	σκῦλα	σκῦλον	noun, accusative neuter plural	1	spoil
 DEU 13:16	1	28	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
-DEU 13:16	1	29	πανδημεὶ	πανδημεί	adverb	1	wholly
+DEU 13:16	1	29	πανδημεὶ	πανδημεί	adverb	1	with all the people
 DEU 13:16	1	30	ἔναντι	ἔναντι	preposition with the genitive	1	before
 DEU 13:16	1	31	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 DEU 13:16	1	32	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
@@ -466,7 +466,7 @@ DEU 13:17	1	18	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	h
 DEU 13:17	1	19	καὶ	καί	conjunction	1	and
 DEU 13:17	1	20	δώσει	δίδωμι	future active indicative, 3rd singular	1	gives
 DEU 13:17	1	21	σοι	σύ	pronoun, dative 2nd singular	1	to you
-DEU 13:17	1	22	ἔλεος	ἔλεος	noun, accusative neuter singular	1	mercies
+DEU 13:17	1	22	ἔλεος	ἔλεος	noun, accusative neuter singular	1	mercy
 DEU 13:17	1	23	καὶ	καί	conjunction	1	and
 DEU 13:17	1	24	πληθυνεῖ	πληθύνω	future active indicative, 3rd singular	1	shall multiply
 DEU 13:17	1	25	σε	σύ	pronoun, accusative 2nd singular	1	you

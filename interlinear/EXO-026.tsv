@@ -22,7 +22,7 @@ EXO 26:1	1	20	ποιήσεις	ποιέω	future active indicative, second singu
 EXO 26:1	1	21	αὐτάς	αὐτός	pronoun, accusative fem. pl.	1	them
 EXO 26:2	1	1	Μῆκος	μῆκος	noun, accusative neut. sg. after τὸ, length	1	the length
 EXO 26:2	1	2	τῆς	ὁ	article, genitive feminine singular	1	the
-EXO 26:2	1	3	αὐλαίας	αὐλαία	noun, accusative fem. pl., in apposition	1	curtains
+EXO 26:2	1	3	αὐλαίας	αὐλαία	noun, genitive feminine singular	1	curtain
 EXO 26:2	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 26:2	1	5	μιᾶς	εἷς	cardinal numeral, genitive fem. sg. with αὐλαίας	1	one
 EXO 26:2	1	6	ὀκτὼ	ὀκτώ	indeclinable cardinal numeral	1	eight
@@ -72,7 +72,7 @@ EXO 26:4	1	6	ἐπὶ	ἐπί	preposition	1	on/upon
 EXO 26:4	1	7	τοῦ	ὁ	article, genitive singular	1	the
 EXO 26:4	1	8	χείλους	χεῖλος	noun, genitive neut. sg. after ἐπὶ τοῦ/τοῦ	1	edge
 EXO 26:4	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
-EXO 26:4	1	10	αὐλαίας	αὐλαία	noun, accusative fem. pl.	1	curtains
+EXO 26:4	1	10	αὐλαίας	αὐλαία	noun, genitive feminine singular	1	curtain
 EXO 26:4	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 26:4	1	12	μιᾶς	εἷς	cardinal numeral, genitive fem. sg. with αὐλαίας	1	one
 EXO 26:4	1	13	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -89,7 +89,7 @@ EXO 26:4	1	23	ἐπὶ	ἐπί	preposition	1	on/upon
 EXO 26:4	1	24	τοῦ	ὁ	article, genitive singular	1	the
 EXO 26:4	1	25	χείλους	χεῖλος	noun, genitive neut. sg. after ἐπὶ τοῦ/τοῦ	1	edge
 EXO 26:4	1	26	τῆς	ὁ	article, genitive feminine singular	1	the
-EXO 26:4	1	27	αὐλαίας	αὐλαία	noun, accusative fem. pl.	1	curtains
+EXO 26:4	1	27	αὐλαίας	αὐλαία	noun, genitive feminine singular	1	curtain
 EXO 26:4	1	28	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 26:4	1	29	ἐξωτέρας	ἐξώτερος	comparative adjective, genitive fem. sg. with αὐλαίας, outer/edge	1	outer
 EXO 26:4	1	30	πρὸς	πρός	preposition with the dative	1	at
@@ -113,8 +113,8 @@ EXO 26:5	1	13	ἐκ	ἐκ	preposition with the genitive	1	from
 EXO 26:5	1	14	τοῦ	ὁ	article, genitive singular	1	the
 EXO 26:5	1	15	μέρους	μέρος	noun, genitive neut. sg. after ἐκ τοῦ/ἐπὶ μέρους construction, side/part	1	side
 EXO 26:5	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
-EXO 26:5	1	17	αὐλαίας	αὐλαία	noun, accusative fem. pl.	1	curtains
-EXO 26:5	1	18	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 26:5	1	17	αὐλαίας	αὐλαία	noun, genitive feminine singular	1	curtain
+EXO 26:5	1	18	κατὰ	κατά	preposition with genitive Μωυσῆ	1	at
 EXO 26:5	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 26:5	1	20	συμβολὴν	συμβολή	noun, accusative fem. sg. after κατὰ τὴν	1	joining
 EXO 26:5	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -201,7 +201,7 @@ EXO 26:9	1	18	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 26:9	1	19	δέῤῥιν	δέῤῥις	noun, accusative fem. sg. after τὴν	1	cloth
 EXO 26:9	1	20	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 26:9	1	21	ἕκτην	ἕκτος	ordinal adjective, accusative fem. sg. with δέῤῥιν	1	sixth
-EXO 26:9	1	22	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 26:9	1	22	κατὰ	κατά	preposition with genitive Μωυσῆ	1	at
 EXO 26:9	1	23	πρόσωπον	πρόσωπον	noun, accusative neut. sg. after κατὰ, front/face	1	the front
 EXO 26:9	1	24	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 26:9	1	25	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	1	tent/tabernacle
@@ -218,7 +218,7 @@ EXO 26:10	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 26:10	1	11	μιᾶς	εἷς	cardinal numeral, genitive fem. sg. with αὐλαίας	1	one
 EXO 26:10	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 26:10	1	13	ἀναμέσον	ἀνὰ μέσον	preposition as one word with genitive, through the midst of	1	through the midst of
-EXO 26:10	1	14	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 26:10	1	14	κατὰ	κατά	preposition with genitive Μωυσῆ	1	at
 EXO 26:10	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 26:10	1	16	συμβολήν	συμβολή	noun, accusative fem. sg. after εἰς τὴν, junction/joining	1	the joining
 EXO 26:10	1	17	καὶ	καί	conjunction	1	and
@@ -304,9 +304,9 @@ EXO 26:13	1	21	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 26:13	1	22	πλάγια	πλάγιον	noun/adjective, accusative neut. pl. after ἐπὶ τὰ, sides	1	sides
 EXO 26:13	1	23	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 26:13	1	24	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	1	tent/tabernacle
-EXO 26:13	1	25	ἔνθεν	ἔνθεν	adverb repeated ἔνθεν καὶ ἔνθεν 'on this side and on that'	1	on this side and on that
+EXO 26:13	1	25	ἔνθεν	ἔνθεν	adverb of place	1	on this side
 EXO 26:13	1	26	καὶ	καί	conjunction	1	and
-EXO 26:13	1	27	ἔνθεν	ἔνθεν	adverb repeated ἔνθεν καὶ ἔνθεν 'on this side and on that'	1	on this side and on that
+EXO 26:13	1	27	ἔνθεν	ἔνθεν	adverb of place	1	on the other side
 EXO 26:13	1	28	ἵνα	ἵνα	conjunction	1	so that
 EXO 26:13	1	29	καλύπτῃ	καλύπτω	present active subjunctive, 3rd sg. after ἵνα, it covers	1	it may cover
 EXO 26:14	1	1	Καὶ	καί	conjunction	1	and
@@ -359,7 +359,7 @@ EXO 26:17	1	9	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 26:17	1	10	ἑτέρῳ	ἕτερος	adjective/pronoun, dative masc. sg. after τῷ	1	other
 EXO 26:17	1	11	οὕτω	οὕτως	adverb	1	thus
 EXO 26:17	1	12	ποιήσεις	ποιέω	future active indicative, second singular	1	you shall make
-EXO 26:17	1	13	πᾶσι	πᾶς	adjective, dative neuter plural	1	with all
+EXO 26:17	1	13	πᾶσι	πᾶς	adjective, dative neuter plural	1	for all
 EXO 26:17	1	14	τοῖς	ὁ	article, dative neuter plural	1	the
 EXO 26:17	1	15	στύλοις	στῦλος	noun, dative masc. pl. after τοῖς/πᾶσι τοῖς	1	posts
 EXO 26:17	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -391,7 +391,7 @@ EXO 26:19	1	11	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 26:19	1	12	στύλῳ	στῦλος	noun, dative masc. sg. after τῷ	1	post
 EXO 26:19	1	13	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 26:19	1	14	ἑνὶ	εἷς	cardinal numeral, dative masc. sg. after τῷ in ὄνομα τῷ ἑνὶ 'the name of the one'	1	the one
-EXO 26:19	1	15	εἰς	εἰς	preposition with accusative	1	into
+EXO 26:19	1	15	εἰς	εἰς	preposition with accusative	1	for
 EXO 26:19	1	16	ἀμφότερα	ἀμφότερος	adjective, accusative neut. pl. in εἰς ἀμφότερα τὰ μέρη 'for both its sides/tenons'	1	both
 EXO 26:19	1	17	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 26:19	1	18	μέρη	μέρος	noun, accusative neut. pl. after τὰ, sides/tenon-parts	1	parts
@@ -403,7 +403,7 @@ EXO 26:19	1	23	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 26:19	1	24	στύλῳ	στῦλος	noun, dative masc. sg. after τῷ	1	post
 EXO 26:19	1	25	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 26:19	1	26	ἑνὶ	εἷς	cardinal numeral, dative masc. sg. after τῷ in ὄνομα τῷ ἑνὶ 'the name of the one'	1	the one
-EXO 26:19	1	27	εἰς	εἰς	preposition with accusative	1	into
+EXO 26:19	1	27	εἰς	εἰς	preposition with accusative	1	for
 EXO 26:19	1	28	ἀμφότερα	ἀμφότερος	adjective, accusative neut. pl. in εἰς ἀμφότερα τὰ μέρη 'for both its sides/tenons'	1	both
 EXO 26:19	1	29	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 26:19	1	30	μέρη	μέρος	noun, accusative neut. pl. after τὰ, sides/tenon-parts	1	parts
@@ -429,7 +429,7 @@ EXO 26:21	1	8	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 26:21	1	9	στύλῳ	στῦλος	noun, dative masc. sg. after τῷ	1	post
 EXO 26:21	1	10	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 26:21	1	11	ἑνὶ	εἷς	cardinal numeral, dative masc. sg. after τῷ in ὄνομα τῷ ἑνὶ 'the name of the one'	1	the one
-EXO 26:21	1	12	εἰς	εἰς	preposition with accusative	1	into
+EXO 26:21	1	12	εἰς	εἰς	preposition with accusative	1	for
 EXO 26:21	1	13	ἀμφότερα	ἀμφότερος	adjective, accusative neut. pl. in εἰς ἀμφότερα τὰ μέρη 'for both its sides/tenons'	1	both
 EXO 26:21	1	14	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 26:21	1	15	μέρη	μέρος	noun, accusative neut. pl. after τὰ, sides/tenon-parts	1	parts
@@ -441,7 +441,7 @@ EXO 26:21	1	20	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 26:21	1	21	στύλῳ	στῦλος	noun, dative masc. sg. after τῷ	1	post
 EXO 26:21	1	22	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 26:21	1	23	ἑνὶ	εἷς	cardinal numeral, dative masc. sg. after τῷ in ὄνομα τῷ ἑνὶ 'the name of the one'	1	the one
-EXO 26:21	1	24	εἰς	εἰς	preposition with accusative	1	into
+EXO 26:21	1	24	εἰς	εἰς	preposition with accusative	1	for
 EXO 26:21	1	25	ἀμφότερα	ἀμφότερος	adjective, accusative neut. pl. in εἰς ἀμφότερα τὰ μέρη 'for both its sides/tenons'	1	both
 EXO 26:21	1	26	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 26:21	1	27	μέρη	μέρος	noun, accusative neut. pl. after τὰ, sides/tenon-parts	1	parts
@@ -452,7 +452,7 @@ EXO 26:22	1	3	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 26:22	1	4	ὀπίσω	ὀπίσω	adverb/preposition, behind/at the back	1	at the back
 EXO 26:22	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 26:22	1	6	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	1	tent/tabernacle
-EXO 26:22	1	7	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 26:22	1	7	κατὰ	κατά	preposition with genitive Μωυσῆ	1	on
 EXO 26:22	1	8	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 26:22	1	9	μέρος	μέρος	noun, accusative neut. sg. after κατὰ τὸ/ἐπὶ μέρος construction	1	side/part
 EXO 26:22	1	10	τὸ	ὁ	article, nominative neuter singular	1	the
@@ -479,11 +479,11 @@ EXO 26:24	1	3	ἐξ	ἐκ	preposition with the genitive	1	from
 EXO 26:24	1	4	ἴσου	ἴσος	adjective, genitive neut. sg. after ἐξ in ἐξ ἴσου 'even/together	1	even
 EXO 26:24	1	5	κάτωθεν	κάτωθεν	adverb, from below/beneath	1	below
 EXO 26:24	1	6	καὶ	καί	conjunction	1	and
-EXO 26:24	1	7	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 26:24	1	7	κατὰ	κατά	preposition with genitive Μωυσῆ	1	in
 EXO 26:24	1	8	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 26:24	1	9	αὐτὸ	αὐτός	pronoun, nominative neut. sg. after τὸ with μέτρον, same	1	the same
 EXO 26:24	1	10	ἔσονται	εἰμί	future indicative, 3rd pl.	1	shall be
-EXO 26:24	1	11	ἴσοι	ἴσος	adjective, nominative masc. pl.	1	joined (equal)
+EXO 26:24	1	11	ἴσοι	ἴσος	adjective, nominative masc. pl.	1	equal
 EXO 26:24	1	12	ἐκ	ἐκ	preposition with the genitive	1	from
 EXO 26:24	1	13	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 26:24	1	14	κεφαλίδων	κεφαλίς	noun, genitive fem. pl. after ἐκ τῶν, tops/capitals or heads	1	tops
@@ -574,13 +574,13 @@ EXO 26:28	1	6	ἀναμέσον	ἀνὰ μέσον	preposition as one word with
 EXO 26:28	1	7	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 26:28	1	8	στύλων	στῦλος	noun, genitive masc. pl. after τῶν	1	posts
 EXO 26:28	1	9	διϊκνείσθω	διικνέομαι	present middle imperative, 3rd sg.	1	let it pass through
-EXO 26:28	1	10	ἀπὸ	ἀπό	preposition with the genitive	1	by
+EXO 26:28	1	10	ἀπὸ	ἀπό	preposition with the genitive	1	from
 EXO 26:28	1	11	τοῦ	ὁ	article, genitive singular	1	the
 EXO 26:28	1	12	ἑνὸς	εἷς	cardinal numeral, genitive sg. with πήχεως/στύλου	1	one
 EXO 26:28	1	13	κλίτους	κλίτος	noun, genitive neut. sg. after τοῦ ἐκ τοῦ	1	side
-EXO 26:28	1	14	εἰς	εἰς	preposition with accusative	1	into
+EXO 26:28	1	14	εἰς	εἰς	preposition with accusative	1	to
 EXO 26:28	1	15	τὸ	ὁ	article, nominative neuter singular	1	the
-EXO 26:28	1	16	ἕτερον	ἕτερος	adjective, accusative masc. sg. in ἕτερον τῷ ἑτέρῳ 'one to the other'	1	one
+EXO 26:28	1	16	ἕτερον	ἕτερος	adjective, accusative neuter singular	1	other
 EXO 26:28	1	17	κλίτος	κλίτος	noun, nominative/accusative neut. sg. after τὸ, side	1	side
 EXO 26:29	1	1	Καὶ	καί	conjunction	1	and
 EXO 26:29	1	2	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -593,7 +593,7 @@ EXO 26:29	1	8	δακτυλίους	δακτύλιος	noun, accusative masc. pl.
 EXO 26:29	1	9	ποιήσεις	ποιέω	future active indicative, second singular	1	you shall make
 EXO 26:29	1	10	χρυσοῦς	χρυσοῦς	adjective, accusative masc. pl., golden	1	golden
 EXO 26:29	1	11	εἰς	εἰς	preposition with accusative	1	into
-EXO 26:29	1	12	οὓς	ὅς	relative pronoun, accusative masc. pl.	1	whom
+EXO 26:29	1	12	οὓς	ὅς	relative pronoun, accusative masc. pl.	1	which
 EXO 26:29	1	13	εἰσάξεις	εἰσάγω	future active indicative, 2nd sg.	1	you shall put (insert)
 EXO 26:29	1	14	τοὺς	ὁ	article, accusative masculine plural	1	the
 EXO 26:29	1	15	μοχλούς	μοχλός	noun, accusative masc. pl. after τοὺς	1	bars

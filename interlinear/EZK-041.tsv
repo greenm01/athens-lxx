@@ -9,8 +9,8 @@ EZK 41:1	1	6	ναὸν			2	sanctuary
 EZK 41:1	1	7	καὶ	καί	conjunction	1	and
 EZK 41:1	1	8	διεμέτρησε	διαμετρέω	aorist active indicative, third singular	1	he measured out
 EZK 41:1	1	9	τὸ	ὁ	article, nominative neuter singular	1	the
-EZK 41:1	1	10	Αἰλὰμ	αἰλάμ	indeclinable transliterated architectural term	1	ailam
-EZK 41:1	1	10	Αἰλὰμ			2	porch
+EZK 41:1	1	10	Αἰλὰμ	αἰλάμ	indeclinable transliterated architectural term	1	porch
+EZK 41:1	1	10	Αἰλὰμ			2	ailam
 EZK 41:1	1	11	πήχεις	πῆχυς	noun, accusative masculine plural; measure of extent	1	cubits
 EZK 41:1	1	12	ἕξ	ἕξ	indeclinable cardinal numeral	1	six
 EZK 41:1	1	13	τὸ	ὁ	article, nominative neuter singular	1	the
@@ -22,8 +22,8 @@ EZK 41:2	1	3	ἕξ	ἕξ	indeclinable cardinal numeral	1	six
 EZK 41:2	1	4	τὸ	ὁ	article, nominative neuter singular	1	the
 EZK 41:2	1	5	εὖρος	εὖρος	noun, nominative neut. sg	1	the breadth
 EZK 41:2	1	6	τοῦ	ὁ	article, genitive singular	1	the
-EZK 41:2	1	7	Αἰλὰμ	αἰλάμ	indeclinable transliterated architectural term	1	ailam
-EZK 41:2	1	7	Αἰλὰμ			2	porch
+EZK 41:2	1	7	Αἰλὰμ	αἰλάμ	indeclinable transliterated architectural term	1	porch
+EZK 41:2	1	7	Αἰλὰμ			2	ailam
 EZK 41:2	1	8	ἔνθεν	ἔνθεν	adverb	1	on the other side
 EZK 41:2	1	9	καὶ	καί	conjunction	1	and
 EZK 41:2	1	10	τὸ	ὁ	article, nominative neuter singular	1	the
@@ -84,7 +84,7 @@ EZK 41:3	1	24	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1
 EZK 41:3	1	25	θυρώματος	θύρωμα	noun, genitive neuter singular	1	doorway
 EZK 41:3	1	26	πήχεις	πῆχυς	noun, accusative masculine plural; measure of extent	1	cubits
 EZK 41:3	1	27	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
-EZK 41:3	1	28	ἔνθεν	ἔνθεν	adverb	1	on the other side
+EZK 41:3	1	28	ἔνθεν	ἔνθεν	adverb of place	1	on this side
 EZK 41:3	1	29	καὶ	καί	conjunction	1	and
 EZK 41:3	1	30	πήχεις	πῆχυς	noun, accusative masculine plural; measure of extent	1	cubits
 EZK 41:3	1	31	ἑπτὰ	ἑπτά	cardinal numeral	1	seven
@@ -394,8 +394,8 @@ EZK 41:15	1	30	γωνίαι	γωνία	noun, nominative feminine plural	1	corner
 EZK 41:15	1	30	γωνίαι			2	angles
 EZK 41:15	1	31	καὶ	καί	conjunction	1	and
 EZK 41:15	1	32	τὸ	ὁ	article, accusative neuter singular	1	the
-EZK 41:15	1	33	Αἰλὰμ	αἰλάμ	indeclinable transliterated architectural term	1	ailam
-EZK 41:15	1	33	Αἰλὰμ			2	porch
+EZK 41:15	1	33	Αἰλὰμ	αἰλάμ	indeclinable transliterated architectural term	1	porch
+EZK 41:15	1	33	Αἰλὰμ			2	ailam
 EZK 41:15	1	34	τὸ	ὁ	article, accusative neuter singular	1	the
 EZK 41:15	1	35	ἐξώτερον	ἐξώτερος	adjective, nominative neuter singular	1	outer
 EZK 41:15	1	36	πεφατνωμένα	φατνόω	perfect middle/passive participle, accusative neuter plural	1	paneled
@@ -627,8 +627,8 @@ EZK 41:25	1	21	ξύλα	ξύλον	noun, accusative neuter plural	1	wood
 EZK 41:25	1	22	κατὰ	κατά	preposition with accusative	1	in front of
 EZK 41:25	1	23	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
 EZK 41:25	1	24	τοῦ	ὁ	article, genitive singular	1	the
-EZK 41:25	1	25	Αἰλὰμ	αἰλάμ	indeclinable transliterated architectural term	1	ailam
-EZK 41:25	1	25	Αἰλὰμ			2	porch
+EZK 41:25	1	25	Αἰλὰμ	αἰλάμ	indeclinable transliterated architectural term	1	porch
+EZK 41:25	1	25	Αἰλὰμ			2	ailam
 EZK 41:25	1	26	ἔξωθεν	ἔξωθεν	adverb/preposition with genitive, outside	1	outside
 EZK 41:26	1	1	καὶ	καί	conjunction	1	and
 EZK 41:26	1	2	θυρίδες	θυρίς	noun, nominative feminine plural	1	windows
@@ -643,8 +643,8 @@ EZK 41:26	1	9	εἰς	εἰς	preposition with accusative	1	into
 EZK 41:26	1	10	τὰ	ὁ	article, accusative neuter plural	1	the
 EZK 41:26	1	11	ὀροφώματα	ὀρόφωμα	noun, accusative neuter plural	1	sidewalls
 EZK 41:26	1	12	τοῦ	ὁ	article, genitive masculine singular	1	of the
-EZK 41:26	1	13	Αἰλὰμ	αἰλάμ	indeclinable transliterated architectural term	1	ailam
-EZK 41:26	1	13	Αἰλὰμ			2	porch
+EZK 41:26	1	13	Αἰλὰμ	αἰλάμ	indeclinable transliterated architectural term	1	porch
+EZK 41:26	1	13	Αἰλὰμ			2	ailam
 EZK 41:26	1	14	καὶ	καί	conjunction	1	and
 EZK 41:26	1	15	τὰ	ὁ	article, accusative neuter plural	1	the
 EZK 41:26	1	16	πλευρὰ	πλευρόν	noun nominative neuter plural	1	sides

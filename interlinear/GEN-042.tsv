@@ -1,23 +1,23 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
-GEN 42:1	1	1	ΙΔΩΝ	ΙΔΩΝ	indeclinable personal name, nominative in context	1	IDON
+GEN 42:1	1	1	ΙΔΩΝ	ὁράω	aorist active participle, nominative masculine singular	1	having seen
 GEN 42:1	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 42:1	1	3	Ἰακὼβ	Ἰακώβ	indeclinable personal name, nominative in context	1	Jacob
-GEN 42:1	1	4	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+GEN 42:1	1	4	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 GEN 42:1	1	5	ἐστὶ	εἰμί	present indicative, third singular	1	is
 GEN 42:1	1	6	πράσις	πρᾶσις	noun, nominative feminine singular, 'sale (of grain)' i.e. grain for sale	1	a sale
 GEN 42:1	1	7	ἐν	ἐν	preposition with the dative	1	in
 GEN 42:1	1	8	Αἰγύπτῳ	Αἴγυπτος	place name, dative feminine singular after ἐν	1	Egypt
 GEN 42:1	1	9	εἶπε	λέγω	aorist active indicative, third singular	1	said
-GEN 42:1	1	10	τοῖς	ὁ	article, dative masculine plural	1	the
+GEN 42:1	1	10	τοῖς	ὁ	article, dative masculine plural	1	to the
 GEN 42:1	1	11	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 GEN 42:1	1	12	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 GEN 42:1	1	13	ἱνατί	ἱνατί	interrogative adverb	1	why
 GEN 42:1	1	14	ῥαθυμεῖτε	ῥαθυμέω	present active indicative, second plural	1	do you idle
 GEN 42:2	1	1	Ἰδοὺ	ἰδού	presentative particle	1	behold
 GEN 42:2	1	2	ἀκήκοα	ἀκούω	perfect active indicative, first singular	1	I have heard
-GEN 42:2	1	3	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+GEN 42:2	1	3	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 GEN 42:2	1	4	ἐστὶ	εἰμί	present indicative, third singular	1	is
-GEN 42:2	1	5	σῖτος	σῖτος	noun, nominative masculine singular after ὁ	1	the grain
+GEN 42:2	1	5	σῖτος	σῖτος	noun, nominative masculine singular after ὁ	1	grain
 GEN 42:2	1	6	ἐν	ἐν	preposition with the dative	1	in
 GEN 42:2	1	7	Αἰγύπτῳ	Αἴγυπτος	place name, dative feminine singular after ἐν	1	Egypt
 GEN 42:3	1	1	κατάβητε	καταβαίνω	aorist active imperative, second plural	1	go down
@@ -53,7 +53,7 @@ GEN 42:4	1	6	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, genitive in co
 GEN 42:4	1	7	οὐκ	οὐ	negative adverb with future indicative	1	not
 GEN 42:4	1	8	ἀπέστειλεν	ἀποστέλλω	aorist active indicative, third singular	1	sent
 GEN 42:4	1	9	Ἰακὼβ	Ἰακώβ	indeclinable personal name, nominative in context	1	Jacob
-GEN 42:4	1	10	μετὰ	μετά	preposition with the accusative, temporal	1	after
+GEN 42:4	1	10	μετὰ	μετά	preposition with the genitive	1	with
 GEN 42:4	1	11	τῶν	ὁ	article, genitive plural	1	the
 GEN 42:4	1	12	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 GEN 42:4	1	13	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -70,8 +70,8 @@ GEN 42:5	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 GEN 42:5	1	4	υἱοὶ	υἱός	noun, nominative masculine plural (vocative in address only)	1	sons
 GEN 42:5	1	5	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 GEN 42:5	1	6	ἀγοράζειν	ἀγοράζω	present active infinitive of purpose, buy (grain understood)	1	to buy
-GEN 42:5	1	7	μετὰ	μετά	preposition with the accusative, temporal	1	after
-GEN 42:5	1	8	τῶν	ὁ	article, genitive plural	1	the
+GEN 42:5	1	7	μετὰ	μετά	preposition with the genitive	1	with
+GEN 42:5	1	8	τῶν	ὁ	article, genitive plural	1	those
 GEN 42:5	1	9	ἐρχομένων	ἔρχομαι	present middle participle, genitive neuter plural with ἐτῶν	1	coming
 GEN 42:5	1	10	ἦν	εἰμί	imperfect indicative, third singular	1	was
 GEN 42:5	1	11	γὰρ	γάρ	explanatory conjunction	1	for
@@ -84,14 +84,14 @@ GEN 42:6	1	1	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in 
 GEN 42:6	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 42:6	1	3	ἦν	εἰμί	imperfect indicative, third singular	1	was
 GEN 42:6	1	4	ἄρχων	ἄρχων	noun/participle, nominative masculine singular predicate	1	ruler
-GEN 42:6	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 42:6	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 42:6	1	6	γῆς	γῆ	noun, genitive feminine singular	1	land
 GEN 42:6	1	7	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 GEN 42:6	1	8	ἐπώλει	πωλέω	imperfect active indicative, third singular	1	was selling
 GEN 42:6	1	9	παντὶ	πᾶς	adjective, dative masculine singular with λαῷ after τῷ	1	to all
 GEN 42:6	1	10	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 GEN 42:6	1	11	λαῷ	λαός	noun, dative masculine singular after τῷ	1	people
-GEN 42:6	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 42:6	1	12	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 42:6	1	13	γῆς	γῆ	noun, genitive feminine singular	1	land
 GEN 42:6	1	14	Ἐλθόντες	ἔρχομαι	aorist active participle, nominative masculine plural	1	having come
 GEN 42:6	1	15	δὲ	δέ	postpositive conjunction	1	and
@@ -104,7 +104,7 @@ GEN 42:6	1	21	ἐπὶ	ἐπί	preposition (case from context)	1	on
 GEN 42:6	1	22	πρόσωπον	πρόσωπον	noun, accusative neuter singular after ἐπί	1	the face
 GEN 42:6	1	23	ἐπὶ	ἐπί	preposition (case from context)	1	on
 GEN 42:6	1	24	τὴν	ὁ	article, accusative feminine singular	1	the
-GEN 42:6	1	25	γῆν	γῆ	noun, accusative feminine singular	1	land
+GEN 42:6	1	25	γῆν	γῆ	noun, accusative feminine singular	1	ground
 GEN 42:7	1	1	Ἰδὼν	ὁράω	aorist active participle, nominative masculine singular	1	having seen
 GEN 42:7	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 42:7	1	3	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
@@ -116,7 +116,7 @@ GEN 42:7	1	8	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	th
 GEN 42:7	1	9	καὶ	καί	conjunction	1	and
 GEN 42:7	1	10	ἠλλοτριοῦτο	ἀλλοτριόω	imperfect middle indicative, third singular with ἀπὸ, 'made himself strange/acted as a stranger'	1	acted as a stranger
 GEN 42:7	1	11	ἀπ᾽	ἀπό	preposition with the genitive, elided	1	from
-GEN 42:7	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+GEN 42:7	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 GEN 42:7	1	13	καὶ	καί	conjunction	1	and
 GEN 42:7	1	14	ἐλάλησεν	λαλέω	aorist active indicative, third singular	1	spoke
 GEN 42:7	1	15	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
@@ -125,7 +125,7 @@ GEN 42:7	1	17	Καὶ	καί	conjunction	1	and
 GEN 42:7	1	18	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 GEN 42:7	1	19	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 GEN 42:7	1	20	πόθεν	πόθεν	interrogative adverb	1	from where
-GEN 42:7	1	21	ἥκατε	ἥκω	present active indicative, second plural; with resultative sense	1	you have come
+GEN 42:7	1	21	ἥκατε	ἥκω	present active indicative, second plural; with resultative sense	1	have you come
 GEN 42:7	1	22	Οἱ	ὁ	article, nominative masculine plural	1	the
 GEN 42:7	1	23	δὲ	δέ	postpositive conjunction	1	and
 GEN 42:7	1	24	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
@@ -161,25 +161,25 @@ GEN 42:9	1	13	ἐστε	εἰμί	present indicative, second plural	1	are
 GEN 42:9	1	14	κατανοῆσαι	κατανοέω	aorist active infinitive, purpose 'to spy out'	1	to spy out
 GEN 42:9	1	15	τὰ	ὁ	article, neuter plural (case from context)	1	the
 GEN 42:9	1	16	ἴχνη	ἴχνος	noun, accusative neuter plural; reconnaissance context	1	tracks
-GEN 42:9	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 42:9	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 42:9	1	18	χώρας	χώρα	noun, genitive feminine singular after τῆς	1	country
 GEN 42:9	1	19	ἥκατε	ἥκω	present active indicative, second plural; with resultative sense	1	you have come
 GEN 42:10	1	1	Οἱ	ὁ	article, nominative masculine plural	1	the
 GEN 42:10	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 42:10	1	3	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
-GEN 42:10	1	4	οὐχὶ	οὐχί	interrogative negative particle expecting 'yes'	1	is it not
+GEN 42:10	1	4	οὐχὶ	οὐχί	interrogative negative particle expecting 'yes'	1	no
 GEN 42:10	1	5	κύριε	κύριος	noun, vocative masculine singular	1	lord
 GEN 42:10	1	6	οἱ	ὁ	article, nominative masculine plural	1	the
 GEN 42:10	1	7	παῖδές	παῖς	noun, nominative masculine plural, here servants	1	servants
 GEN 42:10	1	8	σου	σύ	pronoun, possessive genitive second singular	1	your
-GEN 42:10	1	9	ἤλθομεν	ἔρχομαι	aorist active indicative, first plural	1	we have come
+GEN 42:10	1	9	ἤλθομεν	ἔρχομαι	aorist active indicative, first plural	1	we came
 GEN 42:10	1	10	πριάσασθαι	πρίαμαι	aorist middle infinitive as printed (sigmatic for πρίασθαι), buy	1	to buy
 GEN 42:10	1	11	βρώματα	βρῶμα	noun, nominative/accusative neuter plural after τὰ (from context), foodstuffs	1	food
 GEN 42:11	1	1	Πάντες	πᾶς	adjective, nominative masculine plural	1	all
 GEN 42:11	1	2	ἐσμὲν	εἰμί	present indicative, first plural	1	we are
 GEN 42:11	1	3	υἱοὶ	υἱός	noun, nominative masculine plural (vocative in address only)	1	sons
 GEN 42:11	1	4	ἑνὸς	εἷς	cardinal numeral, genitive masculine singular with ἀνθρώπου	1	of one
-GEN 42:11	1	5	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a man
+GEN 42:11	1	5	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
 GEN 42:11	1	6	εἰρηνικοί	εἰρηνικός	adjective, nominative masculine plural predicate, 'peaceable/honest men'	1	peaceable
 GEN 42:11	1	7	ἐσμεν	εἰμί	present indicative, first plural	1	we are
 GEN 42:11	1	8	οὐκ	οὐ	negative adverb with future indicative	1	not
@@ -191,13 +191,13 @@ GEN 42:11	1	13	κατάσκοποι	κατάσκοπος	noun, nominative mascul
 GEN 42:12	1	1	Εἶπε	λέγω	aorist active indicative, third singular	1	said
 GEN 42:12	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 42:12	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
-GEN 42:12	1	4	οὐχὶ	οὐχί	interrogative negative particle expecting 'yes'	1	is it not
+GEN 42:12	1	4	οὐχὶ	οὐχί	interrogative negative particle expecting 'yes'	1	no
 GEN 42:12	1	5	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 GEN 42:12	1	6	τὰ	ὁ	article, neuter plural (case from context)	1	the
 GEN 42:12	1	7	ἴχνη	ἴχνος	noun, accusative neuter plural; reconnaissance context	1	tracks
-GEN 42:12	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 42:12	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 42:12	1	9	γῆς	γῆ	noun, genitive feminine singular	1	land
-GEN 42:12	1	10	ἤλθετε	ἔρχομαι	aorist active indicative, second plural	1	have you come
+GEN 42:12	1	10	ἤλθετε	ἔρχομαι	aorist active indicative, second plural	1	you came
 GEN 42:12	1	11	ἰδεῖν	ὁράω	aorist active infinitive of purpose	1	to see
 GEN 42:13	1	1	Οἱ	ὁ	article, nominative masculine plural	1	the
 GEN 42:13	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -215,7 +215,7 @@ GEN 42:13	1	13	καὶ	καί	conjunction	1	and
 GEN 42:13	1	14	ἰδοὺ	ἰδού	presentative particle	1	behold
 GEN 42:13	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 42:13	1	16	νεώτερος	νέος	comparative adjective, nominative masculine singular after ὁ, 'the younger/youngest'	1	youngest
-GEN 42:13	1	17	μετὰ	μετά	preposition with the accusative, temporal	1	after
+GEN 42:13	1	17	μετὰ	μετά	preposition with the accusative, temporal	1	with
 GEN 42:13	1	18	τοῦ	ὁ	article, genitive singular	1	the
 GEN 42:13	1	19	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 GEN 42:13	1	20	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
@@ -235,7 +235,7 @@ GEN 42:14	1	7	ὃ	ὅς	relative pronoun, nominative/accusative neuter singular 
 GEN 42:14	1	8	εἴρηκα	λέγω	perfect active indicative, first singular	1	I have said
 GEN 42:14	1	9	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 GEN 42:14	1	10	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
-GEN 42:14	1	11	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+GEN 42:14	1	11	ὅτι	ὅτι	causal/that conjunction (from context)	1	that
 GEN 42:14	1	12	κατάσκοποί	κατάσκοπος	noun, nominative masculine plural predicate	1	spies
 GEN 42:14	1	13	ἐστε	εἰμί	present indicative, second plural	1	are
 GEN 42:15	1	1	Ἐν	ἐν	preposition with the dative	1	in
@@ -260,7 +260,7 @@ GEN 42:15	1	19	ἔλθῃ	ἔρχομαι	aorist active subjunctive, third singu
 GEN 42:15	1	20	ὧδε	ὧδε	adverb of place	1	here
 GEN 42:16	1	1	Ἀποστείλατε	ἀποστέλλω	aorist active imperative, second plural	1	send
 GEN 42:16	1	2	ἐξ	ἐκ	preposition with the genitive before a vowel	1	from
-GEN 42:16	1	3	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
+GEN 42:16	1	3	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	you
 GEN 42:16	1	4	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 GEN 42:16	1	5	καὶ	καί	conjunction	1	and
 GEN 42:16	1	6	λαβέτω	λαμβάνω	aorist active imperative, third singular, fetch	1	let him fetch
@@ -269,7 +269,7 @@ GEN 42:16	1	8	ἀδελφὸν	ἀδελφός	noun, accusative masculine singul
 GEN 42:16	1	9	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 GEN 42:16	1	10	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
 GEN 42:16	1	11	δὲ	δέ	postpositive conjunction	1	and
-GEN 42:16	1	12	ἀπάχθητε	ἀπάγω	aorist passive imperative, second plural, be taken away (to prison)	1	be put away
+GEN 42:16	1	12	ἀπάχθητε	ἀπάγω	aorist passive imperative, second plural, be taken away (to prison)	1	be taken away
 GEN 42:16	1	13	ἕως	ἕως	temporal conjunction/preposition (from context)	1	until
 GEN 42:16	1	14	τοῦ	ὁ	article, genitive singular	1	the
 GEN 42:16	1	15	φανερὰ	φανερός	adjective, nominative neuter plural predicate with ῥήματα	1	manifest
@@ -330,7 +330,7 @@ GEN 42:19	1	11	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emp
 GEN 42:19	1	12	δὲ	δέ	postpositive conjunction	1	and
 GEN 42:19	1	13	βαδίσατε	βαδίζω	aorist active imperative, second plural	1	go
 GEN 42:19	1	14	καὶ	καί	conjunction	1	and
-GEN 42:19	1	15	ἀπαγάγετε	ἀπάγω	aorist active imperative, second plural	1	take away
+GEN 42:19	1	15	ἀπαγάγετε	ἀπάγω	aorist active imperative, second plural	1	take back
 GEN 42:19	1	16	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 42:19	1	17	ἀγορασμὸν	ἀγορασμός	noun, accusative masculine singular after τὸν, purchase	1	purchase
 GEN 42:19	1	18	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -369,7 +369,7 @@ GEN 42:21	1	9	ἐν	ἐν	preposition with the dative	1	in
 GEN 42:21	1	10	ἁμαρτίᾳ	ἁμαρτία	noun, dative feminine singular after ἐν	1	sin/guilt
 GEN 42:21	1	11	γάρ	γάρ	explanatory conjunction	1	for
 GEN 42:21	1	12	ἐσμεν	εἰμί	present indicative, first plural	1	we are
-GEN 42:21	1	13	περὶ	περί	preposition with the accusative	1	about/on
+GEN 42:21	1	13	περὶ	περί	preposition with the accusative	1	concerning
 GEN 42:21	1	14	τοῦ	ὁ	article, genitive singular	1	the
 GEN 42:21	1	15	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
 GEN 42:21	1	16	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
@@ -377,24 +377,24 @@ GEN 42:21	1	17	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 GEN 42:21	1	18	ὑπερείδομεν	ὑπεροράω	aorist active indicative, first plural	1	we disregarded
 GEN 42:21	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 42:21	1	20	θλίψιν	θλῖψις	noun, accusative feminine singular after τὴν	1	distress
-GEN 42:21	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 42:21	1	21	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 42:21	1	22	ψυχῆς	ψυχή	noun, genitive feminine singular after τῆς	1	soul
 GEN 42:21	1	23	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 GEN 42:21	1	24	ὅτε	ὅτε	temporal conjunction introducing ἔνεμε	1	when
 GEN 42:21	1	25	κατεδέετο	καταδέομαι	imperfect middle indicative, third singular with genitive ἡμῶν, 'kept begging us'	1	was begging
-GEN 42:21	1	26	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
+GEN 42:21	1	26	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	us
 GEN 42:21	1	27	καὶ	καί	conjunction	1	and
 GEN 42:21	1	28	οὐκ	οὐ	negative adverb with future indicative	1	not
 GEN 42:21	1	29	εἰσηκούσαμεν	εἰσακούω	aorist active indicative, first plural with genitive	1	we listened
-GEN 42:21	1	30	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+GEN 42:21	1	30	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	to him
 GEN 42:21	1	31	ἕνεκεν	ἕνεκα	preposition with preceding/following genitive	1	because of
 GEN 42:21	1	32	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	this
-GEN 42:21	1	33	ἐπῆλθεν	ἐπέρχομαι	aorist active indicative, third singular	1	has come upon
-GEN 42:21	1	34	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
-GEN 42:21	1	35	ἡμᾶς	ἐγώ	pronoun, accusative first plural, subject of δεσμεύειν	1	we
+GEN 42:21	1	33	ἐπῆλθεν	ἐπέρχομαι	aorist active indicative, third singular	1	has come
+GEN 42:21	1	34	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	upon
+GEN 42:21	1	35	ἡμᾶς	ἐγώ	personal pronoun, first person plural accusative	1	us
 GEN 42:21	1	36	ἡ	ὁ	article, nominative feminine singular	1	the
 GEN 42:21	1	37	θλίψις	θλῖψις	noun, nominative feminine singular after ἡ	1	distress
-GEN 42:21	1	38	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	she
+GEN 42:21	1	38	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 GEN 42:22	1	1	Ἀποκριθεὶς	ἀποκρίνομαι	aorist passive participle, nominative masculine singular	1	having answered
 GEN 42:22	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 42:22	1	3	Ῥουβὴν	Ῥουβήν	indeclinable personal name, nominative in context	1	Reuben
@@ -411,7 +411,7 @@ GEN 42:22	1	13	παιδάριον	παιδάριον	noun, nominative neuter sin
 GEN 42:22	1	14	καὶ	καί	conjunction	1	and
 GEN 42:22	1	15	οὐκ	οὐ	negative adverb with future indicative	1	not
 GEN 42:22	1	16	εἰσηκούσατέ	εἰσακούω	aorist active indicative, second plural with genitive μου	1	you listened
-GEN 42:22	1	17	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
+GEN 42:22	1	17	μου	ἐγώ	pronoun, possessive genitive first singular	1	to me
 GEN 42:22	1	18	καὶ	καί	conjunction	1	and
 GEN 42:22	1	19	ἰδοὺ	ἰδού	presentative particle	1	behold
 GEN 42:22	1	20	τὸ	ὁ	article, neuter singular (case from context)	1	the
@@ -422,7 +422,7 @@ GEN 42:23	1	1	Αὐτοὶ	αὐτός	pronoun, nominative masculine plural emph
 GEN 42:23	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 42:23	1	3	οὐκ	οὐ	negative adverb with future indicative	1	not
 GEN 42:23	1	4	ᾔδεισαν	οἶδα	pluperfect active indicative, third plural	1	they knew
-GEN 42:23	1	5	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+GEN 42:23	1	5	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 GEN 42:23	1	6	ἀκούει	ἀκούω	present active indicative, third singular, 'understands' (the language)	1	understands
 GEN 42:23	1	7	Ἰωσήφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
 GEN 42:23	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -435,12 +435,12 @@ GEN 42:23	1	14	ἦν	εἰμί	imperfect indicative, third singular	1	was
 GEN 42:24	1	1	Ἀποστραφεὶς	ἀποστρέφω	aorist passive participle, nominative masculine singular	1	having turned away
 GEN 42:24	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 42:24	1	3	ἀπ᾽	ἀπό	preposition with the genitive, elided	1	from
-GEN 42:24	1	4	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-GEN 42:24	1	5	ἔκλαυσεν	κλαίω	aorist active indicative, third singular with accusative	1	wept for
+GEN 42:24	1	4	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
+GEN 42:24	1	5	ἔκλαυσεν	κλαίω	aorist active indicative, third singular with accusative	1	wept
 GEN 42:24	1	6	Ἰωσήφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
 GEN 42:24	1	7	καὶ	καί	conjunction	1	and
 GEN 42:24	1	8	πάλιν	πάλιν	adverb	1	again
-GEN 42:24	1	9	προσῆλθε	προσέρχομαι	aorist active indicative, third singular	1	came back to
+GEN 42:24	1	9	προσῆλθε	προσέρχομαι	aorist active indicative, third singular	1	came
 GEN 42:24	1	10	πρὸς	πρός	preposition with the accusative	1	to
 GEN 42:24	1	11	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 GEN 42:24	1	12	καὶ	καί	conjunction	1	and
@@ -451,12 +451,12 @@ GEN 42:24	1	16	ἔλαβε	λαμβάνω	aorist active indicative, third singul
 GEN 42:24	1	17	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 42:24	1	18	Συμεὼν	Συμεών	indeclinable personal name, accusative in context	1	Simeon
 GEN 42:24	1	19	ἀπ᾽	ἀπό	preposition with the genitive, elided	1	from
-GEN 42:24	1	20	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+GEN 42:24	1	20	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 GEN 42:24	1	21	καὶ	καί	conjunction	1	and
 GEN 42:24	1	22	ἔδησεν	δέω	aorist active indicative, third singular	1	tied
 GEN 42:24	1	23	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 GEN 42:24	1	24	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
-GEN 42:24	1	25	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+GEN 42:24	1	25	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 GEN 42:25	1	1	Ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, third singular with infinitives	1	commanded
 GEN 42:25	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 42:25	1	3	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
@@ -479,7 +479,7 @@ GEN 42:25	1	19	καὶ	καί	conjunction	1	and
 GEN 42:25	1	20	δοῦναι	δίδωμι	aorist active infinitive after τοῦ μὴ, of prevented result	1	to give
 GEN 42:25	1	21	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 GEN 42:25	1	22	ἐπισιτισμὸν	ἐπισιτισμός	noun, accusative masculine singular, provisions	1	provisions
-GEN 42:25	1	23	εἰς	εἰς	preposition with the accusative	1	into
+GEN 42:25	1	23	εἰς	εἰς	preposition with the accusative	1	for
 GEN 42:25	1	24	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 42:25	1	25	ὁδόν	ὁδός	noun, accusative feminine singular after τὴν	1	way
 GEN 42:25	1	26	καὶ	καί	conjunction	1	and
@@ -498,13 +498,13 @@ GEN 42:26	1	9	ἀπῆλθον	ἀπέρχομαι	aorist active indicative, thi
 GEN 42:26	1	10	ἐκεῖθεν	ἐκεῖθεν	adverb of place	1	from there
 GEN 42:27	1	1	Λύσας	λύω	aorist active participle, nominative masculine singular	1	having opened
 GEN 42:27	1	2	δὲ	δέ	postpositive conjunction	1	and
-GEN 42:27	1	3	εἷς	εἷς	cardinal numeral/pronoun, nominative masculine singular after ὁ	1	the one
+GEN 42:27	1	3	εἷς	εἷς	cardinal numeral/pronoun, nominative masculine singular after ὁ	1	one
 GEN 42:27	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 42:27	1	5	μάρσιππον	μάρσιππος	noun, accusative masculine singular after τὸν, sack/bag	1	sack
 GEN 42:27	1	6	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 GEN 42:27	1	7	δοῦναι	δίδωμι	aorist active infinitive after τοῦ μὴ, of prevented result	1	to give
 GEN 42:27	1	8	χορτάσματα	χόρτασμα	noun, accusative neuter plural	1	fodder
-GEN 42:27	1	9	τοῖς	ὁ	article, dative masculine plural	1	the
+GEN 42:27	1	9	τοῖς	ὁ	article, dative masculine plural	1	to the
 GEN 42:27	1	10	ὄνοις	ὄνος	noun, dative masculine plural after τοῖς	1	asses
 GEN 42:27	1	11	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 GEN 42:27	1	12	οὗ	οὗ	relative adverb of place	1	where
@@ -520,11 +520,11 @@ GEN 42:27	1	21	ἦν	εἰμί	imperfect indicative, third singular	1	was
 GEN 42:27	1	22	ἐπάνω	ἐπάνω	adverb/adjective used substantivally after τῷ/τοῦ, 'the top (basket)'	1	top
 GEN 42:27	1	23	τοῦ	ὁ	article, genitive singular	1	the
 GEN 42:27	1	24	στόματος	στόμα	noun, genitive neuter singular after τοῦ/ἐπάνω τοῦ	1	mouth
-GEN 42:27	1	25	τοῦ	ὁ	article, genitive singular	1	the
+GEN 42:27	1	25	τοῦ	ὁ	article, genitive singular	1	of the
 GEN 42:27	1	26	μαρσίππου	μάρσιππος	noun, genitive masculine singular after τοῦ	1	sack
 GEN 42:28	1	1	Καὶ	καί	conjunction	1	and
 GEN 42:28	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
-GEN 42:28	1	3	τοῖς	ὁ	article, dative masculine plural	1	the
+GEN 42:28	1	3	τοῖς	ὁ	article, dative masculine plural	1	to the
 GEN 42:28	1	4	ἀδελφοῖς	ἀδελφός	noun, dative masculine plural	1	brothers
 GEN 42:28	1	5	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 GEN 42:28	1	6	ἀπεδόθη	ἀποδίδωμι	aorist passive indicative, third singular	1	has been restored
@@ -548,7 +548,7 @@ GEN 42:28	1	23	ἐταράχθησαν	ταράσσω	aorist passive indicative,
 GEN 42:28	1	24	πρὸς	πρός	preposition with the accusative	1	to
 GEN 42:28	1	25	ἀλλήλους	ἀλλήλων	reciprocal pronoun, accusative masculine plural after πρός	1	one another
 GEN 42:28	1	26	λέγοντες	λέγω	present active participle, nominative masculine plural, with impersonal passive in sense 'saying'	1	saying
-GEN 42:28	1	27	τί	τίς	interrogative pronoun accusative neuter singular, used adverbially	1	why
+GEN 42:28	1	27	τί	τίς	interrogative pronoun accusative neuter singular, used adverbially	1	what
 GEN 42:28	1	28	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 GEN 42:28	1	29	ἐποίησεν	ποιέω	aorist active indicative, third singular; ἡ γῆ subject 'the land produced'	1	produced
 GEN 42:28	1	30	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -567,7 +567,7 @@ GEN 42:29	1	10	Χαναὰν	Χαναάν	indeclinable place name, genitive in c
 GEN 42:29	1	11	καὶ	καί	conjunction	1	and
 GEN 42:29	1	12	ἀπήγγειλαν	ἀπαγγέλλω	aorist active indicative, third plural	1	reported
 GEN 42:29	1	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-GEN 42:29	1	14	πάντα	πᾶς	adjective, accusative neuter plural	1	all things
+GEN 42:29	1	14	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 GEN 42:29	1	15	τὰ	ὁ	article, neuter plural (case from context)	1	the
 GEN 42:29	1	16	συμβεβηκότα	συμβαίνω	perfect active participle, substantival accusative neuter plural after τὰ	1	what had befallen
 GEN 42:29	1	17	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
@@ -577,17 +577,17 @@ GEN 42:30	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 42:30	1	3	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 GEN 42:30	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 42:30	1	5	κύριος	κύριος	noun, nominative masculine singular; master, or Κύριος (capitalized) the LORD — check article/context per occurrence	1	master
-GEN 42:30	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 42:30	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 42:30	1	7	γῆς	γῆ	noun, genitive feminine singular	1	land
 GEN 42:30	1	8	πρὸς	πρός	preposition with the accusative	1	to
-GEN 42:30	1	9	ἡμᾶς	ἐγώ	pronoun, accusative first plural, subject of δεσμεύειν	1	we
+GEN 42:30	1	9	ἡμᾶς	ἐγώ	personal pronoun, first person plural accusative	1	us
 GEN 42:30	1	10	σκληρὰ	σκληρός	adjective, accusative neuter plural substantival, 'harsh things'	1	harshly
 GEN 42:30	1	11	καὶ	καί	conjunction	1	and
 GEN 42:30	1	12	ἔθετο	τίθημι	aorist middle indicative, third singular	1	put
-GEN 42:30	1	13	ἡμᾶς	ἐγώ	pronoun, accusative first plural, subject of δεσμεύειν	1	we
+GEN 42:30	1	13	ἡμᾶς	ἐγώ	personal pronoun, first person plural accusative	1	us
 GEN 42:30	1	14	ἐν	ἐν	preposition with the dative	1	in
 GEN 42:30	1	15	φυλακῇ	φυλακή	noun, dative feminine singular after ἐν/ἐν τῇ	1	custody
-GEN 42:30	1	16	ὡς	ὡς	comparative adverb/conjunction	1	like
+GEN 42:30	1	16	ὡς	ὡς	comparative adverb/conjunction	1	as
 GEN 42:30	1	17	κατασκοπεύοντας	κατασκοπεύω	present active participle, accusative masculine plural in ὡς-phrase 'as spying out'	1	spying out
 GEN 42:30	1	18	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 42:30	1	19	γῆν	γῆ	noun, accusative feminine singular	1	land
@@ -613,7 +613,7 @@ GEN 42:32	1	11	ὑπάρχει	ὑπάρχω	present active indicative, third si
 GEN 42:32	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 42:32	1	13	δὲ	δέ	postpositive conjunction	1	and
 GEN 42:32	1	14	μικρότερος	μικρός	comparative adjective, nominative masculine singular after ὁ, youngest/smallest	1	the youngest
-GEN 42:32	1	15	μετὰ	μετά	preposition with the accusative, temporal	1	after
+GEN 42:32	1	15	μετὰ	μετά	preposition with the accusative, temporal	1	with
 GEN 42:32	1	16	τοῦ	ὁ	article, genitive singular	1	the
 GEN 42:32	1	17	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 GEN 42:32	1	18	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
@@ -628,12 +628,12 @@ GEN 42:33	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 42:33	1	5	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 GEN 42:33	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 42:33	1	7	κύριος	κύριος	noun, nominative masculine singular; master, or Κύριος (capitalized) the LORD — check article/context per occurrence	1	master
-GEN 42:33	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 42:33	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 42:33	1	9	γῆς	γῆ	noun, genitive feminine singular	1	land
-GEN 42:33	1	10	ἐν	ἐν	preposition with the dative	1	in
+GEN 42:33	1	10	ἐν	ἐν	preposition with the dative	1	by
 GEN 42:33	1	11	τούτῳ	οὗτος	demonstrative pronoun, dative neuter singular after ἐν	1	this
 GEN 42:33	1	12	γνωσόμεθα	γινώσκω	future middle indicative, first plural; singular speaker in context	1	we will know
-GEN 42:33	1	13	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+GEN 42:33	1	13	ὅτι	ὅτι	causal/that conjunction (from context)	1	that
 GEN 42:33	1	14	εἰρηνικοί	εἰρηνικός	adjective, nominative masculine plural predicate, 'peaceable/honest men'	1	peaceable
 GEN 42:33	1	15	ἐστε	εἰμί	present indicative, second plural	1	are
 GEN 42:33	1	16	ἀδελφὸν	ἀδελφός	noun, accusative masculine singular after τὸν	1	brother
@@ -646,7 +646,7 @@ GEN 42:33	1	22	ἐμοῦ	ἐγώ	pronoun, genitive first singular (after μετ
 GEN 42:33	1	23	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 42:33	1	24	δὲ	δέ	postpositive conjunction	1	and
 GEN 42:33	1	25	ἀγορασμὸν	ἀγορασμός	noun, accusative masculine singular after τὸν, purchase	1	the purchase
-GEN 42:33	1	26	τῆς	ὁ	article, genitive feminine singular	1	the
+GEN 42:33	1	26	τῆς	ὁ	article, genitive feminine singular	1	of the
 GEN 42:33	1	27	σιτοδοσίας	σιτοδοσία	noun, genitive feminine singular after τῆς, grain-supply	1	grain-supply
 GEN 42:33	1	28	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 GEN 42:33	1	29	λαβόντες	λαμβάνω	aorist active participle, nominative masculine plural	1	having taken
@@ -662,12 +662,12 @@ GEN 42:34	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 42:34	1	9	νεώτερον	νέος	comparative adjective, accusative masculine singular with ἀδελφὸν after τὸν	1	youngest
 GEN 42:34	1	10	καὶ	καί	conjunction	1	and
 GEN 42:34	1	11	γνώσομαι	γινώσκω	future middle indicative, first singular	1	I will know
-GEN 42:34	1	12	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+GEN 42:34	1	12	ὅτι	ὅτι	causal/that conjunction (from context)	1	that
 GEN 42:34	1	13	οὐ	οὐ	negative adverb with future indicative	1	not
 GEN 42:34	1	14	κατάσκοποί	κατάσκοπος	noun, nominative masculine plural predicate	1	spies
 GEN 42:34	1	15	ἐστε	εἰμί	present indicative, second plural	1	are
 GEN 42:34	1	16	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
-GEN 42:34	1	17	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+GEN 42:34	1	17	ὅτι	ὅτι	causal/that conjunction (from context)	1	that
 GEN 42:34	1	18	εἰρηνικοί	εἰρηνικός	adjective, nominative masculine plural predicate, 'peaceable/honest men'	1	peaceable
 GEN 42:34	1	19	ἐστε	εἰμί	present indicative, second plural	1	are
 GEN 42:34	1	20	καὶ	καί	conjunction	1	and
@@ -677,7 +677,7 @@ GEN 42:34	1	23	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 GEN 42:34	1	24	ἀποδώσω	ἀποδίδωμι	future active indicative, first singular	1	I will restore
 GEN 42:34	1	25	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 GEN 42:34	1	26	καὶ	καί	conjunction	1	and
-GEN 42:34	1	27	τῇ	ὁ	article, dative feminine singular	1	the
+GEN 42:34	1	27	τῇ	ὁ	article, dative feminine singular	1	in the
 GEN 42:34	1	28	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
 GEN 42:34	1	29	ἐμπορεύσεσθε	ἐμπορεύομαι	future middle indicative, second plural with dative τῇ γῇ, 'trade in the land'	1	you may trade
 GEN 42:35	1	1	Ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
@@ -734,15 +734,15 @@ GEN 42:36	1	16	καὶ	καί	conjunction	1	and
 GEN 42:36	1	17	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 42:36	1	18	Βενιαμὶν	Βενιαμίν	indeclinable personal name, accusative in context	1	Benjamin
 GEN 42:36	1	19	λήψεσθε	λαμβάνω	future middle indicative, second plural	1	you will take
-GEN 42:36	1	20	ἐπ᾽	ἐπί	preposition with the accusative, elided	1	against
+GEN 42:36	1	20	ἐπ᾽	ἐπί	preposition with the accusative, elided	1	to
 GEN 42:36	1	21	ἐμὲ	ἐγώ	pronoun, accusative first singular	1	me
-GEN 42:36	1	22	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
+GEN 42:36	1	22	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	have happened
 GEN 42:36	1	23	πάντα	πᾶς	adjective, accusative neuter plural	1	all things
 GEN 42:36	1	24	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these things
 GEN 42:37	1	1	Εἶπε	λέγω	aorist active indicative, third singular	1	said
 GEN 42:37	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 42:37	1	3	Ῥουβὴν	Ῥουβήν	indeclinable personal name, nominative in context	1	Reuben
-GEN 42:37	1	4	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 42:37	1	4	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 GEN 42:37	1	5	πατρὶ	πατήρ	noun, dative masculine singular	1	father
 GEN 42:37	1	6	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 GEN 42:37	1	7	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
@@ -777,7 +777,7 @@ GEN 42:38	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 42:38	1	7	υἱός	υἱός	noun, nominative masculine singular	1	son
 GEN 42:38	1	8	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 GEN 42:38	1	9	μεθ᾽	μετά	preposition with the genitive, elided	1	with
-GEN 42:38	1	10	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
+GEN 42:38	1	10	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	you
 GEN 42:38	1	11	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 GEN 42:38	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 42:38	1	13	ἀδελφὸς	ἀδελφός	noun, nominative masculine singular predicate	1	brother
@@ -802,7 +802,7 @@ GEN 42:38	1	31	κατάξετέ	κατάγω	future active indicative, second pl
 GEN 42:38	1	32	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 GEN 42:38	1	33	τὸ	ὁ	article, neuter singular (case from context)	1	the
 GEN 42:38	1	34	γῆρας	γῆρας	noun, accusative neuter singular after τὸ, old age (metonymy 'my grey hairs')	1	old age
-GEN 42:38	1	35	μετὰ	μετά	preposition with the accusative, temporal	1	after
+GEN 42:38	1	35	μετὰ	μετά	preposition with the genitive	1	with
 GEN 42:38	1	36	λύπης	λύπη	noun, genitive feminine singular after μετά	1	sorrow
 GEN 42:38	1	37	εἰς	εἰς	preposition with the accusative	1	into
 GEN 42:38	1	38	ᾅδου	ᾅδης	noun, genitive masculine singular after εἰς (εἰς ᾅδου, sc. house/place); Hades/the grave	1	Hades

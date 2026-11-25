@@ -11,8 +11,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:1	1	9	Σαβεὲ	Σαβεέ	indeclinable place name, nominative in context	1	Sabee
 2SA 20:1	1	9	Σαβεὲ			2	Sheba
 2SA 20:1	1	10	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2SA 20:1	1	11	Βοχορεὶ	Βοχορεί	indeclinable personal name, genitive in context	1	of Bochorei
-2SA 20:1	1	11	Βοχορεὶ			2	of Bichri
+2SA 20:1	1	11	Βοχορεὶ	Βοχορεί	indeclinable personal name, genitive in context	1	of Bichri
+2SA 20:1	1	11	Βοχορεὶ			2	of Bochorei
 2SA 20:1	1	12	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
 2SA 20:1	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 20:1	1	14	Ἰεμινεὶ	Ἰεμινεί	indeclinable name of clan or ancestor in genitive context	1	of Ieminei
@@ -57,8 +57,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:2	1	10	Σαβεὲ	Σαβεέ	indeclinable place name, nominative in context	1	Sabee
 2SA 20:2	1	10	Σαβεὲ			2	Sheba
 2SA 20:2	1	11	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-2SA 20:2	1	12	Βοχορεί	Βοχορεί	indeclinable personal name, genitive in context	1	of Bochorei
-2SA 20:2	1	12	Βοχορεί			2	of Bichri
+2SA 20:2	1	12	Βοχορεί	Βοχορεί	indeclinable personal name, genitive in context	1	of Bichri
+2SA 20:2	1	12	Βοχορεί			2	of Bochorei
 2SA 20:2	1	13	Καὶ	καί	conjunction	1	and
 2SA 20:2	1	14	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
 2SA 20:2	1	15	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
@@ -89,7 +89,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:3	1	13	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2SA 20:3	1	14	τὰς	ὁ	article, accusative feminine plural	1	the
 2SA 20:3	1	15	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-2SA 20:3	1	16	γυναῖκας	γυνή	noun, accusative feminine plural	1	wives
+2SA 20:3	1	16	γυναῖκας	γυνή	noun, accusative feminine plural	1	women
 2SA 20:3	1	17	τὰς	ὁ	article, accusative feminine plural	1	the
 2SA 20:3	1	18	παλλακίδας	παλλακίς	noun, accusative feminine plural	1	concubines
 2SA 20:3	1	19	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -129,8 +129,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:4	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 20:4	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2SA 20:4	1	5	πρὸς	πρός	preposition with the accusative	1	to
-2SA 20:4	1	6	Ἀμεσαΐ	Ἀμεσαΐ	indeclinable personal name, accusative in context	1	Amesai
-2SA 20:4	1	6	Ἀμεσαΐ			2	Amasa
+2SA 20:4	1	6	Ἀμεσαΐ	Ἀμεσαΐ	indeclinable personal name, accusative in context	1	Amasa
+2SA 20:4	1	6	Ἀμεσαΐ			2	Amesai
 2SA 20:4	1	7	βόησόν	βοάω	aorist active imperative, second singular	1	summon
 2SA 20:4	1	8	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 2SA 20:4	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -145,8 +145,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:5	1	1	Καὶ	καί	conjunction	1	and
 2SA 20:5	1	2	ἐπορεύθη	πορεύομαι	aorist passive indicative, third singular; middle sense	1	went
 2SA 20:5	1	2	ἐπορεύθη			2	journeyed
-2SA 20:5	1	3	Ἀμεσαὶ	Ἀμεσαΐ	indeclinable personal name, nominative in context	1	Amesai
-2SA 20:5	1	3	Ἀμεσαὶ			2	Amasa
+2SA 20:5	1	3	Ἀμεσαὶ	Ἀμεσαΐ	indeclinable personal name, nominative in context	1	Amasa
+2SA 20:5	1	3	Ἀμεσαὶ			2	Amesai
 2SA 20:5	1	4	τοῦ	ὁ	article, genitive neuter singular, introduces the infinitive	1	—
 2SA 20:5	1	5	βοῆσαι	βοάω	aorist active infinitive	1	to summon
 2SA 20:5	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -164,16 +164,16 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:6	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 2SA 20:6	1	3	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 2SA 20:6	1	4	πρὸς	πρός	preposition with the accusative	1	to
-2SA 20:6	1	5	Ἀβισαεί	Ἀβισαεί	indeclinable personal name, accusative in context	1	Abisaei
-2SA 20:6	1	5	Ἀβισαεί			2	Abishai
+2SA 20:6	1	5	Ἀβισαεί	Ἀβισαεί	indeclinable personal name, accusative in context	1	Abishai
+2SA 20:6	1	5	Ἀβισαεί			2	Abisaei
 2SA 20:6	1	6	νῦν	νῦν	adverb of time	1	now
 2SA 20:6	1	7	κακοποιήσει	κακοποιέω	future active indicative, third singular	1	will do harm
 2SA 20:6	1	8	ὑμᾶς	σύ	personal pronoun, second person accusative plural	1	you
 2SA 20:6	1	9	Σαβεὲ	Σαβεέ	indeclinable place name, nominative in context	1	Sabee
 2SA 20:6	1	9	Σαβεὲ			2	Sheba
 2SA 20:6	1	10	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2SA 20:6	1	11	Βοχορεὶ	Βοχορεί	indeclinable personal name, genitive in context	1	of Bochorei
-2SA 20:6	1	11	Βοχορεὶ			2	of Bichri
+2SA 20:6	1	11	Βοχορεὶ	Βοχορεί	indeclinable personal name, genitive in context	1	of Bichri
+2SA 20:6	1	11	Βοχορεὶ			2	of Bochorei
 2SA 20:6	1	12	ὑπὲρ	ὑπέρ	preposition of comparison with accusative	1	more than
 2SA 20:6	1	13	Ἀβεσσαλώμ	Ἀβεσσαλώμ	indeclinable personal name, nominative in context	1	Abessalom
 2SA 20:6	1	13	Ἀβεσσαλώμ			2	Absalom
@@ -212,12 +212,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:7	1	8	Ἰωὰβ	Ἰωάβ	indeclinable personal name, genitive in context	1	of Joab
 2SA 20:7	1	9	καὶ	καί	conjunction	1	and
 2SA 20:7	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
-2SA 20:7	1	11	Χερεθθεὶ	Χερεθθεί	indeclinable collective name, nominative in context	1	Chereththi
-2SA 20:7	1	11	Χερεθθεὶ			2	Cherethites
+2SA 20:7	1	11	Χερεθθεὶ	Χερεθθεί	indeclinable collective name, nominative in context	1	Cherethites
+2SA 20:7	1	11	Χερεθθεὶ			2	Chereththi
 2SA 20:7	1	12	καὶ	καί	conjunction	1	and
 2SA 20:7	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
-2SA 20:7	1	14	Φελεθθεὶ	Φελεθθεί	indeclinable collective name, nominative in context	1	Pheleththi
-2SA 20:7	1	14	Φελεθθεὶ			2	Pelethites
+2SA 20:7	1	14	Φελεθθεὶ	Φελεθθεί	indeclinable collective name, nominative in context	1	Pelethites
+2SA 20:7	1	14	Φελεθθεὶ			2	Pheleththi
 2SA 20:7	1	15	καὶ	καί	conjunction	1	and
 2SA 20:7	1	16	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 2SA 20:7	1	17	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -233,8 +233,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:7	1	25	Σαβεὲ	Σαβεέ	indeclinable place name, nominative in context	1	Sabee
 2SA 20:7	1	25	Σαβεὲ			2	Sheba
 2SA 20:7	1	26	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-2SA 20:7	1	27	Βοχορεί	Βοχορεί	indeclinable personal name, genitive in context	1	of Bochorei
-2SA 20:7	1	27	Βοχορεί			2	of Bichri
+2SA 20:7	1	27	Βοχορεί	Βοχορεί	indeclinable personal name, genitive in context	1	of Bichri
+2SA 20:7	1	27	Βοχορεί			2	of Bochorei
 2SA 20:8	1	1	Καὶ	καί	conjunction	1	and
 2SA 20:8	1	2	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
 2SA 20:8	1	3	παρὰ	παρά	preposition with the dative	1	beside
@@ -247,8 +247,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:8	1	9	ἐν	ἐν	preposition with the dative	1	in
 2SA 20:8	1	10	Γαβαών	Γαβαών	indeclinable place name, case from construction	1	Gibeon
 2SA 20:8	1	11	καὶ	καί	conjunction	1	and
-2SA 20:8	1	12	Ἀμεσσαὶ	Ἀμεσσαί	indeclinable personal name, nominative in context	1	Amessai
-2SA 20:8	1	12	Ἀμεσσαὶ			2	Amasa
+2SA 20:8	1	12	Ἀμεσσαὶ	Ἀμεσσαί	indeclinable personal name, nominative in context	1	Amasa
+2SA 20:8	1	12	Ἀμεσσαὶ			2	Amessai
 2SA 20:8	1	13	εἰσῆλθεν	εἰσέρχομαι	aorist active indicative, third singular	1	entered
 2SA 20:8	1	14	ἔμπροσθεν	ἔμπροσθεν	preposition with genitive	1	ahead of
 2SA 20:8	1	14	ἔμπροσθεν			2	before
@@ -265,7 +265,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:8	1	24	ἐπ	ἐπί	preposition with the genitive	1	upon
 2SA 20:8	1	25	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 2SA 20:8	1	26	περιεζωσμένος	περιζώννυμι	perfect middle/passive participle, nominative masculine singular	1	belted
-2SA 20:8	1	27	μάχαιραν	μάχαιρα	noun, accusative feminine singular	1	knife
+2SA 20:8	1	27	μάχαιραν	μάχαιρα	noun, accusative feminine singular	1	sword
 2SA 20:8	1	28	ἐζευγμένην	ζεύγνυμι	perfect middle/passive participle, accusative feminine singular	1	fastened
 2SA 20:8	1	29	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2SA 20:8	1	30	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -285,15 +285,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:9	1	3	Ἰωὰβ	Ἰωάβ	indeclinable personal name, nominative in context	1	Joab
 2SA 20:9	1	3	Ἰωὰβ			2	Ioab
 2SA 20:9	1	4	τῷ	ὁ	article, dative masculine singular	1	the
-2SA 20:9	1	5	Ἀμεσσαεί	Ἀμεσσαεί	indeclinable personal name, accusative in context	1	Amessaei
-2SA 20:9	1	5	Ἀμεσσαεί			2	Amasa
-2SA 20:9	1	6	εἰ	εἰ	conditional conjunction	1	if
+2SA 20:9	1	5	Ἀμεσσαεί	Ἀμεσσαεί	indeclinable personal name, accusative in context	1	Amasa
+2SA 20:9	1	5	Ἀμεσσαεί			2	Amessaei
+2SA 20:9	1	6	εἰ	εἰ	conditional conjunction	1	[marks a question]
 2SA 20:9	1	7	ὑγιαίνεις	ὑγιαίνω	present active indicative, second singular	1	are you well
 2SA 20:9	1	8	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 2SA 20:9	1	9	ἀδελφέ	ἀδελφός	noun, vocative masculine singular	1	brother
 2SA 20:9	1	10	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-2SA 20:9	1	11	Ἀμεσσαεί	Ἀμεσσαεί	indeclinable personal name, accusative in context	1	Amessaei
-2SA 20:9	1	11	Ἀμεσσαεί			2	Amasa
+2SA 20:9	1	11	Ἀμεσσαεί	Ἀμεσσαεί	indeclinable personal name, accusative in context	1	Amasa
+2SA 20:9	1	11	Ἀμεσσαεί			2	Amessaei
 2SA 20:9	1	12	καὶ	καί	conjunction	1	and
 2SA 20:9	1	13	ἐκράτησεν	κατέχω	aorist active indicative, third singular	1	he held
 2SA 20:9	1	14	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -303,17 +303,17 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:9	1	18	Ἰωὰβ	Ἰωάβ	indeclinable personal name, accusative in context	1	Joab
 2SA 20:9	1	19	τοῦ	ὁ	article, genitive singular	1	the
 2SA 20:9	1	20	πώγωνος	πώγων	noun, genitive masculine singular	1	beard
-2SA 20:9	1	21	Ἀμεσαὶ	Ἀμεσαΐ	indeclinable personal name, genitive in context	1	of Amesai
-2SA 20:9	1	21	Ἀμεσαὶ			2	of Amasa
+2SA 20:9	1	21	Ἀμεσαὶ	Ἀμεσαΐ	indeclinable personal name, genitive in context	1	of Amasa
+2SA 20:9	1	21	Ἀμεσαὶ			2	of Amesai
 2SA 20:9	1	22	τοῦ	ὁ	definite article	1	the
 2SA 20:9	1	23	καταφιλῆσαι	καταφιλέω	aorist active infinitive	1	to kiss warmly
 2SA 20:9	1	23	καταφιλῆσαι			2	to kiss goodbye
 2SA 20:9	1	24	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 2SA 20:10	1	1	Καὶ	καί	conjunction	1	and
-2SA 20:10	1	2	Ἀμεσσαὶ	Ἀμεσσαί	indeclinable personal name, nominative in context	1	Amessai
-2SA 20:10	1	2	Ἀμεσσαὶ			2	Amasa
+2SA 20:10	1	2	Ἀμεσσαὶ	Ἀμεσσαί	indeclinable personal name, nominative in context	1	Amasa
+2SA 20:10	1	2	Ἀμεσσαὶ			2	Amessai
 2SA 20:10	1	3	οὐκ	οὐ	particle	1	not
-2SA 20:10	1	4	ἐφυλάξατο	φυλάσσω	aorist middle indicative, third singular	1	he kept watch
+2SA 20:10	1	4	ἐφυλάξατο	φυλάσσω	aorist middle indicative, third singular	1	guarded against
 2SA 20:10	1	4	ἐφυλάξατο			2	he stood guard
 2SA 20:10	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 2SA 20:10	1	6	μάχαιραν	μάχαιρα	noun, accusative feminine singular	1	knife
@@ -351,8 +351,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:10	1	36	Ἰωὰβ	Ἰωάβ	indeclinable personal name, nominative in context	1	Joab
 2SA 20:10	1	36	Ἰωὰβ			2	Ioab
 2SA 20:10	1	37	καὶ	καί	conjunction	1	and
-2SA 20:10	1	38	Ἀβισαεὶ	Ἀβισαεί	indeclinable personal name, accusative in context	1	Abisaei
-2SA 20:10	1	38	Ἀβισαεὶ			2	Abishai
+2SA 20:10	1	38	Ἀβισαεὶ	Ἀβισαεί	indeclinable personal name, accusative in context	1	Abishai
+2SA 20:10	1	38	Ἀβισαεὶ			2	Abisaei
 2SA 20:10	1	39	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 20:10	1	40	ἀδελφὸς	ἀδελφός	noun, nominative masculine singular	1	brother
 2SA 20:10	1	41	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -363,8 +363,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:10	1	44	Σαβεὲ	Σαβεέ	indeclinable place name, nominative in context	1	Sabee
 2SA 20:10	1	44	Σαβεὲ			2	Sheba
 2SA 20:10	1	45	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-2SA 20:10	1	46	Βοχορεί	Βοχορεί	indeclinable personal name, genitive in context	1	of Bochorei
-2SA 20:10	1	46	Βοχορεί			2	of Bichri
+2SA 20:10	1	46	Βοχορεί	Βοχορεί	indeclinable personal name, genitive in context	1	of Bichri
+2SA 20:10	1	46	Βοχορεί			2	of Bochorei
 2SA 20:11	1	1	Καὶ	καί	conjunction	1	and
 2SA 20:11	1	2	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
 2SA 20:11	1	3	ἔστη	ἵστημι	second aorist active indicative third singular, intransitive	1	stood
@@ -389,8 +389,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:11	1	20	Ἰωάβ	Ἰωάβ	indeclinable personal name, nominative in context	1	Joab
 2SA 20:11	1	20	Ἰωάβ			2	Ioab
 2SA 20:12	1	1	Καὶ	καί	conjunction	1	and
-2SA 20:12	1	2	Ἀμεσσαὶ	Ἀμεσσαί	indeclinable personal name, nominative in context	1	Amessai
-2SA 20:12	1	2	Ἀμεσσαὶ			2	Amasa
+2SA 20:12	1	2	Ἀμεσσαὶ	Ἀμεσσαί	indeclinable personal name, nominative in context	1	Amasa
+2SA 20:12	1	2	Ἀμεσσαὶ			2	Amessai
 2SA 20:12	1	3	πεφυρμένος	φύρω	perfect middle/passive participle, nominative masculine singular	1	drenched
 2SA 20:12	1	4	ἐν	ἐν	preposition with dative in an expression of condition	1	in
 2SA 20:12	1	5	τῷ	ὁ	article, dative neuter singular	1	the
@@ -398,13 +398,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:12	1	7	ἐν	ἐν	preposition with the dative	1	in
 2SA 20:12	1	8	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
 2SA 20:12	1	8	μέσῳ			2	the middle
-2SA 20:12	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
+2SA 20:12	1	9	τῆς	ὁ	article, genitive feminine singular	1	of the
 2SA 20:12	1	10	τρίβου	τρίβος	noun, genitive feminine singular	1	road
 2SA 20:12	1	11	καὶ	καί	conjunction	1	and
 2SA 20:12	1	12	ἴδεν	ὁράω	aorist active indicative, third singular	1	saw
 2SA 20:12	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 20:12	1	14	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
-2SA 20:12	1	15	ὅτι	ὅτι	causal conjunction	1	because
+2SA 20:12	1	15	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 2SA 20:12	1	16	εἱστήκει	ἵστημι	pluperfect active indicative, 3rd sg. intransitive	1	(all the people) stood
 2SA 20:12	1	17	πᾶς	πᾶς	adjective/pronoun, nominative masc. sg. with participle ὁ ζητῶν, everyone	1	everyone
 2SA 20:12	1	18	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -413,8 +413,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:12	1	21	ἀπέστρεψε	ἀποστρέφω	aorist active indicative, third singular	1	brought back
 2SA 20:12	1	21	ἀπέστρεψε			2	restored
 2SA 20:12	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
-2SA 20:12	1	23	Ἀμεσσαὶ	Ἀμεσσαί	indeclinable personal name, nominative in context	1	Amessai
-2SA 20:12	1	23	Ἀμεσσαὶ			2	Amasa
+2SA 20:12	1	23	Ἀμεσσαὶ	Ἀμεσσαί	indeclinable personal name, nominative in context	1	Amasa
+2SA 20:12	1	23	Ἀμεσσαὶ			2	Amessai
 2SA 20:12	1	24	ἐκ	ἐκ	preposition with the genitive	1	from
 2SA 20:12	1	25	τῆς	ὁ	article, genitive feminine singular	1	the
 2SA 20:12	1	26	τρίβου	τρίβος	noun, genitive feminine singular	1	road
@@ -455,8 +455,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:13	1	16	Σαβεὲ	Σαβεέ	indeclinable place name, nominative in context	1	Sabee
 2SA 20:13	1	16	Σαβεὲ			2	Sheba
 2SA 20:13	1	17	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-2SA 20:13	1	18	Βοχορεί	Βοχορεί	indeclinable personal name, genitive in context	1	of Bochorei
-2SA 20:13	1	18	Βοχορεί			2	of Bichri
+2SA 20:13	1	18	Βοχορεί	Βοχορεί	indeclinable personal name, genitive in context	1	of Bichri
+2SA 20:13	1	18	Βοχορεί			2	of Bochorei
 2SA 20:14	1	1	Καὶ	καί	conjunction	1	and
 2SA 20:14	1	2	διῆλθεν	διέρχομαι	aorist active indicative, 3rd sg. with ἡ νὺξ	1	passed
 2SA 20:14	1	3	ἐν	ἐν	preposition with the dative	1	in
@@ -485,7 +485,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:15	1	2	παρεγενήθησαν			2	came
 2SA 20:15	1	3	καὶ	καί	conjunction	1	and
 2SA 20:15	1	4	ἐπολιόρκουν	πολιορκέω	imperfect active indicative, third plural	1	they were besieging
-2SA 20:15	1	5	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+2SA 20:15	1	5	ἐπ᾽	ἐπί	preposition with the accusative	1	against
 2SA 20:15	1	6	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 2SA 20:15	1	7	ἐν	ἐν	preposition with the dative	1	in
 2SA 20:15	1	8	Ἀβὲλ	Ἄβελ	indeclinable place name, accusative in context	1	Abel
@@ -505,7 +505,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:15	1	20	τῷ	ὁ	article, dative neuter singular	1	the
 2SA 20:15	1	21	προτειχίσματι	προτείχισμα	noun, dative neuter singular	1	outer wall
 2SA 20:15	1	22	Καὶ	καί	conjunction	1	and
-2SA 20:15	1	23	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+2SA 20:15	1	23	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 2SA 20:15	1	24	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 20:15	1	25	λαὸς	λαός	noun, nominative masculine singular	1	people
 2SA 20:15	1	26	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -660,8 +660,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:21	1	10	Σαβεὲ	Σαβεέ	indeclinable place name, nominative in context	1	Sabee
 2SA 20:21	1	10	Σαβεὲ			2	Sheba
 2SA 20:21	1	11	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2SA 20:21	1	12	Βοχορεὶ	Βοχορεί	indeclinable personal name, genitive in context	1	of Bochorei
-2SA 20:21	1	12	Βοχορεὶ			2	of Bichri
+2SA 20:21	1	12	Βοχορεὶ	Βοχορεί	indeclinable personal name, genitive in context	1	of Bichri
+2SA 20:21	1	12	Βοχορεὶ			2	of Bochorei
 2SA 20:21	1	13	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 2SA 20:21	1	14	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2SA 20:21	1	15	καὶ	καί	conjunction	1	and
@@ -727,8 +727,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:22	1	23	Σαβεὲ	Σαβέε	indeclinable personal name, genitive in context	1	of Sabee
 2SA 20:22	1	23	Σαβεὲ			2	of Sheba
 2SA 20:22	1	24	υἱοῦ	υἱός	noun, genitive masculine singular	1	of the son
-2SA 20:22	1	25	Βοχορεί	Βοχορεί	indeclinable personal name, genitive in context	1	of Bochorei
-2SA 20:22	1	25	Βοχορεί			2	of Bichri
+2SA 20:22	1	25	Βοχορεί	Βοχορεί	indeclinable personal name, genitive in context	1	of Bichri
+2SA 20:22	1	25	Βοχορεί			2	of Bochorei
 2SA 20:22	1	26	καὶ	καί	conjunction	1	and
 2SA 20:22	1	27	ἀφεῖλε	ἀφαιρέω	aorist active indicative, third singular	1	removed
 2SA 20:22	1	27	ἀφεῖλε			2	took away
@@ -769,7 +769,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:23	1	1	Καὶ	καί	conjunction	1	and
 2SA 20:23	1	2	Ἰωὰβ	Ἰωάβ	indeclinable personal name, nominative in context	1	Joab
 2SA 20:23	1	2	Ἰωὰβ			2	Ioab
-2SA 20:23	1	3	πρὸς	πρός	preposition with the accusative	1	to
+2SA 20:23	1	3	πρὸς	πρός	preposition with the accusative	1	over
 2SA 20:23	1	4	πάσῃ	πᾶς	adjective, dative feminine singular	1	all
 2SA 20:23	1	5	τῇ	ὁ	article, dative feminine singular	1	the
 2SA 20:23	1	6	δυνάμει	δύναμις	noun, dative feminine singular	1	strength
@@ -779,18 +779,18 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 20:23	1	10	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2SA 20:23	1	11	Ἰωδαὲ	Ἰωδαέ	indeclinable personal name, genitive in context	1	of Iodae
 2SA 20:23	1	11	Ἰωδαὲ			2	of Jehoiada
-2SA 20:23	1	12	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2SA 20:23	1	12	ἐπὶ	ἐπί	preposition (case from context)	1	over
 2SA 20:23	1	13	τοῦ	ὁ	article, genitive singular	1	the
-2SA 20:23	1	14	Χερεθθεὶ	Χερεθθεί	indeclinable collective name, nominative in context	1	Chereththi
-2SA 20:23	1	14	Χερεθθεὶ			2	Cherethites
+2SA 20:23	1	14	Χερεθθεὶ	Χερεθθεί	indeclinable collective name, nominative in context	1	Cherethites
+2SA 20:23	1	14	Χερεθθεὶ			2	Chereththi
 2SA 20:23	1	15	καὶ	καί	conjunction	1	and
-2SA 20:23	1	16	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2SA 20:23	1	16	ἐπὶ	ἐπί	preposition (case from context)	1	over
 2SA 20:23	1	17	τοῦ	ὁ	article, genitive singular	1	the
-2SA 20:23	1	18	Φελεθθεί	Φελεθθεί	indeclinable collective name, nominative in context	1	Pheleththi
-2SA 20:23	1	18	Φελεθθεί			2	Pelethites
+2SA 20:23	1	18	Φελεθθεί	Φελεθθεί	indeclinable collective name, nominative in context	1	Pelethites
+2SA 20:23	1	18	Φελεθθεί			2	Pheleththi
 2SA 20:24	1	1	Καὶ	καί	conjunction	1	and
 2SA 20:24	1	2	Ἀδωνιρὰμ	Ἀδωνιράμ	indeclinable personal name, nominative in context	1	Adoniram
-2SA 20:24	1	3	ἐπὶ	ἐπί	preposition	1	on
+2SA 20:24	1	3	ἐπὶ	ἐπί	preposition	1	over
 2SA 20:24	1	4	τοῦ	ὁ	article, genitive singular	1	the
 2SA 20:24	1	5	φόρου	φόρος	noun, genitive masculine singular	1	tribute
 2SA 20:24	1	5	φόρου			2	forced labor

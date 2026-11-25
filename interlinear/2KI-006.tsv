@@ -3,7 +3,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 6:1	1	2	εἶπον	λέγω	aorist active indicative, third plural	1	they said
 2KI 6:1	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 2KI 6:1	1	4	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-2KI 6:1	1	5	τῶν	ὁ	article, genitive plural	1	the
+2KI 6:1	1	5	τῶν	ὁ	article, genitive plural	1	of the
 2KI 6:1	1	6	προφητῶν	προφήτης	noun, genitive masculine plural	1	prophets
 2KI 6:1	1	7	πρὸς	πρός	preposition with the accusative	1	to
 2KI 6:1	1	8	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
@@ -104,7 +104,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 6:6	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2KI 6:6	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 6:6	1	4	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
-2KI 6:6	1	5	τοῦ	ὁ	article, genitive singular	1	the
+2KI 6:6	1	5	τοῦ	ὁ	article, genitive singular	1	of
 2KI 6:6	1	6	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 2KI 6:6	1	7	ποῦ	ποῦ	interrogative adverb of place	1	where
 2KI 6:6	1	8	ἔπεσε	πίπτω	aorist active indicative, third singular	1	fell
@@ -350,7 +350,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 6:17	1	3	Ἐλισσαιὲ			2	Elisha
 2KI 6:17	1	4	καὶ	καί	conjunction	1	and
 2KI 6:17	1	5	εἶπε	λέγω	aorist active indicative, third singular	1	said
-2KI 6:17	1	6	Κύριε	κύριος	noun, vocative masculine singular	1	the Lord
+2KI 6:17	1	6	Κύριε	κύριος	vocative singular masculine noun	1	O Lord
 2KI 6:17	1	7	διάνοιξον	διανοίγω	aorist active imperative, second singular	1	open
 2KI 6:17	1	8	δὴ	δή	emphatic particle	1	please
 2KI 6:17	1	8	δὴ			2	now
@@ -456,7 +456,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 6:20	1	10	ἄνοιξον	ἀνοίγω	aorist active imperative, second singular	1	open
 2KI 6:20	1	11	δὴ	δή	emphatic particle	1	please
 2KI 6:20	1	11	δὴ			2	now
-2KI 6:20	1	12	Κύριε	κύριος	noun vocative masculine singular	1	the Lord
+2KI 6:20	1	12	Κύριε	κύριος	vocative singular masculine noun	1	O Lord
 2KI 6:20	1	13	τοὺς	ὁ	article, accusative masculine plural	1	the
 2KI 6:20	1	14	ὀφθαλμοὺς	ὀφθαλμός	noun, accusative masculine plural	1	eyes
 2KI 6:20	1	15	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -578,7 +578,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 6:24	1	19	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2KI 6:24	1	20	Σαμάρειαν	Σαμάρεια	noun, accusative feminine singular; place name	1	Samaria
 2KI 6:25	1	1	Καὶ	καί	conjunction	1	and
-2KI 6:25	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
+2KI 6:25	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	there was
 2KI 6:25	1	3	λιμὸς	λιμός	noun, nominative masculine singular	1	famine
 2KI 6:25	1	4	μέγας	μέγας	adjective, nominative masculine singular	1	great
 2KI 6:25	1	5	ἐν	ἐν	preposition with the dative	1	in
@@ -740,7 +740,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 6:31	1	8	καὶ	καί	conjunction	1	and
 2KI 6:31	1	9	τάδε	ὅδε	demonstrative pronoun, accusative neuter plural, introducing the message 'these things'	1	these things
 2KI 6:31	1	10	προσθείη	προστίθημι	aorist active optative, third singular	1	may he add
-2KI 6:31	1	11	εἰ	εἰ	oath particle implying a negative assertion	1	surely not
+2KI 6:31	1	11	εἰ	εἰ	oath particle implying a negative assertion	1	if
 2KI 6:31	1	12	στήσεται	ἵστημι	future middle indicative, third singular	1	shall stand
 2KI 6:31	1	13	ἡ	ὁ	article, nominative feminine singular	1	the
 2KI 6:31	1	14	κεφαλὴ	κεφαλή	noun, nominative feminine singular	1	head
@@ -785,7 +785,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 6:32	1	31	πρεσβυτέρους	πρεσβύτης	noun, accusative masc. pl. after τοὺς	1	elders
 2KI 6:32	1	32	μὴ	μή	negative particle	1	not
 2KI 6:32	1	33	εἴδετε	ὁράω	aorist active indicative, 2nd pl.	1	you saw
-2KI 6:32	1	34	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+2KI 6:32	1	34	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 2KI 6:32	1	35	ἀπέστειλεν	ἀποστέλλω	aorist active indicative, third singular	1	sent
 2KI 6:32	1	36	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 6:32	1	37	υἱὸς	υἱός	noun, nominative masculine singular	1	son
@@ -843,7 +843,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 6:33	1	18	κακία	κακία	noun, nominative feminine singular	1	disaster
 2KI 6:33	1	18	κακία			2	trouble
 2KI 6:33	1	19	παρὰ	παρά	preposition with genitive	1	from
-2KI 6:33	1	20	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+2KI 6:33	1	20	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 2KI 6:33	1	21	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 2KI 6:33	1	22	ὑπομενῶ	ὑπομένω	future active indicative, first singular	1	I will wait
 2KI 6:33	1	22	ὑπομενῶ			2	I will persevere

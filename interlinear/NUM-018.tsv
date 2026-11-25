@@ -41,8 +41,8 @@ NUM 18:2	1	1	Καὶ	καί	conjunction	1	and
 NUM 18:2	1	2	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 18:2	1	3	ἀδελφούς	ἀδελφός	noun, accusative masculine plural after τοὺς	1	brothers
 NUM 18:2	1	4	σου	σύ	pronoun, possessive genitive second singular	1	your
-NUM 18:2	1	5	φυλὴν	φυλή	noun, accusative feminine singular	1	clan
-NUM 18:2	1	5	φυλὴν			2	tribe
+NUM 18:2	1	5	φυλὴν	φυλή	noun, accusative feminine singular	1	tribe
+NUM 18:2	1	5	φυλὴν			2	clan
 NUM 18:2	1	6	Λευὶ	Λευί	indeclinable personal name, genitive in context	1	of Levi
 NUM 18:2	1	7	δῆμον	δῆμος	noun, accusative masculine singular	1	clan
 NUM 18:2	1	8	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -150,7 +150,7 @@ NUM 18:5	1	14	ἔσται	εἰμί	future indicative, third singular	1	it shall
 NUM 18:5	1	15	ἔτι	ἔτι	adverb of time	1	again
 NUM 18:5	1	15	ἔτι			2	any more
 NUM 18:5	1	16	θυμὸς	θυμός	noun, nominative masculine singular	1	anger
-NUM 18:5	1	17	ἐν	ἐν	preposition with the dative	1	in
+NUM 18:5	1	17	ἐν	ἐν	preposition with the dative	1	among
 NUM 18:5	1	18	τοῖς	ὁ	article, dative masculine plural	1	the
 NUM 18:5	1	19	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 NUM 18:5	1	20	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -165,7 +165,7 @@ NUM 18:6	1	8	Λευίτας	Λευίτης	proper noun, accusative masculine plu
 NUM 18:6	1	9	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 18:6	1	10	μέσου	μέσος	adjective, genitive neuter singular; substantival	1	midst
 NUM 18:6	1	10	μέσου			2	middle
-NUM 18:6	1	11	τῶν	ὁ	article, genitive plural	1	the
+NUM 18:6	1	11	τῶν	ὁ	article, genitive plural	1	of the
 NUM 18:6	1	12	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 18:6	1	13	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 18:6	1	14	δόμα	δόμα	noun, accusative neuter singular	1	gift
@@ -243,7 +243,7 @@ NUM 18:8	1	24	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive i
 NUM 18:8	1	25	σοὶ	σύ	personal pronoun, emphatic dative singular	1	to you
 NUM 18:8	1	26	δέδωκα	δίδωμι	perfect active indicative, first singular	1	I have given
 NUM 18:8	1	27	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
-NUM 18:8	1	28	εἰς	εἰς	preposition with the accusative	1	into
+NUM 18:8	1	28	εἰς	εἰς	preposition with the accusative	1	as
 NUM 18:8	1	29	γέρας	γέρας	noun, accusative neuter singular	1	a prerogative
 NUM 18:8	1	30	καὶ	καί	conjunction	1	and
 NUM 18:8	1	31	τοῖς	ὁ	article, dative neuter plural	1	the
@@ -361,11 +361,11 @@ NUM 18:11	1	35	σου	σύ	pronoun, possessive genitive second singular	1	your
 NUM 18:11	1	36	ἔδεται	ἐσθίω	future middle indicative, third singular	1	will eat
 NUM 18:11	1	37	αὐτά	αὐτός	pronoun, accusative neuter plural	1	them
 NUM 18:12	1	1	Πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
-NUM 18:12	1	2	ἀπαρχὴ	ἀπαρχή	noun, nominative feminine singular	1	first offering
+NUM 18:12	1	2	ἀπαρχὴ	ἀπαρχή	noun, nominative feminine singular	1	firstfruits
 NUM 18:12	1	3	ἐλαίου	ἔλαιον	noun, genitive neuter singular	1	oil
 NUM 18:12	1	4	καὶ	καί	conjunction	1	and
 NUM 18:12	1	5	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
-NUM 18:12	1	6	ἀπαρχὴ	ἀπαρχή	noun, nominative feminine singular	1	first offering
+NUM 18:12	1	6	ἀπαρχὴ	ἀπαρχή	noun, nominative feminine singular	1	firstfruits
 NUM 18:12	1	7	σίτου	σῖτος	noun, genitive masculine singular	1	of grain
 NUM 18:12	1	8	καὶ	καί	conjunction	1	and
 NUM 18:12	1	9	οἴνου	οἶνος	noun, genitive masculine singular	1	of wine
@@ -423,7 +423,7 @@ NUM 18:15	1	10	προσφέρουσι	προσφέρω	present active indicative
 NUM 18:15	1	11	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 NUM 18:15	1	12	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 18:15	1	13	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a man
-NUM 18:15	1	14	ἕως	ἕως	temporal conjunction/preposition	1	until
+NUM 18:15	1	14	ἕως	ἕως	temporal conjunction/preposition	1	to
 NUM 18:15	1	15	κτήνους	κτῆνος	noun, genitive neuter singular after ἕως	1	beast
 NUM 18:15	1	16	σοὶ	σύ	pronoun, dative second singular	1	for you
 NUM 18:15	1	17	ἔσται	εἰμί	future middle indicative, third singular	1	will be
@@ -487,9 +487,9 @@ NUM 18:17	1	21	θυσιαστήριον	θυσιαστήριον	noun, accusativ
 NUM 18:17	1	22	καὶ	καί	conjunction	1	and
 NUM 18:17	1	23	τὸ	ὁ	article, accusative neuter singular	1	the
 NUM 18:17	1	24	στέαρ	στέαρ	noun, accusative neuter singular	1	fat
-NUM 18:17	1	25	ἀνοίσεις	ἀναφέρω	future active indicative, 2nd sg.	1	you shall bring up/present
+NUM 18:17	1	25	ἀνοίσεις	ἀναφέρω	future active indicative, 2nd sg.	1	you shall offer
 NUM 18:17	1	26	κάρπωμα	κάρπωμα	noun, nominative neuter singular	1	offering
-NUM 18:17	1	27	εἰς	εἰς	preposition with the accusative	1	into
+NUM 18:17	1	27	εἰς	εἰς	preposition with the accusative	1	as
 NUM 18:17	1	28	ὀσμὴν	ὀσμή	noun, accusative feminine singular	1	aroma
 NUM 18:17	1	29	εὐωδίας	εὐωδία	noun, genitive feminine singular	1	of fragrance
 NUM 18:17	1	30	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
@@ -497,14 +497,14 @@ NUM 18:18	1	1	καὶ	καί	conjunction	1	and
 NUM 18:18	1	2	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 18:18	1	3	κρέα	κρέας	noun, accusative neuter plural	1	meat
 NUM 18:18	1	4	ἔσται	εἰμί	future indicative, third singular	1	will be
-NUM 18:18	1	5	σοι	σύ	personal pronoun, dative singular	1	to you
+NUM 18:18	1	5	σοι	σύ	personal pronoun, dative singular	1	yours
 NUM 18:18	1	6	καθὰ	καθά	comparative conjunction	1	just as
 NUM 18:18	1	6	καθὰ			2	as
 NUM 18:18	1	7	καὶ	καί	conjunction	1	and
 NUM 18:18	1	8	τὸ	ὁ	article, accusative neuter singular	1	the
 NUM 18:18	1	9	στηθύνιον	στηθύνιον	noun, accusative neuter singular	1	breast
 NUM 18:18	1	10	τοῦ	ὁ	article, genitive neuter singular	1	of the
-NUM 18:18	1	11	ἐπιθέματος	ἐπίθεμα	noun, genitive neuter singular	1	offering placed on the altar
+NUM 18:18	1	11	ἐπιθέματος	ἐπίθεμα	noun, genitive neuter singular	1	presented offering
 NUM 18:18	1	12	καὶ	καί	conjunction	1	and
 NUM 18:18	1	13	κατὰ	κατά	preposition with the accusative	1	according to
 NUM 18:18	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -574,7 +574,7 @@ NUM 18:20	1	13	μερὶς			2	portion
 NUM 18:20	1	14	οὐκ	οὐ	negative adverb with future indicative	1	not
 NUM 18:20	1	15	ἔσται	εἰμί	future indicative, third singular	1	will be
 NUM 18:20	1	16	σοι	σύ	personal pronoun, dative singular	1	to you
-NUM 18:20	1	17	ἐν	ἐν	preposition with the dative	1	in
+NUM 18:20	1	17	ἐν	ἐν	preposition with the dative	1	among
 NUM 18:20	1	18	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 NUM 18:20	1	19	ὅτι	ὅτι	conjunction	1	that
 NUM 18:20	1	20	ἐγὼ	ἐγώ	pronoun, nominative first singular emphatic	1	I
@@ -600,9 +600,9 @@ NUM 18:21	1	7	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 NUM 18:21	1	8	ἐπιδέκατον	ἐπιδέκατος	substantival adjective, accusative neuter singular	1	tithe
 NUM 18:21	1	9	ἐν	ἐν	preposition with the dative	1	in
 NUM 18:21	1	10	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, nominative in context	1	Israel
-NUM 18:21	1	11	ἐν	ἐν	preposition with the dative	1	in
+NUM 18:21	1	11	ἐν	ἐν	preposition with the dative	1	as
 NUM 18:21	1	12	κλήρῳ	κλῆρος	noun, dative masculine singular	1	a possession
-NUM 18:21	1	13	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
+NUM 18:21	1	13	ἀντὶ	ἀντί	preposition with the genitive	1	in return for
 NUM 18:21	1	14	τῶν	ὁ	article, genitive plural	1	the
 NUM 18:21	1	15	λειτουργιῶν	λειτουργία	noun, genitive feminine plural	1	services
 NUM 18:21	1	16	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -682,7 +682,7 @@ NUM 18:24	1	11	ἀφαίρεμα			2	portion set apart
 NUM 18:24	1	12	δέδωκα	δίδωμι	perfect active indicative, first singular	1	I have given
 NUM 18:24	1	13	τοῖς	ὁ	article, dative masculine plural	1	the
 NUM 18:24	1	14	Λευίταις	Λευίτης	noun, dative masculine plural	1	Levites
-NUM 18:24	1	15	ἐν	ἐν	preposition with the dative	1	in
+NUM 18:24	1	15	ἐν	ἐν	preposition with the dative	1	as
 NUM 18:24	1	16	κλήρῳ	κλῆρος	noun, dative masculine singular	1	a possession
 NUM 18:24	1	17	διὰ	διά	preposition with the accusative	1	because of
 NUM 18:24	1	18	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
@@ -811,7 +811,7 @@ NUM 18:30	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 18:30	1	8	ἀπαρχὴν	ἀπαρχή	noun, accusative feminine singular	1	firstfruits
 NUM 18:30	1	9	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	its
 NUM 18:30	1	10	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
-NUM 18:30	1	11	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	its
+NUM 18:30	1	11	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	it
 NUM 18:30	1	12	καὶ	καί	conjunction	1	and
 NUM 18:30	1	13	λογισθήσεται	λογίζομαι	future passive indicative, third singular	1	shall be reckoned
 NUM 18:30	1	14	τοῖς	ὁ	article, dative masculine plural	1	the
@@ -838,7 +838,7 @@ NUM 18:31	1	10	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 NUM 18:31	1	11	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 NUM 18:31	1	12	καὶ	καί	conjunction	1	and
 NUM 18:31	1	13	οἱ	ὁ	article, nominative masculine plural	1	the
-NUM 18:31	1	14	οἶκοι	οἶκος	noun, nominative masculine plural	1	houses
+NUM 18:31	1	14	οἶκοι	οἶκος	noun, nominative masculine plural	1	households
 NUM 18:31	1	15	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 NUM 18:31	1	16	ὅτι	ὅτι	causal conjunction	1	because
 NUM 18:31	1	17	μισθὸς	μισθός	noun, nominative masculine singular	1	wages
@@ -846,7 +846,7 @@ NUM 18:31	1	17	μισθὸς			2	pay
 NUM 18:31	1	18	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 NUM 18:31	1	19	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 NUM 18:31	1	20	ἐστιν	εἰμί	present indicative, third singular	1	is
-NUM 18:31	1	21	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
+NUM 18:31	1	21	ἀντὶ	ἀντί	preposition with the genitive	1	in return for
 NUM 18:31	1	22	τῶν	ὁ	article, genitive plural	1	the
 NUM 18:31	1	23	λειτουργιῶν	λειτουργία	noun, genitive feminine plural	1	services
 NUM 18:31	1	24	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
@@ -870,7 +870,7 @@ NUM 18:32	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 18:32	1	11	ἀπαρχὴν	ἀπαρχή	noun, accusative feminine singular	1	firstfruits
 NUM 18:32	1	12	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	its
 NUM 18:32	1	13	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
-NUM 18:32	1	14	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	its
+NUM 18:32	1	14	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	it
 NUM 18:32	1	15	καὶ	καί	conjunction	1	and
 NUM 18:32	1	16	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 18:32	1	17	ἅγια	ἅγιος	adjective, nominative neuter plural; used substantivally	1	holy things

@@ -17,7 +17,7 @@ GEN 32:1	1	12	ἴδε	ὁράω	aorist active imperative, second singular	1	look
 GEN 32:1	1	12	ἴδε			2	see
 GEN 32:1	1	13	παρεμβολὴν	παρεμβολή	noun, accusative feminine singular	1	camp
 GEN 32:1	1	13	παρεμβολὴν			2	encampment
-GEN 32:1	1	14	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+GEN 32:1	1	14	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 GEN 32:1	1	15	παρεμβεβληκυῖαν	παρεμβάλλω	perfect active participle, nominative feminine singular	1	encamped
 GEN 32:1	1	16	καὶ	καί	conjunction	1	and
 GEN 32:1	1	17	συνήντησαν	συναντάω	aorist active indicative, third plural	1	met
@@ -35,7 +35,7 @@ GEN 32:2	1	5	ἶδεν	ὁράω	aorist active indicative, third singular	1	saw
 GEN 32:2	1	6	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 GEN 32:2	1	7	παρεμβολὴ	παρεμβολή	noun, nominative feminine singular	1	camp
 GEN 32:2	1	7	παρεμβολὴ			2	encampment
-GEN 32:2	1	8	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+GEN 32:2	1	8	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 GEN 32:2	1	9	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 GEN 32:2	1	10	καὶ	καί	conjunction	1	and
 GEN 32:2	1	11	ἐκάλεσε	καλέω	aorist active indicative, third singular	1	called
@@ -63,12 +63,12 @@ GEN 32:3	1	11	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine si
 GEN 32:3	1	12	εἰς	εἰς	preposition with the accusative	1	into
 GEN 32:3	1	13	γῆν	γῆ	noun, accusative feminine singular	1	land
 GEN 32:3	1	13	γῆν			2	country
-GEN 32:3	1	14	Σηεὶρ	Σηείρ	indeclinable place name, genitive in context	1	Seir
-GEN 32:3	1	15	εἰς	εἰς	preposition with accusative	1	as
+GEN 32:3	1	14	Σηεὶρ	Σηείρ	indeclinable place name, genitive in context	1	of Seir
+GEN 32:3	1	15	εἰς	εἰς	preposition with accusative	1	to
 GEN 32:3	1	15	εἰς			2	for
 GEN 32:3	1	16	χώραν	χώρα	noun, accusative feminine singular; place designation in apposition	1	country
 GEN 32:3	1	16	χώραν			2	region
-GEN 32:3	1	17	Ἐδώμ	Ἐδώμ	indeclinable place name, genitive in context	1	Edom
+GEN 32:3	1	17	Ἐδώμ	Ἐδώμ	indeclinable place name, genitive in context	1	of Edom
 GEN 32:4	1	1	Καὶ	καί	conjunction	1	and
 GEN 32:4	1	2	ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, third singular	1	commanded
 GEN 32:4	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
@@ -206,15 +206,15 @@ GEN 32:8	1	9	μίαν	εἷς	numeral, accusative feminine singular	1	one
 GEN 32:8	1	10	καὶ	καί	conjunction	1	and
 GEN 32:8	1	11	ἐκκόψῃ	ἐκκόπτω	aorist active subjunctive, third singular	1	cuts down
 GEN 32:8	1	11	ἐκκόψῃ			2	destroys
-GEN 32:8	1	12	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
+GEN 32:8	1	12	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 GEN 32:8	1	13	ἔσται	εἰμί	future middle indicative, third singular	1	will be
 GEN 32:8	1	14	ἡ	ὁ	article, nominative feminine singular	1	the
 GEN 32:8	1	15	παρεμβολὴ	παρεμβολή	noun, nominative feminine singular	1	camp
 GEN 32:8	1	15	παρεμβολὴ			2	encampment
 GEN 32:8	1	16	ἡ	ὁ	article, nominative feminine singular	1	the
 GEN 32:8	1	17	δευτέρα	δεύτερος	ordinal, nominative feminine singular	1	second
-GEN 32:8	1	18	εἰς	εἰς	preposition with the accusative	1	into
-GEN 32:8	1	19	τὸ	ὁ	article, accusative neuter singular	1	the
+GEN 32:8	1	18	εἰς	εἰς	preposition with the accusative	1	so as
+GEN 32:8	1	19	τὸ	ὁ	article, accusative neuter singular	1	(marks the infinitive)
 GEN 32:8	1	20	σώζεσθαι	σώζω	present middle/passive infinitive	1	to escape
 GEN 32:8	1	20	σώζεσθαι			2	to be saved
 GEN 32:9	1	1	Εἶπε	λέγω	aorist active indicative, third singular	1	said
@@ -317,7 +317,7 @@ GEN 32:11	1	18	πατάξῃ			2	he attacks
 GEN 32:11	1	19	με	ἐγώ	personal pronoun, accusative singular	1	me
 GEN 32:11	1	20	καὶ	καί	conjunction	1	and
 GEN 32:11	1	21	μητέρα	μήτηρ	noun, accusative feminine singular	1	mother
-GEN 32:11	1	22	ἐπὶ	ἐπί	preposition with the genitive	1	upon
+GEN 32:11	1	22	ἐπὶ	ἐπί	preposition with the genitive	1	with
 GEN 32:11	1	23	τέκνοις	τέκνον	noun, dative neuter plural	1	children
 GEN 32:12	1	1	Σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 GEN 32:12	1	2	δὲ	δέ	postpositive conjunction	1	now
@@ -507,7 +507,7 @@ GEN 32:19	1	18	τούτων	οὗτος	demonstrative pronoun, genitive masculin
 GEN 32:19	1	19	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 GEN 32:19	1	20	κατὰ	κατά	preposition with accusative	1	according to
 GEN 32:19	1	21	τὸ	ὁ	article, accusative neuter singular	1	the
-GEN 32:19	1	22	ῥῆμα	ῥῆμα	noun, accusative neuter singular	1	thing
+GEN 32:19	1	22	ῥῆμα	ῥῆμα	noun, accusative neuter singular	1	message
 GEN 32:19	1	22	ῥῆμα			2	word
 GEN 32:19	1	23	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 GEN 32:19	1	24	λαλήσατε	λαλέω	aorist active imperative, second plural	1	speak
@@ -547,8 +547,8 @@ GEN 32:20	1	20	τοῖς	ὁ	article, dative neuter plural	1	the
 GEN 32:20	1	21	προπορευομένοις	προπορεύομαι	present middle participle, dative neuter plural; agrees with δώροις	1	going ahead
 GEN 32:20	1	22	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 GEN 32:20	1	23	καὶ	καί	conjunction	1	and
-GEN 32:20	1	24	μετὰ	μετά	preposition; with genitive, accompaniment; with accusative, sequence	1	with
-GEN 32:20	1	24	μετὰ			2	after
+GEN 32:20	1	24	μετὰ	μετά	preposition with the accusative	1	after
+GEN 32:20	1	24	μετὰ			2	with
 GEN 32:20	1	25	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 GEN 32:20	1	26	ὄψομαι	ὁράω	future middle indicative, first singular	1	I will see
 GEN 32:20	1	26	ὄψομαι			2	I will look
@@ -620,7 +620,7 @@ GEN 32:23	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	
 GEN 32:23	1	4	καὶ	καί	conjunction	1	and
 GEN 32:23	1	5	διέβη	διαβαίνω	aorist active indicative, third singular	1	crossed
 GEN 32:23	1	5	διέβη			2	went across
-GEN 32:23	1	6	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 32:23	1	6	τὸν	ὁ	article with a personal name, accusative masculine singular	1	the
 GEN 32:23	1	7	χειμάῤῥουν	χειμάρρους	noun, accusative masculine singular	1	torrent
 GEN 32:23	1	7	χειμάῤῥουν			2	stream
 GEN 32:23	1	8	καὶ	καί	conjunction	1	and
@@ -641,7 +641,7 @@ GEN 32:24	1	7	μετ᾽	μετά	preposition; with genitive, accompaniment; with
 GEN 32:24	1	7	μετ᾽			2	after
 GEN 32:24	1	8	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; complement of the preceding word	1	him
 GEN 32:24	1	9	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	a man
-GEN 32:24	1	10	ἕως	ἕως	preposition with the genitive	1	as far as
+GEN 32:24	1	10	ἕως	ἕως	preposition with the genitive	1	until
 GEN 32:24	1	10	ἕως			2	up to
 GEN 32:24	1	11	πρωΐ	πρωΐ	adverb of time	1	morning
 GEN 32:24	1	11	πρωΐ			2	early morning
@@ -652,7 +652,7 @@ GEN 32:25	1	3	ὅτι	ὅτι	content conjunction	1	that
 GEN 32:25	1	4	οὐ	οὐ	negative particle	1	not
 GEN 32:25	1	5	δύναται	δύναμαι	present middle indicative, third singular	1	could prevail
 GEN 32:25	1	5	δύναται			2	is able
-GEN 32:25	1	6	πρὸς	πρός	preposition with accusative	1	to
+GEN 32:25	1	6	πρὸς	πρός	preposition with accusative	1	against
 GEN 32:25	1	6	πρὸς			2	toward
 GEN 32:25	1	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 GEN 32:25	1	8	καὶ	καί	conjunction	1	and
@@ -820,7 +820,7 @@ GEN 32:31	1	14	ἐπέσκαζε			2	limped
 GEN 32:31	1	15	τῷ	ὁ	article, dative masculine singular	1	the
 GEN 32:31	1	16	μηρῷ	μηρός	noun, dative masculine singular	1	thigh
 GEN 32:31	1	17	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
-GEN 32:32	1	1	Ἕνεκεν	ἕνεκα	preposition with the genitive	1	for the sake of
+GEN 32:32	1	1	Ἕνεκεν	ἕνεκα	preposition with the genitive	1	because of
 GEN 32:32	1	2	γὰρ	γάρ	postpositive conjunction	1	for
 GEN 32:32	1	3	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	this
 GEN 32:32	1	4	οὐ	οὐ	negative particle in the emphatic negation οὐ μή	1	by no means
@@ -845,7 +845,7 @@ GEN 32:32	1	18	πλάτους			2	breadth
 GEN 32:32	1	19	τοῦ	ὁ	article, genitive masculine singular	1	of the
 GEN 32:32	1	20	μηροῦ	μηρός	noun, genitive masculine singular	1	thigh
 GEN 32:32	1	21	Ἰακώβ	Ἰακώβ	indeclinable personal name, genitive in context	1	Jacob
-GEN 32:32	1	22	ἕως	ἕως	preposition with the genitive	1	as far as
+GEN 32:32	1	22	ἕως	ἕως	preposition with the genitive	1	until
 GEN 32:32	1	22	ἕως			2	up to
 GEN 32:32	1	23	τῆς	ὁ	article, genitive feminine singular	1	the
 GEN 32:32	1	24	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day

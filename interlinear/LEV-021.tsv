@@ -17,10 +17,10 @@ LEV 21:1	1	15	πρὸς	πρός	preposition with the accusative	1	to
 LEV 21:1	1	16	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 LEV 21:1	1	17	ἐν	ἐν	preposition with the dative	1	in
 LEV 21:1	1	18	ταῖς	ὁ	article, dative feminine plural	1	the
-LEV 21:1	1	19	ψυχαῖς	ψυχή	noun, dative feminine plural	1	persons
+LEV 21:1	1	19	ψυχαῖς	ψυχή	noun, dative feminine plural	1	dead bodies
 LEV 21:1	1	20	οὐ	οὐ	negative adverb with future indicative	1	not
 LEV 21:1	1	21	μιανθήσονται	μιαίνω	future passive indicative, third plural	1	they shall be defiled
-LEV 21:1	1	22	ἐν	ἐν	preposition with the dative	1	in
+LEV 21:1	1	22	ἐν	ἐν	preposition with the dative	1	among
 LEV 21:1	1	23	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 21:1	1	24	ἔθνει	ἔθνος	noun, dative neuter singular	1	people
 LEV 21:1	1	25	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -62,7 +62,7 @@ LEV 21:3	1	14	μιανθήσεται	μιαίνω	future passive indicative, thi
 LEV 21:4	1	1	Οὐ	οὐ	negative particle	1	not
 LEV 21:4	1	2	μιανθήσεται	μιαίνω	future passive indicative, third singular	1	he shall be defiled
 LEV 21:4	1	3	ἐξάπινα	ἐξάπινα	adverb	1	suddenly
-LEV 21:4	1	4	ἐν	ἐν	preposition with the dative	1	in
+LEV 21:4	1	4	ἐν	ἐν	preposition with the dative	1	among
 LEV 21:4	1	5	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 21:4	1	6	λαῷ	λαός	noun, dative masculine singular	1	people
 LEV 21:4	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -218,7 +218,7 @@ LEV 21:10	1	36	οὐ	οὐ	negative particle	1	not
 LEV 21:10	1	37	διαῤῥήξει	διαρρήγνυμι	future active indicative, third singular	1	he shall tear
 LEV 21:11	1	1	καὶ	καί	conjunction	1	and
 LEV 21:11	1	2	ἐπὶ	ἐπί	preposition with dative	1	for
-LEV 21:11	1	3	πάσῃ	πᾶς	adjective dative feminine singular	1	all
+LEV 21:11	1	3	πάσῃ	πᾶς	adjective dative feminine singular	1	any
 LEV 21:11	1	4	ψυχῇ	ψυχή	noun, dative feminine singular	1	person
 LEV 21:11	1	5	τετελευτηκυίᾳ	τελευτάω	perfect active participle, dative feminine singular	1	dead
 LEV 21:11	1	6	οὐκ	οὐ	particle	1	not
@@ -254,7 +254,7 @@ LEV 21:12	1	19	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 21:12	1	20	χριστὸν	χριστός	adjective, nominative neuter singular	1	anointing
 LEV 21:12	1	21	τοῦ	ὁ	article, genitive masculine singular	1	of the
 LEV 21:12	1	22	Θεοῦ	θεός	noun, genitive masculine singular	1	God
-LEV 21:12	1	23	ἐπ᾽	ἐπί	preposition with the accusative, elided	1	against
+LEV 21:12	1	23	ἐπ᾽	ἐπί	preposition with dative, elided	1	upon
 LEV 21:12	1	24	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 LEV 21:12	1	25	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 LEV 21:12	1	26	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -293,7 +293,7 @@ LEV 21:15	1	3	βεβηλώσει	βεβηλόω	future active indicative, third 
 LEV 21:15	1	4	τὸ	ὁ	article, nominative neuter singular	1	the
 LEV 21:15	1	5	σπέρμα	σπέρμα	noun, nominative neuter singular	1	seed
 LEV 21:15	1	6	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-LEV 21:15	1	7	ἐν	ἐν	preposition with the dative	1	in
+LEV 21:15	1	7	ἐν	ἐν	preposition with the dative	1	among
 LEV 21:15	1	8	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 21:15	1	9	λαῷ	λαός	noun, dative masculine singular	1	people
 LEV 21:15	1	10	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -351,7 +351,7 @@ LEV 21:18	1	13	χωλὸς	χωλός	adjective, nominative masculine singular	1
 LEV 21:18	1	14	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 21:18	1	15	τυφλὸς	τυφλός	adjective, nominative masculine singular	1	blind
 LEV 21:18	1	16	ἢ	ἤ	disjunctive conjunction	1	or
-LEV 21:18	1	17	κολοβόριν	κολοβόρριν	adjective, nominative masculine singular	1	short-nosed
+LEV 21:18	1	17	κολοβόριν	κολοβόρριν	adjective, nominative masculine singular	1	slit-nosed
 LEV 21:18	1	18	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 21:18	1	19	ὠτότμητος	ὠτότμητος	adjective, nominative masculine singular	1	with a cut ear
 LEV 21:19	1	1	ἢ	ἤ	disjunctive conjunction	1	or
@@ -368,7 +368,7 @@ LEV 21:19	1	11	ποδὸς	πούς	noun, genitive masculine singular	1	of a foo
 LEV 21:20	1	1	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 21:20	1	2	κυρτὸς	κυρτός	adjective, nominative masculine singular	1	hunchbacked
 LEV 21:20	1	3	ἢ	ἤ	disjunctive conjunction	1	or
-LEV 21:20	1	4	ἔφηλος	ἔφηλος	adjective, nominative masculine singular	1	with a blemish
+LEV 21:20	1	4	ἔφηλος	ἔφηλος	adjective, nominative masculine singular	1	with a white spot in the eye
 LEV 21:20	1	5	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 21:20	1	6	πτίλος	πτίλος	adjective, nominative masculine singular	1	with inflamed eyelids
 LEV 21:20	1	7	τοῖς	ὁ	article, dative neuter plural	1	the
@@ -383,7 +383,7 @@ LEV 21:20	1	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 LEV 21:20	1	16	ψώρα	ψώρα	noun, accusative feminine singular	1	scab
 LEV 21:20	1	17	ἀγρία	ἄγριος	adjective, accusative feminine singular	1	severe
 LEV 21:20	1	18	ἢ	ἤ	disjunctive conjunction	1	or
-LEV 21:20	1	19	λειχὴν	λειχήν	noun, accusative masculine singular	1	lichen
+LEV 21:20	1	19	λειχὴν	λειχήν	noun, accusative masculine singular	1	skin eruption
 LEV 21:20	1	20	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 21:20	1	21	μονόρχις	μονόρχις	adjective, nominative masculine singular	1	having one testicle
 LEV 21:21	1	1	πᾶς	πᾶς	adjective, nominative masculine singular	1	every

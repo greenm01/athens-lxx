@@ -22,7 +22,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:1	1	20	καὶ	καί	conjunction	1	and
 2KI 4:1	1	21	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 2KI 4:1	1	22	ἔγνως	γινώσκω	aorist active indicative, 2nd singular	1	know
-2KI 4:1	1	23	ὅτι	ὅτι	causal conjunction	1	because
+2KI 4:1	1	23	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 2KI 4:1	1	24	δοῦλός	δοῦλος	noun, nominative masculine singular	1	servant
 2KI 4:1	1	25	σου	σύ	personal pronoun, possessive genitive singular	1	your
 2KI 4:1	1	26	ἦν	εἰμί	imperfect indicative, third singular	1	was
@@ -362,7 +362,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:13	1	34	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2KI 4:13	1	35	ἐν	ἐν	preposition with the dative	1	in
 2KI 4:13	1	36	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
-2KI 4:13	1	37	τοῦ	ὁ	article, genitive singular	1	the
+2KI 4:13	1	37	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 4:13	1	38	λαοῦ	λαός	noun, genitive masculine singular	1	people
 2KI 4:13	1	39	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 2KI 4:13	1	40	εἰμὶ	εἰμί	present indicative, first singular	1	am
@@ -536,7 +536,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:21	1	9	κλίνην	κλίνη	noun, accusative feminine singular after ἐπὶ τὴν	1	bed
 2KI 4:21	1	10	τοῦ	ὁ	article, genitive singular	1	the
 2KI 4:21	1	11	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
-2KI 4:21	1	12	τοῦ	ὁ	article, genitive singular	1	the
+2KI 4:21	1	12	τοῦ	ὁ	article, genitive singular	1	of
 2KI 4:21	1	13	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 2KI 4:21	1	14	καὶ	καί	conjunction	1	and
 2KI 4:21	1	15	ἀπέκλεισε	ἀποκλείω	aorist active indicative, third singular	1	closed up
@@ -568,7 +568,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:22	1	20	ἕως	ἕως	preposition with the genitive	1	until
 2KI 4:22	1	21	τοῦ	ὁ	article, genitive singular	1	the
 2KI 4:22	1	22	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
-2KI 4:22	1	23	τοῦ	ὁ	article, genitive singular	1	the
+2KI 4:22	1	23	τοῦ	ὁ	article, genitive singular	1	of
 2KI 4:22	1	24	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 2KI 4:22	1	25	καὶ	καί	conjunction	1	and
 2KI 4:22	1	26	ἐπιστρέψω	ἐπιστρέφω	future active indicative, first singular	1	I will return
@@ -694,7 +694,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:27	1	20	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2KI 4:27	1	21	Ἐλισσαιέ	Ἐλισσαιέ	indeclinable personal name, accusative in context	1	Elissaie
 2KI 4:27	1	21	Ἐλισσαιέ			2	Elisha
-2KI 4:27	1	22	ἄφες	ἀφίημι	aorist active imperative, second singular	1	forgive
+2KI 4:27	1	22	ἄφες	ἀφίημι	aorist active imperative, second singular	1	let be
 2KI 4:27	1	23	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	her
 2KI 4:27	1	24	ὅτι	ὅτι	causal conjunction	1	because
 2KI 4:27	1	25	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -702,7 +702,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:27	1	26	ψυχὴ			2	life
 2KI 4:27	1	27	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 2KI 4:27	1	28	κατώδυνος	κατώδυνος	adjective, nominative feminine singular	1	deeply grieved
-2KI 4:27	1	29	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
+2KI 4:27	1	29	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
 2KI 4:27	1	30	καὶ	καί	conjunction	1	and
 2KI 4:27	1	31	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 2KI 4:27	1	32	ἀπέκρυψεν	ἀποκρύπτω	aorist active indicative, third singular	1	has hidden
@@ -1029,7 +1029,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 4:38	1	12	καὶ	καί	conjunction	1	and
 2KI 4:38	1	13	οἱ	ὁ	article, nominative masculine plural	1	the
 2KI 4:38	1	14	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-2KI 4:38	1	15	τῶν	ὁ	article, genitive plural	1	the
+2KI 4:38	1	15	τῶν	ὁ	article, genitive plural	1	of the
 2KI 4:38	1	16	προφητῶν	προφήτης	noun, genitive masculine plural	1	prophets
 2KI 4:38	1	17	ἐκάθηντο	κάθημαι	imperfect middle indicative, third plural	1	were sitting
 2KI 4:38	1	18	ἐνώπιον	ἐνώπιον	preposition with the genitive	1	before

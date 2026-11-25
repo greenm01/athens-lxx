@@ -85,7 +85,7 @@ JOS 24:3	1	7	Ἁβραὰμ	Ἀβραάμ	indeclinable personal name	1	Abraham
 JOS 24:3	1	8	ἐκ	ἐκ	preposition with the genitive	1	from
 JOS 24:3	1	9	τοῦ	ὁ	article, genitive singular	1	the
 JOS 24:3	1	10	πέραν	πέραν	adverb used substantivally	1	region beyond
-JOS 24:3	1	11	τοῦ	ὁ	article, genitive singular	1	the
+JOS 24:3	1	11	τοῦ	ὁ	article, genitive singular	1	of the
 JOS 24:3	1	12	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	river
 JOS 24:3	1	13	και	καί	conjunction	1	and
 JOS 24:3	1	14	ὡδήγησα	ὁδηγέω	aorist active indicative, first singular	1	I led
@@ -172,7 +172,7 @@ JOS 24:5	1	19	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter p
 JOS 24:5	1	20	ἐξήγαγεν	ἐξάγω	aorist active indicative, third singular	1	led out
 JOS 24:5	1	21	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 JOS 24:6	1	1	καὶ	καί	conjunction	1	and
-JOS 24:6	1	2	ἐξήγαγον	ἐξάγω	aorist active indicative, third plural	1	they led out
+JOS 24:6	1	2	ἐξήγαγον	ἐξάγω	aorist active indicative, first singular	1	I led out
 JOS 24:6	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
 JOS 24:6	1	4	πατέρας	πατήρ	noun, accusative masculine plural	1	fathers
 JOS 24:6	1	4	πατέρας			2	ancestors
@@ -208,7 +208,7 @@ JOS 24:7	1	2	ἀνεβοήσαμεν	ἀναβοάω	aorist active indicative, f
 JOS 24:7	1	3	πρὸς	πρός	preposition with the accusative	1	to
 JOS 24:7	1	4	Κύριον	κύριος	noun, accusative masculine singular	1	the Lord
 JOS 24:7	1	5	καὶ	καί	conjunction	1	and
-JOS 24:7	1	6	ἔδωκε	δίδωμι	aorist active indicative, third singular	1	gave
+JOS 24:7	1	6	ἔδωκε	δίδωμι	aorist active indicative, third singular	1	placed
 JOS 24:7	1	7	νεφέλην	νεφέλη	noun, accusative feminine singular	1	cloud
 JOS 24:7	1	8	καὶ	καί	conjunction	1	and
 JOS 24:7	1	9	γνόφον	γνόφος	noun, accusative masc. sg. after εἰς τὸν, thick darkness	1	darkness
@@ -220,8 +220,8 @@ JOS 24:7	1	14	τῶν	ὁ	article, genitive masculine plural	1	the
 JOS 24:7	1	15	Αἰγυπτίων	Αἰγύπτιος	noun, genitive masculine plural	1	Egyptians
 JOS 24:7	1	16	καὶ	καί	conjunction	1	and
 JOS 24:7	1	17	ἀπήγαγεν	ἀπάγω	aorist active indicative, third singular	1	he brought
-JOS 24:7	1	18	ἐπ᾽	ἐπί	elided preposition with the accusative	1	against
-JOS 24:7	1	18	ἐπ᾽			2	upon
+JOS 24:7	1	18	ἐπ᾽	ἐπί	elided preposition with the accusative	1	upon
+JOS 24:7	1	18	ἐπ᾽			2	against
 JOS 24:7	1	19	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 JOS 24:7	1	20	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 24:7	1	21	θάλασσαν	θάλασσα	noun, accusative feminine singular after εἰς τὴν	1	sea
@@ -234,7 +234,7 @@ JOS 24:7	1	27	ἴδοσαν	ὁράω	aorist active indicative, third plural	1	s
 JOS 24:7	1	28	οἱ	ὁ	article, nominative masculine plural	1	the
 JOS 24:7	1	29	ὀφθαλμοὶ	ὀφθαλμός	noun, nominative masculine plural after οἱ	1	eyes
 JOS 24:7	1	30	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
-JOS 24:7	1	31	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
+JOS 24:7	1	31	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	all that
 JOS 24:7	1	32	ἐποίησε	ποιέω	aorist active indicative, third singular	1	did
 JOS 24:7	1	33	Κύριος	κύριος	noun, nominative masculine singular, the Lord	1	the Lord
 JOS 24:7	1	34	ἐν	ἐν	preposition with the dative	1	in
@@ -292,8 +292,8 @@ JOS 24:9	1	6	Σεπφὼρ			2	Zippor
 JOS 24:9	1	7	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 JOS 24:9	1	8	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	of Moab
 JOS 24:9	1	9	καὶ	καί	conjunction	1	and
-JOS 24:9	1	10	παρετάξατο	πολεμέω	aorist active indicative, third singular	1	fought against
-JOS 24:9	1	11	τῷ	ὁ	article, dative masculine singular	1	[marks the name]
+JOS 24:9	1	10	παρετάξατο	πολεμέω	aorist active indicative, third singular	1	drew up for battle
+JOS 24:9	1	11	τῷ	ὁ	article, dative masculine singular	1	against
 JOS 24:9	1	12	Ἰσραὴλ	Ἰσραήλ	indeclinable proper name, dative in context	1	Israel
 JOS 24:9	1	13	καὶ	καί	conjunction	1	and
 JOS 24:9	1	14	ἀποστείλας	ἀποστέλλω	aorist active participle, nominative masculine singular	1	having sent
@@ -327,7 +327,7 @@ JOS 24:11	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 24:11	1	4	Ἰορδάνην	Ἰορδάνης	noun, accusative masculine singular; river name	1	Jordan
 JOS 24:11	1	5	καὶ	καί	conjunction	1	and
 JOS 24:11	1	6	παρεγενήθητε	παραγίνομαι	aorist middle indicative, second plural	1	you arrived
-JOS 24:11	1	7	εἰς	εἰς	preposition with the accusative	1	into
+JOS 24:11	1	7	εἰς	εἰς	preposition with the accusative	1	to
 JOS 24:11	1	8	Ἱεριχώ	Ἱεριχώ	indeclinable place name, case from syntax	1	Jericho
 JOS 24:11	1	9	καὶ	καί	conjunction	1	and
 JOS 24:11	1	10	ἐπολέμησαν	πολεμέω	aorist active indicative, third plural	1	they fought
@@ -370,7 +370,7 @@ JOS 24:12	1	3	προτέραν	πρότερος	adverbial comparative	1	ahead of
 JOS 24:12	1	3	προτέραν			2	before
 JOS 24:12	1	4	ὑμῶν	σύ	pronoun, genitive second plural	1	you
 JOS 24:12	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
-JOS 24:12	1	6	σφηκίαν	σφηκία	noun, accusative feminine singular	1	hornets
+JOS 24:12	1	6	σφηκίαν	σφηκία	noun, accusative feminine singular	1	a swarm of hornets
 JOS 24:12	1	6	σφηκίαν			2	a swarm of wasps
 JOS 24:12	1	7	καὶ	καί	conjunction	1	and
 JOS 24:12	1	8	ἐξέβαλεν	ἐκβάλλω	aorist active indicative, third singular	1	drove out
@@ -396,7 +396,7 @@ JOS 24:13	1	1	Καὶ	καί	conjunction	1	and
 JOS 24:13	1	2	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
 JOS 24:13	1	3	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	to you
 JOS 24:13	1	4	γῆν	γῆ	noun, accusative feminine singular	1	land
-JOS 24:13	1	5	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
+JOS 24:13	1	5	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	on
 JOS 24:13	1	6	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 JOS 24:13	1	7	οὐκ	οὐ	negative adverb	1	not
 JOS 24:13	1	8	ἐκοπιάσατε	κοπιάω	aorist active indicative, second plural	1	you labored
@@ -451,7 +451,7 @@ JOS 24:14	1	24	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plura
 JOS 24:14	1	25	ἐν	ἐν	preposition with the dative	1	in
 JOS 24:14	1	26	τῷ	ὁ	article, dative masculine singular	1	the
 JOS 24:14	1	27	πέραν	πέραν	adverb used substantivally	1	region beyond
-JOS 24:14	1	28	τοῦ	ὁ	article, genitive singular	1	the
+JOS 24:14	1	28	τοῦ	ὁ	article, genitive singular	1	of the
 JOS 24:14	1	29	ποταμοῦ	ποταμός	noun, genitive masculine singular after τοῦ	1	river
 JOS 24:14	1	30	καὶ	καί	conjunction	1	and
 JOS 24:14	1	31	ἐν	ἐν	preposition with the dative	1	in
@@ -485,7 +485,7 @@ JOS 24:15	1	21	τοῖς	ὁ	article, genitive masculine plural	1	the ones
 JOS 24:15	1	22	ἐν	ἐν	preposition with the dative	1	in
 JOS 24:15	1	23	τῷ	ὁ	article, dative masculine singular	1	the
 JOS 24:15	1	24	πέραν	πέραν	adverb used substantivally	1	region beyond
-JOS 24:15	1	25	τοῦ	ὁ	article, genitive singular	1	the
+JOS 24:15	1	25	τοῦ	ὁ	article, genitive singular	1	of the
 JOS 24:15	1	26	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	river
 JOS 24:15	1	27	εἴτε	εἴτε	disjunctive conjunction	1	whether
 JOS 24:15	1	27	εἴτε			2	or
@@ -494,8 +494,8 @@ JOS 24:15	1	29	θεοῖς	θεός	noun, dative masc. pl.	1	gods
 JOS 24:15	1	30	τῶν	ὁ	article, genitive masculine plural	1	of the
 JOS 24:15	1	31	Ἀμοῤῥαίων	Ἀμορραῖος	noun, genitive masculine plural	1	Amorites
 JOS 24:15	1	32	ἐν	ἐν	preposition with the dative	1	in
-JOS 24:15	1	33	οἷς	ὅς	relative pronoun, dative masculine plural	1	whose midst
-JOS 24:15	1	33	οἷς			2	whom
+JOS 24:15	1	33	οἷς	ὅς	relative pronoun, dative masculine plural	1	whom
+JOS 24:15	1	33	οἷς			2	whose midst
 JOS 24:15	1	34	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
 JOS 24:15	1	35	κατοικεῖτε	κατοικέω	present active indicative, 2nd pl.	1	you dwell
 JOS 24:15	1	36	ἐπὶ	ἐπί	preposition (case from context)	1	on
@@ -578,7 +578,7 @@ JOS 24:17	1	42	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
 JOS 24:17	1	43	τοῖς	ὁ	article, dative neuter plural	1	the
 JOS 24:17	1	44	ἔθνεσιν	ἔθνος	noun, dative neuter plural	1	nations
 JOS 24:17	1	44	ἔθνεσιν			2	peoples
-JOS 24:17	1	45	οὓς	ὅς	relative pronoun, genitive masculine plural	1	whose
+JOS 24:17	1	45	οὓς	ὅς	relative pronoun, genitive masculine plural	1	whom
 JOS 24:17	1	46	παρήλθομεν	παρέρχομαι	aorist active indicative, first plural	1	we passed through
 JOS 24:17	1	47	δι᾽	διά	preposition governing the genitive	1	through
 JOS 24:17	1	48	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
@@ -645,7 +645,7 @@ JOS 24:19	1	30	ἀνομήματα	ἀνόμημα	noun, accusative neuter plura
 JOS 24:19	1	30	ἀνομήματα			2	lawless acts
 JOS 24:19	1	31	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 JOS 24:20	1	1	Ἡνίκα	ἡνίκα	temporal conjunction	1	when
-JOS 24:20	1	2	ἂν	ἄν	modal particle in an indefinite clause	1	(marks the clause as indefinite)
+JOS 24:20	1	2	ἂν	ἄν	modal particle in an indefinite clause	1	ever
 JOS 24:20	1	3	ἐγκαταλίπητε	ἐγκαταλείπω	aorist active subjunctive, second plural	1	you forsake
 JOS 24:20	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 24:20	1	5	Κύριον	κύριος	noun, accusative masculine singular, the Lord	1	Lord
@@ -672,7 +672,7 @@ JOS 24:21	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 24:21	1	4	λαὸς	λαός	noun, nominative masculine singular after ὁ	1	people
 JOS 24:21	1	5	πρὸς	πρός	preposition with the accusative	1	to
 JOS 24:21	1	6	Ἰησοῦν	Ἰησοῦς	noun, accusative masculine singular	1	Joshua
-JOS 24:21	1	7	οὐχὶ	οὐχί	negative particle, emphatic form	1	not
+JOS 24:21	1	7	οὐχὶ	οὐχί	negative particle, emphatic form	1	No
 JOS 24:21	1	8	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 JOS 24:21	1	9	τῷ	ὁ	article, dative masculine singular	1	the
 JOS 24:21	1	10	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
@@ -687,11 +687,11 @@ JOS 24:22	1	7	μάρτυρες	μάρτυς	noun, nominative masculine plural	1	
 JOS 24:22	1	8	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
 JOS 24:22	1	9	καθ᾽	κατά	preposition governing the genitive	1	against
 JOS 24:22	1	10	ὑμῶν	ἑαυτοῦ	reflexive pronoun, genitive plural	1	yourselves
-JOS 24:22	1	11	ὅτι	ὅτι	causal conjunction	1	because
+JOS 24:22	1	11	ὅτι	ὅτι	causal conjunction	1	that
 JOS 24:22	1	12	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
 JOS 24:22	1	13	ἐξελέξασθε	ἐκλέγω	aorist middle indicative, second plural	1	you chose
 JOS 24:22	1	14	ὑμῖν	σύ	pronoun, dative second plural	1	for yourselves
-JOS 24:22	1	15	τὸν	ὁ	article, accusative masculine singular; with a personal name	1	(marks the name)
+JOS 24:22	1	15	τὸν	ὁ	article, accusative masculine singular; with a personal name	1	the
 JOS 24:22	1	16	Κύριον	κύριος	noun, accusative masculine singular	1	the Lord
 JOS 24:22	1	17	λατρεύειν	λατρεύω	present active infinitive	1	to serve
 JOS 24:22	1	18	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -741,7 +741,7 @@ JOS 24:25	1	1	Καὶ	καί	conjunction	1	and
 JOS 24:25	1	2	διέθετο	διατίθημι	aorist middle indicative, 3rd sg., made/ordained	1	made
 JOS 24:25	1	3	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua
 JOS 24:25	1	4	διαθήκην	διαθήκη	noun, accusative feminine singular	1	covenant
-JOS 24:25	1	5	πρὸς	πρός	preposition with the accusative	1	to
+JOS 24:25	1	5	πρὸς	πρός	preposition with the accusative	1	with
 JOS 24:25	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 24:25	1	7	λαὸν	λαός	noun, accusative masculine singular	1	people
 JOS 24:25	1	8	ἐν	ἐν	preposition with the dative	1	in
@@ -771,7 +771,7 @@ JOS 24:26	1	3	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine si
 JOS 24:26	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
 JOS 24:26	1	5	ῥήματα	ῥῆμα	noun, accusative neuter plural	1	words
 JOS 24:26	1	6	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
-JOS 24:26	1	7	εἰς	εἰς	preposition with the accusative	1	into
+JOS 24:26	1	7	εἰς	εἰς	preposition with the accusative	1	in
 JOS 24:26	1	8	βιβλίον	βιβλίον	noun, accusative neuter singular	1	book
 JOS 24:26	1	8	βιβλίον			2	scroll
 JOS 24:26	1	9	νόμον	νόμος	noun, genitive masculine singular	1	of the law
@@ -780,7 +780,7 @@ JOS 24:26	1	11	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 JOS 24:26	1	12	καὶ	καί	conjunction	1	and
 JOS 24:26	1	13	ἔλαβε	λαμβάνω	aorist active indicative, third singular	1	took
 JOS 24:26	1	14	λίθον	λίθος	noun, accusative masculine singular	1	stone
-JOS 24:26	1	15	μέγαν	μέγας	adjective, accusative masculine singular	1	high
+JOS 24:26	1	15	μέγαν	μέγας	adjective, accusative masculine singular	1	large
 JOS 24:26	1	16	καὶ	καί	conjunction	1	and
 JOS 24:26	1	17	ἔστησεν	ἵστημι	aorist active indicative, third singular	1	set up
 JOS 24:26	1	18	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
@@ -806,9 +806,9 @@ JOS 24:27	1	11	οὗτος	οὗτος	demonstrative pronoun, nominative masculi
 JOS 24:27	1	12	ἔσται	εἰμί	future indicative, third singular	1	will be
 JOS 24:27	1	13	ἐν	ἐν	preposition with the dative	1	in
 JOS 24:27	1	14	ἡμῖν	ἐγώ	pronoun, dative first plural	1	us
-JOS 24:27	1	15	εἰς	εἰς	preposition with the accusative	1	into
+JOS 24:27	1	15	εἰς	εἰς	preposition with the accusative	1	as
 JOS 24:27	1	16	μαρτύριον	μαρτύριον	noun, accusative neuter singular	1	testimony
-JOS 24:27	1	17	ὅτι	ὅτι	conjunction introducing direct speech	1	that
+JOS 24:27	1	17	ὅτι	ὅτι	conjunction introducing direct speech	1	because
 JOS 24:27	1	18	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this stone
 JOS 24:27	1	19	ἀκήκοε	ἀκούω	perfect active indicative, third singular	1	has heard
 JOS 24:27	1	20	πάντα	πᾶς	adjective, accusative neut. pl. after πάντα adverbial object 'all	1	all
@@ -832,10 +832,10 @@ JOS 24:27	1	36	μαρτύριον	μαρτύριον	noun, accusative neuter sin
 JOS 24:27	1	36	μαρτύριον			2	witness
 JOS 24:27	1	37	ἐπ᾽	ἐπί	preposition with genitive, elided	1	at
 JOS 24:27	1	38	ἐσχάτων	ἔσχατος	substantival adjective, genitive neuter plural	1	the end
-JOS 24:27	1	39	τῶν	ὁ	article, genitive plural	1	the
+JOS 24:27	1	39	τῶν	ὁ	article, genitive plural	1	of the
 JOS 24:27	1	40	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
 JOS 24:27	1	41	ἡνίκα	ἡνίκα	temporal conjunction	1	when
-JOS 24:27	1	42	ἂν	ἄν	modal particle in an indefinite clause	1	(marks the clause as indefinite)
+JOS 24:27	1	42	ἂν	ἄν	modal particle in an indefinite clause	1	ever
 JOS 24:27	1	43	ψεύσησθε	ψεύδομαι	aorist middle subjunctive, second plural	1	you lie
 JOS 24:27	1	43	ψεύσησθε			2	you act falsely
 JOS 24:27	1	44	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
@@ -849,7 +849,7 @@ JOS 24:28	1	3	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine si
 JOS 24:28	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 24:28	1	5	λαὸν	λαός	noun, accusative masculine singular	1	people
 JOS 24:28	1	6	ἕκαστον	ἕκαστος	adjective/pronoun, accusative masculine singular, distributive with αὐτούς in sense	1	each
-JOS 24:28	1	7	εἰς	εἰς	preposition with accusative	1	into
+JOS 24:28	1	7	εἰς	εἰς	preposition with accusative	1	to
 JOS 24:28	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 24:28	1	9	τόπον	τόπος	noun, accusative masculine singular	1	place
 JOS 24:28	1	10	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -866,7 +866,7 @@ JOS 24:31	1	10	καὶ	καί	conjunction	1	and
 JOS 24:31	1	11	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 JOS 24:31	1	12	τὰς	ὁ	article, accusative feminine plural	1	the
 JOS 24:31	1	13	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
-JOS 24:31	1	14	τῶν	ὁ	article, genitive plural	1	the
+JOS 24:31	1	14	τῶν	ὁ	article, genitive plural	1	of the
 JOS 24:31	1	15	πρεσβυτέρων	πρεσβύτης	noun, genitive masc. pl. after ἀπὸ τῶν	1	elders
 JOS 24:31	1	16	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	1	who
 JOS 24:31	1	17	ἐφείλκυσαν	ἐφέλκω	aorist active indicative, third plural	1	extended
@@ -882,14 +882,14 @@ JOS 24:31	1	25	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 JOS 24:31	1	26	τὰ	ὁ	article, accusative neuter plural	1	the
 JOS 24:31	1	27	ἔργα	ἔργον	noun, accusative neuter plural	1	works
 JOS 24:31	1	28	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-JOS 24:31	1	29	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
-JOS 24:31	1	30	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
+JOS 24:31	1	29	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	all that
+JOS 24:31	1	30	ἐποίησε	ποιέω	aorist active indicative, third singular	1	did
 JOS 24:31	1	31	τῷ	ὁ	article, dative masculine singular	1	for
-JOS 24:31	1	32	Ἰσραήλ	Ἰσραήλ	indeclinable proper name, dative in context	1	Israel
+JOS 24:31	1	32	Ἰσραήλ	Ἰσραήλ	indeclinable proper name, dative in context	1	for Israel
 JOS 24:29	1	1	Καὶ	καί	conjunction	1	and
 JOS 24:29	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 JOS 24:29	1	3	μετ᾽	μετά	preposition governing the accusative	1	after
-JOS 24:29	1	4	ἐκεῖνα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these things
+JOS 24:29	1	4	ἐκεῖνα	οὗτος	demonstrative pronoun, accusative neuter plural	1	those things
 JOS 24:29	1	5	καὶ	καί	conjunction	1	and
 JOS 24:29	1	6	ἀπέθανεν	ἀποθνῄσκω	aorist active indicative, third singular	1	he died
 JOS 24:29	1	7	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua

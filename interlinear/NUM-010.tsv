@@ -38,14 +38,14 @@ NUM 10:3	1	11	συναγωγὴ	συναγωγή	noun, nominative feminine singu
 NUM 10:3	1	12	ἐπὶ	ἐπί	preposition (case from context)	1	on
 NUM 10:3	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 10:3	1	14	θύραν	θύρα	noun, accusative feminine singular	1	door
-NUM 10:3	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
+NUM 10:3	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 10:3	1	16	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
 NUM 10:3	1	17	τοῦ	ὁ	article, genitive neuter singular	1	of the
 NUM 10:3	1	18	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	1	testimony
 NUM 10:3	1	18	μαρτυρίου			2	witness
 NUM 10:4	1	1	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 NUM 10:4	1	2	δὲ	δέ	postpositive conjunction	1	and
-NUM 10:4	1	3	ἐν	ἐν	preposition with the dative	1	in
+NUM 10:4	1	3	ἐν	ἐν	preposition with the dative	1	with
 NUM 10:4	1	4	μιᾷ	εἷς	cardinal numeral, dative feminine singular; refers to one trumpet	1	one
 NUM 10:4	1	5	σαλπίσωσι	σαλπίζω	aorist active subjunctive, third plural	1	they blow
 NUM 10:4	1	6	προσελεύσονται	προσέρχομαι	future middle indicative, third plural	1	shall come near
@@ -148,7 +148,7 @@ NUM 10:9	1	6	ἐν	ἐν	preposition with the dative	1	in
 NUM 10:9	1	7	τῇ	ὁ	article, dative feminine singular	1	the
 NUM 10:9	1	8	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
 NUM 10:9	1	9	ὑμῶν	σύ	pronoun, genitive second plural	1	your
-NUM 10:9	1	10	πρὸς	πρός	preposition with the accusative	1	with
+NUM 10:9	1	10	πρὸς	πρός	preposition with the accusative	1	against
 NUM 10:9	1	11	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 10:9	1	12	ὑπεναντίους	ὑπεναντίος	adjective, accusative masculine plural	1	enemies
 NUM 10:9	1	13	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -271,10 +271,10 @@ NUM 10:12	1	22	Φαράν			2	Pharan
 NUM 10:13	1	1	Καὶ	καί	conjunction	1	and
 NUM 10:13	1	2	ἐξῆραν	ἐξαίρω	aorist active indicative, 3rd pl., intransitive journey sense 'set out'	1	set out
 NUM 10:13	1	3	πρῶτοι	πρῶτος	ordinal adjective, nominative masculine plural	1	first
-NUM 10:13	1	4	διὰ	διά	preposition with the accusative	1	because of
+NUM 10:13	1	4	διὰ	διά	preposition with the accusative	1	by
 NUM 10:13	1	5	φωνῆς	φωνή	noun, genitive fem. sg. after τῆς	1	voice
 NUM 10:13	1	6	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-NUM 10:13	1	7	ἐν	ἐν	preposition with the dative	1	in
+NUM 10:13	1	7	ἐν	ἐν	preposition with the dative	1	by
 NUM 10:13	1	8	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 NUM 10:13	1	9	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	Moses
 NUM 10:14	1	1	καὶ	καί	conjunction	1	and
@@ -291,7 +291,7 @@ NUM 10:14	1	10	δυνάμει	δύναμις	noun, dative feminine singular	1	fo
 NUM 10:14	1	10	δυνάμει			2	troops
 NUM 10:14	1	11	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 NUM 10:14	1	12	καὶ	καί	conjunction	1	and
-NUM 10:14	1	13	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 10:14	1	13	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 10:14	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 10:14	1	15	δυνάμεως	δύναμις	noun, genitive feminine singular	1	forces
 NUM 10:14	1	15	δυνάμεως			2	troops
@@ -302,12 +302,12 @@ NUM 10:14	1	18	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 NUM 10:14	1	19	Ἀμιναδάβ	Ἀμιναδάβ	indeclinable personal name, accusative in context	1	Aminadab
 NUM 10:14	1	19	Ἀμιναδάβ			2	Amminadab
 NUM 10:15	1	1	καὶ	καί	conjunction	1	and
-NUM 10:15	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 10:15	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 10:15	1	3	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 10:15	1	4	δυνάμεως	δύναμις	noun, genitive feminine singular	1	forces
 NUM 10:15	1	4	δυνάμεως			2	troops
-NUM 10:15	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 10:15	1	5	φυλῆς			2	tribe
+NUM 10:15	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 10:15	1	5	φυλῆς			2	clan
 NUM 10:15	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 10:15	1	7	Ἰσσάχαρ	Ἰσσάχαρ	indeclinable personal name, nominative in context	1	Issachar
 NUM 10:15	1	8	Ναθαναὴλ	Ναθαναήλ	indeclinable personal name, nominative in context	1	Nathanael
@@ -316,12 +316,12 @@ NUM 10:15	1	9	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 NUM 10:15	1	10	Σωγάρ	Σωγάρ	indeclinable personal name, genitive in context	1	Sogar
 NUM 10:15	1	10	Σωγάρ			2	Zuar
 NUM 10:16	1	1	καὶ	καί	conjunction	1	and
-NUM 10:16	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 10:16	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 10:16	1	3	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 10:16	1	4	δυνάμεως	δύναμις	noun, genitive feminine singular	1	forces
 NUM 10:16	1	4	δυνάμεως			2	troops
-NUM 10:16	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 10:16	1	5	φυλῆς			2	tribe
+NUM 10:16	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 10:16	1	5	φυλῆς			2	clan
 NUM 10:16	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 10:16	1	7	Ζαβουλὼν	Ζαβουλών	indeclinable personal name, nominative in context	1	Zebulun
 NUM 10:16	1	8	Ἐλιὰβ	Ἐλιάβ	indeclinable personal name, nominative in context	1	Eliab
@@ -329,7 +329,7 @@ NUM 10:16	1	9	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 NUM 10:16	1	10	Χαιλών	Χαιλών	indeclinable personal name, genitive in context	1	Chailon
 NUM 10:16	1	10	Χαιλών			2	Helon
 NUM 10:17	1	1	Καὶ	καί	conjunction	1	and
-NUM 10:17	1	2	καθελοῦσι	καθαιρέω	future active indicative, third plural	1	shall tear down
+NUM 10:17	1	2	καθελοῦσι	καθαιρέω	future active indicative, third plural	1	shall take down
 NUM 10:17	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 10:17	1	4	σκηνὴν	σκηνή	noun, accusative feminine singular	1	tent
 NUM 10:17	1	5	καὶ	καί	conjunction	1	and
@@ -355,7 +355,7 @@ NUM 10:18	1	7	δυνάμει	δύναμις	noun, dative feminine singular	1	for
 NUM 10:18	1	7	δυνάμει			2	troops
 NUM 10:18	1	8	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 NUM 10:18	1	9	καὶ	καί	conjunction	1	and
-NUM 10:18	1	10	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 10:18	1	10	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 10:18	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 10:18	1	12	δυνάμεως	δύναμις	noun, genitive feminine singular	1	forces
 NUM 10:18	1	12	δυνάμεως			2	troops
@@ -366,12 +366,12 @@ NUM 10:18	1	15	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 NUM 10:18	1	16	Σεδιούρ	Σεδιούρ	indeclinable personal name, genitive in context	1	Sediur
 NUM 10:18	1	16	Σεδιούρ			2	Shedeur
 NUM 10:19	1	1	καὶ	καί	conjunction	1	and
-NUM 10:19	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 10:19	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 10:19	1	3	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 10:19	1	4	δυνάμεως	δύναμις	noun, genitive feminine singular	1	forces
 NUM 10:19	1	4	δυνάμεως			2	troops
-NUM 10:19	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 10:19	1	5	φυλῆς			2	tribe
+NUM 10:19	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 10:19	1	5	φυλῆς			2	clan
 NUM 10:19	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 NUM 10:19	1	7	Συμεὼν	Συμεών	indeclinable personal name, genitive in context	1	of Simeon
 NUM 10:19	1	8	Σαλαμιὴλ	Σαλαμιήλ	indeclinable personal name, nominative in context	1	Salamiel
@@ -380,12 +380,12 @@ NUM 10:19	1	9	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 NUM 10:19	1	10	Σουρισαδαΐ	Σουρισαδαΐ	indeclinable personal name, genitive in context	1	Surisadai
 NUM 10:19	1	10	Σουρισαδαΐ			2	Zurishaddai
 NUM 10:20	1	1	καὶ	καί	conjunction	1	and
-NUM 10:20	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 10:20	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 10:20	1	3	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 10:20	1	4	δυνάμεως	δύναμις	noun, genitive feminine singular	1	forces
 NUM 10:20	1	4	δυνάμεως			2	troops
-NUM 10:20	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 10:20	1	5	φυλῆς			2	tribe
+NUM 10:20	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 10:20	1	5	φυλῆς			2	clan
 NUM 10:20	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 10:20	1	7	Γὰδ	Γάδ	indeclinable personal name, nominative in context	1	Gad
 NUM 10:20	1	8	Ἐλισὰφ	Ἐλισάφ	indeclinable personal name, nominative in context	1	Elisaph
@@ -400,13 +400,13 @@ NUM 10:21	1	4	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 NUM 10:21	1	5	Καὰθ	Καάθ	indeclinable personal name, genitive in context	1	of Kohath
 NUM 10:21	1	6	αἴροντες	αἴρω	present active participle, nominative masculine plural	1	carrying
 NUM 10:21	1	7	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 10:21	1	8	ἅγια	ἅγιος	substantival adjective, accusative neuter plural	1	sanctuary
+NUM 10:21	1	8	ἅγια	ἅγιος	substantival adjective, accusative neuter plural	1	sacred things
 NUM 10:21	1	8	ἅγια			2	holy places
 NUM 10:21	1	9	καὶ	καί	conjunction	1	and
 NUM 10:21	1	10	στήσουσι	ἵστημι	future active indicative, third plural	1	shall set up
 NUM 10:21	1	11	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 10:21	1	12	σκηνὴν	σκηνή	noun, accusative feminine singular	1	tent
-NUM 10:21	1	13	ἕως	ἕως	preposition with the genitive	1	as far as
+NUM 10:21	1	13	ἕως	ἕως	preposition with the genitive	1	until
 NUM 10:21	1	13	ἕως			2	up to
 NUM 10:21	1	14	παραγένωνται	παραγίνομαι	aorist middle subjunctive, third plural	1	arrive
 NUM 10:22	1	1	Καὶ	καί	conjunction	1	and
@@ -420,7 +420,7 @@ NUM 10:22	1	7	δυνάμει	δύναμις	noun, dative feminine singular	1	for
 NUM 10:22	1	7	δυνάμει			2	troops
 NUM 10:22	1	8	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 NUM 10:22	1	9	καὶ	καί	conjunction	1	and
-NUM 10:22	1	10	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 10:22	1	10	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 10:22	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 10:22	1	12	δυνάμεως	δύναμις	noun, genitive feminine singular	1	forces
 NUM 10:22	1	12	δυνάμεως			2	troops
@@ -431,12 +431,12 @@ NUM 10:22	1	15	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 NUM 10:22	1	16	Ἐμιούδ	Ἐμιούδ	indeclinable personal name, genitive in context	1	Emiud
 NUM 10:22	1	16	Ἐμιούδ			2	Ammihud
 NUM 10:23	1	1	καὶ	καί	conjunction	1	and
-NUM 10:23	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 10:23	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 10:23	1	3	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 10:23	1	4	δυνάμεως	δύναμις	noun, genitive feminine singular	1	forces
 NUM 10:23	1	4	δυνάμεως			2	troops
-NUM 10:23	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 10:23	1	5	φυλῆς			2	tribe
+NUM 10:23	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 10:23	1	5	φυλῆς			2	clan
 NUM 10:23	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 10:23	1	7	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	1	Manasseh
 NUM 10:23	1	8	Γαμαλιὴλ	Γαμαλιήλ	indeclinable personal name, nominative in context	1	Gamaliel
@@ -445,11 +445,11 @@ NUM 10:23	1	10	τοῦ	ὁ	article, genitive masculine singular; introduces the 
 NUM 10:23	1	11	Φαδασσούρ	Φαδασσούρ	indeclinable personal name, genitive in context	1	Phadassur
 NUM 10:23	1	11	Φαδασσούρ			2	Pedahzur
 NUM 10:24	1	1	καὶ	καί	conjunction	1	and
-NUM 10:24	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 10:24	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 10:24	1	3	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 10:24	1	4	δυνάμεως	δύναμις	noun, genitive feminine singular	1	forces
 NUM 10:24	1	4	δυνάμεως			2	troops
-NUM 10:24	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
+NUM 10:24	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	of the tribe
 NUM 10:24	1	5	φυλῆς			2	tribe
 NUM 10:24	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 10:24	1	7	Βενιαμεὶν	Βενιαμείν	indeclinable tribal name, genitive in context	1	Benjamin
@@ -474,7 +474,7 @@ NUM 10:25	1	12	δυνάμει	δύναμις	noun, dative feminine singular	1	fo
 NUM 10:25	1	12	δυνάμει			2	troops
 NUM 10:25	1	13	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 NUM 10:25	1	14	καὶ	καί	conjunction	1	and
-NUM 10:25	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 10:25	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 10:25	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 10:25	1	17	δυνάμεως	δύναμις	noun, genitive feminine singular	1	forces
 NUM 10:25	1	17	δυνάμεως			2	troops
@@ -486,12 +486,12 @@ NUM 10:25	1	21	τοῦ	ὁ	article, genitive masculine singular; introduces the 
 NUM 10:25	1	22	Ἀμισαδαί	Ἀμισαδαΐ	indeclinable personal name, genitive in context	1	Amisadai
 NUM 10:25	1	22	Ἀμισαδαί			2	Ammishaddai
 NUM 10:26	1	1	καὶ	καί	conjunction	1	and
-NUM 10:26	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 10:26	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 10:26	1	3	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 10:26	1	4	δυνάμεως	δύναμις	noun, genitive feminine singular	1	forces
 NUM 10:26	1	4	δυνάμεως			2	troops
-NUM 10:26	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 10:26	1	5	φυλῆς			2	tribe
+NUM 10:26	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 10:26	1	5	φυλῆς			2	clan
 NUM 10:26	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 10:26	1	7	Ἀσὴρ	Ἀσήρ	indeclinable personal name, nominative in context	1	Asher
 NUM 10:26	1	8	Φαγαιὴλ	Φαγαιήλ	indeclinable personal name, nominative in context	1	Phagaiel
@@ -504,8 +504,8 @@ NUM 10:27	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	on
 NUM 10:27	1	3	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 10:27	1	4	δυνάμεως	δύναμις	noun, genitive feminine singular	1	forces
 NUM 10:27	1	4	δυνάμεως			2	troops
-NUM 10:27	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 10:27	1	5	φυλῆς			2	tribe
+NUM 10:27	1	5	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 10:27	1	5	φυλῆς			2	clan
 NUM 10:27	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 10:27	1	7	Νεφθαλὶ	Νεφθαλί	indeclinable personal name, nominative in context	1	Naphtali
 NUM 10:27	1	8	Ἀχειφὲ	Ἀχειφέ	indeclinable personal name, nominative in context	1	Acheiphe

@@ -109,8 +109,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 30:4	1	21	τοῦ	ὁ	article, genitive neuter singular, introduces the infinitive, introduces the infinitive	1	—
 1SA 30:4	1	22	κλαίειν	κλαίω	present active infinitive	1	to weep
 1SA 30:5	1	1	Καὶ	καί	conjunction	1	and
-1SA 30:5	1	2	ἀμφότεραι	ἀμφότερος	adjective, nominative feminine plural; substantival	1	both women
-1SA 30:5	1	2	ἀμφότεραι			2	both
+1SA 30:5	1	2	ἀμφότεραι	ἀμφότερος	adjective, nominative feminine plural; substantival	1	both
+1SA 30:5	1	2	ἀμφότεραι			2	both women
 1SA 30:5	1	3	αἱ	ὁ	article, nominative feminine plural	1	the
 1SA 30:5	1	4	γυναῖκες	γυνή	noun, nominative feminine plural	1	wives
 1SA 30:5	1	5	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
@@ -526,7 +526,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 30:20	1	15	καὶ	καί	conjunction	1	and
 1SA 30:20	1	16	τοῖς	ὁ	article, dative neuter plural	1	of those
 1SA 30:20	1	17	σκύλοις	σκῦλον	noun, dative neuter plural	1	spoils
-1SA 30:20	1	18	ἐκείνοις	ἐκεῖνος	demonstrative pronoun, dative neuter plural	1	there
+1SA 30:20	1	18	ἐκείνοις	ἐκεῖνος	demonstrative pronoun, dative neuter plural	1	those
 1SA 30:20	1	19	ἐλέγετο	λέγω	imperfect middle-passive indicative, third singular	1	it was said
 1SA 30:20	1	20	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 1SA 30:20	1	21	σκῦλα	σκῦλον	noun, accusative neut. pl., spoil	1	the spoils
@@ -663,7 +663,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 30:24	1	8	ὅτι	ὅτι	causal conjunction	1	because
 1SA 30:24	1	9	οὐχ	οὐ	negative particle (plain negative, or interrogative expecting 'yes' in questions)	1	not
 1SA 30:24	1	10	ἧττον	ἥττων	adjective, nominative neuter singular	1	less
-1SA 30:24	1	11	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
+1SA 30:24	1	11	ὑμῶν	ὑμεῖς	pronoun, genitive second plural of comparison	1	than you
 1SA 30:24	1	12	εἰσι	εἰμί	present active indicative, third plural	1	are
 1SA 30:24	1	13	διότι	διότι	causal conjunction	1	because
 1SA 30:24	1	14	κατὰ	κατά	preposition with accusative	1	according to
@@ -681,7 +681,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 30:24	1	24	μερὶς	μερίς	noun nominative feminine singular	1	portion
 1SA 30:24	1	25	τοῦ	ὁ	article, genitive singular	1	of the one
 1SA 30:24	1	26	καθημένου	κάθημαι	present middle participle, genitive masculine singular, substantival	1	staying
-1SA 30:24	1	27	ἐπὶ	ἐπί	preposition with the accusative	1	upon
+1SA 30:24	1	27	ἐπὶ	ἐπί	preposition with the accusative	1	by
 1SA 30:24	1	28	τὰ	ὁ	article, accusative neuter plural	1	the
 1SA 30:24	1	29	σκεύη	σκεῦος	noun, accusative neuter plural	1	gear
 1SA 30:24	1	30	κατὰ	κατά	preposition with the accusative	1	in
@@ -741,8 +741,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 30:27	1	4	καὶ	καί	conjunction	1	and
 1SA 30:27	1	5	τοῖς	ὁ	article, dative masculine plural	1	to those
 1SA 30:27	1	6	ἐν	ἐν	preposition governing the dative	1	in
-1SA 30:27	1	7	Ῥαμᾷ	Ῥαμά	indeclinable or first-declension place name, dative in context	1	Rama
-1SA 30:27	1	7	Ῥαμᾷ			2	Ramah
+1SA 30:27	1	7	Ῥαμᾷ	Ῥαμά	indeclinable or first-declension place name, dative in context	1	Ramah
+1SA 30:27	1	7	Ῥαμᾷ			2	Rama
 1SA 30:27	1	8	νότου	νότος	noun, genitive masculine singular	1	of the south
 1SA 30:27	1	9	καὶ	καί	conjunction	1	and
 1SA 30:27	1	10	τοῖς	ὁ	article, dative neuter plural	1	to those

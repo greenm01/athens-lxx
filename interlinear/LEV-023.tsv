@@ -19,7 +19,7 @@ LEV 23:2	1	11	Κυρίου	κύριος	noun, genitive masculine singular	1	of t
 LEV 23:2	1	12	ἃς	ὅς	relative pronoun, accusative of duration, accusative feminine plural	1	which
 LEV 23:2	1	13	καλέσετε	καλέω	future active indicative, second plural	1	you shall proclaim
 LEV 23:2	1	14	αὐτὰς	αὐτός	pronoun, accusative feminine plural	1	them
-LEV 23:2	1	15	κλητὰς	κλητός	adjective, accusative feminine plural	1	proclaimed
+LEV 23:2	1	15	κλητὰς	κλητός	adjective, accusative feminine plural	1	assemblies
 LEV 23:2	1	16	ἁγίας	ἅγιος	adjective, accusative feminine plural	1	holy
 LEV 23:2	1	17	αὗταί	οὗτος	demonstrative pronoun, nominative feminine plural	1	these
 LEV 23:2	1	18	εἰσιν	εἰμί	present indicative, third plural	1	are
@@ -38,7 +38,7 @@ LEV 23:3	1	10	σάββατα	σάββατον	noun, nominative neut. pl.	1	sabba
 LEV 23:3	1	11	ἀνάπαυσις	ἀνάπαυσις	noun, nominative fem. sg. following σάββατα	1	rest
 LEV 23:3	1	12	κλητὴ	κλητός	substantival adjective, nominative feminine singular	1	assembly
 LEV 23:3	1	13	ἁγία	ἅγιος	adjective, nominative fem. sg. with ἀνάπαυσις	1	holy
-LEV 23:3	1	14	τῷ	ὁ	article, dative masculine singular	1	the
+LEV 23:3	1	14	τῷ	ὁ	article, dative masculine singular	1	to the
 LEV 23:3	1	15	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 LEV 23:3	1	16	Πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 LEV 23:3	1	17	ἔργον	ἔργον	noun, nominative neuter singular	1	work
@@ -59,7 +59,7 @@ LEV 23:4	1	2	αἱ	ὁ	article, nominative feminine plural	1	the
 LEV 23:4	1	3	ἑορταὶ	ἑορτή	noun, nominative feminine plural	1	festivals
 LEV 23:4	1	4	τῷ	ὁ	article, dative masculine singular	1	to the
 LEV 23:4	1	5	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
-LEV 23:4	1	6	κληταὶ	κλητός	adjective, nominative feminine plural	1	proclaimed
+LEV 23:4	1	6	κληταὶ	κλητός	adjective, nominative feminine plural	1	assemblies
 LEV 23:4	1	7	ἅγιαι	ἅγιος	adjective, nominative feminine plural	1	holy
 LEV 23:4	1	8	ἃς	ὅς	relative pronoun, accusative of duration, accusative feminine plural	1	which
 LEV 23:4	1	9	καλέσετε	καλέω	future active indicative, second plural	1	you shall proclaim
@@ -72,7 +72,7 @@ LEV 23:5	1	1	Ἐν	ἐν	preposition with the dative	1	in
 LEV 23:5	1	2	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 23:5	1	3	πρώτῳ	πρῶτος	ordinal adjective, dative masculine singular; substantival	1	first one
 LEV 23:5	1	4	μηνὶ	μήν	noun, dative masculine singular	1	month
-LEV 23:5	1	5	ἐν	ἐν	preposition with the dative	1	in
+LEV 23:5	1	5	ἐν	ἐν	preposition with the dative	1	on
 LEV 23:5	1	6	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 23:5	1	7	τεσσαρεσκαιδεκάτῃ	τεσσαρεσκαιδέκατος	ordinal adjective, dative fem. sg. with ἡμέρᾳ, in apposition	1	fourteenth
 LEV 23:5	1	8	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular after τῇ	1	day
@@ -85,7 +85,7 @@ LEV 23:5	1	14	πάσχα	πάσχα	indeclinable noun, nominative/accusative neu
 LEV 23:5	1	15	τῷ	ὁ	article, dative masculine singular	1	to the
 LEV 23:5	1	16	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 LEV 23:6	1	1	καὶ	καί	conjunction	1	and
-LEV 23:6	1	2	ἐν	ἐν	preposition with the dative	1	in
+LEV 23:6	1	2	ἐν	ἐν	preposition with the dative	1	on
 LEV 23:6	1	3	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 23:6	1	4	πεντεκαιδεκάτῃ	πεντεκαιδέκατος	ordinal adjective, dative feminine singular	1	fifteenth
 LEV 23:6	1	5	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular after τῇ	1	day
@@ -110,11 +110,11 @@ LEV 23:7	1	6	κλητὴ	κλητός	substantival adjective, nominative feminin
 LEV 23:7	1	7	ἁγία	ἅγιος	adjective, nominative fem. sg.	1	holy
 LEV 23:7	1	8	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 23:7	1	9	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	to you
-LEV 23:7	1	10	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+LEV 23:7	1	10	πᾶν	πᾶς	adjective, accusative neuter singular	1	any
 LEV 23:7	1	11	ἔργον	ἔργον	noun, nominative neuter singular	1	work
 LEV 23:7	1	12	λατρευτὸν	λατρευτός	adjective, nominative neut. sg. with ἔργον, servile	1	servile
 LEV 23:7	1	13	οὐ	οὐ	negative adverb with future indicative	1	not
-LEV 23:7	1	14	ποιήσετε	ποιέω	future active indicative, 2nd pl.	1	you shall do/keep
+LEV 23:7	1	14	ποιήσετε	ποιέω	future active indicative, 2nd pl.	1	you shall do
 LEV 23:8	1	1	καὶ	καί	conjunction	1	and
 LEV 23:8	1	2	προσάξετε	προσάγω	future active indicative, second plural	1	you shall offer
 LEV 23:8	1	3	ὁλοκαυτώματα	ὁλοκαύτωμα	noun, accusative neuter plural	1	whole burnt offerings
@@ -130,11 +130,11 @@ LEV 23:8	1	12	κλητὴ	κλητός	substantival adjective, nominative femini
 LEV 23:8	1	13	ἁγία	ἅγιος	adjective, nominative fem. sg.	1	holy
 LEV 23:8	1	14	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 23:8	1	15	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	to you
-LEV 23:8	1	16	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+LEV 23:8	1	16	πᾶν	πᾶς	adjective, accusative neuter singular	1	any
 LEV 23:8	1	17	ἔργον	ἔργον	noun, nominative neuter singular	1	work
 LEV 23:8	1	18	λατρευτὸν	λατρευτός	adjective, nominative neut. sg. with ἔργον, servile	1	servile
 LEV 23:8	1	19	οὐ	οὐ	negative adverb with future indicative	1	not
-LEV 23:8	1	20	ποιήσετε	ποιέω	future active indicative, 2nd pl.	1	you shall do/keep
+LEV 23:8	1	20	ποιήσετε	ποιέω	future active indicative, 2nd pl.	1	you shall do
 LEV 23:9	1	1	Καὶ	καί	conjunction	1	and
 LEV 23:9	1	2	ἐλάλησε	λαλέω	aorist active indicative, third singular	1	spoke
 LEV 23:9	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -142,7 +142,7 @@ LEV 23:9	1	4	πρὸς	πρός	preposition with the accusative	1	to
 LEV 23:9	1	5	Μωυσῆν	Μωυσῆς	proper noun, accusative masculine singular	1	Moses
 LEV 23:9	1	6	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 LEV 23:10	1	1	εἶπον	λέγω	aorist active imperative, second person singular	1	say
-LEV 23:10	1	2	τοῖς	ὁ	article, dative masculine plural	1	the
+LEV 23:10	1	2	τοῖς	ὁ	article, dative masculine plural	1	to the
 LEV 23:10	1	3	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 LEV 23:10	1	4	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 LEV 23:10	1	5	καὶ	καί	conjunction	1	and
@@ -185,7 +185,7 @@ LEV 23:11	1	6	Κυρίου	κύριος	noun, genitive masculine singular	1	the 
 LEV 23:11	1	7	δεκτὸν	δεκτός	adjective, accusative neuter singular	1	acceptable
 LEV 23:11	1	7	δεκτὸν			2	accepted
 LEV 23:11	1	8	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	to you
-LEV 23:11	1	9	τῇ	ὁ	article, dative feminine singular	1	the
+LEV 23:11	1	9	τῇ	ὁ	article, dative feminine singular	1	on the
 LEV 23:11	1	10	ἐπαύριον	ἐπαύριον	adverb	1	next day
 LEV 23:11	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
 LEV 23:11	1	12	πρώτης	πρῶτος	adjective, genitive fem. sg. with ἡμέρας	1	first
@@ -194,8 +194,8 @@ LEV 23:11	1	14	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
 LEV 23:11	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 23:11	1	16	ἱερεύς	ἱερεύς	noun, nominative masculine singular	1	priest
 LEV 23:12	1	1	Καὶ	καί	conjunction	1	and
-LEV 23:12	1	2	ποιήσετε	ποιέω	future active indicative, second person plural	1	you will do
-LEV 23:12	1	3	ἐν	ἐν	preposition with the dative	1	in
+LEV 23:12	1	2	ποιήσετε	ποιέω	future active indicative, second person plural	1	you shall offer
+LEV 23:12	1	3	ἐν	ἐν	preposition with the dative	1	on
 LEV 23:12	1	4	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 23:12	1	5	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 LEV 23:12	1	6	ἐν	ἐν	preposition with the dative	1	in
@@ -207,7 +207,7 @@ LEV 23:12	1	11	δράγμα	δράγμα	noun, nominative/accusative neuter sing
 LEV 23:12	1	12	πρόβατον	πρόβατον	noun, nominative neuter singular	1	sheep
 LEV 23:12	1	13	ἄμωμον	ἄμωμος	adjective, accusative neuter singular	1	without blemish
 LEV 23:12	1	14	ἐνιαύσιον	ἐνιαύσιος	adjective, accusative masculine singular	1	a year old
-LEV 23:12	1	15	εἰς	εἰς	preposition with the accusative	1	into
+LEV 23:12	1	15	εἰς	εἰς	preposition with the accusative	1	as
 LEV 23:12	1	16	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, nominative neuter singular	1	whole burnt offering
 LEV 23:12	1	16	ὁλοκαύτωμα			2	burnt offering
 LEV 23:12	1	17	τῷ	ὁ	article, dative masculine singular	1	to the
@@ -294,7 +294,7 @@ LEV 23:15	1	14	προσενέγκητε	προσφέρω	aorist active subjuncti
 LEV 23:15	1	15	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 23:15	1	16	δράγμα	δράγμα	noun, nominative/accusative neuter singular (from context)	1	sheaf
 LEV 23:15	1	17	τοῦ	ὁ	article, genitive neuter singular	1	of the
-LEV 23:15	1	18	ἐπιθέματος	ἐπίθεμα	noun, genitive neuter singular	1	offering placed on the altar
+LEV 23:15	1	18	ἐπιθέματος	ἐπίθεμα	noun, genitive neuter singular	1	additional offering
 LEV 23:15	1	19	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 LEV 23:15	1	20	ἑβδομάδας	ἑβδομάς	noun, accusative feminine plural	1	weeks
 LEV 23:15	1	21	ὁλοκλήρους	ὁλόκληρος	adjective, accusative feminine plural	1	complete
@@ -369,7 +369,7 @@ LEV 23:18	1	33	εὐωδίας	εὐωδία	noun, genitive feminine singular	1	
 LEV 23:18	1	34	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 LEV 23:18	1	35	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 LEV 23:19	1	1	καὶ	καί	conjunction	1	and
-LEV 23:19	1	2	ποιήσετε	ποιέω	future active indicative, second person plural	1	you will do
+LEV 23:19	1	2	ποιήσετε	ποιέω	future active indicative, second plural	1	you shall offer
 LEV 23:19	1	3	χίμαρον	χίμαρος	noun, accusative masculine singular	1	young male goat
 LEV 23:19	1	3	χίμαρον			2	buck
 LEV 23:19	1	4	ἐξ	ἐκ	preposition with the genitive before a vowel	1	from
@@ -395,12 +395,12 @@ LEV 23:20	1	2	ἐπιθήσει	ἐπιτίθημι	future active indicative, th
 LEV 23:20	1	3	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
 LEV 23:20	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 23:20	1	5	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
-LEV 23:20	1	6	μετὰ	μετά	preposition with the accusative	1	after
+LEV 23:20	1	6	μετὰ	μετά	preposition with the genitive	1	with
 LEV 23:20	1	7	τῶν	ὁ	article, genitive neuter plural	1	the
 LEV 23:20	1	8	ἄρτων	ἄρτος	noun, genitive masculine plural	1	bread
 LEV 23:20	1	9	τοῦ	ὁ	article, genitive masculine singular	1	of the
 LEV 23:20	1	10	πρωτογεννήματος	πρωτογέννημα	noun, genitive neuter singular	1	first produce
-LEV 23:20	1	11	ἐπίθεμα	ἐπίθεμα	noun, accusative neuter singular	1	offering placed on the altar
+LEV 23:20	1	11	ἐπίθεμα	ἐπίθεμα	noun, accusative neuter singular	1	additional offering
 LEV 23:20	1	12	ἔναντι	ἔναντι	improper preposition with genitive	1	before
 LEV 23:20	1	12	ἔναντι			2	in the presence of
 LEV 23:20	1	13	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
@@ -408,7 +408,7 @@ LEV 23:20	1	14	μετὰ	μετά	preposition with genitive	1	with
 LEV 23:20	1	15	τῶν	ὁ	article, genitive plural	1	the
 LEV 23:20	1	16	δύο	δύο	cardinal numeral, genitive here	1	two
 LEV 23:20	1	17	ἀμνῶν	ἀμνός	noun, genitive masc. pl. after τῶν	1	lambs
-LEV 23:20	1	18	ἅγια	ἅγιος	substantival adjective, nominative neuter plural	1	most holy
+LEV 23:20	1	18	ἅγια	ἅγιος	predicate adjective, nominative neuter plural	1	holy
 LEV 23:20	1	19	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
 LEV 23:20	1	20	τῷ	ὁ	article, dative masculine singular	1	to the
 LEV 23:20	1	21	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
@@ -428,12 +428,12 @@ LEV 23:21	1	6	κλητὴ	κλητός	substantival adjective, nominative femini
 LEV 23:21	1	7	ἁγία	ἅγιος	adjective, nominative fem. sg.	1	holy
 LEV 23:21	1	8	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 23:21	1	9	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	to you
-LEV 23:21	1	10	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+LEV 23:21	1	10	πᾶν	πᾶς	adjective, accusative neuter singular	1	any
 LEV 23:21	1	11	ἔργον	ἔργον	noun, nominative neuter singular	1	work
 LEV 23:21	1	12	λατρευτὸν	λατρευτός	adjective, nominative neut. sg. with ἔργον, servile	1	servile
 LEV 23:21	1	13	οὐ	οὐ	negative adverb with future indicative	1	not
-LEV 23:21	1	14	ποιήσετε	ποιέω	future active indicative, 2nd pl.	1	you shall do/keep
-LEV 23:21	1	15	ἐν	ἐν	preposition with the dative	1	in
+LEV 23:21	1	14	ποιήσετε	ποιέω	future active indicative, 2nd pl.	1	you shall do
+LEV 23:21	1	15	ἐν	ἐν	preposition with the dative	1	on
 LEV 23:21	1	16	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 LEV 23:21	1	17	νόμιμον	νόμιμος	adjective, nominative neuter singular; used substantivally	1	statute
 LEV 23:21	1	17	νόμιμον			2	ordinance
@@ -517,7 +517,7 @@ LEV 23:24	1	18	κλητὴ	κλητός	substantival adjective, nominative femin
 LEV 23:24	1	19	ἁγία	ἅγιος	adjective, nominative fem. sg.	1	holy
 LEV 23:24	1	20	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 23:24	1	21	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	to you
-LEV 23:25	1	1	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+LEV 23:25	1	1	πᾶν	πᾶς	adjective, accusative neuter singular	1	any
 LEV 23:25	1	2	ἔργον	ἔργον	noun, nominative neuter singular	1	work
 LEV 23:25	1	3	λατρευτὸν	λατρευτός	adjective, nominative neut. sg. with ἔργον, servile	1	servile
 LEV 23:25	1	4	οὐ	οὐ	negative adverb with future indicative	1	not
@@ -534,7 +534,7 @@ LEV 23:26	1	4	πρὸς	πρός	preposition with the accusative	1	to
 LEV 23:26	1	5	Μωυσῆν	Μωυσῆς	proper noun, accusative masculine singular	1	Moses
 LEV 23:26	1	6	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 LEV 23:27	1	1	καὶ	καί	conjunction	1	and
-LEV 23:27	1	2	τῇ	ὁ	article, dative feminine singular	1	the
+LEV 23:27	1	2	τῇ	ὁ	article, dative feminine singular	1	on the
 LEV 23:27	1	3	δεκάτῃ	δέκατος	ordinal adjective, dative feminine singular	1	on the tenth
 LEV 23:27	1	4	τοῦ	ὁ	article, genitive singular	1	the
 LEV 23:27	1	5	μηνὸς	μήν	noun, genitive masculine singular	1	month
@@ -557,7 +557,7 @@ LEV 23:27	1	21	προσάξετε	προσάγω	future active indicative, secon
 LEV 23:27	1	22	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, accusative neuter singular	1	whole burnt offering
 LEV 23:27	1	23	τῷ	ὁ	article, dative masculine singular	1	to the
 LEV 23:27	1	24	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
-LEV 23:28	1	1	Πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+LEV 23:28	1	1	Πᾶν	πᾶς	adjective, accusative neuter singular	1	any
 LEV 23:28	1	2	ἔργον	ἔργον	noun, nominative neuter singular	1	work
 LEV 23:28	1	3	οὐ	οὐ	negative particle	1	not
 LEV 23:28	1	4	ποιήσετε	ποιέω	future active indicative, second person plural	1	you will do
@@ -601,7 +601,7 @@ LEV 23:30	1	1	Καὶ	καί	conjunction	1	and
 LEV 23:30	1	2	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
 LEV 23:30	1	3	ψυχὴ	ψυχή	noun, nominative feminine singular	1	person
 LEV 23:30	1	4	ἥτις	ὅστις	relative pronoun, nominative feminine singular; indefinite	1	whoever
-LEV 23:30	1	5	ποιήσει	ποιέω	future active indicative, third singular	1	he shall offer
+LEV 23:30	1	5	ποιήσει	ποιέω	future active indicative, third singular	1	does
 LEV 23:30	1	6	ἔργον	ἔργον	noun, nominative neuter singular	1	work
 LEV 23:30	1	7	ἐν	ἐν	preposition with the dative	1	in
 LEV 23:30	1	8	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	that same
@@ -616,7 +616,7 @@ LEV 23:30	1	16	ἐκ	ἐκ	preposition with the genitive	1	from
 LEV 23:30	1	17	τοῦ	ὁ	article, genitive masculine singular	1	the
 LEV 23:30	1	18	λαοῦ	λαός	noun, genitive masculine singular	1	people
 LEV 23:30	1	19	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
-LEV 23:31	1	1	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+LEV 23:31	1	1	πᾶν	πᾶς	adjective, accusative neuter singular	1	any
 LEV 23:31	1	2	ἔργον	ἔργον	noun, nominative neuter singular	1	work
 LEV 23:31	1	3	οὐ	οὐ	negative particle	1	not
 LEV 23:31	1	4	ποιήσετε	ποιέω	future active indicative, second person plural	1	you will do
@@ -684,11 +684,11 @@ LEV 23:35	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 23:35	1	5	πρώτη	πρῶτος	adjective, nominative fem. sg. with ἡμέρα	1	first
 LEV 23:35	1	6	κλητὴ	κλητός	substantival adjective, nominative feminine singular	1	assembly
 LEV 23:35	1	7	ἁγία	ἅγιος	adjective, nominative fem. sg.	1	holy
-LEV 23:35	1	8	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+LEV 23:35	1	8	πᾶν	πᾶς	adjective, accusative neuter singular	1	any
 LEV 23:35	1	9	ἔργον	ἔργον	noun, nominative neuter singular	1	work
 LEV 23:35	1	10	λατρευτὸν	λατρευτός	adjective, nominative neut. sg. with ἔργον, servile	1	servile
 LEV 23:35	1	11	οὐ	οὐ	negative adverb with future indicative	1	not
-LEV 23:35	1	12	ποιήσετε	ποιέω	future active indicative, 2nd pl.	1	you shall do/keep
+LEV 23:35	1	12	ποιήσετε	ποιέω	future active indicative, 2nd pl.	1	you shall do
 LEV 23:36	1	1	Ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 LEV 23:36	1	2	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
 LEV 23:36	1	3	προσάξετε	προσάγω	future active indicative, second plural	1	you shall offer
@@ -711,11 +711,11 @@ LEV 23:36	1	19	τῷ	ὁ	article, dative masculine singular	1	to the
 LEV 23:36	1	20	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 LEV 23:36	1	21	ἐξόδιόν	ἐξόδιον	noun, nominative neuter singular	1	closing assembly
 LEV 23:36	1	22	ἐστι	εἰμί	present indicative, third singular	1	is
-LEV 23:36	1	23	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+LEV 23:36	1	23	πᾶν	πᾶς	adjective, accusative neuter singular	1	any
 LEV 23:36	1	24	ἔργον	ἔργον	noun, nominative neuter singular	1	work
 LEV 23:36	1	25	λατρευτὸν	λατρευτός	adjective, nominative neut. sg. with ἔργον, servile	1	servile
 LEV 23:36	1	26	οὐ	οὐ	negative adverb with future indicative	1	not
-LEV 23:36	1	27	ποιήσετε	ποιέω	future active indicative, 2nd pl.	1	you shall do/keep
+LEV 23:36	1	27	ποιήσετε	ποιέω	future active indicative, 2nd pl.	1	you shall do
 LEV 23:37	1	1	Αὗται	οὗτος	demonstrative pronoun, nominative feminine plural	1	these
 LEV 23:37	1	2	αἱ	ὁ	article, nominative feminine plural	1	the
 LEV 23:37	1	3	ἑορταὶ	ἑορτή	noun, nominative feminine plural	1	festivals
@@ -724,12 +724,12 @@ LEV 23:37	1	5	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the 
 LEV 23:37	1	6	ἃς	ὅς	relative pronoun, accusative of duration, accusative feminine plural	1	which
 LEV 23:37	1	7	καλέσετε	καλέω	future active indicative, second plural	1	you shall proclaim
 LEV 23:37	1	8	αὐτὰς	αὐτός	pronoun, accusative feminine plural	1	them
-LEV 23:37	1	9	κλητὰς	κλητός	adjective, accusative feminine plural	1	proclaimed
+LEV 23:37	1	9	κλητὰς	κλητός	adjective, accusative feminine plural	1	assemblies
 LEV 23:37	1	10	ἁγίας	ἅγιος	adjective, accusative feminine plural	1	holy
 LEV 23:37	1	11	ὥστε	ὥστε	conjunction with the infinitive	1	so as
 LEV 23:37	1	12	προσενέγκαι	προσφέρω	aorist active infinitive	1	to offer
 LEV 23:37	1	13	καρπώματα	κάρπωμα	noun, accusative neuter plural	1	offerings
-LEV 23:37	1	14	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+LEV 23:37	1	14	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 LEV 23:37	1	15	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 LEV 23:37	1	16	ὁλοκαυτώματα	ὁλοκαύτωμα	noun, accusative neuter plural, whole burnt offerings	1	burnt offerings
 LEV 23:37	1	17	καὶ	καί	conjunction	1	and
@@ -743,23 +743,23 @@ LEV 23:37	1	24	καθ᾽	κατά	preposition with the accusative, elided, in τ
 LEV 23:37	1	25	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
 LEV 23:37	1	26	εἰς	εἰς	preposition with the accusative	1	into
 LEV 23:37	1	27	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
-LEV 23:38	1	1	πλὴν	πλήν	preposition/adverb with the genitive	1	except
+LEV 23:38	1	1	πλὴν	πλήν	preposition/adverb with the genitive	1	besides
 LEV 23:38	1	2	τῶν	ὁ	article, genitive plural	1	the
 LEV 23:38	1	3	σαββάτων	σάββατον	noun, genitive neuter plural	1	sabbaths
 LEV 23:38	1	4	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 LEV 23:38	1	5	καὶ	καί	conjunction	1	and
-LEV 23:38	1	6	πλὴν	πλήν	preposition/adverb with the genitive	1	except
+LEV 23:38	1	6	πλὴν	πλήν	preposition/adverb with the genitive	1	besides
 LEV 23:38	1	7	τῶν	ὁ	article, genitive masculine plural	1	the
 LEV 23:38	1	8	δομάτων	δόμα	noun, genitive neuter plural	1	gifts
 LEV 23:38	1	9	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 LEV 23:38	1	10	καὶ	καί	conjunction	1	and
-LEV 23:38	1	11	πλὴν	πλήν	preposition/adverb with the genitive	1	except
+LEV 23:38	1	11	πλὴν	πλήν	preposition/adverb with the genitive	1	besides
 LEV 23:38	1	12	πασῶν	πᾶς	adjective, genitive feminine plural	1	all
 LEV 23:38	1	13	τῶν	ὁ	article, genitive feminine plural	1	of the
 LEV 23:38	1	14	εὐχῶν	εὐχή	noun, genitive feminine plural	1	vows
 LEV 23:38	1	15	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 LEV 23:38	1	16	καὶ	καί	conjunction	1	and
-LEV 23:38	1	17	πλὴν	πλήν	preposition/adverb with the genitive	1	except
+LEV 23:38	1	17	πλὴν	πλήν	preposition/adverb with the genitive	1	besides
 LEV 23:38	1	18	πάντων	πᾶς	adjective, genitive neuter plural	1	all
 LEV 23:38	1	19	τῶν	ὁ	article, genitive plural	1	the
 LEV 23:38	1	20	ἑκουσίων	ἑκούσιος	substantival adjective, genitive neuter plural	1	voluntary offerings
@@ -770,7 +770,7 @@ LEV 23:38	1	24	δῶτε	δίδωμι	aorist active subjunctive, second plural	1
 LEV 23:38	1	25	τῷ	ὁ	article, dative masculine singular	1	to the
 LEV 23:38	1	26	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 LEV 23:39	1	1	Καὶ	καί	conjunction	1	and
-LEV 23:39	1	2	ἐν	ἐν	preposition with the dative	1	in
+LEV 23:39	1	2	ἐν	ἐν	preposition with the dative	1	on
 LEV 23:39	1	3	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 23:39	1	4	πεντεκαιδεκάτῃ	πεντεκαιδέκατος	ordinal adjective, dative feminine singular	1	fifteenth
 LEV 23:39	1	5	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular after τῇ	1	day
@@ -790,7 +790,7 @@ LEV 23:39	1	18	τῷ	ὁ	article, dative masculine singular	1	to the
 LEV 23:39	1	19	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 LEV 23:39	1	20	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 LEV 23:39	1	21	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
-LEV 23:39	1	22	τῇ	ὁ	article, dative feminine singular	1	the
+LEV 23:39	1	22	τῇ	ὁ	article, dative feminine singular	1	on the
 LEV 23:39	1	23	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 LEV 23:39	1	24	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 23:39	1	25	πρώτῃ	πρῶτος	ordinal adjective, dative feminine singular	1	first
@@ -817,7 +817,7 @@ LEV 23:40	1	12	κάλλυνθρα	κάλλυνθρον	noun, accusative neuter p
 LEV 23:40	1	13	φοινίκων	φοῖνιξ	noun, genitive masculine plural, date-palms	1	of palms
 LEV 23:40	1	14	καὶ	καί	conjunction	1	and
 LEV 23:40	1	15	κλάδους	κλάδος	noun, accusative masculine plural	1	branches
-LEV 23:40	1	16	ξύλων	ξύλον	noun, genitive neuter plural	1	timbers
+LEV 23:40	1	16	ξύλων	ξύλον	noun, genitive neuter plural	1	trees
 LEV 23:40	1	16	ξύλων			2	pieces of wood
 LEV 23:40	1	17	δασεῖς	δασύς	adjective, accusative masculine plural	1	leafy
 LEV 23:40	1	18	καὶ	καί	conjunction	1	and
@@ -876,11 +876,11 @@ LEV 23:42	1	12	ἐν	ἐν	preposition with the dative	1	in
 LEV 23:42	1	13	σκηναῖς	σκηνή	noun, dative feminine plural	1	booths
 LEV 23:43	1	1	ὅπως	ὅπως	conjunction of purpose with the subjunctive	1	so that
 LEV 23:43	1	1	ὅπως			2	in order that
-LEV 23:43	1	2	ἴδωσιν	ὁράω	aorist active subjunctive, third plural	1	they may see
+LEV 23:43	1	2	ἴδωσιν	ὁράω	aorist active subjunctive, third plural	1	they may know
 LEV 23:43	1	3	αἱ	ὁ	article, nominative feminine plural	1	the
 LEV 23:43	1	4	γενεαὶ	γενεά	noun, nominative feminine plural	1	generations
 LEV 23:43	1	5	ὑμῶν	σύ	pronoun, genitive second plural	1	your
-LEV 23:43	1	6	ὅτι	ὅτι	causal conjunction	1	because
+LEV 23:43	1	6	ὅτι	ὅτι	causal conjunction	1	that
 LEV 23:43	1	7	ἐν	ἐν	preposition with the dative	1	in
 LEV 23:43	1	8	σκηναῖς	σκηνή	noun, dative feminine plural	1	booths
 LEV 23:43	1	9	κατῴκησα	κατοικέω	aorist active indicative, first singular	1	I made dwell

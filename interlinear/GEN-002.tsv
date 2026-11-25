@@ -173,7 +173,7 @@ GEN 2:7	1	20	ἐγένετο	γίνομαι	aorist middle indicative, third sing
 GEN 2:7	1	21	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 2:7	1	22	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 GEN 2:7	1	22	ἄνθρωπος			2	human being
-GEN 2:7	1	23	εἰς	εἰς	preposition with the accusative marking the result	1	into
+GEN 2:7	1	23	εἰς	εἰς	preposition with the accusative, marking result	1	(marks result)
 GEN 2:7	1	23	εἰς			2	as
 GEN 2:7	1	24	ψυχὴν	ψυχή	noun, accusative feminine singular	1	a being
 GEN 2:7	1	24	ψυχὴν			2	a soul
@@ -316,8 +316,8 @@ GEN 2:14	1	5	τρίτος	τρίτος	ordinal adjective, nominative masculine s
 GEN 2:14	1	6	Τίγρις	Τίγρις	proper noun, nominative masculine singular	1	Tigris
 GEN 2:14	1	7	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 GEN 2:14	1	8	ὁ	ὁ	article before a participle, nominative masculine singular	1	the one
-GEN 2:14	1	9	πορευόμενος	πορεύομαι	present middle participle, nominative masculine singular	1	going
-GEN 2:14	1	9	πορευόμενος			2	flowing
+GEN 2:14	1	9	πορευόμενος	πορεύομαι	present middle participle, nominative masculine singular	1	flowing
+GEN 2:14	1	9	πορευόμενος			2	going
 GEN 2:14	1	10	κατέναντι	κατέναντι	preposition with the genitive	1	opposite
 GEN 2:14	1	10	κατέναντι			2	over against
 GEN 2:14	1	11	Ἀσσυρίων	Ἀσσύριος	substantival adjective, genitive masculine plural	1	the Assyrians
@@ -588,7 +588,7 @@ GEN 2:24	1	17	καὶ	καί	conjunction	1	and
 GEN 2:24	1	18	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
 GEN 2:24	1	19	οἱ	ὁ	article, nominative masculine plural	1	the
 GEN 2:24	1	20	δύο	δύο	cardinal numeral, nominative here	1	two
-GEN 2:24	1	21	εἰς	εἰς	preposition with the accusative	1	into
+GEN 2:24	1	21	εἰς	εἰς	preposition with the accusative, marking result	1	(marks result)
 GEN 2:24	1	22	σάρκα	σάρξ	noun, accusative feminine singular	1	flesh
 GEN 2:24	1	23	μίαν	εἷς	numeral, accusative feminine singular	1	one
 GEN 2:25	1	1	Καὶ	καί	conjunction	1	and

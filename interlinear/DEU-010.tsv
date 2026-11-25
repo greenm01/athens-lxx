@@ -36,7 +36,7 @@ DEU 10:2	1	3	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	t
 DEU 10:2	1	4	ῥήματα	ῥῆμα	noun, accusative neuter plural	1	words
 DEU 10:2	1	5	ὅσα	ὅσος	relative pronoun, accusative neuter plural	1	which
 DEU 10:2	1	6	ἦν	εἰμί	imperfect indicative, 3rd sg.	1	was
-DEU 10:2	1	7	ἐν	ἐν	preposition with the dative	1	in
+DEU 10:2	1	7	ἐν	ἐν	preposition with the dative	1	on
 DEU 10:2	1	8	ταῖς	ὁ	definite article	1	the
 DEU 10:2	1	9	πλαξὶ	πλάξ	noun, dative feminine plural	1	tablets
 DEU 10:2	1	10	ταῖς	ὁ	definite article	1	the
@@ -54,7 +54,7 @@ DEU 10:3	1	2	ἐποίησα	ποιέω	aorist active indicative, 1st singular	1
 DEU 10:3	1	3	κιβωτὸν	κιβωτός	noun, accusative feminine singular	1	ark
 DEU 10:3	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 DEU 10:3	1	5	ξύλων	ξύλον	noun, genitive neuter plural	1	wood
-DEU 10:3	1	6	ἀσήπτων	ἄσηπτος	adjective, genitive neuter plural	1	acacia
+DEU 10:3	1	6	ἀσήπτων	ἄσηπτος	adjective, genitive neuter plural	1	incorruptible
 DEU 10:3	1	7	καὶ	καί	conjunction	1	and
 DEU 10:3	1	8	ἐλάξευσα	λαξεύω	aorist active indicative, 1st singular	1	hewed out
 DEU 10:3	1	9	τὰς	ὁ	definite article	1	the
@@ -180,11 +180,11 @@ DEU 10:8	1	6	Κύριος	κύριος	noun, nominative masculine singular	1	the
 DEU 10:8	1	7	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 10:8	1	8	φυλὴν	φυλή	noun, accusative feminine singular	1	tribe
 DEU 10:8	1	9	τὴν	ὁ	article, accusative fem. sg.	1	the
-DEU 10:8	1	10	Λευὶ	Λευί	tribal name, accusative singular after τὴν	1	Leui
+DEU 10:8	1	10	Λευὶ	Λευί	tribal name, accusative singular after τὴν	1	of Levi
 DEU 10:8	1	11	αἴρειν	αἴρω	present active infinitive	1	to bear
 DEU 10:8	1	12	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 10:8	1	13	κιβωτὸν	κιβωτός	noun, accusative feminine singular	1	ark
-DEU 10:8	1	14	τῆς	ὁ	definite article	1	the
+DEU 10:8	1	14	τῆς	ὁ	definite article, genitive singular feminine	1	of the
 DEU 10:8	1	15	διαθήκης	διαθήκη	noun, genitive feminine singular	1	covenant
 DEU 10:8	1	16	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 DEU 10:8	1	17	παρεστάναι	παρίστημι	present active infinitive	1	to stand
@@ -211,7 +211,7 @@ DEU 10:9	1	6	Λευίταις	Λευίτης	noun, dative masculine plural	1	Lev
 DEU 10:9	1	7	μερὶς	μερίς	noun, nominative feminine singular	1	portion
 DEU 10:9	1	8	καὶ	καί	conjunction	1	and
 DEU 10:9	1	9	κλῆρος	κλῆρος	noun, nominative masculine singular	1	inheritance
-DEU 10:9	1	10	ἐν	ἐν	preposition with the dative	1	in
+DEU 10:9	1	10	ἐν	ἐν	preposition with the dative	1	among
 DEU 10:9	1	11	τοῖς	ὁ	definite article	1	the
 DEU 10:9	1	12	ἀδελφοῖς	ἀδελφός	noun, dative masculine plural	1	brothers
 DEU 10:9	1	13	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -236,7 +236,7 @@ DEU 10:10	1	7	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days
 DEU 10:10	1	8	αἱ	ὁ	definite article	1	the
 DEU 10:10	1	9	πρῶται	πρῶτος	adjective, nominative feminine plural	1	first
 DEU 10:10	1	10	τεσσαράκοντα	τεσσαράκοντα	cardinal numeral	1	forty
-DEU 10:10	1	11	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
+DEU 10:10	1	11	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
 DEU 10:10	1	12	καὶ	καί	conjunction	1	and
 DEU 10:10	1	13	τεσσαράκοντα	τεσσαράκοντα	cardinal numeral	1	forty
 DEU 10:10	1	14	νύκτας	νύξ	noun, accusative feminine plural	1	nights
@@ -274,7 +274,7 @@ DEU 10:11	1	16	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 10:11	1	17	γῆν	γῆ	noun, accusative feminine singular	1	land
 DEU 10:11	1	18	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
 DEU 10:11	1	19	ὤμοσα	ὀμνύω	aorist active indicative, 1st singular	1	swore
-DEU 10:11	1	20	τοῖς	ὁ	definite article	1	the
+DEU 10:11	1	20	τοῖς	ὁ	definite article	1	to the
 DEU 10:11	1	21	πατράσιν	πατήρ	noun, dative masculine plural	1	fathers
 DEU 10:11	1	22	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 DEU 10:11	1	23	δοῦναι	δίδωμι	aorist active infinitive	1	to give
@@ -357,7 +357,7 @@ DEU 10:14	1	10	οὐρανὸς	οὐρανός	noun, nominative masculine singu
 DEU 10:14	1	11	τοῦ	ὁ	definite article	1	the
 DEU 10:14	1	12	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
 DEU 10:14	1	13	ἡ	ὁ	definite article, nominative feminine singular	1	the
-DEU 10:14	1	14	γῆ	γῆ	noun, nominative feminine singular	1	land
+DEU 10:14	1	14	γῆ	γῆ	noun, nominative feminine singular	1	earth
 DEU 10:14	1	15	καὶ	καί	conjunction	1	and
 DEU 10:14	1	16	πάντα	πᾶς	adjective, accusative masculine singular	1	all
 DEU 10:14	1	17	ὅσα	ὅσος	relative pronoun, accusative neuter plural	1	which
@@ -406,14 +406,14 @@ DEU 10:17	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	th
 DEU 10:17	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 10:17	1	5	Θεὸς	θεός	noun, nominative masculine singular	1	God
 DEU 10:17	1	6	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
-DEU 10:17	1	7	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
+DEU 10:17	1	7	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	he
 DEU 10:17	1	8	Θεὸς	θεός	noun, nominative masculine singular	1	God
 DEU 10:17	1	9	τῶν	ὁ	definite article	1	the
-DEU 10:17	1	10	θεῶν	θεός	noun, genitive masculine plural	1	gods
+DEU 10:17	1	10	θεῶν	θεός	noun, genitive masculine plural	1	of gods
 DEU 10:17	1	11	καὶ	καί	conjunction	1	and
 DEU 10:17	1	12	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 10:17	1	13	τῶν	ὁ	definite article	1	the
-DEU 10:17	1	14	κυρίων	κύριος	noun, genitive masculine plural	1	lords
+DEU 10:17	1	14	κυρίων	κύριος	noun, genitive masculine plural	1	of lords
 DEU 10:17	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 10:17	1	16	Θεὸς	θεός	noun, nominative masculine singular	1	God
 DEU 10:17	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -433,7 +433,7 @@ DEU 10:17	1	30	λάβῃ	λαμβάνω	aorist active subjunctive, 3rd singular	
 DEU 10:17	1	31	δῶρον	δῶρον	noun, accusative neuter singular	1	bribe
 DEU 10:18	1	1	ποιῶν	ποιέω	present active participle, nominative masculine singular	1	executes
 DEU 10:18	1	2	κρίσιν	κρίσις	noun, accusative feminine singular	1	justice
-DEU 10:18	1	3	προσηλύτῳ	προσήλυτος	noun, dative masculine singular	1	sojourner
+DEU 10:18	1	3	προσηλύτῳ	προσήλυτος	noun, dative masculine singular	1	for the sojourner
 DEU 10:18	1	4	καὶ	καί	conjunction	1	and
 DEU 10:18	1	5	ὀρφανῷ	ὀρφανός	adjective, dative masculine singular	1	orphan
 DEU 10:18	1	6	καὶ	καί	conjunction	1	and

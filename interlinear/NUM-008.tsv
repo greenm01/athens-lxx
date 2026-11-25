@@ -27,7 +27,7 @@ NUM 8:2	1	19	οἱ	ὁ	article, nominative masculine plural	1	the
 NUM 8:2	1	20	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 NUM 8:2	1	21	λύχνοι	λύχνος	noun, nominative masculine plural	1	lamps
 NUM 8:3	1	1	Καὶ	καί	conjunction	1	and
-NUM 8:3	1	2	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	made
+NUM 8:3	1	2	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	did
 NUM 8:3	1	3	οὕτως	οὕτως	adverb	1	thus
 NUM 8:3	1	4	Ἀαρών	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
 NUM 8:3	1	5	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -90,7 +90,7 @@ NUM 8:6	1	3	Λευίτας	Λευίτης	proper noun, accusative masculine plur
 NUM 8:6	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 8:6	1	5	μέσου	μέσος	adjective, genitive neuter singular; substantival	1	midst
 NUM 8:6	1	5	μέσου			2	middle
-NUM 8:6	1	6	τῶν	ὁ	article, genitive plural	1	the
+NUM 8:6	1	6	τῶν	ὁ	article, genitive plural	1	of the
 NUM 8:6	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 8:6	1	8	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 8:6	1	9	καὶ	καί	conjunction	1	and
@@ -320,7 +320,7 @@ NUM 8:17	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 8:17	1	7	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 8:17	1	8	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 8:17	1	9	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a man
-NUM 8:17	1	10	ἕως	ἕως	temporal conjunction/preposition	1	until
+NUM 8:17	1	10	ἕως	ἕως	temporal conjunction/preposition	1	to
 NUM 8:17	1	11	κτήνους	κτῆνος	noun, genitive neuter singular after ἕως	1	beast
 NUM 8:17	1	12	ᾗ	ὅς	relative pronoun of time, dative feminine singular	1	on which
 NUM 8:17	1	13	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
@@ -334,13 +334,13 @@ NUM 8:17	1	20	ἡγίασα	ἁγιάζω	aorist active indicative, first singul
 NUM 8:17	1	21	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 NUM 8:17	1	22	ἐμοί	ἐγώ	personal pronoun, emphatic dative singular	1	to me
 NUM 8:18	1	1	καὶ	καί	conjunction	1	and
-NUM 8:18	1	2	ἔλαβον	λαμβάνω	aorist active indicative, third plural	1	they took
+NUM 8:18	1	2	ἔλαβον	λαμβάνω	aorist active indicative, first singular	1	I took
 NUM 8:18	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 8:18	1	4	Λευίτας	Λευίτης	proper noun, accusative masculine plural	1	Levites
 NUM 8:18	1	5	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
-NUM 8:18	1	6	παντὸς	πᾶς	adjective, genitive neuter singular	1	any
+NUM 8:18	1	6	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
 NUM 8:18	1	7	πρωτοτόκου	πρωτότοκος	noun, genitive masculine singular after ἀπὸ/τοῦ/ἕως	1	firstborn
-NUM 8:18	1	8	ἐν	ἐν	preposition with the dative	1	in
+NUM 8:18	1	8	ἐν	ἐν	preposition with the dative	1	among
 NUM 8:18	1	9	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 NUM 8:18	1	10	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 8:19	1	1	Καὶ	καί	conjunction	1	and
@@ -380,7 +380,7 @@ NUM 8:19	1	32	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive i
 NUM 8:19	1	33	καὶ	καί	conjunction	1	and
 NUM 8:19	1	34	οὐκ	οὐ	particle	1	not
 NUM 8:19	1	35	ἔσται	εἰμί	future indicative, third singular	1	will be
-NUM 8:19	1	36	ἐν	ἐν	preposition with the dative	1	in
+NUM 8:19	1	36	ἐν	ἐν	preposition with the dative	1	among
 NUM 8:19	1	37	τοῖς	ὁ	article, dative masculine plural	1	the
 NUM 8:19	1	38	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 NUM 8:19	1	39	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -390,9 +390,9 @@ NUM 8:19	1	42	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 8:19	1	43	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 8:19	1	44	πρὸς	πρός	preposition with the accusative	1	to
 NUM 8:19	1	45	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 8:19	1	46	ἅγια	ἅγιος	substantival adjective, accusative neuter plural	1	most holy things
+NUM 8:19	1	46	ἅγια	ἅγιος	substantival adjective, accusative neuter plural	1	sacred things
 NUM 8:20	1	1	Καὶ	καί	conjunction	1	and
-NUM 8:20	1	2	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
+NUM 8:20	1	2	ἐποίησε	ποιέω	aorist active indicative, third singular	1	did
 NUM 8:20	1	3	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses
 NUM 8:20	1	4	καὶ	καί	conjunction	1	and
 NUM 8:20	1	5	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
@@ -498,7 +498,7 @@ NUM 8:24	1	8	πέντε	πέντε	indeclinable cardinal numeral	1	five
 NUM 8:24	1	9	καὶ	καί	conjunction	1	and
 NUM 8:24	1	10	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 8:24	1	11	καὶ	καί	conjunction	1	and
-NUM 8:24	1	12	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 8:24	1	12	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 8:24	1	12	ἐπάνω			2	above
 NUM 8:24	1	13	εἰσελεύσονται	εἰσέρχομαι	future middle indicative, third plural	1	shall enter
 NUM 8:24	1	14	λειτουργεῖν	λειτουργέω	present active infinitive	1	to serve

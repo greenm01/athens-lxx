@@ -57,16 +57,16 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:3	1	6	καὶ	καί	conjunction	1	and
 2SA 13:3	1	7	ὄνομα	ὄνομα	noun, nominative neuter singular	1	name
 2SA 13:3	1	8	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-2SA 13:3	1	9	Ἰωναδὰβ	Ἰωναδάβ	indeclinable personal name, nominative in context	1	Ionadab
-2SA 13:3	1	9	Ἰωναδὰβ			2	Jonadab
+2SA 13:3	1	9	Ἰωναδὰβ	Ἰωναδάβ	indeclinable personal name, nominative in context	1	Jonadab
+2SA 13:3	1	9	Ἰωναδὰβ			2	Ionadab
 2SA 13:3	1	10	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2SA 13:3	1	11	Σαμαὰ	Σαμαά	indeclinable place name, nominative in context	1	Samaa
+2SA 13:3	1	11	Σαμαὰ	Σαμαά	indeclinable place name, nominative in context	1	of Shimeah
 2SA 13:3	1	12	τοῦ	ὁ	article, genitive singular	1	the
 2SA 13:3	1	13	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
 2SA 13:3	1	14	Δαυίδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 2SA 13:3	1	15	Καὶ	καί	conjunction	1	and
-2SA 13:3	1	16	Ἰωναδὰβ	Ἰωναδάβ	indeclinable personal name, nominative in context	1	Ionadab
-2SA 13:3	1	16	Ἰωναδὰβ			2	Jonadab
+2SA 13:3	1	16	Ἰωναδὰβ	Ἰωναδάβ	indeclinable personal name, nominative in context	1	Jonadab
+2SA 13:3	1	16	Ἰωναδὰβ			2	Ionadab
 2SA 13:3	1	17	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	a man
 2SA 13:3	1	18	σοφὸς	σοφός	adjective, nominative masculine singular	1	clever
 2SA 13:3	1	19	σφόδρα	σφόδρα	adverb of degree	1	greatly
@@ -75,12 +75,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:4	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 2SA 13:4	1	4	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 2SA 13:4	1	5	σοι	σύ	personal pronoun, dative singular	1	to you
-2SA 13:4	1	6	ὅτι	ὅτι	causal conjunction	1	because
+2SA 13:4	1	6	ὅτι	ὅτι	causal conjunction	1	that
 2SA 13:4	1	7	σὺ	σύ	pronoun, nominative second singular	1	you
 2SA 13:4	1	8	οὕτως	οὕτως	adverb	1	thus
 2SA 13:4	1	9	ἀσθενὴς	ἀσθενής	adjective nominative masculine singular	1	weak
 2SA 13:4	1	10	υἱὲ	υἱός	noun, vocative masculine singular	1	son
-2SA 13:4	1	11	τοῦ	ὁ	article, genitive singular	1	the
+2SA 13:4	1	11	τοῦ	ὁ	article, genitive singular	1	of the
 2SA 13:4	1	12	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2SA 13:4	1	13	τὸ	ὁ	article, nominative neuter singular	1	the
 2SA 13:4	1	14	πρωῒ	πρωΐ	adverb/noun, accusative after τὸ as noun phrase 'the morning' with διέφαυσε	1	morning
@@ -105,8 +105,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:5	1	1	Καὶ	καί	conjunction	1	and
 2SA 13:5	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2SA 13:5	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-2SA 13:5	1	4	Ἰωναδάβ	Ἰωναδάβ	indeclinable personal name, nominative in context	1	Ionadab
-2SA 13:5	1	4	Ἰωναδάβ			2	Jonadab
+2SA 13:5	1	4	Ἰωναδάβ	Ἰωναδάβ	indeclinable personal name, nominative in context	1	Jonadab
+2SA 13:5	1	4	Ἰωναδάβ			2	Ionadab
 2SA 13:5	1	5	κοιμήθητι	κοιμάω	aorist passive imperative, second singular	1	lie
 2SA 13:5	1	6	ἐπὶ	ἐπί	preposition with the genitive	1	upon
 2SA 13:5	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -396,8 +396,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:14	1	8	φωνῆς	φωνή	noun, genitive feminine singular	1	voice
 2SA 13:14	1	9	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 2SA 13:14	1	10	καὶ	καί	conjunction	1	and
-2SA 13:14	1	11	ἐκραταιώθη	κραταιόω	aorist passive indicative, third singular	1	he overpowered
-2SA 13:14	1	12	ὑπὲρ	ὑπέρ	preposition with accusative of comparison	1	than
+2SA 13:14	1	11	ἐκραταιώθη	κραταιόω	aorist passive indicative, third singular	1	he prevailed
+2SA 13:14	1	12	ὑπὲρ	ὑπέρ	preposition with accusative of comparison	1	over
 2SA 13:14	1	13	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
 2SA 13:14	1	14	καὶ	καί	conjunction	1	and
 2SA 13:14	1	15	ἐταπείνωσεν	ταπεινόω	aorist active indicative, third singular	1	he violated
@@ -468,7 +468,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:17	1	4	παιδάριον	παιδάριον	noun, accusative neuter singular	1	the young servant
 2SA 13:17	1	5	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2SA 13:17	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
-2SA 13:17	1	7	προεστηκότα	προΐστημι	perfect active participle, accusative masculine singular	1	who attended
+2SA 13:17	1	7	προεστηκότα	προΐστημι	perfect active participle, accusative masculine singular	1	who was over
 2SA 13:17	1	7	προεστηκότα			2	who was in charge
 2SA 13:17	1	8	τοῦ	ὁ	article, genitive singular	1	the
 2SA 13:17	1	9	οἴκου	οἶκος	noun, genitive masculine singular	1	house
@@ -569,7 +569,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:20	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 13:20	1	7	ἀδελφὸς	ἀδελφός	noun, nominative masculine singular	1	brother
 2SA 13:20	1	8	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
-2SA 13:20	1	9	μὴ	μή	interrogative particle inviting a negative answer	1	could it be that
+2SA 13:20	1	9	μὴ	μή	interrogative particle inviting a negative answer	1	[marks a question]
 2SA 13:20	1	10	Ἀμνὼν	Ἀμνών	indeclinable personal name, nominative in context	1	Amnon
 2SA 13:20	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 13:20	1	12	ἀδελφός	ἀδελφός	noun, nominative masculine singular	1	brother
@@ -586,7 +586,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:20	1	23	ἀδελφός	ἀδελφός	noun, nominative masculine singular	1	brother
 2SA 13:20	1	24	σου	σύ	pronoun, possessive genitive second singular	1	your
 2SA 13:20	1	25	ἐστί	εἰμί	present indicative, third singular	1	is
-2SA 13:20	1	26	μὴ	μή	negative particle completing οὐ μή, with οὐ	1	—
+2SA 13:20	1	26	μὴ	μή	negative particle	1	do not
 2SA 13:20	1	27	θῇς	τίθημι	aorist active subjunctive, second singular	1	you set
 2SA 13:20	1	27	θῇς			2	you place
 2SA 13:20	1	28	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -784,7 +784,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:26	1	19	βασιλεύς	βασιλεύς	noun, nominative masculine singular	1	king
 2SA 13:26	1	20	ἱνατί	ἱνατί	interrogative adverb, ἵνα τί written as one word	1	why
 2SA 13:26	1	20	ἱνατί			2	to what end
-2SA 13:26	1	21	πορευθῇ	πορεύομαι	aorist passive subjunctive, third singular	1	she goes
+2SA 13:26	1	21	πορευθῇ	πορεύομαι	aorist passive subjunctive, third singular	1	should he go
 2SA 13:26	1	22	μετὰ	μετά	preposition with genitive	1	with
 2SA 13:26	1	23	σοῦ	σύ	personal pronoun, emphatic genitive singular	1	you
 2SA 13:27	1	1	Καὶ	καί	conjunction	1	and
@@ -882,22 +882,22 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:29	1	14	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 2SA 13:29	1	15	οἱ	ὁ	article, nominative masculine plural	1	the
 2SA 13:29	1	16	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-2SA 13:29	1	17	τοῦ	ὁ	article, genitive singular	1	the
+2SA 13:29	1	17	τοῦ	ὁ	article, genitive singular	1	of the
 2SA 13:29	1	18	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2SA 13:29	1	19	καὶ	καί	conjunction	1	and
 2SA 13:29	1	20	ἐπεκάθισαν	ἐπικαθίζω	aorist active indicative, third plural	1	sat on
 2SA 13:29	1	20	ἐπεκάθισαν			2	mounted
 2SA 13:29	1	21	ἕκαστος	ἕκαστος	pronoun, nominative masc. sg.	1	every man
 2SA 13:29	1	22	ἐπὶ	ἐπί	preposition (case from context)	1	on
-2SA 13:29	1	23	τὴν	ἡμίονος	noun, accusative feminine singular	1	mule
+2SA 13:29	1	23	τὴν	ὁ	article, accusative feminine singular	1	the
 2SA 13:29	1	24	ἡμίονον	ἡμίονος	noun, accusative masculine singular	1	mule
 2SA 13:29	1	25	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2SA 13:29	1	26	καὶ	καί	conjunction	1	and
 2SA 13:29	1	27	ἔφυγον	φεύγω	aorist active indicative, 3rd pl.	1	fled
 2SA 13:30	1	1	Καὶ	καί	conjunction	1	and
 2SA 13:30	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
-2SA 13:30	1	3	αὐτῶν	αὐτός	pronoun, possessive genitive masculine plural	1	their
-2SA 13:30	1	4	ὄντων	εἰμί	present active participle, genitive masculine plural	1	who are
+2SA 13:30	1	3	αὐτῶν	αὐτός	pronoun, possessive genitive masculine plural	1	they
+2SA 13:30	1	4	ὄντων	εἰμί	present active participle, genitive masculine plural	1	were
 2SA 13:30	1	5	ἐν	ἐν	preposition with the dative	1	in
 2SA 13:30	1	6	τῇ	ὁ	article, dative feminine singular	1	the
 2SA 13:30	1	7	ὁδῷ	ὁδός	noun, dative feminine singular after τῇ/ἐν τῇ	1	way
@@ -924,7 +924,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:30	1	25	ἐξ	ἐκ	preposition with the genitive	1	from
 2SA 13:30	1	26	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
 2SA 13:30	1	27	οὐδὲ	οὐδέ	conjunction/negative	1	nor
-2SA 13:30	1	28	εἷς	εἷς	cardinal numeral/pronoun, nominative masculine singular after ὁ	1	the one
+2SA 13:30	1	28	εἷς	εἷς	cardinal numeral/pronoun, nominative masculine singular after ὁ	1	one
 2SA 13:31	1	1	Καὶ	καί	conjunction	1	and
 2SA 13:31	1	2	ἀνέστη	ἀνίστημι	aorist active indicative, third singular	1	rose up
 2SA 13:31	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -935,7 +935,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:31	1	8	ἱμάτια	ἱμάτιον	noun, accusative neuter plural after τὰ	1	clothes
 2SA 13:31	1	9	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2SA 13:31	1	10	καὶ	καί	conjunction	1	and
-2SA 13:31	1	11	ἐκοιμήθη	κοιμάομαι	aorist passive indicative, third singular	1	slept
+2SA 13:31	1	11	ἐκοιμήθη	κοιμάομαι	aorist passive indicative, third singular	1	lay
 2SA 13:31	1	12	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 2SA 13:31	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 2SA 13:31	1	14	γῆν	γῆ	noun, accusative feminine singular	1	ground
@@ -954,22 +954,22 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:31	1	25	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 2SA 13:32	1	1	Καὶ	καί	conjunction	1	and
 2SA 13:32	1	2	ἀπεκρίθη	ἀποκρίνομαι	aorist passive indicative, third singular	1	answered
-2SA 13:32	1	3	Ἰωναδὰβ	Ἰωναδάβ	indeclinable personal name, nominative in context	1	Ionadab
-2SA 13:32	1	3	Ἰωναδὰβ			2	Jonadab
+2SA 13:32	1	3	Ἰωναδὰβ	Ἰωναδάβ	indeclinable personal name, nominative in context	1	Jonadab
+2SA 13:32	1	3	Ἰωναδὰβ			2	Ionadab
 2SA 13:32	1	4	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2SA 13:32	1	5	Σαμαὰ	Σαμαά	indeclinable place name, nominative in context	1	Samaa
+2SA 13:32	1	5	Σαμαὰ	Σαμαά	indeclinable place name, nominative in context	1	of Shimeah
 2SA 13:32	1	6	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
 2SA 13:32	1	7	Δαυὶδ	Δαυίδ	indeclinable personal name, accusative in context	1	David
 2SA 13:32	1	8	καὶ	καί	conjunction	1	and
 2SA 13:32	1	9	εἶπε	λέγω	aorist active indicative, third singular	1	said
-2SA 13:32	1	10	μὴ	μή	negative particle introducing apprehension	1	lest
+2SA 13:32	1	10	μὴ	μή	negative particle introducing apprehension	1	not
 2SA 13:32	1	11	εἰπάτω	λέγω	aorist active imperative, third singular	1	let him say
 2SA 13:32	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 13:32	1	13	κύριός	κύριος	noun, nominative masculine singular	1	master
 2SA 13:32	1	14	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2SA 13:32	1	15	ὁ	ὁ	article nominative masculine singular	1	the
 2SA 13:32	1	16	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
-2SA 13:32	1	17	ὅτι	ὅτι	causal conjunction	1	because
+2SA 13:32	1	17	ὅτι	ὅτι	causal conjunction	1	that
 2SA 13:32	1	18	πάντα	πᾶς	adjective nominative neuter plural	1	all
 2SA 13:32	1	19	τὰ	ὁ	article, nominative neuter plural	1	the
 2SA 13:32	1	20	παιδία	παιδίον	noun, nominative neuter plural	1	children
@@ -994,7 +994,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:32	1	37	τῆς	ὁ	article, genitive feminine singular	1	the
 2SA 13:32	1	38	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
 2SA 13:32	1	39	ἧς	ὅς	relative pronoun, genitive feminine singular	1	which
-2SA 13:32	1	40	ἐταπείνωσε	ταπεινόω	aorist active indicative, third singular	1	brought low
+2SA 13:32	1	40	ἐταπείνωσε	ταπεινόω	aorist active indicative, third singular	1	he violated
 2SA 13:32	1	41	Θαμὰρ	Θαμάρ	indeclinable place name in a compound geographical name	1	Tamar
 2SA 13:32	1	42	τὴν	ὁ	article, accusative feminine singular	1	the
 2SA 13:32	1	43	ἀδελφὴν	ἀδελφή	noun, accusative feminine singular	1	sister
@@ -1018,7 +1018,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:33	1	17	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 2SA 13:33	1	18	οἱ	ὁ	article, nominative masculine plural	1	the
 2SA 13:33	1	19	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-2SA 13:33	1	20	τοῦ	ὁ	article, genitive singular	1	the
+2SA 13:33	1	20	τοῦ	ὁ	article, genitive singular	1	of the
 2SA 13:33	1	21	βασιλέως	βασιλεύς	noun, genitive masculine singular after τοῦ	1	king
 2SA 13:33	1	22	ἀπέθανον	ἀποθνῄσκω	aorist active indicative, third plural	1	died
 2SA 13:33	1	23	ὅτι	ὅτι	causal conjunction	1	because
@@ -1097,7 +1097,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:35	1	7	ἰδοὺ	ἰδού	interjection	1	look
 2SA 13:35	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
 2SA 13:35	1	9	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-2SA 13:35	1	10	τοῦ	ὁ	article, genitive singular	1	the
+2SA 13:35	1	10	τοῦ	ὁ	article, genitive singular	1	of the
 2SA 13:35	1	11	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2SA 13:35	1	12	πάρεισι	πάρειμι	present active indicative, third plural	1	are here
 2SA 13:35	1	13	κατὰ	κατά	preposition with the accusative	1	according to
@@ -1118,7 +1118,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:36	1	7	ἰδοὺ	ἰδού	presentative particle	1	behold
 2SA 13:36	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
 2SA 13:36	1	9	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-2SA 13:36	1	10	τοῦ	ὁ	article, genitive singular	1	the
+2SA 13:36	1	10	τοῦ	ὁ	article, genitive singular	1	of the
 2SA 13:36	1	11	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 2SA 13:36	1	12	ἦλθον	ἔρχομαι	aorist active indicative, third plural	1	came
 2SA 13:36	1	13	καὶ	καί	conjunction	1	and
@@ -1152,8 +1152,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:37	1	5	ἐπορεύθη	πορεύομαι	aorist passive indicative, third singular; middle sense	1	went
 2SA 13:37	1	5	ἐπορεύθη			2	journeyed
 2SA 13:37	1	6	πρὸς	πρός	preposition with the accusative	1	to
-2SA 13:37	1	7	Θολομαὶ	Θολομαί	indeclinable personal name, accusative in context	1	Tholomai
-2SA 13:37	1	7	Θολομαὶ			2	Talmai
+2SA 13:37	1	7	Θολομαὶ	Θολομαί	indeclinable personal name, accusative in context	1	Talmai
+2SA 13:37	1	7	Θολομαὶ			2	Tholomai
 2SA 13:37	1	8	υἱὸν	υἱός	noun, accusative masculine singular	1	son
 2SA 13:37	1	9	Ἐμιοὺδ	Ἐμιούδ	indeclinable personal name, genitive in context	1	of Emiud
 2SA 13:37	1	9	Ἐμιοὺδ			2	of Ammihud

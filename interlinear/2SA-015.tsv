@@ -19,8 +19,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:1	1	17	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	him
 2SA 15:2	1	1	Καὶ	καί	conjunction	1	and
 2SA 15:2	1	2	ὤρθρισεν	ὀρθρίζω	aorist active indicative, third singular	1	got up early
-2SA 15:2	1	3	Ἀβεσσαλὼμ	Ἀβεσσαλώμ	indeclinable personal name, nominative in context	1	Abessalom
-2SA 15:2	1	3	Ἀβεσσαλὼμ			2	Absalom
+2SA 15:2	1	3	Ἀβεσσαλὼμ	Ἀβεσσαλώμ	indeclinable personal name, nominative in context	1	Absalom
+2SA 15:2	1	3	Ἀβεσσαλὼμ			2	Abessalom
 2SA 15:2	1	4	καὶ	καί	conjunction	1	and
 2SA 15:2	1	5	ἔστη	ἵστημι	aorist active indicative, third singular	1	stood
 2SA 15:2	1	6	ἀνὰ	ἀνά	preposition with accusative χείρ in an expression of position	1	alongside
@@ -35,7 +35,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:2	1	14	πᾶς	πᾶς	adjective/pronoun, nominative masc. sg. with participle ὁ ζητῶν, everyone	1	everyone
 2SA 15:2	1	15	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
 2SA 15:2	1	16	ᾧ	ὅς	relative pronoun, dative masculine singular	1	who
-2SA 15:2	1	17	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
+2SA 15:2	1	17	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	there was
 2SA 15:2	1	18	κρίσις	κρίσις	noun, nominative fem. sg. after ἡ, the case/judgment	1	case
 2SA 15:2	1	19	ἦλθε	ἔρχομαι	aorist active indicative, third singular	1	came
 2SA 15:2	1	20	πρὸς	πρός	preposition with the accusative	1	to
@@ -66,8 +66,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:2	1	41	ἀνήρ	ἀνήρ	noun, nominative masculine singular	1	man
 2SA 15:2	1	42	ἐκ	ἐκ	preposition with the genitive	1	from
 2SA 15:2	1	43	μιᾶς	εἷς	cardinal numeral, genitive feminine singular	1	one
-2SA 15:2	1	44	φυλῶν	φυλή	noun, genitive feminine plural	1	clans
-2SA 15:2	1	44	φυλῶν			2	tribes
+2SA 15:2	1	44	φυλῶν	φυλή	noun, genitive feminine plural	1	tribes
+2SA 15:2	1	44	φυλῶν			2	clans
 2SA 15:2	1	45	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2SA 15:2	1	46	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 15:2	1	47	δοῦλός	δοῦλος	noun, nominative masculine singular	1	servant
@@ -91,7 +91,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:3	1	15	σου	σύ	pronoun, possessive genitive second singular	1	your
 2SA 15:3	1	16	οὐκ	οὐ	negative particle	1	not
 2SA 15:3	1	17	ἔστιν	εἰμί	present indicative, third singular	1	is
-2SA 15:3	1	18	σοι	σύ	pronoun, dative 2nd sg.	1	beside you
+2SA 15:3	1	18	σοι	σύ	pronoun, dative 2nd sg.	1	for you
 2SA 15:3	1	19	παρὰ	παρά	preposition with genitive	1	from
 2SA 15:3	1	20	τοῦ	ὁ	article, genitive singular	1	the
 2SA 15:3	1	21	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
@@ -194,14 +194,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:7	1	20	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 2SA 15:7	1	20	μου			2	of me
 2SA 15:7	1	21	ἃς	ὅς	relative pronoun, accusative of duration, accusative feminine plural	1	which
-2SA 15:7	1	22	ηὐξάμην	εὔχομαι	aorist middle indicative, 1st singular	1	prayed
+2SA 15:7	1	22	ηὐξάμην	εὔχομαι	aorist middle indicative, 1st singular	1	I vowed
 2SA 15:7	1	23	τῷ	ὁ	article, dative masculine singular	1	to the
 2SA 15:7	1	24	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 2SA 15:7	1	25	ἐν	ἐν	preposition with the dative	1	in
 2SA 15:7	1	26	Χεβρών	Χεβρών	indeclinable personal name, nominative in context	1	Hebron
 2SA 15:8	1	1	ὅτι	ὅτι	causal conjunction	1	because
 2SA 15:8	1	2	εὐχὴν	εὐχή	noun, accusative feminine singular	1	a vow
-2SA 15:8	1	3	ηὔξατο	εὔχομαι	aorist middle indicative, third singular	1	prayed
+2SA 15:8	1	3	ηὔξατο	εὔχομαι	aorist middle indicative, third singular	1	vowed
 2SA 15:8	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 15:8	1	5	δοῦλός	δοῦλος	noun, nominative masculine singular	1	servant
 2SA 15:8	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -234,9 +234,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:9	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 15:9	1	5	βασιλεύς	βασιλεύς	noun, nominative masculine singular	1	king
 2SA 15:9	1	6	βάδιζε	βαδίζω	present active imperative, second person singular	1	go
-2SA 15:9	1	7	εἰς	εἰς	preposition governing the accusative	1	concerning
-2SA 15:9	1	8	εἰρήνην	εἰρήνη	noun, accusative feminine singular	1	well-being
-2SA 15:9	1	8	εἰρήνην			2	peace
+2SA 15:9	1	7	εἰς	εἰς	preposition governing the accusative	1	in
+2SA 15:9	1	8	εἰρήνην	εἰρήνη	noun, accusative feminine singular	1	peace
+2SA 15:9	1	8	εἰρήνην			2	well-being
 2SA 15:9	1	9	Καὶ	καί	conjunction	1	and
 2SA 15:9	1	10	ἀναστὰς	ἀνίστημι	aorist active participle, nominative masculine singular	1	having risen
 2SA 15:9	1	10	ἀναστὰς			2	arising
@@ -298,8 +298,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:12	1	3	Ἀβεσσαλὼμ	Ἀβεσσαλώμ	indeclinable personal name, nominative in context	1	Abessalom
 2SA 15:12	1	3	Ἀβεσσαλὼμ			2	Absalom
 2SA 15:12	1	4	τῷ	ὁ	article, dative masculine singular	1	the
-2SA 15:12	1	5	Ἀχιτόφελ	Ἀχιτόφελ	indeclinable personal name, dative in context	1	Achitophel
-2SA 15:12	1	5	Ἀχιτόφελ			2	Ahithophel
+2SA 15:12	1	5	Ἀχιτόφελ	Ἀχιτόφελ	indeclinable personal name, dative in context	1	Ahithophel
+2SA 15:12	1	5	Ἀχιτόφελ			2	Achitophel
 2SA 15:12	1	6	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 2SA 15:12	1	7	Γιλωναίῳ	Γιλωναῖος	noun, dative masculine singular	1	Gilonite
 2SA 15:12	1	8	τῷ	ὁ	article, dative masculine singular	1	the
@@ -359,7 +359,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:14	1	14	ἀνάστητε	ἀνίστημι	aorist active imperative, second plural	1	get up
 2SA 15:14	1	15	καὶ	καί	conjunction	1	and
 2SA 15:14	1	16	φύγωμεν	φεύγω	aorist active subjunctive, 1st pl. exhortation	1	let us flee
-2SA 15:14	1	17	ὅτι	ὅτι	content conjunction	1	that
+2SA 15:14	1	17	ὅτι	ὅτι	content conjunction	1	for
 2SA 15:14	1	18	οὐκ	οὐ	particle	1	not
 2SA 15:14	1	19	ἔστιν	εἰμί	present indicative, third singular	1	is
 2SA 15:14	1	20	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
@@ -422,7 +422,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:16	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 15:16	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2SA 15:16	1	5	καὶ	καί	conjunction	1	and
-2SA 15:16	1	6	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+2SA 15:16	1	6	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 2SA 15:16	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 15:16	1	8	οἶκος	οἶκος	noun, nominative masculine singular	1	house
 2SA 15:16	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -435,7 +435,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:16	1	16	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2SA 15:16	1	17	τὰς	ὁ	article, accusative feminine plural	1	the
 2SA 15:16	1	18	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-2SA 15:16	1	19	γυναῖκας	γυνή	noun, accusative feminine plural	1	wives
+2SA 15:16	1	19	γυναῖκας	γυνή	noun, accusative feminine plural	1	women
 2SA 15:16	1	20	τῶν	ὁ	article, genitive feminine plural	1	of the
 2SA 15:16	1	21	παλλακῶν	παλλακή	noun, genitive feminine plural	1	concubines
 2SA 15:16	1	22	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -613,7 +613,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:21	1	34	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 2SA 15:21	1	35	εἰς	εἰς	preposition with the accusative	1	into
 2SA 15:21	1	36	ζωὴν	ζωή	noun, accusative feminine singular	1	life
-2SA 15:21	1	37	ὅτι	ὅτι	causal conjunction	1	because
+2SA 15:21	1	37	ὅτι	ὅτι	causal conjunction	1	that
 2SA 15:21	1	38	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 2SA 15:21	1	39	ἔσται	εἰμί	future indicative, third singular	1	will be
 2SA 15:21	1	40	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -660,7 +660,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:23	1	6	φωνῇ	φωνή	noun, dative feminine singular	1	with a voice
 2SA 15:23	1	7	μεγάλῃ	μέγας	adjective, dative feminine singular	1	loud
 2SA 15:23	1	8	Καὶ	καί	conjunction	1	and
-2SA 15:23	1	9	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+2SA 15:23	1	9	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 2SA 15:23	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 15:23	1	11	λαὸς	λαός	noun, nominative masculine singular	1	people
 2SA 15:23	1	12	παρεπορεύοντο	παραπορεύομαι	imperfect middle/passive indicative, third person plural	1	were walking along
@@ -673,10 +673,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:23	1	19	χειμάρρῳ	χείμαρρος	noun, dative masculine singular	1	ravine
 2SA 15:23	1	19	χειμάρρῳ			2	stream
 2SA 15:23	1	20	τῶν	ὁ	article, genitive feminine plural	1	in
-2SA 15:23	1	21	Κέδρων	Κεδρών	indeclinable place name, genitive in context	1	of Kedron
-2SA 15:23	1	21	Κέδρων			2	of Kidron
+2SA 15:23	1	21	Κέδρων	Κεδρών	indeclinable place name, genitive in context	1	of Kidron
+2SA 15:23	1	21	Κέδρων			2	of Kedron
 2SA 15:23	1	22	καὶ	καί	conjunction	1	and
-2SA 15:23	1	23	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+2SA 15:23	1	23	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 2SA 15:23	1	24	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 15:23	1	25	λαὸς	λαός	noun, nominative masculine singular	1	people
 2SA 15:23	1	26	παρεπορεύοντο	παραπορεύομαι	imperfect middle/passive indicative, third person plural	1	were walking along
@@ -708,15 +708,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:24	1	20	ἔστησαν	ἵστημι	aorist active indicative, third plural	1	they set down
 2SA 15:24	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
 2SA 15:24	1	22	κιβωτὸν	κιβωτός	noun, accusative fem. sg., ark/chest	1	ark
-2SA 15:24	1	23	τοῦ	ὁ	article, genitive singular	1	the
+2SA 15:24	1	23	τοῦ	ὁ	article, genitive singular	1	of
 2SA 15:24	1	24	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 2SA 15:24	1	25	Καὶ	καί	conjunction	1	and
 2SA 15:24	1	26	ἀνέβη	ἀναβαίνω	aorist active indicative, 3rd sg.	1	came up
 2SA 15:24	1	27	Ἀβιάθαρ	Ἀβιάθαρ	indeclinable personal name, nominative in context	1	Abiathar
-2SA 15:24	1	28	ἕως	ἕως	preposition with the genitive	1	as far as
+2SA 15:24	1	28	ἕως	ἕως	preposition with the genitive	1	until
 2SA 15:24	1	28	ἕως			2	up to
 2SA 15:24	1	29	ἐπαύσατο	παύω	aorist middle indicative, third singular	1	stopped
-2SA 15:24	1	30	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+2SA 15:24	1	30	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 2SA 15:24	1	31	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 15:24	1	32	λαὸς	λαός	noun, nominative masculine singular	1	people
 2SA 15:24	1	33	παρελθεῖν	παρέρχομαι	aorist active infinitive	1	to pass by
@@ -732,10 +732,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:25	1	5	τῷ	ὁ	article, dative masculine singular; with a proper name	1	to
 2SA 15:25	1	6	Σαδδώκ	Σαδδώκ	indeclinable personal name, accusative in context	1	Saddok
 2SA 15:25	1	6	Σαδδώκ			2	Zadok
-2SA 15:25	1	7	ἀπόστρεψον	ἀποστρέφω	aorist active imperative, second singular	1	turn away
+2SA 15:25	1	7	ἀπόστρεψον	ἀποστρέφω	aorist active imperative, second singular	1	take back
 2SA 15:25	1	8	τὴν	ὁ	article, accusative feminine singular	1	the
 2SA 15:25	1	9	κιβωτὸν	κιβωτός	noun, accusative fem. sg., ark/chest	1	ark
-2SA 15:25	1	10	τοῦ	ὁ	article, genitive singular	1	the
+2SA 15:25	1	10	τοῦ	ὁ	article, genitive singular	1	of
 2SA 15:25	1	11	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 2SA 15:25	1	12	εἰς	εἰς	preposition with the accusative	1	into
 2SA 15:25	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -754,7 +754,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:25	1	25	ὀφθαλμοῖς	ὀφθαλμός	noun, dative masculine plural	1	eyes
 2SA 15:25	1	26	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2SA 15:25	1	27	καὶ	καί	conjunction	1	and
-2SA 15:25	1	28	ἐπιστρέψει	ἐπιστρέφω	future active indicative, third singular	1	will turn back
+2SA 15:25	1	28	ἐπιστρέψει	ἐπιστρέφω	future active indicative, third singular	1	will bring back
 2SA 15:25	1	28	ἐπιστρέψει			2	will turn
 2SA 15:25	1	29	με	ἐγώ	personal pronoun, accusative singular	1	me
 2SA 15:25	1	30	καὶ	καί	conjunction	1	and
@@ -793,7 +793,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:27	1	5	τῷ	ὁ	article, dative masculine singular; with a proper name	1	to
 2SA 15:27	1	6	Σαδδὼκ	Σαδδώκ	indeclinable personal name, accusative in context	1	Saddok
 2SA 15:27	1	6	Σαδδὼκ			2	Zadok
-2SA 15:27	1	7	τῷ	ὁ	article, dative masculine singular	1	for the
+2SA 15:27	1	7	τῷ	ὁ	article, dative masculine singular	1	the
 2SA 15:27	1	8	ἱερεῖ	ἱερεύς	noun, dative masculine singular	1	priest
 2SA 15:27	1	9	ἴδετε	ὁράω	aorist active imperative, second plural	1	see
 2SA 15:27	1	10	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
@@ -830,7 +830,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:28	1	8	ἐρήμου	ἔρημος	noun, genitive feminine singular	1	desert
 2SA 15:28	1	9	ἕως	ἕως	temporal conjunction/preposition	1	until
 2SA 15:28	1	10	τοῦ	ὁ	article, genitive singular	1	the
-2SA 15:28	1	11	ἐλθεῖν	ἔρχομαι	aorist active infinitive after τοῦ	1	came
+2SA 15:28	1	11	ἐλθεῖν	ἔρχομαι	aorist active infinitive after τοῦ	1	comes
 2SA 15:28	1	12	ῥῆμα	ῥῆμα	noun, nominative neuter singular	1	statement
 2SA 15:28	1	12	ῥῆμα			2	matter
 2SA 15:28	1	13	παρ	παρά	preposition with genitive, printed without elision mark	1	from
@@ -847,7 +847,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:29	1	5	Ἀβιάθαρ	Ἀβιάθαρ	indeclinable personal name, nominative in context	1	Abiathar
 2SA 15:29	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 2SA 15:29	1	7	κιβωτὸν	κιβωτός	noun, accusative fem. sg., ark/chest	1	ark
-2SA 15:29	1	8	τοῦ	ὁ	article, genitive singular	1	the
+2SA 15:29	1	8	τοῦ	ὁ	article, genitive singular	1	of
 2SA 15:29	1	9	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 2SA 15:29	1	10	εἰς	εἰς	preposition with the accusative	1	into
 2SA 15:29	1	11	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
@@ -856,7 +856,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:29	1	14	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 2SA 15:30	1	1	Καὶ	καί	conjunction	1	and
 2SA 15:30	1	2	Δαυὶδ	Δαυίδ	indeclinable personal name, accusative in context	1	David
-2SA 15:30	1	3	ἀνέβαινεν	ἀναβαίνω	imperfect active indicative, third singular	1	was rising
+2SA 15:30	1	3	ἀνέβαινεν	ἀναβαίνω	imperfect active indicative, third singular	1	was going up
 2SA 15:30	1	3	ἀνέβαινεν			2	used to rise
 2SA 15:30	1	4	ἐν	ἐν	preposition with the dative	1	in
 2SA 15:30	1	5	τῇ	ὁ	article, dative feminine singular	1	the
@@ -889,7 +889,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:30	1	30	κεφαλὴν	κεφαλή	noun, accusative feminine singular	1	head
 2SA 15:30	1	31	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2SA 15:30	1	32	καὶ	καί	conjunction	1	and
-2SA 15:30	1	33	ἀνέβαινον	ἀναβαίνω	imperfect active indicative, third plural	1	kept coming up
+2SA 15:30	1	33	ἀνέβαινον	ἀναβαίνω	imperfect active indicative, third plural	1	were going up
 2SA 15:30	1	34	ἀναβαίνοντες	ἀναβαίνω	present active participle, nominative masculine plural	1	mounting
 2SA 15:30	1	34	ἀναβαίνοντες			2	climbing upon
 2SA 15:30	1	35	καὶ	καί	conjunction	1	and
@@ -915,10 +915,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:31	1	15	δὴ	δή	emphatic particle	1	please
 2SA 15:31	1	15	δὴ			2	now
 2SA 15:31	1	16	τὴν	ὁ	article, accusative feminine singular	1	the
-2SA 15:31	1	17	βουλὴν	βουλή	noun, accusative feminine singular	1	council
+2SA 15:31	1	17	βουλὴν	βουλή	noun, accusative feminine singular	1	counsel
 2SA 15:31	1	18	Ἀχιτόφελ	Ἀχιτόφελ	indeclinable personal name, dative in context	1	Achitophel
 2SA 15:31	1	18	Ἀχιτόφελ			2	Ahithophel
-2SA 15:31	1	19	Κύριε	κύριος	noun vocative masculine singular	1	the Lord
+2SA 15:31	1	19	Κύριε	κύριος	vocative singular masculine noun	1	O Lord
 2SA 15:31	1	20	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 15:31	1	21	Θεός	θεός	noun, nominative masculine singular	1	God
 2SA 15:31	1	22	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
@@ -943,8 +943,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:32	1	16	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	1	meeting
 2SA 15:32	1	16	ἀπάντησιν			2	encounter
 2SA 15:32	1	17	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-2SA 15:32	1	18	Χουσεὶ	Χουσεί	indeclinable personal name, nominative in context	1	Chousei
-2SA 15:32	1	18	Χουσεὶ			2	Hushai
+2SA 15:32	1	18	Χουσεὶ	Χουσεί	indeclinable personal name, nominative in context	1	Hushai
+2SA 15:32	1	18	Χουσεὶ			2	Chousei
 2SA 15:32	1	19	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 15:32	1	20	ἀρχιεταῖρος	ἀρχιεταῖρος	noun, nominative masculine singular	1	chief companion
 2SA 15:32	1	21	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
@@ -1027,7 +1027,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:34	1	48	διασκεδάσεις			2	you will scatter
 2SA 15:34	1	49	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 2SA 15:34	1	50	τὴν	ὁ	article, accusative feminine singular	1	the
-2SA 15:34	1	51	βουλὴν	βουλή	noun, accusative feminine singular	1	council
+2SA 15:34	1	51	βουλὴν	βουλή	noun, accusative feminine singular	1	counsel
 2SA 15:34	1	52	Ἀχιτόφελ	Ἀχιτόφελ	indeclinable personal name, dative in context	1	Achitophel
 2SA 15:34	1	52	Ἀχιτόφελ			2	Ahithophel
 2SA 15:35	1	1	Καὶ	καί	conjunction	1	and
@@ -1051,7 +1051,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:35	1	18	ἐξ	ἐκ	preposition with the genitive	1	from
 2SA 15:35	1	19	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2SA 15:35	1	19	οἴκου			2	household
-2SA 15:35	1	20	τοῦ	ὁ	article, genitive singular	1	the
+2SA 15:35	1	20	τοῦ	ὁ	article, genitive singular	1	of the
 2SA 15:35	1	21	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2SA 15:35	1	22	καὶ	καί	conjunction	1	and
 2SA 15:35	1	23	ἀναγγελεῖς	ἀναγγέλλω	future active indicative, 2nd sg.	1	you shall tell
@@ -1065,7 +1065,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:36	1	1	Ἰδοὺ	ἰδού	presentative particle	1	behold
 2SA 15:36	1	2	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 2SA 15:36	1	3	μετ	μετά	preposition with genitive, printed without elision mark	1	with
-2SA 15:36	1	4	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
+2SA 15:36	1	4	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
 2SA 15:36	1	5	δύο	δύο	indeclinable cardinal numeral	1	two
 2SA 15:36	1	6	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 2SA 15:36	1	7	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
@@ -1093,7 +1093,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 15:36	1	28	ἀκούσητε	ἀκούω	aorist active subjunctive, 2nd pl. after ἐὰν	1	you hear
 2SA 15:37	1	1	Καὶ	καί	conjunction	1	and
 2SA 15:37	1	2	εἰσῆλθε	εἰσέρχομαι	aorist active indicative, third singular; εἰσελθεῖν πρός of marital relations	1	went in
-2SA 15:37	1	3	Χουσὶ	Χουσί	indeclinable personal name, genitive	1	of Chousi
+2SA 15:37	1	3	Χουσὶ	Χουσί	indeclinable personal name, genitive	1	Hushai
 2SA 15:37	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 15:37	1	5	ἀρχιεταῖρος	ἀρχιεταῖρος	noun, nominative masculine singular	1	chief companion
 2SA 15:37	1	6	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David

@@ -1,13 +1,13 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 DEU 17:1	1	1	ΟΥ	οὐ	negative particle	1	not
 DEU 17:1	1	2	προσοίσεις	προσφέρω	future active indicative, 2nd singular	1	shall offer
-DEU 17:1	1	3	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
+DEU 17:1	1	3	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 DEU 17:1	1	4	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
 DEU 17:1	1	5	Θεῷ	θεός	noun, dative masculine singular	1	God
 DEU 17:1	1	6	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 17:1	1	7	μόσχον	μόσχος	noun, accusative masculine singular	1	calf
 DEU 17:1	1	8	ἢ	ἤ	conjunction	1	or
-DEU 17:1	1	9	πρόβατον	πρόβατον	noun, accusative/nominative neut. sg.	1	a lamb
+DEU 17:1	1	9	πρόβατον	πρόβατον	noun, accusative/nominative neut. sg.	1	a sheep
 DEU 17:1	1	10	ἐν	ἐν	preposition with the dative	1	in
 DEU 17:1	1	11	ᾧ	ὅς	relative pronoun, dative masculine singular	1	which
 DEU 17:1	1	12	ἐστιν	εἰμί	present indicative, 3rd singular	1	is
@@ -16,10 +16,10 @@ DEU 17:1	1	14	αὐτῷ	αὐτός	pronoun, dative neuter singular	1	it
 DEU 17:1	1	15	μῶμος	μῶμος	noun, nominative masculine singular	1	blemish
 DEU 17:1	1	16	πᾶν	πᾶς	adjective, accusative neuter singular	1	any
 DEU 17:1	1	17	ῥῆμα	ῥῆμα	noun, accusative neuter singular	1	thing
-DEU 17:1	1	18	πονηρόν	πονηρός	adjective, accusative neuter singular	1	evil
+DEU 17:1	1	18	πονηρόν	πονηρός	adjective, accusative neuter singular	1	bad
 DEU 17:1	1	19	ὅτι	ὅτι	causal conjunction	1	for
 DEU 17:1	1	20	βδέλυγμα	βδέλυγμα	noun, nominative neuter singular	1	abomination
-DEU 17:1	1	21	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
+DEU 17:1	1	21	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 DEU 17:1	1	22	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
 DEU 17:1	1	23	Θεῷ	θεός	noun, dative masculine singular	1	God
 DEU 17:1	1	24	σου	σύ	pronoun, genitive 2nd singular	1	your
@@ -27,7 +27,7 @@ DEU 17:1	1	25	ἐστίν	εἰμί	present indicative, 3rd singular	1	is
 DEU 17:2	1	1	Ἐὰν	ἐάν	conditional conjunction	1	if
 DEU 17:2	1	2	δὲ	δέ	postpositive conjunction	1	and
 DEU 17:2	1	3	εὑρεθῇ	εὑρίσκω	aorist passive subjunctive, 3rd singular	1	is found
-DEU 17:2	1	4	ἐν	ἐν	preposition with the dative	1	in
+DEU 17:2	1	4	ἐν	ἐν	preposition with the dative	1	among
 DEU 17:2	1	5	σοὶ	σύ	pronoun, dative 2nd singular	1	you
 DEU 17:2	1	6	ἐν	ἐν	preposition with the dative	1	in
 DEU 17:2	1	7	μιᾷ	εἷς	cardinal numeral, dative feminine singular	1	one
@@ -71,7 +71,7 @@ DEU 17:3	1	11	ἢ	ἤ	conjunction	1	or
 DEU 17:3	1	12	τῇ	ὁ	definite article, dative feminine singular	1	the
 DEU 17:3	1	13	σελήνῃ	σελήνη	noun, dative feminine singular	1	moon
 DEU 17:3	1	14	ἢ	ἤ	conjunction	1	or
-DEU 17:3	1	15	παντὶ	πᾶς	adjective, dative neuter singular	1	every
+DEU 17:3	1	15	παντὶ	πᾶς	adjective, dative neuter singular	1	to any
 DEU 17:3	1	16	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
 DEU 17:3	1	17	κόσμῳ	κόσμος	noun, dative masculine singular	1	host
 DEU 17:3	1	18	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
@@ -132,9 +132,9 @@ DEU 17:5	1	27	τελευτήσουσι	τελευτάω	future active indicative
 DEU 17:5	1	28	καὶ	καί	conjunction	1	and
 DEU 17:5	1	29	λιθοβολήσουσιν	λιθοβολέω	future active indicative, 3rd plural	1	shall stone
 DEU 17:5	1	30	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-DEU 17:5	1	31	ἐν	ἐν	preposition with the dative	1	in
+DEU 17:5	1	31	ἐν	ἐν	preposition with the dative	1	with
 DEU 17:5	1	32	λίθοις	λίθος	noun, dative masculine plural	1	stones
-DEU 17:6	1	1	Ἐπὶ	ἐπί	preposition	1	on
+DEU 17:6	1	1	Ἐπὶ	ἐπί	preposition	1	on the testimony of
 DEU 17:6	1	2	δυσὶ	δύο	cardinal numeral, dative masculine plural	1	two
 DEU 17:6	1	3	μάρτυσιν	μάρτυς	noun, dative masculine plural	1	witnesses
 DEU 17:6	1	4	ἢ	ἤ	conjunction	1	or
@@ -143,10 +143,10 @@ DEU 17:6	1	6	τρισὶ	τρεῖς	cardinal numeral, dative masculine plural	1
 DEU 17:6	1	7	μάρτυσιν	μάρτυς	noun, dative masculine plural	1	witnesses
 DEU 17:6	1	8	ἀποθανεῖται	ἀποθνῄσκω	future middle indicative, 3rd singular	1	shall die
 DEU 17:6	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
-DEU 17:6	1	10	ἀποθνήσκων	ἀποθνῄσκω	present active participle, nominative masculine singular	1	dying man
+DEU 17:6	1	10	ἀποθνήσκων	ἀποθνῄσκω	present active participle, nominative masculine singular	1	one condemned to die
 DEU 17:6	1	11	οὐκ	οὐ	negative particle	1	not
 DEU 17:6	1	12	ἀποθανεῖται	ἀποθνῄσκω	future middle indicative, 3rd singular	1	shall die
-DEU 17:6	1	13	ἐφ᾽	ἐπί	preposition ἐπί, elided	1	upon
+DEU 17:6	1	13	ἐφ᾽	ἐπί	preposition ἐπί, elided	1	on the testimony of
 DEU 17:6	1	14	ἑνὶ	εἷς	cardinal numeral, dative masculine singular	1	one
 DEU 17:6	1	15	μάρτυρι	μάρτυς	noun, dative masculine singular	1	witness
 DEU 17:7	1	1	Καὶ	καί	conjunction	1	and
@@ -172,14 +172,14 @@ DEU 17:7	1	20	ἐσχάτῳ	ἔσχατος	adjective, dative masculine singula
 DEU 17:7	1	21	καὶ	καί	conjunction	1	and
 DEU 17:7	1	22	ἐξαρεῖτε	ἐξαίρω	future active indicative, 2nd plural	1	shall remove
 DEU 17:7	1	23	τὸν	ὁ	definite article, accusative masculine singular	1	the
-DEU 17:7	1	24	πονηρὸν	πονηρός	adjective, accusative singular	1	evil
+DEU 17:7	1	24	πονηρὸν	πονηρός	adjective, accusative singular	1	evildoer
 DEU 17:7	1	25	ἐξ	ἐκ	preposition with the genitive	1	from
 DEU 17:7	1	26	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	you
 DEU 17:7	1	27	αὐτῶν	αὐτός	pronoun, genitive masculine plural intensive	1	yourselves
 DEU 17:8	1	1	Ἐὰν	ἐάν	conditional conjunction	1	if
 DEU 17:8	1	2	δὲ	δέ	postpositive conjunction	1	and
 DEU 17:8	1	3	ἀδυνατήσῃ	ἀδυνατέω	aorist active subjunctive, 3rd singular	1	is too hard
-DEU 17:8	1	4	ἀπὸ	ἀπό	preposition with the genitive	1	from
+DEU 17:8	1	4	ἀπὸ	ἀπό	preposition with the genitive	1	for
 DEU 17:8	1	5	σοῦ	σύ	pronoun, genitive 2nd singular	1	you
 DEU 17:8	1	6	ῥῆμα	ῥῆμα	noun, nominative neuter singular	1	matter
 DEU 17:8	1	7	ἐν	ἐν	preposition with the dative	1	in
@@ -193,14 +193,14 @@ DEU 17:8	1	14	κρίσις	κρίσις	noun, nominative feminine singular	1	jud
 DEU 17:8	1	15	κρίσεως	κρίσις	noun, genitive feminine singular	1	judgment
 DEU 17:8	1	16	καὶ	καί	conjunction	1	and
 DEU 17:8	1	17	ἀναμέσον	ἀναμέσον	preposition	1	between
-DEU 17:8	1	18	ἁφὴ	ἁφή	noun, nominative feminine singular	1	plague
-DEU 17:8	1	19	ἁφῆς	ἁφή	noun, genitive feminine singular	1	plague
+DEU 17:8	1	18	ἁφὴ	ἁφή	noun, nominative feminine singular	1	injury
+DEU 17:8	1	19	ἁφῆς	ἁφή	noun, genitive feminine singular	1	injury
 DEU 17:8	1	20	καὶ	καί	conjunction	1	and
 DEU 17:8	1	21	ἀναμέσον	ἀναμέσον	preposition	1	between
-DEU 17:8	1	22	ἀντιλογία	ἀντιλογία	noun, nominative feminine singular	1	contradiction
-DEU 17:8	1	23	ἀντιλογίας	ἀντιλογία	noun, genitive feminine singular	1	contradiction
+DEU 17:8	1	22	ἀντιλογία	ἀντιλογία	noun, nominative feminine singular	1	dispute
+DEU 17:8	1	23	ἀντιλογίας	ἀντιλογία	noun, genitive feminine singular	1	dispute
 DEU 17:8	1	24	ῥήματα	ῥῆμα	noun, nominative neuter plural	1	matters
-DEU 17:8	1	25	κρίσεως	κρίσις	noun, genitive feminine singular	1	judgment
+DEU 17:8	1	25	κρίσεως	κρίσις	noun, genitive feminine singular	1	of judgment
 DEU 17:8	1	26	ἐν	ἐν	preposition with the dative	1	in
 DEU 17:8	1	27	ταῖς	ὁ	definite article, dative feminine plural	1	the
 DEU 17:8	1	28	πόλεσί	πόλις	noun, dative feminine plural	1	cities
@@ -208,7 +208,7 @@ DEU 17:8	1	29	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 17:8	1	30	καὶ	καί	conjunction	1	and
 DEU 17:8	1	31	ἀναστὰς	ἀνίσταμαι	aorist active participle, nominative masculine singular	1	having risen
 DEU 17:8	1	32	ἀναβήσῃ	ἀναβαίνω	future middle indicative, 2nd singular	1	shall go up
-DEU 17:8	1	33	εἰς	εἰς	preposition with the accusative	1	into
+DEU 17:8	1	33	εἰς	εἰς	preposition with the accusative	1	to
 DEU 17:8	1	34	τὸν	ὁ	definite article, accusative masculine singular	1	the
 DEU 17:8	1	35	τόπον	τόπος	noun, accusative masculine singular	1	place
 DEU 17:8	1	36	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
@@ -220,7 +220,7 @@ DEU 17:8	1	41	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 17:8	1	42	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 17:8	1	43	ἐν	ἐν	preposition with the dative	1	in
 DEU 17:8	1	44	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
-DEU 17:8	1	45	ἐπικληθῆναι	ἐπικαλέομαι	aorist passive infinitive	1	be called
+DEU 17:8	1	45	ἐπικληθῆναι	ἐπικαλέομαι	aorist passive infinitive	1	to be called upon
 DEU 17:8	1	46	τὸ	ὁ	article, accusative neuter singular	1	the
 DEU 17:8	1	47	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 DEU 17:8	1	48	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -282,7 +282,7 @@ DEU 17:10	1	30	κατὰ	κατά	preposition with the accusative	1	according to
 DEU 17:10	1	31	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 DEU 17:10	1	32	ὅσα	ὅσος	relative pronoun, accusative neuter plural	1	what
 DEU 17:10	1	33	ἂν	ἄν	modal particle with the subjunctive	1	ever
-DEU 17:10	1	34	νομοθετηθῇ	νομοθετέω	aorist passive subjunctive, 3rd singular	1	is directed
+DEU 17:10	1	34	νομοθετηθῇ	νομοθετέω	aorist passive subjunctive, 3rd singular	1	is prescribed
 DEU 17:10	1	35	σοι	σύ	pronoun, dative 2nd singular	1	to you
 DEU 17:11	1	1	κατὰ	κατά	preposition with the accusative	1	according to
 DEU 17:11	1	2	τὸν	ὁ	definite article, accusative masculine singular	1	the
@@ -322,13 +322,13 @@ DEU 17:12	1	7	ἐν	ἐν	preposition with the dative	1	in
 DEU 17:12	1	8	ὑπερηφανείᾳ	ὑπερηφάνεια	noun, dative feminine singular	1	presumption
 DEU 17:12	1	9	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
 DEU 17:12	1	10	μὴ	μή	negative particle	1	not
-DEU 17:12	1	11	ὑπακοῦσαι	ὑπακούω	aorist active infinitive	1	to listen
+DEU 17:12	1	11	ὑπακοῦσαι	ὑπακούω	aorist active infinitive	1	to obey
 DEU 17:12	1	12	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
 DEU 17:12	1	13	ἱερέως	ἱερεύς	noun, genitive masculine singular	1	priest
 DEU 17:12	1	14	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
 DEU 17:12	1	15	παρεστηκότος	παρίσταμαι	perfect active participle, genitive masculine singular	1	standing
 DEU 17:12	1	16	λειτουργεῖν	λειτουργέω	present active infinitive	1	to minister
-DEU 17:12	1	17	ἐπὶ	ἐπί	preposition	1	on
+DEU 17:12	1	17	ἐπὶ	ἐπί	preposition	1	in
 DEU 17:12	1	18	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
 DEU 17:12	1	19	ὀνόματι	ὄνομα	noun, dative neuter singular	1	name
 DEU 17:12	1	20	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
@@ -353,7 +353,7 @@ DEU 17:12	1	38	ἐκεῖνος	ἐκεῖνος	demonstrative adjective, nomina
 DEU 17:12	1	39	καὶ	καί	conjunction	1	and
 DEU 17:12	1	40	ἐξαρεῖς	ἐξαίρω	future active indicative, 2nd singular	1	shall remove
 DEU 17:12	1	41	τὸν	ὁ	definite article, accusative masculine singular	1	the
-DEU 17:12	1	42	πονηρὸν	πονηρός	adjective, accusative singular	1	evil
+DEU 17:12	1	42	πονηρὸν	πονηρός	adjective, accusative singular	1	evildoer
 DEU 17:12	1	43	ἐξ	ἐκ	preposition with the genitive	1	from
 DEU 17:12	1	44	Ἰσραήλ	Ἰσραήλ	place name, indeclinable	1	Israel
 DEU 17:12	1	45	καὶ	καί	conjunction	1	and
@@ -404,7 +404,7 @@ DEU 17:14	1	11	κύκλῳ	κύκλῳ	adverb	1	round about
 DEU 17:14	1	12	μου	ἐγώ	pronoun, genitive 1st singular	1	me
 DEU 17:15	1	1	καθιστῶν	καθίστημι	present active participle, nominative masculine singular	1	surely
 DEU 17:15	1	2	καθιστήσεις	καθίστημι	future active indicative, 2nd singular	1	shall set
-DEU 17:15	1	3	ἐπὶ	ἐπί	preposition	1	on
+DEU 17:15	1	3	ἐπὶ	ἐπί	preposition	1	over
 DEU 17:15	1	4	σεαυτὸν	σεαυτοῦ	reflexive pronoun, accusative masc. sg.	1	yourself
 DEU 17:15	1	5	ἄρχοντα	ἄρχων	noun, accusative masculine singular	1	ruler
 DEU 17:15	1	6	ὃν	ὅς	relative pronoun, accusative masculine singular	1	whom
@@ -420,16 +420,16 @@ DEU 17:15	1	15	τῶν	ὁ	definite article, genitive plural	1	the
 DEU 17:15	1	16	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 DEU 17:15	1	17	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 17:15	1	18	καταστήσεις	καθίστημι	future active indicative, 2nd singular	1	shall set
-DEU 17:15	1	19	ἐπὶ	ἐπί	preposition	1	on
+DEU 17:15	1	19	ἐπὶ	ἐπί	preposition	1	over
 DEU 17:15	1	20	σεαυτὸν	σεαυτοῦ	reflexive pronoun, accusative masc. sg.	1	yourself
 DEU 17:15	1	21	ἄρχοντα	ἄρχων	noun, accusative masculine singular	1	ruler
 DEU 17:15	1	22	οὐ	οὐ	negative adverb with future indicative	1	not
 DEU 17:15	1	23	δυνήσῃ	δύναμαι	future middle indicative, 2nd singular	1	shall be able
 DEU 17:15	1	24	καταστῆσαι	καθίστημι	aorist active infinitive	1	to set
-DEU 17:15	1	25	ἐπὶ	ἐπί	preposition	1	on
+DEU 17:15	1	25	ἐπὶ	ἐπί	preposition	1	over
 DEU 17:15	1	26	σεαυτὸν	σεαυτοῦ	reflexive pronoun, accusative masc. sg.	1	yourself
 DEU 17:15	1	27	ἄνθρωπον	ἄνθρωπος	noun, accusative masculine singular	1	man
-DEU 17:15	1	28	ἀλλότριον	ἀλλότριος	adjective, accusative masculine singular	1	stranger
+DEU 17:15	1	28	ἀλλότριον	ἀλλότριος	adjective, accusative masculine singular	1	foreigner
 DEU 17:15	1	29	ὅτι	ὅτι	causal conjunction	1	for
 DEU 17:15	1	30	οὐκ	οὐ	negative particle	1	not
 DEU 17:15	1	31	ἀδελφός	ἀδελφός	noun, nominative masculine singular	1	brother
@@ -468,7 +468,7 @@ DEU 17:17	1	1	Καὶ	καί	conjunction	1	and
 DEU 17:17	1	2	οὐ	οὐ	negative adverb with future indicative	1	not
 DEU 17:17	1	3	πληθυνεῖ	πληθύνω	future active indicative, 3rd singular	1	shall multiply
 DEU 17:17	1	4	ἑαυτῷ	ἑαυτοῦ	pronoun, dative masculine singular	1	for himself
-DEU 17:17	1	5	γυναῖκας	γυνή	noun, accusative fem. pl.	1	women
+DEU 17:17	1	5	γυναῖκας	γυνή	noun, accusative fem. pl.	1	wives
 DEU 17:17	1	6	ἵνα	ἵνα	purpose conjunction	1	so that
 DEU 17:17	1	7	μὴ	μή	negative particle	1	not
 DEU 17:17	1	8	μεταστῇ	μεθίστημι	aorist active subjunctive, 3rd singular	1	turn away
@@ -500,7 +500,7 @@ DEU 17:18	1	14	τὸ	ὁ	article, accusative neuter singular	1	the
 DEU 17:18	1	15	Δευτερονόμιον	Δευτερονόμιον	title, accusative neuter singular	1	Deuteronomy
 DEU 17:18	1	16	τοῦτο	οὗτος	demonstrative pronoun, nominative/accusative neuter singular	1	this
 DEU 17:18	1	17	εἰς	εἰς	preposition with the accusative	1	into
-DEU 17:18	1	18	βιβλίον	βιβλίον	noun, accusative neuter singular	1	book
+DEU 17:18	1	18	βιβλίον	βιβλίον	noun, accusative neuter singular	1	scroll
 DEU 17:18	1	19	παρὰ	παρά	preposition with the genitive	1	from
 DEU 17:18	1	20	τῶν	ὁ	definite article, genitive plural	1	the
 DEU 17:18	1	21	ἱερέων	ἱερεὺς	noun, genitive masculine plural after τῶν	1	priests
@@ -544,7 +544,7 @@ DEU 17:20	1	3	ὑψωθῇ	ὑψόομαι	aorist passive subjunctive, 3rd singu
 DEU 17:20	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
 DEU 17:20	1	5	καρδία	καρδία	noun, nominative feminine singular after ἡ	1	heart
 DEU 17:20	1	6	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-DEU 17:20	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
+DEU 17:20	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	above
 DEU 17:20	1	8	τῶν	ὁ	definite article, genitive plural	1	the
 DEU 17:20	1	9	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 DEU 17:20	1	10	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -572,7 +572,7 @@ DEU 17:20	1	31	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 DEU 17:20	1	32	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 17:20	1	33	μετ᾽	μετά	preposition with the genitive	1	with
 DEU 17:20	1	34	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
-DEU 17:20	1	35	ἐν	ἐν	preposition with the dative	1	in
+DEU 17:20	1	35	ἐν	ἐν	preposition with the dative	1	among
 DEU 17:20	1	36	τοῖς	ὁ	article, dative neuter plural	1	the
 DEU 17:20	1	37	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
-DEU 17:20	1	38	Ἰσραήλ	Ἰσραήλ	place name, indeclinable	1	Israel
+DEU 17:20	1	38	Ἰσραήλ	Ἰσραήλ	place name, indeclinable	1	of Israel

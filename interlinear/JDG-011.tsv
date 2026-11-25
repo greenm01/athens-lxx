@@ -45,7 +45,7 @@ JDG 11:2	1	20	εἶπον	λέγω	aorist active indicative, third plural	1	they
 JDG 11:2	1	21	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 JDG 11:2	1	22	οὐ	οὐ	negative particle	1	not
 JDG 11:2	1	23	κληρονομήσεις	κληρονομέω	future active indicative, second singular	1	you shall inherit
-JDG 11:2	1	24	ἐν	ἐν	preposition with dative in a petition	1	please
+JDG 11:2	1	24	ἐν	ἐν	preposition with the dative	1	in
 JDG 11:2	1	25	τῷ	ὁ	article, dative masculine singular	1	the
 JDG 11:2	1	26	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
 JDG 11:2	1	27	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -55,7 +55,7 @@ JDG 11:2	1	29	ἡμῶν			2	of us
 JDG 11:2	1	30	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 JDG 11:2	1	31	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 JDG 11:2	1	32	γυναικὸς	γυνή	noun, genitive feminine singular	1	of a woman
-JDG 11:2	1	33	ἑταίρας	ἑταίρα	noun, genitive feminine singular	1	of a companion woman
+JDG 11:2	1	33	ἑταίρας	ἑταίρα	noun, genitive feminine singular	1	a mistress
 JDG 11:2	1	34	εἶ	εἰμί	present indicative, second singular	1	are
 JDG 11:2	1	35	σύ	σύ	personal pronoun, nominative singular, emphatic	1	you
 JDG 11:3	1	1	Καὶ	καί	conjunction	1	and
@@ -122,7 +122,7 @@ JDG 11:6	1	5	δεῦρο	δεῦρο	adverb used imperatively	1	come here
 JDG 11:6	1	6	καὶ	καί	conjunction	1	and
 JDG 11:6	1	7	ἔσῃ	εἰμί	future middle indicative, second singular	1	you will be
 JDG 11:6	1	8	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
-JDG 11:6	1	9	εἰς	εἰς	preposition with the accusative	1	into
+JDG 11:6	1	9	εἰς	εἰς	preposition with the accusative	1	as
 JDG 11:6	1	10	ἡγούμενον	ἡγέομαι	present middle participle, accusative masculine singular; substantival	1	leader
 JDG 11:6	1	10	ἡγούμενον			2	one leading
 JDG 11:6	1	11	καὶ	καί	conjunction	1	and
@@ -158,8 +158,8 @@ JDG 11:7	1	23	ἀφ᾽	ἀπό	preposition with genitive, elided	1	from
 JDG 11:7	1	23	ἀφ᾽			2	off
 JDG 11:7	1	24	ὑμῶν	ὑμεῖς	pronoun, genitive second plural	1	you
 JDG 11:7	1	25	καὶ	καί	conjunction	1	and
-JDG 11:7	1	26	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
-JDG 11:7	1	27	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+JDG 11:7	1	26	τί	τίς	interrogative pronoun, accusative neuter singular	1	why
+JDG 11:7	1	27	ὅτι	ὅτι	causal/that conjunction (from context)	1	is it that
 JDG 11:7	1	28	ἤλθατε	ἔρχομαι	aorist active indicative, second plural	1	did you come
 JDG 11:7	1	29	πρός	πρός	preposition with accusative	1	to
 JDG 11:7	1	30	με	ἐγώ	personal pronoun, accusative singular	1	me
@@ -192,13 +192,13 @@ JDG 11:8	1	22	Ἀμμών	Ἀμμών	indeclinable national name, genitive in co
 JDG 11:8	1	23	καὶ	καί	conjunction	1	and
 JDG 11:8	1	24	ἔσῃ	εἰμί	future middle indicative, second singular	1	you will be
 JDG 11:8	1	25	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
-JDG 11:8	1	26	εἰς	εἰς	preposition with accusative	1	into
+JDG 11:8	1	26	εἰς	εἰς	preposition with accusative	1	as
 JDG 11:8	1	27	κεφαλὴν	κεφαλή	noun, accusative feminine singular after τὴν	1	head
 JDG 11:8	1	28	πᾶσι	πᾶς	adjective, dative neuter plural	1	to all
 JDG 11:8	1	29	τοῖς	ὁ	article, dative masculine plural	1	the
 JDG 11:8	1	30	κατοικοῦσι	κατοικέω	present active participle, dative masculine plural	1	living
 JDG 11:8	1	30	κατοικοῦσι			2	inhabiting
-JDG 11:8	1	31	Γαλαάδ	Γαλαάδ	indeclinable place name, genitive in context	1	of Gilead
+JDG 11:8	1	31	Γαλαάδ	Γαλαάδ	indeclinable place name, genitive in context	1	in Gilead
 JDG 11:9	1	1	Καὶ	καί	conjunction	1	and
 JDG 11:9	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 JDG 11:9	1	3	Ἰεφθάε	Ἰεφθάε	indeclinable personal name, case from syntax	1	Jephthah
@@ -224,7 +224,7 @@ JDG 11:9	1	21	ἐμοῦ	ἐγώ	pronoun, genitive first singular (after μετ�
 JDG 11:9	1	22	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 JDG 11:9	1	23	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 JDG 11:9	1	24	ἔσομαι	εἰμί	future middle indicative, first singular	1	I will be
-JDG 11:9	1	25	εἰς	εἰς	preposition with accusative	1	into
+JDG 11:9	1	25	εἰς	εἰς	preposition with accusative	1	as
 JDG 11:9	1	26	κεφαλήν	κεφαλή	noun, accusative feminine singular after τὴν	1	head
 JDG 11:10	1	1	Καὶ	καί	conjunction	1	and
 JDG 11:10	1	2	εἶπαν	λέγω	aorist active indicative, third person plural	1	said
@@ -254,18 +254,18 @@ JDG 11:11	1	3	Ἰεφθάε	Ἰεφθάε	indeclinable personal name, case from 
 JDG 11:11	1	4	μετὰ	μετά	preposition with genitive	1	with
 JDG 11:11	1	5	τῶν	ὁ	article, genitive plural	1	the
 JDG 11:11	1	6	πρεσβυτέρων	πρεσβύτης	noun, genitive masc. pl. after ἀπὸ τῶν	1	elders
-JDG 11:11	1	7	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	1	Galaad
+JDG 11:11	1	7	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	1	of Gilead
 JDG 11:11	1	8	καὶ	καί	conjunction	1	and
 JDG 11:11	1	9	κατέστησαν	καθίστημι	aorist active indicative, third plural	1	they set
 JDG 11:11	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
 JDG 11:11	1	11	λαὸς	λαός	noun, nominative masculine singular	1	people
-JDG 11:11	1	12	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
+JDG 11:11	1	12	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 JDG 11:11	1	13	ἐπ᾽	ἐπί	preposition with the accusative	1	over
 JDG 11:11	1	14	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
-JDG 11:11	1	15	εἰς	εἰς	preposition with the accusative	1	into
+JDG 11:11	1	15	εἰς	εἰς	preposition with the accusative	1	as
 JDG 11:11	1	16	κεφαλὴν	κεφαλή	noun, accusative feminine singular	1	head
 JDG 11:11	1	17	καὶ	καί	conjunction	1	and
-JDG 11:11	1	18	εἰς	εἰς	preposition with the accusative of purpose	1	for
+JDG 11:11	1	18	εἰς	εἰς	preposition with the accusative of purpose	1	as
 JDG 11:11	1	19	ἡγούμενον	ἡγέομαι	present middle participle, accusative masculine singular; substantival	1	leader
 JDG 11:11	1	19	ἡγούμενον			2	one leading
 JDG 11:11	1	20	καὶ	καί	conjunction	1	and
@@ -286,14 +286,14 @@ JDG 11:12	1	3	Ἰεφθάε	Ἰεφθάε	indeclinable personal name, case from 
 JDG 11:12	1	4	ἀγγέλους	ἄγγελος	noun, accusative masculine plural	1	messengers
 JDG 11:12	1	5	πρὸς	πρός	preposition with the accusative	1	to
 JDG 11:12	1	6	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
-JDG 11:12	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+JDG 11:12	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 JDG 11:12	1	8	Ἀμμών	Ἀμμών	indeclinable national name, genitive in context	1	of Ammon
 JDG 11:12	1	9	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 JDG 11:12	1	10	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 JDG 11:12	1	11	ἐμοὶ	ἐγώ	pronoun, dative first singular	1	me
 JDG 11:12	1	12	καὶ	καί	conjunction	1	and
 JDG 11:12	1	13	σοὶ	σύ	pronoun, dative second singular	1	you
-JDG 11:12	1	14	ὅτι	ὅτι	causal conjunction	1	because
+JDG 11:12	1	14	ὅτι	ὅτι	conjunction introducing an explanatory clause	1	that
 JDG 11:12	1	15	ἥκεις	ἥκω	present active indicative, second singular	1	have you come
 JDG 11:12	1	16	πρός	πρός	preposition with the accusative	1	to
 JDG 11:12	1	17	με	ἐγώ	pronoun, accusative first singular	1	me
@@ -312,7 +312,7 @@ JDG 11:13	1	5	Ἀμμὼν	Ἀμμών	indeclinable national name, genitive in c
 JDG 11:13	1	6	πρὸς	πρός	preposition with the accusative	1	to
 JDG 11:13	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
 JDG 11:13	1	8	ἀγγέλους	ἄγγελος	noun, accusative masculine plural	1	messengers
-JDG 11:13	1	9	Ἰεφθάε	Ἰεφθάε	indeclinable personal name, accusative in context	1	Jephthah
+JDG 11:13	1	9	Ἰεφθάε	Ἰεφθάε	indeclinable personal name, genitive in context	1	of Jephthah
 JDG 11:13	1	10	διότι	διότι	causal conjunction	1	because
 JDG 11:13	1	11	ἔλαβεν	λαμβάνω	aorist active indicative, third singular	1	he took
 JDG 11:13	1	12	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, case from syntax	1	Israel
@@ -329,9 +329,9 @@ JDG 11:13	1	21	Αἰγύπτου	Αἴγυπτος	proper name, genitive feminin
 JDG 11:13	1	22	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JDG 11:13	1	23	Ἀρνῶν	Ἀρνῶν	indeclinable river name, genitive in context	1	Arnon
 JDG 11:13	1	24	καὶ	καί	conjunction	1	and
-JDG 11:13	1	25	ἕως	ἕως	temporal conjunction/preposition (from context)	1	until
-JDG 11:13	1	26	Ἰαβὸκ	Ἰαβόκ	indeclinable river name, genitive in context	1	Iabok
-JDG 11:13	1	26	Ἰαβὸκ			2	Jabbok
+JDG 11:13	1	25	ἕως	ἕως	preposition of spatial extent	1	as far as
+JDG 11:13	1	26	Ἰαβὸκ	Ἰαβόκ	indeclinable river name, genitive in context	1	Jabbok
+JDG 11:13	1	26	Ἰαβὸκ			2	Iabok
 JDG 11:13	1	27	καὶ	καί	conjunction	1	and
 JDG 11:13	1	28	ἕως	ἕως	preposition with the genitive	1	as far as
 JDG 11:13	1	28	ἕως			2	up to
@@ -362,7 +362,7 @@ JDG 11:14	1	8	ἀγγέλους	ἄγγελος	noun, accusative masculine plura
 JDG 11:14	1	9	πρὸς	πρός	preposition with the accusative	1	to
 JDG 11:14	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 11:14	1	11	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
-JDG 11:14	1	12	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+JDG 11:14	1	12	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 JDG 11:14	1	13	Ἀμμὼν	Ἀμμών	indeclinable national name, genitive in context	1	of Ammon
 JDG 11:14	1	14	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 JDG 11:15	1	1	τάδε	ὅδε	demonstrative pronoun, accusative neut. pl. introducing speech	1	these things (thus)
@@ -455,7 +455,7 @@ JDG 11:18	1	14	Μωάβ	Μωάβ	indeclinable place name, genitive in context	1	
 JDG 11:18	1	15	καὶ	καί	conjunction	1	and
 JDG 11:18	1	16	παρεγένετο	παραγίνομαι	aorist middle indicative, third singular	1	came
 JDG 11:18	1	17	κατ᾽	κατά	elided preposition with the accusative of direction	1	toward
-JDG 11:18	1	18	ἀνατολὰς	ἀνατολή	noun, accusative feminine plural	1	the east
+JDG 11:18	1	18	ἀνατολὰς	ἀνατολή	noun, accusative feminine plural	1	the rising
 JDG 11:18	1	18	ἀνατολὰς			2	the sunrise
 JDG 11:18	1	19	ἡλίου	ἥλιος	noun, genitive masc. sg.	1	of the sun
 JDG 11:18	1	20	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -463,10 +463,10 @@ JDG 11:18	1	21	γῆς	γῆ	noun, genitive feminine singular	1	of the land
 JDG 11:18	1	22	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	of Moab
 JDG 11:18	1	23	καὶ	καί	conjunction	1	and
 JDG 11:18	1	24	παρενέβαλον	παρεμβάλλω	aorist active indicative, 3rd pl., encamped	1	encamped
-JDG 11:18	1	25	ἐν	ἐν	preposition with the dative	1	in
+JDG 11:18	1	25	ἐν	ἐν	preposition with the dative	1	on
 JDG 11:18	1	26	τῷ	ὁ	article, dative masculine singular	1	the
-JDG 11:18	1	27	πέραν	πέραν	adverb/preposition with genitive τοῦ Ἰορδάνου, 'beyond'	1	beyond
-JDG 11:18	1	28	Ἀρνὼν	Ἀρνών	indeclinable river name, case from syntax	1	Arnon
+JDG 11:18	1	27	πέραν	πέραν	adverb/preposition with genitive τοῦ Ἰορδάνου, 'beyond'	1	far side
+JDG 11:18	1	28	Ἀρνὼν	Ἀρνών	indeclinable river name, case from syntax	1	of the Arnon
 JDG 11:18	1	29	καὶ	καί	conjunction	1	and
 JDG 11:18	1	30	οὐκ	οὐ	negative particle	1	not
 JDG 11:18	1	31	εἰσῆλθον	εἰσέρχομαι	aorist active indicative, third plural	1	they entered
@@ -489,7 +489,7 @@ JDG 11:19	1	7	βασιλέα	βασιλεύς	noun, accusative masculine singula
 JDG 11:19	1	8	Ἐσεβὼν	Ἐσεβών	indeclinable place name	1	Esebon
 JDG 11:19	1	8	Ἐσεβὼν			2	Heshbon
 JDG 11:19	1	9	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
-JDG 11:19	1	10	τῶν	ὁ	article, genitive masculine plural	1	the
+JDG 11:19	1	10	τῶν	ὁ	article, genitive masculine plural	1	of the
 JDG 11:19	1	11	Ἀμοῤῥαίων	Ἀμορραῖος	gentilic adjective, genitive masculine plural	1	Amorites
 JDG 11:19	1	12	καὶ	καί	conjunction	1	and
 JDG 11:19	1	13	εἶπεν	λέγω	aorist active indicative, third singular	1	said
@@ -514,7 +514,7 @@ JDG 11:20	1	4	Σηὼν	Σηών	indeclinable personal name, nominative in conte
 JDG 11:20	1	5	διελθεῖν	διέρχομαι	aorist active infinitive	1	to pass through
 JDG 11:20	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 11:20	1	7	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, case from syntax	1	Israel
-JDG 11:20	1	8	διὰ	διά	preposition with genitive	1	from
+JDG 11:20	1	8	διὰ	διά	preposition with genitive	1	through
 JDG 11:20	1	8	διὰ			2	by way of
 JDG 11:20	1	9	τῶν	ὁ	article, genitive plural	1	the
 JDG 11:20	1	10	ὁρίων	ὅριον	noun, genitive neuter plural	1	borders
@@ -527,7 +527,7 @@ JDG 11:20	1	16	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 11:20	1	17	λαὸν	λαός	noun, accusative masculine singular	1	people
 JDG 11:20	1	18	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 JDG 11:20	1	19	καὶ	καί	conjunction	1	and
-JDG 11:20	1	20	παρενέβαλεν	παρεμβάλλω	aorist active indicative, 3rd sg. intransitive	1	was encamped
+JDG 11:20	1	20	παρενέβαλεν	παρεμβάλλω	aorist active indicative, 3rd sg. intransitive	1	encamped
 JDG 11:20	1	21	ἐν	ἐν	preposition with the dative	1	in
 JDG 11:20	1	22	Ἰασὰ	Ἰασά	indeclinable place name, dative in context	1	Jahaz
 JDG 11:20	1	23	καὶ	καί	conjunction	1	and
@@ -540,7 +540,7 @@ JDG 11:21	1	2	παρέδωκε			2	handed over
 JDG 11:21	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JDG 11:21	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 JDG 11:21	1	5	Θεὸς	θεός	noun, nominative masculine singular	1	God
-JDG 11:21	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, case from syntax	1	Israel
+JDG 11:21	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable national name, genitive in context	1	of Israel
 JDG 11:21	1	7	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 11:21	1	8	Σηὼν	Σηών	indeclinable personal name, accusative in context	1	Sihon
 JDG 11:21	1	9	καὶ	καί	conjunction	1	and
@@ -548,9 +548,9 @@ JDG 11:21	1	10	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 JDG 11:21	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 11:21	1	12	λαὸν	λαός	noun, accusative masculine singular	1	people
 JDG 11:21	1	13	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
-JDG 11:21	1	14	ἐν	ἐν	preposition with the dative	1	in
+JDG 11:21	1	14	ἐν	ἐν	preposition with the dative	1	into
 JDG 11:21	1	15	χειρὶ	χείρ	noun, dative feminine singular	1	hand
-JDG 11:21	1	16	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, case from syntax	1	Israel
+JDG 11:21	1	16	Ἰσραὴλ	Ἰσραήλ	indeclinable national name, genitive in context	1	of Israel
 JDG 11:21	1	17	καὶ	καί	conjunction	1	and
 JDG 11:21	1	18	ἐπάταξεν	πατάσσω	aorist active indicative, third singular	1	struck
 JDG 11:21	1	18	ἐπάταξεν			2	struck down
@@ -564,16 +564,16 @@ JDG 11:21	1	25	γῆν	γῆ	noun, accusative feminine singular	1	land
 JDG 11:21	1	26	τοῦ	ὁ	article, genitive singular	1	the
 JDG 11:21	1	27	Ἀμοῤῥαίου	Ἀμορραῖος	noun, genitive masculine singular	1	of the Amorite
 JDG 11:21	1	28	τοῦ	ὁ	article, genitive singular	1	the
-JDG 11:21	1	29	κατοικοῦντος	κατοικέω	present active participle, genitive masculine singular, substantival after τοῦ	1	who dwelt in
+JDG 11:21	1	29	κατοικοῦντος	κατοικέω	present active participle, genitive masculine singular, substantival after τοῦ	1	who dwelt
 JDG 11:21	1	30	ἐν	ἐν	preposition with the dative	1	in
 JDG 11:21	1	31	τῇ	ὁ	article, dative feminine singular	1	the
 JDG 11:21	1	32	γῇ	γῆ	noun, dative feminine singular	1	land
 JDG 11:21	1	33	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative feminine singular	1	that
 JDG 11:22	1	1	καὶ	καί	conjunction	1	and
 JDG 11:22	1	2	ἐκληρονόμησε	κληρονομέω	aorist active indicative, third singular	1	took possession
-JDG 11:22	1	3	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+JDG 11:22	1	3	πᾶν	πᾶς	adjective, accusative neuter singular	1	all
 JDG 11:22	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
-JDG 11:22	1	5	ὅριον	ὅριον	noun, nominative neuter singular	1	boundary
+JDG 11:22	1	5	ὅριον	ὅριον	noun, nominative neuter singular	1	territory
 JDG 11:22	1	6	τοῦ	ὁ	article, genitive singular	1	the
 JDG 11:22	1	7	Ἀμοῤῥαίου	Ἀμορραῖος	noun, genitive masculine singular	1	of the Amorite
 JDG 11:22	1	8	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -582,8 +582,8 @@ JDG 11:22	1	10	καὶ	καί	conjunction	1	and
 JDG 11:22	1	11	ἕως	ἕως	preposition with the genitive	1	as far as
 JDG 11:22	1	11	ἕως			2	up to
 JDG 11:22	1	12	τοῦ	ὁ	article, genitive singular	1	the
-JDG 11:22	1	13	Ἰαβὸκ	Ἰαβόκ	indeclinable river name, genitive in context	1	Iabok
-JDG 11:22	1	13	Ἰαβὸκ			2	Jabbok
+JDG 11:22	1	13	Ἰαβὸκ	Ἰαβόκ	indeclinable river name, genitive in context	1	Jabbok
+JDG 11:22	1	13	Ἰαβὸκ			2	Iabok
 JDG 11:22	1	14	καὶ	καί	conjunction	1	and
 JDG 11:22	1	15	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JDG 11:22	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -609,13 +609,13 @@ JDG 11:23	1	13	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singu
 JDG 11:23	1	14	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, case from syntax	1	Israel
 JDG 11:23	1	15	καὶ	καί	conjunction	1	and
 JDG 11:23	1	16	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
-JDG 11:23	1	17	κληρονομήσεις	κληρονομέω	future active indicative, second singular	1	you shall inherit
+JDG 11:23	1	17	κληρονομήσεις	κληρονομέω	future active indicative, second singular	1	will you take possession of
 JDG 11:23	1	18	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	them
 JDG 11:23	1	19	ἐπὶ	ἐπί	preposition (case from context)	1	on
 JDG 11:23	1	20	σοῦ	σύ	personal pronoun, emphatic genitive singular	1	you
-JDG 11:24	1	1	οὐχὶ	οὐχί	negative particle, emphatic form	1	not
+JDG 11:24	1	1	οὐχὶ	οὐχί	negative particle, emphatic form	1	is it not
 JDG 11:24	1	2	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
-JDG 11:24	1	3	κατεκληρονόμησέ	κατακληρονομέω	aorist active indicative, third singular	1	dispossessed
+JDG 11:24	1	3	κατεκληρονόμησέ	κατακληρονομέω	aorist active indicative, third singular	1	allotted
 JDG 11:24	1	4	σοι	σύ	personal pronoun, dative singular	1	to you
 JDG 11:24	1	5	Χαμὼς	Χαμώς	indeclinable divine name, nominative in context	1	Chemosh
 JDG 11:24	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -626,7 +626,7 @@ JDG 11:24	1	10	κληρονομήσεις	κληρονομέω	future active ind
 JDG 11:24	1	11	καὶ	καί	conjunction	1	and
 JDG 11:24	1	12	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 JDG 11:24	1	13	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural (from context)	1	whatever
-JDG 11:24	1	14	κατεκληρονόμησεν	κατακληρονομέω	aorist active indicative, third singular	1	dispossessed
+JDG 11:24	1	14	κατεκληρονόμησεν	κατακληρονομέω	aorist active indicative, third singular	1	allotted
 JDG 11:24	1	15	ἡμῖν	ἐγώ	personal pronoun, dative first plural	1	us
 JDG 11:24	1	16	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JDG 11:24	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -650,9 +650,9 @@ JDG 11:25	1	10	Σεπφὼρ	Σεπφώρ	indeclinable personal name, genitive i
 JDG 11:25	1	11	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 JDG 11:25	1	12	Μωάβ	Μωάβ	indeclinable place name, genitive in context	1	of Moab
 JDG 11:25	1	13	μὴ	μή	negative particle	1	not
-JDG 11:25	1	14	μάχῃ	μάχη	noun, dative feminine singular	1	battle
-JDG 11:25	1	15	ἐμαχέσατο	μάχομαι	aorist middle indicative, third singular	1	quarreled
-JDG 11:25	1	15	ἐμαχέσατο			2	contended
+JDG 11:25	1	14	μάχῃ	μάχη	noun, dative feminine singular	1	in battle
+JDG 11:25	1	15	ἐμαχέσατο	μάχομαι	aorist middle indicative, third singular	1	contended
+JDG 11:25	1	15	ἐμαχέσατο			2	quarreled
 JDG 11:25	1	16	μετὰ	μετά	preposition with the genitive	1	with
 JDG 11:25	1	17	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, case from syntax	1	Israel
 JDG 11:25	1	18	ἢ	ἤ	disjunctive conjunction	1	or
@@ -662,7 +662,7 @@ JDG 11:25	1	21	ἐν	ἐν	preposition with the dative	1	in
 JDG 11:25	1	22	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 JDG 11:26	1	1	Ἐν	ἐν	preposition with the dative	1	in
 JDG 11:26	1	2	τῷ	ὁ	article, dative masculine singular	1	the
-JDG 11:26	1	3	οἰκῆσαι	οἰκέω	aorist active infinitive	1	having settled
+JDG 11:26	1	3	οἰκῆσαι	οἰκέω	aorist active infinitive	1	dwelling
 JDG 11:26	1	3	οἰκῆσαι			2	taking up residence
 JDG 11:26	1	4	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 JDG 11:26	1	5	ἐν	ἐν	preposition with the dative	1	in
@@ -684,16 +684,16 @@ JDG 11:26	1	19	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
 JDG 11:26	1	20	καὶ	καί	conjunction	1	and
 JDG 11:26	1	21	ἐν	ἐν	preposition with the dative	1	in
 JDG 11:26	1	22	πάσαις	πᾶς	adjective, dative feminine plural	1	all
-JDG 11:26	1	23	ταῖς	ὁ	article, dative feminine plural; introduces a prepositional phrase	1	those
+JDG 11:26	1	23	ταῖς	ὁ	article, dative feminine plural; introduces a prepositional phrase	1	the
 JDG 11:26	1	24	πόλεσι	πόλις	noun, dative feminine plural after ταῖς	1	cities
 JDG 11:26	1	25	ταῖς	ὁ	article, dative feminine plural	1	the
-JDG 11:26	1	26	παρὰ	παρά	preposition with genitive	1	from
+JDG 11:26	1	26	παρὰ	παρά	preposition with genitive	1	beside
 JDG 11:26	1	27	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 11:26	1	28	Ἰορδάνην	Ἰορδάνης	noun, accusative masculine singular; river name	1	Jordan
 JDG 11:26	1	29	τριακόσια	τριακόσιοι	cardinal numeral, accusative neuter plural	1	three hundred
 JDG 11:26	1	30	ἔτη	ἔτος	of duration, accusative neuter plural	1	years
-JDG 11:26	1	31	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
-JDG 11:26	1	32	ὅτι	ὅτι	causal conjunction	1	because
+JDG 11:26	1	31	τί	τίς	interrogative pronoun, accusative neuter singular	1	why
+JDG 11:26	1	32	ὅτι	ὅτι	causal conjunction	1	is it that
 JDG 11:26	1	33	οὐκ	οὐ	negative particle	1	not
 JDG 11:26	1	34	ἐρύσαντο	ῥύομαι	aorist middle indicative, third plural	1	did they rescue
 JDG 11:26	1	35	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -705,8 +705,8 @@ JDG 11:27	1	1	Καὶ	καί	conjunction	1	and
 JDG 11:27	1	2	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 JDG 11:27	1	3	οὐχ	οὐ	negative particle (plain negative, or interrogative expecting 'yes' in questions)	1	not
 JDG 11:27	1	4	ἥμαρτόν	ἁμαρτάνω	aorist active indicative, first singular; person supplied by subject ἐγώ	1	I sinned
-JDG 11:27	1	5	σοι	σύ	personal pronoun, dative singular	1	to you
-JDG 11:27	1	6	καὶ	καί	conjunction	1	and
+JDG 11:27	1	5	σοι	σύ	personal pronoun, dative singular	1	against you
+JDG 11:27	1	6	καὶ	καί	conjunction	1	but
 JDG 11:27	1	7	σὺ	σύ	pronoun, nominative second singular	1	you
 JDG 11:27	1	8	ποιεῖς	ποιέω	present active indicative, 2nd sg.	1	you do
 JDG 11:27	1	9	μετ᾽	μετά	elided preposition with genitive	1	with
@@ -714,7 +714,7 @@ JDG 11:27	1	10	ἐμοῦ	ἐγώ	personal pronoun, emphatic genitive first sing
 JDG 11:27	1	11	πονηρίαν	πονηρία	noun, accusative feminine singular	1	harm
 JDG 11:27	1	12	τοῦ	ὁ	article, genitive singular	1	the
 JDG 11:27	1	13	πολεμῆσαι	πολεμέω	aorist active infinitive	1	to make war
-JDG 11:27	1	14	ἐν	ἐν	preposition with the dative	1	in
+JDG 11:27	1	14	ἐν	ἐν	preposition with the dative	1	against
 JDG 11:27	1	15	ἐμοί	ἐγώ	pronoun, dative first singular	1	me
 JDG 11:27	1	16	κρίναι	κρίνω	aorist active optative, third singular	1	may he judge
 JDG 11:27	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -733,9 +733,9 @@ JDG 11:27	1	29	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 JDG 11:27	1	30	Ἀμμών	Ἀμμών	indeclinable national name, genitive in context	1	of Ammon
 JDG 11:28	1	1	Καὶ	καί	conjunction	1	and
 JDG 11:28	1	2	οὐκ	οὐ	negative particle	1	not
-JDG 11:28	1	3	εἰσήκουσε	εἰσακούω	aorist active indicative, third singular	1	heard
+JDG 11:28	1	3	εἰσήκουσε	εἰσακούω	aorist active indicative, third singular	1	heeded
 JDG 11:28	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
-JDG 11:28	1	5	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+JDG 11:28	1	5	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 JDG 11:28	1	6	Ἀμμὼν	Ἀμμών	indeclinable national name, genitive in context	1	of Ammon
 JDG 11:28	1	7	καὶ	καί	conjunction	1	and
 JDG 11:28	1	8	οὐκ	οὐ	particle	1	not
@@ -768,16 +768,16 @@ JDG 11:29	1	16	διέβη	διαβαίνω	aorist active indicative, third singu
 JDG 11:29	1	16	διέβη			2	went across
 JDG 11:29	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 11:29	1	18	σκοπιὰν	σκοπιά	noun, accusative feminine singular	1	lookout
-JDG 11:29	1	19	Γαλαὰδ	Γαλαάδ	indeclinable place name, case from syntax	1	Gilead
+JDG 11:29	1	19	Γαλαὰδ	Γαλαάδ	indeclinable place name, case from syntax	1	of Gilead
 JDG 11:29	1	20	καὶ	καί	conjunction	1	and
 JDG 11:29	1	21	ἀπὸ	ἀπό	preposition with the genitive	1	from
-JDG 11:29	1	22	σκοπιᾶς	σκοπιά	noun, genitive feminine singular	1	watch
+JDG 11:29	1	22	σκοπιᾶς	σκοπιά	noun, genitive feminine singular	1	lookout
 JDG 11:29	1	22	σκοπιᾶς			2	watchpost
-JDG 11:29	1	23	Γαλαὰδ	Γαλαάδ	indeclinable place name, case from syntax	1	Gilead
-JDG 11:29	1	24	εἰς	εἰς	preposition with the accusative	1	into
+JDG 11:29	1	23	Γαλαὰδ	Γαλαάδ	indeclinable place name, case from syntax	1	of Gilead
+JDG 11:29	1	24	εἰς	εἰς	preposition with the accusative	1	to
 JDG 11:29	1	25	τὸ	ὁ	article, accusative neuter singular	1	the
-JDG 11:29	1	26	πέραν	πέραν	adverb/preposition with genitive τοῦ Ἰορδάνου, 'beyond'	1	beyond
-JDG 11:29	1	27	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+JDG 11:29	1	26	πέραν	πέραν	adverb/preposition with genitive τοῦ Ἰορδάνου, 'beyond'	1	far side
+JDG 11:29	1	27	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 JDG 11:29	1	28	Ἀμμών	Ἀμμών	indeclinable national name, genitive in context	1	of Ammon
 JDG 11:30	1	1	Καὶ	καί	conjunction	1	and
 JDG 11:30	1	2	ηὔξατο	εὔχομαι	aorist middle indicative, third singular	1	vowed
@@ -800,18 +800,18 @@ JDG 11:30	1	18	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JDG 11:31	1	1	καὶ	καί	conjunction	1	and
 JDG 11:31	1	2	ἔσται	εἰμί	future indicative, third singular	1	will be
 JDG 11:31	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
-JDG 11:31	1	4	ἐκπορευόμενος	ἐκπορεύομαι	present middle participle, nominative masculine singular	1	goes out
+JDG 11:31	1	4	ἐκπορευόμενος	ἐκπορεύομαι	present middle participle, nominative masculine singular	1	going out
 JDG 11:31	1	5	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
-JDG 11:31	1	6	ἂν	ἄν	modal particle	1	[modal particle]
+JDG 11:31	1	6	ἂν	ἄν	modal particle	1	ever
 JDG 11:31	1	7	ἐξέλθῃ	ἐξέρχομαι	aorist active subjunctive, third singular	1	comes out
 JDG 11:31	1	8	ἐκ	ἐκ	preposition with the genitive	1	from
 JDG 11:31	1	9	τῶν	ὁ	article, genitive masculine plural	1	the
-JDG 11:31	1	10	θυρῶν	θύρα	noun, genitive fem. pl. after ἐπὶ τῶν	1	at the entrance (doors)
+JDG 11:31	1	10	θυρῶν	θύρα	noun, genitive fem. pl. after ἐπὶ τῶν	1	doors
 JDG 11:31	1	11	τοῦ	ὁ	article, genitive masculine singular	1	of the
 JDG 11:31	1	12	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 JDG 11:31	1	12	οἴκου			2	household
 JDG 11:31	1	13	μου	ἐγώ	pronoun, genitive first singular	1	me
-JDG 11:31	1	14	εἰς	εἰς	preposition with the accusative	1	into
+JDG 11:31	1	14	εἰς	εἰς	preposition with the accusative	1	for
 JDG 11:31	1	15	ἀπάντησίν	ἀπάντησις	noun, accusative feminine singular	1	meeting
 JDG 11:31	1	16	μου	ἐγώ	pronoun, genitive first singular	1	me
 JDG 11:31	1	17	ἐν	ἐν	preposition with dative	1	in
@@ -843,13 +843,13 @@ JDG 11:32	1	6	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
 JDG 11:32	1	7	Ἀμμὼν	Ἀμμών	indeclinable national name, genitive in context	1	of Ammon
 JDG 11:32	1	8	τοῦ	ὁ	article, genitive singular	1	the
 JDG 11:32	1	9	πολεμῆσαι	πολεμέω	aorist active infinitive	1	to make war
-JDG 11:32	1	10	πρὸς	πρός	preposition with the accusative	1	to
+JDG 11:32	1	10	πρὸς	πρός	preposition with the accusative	1	against
 JDG 11:32	1	11	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 JDG 11:32	1	12	καὶ	καί	conjunction	1	and
-JDG 11:32	1	13	παρέδωκεν	παραδίδωμι	aorist active indicative, 3rd sg.	1	delivered/handed over
+JDG 11:32	1	13	παρέδωκεν	παραδίδωμι	aorist active indicative, 3rd sg.	1	delivered
 JDG 11:32	1	14	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 JDG 11:32	1	15	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-JDG 11:32	1	16	ἐν	ἐν	preposition with the dative	1	in
+JDG 11:32	1	16	ἐν	ἐν	preposition with the dative	1	into
 JDG 11:32	1	17	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 JDG 11:32	1	18	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 JDG 11:33	1	1	Καὶ	καί	conjunction	1	and
@@ -862,7 +862,7 @@ JDG 11:33	1	6	καὶ	καί	conjunction	1	and
 JDG 11:33	1	7	ἕως	ἕως	preposition with the genitive	1	as far as
 JDG 11:33	1	7	ἕως			2	up to
 JDG 11:33	1	8	τοῦ	ὁ	article, genitive singular	1	the
-JDG 11:33	1	9	ἐλθεῖν	ἔρχομαι	aorist active infinitive after ἕως τοῦ with accusative αὐτὸν, until he entered	1	he entered (went)
+JDG 11:33	1	9	ἐλθεῖν	ἔρχομαι	second aorist active infinitive	1	to come
 JDG 11:33	1	10	σε	σύ	personal pronoun, accusative subject of the infinitive	1	you
 JDG 11:33	1	11	εἰς	εἰς	preposition with the accusative	1	to
 JDG 11:33	1	11	εἰς			2	into
@@ -873,7 +873,7 @@ JDG 11:33	1	15	ἕως	ἕως	preposition with the genitive	1	as far as
 JDG 11:33	1	15	ἕως			2	up to
 JDG 11:33	1	16	Ἀβὴλ	Ἀβήλ	indeclinable geographical name, first element in compound	1	Abel
 JDG 11:33	1	17	ἀμπελώνων	ἀμπελών	noun, genitive masculine plural	1	vineyards
-JDG 11:33	1	18	πληγὴν	πληγή	noun, accusative feminine singular after μίαν	1	plague
+JDG 11:33	1	18	πληγὴν	πληγή	noun, accusative feminine singular after μίαν	1	blow
 JDG 11:33	1	19	μεγάλην	μέγας	adjective, accusative feminine singular	1	great
 JDG 11:33	1	20	σφόδρα	σφόδρα	adverb of degree	1	greatly
 JDG 11:33	1	21	καὶ	καί	conjunction	1	and
@@ -883,14 +883,14 @@ JDG 11:33	1	24	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 JDG 11:33	1	25	Ἀμμὼν	Ἀμμών	indeclinable national name, genitive in context	1	of Ammon
 JDG 11:33	1	26	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JDG 11:33	1	27	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the presence
-JDG 11:33	1	28	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+JDG 11:33	1	28	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 JDG 11:33	1	29	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JDG 11:34	1	1	Καὶ	καί	conjunction	1	and
 JDG 11:34	1	2	εἰσῆλθεν	εἰσέρχομαι	aorist active indicative, third singular	1	entered
 JDG 11:34	1	3	Ἰεφθάε	Ἰεφθάε	indeclinable personal name, case from syntax	1	Jephthah
-JDG 11:34	1	4	εἰς	εἰς	preposition with the accusative	1	into
+JDG 11:34	1	4	εἰς	εἰς	preposition with the accusative	1	to
 JDG 11:34	1	5	Μασσηφὰ	Μασσηφά	indeclinable place name, case from syntax	1	Mizpah
-JDG 11:34	1	6	εἰς	εἰς	preposition with the accusative	1	into
+JDG 11:34	1	6	εἰς	εἰς	preposition with the accusative	1	to
 JDG 11:34	1	7	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 11:34	1	8	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 JDG 11:34	1	8	οἶκον			2	household
@@ -901,11 +901,11 @@ JDG 11:34	1	12	ἡ	ὁ	article, nominative feminine singular	1	the
 JDG 11:34	1	13	θυγάτηρ	θυγάτηρ	noun, nominative feminine singular	1	daughter
 JDG 11:34	1	14	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 JDG 11:34	1	15	ἐξεπορεύετο	ἐκπορεύομαι	imperfect middle indicative, third singular	1	went out
-JDG 11:34	1	16	εἰς	εἰς	preposition with accusative	1	into
+JDG 11:34	1	16	εἰς	εἰς	preposition with accusative	1	for
 JDG 11:34	1	17	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	1	meeting
 JDG 11:34	1	17	ἀπάντησιν			2	encounter
-JDG 11:34	1	18	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-JDG 11:34	1	19	ἐν	ἐν	preposition with the dative	1	in
+JDG 11:34	1	18	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
+JDG 11:34	1	19	ἐν	ἐν	preposition with the dative	1	with
 JDG 11:34	1	20	τυμπάνοις	τύμπανον	noun, dative neuter plural	1	tambourines
 JDG 11:34	1	21	καὶ	καί	conjunction	1	and
 JDG 11:34	1	22	χοροῖς	χορός	noun, dative masculine plural	1	dancing
@@ -924,7 +924,7 @@ JDG 11:34	1	34	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 JDG 11:34	1	35	ἢ	ἤ	disjunctive conjunction	1	or
 JDG 11:34	1	36	θυγάτηρ	θυγάτηρ	noun, nominative feminine singular	1	daughter
 JDG 11:35	1	1	Καὶ	καί	conjunction	1	and
-JDG 11:35	1	2	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	became
+JDG 11:35	1	2	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	it came to pass
 JDG 11:35	1	3	ἡνίκα	ἡνίκα	conjunction	1	when
 JDG 11:35	1	4	εἶδεν	ὁράω	aorist active indicative, third singular	1	saw
 JDG 11:35	1	5	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
@@ -938,13 +938,13 @@ JDG 11:35	1	12	εἶπεν	λέγω	aorist active indicative, third singular	1	s
 JDG 11:35	1	13	οἴμμοι	οἴμμοι	interjection	1	alas for me
 JDG 11:35	1	14	θύγατέρ	θυγάτηρ	noun, vocative feminine singular	1	daughter
 JDG 11:35	1	15	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-JDG 11:35	1	16	ἐμπεποδοστάτηκάς	ἐμποδοστατέω	perfect active indicative, second singular	1	have brought me to a halt
+JDG 11:35	1	16	ἐμπεποδοστάτηκάς	ἐμποδοστατέω	perfect active indicative, second singular	1	you have hindered
 JDG 11:35	1	17	με	ἐγώ	personal pronoun, accusative singular	1	me
 JDG 11:35	1	18	καὶ	καί	conjunction	1	and
 JDG 11:35	1	19	σεμνοτάτη	σεμνός	superlative adjective, nominative feminine singular	1	most honored
-JDG 11:35	1	20	εἰς	εἰς	preposition with the accusative	1	into
+JDG 11:35	1	20	εἰς	εἰς	preposition with the accusative	1	as
 JDG 11:35	1	21	σκῶλον	σκῶλος/σκῶλον	noun, nominative neuter singular	1	a snare
-JDG 11:35	1	22	ἐγένου	γίνομαι	aorist middle indicative, second singular	1	did you become
+JDG 11:35	1	22	ἐγένου	γίνομαι	aorist middle indicative, second singular	1	you became
 JDG 11:35	1	23	ἐν	ἐν	preposition with the dative	1	in
 JDG 11:35	1	24	ὀφθαλμοῖς	ὀφθαλμός	noun, dative masculine plural	1	eyes
 JDG 11:35	1	25	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
@@ -955,16 +955,16 @@ JDG 11:35	1	28	ἤνοιξα	ἀνοίγω	aorist active indicative, first singu
 JDG 11:35	1	29	τὸ	ὁ	article, accusative neuter singular	1	the
 JDG 11:35	1	30	στόμα	στόμα	noun, accusative neuter singular	1	mouth
 JDG 11:35	1	31	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-JDG 11:35	1	32	περὶ	περί	preposition with the genitive	1	on account of
-JDG 11:35	1	32	περὶ			2	concerning
+JDG 11:35	1	32	περὶ	περί	preposition with the genitive	1	concerning
+JDG 11:35	1	32	περὶ			2	on account of
 JDG 11:35	1	33	σοῦ	σύ	personal pronoun, emphatic genitive singular	1	you
 JDG 11:35	1	34	πρὸς	πρός	preposition with the accusative	1	to
 JDG 11:35	1	35	Κύριον	κύριος	noun, accusative masculine singular, the LORD	1	the Lord
 JDG 11:35	1	36	καὶ	καί	conjunction	1	and
 JDG 11:35	1	37	οὐ	οὐ	negative particle	1	not
 JDG 11:35	1	38	δυνήσομαι	δύναμαι	future middle indicative, first singular	1	will I be able
-JDG 11:35	1	39	ἀποστρέψαι	ἀποστρέφω	aorist active infinitive, intransitive here	1	to return
-JDG 11:35	1	39	ἀποστρέψαι			2	to turn back
+JDG 11:35	1	39	ἀποστρέψαι	ἀποστρέφω	aorist active infinitive, intransitive here	1	to turn back
+JDG 11:35	1	39	ἀποστρέψαι			2	to return
 JDG 11:36	1	1	Καὶ	καί	conjunction	1	and
 JDG 11:36	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 JDG 11:36	1	3	πρὸς	πρός	preposition with the accusative	1	to
@@ -972,7 +972,7 @@ JDG 11:36	1	4	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	h
 JDG 11:36	1	5	πάτερ	πατήρ	noun, vocative masculine singular	1	father
 JDG 11:36	1	6	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JDG 11:36	1	7	εἰ	εἰ	conditional conjunction	1	if
-JDG 11:36	1	8	ἐν	ἐν	preposition with the dative	1	in
+JDG 11:36	1	8	ἐν	ἐν	preposition with the dative	1	concerning
 JDG 11:36	1	9	ἐμοὶ	ἐγώ	pronoun, dative first singular	1	me
 JDG 11:36	1	10	ἤνοιξας	ἀνοίγω	aorist active indicative, second singular	1	you opened
 JDG 11:36	1	11	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -1009,14 +1009,14 @@ JDG 11:37	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 11:37	1	5	πατέρα	πατήρ	noun, accusative masculine singular	1	father
 JDG 11:37	1	6	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 JDG 11:37	1	7	καὶ	καί	conjunction	1	and
-JDG 11:37	1	8	ποίησόν	ποιέω	aorist active imperative, second singular	1	make
+JDG 11:37	1	8	ποίησόν	ποιέω	aorist active imperative, second singular	1	do
 JDG 11:37	1	8	ποίησόν			2	prepare
 JDG 11:37	1	9	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 JDG 11:37	1	10	τὸ	ὁ	article, accusative neuter singular	1	the
 JDG 11:37	1	11	ῥῆμα	ῥῆμα	noun, accusative neuter singular	1	thing
 JDG 11:37	1	11	ῥῆμα			2	word
 JDG 11:37	1	12	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
-JDG 11:37	1	13	ἔασόν	ἐάω	aorist active imperative, 2nd sg. with accusative με 'leave me alone'	1	leave
+JDG 11:37	1	13	ἔασόν	ἐάω	aorist active imperative, 2nd sg. with accusative με 'leave me alone'	1	allow
 JDG 11:37	1	14	με	ἐγώ	pronoun, accusative first singular	1	me
 JDG 11:37	1	15	δύο	δύο	cardinal numeral, indeclinable	1	two
 JDG 11:37	1	16	μῆνας	μήν	noun, accusative masculine plural	1	months
@@ -1029,7 +1029,7 @@ JDG 11:37	1	22	τὰ	ὁ	article, accusative neuter plural	1	the
 JDG 11:37	1	23	ὄρη	ὄρος	noun, accusative neuter plural	1	mountains
 JDG 11:37	1	24	καὶ	καί	conjunction	1	and
 JDG 11:37	1	25	κλαύσομαι	κλαίω	future middle indicative, first singular	1	I shall mourn
-JDG 11:37	1	26	ἐπὶ	ἐπί	preposition with the accusative	1	upon
+JDG 11:37	1	26	ἐπὶ	ἐπί	preposition with the accusative	1	over
 JDG 11:37	1	27	τὰ	ὁ	article, accusative neuter plural	1	the
 JDG 11:37	1	28	παρθένιά	παρθένιον	noun, accusative neuter plural	1	virginity
 JDG 11:37	1	29	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
@@ -1058,7 +1058,7 @@ JDG 11:38	1	14	συνεταιρίδες	συνεταιρίς	noun, nominative fe
 JDG 11:38	1	15	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 JDG 11:38	1	16	καὶ	καί	conjunction	1	and
 JDG 11:38	1	17	ἔκλαυσεν	κλαίω	aorist active indicative, third singular with accusative	1	wept for
-JDG 11:38	1	18	ἐπὶ	ἐπί	preposition with the accusative	1	upon
+JDG 11:38	1	18	ἐπὶ	ἐπί	preposition with the accusative	1	over
 JDG 11:38	1	19	τὰ	ὁ	article, accusative neuter plural	1	the
 JDG 11:38	1	20	παρθένια	παρθένιον	noun, accusative neuter plural	1	virginity
 JDG 11:38	1	21	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
@@ -1068,7 +1068,7 @@ JDG 11:38	1	24	ὄρη	ὄρος	noun, accusative neuter plural	1	mountains
 JDG 11:39	1	1	Καὶ	καί	conjunction	1	and
 JDG 11:39	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 JDG 11:39	1	3	μετὰ	μετά	preposition with the accusative	1	after
-JDG 11:39	1	4	τέλος	τέλος	noun, accusative neuter singular	1	levy
+JDG 11:39	1	4	τέλος	τέλος	noun, accusative neuter singular	1	end
 JDG 11:39	1	5	δύο	δύο	indeclinable cardinal numeral	1	two
 JDG 11:39	1	6	μηνῶν	μήν	noun, genitive masculine plural	1	months
 JDG 11:39	1	7	καὶ	καί	conjunction	1	and
@@ -1087,7 +1087,7 @@ JDG 11:39	1	18	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 11:39	1	19	εὐχὴν	εὐχή	noun, accusative feminine singular	1	a vow
 JDG 11:39	1	20	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 JDG 11:39	1	21	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
-JDG 11:39	1	22	ηὔξατο	εὔχομαι	aorist middle indicative, third singular	1	prayed
+JDG 11:39	1	22	ηὔξατο	εὔχομαι	aorist middle indicative, third singular	1	vowed
 JDG 11:39	1	23	καὶ	καί	conjunction	1	and
 JDG 11:39	1	24	αὐτὴ	αὐτός	pronoun, nominative feminine singular	1	she
 JDG 11:39	1	25	οὐκ	οὐ	negative particle	1	not
@@ -1101,8 +1101,8 @@ JDG 11:40	1	4	πρόσταγμα	πρόσταγμα	noun, accusative neuter sing
 JDG 11:40	1	5	ἐν	ἐν	preposition with the dative	1	in
 JDG 11:40	1	6	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JDG 11:40	1	7	ἐξ	ἐκ	preposition with the genitive	1	from
-JDG 11:40	1	8	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	of days
-JDG 11:40	1	9	εἰς	εἰς	preposition with the accusative	1	into
+JDG 11:40	1	8	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
+JDG 11:40	1	9	εἰς	εἰς	preposition with the accusative	1	to
 JDG 11:40	1	10	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
 JDG 11:40	1	11	συνεπορεύοντο	συμπορεύομαι	imperfect middle/passive indicative, third plural	1	would go together
 JDG 11:40	1	12	αἱ	ὁ	article, nominative feminine plural	1	the
@@ -1116,6 +1116,6 @@ JDG 11:40	1	19	τοῦ	ὁ	article, genitive masculine singular	1	the
 JDG 11:40	1	20	Γαλααδίτου	Γαλααδίτης	noun, genitive masculine singular	1	Gileadite
 JDG 11:40	1	21	τέσσαρας	τέσσαρες	cardinal numeral, accusative feminine plural	1	four
 JDG 11:40	1	22	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
-JDG 11:40	1	23	ἐν	ἐν	preposition with dative; introduces temporal infinitive	1	when
+JDG 11:40	1	23	ἐν	ἐν	preposition with the dative	1	in
 JDG 11:40	1	24	τῷ	ὁ	article, dative masculine singular	1	the
 JDG 11:40	1	25	ἐνιαυτῷ	ἐνιαυτός	noun, dative masculine singular	1	year

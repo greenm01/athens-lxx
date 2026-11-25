@@ -2,21 +2,21 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 DEU 20:1	1	1	ΕΑΝ	ἐάν	conditional conjunction	1	when
 DEU 20:1	1	2	δὲ	δέ	postpositive conjunction	1	and
 DEU 20:1	1	3	ἐξέλθῃς	ἐξέρχομαι	aorist active subjunctive, 2nd singular	1	go out
-DEU 20:1	1	4	εἰς	εἰς	preposition with the accusative	1	into
+DEU 20:1	1	4	εἰς	εἰς	preposition with the accusative	1	to
 DEU 20:1	1	5	πόλεμον	πόλεμος	noun, accusative masculine singular	1	war
-DEU 20:1	1	6	ἐπὶ	ἐπί	preposition	1	on
+DEU 20:1	1	6	ἐπὶ	ἐπί	preposition	1	against
 DEU 20:1	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
 DEU 20:1	1	8	ἐχθρούς	ἐχθρός	noun, accusative masculine plural	1	enemies
 DEU 20:1	1	9	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 20:1	1	10	καὶ	καί	conjunction	1	and
 DEU 20:1	1	11	ἴδῃς	ὁράω	aorist active subjunctive, 2nd singular	1	see
-DEU 20:1	1	12	ἵππον	ἵππος	noun, accusative masculine singular	1	horses
+DEU 20:1	1	12	ἵππον	ἵππος	noun, accusative masculine singular	1	a horse
 DEU 20:1	1	13	καὶ	καί	conjunction	1	and
-DEU 20:1	1	14	ἀναβάτην	ἀναβάτης	noun, accusative masculine singular	1	horsemen
+DEU 20:1	1	14	ἀναβάτην	ἀναβάτης	noun, accusative masculine singular	1	a rider
 DEU 20:1	1	15	καὶ	καί	conjunction	1	and
 DEU 20:1	1	16	λαὸν	λαός	noun, accusative masculine singular	1	people
-DEU 20:1	1	17	πλείονά	πλείων	comparative adjective, accusative masculine singular	1	more than
-DEU 20:1	1	18	σου	σύ	pronoun, genitive 2nd singular	1	you
+DEU 20:1	1	17	πλείονά	πλείων	comparative adjective, accusative masculine singular	1	more numerous
+DEU 20:1	1	18	σου	σύ	pronoun, genitive 2nd singular	1	than you
 DEU 20:1	1	19	οὐ	οὐ	negative adverb with future indicative	1	not
 DEU 20:1	1	20	φοβηθήσῃ	φοβέομαι	future passive indicative, 2nd singular	1	shall fear
 DEU 20:1	1	21	ἀπ᾽	ἀπό	preposition, elided	1	of
@@ -33,19 +33,19 @@ DEU 20:1	1	31	ἀναβιβάσας	ἀναβιβάζω	aorist active participle
 DEU 20:1	1	32	σε	σύ	pronoun, accusative 2nd singular	1	you
 DEU 20:1	1	33	ἐκ	ἐκ	preposition with the genitive	1	from
 DEU 20:1	1	34	γῆς	γῆ	noun, genitive feminine singular	1	land
-DEU 20:1	1	35	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	Egypt
+DEU 20:1	1	35	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
 DEU 20:2	1	1	Καὶ	καί	conjunction	1	and
 DEU 20:2	1	2	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
 DEU 20:2	1	3	ὅταν	ὅταν	temporal conjunction	1	when
 DEU 20:2	1	4	ἐγγίσῃς	ἐγγίζω	aorist active subjunctive, 2nd singular	1	draw near
-DEU 20:2	1	5	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 20:2	1	5	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
 DEU 20:2	1	6	πολέμῳ	πόλεμος	noun, dative masculine singular	1	battle
 DEU 20:2	1	7	καὶ	καί	conjunction	1	and
 DEU 20:2	1	8	προσεγγίσας	προσεγγίζω	aorist active participle, nominative masculine singular	1	having come near
 DEU 20:2	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 20:2	1	10	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
 DEU 20:2	1	11	λαλήσει	λαλέω	future active indicative, 3rd singular	1	shall speak
-DEU 20:2	1	12	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 20:2	1	12	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
 DEU 20:2	1	13	λαῷ	λαός	noun, dative masculine singular	1	people
 DEU 20:3	1	1	καὶ	καί	conjunction	1	and
 DEU 20:3	1	2	ἐρεῖ	λέγω	future active indicative, 3rd singular	1	shall say
@@ -56,9 +56,9 @@ DEU 20:3	1	6	Ἰσραήλ	Ἰσραήλ	place name, vocative indeclinable	1	Isr
 DEU 20:3	1	7	ὑμεῖς	σύ	pronoun, nominative 2nd pl. emphatic subject	1	you
 DEU 20:3	1	8	προσπορεύεσθε	προσπορεύομαι	present middle indicative, 2nd plural	1	go
 DEU 20:3	1	9	σήμερον	σήμερον	adverb	1	today
-DEU 20:3	1	10	εἰς	εἰς	preposition with the accusative	1	into
+DEU 20:3	1	10	εἰς	εἰς	preposition with the accusative	1	to
 DEU 20:3	1	11	πόλεμον	πόλεμος	noun, accusative masculine singular	1	war
-DEU 20:3	1	12	ἐπὶ	ἐπί	preposition	1	on
+DEU 20:3	1	12	ἐπὶ	ἐπί	preposition	1	against
 DEU 20:3	1	13	τοὺς	ὁ	article, accusative masculine plural	1	the
 DEU 20:3	1	14	ἐχθροὺς	ἐχθρός	noun, accusative masculine plural	1	enemies
 DEU 20:3	1	15	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
@@ -81,13 +81,13 @@ DEU 20:4	1	2	Κύριος	κύριος	noun, nominative masculine singular	1	the
 DEU 20:4	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 20:4	1	4	Θεὸς	θεός	noun, nominative masculine singular	1	God
 DEU 20:4	1	5	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
-DEU 20:4	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
+DEU 20:4	1	6	ὁ	ὁ	article, nominative masculine singular	1	the one
 DEU 20:4	1	7	προπορευόμενος	προπορεύομαι	present middle participle, nominative masculine singular	1	going before
 DEU 20:4	1	8	μεθ᾽	μετά	preposition with the genitive	1	with
 DEU 20:4	1	9	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	you
 DEU 20:4	1	10	συνεκπολεμῆσαι	συνεκπολεμέω	aorist active infinitive	1	to war with
 DEU 20:4	1	11	ὑμῖν	σύ	pronoun, dative 2nd plural	1	for you
-DEU 20:4	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
+DEU 20:4	1	12	τοὺς	ὁ	article, accusative masculine plural	1	against the
 DEU 20:4	1	13	ἐχθροὺς	ἐχθρός	noun, accusative masculine plural	1	enemies
 DEU 20:4	1	14	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 20:4	1	15	καὶ	καί	conjunction	1	and
@@ -96,7 +96,7 @@ DEU 20:4	1	17	ὑμᾶς	σύ	pronoun, accusative 2nd plural	1	you
 DEU 20:5	1	1	Καὶ	καί	conjunction	1	and
 DEU 20:5	1	2	λαλήσουσιν	λαλέω	future active indicative, 3rd plural	1	shall speak
 DEU 20:5	1	3	οἱ	ὁ	article, nominative masc. pl.	1	the
-DEU 20:5	1	4	γραμματεῖς	γραμματεύς	noun, nominative masculine plural	1	officers
+DEU 20:5	1	4	γραμματεῖς	γραμματεύς	noun, nominative masculine plural	1	scribes
 DEU 20:5	1	5	πρὸς	πρός	preposition with the accusative	1	to
 DEU 20:5	1	6	τὸν	ὁ	definite article, accusative masculine singular	1	the
 DEU 20:5	1	7	λαὸν	λαός	noun, accusative masculine singular	1	people
@@ -115,7 +115,7 @@ DEU 20:5	1	19	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	it
 DEU 20:5	1	20	πορευέσθω	πορεύομαι	present middle imperative, 3rd singular	1	let him go
 DEU 20:5	1	21	καὶ	καί	conjunction	1	and
 DEU 20:5	1	22	ἐπιστραφήτω	ἐπιστρέφω	aorist passive imperative, 3rd singular	1	let him return
-DEU 20:5	1	23	εἰς	εἰς	preposition with the accusative	1	into
+DEU 20:5	1	23	εἰς	εἰς	preposition with the accusative	1	to
 DEU 20:5	1	24	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 20:5	1	25	οἰκίαν	οἰκία	noun, accusative feminine singular	1	house
 DEU 20:5	1	26	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -145,11 +145,11 @@ DEU 20:6	1	12	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	it
 DEU 20:6	1	13	πορευέσθω	πορεύομαι	present middle imperative, 3rd singular	1	let him go
 DEU 20:6	1	14	καὶ	καί	conjunction	1	and
 DEU 20:6	1	15	ἐπιστραφήτω	ἐπιστρέφω	aorist passive imperative, 3rd singular	1	let him return
-DEU 20:6	1	16	εἰς	εἰς	preposition with the accusative	1	into
+DEU 20:6	1	16	εἰς	εἰς	preposition with the accusative	1	to
 DEU 20:6	1	17	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 20:6	1	18	οἰκίαν	οἰκία	noun, accusative feminine singular	1	house
 DEU 20:6	1	19	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-DEU 20:6	1	20	μὴ	μή	negative particle	1	not
+DEU 20:6	1	20	μὴ	μή	negative conjunction	1	lest
 DEU 20:6	1	21	ἀποθάνῃ	ἀποθνῄσκω	aorist active subjunctive, 3rd singular	1	dies
 DEU 20:6	1	22	ἐν	ἐν	preposition with the dative	1	in
 DEU 20:6	1	23	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
@@ -174,7 +174,7 @@ DEU 20:7	1	11	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	he
 DEU 20:7	1	12	πορευέσθω	πορεύομαι	present middle imperative, 3rd singular	1	let him go
 DEU 20:7	1	13	καὶ	καί	conjunction	1	and
 DEU 20:7	1	14	ἐπιστραφήτω	ἐπιστρέφω	aorist passive imperative, 3rd singular	1	let him return
-DEU 20:7	1	15	εἰς	εἰς	preposition with the accusative	1	into
+DEU 20:7	1	15	εἰς	εἰς	preposition with the accusative	1	to
 DEU 20:7	1	16	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 20:7	1	17	οἰκίαν	οἰκία	noun, accusative feminine singular	1	house
 DEU 20:7	1	18	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -192,7 +192,7 @@ DEU 20:7	1	29	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	he
 DEU 20:8	1	1	Καὶ	καί	conjunction	1	and
 DEU 20:8	1	2	προσθήσουσιν	προστίθημι	future active indicative, 3rd plural	1	shall do again
 DEU 20:8	1	3	οἱ	ὁ	article, nominative masc. pl.	1	the
-DEU 20:8	1	4	γραμματεῖς	γραμματεύς	noun, nominative masculine plural	1	officers
+DEU 20:8	1	4	γραμματεῖς	γραμματεύς	noun, nominative masculine plural	1	scribes
 DEU 20:8	1	5	λαλῆσαι	λαλέω	aorist active infinitive	1	to speak
 DEU 20:8	1	6	πρὸς	πρός	preposition with the accusative	1	to
 DEU 20:8	1	7	τὸν	ὁ	definite article, accusative masculine singular	1	the
@@ -205,12 +205,12 @@ DEU 20:8	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 20:8	1	14	φοβούμενος	φοβέομαι	present middle participle, nominative masculine singular	1	fearing
 DEU 20:8	1	15	καὶ	καί	conjunction	1	and
 DEU 20:8	1	16	δειλὸς	δειλός	adjective, nominative masculine singular	1	fainthearted
-DEU 20:8	1	17	τῇ	ὁ	definite article, dative feminine singular	1	the
+DEU 20:8	1	17	τῇ	ὁ	definite article, dative feminine singular	1	in
 DEU 20:8	1	18	καρδίᾳ	καρδία	noun, dative feminine singular	1	heart
 DEU 20:8	1	19	πορευέσθω	πορεύομαι	present middle imperative, 3rd singular	1	let him go
 DEU 20:8	1	20	καὶ	καί	conjunction	1	and
 DEU 20:8	1	21	ἀποστραφήτω	ἀποστρέφω	aorist passive imperative, 3rd singular	1	let him return
-DEU 20:8	1	22	εἰς	εἰς	preposition with the accusative	1	into
+DEU 20:8	1	22	εἰς	εἰς	preposition with the accusative	1	to
 DEU 20:8	1	23	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 20:8	1	24	οἰκίαν	οἰκία	noun, accusative feminine singular	1	house
 DEU 20:8	1	25	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -233,7 +233,7 @@ DEU 20:9	1	2	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shal
 DEU 20:9	1	3	ὅταν	ὅταν	temporal conjunction	1	when
 DEU 20:9	1	4	παύσωνται	παύομαι	aorist middle subjunctive, 3rd plural	1	cease
 DEU 20:9	1	5	οἱ	ὁ	article, nominative masc. pl.	1	the
-DEU 20:9	1	6	γραμματεῖς	γραμματεύς	noun, nominative masculine plural	1	officers
+DEU 20:9	1	6	γραμματεῖς	γραμματεύς	noun, nominative masculine plural	1	scribes
 DEU 20:9	1	7	λαλοῦντες	λαλέω	present active participle, nominative masculine plural	1	speaking
 DEU 20:9	1	8	πρὸς	πρός	preposition with the accusative	1	to
 DEU 20:9	1	9	τὸν	ὁ	definite article, accusative masculine singular	1	the
@@ -241,7 +241,7 @@ DEU 20:9	1	10	λαὸν	λαός	noun, accusative masculine singular	1	people
 DEU 20:9	1	11	καὶ	καί	conjunction	1	and
 DEU 20:9	1	12	καταστήσουσιν	καθίστημι	future active indicative, 3rd plural	1	shall appoint
 DEU 20:9	1	13	ἄρχοντας	ἄρχων	noun, accusative masculine plural	1	captains
-DEU 20:9	1	14	τῆς	ὁ	definite article, genitive feminine singular	1	the
+DEU 20:9	1	14	τῆς	ὁ	definite article, genitive feminine singular	1	of the
 DEU 20:9	1	15	στρατιᾶς	στρατιά	noun, genitive feminine singular	1	host
 DEU 20:9	1	16	προηγουμένους	προηγέομαι	present middle participle, accusative masculine plural	1	leading
 DEU 20:9	1	17	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
@@ -252,7 +252,7 @@ DEU 20:10	1	3	προσέλθῃς	προσέρχομαι	aorist active subjuncti
 DEU 20:10	1	4	πρὸς	πρός	preposition with the accusative	1	to
 DEU 20:10	1	5	πόλιν	πόλις	noun, accusative feminine singular	1	city
 DEU 20:10	1	6	ἐκπολεμῆσαι	ἐκπολεμέω	aorist active infinitive	1	to war against
-DEU 20:10	1	7	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
+DEU 20:10	1	7	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 DEU 20:10	1	8	καὶ	καί	conjunction	1	and
 DEU 20:10	1	9	ἐκκαλέσῃ	ἐκκαλέω	future middle indicative, 2nd singular	1	shall call to
 DEU 20:10	1	10	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -262,14 +262,14 @@ DEU 20:11	1	1	καὶ	καί	conjunction	1	and
 DEU 20:11	1	2	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
 DEU 20:11	1	3	ἐὰν	ἐάν	conditional conjunction	1	if
 DEU 20:11	1	4	μὲν	μέν	postpositive particle	1	indeed
-DEU 20:11	1	5	εἰρηνικὰ	εἰρηνικός	adjective, accusative neuter plural	1	peaceable words
+DEU 20:11	1	5	εἰρηνικὰ	εἰρηνικός	adjective, accusative neuter plural	1	peaceably
 DEU 20:11	1	6	ἀποκριθῶσί	ἀποκρίνομαι	aorist middle subjunctive, 3rd plural	1	answer
 DEU 20:11	1	7	σοι	σύ	pronoun, dative 2nd singular	1	to you
 DEU 20:11	1	8	καὶ	καί	conjunction	1	and
 DEU 20:11	1	9	ἀνοίξωσί	ἀνοίγω	aorist active subjunctive, 3rd plural	1	open
 DEU 20:11	1	10	σοι	σύ	pronoun, dative 2nd singular	1	to you
 DEU 20:11	1	11	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
-DEU 20:11	1	12	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+DEU 20:11	1	12	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 DEU 20:11	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 20:11	1	14	λαὸς	λαός	noun, nominative masculine singular	1	people
 DEU 20:11	1	15	οἱ	ὁ	article, nominative masc. pl.	1	the
@@ -290,14 +290,14 @@ DEU 20:12	1	4	ὑποκούσωσί	ὑπακούω	aorist active subjunctive, 3
 DEU 20:12	1	5	σοι	σύ	pronoun, dative 2nd singular	1	to you
 DEU 20:12	1	6	καὶ	καί	conjunction	1	and
 DEU 20:12	1	7	ποιήσωσι	ποιέω	aorist active subjunctive, 3rd plural	1	make
-DEU 20:12	1	8	πρὸς	πρός	preposition with the accusative	1	to
+DEU 20:12	1	8	πρὸς	πρός	preposition with the accusative	1	against
 DEU 20:12	1	9	σὲ	σύ	pronoun, accusative 2nd singular	1	you
 DEU 20:12	1	10	πόλεμον	πόλεμος	noun, accusative masculine singular	1	war
 DEU 20:12	1	11	περικαθιεῖς	περικαθίζω	future active indicative, 2nd singular	1	shall besiege
-DEU 20:12	1	12	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	her
+DEU 20:12	1	12	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	it
 DEU 20:13	1	1	καὶ	καί	conjunction	1	and
 DEU 20:13	1	2	παραδώσει	παραδίδωμι	future active indicative, 3rd singular	1	shall deliver
-DEU 20:13	1	3	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
+DEU 20:13	1	3	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 DEU 20:13	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 20:13	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 DEU 20:13	1	6	Θεός	θεός	noun, nominative masculine singular	1	God
@@ -310,10 +310,10 @@ DEU 20:13	1	12	καὶ	καί	conjunction	1	and
 DEU 20:13	1	13	πατάξεις	πατάσσω	future active indicative, 2nd singular	1	shall strike
 DEU 20:13	1	14	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 DEU 20:13	1	15	ἀρσενικὸν	ἀρσενικόν	adjective, accusative neuter singular	1	male
-DEU 20:13	1	16	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
-DEU 20:13	1	17	ἐν	ἐν	preposition with the dative	1	in
-DEU 20:13	1	18	φόνῳ	φόνος	noun, dative masculine singular	1	edge
-DEU 20:13	1	19	μαχαίρας	μάχαιρα	noun, genitive feminine singular	1	sword
+DEU 20:13	1	16	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	of it
+DEU 20:13	1	17	ἐν	ἐν	preposition with the dative	1	by
+DEU 20:13	1	18	φόνῳ	φόνος	noun, dative masculine singular	1	slaughter
+DEU 20:13	1	19	μαχαίρας	μάχαιρα	noun, genitive feminine singular	1	of the sword
 DEU 20:14	1	1	πλὴν	πλήν	preposition with the genitive	1	except
 DEU 20:14	1	2	τῶν	ὁ	definite article, genitive plural	1	the
 DEU 20:14	1	3	γυναικῶν	γυνή	noun, genitive feminine plural	1	women
@@ -454,15 +454,15 @@ DEU 20:19	1	5	πόλιν	πόλις	noun, accusative feminine singular	1	city
 DEU 20:19	1	6	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
 DEU 20:19	1	7	πλείονας	πλείων	comparative adjective, accusative feminine plural	1	many
 DEU 20:19	1	8	ἐκπολεμῆσαι	ἐκπολεμέω	aorist active infinitive	1	to war against
-DEU 20:19	1	9	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
+DEU 20:19	1	9	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 DEU 20:19	1	10	εἰς	εἰς	preposition with the accusative	1	into
 DEU 20:19	1	11	κατάληψιν	κατάληψις	noun, accusative feminine singular	1	capture
-DEU 20:19	1	12	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
+DEU 20:19	1	12	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	of it
 DEU 20:19	1	13	οὐκ	οὐ	negative particle	1	not
 DEU 20:19	1	14	ἐξολοθρεύσεις	ἐξολοθρεύω	future active indicative, 2nd singular	1	shall destroy
 DEU 20:19	1	15	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 DEU 20:19	1	16	δένδρα	δένδρον	noun, accusative neuter plural	1	trees
-DEU 20:19	1	17	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
+DEU 20:19	1	17	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 DEU 20:19	1	18	ἐπιβαλεῖν	ἐπιβάλλω	aorist active infinitive	1	to lift up
 DEU 20:19	1	19	ἐπ᾽	ἐπί	preposition, elided	1	at
 DEU 20:19	1	20	αὐτὰ	αὐτός	pronoun, nominative/accusative neuter plural	1	them
@@ -478,7 +478,7 @@ DEU 20:19	1	29	ἐκκόψεις	ἐκκόπτω	future active indicative, 2nd s
 DEU 20:19	1	30	Μὴ	μή	negative particle	1	not
 DEU 20:19	1	31	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 DEU 20:19	1	32	τὸ	ὁ	article, accusative neuter singular	1	the
-DEU 20:19	1	33	ξύλον	ξύλον	noun, accusative neuter singular	1	wood
+DEU 20:19	1	33	ξύλον	ξύλον	noun, accusative neuter singular	1	tree
 DEU 20:19	1	34	τὸ	ὁ	article, accusative neuter singular	1	the
 DEU 20:19	1	35	ἐν	ἐν	preposition with the dative	1	in
 DEU 20:19	1	36	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
@@ -492,7 +492,7 @@ DEU 20:19	1	43	τὸν	ὁ	definite article, accusative masculine singular	1	the
 DEU 20:19	1	44	χάρακα	χάραξ	noun, accusative masculine singular	1	rampart
 DEU 20:20	1	1	Ἀλλὰ	ἀλλά	adversative conjunction	1	but
 DEU 20:20	1	2	τὸ	ὁ	article, accusative neuter singular	1	the
-DEU 20:20	1	3	ξύλον	ξύλον	noun, accusative neuter singular	1	wood
+DEU 20:20	1	3	ξύλον	ξύλον	noun, accusative neuter singular	1	tree
 DEU 20:20	1	4	ὃ	ὅς	relative pronoun, accusative neuter singular	1	which
 DEU 20:20	1	5	ἐπίστασαι	ἐπίσταμαι	present middle indicative, 2nd singular	1	know
 DEU 20:20	1	6	ὅτι	ὅτι	conjunction	1	that
@@ -510,8 +510,8 @@ DEU 20:20	1	17	ἐπὶ	ἐπί	preposition	1	on
 DEU 20:20	1	18	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 20:20	1	19	πόλιν	πόλις	noun, accusative feminine singular	1	city
 DEU 20:20	1	20	ἥτις	ὅστις	relative pronoun, nominative feminine singular	1	that
-DEU 20:20	1	21	ποιεῖ	ποιέω	present active indicative, third singular	1	does
-DEU 20:20	1	22	πρὸς	πρός	preposition with the accusative	1	to
+DEU 20:20	1	21	ποιεῖ	ποιέω	present active indicative, third singular	1	makes
+DEU 20:20	1	22	πρὸς	πρός	preposition with the accusative	1	against
 DEU 20:20	1	23	σὲ	σύ	pronoun, accusative 2nd singular	1	you
 DEU 20:20	1	24	τὸν	ὁ	definite article, accusative masculine singular	1	the
 DEU 20:20	1	25	πόλεμον	πόλεμος	noun, accusative masculine singular	1	war

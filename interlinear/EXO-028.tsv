@@ -40,14 +40,14 @@ EXO 28:2	1	5	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in
 EXO 28:2	1	6	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 28:2	1	7	ἀδελφῷ	ἀδελφός	noun, dative masculine singular after τῷ, in apposition	1	brother
 EXO 28:2	1	8	σου	σύ	pronoun, possessive genitive second singular	1	your
-EXO 28:2	1	9	εἰς	εἰς	preposition with accusative	1	into
+EXO 28:2	1	9	εἰς	εἰς	preposition with accusative	1	for
 EXO 28:2	1	10	τιμὴν	τιμή	noun, accusative fem. sg. after εἰς, honour	1	honour
 EXO 28:2	1	11	καὶ	καί	conjunction	1	and
 EXO 28:2	1	12	δόξαν	δόξα	noun, accusative fem. sg. after εἰς implied with τιμὴν	1	glory (beauty)
 EXO 28:3	1	1	Καὶ	καί	conjunction	1	and
 EXO 28:3	1	2	σὺ	σύ	pronoun, nominative second singular	1	you
 EXO 28:3	1	3	λάλησον	λαλέω	aorist active imperative, 2nd sg.	1	speak
-EXO 28:3	1	4	πᾶσι	πᾶς	adjective, dative neuter plural	1	with all
+EXO 28:3	1	4	πᾶσι	πᾶς	adjective, dative neuter plural	1	to all
 EXO 28:3	1	5	τοῖς	ὁ	article, dative neuter plural	1	the
 EXO 28:3	1	6	σοφοῖς	σοφός	adjective/noun, dative masc. pl. after πᾶσι τοῖς, wise/skilled men	1	skilled men
 EXO 28:3	1	7	τῇ	ὁ	article, dative feminine singular	1	the
@@ -63,7 +63,7 @@ EXO 28:3	1	16	στολὴν	στολή	noun, accusative fem. sg., garment/vestme
 EXO 28:3	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 28:3	1	18	ἁγίαν	ἅγιος	adjective, accusative fem. sg. with στολὴν	1	holy
 EXO 28:3	1	19	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
-EXO 28:3	1	20	εἰς	εἰς	preposition with accusative	1	into
+EXO 28:3	1	20	εἰς	εἰς	preposition with accusative	1	for
 EXO 28:3	1	21	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 28:3	1	22	ἅγιον	ἅγιος	noun/adjective, accusative neut. sg. after εἰς τὸ, the holy	1	the holy (service)
 EXO 28:3	1	23	ἐν	ἐν	preposition with dative	1	in
@@ -86,7 +86,7 @@ EXO 28:4	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 28:4	1	14	ποδήρη	ποδήρης	adjective/noun, accusative masc. sg. with ὑποδύτην, full-length	1	full-length
 EXO 28:4	1	15	καὶ	καί	conjunction	1	and
 EXO 28:4	1	16	χιτῶνα	χιτών	noun, accusative masc. sg.	1	a tunic/coat
-EXO 28:4	1	17	κοσυμβωτὸν	κοσυμβωτός	adjective, accusative masc. sg. with χιτῶνα	1	checkered
+EXO 28:4	1	17	κοσυμβωτὸν	κοσυμβωτός	adjective, accusative masculine singular	1	fringed
 EXO 28:4	1	18	καὶ	καί	conjunction	1	and
 EXO 28:4	1	19	κίδαριν	κίδαρις	noun, accusative fem. sg., turban/mitre	1	a turban
 EXO 28:4	1	20	καὶ	καί	conjunction	1	and
@@ -100,7 +100,7 @@ EXO 28:4	1	27	καὶ	καί	conjunction	1	and
 EXO 28:4	1	28	τοῖς	ὁ	article, dative neuter plural	1	the
 EXO 28:4	1	29	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 EXO 28:4	1	30	αὐτοῦ	αὐτός	personal pronoun, genitive masculine singular	1	his
-EXO 28:4	1	31	εἰς	εἰς	preposition with accusative	1	into
+EXO 28:4	1	31	εἰς	εἰς	preposition with accusative	1	for
 EXO 28:4	1	32	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 28:4	1	33	ἱερατεύειν	ἱερατεύω	present active infinitive of purpose with dative μοι, serve as priests	1	to serve as priests
 EXO 28:4	1	34	μοι	ἐγώ	pronoun, dative 1st sg.	1	to me
@@ -164,7 +164,7 @@ EXO 28:8	1	6	ὅ	ὅς	relative pronoun, nominative neut. sg. in ὅ τι οὖ�
 EXO 28:8	1	7	ἐστιν	εἰμί	present active indicative, third person singular	1	is
 EXO 28:8	1	8	ἐπ᾽	ἐπί	preposition, elided	1	upon/on
 EXO 28:8	1	9	αὐτῷ	αὐτός	pronoun, dative masc./neut. sg., 'shall be	1	on it
-EXO 28:8	1	10	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 28:8	1	10	κατὰ	κατά	preposition with genitive Μωυσῆ	1	according to
 EXO 28:8	1	11	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 28:8	1	12	ποίησιν	ποίησις	noun, accusative fem. sg. after κατὰ τὴν, making/workmanship	1	workmanship
 EXO 28:8	1	13	ἐξ	ἐκ	preposition with genitive	1	from
@@ -195,7 +195,7 @@ EXO 28:9	1	10	ἐπ᾽	ἐπί	preposition, elided	1	upon/on
 EXO 28:9	1	11	αὐτοῖς	αὐτός	pronoun, dative masculine/neuter plural	1	them
 EXO 28:9	1	12	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 28:9	1	13	ὀνόματα	ὄνομα	noun, nominative/accusative neut. pl., names	1	names
-EXO 28:9	1	14	τῶν	ὁ	article, genitive masculine plural	1	the
+EXO 28:9	1	14	τῶν	ὁ	article, genitive masculine plural	1	of the
 EXO 28:9	1	15	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 EXO 28:9	1	16	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 EXO 28:10	1	1	ἓξ	ἕξ	indeclinable cardinal numeral	1	six
@@ -216,7 +216,7 @@ EXO 28:10	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 28:10	1	16	λίθον	λίθος	noun, accusative masc. sg.	1	a stone
 EXO 28:10	1	17	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 28:10	1	18	δεύτερον	δεύτερος	adjective, nominative neuter singular with ἔτος	1	second
-EXO 28:10	1	19	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 28:10	1	19	κατὰ	κατά	preposition with genitive Μωυσῆ	1	according to
 EXO 28:10	1	20	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 28:10	1	21	γενέσεις	γένεσις	noun, accusative fem. pl. after κατὰ τὰς, generations/birth-order	1	generations (birth order)
 EXO 28:10	1	22	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
@@ -233,7 +233,7 @@ EXO 28:11	1	10	διαγλύψεις	διαγλύφω	future active indicative, 2
 EXO 28:11	1	11	ἐπὶ	ἐπί	preposition	1	on/upon
 EXO 28:11	1	12	τοῖς	ὁ	article, dative neuter plural	1	the
 EXO 28:11	1	13	ὀνόμασι	ὄνομα	noun, dative neut. pl. after ἐπὶ τοῖς, according to the names	1	names
-EXO 28:11	1	14	τῶν	ὁ	article, genitive masculine plural	1	the
+EXO 28:11	1	14	τῶν	ὁ	article, genitive masculine plural	1	of the
 EXO 28:11	1	15	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 EXO 28:11	1	16	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 EXO 28:11	1	17	περικεκλωσμένους	περιχρυσόω?	perfect passive participle, accusative masc. pl. with λίθους	1	set/enclosed
@@ -263,7 +263,7 @@ EXO 28:12	1	18	ἀναλήψεται	ἀναλαμβάνω	future middle indicat
 EXO 28:12	1	19	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
 EXO 28:12	1	20	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 28:12	1	21	ὀνόματα	ὄνομα	noun, nominative/accusative neut. pl., names, in apposition	1	names
-EXO 28:12	1	22	τῶν	ὁ	article, genitive masculine plural	1	the
+EXO 28:12	1	22	τῶν	ὁ	article, genitive masculine plural	1	of the
 EXO 28:12	1	23	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 EXO 28:12	1	24	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 EXO 28:12	1	25	ἔναντι	ἐναντί	preposition	1	in the sight of
@@ -276,8 +276,8 @@ EXO 28:12	1	31	αὐτοῦ	αὐτός	personal pronoun, genitive masculine sin
 EXO 28:12	1	32	μνημόσυνον	μνημόσυνον	noun, nominative neut. sg.	1	a memorial
 EXO 28:12	1	33	ἔναντι	ἐναντί	preposition	1	in the sight of
 EXO 28:12	1	34	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	1	of the Lord
-EXO 28:12	1	35	περὶ	περί	preposition with the accusative	1	about/on
-EXO 28:12	1	36	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
+EXO 28:12	1	35	περὶ	περί	preposition with the accusative	1	for
+EXO 28:12	1	36	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
 EXO 28:13	1	1	Καὶ	καί	conjunction	1	and
 EXO 28:13	1	2	ποιήσεις	ποιέω	future active indicative, second singular	1	you shall make
 EXO 28:13	1	3	ἀσπιδίσκας	ἀσπιδίσκη	noun, accusative fem. pl., little shields' 	1	shield-shaped settings
@@ -305,7 +305,7 @@ EXO 28:14	1	18	πεπλεγμένα	πλέκω	perfect passive participle, accus
 EXO 28:14	1	19	ἐπὶ	ἐπί	preposition	1	on/upon
 EXO 28:14	1	20	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 28:14	1	21	ἀσπιδίσκας	ἀσπιδίσκη	noun, accusative fem. pl., little shields' 	1	shield-shaped settings
-EXO 28:14	1	22	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 28:14	1	22	κατὰ	κατά	preposition with genitive Μωυσῆ	1	at
 EXO 28:14	1	23	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 28:14	1	24	παρωμίδας	παρωμίς	noun, accusative fem. pl. after κατὰ τὰς, shoulder-pieces/side-pieces	1	shoulder pieces
 EXO 28:14	1	25	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
@@ -319,7 +319,7 @@ EXO 28:15	1	4	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 28:15	1	5	κρίσεων	κρίσις	noun, genitive fem. pl. after τῶν	1	judgment/decisions
 EXO 28:15	1	6	ἔργον	ἔργον	noun, accusative neut. sg. as manner 'work/workmanship'	1	work
 EXO 28:15	1	7	ποικιλτοῦ	ποικιλτής	noun, genitive masc. sg., of an embroiderer	1	of an embroiderer
-EXO 28:15	1	8	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 28:15	1	8	κατὰ	κατά	preposition with genitive Μωυσῆ	1	according to
 EXO 28:15	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 28:15	1	10	ῥυθμὸν	ῥυθμός	noun, accusative masc. sg. after κατὰ τὸν, fashion/pattern 'according to the fashion'	1	fashion/pattern
 EXO 28:15	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -406,7 +406,7 @@ EXO 28:20	1	14	συνδεδεμένα	συνδέω	perfect passive participle, n
 EXO 28:20	1	15	ἐν	ἐν	preposition with dative	1	in
 EXO 28:20	1	16	χρυσίῳ	χρυσίον	noun, dative neut. sg., instrumental 'with gold'	1	with gold
 EXO 28:20	1	17	ἔστωσαν	εἰμί	present imperative, 3rd pl.	1	let them be
-EXO 28:20	1	18	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 28:20	1	18	κατὰ	κατά	preposition with genitive Μωυσῆ	1	according to
 EXO 28:20	1	19	στίχον	στίχος	noun, accusative masc. sg. after κατὰ, row	1	row
 EXO 28:20	1	20	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 EXO 28:21	1	1	Καὶ	καί	conjunction	1	and
@@ -416,11 +416,11 @@ EXO 28:21	1	4	ἔστωσαν	εἰμί	present imperative, 3rd pl.	1	let them b
 EXO 28:21	1	5	ἐκ	ἐκ	preposition with the genitive	1	from
 EXO 28:21	1	6	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 28:21	1	7	ὀνομάτων	ὄνομα	noun, genitive neut. pl. after κατὰ/τῶν	1	names
-EXO 28:21	1	8	τῶν	ὁ	article, genitive masculine plural	1	the
+EXO 28:21	1	8	τῶν	ὁ	article, genitive masculine plural	1	of the
 EXO 28:21	1	9	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 EXO 28:21	1	10	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 EXO 28:21	1	11	δώδεκα	δώδεκα	indeclinable cardinal numeral	1	twelve
-EXO 28:21	1	12	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 28:21	1	12	κατὰ	κατά	preposition with genitive Μωυσῆ	1	according to
 EXO 28:21	1	13	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 28:21	1	14	γενέσεις	γένεσις	noun, accusative fem. pl. after κατὰ τὰς, generations/birth-order	1	generations (birth order)
 EXO 28:21	1	15	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
@@ -431,11 +431,11 @@ EXO 28:21	1	19	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	the
 EXO 28:21	1	20	γλυφαὶ	γλυφή	noun, nominative fem. pl.	1	engravings
 EXO 28:21	1	21	σφραγίδων	σφραγίς	noun, genitive fem. pl., of signets	1	of signets
 EXO 28:21	1	22	ἑκάστου	ἕκαστος	pronoun, genitive masculine singular, distributive	1	of each
-EXO 28:21	1	23	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 28:21	1	23	κατὰ	κατά	preposition with genitive Μωυσῆ	1	according to
 EXO 28:21	1	24	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 28:21	1	25	ὄνομα	ὄνομα	noun, nominative neut. sg.	1	name
 EXO 28:21	1	26	ἔστωσαν	εἰμί	present imperative, 3rd pl.	1	let them be
-EXO 28:21	1	27	εἰς	εἰς	preposition with accusative	1	into
+EXO 28:21	1	27	εἰς	εἰς	preposition with accusative	1	for
 EXO 28:21	1	28	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 28:21	1	29	δώδεκα	δώδεκα	indeclinable cardinal numeral	1	twelve
 EXO 28:21	1	30	φυλάς	φυλή	noun, accusative fem. pl. after εἰς τὰς, for the tribes	1	tribes
@@ -509,7 +509,7 @@ EXO 28:25	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 28:25	1	18	ἐπωμίδος	ἐπωμίς	noun, genitive fem. sg. after τῆς	1	ephod
 EXO 28:25	1	19	ἐξ	ἐκ	preposition with genitive	1	from
 EXO 28:25	1	20	ἐναντίας	ἐναντίος	adjective/noun genitive?	1	in front
-EXO 28:25	1	21	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 28:25	1	21	κατὰ	κατά	preposition with genitive Μωυσῆ	1	at
 EXO 28:25	1	22	πρόσωπον	πρόσωπον	noun, accusative neut. sg. after κατὰ, front/face	1	the front
 EXO 28:26	1	1	Καὶ	καί	conjunction	1	and
 EXO 28:26	1	2	ποιήσεις	ποιέω	future active indicative, second singular	1	you shall make
@@ -549,9 +549,9 @@ EXO 28:27	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 28:27	1	13	ἐπωμίδος	ἐπωμίς	noun, genitive fem. sg. after τῆς	1	ephod
 EXO 28:27	1	14	κάτωθεν	κάτωθεν	adverb, below/from below	1	below
 EXO 28:27	1	15	αὐτοῦ	αὐτός	personal pronoun, genitive neuter singular	1	its
-EXO 28:27	1	16	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 28:27	1	16	κατὰ	κατά	preposition with genitive Μωυσῆ	1	at
 EXO 28:27	1	17	πρόσωπον	πρόσωπον	noun, accusative neut. sg. after κατὰ, front/face	1	the front
-EXO 28:27	1	18	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 28:27	1	18	κατὰ	κατά	preposition with genitive Μωυσῆ	1	at
 EXO 28:27	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 28:27	1	20	συμβολὴν	συμβολή	noun, accusative fem. sg. after τὴν, joining/junction	1	junction
 EXO 28:27	1	21	ἄνωθεν	ἄνωθεν	adverb, above	1	above
@@ -569,7 +569,7 @@ EXO 28:28	1	7	δακτυλίων	δακτύλιος	noun, genitive masc. pl. aft
 EXO 28:28	1	8	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 28:28	1	9	ἐπ᾽	ἐπί	preposition, elided	1	upon/on
 EXO 28:28	1	10	αὐτοῦ	αὐτός	personal pronoun, genitive neuter singular	1	it
-EXO 28:28	1	11	εἰς	εἰς	preposition with accusative	1	into
+EXO 28:28	1	11	εἰς	εἰς	preposition with accusative	1	to
 EXO 28:28	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
 EXO 28:28	1	13	δακτυλίους	δακτύλιος	noun, accusative masc. pl., rings	1	rings
 EXO 28:28	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -579,7 +579,7 @@ EXO 28:28	1	17	ἐκ	ἐκ	preposition with the genitive	1	from
 EXO 28:28	1	18	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 28:28	1	19	ὑακίνθου	ὑάκινθος	noun, genitive fem. sg. after ἐκ/ἐξ	1	violet
 EXO 28:28	1	20	συμπεπλεγμένους	συμπλέκω	perfect passive participle, accusative masc. pl. with κροσσοὺς/δακτυλίους in 28:28, intertwined/plaited	1	plaited
-EXO 28:28	1	21	εἰς	εἰς	preposition with accusative	1	into
+EXO 28:28	1	21	εἰς	εἰς	preposition with accusative	1	to
 EXO 28:28	1	22	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 28:28	1	23	ὕφασμα	ὕφασμα	noun, nominative/accusative neut. sg. after τὸ	1	the woven band
 EXO 28:28	1	24	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -751,10 +751,10 @@ EXO 28:33	1	34	χρυσοῦς	χρυσοῦς	adjective, accusative masc. pl., 
 EXO 28:33	1	35	καὶ	καί	conjunction	1	and
 EXO 28:33	1	36	κώδωνας	κώδων	noun, accusative masc. pl., bells	1	bells
 EXO 28:33	1	37	χρυσοῦς	χρυσοῦς	adjective, accusative masc. pl., golden	1	golden
-EXO 28:33	1	38	ἀναμέσον	ἀνὰ μέσον	preposition as one word with genitive, through the midst of	1	through the midst of
+EXO 28:33	1	38	ἀναμέσον	ἀνὰ μέσον	preposition as one word with genitive, through the midst of	1	between
 EXO 28:33	1	39	τούτων	οὗτος	demonstrative pronoun, genitive plural	1	these
 EXO 28:33	1	40	περικύκλῳ	περίκυκλος	adverb/adjective	1	round about
-EXO 28:34	1	1	παρὰ	παρά	preposition with genitive τοῦ Κυρίου, from	1	from
+EXO 28:34	1	1	παρὰ	παρά	preposition with genitive τοῦ Κυρίου, from	1	beside
 EXO 28:34	1	2	ῥοίσκον	ῥοίσκος	noun, accusative masc. sg. after παρὰ distributively 'pomegranate by pomegranate'	1	a pomegranate
 EXO 28:34	1	3	χρυσοῦν	χρυσοῦς	adjective, accusative neut. sg.	1	golden
 EXO 28:34	1	4	κώδωνα	κώδων	noun, accusative masc. sg. in παρὰ ... κώδωνα alternation	1	a bell
@@ -811,7 +811,7 @@ EXO 28:37	1	8	ἔσται	εἰμί	future indicative, 3rd sg.	1	shall be
 EXO 28:37	1	9	ἐπὶ	ἐπί	preposition	1	on/upon
 EXO 28:37	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 28:37	1	11	μίτρας	μίτρα	noun, genitive fem. sg. after ἐπὶ τῆς, turban/mitre	1	mitre/turban
-EXO 28:37	1	12	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 28:37	1	12	κατὰ	κατά	preposition with genitive Μωυσῆ	1	at
 EXO 28:37	1	13	πρόσωπον	πρόσωπον	noun, accusative neut. sg. after κατὰ, front/face	1	the front
 EXO 28:37	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 28:37	1	15	μίτρας	μίτρα	noun, genitive fem. sg. after ἐπὶ τῆς, turban/mitre	1	mitre/turban
@@ -879,7 +879,7 @@ EXO 28:40	1	9	καὶ	καί	conjunction	1	and
 EXO 28:40	1	10	κιδάρεις	κίδαρις	noun, accusative fem. pl.	1	turbans
 EXO 28:40	1	11	ποιήσεις	ποιέω	future active indicative, second singular	1	you shall make
 EXO 28:40	1	12	αὐτοῖς	αὐτός	pronoun, dative masculine/neuter plural	1	to them
-EXO 28:40	1	13	εἰς	εἰς	preposition with accusative	1	into
+EXO 28:40	1	13	εἰς	εἰς	preposition with accusative	1	for
 EXO 28:40	1	14	τιμὴν	τιμή	noun, accusative fem. sg. after εἰς, honour	1	honour
 EXO 28:40	1	15	καὶ	καί	conjunction	1	and
 EXO 28:40	1	16	δόξαν	δόξα	noun, accusative fem. sg. after εἰς implied with τιμὴν	1	glory (beauty)
@@ -919,9 +919,9 @@ EXO 28:42	1	6	καλύψαι	καλύπτω	aorist active infinitive of purpose,
 EXO 28:42	1	7	ἀσχημοσύνην	ἀσχημοσύνη	noun, accusative fem. sg., nakedness	1	the nakedness
 EXO 28:42	1	8	χρωτὸς	χρώς	noun, genitive masc. sg., of	1	of flesh
 EXO 28:42	1	9	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
-EXO 28:42	1	10	ἀπὸ	ἀπό	preposition with the genitive	1	by
+EXO 28:42	1	10	ἀπὸ	ἀπό	preposition with the genitive	1	from
 EXO 28:42	1	11	ὀσφύος	ὀσφῦς	noun, genitive fem. sg. after ἀπὸ, loins/waist	1	waist
-EXO 28:42	1	12	ἕως	ἕως	temporal conjunction/preposition	1	until
+EXO 28:42	1	12	ἕως	ἕως	preposition with genitive	1	to
 EXO 28:42	1	13	μηρῶν	μηρός	noun, genitive masc. pl. after ἕως, thighs	1	thighs
 EXO 28:42	1	14	ἔσται	εἰμί	future indicative, 3rd sg.	1	shall be
 EXO 28:43	1	1	Καὶ	καί	conjunction	1	and
@@ -937,7 +937,7 @@ EXO 28:43	1	10	εἰσπορεύωνται	εἰσπορεύομαι	present mid
 EXO 28:43	1	11	εἰς	εἰς	preposition with accusative	1	into
 EXO 28:43	1	12	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 28:43	1	13	σκηνὴν	σκηνή	noun, accusative fem. sg. after τὴν	1	the tabernacle
-EXO 28:43	1	14	τοῦ	ὁ	article, genitive singular	1	the
+EXO 28:43	1	14	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 28:43	1	15	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	1	testimony
 EXO 28:43	1	16	ἢ	ἤ	disjunctive particle	1	or
 EXO 28:43	1	17	ὅταν	ὅταν	temporal conjunction with subjunctive	1	whenever

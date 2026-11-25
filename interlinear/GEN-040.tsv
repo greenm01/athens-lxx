@@ -8,13 +8,13 @@ GEN 40:1	1	6	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusativ
 GEN 40:1	1	7	ἥμαρτον	ἁμαρτάνω	aorist active indicative, third plural, sinned/offended (with dative κυρίῳ implied in construction)	1	offended
 GEN 40:1	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 40:1	1	9	ἀρχιοινοχόος	ἀρχιοινοχόος	noun, nominative masculine singular after ὁ	1	chief cupbearer
-GEN 40:1	1	10	τοῦ	ὁ	article, genitive singular	1	the
+GEN 40:1	1	10	τοῦ	ὁ	article, genitive singular	1	of the
 GEN 40:1	1	11	βασιλέως	βασιλεύς	noun, genitive masculine singular after τοῦ	1	king
 GEN 40:1	1	12	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular (βασιλεὺς Αἰγύπτου)	1	of Egypt
 GEN 40:1	1	13	καὶ	καί	conjunction	1	and
 GEN 40:1	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 40:1	1	15	ἀρχισιτοποιὸς	ἀρχισιτοποιός	noun, nominative masculine singular after ὁ	1	chief baker
-GEN 40:1	1	16	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 40:1	1	16	τῷ	ὁ	article, dative masculine/neuter singular	1	against
 GEN 40:1	1	17	κυρίῳ	κύριος	noun, dative masculine singular after τῷ, master	1	master
 GEN 40:1	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 GEN 40:1	1	19	τῷ	ὁ	article, dative masculine/neuter singular	1	the
@@ -57,7 +57,7 @@ GEN 40:4	1	1	Καὶ	καί	conjunction	1	and
 GEN 40:4	1	2	συνέστησεν	συνίστημι	aorist active indicative, third singular with dative Ἰωσὴφ, assigned/commended them to Joseph	1	assigned
 GEN 40:4	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 40:4	1	4	ἀρχιδεσμώτης	ἀρχιδεσμώτης	noun, nominative masculine singular after ὁ as printed, for ἀρχιδεσμοφύλαξ in sense	1	chief jailer
-GEN 40:4	1	5	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 40:4	1	5	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 GEN 40:4	1	6	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, dative in context	1	Joseph
 GEN 40:4	1	7	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 GEN 40:4	1	8	καὶ	καί	conjunction	1	and
@@ -79,7 +79,7 @@ GEN 40:5	1	7	ἐν	ἐν	preposition with the dative	1	in
 GEN 40:5	1	8	μιᾷ	εἷς	cardinal numeral, dative feminine singular with νυκτί after ἐν	1	one
 GEN 40:5	1	9	νυκτί	νύξ	noun, dative feminine singular after ἐν	1	night
 GEN 40:5	1	10	ὅρασις	ὅρασις	noun, nominative feminine singular in verbless clause '(each) a vision' as printed	1	a vision
-GEN 40:5	1	11	τοῦ	ὁ	article, genitive singular	1	the
+GEN 40:5	1	11	τοῦ	ὁ	article, genitive singular	1	of the
 GEN 40:5	1	12	ἐνυπνίου	ἐνύπνιον	noun, genitive neuter singular after τοῦ, object of ἀκούειν in the genitive	1	dream
 GEN 40:5	1	13	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 GEN 40:5	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -88,8 +88,8 @@ GEN 40:5	1	16	καὶ	καί	conjunction	1	and
 GEN 40:5	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 40:5	1	18	ἀρχισιτοποιὸς	ἀρχισιτοποιός	noun, nominative masculine singular after ὁ	1	chief baker
 GEN 40:5	1	19	οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
-GEN 40:5	1	20	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
-GEN 40:5	1	21	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 40:5	1	20	ἦσαν	εἰμί	imperfect indicative, third plural	1	were in service
+GEN 40:5	1	21	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 GEN 40:5	1	22	βασιλεῖ	βασιλεύς	noun, dative masculine singular after τῷ	1	king
 GEN 40:5	1	23	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular in βασιλεὺς Αἰγύπτου	1	of Egypt
 GEN 40:5	1	24	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -168,7 +168,7 @@ GEN 40:9	1	4	ἀρχιοινοχόος	ἀρχιοινοχόος	noun, nominativ
 GEN 40:9	1	5	τὸ	ὁ	article, neuter singular (case from context)	1	the
 GEN 40:9	1	6	ἐνύπνιον	ἐνύπνιον	noun, accusative neuter singular, cognate object	1	dream
 GEN 40:9	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-GEN 40:9	1	8	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 40:9	1	8	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 GEN 40:9	1	9	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, dative in context	1	Joseph
 GEN 40:9	1	10	καὶ	καί	conjunction	1	and
 GEN 40:9	1	11	εἶπεν	λέγω	aorist active indicative, third singular	1	said
@@ -180,13 +180,13 @@ GEN 40:9	1	16	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 GEN 40:9	1	17	ἦν	εἰμί	imperfect indicative, third singular	1	was
 GEN 40:9	1	18	ἄμπελος	ἄμπελος	noun, nominative feminine singular	1	a vine
 GEN 40:9	1	19	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
-GEN 40:9	1	20	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
+GEN 40:9	1	20	μου	ἐγώ	pronoun, possessive genitive first singular	1	me
 GEN 40:10	1	1	ἐν	ἐν	preposition with the dative	1	in
 GEN 40:10	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 40:10	1	3	τῇ	ὁ	article, dative feminine singular	1	the
 GEN 40:10	1	4	ἀμπέλῳ	ἄμπελος	noun, dative feminine singular after ἐν τῇ	1	vine
 GEN 40:10	1	5	τρεῖς	τρεῖς	cardinal numeral, nominative plural (gender from context)	1	three
-GEN 40:10	1	6	πυθμένες	πυθμήν	noun, nominative masculine plural, vine-shoots/stems in dream gloss; literally bases/stems	1	shoots
+GEN 40:10	1	6	πυθμένες	πυθμήν	noun, nominative masculine plural, vine-shoots/stems in dream gloss; literally bases/stems	1	branches
 GEN 40:10	1	7	καὶ	καί	conjunction	1	and
 GEN 40:10	1	8	αὐτὴ	αὐτός	pronoun, nominative feminine singular; referring to the vine	1	it
 GEN 40:10	1	9	θάλλουσα	θάλλω	present active participle, nominative feminine singular	1	sprouting
@@ -229,10 +229,10 @@ GEN 40:12	1	4	Ἰωσήφ	Ἰωσήφ	indeclinable personal name, nominative in 
 GEN 40:12	1	5	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 GEN 40:12	1	6	ἡ	ὁ	article, nominative feminine singular	1	the
 GEN 40:12	1	7	σύγκρισις	σύγκρισις	noun, nominative feminine singular after ἡ, interpretation of a dream	1	interpretation
-GEN 40:12	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+GEN 40:12	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	of it
 GEN 40:12	1	9	Οἱ	ὁ	article, nominative masculine plural	1	the
 GEN 40:12	1	10	τρεῖς	τρεῖς	cardinal numeral, nominative plural (gender from context)	1	three
-GEN 40:12	1	11	πυθμένες	πυθμήν	noun, nominative masculine plural, vine-shoots/stems in dream gloss; literally bases/stems	1	shoots
+GEN 40:12	1	11	πυθμένες	πυθμήν	noun, nominative masculine plural, vine-shoots/stems in dream gloss; literally bases/stems	1	branches
 GEN 40:12	1	12	τρεῖς	τρεῖς	cardinal numeral, nominative plural (gender from context)	1	three
 GEN 40:12	1	13	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days
 GEN 40:12	1	14	εἰσίν	εἰμί	present indicative, third plural	1	are
@@ -248,12 +248,12 @@ GEN 40:13	1	9	σου	σύ	pronoun, possessive genitive second singular	1	your
 GEN 40:13	1	10	καὶ	καί	conjunction	1	and
 GEN 40:13	1	11	ἀποκαταστήσει	ἀποκαθίστημι	future active indicative, third singular	1	will restore
 GEN 40:13	1	12	σε	σύ	pronoun, accusative second singular	1	you
-GEN 40:13	1	13	ἐπὶ	ἐπί	preposition (case from context)	1	on
+GEN 40:13	1	13	ἐπὶ	ἐπί	preposition (case from context)	1	to
 GEN 40:13	1	14	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 40:13	1	15	ἀρχιοινοχοΐαν	ἀρχιοινοχοΐα	noun, accusative feminine singular after τὴν, office of chief cupbearer	1	chief-cupbearership
 GEN 40:13	1	16	σου	σύ	pronoun, possessive genitive second singular	1	your
 GEN 40:13	1	17	καὶ	καί	conjunction	1	and
-GEN 40:13	1	18	δώσεις	δίδωμι	future active indicative, second singular	1	will you give
+GEN 40:13	1	18	δώσεις	δίδωμι	future active indicative, second singular	1	you will give
 GEN 40:13	1	19	τὸ	ὁ	article, neuter singular (case from context)	1	the
 GEN 40:13	1	20	ποτήριον	ποτήριον	noun, nominative/accusative neuter singular after τὸ (from context)	1	cup
 GEN 40:13	1	21	Φαραὼ	Φαραώ	royal title/name (indeclined in use), genitive in context	1	of Pharaoh
@@ -319,12 +319,12 @@ GEN 40:16	1	1	Καὶ	καί	conjunction	1	and
 GEN 40:16	1	2	ἴδεν	ὁράω	aorist active indicative, third singular	1	saw
 GEN 40:16	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 40:16	1	4	ἀρχισιτοποιὸς	ἀρχισιτοποιός	noun, nominative masculine singular after ὁ	1	chief baker
-GEN 40:16	1	5	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+GEN 40:16	1	5	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 GEN 40:16	1	6	ὀρθῶς	ὀρθῶς	adverb	1	rightly
 GEN 40:16	1	7	συνέκρινε	συγκρίνω	aorist/imperfect active indicative, third singular, interpreted (a dream)	1	interpreted
 GEN 40:16	1	8	καὶ	καί	conjunction	1	and
 GEN 40:16	1	9	εἶπε	λέγω	aorist active indicative, third singular	1	said
-GEN 40:16	1	10	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+GEN 40:16	1	10	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 GEN 40:16	1	11	Ἰωσήφ	Ἰωσήφ	indeclinable personal name, dative in context	1	Joseph
 GEN 40:16	1	12	κἀγὼ	καί ἐγώ	crasis of καί + ἐγώ, nominative first singular with καί 'I also'	1	I also
 GEN 40:16	1	13	ἴδον	ὁράω	aorist active indicative, first singular	1	I saw
@@ -367,7 +367,7 @@ GEN 40:17	1	25	ἀπὸ	ἀπό	preposition with the genitive	1	from
 GEN 40:17	1	26	τοῦ	ὁ	article, genitive singular	1	the
 GEN 40:17	1	27	κανοῦ	κανοῦν	noun, genitive neuter singular after τοῦ/ἀπὸ τοῦ	1	basket
 GEN 40:17	1	28	τοῦ	ὁ	article, genitive singular	1	the
-GEN 40:17	1	29	ἐπάνω	ἐπάνω	adverb/adjective used substantivally after τῷ/τοῦ, 'the top (basket)'	1	top
+GEN 40:17	1	29	ἐπάνω	ἐπάνω	adverb/adjective used substantivally after τῷ/τοῦ, 'the top (basket)'	1	above
 GEN 40:17	1	30	τῆς	ὁ	article, genitive feminine singular	1	the
 GEN 40:17	1	31	κεφαλῆς	κεφαλή	noun, genitive feminine singular after ἐπὶ τῆς	1	head
 GEN 40:17	1	32	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
@@ -422,11 +422,11 @@ GEN 40:20	1	23	τρίτῃ	τρίτος	ordinal adjective, dative feminine singu
 GEN 40:20	1	24	ἡμέρα	ἡμέρα	noun, nominative feminine singular	1	day
 GEN 40:20	1	25	γενέσεως	γένεσις	noun, genitive feminine singular with ἡμέρα, birthday	1	of birth
 GEN 40:20	1	26	ἦν	εἰμί	imperfect indicative, third singular	1	was
-GEN 40:20	1	27	Φαραὼ	Φαραώ	royal title/name (indeclined in use), nominative in context	1	Pharaoh
+GEN 40:20	1	27	Φαραὼ	Φαραώ	royal title/name (indeclined in use), nominative in context	1	of Pharaoh
 GEN 40:20	1	28	καὶ	καί	conjunction	1	and
 GEN 40:20	1	29	ἐποίει	ποιέω	imperfect active indicative, third singular	1	was doing
 GEN 40:20	1	30	πότον	πότος	noun, accusative masculine singular, drinking-feast	1	a feast
-GEN 40:20	1	31	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
+GEN 40:20	1	31	πᾶσι	πᾶς	adjective, dative neuter plural	1	for all
 GEN 40:20	1	32	τοῖς	ὁ	article, dative masculine plural	1	the
 GEN 40:20	1	33	παισὶν	παῖς	noun, dative masculine plural after τοῖς, servants/courtiers	1	servants
 GEN 40:20	1	34	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -443,14 +443,14 @@ GEN 40:20	1	44	τοῦ	ὁ	article, genitive singular	1	the
 GEN 40:20	1	45	ἀρχισιτοποιοῦ	ἀρχισιτοποιός	noun, genitive masculine singular after τοῦ	1	chief baker
 GEN 40:20	1	46	ἐν	ἐν	preposition with the dative	1	in
 GEN 40:20	1	47	μέσῳ	μέσος	adjective, dative neuter singular substantival after ἐν	1	the midst
-GEN 40:20	1	48	τῶν	ὁ	article, genitive plural	1	the
+GEN 40:20	1	48	τῶν	ὁ	article, genitive plural	1	of the
 GEN 40:20	1	49	παίδων	παῖς	noun, genitive masculine plural after τῶν	1	servants
 GEN 40:20	1	50	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 GEN 40:21	1	1	καὶ	καί	conjunction	1	and
 GEN 40:21	1	2	ἀπεκατέστησεν	ἀποκαθίστημι	aorist active indicative, third singular	1	restored
 GEN 40:21	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
 GEN 40:21	1	4	ἀρχιοινοχόον	ἀρχιοινοχόος	noun, accusative masculine singular after τὸν	1	chief cupbearer
-GEN 40:21	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	on
+GEN 40:21	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	to
 GEN 40:21	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 40:21	1	7	ἀρχὴν	ἀρχή	noun, accusative feminine singular	1	office
 GEN 40:21	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -479,4 +479,4 @@ GEN 40:23	1	6	τοῦ	ὁ	article, genitive singular	1	the
 GEN 40:23	1	7	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, genitive in context	1	Joseph
 GEN 40:23	1	8	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 GEN 40:23	1	9	ἐπελάθετο	ἐπιλανθάνομαι	aorist middle indicative, third singular with genitive αὐτοῦ	1	forgot
-GEN 40:23	1	10	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+GEN 40:23	1	10	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	him

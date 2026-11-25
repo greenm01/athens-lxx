@@ -9,7 +9,7 @@ EXO 17:1	1	7	ἐκ	ἐκ	preposition with the genitive	1	from
 EXO 17:1	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 17:1	1	9	ἐρήμου	ἔρημος	noun, genitive feminine singular	1	desert
 EXO 17:1	1	10	Σὶν	Σίν	place name indeclinable, genitive in context after ἐρήμου	1	Sin
-EXO 17:1	1	11	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 17:1	1	11	κατὰ	κατά	preposition with genitive Μωυσῆ	1	by
 EXO 17:1	1	12	παρεμβολὰς	παρεμβολή	noun, accusative fem. pl. after κατὰ, stages/encampments	1	by stages
 EXO 17:1	1	13	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 EXO 17:1	1	14	διὰ	διά	preposition with the accusative	1	by
@@ -34,7 +34,7 @@ EXO 17:2	1	5	πρὸς	πρός	preposition with the accusative	1	with
 EXO 17:2	1	6	Μωυσῆν	Μωυσῆς	personal name, accusative masculine singular	1	Moses
 EXO 17:2	1	7	καὶ	καί	conjunction	1	and
 EXO 17:2	1	8	ἔλεγον	λέγω	imperfect active indicative, 3rd pl.	1	said/kept saying
-EXO 17:2	1	9	δὸς	δίδωμι	aorist active imperative, 2nd sg., 'put	1	put
+EXO 17:2	1	9	δὸς	δίδωμι	aorist active imperative, second singular	1	give
 EXO 17:2	1	10	ἡμῖν	ἐγώ	personal pronoun, dative plural	1	us
 EXO 17:2	1	11	ὕδωρ	ὕδωρ	noun accusative neuter singular	1	water
 EXO 17:2	1	12	ἵνα	ἵνα	conjunction	1	so that
@@ -87,7 +87,7 @@ EXO 17:4	1	3	Μωυσῆς	Μωυσῆς	personal name, nominative masculine sin
 EXO 17:4	1	4	πρὸς	πρός	preposition with the accusative	1	to
 EXO 17:4	1	5	Κύριον	κύριος	noun, accusative masculine singular, the Lord	1	the Lord
 EXO 17:4	1	6	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
-EXO 17:4	1	7	τί	τίς	interrogative pronoun, accusative neuter singular	1	why
+EXO 17:4	1	7	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 EXO 17:4	1	8	ποιήσω	ποιέω	future active indicative / aorist subjunctive form, first singular, deliberative 'how shall I do?'	1	shall I do
 EXO 17:4	1	9	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 17:4	1	10	λαῷ	λαός	noun, dative masculine singular	1	people
@@ -112,7 +112,7 @@ EXO 17:5	1	12	σεαυτοῦ	σεαυτοῦ	reflexive pronoun, genitive mascul
 EXO 17:5	1	13	ἀπὸ	ἀπό	preposition with the genitive	1	from
 EXO 17:5	1	14	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 17:5	1	15	πρεσβυτέρων	πρεσβύτης	noun, genitive masc. pl. after ἀπὸ τῶν	1	elders
-EXO 17:5	1	16	τοῦ	ὁ	article, genitive singular	1	the
+EXO 17:5	1	16	τοῦ	ὁ	article, genitive singular	1	of the
 EXO 17:5	1	17	λαοῦ	λαός	noun, genitive masculine singular	1	people
 EXO 17:5	1	18	καὶ	καί	conjunction	1	and
 EXO 17:5	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -136,7 +136,7 @@ EXO 17:6	1	4	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 EXO 17:6	1	5	πρὸ	πρό	preposition with the genitive, 'before'	1	before
 EXO 17:6	1	6	τοῦ	ὁ	article, genitive singular	1	the
 EXO 17:6	1	7	σὲ	σύ	pronoun, accusative 2nd sg.	1	you
-EXO 17:6	1	8	ἐλθεῖν	ἔρχομαι	aorist active infinitive after τοῦ	1	came
+EXO 17:6	1	8	ἐλθεῖν	ἔρχομαι	aorist active infinitive	1	to come
 EXO 17:6	1	9	ἐπὶ	ἐπί	preposition	1	on
 EXO 17:6	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 17:6	1	11	πέτρας	πέτρα	noun, genitive fem. sg. after τῆς/ἐπὶ τῆς 'on the rock'	1	rock
@@ -182,7 +182,7 @@ EXO 17:7	1	16	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive
 EXO 17:7	1	17	καὶ	καί	conjunction	1	and
 EXO 17:7	1	18	διὰ	διά	preposition with the accusative	1	because of
 EXO 17:7	1	19	τὸ	ὁ	article, nominative neuter singular	1	the
-EXO 17:7	1	20	πειράζειν	πειράζω	present active infinitive after τὸ with accusative αὐτοὺς subject, 'that they tested'	1	they tested
+EXO 17:7	1	20	πειράζειν	πειράζω	present active infinitive	1	testing
 EXO 17:7	1	21	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	they
 EXO 17:7	1	22	Κύριον	κύριος	noun, accusative masculine singular, the Lord	1	the Lord
 EXO 17:7	1	23	λέγοντας	λέγω	present active participle, accusative masc. pl. with αὐτοὺς	1	saying
@@ -227,14 +227,14 @@ EXO 17:9	1	23	βουνοῦ	βουνός	noun, genitive masc. sg. after τοῦ	
 EXO 17:9	1	24	καὶ	καί	conjunction	1	and
 EXO 17:9	1	25	ἡ	ὁ	article, nominative feminine singular	1	the
 EXO 17:9	1	26	ῥάβδος	ῥάβδος	noun, nominative feminine singular after ἡ	1	staff
-EXO 17:9	1	27	τοῦ	ὁ	article, genitive singular	1	the
+EXO 17:9	1	27	τοῦ	ὁ	article, genitive singular	1	of
 EXO 17:9	1	28	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 EXO 17:9	1	29	ἐν	ἐν	preposition with dative	1	in
 EXO 17:9	1	30	τῇ	ὁ	article, dative feminine singular	1	the
 EXO 17:9	1	31	χειρί	χείρ	noun, dative feminine singular after τῇ	1	hand
 EXO 17:9	1	32	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 EXO 17:10	1	1	Καὶ	καί	conjunction	1	and
-EXO 17:10	1	2	ἐποίησεν	ποιέω	aorist active indicative, third singular; ἡ γῆ subject 'the land produced'	1	produced
+EXO 17:10	1	2	ἐποίησεν	ποιέω	aorist active indicative, third singular; ἡ γῆ subject 'the land produced'	1	did
 EXO 17:10	1	3	Ἰησοῦς	Ἰησοῦς	personal name, nominative masculine singular	1	Jesus (Joshua)
 EXO 17:10	1	4	καθάπερ	καθάπερ	comparative conjunction	1	just as
 EXO 17:10	1	5	εἶπεν	λέγω	aorist active indicative, third person singular	1	said
@@ -287,7 +287,7 @@ EXO 17:12	1	10	ὑπ᾽	ὑπό	preposition with accusative, elided	1	under
 EXO 17:12	1	11	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 EXO 17:12	1	12	καὶ	καί	conjunction	1	and
 EXO 17:12	1	13	ἐκάθητο	κάθημαι	imperfect middle indicative, 3rd sg.	1	sat
-EXO 17:12	1	14	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+EXO 17:12	1	14	ἐπ᾽	ἐπί	preposition with the accusative	1	on
 EXO 17:12	1	15	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	it
 EXO 17:12	1	16	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
 EXO 17:12	1	17	δὲ	δέ	conjunction	1	and
@@ -298,10 +298,10 @@ EXO 17:12	1	21	τὰς	ὁ	article, accusative feminine plural	1	the
 EXO 17:12	1	22	χεῖρας	χείρ	noun, accusative feminine plural after τὰς	1	hands
 EXO 17:12	1	23	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
 EXO 17:12	1	24	ἐντεῦθεν	ἐντεῦθεν	adverb, on this side/that side	1	on this side
-EXO 17:12	1	25	εἷς	εἷς	cardinal numeral/pronoun, nominative masculine singular after ὁ	1	the one
+EXO 17:12	1	25	εἷς	εἷς	cardinal numeral, nominative masculine singular	1	one
 EXO 17:12	1	26	καὶ	καί	conjunction	1	and
-EXO 17:12	1	27	ἐντεῦθεν	ἐντεῦθεν	adverb, on this side/that side	1	on this side
-EXO 17:12	1	28	εἷς	εἷς	cardinal numeral/pronoun, nominative masculine singular after ὁ	1	the one
+EXO 17:12	1	27	ἐντεῦθεν	ἐντεῦθεν	adverb, on this side/that side	1	on the other side
+EXO 17:12	1	28	εἷς	εἷς	cardinal numeral, nominative masculine singular	1	one
 EXO 17:12	1	29	καὶ	καί	conjunction	1	and
 EXO 17:12	1	30	ἐγένοντο	γίνομαι	aorist middle indicative, third person plural	1	became
 EXO 17:12	1	31	αἱ	ὁ	article, nominative feminine plural	1	the
@@ -351,7 +351,7 @@ EXO 17:14	1	32	ἐκ	ἐκ	preposition with the genitive	1	from
 EXO 17:14	1	33	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 17:14	1	34	ὑπὸ	ὑπό	preposition with accusative τὸν οὐρανόν	1	under
 EXO 17:14	1	35	τὸν	ὁ	article, accusative masculine singular	1	the
-EXO 17:14	1	36	οὐρανόν	οὐρανός	noun, accusative masculine singular after τὸν	1	sky
+EXO 17:14	1	36	οὐρανόν	οὐρανός	noun, accusative masculine singular after τὸν	1	heaven
 EXO 17:15	1	1	Καὶ	καί	conjunction	1	and
 EXO 17:15	1	2	ᾠκοδόμησε	οἰκοδομέω	aorist active indicative, 3rd sg.	1	built
 EXO 17:15	1	3	Μωυσῆς	Μωυσῆς	personal name, nominative masculine singular	1	Moses
@@ -374,5 +374,5 @@ EXO 17:16	1	7	ἐπὶ	ἐπί	preposition	1	against
 EXO 17:16	1	8	Ἀμαλὴκ	Ἀμαλήκ	tribal/personal name, nominative/dative in context from syntax; Amalek (people)	1	Amalek
 EXO 17:16	1	9	ἀπὸ	ἀπό	preposition with the genitive	1	from
 EXO 17:16	1	10	γενεῶν	γενεά	noun, genitive fem. pl. after ἀπὸ	1	generations
-EXO 17:16	1	11	εἰς	εἰς	preposition with the accusative	1	into
+EXO 17:16	1	11	εἰς	εἰς	preposition with the accusative	1	to
 EXO 17:16	1	12	γενεάς	γενεά	noun, accusative fem. pl. after εἰς	1	generations

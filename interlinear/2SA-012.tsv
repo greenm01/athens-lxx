@@ -150,7 +150,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 12:5	1	12	Νάθαν	Νάθαν	indeclinable name, accusative here, subject of the infinitive	1	Nathan
 2SA 12:5	1	13	ζῇ	ζάω	present active indicative, third singular; oath formula	1	lives
 2SA 12:5	1	14	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-2SA 12:5	1	15	ὅτι	ὅτι	causal conjunction	1	because
+2SA 12:5	1	15	ὅτι	ὅτι	causal conjunction	1	that
 2SA 12:5	1	16	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2SA 12:5	1	17	θανάτου	θάνατος	noun, genitive masculine singular	1	of death
 2SA 12:5	1	18	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -246,7 +246,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 12:8	1	29	εἰ	εἰ	conditional conjunction	1	if
 2SA 12:8	1	30	μικρόν	μικρός	substantival adjective, accusative neuter singular	1	a little
 2SA 12:8	1	31	ἐστι	εἰμί	present indicative, third singular	1	is
-2SA 12:8	1	32	προσθήσω	προστίθημι	future active indicative, first singular	1	I will again
+2SA 12:8	1	32	προσθήσω	προστίθημι	future active indicative, first singular	1	I will add
 2SA 12:8	1	32	προσθήσω			2	I will go on
 2SA 12:8	1	33	σοι	σύ	personal pronoun, dative second singular	1	to you
 2SA 12:8	1	34	κατὰ	κατά	preposition with the accusative	1	according to
@@ -348,7 +348,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 12:11	1	25	πλησίον	πλησίον	adverb/noun, genitive masc. sg. after τοῦ/κατὰ τοῦ, neighbour	1	neighbour
 2SA 12:11	1	26	σου	σύ	pronoun, possessive genitive second singular	1	your
 2SA 12:11	1	27	καὶ	καί	conjunction	1	and
-2SA 12:11	1	28	κοιμηθήσεται	κοιμάομαι	future passive indicative, 3rd sg.	1	shall he sleep
+2SA 12:11	1	28	κοιμηθήσεται	κοιμάομαι	future passive indicative, 3rd sg.	1	he will lie
 2SA 12:11	1	29	μετὰ	μετά	preposition with genitive	1	with
 2SA 12:11	1	30	τῶν	ὁ	article, genitive plural	1	the
 2SA 12:11	1	31	γυναικῶν	γυνή	noun, genitive feminine plural	1	wives
@@ -544,7 +544,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 12:18	1	43	εἴπωμεν			2	we say
 2SA 12:18	1	44	πρὸς	πρός	preposition with the accusative	1	to
 2SA 12:18	1	45	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-2SA 12:18	1	46	ὅτι	ὅτι	causal conjunction	1	because
+2SA 12:18	1	46	ὅτι	ὅτι	causal conjunction	1	that
 2SA 12:18	1	47	τέθνηκε	θνῄσκω	perfect active indicative, third singular	1	is dead
 2SA 12:18	1	47	τέθνηκε			2	has died
 2SA 12:18	1	48	τὸ	ὁ	article, neuter singular (case from context)	1	the
@@ -578,7 +578,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 12:19	1	20	τοὺς	ὁ	article, accusative masculine plural	1	the
 2SA 12:19	1	21	παῖδας	παῖς	noun, accusative masculine plural	1	servants
 2SA 12:19	1	22	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
-2SA 12:19	1	23	εἰ	εἰ	interrogative particle	1	is
+2SA 12:19	1	23	εἰ	εἰ	interrogative particle	1	[marks a question]
 2SA 12:19	1	24	τέθνηκε	θνῄσκω	perfect active indicative, third singular	1	is dead
 2SA 12:19	1	24	τέθνηκε			2	has died
 2SA 12:19	1	25	τὸ	ὁ	article, neuter singular (case from context)	1	the
@@ -774,8 +774,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 12:26	1	3	Ἰωὰβ	Ἰωάβ	indeclinable personal name, nominative in context	1	Joab
 2SA 12:26	1	3	Ἰωὰβ			2	Ioab
 2SA 12:26	1	4	ἐν	ἐν	preposition with the dative	1	in
-2SA 12:26	1	5	Ῥαββὰθ	Ῥαββάθ	indeclinable place name, dative in context	1	Rabbath
-2SA 12:26	1	5	Ῥαββὰθ			2	Rabbah
+2SA 12:26	1	5	Ῥαββὰθ	Ῥαββάθ	indeclinable place name, dative in context	1	Rabbah
+2SA 12:26	1	5	Ῥαββὰθ			2	Rabbath
 2SA 12:26	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 2SA 12:26	1	7	Ἀμμὼν	Ἀμμών	indeclinable national name, genitive in context	1	of Ammon
 2SA 12:26	1	8	καὶ	καί	conjunction	1	and
@@ -796,8 +796,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 12:27	1	8	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2SA 12:27	1	9	ἐπολέμησα	πολεμέω	aorist active indicative, first singular	1	I fought against
 2SA 12:27	1	10	πρὸς	πρός	preposition with the accusative	1	to
-2SA 12:27	1	11	Ῥαββὰθ	Ῥαββάθ	indeclinable place name, accusative in context	1	Rabbath
-2SA 12:27	1	11	Ῥαββὰθ			2	Rabbah
+2SA 12:27	1	11	Ῥαββὰθ	Ῥαββάθ	indeclinable place name, accusative in context	1	Rabbah
+2SA 12:27	1	11	Ῥαββὰθ			2	Rabbath
 2SA 12:27	1	12	καὶ	καί	conjunction	1	and
 2SA 12:27	1	13	κατελαβόμην	καταλαμβάνω	aorist middle indicative, first singular	1	I captured
 2SA 12:27	1	14	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -842,8 +842,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 12:29	1	8	ἐπορεύθη	πορεύομαι	aorist passive indicative, third singular; middle sense	1	went
 2SA 12:29	1	8	ἐπορεύθη			2	journeyed
 2SA 12:29	1	9	πρὸς	πρός	preposition with the accusative	1	to
-2SA 12:29	1	10	Ῥαββὰθ	Ῥαββάθ	indeclinable place name, accusative in context	1	Rabbath
-2SA 12:29	1	10	Ῥαββὰθ			2	Rabbah
+2SA 12:29	1	10	Ῥαββὰθ	Ῥαββάθ	indeclinable place name, accusative in context	1	Rabbah
+2SA 12:29	1	10	Ῥαββὰθ			2	Rabbath
 2SA 12:29	1	11	καὶ	καί	conjunction	1	and
 2SA 12:29	1	12	ἐπολέμησεν	πολεμέω	aorist active indicative, third singular	1	fought
 2SA 12:29	1	13	ἐν	ἐν	preposition with the dative	1	in
@@ -927,7 +927,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 12:31	1	34	ἐπέστρεψε	ἐπιστρέφω	aorist active indicative, third person singular	1	returned
 2SA 12:31	1	35	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 2SA 12:31	1	36	καὶ	καί	conjunction	1	and
-2SA 12:31	1	37	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+2SA 12:31	1	37	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 2SA 12:31	1	38	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 12:31	1	39	λαὸς	λαός	noun, nominative masculine singular	1	people
 2SA 12:31	1	40	εἰς	εἰς	preposition with the accusative	1	into

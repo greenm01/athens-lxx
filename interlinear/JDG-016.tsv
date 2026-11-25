@@ -44,7 +44,7 @@ JDG 16:2	1	24	ὅλην	ὅλος	adjective, accusative feminine singular with �
 JDG 16:2	1	25	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 16:2	1	26	νύκτα	νύξ	noun, accusative feminine singular	1	night
 JDG 16:2	1	27	λέγοντες	λέγω	present active participle, nominative masculine plural, with impersonal passive in sense 'saying'	1	saying
-JDG 16:2	1	28	ἕως	ἕως	preposition with the genitive	1	as far as
+JDG 16:2	1	28	ἕως	ἕως	marker of temporal limit	1	until
 JDG 16:2	1	28	ἕως			2	up to
 JDG 16:2	1	29	φωτὸς	φῶς	noun, genitive neuter singular	1	light
 JDG 16:2	1	30	πρωὶ	πρωΐ	adverb	1	in the morning
@@ -55,7 +55,7 @@ JDG 16:2	1	34	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	h
 JDG 16:3	1	1	Καὶ	καί	conjunction	1	and
 JDG 16:3	1	2	ἐκοιμήθη	κοιμάομαι	aorist passive indicative, third singular	1	slept
 JDG 16:3	1	3	Σαμψὼν	Σαμψών	indeclinable personal name	1	Samson
-JDG 16:3	1	4	ἕως	ἕως	preposition with the genitive	1	as far as
+JDG 16:3	1	4	ἕως	ἕως	marker of temporal limit	1	until
 JDG 16:3	1	4	ἕως			2	up to
 JDG 16:3	1	5	μεσονυκτίου	μεσονύκτιον	noun, genitive neuter singular	1	midnight
 JDG 16:3	1	6	καὶ	καί	conjunction	1	and
@@ -98,7 +98,7 @@ JDG 16:3	1	41	τοῦ	ὁ	article, genitive neuter singular	1	of the
 JDG 16:3	1	42	ὄρους	ὄρος	noun, genitive neuter singular	1	mountain
 JDG 16:3	1	43	ὅ	ὅς	relative pronoun, nominative neuter singular	1	which
 JDG 16:3	1	44	ἐστιν	εἰμί	present indicative, third singular	1	is
-JDG 16:3	1	45	ἐπὶ	ἐπί	preposition governing the genitive	1	in
+JDG 16:3	1	45	ἐπὶ	ἐπί	preposition governing the genitive	1	before
 JDG 16:3	1	46	πρόσωπον	πρόσωπον	noun, genitive neuter singular	1	front of
 JDG 16:3	1	47	Χεβρὼν	Χεβρών	indeclinable place name, genitive in context	1	Hebron
 JDG 16:3	1	48	καὶ	καί	conjunction	1	and
@@ -112,7 +112,7 @@ JDG 16:4	1	4	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusativ
 JDG 16:4	1	5	καὶ	καί	conjunction	1	and
 JDG 16:4	1	6	ἠγάπησε	ἀγαπάω	aorist active indicative, third singular	1	loved
 JDG 16:4	1	7	γυναῖκα	γυνή	noun, accusative feminine singular	1	a woman
-JDG 16:4	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	on
+JDG 16:4	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	by
 JDG 16:4	1	9	τοῦ	ὁ	article, genitive singular	1	the
 JDG 16:4	1	10	χειμάῤῥου	χείμαρρος	noun, genitive masculine singular	1	ravine
 JDG 16:4	1	10	χειμάῤῥου			2	stream
@@ -150,7 +150,7 @@ JDG 16:5	1	23	ἡ	ὁ	article, nominative feminine singular	1	the
 JDG 16:5	1	24	μεγάλη	μέγας	adjective, nominative feminine singular	1	great
 JDG 16:5	1	24	μεγάλη			2	large
 JDG 16:5	1	25	καὶ	καί	conjunction	1	and
-JDG 16:5	1	26	ἐν	ἐν	preposition with the dative	1	in
+JDG 16:5	1	26	ἐν	ἐν	preposition with the dative	1	by
 JDG 16:5	1	27	τίνι	τίς	interrogative pronoun, dative neuter singular	1	what
 JDG 16:5	1	28	δυνησόμεθα	δύναμαι	future middle indicative, first plural	1	we will be able
 JDG 16:5	1	29	πρὸς	πρός	preposition governing the accusative	1	against
@@ -190,7 +190,7 @@ JDG 16:6	1	14	ἡ	ὁ	article, nominative feminine singular	1	the
 JDG 16:6	1	15	μεγάλη	μέγας	adjective, nominative feminine singular	1	great
 JDG 16:6	1	15	μεγάλη			2	large
 JDG 16:6	1	16	καὶ	καί	conjunction	1	and
-JDG 16:6	1	17	ἐν	ἐν	preposition with the dative	1	in
+JDG 16:6	1	17	ἐν	ἐν	preposition with the dative	1	by
 JDG 16:6	1	18	τίνι	τίς	interrogative pronoun, dative neuter singular	1	what
 JDG 16:6	1	19	δεθήσῃ	δέω	future passive indicative, second singular	1	you can be bound
 JDG 16:6	1	19	δεθήσῃ			2	you will be bound
@@ -213,7 +213,7 @@ JDG 16:7	1	12	ὑγραῖς	ὑγρός	adjective, dative feminine plural	1	fre
 JDG 16:7	1	12	ὑγραῖς			2	moist
 JDG 16:7	1	13	μὴ	μή	negative particle	1	not
 JDG 16:7	1	14	ἠρημωμέναις	ἐρημόω	perfect passive participle, dative feminine plural; contextual sense with fresh sinews or bowstrings	1	dried out
-JDG 16:7	1	15	καὶ	καί	conjunction	1	and
+JDG 16:7	1	15	καὶ	καί	conjunction	1	then
 JDG 16:7	1	16	ἀσθενήσω	ἀσθενέω	future active indicative, first singular	1	I will grow weak
 JDG 16:7	1	17	καὶ	καί	conjunction	1	and
 JDG 16:7	1	18	ἔσομαι	εἰμί	future middle indicative, first singular	1	I will be
@@ -328,7 +328,7 @@ JDG 16:11	1	14	οἷς	ὅς	relative pronoun, dative neuter plural	1	which
 JDG 16:11	1	15	οὐκ	οὐ	negative adverb with future indicative	1	not
 JDG 16:11	1	16	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	became
 JDG 16:11	1	17	ἔργον	ἔργον	noun, nominative neuter singular	1	work
-JDG 16:11	1	18	καὶ	καί	conjunction	1	and
+JDG 16:11	1	18	καὶ	καί	conjunction	1	then
 JDG 16:11	1	19	ἀσθενήσω	ἀσθενέω	future active indicative, first singular	1	I will grow weak
 JDG 16:11	1	20	καὶ	καί	conjunction	1	and
 JDG 16:11	1	21	ἔσομαι	εἰμί	future middle indicative, first singular	1	I will be
@@ -354,7 +354,7 @@ JDG 16:12	1	12	καὶ	καί	conjunction	1	and
 JDG 16:12	1	13	εἶπε	λέγω	aorist active indicative, third singular	1	said
 JDG 16:12	1	14	πρὸς	πρός	preposition with the accusative	1	to
 JDG 16:12	1	15	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
-JDG 16:12	1	16	οἱ	ὁ	article nominative masculine plural	1	those
+JDG 16:12	1	16	οἱ	ὁ	article nominative masculine plural	1	the
 JDG 16:12	1	17	ἀλλόφυλοι	ἀλλόφυλος	noun, nominative masculine plural	1	Philistines
 JDG 16:12	1	18	ἐπί	ἐπί	preposition governing the accusative	1	upon
 JDG 16:12	1	19	σε	σύ	pronoun, accusative second singular	1	you
@@ -397,7 +397,7 @@ JDG 16:13	1	14	ψεύδη			2	falsehoods
 JDG 16:13	1	15	ἀνάγγειλον	ἀναγγέλλω	aorist active imperative, second singular	1	tell
 JDG 16:13	1	16	δή	δή	emphatic particle	1	indeed
 JDG 16:13	1	17	μοι	ἐγώ	pronoun, dative first singular	1	to me
-JDG 16:13	1	18	ἐν	ἐν	preposition with the dative	1	in
+JDG 16:13	1	18	ἐν	ἐν	preposition with the dative	1	by
 JDG 16:13	1	19	τίνι	τίς	interrogative pronoun, dative neuter singular	1	what
 JDG 16:13	1	20	δεθήσῃ	δέω	future passive indicative, second singular	1	you can be bound
 JDG 16:13	1	20	δεθήσῃ			2	you will be bound
@@ -419,13 +419,13 @@ JDG 16:13	1	34	τοῦ	ὁ	article, genitive neuter singular	1	the
 JDG 16:13	1	35	διάσματος	δίασμα	noun, genitive neuter singular	1	warp
 JDG 16:13	1	36	καὶ	καί	conjunction	1	and
 JDG 16:13	1	37	ἐγκρούσῃς	ἐγκρούω	aorist active subjunctive, second singular	1	you drive in
-JDG 16:13	1	38	ἐν	ἐν	preposition with the dative	1	in
+JDG 16:13	1	38	ἐν	ἐν	preposition with the dative	1	with
 JDG 16:13	1	39	τῷ	ὁ	article, dative masculine singular	1	the
 JDG 16:13	1	40	πασσάλῳ	πάσσαλος	noun, dative masculine singular	1	peg
 JDG 16:13	1	41	εἰς	εἰς	preposition with the accusative	1	into
 JDG 16:13	1	42	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 16:13	1	43	τοῖχον	τοῖχος	noun, accusative masculine singular	1	wall
-JDG 16:13	1	44	καὶ	καί	conjunction	1	and
+JDG 16:13	1	44	καὶ	καί	conjunction	1	then
 JDG 16:13	1	45	ἔσομαι	εἰμί	future middle indicative, first singular	1	I will be
 JDG 16:13	1	46	ἀσθενὴς	ἀσθενής	adjective nominative masculine singular	1	weak
 JDG 16:13	1	47	ὡς	ὡς	comparative particle	1	as
@@ -515,7 +515,7 @@ JDG 16:15	1	16	μετ᾽	μετά	elided preposition with genitive	1	with
 JDG 16:15	1	17	ἐμοῦ	ἐγώ	personal pronoun, genitive singular after μετά	1	me
 JDG 16:15	1	18	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 JDG 16:15	1	19	τὸ	ὁ	article, accusative neuter singular	1	the
-JDG 16:15	1	20	τρίτον	τρίτος	ordinal adjective, accusative neuter singular	1	third
+JDG 16:15	1	20	τρίτον	τρίτος	ordinal adjective, accusative neuter singular	1	a third time
 JDG 16:15	1	21	παρελογίσω	παραλογίζομαι	aorist middle indicative, second singular	1	you deceived
 JDG 16:15	1	21	παρελογίσω			2	you cheated
 JDG 16:15	1	22	με	ἐγώ	personal pronoun, accusative singular	1	me
@@ -551,7 +551,7 @@ JDG 16:16	1	14	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1
 JDG 16:16	1	15	καὶ	καί	conjunction	1	and
 JDG 16:16	1	16	ὠλιγοψύχησεν	ὀλιγοψυχέω	aorist active indicative, third singular	1	lost heart
 JDG 16:16	1	16	ὠλιγοψύχησεν			2	grew impatient
-JDG 16:16	1	17	ἕως	ἕως	temporal conjunction/preposition (from context)	1	until
+JDG 16:16	1	17	ἕως	ἕως	temporal conjunction/preposition (from context)	1	to the point of
 JDG 16:16	1	18	εἰς	εἰς	preposition with the accusative	1	into
 JDG 16:16	1	19	θάνατον	θάνατος	noun, accusative masculine singular	1	death
 JDG 16:17	1	1	καὶ	καί	conjunction	1	and
@@ -588,7 +588,7 @@ JDG 16:17	1	28	καὶ	καί	conjunction	1	and
 JDG 16:17	1	29	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 JDG 16:17	1	30	ξυρήσωμαι	ξυράω	aorist middle subjunctive, first singular	1	I am shaved
 JDG 16:17	1	30	ξυρήσωμαι			2	I get shaved
-JDG 16:17	1	31	ἀποστήσεται	ἀφίστημι	future middle indicative, third singular	1	departs
+JDG 16:17	1	31	ἀποστήσεται	ἀφίστημι	future middle indicative, third singular	1	will depart
 JDG 16:17	1	31	ἀποστήσεται			2	disappears
 JDG 16:17	1	32	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
 JDG 16:17	1	33	ἐμοῦ	ἐγώ	pronoun, genitive first singular (after μετ᾽/comparative ἐμοῦ from context)	1	me
@@ -600,7 +600,7 @@ JDG 16:17	1	37	καὶ	καί	conjunction	1	and
 JDG 16:17	1	38	ἀσθενήσω	ἀσθενέω	future active indicative, first singular	1	I will grow weak
 JDG 16:17	1	39	καὶ	καί	conjunction	1	and
 JDG 16:17	1	40	ἔσομαι	εἰμί	future middle indicative, first singular	1	I will be
-JDG 16:17	1	41	κατὰ	κατά	preposition with the accusative	1	according to
+JDG 16:17	1	41	κατὰ	κατά	preposition with the accusative	1	like
 JDG 16:17	1	42	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 JDG 16:17	1	43	τοὺς	ὁ	article, accusative masculine plural	1	the
 JDG 16:17	1	44	ἀνθρώπους	ἄνθρωπος	noun, accusative masculine plural after τοὺς	1	men
@@ -608,7 +608,7 @@ JDG 16:18	1	1	Καὶ	καί	conjunction	1	and
 JDG 16:18	1	2	ἴδε	ὁράω	aorist active indicative, third singular	1	saw
 JDG 16:18	1	3	Δαλιδὰ	Δαλιδά	indeclinable personal name	1	Dalida
 JDG 16:18	1	3	Δαλιδὰ			2	Delilah
-JDG 16:18	1	4	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+JDG 16:18	1	4	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 JDG 16:18	1	5	ἀνήγγειλε	ἀναγγέλλω	aorist active indicative, third person singular	1	reported
 JDG 16:18	1	6	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 JDG 16:18	1	7	τὰ	ὁ	article, accusative neuter plural	1	the things
@@ -717,8 +717,8 @@ JDG 16:20	1	24	ἀποτινάξομαι	ἀποτινάσσω	future middle ind
 JDG 16:20	1	25	καὶ	καί	conjunction	1	and
 JDG 16:20	1	26	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 JDG 16:20	1	27	οὐκ	οὐ	negative particle	1	not
-JDG 16:20	1	28	ἔγνω	γινώσκω	aorist active indicative, third singular; sexual sense in context	1	had known
-JDG 16:20	1	29	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+JDG 16:20	1	28	ἔγνω	γινώσκω	aorist active indicative, third singular; sexual sense in context	1	knew
+JDG 16:20	1	29	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 JDG 16:20	1	30	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JDG 16:20	1	31	ἀπέστη	ἀφίστημι	aorist active indicative, third singular	1	departed
 JDG 16:20	1	31	ἀπέστη			2	moved away
@@ -737,7 +737,7 @@ JDG 16:21	1	10	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	h
 JDG 16:21	1	11	καὶ	καί	conjunction	1	and
 JDG 16:21	1	12	κατήγαγον	κατάγω	aorist active indicative, third plural	1	carried down
 JDG 16:21	1	13	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-JDG 16:21	1	14	εἰς	εἰς	preposition with the accusative	1	into
+JDG 16:21	1	14	εἰς	εἰς	preposition with the accusative	1	to
 JDG 16:21	1	15	Γάζαν	Γάζα	noun, accusative feminine singular	1	Gaza
 JDG 16:21	1	16	καὶ	καί	conjunction	1	and
 JDG 16:21	1	17	ἔδησαν	δέω	aorist active indicative, third plural	1	they bound
@@ -751,7 +751,7 @@ JDG 16:21	1	24	ἀλήθων	ἀλήθω	present active participle, nominative m
 JDG 16:21	1	25	ἐν	ἐν	preposition with the dative	1	in
 JDG 16:21	1	26	οἴκῳ	οἶκος	noun, dative masculine singular	1	the house
 JDG 16:21	1	27	τῆς	ὁ	article, genitive feminine singular	1	of
-JDG 16:21	1	28	φυλακῆς	φυλακή	noun, genitive feminine singular	1	custody
+JDG 16:21	1	28	φυλακῆς	φυλακή	noun, genitive feminine singular	1	prison
 JDG 16:21	1	28	φυλακῆς			2	confinement
 JDG 16:22	1	1	Καὶ	καί	conjunction	1	and
 JDG 16:22	1	2	ἤρξατο	ἄρχω	aorist middle indicative, third singular	1	began
@@ -777,7 +777,7 @@ JDG 16:23	1	9	θυσίαν	θυσία	noun, accusative feminine singular	1	a sac
 JDG 16:23	1	10	μεγάλην	μέγας	adjective, accusative feminine singular	1	great
 JDG 16:23	1	11	Δαγὼν	Δαγών	indeclinable divine name, dative in context	1	to Dagon
 JDG 16:23	1	12	τῷ	ὁ	article, dative masculine singular	1	the
-JDG 16:23	1	13	θεῷ	θεός	noun, dative masculine singular, in apposition	1	God
+JDG 16:23	1	13	θεῷ	θεός	noun, dative masculine singular	1	god
 JDG 16:23	1	14	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JDG 16:23	1	15	καὶ	καί	conjunction	1	and
 JDG 16:23	1	16	τοῦ	ὁ	article, genitive neuter singular, introduces the infinitive	1	—
@@ -788,7 +788,7 @@ JDG 16:23	1	20	παρέδωκεν	παραδίδωμι	aorist active indicative,
 JDG 16:23	1	21	ὁ	ὁ	article, nominative masculine singular	1	the
 JDG 16:23	1	22	θεὸς	θεός	noun, nominative masculine singular	1	God
 JDG 16:23	1	23	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
-JDG 16:23	1	24	ἐν	ἐν	preposition with the dative	1	in
+JDG 16:23	1	24	ἐν	ἐν	preposition with the dative	1	into
 JDG 16:23	1	25	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 JDG 16:23	1	26	ἡμῶν	ἐγώ	personal pronoun, genitive first plural	1	our
 JDG 16:23	1	27	Σαμψὼν	Σαμψών	indeclinable personal name	1	Samson
@@ -814,7 +814,7 @@ JDG 16:24	1	16	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	ou
 JDG 16:24	1	17	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 16:24	1	18	ἐχθρὸν	ἐχθρός	substantival adjective, accusative masculine singular	1	enemy
 JDG 16:24	1	19	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
-JDG 16:24	1	20	ἐν	ἐν	preposition with the dative	1	in
+JDG 16:24	1	20	ἐν	ἐν	preposition with the dative	1	into
 JDG 16:24	1	21	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 JDG 16:24	1	22	ἡμῶν	ἐγώ	personal pronoun, genitive first plural	1	our
 JDG 16:24	1	23	καὶ	καί	conjunction	1	and
@@ -844,7 +844,7 @@ JDG 16:25	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
 JDG 16:25	1	12	Σαμψὼν	Σαμψών	indeclinable personal name, accusative in context	1	Samson
 JDG 16:25	1	13	ἐξ	ἐκ	preposition with the genitive	1	from
 JDG 16:25	1	14	οἴκου	οἶκος	noun, genitive masculine singular	1	the house
-JDG 16:25	1	15	φυλακῆς	φυλακή	noun, genitive feminine singular	1	of custody
+JDG 16:25	1	15	φυλακῆς	φυλακή	noun, genitive feminine singular	1	of the prison
 JDG 16:25	1	15	φυλακῆς			2	of confinement
 JDG 16:25	1	16	καὶ	καί	conjunction	1	and
 JDG 16:25	1	17	παιξάτω	παίζω	aorist active imperative, third singular	1	let him entertain
@@ -930,7 +930,7 @@ JDG 16:27	1	16	καὶ	καί	conjunction	1	and
 JDG 16:27	1	17	ἐπὶ	ἐπί	preposition (case from context)	1	on
 JDG 16:27	1	18	τοῦ	ὁ	article, genitive singular	1	the
 JDG 16:27	1	19	δώματος	δῶμα	noun, genitive neuter singular	1	roof
-JDG 16:27	1	20	ὡσεὶ	ὡσεί	comparative conjunction	1	like
+JDG 16:27	1	20	ὡσεὶ	ὡσεί	comparative conjunction	1	about
 JDG 16:27	1	21	τρισχίλιοι	τρισχίλιοι	cardinal numeral, nominative masculine plural	1	three thousand
 JDG 16:27	1	22	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
 JDG 16:27	1	23	καὶ	καί	conjunction	1	and
@@ -990,7 +990,7 @@ JDG 16:29	1	9	ἐφ᾽	ἐπί	preposition governing the genitive	1	on
 JDG 16:29	1	10	ὧν	ὅς	relative pronoun, genitive masculine plural	1	which
 JDG 16:29	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 JDG 16:29	1	12	οἶκος	οἶκος	noun, nominative masculine singular	1	house
-JDG 16:29	1	13	ἐπεστήρικτο	ἐπιστηρίζω	pluperfect passive indicative, third singular	1	stood firmly
+JDG 16:29	1	13	ἐπεστήρικτο	ἐπιστηρίζω	pluperfect passive indicative, third singular	1	rested
 JDG 16:29	1	13	ἐπεστήρικτο			2	was stationed
 JDG 16:29	1	14	ἐπ᾽	ἐπί	preposition governing the genitive	1	on
 JDG 16:29	1	15	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
@@ -999,13 +999,13 @@ JDG 16:29	1	17	ἐπεστηρίσατο	ἐπιστηρίζω	aorist middle ind
 JDG 16:29	1	18	ἐπ᾽	ἐπί	preposition governing the dative	1	against
 JDG 16:29	1	19	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 JDG 16:29	1	20	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
-JDG 16:29	1	21	ἐν	ἐν	preposition with the dative	1	in
+JDG 16:29	1	21	ἐν	ἐν	preposition with the dative	1	with
 JDG 16:29	1	22	τῇ	ὁ	article, dative feminine singular	1	the
 JDG 16:29	1	23	δεξιᾷ	δεξιός	adjective/noun, dative feminine singular after ἐν τῇ, substantival 'right hand/side'	1	right hand
 JDG 16:29	1	24	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 JDG 16:29	1	25	καὶ	καί	conjunction	1	and
 JDG 16:29	1	26	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
-JDG 16:29	1	27	ἐν	ἐν	preposition with the dative	1	in
+JDG 16:29	1	27	ἐν	ἐν	preposition with the dative	1	with
 JDG 16:29	1	28	τῇ	ὁ	article, dative feminine singular	1	the
 JDG 16:29	1	29	ἀριστερᾷ	ἀριστερός	adjective/noun, dative feminine singular after ἐν τῇ, 'left (hand)'	1	left hand
 JDG 16:29	1	30	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -1067,7 +1067,7 @@ JDG 16:31	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 JDG 16:31	1	4	ἀδελφοὶ	ἀδελφός	noun, nominative masculine plural	1	brothers
 JDG 16:31	1	5	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; possessive	1	his
 JDG 16:31	1	6	καὶ	καί	conjunction	1	and
-JDG 16:31	1	7	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+JDG 16:31	1	7	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 JDG 16:31	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
 JDG 16:31	1	9	οἶκος	οἶκος	noun, nominative masculine singular	1	house
 JDG 16:31	1	10	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -1089,8 +1089,8 @@ JDG 16:31	1	25	Ἐσθαὸλ	Ἐσθαόλ	indeclinable place name, nominative 
 JDG 16:31	1	26	ἐν	ἐν	preposition with the dative	1	in
 JDG 16:31	1	27	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 JDG 16:31	1	28	τάφῳ	τάφος	noun, dative masculine singular after ἐν τῷ	1	tomb
-JDG 16:31	1	29	Μανωὲ	Μανωέ	indeclinable personal name, genitive in context	1	of Manoe
-JDG 16:31	1	29	Μανωὲ			2	of Manoah
+JDG 16:31	1	29	Μανωὲ	Μανωέ	indeclinable personal name, genitive in context	1	of Manoah
+JDG 16:31	1	29	Μανωὲ			2	of Manoe
 JDG 16:31	1	30	τοῦ	ὁ	article, genitive masculine singular	1	of the
 JDG 16:31	1	31	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 JDG 16:31	1	32	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his

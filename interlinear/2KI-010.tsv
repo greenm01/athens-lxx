@@ -121,8 +121,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 10:5	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 2KI 10:5	1	4	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2KI 10:5	1	5	τοῦ	ὁ	article, genitive masculine singular	1	the
-2KI 10:5	1	6	οἴκου	οἶκος	noun, genitive masculine singular	1	house
-2KI 10:5	1	6	οἴκου			2	household
+2KI 10:5	1	6	οἴκου	οἶκος	noun, genitive masculine singular	1	household
+2KI 10:5	1	6	οἴκου			2	house
 2KI 10:5	1	7	καὶ	καί	conjunction	1	and
 2KI 10:5	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
 2KI 10:5	1	9	ἐπὶ	ἐπί	preposition expressing oversight	1	over
@@ -202,7 +202,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 10:6	1	36	Καὶ	καί	conjunction	1	and
 2KI 10:6	1	37	οἱ	ὁ	article, nominative masculine plural	1	the
 2KI 10:6	1	38	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-2KI 10:6	1	39	τοῦ	ὁ	article, genitive singular	1	the
+2KI 10:6	1	39	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 10:6	1	40	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2KI 10:6	1	41	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 2KI 10:6	1	42	ἑβδομήκοντα	ἑβδομήκοντα	indeclinable cardinal numeral	1	seventy
@@ -314,7 +314,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 10:10	1	1	Ἴδετε	ὁράω	aorist active imperative, second plural	1	see
 2KI 10:10	1	2	ἀφφὼ	ἀφφώ	indeclinable expression of uncertain meaning in the printed text	1	appho
 2KI 10:10	1	2	ἀφφὼ			2	then
-2KI 10:10	1	3	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+2KI 10:10	1	3	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 2KI 10:10	1	4	οὐ	οὐ	negative adverb with future indicative	1	not
 2KI 10:10	1	5	πεσεῖται	πίπτω	future middle indicative, third singular	1	will fall
 2KI 10:10	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from

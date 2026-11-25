@@ -16,7 +16,7 @@ NUM 1:1	1	13	σκηνῇ	σκηνή	noun, dative feminine singular	1	tent
 NUM 1:1	1	14	τοῦ	ὁ	article, genitive neuter singular	1	of the
 NUM 1:1	1	15	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	1	testimony
 NUM 1:1	1	15	μαρτυρίου			2	witness
-NUM 1:1	1	16	ἐν	ἐν	preposition with the dative	1	in
+NUM 1:1	1	16	ἐν	ἐν	preposition with the dative	1	on
 NUM 1:1	1	17	μιᾷ	εἷς	cardinal numeral, dative feminine singular; day of month	1	the first day
 NUM 1:1	1	18	τοῦ	ὁ	article, genitive masculine singular	1	of the
 NUM 1:1	1	19	μηνὸς	μήν	noun, genitive masculine singular	1	month
@@ -56,7 +56,7 @@ NUM 1:3	1	2	ἄρσην	ἄρσην	adjective, nominative neuter singular; subst
 NUM 1:3	1	3	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:3	1	4	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:3	1	5	καὶ	καί	conjunction	1	and
-NUM 1:3	1	6	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:3	1	6	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:3	1	6	ἐπάνω			2	above
 NUM 1:3	1	7	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 1:3	1	8	ὁ	ὁ	article, nominative masculine singular; introduces substantival participle	1	one who
@@ -83,8 +83,8 @@ NUM 1:4	1	4	ἔσονται	εἰμί	future middle indicative, third plural	1	t
 NUM 1:4	1	5	ἕκαστος	ἕκαστος	adjective, nominative masculine singular	1	each
 NUM 1:4	1	6	ἕκαστος	ἕκαστος	pronoun/adjective, nominative masculine singular, distributive	1	each
 NUM 1:4	1	7	κατὰ	κατά	preposition with the accusative	1	according to
-NUM 1:4	1	8	φυλὴν	φυλή	noun, accusative feminine singular	1	clan
-NUM 1:4	1	8	φυλὴν			2	tribe
+NUM 1:4	1	8	φυλὴν	φυλή	noun, accusative feminine singular	1	tribe
+NUM 1:4	1	8	φυλὴν			2	clan
 NUM 1:4	1	9	ἕκαστος	ἕκαστος	adjective, nominative masculine singular	1	each
 NUM 1:4	1	10	ἀρχόντων	ἄρχων	noun, genitive masculine plural	1	leaders
 NUM 1:4	1	11	κατ᾽	κατά	preposition with the genitive, elided, against	1	by
@@ -95,7 +95,7 @@ NUM 1:5	1	1	Καὶ	καί	conjunction	1	and
 NUM 1:5	1	2	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 NUM 1:5	1	3	τὰ	ὁ	article, nominative neuter plural	1	the
 NUM 1:5	1	4	ὀνόματα	ὄνομα	noun, nominative neuter plural	1	names
-NUM 1:5	1	5	τῶν	ὁ	article, genitive plural	1	the
+NUM 1:5	1	5	τῶν	ὁ	article, genitive plural	1	of the
 NUM 1:5	1	6	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	1	men
 NUM 1:5	1	7	οἵτινες	ὅστις	relative pronoun, nominative masculine plural; qualitative relative pronoun	1	who
 NUM 1:5	1	8	παραστήσονται	παρίστημι	future middle indicative, third plural	1	shall stand
@@ -184,13 +184,13 @@ NUM 1:15	1	4	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 NUM 1:15	1	5	Αἰνάν	Αἰνάν	indeclinable place name, nominative in context	1	Ainan
 NUM 1:16	1	1	Οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 NUM 1:16	1	2	ἐπίκλητοι	ἐπίκλητος	adjective, nominative masculine plural; used substantivally	1	those summoned
-NUM 1:16	1	3	τῆς	ὁ	article, genitive feminine singular	1	the
+NUM 1:16	1	3	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 1:16	1	4	συναγωγῆς	συναγωγή	noun, genitive feminine singular	1	congregation
 NUM 1:16	1	5	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
 NUM 1:16	1	5	ἄρχοντες			2	officials
-NUM 1:16	1	6	τῶν	ὁ	article, genitive plural	1	the
-NUM 1:16	1	7	φυλῶν	φυλή	noun, genitive feminine plural	1	clans
-NUM 1:16	1	7	φυλῶν			2	tribes
+NUM 1:16	1	6	τῶν	ὁ	article, genitive plural	1	of the
+NUM 1:16	1	7	φυλῶν	φυλή	noun, genitive feminine plural	1	tribes
+NUM 1:16	1	7	φυλῶν			2	clans
 NUM 1:16	1	8	κατὰ	κατά	preposition with the accusative	1	according to
 NUM 1:16	1	9	πατριὰς	πατριά	noun, genitive feminine singular	1	ancestral house
 NUM 1:16	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -213,7 +213,7 @@ NUM 1:18	1	1	καὶ	καί	conjunction	1	and
 NUM 1:18	1	2	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 NUM 1:18	1	3	συναγωγὴν	συναγωγή	noun, accusative fem. sg. after πᾶσαν, congregation	1	congregation
 NUM 1:18	1	4	ἐξεκκλησίασαν	ἐκκλησιάζω	aorist active indicative, third plural	1	assembled
-NUM 1:18	1	5	ἐν	ἐν	preposition with the dative	1	in
+NUM 1:18	1	5	ἐν	ἐν	preposition with the dative	1	on
 NUM 1:18	1	6	μιᾷ	εἷς	cardinal numeral, dative feminine singular; day of month	1	the first day
 NUM 1:18	1	7	τοῦ	ὁ	article, genitive masculine singular	1	of the
 NUM 1:18	1	8	μηνὸς	μήν	noun, genitive masculine singular	1	month
@@ -236,7 +236,7 @@ NUM 1:18	1	23	αὐτῶν	αὐτός	pronoun, possessive genitive masculine pl
 NUM 1:18	1	24	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:18	1	25	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:18	1	26	καὶ	καί	conjunction	1	and
-NUM 1:18	1	27	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:18	1	27	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:18	1	27	ἐπάνω			2	above
 NUM 1:18	1	28	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 NUM 1:18	1	29	ἀρσενικὸν	ἀρσενικός	adjective, nominative neuter singular; substantival	1	male
@@ -287,7 +287,7 @@ NUM 1:20	1	26	ἀρσενικὰ	ἀρσενικός	adjective, nominative/accus
 NUM 1:20	1	27	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:20	1	28	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:20	1	29	καὶ	καί	conjunction	1	and
-NUM 1:20	1	30	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:20	1	30	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:20	1	30	ἐπάνω			2	above
 NUM 1:20	1	31	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 1:20	1	32	ὁ	ὁ	article, nominative masculine singular; introduces substantival participle	1	one who
@@ -302,8 +302,8 @@ NUM 1:21	1	2	ἐπίσκεψις			2	count
 NUM 1:21	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:21	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 1:21	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 1:21	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 1:21	1	6	φυλῆς			2	tribe
+NUM 1:21	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 1:21	1	6	φυλῆς			2	clan
 NUM 1:21	1	7	Ῥουβὴν	Ῥουβήν	indeclinable personal name, genitive in context	1	of Reuben
 NUM 1:21	1	8	ἓξ	ἕξ	indeclinable cardinal numeral	1	six
 NUM 1:21	1	9	καὶ	καί	conjunction	1	and
@@ -340,7 +340,7 @@ NUM 1:22	1	25	ἀρσενικὰ	ἀρσενικός	adjective, nominative/accus
 NUM 1:22	1	26	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:22	1	27	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:22	1	28	καὶ	καί	conjunction	1	and
-NUM 1:22	1	29	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:22	1	29	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:22	1	29	ἐπάνω			2	above
 NUM 1:22	1	30	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 1:22	1	31	ὁ	ὁ	article before a substantival participle, nominative masculine singular	1	one who
@@ -355,8 +355,8 @@ NUM 1:23	1	2	ἐπίσκεψις			2	count
 NUM 1:23	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:23	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 1:23	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 1:23	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 1:23	1	6	φυλῆς			2	tribe
+NUM 1:23	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 1:23	1	6	φυλῆς			2	clan
 NUM 1:23	1	7	Συμεὼν	Συμεών	indeclinable personal name, nominative in context	1	Simeon
 NUM 1:23	1	8	ἐννέα	ἐννέα	indeclinable cardinal numeral	1	nine
 NUM 1:23	1	9	καὶ	καί	conjunction	1	and
@@ -389,7 +389,7 @@ NUM 1:26	1	22	ἀρσενικὰ	ἀρσενικός	adjective, nominative/accus
 NUM 1:26	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:26	1	24	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:26	1	25	καὶ	καί	conjunction	1	and
-NUM 1:26	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:26	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:26	1	26	ἐπάνω			2	above
 NUM 1:26	1	27	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 1:26	1	28	ὁ	ὁ	article before a substantival participle, nominative masculine singular	1	one who
@@ -404,8 +404,8 @@ NUM 1:27	1	2	ἐπίσκεψις			2	count
 NUM 1:27	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:27	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 1:27	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 1:27	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 1:27	1	6	φυλῆς			2	tribe
+NUM 1:27	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 1:27	1	6	φυλῆς			2	clan
 NUM 1:27	1	7	Ἰούδα	Ἰούδας	personal name, genitive masculine singular	1	of Judah
 NUM 1:27	1	8	τέσσαρες	τέσσαρες	cardinal numeral, nominative masculine plural	1	four
 NUM 1:27	1	9	καὶ	καί	conjunction	1	and
@@ -438,7 +438,7 @@ NUM 1:28	1	22	ἀρσενικὰ	ἀρσενικός	adjective, nominative/accus
 NUM 1:28	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:28	1	24	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:28	1	25	καὶ	καί	conjunction	1	and
-NUM 1:28	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:28	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:28	1	26	ἐπάνω			2	above
 NUM 1:28	1	27	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 1:28	1	28	ὁ	ὁ	article before a substantival participle, nominative masculine singular	1	one who
@@ -453,8 +453,8 @@ NUM 1:29	1	2	ἐπίσκεψις			2	count
 NUM 1:29	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:29	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 1:29	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 1:29	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 1:29	1	6	φυλῆς			2	tribe
+NUM 1:29	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 1:29	1	6	φυλῆς			2	clan
 NUM 1:29	1	7	Ἰσσάχαρ	Ἰσσάχαρ	indeclinable personal name, nominative in context	1	Issachar
 NUM 1:29	1	8	τέσσαρες	τέσσαρες	cardinal numeral, nominative masculine plural	1	four
 NUM 1:29	1	9	καὶ	καί	conjunction	1	and
@@ -487,7 +487,7 @@ NUM 1:30	1	22	ἀρσενικὰ	ἀρσενικός	adjective, nominative/accus
 NUM 1:30	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:30	1	24	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:30	1	25	καὶ	καί	conjunction	1	and
-NUM 1:30	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:30	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:30	1	26	ἐπάνω			2	above
 NUM 1:30	1	27	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 1:30	1	28	ὁ	ὁ	article before a substantival participle, nominative masculine singular	1	one who
@@ -502,9 +502,9 @@ NUM 1:31	1	2	ἐπίσκεψις			2	count
 NUM 1:31	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:31	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 1:31	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 1:31	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 1:31	1	6	φυλῆς			2	tribe
-NUM 1:31	1	7	Ζαβουλὼν	Ζαβουλών	indeclinable personal name, genitive in context	1	of Zaboylon
+NUM 1:31	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 1:31	1	6	φυλῆς			2	clan
+NUM 1:31	1	7	Ζαβουλὼν	Ζαβουλών	indeclinable personal name, genitive in context	1	of Zebulun
 NUM 1:31	1	8	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 NUM 1:31	1	9	καὶ	καί	conjunction	1	and
 NUM 1:31	1	10	πεντήκοντα	πεντήκοντα	indeclinable cardinal numeral	1	fifty
@@ -538,7 +538,7 @@ NUM 1:32	1	24	ἀρσενικὰ	ἀρσενικός	adjective, nominative/accus
 NUM 1:32	1	25	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:32	1	26	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:32	1	27	καὶ	καί	conjunction	1	and
-NUM 1:32	1	28	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:32	1	28	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:32	1	28	ἐπάνω			2	above
 NUM 1:32	1	29	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 1:32	1	30	ὁ	ὁ	article before a substantival participle, nominative masculine singular	1	one who
@@ -553,8 +553,8 @@ NUM 1:33	1	2	ἐπίσκεψις			2	count
 NUM 1:33	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:33	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 1:33	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 1:33	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 1:33	1	6	φυλῆς			2	tribe
+NUM 1:33	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 1:33	1	6	φυλῆς			2	clan
 NUM 1:33	1	7	Ἐφραὶμ	Ἐφραίμ	indeclinable personal name, genitive in context	1	of Ephraim
 NUM 1:33	1	8	τεσσαράκοντα	τεσσαράκοντα	indeclinable cardinal numeral	1	forty
 NUM 1:33	1	9	χιλιάδες	χιλιάς	noun, nominative feminine plural	1	thousands
@@ -585,7 +585,7 @@ NUM 1:34	1	22	ἀρσενικὰ	ἀρσενικός	adjective, nominative/accus
 NUM 1:34	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:34	1	24	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:34	1	25	καὶ	καί	conjunction	1	and
-NUM 1:34	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:34	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:34	1	26	ἐπάνω			2	above
 NUM 1:34	1	27	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 1:34	1	28	ὁ	ὁ	article before a substantival participle, nominative masculine singular	1	one who
@@ -600,8 +600,8 @@ NUM 1:35	1	2	ἐπίσκεψις			2	count
 NUM 1:35	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:35	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 1:35	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 1:35	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 1:35	1	6	φυλῆς			2	tribe
+NUM 1:35	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 1:35	1	6	φυλῆς			2	clan
 NUM 1:35	1	7	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	1	Manasseh
 NUM 1:35	1	8	δύο	δύο	cardinal numeral, genitive here	1	two
 NUM 1:35	1	9	καὶ	καί	conjunction	1	and
@@ -634,7 +634,7 @@ NUM 1:36	1	22	ἀρσενικὰ	ἀρσενικός	adjective, nominative/accus
 NUM 1:36	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:36	1	24	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:36	1	25	καὶ	καί	conjunction	1	and
-NUM 1:36	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:36	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:36	1	26	ἐπάνω			2	above
 NUM 1:36	1	27	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 1:36	1	28	ὁ	ὁ	article before a substantival participle, nominative masculine singular	1	one who
@@ -649,8 +649,8 @@ NUM 1:37	1	2	ἐπίσκεψις			2	count
 NUM 1:37	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:37	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 1:37	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 1:37	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 1:37	1	6	φυλῆς			2	tribe
+NUM 1:37	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 1:37	1	6	φυλῆς			2	clan
 NUM 1:37	1	7	Βενιαμὶν	Βενιαμίν	indeclinable personal name, nominative in context	1	Benjamin
 NUM 1:37	1	8	πέντε	πέντε	indeclinable cardinal numeral	1	five
 NUM 1:37	1	9	καὶ	καί	conjunction	1	and
@@ -683,7 +683,7 @@ NUM 1:24	1	22	ἀρσενικὰ	ἀρσενικός	adjective, nominative/accus
 NUM 1:24	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:24	1	24	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:24	1	25	καὶ	καί	conjunction	1	and
-NUM 1:24	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:24	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:24	1	26	ἐπάνω			2	above
 NUM 1:24	1	27	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 1:24	1	28	ὁ	ὁ	article before a substantival participle, nominative masculine singular	1	one who
@@ -698,8 +698,8 @@ NUM 1:25	1	2	ἐπίσκεψις			2	count
 NUM 1:25	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:25	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 1:25	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 1:25	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 1:25	1	6	φυλῆς			2	tribe
+NUM 1:25	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 1:25	1	6	φυλῆς			2	clan
 NUM 1:25	1	7	Γὰδ	Γάδ	indeclinable personal name, genitive in context	1	of Gad
 NUM 1:25	1	8	πέντε	πέντε	indeclinable cardinal numeral	1	five
 NUM 1:25	1	9	καὶ	καί	conjunction	1	and
@@ -734,7 +734,7 @@ NUM 1:38	1	22	ἀρσενικὰ	ἀρσενικός	adjective, nominative/accus
 NUM 1:38	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:38	1	24	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:38	1	25	καὶ	καί	conjunction	1	and
-NUM 1:38	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:38	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:38	1	26	ἐπάνω			2	above
 NUM 1:38	1	27	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 1:38	1	28	ὁ	ὁ	article before a substantival participle, nominative masculine singular	1	one who
@@ -749,8 +749,8 @@ NUM 1:39	1	2	ἐπίσκεψις			2	count
 NUM 1:39	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:39	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 1:39	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 1:39	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 1:39	1	6	φυλῆς			2	tribe
+NUM 1:39	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 1:39	1	6	φυλῆς			2	clan
 NUM 1:39	1	7	Δὰν	Δάν	indeclinable personal name, nominative in context	1	Dan
 NUM 1:39	1	8	δύο	δύο	cardinal numeral, genitive here	1	two
 NUM 1:39	1	9	καὶ	καί	conjunction	1	and
@@ -783,7 +783,7 @@ NUM 1:40	1	22	ἀρσενικὰ	ἀρσενικός	adjective, nominative/accus
 NUM 1:40	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:40	1	24	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:40	1	25	καὶ	καί	conjunction	1	and
-NUM 1:40	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:40	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:40	1	26	ἐπάνω			2	above
 NUM 1:40	1	27	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 1:40	1	28	ὁ	ὁ	article before a substantival participle, nominative masculine singular	1	one who
@@ -798,9 +798,9 @@ NUM 1:41	1	2	ἐπίσκεψις			2	count
 NUM 1:41	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:41	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 1:41	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 1:41	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 1:41	1	6	φυλῆς			2	tribe
-NUM 1:41	1	7	Ἀσὴρ	Ἀσήρ	indeclinable personal name, genitive in context	1	of Aser
+NUM 1:41	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 1:41	1	6	φυλῆς			2	clan
+NUM 1:41	1	7	Ἀσὴρ	Ἀσήρ	indeclinable personal name, genitive in context	1	of Asher
 NUM 1:41	1	8	μία	εἷς	numeral, nominative feminine singular	1	one
 NUM 1:41	1	9	καὶ	καί	conjunction	1	and
 NUM 1:41	1	10	τεσσαράκοντα	τεσσαράκοντα	indeclinable cardinal numeral	1	forty
@@ -832,7 +832,7 @@ NUM 1:42	1	22	ἀρσενικὰ	ἀρσενικός	adjective, nominative/accus
 NUM 1:42	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:42	1	24	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:42	1	25	καὶ	καί	conjunction	1	and
-NUM 1:42	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:42	1	26	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:42	1	26	ἐπάνω			2	above
 NUM 1:42	1	27	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 1:42	1	28	ὁ	ὁ	article before a substantival participle, nominative masculine singular	1	one who
@@ -847,8 +847,8 @@ NUM 1:43	1	2	ἐπίσκεψις			2	count
 NUM 1:43	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:43	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 1:43	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 1:43	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 1:43	1	6	φυλῆς			2	tribe
+NUM 1:43	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 1:43	1	6	φυλῆς			2	clan
 NUM 1:43	1	7	Νεφθαλὶ	Νεφθαλί	indeclinable personal name, nominative in context	1	Naphtali
 NUM 1:43	1	8	τρεῖς	τρεῖς	cardinal numeral, nominative plural	1	three
 NUM 1:43	1	9	καὶ	καί	conjunction	1	and
@@ -875,12 +875,12 @@ NUM 1:44	1	14	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
 NUM 1:44	1	15	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	a man
 NUM 1:44	1	16	εἷς	εἷς	cardinal numeral/pronoun, nominative masculine singular after ὁ	1	the one
 NUM 1:44	1	17	κατὰ	κατά	preposition with the accusative	1	according to
-NUM 1:44	1	18	φυλὴν	φυλή	noun, accusative feminine singular	1	clan
-NUM 1:44	1	18	φυλὴν			2	tribe
+NUM 1:44	1	18	φυλὴν	φυλή	noun, accusative feminine singular	1	tribe
+NUM 1:44	1	18	φυλὴν			2	clan
 NUM 1:44	1	19	μίαν	εἷς	numeral, accusative feminine singular	1	one
 NUM 1:44	1	20	κατὰ	κατά	preposition with the accusative	1	according to
-NUM 1:44	1	21	φυλὴν	φυλή	noun, accusative feminine singular	1	clan
-NUM 1:44	1	21	φυλὴν			2	tribe
+NUM 1:44	1	21	φυλὴν	φυλή	noun, accusative feminine singular	1	tribe
+NUM 1:44	1	21	φυλὴν			2	clan
 NUM 1:44	1	22	εἰς	εἰς	preposition with the accusative	1	into
 NUM 1:44	1	23	οἶκον	οἶκος	noun, accusative masculine singular	1	the house
 NUM 1:44	1	23	οἶκον			2	household
@@ -904,7 +904,7 @@ NUM 1:45	1	11	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	thei
 NUM 1:45	1	12	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:45	1	13	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:45	1	14	καὶ	καί	conjunction	1	and
-NUM 1:45	1	15	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
+NUM 1:45	1	15	ἐπάνω	ἐπάνω	adverb with the genitive	1	upward
 NUM 1:45	1	15	ἐπάνω			2	above
 NUM 1:46	1	1	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 NUM 1:46	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -931,13 +931,13 @@ NUM 1:47	1	2	δὲ	δέ	postpositive conjunction	1	and
 NUM 1:47	1	3	Λευῖται	Λευίτης	proper noun, nominative masculine plural	1	Levites
 NUM 1:47	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 1:47	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-NUM 1:47	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-NUM 1:47	1	6	φυλῆς			2	tribe
+NUM 1:47	1	6	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+NUM 1:47	1	6	φυλῆς			2	clan
 NUM 1:47	1	7	πατριᾶς	πατριά	noun, genitive feminine singular	1	of the family
 NUM 1:47	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:47	1	9	οὐ	οὐ	negative particle	1	not
 NUM 1:47	1	10	συνεπεσκέπησαν	συνεπισκέπτομαι	aorist passive indicative, third plural	1	were counted together
-NUM 1:47	1	11	ἐν	ἐν	preposition with the dative	1	in
+NUM 1:47	1	11	ἐν	ἐν	preposition with the dative	1	among
 NUM 1:47	1	12	τοῖς	ὁ	article, dative masculine plural	1	the
 NUM 1:47	1	13	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 NUM 1:47	1	14	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -949,8 +949,8 @@ NUM 1:48	1	5	Μωυσῆν	Μωυσῆς	personal name, accusative masculine sin
 NUM 1:48	1	6	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 NUM 1:49	1	1	ὅρα	ὁράω	aorist active imperative, second singular	1	see to it
 NUM 1:49	1	2	τὴν	ὁ	article, accusative feminine singular	1	the
-NUM 1:49	1	3	φυλὴν	φυλή	noun, accusative feminine singular	1	clan
-NUM 1:49	1	3	φυλὴν			2	tribe
+NUM 1:49	1	3	φυλὴν	φυλή	noun, accusative feminine singular	1	tribe
+NUM 1:49	1	3	φυλὴν			2	clan
 NUM 1:49	1	4	Λευὶ	Λευί	indeclinable personal name, genitive in context	1	Levi
 NUM 1:49	1	5	οὐ	οὐ	negative particle	1	not
 NUM 1:49	1	6	συνεπισκέψῃ	συνεπισκέπτομαι	aorist middle subjunctive, second singular	1	count together
@@ -962,7 +962,7 @@ NUM 1:49	1	11	οὐ	οὐ	negative particle	1	not
 NUM 1:49	1	12	λήψῃ	λαμβάνω	future middle indicative, second singular	1	you shall take
 NUM 1:49	1	13	ἐν	ἐν	preposition with the dative	1	in
 NUM 1:49	1	14	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
-NUM 1:49	1	15	τῶν	ὁ	article, genitive plural	1	the
+NUM 1:49	1	15	τῶν	ὁ	article, genitive plural	1	of the
 NUM 1:49	1	16	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 NUM 1:49	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:49	1	18	τῶν	ὁ	article, genitive masculine plural	1	the
@@ -973,26 +973,26 @@ NUM 1:50	1	2	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 NUM 1:50	1	3	ἐπίστησον	ἐφίστημι	aorist active imperative, second singular	1	appoint over
 NUM 1:50	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 1:50	1	5	Λευίτας	Λευίτης	proper noun, accusative masculine plural	1	Levites
-NUM 1:50	1	6	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 1:50	1	6	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 1:50	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 1:50	1	8	σκηνὴν	σκηνή	noun, accusative feminine singular	1	tent
 NUM 1:50	1	9	τοῦ	ὁ	article, genitive neuter singular	1	of the
 NUM 1:50	1	10	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	1	testimony
 NUM 1:50	1	10	μαρτυρίου			2	witness
 NUM 1:50	1	11	καὶ	καί	conjunction	1	and
-NUM 1:50	1	12	ἐπὶ	ἐπί	preposition with the accusative	1	upon
+NUM 1:50	1	12	ἐπὶ	ἐπί	preposition with the accusative	1	over
 NUM 1:50	1	13	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 1:50	1	14	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 1:50	1	15	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+NUM 1:50	1	15	σκεύη	σκεῦος	noun, accusative neuter plural	1	equipment
 NUM 1:50	1	15	σκεύη			2	goods
 NUM 1:50	1	16	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 NUM 1:50	1	17	καὶ	καί	conjunction	1	and
-NUM 1:50	1	18	ἐπὶ	ἐπί	preposition (case from context)	1	on
+NUM 1:50	1	18	ἐπὶ	ἐπί	preposition (case from context)	1	over
 NUM 1:50	1	19	πάντα	πᾶς	adjective, accusative neuter plural	1	all things
 NUM 1:50	1	20	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural (from context)	1	whatever
 NUM 1:50	1	21	ἐστὶν	εἰμί	present indicative, third singular	1	is
 NUM 1:50	1	22	ἐν	ἐν	preposition with the dative	1	in
-NUM 1:50	1	23	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
+NUM 1:50	1	23	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 NUM 1:50	1	24	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
 NUM 1:50	1	25	ἀροῦσι	αἴρω	future active indicative, third plural	1	shall carry
 NUM 1:50	1	26	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -1000,9 +1000,9 @@ NUM 1:50	1	27	σκηνὴν	σκηνή	noun, accusative feminine singular	1	tent
 NUM 1:50	1	28	καὶ	καί	conjunction	1	and
 NUM 1:50	1	29	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 NUM 1:50	1	30	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 1:50	1	31	σκεύη	σκεῦος	noun, accusative neuter plural	1	belongings
+NUM 1:50	1	31	σκεύη	σκεῦος	noun, accusative neuter plural	1	equipment
 NUM 1:50	1	31	σκεύη			2	goods
-NUM 1:50	1	32	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
+NUM 1:50	1	32	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 NUM 1:50	1	33	καὶ	καί	conjunction	1	and
 NUM 1:50	1	34	αὐτοὶ	αὐτός	pronoun, nominative masculine plural, emphatic	1	they themselves
 NUM 1:50	1	34	αὐτοὶ			2	they
@@ -1027,7 +1027,7 @@ NUM 1:51	1	10	Λευῖται	Λευίτης	proper noun, nominative masculine p
 NUM 1:51	1	11	καὶ	καί	conjunction	1	and
 NUM 1:51	1	12	ἐν	ἐν	preposition with the dative	1	in
 NUM 1:51	1	13	τῷ	ὁ	article, dative neuter singular; introduces the infinitive governed by ἐν	1	[introduces the infinitive]
-NUM 1:51	1	14	παρεμβάλλειν	παρεμβάλλω	present active infinitive; subject τὴν σκηνήν	1	comes to rest
+NUM 1:51	1	14	παρεμβάλλειν	παρεμβάλλω	present active infinitive; subject τὴν σκηνήν	1	is pitched
 NUM 1:51	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 1:51	1	16	σκηνὴν	σκηνή	noun, accusative feminine singular	1	tent
 NUM 1:51	1	17	ἀναστήσουσιν	ἀνίστημι	future active indicative, third plural	1	shall set up
@@ -1082,7 +1082,7 @@ NUM 1:53	1	14	ἁμάρτημα			2	sin
 NUM 1:53	1	15	ἐπὶ	ἐπί	preposition	1	on
 NUM 1:53	1	16	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 1:53	1	17	συναγωγὴν	συναγωγή	noun, accusative feminine singular	1	congregation
-NUM 1:53	1	18	ἐν	ἐν	preposition with the dative	1	in
+NUM 1:53	1	18	ἐν	ἐν	preposition with the dative	1	among
 NUM 1:53	1	19	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 NUM 1:53	1	20	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 1:53	1	21	καὶ	καί	conjunction	1	and
@@ -1093,7 +1093,7 @@ NUM 1:53	1	25	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emph
 NUM 1:53	1	26	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 1:53	1	27	φυλακὴν	φυλακή	noun, accusative feminine singular	1	charge
 NUM 1:53	1	27	φυλακὴν			2	guard duty
-NUM 1:53	1	28	τῆς	ὁ	article, genitive feminine singular	1	the
+NUM 1:53	1	28	τῆς	ὁ	article, genitive feminine singular	1	of the
 NUM 1:53	1	29	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
 NUM 1:53	1	30	τοῦ	ὁ	article, genitive neuter singular	1	of the
 NUM 1:53	1	31	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	1	testimony

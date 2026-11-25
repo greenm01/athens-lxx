@@ -16,7 +16,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:1	1	15	ἐν	ἐν	preposition with dative	1	in
 1SA 2:1	1	16	Θεῷ	θεός	noun, dative masculine singular	1	God
 1SA 2:1	1	17	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-1SA 2:1	1	18	ἐπλατύνθη	πλατύνω	aorist passive indicative, third singular	1	opened wide
+1SA 2:1	1	18	ἐπλατύνθη	πλατύνω	aorist passive indicative, third singular	1	was opened wide
 1SA 2:1	1	19	τὸ	ὁ	article, neuter singular (case from context)	1	the
 1SA 2:1	1	20	στόμα	στόμα	noun, nominative neuter singular after τὸ	1	mouth
 1SA 2:1	1	21	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
@@ -63,7 +63,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:3	1	13	τοῦ	ὁ	article, genitive singular	1	the
 1SA 2:3	1	14	στόματος	στόμα	noun, genitive neuter singular	1	mouth
 1SA 2:3	1	15	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
-1SA 2:3	1	16	ὅτι	ὅτι	conjunction giving the substance of the complaint	1	that
+1SA 2:3	1	16	ὅτι	ὅτι	conjunction giving the substance of the complaint	1	for
 1SA 2:3	1	17	Θεὸς	θεός	noun, nominative masculine singular	1	God
 1SA 2:3	1	18	γνώσεων	γνῶσις	noun, genitive feminine plural	1	of knowledge
 1SA 2:3	1	19	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -75,21 +75,21 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:3	1	24	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1SA 2:4	1	1	Τόξον	τόξον	noun, nominative neuter singular	1	bow
 1SA 2:4	1	2	δυνατῶν	δυνατός	substantival adjective, genitive masculine plural	1	of the mighty
-1SA 2:4	1	3	ἠσθένησε	ἀσθενέω	aorist active indicative, third singular	1	failed
+1SA 2:4	1	3	ἠσθένησε	ἀσθενέω	aorist active indicative, third singular	1	grew weak
 1SA 2:4	1	4	καὶ	καί	conjunction	1	and
 1SA 2:4	1	5	ἀσθενοῦντες	ἀσθενέω	present active participle, nominative masculine plural	1	those growing weak
 1SA 2:4	1	6	περιεζώσαντο	περιζώννυμι	aorist middle indicative, third plural	1	girded themselves with
 1SA 2:4	1	7	δύναμιν	δύναμις	noun, accusative feminine singular	1	strength
 1SA 2:5	1	1	πλήρεις	πλήρης	adjective, nominative masculine plural	1	the well-fed
 1SA 2:5	1	2	ἄρτων	ἄρτος	noun, genitive masculine plural	1	with bread
-1SA 2:5	1	3	ἠλαττώθησαν	ἐλαττόω	aorist passive indicative, third plural	1	were made few
+1SA 2:5	1	3	ἠλαττώθησαν	ἐλαττόω	aorist passive indicative, third plural	1	were diminished
 1SA 2:5	1	4	καὶ	καί	conjunction	1	and
 1SA 2:5	1	5	οἱ	ὁ	article, nominative masculine plural	1	the
 1SA 2:5	1	6	πεινῶντες	πεινάω	present active participle, nominative masculine plural	1	hungry
-1SA 2:5	1	7	παρῆκαν	παρίημι	aorist active indicative, third plural	1	passed by
+1SA 2:5	1	7	παρῆκαν	παρίημι	aorist active indicative, third plural	1	left
 1SA 2:5	1	8	γῆν	γῆ	noun, accusative feminine singular	1	land
 1SA 2:5	1	9	ὅτι	ὅτι	causal conjunction	1	because
-1SA 2:5	1	10	στεῖρα	στεῖρα	predicate adjective, nominative feminine singular	1	barren
+1SA 2:5	1	10	στεῖρα	στεῖρα	predicate adjective, nominative feminine singular	1	a barren woman
 1SA 2:5	1	10	στεῖρα			2	infertile
 1SA 2:5	1	11	ἔτεκεν	τίκτω	aorist active indicative, third singular	1	bore
 1SA 2:5	1	11	ἔτεκεν			2	gave birth to
@@ -138,8 +138,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:8	1	19	κατακληρονομῶν	κατακληρονομέω	present active participle, nominative masculine singular	1	giving as an inheritance
 1SA 2:8	1	20	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 1SA 2:9	1	1	Διδοὺς	δίδωμι	present active participle, nominative masculine singular	1	giving
-1SA 2:9	1	2	εὐχὴν	εὐχή	noun, accusative feminine singular	1	a prayer
-1SA 2:9	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+1SA 2:9	1	2	εὐχὴν	εὐχή	noun, accusative feminine singular	1	a petition
+1SA 2:9	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 1SA 2:9	1	4	εὐχομένῳ	εὔχομαι	present middle/passive participle, dative masculine singular	1	one praying
 1SA 2:9	1	5	καὶ	καί	conjunction	1	and
 1SA 2:9	1	6	εὐλόγησεν	εὐλογέω	aorist active indicative, third singular	1	he blessed
@@ -147,7 +147,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:9	1	8	δικαίων	δίκαιος	adjective, genitive masculine plural; used substantivally	1	of the righteous
 1SA 2:9	1	9	ὅτι	ὅτι	causal conjunction	1	because
 1SA 2:9	1	10	οὐκ	οὐ	negative particle	1	not
-1SA 2:9	1	11	ἐν	ἐν	preposition with the dative	1	in
+1SA 2:9	1	11	ἐν	ἐν	preposition with the dative	1	by
 1SA 2:9	1	12	ἰσχύϊ	ἰσχύς	noun, dative feminine singular	1	strength
 1SA 2:9	1	12	ἰσχύϊ			2	might
 1SA 2:9	1	13	δυνατὸς	δυνατός	adjective, nominative masculine singular	1	strong
@@ -210,7 +210,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:10	1	51	ἐν	ἐν	preposition with the dative	1	in
 1SA 2:10	1	52	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
 1SA 2:10	1	52	μέσῳ			2	the middle
-1SA 2:10	1	53	τῆς	ὁ	article, genitive feminine singular	1	the
+1SA 2:10	1	53	τῆς	ὁ	article, genitive feminine singular	1	of the
 1SA 2:10	1	54	γῆς	γῆ	noun, genitive feminine singular	1	earth
 1SA 2:10	1	55	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 1SA 2:10	1	56	ἀνέβη	ἀναβαίνω	aorist active indicative, 3rd sg.	1	went up
@@ -288,8 +288,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:13	1	1	Καὶ	καί	conjunction	1	and
 1SA 2:13	1	2	ἤρχετο	ἔρχομαι	imperfect middle indicative, third singular	1	was coming
 1SA 2:13	1	3	τὸ	ὁ	article, accusative neuter singular	1	the
-1SA 2:13	1	4	παιδάριον	παιδάριον	noun, nominative neuter singular after τὸ	1	lad
-1SA 2:13	1	5	τοῦ	ὁ	article, genitive singular	1	the
+1SA 2:13	1	4	παιδάριον	παιδάριον	noun, nominative neuter singular after τὸ	1	servant
+1SA 2:13	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 1SA 2:13	1	6	ἱερέως	ἱερεύς	noun, genitive masculine singular	1	priest
 1SA 2:13	1	7	ὡς	ὡς	comparative particle	1	when
 1SA 2:13	1	8	ἂν	ἄν	modal particle with subjunctive ἔλθῃ, marks indefinite/conditional time	1	—
@@ -351,13 +351,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:14	1	43	Σηλώ	Σηλώ	indeclinable place name, dative in context	1	Selo
 1SA 2:15	1	1	Καὶ	καί	conjunction	1	and
 1SA 2:15	1	2	πρὶν	πρίν	conjunction	1	before
-1SA 2:15	1	3	θυμιαθῆναι	θυμιάω	aorist passive infinitive	1	to be burned as incense
+1SA 2:15	1	3	θυμιαθῆναι	θυμιάω	aorist passive infinitive	1	to be burned as an offering
 1SA 2:15	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
 1SA 2:15	1	5	στέαρ	στέαρ	noun, accusative neuter singular	1	fat
 1SA 2:15	1	6	ἤρχετο	ἔρχομαι	imperfect middle indicative, third singular	1	would come
 1SA 2:15	1	7	τὸ	ὁ	article, accusative neuter singular	1	the
-1SA 2:15	1	8	παιδάριον	παιδάριον	noun, nominative neuter singular after τὸ	1	lad
-1SA 2:15	1	9	τοῦ	ὁ	article, genitive singular	1	the
+1SA 2:15	1	8	παιδάριον	παιδάριον	noun, nominative neuter singular after τὸ	1	servant
+1SA 2:15	1	9	τοῦ	ὁ	article, genitive singular	1	of the
 1SA 2:15	1	10	ἱερέως	ἱερεύς	noun, genitive masculine singular	1	priest
 1SA 2:15	1	11	καὶ	καί	conjunction	1	and
 1SA 2:15	1	12	ἔλεγε	λέγω	imperfect active indicative, third singular	1	would say
@@ -387,7 +387,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:16	1	4	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 1SA 2:16	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 1SA 2:16	1	6	θύων	θύω	present active participle, nominative masculine singular	1	sacrificing
-1SA 2:16	1	7	θυμιαθήτω	θυμιάω	aorist passive imperative, third singular	1	let be burned as incense
+1SA 2:16	1	7	θυμιαθήτω	θυμιάω	aorist passive imperative, third singular	1	let it be burned as an offering
 1SA 2:16	1	8	πρῶτον	πρῶτος	adverb	1	first
 1SA 2:16	1	9	ὡς	ὡς	comparative particle	1	as
 1SA 2:16	1	10	καθήκει	καθήκω	present active indicative, third singular	1	is fitting
@@ -405,7 +405,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:16	1	22	σου	σύ	personal pronoun, genitive second singular	1	your
 1SA 2:16	1	23	Καὶ	καί	conjunction	1	and
 1SA 2:16	1	24	εἶπεν	λέγω	aorist active indicative, third singular	1	said
-1SA 2:16	1	25	οὐχὶ	οὐχί	negative particle, emphatic form	1	not
+1SA 2:16	1	25	οὐχὶ	οὐχί	negative particle, emphatic form	1	no
 1SA 2:16	1	26	ὅτι	ὅτι	causal conjunction	1	for
 1SA 2:16	1	27	νῦν	νῦν	adverb of time	1	now
 1SA 2:16	1	28	δώσεις	δίδωμι	future active indicative, second singular	1	you shall give
@@ -623,7 +623,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:25	1	12	Κύριον	κύριος	noun, accusative masculine singular, the Lord	1	the Lord
 1SA 2:25	1	13	καὶ	καί	conjunction	1	and
 1SA 2:25	1	14	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
-1SA 2:25	1	15	τῷ	ὁ	article, dative masculine singular	1	to the
+1SA 2:25	1	15	τῷ	ὁ	article, dative masculine singular	1	against the
 1SA 2:25	1	16	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 1SA 2:25	1	17	ἁμάρτῃ	ἁμαρτάνω	aorist active subjunctive, third singular	1	sins
 1SA 2:25	1	18	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
@@ -673,7 +673,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:27	1	11	λέγει	λέγω	present active indicative, third singular	1	says
 1SA 2:27	1	12	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 1SA 2:27	1	13	ἀποκαλυφθεὶς	ἀποκαλύπτω	aorist passive participle, nominative masculine singular	1	having been revealed
-1SA 2:27	1	14	ἀπεκαλύφθην	ἀποκαλύπτω	aorist passive indicative, first singular	1	I was revealed
+1SA 2:27	1	14	ἀπεκαλύφθην	ἀποκαλύπτω	aorist passive indicative, first singular	1	I revealed myself
 1SA 2:27	1	15	πρὸς	πρός	preposition with the accusative	1	to
 1SA 2:27	1	16	οἶκον	οἶκος	noun, accusative masculine singular	1	the house
 1SA 2:27	1	17	πατρός	πατήρ	noun, genitive masculine singular	1	of the father
@@ -724,7 +724,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:28	1	34	σου	σύ	pronoun, possessive genitive second singular	1	your
 1SA 2:28	1	35	τὰ	ὁ	article, accusative neuter plural	1	the
 1SA 2:28	1	36	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	1	all
-1SA 2:28	1	37	τοῦ	ὁ	article, genitive neuter singular	1	the
+1SA 2:28	1	37	τοῦ	ὁ	article, genitive neuter singular	1	of the
 1SA 2:28	1	38	πυρὸς	πῦρ	noun, genitive neuter singular	1	fire
 1SA 2:28	1	39	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 1SA 2:28	1	40	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
@@ -756,7 +756,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:29	1	22	ἐνευλογεῖσθαι	ἐνευλογέομαι	present middle/passive infinitive	1	to be blessed
 1SA 2:29	1	23	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
 1SA 2:29	1	24	ἀρχῆς	ἀρχή	noun, genitive feminine singular	1	the first portion
-1SA 2:29	1	25	πάσης	πᾶς	adjective, genitive feminine singular	1	every
+1SA 2:29	1	25	πάσης	πᾶς	adjective, genitive feminine singular	1	of every
 1SA 2:29	1	26	θυσίας	θυσία	noun, genitive feminine singular	1	offering
 1SA 2:29	1	27	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 1SA 2:29	1	28	ἔμπροσθέν	ἔμπροσθεν	preposition with genitive	1	before
@@ -791,8 +791,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:30	1	26	νῦν	νῦν	adverb of time	1	now
 1SA 2:30	1	27	φησι	φημί	present active indicative, third singular	1	says
 1SA 2:30	1	28	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-1SA 2:30	1	29	μηδαμῶς	μηδαμῶς	adverb	1	by no means
-1SA 2:30	1	30	ἐμοὶ	ἐγώ	pronoun, dative first singular (παρ᾽ ἐμοὶ 'beside me')	1	me
+1SA 2:30	1	29	μηδαμῶς	μηδαμῶς	adverb	1	far be it
+1SA 2:30	1	30	ἐμοὶ	ἐγώ	pronoun, dative first singular (παρ᾽ ἐμοὶ 'beside me')	1	from me
 1SA 2:30	1	31	ὅτι	ὅτι	causal conjunction	1	because
 1SA 2:30	1	32	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
 1SA 2:30	1	33	ἢ	ἤ	comparative conjunction	1	only
@@ -829,7 +829,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:31	1	22	σου	σύ	pronoun, possessive genitive second singular	1	your
 1SA 2:32	1	1	καὶ	καί	conjunction	1	and
 1SA 2:32	1	2	ἐπιβλέψῃ	ἐπιβλέπω	future middle indicative, second singular	1	you shall look upon
-1SA 2:32	1	3	κραταίωμα	κραταίωμα	noun, accusative neuter singular	1	strength
+1SA 2:32	1	3	κραταίωμα	κραταίωμα	noun, accusative neuter singular	1	stronghold
 1SA 2:32	1	4	Μαὼν	Μαών	indeclinable place name, nominative in context	1	Maon
 1SA 2:32	1	5	ἐν	ἐν	preposition with the dative	1	in
 1SA 2:32	1	6	πᾶσιν	πᾶς	adjective, dative neuter plural	1	everything
@@ -946,11 +946,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 2:36	1	9	ἥξει	ἥκω	future active indicative, third singular as printed Ἥξει	1	will come
 1SA 2:36	1	10	προσκυνῆσαι	προσκυνέω	aorist active infinitive	1	to bow down
 1SA 2:36	1	11	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-1SA 2:36	1	12	ἐν	ἐν	preposition with the dative	1	in
+1SA 2:36	1	12	ἐν	ἐν	preposition with the dative	1	for
 1SA 2:36	1	13	ὀβολῷ	ὀβολός	noun, dative masculine singular	1	an obol
 1SA 2:36	1	14	ἀργυρίου	ἀργύριον	noun, genitive neuter singular	1	of silver
 1SA 2:36	1	15	καὶ	καί	conjunction	1	and
-1SA 2:36	1	16	ἐν	ἐν	preposition with the dative	1	in
+1SA 2:36	1	16	ἐν	ἐν	preposition with the dative	1	for
 1SA 2:36	1	17	ἄρτῳ	ἄρτος	noun, dative masculine singular	1	loaf
 1SA 2:36	1	18	ἐνὶ	εἷς	cardinal numeral, dative neuter singular	1	one
 1SA 2:36	1	19	λέγων	λέγω	present active participle, nominative masculine singular	1	saying

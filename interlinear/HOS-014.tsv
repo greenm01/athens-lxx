@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 HOS 14:1	1	1	ΕΠΙΣΤΡΑΦΗΘΙ	ἐπιστρέφω	aorist passive imperative, second singular	1	return
 HOS 14:1	1	1	ΕΠΙΣΤΡΑΦΗΘΙ			2	turn back
-HOS 14:1	1	2	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
+HOS 14:1	1	2	Ἰσραὴλ	Ἰσραὴλ	indeclinable proper name, vocative in context	1	O Israel
 HOS 14:1	1	3	πρὸς	πρός	preposition with the accusative of direction	1	toward
 HOS 14:1	1	4	Κύριον	κύριος	noun, accusative masculine singular	1	the Lord
 HOS 14:1	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -92,7 +92,7 @@ HOS 14:4	1	11	ὀργήν	ὀργή	noun, accusative feminine singular	1	anger
 HOS 14:4	1	12	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 HOS 14:4	1	12	μου			2	of me
 HOS 14:4	1	13	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
-HOS 14:4	1	14	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+HOS 14:4	1	14	αὐτοῦ	αὐτός	personal pronoun, genitive masculine singular after a preposition	1	him
 HOS 14:5	1	1	Καὶ	καί	conjunction	1	and
 HOS 14:5	1	2	ἔσομαι	εἰμί	future middle indicative, first singular	1	I will be
 HOS 14:5	1	3	ὡς	ὡς	comparative particle	1	as
@@ -155,7 +155,7 @@ HOS 14:7	1	19	ὡς	ὡς	comparative particle	1	as
 HOS 14:7	1	20	οἶνος	οἶνος	noun, nominative masculine singular	1	wine
 HOS 14:7	1	21	Λιβάνου	Λίβανος	noun, genitive masculine singular; place name	1	Lebanon
 HOS 14:8	1	1	Τῷ	ὁ	article, dative masculine/neuter singular	1	the
-HOS 14:8	1	2	Ἐφραὶμ	Ἐφραίμ	indeclinable personal name, genitive in context	1	of Ephraim
+HOS 14:8	1	2	Ἐφραὶμ	Ἐφραίμ	indeclinable proper noun, dative of reference	1	as for Ephraim
 HOS 14:8	1	3	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 HOS 14:8	1	4	ἔτι	ἔτι	temporal adverb	1	still
 HOS 14:8	1	5	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him

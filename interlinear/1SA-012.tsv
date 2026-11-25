@@ -39,7 +39,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 12:2	1	16	υἱοί	υἱός	noun, nominative masculine plural	1	sons
 1SA 12:2	1	17	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 1SA 12:2	1	18	ἰδοὺ	ἰδού	presentative particle	1	behold
-1SA 12:2	1	19	ἐν	ἐν	preposition with the dative	1	in
+1SA 12:2	1	19	ἐν	ἐν	preposition with the dative	1	among
 1SA 12:2	1	20	ὑμῖν	σύ	pronoun, dative second plural	1	you
 1SA 12:2	1	21	κἀγὼ	καί ἐγώ	crasis of καί + ἐγώ	1	and I
 1SA 12:2	1	22	ἰδοὺ	ἰδού	interjection	1	look
@@ -80,7 +80,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 12:3	1	21	κατεδυνάστευσα	καταδυναστεύω	aorist active indicative, first singular	1	have I oppressed
 1SA 12:3	1	22	ἢ	ἤ	disjunctive conjunction	1	or
 1SA 12:3	1	23	τίνα	τίς	interrogative pronoun, accusative masculine singular with ἀρραβῶνα	1	whom
-1SA 12:3	1	24	ἐξεπίεσα	ἐκπιέζω	aorist active indicative, first singular	1	have I squeezed
+1SA 12:3	1	24	ἐξεπίεσα	ἐκπιέζω	aorist active indicative, first singular	1	have I extorted from
 1SA 12:3	1	25	ἢ	ἤ	disjunctive conjunction	1	or
 1SA 12:3	1	26	ἐκ	ἐκ	preposition with the genitive	1	from
 1SA 12:3	1	27	χειρὸς	χείρ	noun, genitive feminine singular	1	the hand
@@ -141,7 +141,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 12:5	1	26	οὐδέν	οὐδείς	pronoun/adjective, accusative neuter singular	1	anything
 1SA 12:5	1	27	Καὶ	καί	conjunction	1	and
 1SA 12:5	1	28	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
-1SA 12:5	1	29	μάρτυς	μάρτυς	noun, nominative masculine singular	1	witness
+1SA 12:5	1	29	μάρτυς	μάρτυς	noun, nominative masculine singular	1	he is witness
 1SA 12:6	1	1	Καὶ	καί	conjunction	1	and
 1SA 12:6	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 1SA 12:6	1	3	Σαμουὴλ	Σαμουήλ	indeclinable personal name, accusative in context	1	Samuel
@@ -273,7 +273,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 12:10	1	5	καὶ	καί	conjunction	1	and
 1SA 12:10	1	6	ἔλεγον	λέγω	imperfect active indicative, 3rd pl.	1	they were saying
 1SA 12:10	1	7	ἡμάρτομεν	ἁμαρτάνω	aorist active indicative, first plural	1	we sinned
-1SA 12:10	1	8	ὅτι	ὅτι	conjunction introducing reported content	1	that
+1SA 12:10	1	8	ὅτι	ὅτι	conjunction introducing reported content	1	because
 1SA 12:10	1	9	ἐγκαταλελοίπαμεν	ἐγκαταλείπω	perfect active indicative, first plural	1	we have forsaken
 1SA 12:10	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 1SA 12:10	1	11	Κύριον	κύριος	noun, accusative masculine singular, the Lord	1	Lord
@@ -321,7 +321,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 12:11	1	23	κυκλόθεν	κυκλόθεν	adverb	1	all around
 1SA 12:11	1	24	καὶ	καί	conjunction	1	and
 1SA 12:11	1	25	κατῴκειτε	κατοικέω	imperfect active indicative, second plural	1	you were dwelling
-1SA 12:11	1	26	πεποιθότες	πείθω	perfect active participle, nominative masculine plural	1	trusting
+1SA 12:11	1	26	πεποιθότες	πείθω	perfect active participle, nominative masculine plural	1	securely
 1SA 12:12	1	1	Καὶ	καί	conjunction	1	and
 1SA 12:12	1	2	ἴδετε	ὁράω	aorist active imperative, second plural	1	you saw
 1SA 12:12	1	3	ὅτι	ὅτι	content conjunction	1	that
@@ -513,7 +513,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 12:19	1	17	καὶ	καί	conjunction	1	and
 1SA 12:19	1	18	οὐ	οὐ	negative particle	1	not
 1SA 12:19	1	19	μὴ	μή	negative particle completing οὐ μή, reinforces the negation	1	—
-1SA 12:19	1	20	ἀποθάνωμεν	ἀποθνῄσκω	aorist active subjunctive, first plural	1	shall we die
+1SA 12:19	1	20	ἀποθάνωμεν	ἀποθνῄσκω	aorist active subjunctive, first plural	1	we shall die
 1SA 12:19	1	21	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 1SA 12:19	1	22	προστεθείκαμεν	προστίθημι	perfect active indicative, first plural	1	we have added
 1SA 12:19	1	23	πρὸς	πρός	preposition with the accusative	1	to
@@ -636,7 +636,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 12:24	1	12	ὅλῃ	ὅλος	adjective dative feminine singular	1	whole
 1SA 12:24	1	13	καρδίᾳ	καρδία	noun dative feminine singular of respect	1	heart
 1SA 12:24	1	14	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
-1SA 12:24	1	15	ὅτι	ὅτι	conjunction giving the substance of the complaint	1	that
+1SA 12:24	1	15	ὅτι	ὅτι	conjunction giving the substance of the complaint	1	for
 1SA 12:24	1	16	ἴδετε	ὁράω	aorist active imperative, second plural	1	see
 1SA 12:24	1	17	ἃ	ὅς	relative pronoun, accusative neuter plural	1	what things
 1SA 12:24	1	18	ἐμεγάλυνε	μεγαλύνω	aorist active indicative, third singular	1	he made great

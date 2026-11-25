@@ -7,7 +7,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:1	1	5	Ὀχοζίου	Ὀχοζίας	personal name, genitive masculine singular	1	of Ochozias
 2KI 11:1	1	5	Ὀχοζίου			2	of Ahaziah
 2KI 11:1	1	6	εἶδεν	ὁράω	aorist active indicative, third singular	1	saw
-2KI 11:1	1	7	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+2KI 11:1	1	7	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 2KI 11:1	1	8	ἀπέθανεν	ἀποθνῄσκω	aorist active indicative, third singular	1	he died
 2KI 11:1	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 11:1	1	10	υἱὸς	υἱός	noun, nominative masculine singular	1	son
@@ -43,7 +43,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:2	1	16	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 2KI 11:2	1	17	ἐκ	ἐκ	preposition with the genitive	1	from
 2KI 11:2	1	18	μέσου	μέσος	noun, genitive neuter singular	1	midst
-2KI 11:2	1	19	τῶν	ὁ	article, genitive plural	1	the
+2KI 11:2	1	19	τῶν	ὁ	article, genitive plural	1	of the
 2KI 11:2	1	20	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 2KI 11:2	1	21	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2KI 11:2	1	22	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
@@ -412,7 +412,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:14	1	21	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 11:14	1	22	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 2KI 11:14	1	23	καὶ	καί	conjunction	1	and
-2KI 11:14	1	24	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+2KI 11:14	1	24	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 2KI 11:14	1	25	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 11:14	1	26	λαὸς	λαός	noun, nominative masculine singular	1	people
 2KI 11:14	1	27	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -491,7 +491,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:16	1	10	ἵππων	ἵππος	noun, genitive masculine plural after τῶν	1	horses
 2KI 11:16	1	11	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2KI 11:16	1	11	οἴκου			2	household
-2KI 11:16	1	12	τοῦ	ὁ	article, genitive singular	1	the
+2KI 11:16	1	12	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 11:16	1	13	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2KI 11:16	1	14	καὶ	καί	conjunction	1	and
 2KI 11:16	1	15	ἀπέθανεν	ἀποθνῄσκω	aorist active indicative, third singular	1	she died
@@ -527,7 +527,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:17	1	28	λαοῦ	λαός	noun, genitive masculine singular	1	people
 2KI 11:18	1	1	Καὶ	καί	conjunction	1	and
 2KI 11:18	1	2	εἰσῆλθε	εἰσέρχομαι	aorist active indicative, third singular; εἰσελθεῖν πρός of marital relations	1	went in
-2KI 11:18	1	3	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+2KI 11:18	1	3	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 2KI 11:18	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 11:18	1	5	λαὸς	λαός	noun, nominative masculine singular	1	people
 2KI 11:18	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -588,7 +588,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:19	1	12	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 2KI 11:19	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 11:19	1	14	λαὸν	λαός	noun, accusative masculine singular	1	people
-2KI 11:19	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
+2KI 11:19	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
 2KI 11:19	1	16	γῆς	γῆ	noun, genitive feminine singular	1	earth
 2KI 11:19	1	17	καὶ	καί	conjunction	1	and
 2KI 11:19	1	18	κατήγαγον	κατάγω	aorist active indicative, third plural	1	carried down
@@ -606,7 +606,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:19	1	29	παρατρεχόντων	παρατρέχω	present active participle, genitive masculine plural	1	runners
 2KI 11:19	1	30	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 2KI 11:19	1	30	οἴκου			2	household
-2KI 11:19	1	31	τοῦ	ὁ	article, genitive singular	1	the
+2KI 11:19	1	31	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 11:19	1	32	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2KI 11:19	1	33	καὶ	καί	conjunction	1	and
 2KI 11:19	1	34	ἐκάθισεν	καθίζω	aorist active indicative, third singular	1	they seated
@@ -617,7 +617,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:19	1	39	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
 2KI 11:20	1	1	Καὶ	καί	conjunction	1	and
 2KI 11:20	1	2	ἐχάρη	χαίρω	aorist passive indicative, third person singular	1	rejoiced
-2KI 11:20	1	3	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+2KI 11:20	1	3	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 2KI 11:20	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 2KI 11:20	1	5	λαὸς	λαός	noun, nominative masculine singular	1	people
 2KI 11:20	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -636,7 +636,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 11:20	1	17	ῥομφαίᾳ	ῥομφαία	noun, dative feminine singular	1	sword
 2KI 11:20	1	18	ἐν	ἐν	preposition with the dative	1	in
 2KI 11:20	1	19	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
-2KI 11:20	1	20	τοῦ	ὁ	article, genitive singular	1	the
+2KI 11:20	1	20	τοῦ	ὁ	article, genitive singular	1	of the
 2KI 11:20	1	21	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2KI 11:21	1	1	Υἱὸς	υἱός	noun, nominative masculine singular; in an expression of age	1	of the age of
 2KI 11:21	1	2	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven

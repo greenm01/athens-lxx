@@ -173,7 +173,7 @@ NUM 20:8	1	23	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 20:8	1	24	ὕδατα	ὕδωρ	noun, accusative neuter plural after τὰ	1	waters
 NUM 20:8	1	25	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 NUM 20:8	1	26	καὶ	καί	conjunction	1	and
-NUM 20:8	1	27	ἐξοίσετε	ἐκφέρω	future active indicative, 2nd pl. after οὐκ	1	you shall carry out
+NUM 20:8	1	27	ἐξοίσετε	ἐκφέρω	future active indicative, 2nd pl. after οὐκ	1	you shall bring forth
 NUM 20:8	1	28	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 NUM 20:8	1	29	ὕδωρ	ὕδωρ	noun, accusative neuter singular	1	water
 NUM 20:8	1	30	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -219,7 +219,7 @@ NUM 20:10	1	15	ἀκούσατέ			2	listen to
 NUM 20:10	1	16	μου	ἐγώ	pronoun, genitive first singular	1	to me
 NUM 20:10	1	17	οἱ	ὁ	article, nominative masculine plural	1	the
 NUM 20:10	1	18	ἀπειθεῖς	ἀπειθής	substantival adjective, vocative masculine plural	1	rebels
-NUM 20:10	1	19	μὴ	μή	negative particle with subjunctive	1	do not
+NUM 20:10	1	19	μὴ	μή	interrogative particle	1	[marks a question]
 NUM 20:10	1	20	ἐκ	ἐκ	preposition with genitive	1	from
 NUM 20:10	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 20:10	1	22	πέτρας	πέτρα	noun, genitive fem. sg. after τῆς/ἐπὶ τῆς 'on the rock'	1	rock
@@ -299,7 +299,7 @@ NUM 20:13	1	9	ἔναντι			2	in the presence of
 NUM 20:13	1	10	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 NUM 20:13	1	11	καὶ	καί	conjunction	1	and
 NUM 20:13	1	12	ἡγιάσθη	ἁγιάζω	aorist passive indicative, third singular	1	he showed himself holy
-NUM 20:13	1	13	ἐν	ἐν	preposition with the dative	1	in
+NUM 20:13	1	13	ἐν	ἐν	preposition with the dative	1	among
 NUM 20:13	1	14	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 NUM 20:14	1	1	Καὶ	καί	conjunction	1	and
 NUM 20:14	1	2	ἀπέστειλε	ἀποστέλλω	aorist active indicative, third person singular	1	he sent
@@ -385,10 +385,10 @@ NUM 20:17	1	5	γῆς	γῆ	noun, genitive feminine singular	1	land
 NUM 20:17	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
 NUM 20:17	1	7	οὐ	οὐ	negative particle	1	not
 NUM 20:17	1	8	διελευσόμεθα	διέρχομαι	future middle indicative, first plural	1	we will go over
-NUM 20:17	1	9	δι᾽	διά	preposition with accusative	1	because of
+NUM 20:17	1	9	δι᾽	διά	preposition with accusative	1	through
 NUM 20:17	1	10	ἀγρῶν	ἀγρός	noun, genitive masculine plural after ἐκ τῶν	1	fields
 NUM 20:17	1	11	οὐδὲ	οὐδέ	conjunction/negative	1	nor
-NUM 20:17	1	12	δι᾽	διά	elided preposition with the accusative	1	because of
+NUM 20:17	1	12	δι᾽	διά	elided preposition with the accusative	1	through
 NUM 20:17	1	13	ἀμπελώνων	ἀμπελών	noun, genitive masculine plural	1	vineyards
 NUM 20:17	1	14	οὐδὲ	οὐδέ	conjunction	1	nor
 NUM 20:17	1	15	πιόμεθα	πίνω	future middle indicative, 1st pl.	1	shall we drink
@@ -475,17 +475,17 @@ NUM 20:20	1	10	Ἐδὼμ	Ἐδώμ	indeclinable national name, case from constr
 NUM 20:20	1	11	εἰς	εἰς	preposition with accusative of purpose	1	for
 NUM 20:20	1	12	συνάντησιν	συνάντησις	noun, accusative feminine singular; with εἰς	1	a meeting
 NUM 20:20	1	13	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	with him
-NUM 20:20	1	14	ἐν	ἐν	preposition with the dative	1	in
+NUM 20:20	1	14	ἐν	ἐν	preposition with the dative	1	with
 NUM 20:20	1	15	ὄχλῳ	ὄχλος	noun, dative masculine singular	1	a crowd
 NUM 20:20	1	16	βαρεῖ	βαρύς	adjective, dative masculine singular	1	large
-NUM 20:20	1	17	ἐν	ἐν	preposition with the dative	1	in
+NUM 20:20	1	17	ἐν	ἐν	preposition with the dative	1	with
 NUM 20:20	1	18	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 NUM 20:20	1	19	ἰσχυρᾷ	ἰσχυρός	adjective, dative feminine singular	1	strong
 NUM 20:21	1	1	καὶ	καί	conjunction	1	and
 NUM 20:21	1	2	οὐκ	οὐ	particle	1	not
 NUM 20:21	1	3	ἠθέλησεν	ἐθέλω	aorist active indicative, third singular	1	was willing
 NUM 20:21	1	4	Ἐδὼμ	Ἐδώμ	indeclinable national name, case from construction	1	Edom
-NUM 20:21	1	5	δοῦναι	δίδωμι	aorist active infinitive	1	to give
+NUM 20:21	1	5	δοῦναι	δίδωμι	aorist active infinitive	1	to allow
 NUM 20:21	1	6	τῷ	ὁ	article, dative neuter singular	1	the
 NUM 20:21	1	7	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, dative in context	1	Israel
 NUM 20:21	1	8	παρελθεῖν	παρέρχομαι	aorist active infinitive	1	to pass through
@@ -542,7 +542,7 @@ NUM 20:24	1	6	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	h
 NUM 20:24	1	7	ὅτι	ὅτι	causal conjunction	1	because
 NUM 20:24	1	8	οὐ	οὐ	negative particle in the emphatic negation οὐ μή	1	by no means
 NUM 20:24	1	9	μὴ	μή	negative particle completing οὐ μή	1	(with οὐ)
-NUM 20:24	1	10	εἰσέλθητε	εἰσέρχομαι	aorist active subjunctive, second plural	1	shall you enter
+NUM 20:24	1	10	εἰσέλθητε	εἰσέρχομαι	aorist active subjunctive, second plural	1	you shall enter
 NUM 20:24	1	11	εἰς	εἰς	preposition with the accusative	1	into
 NUM 20:24	1	12	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 20:24	1	13	γῆν	γῆ	noun, accusative feminine singular	1	land
@@ -598,7 +598,7 @@ NUM 20:26	1	12	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	h
 NUM 20:26	1	13	καὶ	καί	conjunction	1	and
 NUM 20:26	1	14	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
 NUM 20:26	1	15	προστεθεὶς	προστίθημι	aorist passive participle, nominative masculine singular	1	having been gathered
-NUM 20:26	1	16	ἀποθανέτω	ἀποθνῄσκω	aorist active imperative, third singular	1	shall die
+NUM 20:26	1	16	ἀποθανέτω	ἀποθνῄσκω	aorist active imperative, third singular	1	let him die
 NUM 20:26	1	17	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 NUM 20:27	1	1	Καὶ	καί	conjunction	1	and
 NUM 20:27	1	2	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
@@ -608,7 +608,7 @@ NUM 20:27	1	5	συνέταξε	συντάσσω	aorist active indicative, third 
 NUM 20:27	1	6	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 NUM 20:27	1	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 NUM 20:27	1	8	καὶ	καί	conjunction	1	and
-NUM 20:27	1	9	ἀνεβίβασεν	ἀναβιβάζω	aorist active indicative, third singular, causative	1	made mount
+NUM 20:27	1	9	ἀνεβίβασεν	ἀναβιβάζω	aorist active indicative, third singular, causative	1	led up
 NUM 20:27	1	10	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 NUM 20:27	1	11	εἰς	εἰς	preposition with the accusative	1	into
 NUM 20:27	1	12	Ὢρ	Ὤρ	indeclinable place name, accusative in context	1	Hor
@@ -640,7 +640,7 @@ NUM 20:28	1	19	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 NUM 20:28	1	20	ἐπὶ	ἐπί	preposition	1	on
 NUM 20:28	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
 NUM 20:28	1	22	κορυφῆς	κορυφή	noun, genitive fem. sg. after ἐπὶ τῆς, top	1	top
-NUM 20:28	1	23	τοῦ	ὁ	article, genitive singular	1	the
+NUM 20:28	1	23	τοῦ	ὁ	article, genitive singular	1	of the
 NUM 20:28	1	24	ὄρους	ὄρος	noun, genitive neuter singular	1	mountain
 NUM 20:28	1	25	Καὶ	καί	conjunction	1	and
 NUM 20:28	1	26	κατέβη	καταβαίνω	aorist active indicative, third singular	1	came down
@@ -656,7 +656,7 @@ NUM 20:29	1	2	ἴδε	ὁράω	aorist active indicative, third singular	1	saw
 NUM 20:29	1	3	πᾶσα	πᾶς	adjective, nominative feminine singular with γῆ	1	all
 NUM 20:29	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
 NUM 20:29	1	5	συναγωγὴ	συναγωγή	noun, nominative feminine singular	1	congregation
-NUM 20:29	1	6	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+NUM 20:29	1	6	ὅτι	ὅτι	causal/that conjunction (from context)	1	that
 NUM 20:29	1	7	ἀπελύθη	ἀπολύω	aorist passive indicative, third singular	1	departed
 NUM 20:29	1	8	Ἀαρών	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
 NUM 20:29	1	9	καὶ	καί	conjunction	1	and

@@ -193,7 +193,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:6	1	32	τοῖς	ὁ	article, dative masculine plural	1	the
 1SA 13:6	1	33	λάκκοις	λάκκος	noun, dative masculine plural	1	cisterns
 1SA 13:7	1	1	Καὶ	καί	conjunction	1	and
-1SA 13:7	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
+1SA 13:7	1	2	οἱ	ὁ	article, nominative masculine plural	1	those
 1SA 13:7	1	3	ἐκβαίνοντες	ἐκβαίνω	present active imperative, nominative masculine plural	1	departing
 1SA 13:7	1	4	διέβησαν	διαβαίνω	aorist active indicative, third plural	1	crossed
 1SA 13:7	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -245,7 +245,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:9	1	3	Σαούλ	Σαούλ	indeclinable personal name, nominative in context	1	Saul
 1SA 13:9	1	4	προσαγάγετε	προσάγω	aorist active imperative, second plural	1	bring near
 1SA 13:9	1	5	ὅπως	ὅπως	conjunction of purpose with the subjunctive	1	so that
-1SA 13:9	1	6	ποιήσω	ποιέω	future active indicative, first singular	1	I may make
+1SA 13:9	1	6	ποιήσω	ποιέω	future active indicative, first singular	1	I may offer
 1SA 13:9	1	7	ὁλοκαύτωσιν	ὁλοκαύτωσις	noun, accusative feminine singular	1	a whole burnt offering
 1SA 13:9	1	8	καὶ	καί	conjunction	1	and
 1SA 13:9	1	9	εἰρηνικάς	εἰρηνικός	adjective, accusative feminine plural	1	peace offerings
@@ -268,7 +268,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:10	1	12	ἐξῆλθε	ἐξέρχομαι	aorist active indicative, third singular	1	went out
 1SA 13:10	1	13	Σαοὺλ	Σαούλ	indeclinable personal name, nominative in context	1	Saul
 1SA 13:10	1	14	εἰς	εἰς	preposition with the accusative	1	for
-1SA 13:10	1	15	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	1	meeting
+1SA 13:10	1	15	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	1	a meeting
 1SA 13:10	1	15	ἀπάντησιν			2	encounter
 1SA 13:10	1	16	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	with him
 1SA 13:10	1	17	εὐλογῆσαι	εὐλογέω	aorist active infinitive	1	to bless
@@ -418,8 +418,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:15	1	20	λαοῦ	λαός	noun, genitive masculine singular	1	people
 1SA 13:15	1	21	τοῦ	ὁ	article, genitive masculine singular	1	the
 1SA 13:15	1	22	πολεμιστοῦ	πολεμιστής	noun, genitive masculine singular	1	warrior
-1SA 13:15	1	23	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-1SA 13:15	1	24	παραγενομένων	παραγίνομαι	aorist middle imperative, genitive masculine plural	1	who arrived
+1SA 13:15	1	23	αὐτῶν	αὐτός	pronoun, genitive plural	1	they
+1SA 13:15	1	24	παραγενομένων	παραγίνομαι	aorist middle participle, genitive masculine plural	1	having arrived
 1SA 13:15	1	25	ἐκ	ἐκ	preposition with the genitive	1	from
 1SA 13:15	1	26	Γαλγάλων	Γάλγαλα	proper place name, genitive neuter plural	1	Gilgal
 1SA 13:15	1	27	εἰς	εἰς	preposition with the accusative	1	into
@@ -592,7 +592,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:22	1	14	δόρυ	δόρυ	noun, nominative neuter singular	1	a spear
 1SA 13:22	1	15	ἐν	ἐν	preposition with the dative	1	in
 1SA 13:22	1	16	χειρὶ	χείρ	noun, dative feminine singular	1	the hand
-1SA 13:22	1	17	παντὸς	πᾶς	adjective, genitive masculine singular after παντὸς τοῦ with λαοῦ	1	all
+1SA 13:22	1	17	παντὸς	πᾶς	adjective, genitive masculine singular after παντὸς τοῦ with λαοῦ	1	of all
 1SA 13:22	1	18	τοῦ	ὁ	article, genitive singular	1	the
 1SA 13:22	1	19	λαοῦ	λαός	noun, genitive masculine singular	1	people
 1SA 13:22	1	20	τοῦ	ὁ	article, genitive masculine singular	1	who were
@@ -620,4 +620,4 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:23	1	7	εἰς	εἰς	preposition with the accusative	1	into
 1SA 13:23	1	8	τὸ	ὁ	article, accusative neuter singular	1	the area
 1SA 13:23	1	9	πέραν	πέραν	adverb/preposition with genitive τοῦ Ἰορδάνου, 'beyond'	1	beyond
-1SA 13:23	1	10	Μαχμάς	Μαχμάς	indeclinable place name, nominative in context	1	Michmash
+1SA 13:23	1	10	Μαχμάς	Μαχμάς	indeclinable place name, nominative in context	1	of Michmash

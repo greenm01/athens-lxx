@@ -38,7 +38,7 @@ DEU 19:2	1	3	διαστελεῖς	διαστέλλω	future active indicative, 
 DEU 19:2	1	4	σεαυτῷ	σεαυτοῦ	pronoun, dative masculine singular	1	to yourself
 DEU 19:2	1	5	ἐν	ἐν	preposition with the dative	1	in
 DEU 19:2	1	6	μέσῳ	μέσος	adjective, dative neuter singular	1	midst
-DEU 19:2	1	7	τῆς	ὁ	definite article, genitive feminine singular	1	the
+DEU 19:2	1	7	τῆς	ὁ	definite article, genitive feminine singular	1	of the
 DEU 19:2	1	8	γῆς	γῆ	noun, genitive feminine singular	1	land
 DEU 19:2	1	9	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 19:2	1	10	ἧς	ὅς	relative pronoun, genitive feminine singular	1	which
@@ -52,7 +52,7 @@ DEU 19:2	1	17	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1
 DEU 19:2	1	18	κληρονομῆσαι	κληρονομέω	aorist active infinitive	1	to possess
 DEU 19:2	1	19	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	it
 DEU 19:3	1	1	στόχασαί	στοχάζομαι	aorist middle imperative, 2nd singular	1	prepare
-DEU 19:3	1	2	σοι	σύ	pronoun, dative 2nd singular	1	to you
+DEU 19:3	1	2	σοι	σύ	pronoun, dative 2nd singular	1	for yourself
 DEU 19:3	1	3	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 19:3	1	4	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 DEU 19:3	1	5	καὶ	καί	conjunction	1	and
@@ -137,8 +137,8 @@ DEU 19:5	1	26	τὸ	ὁ	article, accusative neuter singular	1	the
 DEU 19:5	1	27	σιδήριον	σιδήριον	noun, nominative neuter singular	1	iron head
 DEU 19:5	1	28	ἀπὸ	ἀπό	preposition with the genitive	1	from
 DEU 19:5	1	29	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-DEU 19:5	1	30	ξύλου	ξύλον	noun, genitive neuter singular	1	handle
-DEU 19:5	1	31	τύχῃ	τυγχάνω	aorist active subjunctive, 3rd singular	1	hits
+DEU 19:5	1	30	ξύλου	ξύλον	noun, genitive neuter singular	1	wooden handle
+DEU 19:5	1	31	τύχῃ	τυγχάνω	aorist active subjunctive, 3rd singular	1	happens to strike
 DEU 19:5	1	32	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
 DEU 19:5	1	33	πλησίον	πλησίον	substantive, nominative masculine singular	1	neighbour
 DEU 19:5	1	34	καὶ	καί	conjunction	1	and
@@ -183,11 +183,11 @@ DEU 19:6	1	28	ψυχὴν	ψυχή	noun, accusative feminine singular	1	life
 DEU 19:6	1	29	καὶ	καί	conjunction	1	and
 DEU 19:6	1	30	ἀποθάνῃ	ἀποθνῄσκω	aorist active subjunctive, 3rd singular	1	dies
 DEU 19:6	1	31	καὶ	καί	conjunction	1	and
-DEU 19:6	1	32	τούτῳ	οὗτος	demonstrative pronoun, dative singular	1	this
+DEU 19:6	1	32	τούτῳ	οὗτος	demonstrative pronoun, dative singular	1	for this man
 DEU 19:6	1	33	οὐκ	οὐ	negative particle	1	not
 DEU 19:6	1	34	ἔστι	εἰμί	present indicative, 3rd singular	1	is
 DEU 19:6	1	35	κρίσις	κρίσις	noun, nominative feminine singular	1	judgment
-DEU 19:6	1	36	θανάτου	θάνατος	noun, genitive masculine singular	1	death
+DEU 19:6	1	36	θανάτου	θάνατος	noun, genitive masculine singular	1	of death
 DEU 19:6	1	37	ὅτι	ὅτι	causal conjunction	1	because
 DEU 19:6	1	38	οὐ	οὐ	negative adverb with future indicative	1	not
 DEU 19:6	1	39	μισῶν	μισέω	present active participle, nominative masculine singular	1	hating
@@ -226,7 +226,7 @@ DEU 19:8	1	10	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 19:8	1	11	ὃν	ὅς	relative pronoun, accusative masculine singular	1	in which
 DEU 19:8	1	12	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
 DEU 19:8	1	13	ὤμοσε	ὀμνύω	aorist active indicative, 3rd singular	1	swore
-DEU 19:8	1	14	τοῖς	ὁ	article, dative neuter plural	1	the
+DEU 19:8	1	14	τοῖς	ὁ	article, dative neuter plural	1	to the
 DEU 19:8	1	15	πατράσι	πατήρ	noun, dative masc. pl. after τοῖς	1	fathers
 DEU 19:8	1	16	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 19:8	1	17	καὶ	καί	conjunction	1	and
@@ -295,8 +295,8 @@ DEU 19:10	1	13	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 19:10	1	14	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 19:10	1	15	δίδωσί	δίδωμι	present active indicative, 3rd singular	1	gives
 DEU 19:10	1	16	σοι	σύ	pronoun, dative 2nd singular	1	to you
-DEU 19:10	1	17	ἐν	ἐν	preposition with the dative	1	in
-DEU 19:10	1	18	κλήρῳ	κλῆρος	noun, dative masculine singular	1	inheritance
+DEU 19:10	1	17	ἐν	ἐν	preposition with the dative	1	by
+DEU 19:10	1	18	κλήρῳ	κλῆρος	noun, dative masculine singular	1	lot
 DEU 19:10	1	19	καὶ	καί	conjunction	1	and
 DEU 19:10	1	20	οὐκ	οὐ	negative particle	1	not
 DEU 19:10	1	21	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
@@ -314,10 +314,10 @@ DEU 19:11	1	7	πλησίον	πλησίον	substantive, nominative masculine si
 DEU 19:11	1	8	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 19:11	1	9	καὶ	καί	conjunction	1	and
 DEU 19:11	1	10	ἐνεδρεύσῃ	ἐνεδρεύω	aorist active subjunctive, 3rd singular	1	lies in wait
-DEU 19:11	1	11	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
+DEU 19:11	1	11	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	for him
 DEU 19:11	1	12	καὶ	καί	conjunction	1	and
-DEU 19:11	1	13	ἐπαναστῇ	ἐπανίσταμαι	aorist active subjunctive, 3rd singular	1	rises against
-DEU 19:11	1	14	ἐπ᾽	ἐπί	preposition, elided	1	at
+DEU 19:11	1	13	ἐπαναστῇ	ἐπανίσταμαι	aorist active subjunctive, 3rd singular	1	rises up
+DEU 19:11	1	14	ἐπ᾽	ἐπί	preposition, elided	1	against
 DEU 19:11	1	15	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 DEU 19:11	1	16	καὶ	καί	conjunction	1	and
 DEU 19:11	1	17	πατάξῃ	πατάσσω	aorist active subjunctive, 3rd singular	1	strikes
@@ -335,7 +335,7 @@ DEU 19:11	1	28	τούτων	οὗτος	demonstrative pronoun, genitive plural	1
 DEU 19:12	1	1	καὶ	καί	conjunction	1	and
 DEU 19:12	1	2	ἀποστελοῦσιν	ἀποστέλλω	future active indicative, 3rd plural	1	shall send
 DEU 19:12	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
-DEU 19:12	1	4	γερουσία	γερουσία	noun, nominative feminine singular	1	elders
+DEU 19:12	1	4	γερουσία	γερουσία	noun, nominative feminine singular	1	council of elders
 DEU 19:12	1	5	τῆς	ὁ	definite article, genitive feminine singular	1	the
 DEU 19:12	1	6	πόλεως	πόλις	noun, genitive feminine singular after τῆς	1	city
 DEU 19:12	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -400,8 +400,8 @@ DEU 19:14	1	24	Θεός	θεός	noun, nominative masculine singular	1	God
 DEU 19:14	1	25	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 19:14	1	26	δίδωσί	δίδωμι	present active indicative, 3rd singular	1	gives
 DEU 19:14	1	27	σοι	σύ	pronoun, dative 2nd singular	1	to you
-DEU 19:14	1	28	ἐν	ἐν	preposition with the dative	1	in
-DEU 19:14	1	29	κλήρῳ	κλῆρος	noun, dative masculine singular	1	inheritance
+DEU 19:14	1	28	ἐν	ἐν	preposition with the dative	1	by
+DEU 19:14	1	29	κλήρῳ	κλῆρος	noun, dative masculine singular	1	lot
 DEU 19:14	1	30	κληρονομῆσαι	κληρονομέω	aorist active infinitive	1	to possess
 DEU 19:14	1	31	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	it
 DEU 19:15	1	1	Οὐκ	οὐ	negative particle	1	not
@@ -412,27 +412,27 @@ DEU 19:15	1	5	μαρτυρῆσαι	μαρτυρέω	aorist active infinitive	1	
 DEU 19:15	1	6	κατὰ	κατά	preposition with the genitive	1	against
 DEU 19:15	1	7	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	a man
 DEU 19:15	1	8	κατὰ	κατά	preposition with the genitive	1	against
-DEU 19:15	1	9	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
+DEU 19:15	1	9	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	any
 DEU 19:15	1	10	ἀδικίαν	ἀδικία	noun, accusative feminine singular	1	iniquity
 DEU 19:15	1	11	καὶ	καί	conjunction	1	and
 DEU 19:15	1	12	κατὰ	κατά	preposition with the genitive	1	against
-DEU 19:15	1	13	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+DEU 19:15	1	13	πᾶν	πᾶς	adjective, accusative neuter singular	1	any
 DEU 19:15	1	14	ἁμάρτημα	ἁμάρτημα	noun, accusative neuter singular	1	sin
 DEU 19:15	1	15	καὶ	καί	conjunction	1	and
 DEU 19:15	1	16	κατὰ	κατά	preposition with the genitive	1	against
-DEU 19:15	1	17	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
+DEU 19:15	1	17	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	any
 DEU 19:15	1	18	ἁμαρτίαν	ἁμαρτία	noun, accusative feminine singular	1	sin
 DEU 19:15	1	19	ἣν	ὅς	relative pronoun, accusative fem. sg.	1	which
 DEU 19:15	1	20	ἐὰν	ἐάν	conditional conjunction	1	if
 DEU 19:15	1	21	ἁμάρτῃ	ἁμαρτάνω	aorist active subjunctive, 3rd singular	1	sins
 DEU 19:15	1	22	ἐπὶ	ἐπί	preposition	1	on
 DEU 19:15	1	23	στόματος	στόμα	noun, genitive neuter singular	1	mouth
-DEU 19:15	1	24	δύο	δύο	cardinal numeral	1	two
+DEU 19:15	1	24	δύο	δύο	cardinal numeral	1	of two
 DEU 19:15	1	25	μαρτύρων	μάρτυς	noun, genitive masculine plural	1	witnesses
 DEU 19:15	1	26	καὶ	καί	conjunction	1	and
 DEU 19:15	1	27	ἐπὶ	ἐπί	preposition	1	on
 DEU 19:15	1	28	στόματος	στόμα	noun, genitive neuter singular	1	mouth
-DEU 19:15	1	29	τριῶν	τρεῖς	cardinal numeral, genitive plural	1	three
+DEU 19:15	1	29	τριῶν	τρεῖς	cardinal numeral, genitive plural	1	of three
 DEU 19:15	1	30	μαρτύρων	μάρτυς	noun, genitive masculine plural	1	witnesses
 DEU 19:15	1	31	σταθήσεται	ἵσταμαι	future passive indicative, 3rd singular	1	shall stand
 DEU 19:15	1	32	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
@@ -456,7 +456,7 @@ DEU 19:17	1	6	οἷς	ὅς	relative pronoun, dative masculine plural	1	whose
 DEU 19:17	1	7	ἐστιν	εἰμί	present indicative, 3rd singular	1	is
 DEU 19:17	1	8	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 DEU 19:17	1	9	ἡ	ὁ	article, nominative feminine singular	1	the
-DEU 19:17	1	10	ἀντιλογία	ἀντιλογία	noun, nominative feminine singular	1	contradiction
+DEU 19:17	1	10	ἀντιλογία	ἀντιλογία	noun, nominative feminine singular	1	dispute
 DEU 19:17	1	11	ἔναντι	ἔναντι	preposition with the genitive	1	before
 DEU 19:17	1	12	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 DEU 19:17	1	13	καὶ	καί	conjunction	1	and
@@ -484,7 +484,7 @@ DEU 19:18	1	7	ἰδοὺ	ἰδού	interjection	1	behold
 DEU 19:18	1	8	μάρτυς	μάρτυς	noun, nominative masculine singular	1	witness
 DEU 19:18	1	9	ἄδικος	ἄδικος	adjective, nominative masculine singular	1	unrighteous
 DEU 19:18	1	10	ἐμαρτύρησεν	μαρτυρέω	aorist active indicative, 3rd singular	1	testified
-DEU 19:18	1	11	ἄδικα	ἄδικος	adjective, accusative neuter plural	1	unrighteous things
+DEU 19:18	1	11	ἄδικα	ἄδικος	adjective, accusative neuter plural	1	falsely
 DEU 19:18	1	12	ἀντέστη	ἀνθίσταμαι	aorist active indicative, 3rd singular	1	stood against
 DEU 19:18	1	13	κατὰ	κατά	preposition with the genitive	1	against
 DEU 19:18	1	14	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
@@ -495,14 +495,14 @@ DEU 19:19	1	2	ποιήσετε	ποιέω	future active indicative, 2nd plural	1
 DEU 19:19	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 DEU 19:19	1	4	ὃν	ὅς	relative pronoun, accusative masculine singular	1	in which
 DEU 19:19	1	5	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
-DEU 19:19	1	6	ἐπονηρεύσατο	πονηρεύομαι	aorist middle indicative, 3rd singular	1	purposed
+DEU 19:19	1	6	ἐπονηρεύσατο	πονηρεύομαι	aorist middle indicative, 3rd singular	1	plotted
 DEU 19:19	1	7	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
 DEU 19:19	1	8	πλησίον	πλησίον	substantive, nominative masculine singular	1	neighbour
 DEU 19:19	1	9	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
 DEU 19:19	1	10	καὶ	καί	conjunction	1	and
 DEU 19:19	1	11	ἐξαρεῖτε	ἐξαίρω	future active indicative, 2nd plural	1	shall remove
 DEU 19:19	1	12	τὸν	ὁ	definite article, accusative masculine singular	1	the
-DEU 19:19	1	13	πονηρὸν	πονηρός	adjective, accusative singular	1	evil
+DEU 19:19	1	13	πονηρὸν	πονηρός	adjective, accusative singular	1	evildoer
 DEU 19:19	1	14	ἐξ	ἐκ	preposition with the genitive	1	from
 DEU 19:19	1	15	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	you
 DEU 19:19	1	16	αὐτῶν	αὐτός	pronoun, genitive masculine plural intensive	1	yourselves
@@ -522,7 +522,7 @@ DEU 19:20	1	13	ῥῆμα	ῥῆμα	noun, accusative neuter singular	1	thing
 DEU 19:20	1	14	τὸ	ὁ	article, accusative neuter singular	1	the
 DEU 19:20	1	15	πονηρὸν	πονηρός	adjective, accusative singular	1	evil
 DEU 19:20	1	16	τοῦτο	οὗτος	demonstrative pronoun, nominative/accusative neuter singular	1	this
-DEU 19:20	1	17	ἐν	ἐν	preposition with the dative	1	in
+DEU 19:20	1	17	ἐν	ἐν	preposition with the dative	1	among
 DEU 19:20	1	18	ὑμῖν	σύ	pronoun, dative 2nd plural	1	you
 DEU 19:21	1	1	Οὐ	οὐ	negative adverb with future indicative	1	not
 DEU 19:21	1	2	φείσεται	φείδομαι	future middle indicative, 3rd singular	1	shall spare
@@ -532,25 +532,25 @@ DEU 19:21	1	5	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 19:21	1	6	ἐπ᾽	ἐπί	preposition, elided	1	at
 DEU 19:21	1	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 DEU 19:21	1	8	ψυχὴν	ψυχή	noun, accusative feminine singular	1	life
-DEU 19:21	1	9	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
+DEU 19:21	1	9	ἀντὶ	ἀντί	preposition with the genitive	1	for
 DEU 19:21	1	10	ψυχῆς	ψυχή	noun, genitive feminine singular	1	life
 DEU 19:21	1	11	ὀφθαλμὸν	ὀφθαλμός	noun, accusative masculine singular	1	eye
-DEU 19:21	1	12	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
+DEU 19:21	1	12	ἀντὶ	ἀντί	preposition with the genitive	1	for
 DEU 19:21	1	13	ὀφθαλμοῦ	ὀφθαλμός	noun, genitive masculine singular	1	eye
 DEU 19:21	1	14	ὀδόντα	ὀδούς	noun, accusative masculine singular	1	tooth
-DEU 19:21	1	15	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
+DEU 19:21	1	15	ἀντὶ	ἀντί	preposition with the genitive	1	for
 DEU 19:21	1	16	ὀδόντος	ὀδούς	noun, genitive masculine singular	1	tooth
 DEU 19:21	1	17	χεῖρα	χείρ	noun, accusative feminine singular	1	hand
-DEU 19:21	1	18	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
+DEU 19:21	1	18	ἀντὶ	ἀντί	preposition with the genitive	1	for
 DEU 19:21	1	19	χειρὸς	χείρ	noun, genitive feminine singular	1	hand
 DEU 19:21	1	20	πόδα	πούς	noun, accusative masculine singular	1	foot
-DEU 19:21	1	21	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
+DEU 19:21	1	21	ἀντὶ	ἀντί	preposition with the genitive	1	for
 DEU 19:21	1	22	ποδός	πούς	noun, genitive masculine singular	1	foot
 DEU 19:21	1	23	Καθότι	καθότι	conjunction	1	according as
 DEU 19:21	1	24	ἂν	ἄν	modal particle with the subjunctive	1	ever
 DEU 19:21	1	25	δῷ	δίδωμι	aorist active subjunctive, 3rd singular	1	gives
 DEU 19:21	1	26	μῶμον	μῶμος	noun, accusative masculine singular	1	blemish
-DEU 19:21	1	27	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+DEU 19:21	1	27	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
 DEU 19:21	1	28	πλησίον	πλησίον	substantive, nominative masculine singular	1	neighbour
 DEU 19:21	1	29	οὕτως	οὕτως	adverb	1	so
 DEU 19:21	1	30	δοθήσεται	δίδωμι	future passive indicative, 3rd singular	1	shall be done

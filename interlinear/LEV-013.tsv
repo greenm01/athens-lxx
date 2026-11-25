@@ -67,9 +67,9 @@ LEV 13:3	1	23	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 13:3	1	24	ἁφῆς	ἁφή	noun, genitive feminine singular	1	lesion
 LEV 13:3	1	25	ταπεινὴ	ταπεινός	adjective, nominative feminine singular	1	lower
 LEV 13:3	1	25	ταπεινὴ			2	sunken
-LEV 13:3	1	26	ἀπὸ	ἀπό	preposition with the genitive	1	from
+LEV 13:3	1	26	ἀπὸ	ἀπό	preposition with the genitive	1	relative to
 LEV 13:3	1	27	τοῦ	ὁ	article, genitive singular	1	the
-LEV 13:3	1	28	δέρματος	δέρμα	noun, genitive neuter singular	1	hide
+LEV 13:3	1	28	δέρματος	δέρμα	noun, genitive neuter singular	1	skin
 LEV 13:3	1	28	δέρματος			2	leather
 LEV 13:3	1	29	τοῦ	ὁ	article, genitive singular	1	the
 LEV 13:3	1	30	χρωτὸς	χρώς	noun, genitive masculine singular	1	skin
@@ -104,9 +104,9 @@ LEV 13:4	1	15	ᾖ	εἰμί	present subjunctive, third singular	1	may be
 LEV 13:4	1	16	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:4	1	17	ὄψις	ὄψις	noun, nominative feminine singular	1	appearance
 LEV 13:4	1	18	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
-LEV 13:4	1	19	ἀπὸ	ἀπό	preposition with the genitive	1	from
+LEV 13:4	1	19	ἀπὸ	ἀπό	preposition with the genitive	1	relative to
 LEV 13:4	1	20	τοῦ	ὁ	article, genitive neuter singular	1	the
-LEV 13:4	1	21	δέρματος	δέρμα	noun, genitive neuter singular	1	hide
+LEV 13:4	1	21	δέρματος	δέρμα	noun, genitive neuter singular	1	skin
 LEV 13:4	1	21	δέρματος			2	leather
 LEV 13:4	1	22	καὶ	καί	conjunction	1	and
 LEV 13:4	1	23	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -145,7 +145,7 @@ LEV 13:5	1	13	ἁφὴ	ἁφή	noun, nominative feminine singular	1	lesion
 LEV 13:5	1	14	μένει	μένω	present active indicative, third singular	1	endures
 LEV 13:5	1	14	μένει			2	remains
 LEV 13:5	1	15	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
-LEV 13:5	1	16	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+LEV 13:5	1	16	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	him
 LEV 13:5	1	17	οὐ	οὐ	negative particle	1	not
 LEV 13:5	1	18	μετέπεσεν	μεταπίπτω	aorist active indicative, third singular	1	changed
 LEV 13:5	1	19	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -166,7 +166,7 @@ LEV 13:6	1	2	ὄψεται	ὁράω	future middle indicative, third singular	1	
 LEV 13:6	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 LEV 13:6	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 13:6	1	5	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
-LEV 13:6	1	6	τῇ	ὁ	article, dative feminine singular	1	the
+LEV 13:6	1	6	τῇ	ὁ	article, dative feminine singular	1	on the
 LEV 13:6	1	7	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular after τῇ	1	day
 LEV 13:6	1	8	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 13:6	1	9	ἑβδόμῃ	ἕβδομος	ordinal adjective, dative fem. sg. with ἡμέρᾳ	1	seventh
@@ -210,8 +210,8 @@ LEV 13:7	1	8	τῷ	ὁ	article, dative neuter singular	1	the
 LEV 13:7	1	9	δέρματι	δέρμα	noun, dative neuter singular	1	skin
 LEV 13:7	1	10	μετὰ	μετά	preposition with the accusative	1	after
 LEV 13:7	1	11	τὸ	ὁ	article with the infinitive, accusative neuter singular	1	(marks the infinitive)
-LEV 13:7	1	12	ἰδεῖν	ὁράω	aorist active infinitive	1	saw
-LEV 13:7	1	13	αὐτὸν	αὐτός	pronoun, subject of the infinitive, accusative masculine singular	1	he
+LEV 13:7	1	12	ἰδεῖν	ὁράω	aorist active infinitive	1	to see
+LEV 13:7	1	13	αὐτὸν	αὐτός	pronoun, accusative masculine singular, object of the infinitive	1	him
 LEV 13:7	1	14	τὸν	ὁ	article, accusative masculine singular; with the subject of ἰδεῖν	1	the
 LEV 13:7	1	15	ἱερέα	ἱερεύς	noun, accusative masculine singular	1	priest
 LEV 13:7	1	16	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -221,7 +221,7 @@ LEV 13:7	1	19	καὶ	καί	conjunction	1	and
 LEV 13:7	1	20	ὀφθήσεται	ὁράω	future passive indicative, third singular	1	will appear
 LEV 13:7	1	20	ὀφθήσεται			2	will be seen
 LEV 13:7	1	21	τοδεύτερον	τοδεύτερον	adverbial expression, printed as one token	1	a second time
-LEV 13:7	1	22	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+LEV 13:7	1	22	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 LEV 13:7	1	23	ἱερεῖ	ἱερεύς	noun, dative masculine singular	1	priest
 LEV 13:8	1	1	καὶ	καί	conjunction	1	and
 LEV 13:8	1	2	ὄψεται	ὁράω	future middle indicative, third singular	1	will see
@@ -268,7 +268,7 @@ LEV 13:10	1	9	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:10	1	10	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:10	1	11	δέρματι	δέρμα	noun, dative neuter singular	1	skin
 LEV 13:10	1	12	καὶ	καί	conjunction	1	and
-LEV 13:10	1	13	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	she
+LEV 13:10	1	13	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 LEV 13:10	1	14	μετέβαλε	μεταβάλλω	aorist active indicative, third singular transitive	1	turned
 LEV 13:10	1	15	τρίχα	θρίξ	noun, accusative feminine singular	1	hair
 LEV 13:10	1	16	λευκὴν	λευκός	adjective, accusative feminine singular	1	white
@@ -320,8 +320,8 @@ LEV 13:12	1	12	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:12	1	13	λέπρα	λέπρα	noun, nominative feminine singular	1	scaly disease
 LEV 13:12	1	14	πᾶν	πᾶς	adjective, accusative neuter singular	1	all
 LEV 13:12	1	15	τὸ	ὁ	article, accusative neuter singular	1	the
-LEV 13:12	1	16	δέρμα	δέρμα	noun, accusative neuter singular	1	hide
-LEV 13:12	1	16	δέρμα			2	skin
+LEV 13:12	1	16	δέρμα	δέρμα	noun, accusative neuter singular	1	skin
+LEV 13:12	1	16	δέρμα			2	hide
 LEV 13:12	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 13:12	1	18	ἁφῆς	ἁφή	noun, genitive feminine singular	1	lesion
 LEV 13:12	1	19	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -330,11 +330,11 @@ LEV 13:12	1	21	ἕως	ἕως	preposition with the genitive	1	as far as
 LEV 13:12	1	21	ἕως			2	up to
 LEV 13:12	1	22	ποδῶν	πούς	noun, genitive masculine plural	1	feet
 LEV 13:12	1	23	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-LEV 13:12	1	24	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	concerning
+LEV 13:12	1	24	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	according to
 LEV 13:12	1	25	ὅλην	ὅλος	adjective, accusative feminine singular	1	whole
 LEV 13:12	1	26	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 13:12	1	27	ὅρασιν	ὅρασις	noun, accusative feminine singular	1	sight
-LEV 13:12	1	28	τοῦ	ὁ	article, genitive masculine singular	1	the
+LEV 13:12	1	28	τοῦ	ὁ	article, genitive masculine singular	1	of the
 LEV 13:12	1	29	ἱερέως	ἱερεύς	noun, genitive masculine singular	1	priest
 LEV 13:13	1	1	καὶ	καί	conjunction	1	and
 LEV 13:13	1	2	ὄψεται	ὁράω	future middle indicative, third singular	1	will see
@@ -347,8 +347,8 @@ LEV 13:13	1	8	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:13	1	9	λέπρα	λέπρα	noun, nominative feminine singular	1	scaly disease
 LEV 13:13	1	10	πᾶν	πᾶς	adjective, accusative neuter singular with σπέρμα	1	all
 LEV 13:13	1	11	τὸ	ὁ	article, accusative neuter singular	1	the
-LEV 13:13	1	12	δέρμα	δέρμα	noun, accusative neuter singular	1	hide
-LEV 13:13	1	12	δέρμα			2	skin
+LEV 13:13	1	12	δέρμα	δέρμα	noun, accusative neuter singular	1	skin
+LEV 13:13	1	12	δέρμα			2	hide
 LEV 13:13	1	13	τοῦ	ὁ	article, genitive singular	1	the
 LEV 13:13	1	14	χρωτὸς	χρώς	noun, genitive masculine singular	1	skin
 LEV 13:13	1	15	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -376,7 +376,7 @@ LEV 13:14	1	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 LEV 13:14	1	8	χρὼς	χρώς	noun, nominative masculine singular	1	flesh
 LEV 13:14	1	9	ζῶν	ζάω	present active participle, nominative neuter singular	1	living
 LEV 13:14	1	9	ζῶν			2	alive
-LEV 13:14	1	10	μιανθήσεται	μιαίνω	future passive indicative, third singular	1	shall be unclean
+LEV 13:14	1	10	μιανθήσεται	μιαίνω	future passive indicative, third singular	1	shall be declared unclean
 LEV 13:15	1	1	καὶ	καί	conjunction	1	and
 LEV 13:15	1	2	ὄψεται	ὁράω	future middle indicative, third singular	1	will see
 LEV 13:15	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -433,7 +433,7 @@ LEV 13:17	1	12	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 13:17	1	13	λευκὸν	λευκός	adjective, accusative neuter singular; substantival	1	white
 LEV 13:17	1	13	λευκὸν			2	white markings
 LEV 13:17	1	14	καὶ	καί	conjunction	1	and
-LEV 13:17	1	15	καθαριεῖ	καθαρίζω	future active indicative, third singular	1	he will cleanse
+LEV 13:17	1	15	καθαριεῖ	καθαρίζω	future active indicative, third singular	1	he shall pronounce clean
 LEV 13:17	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 13:17	1	17	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
 LEV 13:17	1	18	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -471,7 +471,7 @@ LEV 13:19	1	14	πυῤῥίζουσα	πυρρίζω	present active participle, 
 LEV 13:19	1	15	καὶ	καί	conjunction	1	and
 LEV 13:19	1	16	ὀφθήσεται	ὁράω	future passive indicative, third singular	1	will appear
 LEV 13:19	1	16	ὀφθήσεται			2	will be seen
-LEV 13:19	1	17	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+LEV 13:19	1	17	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 LEV 13:19	1	18	ἱερεῖ	ἱερεύς	noun, dative masculine singular	1	priest
 LEV 13:20	1	1	καὶ	καί	conjunction	1	and
 LEV 13:20	1	2	ὄψεται	ὁράω	future middle indicative, third singular	1	will see
@@ -484,14 +484,14 @@ LEV 13:20	1	8	ὄψις	ὄψις	noun, nominative feminine singular	1	appearanc
 LEV 13:20	1	9	ταπεινοτέρα	ταπεινός	adjective, nominative feminine singular; comparative	1	lower
 LEV 13:20	1	9	ταπεινοτέρα			2	deeper
 LEV 13:20	1	10	τοῦ	ὁ	article, genitive neuter singular	1	the
-LEV 13:20	1	11	δέρματος	δέρμα	noun, genitive neuter singular	1	hide
+LEV 13:20	1	11	δέρματος	δέρμα	noun, genitive neuter singular	1	skin
 LEV 13:20	1	11	δέρματος			2	leather
 LEV 13:20	1	12	καὶ	καί	conjunction	1	and
 LEV 13:20	1	13	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:20	1	14	θρὶξ	θρίξ	noun, nominative feminine singular	1	hair
 LEV 13:20	1	15	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 LEV 13:20	1	16	μετέβαλεν	μεταβάλλω	aorist active indicative, third singular	1	has turned
-LEV 13:20	1	17	εἰς	εἰς	preposition with accusative; denotes purpose	1	for
+LEV 13:20	1	17	εἰς	εἰς	preposition with accusative; denotes purpose	1	to
 LEV 13:20	1	18	λευκὴν	λευκός	adjective, accusative feminine singular	1	white
 LEV 13:20	1	19	καὶ	καί	conjunction	1	and
 LEV 13:20	1	20	μιανεῖ	μιαίνω	future active indicative, third singular	1	shall declare unclean
@@ -515,16 +515,16 @@ LEV 13:21	1	7	ἰδοὺ	ἰδού	presentative particle	1	behold
 LEV 13:21	1	8	οὐκ	οὐ	negative particle	1	not
 LEV 13:21	1	9	ἔστιν	εἰμί	present indicative, third singular	1	is
 LEV 13:21	1	10	ἐν	ἐν	preposition with the dative	1	in
-LEV 13:21	1	11	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
+LEV 13:21	1	11	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
 LEV 13:21	1	12	θρὶξ	θρίξ	noun, nominative feminine singular	1	hair
 LEV 13:21	1	13	λευκὴ	λευκός	adjective, nominative feminine singular	1	white
 LEV 13:21	1	14	καὶ	καί	conjunction	1	and
 LEV 13:21	1	15	ταπεινὸν	ταπεινός	adjective, nominative neuter singular	1	sunken
 LEV 13:21	1	16	μὴ	μή	negative particle	1	not
 LEV 13:21	1	17	ᾖ	εἰμί	present subjunctive, third singular	1	may be
-LEV 13:21	1	18	ἀπὸ	ἀπό	preposition with the genitive	1	from
+LEV 13:21	1	18	ἀπὸ	ἀπό	preposition with the genitive	1	relative to
 LEV 13:21	1	19	τοῦ	ὁ	article, genitive singular	1	the
-LEV 13:21	1	20	δέρματος	δέρμα	noun, genitive neuter singular	1	hide
+LEV 13:21	1	20	δέρματος	δέρμα	noun, genitive neuter singular	1	skin
 LEV 13:21	1	20	δέρματος			2	leather
 LEV 13:21	1	21	τοῦ	ὁ	article, genitive masculine singular	1	of the
 LEV 13:21	1	22	χρωτὸς	χρώς	noun, genitive masculine singular	1	skin
@@ -606,7 +606,7 @@ LEV 13:24	1	22	λευκὸν	λευκός	adjective, accusative neuter singular;
 LEV 13:24	1	22	λευκὸν			2	white markings
 LEV 13:24	1	23	ὑποπυῤῥίζον	ὑποπυρρίζω	present active participle, nominative neuter singular	1	somewhat reddish
 LEV 13:24	1	24	ἢ	ἤ	disjunctive conjunction	1	or
-LEV 13:24	1	25	ἔκλευκον	ἔκλευκος	adjective, nominative neuter singular	1	white
+LEV 13:24	1	25	ἔκλευκον	ἔκλευκος	adjective, nominative neuter singular	1	very white
 LEV 13:25	1	1	καὶ	καί	conjunction	1	and
 LEV 13:25	1	2	ὄψεται	ὁράω	future middle indicative, third singular	1	will see
 LEV 13:25	1	3	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
@@ -617,18 +617,18 @@ LEV 13:25	1	7	ἰδοὺ	ἰδού	presentative particle	1	behold
 LEV 13:25	1	8	μετέβαλε	μεταβάλλω	aorist active indicative, third singular transitive	1	turned
 LEV 13:25	1	9	θρὶξ	θρίξ	noun, nominative feminine singular	1	hair
 LEV 13:25	1	10	λευκὴ	λευκός	adjective, nominative feminine singular	1	white
-LEV 13:25	1	11	εἰς	εἰς	preposition with accusative	1	into
+LEV 13:25	1	11	εἰς	εἰς	preposition with accusative	1	in
 LEV 13:25	1	12	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 13:25	1	13	αὐγάζον	αὐγάζω	present active participle, accusative neuter singular; used substantivally	1	bright patch
 LEV 13:25	1	14	καὶ	καί	conjunction	1	and
 LEV 13:25	1	15	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:25	1	16	ὄψις	ὄψις	noun, nominative feminine singular	1	appearance
-LEV 13:25	1	17	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
+LEV 13:25	1	17	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	its
 LEV 13:25	1	18	ταπεινὴ	ταπεινός	adjective, nominative feminine singular	1	lower
 LEV 13:25	1	18	ταπεινὴ			2	sunken
-LEV 13:25	1	19	ἀπὸ	ἀπό	preposition with the genitive	1	from
+LEV 13:25	1	19	ἀπὸ	ἀπό	preposition with the genitive	1	relative to
 LEV 13:25	1	20	τοῦ	ὁ	article, genitive singular	1	the
-LEV 13:25	1	21	δέρματος	δέρμα	noun, genitive neuter singular	1	hide
+LEV 13:25	1	21	δέρματος	δέρμα	noun, genitive neuter singular	1	skin
 LEV 13:25	1	21	δέρματος			2	leather
 LEV 13:25	1	22	λέπρα	λέπρα	noun, nominative feminine singular	1	scaly disease
 LEV 13:25	1	23	ἐστὶν	εἰμί	present indicative, third singular	1	is
@@ -662,9 +662,9 @@ LEV 13:26	1	15	καὶ	καί	conjunction	1	and
 LEV 13:26	1	16	ταπεινὸν	ταπεινός	adjective, nominative neuter singular	1	sunken
 LEV 13:26	1	17	μὴ	μή	negative particle	1	not
 LEV 13:26	1	18	ᾖ	εἰμί	present subjunctive, third singular	1	may be
-LEV 13:26	1	19	ἀπὸ	ἀπό	preposition with the genitive	1	from
+LEV 13:26	1	19	ἀπὸ	ἀπό	preposition with the genitive	1	relative to
 LEV 13:26	1	20	τοῦ	ὁ	article, genitive neuter singular	1	the
-LEV 13:26	1	21	δέρματος	δέρμα	noun, genitive neuter singular	1	hide
+LEV 13:26	1	21	δέρματος	δέρμα	noun, genitive neuter singular	1	skin
 LEV 13:26	1	21	δέρματος			2	leather
 LEV 13:26	1	22	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
 LEV 13:26	1	23	δὲ	δέ	postpositive conjunction	1	now
@@ -727,7 +727,7 @@ LEV 13:28	1	17	ἀμαυρὰ	ἀμαυρός	adjective, nominative feminine sin
 LEV 13:28	1	17	ἀμαυρὰ			2	dull
 LEV 13:28	1	18	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:28	1	19	οὐλὴ	οὐλή	noun, nominative feminine singular	1	scar
-LEV 13:28	1	20	τοῦ	ὁ	article, genitive singular	1	the
+LEV 13:28	1	20	τοῦ	ὁ	article, genitive singular	1	of the
 LEV 13:28	1	21	κατακαύματός	κατάκαυμα	noun, genitive neuter singular	1	burn
 LEV 13:28	1	22	ἐστι	εἰμί	present indicative, third singular	1	is
 LEV 13:28	1	23	καὶ	καί	conjunction	1	and
@@ -743,10 +743,10 @@ LEV 13:28	1	31	τοῦ	ὁ	article, genitive neuter singular	1	of the
 LEV 13:28	1	32	κατακαύματός	κατάκαυμα	noun, genitive neuter singular	1	burn
 LEV 13:28	1	33	ἐστι	εἰμί	present indicative, third singular	1	is
 LEV 13:29	1	1	Καὶ	καί	conjunction	1	and
-LEV 13:29	1	2	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	husband
+LEV 13:29	1	2	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	a man
 LEV 13:29	1	2	ἀνδρὶ			2	man
 LEV 13:29	1	3	καὶ	καί	conjunction	1	and
-LEV 13:29	1	4	γυναικὶ	γυνή	noun, dative feminine singular	1	wife
+LEV 13:29	1	4	γυναικὶ	γυνή	noun, dative feminine singular	1	a woman
 LEV 13:29	1	5	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 LEV 13:29	1	6	γένηται	γίνομαι	aorist middle subjunctive, 3rd sg. after ἂν	1	may be
 LEV 13:29	1	7	ἐν	ἐν	preposition with the dative	1	in
@@ -756,8 +756,8 @@ LEV 13:29	1	10	λέπρας	λέπρα	noun, genitive feminine singular	1	scaly 
 LEV 13:29	1	11	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:29	1	12	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 13:29	1	13	κεφαλῇ	κεφαλή	noun, dative feminine singular	1	head
-LEV 13:29	1	14	ἢ	ἤ	particle in exceptive expression	1	[marks exception]
-LEV 13:29	1	15	ἐν	ἐν	preposition with dative	1	for
+LEV 13:29	1	14	ἢ	ἤ	disjunctive conjunction	1	or
+LEV 13:29	1	15	ἐν	ἐν	preposition with dative	1	in
 LEV 13:29	1	16	τῷ	ὁ	article, dative masculine singular	1	the
 LEV 13:29	1	17	πώγωνι	πώγων	noun, dative masculine singular	1	beard
 LEV 13:30	1	1	καὶ	καί	conjunction	1	and
@@ -774,7 +774,7 @@ LEV 13:30	1	11	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
 LEV 13:30	1	11	αὐτῆς			2	her
 LEV 13:30	1	12	ἐγκοιλοτέρα	ἔγκοιλος	adjective, nominative feminine singular; comparative	1	more sunken
 LEV 13:30	1	13	τοῦ	ὁ	article, genitive neuter singular	1	the
-LEV 13:30	1	14	δέρματος	δέρμα	noun, genitive neuter singular	1	hide
+LEV 13:30	1	14	δέρματος	δέρμα	noun, genitive neuter singular	1	skin
 LEV 13:30	1	14	δέρματος			2	leather
 LEV 13:30	1	15	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:30	1	16	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
@@ -792,9 +792,9 @@ LEV 13:30	1	26	θραῦσμά			2	eruption
 LEV 13:30	1	27	ἐστι	εἰμί	present indicative, third singular	1	is
 LEV 13:30	1	28	λέπρα	λέπρα	noun, nominative feminine singular	1	scaly disease
 LEV 13:30	1	29	ἐστὶ	εἰμί	present indicative, third singular	1	is
-LEV 13:30	1	30	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 13:30	1	30	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 13:30	1	31	κεφαλῆς	κεφαλή	noun, genitive feminine singular	1	head
-LEV 13:30	1	32	ἢ	ἤ	particle	1	only
+LEV 13:30	1	32	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 13:30	1	33	λέπρα	λέπρα	noun, nominative feminine singular	1	scaly disease
 LEV 13:30	1	34	τοῦ	ὁ	article, genitive masculine singular	1	of the
 LEV 13:30	1	35	πώγωνός	πώγων	noun, genitive masculine singular	1	beard
@@ -806,7 +806,7 @@ LEV 13:31	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 13:31	1	5	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
 LEV 13:31	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 13:31	1	7	ἁφὴν	ἁφή	noun, accusative feminine singular	1	lesion
-LEV 13:31	1	8	τοῦ	ὁ	article, genitive neuter singular	1	the
+LEV 13:31	1	8	τοῦ	ὁ	article, genitive neuter singular	1	of the
 LEV 13:31	1	9	θραύσματος	θραῦσμα	noun, genitive neuter singular	1	scab
 LEV 13:31	1	9	θραύσματος			2	eruption
 LEV 13:31	1	10	καὶ	καί	conjunction	1	and
@@ -816,7 +816,7 @@ LEV 13:31	1	13	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:31	1	14	ὄψις	ὄψις	noun, nominative feminine singular	1	appearance
 LEV 13:31	1	15	ἐγκοιλοτέρα	ἔγκοιλος	adjective, nominative feminine singular; comparative	1	more sunken
 LEV 13:31	1	16	τοῦ	ὁ	article, genitive neuter singular	1	the
-LEV 13:31	1	17	δέρματος	δέρμα	noun, genitive neuter singular	1	hide
+LEV 13:31	1	17	δέρματος	δέρμα	noun, genitive neuter singular	1	skin
 LEV 13:31	1	17	δέρματος			2	leather
 LEV 13:31	1	18	καὶ	καί	conjunction	1	and
 LEV 13:31	1	19	θρὶξ	θρίξ	noun, nominative feminine singular	1	hair
@@ -831,7 +831,7 @@ LEV 13:31	1	27	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 13:31	1	28	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
 LEV 13:31	1	29	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 13:31	1	30	ἁφὴν	ἁφή	noun, accusative feminine singular	1	lesion
-LEV 13:31	1	31	τοῦ	ὁ	article, genitive neuter singular	1	the
+LEV 13:31	1	31	τοῦ	ὁ	article, genitive neuter singular	1	of the
 LEV 13:31	1	32	θραύσματος	θραῦσμα	noun, genitive neuter singular	1	scab
 LEV 13:31	1	32	θραύσματος			2	eruption
 LEV 13:31	1	33	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
@@ -842,7 +842,7 @@ LEV 13:32	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 13:32	1	4	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
 LEV 13:32	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 13:32	1	6	ἁφὴν	ἁφή	noun, accusative feminine singular	1	lesion
-LEV 13:32	1	7	τῇ	ὁ	article, dative feminine singular	1	the
+LEV 13:32	1	7	τῇ	ὁ	article, dative feminine singular	1	on the
 LEV 13:32	1	8	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 LEV 13:32	1	9	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 13:32	1	10	ἑβδόμῃ	ἕβδομος	ordinal adjective, dative fem. sg. with ἡμέρᾳ	1	seventh
@@ -863,21 +863,21 @@ LEV 13:32	1	23	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 LEV 13:32	1	24	καὶ	καί	conjunction	1	and
 LEV 13:32	1	25	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:32	1	26	ὄψις	ὄψις	noun, nominative feminine singular	1	appearance
-LEV 13:32	1	27	τοῦ	ὁ	article, genitive neuter singular	1	the
+LEV 13:32	1	27	τοῦ	ὁ	article, genitive neuter singular	1	of the
 LEV 13:32	1	28	θραύσματος	θραῦσμα	noun, genitive neuter singular	1	scab
 LEV 13:32	1	28	θραύσματος			2	eruption
 LEV 13:32	1	29	οὐκ	οὐ	negative particle	1	not
 LEV 13:32	1	30	ἔστι	εἰμί	present active indicative, third singular	1	is
 LEV 13:32	1	31	κοίλη	κοῖλος	adjective, nominative feminine singular	1	sunken
-LEV 13:32	1	32	ἀπὸ	ἀπό	preposition with the genitive	1	from
+LEV 13:32	1	32	ἀπὸ	ἀπό	preposition with the genitive	1	relative to
 LEV 13:32	1	33	τοῦ	ὁ	article, genitive neuter singular	1	the
-LEV 13:32	1	34	δέρματος	δέρμα	noun, genitive neuter singular	1	hide
+LEV 13:32	1	34	δέρματος	δέρμα	noun, genitive neuter singular	1	skin
 LEV 13:32	1	34	δέρματος			2	leather
 LEV 13:33	1	1	καὶ	καί	conjunction	1	and
 LEV 13:33	1	2	ξυρηθήσεται	ξυράω	future passive indicative, third singular	1	shall be shaved
 LEV 13:33	1	3	τὸ	ὁ	article, accusative neuter singular	1	the
-LEV 13:33	1	4	δέρμα	δέρμα	noun, accusative neuter singular	1	hide
-LEV 13:33	1	4	δέρμα			2	skin
+LEV 13:33	1	4	δέρμα	δέρμα	noun, accusative neuter singular	1	skin
+LEV 13:33	1	4	δέρμα			2	hide
 LEV 13:33	1	5	τὸ	ὁ	article, neuter singular (case from context)	1	the
 LEV 13:33	1	6	δὲ	δέ	postpositive conjunction	1	and
 LEV 13:33	1	7	θραῦσμα	θραῦσμα	noun, accusative neuter singular	1	scab
@@ -901,7 +901,7 @@ LEV 13:34	1	4	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1
 LEV 13:34	1	5	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 13:34	1	6	θραῦσμα	θραῦσμα	noun, accusative neuter singular	1	scab
 LEV 13:34	1	6	θραῦσμα			2	eruption
-LEV 13:34	1	7	τῇ	ὁ	article, dative feminine singular	1	the
+LEV 13:34	1	7	τῇ	ὁ	article, dative feminine singular	1	on the
 LEV 13:34	1	8	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 LEV 13:34	1	9	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 13:34	1	10	ἑβδόμῃ	ἕβδομος	ordinal adjective, dative fem. sg. with ἡμέρᾳ	1	seventh
@@ -922,15 +922,15 @@ LEV 13:34	1	23	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1
 LEV 13:34	1	24	καὶ	καί	conjunction	1	and
 LEV 13:34	1	25	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:34	1	26	ὄψις	ὄψις	noun, nominative feminine singular	1	appearance
-LEV 13:34	1	27	τοῦ	ὁ	article, genitive neuter singular	1	the
+LEV 13:34	1	27	τοῦ	ὁ	article, genitive neuter singular	1	of the
 LEV 13:34	1	28	θραύσματος	θραῦσμα	noun, genitive neuter singular	1	scab
 LEV 13:34	1	28	θραύσματος			2	eruption
 LEV 13:34	1	29	οὐκ	οὐ	negative particle	1	not
 LEV 13:34	1	30	ἔστι	εἰμί	present active indicative, third singular	1	is
 LEV 13:34	1	31	κοίλη	κοῖλος	adjective, nominative feminine singular	1	sunken
-LEV 13:34	1	32	ἀπὸ	ἀπό	preposition with the genitive	1	from
+LEV 13:34	1	32	ἀπὸ	ἀπό	preposition with the genitive	1	relative to
 LEV 13:34	1	33	τοῦ	ὁ	article, genitive neuter singular	1	the
-LEV 13:34	1	34	δέρματος	δέρμα	noun, genitive neuter singular	1	hide
+LEV 13:34	1	34	δέρματος	δέρμα	noun, genitive neuter singular	1	skin
 LEV 13:34	1	34	δέρματος			2	leather
 LEV 13:34	1	35	καὶ	καί	conjunction	1	and
 LEV 13:34	1	36	καθαριεῖ	καθαρίζω	future active indicative, third singular	1	he will cleanse
@@ -973,11 +973,11 @@ LEV 13:36	1	11	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:36	1	12	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:36	1	13	δέρματι	δέρμα	noun, dative neuter singular	1	skin
 LEV 13:36	1	14	οὐκ	οὐ	negative particle	1	not
-LEV 13:36	1	15	ἐπισκέψεται	ἐπισκέπτομαι	future middle indicative, third singular, visit (in mercy)	1	will visit
+LEV 13:36	1	15	ἐπισκέψεται	ἐπισκέπτομαι	future middle indicative, third singular, visit (in mercy)	1	will examine
 LEV 13:36	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 13:36	1	17	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
-LEV 13:36	1	18	περὶ	περί	preposition with the genitive	1	on account of
-LEV 13:36	1	18	περὶ			2	concerning
+LEV 13:36	1	18	περὶ	περί	preposition with the genitive	1	concerning
+LEV 13:36	1	18	περὶ			2	on account of
 LEV 13:36	1	19	τῆς	ὁ	article, genitive feminine singular	1	the
 LEV 13:36	1	20	τριχὸς	θρίξ	noun, genitive feminine singular	1	hair
 LEV 13:36	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -989,7 +989,7 @@ LEV 13:37	1	1	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 LEV 13:37	1	2	δὲ	δέ	postpositive conjunction	1	and
 LEV 13:37	1	3	ἐνώπιον	ἐνώπιον	preposition with the genitive	1	before
 LEV 13:37	1	3	ἐνώπιον			2	in the sight of
-LEV 13:37	1	4	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+LEV 13:37	1	4	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	him
 LEV 13:37	1	5	μείνῃ	μένω	aorist active subjunctive, third singular	1	remains
 LEV 13:37	1	6	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 13:37	1	7	θραῦσμα	θραῦσμα	noun, accusative neuter singular	1	scab
@@ -1001,7 +1001,7 @@ LEV 13:37	1	11	θρὶξ	θρίξ	noun, nominative feminine singular	1	hair
 LEV 13:37	1	12	μέλαινα	μέλας	adjective, nominative feminine singular	1	black
 LEV 13:37	1	13	ἀνατείλῃ	ἀνατέλλω	aorist active subjunctive, third singular	1	grows
 LEV 13:37	1	14	ἐν	ἐν	preposition with the dative	1	in
-LEV 13:37	1	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
+LEV 13:37	1	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
 LEV 13:37	1	16	ὑγίακε	ὑγιάζω	perfect active indicative, third singular	1	has healed
 LEV 13:37	1	17	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 13:37	1	18	θραῦσμα	θραῦσμα	noun, accusative neuter singular	1	scab
@@ -1015,9 +1015,9 @@ LEV 13:37	1	23	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1
 LEV 13:37	1	24	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 13:37	1	25	ἱερεύς	ἱερεύς	noun, nominative masculine singular	1	priest
 LEV 13:38	1	1	Καὶ	καί	conjunction	1	and
-LEV 13:38	1	2	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	to a husband
+LEV 13:38	1	2	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	to a man
 LEV 13:38	1	3	ἢ	ἤ	disjunctive conjunction	1	or
-LEV 13:38	1	4	γυναικὶ	γυνή	noun, dative feminine singular	1	wife
+LEV 13:38	1	4	γυναικὶ	γυνή	noun, dative feminine singular	1	a woman
 LEV 13:38	1	5	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 LEV 13:38	1	6	γένηται	γίνομαι	aorist middle subjunctive, 3rd sg. after ἂν	1	may be
 LEV 13:38	1	7	ἐν	ἐν	preposition with the dative	1	in
@@ -1072,8 +1072,8 @@ LEV 13:40	1	10	καθαρός			2	free
 LEV 13:40	1	11	ἐστιν	εἰμί	present indicative, third singular	1	is
 LEV 13:41	1	1	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 LEV 13:41	1	2	δὲ	δέ	postpositive conjunction	1	and
-LEV 13:41	1	3	κατὰ	κατά	preposition with accusative; with πρόσωπον	1	in front of
-LEV 13:41	1	4	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	1	[part of 'in front of']
+LEV 13:41	1	3	κατὰ	κατά	preposition with accusative; with πρόσωπον	1	at the front
+LEV 13:41	1	4	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	1	[part of 'at the front']
 LEV 13:41	1	5	μαδήσῃ	μαδάω	aorist active subjunctive, third singular	1	loses hair
 LEV 13:41	1	6	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:41	1	7	κεφαλὴ	κεφαλή	noun, nominative feminine singular	1	top
@@ -1091,8 +1091,8 @@ LEV 13:42	1	4	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:42	1	5	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:42	1	6	φαλακρώματι	φαλάκρωμα	noun, dative neuter singular	1	bald area
 LEV 13:42	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-LEV 13:42	1	8	ἢ	ἤ	particle in exceptive expression	1	[marks exception]
-LEV 13:42	1	9	ἐν	ἐν	preposition with dative	1	for
+LEV 13:42	1	8	ἢ	ἤ	disjunctive conjunction	1	or
+LEV 13:42	1	9	ἐν	ἐν	preposition with dative	1	in
 LEV 13:42	1	10	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:42	1	11	ἀναφαλαντώματι	ἀναφαλάντωμα	noun, dative neuter singular	1	bald area at the front
 LEV 13:42	1	12	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -1107,8 +1107,8 @@ LEV 13:42	1	20	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:42	1	21	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:42	1	22	φαλακρώματι	φαλάκρωμα	noun, dative neuter singular	1	bald area
 LEV 13:42	1	23	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-LEV 13:42	1	24	ἢ	ἤ	particle in exceptive expression	1	[marks exception]
-LEV 13:42	1	25	ἐν	ἐν	preposition with dative	1	for
+LEV 13:42	1	24	ἢ	ἤ	disjunctive conjunction	1	or
+LEV 13:42	1	25	ἐν	ἐν	preposition with dative	1	in
 LEV 13:42	1	26	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:42	1	27	ἀναφαλαντώματι	ἀναφαλάντωμα	noun, dative neuter singular	1	bald area at the front
 LEV 13:42	1	28	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -1130,8 +1130,8 @@ LEV 13:43	1	15	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:43	1	16	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:43	1	17	φαλακρώματι	φαλάκρωμα	noun, dative neuter singular	1	bald area
 LEV 13:43	1	18	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-LEV 13:43	1	19	ἢ	ἤ	particle in exceptive expression	1	[marks exception]
-LEV 13:43	1	20	ἐν	ἐν	preposition with dative	1	for
+LEV 13:43	1	19	ἢ	ἤ	disjunctive conjunction	1	or
+LEV 13:43	1	20	ἐν	ἐν	preposition with dative	1	in
 LEV 13:43	1	21	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:43	1	22	ἀναφαλαντώματι	ἀναφαλάντωμα	noun, dative neuter singular	1	bald area at the front
 LEV 13:43	1	23	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -1165,7 +1165,7 @@ LEV 13:45	1	1	Καὶ	καί	conjunction	1	and
 LEV 13:45	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 13:45	1	3	λεπρὸς	λεπρός	adjective, nominative masculine singular; used substantivally	1	person with a scaly disease
 LEV 13:45	1	4	ἐν	ἐν	preposition with the dative	1	in
-LEV 13:45	1	5	ᾧ	ὅς	relative pronoun, dative masculine singular	1	who
+LEV 13:45	1	5	ᾧ	ὅς	relative pronoun, dative masculine singular	1	whom
 LEV 13:45	1	6	ἐστιν	εἰμί	present indicative, third singular	1	is
 LEV 13:45	1	7	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:45	1	8	ἁφὴ	ἁφή	noun, nominative feminine singular	1	lesion
@@ -1173,8 +1173,8 @@ LEV 13:45	1	9	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 13:45	1	10	ἱμάτια	ἱμάτιον	noun, accusative neuter plural after τὰ	1	clothes
 LEV 13:45	1	11	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 13:45	1	12	ἔσται	εἰμί	future indicative, third singular	1	will be
-LEV 13:45	1	13	παραλελυμένα	παραλύω	perfect passive participle, nominative neuter plural	1	torn
-LEV 13:45	1	13	παραλελυμένα			2	loosened
+LEV 13:45	1	13	παραλελυμένα	παραλύω	perfect passive participle, nominative neuter plural	1	loosened
+LEV 13:45	1	13	παραλελυμένα			2	torn
 LEV 13:45	1	14	καὶ	καί	conjunction	1	and
 LEV 13:45	1	15	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:45	1	16	κεφαλὴ	κεφαλή	noun, nominative feminine singular	1	top
@@ -1182,7 +1182,7 @@ LEV 13:45	1	16	κεφαλὴ			2	head
 LEV 13:45	1	17	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 13:45	1	18	ἀκατακάλυπτος	ἀκατακάλυπτος	adjective, nominative feminine singular	1	uncovered
 LEV 13:45	1	19	καὶ	καί	conjunction	1	and
-LEV 13:45	1	20	περὶ	περί	preposition with genitive	1	for
+LEV 13:45	1	20	περὶ	περί	preposition with accusative	1	around
 LEV 13:45	1	21	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 13:45	1	22	στόμα	στόμα	noun, accusative neuter singular	1	mouth
 LEV 13:45	1	23	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -1215,10 +1215,10 @@ LEV 13:46	1	22	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:46	1	23	διατριβή	διατριβή	noun, nominative feminine singular	1	dwelling
 LEV 13:47	1	1	Καὶ	καί	conjunction	1	and
 LEV 13:47	1	2	ἱματίῳ	ἱμάτιον	noun, dative neuter singular	1	garment
-LEV 13:47	1	3	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	[modal particle]
+LEV 13:47	1	3	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	if
 LEV 13:47	1	4	γένηται	γίνομαι	aorist middle subjunctive, 3rd sg. after ἂν	1	may be
 LEV 13:47	1	5	ἐν	ἐν	preposition with the dative	1	in
-LEV 13:47	1	6	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
+LEV 13:47	1	6	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
 LEV 13:47	1	7	ἀφὴ	ἁφή	noun, nominative feminine singular	1	lesion
 LEV 13:47	1	8	λέπρας	λέπρα	noun, genitive feminine singular	1	scaly disease
 LEV 13:47	1	9	ἐν	ἐν	preposition with the dative	1	in
@@ -1227,7 +1227,7 @@ LEV 13:47	1	11	ἐρέῳ	ἔρεος	adjective, dative neuter singular	1	woolen
 LEV 13:47	1	12	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 13:47	1	13	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:47	1	14	ἱματίῳ	ἱμάτιον	noun, dative neuter singular	1	garment
-LEV 13:47	1	15	στυππυίνῳ	στυππύινος	adjective, dative neuter singular	1	linen
+LEV 13:47	1	15	στυππυίνῳ	στυππύινος	adjective, dative neuter singular	1	made of tow
 LEV 13:47	1	15	στυππυίνῳ			2	flaxen
 LEV 13:48	1	1	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 13:48	1	2	ἐν	ἐν	preposition with the dative	1	in
@@ -1248,7 +1248,7 @@ LEV 13:48	1	16	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:48	1	17	δέρματι	δέρμα	noun, dative neuter singular	1	skin
 LEV 13:48	1	18	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 13:48	1	19	ἐν	ἐν	preposition with the dative	1	in
-LEV 13:48	1	20	παντὶ	πᾶς	adjective, dative masculine singular	1	all
+LEV 13:48	1	20	παντὶ	πᾶς	adjective, dative masculine singular	1	any
 LEV 13:48	1	21	ἐργασίμῳ	ἐργάσιμος	adjective, dative neuter singular	1	worked
 LEV 13:48	1	21	ἐργασίμῳ			2	manufactured
 LEV 13:48	1	22	δέρματι	δέρμα	noun, dative neuter singular	1	skin
@@ -1263,11 +1263,11 @@ LEV 13:49	1	8	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:49	1	9	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:49	1	10	δέρματι	δέρμα	noun, dative neuter singular	1	skin
 LEV 13:49	1	11	ἢ	ἤ	disjunctive conjunction	1	or
-LEV 13:49	1	12	ἐν	ἐν	preposition with dative	1	for
+LEV 13:49	1	12	ἐν	ἐν	preposition with dative	1	in
 LEV 13:49	1	13	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:49	1	14	ἱματίῳ	ἱμάτιον	noun, dative neuter singular	1	garment
 LEV 13:49	1	15	ἢ	ἤ	disjunctive conjunction	1	or
-LEV 13:49	1	16	ἐν	ἐν	preposition with dative	1	for
+LEV 13:49	1	16	ἐν	ἐν	preposition with dative	1	in
 LEV 13:49	1	17	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:49	1	18	στήμονι	στήμων	noun, dative masculine singular	1	warp
 LEV 13:49	1	19	ἢ	ἤ	disjunctive conjunction	1	or
@@ -1276,8 +1276,8 @@ LEV 13:49	1	21	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 13:49	1	22	κρόκῃ	κρόκη	noun, dative feminine singular	1	weft
 LEV 13:49	1	23	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 13:49	1	24	ἐν	ἐν	preposition with the dative	1	in
-LEV 13:49	1	25	παντὶ	πᾶς	adjective, dative masculine singular	1	all
-LEV 13:49	1	26	σκεύει	σκεῦος	noun, dative neuter singular	1	vessel
+LEV 13:49	1	25	παντὶ	πᾶς	adjective, dative masculine singular	1	any
+LEV 13:49	1	26	σκεύει	σκεῦος	noun, dative neuter singular	1	article
 LEV 13:49	1	27	ἐργασίμῳ	ἐργάσιμος	adjective, dative neuter singular	1	worked
 LEV 13:49	1	27	ἐργασίμῳ			2	manufactured
 LEV 13:49	1	28	δέρματος	δέρμα	noun, genitive neuter singular	1	hide
@@ -1287,7 +1287,7 @@ LEV 13:49	1	30	λέπρας	λέπρα	noun, genitive feminine singular	1	scaly 
 LEV 13:49	1	31	ἐστί	εἰμί	present indicative, third singular	1	is
 LEV 13:49	1	32	καὶ	καί	conjunction	1	and
 LEV 13:49	1	33	δείξει	δείκνυμι	future active indicative, third singular	1	shall show
-LEV 13:49	1	34	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+LEV 13:49	1	34	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 LEV 13:49	1	35	ἱερεῖ	ἱερεύς	noun, dative masculine singular	1	priest
 LEV 13:50	1	1	καὶ	καί	conjunction	1	and
 LEV 13:50	1	2	ὄψεται	ὁράω	future middle indicative, third singular	1	will see
@@ -1322,15 +1322,15 @@ LEV 13:51	1	16	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:51	1	17	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:51	1	18	ἱματίῳ	ἱμάτιον	noun, dative neuter singular	1	garment
 LEV 13:51	1	19	ἢ	ἤ	disjunctive conjunction	1	or
-LEV 13:51	1	20	ἐν	ἐν	preposition with dative	1	for
+LEV 13:51	1	20	ἐν	ἐν	preposition with dative	1	in
 LEV 13:51	1	21	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:51	1	22	στήμονι	στήμων	noun, dative masculine singular	1	warp
 LEV 13:51	1	23	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 13:51	1	24	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:51	1	25	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 13:51	1	26	κρόκῃ	κρόκη	noun, dative feminine singular	1	weft
-LEV 13:51	1	27	ἢ	ἤ	particle in exceptive expression	1	[marks exception]
-LEV 13:51	1	28	ἐν	ἐν	preposition with dative	1	for
+LEV 13:51	1	27	ἢ	ἤ	disjunctive conjunction	1	or
+LEV 13:51	1	28	ἐν	ἐν	preposition with dative	1	in
 LEV 13:51	1	29	τῷ	ὁ	article, dative neuter singular	1	the
 LEV 13:51	1	30	δέρματι	δέρμα	noun, dative neuter singular	1	skin
 LEV 13:51	1	31	κατὰ	κατά	preposition with the accusative	1	according to
@@ -1338,7 +1338,7 @@ LEV 13:51	1	32	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 LEV 13:51	1	33	ὅσα	ὅσος	relative adjective, nominative neuter plural	1	that
 LEV 13:51	1	33	ὅσα			2	which
 LEV 13:51	1	34	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	[modal particle]
-LEV 13:51	1	35	ποιηθῇ	ποιέω	aorist passive subjunctive, third singular	1	is done
+LEV 13:51	1	35	ποιηθῇ	ποιέω	aorist passive subjunctive, third singular	1	is made
 LEV 13:51	1	36	δέρματα	δέρμα	noun, accusative neuter plural	1	skins
 LEV 13:51	1	37	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:51	1	38	τῇ	ὁ	article, dative feminine singular	1	the
@@ -1370,16 +1370,16 @@ LEV 13:52	1	15	τοῖς	ὁ	article, dative neuter plural	1	the
 LEV 13:52	1	16	λινοῖς	λινοῦς	adjective, dative neuter plural	1	linen
 LEV 13:52	1	17	ἢ	ἤ	conjunction	1	or
 LEV 13:52	1	18	ἐν	ἐν	preposition with the dative	1	in
-LEV 13:52	1	19	παντὶ	πᾶς	adjective, dative masculine singular	1	all
-LEV 13:52	1	20	σκεύει	σκεῦος	noun, dative neuter singular	1	vessel
+LEV 13:52	1	19	παντὶ	πᾶς	adjective, dative masculine singular	1	any
+LEV 13:52	1	20	σκεύει	σκεῦος	noun, dative neuter singular	1	article
 LEV 13:52	1	21	δερματίνῳ	δερμάτινος	adjective, dative neuter singular	1	leather
 LEV 13:52	1	22	ἐν	ἐν	preposition with the dative	1	in
-LEV 13:52	1	23	ᾧ	ὅς	relative pronoun, dative masculine singular	1	who
+LEV 13:52	1	23	ᾧ	ὅς	relative pronoun, dative masculine singular	1	which
 LEV 13:52	1	24	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	[modal particle]
 LEV 13:52	1	25	γένηται	γίνομαι	aorist middle subjunctive, 3rd sg. after ἂν	1	may be
 LEV 13:52	1	26	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:52	1	27	ἁφή	ἁφή	noun, nominative feminine singular	1	lesion
-LEV 13:52	1	28	ὅτι	ὅτι	conjunction introducing reported content	1	that
+LEV 13:52	1	28	ὅτι	ὅτι	conjunction introducing reported content	1	because
 LEV 13:52	1	29	λέπρα	λέπρα	noun, nominative feminine singular	1	scaly disease
 LEV 13:52	1	30	ἔμμονός	ἔμμονος	adjective, nominative feminine singular	1	persistent
 LEV 13:52	1	31	ἐστιν	εἰμί	present indicative, third singular	1	is
@@ -1400,7 +1400,7 @@ LEV 13:53	1	11	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:53	1	12	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:53	1	13	ἱματίῳ	ἱμάτιον	noun, dative neuter singular	1	garment
 LEV 13:53	1	14	ἢ	ἤ	disjunctive conjunction	1	or
-LEV 13:53	1	15	ἐν	ἐν	preposition with dative	1	for
+LEV 13:53	1	15	ἐν	ἐν	preposition with dative	1	in
 LEV 13:53	1	16	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:53	1	17	στήμονι	στήμων	noun, dative masculine singular	1	warp
 LEV 13:53	1	18	ἢ	ἤ	disjunctive conjunction	1	or
@@ -1409,8 +1409,8 @@ LEV 13:53	1	20	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 13:53	1	21	κρόκῃ	κρόκη	noun, dative feminine singular	1	weft
 LEV 13:53	1	22	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 13:53	1	23	ἐν	ἐν	preposition with the dative	1	in
-LEV 13:53	1	24	παντὶ	πᾶς	adjective, dative masculine singular	1	all
-LEV 13:53	1	25	σκεύει	σκεῦος	noun, dative neuter singular	1	vessel
+LEV 13:53	1	24	παντὶ	πᾶς	adjective, dative masculine singular	1	any
+LEV 13:53	1	25	σκεύει	σκεῦος	noun, dative neuter singular	1	article
 LEV 13:53	1	26	δερματίνῳ	δερμάτινος	adjective, dative neuter singular	1	leather
 LEV 13:54	1	1	καὶ	καί	conjunction	1	and
 LEV 13:54	1	2	συντάξει	συντάσσω	future active indicative, third singular	1	will instruct
@@ -1468,7 +1468,7 @@ LEV 13:55	1	30	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:55	1	31	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:55	1	32	ἱματίῳ	ἱμάτιον	noun, dative neuter singular	1	garment
 LEV 13:55	1	33	ἢ	ἤ	disjunctive conjunction	1	or
-LEV 13:55	1	34	ἐν	ἐν	preposition with dative	1	for
+LEV 13:55	1	34	ἐν	ἐν	preposition with dative	1	in
 LEV 13:55	1	35	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:55	1	36	στήμονι	στήμων	noun, dative masculine singular	1	warp
 LEV 13:55	1	37	ἢ	ἤ	disjunctive conjunction	1	or
@@ -1517,7 +1517,7 @@ LEV 13:57	1	5	ἐν	ἐν	preposition with the dative	1	in
 LEV 13:57	1	6	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:57	1	7	ἱματίῳ	ἱμάτιον	noun, dative neuter singular	1	garment
 LEV 13:57	1	8	ἢ	ἤ	disjunctive conjunction	1	or
-LEV 13:57	1	9	ἐν	ἐν	preposition with dative	1	for
+LEV 13:57	1	9	ἐν	ἐν	preposition with dative	1	in
 LEV 13:57	1	10	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 13:57	1	11	στήμονι	στήμων	noun, dative masculine singular	1	warp
 LEV 13:57	1	12	ἢ	ἤ	disjunctive conjunction	1	or
@@ -1526,8 +1526,8 @@ LEV 13:57	1	14	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 13:57	1	15	κρόκῃ	κρόκη	noun, dative feminine singular	1	weft
 LEV 13:57	1	16	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 13:57	1	17	ἐν	ἐν	preposition with the dative	1	in
-LEV 13:57	1	18	παντὶ	πᾶς	adjective, dative masculine singular	1	all
-LEV 13:57	1	19	σκεύει	σκεῦος	noun, dative neuter singular	1	vessel
+LEV 13:57	1	18	παντὶ	πᾶς	adjective, dative masculine singular	1	any
+LEV 13:57	1	19	σκεύει	σκεῦος	noun, dative neuter singular	1	article
 LEV 13:57	1	20	δερματίνῳ	δερμάτινος	adjective, dative neuter singular	1	leather
 LEV 13:57	1	21	λέπρα	λέπρα	noun, nominative feminine singular	1	scaly disease
 LEV 13:57	1	22	ἐξανθοῦσά	ἐξανθέω	present active participle, nominative feminine singular	1	breaking out
@@ -1552,7 +1552,7 @@ LEV 13:58	1	8	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:58	1	9	κρόκη	κρόκη	noun, nominative feminine singular	1	weft
 LEV 13:58	1	10	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 13:58	1	11	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
-LEV 13:58	1	12	σκεῦος	σκεῦος	noun, nominative neuter singular	1	vessel
+LEV 13:58	1	12	σκεῦος	σκεῦος	noun, nominative neuter singular	1	article
 LEV 13:58	1	13	δερμάτινον	δερμάτινος	adjective, nominative neuter singular	1	leather
 LEV 13:58	1	14	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
 LEV 13:58	1	15	πλυθήσεται	πλύνω	future passive indicative, third singular	1	shall be washed
@@ -1560,7 +1560,7 @@ LEV 13:58	1	16	καὶ	καί	conjunction	1	and
 LEV 13:58	1	17	ἀποστήσεται	ἀφίστημι	future middle indicative, third singular	1	departs
 LEV 13:58	1	17	ἀποστήσεται			2	disappears
 LEV 13:58	1	18	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
-LEV 13:58	1	19	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
+LEV 13:58	1	19	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	it
 LEV 13:58	1	20	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 13:58	1	21	ἁφὴ	ἁφή	noun, nominative feminine singular	1	lesion
 LEV 13:58	1	22	καὶ	καί	conjunction	1	and
@@ -1578,7 +1578,7 @@ LEV 13:59	1	5	λέπρας	λέπρα	noun, genitive feminine singular	1	scaly d
 LEV 13:59	1	6	ἱματίου	ἱμάτιον	noun, genitive neuter singular	1	garment
 LEV 13:59	1	7	ἐρέου	ἔρεος	adjective, genitive neuter singular	1	woolen
 LEV 13:59	1	8	ἢ	ἤ	disjunctive conjunction	1	or
-LEV 13:59	1	9	στυππυίνου	στυππύινος	adjective, genitive neuter singular	1	linen
+LEV 13:59	1	9	στυππυίνου	στυππύινος	adjective, genitive neuter singular	1	made of tow
 LEV 13:59	1	9	στυππυίνου			2	flaxen
 LEV 13:59	1	10	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 13:59	1	11	στήμονος	στήμων	noun, genitive masculine singular	1	warp

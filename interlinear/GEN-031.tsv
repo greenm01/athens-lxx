@@ -7,7 +7,7 @@ GEN 31:1	1	5	ῥήματα	ῥῆμα	noun, accusative neuter plural	1	words
 GEN 31:1	1	5	ῥήματα			2	remarks
 GEN 31:1	1	6	τῶν	ὁ	article, genitive masculine plural	1	of the
 GEN 31:1	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-GEN 31:1	1	8	Λάβαν	Λάβαν	indeclinable personal name, genitive in context	1	Laban
+GEN 31:1	1	8	Λάβαν	Λάβαν	indeclinable personal name, genitive in context	1	of Laban
 GEN 31:1	1	9	λεγόντων	λέγω	present active participle, genitive masculine plural	1	saying
 GEN 31:1	1	10	εἴληφεν	λαμβάνω	perfect active indicative, third singular	1	has taken
 GEN 31:1	1	11	Ἰακὼβ	Ἰακώβ	indeclinable personal name, nominative in context	1	Jacob
@@ -133,7 +133,7 @@ GEN 31:6	1	2	αὐταὶ	αὐτός	intensive pronoun, nominative feminine plu
 GEN 31:6	1	3	δὲ	δέ	postpositive conjunction	1	now
 GEN 31:6	1	3	δὲ			2	but
 GEN 31:6	1	4	οἴδατε	οἶδα	perfect active indicative, second plural; present sense	1	you know
-GEN 31:6	1	5	ὅτι	ὅτι	causal conjunction	1	because
+GEN 31:6	1	5	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 GEN 31:6	1	6	ἐν	ἐν	preposition with the dative	1	in
 GEN 31:6	1	7	πάσῃ	πᾶς	adjective, dative feminine singular	1	all
 GEN 31:6	1	8	ἰσχύϊ	ἰσχύς	noun, dative feminine singular	1	strength
@@ -566,7 +566,7 @@ GEN 31:21	1	9	ἀνέστη	ἀνίστημι	aorist active indicative, third si
 GEN 31:21	1	10	καὶ	καί	conjunction	1	and
 GEN 31:21	1	11	διέβη	διαβαίνω	aorist active indicative, third singular	1	crossed
 GEN 31:21	1	11	διέβη			2	went across
-GEN 31:21	1	12	τὸν	ὁ	article with a personal name, accusative masculine singular	1	(marks the name)
+GEN 31:21	1	12	τὸν	ὁ	article with a personal name, accusative masculine singular	1	the
 GEN 31:21	1	13	ποταμὸν	ποταμός	noun, accusative masculine singular	1	river
 GEN 31:21	1	14	καὶ	καί	conjunction	1	and
 GEN 31:21	1	15	ὥρμησεν	ὁρμάω	aorist active indicative, third singular	1	set out
@@ -580,11 +580,11 @@ GEN 31:21	1	19	Γαλαάδ			2	Gilead
 GEN 31:22	1	1	Ἀνηγγέλη	ἀναγγέλλω	aorist passive indicative, third singular	1	was reported
 GEN 31:22	1	1	Ἀνηγγέλη			2	was told
 GEN 31:22	1	2	δὲ	δέ	postpositive conjunction	1	now
-GEN 31:22	1	3	Λάβαν	Λάβαν	indeclinable personal name, dative in context	1	Laban
-GEN 31:22	1	4	τῷ	ὁ	article, dative masculine singular; with a personal name	1	to
+GEN 31:22	1	3	Λάβαν	Λάβαν	indeclinable personal name, dative in context	1	to Laban
+GEN 31:22	1	4	τῷ	ὁ	article, dative masculine singular; with a personal name	1	the
 GEN 31:22	1	5	Σύρῳ	Σύρος	noun, dative masculine singular; gentilic noun	1	Syrian
 GEN 31:22	1	5	Σύρῳ			2	Aramean
-GEN 31:22	1	6	τῇ	ὁ	article, dative feminine singular	1	to the
+GEN 31:22	1	6	τῇ	ὁ	article, dative feminine singular	1	on the
 GEN 31:22	1	7	τρίτῃ	τρίτος	ordinal adjective, dative feminine singular	1	third
 GEN 31:22	1	8	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 GEN 31:22	1	9	ὅτι	ὅτι	conjunction introducing a content clause	1	that
@@ -734,7 +734,7 @@ GEN 31:27	1	16	κιθάρας	κιθάρα	noun, genitive feminine singular	1	ly
 GEN 31:27	1	16	κιθάρας			2	harp
 GEN 31:28	1	1	Καὶ	καί	conjunction	1	and
 GEN 31:28	1	2	οὐκ	οὐ	negative particle	1	not
-GEN 31:28	1	3	ἠξιώθην	ἀξιόω	aorist passive indicative, first singular	1	was I permitted
+GEN 31:28	1	3	ἠξιώθην	ἀξιόω	aorist passive indicative, first singular	1	I was permitted
 GEN 31:28	1	3	ἠξιώθην			2	was I deemed worthy
 GEN 31:28	1	4	καταφιλῆσαι	καταφιλέω	aorist active infinitive	1	to kiss warmly
 GEN 31:28	1	4	καταφιλῆσαι			2	to kiss goodbye
@@ -1024,7 +1024,7 @@ GEN 31:36	1	9	δὲ			2	but
 GEN 31:36	1	10	Ἰακὼβ	Ἰακώβ	indeclinable personal name, nominative in context	1	Jacob
 GEN 31:36	1	11	εἶπε	λέγω	aorist active indicative, third singular	1	said
 GEN 31:36	1	12	τῷ	ὁ	article, dative masculine singular; with a personal name	1	(with the name)
-GEN 31:36	1	13	Λάβαν	Λάβαν	indeclinable personal name, nominative in context	1	Laban
+GEN 31:36	1	13	Λάβαν	Λάβαν	indeclinable personal name, nominative in context	1	to Laban
 GEN 31:36	1	14	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 GEN 31:36	1	15	τὸ	ὁ	article, nominative neuter singular	1	the
 GEN 31:36	1	16	ἀδίκημά	ἀδίκημα	noun, nominative neuter singular	1	wrongdoing
@@ -1040,7 +1040,7 @@ GEN 31:36	1	23	ὅτι	ὅτι	causal conjunction	1	because
 GEN 31:36	1	24	κατεδίωξας	καταδιώκω	aorist active indicative, second singular	1	you pursued
 GEN 31:36	1	25	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	after
 GEN 31:36	1	25	ὀπίσω			2	behind
-GEN 31:36	1	26	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
+GEN 31:36	1	26	μου	ἐγώ	personal pronoun, possessive genitive singular	1	me
 GEN 31:37	1	1	καὶ	καί	conjunction	1	and
 GEN 31:37	1	2	ὅτι	ὅτι	causal conjunction	1	since
 GEN 31:37	1	2	ὅτι			2	because
@@ -1216,9 +1216,9 @@ GEN 31:42	1	8	Ἁβραὰμ	Ἀβραάμ	indeclinable personal name, genitive 
 GEN 31:42	1	9	καὶ	καί	conjunction	1	and
 GEN 31:42	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 31:42	1	11	φόβος	φόβος	noun, nominative masculine singular	1	fear
-GEN 31:42	1	12	Ἰσαὰκ	Ἰσαάκ	indeclinable personal name, genitive in context	1	Isaac
+GEN 31:42	1	12	Ἰσαὰκ	Ἰσαάκ	indeclinable personal name, genitive in context	1	of Isaac
 GEN 31:42	1	13	ἦν	εἰμί	imperfect indicative, third singular	1	was
-GEN 31:42	1	14	μοι	ἐγώ	personal pronoun, dative singular	1	to me
+GEN 31:42	1	14	μοι	ἐγώ	personal pronoun, dative singular	1	with me
 GEN 31:42	1	15	νῦν	νῦν	adverb of time	1	now
 GEN 31:42	1	16	ἂν	ἄν	modal particle marking a potential aorist indicative	1	(with the verb)
 GEN 31:42	1	17	κενόν	κενός	adjective, accusative masculine singular; predicative	1	empty-handed
@@ -1576,11 +1576,11 @@ GEN 31:53	1	33	κακίᾳ	κακία	noun, dative feminine singular	1	harm
 GEN 31:53	1	33	κακίᾳ			2	malice
 GEN 31:54	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 31:54	1	2	Θεὸς	θεός	noun, nominative masculine singular	1	God
-GEN 31:54	1	3	Ἁβραὰμ	Ἀβραάμ	indeclinable personal name, genitive in context	1	Abraham
+GEN 31:54	1	3	Ἁβραὰμ	Ἀβραάμ	indeclinable personal name, genitive in context	1	of Abraham
 GEN 31:54	1	4	καὶ	καί	conjunction	1	and
 GEN 31:54	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 GEN 31:54	1	6	Θεὸς	θεός	noun, nominative masculine singular	1	God
-GEN 31:54	1	7	Ναχὼρ	Ναχώρ	indeclinable personal name, genitive in context	1	Nahor
+GEN 31:54	1	7	Ναχὼρ	Ναχώρ	indeclinable personal name, genitive in context	1	of Nahor
 GEN 31:54	1	8	κρινεῖ	κρίνω	future active indicative, third singular	1	will judge
 GEN 31:54	1	9	ἀνὰ	ἀνά	preposition with μέσον, together meaning “between”	1	between
 GEN 31:54	1	10	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	1	(with ἀνά)

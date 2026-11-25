@@ -3,7 +3,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 13:1	1	2	τῷ	ὁ	article, dative neuter singular	1	the
 2CH 13:1	1	3	ὀκτωκαιδεκάτῳ	ὀκτωκαιδέκατος	ordinal adjective, dative neuter singular	1	eighteenth
 2CH 13:1	1	4	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
-2CH 13:1	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
+2CH 13:1	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 2CH 13:1	1	6	βασιλείας	βασιλεία	noun, genitive feminine singular	1	kingdom
 2CH 13:1	1	6	βασιλείας			2	reign
 2CH 13:1	1	7	Ἱεροβοὰμ	Ἱεροβοάμ	indeclinable personal name, genitive in context	1	of Jeroboam
@@ -92,7 +92,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 13:5	1	1	οὐχ	οὐ	negative particle	1	not
 2CH 13:5	1	2	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 2CH 13:5	1	3	γνῶναι	γινώσκω	aorist active infinitive	1	to know
-2CH 13:5	1	4	ὅτι	ὅτι	causal conjunction	1	because
+2CH 13:5	1	4	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 2CH 13:5	1	5	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 2CH 13:5	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 13:5	1	7	Θεὸς	θεός	noun, nominative masculine singular	1	God
@@ -162,7 +162,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 13:7	1	25	ἀντέστη	ἀνθίσταμαι	aorist active indicative, 3rd singular	1	stood against
 2CH 13:7	1	26	κατὰ	κατά	preposition in an expression of confrontation	1	against
 2CH 13:7	1	27	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	the face
-2CH 13:7	1	28	αὐτοῦ	αὐτός	pronoun, genitive masculine plural	1	them
+2CH 13:7	1	28	αὐτοῦ	αὐτός	pronoun, genitive singular	1	of him
 2CH 13:8	1	1	Καὶ	καί	conjunction	1	and
 2CH 13:8	1	2	νῦν	νῦν	adverb of time	1	now
 2CH 13:8	1	3	λέγετε	λέγω	present active indicative, second plural	1	you say
@@ -214,7 +214,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 13:9	1	17	ἐκ	ἐκ	preposition with the genitive	1	from
 2CH 13:9	1	18	τοῦ	ὁ	article, genitive masculine singular	1	the
 2CH 13:9	1	19	λαοῦ	λαός	noun, genitive masculine singular	1	people
-2CH 13:9	1	20	τῆς	ὁ	article, genitive feminine singular	1	the
+2CH 13:9	1	20	τῆς	ὁ	article, genitive feminine singular	1	of the
 2CH 13:9	1	21	γῆς	γῆ	noun, genitive feminine singular	1	earth
 2CH 13:9	1	22	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 2CH 13:9	1	23	ὁ	ὁ	article, nominative masculine singular; substantivizes participle	1	who is

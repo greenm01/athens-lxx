@@ -389,7 +389,7 @@ GEN 13:14	1	31	καὶ	καί	conjunction	1	and
 GEN 13:14	1	32	ἀνατολὰς	ἀνατολή	noun, accusative feminine plural	1	the east
 GEN 13:14	1	32	ἀνατολὰς			2	the sunrise
 GEN 13:14	1	33	καὶ	καί	conjunction	1	and
-GEN 13:14	1	34	θάλασσαν	θάλασσα	noun, accusative feminine singular; sea as a point of the compass	1	the sea
+GEN 13:14	1	34	θάλασσαν	θάλασσα	noun, accusative feminine singular; sea as a point of the compass	1	the sea (west)
 GEN 13:14	1	34	θάλασσαν			2	the west
 GEN 13:15	1	1	ὅτι	ὅτι	causal conjunction	1	because
 GEN 13:15	1	2	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
@@ -421,8 +421,8 @@ GEN 13:16	1	6	ὡς			2	like
 GEN 13:16	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 13:16	1	8	ἄμμον	ἄμμος	noun, accusative feminine singular	1	sand
 GEN 13:16	1	9	τῆς	ὁ	article, genitive feminine singular	1	of the
-GEN 13:16	1	10	γῆς	γῆ	noun, genitive feminine singular	1	land
-GEN 13:16	1	10	γῆς			2	earth
+GEN 13:16	1	10	γῆς	γῆ	noun, genitive feminine singular	1	earth
+GEN 13:16	1	10	γῆς			2	land
 GEN 13:16	1	11	εἰ	εἰ	conditional conjunction	1	if
 GEN 13:16	1	12	δύναταί	δύναμαι	present middle indicative, third singular	1	can
 GEN 13:16	1	12	δύναταί			2	is able
@@ -432,9 +432,9 @@ GEN 13:16	1	14	ἐξαριθμῆσαι			2	to number
 GEN 13:16	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 13:16	1	16	ἄμμον	ἄμμος	noun, accusative feminine singular	1	sand
 GEN 13:16	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
-GEN 13:16	1	18	γῆς	γῆ	noun, genitive feminine singular	1	land
-GEN 13:16	1	18	γῆς			2	earth
-GEN 13:16	1	19	καὶ	καί	conjunction	1	and
+GEN 13:16	1	18	γῆς	γῆ	noun, genitive feminine singular	1	earth
+GEN 13:16	1	18	γῆς			2	land
+GEN 13:16	1	19	καὶ	καί	conjunction	1	also
 GEN 13:16	1	20	τὸ	ὁ	article, nominative neuter singular	1	the
 GEN 13:16	1	21	σπέρμα	σπέρμα	noun, nominative neuter singular	1	offspring
 GEN 13:16	1	21	σπέρμα			2	seed

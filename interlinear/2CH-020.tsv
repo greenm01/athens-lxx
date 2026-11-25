@@ -227,8 +227,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 20:9	1	33	καὶ	καί	conjunction	1	and
 2CH 20:9	1	34	ἀκούσῃ	ἀκούω	future middle indicative, second singular	1	you will hear
 2CH 20:9	1	35	καὶ	καί	conjunction	1	and
-2CH 20:9	1	36	σώσεις	σώζω	future active indicative, second singular	1	will you save
-2CH 20:9	1	36	σώσεις			2	you will save
+2CH 20:9	1	36	σώσεις	σώζω	future active indicative, second singular	1	you will save
+2CH 20:9	1	36	σώσεις			2	will you save
 2CH 20:10	1	1	Καὶ	καί	conjunction	1	and
 2CH 20:10	1	2	νῦν	νῦν	adverb	1	now
 2CH 20:10	1	3	ἰδοὺ	ἰδού	presentative particle	1	behold
@@ -256,7 +256,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 20:10	1	25	ὅτι	ὅτι	causal conjunction	1	because
 2CH 20:10	1	26	ἐξέκλιναν	ἐκκλίνω	aorist active indicative third plural	1	they turned
 2CH 20:10	1	27	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
-2CH 20:10	1	28	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+2CH 20:10	1	28	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 2CH 20:10	1	29	καὶ	καί	conjunction	1	and
 2CH 20:10	1	30	οὐκ	οὐ	negative particle	1	not
 2CH 20:10	1	31	ἐξωλέθρευσαν	ἐξολεθρεύω	aorist active indicative, third plural	1	destroyed
@@ -739,7 +739,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 20:26	1	23	τόπου	τόπος	noun, genitive masculine singular	1	place
 2CH 20:26	1	24	ἐκείνου	ἐκεῖνος	demonstrative pronoun, genitive masculine singular	1	that
 2CH 20:26	1	25	Κοιλὰς	κοιλάς	noun, nominative feminine singular	1	valley
-2CH 20:26	1	26	εὐλογίας	εὐλογία	noun, accusative feminine plural	1	blessings
+2CH 20:26	1	26	εὐλογίας	εὐλογία	noun, genitive feminine singular	1	blessing
 2CH 20:26	1	27	ἕως	ἕως	preposition with the genitive	1	as far as
 2CH 20:26	1	27	ἕως			2	up to
 2CH 20:26	1	28	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -798,7 +798,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 20:29	1	12	τῷ	ὁ	article, dative neuter singular; articular infinitive, introduces the infinitive	1	—
 2CH 20:29	1	13	ἀκοῦσαι	ἀκούω	aorist active infinitive	1	to hear
 2CH 20:29	1	14	αὐτοὺς	αὐτός	pronoun, accusative masculine plural; subject of the temporal infinitive	1	they
-2CH 20:29	1	15	ὅτι	ὅτι	causal conjunction	1	because
+2CH 20:29	1	15	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 2CH 20:29	1	16	ἐπολέμησε	πολεμέω	aorist active indicative, third singular	1	made war
 2CH 20:29	1	17	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 2CH 20:29	1	18	πρὸς	πρός	preposition with accusative	1	against

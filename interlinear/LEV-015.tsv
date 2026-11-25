@@ -76,7 +76,7 @@ LEV 15:3	1	43	ῥύσεως	ῥύσις	noun, genitive feminine singular	1	disch
 LEV 15:3	1	44	ἀκαθαρσία	ἀκαθαρσία	noun, nominative feminine singular	1	uncleanness
 LEV 15:3	1	45	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 LEV 15:3	1	46	ἐστι	εἰμί	present indicative, third singular	1	is
-LEV 15:4	1	1	Πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
+LEV 15:4	1	1	Πᾶσα	πᾶς	adjective, nominative feminine singular	1	every
 LEV 15:4	1	2	κοίτη	κοίτη	noun, nominative feminine singular	1	bed
 LEV 15:4	1	3	ἐφ᾽	ἐπί	preposition with dative	1	on
 LEV 15:4	1	4	ᾗ	ὅς	relative pronoun, dative feminine singular	1	which
@@ -90,7 +90,7 @@ LEV 15:4	1	11	ἀκάθαρτος	ἀκάθαρτος	adjective, nominative masc
 LEV 15:4	1	12	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 15:4	1	13	καὶ	καί	conjunction	1	and
 LEV 15:4	1	14	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
-LEV 15:4	1	15	σκεῦος	σκεῦος	noun, nominative neuter singular	1	vessel
+LEV 15:4	1	15	σκεῦος	σκεῦος	noun, nominative neuter singular	1	article
 LEV 15:4	1	16	ἐφ᾽	ἐπί	preposition with accusative	1	on
 LEV 15:4	1	17	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
 LEV 15:4	1	18	ἂν	ἄν	modal particle with the relative and subjunctive	1	ever
@@ -191,7 +191,7 @@ LEV 15:9	1	4	ἐπίσαγμα	ἐπίσαγμα	noun, nominative neuter singula
 LEV 15:9	1	5	ὄνου	ὄνος	noun, genitive masc. sg., ass	1	of an ass
 LEV 15:9	1	6	ἐφ᾽	ἐπί	preposition with accusative	1	on
 LEV 15:9	1	7	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
-LEV 15:9	1	8	ἂν	ἄν	modal particle with the relative and subjunctive	1	ever
+LEV 15:9	1	8	ἂν	ἄν	modal particle with the relative and subjunctive	1	[modal particle]
 LEV 15:9	1	9	καθίσῃ	καθίζω	aorist active subjunctive, third singular	1	sits
 LEV 15:9	1	10	ἐπ᾽	ἐπί	elided preposition with accusative	1	on
 LEV 15:9	1	10	ἐπ᾽			2	upon
@@ -203,7 +203,7 @@ LEV 15:9	1	15	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 15:9	1	16	ἕως	ἕως	improper preposition with genitive	1	until
 LEV 15:9	1	17	ἑσπέρας	ἑσπέρα	noun, genitive feminine singular	1	evening
 LEV 15:10	1	1	Καὶ	καί	conjunction	1	and
-LEV 15:10	1	2	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+LEV 15:10	1	2	πᾶς	πᾶς	adjective, nominative masculine singular	1	everyone
 LEV 15:10	1	3	ὁ	ὁ	article, nominative masculine singular; substantivizes participle	1	who is
 LEV 15:10	1	4	ἁπτόμενος	ἅπτομαι	present middle participle, nominative masculine singular	1	touching
 LEV 15:10	1	5	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural (from context)	1	whatever
@@ -211,7 +211,7 @@ LEV 15:10	1	6	ἂν	ἄν	modal particle	1	[modal particle]
 LEV 15:10	1	7	ᾖ	εἰμί	present subjunctive, third singular	1	may be
 LEV 15:10	1	8	ὑποκάτω	ὑποκάτω	adverb with the genitive	1	beneath
 LEV 15:10	1	8	ὑποκάτω			2	under
-LEV 15:10	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
+LEV 15:10	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular, governed by ὑποκάτω	1	him
 LEV 15:10	1	10	ἀκάθαρτος	ἀκάθαρτος	adjective, nominative masculine singular	1	unclean
 LEV 15:10	1	11	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 15:10	1	12	ἕως	ἕως	improper preposition with genitive	1	until
@@ -328,7 +328,7 @@ LEV 15:14	1	16	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
 LEV 15:14	1	17	ἔναντι	ἔναντι	improper preposition with genitive	1	before
 LEV 15:14	1	17	ἔναντι			2	in the presence of
 LEV 15:14	1	18	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
-LEV 15:14	1	19	ἐπὶ	ἐπί	preposition with accusative	1	on
+LEV 15:14	1	19	ἐπὶ	ἐπί	preposition with accusative	1	at
 LEV 15:14	1	20	τὰς	ὁ	article, accusative feminine plural	1	the
 LEV 15:14	1	21	θύρας	θύρα	noun, accusative feminine plural	1	entrances
 LEV 15:14	1	22	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -337,9 +337,9 @@ LEV 15:14	1	24	τοῦ	ὁ	article, genitive neuter singular	1	of the
 LEV 15:14	1	25	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	1	testimony
 LEV 15:14	1	25	μαρτυρίου			2	witness
 LEV 15:14	1	26	καὶ	καί	conjunction	1	and
-LEV 15:14	1	27	δώσει	δίδωμι	future active indicative, third singular	1	he shall put
+LEV 15:14	1	27	δώσει	δίδωμι	future active indicative, third singular	1	he shall give
 LEV 15:14	1	28	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
-LEV 15:14	1	29	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+LEV 15:14	1	29	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 LEV 15:14	1	30	ἱερεῖ	ἱερεύς	noun, dative masculine singular	1	priest
 LEV 15:15	1	1	Καὶ	καί	conjunction	1	and
 LEV 15:15	1	2	ποιήσει	ποιέω	future active indicative, third singular	1	he shall offer
@@ -455,7 +455,7 @@ LEV 15:19	1	22	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	he
 LEV 15:19	1	23	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 LEV 15:19	1	24	ὁ	ὁ	article, nominative masculine singular; substantivizes participle	1	who is
 LEV 15:19	1	25	ἁπτόμενος	ἅπτομαι	present middle participle, nominative masculine singular	1	touching
-LEV 15:19	1	26	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
+LEV 15:19	1	26	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 LEV 15:19	1	27	ἀκάθαρτος	ἀκάθαρτος	adjective, nominative masculine singular	1	unclean
 LEV 15:19	1	28	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 15:19	1	29	ἕως	ἕως	improper preposition with genitive	1	until
@@ -557,7 +557,7 @@ LEV 15:23	1	19	δὲ	δέ	postpositive conjunction	1	and
 LEV 15:23	1	20	τῷ	ὁ	article, dative neuter singular; introduces the infinitive governed by ἐν	1	[introduces the infinitive]
 LEV 15:23	1	21	ἅπτεσθαι	ἅπτω	present middle infinitive	1	touches
 LEV 15:23	1	22	αὐτὸν	αὐτός	pronoun, accusative masculine singular; subject of ἅπτεσθαι	1	he
-LEV 15:23	1	23	αὐτῆς	αὐτός	possessive pronoun, genitive feminine singular	1	her
+LEV 15:23	1	23	αὐτῆς	αὐτός	pronoun, genitive feminine singular, governed by the verb of touching	1	her
 LEV 15:23	1	24	ἀκάθαρτος	ἀκάθαρτος	adjective, nominative masculine singular	1	unclean
 LEV 15:23	1	25	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 15:23	1	26	ἕως	ἕως	improper preposition with genitive	1	until
@@ -582,7 +582,7 @@ LEV 15:24	1	17	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 15:24	1	18	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 LEV 15:24	1	19	ἡμέρας	ἡμέρα	noun, accusative feminine plural; accusative of duration or time	1	days
 LEV 15:24	1	20	καὶ	καί	conjunction	1	and
-LEV 15:24	1	21	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
+LEV 15:24	1	21	πᾶσα	πᾶς	adjective, nominative feminine singular	1	every
 LEV 15:24	1	22	κοίτη	κοίτη	noun, nominative feminine singular	1	bed
 LEV 15:24	1	23	ἐφ᾽	ἐπί	preposition with dative	1	on
 LEV 15:24	1	24	ᾗ	ὅς	relative pronoun, dative feminine singular	1	which
@@ -599,7 +599,7 @@ LEV 15:25	1	4	ῥέῃ	ῥέω	present active subjunctive, third singular	1	has 
 LEV 15:25	1	5	ῥύσει	ῥύσις	noun, dative feminine singular	1	discharge
 LEV 15:25	1	6	αἵματος	αἷμα	noun, genitive neuter singular	1	of blood
 LEV 15:25	1	7	ἡμέρας	ἡμέρα	noun, accusative feminine plural; accusative of duration	1	days
-LEV 15:25	1	8	πλείους	πολύς	comparative adjective, nominative masculine plural	1	more numerous
+LEV 15:25	1	8	πλείους	πολύς	comparative adjective, nominative masculine plural	1	many
 LEV 15:25	1	9	οὐκ	οὐ	particle	1	not
 LEV 15:25	1	10	ἐν	ἐν	preposition with the dative	1	in
 LEV 15:25	1	11	καιρῷ	καιρός	noun, dative masculine singular	1	time
@@ -610,7 +610,7 @@ LEV 15:25	1	14	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	he
 LEV 15:25	1	15	ἐὰν	ἐάν	particle	1	if
 LEV 15:25	1	16	καὶ	καί	conjunction	1	and
 LEV 15:25	1	17	ῥέῃ	ῥέω	present active subjunctive, third singular	1	has a flow
-LEV 15:25	1	18	μετὰ	μετά	preposition with genitive	1	with
+LEV 15:25	1	18	μετὰ	μετά	preposition with the accusative	1	after
 LEV 15:25	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 15:25	1	20	ἄφεδρον	ἄφεδρος	adjective, accusative feminine singular; used substantivally	1	menstrual separation
 LEV 15:25	1	21	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
@@ -629,7 +629,7 @@ LEV 15:25	1	33	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	he
 LEV 15:25	1	34	ἀκάθαρτος	ἀκάθαρτος	adjective, nominative masculine singular	1	unclean
 LEV 15:25	1	35	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 15:26	1	1	καὶ	καί	conjunction	1	and
-LEV 15:26	1	2	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
+LEV 15:26	1	2	πᾶσα	πᾶς	adjective, nominative feminine singular	1	every
 LEV 15:26	1	3	κοίτη	κοίτη	noun, nominative feminine singular	1	bed
 LEV 15:26	1	4	ἐφ᾽	ἐπί	preposition with accusative, elided before rough breathing	1	upon
 LEV 15:26	1	5	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
@@ -650,10 +650,10 @@ LEV 15:26	1	19	τῆς	ὁ	article, genitive feminine singular	1	the
 LEV 15:26	1	20	ἀφέδρου	ἄφεδρος	noun, genitive feminine singular; used substantivally	1	menstrual separation
 LEV 15:26	1	21	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	1	her
 LEV 15:26	1	22	ἔσται	εἰμί	future indicative, third singular	1	will be
-LEV 15:26	1	23	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
+LEV 15:26	1	23	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	for her
 LEV 15:26	1	24	καὶ	καί	conjunction	1	and
 LEV 15:26	1	25	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
-LEV 15:26	1	26	σκεῦος	σκεῦος	noun, nominative neuter singular	1	vessel
+LEV 15:26	1	26	σκεῦος	σκεῦος	noun, nominative neuter singular	1	article
 LEV 15:26	1	27	ἐφ᾽	ἐπί	preposition with accusative	1	on
 LEV 15:26	1	28	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
 LEV 15:26	1	29	ἂν	ἄν	modal particle with the relative and subjunctive	1	ever
@@ -669,7 +669,7 @@ LEV 15:26	1	37	ἀκαθαρσίαν	ἀκαθαρσία	noun, accusative femini
 LEV 15:26	1	38	τῆς	ὁ	article, genitive feminine singular	1	the
 LEV 15:26	1	39	ἀφέδρου	ἄφεδρος	noun, genitive feminine singular; used substantivally	1	menstrual separation
 LEV 15:26	1	40	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
-LEV 15:27	1	1	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+LEV 15:27	1	1	πᾶς	πᾶς	adjective, nominative masculine singular	1	everyone
 LEV 15:27	1	2	ὁ	ὁ	article, nominative masculine singular; substantivizes participle	1	who is
 LEV 15:27	1	3	ἁπτόμενος	ἅπτομαι	present middle participle, nominative masculine singular	1	touching
 LEV 15:27	1	4	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
@@ -699,7 +699,7 @@ LEV 15:28	1	6	ῥύσεως	ῥύσις	noun, genitive feminine singular	1	disch
 LEV 15:28	1	7	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 LEV 15:28	1	8	καὶ	καί	conjunction	1	and
 LEV 15:28	1	9	ἐξαριθμήσεται	ἐξαριθμέω	future middle indicative, third singular	1	shall count off
-LEV 15:28	1	10	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
+LEV 15:28	1	10	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	for herself
 LEV 15:28	1	11	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 LEV 15:28	1	12	ἡμέρας	ἡμέρα	noun, accusative feminine plural; accusative of duration or time	1	days
 LEV 15:28	1	13	καὶ	καί	conjunction	1	and
@@ -725,7 +725,7 @@ LEV 15:29	1	16	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
 LEV 15:29	1	17	πρὸς	πρός	preposition with the accusative	1	to
 LEV 15:29	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 LEV 15:29	1	19	ἱερέα	ἱερεύς	noun, accusative masculine singular	1	priest
-LEV 15:29	1	20	ἐπὶ	ἐπί	preposition (case from context)	1	on
+LEV 15:29	1	20	ἐπὶ	ἐπί	preposition (case from context)	1	at
 LEV 15:29	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 15:29	1	22	θύραν	θύρα	noun, accusative feminine singular	1	door
 LEV 15:29	1	23	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -766,7 +766,7 @@ LEV 15:31	1	2	εὐλαβεῖς			2	cautious
 LEV 15:31	1	3	ποιήσετε	ποιέω	future active indicative, second plural	1	you shall make
 LEV 15:31	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
 LEV 15:31	1	5	υἱοὺς	υἱός	noun, accusative masculine plural, in apposition	1	sons
-LEV 15:31	1	6	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, nominative in context	1	Israel
+LEV 15:31	1	6	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, nominative in context	1	of Israel
 LEV 15:31	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 15:31	1	8	τῶν	ὁ	article, genitive plural	1	the
 LEV 15:31	1	9	ἀκαθαρσιῶν	ἀκαθαρσία	noun, genitive feminine plural	1	impurities
@@ -786,7 +786,7 @@ LEV 15:31	1	22	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 15:31	1	23	σκηνήν	σκηνή	noun, accusative feminine singular	1	tent
 LEV 15:31	1	24	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 LEV 15:31	1	25	τὴν	ὁ	article, accusative feminine singular	1	the
-LEV 15:31	1	26	ἐν	ἐν	preposition with the dative	1	in
+LEV 15:31	1	26	ἐν	ἐν	preposition with the dative	1	among
 LEV 15:31	1	27	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 LEV 15:32	1	1	Οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 LEV 15:32	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -804,7 +804,7 @@ LEV 15:32	1	12	κοίτη	κοίτη	noun, nominative feminine singular; with σ
 LEV 15:32	1	13	σπέρματος	σπέρμα	noun, genitive neuter singular	1	of semen
 LEV 15:32	1	14	ὥστε	ὥστε	conjunction with the infinitive	1	so as
 LEV 15:32	1	15	μιανθῆναι	μιαίνω	aorist passive infinitive	1	to become unclean
-LEV 15:32	1	16	ἐν	ἐν	preposition with the dative	1	in
+LEV 15:32	1	16	ἐν	ἐν	preposition with the dative	1	by
 LEV 15:32	1	17	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 LEV 15:33	1	1	καὶ	καί	conjunction	1	and
 LEV 15:33	1	2	τῇ	ὁ	article, dative feminine singular	1	the

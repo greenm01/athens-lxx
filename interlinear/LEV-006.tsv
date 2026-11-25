@@ -9,8 +9,8 @@ LEV 6:2	1	1	ψυχὴ	ψυχή	noun, nominative feminine singular	1	person
 LEV 6:2	1	2	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 LEV 6:2	1	3	ἁμάρτῃ	ἁμαρτάνω	aorist active subjunctive, third singular	1	sins
 LEV 6:2	1	4	καὶ	καί	conjunction	1	and
-LEV 6:2	1	5	παριδὼν	παροράω	aorist active participle, nominative masculine singular	1	overlooking
-LEV 6:2	1	6	παρίδῃ	παροράω	aorist active subjunctive, third singular	1	overlooks
+LEV 6:2	1	5	παριδὼν	παροράω	aorist active participle, nominative masculine singular	1	disregarding
+LEV 6:2	1	6	παρίδῃ	παροράω	aorist active subjunctive, third singular	1	disregards
 LEV 6:2	1	7	τὰς	ὁ	article, accusative feminine plural	1	the
 LEV 6:2	1	8	ἐντολὰς	ἐντολή	noun, accusative feminine plural	1	commandments
 LEV 6:2	1	8	ἐντολὰς			2	instructions
@@ -75,7 +75,7 @@ LEV 6:4	1	10	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 6:4	1	11	ἅρπαγμα	ἅρπαγμα	noun, accusative neuter singular	1	stolen property
 LEV 6:4	1	12	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
 LEV 6:4	1	13	ἥρπασεν	ἁρπάζω	aorist active indicative, third singular	1	seized
-LEV 6:4	1	14	ἢ	ἤ	comparative conjunction	1	than
+LEV 6:4	1	14	ἢ	ἤ	comparative conjunction	1	or
 LEV 6:4	1	15	τὸ	ὁ	article, neuter singular (case from context)	1	the
 LEV 6:4	1	16	ἀδίκημα	ἀδίκημα	noun, accusative neuter singular	1	wrong
 LEV 6:4	1	17	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
@@ -94,10 +94,10 @@ LEV 6:4	1	29	εὗρεν	εὑρίσκω	aorist active indicative, third singula
 LEV 6:5	1	1	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 6:5	1	2	παντὸς	πᾶς	adjective, genitive neuter singular	1	any
 LEV 6:5	1	3	πράγματος	πρᾶγμα	noun, genitive neuter singular	1	thing
-LEV 6:5	1	4	οὗ	οὗ	relative adverb of place	1	where
+LEV 6:5	1	4	οὗ	ὅς	relative pronoun, genitive neuter singular, referring to πράγματος	1	which
 LEV 6:5	1	5	ὤμοσε	ὄμνυμι	aorist active indicative, third singular	1	swore
-LEV 6:5	1	6	περὶ	περί	preposition with genitive	1	for
-LEV 6:5	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+LEV 6:5	1	6	περὶ	περί	preposition with genitive	1	about
+LEV 6:5	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	it
 LEV 6:5	1	8	ἀδίκως	ἀδίκως	adverb	1	falsely
 LEV 6:5	1	9	καὶ	καί	conjunction	1	and
 LEV 6:5	1	10	ἀποτίσει	ἀποτίνω	future active indicative, third singular	1	he shall repay
@@ -111,7 +111,7 @@ LEV 6:5	1	16	τὸ	ὁ	article, neuter singular (case from context)	1	the
 LEV 6:5	1	17	ἐπίπεμπτον	ἐπίπεμπτος	adjective, accusative neuter singular; used substantivally	1	an added fifth
 LEV 6:5	1	18	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 6:5	1	19	προσθήσει	προστίθημι	future active indicative, third singular	1	he shall add
-LEV 6:5	1	20	ἐπ᾽	ἐπί	preposition with the accusative, elided	1	against
+LEV 6:5	1	20	ἐπ᾽	ἐπί	preposition with the accusative, elided	1	to
 LEV 6:5	1	21	αὐτό	αὐτός	pronoun, accusative neuter singular	1	it
 LEV 6:5	1	22	τίνος	τίς	interrogative pronoun, genitive singular	1	whose
 LEV 6:5	1	23	ἐστὶν	εἰμί	present indicative, third singular	1	is
@@ -151,12 +151,12 @@ LEV 6:7	1	8	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lo
 LEV 6:7	1	9	καὶ	καί	conjunction	1	and
 LEV 6:7	1	10	ἀφεθήσεται	ἀφίημι	future passive indicative, third singular	1	it shall be forgiven
 LEV 6:7	1	11	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-LEV 6:7	1	12	περὶ	περί	preposition with genitive	1	concerning
+LEV 6:7	1	12	περὶ	περί	preposition with genitive	1	for
 LEV 6:7	1	13	ἑνὸς	εἷς	cardinal numeral, genitive masculine singular with ἀνθρώπου	1	of one
 LEV 6:7	1	14	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 6:7	1	15	πάντων	πᾶς	adjective, genitive neuter plural	1	all
 LEV 6:7	1	16	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	which
-LEV 6:7	1	17	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
+LEV 6:7	1	17	ἐποίησε	ποιέω	aorist active indicative, third singular	1	did
 LEV 6:7	1	18	καὶ	καί	conjunction	1	and
 LEV 6:7	1	19	ἐπλημμέλησεν	πλημμελέω	aorist active indicative, third singular	1	committed an offense
 LEV 6:7	1	20	ἐν	ἐν	preposition with the dative	1	in
@@ -203,9 +203,9 @@ LEV 6:9	1	30	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 6:9	1	31	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
 LEV 6:9	1	32	τοῦ	ὁ	article, genitive neuter singular	1	of the
 LEV 6:9	1	33	θυσιαστηρίου	θυσιαστήριον	noun, genitive neuter singular	1	altar
-LEV 6:9	1	34	καυθήσεται	καίω	future passive indicative, third singular	1	it shall be burned
+LEV 6:9	1	34	καυθήσεται	καίω	future passive indicative, third singular	1	shall be kept burning
 LEV 6:9	1	35	ἐπ᾽	ἐπί	preposition with genitive, elided	1	at
-LEV 6:9	1	36	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
+LEV 6:9	1	36	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	it
 LEV 6:9	1	37	οὐ	οὐ	negative particle	1	not
 LEV 6:9	1	38	σβεσθήσεται	σβέννυμι	future passive indicative, third singular	1	shall be put out
 LEV 6:10	1	1	Καὶ	καί	conjunction	1	and
@@ -259,8 +259,8 @@ LEV 6:11	1	13	κατακάρπωσιν			2	burned offering
 LEV 6:11	1	14	ἔξω	ἔξω	adverb of place	1	outside
 LEV 6:11	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
 LEV 6:11	1	16	παρεμβολῆς	παρεμβολή	noun, genitive feminine singular	1	camp
-LEV 6:11	1	17	εἰς	εἰς	preposition with the accusative	1	into
-LEV 6:11	1	17	εἰς			2	to
+LEV 6:11	1	17	εἰς	εἰς	preposition with the accusative	1	to
+LEV 6:11	1	17	εἰς			2	into
 LEV 6:11	1	18	τόπον	τόπος	noun, accusative masculine singular	1	a place
 LEV 6:11	1	19	καθαρόν	καθαρός	adjective, accusative masculine singular	1	clean
 LEV 6:12	1	1	καὶ	καί	conjunction	1	and
@@ -268,7 +268,7 @@ LEV 6:12	1	2	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
 LEV 6:12	1	3	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 LEV 6:12	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 6:12	1	5	θυσιαστήριον	θυσιαστήριον	noun, accusative neuter singular	1	altar
-LEV 6:12	1	6	καυθήσεται	καίω	future passive indicative, third singular	1	it shall be burned
+LEV 6:12	1	6	καυθήσεται	καίω	future passive indicative, third singular	1	shall be kept burning
 LEV 6:12	1	7	ἐπ᾽	ἐπί	preposition with genitive	1	on
 LEV 6:12	1	8	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	it
 LEV 6:12	1	9	καὶ	καί	conjunction	1	and
@@ -304,7 +304,7 @@ LEV 6:13	1	1	καὶ	καί	conjunction	1	and
 LEV 6:13	1	2	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
 LEV 6:13	1	3	διαπαντὸς	διαπαντός	adverb, διὰ παντός written as one word	1	continually
 LEV 6:13	1	3	διαπαντὸς			2	always
-LEV 6:13	1	4	καυθήσεται	καίω	future passive indicative, third singular	1	it shall be burned
+LEV 6:13	1	4	καυθήσεται	καίω	future passive indicative, third singular	1	shall be kept burning
 LEV 6:13	1	5	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 LEV 6:13	1	6	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 6:13	1	7	θυσιαστήριον	θυσιαστήριον	noun, accusative neuter singular	1	altar
@@ -374,7 +374,7 @@ LEV 6:16	1	1	Τὸ	ὁ	article, accusative neuter singular; introduces the objec
 LEV 6:16	1	2	δὲ	δέ	postpositive conjunction	1	and
 LEV 6:16	1	3	καταλειφθὲν	καταλείπω	aorist passive participle, accusative neuter singular	1	left over
 LEV 6:16	1	4	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
-LEV 6:16	1	5	αὐτῆς	αὐτός	pronoun, genitive feminine singular; of the person denoted by ψυχή	1	its
+LEV 6:16	1	5	αὐτῆς	αὐτός	pronoun, genitive feminine singular; of the person denoted by ψυχή	1	it
 LEV 6:16	1	5	αὐτῆς			2	his
 LEV 6:16	1	6	ἔδεται	ἐσθίω	future middle indicative, third singular	1	will eat
 LEV 6:16	1	7	Ἀαρὼν	Ἀαρών	indeclinable personal name, nominative in context	1	Aaron
@@ -504,7 +504,7 @@ LEV 6:21	1	10	θυσίαν	θυσία	noun, accusative feminine singular	1	grain
 LEV 6:21	1	11	ἐκ	ἐκ	preposition with the genitive	1	from
 LEV 6:21	1	12	κλασμάτων	κλάσμα	noun, genitive neuter plural	1	pieces
 LEV 6:21	1	13	θυσίαν	θυσία	noun, accusative feminine singular	1	grain offering
-LEV 6:21	1	14	εἰς	εἰς	preposition with the accusative	1	into
+LEV 6:21	1	14	εἰς	εἰς	preposition with the accusative	1	as
 LEV 6:21	1	15	ὀσμὴν	ὀσμή	noun, accusative feminine singular	1	aroma
 LEV 6:21	1	16	εὐωδίας	εὐωδία	noun, genitive feminine singular	1	of fragrance
 LEV 6:21	1	17	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
@@ -519,7 +519,7 @@ LEV 6:22	1	8	ἐκ	ἐκ	preposition with the genitive	1	from
 LEV 6:22	1	9	τῶν	ὁ	article, genitive plural	1	the
 LEV 6:22	1	10	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 LEV 6:22	1	11	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-LEV 6:22	1	12	ποιήσει	ποιέω	future active indicative, third singular	1	he shall treat
+LEV 6:22	1	12	ποιήσει	ποιέω	future active indicative, third singular	1	he shall prepare
 LEV 6:22	1	13	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	it
 LEV 6:22	1	14	νόμος	νόμος	noun, nominative masculine singular	1	law
 LEV 6:22	1	14	νόμος			2	instruction
@@ -643,13 +643,13 @@ LEV 6:28	1	19	ἐκκλύσει	ἐκκλύζω	future active indicative, third 
 LEV 6:28	1	20	ὕδατι	ὕδωρ	noun, dative neuter singular	1	with water
 LEV 6:29	1	1	Πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 LEV 6:29	1	2	ἄρσην	ἄρσην	adjective, nominative neuter singular; substantival	1	male
-LEV 6:29	1	3	ἐν	ἐν	preposition with the dative	1	in
+LEV 6:29	1	3	ἐν	ἐν	preposition with the dative	1	among
 LEV 6:29	1	4	τοῖς	ὁ	article, dative masculine plural	1	the
-LEV 6:29	1	5	ἱερεῦσι	ἱερεύς	noun, dative masculine plural after τοῖς as printed ἱερεῦσι	1	to the priests
+LEV 6:29	1	5	ἱερεῦσι	ἱερεύς	noun, dative masculine plural after τοῖς as printed ἱερεῦσι	1	priests
 LEV 6:29	1	6	φάγεται	ἐσθίω	future middle indicative, third singular	1	he will eat
 LEV 6:29	1	7	αὐτά	αὐτός	pronoun, accusative neuter plural	1	them
-LEV 6:29	1	8	ἅγια	ἅγιος	adjective, nominative neuter plural; used substantivally	1	holy things
-LEV 6:29	1	9	ἁγίων	ἅγιος	adjective, genitive neuter plural; used substantivally	1	holy things
+LEV 6:29	1	8	ἅγια	ἅγιος	adjective, nominative neuter plural; used substantivally	1	most holy
+LEV 6:29	1	9	ἁγίων	ἅγιος	adjective, genitive neuter plural; used substantivally	1	[completes 'most holy']
 LEV 6:29	1	10	ἐστὶ	εἰμί	present indicative, third singular	1	is
 LEV 6:29	1	11	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 LEV 6:30	1	1	Καὶ	καί	conjunction	1	and
@@ -657,7 +657,7 @@ LEV 6:30	1	2	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 LEV 6:30	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 6:30	1	4	περὶ	περί	preposition with the genitive	1	on account of
 LEV 6:30	1	4	περὶ			2	concerning
-LEV 6:30	1	5	τῆς	ἄν	modal particle	1	[modal particle]
+LEV 6:30	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
 LEV 6:30	1	6	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
 LEV 6:30	1	7	ὧν	ὅς	relative pronoun, genitive neuter plural; attracted to the antecedent's case	1	which
 LEV 6:30	1	8	ἂν	ἄν	modal particle with the relative and subjunctive	1	ever

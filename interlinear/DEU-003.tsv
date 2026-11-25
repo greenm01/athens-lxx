@@ -11,7 +11,7 @@ DEU 3:1	1	9	ἐξῆλθεν	ἐξέρχομαι	aorist active indicative, 3rd s
 DEU 3:1	1	10	Ὢγ	Ὤγ	personal name, accusative masculine singular	1	Og
 DEU 3:1	1	11	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 DEU 3:1	1	12	τῆς	ὁ	article genitive feminine singular	1	the
-DEU 3:1	1	13	Βασὰν	Βασάν	place name, genitive singular	1	Bashan
+DEU 3:1	1	13	Βασὰν	Βασάν	place name, genitive singular	1	of Bashan
 DEU 3:1	1	14	εἰς	εἰς	preposition with the accusative	1	into
 DEU 3:1	1	15	συνάντησιν	συνάντησις	noun, accusative feminine singular	1	meeting
 DEU 3:1	1	16	ἡμῖν	ἐγώ	pronoun, dative 1st plural	1	to us
@@ -58,7 +58,7 @@ DEU 3:2	1	28	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 DEU 3:2	1	29	ὥσπερ	ὥσπερ	comparative conjunction	1	as
 DEU 3:2	1	30	ἐποίησας	ποιέω	aorist active indicative, 2nd singular	1	did
 DEU 3:2	1	31	τῷ	ὁ	article dative singular	1	the
-DEU 3:2	1	32	Σηὼν	Σηών	personal name, accusative masculine singular	1	Seon
+DEU 3:2	1	32	Σηὼν	Σηών	personal name, accusative masculine singular	1	to Seon
 DEU 3:2	1	33	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	the king
 DEU 3:2	1	34	τῶν	ὁ	article genitive masculine plural	1	the
 DEU 3:2	1	35	Ἀμοῤῥαίων	Ἀμοῤῥαῖος	ethnic noun, genitive masc. pl. after τῶν	1	Amorites
@@ -83,7 +83,7 @@ DEU 3:3	1	14	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 3:3	1	15	Ὢγ	Ὤγ	personal name, accusative masculine singular	1	Og
 DEU 3:3	1	16	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	a king
 DEU 3:3	1	17	τῆς	ὁ	article genitive feminine singular	1	the
-DEU 3:3	1	18	Βασὰν	Βασάν	place name, genitive singular	1	Bashan
+DEU 3:3	1	18	Βασὰν	Βασάν	place name, genitive singular	1	of Bashan
 DEU 3:3	1	19	καὶ	καί	conjunction	1	and
 DEU 3:3	1	20	πάντα	πᾶς	adjective, accusative neut. pl.	1	all
 DEU 3:3	1	21	τὸν	ὁ	article accusative masculine singular	1	the
@@ -149,7 +149,7 @@ DEU 3:6	1	2	ἐποιήσαμεν	ποιέω	aorist active indicative, 1st plura
 DEU 3:6	1	3	τὸν	ὁ	article accusative masculine singular	1	the
 DEU 3:6	1	4	Σηὼν	Σηών	personal name, accusative masculine singular	1	Seon
 DEU 3:6	1	5	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	a king
-DEU 3:6	1	6	Ἐσεβὼν	Ἐσεβών	place name, genitive singular	1	Esebon
+DEU 3:6	1	6	Ἐσεβὼν	Ἐσεβών	indeclinable place name, genitive in context	1	of Esebon
 DEU 3:6	1	7	καὶ	καί	conjunction	1	and
 DEU 3:6	1	8	ἐξωλεθρεύσαμεν	ἐξολοθρεύω	aorist active indicative, 1st pl.	1	we utterly destroyed
 DEU 3:6	1	9	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
@@ -195,7 +195,7 @@ DEU 3:8	1	19	Ἰορδάνου	Ἰορδάνης	river name, genitive masculine 
 DEU 3:8	1	20	ἀπὸ	ἀπό	preposition with genitive, from/at	1	from
 DEU 3:8	1	21	τοῦ	ὁ	article genitive masculine singular	1	the
 DEU 3:8	1	22	χειμάῤῥου	χειμάῤῥους	noun, genitive masculine singular	1	river
-DEU 3:8	1	23	Ἀρνῶν	Ἀρνών	river name, genitive singular	1	Arnon
+DEU 3:8	1	23	Ἀρνῶν	Ἀρνών	river name, genitive singular	1	of Arnon
 DEU 3:8	1	24	ἕως	ἕως	preposition with the genitive	1	as far as
 DEU 3:8	1	25	Ἀρερμών	Ἀρερμών	place name, accusative singular after ἕως	1	Aermon
 DEU 3:9	1	1	οἱ	ὁ	article, nominative masc. pl.	1	the
@@ -226,15 +226,15 @@ DEU 3:10	1	13	Ἐδραεὶμ	Ἐδραείμ	place name, nominative plural	1	E
 DEU 3:10	1	14	πόλεις	πόλις	noun, accusative feminine plural	1	cities
 DEU 3:10	1	15	βασιλείας	βασιλεία	noun, genitive feminine singular	1	kingdom
 DEU 3:10	1	16	τοῦ	ὁ	article genitive singular	1	the
-DEU 3:10	1	17	Ὢγ	Ὤγ	personal name, accusative masculine singular	1	Og
+DEU 3:10	1	17	Ὢγ	Ὤγ	personal name, accusative masculine singular	1	of Og
 DEU 3:10	1	18	ἐν	ἐν	preposition with the dative	1	in
 DEU 3:10	1	19	τῇ	ὁ	article dative feminine singular	1	the
 DEU 3:10	1	20	Βασάν	Βασάν	place name, accusative singular	1	Bashan
 DEU 3:11	1	1	ὅτι	ὅτι	causal conjunction	1	for
-DEU 3:11	1	2	πλὴν	πλήν	preposition with the genitive	1	besides
+DEU 3:11	1	2	πλὴν	πλήν	preposition with the genitive	1	only
 DEU 3:11	1	3	Ὢγ	Ὤγ	personal name, accusative masculine singular	1	Og
 DEU 3:11	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
-DEU 3:11	1	5	Βασὰν	Βασάν	place name, genitive singular	1	Bashan
+DEU 3:11	1	5	Βασὰν	Βασάν	place name, genitive singular	1	of Bashan
 DEU 3:11	1	6	κατελείφθη	καταλείπω	aorist passive indicative, 3rd singular	1	was left
 DEU 3:11	1	7	ἀπὸ	ἀπό	preposition with genitive, from/at	1	from
 DEU 3:11	1	8	τῶν	ὁ	article genitive plural	1	the
@@ -252,7 +252,7 @@ DEU 3:11	1	19	τῇ	ὁ	article dative feminine singular	1	the
 DEU 3:11	1	20	ἄκρᾳ	ἄκρα	noun, dative feminine singular	1	citadel
 DEU 3:11	1	21	τῶν	ὁ	article genitive masculine plural	1	the
 DEU 3:11	1	22	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-DEU 3:11	1	23	Ἀμμάν	Ἀμμάν	people name, genitive plural	1	Ammon
+DEU 3:11	1	23	Ἀμμάν	Ἀμμάν	people name, genitive plural	1	of Ammon
 DEU 3:11	1	24	ἐννέα	ἐννέα	cardinal numeral	1	nine
 DEU 3:11	1	25	πήχεων	πῆχυς	noun, genitive masculine plural	1	cubits
 DEU 3:11	1	26	τὸ	ὁ	definite article, nominative/accusative neuter singular	1	the
@@ -266,7 +266,7 @@ DEU 3:11	1	33	εὖρος	εὖρος	noun, nominative neuter singular	1	breadth
 DEU 3:11	1	34	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 DEU 3:11	1	35	ἐν	ἐν	preposition with the dative	1	in
 DEU 3:11	1	36	πήχει	πῆχυς	noun, dative masculine singular	1	cubit
-DEU 3:11	1	37	ἀνδρός	ἀνήρ	noun, genitive masculine singular	1	man
+DEU 3:11	1	37	ἀνδρός	ἀνήρ	noun, genitive masculine singular	1	of a man
 DEU 3:12	1	1	Καὶ	καί	conjunction	1	and
 DEU 3:12	1	2	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 3:12	1	3	γῆν	γῆ	noun, accusative feminine singular	1	land
@@ -296,27 +296,27 @@ DEU 3:12	1	26	τὰς	ὁ	article accusative feminine plural	1	the
 DEU 3:12	1	27	πόλεις	πόλις	noun, accusative feminine plural	1	cities
 DEU 3:12	1	28	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 3:12	1	29	ἔδωκα	δίδωμι	aorist active indicative, first singular	1	I gave
-DEU 3:12	1	30	τῷ	ὁ	article dative masculine singular	1	the
+DEU 3:12	1	30	τῷ	ὁ	definite article, dative masculine singular	1	to
 DEU 3:12	1	31	Ῥουβὴν	Ῥουβήν	personal/tribal name, dative masculine singular	1	Reuben
 DEU 3:12	1	32	καὶ	καί	conjunction	1	and
-DEU 3:12	1	33	τῷ	ὁ	article dative masculine singular	1	the
+DEU 3:12	1	33	τῷ	ὁ	definite article, dative masculine singular	1	to
 DEU 3:12	1	34	Γάδ	Γάδ	personal/tribal name, dative masculine singular	1	Gad
 DEU 3:13	1	1	καὶ	καί	conjunction	1	and
 DEU 3:13	1	2	τὸ	ὁ	definite article, nominative/accusative neuter singular	1	the
 DEU 3:13	1	3	κατάλοιπον	κατάλοιπον	adjective, accusative neuter singular	1	rest
 DEU 3:13	1	4	τοῦ	ὁ	article genitive singular	1	the
-DEU 3:13	1	5	Γαλαὰδ	Γαλαάδ	place name, genitive singular	1	Galaad
+DEU 3:13	1	5	Γαλαὰδ	Γαλαάδ	place name, genitive singular	1	of Galaad
 DEU 3:13	1	6	καὶ	καί	conjunction	1	and
 DEU 3:13	1	7	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 DEU 3:13	1	8	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 3:13	1	9	Βασὰν	Βασάν	place name, genitive singular	1	Bashan
 DEU 3:13	1	10	βασιλείαν	βασιλεία	noun, accusative feminine singular	1	kingdom
-DEU 3:13	1	11	Ὢγ	Ὤγ	personal name, accusative masculine singular	1	Og
+DEU 3:13	1	11	Ὢγ	Ὤγ	personal name, accusative masculine singular	1	of Og
 DEU 3:13	1	12	ἔδωκα	δίδωμι	aorist active indicative, first singular	1	I gave
 DEU 3:13	1	13	τῷ	ὁ	article dative neuter singular	1	the
 DEU 3:13	1	14	ἡμίσει	ἥμισυς	noun, dative neuter singular	1	half
 DEU 3:13	1	15	φυλῆς	φυλή	noun, genitive fem. sg. after ἐκ	1	tribe
-DEU 3:13	1	16	Μανασσῆ	Μανασσῆ	personal/tribal name, genitive singular after φυλῆς	1	Manasseh
+DEU 3:13	1	16	Μανασσῆ	Μανασσῆ	personal/tribal name, genitive singular after φυλῆς	1	of Manasseh
 DEU 3:13	1	17	καὶ	καί	conjunction	1	and
 DEU 3:13	1	18	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 DEU 3:13	1	19	τὴν	ὁ	article, accusative fem. sg.	1	the
@@ -332,7 +332,7 @@ DEU 3:13	1	28	λογισθήσεται	λογίζομαι	future passive indicat
 DEU 3:14	1	1	Καὶ	καί	conjunction	1	and
 DEU 3:14	1	2	Ἰαεὶρ	Ἰαείρ	personal name, nominative masculine singular	1	Iaeir
 DEU 3:14	1	3	υἱὸς	υἱός	noun, nominative masculine singular	1	a son
-DEU 3:14	1	4	Μανασσῆ	Μανασσῆ	personal/tribal name, genitive singular after φυλῆς	1	Manasseh
+DEU 3:14	1	4	Μανασσῆ	Μανασσῆ	personal/tribal name, genitive singular after φυλῆς	1	of Manasseh
 DEU 3:14	1	5	ἔλαβε	λαμβάνω	aorist active indicative, 3rd sg.	1	took
 DEU 3:14	1	6	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 DEU 3:14	1	7	τὴν	ὁ	article, accusative fem. sg.	1	the
@@ -349,7 +349,7 @@ DEU 3:14	1	17	ὁ	ὁ	article nominative masculine singular	1	the
 DEU 3:14	1	18	Ἰαεὶρ	Ἰαείρ	personal name, nominative masculine singular	1	Iaeir
 DEU 3:14	1	19	ἐπωνόμασεν	ἐπονομάζω	aorist active indicative, 3rd singular	1	named
 DEU 3:14	1	20	αὐτὸ	αὐτός	pronoun, nominative/accusative neuter singular	1	it
-DEU 3:14	1	21	ἐπὶ	ἐπί	preposition	1	on
+DEU 3:14	1	21	ἐπὶ	ἐπί	preposition	1	after
 DEU 3:14	1	22	τῷ	ὁ	article dative neuter singular	1	the
 DEU 3:14	1	23	ὀνόματι	ὄνομα	noun, dative neuter singular	1	name
 DEU 3:14	1	24	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -393,7 +393,7 @@ DEU 3:16	1	23	χειμάῤῥους	χειμάῤῥους	noun, nominative mas
 DEU 3:16	1	24	ὅριον	ὅριον	noun, nominative neuter singular	1	boundary
 DEU 3:16	1	25	τοῖς	ὁ	article dative masculine plural	1	the
 DEU 3:16	1	26	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
-DEU 3:16	1	27	Ἀμμάν	Ἀμμάν	people name, genitive plural	1	Ammon
+DEU 3:16	1	27	Ἀμμάν	Ἀμμάν	people name, genitive plural	1	of Ammon
 DEU 3:17	1	1	Καὶ	καί	conjunction	1	and
 DEU 3:17	1	2	ἡ	ὁ	definite article, nominative feminine singular	1	the
 DEU 3:17	1	3	Ἄραβα	Ἄραβα	place/region name after article τὴν	1	Araba
@@ -412,7 +412,7 @@ DEU 3:17	1	15	ἁλυκῆς	ἁλυκός	adjective, genitive feminine singular
 DEU 3:17	1	16	ὑπὸ	ὑπό	preposition with accusative τὴν κιβωτὸν	1	under
 DEU 3:17	1	17	Ἀσηδὼθ	Ἀσηδώθ	place name, dative singular after ὑπὸ	1	Asedoth
 DEU 3:17	1	18	τὴν	ὁ	article, accusative fem. sg.	1	the
-DEU 3:17	1	19	Φασγὰ	Φασγά	place name, accusative singular	1	Phasga
+DEU 3:17	1	19	Φασγὰ	Φασγά	place name, accusative singular	1	of Phasga
 DEU 3:17	1	20	ἀνατολῶν	ἀνατολή	noun, genitive feminine singular	1	east
 DEU 3:18	1	1	Καὶ	καί	conjunction	1	and
 DEU 3:18	1	2	ἐνετειλάμην	ἐντέλλομαι	aorist middle indicative, 1st sg.	1	I charged
@@ -431,20 +431,20 @@ DEU 3:18	1	14	ὑμῖν	σύ	pronoun, dative 2nd plural	1	to you
 DEU 3:18	1	15	τὴν	ὁ	article, accusative fem. sg.	1	the
 DEU 3:18	1	16	γῆν	γῆ	noun, accusative feminine singular	1	land
 DEU 3:18	1	17	ταύτην	οὗτος	demonstrative pronoun, accusative feminine singular	1	this
-DEU 3:18	1	18	ἐν	ἐν	preposition with the dative	1	in
+DEU 3:18	1	18	ἐν	ἐν	preposition with the dative	1	as an
 DEU 3:18	1	19	κλήρῳ	κλῆρος	noun, dative masculine singular	1	inheritance
 DEU 3:18	1	20	ἐνοπλισάμενοι	ἐνοπλίζομαι	aorist middle participle, nominative masculine plural	1	armed
-DEU 3:18	1	21	προπορεύεσθε	προπορεύομαι	present middle imperative, 2nd plural	1	pass
+DEU 3:18	1	21	προπορεύεσθε	προπορεύομαι	present middle imperative, 2nd plural	1	go ahead
 DEU 3:18	1	22	πρὸ	πρό	preposition with the genitive	1	before
 DEU 3:18	1	23	προσώπου	πρόσωπον	noun, genitive neuter singular	1	face
 DEU 3:18	1	24	τῶν	ὁ	article genitive masculine plural	1	the
 DEU 3:18	1	25	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 DEU 3:18	1	26	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
-DEU 3:18	1	27	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-DEU 3:18	1	28	Ἰσραήλ	Ἰσραήλ	place name, genitive plural after υἱῶν	1	Israel
+DEU 3:18	1	27	υἱῶν	υἱός	noun, genitive masculine plural	1	of sons
+DEU 3:18	1	28	Ἰσραήλ	Ἰσραήλ	place name, genitive plural after υἱῶν	1	of Israel
 DEU 3:18	1	29	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 DEU 3:18	1	30	δυνατός	δυνατός	adjective, nominative masculine singular	1	valiant
-DEU 3:19	1	1	πλὴν	πλήν	preposition with the genitive	1	besides
+DEU 3:19	1	1	πλὴν	πλήν	preposition with the genitive	1	except
 DEU 3:19	1	2	αἱ	ὁ	article nominative feminine plural	1	the
 DEU 3:19	1	3	γυναῖκες	γυνή	noun, nominative feminine plural	1	women
 DEU 3:19	1	4	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
@@ -462,7 +462,7 @@ DEU 3:19	1	15	πολλὰ	πολύς	adjective, nominative neut. pl. with θηρ
 DEU 3:19	1	16	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 DEU 3:19	1	17	κτήνη	κτῆνος	noun, accusative neuter plural	1	cattle
 DEU 3:19	1	18	ὑμῖν	σύ	pronoun, dative 2nd plural	1	to you
-DEU 3:19	1	19	κατοικείτωσαν	κατοικέω	present active imperative, 3rd plural	1	remain
+DEU 3:19	1	19	κατοικείτωσαν	κατοικέω	present active imperative, 3rd plural	1	let them dwell
 DEU 3:19	1	20	ἐν	ἐν	preposition with the dative	1	in
 DEU 3:19	1	21	ταῖς	ὁ	article dative feminine plural	1	the
 DEU 3:19	1	22	πόλεσιν	πόλις	noun, dative feminine plural	1	cities
@@ -602,7 +602,7 @@ DEU 3:24	1	30	οὐρανῷ	οὐρανός	noun, dative masculine singular	1	h
 DEU 3:24	1	31	ἢ	ἤ	disjunctive particle	1	or
 DEU 3:24	1	32	ἐπὶ	ἐπί	preposition	1	on
 DEU 3:24	1	33	τῆς	ὁ	article genitive feminine singular	1	the
-DEU 3:24	1	34	γῆς	γῆ	noun, genitive feminine singular	1	land
+DEU 3:24	1	34	γῆς	γῆ	noun, genitive feminine singular	1	earth
 DEU 3:24	1	35	ὅστις	ὅστις	relative pronoun, nominative masculine singular	1	who
 DEU 3:24	1	36	ποιήσει	ποιέω	future active indicative, 3rd singular	1	will do
 DEU 3:24	1	37	καθὰ	καθά	conjunction	1	according as
@@ -638,7 +638,7 @@ DEU 3:26	1	1	Καὶ	καί	conjunction	1	and
 DEU 3:26	1	2	ὑπερεῖδε	ὑπεροράω	aorist active indicative, 3rd singular	1	overlooked
 DEU 3:26	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 DEU 3:26	1	4	ἐμὲ	ἐγώ	pronoun, accusative 1st singular	1	me
-DEU 3:26	1	5	ἕνεκεν	ἕνεκα	preposition with the genitive	1	for the sake of
+DEU 3:26	1	5	ἕνεκεν	ἕνεκα	preposition with the genitive	1	because of
 DEU 3:26	1	6	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	you
 DEU 3:26	1	7	καὶ	καί	conjunction	1	and
 DEU 3:26	1	8	οὐκ	οὐ	negative adverb	1	not
@@ -671,7 +671,7 @@ DEU 3:27	1	8	τοῖς	ὁ	article dative masculine plural	1	the
 DEU 3:27	1	9	ὀφθαλμοῖς	ὀφθαλμός	noun, dative masculine plural	1	eyes
 DEU 3:27	1	10	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 3:27	1	11	κατὰ	κατά	preposition with the accusative	1	toward
-DEU 3:27	1	12	θάλασσαν	θάλασσα	noun accusative feminine singular, western direction	1	the sea
+DEU 3:27	1	12	θάλασσαν	θάλασσα	noun accusative feminine singular, western direction	1	the west
 DEU 3:27	1	13	καὶ	καί	conjunction	1	and
 DEU 3:27	1	14	βοῤῥᾶν	βοῤῥᾶς	noun, accusative masculine singular	1	north
 DEU 3:27	1	15	καὶ	καί	conjunction	1	and
@@ -696,7 +696,7 @@ DEU 3:28	1	4	καὶ	καί	conjunction	1	and
 DEU 3:28	1	5	ἐνίσχυσον	ἐνισχύω	aorist active imperative, 2nd singular	1	strengthen
 DEU 3:28	1	6	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 DEU 3:28	1	7	καὶ	καί	conjunction	1	and
-DEU 3:28	1	8	παρακάλεσον	παρακαλέω	aorist active imperative, 2nd singular	1	comfort
+DEU 3:28	1	8	παρακάλεσον	παρακαλέω	aorist active imperative, 2nd singular	1	encourage
 DEU 3:28	1	9	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 DEU 3:28	1	10	ὅτι	ὅτι	causal conjunction	1	for
 DEU 3:28	1	11	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this one

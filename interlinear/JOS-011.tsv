@@ -43,8 +43,8 @@ JOS 11:2	1	26	Χενερὲθ	Χενερέθ	indeclinable place name, genitive i
 JOS 11:2	1	27	καὶ	καί	conjunction	1	and
 JOS 11:2	1	28	εἰς	εἰς	preposition with accusative	1	into
 JOS 11:2	1	29	τὸ	ὁ	article, accusative neuter singular	1	the
-JOS 11:2	1	30	πεδίον	πεδίον	noun, accusative neuter singular	1	field
-JOS 11:2	1	30	πεδίον			2	plain
+JOS 11:2	1	30	πεδίον	πεδίον	noun, accusative neuter singular	1	plain
+JOS 11:2	1	30	πεδίον			2	field
 JOS 11:2	1	31	καὶ	καί	conjunction	1	and
 JOS 11:2	1	32	εἰς	εἰς	preposition with accusative	1	into
 JOS 11:2	1	33	Ναφεθδὼρ	Ναφεθδώρ	indeclinable place name, accusative in context	1	Napheth-dor
@@ -81,7 +81,7 @@ JOS 11:3	1	28	ὑπὸ	ὑπό	preposition with the accusative	1	under
 JOS 11:3	1	29	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 11:3	1	30	Ἀερμὼν	Ἀερμών	indeclinable place name, accusative in context	1	Hermon
 JOS 11:3	1	31	εἰς	εἰς	preposition with the accusative	1	into
-JOS 11:3	1	32	γῆν	γῆ	noun, accusative feminine singular	1	earth
+JOS 11:3	1	32	γῆν	γῆ	noun, accusative feminine singular	1	land
 JOS 11:3	1	33	Μασσηφάθ	Μασσηφάθ	indeclinable place name, genitive in context	1	Massephath
 JOS 11:4	1	1	Καὶ	καί	conjunction	1	and
 JOS 11:4	1	2	ἐξῆλθον	ἐξέρχομαι	aorist active indicative, third plural	1	went out
@@ -174,7 +174,7 @@ JOS 11:7	1	2	ἦλθεν	ἔρχομαι	aorist active indicative, third singula
 JOS 11:7	1	2	ἦλθεν			2	had come
 JOS 11:7	1	3	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua
 JOS 11:7	1	4	καὶ	καί	conjunction	1	and
-JOS 11:7	1	5	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+JOS 11:7	1	5	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 JOS 11:7	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 11:7	1	7	λαὸς	λαός	noun, nominative masculine singular	1	people
 JOS 11:7	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -196,7 +196,7 @@ JOS 11:7	1	22	ἐν	ἐν	preposition with dative	1	in
 JOS 11:7	1	23	τῇ	ὁ	article, dative feminine singular	1	the
 JOS 11:7	1	24	ὀρεινῇ	ὀρεινός	substantival adjective, dative feminine singular	1	hill country
 JOS 11:8	1	1	Καὶ	καί	conjunction	1	and
-JOS 11:8	1	2	παρέδωκεν	παραδίδωμι	aorist active indicative, 3rd sg.	1	delivered/handed over
+JOS 11:8	1	2	παρέδωκεν	παραδίδωμι	aorist active indicative, 3rd sg.	1	delivered
 JOS 11:8	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 JOS 11:8	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JOS 11:8	1	5	ὑποχειρίους	ὑποχείριος	adjective, accusative masculine plural	1	into the power
@@ -212,14 +212,14 @@ JOS 11:8	1	13	Σιδῶνος	Σιδών	proper name, genitive feminine singular
 JOS 11:8	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
 JOS 11:8	1	15	μεγάλης	μέγας	adjective, genitive feminine singular	1	great
 JOS 11:8	1	16	καὶ	καί	conjunction	1	and
-JOS 11:8	1	17	ἕως	ἕως	temporal conjunction/preposition	1	until
+JOS 11:8	1	17	ἕως	ἕως	temporal conjunction/preposition	1	to
 JOS 11:8	1	18	Μασρεφώθ	Μασρεφώθ	indeclinable place name, first element in compound	1	Misrephoth
 JOS 11:8	1	19	Μαεὶμ	Μαείμ	indeclinable place name, second element in compound	1	Maim
 JOS 11:8	1	20	καὶ	καί	conjunction	1	and
-JOS 11:8	1	21	ἕως	ἕως	temporal conjunction/preposition (from context)	1	until
+JOS 11:8	1	21	ἕως	ἕως	temporal conjunction/preposition (from context)	1	to
 JOS 11:8	1	22	τῶν	ὁ	article, genitive plural	1	the
-JOS 11:8	1	23	πεδίων	πεδίον	noun, genitive neuter plural after τῶν	1	fields
-JOS 11:8	1	24	Μασσηφὰ	Μασσηφά	indeclinable place name, genitive in context	1	Massepha
+JOS 11:8	1	23	πεδίων	πεδίον	noun, genitive neuter plural after τῶν	1	plains
+JOS 11:8	1	24	Μασσηφὰ	Μασσηφά	indeclinable place name, genitive in context	1	of Massepha
 JOS 11:8	1	25	κατ᾽	κατά	elided preposition with the accusative of direction	1	toward
 JOS 11:8	1	26	ἀνατολάς	ἀνατολή	noun, accusative feminine plural	1	the east
 JOS 11:8	1	26	ἀνατολάς			2	the sunrise
@@ -234,7 +234,7 @@ JOS 11:8	1	33	καταλειφθῆναι	καταλείπω	aorist passive infi
 JOS 11:8	1	34	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	of them
 JOS 11:8	1	35	διασεσωσμένον	διασῴζω	perfect middle/passive participle, accusative masculine singular	1	one who survived
 JOS 11:9	1	1	Καὶ	καί	conjunction	1	and
-JOS 11:9	1	2	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	made
+JOS 11:9	1	2	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	did
 JOS 11:9	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 JOS 11:9	1	4	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua
 JOS 11:9	1	5	καθότι	καθότι	subordinating conjunction	1	as
@@ -251,7 +251,7 @@ JOS 11:9	1	14	τὰ	ὁ	article, accusative neuter plural	1	the
 JOS 11:9	1	15	ἅρματα	ἅρμα	noun, nominative neuter plural	1	chariots
 JOS 11:9	1	16	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 JOS 11:9	1	17	ἐνέπρησεν	ἐμπίμπρημι	aorist active indicative, third singular	1	he burned
-JOS 11:9	1	18	ἐν	ἐν	preposition with the dative	1	in
+JOS 11:9	1	18	ἐν	ἐν	preposition with the dative	1	with
 JOS 11:9	1	19	πυρί	πῦρ	noun, dative neuter singular	1	fire
 JOS 11:10	1	1	Καὶ	καί	conjunction	1	and
 JOS 11:10	1	2	ἐπέστρεψεν	ἐπιστρέφω	aorist active indicative, third singular, intransitive in sense 'returned'	1	returned
@@ -270,7 +270,7 @@ JOS 11:10	1	14	βασιλέα	βασιλεύς	noun, accusative masculine singul
 JOS 11:10	1	15	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 JOS 11:10	1	16	ἀπέκτεινεν	ἀποκτείνω	aorist active indicative, third singular	1	he killed
 JOS 11:10	1	16	ἀπέκτεινεν			2	he slew
-JOS 11:10	1	17	ἐν	ἐν	preposition with the dative	1	in
+JOS 11:10	1	17	ἐν	ἐν	preposition with the dative	1	with
 JOS 11:10	1	18	ῥομφαίᾳ	ῥομφαία	noun, dative feminine singular	1	sword
 JOS 11:10	1	19	ὅτι	ὅτι	causal conjunction	1	because
 JOS 11:10	1	20	Ἀσὼρ	Ἀσώρ	indeclinable place name, nominative in context	1	Hazor
@@ -288,7 +288,7 @@ JOS 11:11	1	4	ἐμπνέον	ἐμπνέω	present active participle, accusativ
 JOS 11:11	1	5	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
 JOS 11:11	1	6	ἐν	ἐν	preposition with the dative	1	in
 JOS 11:11	1	7	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
-JOS 11:11	1	8	ἐν	ἐν	preposition with the dative	1	in
+JOS 11:11	1	8	ἐν	ἐν	preposition with the dative	1	with
 JOS 11:11	1	9	στόματι	στόμα	noun, dative neuter singular	1	the edge
 JOS 11:11	1	10	ξίφους	ξίφος	noun, genitive neuter singular	1	of the sword
 JOS 11:11	1	11	καὶ	καί	conjunction	1	and
@@ -304,7 +304,7 @@ JOS 11:11	1	20	καὶ	καί	conjunction	1	and
 JOS 11:11	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 11:11	1	22	Ἀσὼρ	Ἀσώρ	indeclinable place name, accusative in context	1	Hazor
 JOS 11:11	1	23	ἐνέπρησαν	ἐμπίμπρημι	aorist active indicative, third plural	1	they burned
-JOS 11:11	1	24	ἐν	ἐν	preposition with the dative	1	in
+JOS 11:11	1	24	ἐν	ἐν	preposition with the dative	1	with
 JOS 11:11	1	25	πυρί	πῦρ	noun, dative neuter singular	1	fire
 JOS 11:12	1	1	Καὶ	καί	conjunction	1	and
 JOS 11:12	1	2	πάσας	πᾶς	adjective, accusative feminine plural	1	all
@@ -323,7 +323,7 @@ JOS 11:12	1	14	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine s
 JOS 11:12	1	15	καὶ	καί	conjunction	1	and
 JOS 11:12	1	16	ἀνεῖλεν	ἀναιρέω	aorist active indicative, third singular	1	he killed
 JOS 11:12	1	17	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-JOS 11:12	1	18	ἐν	ἐν	preposition with the dative	1	in
+JOS 11:12	1	18	ἐν	ἐν	preposition with the dative	1	with
 JOS 11:12	1	19	στόματι	στόμα	noun, dative neuter singular	1	the edge
 JOS 11:12	1	20	ξίφους	ξίφος	noun, genitive neuter singular	1	of the sword
 JOS 11:12	1	21	καὶ	καί	conjunction	1	and
@@ -414,7 +414,7 @@ JOS 11:15	1	19	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine s
 JOS 11:15	1	20	οὐ	οὐ	negative particle	1	not
 JOS 11:15	1	21	παρέβη	παραβαίνω	aorist active indicative, third singular	1	has transgressed
 JOS 11:15	1	22	οὐθὲν	οὐδείς	adjective, accusative neuter singular; substantival	1	nothing
-JOS 11:15	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
+JOS 11:15	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	of
 JOS 11:15	1	24	πάντων	πᾶς	adjective, genitive neuter plural	1	all
 JOS 11:15	1	25	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	which
 JOS 11:15	1	26	συνέταξε	συντάσσω	aorist active indicative, third singular with dative, 'had commanded/appointed'	1	commanded
@@ -445,14 +445,14 @@ JOS 11:16	1	18	καὶ	καί	conjunction	1	and
 JOS 11:16	1	19	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 JOS 11:16	1	20	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 11:16	1	21	γῆν	γῆ	noun, accusative feminine singular	1	land
-JOS 11:16	1	22	Γοσὸμ	Γοσόμ	indeclinable place name, accusative in context	1	Goshen
+JOS 11:16	1	22	Γοσὸμ	Γοσόμ	indeclinable place name, accusative in context	1	of Goshen
 JOS 11:16	1	23	καὶ	καί	conjunction	1	and
 JOS 11:16	1	24	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 11:16	1	25	πεδινὴν	πεδινός	substantival adjective, accusative feminine singular	1	lowland
 JOS 11:16	1	26	καὶ	καί	conjunction	1	and
 JOS 11:16	1	27	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 11:16	1	28	πρὸς	πρός	preposition with the accusative	1	to
-JOS 11:16	1	29	δυσμαῖς	δυσμή	noun, dative feminine plural	1	setting
+JOS 11:16	1	29	δυσμαῖς	δυσμή	noun, dative feminine plural	1	west
 JOS 11:16	1	30	καὶ	καί	conjunction	1	and
 JOS 11:16	1	31	τὸ	ὁ	article, nominative neuter singular	1	the
 JOS 11:16	1	32	ὄρος	ὄρος	noun, nominative/accusative neut. sg. after τὸ	1	mountain
@@ -473,7 +473,7 @@ JOS 11:17	1	9	προσαναβαίνει	προσαναβαίνω	present active
 JOS 11:17	1	10	εἰς	εἰς	preposition with the accusative	1	into
 JOS 11:17	1	11	Σηειρὰ	Σηειρά	indeclinable place name, accusative in context	1	Seir
 JOS 11:17	1	12	καὶ	καί	conjunction	1	and
-JOS 11:17	1	13	ἕως	ἕως	temporal conjunction/preposition	1	until
+JOS 11:17	1	13	ἕως	ἕως	temporal conjunction/preposition	1	to
 JOS 11:17	1	14	Βααλγὰδ	Βααλγάδ	indeclinable place name, genitive in context	1	Baal-gad
 JOS 11:17	1	15	καὶ	καί	conjunction	1	and
 JOS 11:17	1	16	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -501,10 +501,10 @@ JOS 11:17	1	35	ἀπέκτεινεν			2	he slew
 JOS 11:17	1	36	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 JOS 11:18	1	1	Καὶ	καί	conjunction	1	and
 JOS 11:18	1	2	ἡμέρας	ἡμέρα	noun, accusative feminine plural; accusative of duration or time	1	days
-JOS 11:18	1	3	πλείους	πολύς	comparative adjective, nominative masculine plural	1	more numerous
+JOS 11:18	1	3	πλείους	πολύς	comparative adjective, nominative masculine plural	1	many
 JOS 11:18	1	4	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	made
 JOS 11:18	1	5	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua
-JOS 11:18	1	6	πρὸς	πρός	preposition with the accusative	1	to
+JOS 11:18	1	6	πρὸς	πρός	preposition with the accusative	1	against
 JOS 11:18	1	7	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 JOS 11:18	1	8	τοὺς	ὁ	article, accusative masculine plural	1	the
 JOS 11:18	1	9	βασιλεῖς	βασιλεύς	noun, nominative masculine plural	1	kings
@@ -537,7 +537,7 @@ JOS 11:19	1	20	ἐν	ἐν	preposition with the dative	1	in
 JOS 11:19	1	21	πολέμῳ	πόλεμος	noun, dative masculine singular	1	war
 JOS 11:20	1	1	Ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 JOS 11:20	1	2	διὰ	διά	preposition with genitive	1	through
-JOS 11:20	1	3	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+JOS 11:20	1	3	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 JOS 11:20	1	4	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	there came to be
 JOS 11:20	1	4	ἐγένετο			2	there was
 JOS 11:20	1	5	κατισχύσαι	κατισχύω	aorist active infinitive	1	to strengthen
@@ -545,10 +545,10 @@ JOS 11:20	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 11:20	1	7	καρδίαν	καρδία	noun, accusative feminine singular after εἰς τὴν	1	heart
 JOS 11:20	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JOS 11:20	1	9	συναντᾶν	συναντάω	present active infinitive	1	to meet
-JOS 11:20	1	10	εἰς	εἰς	preposition with the accusative	1	into
+JOS 11:20	1	10	εἰς	εἰς	preposition with the accusative	1	for
 JOS 11:20	1	11	πόλεμον	πόλεμος	noun, accusative masculine singular	1	war
 JOS 11:20	1	11	πόλεμον			2	battle
-JOS 11:20	1	12	πρὸς	πρός	preposition with the accusative	1	to
+JOS 11:20	1	12	πρὸς	πρός	preposition with the accusative	1	against
 JOS 11:20	1	13	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, accusative in context	1	Israel
 JOS 11:20	1	14	ἵνα	ἵνα	conjunction	1	so that
 JOS 11:20	1	15	ἐξολοθρευθῶσιν	ἐξολοθρεύω	aorist passive subjunctive, third plural	1	they may be destroyed
@@ -659,4 +659,4 @@ JOS 11:23	1	26	Καὶ	καί	conjunction	1	and
 JOS 11:23	1	27	ἡ	ὁ	article, nominative feminine singular	1	the
 JOS 11:23	1	28	γῆ	γῆ	noun, nominative feminine singular	1	land
 JOS 11:23	1	29	κατέπαυσε	καταπαύω	aorist active indicative, third singular, intransitive in sense rested	1	rested
-JOS 11:23	1	30	πολεμουμένη	πολεμέω	present middle/passive participle, nominative feminine singular	1	from being at war
+JOS 11:23	1	30	πολεμουμένη	πολεμέω	present middle/passive participle, nominative feminine singular	1	from war

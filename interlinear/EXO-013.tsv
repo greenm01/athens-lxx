@@ -9,18 +9,18 @@ EXO 13:2	1	1	ἁγίασόν	ἁγιάζω	aorist active imperative, 2nd sg.	1	c
 EXO 13:2	1	2	μοι	ἐγώ	pronoun, dative first singular	1	to me
 EXO 13:2	1	3	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 EXO 13:2	1	4	πρωτότοκον	πρωτότοκος	adjective/noun, accusative neut./masc. sg. after πᾶν, firstborn	1	firstborn
-EXO 13:2	1	5	πρωτογενὲς	πρωτογενής	adjective, nominative/accusative neut. sg. with πρωτότοκον, first-born	1	first produced
+EXO 13:2	1	5	πρωτογενὲς	πρωτογενής	adjective, nominative/accusative neut. sg. with πρωτότοκον, first-born	1	firstborn
 EXO 13:2	1	6	καὶ	καί	conjunction	1	and
 EXO 13:2	1	7	διανοῖγον	διανοίγω	present active participle, accusative neut. sg. with πᾶν '(that) opens'	1	that opens
-EXO 13:2	1	8	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
+EXO 13:2	1	8	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	every
 EXO 13:2	1	9	μήτραν	μήτρα	noun, accusative fem. sg.	1	the womb
 EXO 13:2	1	10	ἐν	ἐν	preposition with the dative	1	in
 EXO 13:2	1	11	τοῖς	ὁ	article, dative neuter plural	1	the
 EXO 13:2	1	12	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 EXO 13:2	1	13	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, nominative in context	1	Israel
 EXO 13:2	1	14	ἀπὸ	ἀπό	preposition with the genitive	1	from
-EXO 13:2	1	15	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a man
-EXO 13:2	1	16	ἕως	ἕως	temporal conjunction/preposition	1	until
+EXO 13:2	1	15	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	human
+EXO 13:2	1	16	ἕως	ἕως	preposition with genitive	1	to
 EXO 13:2	1	17	κτήνους	κτῆνος	noun, genitive neuter singular after ἕως	1	beast
 EXO 13:2	1	18	ἐμοί	ἐγώ	pronoun, dative 1st sg. tonic 'mine	1	mine
 EXO 13:2	1	19	ἐστιν	εἰμί	present active indicative, third person singular	1	is
@@ -137,7 +137,7 @@ EXO 13:7	1	9	ἔσται	εἰμί	future indicative, third singular	1	will be
 EXO 13:7	1	10	σοι	σύ	pronoun, dative second singular	1	to you
 EXO 13:7	1	11	ζύμη	ζύμη	noun, nominative fem. sg.	1	leaven
 EXO 13:7	1	12	ἐν	ἐν	preposition with the dative	1	in
-EXO 13:7	1	13	πᾶσι	πᾶς	adjective, dative neuter plural	1	with all
+EXO 13:7	1	13	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
 EXO 13:7	1	14	τοῖς	ὁ	article, dative neuter plural	1	the
 EXO 13:7	1	15	ὁρίοις	ὅριον	noun, dative neut. pl. after ἐν πᾶσι τοῖς	1	borders
 EXO 13:7	1	16	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -165,7 +165,7 @@ EXO 13:8	1	21	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine 
 EXO 13:9	1	1	Καὶ	καί	conjunction	1	and
 EXO 13:9	1	2	ἔσται	εἰμί	future indicative, third singular	1	will be
 EXO 13:9	1	3	σοι	σύ	pronoun, dative second singular	1	to you
-EXO 13:9	1	4	εἰς	εἰς	preposition with the accusative	1	into
+EXO 13:9	1	4	εἰς	εἰς	preposition with the accusative	1	as
 EXO 13:9	1	5	σημεῖον	σημεῖον	noun, accusative neuter singular	1	a sign
 EXO 13:9	1	6	ἐπὶ	ἐπί	preposition	1	on
 EXO 13:9	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -204,8 +204,8 @@ EXO 13:10	1	6	κατὰ	κατά	preposition with the accusative	1	at
 EXO 13:10	1	7	καιροὺς	καιρός	noun, accusative masc. pl. after κατὰ, in κατὰ καιροὺς ὡρῶν phrase	1	appointed times
 EXO 13:10	1	8	ὡρῶν	ὥρα	noun, genitive fem. pl. in καιροὺς ὡρῶν	1	of the seasons
 EXO 13:10	1	9	ἀφ᾽	ἀπό	preposition with the genitive, elided	1	from
-EXO 13:10	1	10	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	of days
-EXO 13:10	1	11	εἰς	εἰς	preposition with the accusative	1	into
+EXO 13:10	1	10	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
+EXO 13:10	1	11	εἰς	εἰς	preposition with the accusative	1	to
 EXO 13:10	1	12	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
 EXO 13:11	1	1	Καὶ	καί	conjunction	1	and
 EXO 13:11	1	2	ἔσται	εἰμί	future indicative, third singular	1	will be
@@ -298,7 +298,7 @@ EXO 13:14	1	13	καὶ	καί	conjunction	1	and
 EXO 13:14	1	14	ἐρεῖς	λέγω	future active indicative, second singular	1	you shall say
 EXO 13:14	1	15	αὐτῷ	αὐτός	pronoun, dative masculine/neuter singular	1	to him
 EXO 13:14	1	16	ὅτι	ὅτι	conjunction	1	that
-EXO 13:14	1	17	ἐν	ἐν	preposition with the dative	1	in
+EXO 13:14	1	17	ἐν	ἐν	preposition with the dative	1	with
 EXO 13:14	1	18	χειρὶ	χείρ	noun, dative feminine singular after τῇ, instrumental	1	hand
 EXO 13:14	1	19	κραταιᾷ	κραταιός	adjective, dative fem. sg. with χειρὶ after ἐν	1	mighty
 EXO 13:14	1	20	ἐξήγαγεν	ἐξάγω	aorist active indicative, third singular	1	led out
@@ -326,7 +326,7 @@ EXO 13:15	1	13	Αἰγύπτῳ	Αἴγυπτος	place name, dative feminine si
 EXO 13:15	1	14	ἀπὸ	ἀπό	preposition with the genitive	1	from
 EXO 13:15	1	15	πρωτοτόκου	πρωτότοκος	noun, genitive masculine singular after ἀπὸ/τοῦ/ἕως	1	firstborn
 EXO 13:15	1	16	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	human beings
-EXO 13:15	1	17	ἕως	ἕως	temporal conjunction/preposition	1	until
+EXO 13:15	1	17	ἕως	ἕως	preposition with genitive	1	to
 EXO 13:15	1	18	πρωτοτόκου	πρωτότοκος	noun, genitive masculine singular after ἀπὸ/τοῦ/ἕως	1	firstborn
 EXO 13:15	1	19	κτηνῶν	κτῆνος	noun, genitive neuter plural after τῶν	1	of the livestock
 EXO 13:15	1	20	διὰ	διά	preposition with the accusative	1	because of
@@ -391,7 +391,7 @@ EXO 13:17	1	2	γὰρ	γάρ	conjunction	1	for
 EXO 13:17	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 EXO 13:17	1	4	Θεός	θεός	noun, nominative masculine singular	1	God
 EXO 13:17	1	5	μήποτε	μήποτε	conjunction	1	lest
-EXO 13:17	1	6	μεταμελήσῃ	μεταμέλομαι	aorist passive subjunctive, 3rd sg. after μήποτε with dative λαῷ	1	repent
+EXO 13:17	1	6	μεταμελήσῃ	μεταμέλω	aorist active subjunctive, third singular, impersonal with dative	1	change their minds
 EXO 13:17	1	7	τῷ	ὁ	article, dative masculine singular	1	the
 EXO 13:17	1	8	λαῷ	λαός	noun, dative masculine singular	1	people
 EXO 13:17	1	9	ἰδόντι	ὁράω	aorist active participle, dative masc. sg. with λαῷ 'on seeing'	1	seeing
@@ -406,12 +406,12 @@ EXO 13:18	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 EXO 13:18	1	4	Θεὸς	θεός	noun, nominative masculine singular	1	God
 EXO 13:18	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 13:18	1	6	λαὸν	λαός	noun, accusative masculine singular, in apposition	1	people
-EXO 13:18	1	7	ὁδὸν	ὁδός	noun, accusative feminine singular of extent 'a journey of three days'	1	a journey
+EXO 13:18	1	7	ὁδὸν	ὁδός	noun, accusative feminine singular of extent 'a journey of three days'	1	the way
 EXO 13:18	1	8	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 13:18	1	9	εἰς	εἰς	preposition with the accusative	1	into
 EXO 13:18	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 13:18	1	11	ἔρημον	ἔρημος	noun, accusative feminine singular after εἰς τὴν	1	desert
-EXO 13:18	1	12	εἰς	εἰς	preposition with the accusative	1	into
+EXO 13:18	1	12	εἰς	εἰς	preposition with the accusative	1	toward
 EXO 13:18	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 13:18	1	14	ἐρυθρὰν	ἐρυθρός	adjective, accusative fem. sg. with θάλασσαν	1	red
 EXO 13:18	1	15	θάλασσαν	θάλασσα	noun, accusative feminine singular after εἰς τὴν	1	the sea

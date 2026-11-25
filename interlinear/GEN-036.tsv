@@ -10,8 +10,8 @@ GEN 36:1	1	7	ἐστιν	εἰμί	present indicative, third singular	1	is
 GEN 36:1	1	8	Ἐδώμ	Ἐδώμ	indeclinable personal/place name (see note), nominative in context, predicate name of the man, hence also his people/land	1	Edom
 GEN 36:2	1	1	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, nominative in context	1	Esau
 GEN 36:2	1	2	δὲ	δέ	postpositive conjunction	1	and
-GEN 36:2	1	3	ἔλαβε	λαμβάνω	aorist active indicative, third singular, of taking wives	1	took as wives
-GEN 36:2	1	3	ἔλαβε			2	took
+GEN 36:2	1	3	ἔλαβε	λαμβάνω	aorist active indicative, third singular, of taking wives	1	took
+GEN 36:2	1	3	ἔλαβε			2	took as wives
 GEN 36:2	1	4	γυναῖκας	γυνή	noun, accusative feminine plural, wives taken in marriage	1	wives
 GEN 36:2	1	5	ἑαυτῷ	ἑαυτοῦ	reflexive pronoun, dative masculine singular, of advantage	1	for himself
 GEN 36:2	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -24,7 +24,7 @@ GEN 36:2	1	12	Ἀδὰ	Ἀδά	indeclinable personal name, accusative in context
 GEN 36:2	1	13	θυγατέρα	θυγάτηρ	noun, accusative feminine singular in apposition	1	daughter
 GEN 36:2	1	14	Αἰλὼν	Αἰλών	indeclinable personal name, genitive in context	1	of Ailon
 GEN 36:2	1	15	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
-GEN 36:2	1	16	Χετταίου	Χετταῖος	ethnic noun, genitive masculine singular	1	of the Hittite
+GEN 36:2	1	16	Χετταίου	Χετταῖος	ethnic noun, genitive masculine singular	1	Hittite
 GEN 36:2	1	17	καὶ	καί	conjunction	1	and
 GEN 36:2	1	18	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 36:2	1	19	Ὀλιβεμὰ	Ὀλιβεμά	indeclinable personal name, accusative in context	1	Olibema
@@ -34,7 +34,7 @@ GEN 36:2	1	22	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
 GEN 36:2	1	23	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 GEN 36:2	1	24	Σεβεγὼν	Σεβεγών	indeclinable personal name, genitive in context	1	of Sebegon
 GEN 36:2	1	25	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
-GEN 36:2	1	26	Εὐαίου	Εὐαῖος	ethnic noun, genitive masculine singular	1	of the Hivite
+GEN 36:2	1	26	Εὐαίου	Εὐαῖος	ethnic noun, genitive masculine singular	1	Hivite
 GEN 36:3	1	1	καὶ	καί	conjunction	1	and
 GEN 36:3	1	2	τὴν	ὁ	article, accusative feminine singular	1	the
 GEN 36:3	1	3	Βασεμμὰθ	Βασεμμάθ	indeclinable personal name, accusative in context	1	Basemmath
@@ -69,8 +69,8 @@ GEN 36:5	1	12	οὗτοι	οὗτος	demonstrative pronoun, nominative masculin
 GEN 36:5	1	13	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
 GEN 36:5	1	14	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive in context	1	of Esau
 GEN 36:5	1	15	οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
-GEN 36:5	1	16	ἐγένοντο	γίνομαι	aorist middle indicative, third plural; of offspring, were born/were	1	were
-GEN 36:5	1	16	ἐγένοντο			2	were born
+GEN 36:5	1	16	ἐγένοντο	γίνομαι	aorist middle indicative, third plural; of offspring, were born/were	1	were born
+GEN 36:5	1	16	ἐγένοντο			2	were
 GEN 36:5	1	17	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 GEN 36:5	1	18	ἐν	ἐν	preposition with the dative	1	in
 GEN 36:5	1	19	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
@@ -130,7 +130,7 @@ GEN 36:6	1	48	Ἰακὼβ	Ἰακώβ	indeclinable personal name, genitive in c
 GEN 36:6	1	49	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
 GEN 36:6	1	50	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
 GEN 36:6	1	51	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
-GEN 36:7	1	1	ἦν	εἰμί	imperfect indicative, third singular	1	was
+GEN 36:7	1	1	ἦν	εἰμί	imperfect indicative, third singular	1	were
 GEN 36:7	1	2	γὰρ	γάρ	explanatory conjunction	1	for
 GEN 36:7	1	3	αὐτῶν	αὐτός	pronoun, possessive genitive plural, referring to Esau and Jacob	1	their
 GEN 36:7	1	4	τὰ	ὁ	article, nominative/accusative neuter plural (case from context)	1	the
@@ -174,7 +174,7 @@ GEN 36:9	1	3	αἱ	ὁ	article, nominative feminine plural	1	the
 GEN 36:9	1	4	γενέσεις	γένεσις	noun, nominative feminine plural	1	generations
 GEN 36:9	1	4	γενέσεις			2	descendants
 GEN 36:9	1	5	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive in context	1	of Esau
-GEN 36:9	1	6	πατρὸς	πατήρ	noun, genitive masculine singular	1	of the father
+GEN 36:9	1	6	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 GEN 36:9	1	7	Ἐδὼμ	Ἐδώμ	indeclinable personal/place name (see note), genitive in context	1	of Edom
 GEN 36:9	1	8	ἐν	ἐν	preposition with the dative	1	in
 GEN 36:9	1	9	τῷ	ὁ	article, dative masculine/neuter singular	1	the
@@ -184,19 +184,19 @@ GEN 36:10	1	1	καὶ	καί	conjunction	1	and
 GEN 36:10	1	2	ταῦτα	οὗτος	demonstrative pronoun, nominative neuter plural	1	these
 GEN 36:10	1	3	τὰ	ὁ	article, nominative neuter plural	1	the
 GEN 36:10	1	4	ὀνόματα	ὄνομα	noun, nominative neuter plural	1	names
-GEN 36:10	1	5	τῶν	ὁ	article, genitive plural	1	the
+GEN 36:10	1	5	τῶν	ὁ	article, genitive plural	1	of the
 GEN 36:10	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 GEN 36:10	1	7	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive in context	1	of Esau
 GEN 36:10	1	8	Ἐλιφὰς	Ἐλιφάς	indeclinable personal name, nominative in context	1	Eliphas
 GEN 36:10	1	9	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 GEN 36:10	1	10	Ἀδᾶς	Ἀδά	proper name, genitive feminine singular in context as genitive (Athens form)	1	of Ada
-GEN 36:10	1	11	γυναικὸς	γυνή	noun, genitive feminine singular	1	of wife
+GEN 36:10	1	11	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
 GEN 36:10	1	12	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive in context	1	of Esau
 GEN 36:10	1	13	καὶ	καί	conjunction	1	and
 GEN 36:10	1	14	Ῥαγουὴλ	Ῥαγουήλ	indeclinable personal name, nominative in context	1	Raguel
 GEN 36:10	1	15	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 GEN 36:10	1	16	Βασεμμὰθ	Βασεμμάθ	indeclinable personal name, genitive in context	1	of Basemmath
-GEN 36:10	1	17	γυναικὸς	γυνή	noun, genitive feminine singular	1	of wife
+GEN 36:10	1	17	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
 GEN 36:10	1	18	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive in context	1	of Esau
 GEN 36:11	1	1	Ἐγένοντο	γίνομαι	aorist middle indicative, third plural; of offspring, were born/were	1	were
 GEN 36:11	1	1	Ἐγένοντο			2	were born
@@ -228,7 +228,7 @@ GEN 36:12	1	15	οὗτοι	οὗτος	demonstrative pronoun, nominative masculi
 GEN 36:12	1	16	οἱ	ὁ	article, nominative masculine plural	1	the
 GEN 36:12	1	17	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
 GEN 36:12	1	18	Ἀδὰ	Ἀδά	indeclinable personal name, genitive in context	1	of Ada
-GEN 36:12	1	19	γυναικὸς	γυνή	noun, genitive feminine singular	1	of wife
+GEN 36:12	1	19	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
 GEN 36:12	1	20	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive in context	1	of Esau
 GEN 36:13	1	1	Οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 GEN 36:13	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -243,19 +243,19 @@ GEN 36:13	1	10	οὗτοι	οὗτος	demonstrative pronoun, nominative masculi
 GEN 36:13	1	11	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 GEN 36:13	1	12	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
 GEN 36:13	1	13	Βασεμμὰθ	Βασεμμάθ	indeclinable personal name, genitive in context	1	of Basemmath
-GEN 36:13	1	14	γυναικὸς	γυνή	noun, genitive feminine singular	1	of wife
+GEN 36:13	1	14	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
 GEN 36:13	1	15	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive in context	1	of Esau
 GEN 36:14	1	1	Οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 GEN 36:14	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 36:14	1	3	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 GEN 36:14	1	4	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
 GEN 36:14	1	5	Ὀλιβεμᾶς	Ὀλιβεμά	proper name, genitive feminine singular in context as genitive (Athens form)	1	of Olibema
-GEN 36:14	1	6	θυγατρὸς	θυγάτηρ	noun, genitive feminine singular	1	of the daughter
+GEN 36:14	1	6	θυγατρὸς	θυγάτηρ	noun, genitive feminine singular	1	daughter
 GEN 36:14	1	7	Ἀνὰ	Ἀνά	indeclinable personal name, genitive in context	1	of Ana
 GEN 36:14	1	8	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
 GEN 36:14	1	9	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 GEN 36:14	1	10	Σεβεγὼν	Σεβεγών	indeclinable personal name, genitive in context	1	of Sebegon
-GEN 36:14	1	11	γυναικὸς	γυνή	noun, genitive feminine singular	1	of wife
+GEN 36:14	1	11	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
 GEN 36:14	1	12	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive in context	1	of Esau
 GEN 36:14	1	13	ἔτεκε	τίκτω	aorist active indicative, third singular, feminine subject in context	1	bore
 GEN 36:14	1	14	δὲ	δέ	postpositive conjunction	1	and
@@ -276,7 +276,7 @@ GEN 36:15	1	4	υἱοῦ	υἱός	noun, genitive masculine singular as printed 
 GEN 36:15	1	5	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive in context	1	of Esau
 GEN 36:15	1	6	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
 GEN 36:15	1	7	Ἐλιφὰς	Ἐλιφάς	indeclinable personal name, genitive in context	1	of Eliphas
-GEN 36:15	1	8	πρωτοτόκου	πρωτότοκος	adjective used substantivally, genitive masculine singular	1	of the firstborn
+GEN 36:15	1	8	πρωτοτόκου	πρωτότοκος	adjective used substantivally, genitive masculine singular	1	firstborn
 GEN 36:15	1	9	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive in context	1	of Esau
 GEN 36:15	1	10	ἡγεμὼν	ἡγεμών	noun, nominative masculine singular, in apposition to the following name	1	chief
 GEN 36:15	1	11	Θαιμὰν	Θαιμάν	indeclinable personal name, nominative in context	1	Thaiman
@@ -305,7 +305,7 @@ GEN 36:17	1	1	Καὶ	καί	conjunction	1	and
 GEN 36:17	1	2	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 GEN 36:17	1	3	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
 GEN 36:17	1	4	Ῥαγουὴλ	Ῥαγουήλ	indeclinable personal name, genitive in context	1	of Raguel
-GEN 36:17	1	5	υἱοῦ	υἱός	noun, genitive masculine singular	1	of the son
+GEN 36:17	1	5	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 GEN 36:17	1	6	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive in context	1	of Esau
 GEN 36:17	1	7	ἡγεμὼν	ἡγεμών	noun, nominative masculine singular, in apposition to the following name	1	chief
 GEN 36:17	1	8	Ναχὸθ	Ναχόθ	indeclinable personal name, nominative in context	1	Nachoth
@@ -324,13 +324,13 @@ GEN 36:17	1	20	Ἐδώμ	Ἐδώμ	indeclinable personal/place name (see note), 
 GEN 36:17	1	21	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 GEN 36:17	1	22	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
 GEN 36:17	1	23	Βασεμμὰθ	Βασεμμάθ	indeclinable personal name, genitive in context	1	of Basemmath
-GEN 36:17	1	24	γυναικὸς	γυνή	noun, genitive feminine singular	1	of wife
+GEN 36:17	1	24	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
 GEN 36:17	1	25	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive in context	1	of Esau
 GEN 36:18	1	1	Οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 GEN 36:18	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 36:18	1	3	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
 GEN 36:18	1	4	Ὀλιβεμᾶς	Ὀλιβεμά	proper name, genitive feminine singular in context as genitive (Athens form)	1	of Olibema
-GEN 36:18	1	5	γυναικὸς	γυνή	noun, genitive feminine singular	1	of wife
+GEN 36:18	1	5	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
 GEN 36:18	1	6	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive in context	1	of Esau
 GEN 36:18	1	7	ἡγεμὼν	ἡγεμών	noun, nominative masculine singular, in apposition to the following name	1	chief
 GEN 36:18	1	8	Ἰεοὺς	Ἰεούς	indeclinable personal name, nominative in context	1	Ieoys
@@ -341,9 +341,9 @@ GEN 36:18	1	12	Κορέ	Κορέ	indeclinable personal name, nominative in conte
 GEN 36:18	1	13	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 GEN 36:18	1	14	ἡγεμόνες	ἡγεμών	noun, nominative masculine plural	1	chiefs
 GEN 36:18	1	15	Ὀλιβεμᾶς	Ὀλιβεμά	proper name, genitive feminine singular in context as genitive (Athens form)	1	of Olibema
-GEN 36:18	1	16	θυγατρὸς	θυγάτηρ	noun, genitive feminine singular	1	of the daughter
+GEN 36:18	1	16	θυγατρὸς	θυγάτηρ	noun, genitive feminine singular	1	daughter
 GEN 36:18	1	17	Ἀνὰ	Ἀνά	indeclinable personal name, genitive in context	1	of Ana
-GEN 36:18	1	18	γυναικὸς	γυνή	noun, genitive feminine singular	1	of wife
+GEN 36:18	1	18	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
 GEN 36:18	1	19	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive in context	1	of Esau
 GEN 36:19	1	1	Οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 GEN 36:19	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -366,7 +366,7 @@ GEN 36:20	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 36:20	1	3	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
 GEN 36:20	1	4	Σηεὶρ	Σηείρ	indeclinable personal/place name (see note), genitive in context	1	of Seir
 GEN 36:20	1	5	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
-GEN 36:20	1	6	Χοῤῥαίου	Χοῤῥαῖος	ethnic noun, genitive masculine singular	1	of the Horite
+GEN 36:20	1	6	Χοῤῥαίου	Χοῤῥαῖος	ethnic noun, genitive masculine singular	1	Horite
 GEN 36:20	1	7	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
 GEN 36:20	1	8	κατοικοῦντος	κατοικέω	present active participle, genitive masculine singular, substantival after τοῦ	1	who dwelt in
 GEN 36:20	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -384,8 +384,8 @@ GEN 36:21	1	10	Ῥεισών	Ῥεισών	indeclinable personal name, nominativ
 GEN 36:21	1	11	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 GEN 36:21	1	12	οἱ	ὁ	article, nominative masculine plural	1	the
 GEN 36:21	1	13	ἡγεμόνες	ἡγεμών	noun, nominative masculine plural	1	chiefs
-GEN 36:21	1	14	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
-GEN 36:21	1	15	Χοῤῥαίου	Χοῤῥαῖος	ethnic noun, genitive masculine singular	1	of the Horite
+GEN 36:21	1	14	τοῦ	ὁ	article, genitive masculine/neuter singular	1	of the
+GEN 36:21	1	15	Χοῤῥαίου	Χοῤῥαῖος	ethnic noun, genitive masculine singular	1	Horite
 GEN 36:21	1	16	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
 GEN 36:21	1	17	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 GEN 36:21	1	18	Σηεὶρ	Σηείρ	indeclinable personal/place name (see note), genitive in context	1	of Seir
@@ -517,7 +517,7 @@ GEN 36:31	1	4	βασιλεῖς	βασιλεύς	noun, nominative masculine plur
 GEN 36:31	1	5	οἱ	ὁ	article, nominative masculine plural	1	the
 GEN 36:31	1	6	βασιλεύσαντες	βασιλεύω	aorist active participle, nominative masculine plural	1	who reigned
 GEN 36:31	1	7	ἐν	ἐν	preposition with the dative	1	in
-GEN 36:31	1	8	Ἐδὼμ	Ἐδώμ	indeclinable personal/place name (see note), dative in context	1	Edom
+GEN 36:31	1	8	Ἐδὼμ	Ἐδώμ	indeclinable personal/place name (see note), dative in context	1	of Edom
 GEN 36:31	1	9	πρὸ	πρό	preposition with the genitive (τοῦ + infinitive)	1	before
 GEN 36:31	1	10	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	1	the
 GEN 36:31	1	11	βασιλεῦσαι	βασιλεύω	aorist active infinitive after πρό	1	reign
@@ -544,7 +544,7 @@ GEN 36:33	1	3	Βαλὰκ	Βαλάκ	indeclinable personal name, nominative in c
 GEN 36:33	1	4	καὶ	καί	conjunction	1	and
 GEN 36:33	1	5	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	reigned
 GEN 36:33	1	6	ἀντ᾽	ἀντί	preposition with the genitive, elided	1	in place of
-GEN 36:33	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
+GEN 36:33	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	him
 GEN 36:33	1	8	Ἰωβὰβ	Ἰωβάβ	indeclinable personal name, nominative in context	1	Iobab
 GEN 36:33	1	9	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 GEN 36:33	1	10	Ζαρὰ	Ζαρά	indeclinable personal name, genitive in context	1	of Zara
@@ -556,7 +556,7 @@ GEN 36:34	1	3	Ἰωβὰβ	Ἰωβάβ	indeclinable personal name, nominative in
 GEN 36:34	1	4	καὶ	καί	conjunction	1	and
 GEN 36:34	1	5	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	reigned
 GEN 36:34	1	6	ἀντ᾽	ἀντί	preposition with the genitive, elided	1	in place of
-GEN 36:34	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
+GEN 36:34	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	him
 GEN 36:34	1	8	Ἀσὼμ	Ἀσώμ	indeclinable personal name, nominative in context	1	Asom
 GEN 36:34	1	9	ἐκ	ἐκ	preposition with the genitive	1	from
 GEN 36:34	1	10	γῆς	γῆ	noun, genitive feminine singular	1	the land
@@ -567,7 +567,7 @@ GEN 36:35	1	3	Ἀσὼμ	Ἀσώμ	indeclinable personal name, nominative in con
 GEN 36:35	1	4	καὶ	καί	conjunction	1	and
 GEN 36:35	1	5	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	reigned
 GEN 36:35	1	6	ἀντ᾽	ἀντί	preposition with the genitive, elided	1	in place of
-GEN 36:35	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
+GEN 36:35	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	him
 GEN 36:35	1	8	Ἀδὰδ	Ἀδάδ	indeclinable personal name, nominative in context	1	Adad
 GEN 36:35	1	9	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 GEN 36:35	1	10	Βαρὰδ	Βαράδ	indeclinable personal name, genitive in context	1	of Barad
@@ -591,7 +591,7 @@ GEN 36:36	1	3	Ἀδὰδ	Ἀδάδ	indeclinable personal name, nominative in con
 GEN 36:36	1	4	καὶ	καί	conjunction	1	and
 GEN 36:36	1	5	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	reigned
 GEN 36:36	1	6	ἀντ᾽	ἀντί	preposition with the genitive, elided	1	in place of
-GEN 36:36	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
+GEN 36:36	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	him
 GEN 36:36	1	8	Σαλαμὰ	Σαλαμά	indeclinable personal name, nominative in context	1	Salama
 GEN 36:36	1	9	ἐκ	ἐκ	preposition with the genitive	1	from
 GEN 36:36	1	10	Μασεκκάς	Μασεκκάς	indeclinable place name, genitive in context	1	Masekkas
@@ -601,7 +601,7 @@ GEN 36:37	1	3	Σαλαμὰ	Σαλαμά	indeclinable personal name, nominative 
 GEN 36:37	1	4	καὶ	καί	conjunction	1	and
 GEN 36:37	1	5	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	reigned
 GEN 36:37	1	6	ἀντ᾽	ἀντί	preposition with the genitive, elided	1	in place of
-GEN 36:37	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
+GEN 36:37	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	him
 GEN 36:37	1	8	Σαοὺλ	Σαούλ	indeclinable personal name, nominative in context	1	Saoyl
 GEN 36:37	1	9	ἐκ	ἐκ	preposition with genitive	1	from
 GEN 36:37	1	10	Ῥοωβὼθ	Ῥοωβώθ	indeclinable place name, genitive in context	1	Rooboth
@@ -614,7 +614,7 @@ GEN 36:38	1	3	Σαοὺλ	Σαούλ	indeclinable personal name, nominative in c
 GEN 36:38	1	4	καὶ	καί	conjunction	1	and
 GEN 36:38	1	5	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	reigned
 GEN 36:38	1	6	ἀντ᾽	ἀντί	preposition with the genitive, elided	1	in place of
-GEN 36:38	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
+GEN 36:38	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	him
 GEN 36:38	1	8	Βααλεννὼν	Βααλεννών	indeclinable personal name, nominative in context	1	Baalennon
 GEN 36:38	1	9	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 GEN 36:38	1	10	Ἀχοβώρ	Ἀχοβώρ	indeclinable personal name, genitive in context	1	of Achobor
@@ -626,7 +626,7 @@ GEN 36:39	1	5	Ἀχοβὼρ	Ἀχοβώρ	indeclinable personal name, genitive 
 GEN 36:39	1	6	καὶ	καί	conjunction	1	and
 GEN 36:39	1	7	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	reigned
 GEN 36:39	1	8	ἀντ᾽	ἀντί	preposition with the genitive, elided	1	in place of
-GEN 36:39	1	9	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
+GEN 36:39	1	9	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	him
 GEN 36:39	1	10	Ἀρὰδ	Ἀράδ	indeclinable personal name, nominative in context	1	Arad
 GEN 36:39	1	11	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 GEN 36:39	1	12	Βαράθ	Βαράθ	indeclinable personal name, genitive in context	1	of Barath
@@ -644,12 +644,12 @@ GEN 36:39	1	23	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine s
 GEN 36:39	1	24	Μετεβεὴλ	Μετεβεήλ	indeclinable personal name, nominative in context	1	Metebeel
 GEN 36:39	1	25	θυγάτηρ	θυγάτηρ	noun, nominative feminine singular	1	daughter
 GEN 36:39	1	26	Ματραεὶθ	Ματραείθ	indeclinable personal name, genitive in context	1	of Matraeith
-GEN 36:39	1	27	υἱοῦ	υἱός	noun, genitive masculine singular	1	of the son
+GEN 36:39	1	27	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 GEN 36:39	1	28	Μεζοόβ	Μεζοόβ	indeclinable personal name, genitive in context	1	of Mezoob
 GEN 36:40	1	1	Ταῦτα	οὗτος	demonstrative pronoun, nominative neuter plural	1	these
 GEN 36:40	1	2	τὰ	ὁ	article, nominative neuter plural	1	the
 GEN 36:40	1	3	ὀνόματα	ὄνομα	noun, nominative neuter plural	1	names
-GEN 36:40	1	4	τῶν	ὁ	article, genitive plural	1	the
+GEN 36:40	1	4	τῶν	ὁ	article, genitive plural	1	of the
 GEN 36:40	1	5	ἡγεμόνων	ἡγεμών	noun, genitive masculine plural	1	chiefs
 GEN 36:40	1	6	Ἡσαῦ	Ἡσαῦ	indeclinable personal name, genitive masculine singular, dependent on ἡγεμόνων	1	of Esau
 GEN 36:40	1	7	ἐν	ἐν	preposition with the dative	1	in

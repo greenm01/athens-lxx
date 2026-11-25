@@ -15,8 +15,8 @@ EXO 23:2	1	1	Οὐκ	οὐ	negative adverb	1	not
 EXO 23:2	1	2	ἔσῃ	εἰμί	future indicative, 2nd sg. after οὐκ	1	you shall be (follow)
 EXO 23:2	1	3	μετὰ	μετά	preposition with genitive	1	with
 EXO 23:2	1	4	πλειόνων	πλείων	comparative adjective, genitive pl.	1	the majority
-EXO 23:2	1	5	ἐπὶ	ἐπί	preposition	1	on
-EXO 23:2	1	6	κακίᾳ	κακία	noun, dative fem. sg. after ἐπὶ, in evil/to do evil	1	in evil
+EXO 23:2	1	5	ἐπὶ	ἐπί	preposition	1	for
+EXO 23:2	1	6	κακίᾳ	κακία	noun, dative fem. sg. after ἐπὶ, in evil/to do evil	1	evil
 EXO 23:2	1	7	οὐ	οὐ	negative adverb with future indicative	1	not
 EXO 23:2	1	8	προστεθήσῃ	προστίθεμαι	future passive/middle indicative, 2nd sg. after οὐ 'you shall not be added/side'	1	you shall side
 EXO 23:2	1	9	μετὰ	μετά	preposition with genitive	1	with
@@ -60,8 +60,8 @@ EXO 23:5	1	8	σου	σύ	pronoun, possessive genitive second singular	1	your
 EXO 23:5	1	9	πεπτωκὸς	πίπτω	perfect active participle, accusative neut. sg. with ὑποζύγιον, fallen	1	fallen
 EXO 23:5	1	10	ὑπὸ	ὑπό	preposition with accusative τὸν οὐρανόν	1	under
 EXO 23:5	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
-EXO 23:5	1	12	γόμον	γόμος	noun, accusative masc. sg. after ὑπὸ τὸν, burden/load	1	its burden
-EXO 23:5	1	13	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
+EXO 23:5	1	12	γόμον	γόμος	noun, accusative masculine singular	1	burden
+EXO 23:5	1	13	αὐτοῦ	αὐτός	personal pronoun, genitive neuter singular	1	its
 EXO 23:5	1	14	οὐ	οὐ	negative adverb with future indicative	1	not
 EXO 23:5	1	15	παρελεύσῃ	παρέρχομαι	future middle indicative, 2nd sg. after οὐ, pass by	1	you shall pass by
 EXO 23:5	1	16	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
@@ -119,10 +119,10 @@ EXO 23:9	1	8	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
 EXO 23:9	1	9	γὰρ	γάρ	conjunction	1	for
 EXO 23:9	1	10	οἴδατε	οἶδα	perfect active indicative, second plural	1	you know
 EXO 23:9	1	11	τὴν	ὁ	article, accusative feminine singular	1	the
-EXO 23:9	1	12	ψυχὴν	ψυχή	noun, accusative fem. sg.	1	a life
+EXO 23:9	1	12	ψυχὴν	ψυχή	noun, accusative fem. sg.	1	soul
 EXO 23:9	1	13	τοῦ	ὁ	article, genitive singular	1	the
 EXO 23:9	1	14	προσηλύτου	προσήλυτος	noun, genitive masc. sg. after τοῦ	1	a sojourner
-EXO 23:9	1	15	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
+EXO 23:9	1	15	αὐτοὶ	αὐτός	intensive pronoun, nominative masculine plural	1	yourselves
 EXO 23:9	1	16	γὰρ	γάρ	conjunction	1	for
 EXO 23:9	1	17	προσήλυτοι	προσήλυτος	noun, nominative masc. pl.	1	sojourners
 EXO 23:9	1	18	ἦτε	εἰμί	imperfect indicative, 2nd pl.	1	you were
@@ -148,7 +148,7 @@ EXO 23:11	1	5	ἄφεσιν	ἄφεσις	noun, accusative fem. sg., release/rem
 EXO 23:11	1	6	ποιήσεις	ποιέω	future active indicative, 2nd sg.	1	you shall do
 EXO 23:11	1	7	καὶ	καί	conjunction	1	and
 EXO 23:11	1	8	ἀνήσεις	ἀνίημι	future active indicative, 2nd sg., shall let it rest/lie fallow	1	you shall let it lie
-EXO 23:11	1	9	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
+EXO 23:11	1	9	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 EXO 23:11	1	10	καὶ	καί	conjunction	1	and
 EXO 23:11	1	11	ἔδονται	ἐσθίω	future middle indicative, 3rd pl.	1	they shall eat
 EXO 23:11	1	12	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -242,7 +242,7 @@ EXO 23:15	1	9	ἄζυμα	ἄζυμος	adjective/noun, accusative neut. pl.	1	u
 EXO 23:15	1	10	καθάπερ	καθάπερ	comparative conjunction	1	just as
 EXO 23:15	1	11	ἐνετειλάμην	ἐντέλλομαι	aorist middle indicative, 1st sg.	1	I commanded
 EXO 23:15	1	12	σοι	σύ	personal pronoun, dative second singular	1	to you
-EXO 23:15	1	13	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 23:15	1	13	κατὰ	κατά	preposition with accusative	1	at
 EXO 23:15	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 23:15	1	15	καιρὸν	καιρός	noun, accusative masc. sg. after κατὰ τὸν, appointed time	1	appointed time
 EXO 23:15	1	16	τοῦ	ὁ	article, genitive singular	1	the
@@ -251,14 +251,14 @@ EXO 23:15	1	18	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 23:15	1	19	νέων	νέος	adjective, genitive pl. after τῶν, in μηνὸς τῶν νέων 'month of new	1	new corn
 EXO 23:15	1	20	ἐν	ἐν	preposition with dative	1	in
 EXO 23:15	1	21	γὰρ	γάρ	conjunction	1	for
-EXO 23:15	1	22	αὐτῷ	αὐτός	pronoun, dative masculine/neuter singular	1	to him
+EXO 23:15	1	22	αὐτῷ	αὐτός	pronoun, dative masculine/neuter singular	1	it
 EXO 23:15	1	23	ἐξῆλθες	ἐξέρχομαι	aorist active indicative, 2nd sg.	1	you came out
 EXO 23:15	1	24	ἐξ	ἐκ	preposition with the genitive	1	from
 EXO 23:15	1	25	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
 EXO 23:15	1	26	Οὐκ	οὐ	negative adverb	1	not
 EXO 23:15	1	27	ὀφθήσῃ	ὁράω	future passive indicative, 2nd sg. after οὐκ, you shall appear	1	you shall appear
 EXO 23:15	1	28	ἐνώπιόν	ἐνώπιον	preposition with genitive	1	before
-EXO 23:15	1	29	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
+EXO 23:15	1	29	μου	ἐγώ	pronoun, possessive genitive first singular	1	me
 EXO 23:15	1	30	κενός	κενός	adjective, nominative masc. sg.	1	empty-handed
 EXO 23:16	1	1	Καὶ	καί	conjunction	1	and
 EXO 23:16	1	2	ἑορτὴν	ἑορτή	noun, accusative fem. sg. after τὴν	1	the feast
@@ -269,8 +269,8 @@ EXO 23:16	1	6	ποιήσεις	ποιέω	future active indicative, 2nd sg.	1	yo
 EXO 23:16	1	7	τῶν	ὁ	article, genitive masculine plural	1	the
 EXO 23:16	1	8	ἔργων	ἔργον	noun, genitive neuter plural	1	work
 EXO 23:16	1	9	σου	σύ	pronoun, possessive genitive second singular	1	your
-EXO 23:16	1	10	ὧν	ὅς	relative pronoun, genitive neuter plural	1	in which
-EXO 23:16	1	11	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
+EXO 23:16	1	10	ὧν	ὅς	relative pronoun, genitive neuter plural	1	which
+EXO 23:16	1	11	ἐὰν	ἐάν	particle in relative clause with subjunctive	1	ever
 EXO 23:16	1	12	σπείρῃς	σπείρω	aorist/present active subjunctive, 2nd sg. after ἐὰν, you sow	1	you sow
 EXO 23:16	1	13	ἐν	ἐν	preposition with dative	1	in
 EXO 23:16	1	14	τῷ	ὁ	article, dative masculine singular	1	the
@@ -279,7 +279,7 @@ EXO 23:16	1	16	σου	σύ	pronoun, possessive genitive second singular	1	your
 EXO 23:16	1	17	καὶ	καί	conjunction	1	and
 EXO 23:16	1	18	ἑορτὴν	ἑορτή	noun, accusative fem. sg. after τὴν	1	the feast
 EXO 23:16	1	19	συντελείας	συντέλεια	noun, genitive fem. sg., ingathering/completion	1	of ingathering
-EXO 23:16	1	20	ἐπ᾽	ἐπί	preposition, elided	1	upon/on
+EXO 23:16	1	20	ἐπ᾽	ἐπί	preposition, elided	1	at
 EXO 23:16	1	21	ἐξόδῳ	ἔξοδος	noun, dative fem. sg. after ἐπ᾽, at the outgoing/end	1	at the end
 EXO 23:16	1	22	τοῦ	ὁ	article, genitive singular	1	the
 EXO 23:16	1	23	ἐνιαυτοῦ	ἐνιαυτός	noun, genitive masc. sg. after τοῦ	1	year
@@ -299,8 +299,8 @@ EXO 23:17	1	2	καιροὺς	καιρός	noun, accusative masc. pl. after τρ
 EXO 23:17	1	3	τοῦ	ὁ	article, genitive singular	1	the
 EXO 23:17	1	4	ἐνιαυτοῦ	ἐνιαυτός	noun, genitive masc. sg. after τοῦ	1	year
 EXO 23:17	1	5	ὀφθήσεται	ὁράω	future passive indicative, 3rd sg.	1	shall appear
-EXO 23:17	1	6	πᾶν	πᾶς	adjective, accusative neut. sg. with	1	whoever
-EXO 23:17	1	7	ἀρσενικόν	ἀρσενικός	adjective/noun, nominative neut. sg. after πᾶν	1	every male
+EXO 23:17	1	6	πᾶν	πᾶς	adjective, nominative neuter singular	1	every
+EXO 23:17	1	7	ἀρσενικόν	ἀρσενικός	adjective/noun, nominative neut. sg. after πᾶν	1	male
 EXO 23:17	1	8	σου	σύ	pronoun, possessive genitive second singular	1	your
 EXO 23:17	1	9	ἐνώπιον	ἐνώπιον	preposition with genitive	1	before
 EXO 23:17	1	10	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	1	of the Lord
@@ -322,8 +322,8 @@ EXO 23:18	1	12	ὅριά	ὅριον	noun, accusative neut. pl. after τὰ	1	bo
 EXO 23:18	1	13	σου	σύ	pronoun, possessive genitive second singular	1	your
 EXO 23:18	1	14	οὐ	οὐ	negative adverb with future indicative	1	not
 EXO 23:18	1	15	θυμιάσεις	θυμιάζω	future active indicative, 2nd sg. after οὐ	1	you shall sacrifice
-EXO 23:18	1	16	ἐπὶ	ἐπί	preposition	1	on
-EXO 23:18	1	17	ζύμῃ	ζύμη	noun, dative fem. sg. after ἐπὶ, with leaven	1	with leaven
+EXO 23:18	1	16	ἐπὶ	ἐπί	preposition	1	with
+EXO 23:18	1	17	ζύμῃ	ζύμη	noun, dative fem. sg. after ἐπὶ, with leaven	1	leaven
 EXO 23:18	1	18	αἷμα	αἷμα	noun, accusative neuter singular	1	blood
 EXO 23:18	1	19	θυμιάσματός	θυμίασμα	noun, genitive neut. sg. after αἷμα, of my sacrifice/incense-offering	1	of my sacrifice
 EXO 23:18	1	20	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
@@ -394,7 +394,7 @@ EXO 23:21	1	8	αὐτῷ	αὐτός	pronoun, dative masculine/neuter singular	1
 EXO 23:21	1	9	οὐ	οὐ	negative adverb with future indicative	1	not
 EXO 23:21	1	10	γὰρ	γάρ	conjunction	1	for
 EXO 23:21	1	11	μὴ	μή	negative with participle	1	not
-EXO 23:21	1	12	ὑποστείληταί	ὑποστέλλω	aorist middle subjunctive, 3rd sg. after οὐ μὴ	1	will pardon
+EXO 23:21	1	12	ὑποστείληταί	ὑποστέλλω	aorist middle subjunctive, third singular, after emphatic negation	1	will shrink from
 EXO 23:21	1	13	σε	σύ	pronoun, accusative second singular	1	you
 EXO 23:21	1	14	τὸ	ὁ	article, nominative neuter singular	1	the
 EXO 23:21	1	15	γὰρ	γάρ	conjunction	1	for
@@ -511,7 +511,7 @@ EXO 23:24	1	8	λατρεύσῃς	λατρεύω	aorist active subjunctive, 2nd 
 EXO 23:24	1	9	αὐτοῖς	αὐτός	pronoun, dative masculine/neuter plural	1	to them
 EXO 23:24	1	10	οὐ	οὐ	negative adverb with future indicative	1	not
 EXO 23:24	1	11	ποιήσεις	ποιέω	future active indicative, 2nd sg.	1	you shall do
-EXO 23:24	1	12	κατὰ	κατά	preposition with genitive Μωυσῆ	1	against
+EXO 23:24	1	12	κατὰ	κατά	preposition with accusative	1	according to
 EXO 23:24	1	13	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 23:24	1	14	ἔργα	ἔργον	noun, accusative neut. pl. after πάντα τὰ	1	works
 EXO 23:24	1	15	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
@@ -549,7 +549,7 @@ EXO 23:25	1	20	καὶ	καί	conjunction	1	and
 EXO 23:25	1	21	ἀποστρέψω	ἀποστρέφω	future active indicative, 1st sg., turn away/remove	1	I will remove
 EXO 23:25	1	22	μαλακίαν	μαλακία	noun, accusative fem. sg., sickness/disease	1	sickness
 EXO 23:25	1	23	ἀφ᾽	ἀπό	preposition with the genitive, elided	1	from
-EXO 23:25	1	24	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
+EXO 23:25	1	24	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	you
 EXO 23:26	1	1	Οὐκ	οὐ	negative adverb	1	not
 EXO 23:26	1	2	ἔσται	εἰμί	future indicative, 3rd sg.	1	shall be
 EXO 23:26	1	3	ἄγονος	ἄγονος	adjective, nominative masc./fem. sg.	1	barren (male)
@@ -619,7 +619,7 @@ EXO 23:29	1	5	προσώπου	πρόσωπον	noun, genitive neuter singular	1
 EXO 23:29	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
 EXO 23:29	1	7	ἐν	ἐν	preposition with dative	1	in
 EXO 23:29	1	8	ἐνιαυτῷ	ἐνιαυτός	noun, dative masculine singular after ἐν τῷ	1	year
-EXO 23:29	1	9	ἑνὶ	εἷς	cardinal numeral, dative masc. sg. after τῷ in ὄνομα τῷ ἑνὶ 'the name of the one'	1	the one
+EXO 23:29	1	9	ἑνὶ	εἷς	cardinal numeral, dative masc. sg. after τῷ in ὄνομα τῷ ἑνὶ 'the name of the one'	1	one
 EXO 23:29	1	10	ἵνα	ἵνα	conjunction	1	so that
 EXO 23:29	1	11	μὴ	μή	negative with participle	1	not
 EXO 23:29	1	12	γένηται	γίγνομαι	aorist middle subjunctive, 3rd sg. after ἵνα μὴ	1	becomes
@@ -659,7 +659,7 @@ EXO 23:31	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 23:31	1	8	ἐρυθρᾶς	ἐρυθρός	adjective, genitive fem. sg. with θαλάσσης after τῆς	1	Red
 EXO 23:31	1	9	θαλάσσης	θάλασσα	noun, genitive feminine singular after ἀπὸ	1	the sea
 EXO 23:31	1	10	καὶ	καί	conjunction	1	and
-EXO 23:31	1	11	ἕως	ἕως	temporal conjunction/preposition	1	until
+EXO 23:31	1	11	ἕως	ἕως	preposition with genitive	1	to
 EXO 23:31	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 23:31	1	13	θαλάσσης	θάλασσα	noun, genitive feminine singular after ἀπὸ	1	sea
 EXO 23:31	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -668,7 +668,7 @@ EXO 23:31	1	16	καὶ	καί	conjunction	1	and
 EXO 23:31	1	17	ἀπὸ	ἀπό	preposition with the genitive	1	from
 EXO 23:31	1	18	τῆς	ὁ	article, genitive feminine singular	1	the
 EXO 23:31	1	19	ἐρήμου	ἔρημος	noun, genitive feminine singular	1	desert
-EXO 23:31	1	20	ἕως	ἕως	temporal conjunction/preposition	1	until
+EXO 23:31	1	20	ἕως	ἕως	preposition with genitive	1	to
 EXO 23:31	1	21	τοῦ	ὁ	article, genitive singular	1	the
 EXO 23:31	1	22	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	river
 EXO 23:31	1	23	τοῦ	ὁ	article, genitive singular	1	the
@@ -709,7 +709,7 @@ EXO 23:33	1	9	μὴ	μή	negative with participle	1	not
 EXO 23:33	1	10	ἁμαρτεῖν	ἁμαρτάνω	aorist active infinitive after τοῦ and ποιήσωσι '(lest) they make you sin' with σε subject object construction	1	sin
 EXO 23:33	1	11	σε	σύ	pronoun, accusative second singular	1	you
 EXO 23:33	1	12	ποιήσωσι	ποιέω	aorist active subjunctive, 3rd pl. after ἵνα μὴ with σε 'cause you	1	cause
-EXO 23:33	1	13	πρός	πρός	preposition with the accusative	1	to
+EXO 23:33	1	13	πρός	πρός	preposition with the accusative	1	against
 EXO 23:33	1	14	με	ἐγώ	pronoun, accusative first singular	1	me
 EXO 23:33	1	15	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 EXO 23:33	1	16	γὰρ	γάρ	conjunction	1	for

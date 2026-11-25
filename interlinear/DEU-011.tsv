@@ -24,7 +24,7 @@ DEU 11:1	1	22	κρίσεις	κρίσις	noun, accusative feminine plural	1	jud
 DEU 11:1	1	23	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DEU 11:1	1	24	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 DEU 11:1	1	25	τὰς	ὁ	article, accusative feminine plural	1	the
-DEU 11:1	1	26	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
+DEU 11:1	1	26	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
 DEU 11:2	1	1	Καὶ	καί	conjunction	1	and
 DEU 11:2	1	2	γνώσεσθε	γινώσκω	future middle indicative, 2nd plural	1	shall know
 DEU 11:2	1	3	σήμερον	σήμερον	adverb	1	today
@@ -111,7 +111,7 @@ DEU 11:4	1	27	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 DEU 11:4	1	28	ἐκ	ἐκ	preposition with the genitive	1	from
 DEU 11:4	1	29	τῶν	ὁ	definite article, genitive plural	1	the
 DEU 11:4	1	30	ὀπίσω	ὀπίσω	preposition with the genitive	1	after
-DEU 11:4	1	31	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
+DEU 11:4	1	31	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	you
 DEU 11:4	1	32	καὶ	καί	conjunction	1	and
 DEU 11:4	1	33	ἀπώλεσεν	ἀπόλλυμι	aorist active indicative, 3rd singular	1	destroyed
 DEU 11:4	1	34	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -139,17 +139,17 @@ DEU 11:6	1	1	καὶ	καί	conjunction	1	and
 DEU 11:6	1	2	ὅσα	ὅσος	relative pronoun, accusative neuter plural	1	which
 DEU 11:6	1	3	ἐποίησε	ποιέω	aorist active indicative, 3rd singular	1	did
 DEU 11:6	1	4	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
-DEU 11:6	1	5	Δαθὰν	Δαθάν	personal name, dative masculine singular	1	Dathan
+DEU 11:6	1	5	Δαθὰν	Δαθάν	indeclinable personal name, dative in context	1	to Dathan
 DEU 11:6	1	6	καὶ	καί	conjunction	1	and
 DEU 11:6	1	7	Ἀβειρὼν	Ἀβειρών	personal name, dative masculine singular	1	Abeiron
 DEU 11:6	1	8	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
-DEU 11:6	1	9	Ἐλιὰβ	Ἐλιάβ	personal name, genitive masculine singular	1	Eliab
-DEU 11:6	1	10	υἱοῦ	υἱός	noun, genitive masculine singular	1	of the son
+DEU 11:6	1	9	Ἐλιὰβ	Ἐλιάβ	indeclinable personal name, genitive in context	1	of Eliab
+DEU 11:6	1	10	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 DEU 11:6	1	11	Ῥουβὴν	Ῥουβήν	personal name, genitive masculine singular	1	Reuben
 DEU 11:6	1	12	οὓς	ὅς	relative pronoun, accusative masculine plural	1	which
 DEU 11:6	1	13	ἀνοίξασα	ἀνοίγω	aorist active participle, nominative feminine singular	1	having opened
 DEU 11:6	1	14	ἡ	ὁ	definite article, nominative feminine singular	1	the
-DEU 11:6	1	15	γῆ	γῆ	noun, nominative feminine singular	1	land
+DEU 11:6	1	15	γῆ	γῆ	noun, nominative feminine singular	1	earth
 DEU 11:6	1	16	τὸ	ὁ	definite article, nominative/accusative neuter singular	1	the
 DEU 11:6	1	17	στόμα	στόμα	noun, accusative neuter singular	1	mouth
 DEU 11:6	1	18	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
@@ -228,7 +228,7 @@ DEU 11:9	1	5	γῆς	γῆ	noun, genitive feminine singular	1	land
 DEU 11:9	1	6	ἧς	ὅς	relative pronoun, genitive feminine singular	1	which
 DEU 11:9	1	7	ὤμοσε	ὀμνύω	aorist active indicative, 3rd singular	1	swore
 DEU 11:9	1	8	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 11:9	1	9	τοῖς	ὁ	definite article, dative masculine/neuter plural	1	the
+DEU 11:9	1	9	τοῖς	ὁ	definite article, dative masculine/neuter plural	1	to the
 DEU 11:9	1	10	πατράσιν	πατήρ	noun, dative masculine plural	1	fathers
 DEU 11:9	1	11	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 11:9	1	12	δοῦναι	δίδωμι	aorist active infinitive	1	to give
@@ -275,7 +275,7 @@ DEU 11:10	1	28	ποσί	πούς	noun, dative masculine plural	1	feet
 DEU 11:10	1	29	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 11:10	1	30	ὡσεὶ	ὡσεί	adverb	1	like
 DEU 11:10	1	31	κῆπον	κῆπος	noun, accusative masculine singular	1	garden
-DEU 11:10	1	32	λαχανείας	λαχανεία	noun, genitive feminine singular	1	herbs
+DEU 11:10	1	32	λαχανείας	λαχανεία	noun, genitive feminine singular	1	vegetables
 DEU 11:11	1	1	ἡ	ὁ	definite article, nominative feminine singular	1	the
 DEU 11:11	1	2	δὲ	δέ	postpositive conjunction	1	and
 DEU 11:11	1	3	γῆ	γῆ	noun, nominative feminine singular	1	land
@@ -313,13 +313,13 @@ DEU 11:12	1	13	τοῦ	ὁ	definite article, genitive masculine/neuter singular	
 DEU 11:12	1	14	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DEU 11:12	1	15	σου	σύ	pronoun, genitive 2nd singular	1	your
 DEU 11:12	1	16	ἐπ᾽	ἐπί	preposition, elided	1	upon
-DEU 11:12	1	17	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
+DEU 11:12	1	17	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
 DEU 11:12	1	18	ἀπ᾽	ἀπό	preposition, elided	1	from
 DEU 11:12	1	19	ἀρχῆς	ἀρχή	noun, genitive feminine singular	1	beginning
 DEU 11:12	1	20	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
 DEU 11:12	1	21	ἐνιαυτοῦ	ἐνιαυτός	noun, genitive masculine singular	1	year
 DEU 11:12	1	22	καὶ	καί	conjunction	1	and
-DEU 11:12	1	23	ἕως	ἕως	preposition with the genitive	1	as far as
+DEU 11:12	1	23	ἕως	ἕως	preposition with the genitive	1	until
 DEU 11:12	1	24	τῆς	ὁ	definite article, genitive feminine singular	1	the
 DEU 11:12	1	25	συντελείας	συντέλεια	noun, genitive feminine singular	1	end
 DEU 11:12	1	26	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
@@ -467,7 +467,7 @@ DEU 11:18	1	15	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 11:18	1	16	καὶ	καί	conjunction	1	and
 DEU 11:18	1	17	ἀφάψετε	ἀφάπτω	future active indicative, 2nd plural	1	shall bind
 DEU 11:18	1	18	αὐτὰ	αὐτός	pronoun, nominative/accusative neuter plural	1	them
-DEU 11:18	1	19	εἰς	εἰς	preposition with the accusative	1	into
+DEU 11:18	1	19	εἰς	εἰς	preposition with the accusative	1	as
 DEU 11:18	1	20	σημεῖον	σημεῖον	noun, accusative neuter singular	1	sign
 DEU 11:18	1	21	ἐπὶ	ἐπί	preposition	1	on
 DEU 11:18	1	22	τῆς	ὁ	definite article, genitive feminine singular	1	the
@@ -530,7 +530,7 @@ DEU 11:21	1	11	γῆς	γῆ	noun, genitive feminine singular	1	land
 DEU 11:21	1	12	ἧς	ὅς	relative pronoun, genitive feminine singular	1	which
 DEU 11:21	1	13	ὤμοσε	ὀμνύω	aorist active indicative, 3rd singular	1	swore
 DEU 11:21	1	14	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-DEU 11:21	1	15	τοῖς	ὁ	definite article, dative masculine/neuter plural	1	the
+DEU 11:21	1	15	τοῖς	ὁ	definite article, dative masculine/neuter plural	1	to the
 DEU 11:21	1	16	πατράσιν	πατήρ	noun, dative masculine plural	1	fathers
 DEU 11:21	1	17	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 DEU 11:21	1	18	δοῦναι	δίδωμι	aorist active infinitive	1	to give
@@ -542,7 +542,7 @@ DEU 11:21	1	23	τοῦ	ὁ	definite article, genitive masculine/neuter singular	
 DEU 11:21	1	24	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
 DEU 11:21	1	25	ἐπὶ	ἐπί	preposition	1	on
 DEU 11:21	1	26	τῆς	ὁ	definite article, genitive feminine singular	1	the
-DEU 11:21	1	27	γῆς	γῆ	noun, genitive feminine singular	1	land
+DEU 11:21	1	27	γῆς	γῆ	noun, genitive feminine singular	1	earth
 DEU 11:22	1	1	Καὶ	καί	conjunction	1	and
 DEU 11:22	1	2	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be
 DEU 11:22	1	3	ἐὰν	ἐάν	conditional conjunction	1	if
@@ -764,7 +764,7 @@ DEU 11:30	1	9	δυσμῶν	δυσμή	noun, genitive feminine plural	1	setting
 DEU 11:30	1	10	ἡλίου	ἥλιος	noun, genitive masculine singular	1	sun
 DEU 11:30	1	11	ἐν	ἐν	preposition with the dative	1	in
 DEU 11:30	1	12	γῇ	γῆ	noun, dative fem. sg.	1	land
-DEU 11:30	1	13	Χαναὰν	Χαναάν	place name, genitive singular after γῇ	1	Chanaan
+DEU 11:30	1	13	Χαναὰν	Χαναάν	place name, genitive singular after γῇ	1	of Chanaan
 DEU 11:30	1	14	τὸ	ὁ	definite article, nominative/accusative neuter singular	1	the
 DEU 11:30	1	15	κατοικοῦν	κατοικέω	present active participle, accusative neuter singular	1	dwells
 DEU 11:30	1	16	ἐπὶ	ἐπί	preposition	1	on

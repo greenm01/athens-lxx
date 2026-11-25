@@ -292,7 +292,7 @@ EXO 4:11	1	11	τίς	τίς	interrogative pronoun, nominative masculine singular
 EXO 4:11	1	12	ἐποίησε	ποιέω	aorist active indicative, third person singular	1	made
 EXO 4:11	1	13	δύσκωφον	δύσκωφος	adjective, accusative masculine singular	1	hard of hearing
 EXO 4:11	1	14	καὶ	καί	conjunction	1	and
-EXO 4:11	1	15	κωφὸν	κωφός	adjective, accusative masculine singular	1	deaf
+EXO 4:11	1	15	κωφὸν	κωφός	adjective, accusative masculine singular	1	mute
 EXO 4:11	1	16	καὶ	καί	conjunction	1	and
 EXO 4:11	1	17	βλέποντα	βλέπω	present active participle, accusative masculine singular	1	seeing
 EXO 4:11	1	18	καὶ	καί	conjunction	1	and
@@ -352,9 +352,9 @@ EXO 4:14	1	22	καὶ	καί	conjunction	1	and
 EXO 4:14	1	23	ἰδοὺ	ἰδού	interjection	1	look
 EXO 4:14	1	24	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 EXO 4:14	1	25	ἐξελεύσεται	ἐξέρχομαι	future middle indicative, third person singular	1	will come out
-EXO 4:14	1	26	εἰς	εἰς	preposition with the accusative	1	for
-EXO 4:14	1	27	συνάντησίν	συνάντησις	noun, accusative feminine singular	1	a meeting
-EXO 4:14	1	28	σοι	σύ	personal pronoun, dative singular	1	with you
+EXO 4:14	1	26	εἰς	εἰς	preposition with the accusative	1	to
+EXO 4:14	1	27	συνάντησίν	συνάντησις	noun, accusative feminine singular	1	meet
+EXO 4:14	1	28	σοι	σύ	personal pronoun, dative singular	1	you
 EXO 4:14	1	29	καὶ	καί	conjunction	1	and
 EXO 4:14	1	30	ἰδών	ὁράω	aorist active participle, nominative masculine singular	1	having seen
 EXO 4:14	1	31	σε	σύ	personal pronoun, accusative singular	1	you
@@ -405,7 +405,7 @@ EXO 4:16	1	13	σὺ	σύ	personal pronoun, nominative singular	1	you
 EXO 4:16	1	14	δὲ	δέ	conjunction	1	but
 EXO 4:16	1	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	for him
 EXO 4:16	1	16	ἔσῃ	εἰμί	future middle indicative, second person singular	1	will be
-EXO 4:16	1	17	τὰ	ὁ	article, nominative neuter plural	1	the
+EXO 4:16	1	17	τὰ	ὁ	article, nominative neuter plural	1	the things
 EXO 4:16	1	18	πρὸς	πρός	preposition with the accusative	1	pertaining to
 EXO 4:16	1	19	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 4:16	1	20	Θεόν	θεός	noun, accusative masculine singular	1	God
@@ -502,7 +502,7 @@ EXO 4:20	1	6	καὶ	καί	conjunction	1	and
 EXO 4:20	1	7	τὰ	ὁ	article, accusative neuter plural	1	the
 EXO 4:20	1	8	παιδία	παιδίον	noun, accusative neuter plural	1	children
 EXO 4:20	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-EXO 4:20	1	10	ἀνεβίβασεν	ἀναβιβάζω	aorist active indicative, third person singular	1	he mounted
+EXO 4:20	1	10	ἀνεβίβασεν	ἀναβιβάζω	aorist active indicative, third person singular	1	he set
 EXO 4:20	1	11	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
 EXO 4:20	1	12	ἐπὶ	ἐπί	preposition with the accusative	1	on
 EXO 4:20	1	13	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -608,7 +608,7 @@ EXO 4:24	1	7	τῷ	ὁ	article, dative neuter singular	1	the
 EXO 4:24	1	8	καταλύματι	κατάλυμα	noun, dative neuter singular	1	lodging place
 EXO 4:24	1	9	συνήντησεν	συναντάω	aorist active indicative, third person singular	1	met
 EXO 4:24	1	10	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
-EXO 4:24	1	11	ἄγγελος	ἄγγελος	noun, nominative masculine singular	1	a messenger
+EXO 4:24	1	11	ἄγγελος	ἄγγελος	noun, nominative masculine singular	1	an angel
 EXO 4:24	1	12	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 EXO 4:24	1	13	καὶ	καί	conjunction	1	and
 EXO 4:24	1	14	ἐζήτει	ζητέω	imperfect active indicative, third person singular	1	sought
@@ -735,7 +735,7 @@ EXO 4:31	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 EXO 4:31	1	4	λαὸς	λαός	noun, nominative masculine singular	1	people
 EXO 4:31	1	5	καὶ	καί	conjunction	1	and
 EXO 4:31	1	6	ἐχάρη	χαίρω	aorist passive indicative, third person singular	1	rejoiced
-EXO 4:31	1	7	ὅτι	ὅτι	conjunction	1	because
+EXO 4:31	1	7	ὅτι	ὅτι	conjunction	1	that
 EXO 4:31	1	8	ἐπεσκέψατο	ἐπισκέπτομαι	aorist middle indicative, third person singular	1	had visited
 EXO 4:31	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
 EXO 4:31	1	10	Θεὸς	θεός	noun, nominative masculine singular	1	God
@@ -743,7 +743,7 @@ EXO 4:31	1	11	τοὺς	ὁ	article, accusative masculine plural	1	the
 EXO 4:31	1	12	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
 EXO 4:31	1	13	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 EXO 4:31	1	14	καὶ	καί	conjunction	1	and
-EXO 4:31	1	15	ὅτι	ὅτι	conjunction	1	because
+EXO 4:31	1	15	ὅτι	ὅτι	conjunction	1	that
 EXO 4:31	1	16	ἶδεν	ὁράω	aorist active indicative, third person singular	1	he had seen
 EXO 4:31	1	17	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 EXO 4:31	1	18	τὴν	ὁ	article, accusative feminine singular	1	the

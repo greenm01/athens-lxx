@@ -33,7 +33,7 @@ JOS 1:2	1	11	Ἰορδάνην	Ἰορδάνης	noun, accusative masculine sing
 JOS 1:2	1	12	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	1	this
 JOS 1:2	1	13	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 JOS 1:2	1	14	καὶ	καί	conjunction	1	and
-JOS 1:2	1	15	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
+JOS 1:2	1	15	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
 JOS 1:2	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 1:2	1	17	λαὸς	λαός	noun, nominative masculine singular	1	people
 JOS 1:2	1	18	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
@@ -50,7 +50,7 @@ JOS 1:2	1	28	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in
 JOS 1:3	1	1	Πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 JOS 1:3	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 1:3	1	3	τόπος	τόπος	noun, nominative masculine singular	1	place
-JOS 1:3	1	4	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
+JOS 1:3	1	4	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	upon
 JOS 1:3	1	5	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
 JOS 1:3	1	6	ἂν	ἄν	modal particle	1	[marks contingency]
 JOS 1:3	1	7	ἐπιβῆτε	ἐπιβαίνω	aorist active subjunctive, second plural	1	you set foot
@@ -128,7 +128,7 @@ JOS 1:5	1	23	οὐκ	οὐ	negative particle	1	not
 JOS 1:5	1	24	ἐγκαταλείψω	ἐγκαταλείπω	future active indicative, first singular	1	I shall abandon
 JOS 1:5	1	25	σε	σύ	pronoun, accusative second singular	1	you
 JOS 1:5	1	26	οὐδὲ	οὐδέ	conjunction/negative	1	nor
-JOS 1:5	1	27	ὑπερόψομαί	ὑπεροράω	future middle indicative, first singular	1	I shall disregard
+JOS 1:5	1	27	ὑπερόψομαί	ὑπεροράω	future middle indicative, first singular	1	I shall neglect
 JOS 1:5	1	28	σε	σύ	personal pronoun, accusative singular	1	you
 JOS 1:6	1	1	Ἴσχυε	ἰσχύω	present active imperative, second singular	1	be strong
 JOS 1:6	1	2	καὶ	καί	conjunction	1	and
@@ -244,10 +244,10 @@ JOS 1:9	1	14	Κύριος	κύριος	noun, nominative masculine singular	1	the
 JOS 1:9	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 1:9	1	16	Θεός	θεός	noun, nominative masculine singular, in apposition	1	God
 JOS 1:9	1	17	σου	σύ	pronoun, possessive genitive second singular	1	your
-JOS 1:9	1	18	εἰς	εἰς	preposition with the accusative	1	into
+JOS 1:9	1	18	εἰς	εἰς	preposition with the accusative	1	to
 JOS 1:9	1	19	πάντα	πᾶς	adjective, accusative masculine singular	1	every
 JOS 1:9	1	20	οὗ	οὗ	relative adverb of place	1	where
-JOS 1:9	1	21	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
+JOS 1:9	1	21	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	ever
 JOS 1:9	1	22	πορεύῃ	πορεύομαι	present middle/passive subjunctive, second singular	1	you go
 JOS 1:10	1	1	Καὶ	καί	conjunction	1	and
 JOS 1:10	1	2	ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, third singular	1	commanded
@@ -259,9 +259,9 @@ JOS 1:10	1	7	λαοῦ	λαός	noun, genitive masculine singular	1	people
 JOS 1:10	1	8	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 JOS 1:11	1	1	εἰσέλθατε	εἰσέρχομαι	aorist active imperative, second plural	1	come in
 JOS 1:11	1	1	εἰσέλθατε			2	enter
-JOS 1:11	1	2	κατὰ	κατά	preposition with the accusative	1	according to
-JOS 1:11	1	3	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	1	(with preceding word)
-JOS 1:11	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
+JOS 1:11	1	2	κατὰ	κατά	preposition with the accusative	1	through
+JOS 1:11	1	3	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	1	the midst
+JOS 1:11	1	4	τῆς	ὁ	article, genitive feminine singular	1	of the
 JOS 1:11	1	5	παρεμβολῆς	παρεμβολή	noun, genitive fem. sg. after τῆς	1	camp
 JOS 1:11	1	6	τοῦ	ὁ	article, genitive masculine singular	1	of the
 JOS 1:11	1	7	λαοῦ	λαός	noun, genitive masculine singular	1	people
@@ -306,9 +306,9 @@ JOS 1:12	1	6	Γὰδ	Γάδ	indeclinable name, dative in context	1	Gadites
 JOS 1:12	1	7	καὶ	καί	conjunction	1	and
 JOS 1:12	1	8	τῷ	ὁ	article, dative masculine singular	1	the
 JOS 1:12	1	9	ἡμίσει	ἥμισυς	substantival adjective, dative neuter singular	1	half
-JOS 1:12	1	10	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-JOS 1:12	1	10	φυλῆς			2	tribe
-JOS 1:12	1	11	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	1	Manasseh
+JOS 1:12	1	10	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+JOS 1:12	1	10	φυλῆς			2	clan
+JOS 1:12	1	11	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	1	of Manasseh
 JOS 1:12	1	12	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 JOS 1:12	1	13	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua
 JOS 1:12	1	14	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
@@ -328,7 +328,7 @@ JOS 1:13	1	13	Κύριος	κύριος	noun, nominative masculine singular	1	th
 JOS 1:13	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 1:13	1	15	Θεὸς	θεός	noun, nominative masculine singular	1	God
 JOS 1:13	1	16	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
-JOS 1:13	1	17	κατέπαυσεν	καταπαύω	aorist active indicative, third singular intransitive	1	settled
+JOS 1:13	1	17	κατέπαυσεν	καταπαύω	aorist active indicative, third singular intransitive	1	gave rest to
 JOS 1:13	1	18	ὑμᾶς	σύ	pronoun, accusative second plural	1	you
 JOS 1:13	1	19	καὶ	καί	conjunction	1	and
 JOS 1:13	1	20	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
@@ -361,7 +361,7 @@ JOS 1:14	1	22	Ἰορδάνου	Ἰορδάνης	river name, genitive masculine
 JOS 1:14	1	23	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
 JOS 1:14	1	24	δὲ	δέ	postpositive conjunction	1	and
 JOS 1:14	1	25	διαβήσεσθε	διαβαίνω	future middle indicative, second plural	1	you shall cross
-JOS 1:14	1	26	εὔζωνοι	εὔζωνος	adjective, nominative masculine plural	1	equipped to move
+JOS 1:14	1	26	εὔζωνοι	εὔζωνος	adjective, nominative masculine plural	1	armed
 JOS 1:14	1	27	πρότερον	πρότερος	adverb	1	ahead of
 JOS 1:14	1	28	τῶν	ὁ	article, genitive plural	1	the
 JOS 1:14	1	29	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
@@ -375,7 +375,7 @@ JOS 1:14	1	35	δυνάμει			2	troops
 JOS 1:14	1	36	καὶ	καί	conjunction	1	and
 JOS 1:14	1	37	συμμαχήσετε	συμμαχέω	future active indicative, second plural	1	you shall fight alongside
 JOS 1:14	1	38	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
-JOS 1:15	1	1	ἕως	ἕως	preposition with the genitive	1	as far as
+JOS 1:15	1	1	ἕως	ἕως	preposition with the genitive	1	until
 JOS 1:15	1	1	ἕως			2	up to
 JOS 1:15	1	2	ἂν	ἄν	modal particle	1	[marks contingency]
 JOS 1:15	1	3	καταπαύσῃ	καταπαύω	aorist active subjunctive, third singular	1	gives rest
@@ -445,7 +445,7 @@ JOS 1:16	1	13	εἰς	εἰς	preposition with the accusative of direction	1	to
 JOS 1:16	1	14	πάντα	πᾶς	adjective, accusative masculine singular	1	every
 JOS 1:16	1	15	τόπον	τόπος	noun, accusative masculine singular	1	place
 JOS 1:16	1	16	οὗ	οὗ	relative adverb of place	1	where
-JOS 1:16	1	17	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
+JOS 1:16	1	17	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	ever
 JOS 1:16	1	18	ἀποστείλῃς	ἀποστέλλω	aorist active subjunctive, second singular	1	you send
 JOS 1:16	1	19	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	1	us
 JOS 1:16	1	20	πορευσόμεθα	πορεύομαι	future middle indicative, first person plural	1	we will go
@@ -457,8 +457,8 @@ JOS 1:17	1	5	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	Mos
 JOS 1:17	1	6	οὕτως	οὕτως	adverb	1	thus
 JOS 1:17	1	7	ἀκουσόμεθά	ἀκούω	future middle indicative, first plural	1	we shall obey
 JOS 1:17	1	8	σου	σύ	pronoun, genitive second singular	1	you
-JOS 1:17	1	9	πλὴν	πλήν	preposition/adverb with the genitive	1	except
-JOS 1:17	1	10	ἔστω	εἰμί	present imperative, third singular	1	let it be
+JOS 1:17	1	9	πλὴν	πλήν	preposition/adverb with the genitive	1	only
+JOS 1:17	1	10	ἔστω	εἰμί	present imperative, third singular	1	may he be
 JOS 1:17	1	11	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JOS 1:17	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 1:17	1	13	Θεὸς	θεός	noun, nominative masculine singular	1	God
@@ -491,7 +491,7 @@ JOS 1:18	1	16	καθότι			2	in accordance with what
 JOS 1:18	1	17	ἂν	ἄν	modal particle	1	[modal particle]
 JOS 1:18	1	18	ἐντείλῃ	ἐντέλλομαι	aorist middle subjunctive, second singular	1	you command
 JOS 1:18	1	19	αὐτῷ	αὐτός	pronoun, dative masculine/neuter singular	1	to him
-JOS 1:18	1	20	ἀποθανέτω	ἀποθνῄσκω	aorist active imperative, third singular	1	shall die
+JOS 1:18	1	20	ἀποθανέτω	ἀποθνῄσκω	aorist active imperative, third singular	1	let him die
 JOS 1:18	1	21	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 JOS 1:18	1	22	ἴσχυε	ἰσχύω	present active imperative, second singular	1	be strong
 JOS 1:18	1	23	καὶ	καί	conjunction	1	and

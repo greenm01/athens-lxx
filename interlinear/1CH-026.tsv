@@ -456,7 +456,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 26:26	1	19	οἱ	ὁ	article, nominative masculine plural	1	the
 1CH 26:26	1	20	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
 1CH 26:26	1	20	ἄρχοντες			2	officials
-1CH 26:26	1	21	τῶν	ὁ	article, genitive plural	1	the
+1CH 26:26	1	21	τῶν	ὁ	article, genitive plural	1	of the
 1CH 26:26	1	22	πατριῶν	πατριά	noun, genitive feminine plural	1	ancestral houses
 1CH 26:26	1	23	χιλίαρχοι	χιλίαρχος	noun, nominative masculine plural	1	leaders of thousands
 1CH 26:26	1	24	καὶ	καί	conjunction	1	and
@@ -553,7 +553,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 26:30	1	12	ἑπτακόσιοι	ἑπτακόσιοι	cardinal numeral, nominative masculine plural	1	seven hundred
 1CH 26:30	1	13	ἐπὶ	ἐπί	preposition (case from context)	1	on
 1CH 26:30	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
-1CH 26:30	1	15	ἐπισκέψεως	ἐπίσκεψις	noun, genitive feminine singular	1	census
+1CH 26:30	1	15	ἐπισκέψεως	ἐπίσκεψις	noun, genitive feminine singular	1	oversight
 1CH 26:30	1	15	ἐπισκέψεως			2	count
 1CH 26:30	1	16	τοῦ	ὁ	article, genitive singular	1	the
 1CH 26:30	1	17	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
@@ -590,7 +590,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 26:31	1	14	τῷ	ὁ	article, dative masculine singular	1	the
 1CH 26:31	1	15	τεσσαρακοστῷ	τεσσαρακοστός	ordinal adjective, dative masculine singular	1	fortieth
 1CH 26:31	1	16	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
-1CH 26:31	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
+1CH 26:31	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
 1CH 26:31	1	18	βασιλείας	βασιλεία	noun, genitive feminine singular	1	kingdom
 1CH 26:31	1	18	βασιλείας			2	reign
 1CH 26:31	1	19	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
@@ -630,8 +630,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 26:32	1	21	Γαδδὶ	Γάδ	indeclinable tribal name, genitive in context	1	of Gad
 1CH 26:32	1	22	καὶ	καί	conjunction	1	and
 1CH 26:32	1	23	ἡμίσους	ἥμισυς	substantival adjective, genitive neuter singular	1	half
-1CH 26:32	1	24	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-1CH 26:32	1	24	φυλῆς			2	tribe
+1CH 26:32	1	24	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+1CH 26:32	1	24	φυλῆς			2	clan
 1CH 26:32	1	25	Μανασσῆ	Μανασσῆς	proper name, genitive masculine singular	1	of Manasseh
 1CH 26:32	1	26	εἰς	εἰς	preposition with the accusative	1	into
 1CH 26:32	1	27	πάντα	πᾶς	adjective, accusative neuter plural	1	all
