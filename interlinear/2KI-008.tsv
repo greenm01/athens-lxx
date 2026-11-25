@@ -222,7 +222,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:6	1	32	ἐγκατέλιπε			2	abandoned
 2KI 8:6	1	33	τὴν	ὁ	article, accusative feminine singular	1	the
 2KI 8:6	1	34	γῆν	γῆ	noun, accusative feminine singular	1	land
-2KI 8:6	1	35	ἕως	ἕως	preposition with the genitive	1	as far as
+2KI 8:6	1	35	ἕως	ἕως	preposition with the genitive	1	until
 2KI 8:6	1	35	ἕως			2	up to
 2KI 8:6	1	36	τοῦ	ὁ	article, genitive singular	1	the
 2KI 8:6	1	37	νῦν	νῦν	adverb of time	1	now
@@ -235,8 +235,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:7	1	5	Δαμασκόν	Δαμασκός	noun, accusative feminine singular	1	Damascus
 2KI 8:7	1	6	καὶ	καί	conjunction	1	and
 2KI 8:7	1	7	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2KI 8:7	1	8	Ἄδερ	Ἄδερ	indeclinable personal name, genitive in context	1	of Ader
-2KI 8:7	1	8	Ἄδερ			2	of Hadad
+2KI 8:7	1	8	Ἄδερ	Ἄδερ	indeclinable personal name, genitive in context	1	of Hadad
+2KI 8:7	1	8	Ἄδερ			2	of Ader
 2KI 8:7	1	9	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2KI 8:7	1	10	Συρίας	Συρία	noun, genitive feminine singular; place name	1	of Syria
 2KI 8:7	1	11	ἠρρώστει	ἀρρωστέω	imperfect active indicative, third singular	1	was ill
@@ -331,8 +331,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:9	1	33	υἱός	υἱός	noun, nominative masculine singular	1	son
 2KI 8:9	1	34	σου	σύ	pronoun, possessive genitive second singular	1	your
 2KI 8:9	1	35	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2KI 8:9	1	36	Ἄδερ	Ἄδερ	indeclinable personal name, genitive in context	1	of Ader
-2KI 8:9	1	36	Ἄδερ			2	of Hadad
+2KI 8:9	1	36	Ἄδερ	Ἄδερ	indeclinable personal name, genitive in context	1	of Hadad
+2KI 8:9	1	36	Ἄδερ			2	of Ader
 2KI 8:9	1	37	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2KI 8:9	1	38	Συρίας	Συρία	noun, genitive feminine singular; place name	1	of Syria
 2KI 8:9	1	39	ἀπέστειλέ	ἀποστέλλω	aorist active indicative, third singular as printed (movable nu dropped before με)	1	sent
@@ -385,7 +385,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:12	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2KI 8:12	1	3	Ἀζαήλ	Ἀζαήλ	indeclinable personal name, nominative in context	1	Hazael
 2KI 8:12	1	4	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
-2KI 8:12	1	5	ὅτι	ὅτι	causal conjunction	1	because
+2KI 8:12	1	5	ὅτι	ὅτι	causal conjunction	1	that
 2KI 8:12	1	6	κύριός	κύριος	noun, nominative masculine singular	1	the Lord
 2KI 8:12	1	7	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2KI 8:12	1	8	κλαίει	κλαίω	present active indicative, third singular	1	weeps
@@ -621,7 +621,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:21	1	2	ἀνέβη	ἀναβαίνω	aorist active indicative, third singular	1	went up
 2KI 8:21	1	3	Ἰωρὰμ	Ἰωράμ	indeclinable personal name, nominative in context	1	Joram
 2KI 8:21	1	4	εἰς	εἰς	preposition with the accusative	1	into
-2KI 8:21	1	5	Σιὼρ	Σιώρ	indeclinable place name, nominative in context	1	Sior
+2KI 8:21	1	5	Σιὼρ	Σιώρ	indeclinable place name, nominative in context	1	Zair
 2KI 8:21	1	6	καὶ	καί	conjunction	1	and
 2KI 8:21	1	7	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 2KI 8:21	1	8	τὰ	ὁ	article, nominative neuter plural	1	the
@@ -664,15 +664,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:22	1	4	ὑποκάτωθεν			2	from below
 2KI 8:22	1	5	χειρὸς	χείρ	noun, genitive feminine singular	1	hand
 2KI 8:22	1	6	Ἰούδα	Ἰούδα	indeclinable tribal name, genitive in context	1	of Judah
-2KI 8:22	1	7	ἕως	ἕως	preposition with the genitive	1	as far as
+2KI 8:22	1	7	ἕως	ἕως	preposition with the genitive	1	until
 2KI 8:22	1	7	ἕως			2	up to
 2KI 8:22	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
 2KI 8:22	1	9	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
 2KI 8:22	1	10	ταύτης	οὗτος	demonstrative pronoun, genitive feminine singular with ἡμέρας	1	this
 2KI 8:22	1	11	τότε	τότε	temporal adverb	1	then
 2KI 8:22	1	12	ἠθέτησε	ἀθετέω	aorist active indicative, third singular	1	rebelled
-2KI 8:22	1	13	Λοβνὰ	Λοβνά	indeclinable place name, nominative in context	1	Lobna
-2KI 8:22	1	13	Λοβνὰ			2	Libnah
+2KI 8:22	1	13	Λοβνὰ	Λοβνά	indeclinable place name, nominative in context	1	Libnah
+2KI 8:22	1	13	Λοβνὰ			2	Lobna
 2KI 8:22	1	14	ἐν	ἐν	preposition with the dative	1	in
 2KI 8:22	1	15	τῷ	ὁ	article, dative masculine singular	1	the
 2KI 8:22	1	16	καιρῷ	καιρός	noun, dative masculine singular after τῷ	1	time
@@ -722,8 +722,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:24	1	19	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 2KI 8:24	1	20	καὶ	καί	conjunction	1	and
 2KI 8:24	1	21	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	became king
-2KI 8:24	1	22	Ὀχοζίας	Ὀχοζίας	personal name, nominative masculine singular	1	Ochozias
-2KI 8:24	1	22	Ὀχοζίας			2	Ahaziah
+2KI 8:24	1	22	Ὀχοζίας	Ὀχοζίας	personal name, nominative masculine singular	1	Ahaziah
+2KI 8:24	1	22	Ὀχοζίας			2	Ochozias
 2KI 8:24	1	23	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2KI 8:24	1	24	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2KI 8:24	1	25	ἀντ᾽	ἀντί	preposition with the genitive, elided	1	in place of
@@ -738,8 +738,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:25	1	8	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 2KI 8:25	1	9	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2KI 8:25	1	10	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	became king
-2KI 8:25	1	11	Ὀχοζίας	Ὀχοζίας	personal name, nominative masculine singular	1	Ochozias
-2KI 8:25	1	11	Ὀχοζίας			2	Ahaziah
+2KI 8:25	1	11	Ὀχοζίας	Ὀχοζίας	personal name, nominative masculine singular	1	Ahaziah
+2KI 8:25	1	11	Ὀχοζίας			2	Ochozias
 2KI 8:25	1	12	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2KI 8:25	1	13	Ἰωρὰμ	Ἰωράμ	indeclinable personal name, genitive in context	1	of Joram
 2KI 8:25	1	14	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
@@ -750,8 +750,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:26	1	4	δύο	δύο	cardinal numeral, indeclinable	1	two
 2KI 8:26	1	5	ἐτῶν	ἔτος	noun, genitive neuter plural of age	1	years
 2KI 8:26	1	6	ἦν	εἰμί	imperfect indicative, third singular	1	was
-2KI 8:26	1	7	Ὀχοζίας	Ὀχοζίας	personal name, nominative masculine singular	1	Ochozias
-2KI 8:26	1	7	Ὀχοζίας			2	Ahaziah
+2KI 8:26	1	7	Ὀχοζίας	Ὀχοζίας	personal name, nominative masculine singular	1	Ahaziah
+2KI 8:26	1	7	Ὀχοζίας			2	Ochozias
 2KI 8:26	1	8	ἐν	ἐν	preposition marking time with an articular infinitive	1	when
 2KI 8:26	1	9	τῷ	ὁ	article, dative masculine singular	1	the
 2KI 8:26	1	10	βασιλεύειν	βασιλεύω	present active infinitive	1	to reign
@@ -767,11 +767,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:26	1	20	τῆς	ὁ	article, genitive feminine singular	1	of the
 2KI 8:26	1	21	μητρὸς	μήτηρ	noun, genitive feminine singular	1	mother
 2KI 8:26	1	22	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-2KI 8:26	1	23	Γοθολία	Γοθολία	personal name, nominative feminine singular	1	Gotholia
-2KI 8:26	1	23	Γοθολία			2	Athaliah
+2KI 8:26	1	23	Γοθολία	Γοθολία	personal name, nominative feminine singular	1	Athaliah
+2KI 8:26	1	23	Γοθολία			2	Gotholia
 2KI 8:26	1	24	θυγάτηρ	θυγάτηρ	noun, nominative feminine singular	1	daughter
-2KI 8:26	1	25	Ἀμβρὶ	Ἀμβρί	indeclinable personal name, genitive in context	1	of Ambri
-2KI 8:26	1	25	Ἀμβρὶ			2	of Omri
+2KI 8:26	1	25	Ἀμβρὶ	Ἀμβρί	indeclinable personal name, genitive in context	1	of Omri
+2KI 8:26	1	25	Ἀμβρὶ			2	of Ambri
 2KI 8:26	1	26	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2KI 8:26	1	27	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2KI 8:27	1	1	Καὶ	καί	conjunction	1	and
@@ -853,8 +853,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:29	1	27	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 2KI 8:29	1	28	Συρίας	Συρία	noun, genitive feminine singular; place name	1	of Syria
 2KI 8:29	1	29	καὶ	καί	conjunction	1	and
-2KI 8:29	1	30	Ὀχοζίας	Ὀχοζίας	personal name, nominative masculine singular	1	Ochozias
-2KI 8:29	1	30	Ὀχοζίας			2	Ahaziah
+2KI 8:29	1	30	Ὀχοζίας	Ὀχοζίας	personal name, nominative masculine singular	1	Ahaziah
+2KI 8:29	1	30	Ὀχοζίας			2	Ochozias
 2KI 8:29	1	31	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2KI 8:29	1	32	Ἰωρὰμ	Ἰωράμ	indeclinable personal name, genitive in context	1	of Joram
 2KI 8:29	1	33	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king

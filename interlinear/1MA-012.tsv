@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 12:1	1	1	ΚΑΙ	καί	conjunction, unaccented	1	and
 1MA 12:1	1	2	ἴδεν	ὁράω	aorist active indicative, third singular	1	saw
 1MA 12:1	1	3	Ἰωνάθαν	Ἰωνάθαν	indeclinable personal name, nominative in context	1	Jonathan
-1MA 12:1	1	4	ὅτι	ὅτι	causal conjunction	1	because
+1MA 12:1	1	4	ὅτι	ὅτι	causal conjunction	1	that
 1MA 12:1	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 1MA 12:1	1	6	καιρὸς	καιρός	noun, nominative masculine singular	1	opportunity
 1MA 12:1	1	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -526,8 +526,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 12:28	1	2	ἤκουσαν	ἀκούω	aorist active indicative, third plural	1	they heard
 1MA 12:28	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 1MA 12:28	1	4	ὑπεναντίοι	ὑπεναντίος	substantival adjective, nominative masculine plural	1	adversaries
-1MA 12:28	1	5	ὅτι	ὅτι	conjunction	1	because
-1MA 12:28	1	5	ὅτι			2	that
+1MA 12:28	1	5	ὅτι	ὅτι	conjunction	1	that
+1MA 12:28	1	5	ὅτι			2	because
 1MA 12:28	1	6	ἡτοίμασται	ἑτοιμάζω	perfect passive indicative, third singular	1	is prepared
 1MA 12:28	1	7	Ἰωνάθαν	Ἰωνάθαν	indeclinable personal name, nominative in context	1	Jonathan
 1MA 12:28	1	8	καὶ	καί	conjunction	1	and
@@ -563,7 +563,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 12:29	1	9	οὐκ	οὐ	negative particle	1	not
 1MA 12:29	1	10	ἔγνωσαν	γινώσκω	aorist active indicative, third plural	1	knew
 1MA 12:29	1	10	ἔγνωσαν			2	could distinguish
-1MA 12:29	1	11	ἕως	ἕως	preposition with the genitive	1	as far as
+1MA 12:29	1	11	ἕως	ἕως	preposition with the genitive	1	until
 1MA 12:29	1	11	ἕως			2	up to
 1MA 12:29	1	12	πρωΐ	πρωΐ	adverb	1	morning
 1MA 12:29	1	13	ἔβλεπον	βλέπω	imperfect active indicative, third plural	1	saw
@@ -645,7 +645,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 12:33	1	18	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	it
 1MA 12:34	1	1	Ἤκουσε	ἀκούω	aorist active indicative, third singular	1	heard
 1MA 12:34	1	2	γὰρ	γάρ	conjunction	1	for
-1MA 12:34	1	3	ὅτι	ὅτι	causal conjunction	1	because
+1MA 12:34	1	3	ὅτι	ὅτι	causal conjunction	1	that
 1MA 12:34	1	4	βούλονται	βούλομαι	present middle indicative, 3rd plural	1	will
 1MA 12:34	1	5	τὸ	ὁ	article, neuter singular (case from context)	1	the
 1MA 12:34	1	6	ὀχύρωμα	ὀχύρωμα	noun, accusative neuter singular	1	stronghold
@@ -824,7 +824,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 12:42	1	1	Καὶ	καί	conjunction	1	and
 1MA 12:42	1	2	εἶδε	ὁράω	aorist active indicative, third singular	1	saw
 1MA 12:42	1	3	Τρύφων	Τρύφων	noun, nominative masculine singular	1	Tryphon
-1MA 12:42	1	4	ὅτι	ὅτι	causal conjunction	1	because
+1MA 12:42	1	4	ὅτι	ὅτι	causal conjunction	1	that
 1MA 12:42	1	5	πάρεστιν	πάρειμι	present indicative, third singular	1	is here
 1MA 12:42	1	5	πάρεστιν			2	is at hand
 1MA 12:42	1	6	Ἰωνάθαν	Ἰωνάθαν	indeclinable personal name, nominative in context	1	Jonathan

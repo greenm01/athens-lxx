@@ -4,15 +4,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:1	1	3	μετὰ	μετά	preposition with the accusative	1	after
 1CH 19:1	1	4	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these things
 1CH 19:1	1	5	ἀπέθανε	ἀποθνῄσκω	aorist active indicative, third singular	1	he died
-1CH 19:1	1	6	Ναὰς	Ναάς	indeclinable personal name, nominative in context	1	Naas
-1CH 19:1	1	6	Ναὰς			2	Nahash
+1CH 19:1	1	6	Ναὰς	Ναάς	indeclinable personal name, nominative in context	1	Nahash
+1CH 19:1	1	6	Ναὰς			2	Naas
 1CH 19:1	1	7	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	the king
 1CH 19:1	1	8	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 1CH 19:1	1	9	Ἀμμὼν	Ἀμμών	indeclinable personal name, genitive in context	1	of Ammon
 1CH 19:1	1	10	καὶ	καί	conjunction	1	and
 1CH 19:1	1	11	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	became king
-1CH 19:1	1	12	Ἀνὰν	Ἀνάν	indeclinable personal name, nominative in context	1	Anan
-1CH 19:1	1	12	Ἀνὰν			2	Hanun
+1CH 19:1	1	12	Ἀνὰν	Ἀνάν	indeclinable personal name, nominative in context	1	Hanun
+1CH 19:1	1	12	Ἀνὰν			2	Anan
 1CH 19:1	1	13	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 1CH 19:1	1	14	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 1CH 19:1	1	15	ἀντ᾿	ἀντί	preposition governing the genitive	1	in place of
@@ -24,10 +24,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:2	1	5	ἔλεος	ἔλεος	noun, accusative neuter singular	1	kindness
 1CH 19:2	1	5	ἔλεος			2	mercy
 1CH 19:2	1	6	μετὰ	μετά	preposition with genitive	1	with
-1CH 19:2	1	7	Ἀνὰν	Ἀνάν	indeclinable personal name, nominative in context	1	Anan
-1CH 19:2	1	7	Ἀνὰν			2	Hanun
+1CH 19:2	1	7	Ἀνὰν	Ἀνάν	indeclinable personal name, nominative in context	1	Hanun
+1CH 19:2	1	7	Ἀνὰν			2	Anan
 1CH 19:2	1	8	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-1CH 19:2	1	9	Ναάς	Ναάς	indeclinable personal name, genitive in context	1	of Naas
+1CH 19:2	1	9	Ναάς	Ναάς	indeclinable personal name, genitive in context	1	of Nahash
 1CH 19:2	1	10	ὡς	ὡς	comparative particle	1	as
 1CH 19:2	1	11	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	did
 1CH 19:2	1	11	ἐποίησεν			2	had done
@@ -60,8 +60,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:2	1	35	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 1CH 19:2	1	36	Ἀμμὼν	Ἀμμών	indeclinable personal name, genitive in context	1	of Ammon
 1CH 19:2	1	37	πρὸς	πρός	preposition with the accusative	1	to
-1CH 19:2	1	38	Ἀνὰν	Ἀνάν	indeclinable personal name, accusative in context	1	Anan
-1CH 19:2	1	38	Ἀνὰν			2	Hanun
+1CH 19:2	1	38	Ἀνὰν	Ἀνάν	indeclinable personal name, accusative in context	1	Hanun
+1CH 19:2	1	38	Ἀνὰν			2	Anan
 1CH 19:2	1	39	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive, marks the infinitive	1	—
 1CH 19:2	1	40	παρακαλέσαι	παρακαλέω	aorist active infinitive of purpose	1	to comfort
 1CH 19:2	1	41	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
@@ -73,7 +73,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:3	1	5	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 1CH 19:3	1	6	Ἀμμὼν	Ἀμμών	indeclinable personal name, genitive in context	1	of Ammon
 1CH 19:3	1	7	πρὸς	πρός	preposition with the accusative	1	to
-1CH 19:3	1	8	Ἀνάν	Ἀνάν	indeclinable personal name, accusative in context	1	Anan
+1CH 19:3	1	8	Ἀνάν	Ἀνάν	indeclinable personal name, accusative in context	1	Hanun
 1CH 19:3	1	9	μὴ	μή	negative particle	1	not
 1CH 19:3	1	10	δοξάζων	δοξάζω	present active participle, nominative masculine singular	1	honoring
 1CH 19:3	1	11	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
@@ -154,7 +154,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:5	1	22	καθίσατε	καθίζω	aorist active imperative, second plural	1	stay
 1CH 19:5	1	23	ἐν	ἐν	preposition with the dative	1	in
 1CH 19:5	1	24	Ἱεριχὼ	Ἱεριχώ	indeclinable place name, dative in context	1	Jericho
-1CH 19:5	1	25	ἕως	ἕως	preposition with the genitive	1	as far as
+1CH 19:5	1	25	ἕως	ἕως	preposition with the genitive	1	until
 1CH 19:5	1	25	ἕως			2	up to
 1CH 19:5	1	26	τοῦ	ὁ	article, genitive singular	1	the
 1CH 19:5	1	27	ἀνατεῖλαι	ἀνατέλλω	aorist active infinitive	1	growing back
@@ -173,7 +173,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:6	1	8	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 1CH 19:6	1	9	καὶ	καί	conjunction	1	and
 1CH 19:6	1	10	ἀπέστειλεν	ἀποστέλλω	aorist active indicative, third singular	1	sent
-1CH 19:6	1	11	Ἀνὰν	Ἀνάν	indeclinable personal name, nominative in context	1	Anan
+1CH 19:6	1	11	Ἀνὰν	Ἀνάν	indeclinable personal name, nominative in context	1	Hanun
 1CH 19:6	1	12	καὶ	καί	conjunction	1	and
 1CH 19:6	1	13	οἱ	ὁ	article, nominative masculine plural	1	the
 1CH 19:6	1	14	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
@@ -220,8 +220,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:7	1	20	παρενέβαλον	παρεμβάλλω	aorist active indicative, 3rd pl., encamped	1	encamped
 1CH 19:7	1	21	κατέναντι	κατέναντι	preposition with genitive	1	in front of
 1CH 19:7	1	22	τοὺ	ὁ	article, genitive masculine singular	1	of the
-1CH 19:7	1	23	Μηδαβά	Μηδαβά	indeclinable personal name, genitive in context	1	Medaba
-1CH 19:7	1	23	Μηδαβά			2	Medeba
+1CH 19:7	1	23	Μηδαβά	Μηδαβά	indeclinable personal name, genitive in context	1	Medeba
+1CH 19:7	1	23	Μηδαβά			2	Medaba
 1CH 19:7	1	24	Καὶ	καί	conjunction	1	and
 1CH 19:7	1	25	υἱοὶ	υἱός	noun, nominative masculine plural	1	the sons
 1CH 19:7	1	26	Ἀμμὼν	Ἀμμών	indeclinable personal name, genitive in context	1	of Ammon
@@ -447,8 +447,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:16	1	18	τοῦ	ὁ	article, genitive singular	1	the
 1CH 19:16	1	19	ποταμοῦ	ποταμός	noun, genitive masculine singular after τοῦ	1	river
 1CH 19:16	1	20	καὶ	καί	conjunction	1	and
-1CH 19:16	1	21	Σωφὰχ	Σωφάχ	indeclinable personal name, nominative in context	1	Sophach
-1CH 19:16	1	21	Σωφὰχ			2	Shophach
+1CH 19:16	1	21	Σωφὰχ	Σωφάχ	indeclinable personal name, nominative in context	1	Shophach
+1CH 19:16	1	21	Σωφὰχ			2	Sophach
 1CH 19:16	1	22	ἀρχιστράτηγος	ἀρχιστράτηγος	noun, nominative masculine singular	1	commander-in-chief
 1CH 19:16	1	23	δυνάμεως	δύναμις	noun, genitive feminine singular	1	army
 1CH 19:16	1	23	δυνάμεως			2	force
@@ -521,7 +521,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 19:19	1	2	εἶδον	ὁράω	aorist active indicative, third plural	1	they saw
 1CH 19:19	1	3	παῖδες	παῖς	noun, nominative masculine plural	1	servants
 1CH 19:19	1	4	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, nominative in context	1	Adraazar
-1CH 19:19	1	5	ὅτι	ὅτι	causal conjunction	1	because
+1CH 19:19	1	5	ὅτι	ὅτι	causal conjunction	1	that
 1CH 19:19	1	6	ἐπταίκασιν	πταίω	perfect active indicative, third plural	1	they have been defeated
 1CH 19:19	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
 1CH 19:19	1	8	προσώπου	πρόσωπον	noun, genitive neuter singular after ἀπό, in the phrase 'from the face of'	1	the face

@@ -5,8 +5,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 14:1	1	4	τῷ	ὁ	article, dative masculine singular	1	the
 2KI 14:1	1	5	Ἰωὰς	Ἰωάς	indeclinable personal name, genitive in context	1	of Joash
 2KI 14:1	1	6	υἱῷ	υἱός	noun, dative masculine singular	1	son
-2KI 14:1	1	7	Ἰωάχαζ	Ἰωάχαζ	indeclinable personal name, genitive in context	1	of Joachaz
-2KI 14:1	1	7	Ἰωάχαζ			2	of Jehoahaz
+2KI 14:1	1	7	Ἰωάχαζ	Ἰωάχαζ	indeclinable personal name, genitive in context	1	of Jehoahaz
+2KI 14:1	1	7	Ἰωάχαζ			2	of Joachaz
 2KI 14:1	1	8	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 2KI 14:1	1	9	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2KI 14:1	1	10	καὶ	καί	conjunction	1	and
@@ -167,9 +167,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 14:7	1	18	τὸ	ὁ	article, accusative neuter singular	1	the
 2KI 14:7	1	19	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 2KI 14:7	1	20	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
-2KI 14:7	1	21	Ἰεκθοὴλ	Ἰεκθοήλ	indeclinable place name, accusative in context	1	Iekthoel
-2KI 14:7	1	21	Ἰεκθοὴλ			2	Joktheel
-2KI 14:7	1	22	ἕως	ἕως	preposition with the genitive	1	as far as
+2KI 14:7	1	21	Ἰεκθοὴλ	Ἰεκθοήλ	indeclinable place name, accusative in context	1	Joktheel
+2KI 14:7	1	21	Ἰεκθοὴλ			2	Iekthoel
+2KI 14:7	1	22	ἕως	ἕως	preposition with the genitive	1	until
 2KI 14:7	1	22	ἕως			2	up to
 2KI 14:7	1	23	τῆς	ὁ	article, genitive feminine singular	1	the
 2KI 14:7	1	24	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
@@ -183,8 +183,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 14:8	1	6	Ἰωὰς	Ἰωάς	indeclinable personal name, genitive in context	1	Joash
 2KI 14:8	1	6	Ἰωὰς			2	Ioas
 2KI 14:8	1	7	υἱὸν	υἱός	noun, accusative masculine singular	1	son
-2KI 14:8	1	8	Ἰωάχαζ	Ἰωάχαζ	indeclinable personal name, genitive in context	1	of Joachaz
-2KI 14:8	1	8	Ἰωάχαζ			2	of Jehoahaz
+2KI 14:8	1	8	Ἰωάχαζ	Ἰωάχαζ	indeclinable personal name, genitive in context	1	of Jehoahaz
+2KI 14:8	1	8	Ἰωάχαζ			2	of Joachaz
 2KI 14:8	1	9	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 2KI 14:8	1	10	Ἰηοὺ	Ἰηού	indeclinable personal name, genitive in context	1	of Jehu
 2KI 14:8	1	11	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
@@ -278,8 +278,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 14:11	1	1	Καὶ	καί	conjunction	1	and
 2KI 14:11	1	2	οὐκ	οὐ	negative particle	1	not
 2KI 14:11	1	3	ἤκουσεν	ἀκούω	aorist active indicative, third singular	1	listened
-2KI 14:11	1	4	Ἀμεσίας	Ἀμεσίας	personal name, nominative masculine singular	1	Amesias
-2KI 14:11	1	4	Ἀμεσίας			2	Amaziah
+2KI 14:11	1	4	Ἀμεσίας	Ἀμεσίας	personal name, nominative masculine singular	1	Amaziah
+2KI 14:11	1	4	Ἀμεσίας			2	Amesias
 2KI 14:11	1	5	Καὶ	καί	conjunction	1	and
 2KI 14:11	1	6	ἀνέβη	ἀναβαίνω	aorist active indicative, third singular	1	went up
 2KI 14:11	1	7	Ἰωὰς	Ἰωάς	indeclinable personal name, genitive in context	1	Joash
@@ -324,14 +324,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 14:13	1	6	υἱὸν	υἱός	noun, accusative masculine singular	1	son
 2KI 14:13	1	7	Ἰωὰς	Ἰωάς	personal name, genitive masculine singular or indeclinable genitive in context	1	of Joash
 2KI 14:13	1	8	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-2KI 14:13	1	9	Ὀχοζίου	Ὀχοζίας	personal name, genitive masculine singular	1	of Ochozias
-2KI 14:13	1	9	Ὀχοζίου			2	of Ahaziah
+2KI 14:13	1	9	Ὀχοζίου	Ὀχοζίας	personal name, genitive masculine singular	1	of Ahaziah
+2KI 14:13	1	9	Ὀχοζίου			2	of Ochozias
 2KI 14:13	1	10	ἔλαβεν	λαμβάνω	aorist active indicative, third singular	1	he took
 2KI 14:13	1	11	Ἰωὰς	Ἰωάς	indeclinable personal name, genitive in context	1	Joash
 2KI 14:13	1	11	Ἰωὰς			2	Ioas
 2KI 14:13	1	12	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2KI 14:13	1	13	Ἰωάχαζ	Ἰωάχαζ	indeclinable personal name, genitive in context	1	of Joachaz
-2KI 14:13	1	13	Ἰωάχαζ			2	of Jehoahaz
+2KI 14:13	1	13	Ἰωάχαζ	Ἰωάχαζ	indeclinable personal name, genitive in context	1	of Jehoahaz
+2KI 14:13	1	13	Ἰωάχαζ			2	of Joachaz
 2KI 14:13	1	14	βασιλεὺς	βασιλεύς	noun, nominative masculine singular; nominative used as address	1	king
 2KI 14:13	1	15	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2KI 14:13	1	16	ἐν	ἐν	preposition with the dative	1	in
@@ -451,8 +451,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 14:16	1	22	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 2KI 14:17	1	1	Καὶ	καί	conjunction	1	and
 2KI 14:17	1	2	ἔζησεν	ζάω	aorist active indicative, third singular	1	lived
-2KI 14:17	1	3	Ἀμεσίας	Ἀμεσίας	personal name, nominative masculine singular	1	Amesias
-2KI 14:17	1	3	Ἀμεσίας			2	Amaziah
+2KI 14:17	1	3	Ἀμεσίας	Ἀμεσίας	personal name, nominative masculine singular	1	Amaziah
+2KI 14:17	1	3	Ἀμεσίας			2	Amesias
 2KI 14:17	1	4	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2KI 14:17	1	5	Ἰωὰς	Ἰωάς	personal name, genitive masculine singular or indeclinable genitive in context	1	of Joash
 2KI 14:17	1	6	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
@@ -462,8 +462,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 14:17	1	10	ἀποθανεῖν	ἀποθνῄσκω	aorist active infinitive	1	died
 2KI 14:17	1	11	Ἰωὰς	Ἰωάς	personal name, accusative as subject of the articular infinitive	1	Joash
 2KI 14:17	1	12	υἱὸν	υἱός	noun, accusative masculine singular	1	son
-2KI 14:17	1	13	Ἰωάχαζ	Ἰωάχαζ	indeclinable personal name, genitive in context	1	of Joachaz
-2KI 14:17	1	13	Ἰωάχαζ			2	of Jehoahaz
+2KI 14:17	1	13	Ἰωάχαζ	Ἰωάχαζ	indeclinable personal name, genitive in context	1	of Jehoahaz
+2KI 14:17	1	13	Ἰωάχαζ			2	of Joachaz
 2KI 14:17	1	14	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 2KI 14:17	1	15	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2KI 14:17	1	16	πεντεκαίδεκα	πεντεκαίδεκα	indeclinable cardinal numeral	1	fifteen
@@ -537,8 +537,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 14:21	1	5	λαὸς	λαός	noun, nominative masculine singular	1	people
 2KI 14:21	1	6	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 2KI 14:21	1	7	τὸν	ὁ	article, accusative masculine singular	1	the
-2KI 14:21	1	8	Ἀζαρίαν	Ἀζαρίας	personal name, accusative masculine singular	1	Azarias
-2KI 14:21	1	8	Ἀζαρίαν			2	Azariah
+2KI 14:21	1	8	Ἀζαρίαν	Ἀζαρίας	personal name, accusative masculine singular	1	Azariah
+2KI 14:21	1	8	Ἀζαρίαν			2	Azarias
 2KI 14:21	1	9	καὶ	καί	conjunction	1	and
 2KI 14:21	1	10	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 2KI 14:21	1	11	υἱὸς	υἱός	noun, nominative masculine singular; in an expression of age	1	of the age of
@@ -614,8 +614,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 14:24	1	11	ἁμαρτιῶν	ἁμαρτία	noun, genitive feminine plural	1	sins
 2KI 14:24	1	12	Ἱεροβοὰμ	Ἱεροβοάμ	indeclinable personal name, genitive in context	1	of Jeroboam
 2KI 14:24	1	13	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-2KI 14:24	1	14	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	1	of Nabat
-2KI 14:24	1	14	Ναβὰτ			2	of Nebat
+2KI 14:24	1	14	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	1	of Nebat
+2KI 14:24	1	14	Ναβὰτ			2	of Nabat
 2KI 14:24	1	15	ὃς	ὅς	relative pronoun, accusative feminine plural	1	by which
 2KI 14:24	1	16	ἐξήμαρτε	ἐξαμαρτάνω	aorist active indicative, third singular	1	he caused to sin
 2KI 14:24	1	17	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -647,8 +647,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 14:25	1	25	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 2KI 14:25	1	26	Ἰωνὰ	Ἰωνᾶς	personal name, genitive masculine singular	1	of Jonah
 2KI 14:25	1	27	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-2KI 14:25	1	28	Ἀμαθὶ	Ἀμαθί	indeclinable personal name, genitive in context	1	of Amathi
-2KI 14:25	1	28	Ἀμαθὶ			2	of Amittai
+2KI 14:25	1	28	Ἀμαθὶ	Ἀμαθί	indeclinable personal name, genitive in context	1	of Amittai
+2KI 14:25	1	28	Ἀμαθὶ			2	of Amathi
 2KI 14:25	1	29	τοῦ	ὁ	article, genitive masculine singular	1	the
 2KI 14:25	1	30	προφήτου	προφήτης	noun, genitive masculine singular	1	prophet
 2KI 14:25	1	31	τοῦ	ὁ	article, genitive singular	1	the
@@ -755,8 +755,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 14:29	1	10	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2KI 14:29	1	11	καὶ	καί	conjunction	1	and
 2KI 14:29	1	12	ἐβασίλευσε	βασιλεύω	aorist active indicative, third singular	1	he reigned
-2KI 14:29	1	13	Ζαχαρίας	Ζαχαρίας	personal name, nominative masculine singular	1	Zacharias
-2KI 14:29	1	13	Ζαχαρίας			2	Zechariah
+2KI 14:29	1	13	Ζαχαρίας	Ζαχαρίας	personal name, nominative masculine singular	1	Zechariah
+2KI 14:29	1	13	Ζαχαρίας			2	Zacharias
 2KI 14:29	1	14	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 2KI 14:29	1	15	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2KI 14:29	1	16	ἀντὶ	ἀντί	preposition with the genitive	1	in place of
