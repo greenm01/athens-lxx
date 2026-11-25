@@ -3,7 +3,7 @@ JER 18:1	1	1	Ο	ὁ	article, nominative masculine singular	1	the
 JER 18:1	1	2	Λόγος	λόγος	noun, nominative masculine singular	1	word
 JER 18:1	1	2	Λόγος			2	message
 JER 18:1	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
-JER 18:1	1	4	γενόμενος	γίνομαι	aorist middle participle, nominative masculine singular	1	having become
+JER 18:1	1	4	γενόμενος	γίνομαι	aorist middle participle, nominative masculine singular	1	that came
 JER 18:1	1	5	παρὰ	παρά	preposition with genitive	1	from
 JER 18:1	1	6	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 JER 18:1	1	7	πρὸς	πρός	preposition with the accusative	1	to
@@ -16,10 +16,10 @@ JER 18:2	1	4	εἰς	εἰς	preposition with the accusative	1	into
 JER 18:2	1	5	οἶκον	οἶκος	noun, accusative masculine singular	1	the house
 JER 18:2	1	5	οἶκον			2	household
 JER 18:2	1	6	τοῦ	ὁ	article, genitive masculine singular	1	of the
-JER 18:2	1	7	κεραμέως	κεραμεύς	noun genitive masculine singular	1	of a potter
+JER 18:2	1	7	κεραμέως	κεραμεύς	noun genitive masculine singular	1	potter
 JER 18:2	1	8	καὶ	καί	conjunction	1	and
 JER 18:2	1	9	ἐκεῖ	ἐκεῖ	adverb of place	1	there
-JER 18:2	1	10	ἀκούσῃ	ἀκούω	aorist active subjunctive, 2nd sg	1	you hear
+JER 18:2	1	10	ἀκούσῃ	ἀκούω	aorist active subjunctive, 2nd sg	1	you will hear
 JER 18:2	1	11	τοὺς	ὁ	article, accusative masculine plural	1	the
 JER 18:2	1	12	λόγους	λόγος	noun, accusative masculine plural	1	words
 JER 18:2	1	13	μου	ἐγώ	personal pronoun, genitive first singular	1	my
@@ -30,7 +30,7 @@ JER 18:3	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 JER 18:3	1	5	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 JER 18:3	1	5	οἶκον			2	household
 JER 18:3	1	6	τοῦ	ὁ	article, genitive masculine singular	1	of the
-JER 18:3	1	7	κεραμέως	κεραμεύς	noun genitive masculine singular	1	of a potter
+JER 18:3	1	7	κεραμέως	κεραμεύς	noun genitive masculine singular	1	potter
 JER 18:3	1	8	καὶ	καί	conjunction	1	and
 JER 18:3	1	9	ἰδοὺ	ἰδού	presentative particle	1	behold
 JER 18:3	1	10	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
@@ -67,7 +67,7 @@ JER 18:4	1	22	ἤρεσεν	ἀρέσκω	aorist active indicative, third singul
 JER 18:4	1	23	ἐνώπιον	ἐνώπιον	preposition with the genitive	1	before
 JER 18:4	1	24	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 JER 18:4	1	25	τοῦ	ὁ	article, genitive singular	1	the
-JER 18:4	1	26	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
+JER 18:4	1	26	ποιῆσαι	ποιέω	aorist active infinitive	1	to make
 JER 18:5	1	1	Καὶ	καί	conjunction	1	and
 JER 18:5	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 JER 18:5	1	3	λόγος	λόγος	noun, nominative masculine singular	1	word
@@ -76,13 +76,13 @@ JER 18:5	1	4	Κυρίου	κύριος	noun, genitive masculine singular	1	of th
 JER 18:5	1	5	πρὸς	πρός	preposition with the accusative	1	to
 JER 18:5	1	6	μὲ	ἐγώ	personal pronoun, accusative first singular	1	me
 JER 18:5	1	7	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
-JER 18:6	1	1	Εἰ	εἰ	conditional conjunction	1	if
+JER 18:6	1	1	Εἰ	εἰ	conditional conjunction	1	[marks a question]
 JER 18:6	1	2	καθὼς	καθώς	comparative conjunction	1	just as
 JER 18:6	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 JER 18:6	1	4	κεραμεὺς	κεραμεύς	noun, nominative masculine singular	1	potter
 JER 18:6	1	5	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 JER 18:6	1	6	οὐ	οὐ	negative particle	1	not
-JER 18:6	1	7	δυνήσομαι	δύναμαι	future middle indicative, 1st sg	1	I am able
+JER 18:6	1	7	δυνήσομαι	δύναμαι	future middle indicative, 1st sg	1	I will be able
 JER 18:6	1	8	τοῦ	ὁ	article, genitive neuter singular	1	the
 JER 18:6	1	9	ποιῆσαι	ποιέω	aorist active infinitive	1	to treat
 JER 18:6	1	9	ποιῆσαι			2	to do to
@@ -97,8 +97,8 @@ JER 18:6	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
 JER 18:6	1	18	πηλὸς	πηλός	noun, nominative masculine singular	1	clay
 JER 18:6	1	19	ἐν	ἐν	preposition with the dative	1	in
 JER 18:6	1	20	χειρὶ	χείρ	noun, dative feminine singular	1	hand
-JER 18:6	1	21	τοῦ	ὁ	article, genitive singular	1	the
-JER 18:6	1	22	κεραμέως	κεραμεύς	noun genitive masculine singular	1	of a potter
+JER 18:6	1	21	τοῦ	ὁ	article, genitive singular	1	of the
+JER 18:6	1	22	κεραμέως	κεραμεύς	noun genitive masculine singular	1	potter
 JER 18:6	1	23	οὕτως	οὕτως	adverb	1	thus
 JER 18:6	1	24	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
 JER 18:6	1	25	ἐστε	εἰμί	present indicative, second plural	1	are
@@ -122,7 +122,7 @@ JER 18:7	1	11	καὶ	καί	conjunction	1	and
 JER 18:7	1	12	καθελεῖν	καθαιρέω	aorist active infinitive	1	to tear down
 JER 18:8	1	1	καὶ	καί	conjunction	1	and
 JER 18:8	1	2	τοῦ	ὁ	article, genitive singular	1	the
-JER 18:8	1	3	ἀπολύειν	ἀπολύω	present active infinitive	1	to dissolve
+JER 18:8	1	3	ἀπολύειν	ἀπολύω	present active infinitive	1	to destroy
 JER 18:8	1	3	ἀπολύειν			2	to release
 JER 18:8	1	4	καὶ	καί	conjunction	1	and
 JER 18:8	1	5	ἐπιστρέψῃ	ἐπιστρέφω	aorist active subjunctive, third singular	1	turns back
@@ -137,7 +137,7 @@ JER 18:8	1	13	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 18:8	1	14	καὶ	καί	conjunction	1	and
 JER 18:8	1	15	μετανοήσω	μετανοέω	future active indicative, first singular	1	I will change my mind
 JER 18:8	1	16	περὶ	περί	preposition (genitive)	1	concerning
-JER 18:8	1	17	πάντων	πᾶς	substantival adjective, genitive masculine plural	1	of all
+JER 18:8	1	17	πάντων	πᾶς	substantival adjective, genitive masculine plural	1	all
 JER 18:8	1	18	τῶν	ὁ	article, genitive plural	1	the
 JER 18:8	1	19	κακῶν	κακός	adjective, genitive neuter plural	1	evils
 JER 18:8	1	20	ὧν	ὅς	relative pronoun, genitive neuter plural, attracted to the case of its antecedent	1	that
@@ -165,7 +165,7 @@ JER 18:10	1	2	ποιήσουσι	ποιέω	future active indicative, third plur
 JER 18:10	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 JER 18:10	1	4	πονηρὰ	πονηρός	adjective, accusative neuter plural; substantival	1	evil things
 JER 18:10	1	5	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
-JER 18:10	1	6	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
+JER 18:10	1	6	μου	ἐγώ	pronoun, possessive genitive first singular	1	me
 JER 18:10	1	7	τοῦ	ὁ	article, genitive singular	1	the
 JER 18:10	1	8	μὴ	μή	negative particle	1	not
 JER 18:10	1	9	ἀκούειν	ἀκούω	present active infinitive	1	to hear
@@ -175,7 +175,7 @@ JER 18:10	1	12	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JER 18:10	1	13	καὶ	καί	conjunction	1	and
 JER 18:10	1	14	μετανοήσω	μετανοέω	future active indicative, first singular	1	I will change my mind
 JER 18:10	1	15	περὶ	περί	preposition (genitive)	1	concerning
-JER 18:10	1	16	τῶν	ὁ	article, genitive neuter plural	1	of the
+JER 18:10	1	16	τῶν	ὁ	article, genitive neuter plural	1	the
 JER 18:10	1	17	ἀγαθῶν	ἀγαθός	adjective, genitive neuter plural	1	good things
 JER 18:10	1	18	ὧν	ὅς	relative pronoun, genitive neuter plural; attracted to the antecedent's case	1	which
 JER 18:10	1	19	ἐλάλησα	λαλέω	aorist active indicative, first singular	1	I spoke
@@ -192,9 +192,9 @@ JER 18:11	1	6	Ἰούδα	Ἰούδας	tribal name, genitive singular	1	of Juda
 JER 18:11	1	7	καὶ	καί	conjunction	1	and
 JER 18:11	1	8	πρὸς	πρός	preposition with accusative	1	to
 JER 18:11	1	8	πρὸς			2	toward
-JER 18:11	1	9	τοὺς	ὁ	article, accusative masculine plural	1	the
-JER 18:11	1	10	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	dwelling
-JER 18:11	1	10	κατοικοῦντας			2	inhabiting
+JER 18:11	1	9	τοὺς	ὁ	article, accusative masculine plural	1	those
+JER 18:11	1	10	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	inhabiting
+JER 18:11	1	10	κατοικοῦντας			2	dwelling
 JER 18:11	1	11	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, accusative in context	1	Jerusalem
 JER 18:11	1	12	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 JER 18:11	1	13	οὕτως	οὕτως	adverb	1	thus
@@ -202,7 +202,7 @@ JER 18:11	1	14	λέγει	λέγω	present active indicative, third singular	1	s
 JER 18:11	1	15	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JER 18:11	1	16	ἰδοὺ	ἰδού	interjection	1	look
 JER 18:11	1	17	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-JER 18:11	1	18	πλάσσω	πλάσσω	present active indicative, first singular	1	I am shaping
+JER 18:11	1	18	πλάσσω	πλάσσω	present active indicative, first singular	1	am shaping
 JER 18:11	1	19	ἐφ᾽	ἐπί	elided preposition with accusative	1	against
 JER 18:11	1	20	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 JER 18:11	1	21	κακὰ	κακός	substantival adjective, accusative neuter plural	1	evils
@@ -210,7 +210,7 @@ JER 18:11	1	21	κακὰ			2	bad things
 JER 18:11	1	22	καὶ	καί	conjunction	1	and
 JER 18:11	1	23	λογίζομαι	λογίζομαι	present middle indicative, first singular	1	I am planning
 JER 18:11	1	23	λογίζομαι			2	I am devising
-JER 18:11	1	24	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
+JER 18:11	1	24	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	against
 JER 18:11	1	25	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 JER 18:11	1	26	λογισμόν	λογισμός	noun, accusative masculine singular	1	thought
 JER 18:11	1	26	λογισμόν			2	intention
@@ -220,7 +220,7 @@ JER 18:11	1	28	δὴ			2	now
 JER 18:11	1	29	ἕκαστος	ἕκαστος	adjective, nominative masculine singular; distributive	1	each
 JER 18:11	1	30	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JER 18:11	1	31	τῆς	ὁ	article, genitive feminine singular	1	the
-JER 18:11	1	32	ὁδοῦ	ὁδός	noun, genitive feminine singular	1	road
+JER 18:11	1	32	ὁδοῦ	ὁδός	noun, genitive feminine singular	1	way
 JER 18:11	1	33	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 JER 18:11	1	34	τῆς	ὁ	article, genitive feminine singular	1	the
 JER 18:11	1	35	πονηρᾶς	πονηρός	adjective, genitive feminine singular	1	evil
@@ -238,7 +238,7 @@ JER 18:11	1	45	ὑμῶν	σύ	second person pronoun, genitive plural	1	your
 JER 18:12	1	1	Καὶ	καί	conjunction	1	and
 JER 18:12	1	2	εἶπαν	λέγω	aorist active indicative, third plural	1	they said
 JER 18:12	1	3	ἀνδριούμεθα	ἀνδρίζομαι	future middle indicative, first plural	1	we will be bold
-JER 18:12	1	4	ὅτι	ὅτι	conjunction introducing a content clause	1	that
+JER 18:12	1	4	ὅτι	ὅτι	conjunction introducing a content clause	1	for
 JER 18:12	1	5	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	after
 JER 18:12	1	5	ὀπίσω			2	behind
 JER 18:12	1	6	τῶν	ὁ	article, genitive plural	1	the
@@ -249,8 +249,8 @@ JER 18:12	1	9	πορευσόμεθα	πορεύομαι	future middle indicative
 JER 18:12	1	10	καὶ	καί	conjunction	1	and
 JER 18:12	1	11	ἕκαστος	ἕκαστος	adjective, nominative masculine singular	1	each
 JER 18:12	1	12	τὰ	ὁ	article, accusative neuter plural	1	the
-JER 18:12	1	13	ἀρεστὰ	ἀρεστός	adjective, accusative neuter plural; substantival	1	what pleases
-JER 18:12	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+JER 18:12	1	13	ἀρεστὰ	ἀρεστός	adjective, accusative neuter plural; substantival	1	pleasing things
+JER 18:12	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 JER 18:12	1	15	καρδίας	καρδία	noun genitive feminine singular	1	heart
 JER 18:12	1	16	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 JER 18:12	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -277,8 +277,8 @@ JER 18:13	1	16	μοι	ἐγώ	pronoun, dative first singular	1	to me
 JER 18:13	1	17	σφόδρα	σφόδρα	adverb of degree	1	greatly
 JER 18:13	1	18	παρθένος	παρθένος	noun, nominative feminine singular	1	a virgin
 JER 18:13	1	19	Ἰσραήλ	Ἰσραήλ	indeclinable proper name, genitive in context	1	of Israel
-JER 18:14	1	1	Μὴ	μή	interrogative particle	1	surely not
-JER 18:14	1	2	ἐκλείψουσιν	ἐκλείπω	future active indicative, third plural	1	will faint
+JER 18:14	1	1	Μὴ	μή	interrogative particle	1	[marks a question]
+JER 18:14	1	2	ἐκλείψουσιν	ἐκλείπω	future active indicative, third plural	1	will fail
 JER 18:14	1	2	ἐκλείψουσιν			2	will give out
 JER 18:14	1	3	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JER 18:14	1	4	πέτρας	πέτρα	noun, genitive fem. sg	1	rock
@@ -289,22 +289,22 @@ JER 18:14	1	7	χιὼν	χιών	noun, nominative feminine singular	1	snow
 JER 18:14	1	8	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JER 18:14	1	9	τοῦ	ὁ	article, genitive singular	1	the
 JER 18:14	1	10	Λιβάνου	Λίβανος	noun, genitive masculine singular; place name	1	Lebanon
-JER 18:14	1	11	μὴ	μή	interrogative particle	1	surely not
+JER 18:14	1	11	μὴ	μή	interrogative particle	1	[marks a question]
 JER 18:14	1	12	ἐκκλίνῃ	ἐκκλίνω	present active subjunctive, third singular	1	turns aside
 JER 18:14	1	13	ὕδωρ	ὕδωρ	noun, nominative neuter singular	1	water
 JER 18:14	1	14	βιαίως	βιαίως	adverb	1	violently
 JER 18:14	1	14	βιαίως			2	forcefully
 JER 18:14	1	15	ἀνέμῳ	ἄνεμος	noun, dative masculine singular	1	by the wind
 JER 18:14	1	16	φερόμενον	φέρω	present passive participle, nominative neuter singular	1	carried along
-JER 18:15	1	1	Ὅτι	ὅτι	conjunction introducing a content clause	1	that
+JER 18:15	1	1	Ὅτι	ὅτι	conjunction introducing a content clause	1	for
 JER 18:15	1	2	ἐπελάθοντό	ἐπιλανθάνομαι	aorist middle indicative, third plural	1	they forgot
 JER 18:15	1	3	μου	ἐγώ	personal pronoun, genitive singular	1	me
 JER 18:15	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 JER 18:15	1	5	λαός	λαός	noun, nominative masculine singular	1	people
 JER 18:15	1	6	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-JER 18:15	1	7	εἰς	εἰς	preposition with the accusative	1	to
+JER 18:15	1	7	εἰς	εἰς	preposition with the accusative	1	in
 JER 18:15	1	7	εἰς			2	unto
-JER 18:15	1	8	κενὸν	κενός	substantival adjective, accusative neuter singular	1	nothing
+JER 18:15	1	8	κενὸν	κενός	substantival adjective, accusative neuter singular	1	vain
 JER 18:15	1	9	ἐθυμίασαν	θυμιάω	aorist active indicative, third plural	1	burned incense
 JER 18:15	1	10	καὶ	καί	conjunction	1	and
 JER 18:15	1	11	ἀσθενήσουσιν	ἀσθενέω	future active indicative, third plural	1	will grow weak
@@ -322,9 +322,9 @@ JER 18:15	1	19	ἐπιβῆναι	ἐπιβαίνω	aorist active infinitive	1	t
 JER 18:15	1	20	τρίβους	τρίβος	noun, accusative feminine plural	1	paths
 JER 18:15	1	20	τρίβους			2	tracks
 JER 18:15	1	21	οὐκ	οὐ	negative particle	1	not
-JER 18:15	1	22	ἔχοντας	ἔχω	present active participle, accusative masc. pl	1	who had
+JER 18:15	1	22	ἔχοντας	ἔχω	present active participle, accusative masc. pl	1	having
 JER 18:15	1	23	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
-JER 18:15	1	24	πορείας	πορεία	noun, accusative feminine plural; phrase has no expressed verb	1	journeys
+JER 18:15	1	24	πορείας	πορεία	noun, accusative feminine plural; phrase has no expressed verb	1	of journey
 JER 18:15	1	24	πορείας			2	ways
 JER 18:16	1	1	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
 JER 18:16	1	2	τάξαι	τάσσω	aorist active infinitive	1	to make
@@ -342,7 +342,7 @@ JER 18:16	1	10	σύριγμα			2	a thing hissed at
 JER 18:16	1	11	αἰώνιον	αἰώνιος	adjective, accusative feminine singular	1	everlasting
 JER 18:16	1	11	αἰώνιον			2	perpetual
 JER 18:16	1	12	πάντες	πᾶς	adjective, nominative masculine plural	1	all
-JER 18:16	1	13	οἱ	ὁ	article, nominative masculine plural	1	the
+JER 18:16	1	13	οἱ	ὁ	article, nominative masculine plural	1	those
 JER 18:16	1	14	παραπορευόμενοι	παραπορεύομαι	present middle participle, nominative masculine plural	1	who pass
 JER 18:16	1	15	δι’	διά	preposition (genitive), elided	1	through
 JER 18:16	1	16	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
@@ -355,18 +355,18 @@ JER 18:16	1	21	κεφαλὴν	κεφαλή	noun, accusative feminine singular	1
 JER 18:16	1	22	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 18:17	1	1	Ὡς	ὡς	comparative particle	1	as
 JER 18:17	1	2	ἄνεμον	ἄνεμος	noun, accusative masculine singular	1	wind
-JER 18:17	1	3	καύσωνα	καύσων	noun, accusative masculine singular	1	scorching wind
+JER 18:17	1	3	καύσωνα	καύσων	noun, accusative masculine singular	1	scorching
 JER 18:17	1	4	διασπερῶ	διασπείρω	future active indicative, first singular	1	I will scatter
 JER 18:17	1	5	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 JER 18:17	1	6	κατὰ	κατά	preposition (accusative); with following noun, before	1	before
 JER 18:17	1	7	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
-JER 18:17	1	8	τῶν	ὁ	article, genitive plural	1	the
+JER 18:17	1	8	τῶν	ὁ	article, genitive plural	1	of the
 JER 18:17	1	9	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	enemies
 JER 18:17	1	10	αὐτῶν	αὐτός	pronoun, genitive masculine plural as printed; the clause expects an accusative singular object	1	of them
 JER 18:17	1	11	δείξω	δείκνυμι	future active indicative, first singular	1	I will show
 JER 18:17	1	12	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 JER 18:17	1	13	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
-JER 18:17	1	14	ἀπωλείας	ἀπώλεια	noun, genitive feminine singular	1	destruction
+JER 18:17	1	14	ἀπωλείας	ἀπώλεια	noun, genitive feminine singular	1	of destruction
 JER 18:17	1	14	ἀπωλείας			2	loss
 JER 18:17	1	15	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 18:18	1	1	Καὶ	καί	conjunction	1	and
@@ -379,7 +379,7 @@ JER 18:18	1	6	ἐπὶ	ἐπί	preposition (accusative)	1	against
 JER 18:18	1	7	Ἱερεμίαν	Ἱερεμίας	noun, accusative masculine singular	1	Jeremiah
 JER 18:18	1	8	λογισμὸν	λογισμός	noun, accusative masculine singular	1	thought
 JER 18:18	1	8	λογισμὸν			2	intention
-JER 18:18	1	9	ὅτι	ὅτι	conjunction giving the substance of the complaint	1	that
+JER 18:18	1	9	ὅτι	ὅτι	conjunction giving the substance of the complaint	1	for
 JER 18:18	1	10	οὐκ	οὐ	negative particle	1	not
 JER 18:18	1	11	ἀπολεῖται	ἀπόλλυμι	future middle indicative, third singular	1	will fail
 JER 18:18	1	11	ἀπολεῖται			2	will disappear
@@ -414,7 +414,7 @@ JER 18:18	1	35	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	
 JER 18:19	1	1	Εἰσάκουσόν	εἰσακούω	aorist active imperative, second singular	1	hear
 JER 18:19	1	1	Εἰσάκουσόν			2	listen to
 JER 18:19	1	2	μου	ἐγώ	personal pronoun, genitive singular	1	me
-JER 18:19	1	3	Κύριε	κύριος	noun, vocative masculine singular	1	sir
+JER 18:19	1	3	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 JER 18:19	1	3	Κύριε			2	my lord
 JER 18:19	1	4	καὶ	καί	conjunction	1	and
 JER 18:19	1	5	ἐπάκουσον	ἐπακούω	aorist active imperative, second singular	1	hear
@@ -425,7 +425,7 @@ JER 18:19	1	8	τοῦ	ὁ	article, genitive neuter singular	1	of the
 JER 18:19	1	9	δικαιώματός	δικαίωμα	noun, genitive neuter singular	1	just claim
 JER 18:19	1	9	δικαιώματός			2	demand for justice
 JER 18:19	1	10	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-JER 18:20	1	1	Εἰ	εἰ	conditional conjunction	1	if
+JER 18:20	1	1	Εἰ	εἰ	conditional conjunction	1	[marks a question]
 JER 18:20	1	2	ἀνταποδίδοται	ἀνταποδίδωμι	present passive indicative, third singular	1	is repaid
 JER 18:20	1	3	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
 JER 18:20	1	4	ἀγαθῶν	ἀγαθός	adjective, genitive neuter plural	1	good things
@@ -449,15 +449,15 @@ JER 18:20	1	18	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 JER 18:20	1	19	μνήσθητι	μιμνήσκομαι	aorist passive imperative, 2nd singular	1	remember
 JER 18:20	1	20	ἑστηκότος	ἵστημι	perfect active participle, genitive masculine singular; stative	1	standing
 JER 18:20	1	21	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-JER 18:20	1	22	κατὰ	κατά	preposition (genitive)	1	against
+JER 18:20	1	22	κατὰ	κατά	preposition (genitive)	1	before
 JER 18:20	1	23	πρόσωπόν	πρόσωπον	noun, accusative neut. sg	1	face
 JER 18:20	1	24	σου	σύ	personal pronoun, genitive singular	1	your
 JER 18:20	1	25	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive expressing prevention, introduces the infinitive	1	—
 JER 18:20	1	26	λαλῆσαι	λαλέω	aorist active infinitive	1	to speak
 JER 18:20	1	27	ὑπὲρ	ὑπέρ	preposition (genitive)	1	on behalf of
 JER 18:20	1	27	ὑπὲρ			2	for
-JER 18:20	1	28	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-JER 18:20	1	29	ἀγαθὰ	ἀγαθός	adjective, nominative neuter plural	1	the good things
+JER 18:20	1	28	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
+JER 18:20	1	29	ἀγαθὰ	ἀγαθός	adjective, nominative neuter plural	1	good things
 JER 18:20	1	30	τοῦ	ὁ	article, genitive neuter singular, marks the infinitive	1	—
 JER 18:20	1	31	ἀποστρέψαι	ἀποστρέφω	aorist active infinitive	1	to turn away
 JER 18:20	1	32	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -479,9 +479,9 @@ JER 18:21	1	8	λιμὸν			2	hunger
 JER 18:21	1	9	καὶ	καί	conjunction	1	and
 JER 18:21	1	10	ἄθροισον	ἀθροίζω	aorist active imperative, second singular	1	gather
 JER 18:21	1	11	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-JER 18:21	1	12	εἰς	εἰς	preposition with accusative; locative in context	1	at
+JER 18:21	1	12	εἰς	εἰς	preposition with accusative; locative in context	1	into
 JER 18:21	1	13	χεῖρας	χείρ	noun, accusative feminine plural	1	hands
-JER 18:21	1	14	μαχαίρας	μάχαιρα	noun, genitive feminine singular	1	sword
+JER 18:21	1	14	μαχαίρας	μάχαιρα	noun, genitive feminine singular	1	of sword
 JER 18:21	1	15	γενέσθωσαν	γίνομαι	aorist middle imperative, third plural	1	let them become
 JER 18:21	1	16	αἱ	ὁ	article, nominative feminine plural	1	the
 JER 18:21	1	17	γυναῖκες	γυνή	noun, nominative feminine plural	1	wives
@@ -506,7 +506,7 @@ JER 18:21	1	32	νεανίσκοι	νεανίσκος	noun, nominative masculine 
 JER 18:21	1	33	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 18:21	1	34	πεπτωκότες	πίπτω	perfect active participle, nominative masculine plural	1	fallen
 JER 18:21	1	35	ἐν	ἐν	preposition with dative; instrumental	1	with
-JER 18:21	1	36	μαχαίρᾳ	μάχαιρα	noun, dative feminine singular	1	with a sword
+JER 18:21	1	36	μαχαίρᾳ	μάχαιρα	noun, dative feminine singular	1	sword
 JER 18:21	1	37	ἐν	ἐν	preposition with the dative	1	in
 JER 18:21	1	38	πολέμῳ	πόλεμος	noun, dative masculine singular	1	war
 JER 18:22	1	1	Γενηθήτω	γίνομαι	aorist passive-form imperative, third singular	1	let there be
@@ -518,7 +518,7 @@ JER 18:22	1	5	οἰκίαις	οἰκία	noun, dative feminine plural	1	houses
 JER 18:22	1	5	οἰκίαις			2	dwellings
 JER 18:22	1	6	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 18:22	1	7	ἐπάξεις	ἐπάγω	future active indicative, second singular	1	you will bring
-JER 18:22	1	8	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+JER 18:22	1	8	ἐπ᾽	ἐπί	preposition with the accusative	1	upon
 JER 18:22	1	9	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 JER 18:22	1	10	λῃστὰς	λῃστής	noun, accusative masculine plural	1	robbers
 JER 18:22	1	11	ἄφνω	ἄφνω	adverb	1	suddenly
@@ -543,7 +543,7 @@ JER 18:23	1	2	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 JER 18:23	1	3	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 JER 18:23	1	4	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 JER 18:23	1	4	Κύριε			2	Lord
-JER 18:23	1	5	ἔγνως	γινώσκω	aorist active indicative, second singular	1	you knew
+JER 18:23	1	5	ἔγνως	γινώσκω	aorist active indicative, second singular	1	knew
 JER 18:23	1	6	ἅπασαν	ἅπας	adjective, accusative feminine singular	1	all
 JER 18:23	1	6	ἅπασαν			2	the whole
 JER 18:23	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -566,8 +566,8 @@ JER 18:23	1	20	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 18:23	1	21	καὶ	καί	conjunction	1	and
 JER 18:23	1	22	τὰς	ὁ	article, accusative feminine plural	1	the
 JER 18:23	1	23	ἁμαρτίας	ἁμαρτία	noun, accusative feminine plural	1	sins
-JER 18:23	1	24	τῶν	ὁ	article, genitive masculine plural	1	the
-JER 18:23	1	25	πατέρων	πατήρ	noun, genitive masculine plural	1	of the fathers
+JER 18:23	1	24	τῶν	ὁ	article, genitive masculine plural	1	of the
+JER 18:23	1	25	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers
 JER 18:23	1	26	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 18:23	1	27	ἀπὸ	ἀπό	preposition with genitive, from/at	1	from
 JER 18:23	1	28	προσώπου	πρόσωπον	noun, genitive neuter singular	1	face
@@ -586,8 +586,8 @@ JER 18:23	1	38	σου	σύ	pronoun, possessive genitive second singular	1	you
 JER 18:23	1	39	ἐν	ἐν	preposition with the dative	1	in
 JER 18:23	1	40	καιρῷ	καιρός	noun, dative masculine singular	1	time
 JER 18:23	1	40	καιρῷ			2	season
-JER 18:23	1	41	θυμοῦ	θυμός	noun, genitive masc. sg	1	anger
+JER 18:23	1	41	θυμοῦ	θυμός	noun, genitive masc. sg	1	of anger
 JER 18:23	1	42	σου	σύ	pronoun, possessive genitive second singular	1	your
 JER 18:23	1	43	ποίησον	ποιέω	aorist active imperative, second singular	1	act
-JER 18:23	1	44	ἐν	ἐν	preposition with the dative	1	in
-JER 18:23	1	45	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
+JER 18:23	1	44	ἐν	ἐν	preposition with the dative	1	with
+JER 18:23	1	45	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them

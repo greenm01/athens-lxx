@@ -38,9 +38,9 @@ JER 21:2	1	7	Ναβουχοδονόσορ	Ναβουχοδονόσορ	indeclina
 JER 21:2	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
 JER 21:2	1	9	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 JER 21:2	1	10	Βαβυλῶνος	Βαβυλών	noun, genitive feminine singular; place name	1	of Babylon
-JER 21:2	1	11	ἐφέστηκεν	ἐφίστημι	perfect active indicative, third singular	1	has come against
+JER 21:2	1	11	ἐφέστηκεν	ἐφίστημι	perfect active indicative, third singular	1	has come
 JER 21:2	1	11	ἐφέστηκεν			2	stands over
-JER 21:2	1	12	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
+JER 21:2	1	12	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	against
 JER 21:2	1	13	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	1	us
 JER 21:2	1	14	εἴ	εἰ	conditional conjunction	1	if
 JER 21:2	1	15	πως	πως	indefinite adverb	1	in some way
@@ -80,7 +80,7 @@ JER 21:4	1	5	Θεὸς	θεός	noun, nominative masculine singular	1	God
 JER 21:4	1	6	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JER 21:4	1	7	ἰδοὺ	ἰδού	presentative particle	1	behold
 JER 21:4	1	8	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-JER 21:4	1	9	μεταστρέφω	μεταστρέφω	present active indicative, first singular	1	I am turning back
+JER 21:4	1	9	μεταστρέφω	μεταστρέφω	present active indicative, first singular	1	am turning back
 JER 21:4	1	10	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 JER 21:4	1	11	ὅπλα	ὅπλον	noun, accusative neuter plural	1	weapons
 JER 21:4	1	12	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -93,7 +93,7 @@ JER 21:4	1	18	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural
 JER 21:4	1	19	ἐν	ἐν	preposition with the dative	1	in
 JER 21:4	1	20	οἷς	ὅς	relative pronoun, dative neuter plural	1	which
 JER 21:4	1	21	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
-JER 21:4	1	22	πολεμεῖτε	πολεμέω	present active indicative, second plural	1	you fight
+JER 21:4	1	22	πολεμεῖτε	πολεμέω	present active indicative, second plural	1	fight
 JER 21:4	1	23	ἐν	ἐν	preposition with the dative	1	in
 JER 21:4	1	24	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 JER 21:4	1	25	πρὸς	πρός	preposition (accusative)	1	against
@@ -122,7 +122,7 @@ JER 21:4	1	45	πόλεως	πόλις	noun, genitive feminine singular	1	city
 JER 21:4	1	45	πόλεως			2	town
 JER 21:4	1	46	ταύτης	οὗτος	demonstrative pronoun, genitive feminine singular	1	this
 JER 21:5	1	1	καὶ	καί	conjunction	1	and
-JER 21:5	1	2	πολεμήσω	πολεμέω	future active indicative, first singular	1	I will fight
+JER 21:5	1	2	πολεμήσω	πολεμέω	future active indicative, first singular	1	will fight
 JER 21:5	1	3	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 JER 21:5	1	4	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 JER 21:5	1	5	ἐν	ἐν	preposition (dative), instrumental	1	with
@@ -133,7 +133,7 @@ JER 21:5	1	9	ἐν	ἐν	preposition (dative), instrumental	1	with
 JER 21:5	1	10	βραχίονι	βραχίων	noun, dative masculine singular	1	arm
 JER 21:5	1	11	κραταιῷ	κραταιός	adjective, dative masculine singular	1	mighty
 JER 21:5	1	12	μετὰ	μετά	preposition with genitive	1	with
-JER 21:5	1	13	θυμοῦ	θυμός	noun, genitive masculine singular	1	of fury
+JER 21:5	1	13	θυμοῦ	θυμός	noun, genitive masculine singular	1	fury
 JER 21:5	1	14	καὶ	καί	conjunction	1	and
 JER 21:5	1	15	ὀργῆς	ὀργή	noun, genitive feminine singular	1	anger
 JER 21:5	1	15	ὀργῆς			2	wrath
@@ -158,8 +158,8 @@ JER 21:6	1	14	κτήνη	κτῆνος	noun, accusative neuter plural	1	livestoc
 JER 21:6	1	15	ἐν	ἐν	preposition with the dative	1	in
 JER 21:6	1	16	θανάτῳ	θάνατος	noun, dative masculine singular	1	death
 JER 21:6	1	16	θανάτῳ			2	pestilence
-JER 21:6	1	17	μεγάλῳ	μέγας	adjective, dative neuter singular	1	large
-JER 21:6	1	17	μεγάλῳ			2	great
+JER 21:6	1	17	μεγάλῳ	μέγας	adjective, dative neuter singular	1	great
+JER 21:6	1	17	μεγάλῳ			2	large
 JER 21:6	1	18	καὶ	καί	conjunction	1	and
 JER 21:6	1	19	ἀποθανοῦνται	ἀποθνῄσκω	future middle indicative, third plural	1	will die
 JER 21:7	1	1	Καὶ	καί	conjunction	1	and
@@ -188,7 +188,7 @@ JER 21:7	1	23	πόλει	πόλις	noun, dative feminine singular	1	city
 JER 21:7	1	24	ταύτῃ	οὗτος	demonstrative adjective, dative feminine singular	1	this
 JER 21:7	1	25	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JER 21:7	1	26	τοῦ	ὁ	article, genitive singular	1	the
-JER 21:7	1	27	θανάτου	θάνατος	noun genitive masculine singular	1	of death
+JER 21:7	1	27	θανάτου	θάνατος	noun genitive masculine singular	1	death
 JER 21:7	1	28	καὶ	καί	conjunction	1	and
 JER 21:7	1	29	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JER 21:7	1	30	τοῦ	ὁ	article, genitive singular	1	the
@@ -205,7 +205,7 @@ JER 21:7	1	40	Βαβυλῶνος	Βαβυλών	noun, genitive feminine singula
 JER 21:7	1	41	καὶ	καί	conjunction	1	and
 JER 21:7	1	42	ἐν	ἐν	preposition with the dative	1	in
 JER 21:7	1	43	χειρὶ	χείρ	noun, dative feminine singular	1	hand
-JER 21:7	1	44	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	enemies
+JER 21:7	1	44	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	of enemies
 JER 21:7	1	45	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 21:7	1	46	καὶ	καί	conjunction	1	and
 JER 21:7	1	47	ἐν	ἐν	preposition with the dative	1	in
@@ -218,12 +218,12 @@ JER 21:7	1	53	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	thei
 JER 21:7	1	54	καὶ	καί	conjunction	1	and
 JER 21:7	1	55	κατακόψουσιν	κατακόπτω	future active indicative, third plural	1	will cut down
 JER 21:7	1	56	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-JER 21:7	1	57	ἐν	ἐν	preposition with the dative	1	in
+JER 21:7	1	57	ἐν	ἐν	preposition with the dative	1	with
 JER 21:7	1	58	στόματι	στόμα	noun, dative neuter singular	1	edge
 JER 21:7	1	58	στόματι			2	mouth
-JER 21:7	1	59	μαχαίρας	μάχαιρα	noun, genitive feminine singular	1	sword
+JER 21:7	1	59	μαχαίρας	μάχαιρα	noun, genitive feminine singular	1	of the sword
 JER 21:7	1	60	οὐ	οὐ	negative particle	1	not
-JER 21:7	1	61	φείσομαι	φείδομαι	future middle indicative, first singular	1	will I spare
+JER 21:7	1	61	φείσομαι	φείδομαι	future middle indicative, first singular	1	I will spare
 JER 21:7	1	61	φείσομαι			2	shall I have regard
 JER 21:7	1	62	ἐπ᾽	ἐπί	preposition (dative), elided	1	on
 JER 21:7	1	63	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
@@ -256,7 +256,7 @@ JER 21:8	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
 JER 21:8	1	22	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 JER 21:8	1	22	ὁδὸν			2	path
 JER 21:8	1	23	τοῦ	ὁ	article, genitive masculine singular	1	of the
-JER 21:8	1	24	θανάτου	θάνατος	noun genitive masculine singular	1	of death
+JER 21:8	1	24	θανάτου	θάνατος	noun genitive masculine singular	1	death
 JER 21:9	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 JER 21:9	1	2	καθήμενος	κάθημαι	present middle participle, nominative masculine singular	1	sitting
 JER 21:9	1	3	ἐν	ἐν	preposition with the dative	1	in
@@ -264,13 +264,13 @@ JER 21:9	1	4	τῇ	ὁ	article, dative feminine singular	1	the
 JER 21:9	1	5	πόλει	πόλις	noun, dative feminine singular	1	city
 JER 21:9	1	6	ταύτῃ	οὗτος	demonstrative adjective, dative feminine singular	1	this
 JER 21:9	1	7	ἀποθανεῖται	ἀποθνῄσκω	future middle indicative, third singular	1	will die
-JER 21:9	1	8	ἐν	ἐν	preposition with dative	1	in
-JER 21:9	1	9	μαχαίρᾳ	μάχαιρα	noun, dative fem. sg	1	with the sword
+JER 21:9	1	8	ἐν	ἐν	preposition with dative	1	by
+JER 21:9	1	9	μαχαίρᾳ	μάχαιρα	noun, dative fem. sg	1	the sword
 JER 21:9	1	10	καὶ	καί	conjunction	1	and
-JER 21:9	1	11	ἐν	ἐν	preposition with the dative	1	in
-JER 21:9	1	12	λιμῷ	λιμός	noun, dative masc. sg	1	by famine
+JER 21:9	1	11	ἐν	ἐν	preposition with the dative	1	by
+JER 21:9	1	12	λιμῷ	λιμός	noun, dative masc. sg	1	famine
 JER 21:9	1	13	καὶ	καί	conjunction	1	and
-JER 21:9	1	14	ἐν	ἐν	preposition with the dative	1	in
+JER 21:9	1	14	ἐν	ἐν	preposition with the dative	1	by
 JER 21:9	1	15	θανάτῳ	θάνατος	noun, dative masculine singular	1	death
 JER 21:9	1	15	θανάτῳ			2	pestilence
 JER 21:9	1	16	καὶ	καί	conjunction	1	and
@@ -278,7 +278,7 @@ JER 21:9	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
 JER 21:9	1	18	ἐκπορευόμενος	ἐκπορεύομαι	present middle participle, nominative masculine singular	1	who goes out
 JER 21:9	1	19	προσχωρῆσαι	προσχωρέω	aorist active infinitive	1	to join
 JER 21:9	1	19	προσχωρῆσαι			2	to go over
-JER 21:9	1	20	πρὸς	πρός	preposition with the accusative	1	to
+JER 21:9	1	20	πρὸς	πρός	preposition with the accusative	1	with
 JER 21:9	1	21	τοὺς	ὁ	article, accusative masculine plural	1	the
 JER 21:9	1	22	Χαλδαίους	Χαλδαῖος	noun, accusative masculine plural; gentilic noun	1	Chaldeans
 JER 21:9	1	23	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -291,7 +291,7 @@ JER 21:9	1	28	ἔσται	εἰμί	future indicative, third singular	1	will be
 JER 21:9	1	29	ἡ	ὁ	article, nominative feminine singular	1	the
 JER 21:9	1	30	ψυχὴ	ψυχή	noun, nominative feminine singular	1	soul
 JER 21:9	1	31	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-JER 21:9	1	32	εἰς	εἰς	preposition with the accusative	1	into
+JER 21:9	1	32	εἰς	εἰς	preposition with the accusative	1	for
 JER 21:9	1	33	σκῦλα	σκῦλον	noun, accusative neuter plural	1	spoil
 JER 21:9	1	34	καὶ	καί	conjunction	1	and
 JER 21:9	1	35	ζήσεται	ζάω	future middle indicative, third singular	1	will live
@@ -318,7 +318,7 @@ JER 21:10	1	16	φησὶ	φημί	present active indicative, third singular	1	sa
 JER 21:10	1	17	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JER 21:10	1	18	εἰς	εἰς	preposition with the accusative	1	into
 JER 21:10	1	19	χεῖρας	χείρ	noun, accusative feminine plural	1	hands
-JER 21:10	1	20	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
+JER 21:10	1	20	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of the king
 JER 21:10	1	21	Βαβυλῶνος	Βαβυλών	noun, genitive feminine singular; place name	1	of Babylon
 JER 21:10	1	22	παραδοθήσεται	παραδίδωμι	future passive indicative, third singular	1	will be handed over
 JER 21:10	1	23	καὶ	καί	conjunction	1	and
@@ -328,7 +328,7 @@ JER 21:10	1	26	ἐν	ἐν	preposition with the dative	1	in
 JER 21:10	1	27	πυρί	πῦρ	noun, dative neuter singular	1	fire
 JER 21:11	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 JER 21:11	1	2	οἶκος	οἶκος	noun, nominative masculine singular	1	house
-JER 21:11	1	3	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
+JER 21:11	1	3	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of the king
 JER 21:11	1	4	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 JER 21:11	1	5	ἀκούσατε	ἀκούω	aorist active imperative, second plural	1	hear
 JER 21:11	1	6	λόγον	λόγος	noun, accusative masculine singular	1	word
@@ -350,7 +350,7 @@ JER 21:12	1	12	ἐξέλεσθε	ἐξαιρέω	aorist middle imperative, secon
 JER 21:12	1	13	διηρπασμένον	διαρπάζω	perfect passive participle, accusative masculine singular; substantival	1	one who has been plundered
 JER 21:12	1	14	ἐκ	ἐκ	preposition with the genitive	1	from
 JER 21:12	1	15	χειρὸς	χείρ	noun, genitive feminine singular	1	hand
-JER 21:12	1	16	ἀδικοῦντος	ἀδικέω	present active participle, genitive masculine singular; substantival	1	one who wrongs
+JER 21:12	1	16	ἀδικοῦντος	ἀδικέω	present active participle, genitive masculine singular; substantival	1	of one who wrongs
 JER 21:12	1	17	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 JER 21:12	1	18	ὅπως	ὅπως	conjunction of purpose with the subjunctive	1	so that
 JER 21:12	1	18	ὅπως			2	in order that
@@ -372,9 +372,9 @@ JER 21:12	1	32	σβέσων	σβέννυμι	future active participle, nominativ
 JER 21:12	1	32	σβέσων			2	who will quench
 JER 21:12	1	33	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JER 21:12	1	34	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the face
-JER 21:12	1	35	ἀδικίας	ἀδικία	noun, genitive feminine singular	1	wrongdoing
+JER 21:12	1	35	ἀδικίας	ἀδικία	noun, genitive feminine singular	1	of wrongdoing
 JER 21:12	1	35	ἀδικίας			2	injustice
-JER 21:12	1	36	τῶν	ὁ	article, genitive neuter plural	1	the
+JER 21:12	1	36	τῶν	ὁ	article, genitive neuter plural	1	of the
 JER 21:12	1	37	ἐπιτηδευμάτων	ἐπιτήδευμα	noun, genitive neuter plural	1	practices
 JER 21:12	1	37	ἐπιτηδευμάτων			2	deeds
 JER 21:12	1	38	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
@@ -388,7 +388,7 @@ JER 21:13	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 JER 21:13	1	8	κοιλάδα	κοιλάς	noun, accusative feminine singular	1	valley
 JER 21:13	1	9	Σὸρ	Σόρ	indeclinable place name	1	Sor
 JER 21:13	1	10	τὴν	ὁ	article, accusative fem. sg	1	the
-JER 21:13	1	11	πεδινὴν	πεδινός	adjective, accusative feminine singular	1	in the plain
+JER 21:13	1	11	πεδινὴν	πεδινός	adjective, accusative feminine singular	1	flat
 JER 21:13	1	11	πεδινὴν			2	lowland
 JER 21:13	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
 JER 21:13	1	13	λέγοντας	λέγω	present active participle, accusative masculine plural	1	saying

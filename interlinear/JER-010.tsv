@@ -8,11 +8,11 @@ JER 10:1	1	4	Κυρίου	κύριος	noun, genitive masculine singular	1	of th
 JER 10:1	1	5	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
 JER 10:1	1	6	ἐλάλησε	λαλέω	aorist active indicative, third singular	1	spoke
 JER 10:1	1	7	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-JER 10:1	1	8	ἐφ᾽	ἐπί	elided preposition with accusative	1	against
+JER 10:1	1	8	ἐφ᾽	ἐπί	elided preposition with accusative	1	to
 JER 10:1	1	8	ἐφ᾽			2	concerning
 JER 10:1	1	9	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 JER 10:1	1	10	οἶκος	οἶκος	noun, nominative masculine singular; direct address	1	house
-JER 10:1	1	11	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	Israel
+JER 10:1	1	11	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
 JER 10:2	1	1	Τάδε	ὅδε	demonstrative pronoun, accusative neuter plural, introducing the message 'these things'	1	these things
 JER 10:2	1	2	λέγει	λέγω	present active indicative, third singular	1	says
 JER 10:2	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -33,14 +33,14 @@ JER 10:2	1	17	φοβεῖσθε	φοβέω	present middle imperative, second plu
 JER 10:2	1	18	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 JER 10:2	1	19	φοβοῦνται	φοβέομαι	present middle indicative, third plural	1	they fear
 JER 10:2	1	20	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
-JER 10:2	1	21	τοῖς	ὁ	article, dative neuter plural	1	the
-JER 10:2	1	22	προσώποις	πρόσωπον	noun, dative neuter plural	1	in their faces
+JER 10:2	1	21	τοῖς	ὁ	article, dative neuter plural	1	in the
+JER 10:2	1	22	προσώποις	πρόσωπον	noun, dative neuter plural	1	faces
 JER 10:2	1	23	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 10:3	1	1	Ὅτι	ὅτι	causal conjunction	1	because
 JER 10:3	1	2	τὰ	ὁ	article, nominative neuter plural	1	the
 JER 10:3	1	3	νόμιμα	νόμιμος	adjective, nominative neuter plural; substantival	1	customs
 JER 10:3	1	3	νόμιμα			2	ordinances
-JER 10:3	1	4	τῶν	ὁ	definite article, genitive plural	1	the
+JER 10:3	1	4	τῶν	ὁ	definite article, genitive plural	1	of the
 JER 10:3	1	5	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 JER 10:3	1	6	μάταια	μάταιος	adjective, nominative neuter plural	1	worthless
 JER 10:3	1	6	μάταια			2	vain
@@ -52,7 +52,7 @@ JER 10:3	1	11	δρυμοῦ	δρυμός	noun, genitive masculine singular	1	woo
 JER 10:3	1	11	δρυμοῦ			2	thicket
 JER 10:3	1	12	ἐκκεκομμένον	ἐκκόπτω	perfect passive participle, nominative neuter singular	1	cut down
 JER 10:3	1	13	ἔργον	ἔργον	noun, nominative neuter singular	1	work
-JER 10:3	1	14	τέκτονος	τέκτων	noun, genitive masculine singular	1	craftsman
+JER 10:3	1	14	τέκτονος	τέκτων	noun, genitive masculine singular	1	of a craftsman
 JER 10:3	1	15	καὶ	καί	conjunction	1	and
 JER 10:3	1	16	χώνευμα	χώνευμα	noun, nominative neuter singular	1	cast image
 JER 10:4	1	1	ἀργυρίῳ	ἀργύριον	noun, dative neuter singular	1	with silver
@@ -74,7 +74,7 @@ JER 10:5	1	3	κινηθήσονται	κινέω	future passive indicative, thir
 JER 10:5	1	3	κινηθήσονται			2	will be shaken
 JER 10:5	1	4	αἰρόμενα	αἴρω	present passive participle, nominative neuter plural; cognate with following verb	1	being carried
 JER 10:5	1	5	ἀρθήσονται	αἴρω	future passive indicative, third plural	1	will be carried
-JER 10:5	1	6	ὅτι	ὅτι	conjunction giving the substance of the complaint	1	that
+JER 10:5	1	6	ὅτι	ὅτι	conjunction giving the substance of the complaint	1	for
 JER 10:5	1	7	οὐκ	οὐ	negative particle	1	not
 JER 10:5	1	8	ἐπιβήσονται	ἐπιβαίνω	future middle indicative, third plural	1	will step
 JER 10:5	1	8	ἐπιβήσονται			2	will walk
@@ -208,7 +208,7 @@ JER 10:10	1	23	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	
 JER 10:11	1	1	Οὕτως	οὕτως	adverb of manner	1	so
 JER 10:11	1	1	Οὕτως			2	thus
 JER 10:11	1	2	ἐρεῖτε	λέγω	future active indicative, second plural	1	you will say
-JER 10:11	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
+JER 10:11	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 JER 10:11	1	4	θεοὶ	θεός	noun, nominative masculine plural	1	gods
 JER 10:11	1	5	οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
 JER 10:11	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -247,21 +247,21 @@ JER 10:12	1	15	τῇ	ὁ	article, dative feminine singular	1	the
 JER 10:12	1	16	σοφίᾳ	σοφία	noun, dative feminine singular	1	wisdom
 JER 10:12	1	17	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 JER 10:12	1	18	καὶ	καί	conjunction	1	and
-JER 10:12	1	19	τῇ	ὁ	article, dative feminine singular	1	to the
+JER 10:12	1	19	τῇ	ὁ	article, dative feminine singular	1	by the
 JER 10:12	1	20	φρονήσει	φρόνησις	noun, dative feminine singular	1	understanding
 JER 10:12	1	21	αὐτοῦ	αὐτός	possessive pronoun, genitive masculine singular	1	his
 JER 10:12	1	22	ἐξέτεινε	ἐκτείνω	aorist active indicative, third singular	1	stretched out
 JER 10:12	1	23	τὸν	ὁ	article, accusative masculine singular	1	the
 JER 10:12	1	24	οὐρανὸν	οὐρανός	noun, accusative masculine singular	1	sky
 JER 10:13	1	1	καὶ	καί	conjunction	1	and
-JER 10:13	1	2	εἰς	εἰς	preposition with the accusative	1	into
+JER 10:13	1	2	εἰς	εἰς	preposition with the accusative	1	at
 JER 10:13	1	3	φωνὴν	φωνή	noun, accusative feminine singular	1	voice
 JER 10:13	1	3	φωνὴν			2	sound
 JER 10:13	1	4	διδόντος	δίδωμι	present active participle, genitive masculine singular; genitive absolute	1	giving
 JER 10:13	1	5	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; subject of genitive absolute	1	he
 JER 10:13	1	6	πλῆθος	πλῆθος	noun, accusative neuter singular	1	abundance
 JER 10:13	1	6	πλῆθος			2	mass
-JER 10:13	1	7	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
+JER 10:13	1	7	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	of water
 JER 10:13	1	8	ἐν	ἐν	preposition with the dative	1	in
 JER 10:13	1	9	οὐρανῷ	οὐρανός	noun, dative masculine singular	1	heaven
 JER 10:13	1	10	καὶ	καί	conjunction	1	and
@@ -270,10 +270,10 @@ JER 10:13	1	12	νεφέλας	νεφέλη	noun, accusative feminine plural	1	cl
 JER 10:13	1	13	ἐξ	ἐκ	preposition with the genitive	1	from
 JER 10:13	1	14	ἐσχάτου	ἔσχατος	adjective, genitive neuter singular; substantival	1	end
 JER 10:13	1	14	ἐσχάτου			2	farthest point
-JER 10:13	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
-JER 10:13	1	16	γῆς	γῆ	noun, genitive feminine singular	1	land
+JER 10:13	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
+JER 10:13	1	16	γῆς	γῆ	noun, genitive feminine singular	1	earth
 JER 10:13	1	17	ἀστραπὰς	ἀστραπή	noun, accusative feminine plural	1	flashes of lightning
-JER 10:13	1	18	εἰς	εἰς	preposition with the accusative	1	into
+JER 10:13	1	18	εἰς	εἰς	preposition with the accusative	1	for
 JER 10:13	1	19	ὑετὸν	ὑετός	noun, accusative masculine singular	1	rain
 JER 10:13	1	20	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
 JER 10:13	1	21	καὶ	καί	conjunction	1	and
@@ -304,7 +304,7 @@ JER 10:14	1	16	οὐκ	οὐ	negative particle	1	not
 JER 10:14	1	17	ἔστι	εἰμί	present active indicative, third singular	1	there is
 JER 10:14	1	18	πνεῦμα	πνεῦμα	noun, nominative neuter singular	1	breath
 JER 10:14	1	19	ἐν	ἐν	preposition with the dative	1	in
-JER 10:14	1	20	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
+JER 10:14	1	20	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 JER 10:15	1	1	Μάταια	μάταιος	adjective, accusative neuter plural; substantival	1	worthless things
 JER 10:15	1	1	Μάταια			2	empty things
 JER 10:15	1	2	ἐστιν	εἰμί	present indicative, third singular	1	is
@@ -314,7 +314,7 @@ JER 10:15	1	4	ἐμπεπαιγμένα			2	made to be ridiculed
 JER 10:15	1	5	ἐν	ἐν	preposition with the dative	1	in
 JER 10:15	1	6	καιρῷ	καιρός	noun, dative masculine singular	1	time
 JER 10:15	1	6	καιρῷ			2	season
-JER 10:15	1	7	ἐπισκοπῆς	ἐπισκοπή	noun, genitive feminine singular	1	visitation
+JER 10:15	1	7	ἐπισκοπῆς	ἐπισκοπή	noun, genitive feminine singular	1	of visitation
 JER 10:15	1	7	ἐπισκοπῆς			2	reckoning
 JER 10:15	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 10:15	1	9	ἀπολοῦνται	ἀπόλλυμι	future middle indicative, third plural	1	will perish
@@ -326,7 +326,7 @@ JER 10:16	1	5	τῷ	ὁ	article, dative masculine singular; accompanies a person
 JER 10:16	1	6	Ἰακὼβ	Ἰακώβ	indeclinable personal name	1	Jacob
 JER 10:16	1	7	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 JER 10:16	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
-JER 10:16	1	9	πλάσας	πλάσσω	aorist active participle, nominative masculine singular	1	who formed
+JER 10:16	1	9	πλάσας	πλάσσω	aorist active participle, nominative masculine singular	1	one who formed
 JER 10:16	1	10	τὰ	ὁ	article, accusative neuter plural	1	the
 JER 10:16	1	11	πάντα	πᾶς	adjective, accusative neuter plural; substantival	1	all things
 JER 10:16	1	12	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
@@ -335,12 +335,12 @@ JER 10:16	1	14	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine s
 JER 10:16	1	15	καὶ	καί	conjunction	1	and
 JER 10:16	1	16	Ἰσραὴλ	Ἰσραήλ	indeclinable proper name, nominative in context	1	Israel
 JER 10:16	1	17	ῥάβδος	ῥάβδος	noun, nominative feminine singular	1	staff
-JER 10:16	1	18	κληρονομίας	κληρονομία	noun, genitive feminine singular	1	inheritance
+JER 10:16	1	18	κληρονομίας	κληρονομία	noun, genitive feminine singular	1	of inheritance
 JER 10:16	1	18	κληρονομίας			2	estate
 JER 10:16	1	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 JER 10:16	1	20	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JER 10:16	1	21	τῶν	ὁ	article, genitive plural	1	the
-JER 10:16	1	22	δυνάμεων	δύναμις	noun, genitive feminine plural	1	hosts
+JER 10:16	1	22	δυνάμεων	δύναμις	noun, genitive feminine plural	1	of hosts
 JER 10:16	1	22	δυνάμεων			2	powers
 JER 10:16	1	23	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 JER 10:16	1	24	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -361,10 +361,10 @@ JER 10:18	1	3	λέγει	λέγω	present active indicative, third singular	1	sa
 JER 10:18	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JER 10:18	1	5	ἰδοὺ	ἰδού	interjection	1	look
 JER 10:18	1	6	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-JER 10:18	1	7	σκελίζω	σκελίζω	present active indicative, first singular	1	I trip up
+JER 10:18	1	7	σκελίζω	σκελίζω	present active indicative, first singular	1	trip up
 JER 10:18	1	7	σκελίζω			2	I bring down
 JER 10:18	1	8	τοὺς	ὁ	article, accusative masculine plural	1	the
-JER 10:18	1	9	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	inhabitants
+JER 10:18	1	9	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	inhabiting
 JER 10:18	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 JER 10:18	1	11	γῆν	γῆ	noun, accusative feminine singular	1	land
 JER 10:18	1	12	ταύτην	οὗτος	demonstrative pronoun, accusative feminine singular	1	this
@@ -391,7 +391,7 @@ JER 10:19	1	7	πληγή			2	blow
 JER 10:19	1	8	σου	σύ	pronoun, possessive genitive second singular	1	your
 JER 10:19	1	9	καὶ	καί	conjunction	1	and
 JER 10:19	1	10	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-JER 10:19	1	11	εἶπα	λέγω	aorist active indicative, first singular	1	I said
+JER 10:19	1	11	εἶπα	λέγω	aorist active indicative, first singular	1	said
 JER 10:19	1	12	ὄντως	ὄντως	adverb	1	truly
 JER 10:19	1	12	ὄντως			2	indeed
 JER 10:19	1	13	τοῦτο	οὗτος	demonstrative pronoun, nominative neuter singular	1	this
@@ -430,15 +430,15 @@ JER 10:20	1	22	ἔστιν	εἰμί	present indicative, third singular	1	there 
 JER 10:20	1	23	ἔτι	ἔτι	adverb of time	1	again
 JER 10:20	1	23	ἔτι			2	any more
 JER 10:20	1	24	τόπος	τόπος	noun, nominative masculine singular	1	place
-JER 10:20	1	25	τῆς	ὁ	article, genitive feminine singular	1	the
+JER 10:20	1	25	τῆς	ὁ	article, genitive feminine singular	1	of the
 JER 10:20	1	26	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
 JER 10:20	1	27	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JER 10:20	1	28	τόπος	τόπος	noun, nominative masculine singular	1	place
-JER 10:20	1	29	τῶν	ὁ	article, genitive feminine plural	1	the
+JER 10:20	1	29	τῶν	ὁ	article, genitive feminine plural	1	of the
 JER 10:20	1	30	δέῤῥεών	δέρρις	noun, genitive feminine plural	1	hide coverings
 JER 10:20	1	30	δέῤῥεών			2	skins
 JER 10:20	1	31	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-JER 10:21	1	1	Ὅτι	ὅτι	conjunction	1	that
+JER 10:21	1	1	Ὅτι	ὅτι	conjunction	1	for
 JER 10:21	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
 JER 10:21	1	3	ποιμένες	ποιμήν	noun, nominative masculine plural	1	shepherds
 JER 10:21	1	4	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
@@ -461,7 +461,7 @@ JER 10:21	1	17	νομὴ	νομή	noun, nominative feminine singular, pasturage	
 JER 10:21	1	18	καὶ	καί	conjunction	1	and
 JER 10:21	1	19	διεσκορπίσθησαν	διασκορπίζω	aorist passive indicative, third plural	1	were scattered
 JER 10:22	1	1	Φωνὴ	φωνή	noun, nominative feminine singular	1	voice
-JER 10:22	1	2	ἀκοῆς	ἀκοή	noun, genitive feminine singular	1	a report
+JER 10:22	1	2	ἀκοῆς	ἀκοή	noun, genitive feminine singular	1	of a report
 JER 10:22	1	2	ἀκοῆς			2	news
 JER 10:22	1	3	ἰδοὺ	ἰδού	presentative particle	1	behold
 JER 10:22	1	4	ἔρχεται	ἔρχομαι	present middle indicative, third singular	1	is coming
@@ -472,7 +472,7 @@ JER 10:22	1	7	μέγας	μέγας	adjective, nominative masculine singular	1	g
 JER 10:22	1	7	μέγας			2	loud
 JER 10:22	1	8	ἐκ	ἐκ	preposition with the genitive	1	from
 JER 10:22	1	9	γῆς	γῆ	noun, genitive feminine singular	1	land
-JER 10:22	1	10	βορρᾶ	βορρᾶς	noun, genitive masculine singular	1	north
+JER 10:22	1	10	βορρᾶ	βορρᾶς	noun, genitive masculine singular	1	of the north
 JER 10:22	1	11	τοῦ	ὁ	article, genitive singular	1	the
 JER 10:22	1	12	τάξαι	τάσσω	aorist active infinitive	1	to make
 JER 10:22	1	12	τάξαι			2	to set
@@ -484,17 +484,17 @@ JER 10:22	1	17	ἀφανισμόν	ἀφανισμός	noun, accusative masculin
 JER 10:22	1	17	ἀφανισμόν			2	obliteration
 JER 10:22	1	18	καὶ	καί	conjunction	1	and
 JER 10:22	1	19	κοίτην	κοίτη	noun, accusative feminine singular	1	bed
-JER 10:22	1	20	στρουθῶν	στρουθός	noun, genitive masculine plural	1	birds
+JER 10:22	1	20	στρουθῶν	στρουθός	noun, genitive masculine plural	1	of birds
 JER 10:22	1	20	στρουθῶν			2	sparrows
 JER 10:23	1	1	Οἶδα	οἶδα	perfect active indicative, first singular	1	I know
 JER 10:23	1	2	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 JER 10:23	1	3	ὅτι	ὅτι	conjunction	1	that
 JER 10:23	1	4	οὐχὶ	οὐχί	negative adverb	1	not
-JER 10:23	1	5	τοῦ	ὁ	article, genitive singular	1	the
+JER 10:23	1	5	τοῦ	ὁ	article, genitive singular	1	—
 JER 10:23	1	6	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a person
 JER 10:23	1	7	ἡ	ὁ	article, nominative feminine singular	1	the
 JER 10:23	1	8	ὁδὸς	ὁδός	noun nominative feminine singular	1	way
-JER 10:23	1	9	αὐτοῦ	αὐτός	pronoun	1	it
+JER 10:23	1	9	αὐτοῦ	αὐτός	pronoun	1	his
 JER 10:23	1	10	οὐδὲ	οὐδέ	negative conjunction	1	nor
 JER 10:23	1	11	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	a man
 JER 10:23	1	12	πορεύσεται	πορεύομαι	future middle indicative, third singular	1	will go
@@ -540,7 +540,7 @@ JER 10:25	1	16	ὄνομά	ὄνομα	noun, accusative neuter singular	1	name
 JER 10:25	1	17	σου	σύ	personal pronoun, possessive genitive singular	1	your
 JER 10:25	1	17	σου			2	of you
 JER 10:25	1	18	οὐκ	οὐ	negative adverb	1	not
-JER 10:25	1	19	ἐπεκαλέσαντο	ἐπικαλέομαι	aorist middle indicative, third plural	1	they called for
+JER 10:25	1	19	ἐπεκαλέσαντο	ἐπικαλέομαι	aorist middle indicative, third plural	1	they called on
 JER 10:25	1	19	ἐπεκαλέσαντο			2	they invoked
 JER 10:25	1	20	ὅτι	ὅτι	conjunction	1	for
 JER 10:25	1	21	κατέφαγον	κατεσθίω	aorist active indicative, third plural	1	they devoured

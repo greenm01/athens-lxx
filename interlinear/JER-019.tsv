@@ -6,7 +6,7 @@ JER 19:1	1	4	πρὸ	πρός	preposition (accusative); indexed as πρό, const
 JER 19:1	1	5	μέ	ἐγώ	pronoun, accusative 1st singular	1	me
 JER 19:1	1	6	βάδισον	βαδίζω	aorist active imperative, 2nd singular	1	go
 JER 19:1	1	7	καὶ	καί	conjunction	1	and
-JER 19:1	1	8	κτῆσαι	κτάομαι	aorist middle imperative, second singular	1	acquire/buy
+JER 19:1	1	8	κτῆσαι	κτάομαι	aorist middle imperative, second singular	1	buy
 JER 19:1	1	9	βικὸν	βῖκος	noun, accusative masculine singular	1	jar
 JER 19:1	1	9	βικὸν			2	jug
 JER 19:1	1	10	πεπλασμένον	πλάσσω	perfect passive participle, accusative masculine singular	1	formed
@@ -24,7 +24,7 @@ JER 19:1	1	20	καὶ	καί	conjunction	1	and
 JER 19:1	1	21	ἀπὸ	ἀπό	preposition with genitive, from/at	1	from
 JER 19:1	1	22	τῶν	ὁ	article, genitive neuter plural	1	the
 JER 19:1	1	23	πρεσβυτέρων	πρεσβύτης	noun, genitive masc. pl	1	elders
-JER 19:1	1	24	τῶν	ὁ	article, genitive plural	1	the
+JER 19:1	1	24	τῶν	ὁ	article, genitive plural	1	of the
 JER 19:1	1	25	ἱερέων	ἱερεύς	noun, genitive masculine plural	1	priests
 JER 19:2	1	1	καὶ	καί	conjunction	1	and
 JER 19:2	1	2	ἐξελεύσῃ	ἐξέρχομαι	future middle indicative, second singular	1	you will go out
@@ -32,8 +32,8 @@ JER 19:2	1	3	εἰς	εἰς	preposition with the accusative	1	into
 JER 19:2	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
 JER 19:2	1	5	πολυάνδριον	πολυάνδριον	noun, accusative neuter singular	1	burial ground
 JER 19:2	1	5	πολυάνδριον			2	common grave
-JER 19:2	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-JER 19:2	1	7	τῶν	ὁ	article, genitive neuter plural	1	the
+JER 19:2	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	of sons
+JER 19:2	1	7	τῶν	ὁ	article, genitive neuter plural	1	of the
 JER 19:2	1	8	τέκνων	τέκνον	noun, genitive neuter plural	1	children
 JER 19:2	1	9	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 JER 19:2	1	10	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
@@ -42,7 +42,7 @@ JER 19:2	1	12	ἐπὶ	ἐπί	preposition (genitive)	1	at
 JER 19:2	1	13	τῶν	ὁ	article, genitive neuter plural	1	the
 JER 19:2	1	14	προθύρων	πρόθυρον	noun, genitive neuter plural	1	entrances
 JER 19:2	1	14	προθύρων			2	vestibules
-JER 19:2	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
+JER 19:2	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
 JER 19:2	1	16	πύλης	πύλη	noun, genitive feminine singular	1	gate
 JER 19:2	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
 JER 19:2	1	18	Χαρσείθ	Χαρσείθ	indeclinable gate name, genitive in context	1	Harsith
@@ -54,8 +54,8 @@ JER 19:2	1	22	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 JER 19:2	1	23	τοὺς	ὁ	article, accusative masculine plural	1	the
 JER 19:2	1	24	λόγους	λόγος	noun, accusative masc. pl	1	words
 JER 19:2	1	25	οὓς	ὅς	relative pronoun, accusative masculine plural	1	which
-JER 19:2	1	26	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
-JER 19:2	1	27	λαλήσω	λαλέω	future active indicative, 1st singular	1	shall speak
+JER 19:2	1	26	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	ever
+JER 19:2	1	27	λαλήσω	λαλέω	future active indicative, 1st singular	1	I shall speak
 JER 19:2	1	28	πρὸς	πρός	preposition with the accusative	1	to
 JER 19:2	1	29	σὲ	σύ	pronoun, accusative 2nd singular	1	you
 JER 19:3	1	1	καὶ	καί	conjunction	1	and
@@ -68,12 +68,12 @@ JER 19:3	1	6	Κυρίου	κύριος	noun, genitive masculine singular	1	of th
 JER 19:3	1	7	βασιλεῖς	βασιλεύς	noun, nominative masculine plural	1	kings
 JER 19:3	1	8	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 JER 19:3	1	9	καὶ	καί	conjunction	1	and
-JER 19:3	1	10	οἱ	ὁ	article, nominative masculine plural	1	the
+JER 19:3	1	10	οἱ	ὁ	article, nominative masculine plural	1	—
 JER 19:3	1	11	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	those living
 JER 19:3	1	11	κατοικοῦντες			2	those dwelling
 JER 19:3	1	12	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 JER 19:3	1	13	καὶ	καί	conjunction	1	and
-JER 19:3	1	14	οἱ	ὁ	article, nominative masculine plural	1	the
+JER 19:3	1	14	οἱ	ὁ	article, nominative masculine plural	1	those
 JER 19:3	1	15	εἰσπορευόμενοι	εἰσπορεύομαι	present middle participle, nominative masculine plural	1	who enter
 JER 19:3	1	16	ἐν	ἐν	preposition with the dative	1	in
 JER 19:3	1	17	ταῖς	ὁ	article, dative feminine plural	1	the
@@ -87,7 +87,7 @@ JER 19:3	1	24	Θεὸς	θεός	noun, nominative masculine singular	1	God
 JER 19:3	1	25	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JER 19:3	1	26	ἰδοὺ	ἰδού	interjection	1	look
 JER 19:3	1	27	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
-JER 19:3	1	28	ἐπάγω	ἐπάγω	present active indicative, first singular	1	I am bringing
+JER 19:3	1	28	ἐπάγω	ἐπάγω	present active indicative, first singular	1	am bringing
 JER 19:3	1	29	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 JER 19:3	1	30	τὸν	ὁ	article, accusative masculine singular	1	the
 JER 19:3	1	31	τόπον	τόπος	noun, accusative masculine singular	1	place
@@ -116,13 +116,13 @@ JER 19:4	1	9	τοῦτον	οὗτος	demonstrative pronoun, accusative masculi
 JER 19:4	1	10	καὶ	καί	conjunction	1	and
 JER 19:4	1	11	ἐθυμίασαν	θυμιάω	aorist active indicative, third plural	1	burned incense
 JER 19:4	1	12	ἐν	ἐν	preposition with the dative	1	in
-JER 19:4	1	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+JER 19:4	1	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
 JER 19:4	1	14	θεοῖς	θεός	noun, dative masculine plural	1	gods
 JER 19:4	1	15	ἀλλοτρίοις	ἀλλότριος	adjective, dative masculine plural	1	foreign
 JER 19:4	1	15	ἀλλοτρίοις			2	other
 JER 19:4	1	16	οἷς	ὅς	relative pronoun, dative masculine plural; attracted into case of antecedent	1	whom
 JER 19:4	1	17	οὐκ	οὐ	negative adverb	1	not
-JER 19:4	1	18	ᾔδεισαν	οἶδα	pluperfect active indicative, third plural	1	they knew
+JER 19:4	1	18	ᾔδεισαν	οἶδα	pluperfect active indicative, third plural	1	knew
 JER 19:4	1	19	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
 JER 19:4	1	20	καὶ	καί	conjunction	1	and
 JER 19:4	1	21	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -136,14 +136,14 @@ JER 19:4	1	28	ἔπλησαν	πίμπλημι	aorist active indicative, third p
 JER 19:4	1	29	τὸν	ὁ	article, accusative masculine singular	1	the
 JER 19:4	1	30	τόπον	τόπος	noun, accusative masculine singular	1	place
 JER 19:4	1	31	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	1	this
-JER 19:4	1	32	αἱμάτων	αἷμα	noun, genitive neuter plural	1	blood
+JER 19:4	1	32	αἱμάτων	αἷμα	noun, genitive neuter plural	1	with blood
 JER 19:4	1	33	ἀθῴων	ἀθῷος	adjective, genitive neuter plural	1	innocent
 JER 19:5	1	1	καὶ	καί	conjunction	1	and
 JER 19:5	1	2	ᾠκοδόμησαν	οἰκοδομέω	aorist active indicative, third plural	1	they built
 JER 19:5	1	2	ᾠκοδόμησαν			2	they had built
 JER 19:5	1	3	ὑψηλὰ	ὑψηλός	adjective, accusative neuter plural; substantival	1	high places
-JER 19:5	1	4	τῇ	ὁ	article, dative feminine singular	1	the
-JER 19:5	1	5	Βάαλ	Βάαλ	indeclinable divine name, feminine dative article in context	1	Baal
+JER 19:5	1	4	τῇ	ὁ	article, dative feminine singular	1	—
+JER 19:5	1	5	Βάαλ	Βάαλ	indeclinable divine name, feminine dative article in context	1	to Baal
 JER 19:5	1	6	τοῦ	ὁ	article, genitive singular, introduces infinitive	1	—
 JER 19:5	1	7	κατακαίειν	κατακαίω	present active infinitive	1	to burn up
 JER 19:5	1	8	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -153,8 +153,8 @@ JER 19:5	1	10	αὐτῶν			2	of them
 JER 19:5	1	11	ἐν	ἐν	preposition with the dative	1	in
 JER 19:5	1	12	πυρὶ	πῦρ	noun, dative neuter singular	1	fire
 JER 19:5	1	13	ὁλοκαυτώματα	ὁλοκαύτωμα	noun, accusative neut. pl	1	burnt offerings
-JER 19:5	1	14	τῷ	ὁ	article, dative masculine singular	1	the
-JER 19:5	1	15	Βάαλ	Βάαλ	indeclinable divine name, feminine dative article in context	1	Baal
+JER 19:5	1	14	τῷ	ὁ	article, dative masculine singular	1	—
+JER 19:5	1	15	Βάαλ	Βάαλ	indeclinable divine name, feminine dative article in context	1	to Baal
 JER 19:5	1	16	ἃ	ὅς	relative pronoun, accusative neuter plural	1	which
 JER 19:5	1	17	οὐκ	οὐ	negative particle	1	not
 JER 19:5	1	18	ἐνετειλάμην	ἐντέλλομαι	aorist middle indicative, first singular	1	I commanded
@@ -186,13 +186,13 @@ JER 19:6	1	15	διάπτωσις			2	Falling
 JER 19:6	1	16	καὶ	καί	conjunction	1	and
 JER 19:6	1	17	πολυάνδριον	πολυάνδριον	noun, nominative neuter singular	1	burial ground
 JER 19:6	1	17	πολυάνδριον			2	common grave
-JER 19:6	1	18	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
+JER 19:6	1	18	υἱοῦ	υἱός	noun, genitive masculine singular	1	of son
 JER 19:6	1	19	Ἐννὼμ	Ἐννώμ	indeclinable proper name, genitive in context	1	of Hinnom
 JER 19:6	1	20	ἀλλ’	ἀλλά	adversative conjunction	1	but
 JER 19:6	1	21	ἢ	ἤ	particle; completes preceding adversative phrase	1	rather
 JER 19:6	1	22	πολυάνδριον	πολυάνδριον	noun, nominative neuter singular	1	burial ground
 JER 19:6	1	22	πολυάνδριον			2	common grave
-JER 19:6	1	23	τῆς	ὁ	article, genitive feminine singular	1	the
+JER 19:6	1	23	τῆς	ὁ	article, genitive feminine singular	1	of the
 JER 19:6	1	24	σφαγῆς	σφαγή	noun, genitive feminine singular	1	slaughter
 JER 19:7	1	1	Καὶ	καί	conjunction	1	and
 JER 19:7	1	2	σφάξω	σφάζω	future active indicative, first singular	1	I will slaughter
@@ -204,7 +204,7 @@ JER 19:7	1	6	καὶ	καί	conjunction	1	and
 JER 19:7	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 JER 19:7	1	8	βουλὴν	βουλή	noun, accusative feminine singular	1	counsel
 JER 19:7	1	8	βουλὴν			2	plan
-JER 19:7	1	9	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
+JER 19:7	1	9	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	of Jerusalem
 JER 19:7	1	10	ἐν	ἐν	preposition with the dative	1	in
 JER 19:7	1	11	τῷ	ὁ	article, dative masculine singular	1	the
 JER 19:7	1	12	τόπῳ	τόπος	noun, dative masculine singular	1	place
@@ -213,8 +213,8 @@ JER 19:7	1	14	καὶ	καί	conjunction	1	and
 JER 19:7	1	15	καταβαλῶ	καταβάλλω	future active indicative, first singular	1	I will throw down
 JER 19:7	1	15	καταβαλῶ			2	I will bring down
 JER 19:7	1	16	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-JER 19:7	1	17	ἐν	ἐν	preposition with the dative	1	in
-JER 19:7	1	18	μαχαίρᾳ	μάχαιρα	noun, dative feminine singular	1	with a sword
+JER 19:7	1	17	ἐν	ἐν	preposition with the dative	1	by
+JER 19:7	1	18	μαχαίρᾳ	μάχαιρα	noun, dative feminine singular	1	sword
 JER 19:7	1	19	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
 JER 19:7	1	20	τῶν	ὁ	article, genitive plural	1	the
 JER 19:7	1	21	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	enemies
@@ -222,7 +222,7 @@ JER 19:7	1	22	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 19:7	1	23	καὶ	καί	conjunction	1	and
 JER 19:7	1	24	ἐν	ἐν	preposition with the dative	1	in
 JER 19:7	1	25	χερσὶ	χείρ	noun, dative feminine plural	1	hands
-JER 19:7	1	26	τῶν	ὁ	article, genitive masculine plural	1	the
+JER 19:7	1	26	τῶν	ὁ	article, genitive masculine plural	1	of those
 JER 19:7	1	27	ζητούντων	ζητέω	present active participle, genitive masculine plural	1	who seek
 JER 19:7	1	28	τὰς	ὁ	article, accusative feminine plural	1	the
 JER 19:7	1	29	ψυχὰς	ψυχή	noun, accusative feminine plural	1	lives
@@ -232,9 +232,9 @@ JER 19:7	1	32	δώσω	δίδωμι	future active indicative, first singular	1	I
 JER 19:7	1	33	τοὺς	ὁ	article, accusative masculine plural	1	the
 JER 19:7	1	34	νεκροὺς	νεκρός	adjective, accusative masculine plural	1	dead
 JER 19:7	1	35	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-JER 19:7	1	36	εἰς	εἰς	preposition with the accusative	1	into
+JER 19:7	1	36	εἰς	εἰς	preposition with the accusative	1	for
 JER 19:7	1	37	βρῶσιν	βρῶσις	noun, accusative feminine singular	1	food
-JER 19:7	1	38	τοῖς	ὁ	article, dative neuter plural	1	the
+JER 19:7	1	38	τοῖς	ὁ	article, dative neuter plural	1	to the
 JER 19:7	1	39	πετεινοῖς	πετεινός	adjective, dative neuter plural; substantival	1	birds
 JER 19:7	1	40	τοῦ	ὁ	article, genitive masculine singular	1	of the
 JER 19:7	1	41	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
@@ -260,7 +260,7 @@ JER 19:8	1	11	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 JER 19:8	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
 JER 19:8	1	13	παραπορευόμενος	παραπορεύομαι	present middle participle, nominative masculine singular; substantival	1	one passing by
 JER 19:8	1	13	παραπορευόμενος			2	passerby
-JER 19:8	1	14	ἐπ᾽	ἐπί	preposition elided	1	upon/on
+JER 19:8	1	14	ἐπ᾽	ἐπί	preposition elided	1	on
 JER 19:8	1	15	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	1	it
 JER 19:8	1	16	σκυθρωπάσει	σκυθρωπάζω	future active indicative, third singular	1	will look gloomy
 JER 19:8	1	16	σκυθρωπάσει			2	will be appalled
@@ -269,7 +269,7 @@ JER 19:8	1	18	συριεῖ	συρίζω	future active indicative, third singula
 JER 19:8	1	18	συριεῖ			2	will whistle
 JER 19:8	1	19	ὑπὲρ	ὑπέρ	preposition (genitive)	1	over
 JER 19:8	1	19	ὑπὲρ			2	because of
-JER 19:8	1	20	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
+JER 19:8	1	20	πάσης	πᾶς	adjective, genitive feminine singular	1	all
 JER 19:8	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
 JER 19:8	1	22	πληγῆς	πληγή	noun, genitive feminine singular	1	affliction
 JER 19:8	1	22	πληγῆς			2	wound
@@ -278,20 +278,20 @@ JER 19:9	1	1	Καὶ	καί	conjunction	1	and
 JER 19:9	1	2	ἔδονται	ἐσθίω	future middle indicative, 3rd pl	1	they shall eat
 JER 19:9	1	3	τὰς	ὁ	article, accusative feminine plural	1	the
 JER 19:9	1	4	σάρκας	σάρξ	noun, accusative feminine plural	1	flesh
-JER 19:9	1	5	τῶν	ὁ	article, genitive masculine plural	1	the
+JER 19:9	1	5	τῶν	ὁ	article, genitive masculine plural	1	of the
 JER 19:9	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-JER 19:9	1	7	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
+JER 19:9	1	7	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 JER 19:9	1	8	καὶ	καί	conjunction	1	and
 JER 19:9	1	9	τὰς	ὁ	article, accusative feminine plural	1	the
 JER 19:9	1	10	σάρκας	σάρξ	noun, accusative feminine plural	1	flesh
-JER 19:9	1	11	τῶν	ὁ	article, genitive masculine plural	1	the
-JER 19:9	1	12	θυγατέρων	θυγάτηρ	noun, genitive fem. pl	1	(your) daughters
+JER 19:9	1	11	τῶν	ὁ	article, genitive masculine plural	1	of the
+JER 19:9	1	12	θυγατέρων	θυγάτηρ	noun, genitive fem. pl	1	daughters
 JER 19:9	1	13	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 19:9	1	14	καὶ	καί	conjunction	1	and
 JER 19:9	1	15	ἕκαστος	ἕκαστος	distributive adjective, nominative masculine singular, with a plural verb	1	each one
 JER 19:9	1	16	τὰς	ὁ	article, accusative feminine plural	1	the
 JER 19:9	1	17	σάρκας	σάρξ	noun, accusative feminine plural	1	flesh
-JER 19:9	1	18	τοῦ	ὁ	article, genitive masculine singular	1	the
+JER 19:9	1	18	τοῦ	ὁ	article, genitive masculine singular	1	of the
 JER 19:9	1	19	πλησίον	πλησίον	adverb/noun, genitive	1	neighbour
 JER 19:9	1	20	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 JER 19:9	1	21	ἔδονται	ἐσθίω	future middle indicative, 3rd pl	1	they shall eat
@@ -301,15 +301,15 @@ JER 19:9	1	24	περιοχῇ	περιοχή	noun, dative feminine singular	1	co
 JER 19:9	1	25	καὶ	καί	conjunction	1	and
 JER 19:9	1	26	ἐν	ἐν	preposition with the dative	1	in
 JER 19:9	1	27	πολιορκίᾳ	πολιορκία	noun, dative feminine singular	1	siege
-JER 19:9	1	28	ᾗ	ὅς	relative pronoun dative feminine singular	1	which
+JER 19:9	1	28	ᾗ	ὅς	relative pronoun dative feminine singular	1	with which
 JER 19:9	1	29	πολιορκήσουσιν	πολιορκέω	future active indicative, third plural	1	will besiege
 JER 19:9	1	30	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 JER 19:9	1	31	οἱ	ὁ	article, nominative masculine plural	1	the
 JER 19:9	1	32	ἐχθροὶ	ἐχθρός	adjective, nominative masculine plural; substantival	1	enemies
 JER 19:9	1	33	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 19:9	1	34	καὶ	καί	conjunction	1	and
-JER 19:9	1	35	οἱ	ὁ	article, nominative masculine plural	1	the
-JER 19:9	1	36	ζητοῦντες	ζητέω	present active participle, nominative masculine plural	1	looking for
+JER 19:9	1	35	οἱ	ὁ	article, nominative masculine plural	1	those
+JER 19:9	1	36	ζητοῦντες	ζητέω	present active participle, nominative masculine plural	1	who seek
 JER 19:9	1	37	τὴν	ὁ	article, accusative feminine singular	1	the
 JER 19:9	1	38	ψυχὴν	ψυχή	noun, accusative feminine singular	1	life
 JER 19:9	1	39	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -323,8 +323,8 @@ JER 19:10	1	6	κατ᾽	κατά	preposition (accusative), elided; with followin
 JER 19:10	1	7	ὀφθαλμοὺς	ὀφθαλμός	noun, accusative masculine plural	1	eyes
 JER 19:10	1	8	τῶν	ὁ	article, genitive masculine plural	1	of the
 JER 19:10	1	9	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	1	men
-JER 19:10	1	10	τῶν	ὁ	article, genitive masculine plural	1	of the
-JER 19:10	1	11	ἐκπορευομένων	ἐκπορεύομαι	present middle/passive participle, genitive masculine plural	1	as they were going out
+JER 19:10	1	10	τῶν	ὁ	article, genitive masculine plural	1	—
+JER 19:10	1	11	ἐκπορευομένων	ἐκπορεύομαι	present middle/passive participle, genitive masculine plural	1	who go out
 JER 19:10	1	12	μετὰ	μετά	preposition with genitive	1	with
 JER 19:10	1	13	σοῦ	σύ	personal pronoun, emphatic genitive singular	1	you
 JER 19:11	1	1	καὶ	καί	conjunction	1	and
@@ -355,20 +355,20 @@ JER 19:11	1	22	οὐ	οὐ	negative adverb with future indicative	1	not
 JER 19:11	1	23	δυνήσεται	δύναμαι	future middle indicative, third singular	1	will be able
 JER 19:11	1	24	ἰαθῆναι	ἰάομαι	aorist passive infinitive	1	to be mended
 JER 19:11	1	24	ἰαθῆναι			2	to be healed
-JER 19:11	1	25	ἔτι	ἔτι	temporal adverb	1	still
+JER 19:11	1	25	ἔτι	ἔτι	temporal adverb	1	any longer
 JER 19:12	1	1	Οὕτως	οὕτως	adverb of manner	1	so
 JER 19:12	1	1	Οὕτως			2	thus
 JER 19:12	1	2	ποιήσω	ποιέω	future active indicative, first singular	1	I will do
-JER 19:12	1	3	τῷ	ὁ	article, dative masculine singular	1	the
+JER 19:12	1	3	τῷ	ὁ	article, dative masculine singular	1	to the
 JER 19:12	1	4	τόπῳ	τόπος	noun, dative masculine singular	1	place
 JER 19:12	1	5	τούτῳ	οὗτος	demonstrative pronoun, dative neuter singular	1	this
 JER 19:12	1	6	λέγει	λέγω	present active indicative, third singular	1	says
 JER 19:12	1	7	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JER 19:12	1	8	καὶ	καί	conjunction	1	and
-JER 19:12	1	9	τοῖς	ὁ	article, dative masculine plural	1	the
+JER 19:12	1	9	τοῖς	ὁ	article, dative masculine plural	1	to those
 JER 19:12	1	10	κατοικοῦσιν	κατοικέω	present active participle, dative masculine plural	1	who live
 JER 19:12	1	11	ἐν	ἐν	preposition with the dative	1	in
-JER 19:12	1	12	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+JER 19:12	1	12	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
 JER 19:12	1	13	τοῦ	ὁ	article, genitive singular	1	the
 JER 19:12	1	14	δοθῆναι	δίδωμι	aorist passive infinitive	1	to be given
 JER 19:12	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -384,7 +384,7 @@ JER 19:13	1	2	οἶκοι	οἶκος	noun, nominative masculine plural	1	houses
 JER 19:13	1	3	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	of Jerusalem
 JER 19:13	1	4	καὶ	καί	conjunction	1	and
 JER 19:13	1	5	οἶκοι	οἶκος	noun, nominative masculine plural	1	houses
-JER 19:13	1	6	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
+JER 19:13	1	6	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	of kings
 JER 19:13	1	7	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 JER 19:13	1	8	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
 JER 19:13	1	9	καθὼς	καθώς	comparative conjunction	1	just as
@@ -409,17 +409,17 @@ JER 19:13	1	25	τῶν	ὁ	article, genitive neuter plural	1	the
 JER 19:13	1	26	δωμάτων	δῶμα	noun, genitive neuter plural	1	roofs
 JER 19:13	1	26	δωμάτων			2	rooftops
 JER 19:13	1	27	αὐτῶν	αὐτός	personal pronoun, genitive plural	1	their
-JER 19:13	1	28	πάσῃ	πᾶς	adjective dative feminine singular	1	all
+JER 19:13	1	28	πάσῃ	πᾶς	adjective dative feminine singular	1	to all
 JER 19:13	1	29	τῇ	ὁ	article, dative feminine singular	1	the
 JER 19:13	1	30	στρατιᾷ	στρατιά	noun, dative feminine singular	1	host
 JER 19:13	1	30	στρατιᾷ			2	army
 JER 19:13	1	31	τοῦ	ὁ	article, genitive masculine singular	1	of the
 JER 19:13	1	32	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
 JER 19:13	1	33	καὶ	καί	conjunction	1	and
-JER 19:13	1	34	ἔσπεισαν	σπένδω	aorist active indicative, third plural	1	they poured out a libation
+JER 19:13	1	34	ἔσπεισαν	σπένδω	aorist active indicative, third plural	1	poured out
 JER 19:13	1	34	ἔσπεισαν			2	they made a drink offering
 JER 19:13	1	35	σπονδὰς	σπονδή	noun, accusative feminine plural	1	libations
-JER 19:13	1	36	θεοῖς	θεός	noun, dative masculine plural	1	gods
+JER 19:13	1	36	θεοῖς	θεός	noun, dative masculine plural	1	to gods
 JER 19:13	1	37	ἀλλοτρίοις	ἀλλότριος	adjective, dative masculine plural	1	foreign
 JER 19:13	1	37	ἀλλοτρίοις			2	other
 JER 19:14	1	1	Καὶ	καί	conjunction	1	and
@@ -432,7 +432,7 @@ JER 19:14	1	6	διαπτώσεως	διάπτωσις	noun, genitive feminine si
 JER 19:14	1	6	διαπτώσεως			2	Falling
 JER 19:14	1	7	τοῦ	ὁ	article, genitive masculine singular	1	of the
 JER 19:14	1	8	τόπου	τόπος	noun, genitive masculine singular	1	place
-JER 19:14	1	9	Ταφὲθ	Ταφέθ	indeclinable proper name	1	Topheth
+JER 19:14	1	9	Ταφὲθ	Ταφέθ	indeclinable proper name	1	Tophet
 JER 19:14	1	9	Ταφὲθ			2	Tapheth
 JER 19:14	1	10	οὗ	ὅς	relative pronoun, genitive masculine singular; locative	1	where
 JER 19:14	1	11	ἀπέστειλεν	ἀποστέλλω	aorist active indicative, third singular	1	sent
@@ -445,7 +445,7 @@ JER 19:14	1	17	καὶ	καί	conjunction	1	and
 JER 19:14	1	18	ἔστη	ἵστημι	aorist active indicative, third singular	1	stood
 JER 19:14	1	19	ἐν	ἐν	preposition with the dative	1	in
 JER 19:14	1	20	αὐλῇ	αὐλή	noun, dative feminine singular	1	court
-JER 19:14	1	21	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+JER 19:14	1	21	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 JER 19:14	1	21	οἴκου			2	household
 JER 19:14	1	22	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 JER 19:14	1	23	καὶ	καί	conjunction	1	and
@@ -464,7 +464,7 @@ JER 19:15	1	7	Θεὸς	θεός	noun, nominative masculine singular	1	God
 JER 19:15	1	8	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JER 19:15	1	9	ἰδοὺ	ἰδού	interjection	1	look
 JER 19:15	1	10	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
-JER 19:15	1	11	ἐπάγω	ἐπάγω	present active indicative, first singular	1	I am bringing
+JER 19:15	1	11	ἐπάγω	ἐπάγω	present active indicative, first singular	1	am bringing
 JER 19:15	1	12	ἐπὶ	ἐπί	preposition with accusative	1	against
 JER 19:15	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 JER 19:15	1	14	πόλιν	πόλις	noun, accusative feminine singular	1	city
@@ -487,7 +487,7 @@ JER 19:15	1	29	τὰ	ὁ	article, neuter plural (case from context)	1	the
 JER 19:15	1	30	κακὰ	κακός	adjective, accusative neuter plural	1	evils
 JER 19:15	1	31	ἃ	ὅς	relative pronoun, nominative neuter plural	1	which
 JER 19:15	1	32	ἐλάλησα	λαλέω	aorist active indicative, first singular	1	I spoke
-JER 19:15	1	33	ἐπ᾽	ἐπί	elided preposition with accusative	1	on
+JER 19:15	1	33	ἐπ᾽	ἐπί	elided preposition with accusative	1	against
 JER 19:15	1	33	ἐπ᾽			2	upon
 JER 19:15	1	34	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 JER 19:15	1	35	καὶ	καί	conjunction	1	and
@@ -502,7 +502,7 @@ JER 19:15	1	43	τράχηλον	τράχηλος	noun, accusative masculine sing
 JER 19:15	1	44	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 19:15	1	45	τοῦ	ὁ	article, genitive singular	1	the
 JER 19:15	1	46	μὴ	μή	negative particle	1	not
-JER 19:15	1	47	εἰσακούειν	εἰσακούω	present active infinitive	1	to listen to/hearken
+JER 19:15	1	47	εἰσακούειν	εἰσακούω	present active infinitive	1	to listen to
 JER 19:15	1	48	τῶν	ὁ	definite article, genitive plural	1	the
 JER 19:15	1	49	λόγων	λόγος	noun, genitive masculine plural	1	words
 JER 19:15	1	50	μου	ἐγώ	pronoun, possessive genitive first singular	1	my

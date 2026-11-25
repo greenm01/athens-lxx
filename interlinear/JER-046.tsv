@@ -10,7 +10,7 @@ JER 46:1	1	7	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 JER 46:1	1	8	ἔτει	ἔτος	noun, dative neuter singular	1	year
 JER 46:1	1	9	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 JER 46:1	1	10	ἐννάτῳ	ἔνατος	ordinal adjective, dative neuter singular	1	ninth
-JER 46:1	1	11	τοῦ	ὁ	article, genitive singular	1	the
+JER 46:1	1	11	τοῦ	ὁ	article, genitive singular	1	—
 JER 46:1	1	12	Σεδεκίου	Σεδεκίας	noun, genitive masculine singular; personal name	1	of Zedekiah
 JER 46:1	1	13	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 JER 46:1	1	14	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
@@ -41,7 +41,7 @@ JER 46:2	1	2	ἐν	ἐν	preposition with the dative	1	in
 JER 46:2	1	3	τῷ	ὁ	article, dative neuter singular	1	the
 JER 46:2	1	4	ἑνδεκάτῳ	ἑνδέκατος	ordinal adjective, dative neuter singular	1	eleventh
 JER 46:2	1	5	ἔτει	ἔτος	noun, dative neuter singular	1	year
-JER 46:2	1	6	τοῦ	ὁ	article, genitive singular	1	the
+JER 46:2	1	6	τοῦ	ὁ	article, genitive singular	1	—
 JER 46:2	1	7	Σεδεκίου	Σεδεκίας	noun, genitive masculine singular; personal name	1	of Zedekiah
 JER 46:2	1	8	ἐν	ἐν	preposition with the dative	1	in
 JER 46:2	1	9	τῷ	ὁ	article, dative masculine singular	1	the
@@ -89,7 +89,7 @@ JER 46:3	1	28	ἡγεμόνες			2	leaders
 JER 46:3	1	29	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of the king
 JER 46:3	1	30	Βαβυλῶνος	Βαβυλών	noun, genitive feminine singular; place name	1	of Babylon
 JER 46:4	1	1	Καὶ	καί	conjunction	1	and
-JER 46:4	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	there came to be
+JER 46:4	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 JER 46:4	1	2	ἐγένετο			2	there was
 JER 46:4	1	3	ἡνίκα	ἡνίκα	conjunction, temporal	1	when
 JER 46:4	1	4	εἶδεν	ὁράω	aorist active indicative, third singular	1	saw
@@ -117,7 +117,7 @@ JER 46:4	1	23	τὴν	ὁ	article, accusative feminine singular	1	the
 JER 46:4	1	24	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 JER 46:4	1	24	ὁδὸν			2	path
 JER 46:4	1	25	κήπου	κῆπος	noun, genitive masculine singular	1	of the garden
-JER 46:4	1	26	τοῦ	ὁ	article, genitive singular	1	the
+JER 46:4	1	26	τοῦ	ὁ	article, genitive singular	1	of the
 JER 46:4	1	27	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 JER 46:4	1	28	διὰ	διά	preposition (accusative), with directional force	1	through
 JER 46:4	1	28	διὰ			2	by way of
@@ -150,7 +150,7 @@ JER 46:5	1	8	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
 JER 46:5	1	9	καὶ	καί	conjunction	1	and
 JER 46:5	1	10	συνέλαβον	συλλαμβάνω	aorist active indicative, third plural	1	seized
 JER 46:5	1	10	συνέλαβον			2	captured
-JER 46:5	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
+JER 46:5	1	11	τὸν	ὁ	article, accusative masculine singular	1	—
 JER 46:5	1	12	Σεδεκίαν	Σεδεκίας	noun, accusative masculine singular; personal name	1	Zedekiah
 JER 46:5	1	13	ἐν	ἐν	preposition with the dative	1	in
 JER 46:5	1	14	Ἀραβὼθ	Ἀραβώθ	indeclinable Hebrew loanword, dative plural	1	plains
@@ -226,7 +226,7 @@ JER 46:8	1	5	βασιλέως	βασιλεύς	noun, genitive masculine singular
 JER 46:8	1	6	καὶ	καί	conjunction	1	and
 JER 46:8	1	7	τὰς	ὁ	article, accusative feminine plural	1	the
 JER 46:8	1	8	οἰκίας	οἰκία	noun, accusative feminine plural	1	houses
-JER 46:8	1	9	τοῦ	ὁ	article, genitive singular	1	the
+JER 46:8	1	9	τοῦ	ὁ	article, genitive singular	1	of the
 JER 46:8	1	10	λαοῦ	λαός	noun, genitive masculine singular	1	people
 JER 46:8	1	11	ἐνέπρησαν	ἐμπίπρημι	aorist active indicative, third plural	1	set ablaze
 JER 46:8	1	12	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -314,13 +314,13 @@ JER 46:11	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine sing
 JER 46:11	1	5	Βαβυλῶνος	Βαβυλών	noun, genitive feminine singular; place name	1	of Babylon
 JER 46:11	1	6	ὑπὲρ	ὑπέρ	preposition (genitive)	1	concerning
 JER 46:11	1	6	ὑπὲρ			2	on behalf of
-JER 46:11	1	7	τοῦ	ὁ	article, genitive masculine singular	1	the
+JER 46:11	1	7	τοῦ	ὁ	article, genitive masculine singular	1	—
 JER 46:11	1	8	Ἰερεμίου	Ἱερεμίας	noun, genitive masculine singular; personal name	1	Jeremiah
 JER 46:11	1	9	ἐν	ἐν	preposition (dative), instrumental	1	by
 JER 46:11	1	9	ἐν			2	through
 JER 46:11	1	10	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 JER 46:11	1	11	Ναβουζαρδὰν	Ναβουζαρδάν	proper noun, genitive masculine, indeclinable	1	of Nebuzaradan
-JER 46:11	1	12	τοῦ	ὁ	article, genitive masculine singular	1	of the
+JER 46:11	1	12	τοῦ	ὁ	article, genitive masculine singular	1	the
 JER 46:11	1	13	ἀρχιμαγείρου	ἀρχιμάγειρος	noun, genitive masculine singular; official title	1	chief officer
 JER 46:11	1	13	ἀρχιμαγείρου			2	chief cook
 JER 46:11	1	14	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
@@ -349,19 +349,19 @@ JER 46:12	1	19	πρὸς	πρός	preposition with the accusative	1	to
 JER 46:12	1	20	σὲ	σύ	personal pronoun, emphatic accusative singular governed by πρός	1	you
 JER 46:12	1	21	καὶ	καί	conjunction	1	and
 JER 46:12	1	22	οὕτως	οὕτως	adverb of manner	1	so
-JER 46:12	1	23	ποιήσεις	ποιέω	future active indicative, second singular	1	will do
+JER 46:12	1	23	ποιήσεις	ποιέω	future active indicative, second singular	1	you will do
 JER 46:12	1	24	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 JER 46:13	1	1	Καὶ	καί	conjunction	1	and
 JER 46:13	1	2	ἀπέστειλε	ἀποστέλλω	aorist active indicative, third singular	1	sent out
-JER 46:13	1	3	Ναβουζαρδὰν	Ναβουζαρδάν	proper noun, nominative masculine, indeclinable	1	Nabuzar-adan
+JER 46:13	1	3	Ναβουζαρδὰν	Ναβουζαρδάν	proper noun, nominative masculine, indeclinable	1	Nebuzaradan
 JER 46:13	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 JER 46:13	1	5	ἀρχιμάγειρος	ἀρχιμάγειρος	noun, nominative masculine singular; official title	1	chief officer
 JER 46:13	1	5	ἀρχιμάγειρος			2	chief cook
 JER 46:13	1	6	καὶ	καί	conjunction	1	and
-JER 46:13	1	7	Ναβουσεζβὰν	Ναβουσεζβάν	proper noun, nominative masculine, indeclinable	1	Nabushasban
+JER 46:13	1	7	Ναβουσεζβὰν	Ναβουσεζβάν	proper noun, nominative masculine, indeclinable	1	Nebushasban
 JER 46:13	1	7	Ναβουσεζβὰν			2	Nebushazban
 JER 46:13	1	8	καὶ	καί	conjunction	1	and
-JER 46:13	1	9	Ῥαψαρὴς	Ῥαψαρής	foreign title or name, nominative masculine, indeclinable	1	Rab-sares
+JER 46:13	1	9	Ῥαψαρὴς	Ῥαψαρής	foreign title or name, nominative masculine, indeclinable	1	Rabsaris
 JER 46:13	1	9	Ῥαψαρὴς			2	Rab-saris
 JER 46:13	1	10	καὶ	καί	conjunction	1	and
 JER 46:13	1	11	Νηργὲλ	Νηργέλ	proper noun, nominative masculine, indeclinable	1	Nergel
@@ -380,13 +380,13 @@ JER 46:14	1	1	Καὶ	καί	conjunction	1	and
 JER 46:14	1	2	ἀπέστειλαν	ἀποστέλλω	aorist active indicative, third plural	1	sent
 JER 46:14	1	3	καὶ	καί	conjunction	1	and
 JER 46:14	1	4	ἔλαβον	λαμβάνω	aorist active indicative, third plural	1	took
-JER 46:14	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
+JER 46:14	1	5	τὸν	ὁ	article, accusative masculine singular	1	—
 JER 46:14	1	6	Ἰερεμίαν	Ἱερεμίας	noun, accusative masculine singular; personal name	1	Jeremiah
 JER 46:14	1	7	ἐξ	ἐκ	preposition with the genitive	1	from
 JER 46:14	1	8	αὐλῆς	αὐλή	noun, genitive feminine singular	1	court
 JER 46:14	1	8	αὐλῆς			2	courtyard
-JER 46:14	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
-JER 46:14	1	10	φυλακῆς	φυλακή	noun, genitive feminine singular	1	of custody
+JER 46:14	1	9	τῆς	ὁ	article, genitive feminine singular	1	of the
+JER 46:14	1	10	φυλακῆς	φυλακή	noun, genitive feminine singular	1	guard
 JER 46:14	1	10	φυλακῆς			2	of the guard
 JER 46:14	1	11	καὶ	καί	conjunction	1	and
 JER 46:14	1	12	ἔδωκαν	δίδωμι	aorist active indicative, third plural	1	gave
@@ -415,7 +415,7 @@ JER 46:15	1	1	Καὶ	καί	conjunction	1	and
 JER 46:15	1	2	πρὸς	πρός	preposition with accusative	1	to
 JER 46:15	1	2	πρὸς			2	toward
 JER 46:15	1	3	Ἰερεμίαν	Ἱερεμίας	noun, accusative masculine singular; personal name	1	Jeremiah
-JER 46:15	1	4	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
+JER 46:15	1	4	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	came
 JER 46:15	1	5	λόγος	λόγος	noun, nominative masculine singular	1	word
 JER 46:15	1	5	λόγος			2	message
 JER 46:15	1	6	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
@@ -427,8 +427,8 @@ JER 46:15	1	10	ἐν	ἐν	preposition with the dative	1	in
 JER 46:15	1	11	τῇ	ὁ	article, dative feminine singular	1	the
 JER 46:15	1	12	αὐλῇ	αὐλή	noun, dative feminine singular	1	court
 JER 46:15	1	12	αὐλῇ			2	courtyard
-JER 46:15	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
-JER 46:15	1	14	φυλακῆς	φυλακή	noun, genitive feminine singular	1	of custody
+JER 46:15	1	13	τῆς	ὁ	article, genitive feminine singular	1	of the
+JER 46:15	1	14	φυλακῆς	φυλακή	noun, genitive feminine singular	1	guard
 JER 46:15	1	14	φυλακῆς			2	of the guard
 JER 46:15	1	15	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 JER 46:16	1	1	πορεύου	πορεύομαι	present middle imperative, second singular	1	go
@@ -489,7 +489,7 @@ JER 46:17	1	4	παραδώσω	παραδίδωμι	future active indicative, fi
 JER 46:17	1	5	σε	σύ	personal pronoun, accusative second singular	1	you
 JER 46:17	1	6	εἰς	εἰς	preposition (accusative)	1	into
 JER 46:17	1	7	χεῖρας	χείρ	noun, accusative feminine plural	1	hands
-JER 46:17	1	8	τῶν	ὁ	article, genitive plural	1	the
+JER 46:17	1	8	τῶν	ὁ	article, genitive plural	1	of the
 JER 46:17	1	9	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	human beings
 JER 46:17	1	9	ἀνθρώπων			2	people
 JER 46:17	1	10	ὧν	ὅς	relative pronoun, genitive masculine plural; case attracted to antecedent	1	whom
@@ -519,7 +519,7 @@ JER 46:18	1	16	εἰς	εἰς	preposition (accusative)	1	as
 JER 46:18	1	17	εὕρημα	εὕρημα	noun, accusative neuter singular	1	a gain
 JER 46:18	1	17	εὕρημα			2	something found
 JER 46:18	1	18	ὅτι	ὅτι	causal conjunction	1	because
-JER 46:18	1	19	ἐπεποίθεις	πείθω	pluperfect active indicative, second singular	1	trusted
+JER 46:18	1	19	ἐπεποίθεις	πείθω	pluperfect active indicative, second singular	1	you trusted
 JER 46:18	1	19	ἐπεποίθεις			2	had put your trust
 JER 46:18	1	20	ἐπ᾿	ἐπί	preposition (dative), elided	1	in
 JER 46:18	1	20	ἐπ᾿			2	on
