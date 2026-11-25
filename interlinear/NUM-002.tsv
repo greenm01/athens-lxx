@@ -92,7 +92,7 @@ NUM 2:5	1	13	Ἰσσάχαρ	Ἰσσάχαρ	indeclinable personal name, nominat
 NUM 2:5	1	14	Ναθαναὴλ	Ναθαναήλ	indeclinable personal name, nominative in context	1	Nethaneel
 NUM 2:5	1	14	Ναθαναὴλ			2	Nethanel
 NUM 2:5	1	15	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-NUM 2:5	1	16	Σωγάρ	Σωγάρ	indeclinable personal name, genitive in context	1	Zuar
+NUM 2:5	1	16	Σωγάρ	Σωγάρ	indeclinable personal name, genitive in context	1	of Zuar
 NUM 2:5	1	16	Σωγάρ			2	Sogar
 NUM 2:6	1	1	δύναμις	δύναμις	noun, nominative feminine singular after ἡ, host	1	military force
 NUM 2:6	1	1	δύναμις			2	troops
@@ -114,7 +114,7 @@ NUM 2:7	1	5	φυλὴ	φυλή	noun, nominative feminine singular	1	a tribe
 NUM 2:7	1	6	Ζαβουλὼν	Ζαβουλών	indeclinable personal name, nominative in context	1	Zebulun
 NUM 2:7	1	7	Ἐλιὰβ	Ἐλιάβ	indeclinable personal name, nominative in context	1	Eliab
 NUM 2:7	1	8	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-NUM 2:7	1	9	Χαιλών	Χαιλών	indeclinable personal name, genitive in context	1	Chailon
+NUM 2:7	1	9	Χαιλών	Χαιλών	indeclinable personal name, genitive in context	1	of Chailon
 NUM 2:7	1	9	Χαιλών			2	Helon
 NUM 2:8	1	1	δύναμις	δύναμις	noun, nominative feminine singular after ἡ, host	1	military force
 NUM 2:8	1	1	δύναμις			2	troops
@@ -171,7 +171,7 @@ NUM 2:10	1	14	Ῥουβὴν	Ῥουβήν	indeclinable personal name, nominativ
 NUM 2:10	1	15	Ἐλισοὺρ	Ἐλισούρ	indeclinable personal name, nominative in context	1	Elizur
 NUM 2:10	1	15	Ἐλισοὺρ			2	Elisur
 NUM 2:10	1	16	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-NUM 2:10	1	17	Σεδιούρ	Σεδιούρ	indeclinable personal name, genitive in context	1	Sediur
+NUM 2:10	1	17	Σεδιούρ	Σεδιούρ	indeclinable personal name, genitive in context	1	of Sediur
 NUM 2:10	1	17	Σεδιούρ			2	Shedeur
 NUM 2:11	1	1	δύναμις	δύναμις	noun, nominative feminine singular after ἡ, host	1	military force
 NUM 2:11	1	1	δύναμις			2	troops
@@ -202,7 +202,7 @@ NUM 2:12	1	13	Συμεὼν	Συμεών	indeclinable personal name, genitive in
 NUM 2:12	1	14	Σαλαμιὴλ	Σαλαμιήλ	indeclinable personal name, nominative in context	1	Shelumiel
 NUM 2:12	1	14	Σαλαμιὴλ			2	Salamiel
 NUM 2:12	1	15	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-NUM 2:12	1	16	Σουρισαδαΐ	Σουρισαδαΐ	indeclinable personal name, genitive in context	1	Zurishaddai
+NUM 2:12	1	16	Σουρισαδαΐ	Σουρισαδαΐ	indeclinable personal name, genitive in context	1	of Zurishaddai
 NUM 2:12	1	16	Σουρισαδαΐ			2	Surisadai
 NUM 2:13	1	1	δύναμις	δύναμις	noun, nominative feminine singular after ἡ, host	1	military force
 NUM 2:13	1	1	δύναμις			2	troops
@@ -321,7 +321,7 @@ NUM 2:18	1	14	Ἐφραὶμ	Ἐφραίμ	indeclinable personal name, nominativ
 NUM 2:18	1	15	Ἐλισαμὰ	Ἐλισαμά	indeclinable personal name, nominative in context	1	Elishama
 NUM 2:18	1	15	Ἐλισαμὰ			2	Elisama
 NUM 2:18	1	16	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-NUM 2:18	1	17	Ἐμιούδ	Ἐμιούδ	indeclinable personal name, genitive in context	1	Amminhud
+NUM 2:18	1	17	Ἐμιούδ	Ἐμιούδ	indeclinable personal name, genitive in context	1	of Amminhud
 NUM 2:18	1	17	Ἐμιούδ			2	Ammihud
 NUM 2:19	1	1	δύναμις	δύναμις	noun, nominative feminine singular after ἡ, host	1	military force
 NUM 2:19	1	1	δύναμις			2	troops
@@ -339,17 +339,17 @@ NUM 2:20	1	3	παρεμβάλλοντες	παρεμβάλλω	present active pa
 NUM 2:20	1	4	ἐχόμενοι	ἔχω	present middle participle, nominative masculine plural; with genitive	1	close to
 NUM 2:20	1	5	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
 NUM 2:20	1	6	φυλὴ	φυλή	noun, nominative feminine singular	1	a tribe
-NUM 2:20	1	7	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	1	Manasseh
+NUM 2:20	1	7	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	1	of Manasseh
 NUM 2:20	1	8	καὶ	καί	conjunction	1	and
 NUM 2:20	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
 NUM 2:20	1	10	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 NUM 2:20	1	10	ἄρχων			2	chief
 NUM 2:20	1	11	τῶν	ὁ	article, genitive plural	1	of the
 NUM 2:20	1	12	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-NUM 2:20	1	13	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	1	Manasseh
+NUM 2:20	1	13	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	1	of Manasseh
 NUM 2:20	1	14	Γαμαλιὴλ	Γαμαλιήλ	indeclinable personal name, nominative in context	1	Gamaliel
 NUM 2:20	1	15	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-NUM 2:20	1	16	Φαδασσούρ	Φαδασσούρ	indeclinable personal name, genitive in context	1	Pedahzur
+NUM 2:20	1	16	Φαδασσούρ	Φαδασσούρ	indeclinable personal name, genitive in context	1	of Pedahzur
 NUM 2:20	1	16	Φαδασσούρ			2	Phadassur
 NUM 2:21	1	1	δύναμις	δύναμις	noun, nominative feminine singular after ἡ, host	1	military force
 NUM 2:21	1	1	δύναμις			2	troops
@@ -378,7 +378,7 @@ NUM 2:22	1	11	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 2:22	1	12	Βενιαμὶν	Βενιαμίν	indeclinable personal name, nominative in context	1	Benjamin
 NUM 2:22	1	13	Ἀβιδὰν	Ἀβιδάν	indeclinable personal name, nominative in context	1	Abidan
 NUM 2:22	1	14	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-NUM 2:22	1	15	Γαδεωνί	Γαδεωνί	indeclinable personal name, genitive in context	1	Gideoni
+NUM 2:22	1	15	Γαδεωνί	Γαδεωνί	indeclinable personal name, genitive in context	1	of Gideoni
 NUM 2:22	1	15	Γαδεωνί			2	Gadeoni
 NUM 2:23	1	1	δύναμις	δύναμις	noun, nominative feminine singular after ἡ, host	1	military force
 NUM 2:23	1	1	δύναμις			2	troops
@@ -432,7 +432,7 @@ NUM 2:25	1	14	Δὰν	Δάν	indeclinable personal name, nominative in context	1
 NUM 2:25	1	15	Ἀχιέζερ	Ἀχιέζερ	indeclinable personal name, nominative in context	1	Ahiezer
 NUM 2:25	1	15	Ἀχιέζερ			2	Achiezer
 NUM 2:25	1	16	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-NUM 2:25	1	17	Ἀμισαδαΐ	Ἀμισαδαΐ	indeclinable personal name, genitive in context	1	Ammishaddai
+NUM 2:25	1	17	Ἀμισαδαΐ	Ἀμισαδαΐ	indeclinable personal name, genitive in context	1	of Ammishaddai
 NUM 2:25	1	17	Ἀμισαδαΐ			2	Amisadai
 NUM 2:26	1	1	δύναμις	δύναμις	noun, nominative feminine singular after ἡ, host	1	military force
 NUM 2:26	1	1	δύναμις			2	troops
@@ -463,7 +463,7 @@ NUM 2:27	1	13	Ἀσὴρ	Ἀσήρ	indeclinable personal name, nominative in con
 NUM 2:27	1	14	Φαγαιὴλ	Φαγαιήλ	indeclinable personal name, nominative in context	1	Pagiel
 NUM 2:27	1	14	Φαγαιὴλ			2	Phagaiel
 NUM 2:27	1	15	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-NUM 2:27	1	16	Ἐχράν	Ἐχράν	indeclinable personal name, genitive in context	1	Ocran
+NUM 2:27	1	16	Ἐχράν	Ἐχράν	indeclinable personal name, genitive in context	1	of Ocran
 NUM 2:27	1	16	Ἐχράν			2	Ochran
 NUM 2:28	1	1	δύναμις	δύναμις	noun, nominative feminine singular after ἡ, host	1	military force
 NUM 2:28	1	1	δύναμις			2	troops
