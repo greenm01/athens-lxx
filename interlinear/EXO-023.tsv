@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 EXO 23:1	1	1	ΟΥ	οὐ	negative adverb; printed ΟΥ in capitals	1	not
 EXO 23:1	1	2	παραδέξῃ	παραδέχομαι	future middle indicative, 2nd sg. after οὐ, accept/receive	1	you shall receive
 EXO 23:1	1	3	ἀκοὴν	ἀκοή	noun, accusative fem. sg., report/hearsay	1	a report
-EXO 23:1	1	4	ματαίαν	μάταιος	adjective, accusative fem. sg. with ἀκοὴν, vain/false	1	vain (false)
+EXO 23:1	1	4	ματαίαν	μάταιος	adjective, accusative fem. sg. with ἀκοὴν, vain/false	1	vain
 EXO 23:1	1	5	οὐ	οὐ	negative adverb with future indicative	1	not
 EXO 23:1	1	6	συγκαταθήσῃ	συγκατατίθεμαι	future middle indicative, second singular	1	you shall agree
 EXO 23:1	1	7	μετὰ	μετά	preposition with genitive	1	with
@@ -93,7 +93,7 @@ EXO 23:7	1	13	δικαιώσεις	δικαιόω	future active indicative, 2nd 
 EXO 23:7	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 EXO 23:7	1	15	ἀσεβῆ	ἀσεβής	adjective/noun, accusative masc. sg. after τὸν, the wicked	1	wicked
 EXO 23:7	1	16	ἕνεκεν	ἕνεκα	preposition with genitive τούτου, because of	1	because of
-EXO 23:7	1	17	δώρων	δῶρον	noun, genitive neut. pl. after ἕνεκεν, gifts/bribes	1	gifts (bribes)
+EXO 23:7	1	17	δώρων	δῶρον	noun, genitive neut. pl. after ἕνεκεν, gifts/bribes	1	gifts
 EXO 23:8	1	1	Καὶ	καί	conjunction	1	and
 EXO 23:8	1	2	δῶρα	δῶρον	noun, nominative/accusative neut. pl., gifts/bribes	1	gifts
 EXO 23:8	1	3	οὐ	οὐ	negative adverb with future indicative	1	not
@@ -106,8 +106,8 @@ EXO 23:8	1	9	ὀφθαλμοὺς	ὀφθαλμός	noun, accusative masc. pl.	1
 EXO 23:8	1	10	βλεπόντων	βλέπω	present active participle, genitive masc. pl. after ὀφθαλμοὺς, of those who see	1	of the seeing
 EXO 23:8	1	11	καὶ	καί	conjunction	1	and
 EXO 23:8	1	12	λυμαίνεται	λυμαίνομαι	present middle indicative, 3rd sg., corrupts/perverts	1	perverts
-EXO 23:8	1	13	ῥήματα	ῥῆμα	noun, accusative neut. pl.	1	words/matters
-EXO 23:8	1	14	δίκαια	δίκαιος	adjective, accusative neut. pl. with ῥήματα	1	righteous/just
+EXO 23:8	1	13	ῥήματα	ῥῆμα	noun, accusative neut. pl.	1	words
+EXO 23:8	1	14	δίκαια	δίκαιος	adjective, accusative neut. pl. with ῥήματα	1	just
 EXO 23:9	1	1	Καὶ	καί	conjunction	1	and
 EXO 23:9	1	2	προσήλυτον	προσήλυτος	noun, accusative masc. sg. after implied καί continuing commands, sojourner	1	a sojourner
 EXO 23:9	1	3	οὐ	οὐ	negative adverb with future indicative	1	not
@@ -329,7 +329,7 @@ EXO 23:18	1	19	θυμιάσματός	θυμίασμα	noun, genitive neut. sg. 
 EXO 23:18	1	20	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 EXO 23:18	1	21	οὐδὲ	οὐδέ	negative conjunction	1	nor
 EXO 23:18	1	22	μὴ	μή	negative with participle	1	not
-EXO 23:18	1	23	κοιμηθῇ	κοιμάομαι	aorist passive subjunctive, 3rd sg. after οὐδὲ μὴ, remain overnight	1	remain (overnight)
+EXO 23:18	1	23	κοιμηθῇ	κοιμάομαι	aorist passive subjunctive, 3rd sg. after οὐδὲ μὴ, remain overnight	1	remain
 EXO 23:18	1	24	στέαρ	στέαρ	noun, nominative neut. sg., fat	1	the fat
 EXO 23:18	1	25	τῆς	ὁ	article, genitive feminine singular	1	of the
 EXO 23:18	1	26	ἑορτῆς	ἑορτή	noun, genitive fem. sg. after τῆς	1	feast
@@ -401,7 +401,7 @@ EXO 23:21	1	15	γὰρ	γάρ	conjunction	1	for
 EXO 23:21	1	16	ὄνομά	ὄνομα	noun, accusative neut. sg. after τὸ	1	name
 EXO 23:21	1	17	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 EXO 23:21	1	18	ἐστὶν	εἰμί	present indicative, third singular	1	is
-EXO 23:21	1	19	ἐπ᾽	ἐπί	preposition, elided	1	upon/on
+EXO 23:21	1	19	ἐπ᾽	ἐπί	preposition, elided	1	on
 EXO 23:21	1	20	αὐτῷ	αὐτός	pronoun, dative masculine/neuter singular	1	to him
 EXO 23:22	1	1	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 EXO 23:22	1	2	ἀκοῇ	ἀκοή	noun, dative fem. sg. cognate	1	diligently
@@ -484,7 +484,7 @@ EXO 23:23	1	9	εἰσάξει	εἰσάγω	future active indicative, 3rd sg.	1	
 EXO 23:23	1	10	σε	σύ	pronoun, accusative second singular	1	you
 EXO 23:23	1	11	πρὸς	πρός	preposition with the accusative	1	to
 EXO 23:23	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
-EXO 23:23	1	13	Ἀμοῤῥαῖον	Ἀμορραῖος	ethnic noun, accusative masc. sg. collective after πρὸς τὸν	1	Amorite (people)
+EXO 23:23	1	13	Ἀμοῤῥαῖον	Ἀμορραῖος	ethnic noun, accusative masc. sg. collective after πρὸς τὸν	1	Amorite
 EXO 23:23	1	14	καὶ	καί	conjunction	1	and
 EXO 23:23	1	15	Χετταῖον	Χετταῖος	ethnic noun, accusative masc. sg. collective	1	the Hittite
 EXO 23:23	1	16	καὶ	καί	conjunction	1	and
@@ -567,7 +567,7 @@ EXO 23:26	1	14	σου	σύ	pronoun, possessive genitive second singular	1	your
 EXO 23:26	1	15	ἀναπληρώσω	ἀναπληρόω	future active indicative, 1st sg.	1	I will fill up
 EXO 23:27	1	1	Καὶ	καί	conjunction	1	and
 EXO 23:27	1	2	τὸν	ὁ	article, accusative masculine singular	1	the
-EXO 23:27	1	3	φόβον	φόβος	noun, accusative masc. sg. after τὸν, in apposition	1	terror/fear
+EXO 23:27	1	3	φόβον	φόβος	noun, accusative masc. sg. after τὸν, in apposition	1	fear
 EXO 23:27	1	4	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 EXO 23:27	1	5	ἀποστελῶ	ἀποστέλλω	future active indicative, 1st sg.	1	I will send
 EXO 23:27	1	6	ἡγούμενόν	ἡγέομαι	present middle participle, accusative masc. sg. with φόβον in 23:27 'terror going before you'	1	going before
@@ -584,7 +584,7 @@ EXO 23:27	1	16	εἰσπορεύῃ	εἰσπορεύομαι	present middle ind
 EXO 23:27	1	17	εἰς	εἰς	preposition with accusative	1	into
 EXO 23:27	1	18	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 EXO 23:27	1	19	καὶ	καί	conjunction	1	and
-EXO 23:27	1	20	δώσω	δίδωμι	future active indicative, 1st sg.	1	I will give/appoint
+EXO 23:27	1	20	δώσω	δίδωμι	future active indicative, 1st sg.	1	I will make
 EXO 23:27	1	21	πάντας	πᾶς	adjective, accusative masc. pl. with λόγους	1	all
 EXO 23:27	1	22	τοὺς	ὁ	article, accusative masculine plural	1	the
 EXO 23:27	1	23	ὑπεναντίους	ὑπεναντίος	adjective/noun, accusative masc. pl. after πάντας τοὺς, adversaries	1	adversaries
