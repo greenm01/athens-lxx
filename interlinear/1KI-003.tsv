@@ -123,7 +123,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 3:5	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 1KI 3:5	1	6	Κύριος	κύριος	noun, nominative masculine singular; divine title	1	Lord
 1KI 3:5	1	7	ἐν	ἐν	preposition with the dative	1	in
-1KI 3:5	1	8	ὕπνῳ	ὕπνος	noun, dative masculine singular	1	a dream
+1KI 3:5	1	8	ὕπνῳ	ὕπνος	noun, dative masculine singular	1	sleep
 1KI 3:5	1	9	τὴν	ὁ	article, accusative feminine singular; marks time	1	during the
 1KI 3:5	1	10	νύκτα	νύξ	noun, accusative feminine singular	1	night
 1KI 3:5	1	11	Καὶ	καί	conjunction	1	and
@@ -370,7 +370,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 3:13	1	8	πλοῦτον	πλοῦτος	noun, accusative masculine singular	1	wealth
 1KI 3:13	1	8	πλοῦτον			2	riches
 1KI 3:13	1	9	καὶ	καί	conjunction	1	and
-1KI 3:13	1	10	δόξαν	δόξα	noun, accusative feminine singular	1	glory (beauty)
+1KI 3:13	1	10	δόξαν	δόξα	noun, accusative feminine singular	1	glory
 1KI 3:13	1	11	ὡς	ὡς	adverb	1	as
 1KI 3:13	1	12	οὐ	οὐ	negative particle	1	not
 1KI 3:13	1	13	γέγονεν	γίνομαι	perfect active indicative, third singular	1	there has been
@@ -428,8 +428,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 3:15	1	13	καὶ	καί	conjunction	1	and
 1KI 3:15	1	14	ἔστη	ἵστημι	aorist active indicative, third singular	1	stood
 1KI 3:15	1	15	κατὰ	κατά	preposition with accusative; with πρόσωπον	1	before
-1KI 3:15	1	16	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
-1KI 3:15	1	17	τοῦ	ὁ	article, genitive singular	1	the
+1KI 3:15	1	16	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	the presence
+1KI 3:15	1	17	τοῦ	ὁ	article, genitive singular	1	of the
 1KI 3:15	1	18	θυσιαστηρίου	θυσιαστήριον	noun, genitive neuter singular	1	altar
 1KI 3:15	1	19	τοῦ	ὁ	article, genitive masculine singular	1	which was
 1KI 3:15	1	20	κατὰ	κατά	preposition with accusative; with πρόσωπον	1	before
@@ -454,7 +454,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 3:15	1	39	πᾶσι	πᾶς	adjective, dative neuter plural	1	for all
 1KI 3:15	1	40	τοῖς	ὁ	article, dative masculine plural	1	the
 1KI 3:15	1	41	παισὶν	παῖς	noun, dative masculine plural after τοῖς, servants/courtiers	1	servants
-1KI 3:15	1	42	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	himself
+1KI 3:15	1	42	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	his own
 1KI 3:16	1	1	Τότε	τότε	temporal adverb	1	then
 1KI 3:16	1	2	ὤφθησαν	ὁράω	aorist passive indicative, third plural	1	appeared
 1KI 3:16	1	3	δύο	δύο	cardinal numeral, indeclinable	1	two
@@ -503,7 +503,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 3:18	1	9	μου	ἐγώ	pronoun, possessive genitive first singular	1	I
 1KI 3:18	1	10	καὶ	καί	conjunction	1	and
 1KI 3:18	1	11	ἔτεκε	τίκτω	aorist active indicative, third singular	1	gave birth
-1KI 3:18	1	12	καὶ	καί	conjunction	1	and
+1KI 3:18	1	12	καὶ	καί	conjunction	1	also
 1KI 3:18	1	13	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 1KI 3:18	1	14	ἡ	ὁ	article, nominative feminine singular	1	the
 1KI 3:18	1	15	γυνή	γυνή	noun, nominative feminine singular after ἡ	1	woman
@@ -613,7 +613,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 3:22	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
 1KI 3:22	1	4	γυνὴ	γυνή	noun, nominative feminine singular	1	woman
 1KI 3:22	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
-1KI 3:22	1	6	ἑτέρα	ἕτερος	adjective/pronoun, nominative fem. sg. in ἑτέρα ἐκ τῆς ἑτέρας 'the one to the other'	1	the one
+1KI 3:22	1	6	ἑτέρα	ἕτερος	adjective/pronoun, nominative fem. sg. in ἑτέρα ἐκ τῆς ἑτέρας 'the one to the other'	1	other
 1KI 3:22	1	7	οὐχὶ	οὐχί	negative particle, emphatic form	1	no
 1KI 3:22	1	8	ἀλλ	ἀλλά	conjunction	1	but
 1KI 3:22	1	9	ἡ	ὁ	article, nominative feminine singular, reinforces but	1	—
@@ -773,7 +773,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 3:27	1	5	ἐμοὶ	ἐγώ	personal pronoun, emphatic dative singular	1	for me
 1KI 3:27	1	6	μήτε	μήτε	negative correlative conjunction	1	nor
 1KI 3:27	1	7	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	for her
-1KI 3:27	1	8	ἔστω	εἰμί	present imperative, third singular	1	let be
+1KI 3:27	1	8	ἔστω	εἰμί	present imperative, third singular	1	let it be
 1KI 3:27	1	9	διέλετε	διαιρέω	aorist active imperative, second plural	1	divide
 1KI 3:27	1	10	αὐτό	αὐτός	pronoun, accusative neuter singular	1	it
 1KI 3:27	1	11	Καὶ	καί	conjunction	1	and
@@ -788,7 +788,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 3:27	1	20	παιδίον	παιδίον	noun, accusative neuter singular	1	child
 1KI 3:27	1	21	τὸ	ὁ	article, accusative neuter singular	1	the
 1KI 3:27	1	22	ζῶν	ζάω	present active participle, accusative neuter singular	1	living
-1KI 3:27	1	23	τῇ	ὁ	article, dative feminine singular	1	the
+1KI 3:27	1	23	τῇ	ὁ	article, dative feminine singular	1	to her
 1KI 3:27	1	24	εἰπούσῃ	λέγω	aorist active imperative, dative feminine singular	1	who said
 1KI 3:27	1	25	δότε	δίδωμι	aorist active imperative, second plural	1	give
 1KI 3:27	1	26	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
