@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 TOB 12:1	1	1	ΚΑΙ	καί	conjunction, unaccented	1	and
 TOB 12:1	1	2	ἐκάλεσε	καλέω	aorist active indicative, 3rd singular	1	called
 TOB 12:1	1	3	Τωβὶτ	Τωβίτ	indeclinable personal name; case determined by syntax	1	Tobit
-TOB 12:1	1	4	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	1	Tobiah
+TOB 12:1	1	4	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	1	Tobias
 TOB 12:1	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 TOB 12:1	1	6	υἱὸν	υἱός	noun, accusative masculine singular	1	son
 TOB 12:1	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -14,8 +14,8 @@ TOB 12:1	1	12	τέκνον	τέκνον	noun, vocative neuter singular	1	child
 TOB 12:1	1	13	μισθὸν	μισθός	noun, accusative masculine singular	1	the wages
 TOB 12:1	1	14	τῷ	ὁ	article, dative masculine singular	1	to the
 TOB 12:1	1	15	ἀνθρώπῳ	ἄνθρωπος	noun, dative masculine singular	1	man
-TOB 12:1	1	16	τῷ	ὁ	article, dative masculine singular	1	who
-TOB 12:1	1	17	συνελθόντι	συνέρχομαι	aorist active participle, dative masculine singular	1	came
+TOB 12:1	1	16	τῷ	ὁ	article, dative masculine singular	1	—
+TOB 12:1	1	17	συνελθόντι	συνέρχομαι	aorist active participle, dative masculine singular	1	who came
 TOB 12:1	1	18	σοι	σύ	personal pronoun, dative singular	1	with you
 TOB 12:1	1	19	καὶ	καί	conjunction	1	and
 TOB 12:1	1	20	προσθεῖναι	προστίθημι	aorist active infinitive	1	to add
@@ -57,7 +57,7 @@ TOB 12:4	1	1	Καὶ	καί	conjunction	1	and
 TOB 12:4	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 TOB 12:4	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 TOB 12:4	1	4	πρεσβύτης	πρεσβύτης	noun, nominative masculine singular	1	old man
-TOB 12:4	1	5	δικαιοῦται	δικαιόω	present passive indicative, third singular	1	he is entitled
+TOB 12:4	1	5	δικαιοῦται	δικαιόω	present passive indicative, third singular	1	it is due
 TOB 12:4	1	6	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 TOB 12:5	1	1	Καὶ	καί	conjunction	1	and
 TOB 12:5	1	2	ἐκάλεσε	καλέω	aorist active indicative, third singular	1	summoned
@@ -151,7 +151,7 @@ TOB 12:7	1	18	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 TOB 12:8	1	1	Ἀγαθὸν	ἀγαθός	substantival adjective, accusative neuter singular	1	good
 TOB 12:8	1	2	προσευχὴ	προσευχή	noun nominative feminine singular	1	prayer
 TOB 12:8	1	3	μετὰ	μετά	preposition with genitive	1	with
-TOB 12:8	1	4	νηστείας	νηστεία	noun, genitive feminine singular	1	of fasting
+TOB 12:8	1	4	νηστείας	νηστεία	noun, genitive feminine singular	1	fasting
 TOB 12:8	1	5	καὶ	καί	conjunction	1	and
 TOB 12:8	1	6	ἐλεημοσύνης	ἐλεημοσύνη	noun, genitive feminine singular	1	charity
 TOB 12:8	1	7	καὶ	καί	conjunction	1	and
@@ -253,7 +253,7 @@ TOB 12:13	1	1	Καὶ	καί	conjunction	1	and
 TOB 12:13	1	2	ὅτε	ὅτε	temporal conjunction	1	when
 TOB 12:13	1	3	οὐκ	οὐ	negative particle	1	not
 TOB 12:13	1	4	ὤκνησας	ὀκνέω	aorist active indicative, second singular	1	you hesitated
-TOB 12:13	1	5	ἀναστῆναι	ἀνίστημι	aorist active infinitive; with accusative subject	1	got up
+TOB 12:13	1	5	ἀναστῆναι	ἀνίστημι	aorist active infinitive; with accusative subject	1	to get up
 TOB 12:13	1	6	καὶ	καί	conjunction	1	and
 TOB 12:13	1	7	καταλιπεῖν	καταλείπω	aorist active infinitive, leave (his father)	1	to leave
 TOB 12:13	1	8	τὸ	ὁ	article accusative neuter singular	1	the
@@ -337,11 +337,11 @@ TOB 12:17	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
 TOB 12:17	1	16	αἰῶνα	αἰών	noun accusative masculine singular	1	age
 TOB 12:18	1	1	ὅτι	ὅτι	causal conjunction	1	because
 TOB 12:18	1	2	οὐ	οὐ	negative particle	1	not
-TOB 12:18	1	3	τῇ	ὁ	article, dative feminine singular	1	the
+TOB 12:18	1	3	τῇ	ὁ	article, dative feminine singular	1	by the
 TOB 12:18	1	4	ἐμαυτοῦ	ἐμαυτοῦ	reflexive pronoun, first person genitive masculine singular	1	my own
 TOB 12:18	1	5	χάριτι	χάρις	noun, dative feminine singular	1	favor
 TOB 12:18	1	6	ἀλλὰ	ἀλλά	adversative conjunction	1	but
-TOB 12:18	1	7	τῇ	ὁ	article, dative feminine singular	1	the
+TOB 12:18	1	7	τῇ	ὁ	article, dative feminine singular	1	by the
 TOB 12:18	1	8	θελήσει	θέλω	future active indicative, 3rd singular	1	will
 TOB 12:18	1	9	τοῦ	ὁ	article, genitive masculine singular	1	of
 TOB 12:18	1	10	Θεοῦ	θεός	noun, genitive masculine singular	1	God
@@ -390,7 +390,7 @@ TOB 12:21	1	2	ἀνέστησαν	ἀνίστημι	aorist active indicative, th
 TOB 12:21	1	2	ἀνέστησαν			2	set out
 TOB 12:21	1	3	καὶ	καί	conjunction	1	and
 TOB 12:21	1	4	οὐκ	οὐ	negative particle	1	not
-TOB 12:21	1	5	ἔτι	ἔτι	temporal adverb	1	still
+TOB 12:21	1	5	ἔτι	ἔτι	temporal adverb	1	any more
 TOB 12:21	1	6	εἶδον	ὁράω	aorist active indicative, third plural	1	they saw
 TOB 12:21	1	7	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 TOB 12:22	1	1	Καὶ	καί	conjunction	1	and

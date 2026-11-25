@@ -3,15 +3,15 @@ TOB 13:1	1	1	ΚΑΙ	καί	conjunction	1	and
 TOB 13:1	1	2	Τωβὶτ	Τωβίτ	indeclinable personal name; case determined by syntax	1	Tobit
 TOB 13:1	1	3	ἔγραψε	γράφω	aorist active indicative, 3rd sg.	1	wrote
 TOB 13:1	1	4	προσευχὴν	προσευχή	noun accusative feminine singular	1	prayer
-TOB 13:1	1	5	εἰς	εἰς	preposition with the accusative	1	of
+TOB 13:1	1	5	εἰς	εἰς	preposition with the accusative	1	for
 TOB 13:1	1	6	ἀγαλλίασιν	ἀγαλλίασις	noun, accusative feminine singular	1	rejoicing
 TOB 13:1	1	7	καὶ	καί	conjunction	1	and
 TOB 13:1	1	8	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 TOB 13:1	1	9	εὐλογητὸς	εὐλογητός	adjective, nominative masculine singular	1	blessed
 TOB 13:1	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
 TOB 13:1	1	11	Θεὸς	θεός	noun, nominative masculine singular	1	God
-TOB 13:1	1	12	ὁ	ὁ	article, nominative masculine singular	1	who is
-TOB 13:1	1	13	ζῶν	ζάω	present active participle, nominative masculine singular	1	living
+TOB 13:1	1	12	ὁ	ὁ	article, nominative masculine singular	1	—
+TOB 13:1	1	13	ζῶν	ζάω	present active participle, nominative masculine singular	1	who lives
 TOB 13:1	1	14	εἰς	εἰς	preposition with the accusative	1	into
 TOB 13:1	1	15	τοὺς	ὁ	article accusative masculine plural	1	the
 TOB 13:1	1	16	αἰῶνας	αἰών	noun accusative masculine plural	1	ages
@@ -147,7 +147,7 @@ TOB 13:6	1	39	καὶ	καί	conjunction	1	and
 TOB 13:6	1	40	ἐξομολογήσασθε	ἐξομολογέομαι	aorist middle imperative, second plural	1	give thanks
 TOB 13:6	1	41	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 TOB 13:6	1	42	ἐν	ἐν	preposition with the dative	1	in
-TOB 13:6	1	43	ὅλῳ	ὅλος	adjective, dative masculine singular	1	your whole
+TOB 13:6	1	43	ὅλῳ	ὅλος	adjective, dative masculine singular	1	whole
 TOB 13:6	1	44	τῷ	ὁ	article, dative neuter singular	1	the
 TOB 13:6	1	45	στόματι	στόμα	noun, dative neuter singular	1	mouth
 TOB 13:6	1	46	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
@@ -169,8 +169,8 @@ TOB 13:6	1	59	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1
 TOB 13:6	1	60	ἐν	ἐν	preposition with the dative	1	in
 TOB 13:6	1	61	τῇ	ὁ	article, dative feminine singular	1	the
 TOB 13:6	1	62	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
-TOB 13:6	1	63	τῆς	ὁ	article, genitive feminine singular	1	the
-TOB 13:6	1	64	αἰχμαλωσίας	αἰχμαλωσία	noun, genitive feminine singular	1	of captivity
+TOB 13:6	1	63	τῆς	ὁ	article, genitive feminine singular	1	of the
+TOB 13:6	1	64	αἰχμαλωσίας	αἰχμαλωσία	noun, genitive feminine singular	1	captivity
 TOB 13:6	1	65	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 TOB 13:6	1	66	ἐξομολογοῦμαι	ἐξομολογέομαι	present middle indicative, first singular	1	I give thanks
 TOB 13:6	1	67	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -182,7 +182,7 @@ TOB 13:6	1	72	καὶ	καί	conjunction	1	and
 TOB 13:6	1	73	τὴν	ὁ	article, accusative fem. sg.	1	the
 TOB 13:6	1	74	μεγαλωσύνην	μεγαλωσύνη	noun, accusative feminine singular	1	greatness
 TOB 13:6	1	75	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-TOB 13:6	1	76	ἔθνει	ἔθνος	noun, dative neuter singular	1	nation
+TOB 13:6	1	76	ἔθνει	ἔθνος	noun, dative neuter singular	1	to a nation
 TOB 13:6	1	77	ἁμαρτωλῶν	ἁμαρτωλός	substantival adjective genitive masculine plural	1	of sinners
 TOB 13:6	1	78	ἐπιστρέψατε	ἐπιστρέφω	aorist active imperative, second plural	1	turn back
 TOB 13:6	1	78	ἐπιστρέψατε			2	return
@@ -248,7 +248,7 @@ TOB 13:9	1	16	τῶν	ὁ	article, genitive masculine plural	1	of the
 TOB 13:9	1	17	δικαίων	δίκαιος	substantival adjective genitive masculine plural	1	righteous
 TOB 13:10	1	1	Ἐξομολογοῦ	ἐξομολογέομαι	present middle imperative, second singular	1	give thanks
 TOB 13:10	1	2	τῷ	ὁ	article, dative masculine singular	1	to the
-TOB 13:10	1	3	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+TOB 13:10	1	3	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 TOB 13:10	1	4	ἀγαθῶς	ἀγαθῶς	adverb	1	well
 TOB 13:10	1	5	καὶ	καί	conjunction	1	and
 TOB 13:10	1	6	εὐλόγει	εὐλογέω	present active imperative second singular	1	bless
@@ -357,7 +357,7 @@ TOB 13:14	1	8	τῇ	ὁ	article, dative feminine singular	1	the
 TOB 13:14	1	9	εἰρήνῃ	εἰρήνη	noun dative feminine singular	1	peace
 TOB 13:14	1	10	σου	σύ	pronoun, possessive genitive second singular	1	your
 TOB 13:14	1	11	μακάριοι	μακάριος	adjective nominative masculine plural	1	blessed
-TOB 13:14	1	12	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	1	whoever (were)
+TOB 13:14	1	12	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	1	whoever
 TOB 13:14	1	13	ἐλυπήθησαν	λυπέω	aorist passive indicative, third plural	1	were distressed
 TOB 13:14	1	14	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 TOB 13:14	1	15	πάσαις	πᾶς	adjective, dative feminine plural	1	all
@@ -438,7 +438,7 @@ TOB 13:18	1	11	εὐλογητὸς	εὐλογητός	adjective nominative mas
 TOB 13:18	1	12	ὁ	ὁ	article nominative masculine singular	1	the
 TOB 13:18	1	13	Θεὸς	θεός	noun nominative masculine singular	1	God
 TOB 13:18	1	14	ὃς	ὅς	relative pronoun nominative masculine singular	1	who
-TOB 13:18	1	15	ὕψωσεν	ὑψόω	aorist active indicative, third singular	1	exalted you
+TOB 13:18	1	15	ὕψωσεν	ὑψόω	aorist active indicative, third singular	1	exalted
 TOB 13:18	1	16	εἰς	εἰς	preposition with the accusative	1	into
 TOB 13:18	1	17	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 TOB 13:18	1	18	τοὺς	ὁ	article, accusative masculine plural	1	the

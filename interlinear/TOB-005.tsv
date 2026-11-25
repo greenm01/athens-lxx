@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 TOB 5:1	1	1	ΚΑΙ	καί	conjunction	1	and
 TOB 5:1	1	2	ἀποκριθεὶς	ἀποκρίνομαι	aorist passive participle, nominative masculine singular	1	answering
-TOB 5:1	1	3	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	1	Tobiah
+TOB 5:1	1	3	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	1	Tobias
 TOB 5:1	1	4	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 TOB 5:1	1	5	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 TOB 5:1	1	6	πάτερ	πατήρ	noun, vocative masculine singular	1	father
@@ -65,7 +65,7 @@ TOB 5:4	1	14	ᾔδει	οἶδα	pluperfect active indicative, third singular	1	
 TOB 5:5	1	1	Καὶ	καί	conjunction	1	and
 TOB 5:5	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 TOB 5:5	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-TOB 5:5	1	4	εἰ	εἰ	conditional conjunction	1	whether
+TOB 5:5	1	4	εἰ	εἰ	conditional conjunction	1	[marks a question]
 TOB 5:5	1	5	δύναμαι	δύναμαι	present middle indicative, first singular	1	I am able
 TOB 5:5	1	5	δύναμαι			2	I can
 TOB 5:5	1	6	πορευθῆναι	πορεύομαι	aorist passive-form infinitive of purpose, active in sense	1	to go
@@ -74,13 +74,13 @@ TOB 5:5	1	7	μετὰ	μετά	preposition with genitive	1	with
 TOB 5:5	1	8	σοῦ	σύ	personal pronoun, emphatic genitive singular	1	you
 TOB 5:5	1	9	ἐν	ἐν	preposition with the dative	1	to
 TOB 5:5	1	10	Ῥάγοις	Ῥάγοι	noun, dative masculine plural	1	Rages
-TOB 5:5	1	11	τῆς	ὁ	article, genitive feminine singular	1	in
+TOB 5:5	1	11	τῆς	ὁ	article, genitive feminine singular	1	of
 TOB 5:5	1	12	Μηδίας	Μηδία	noun, genitive feminine singular	1	Media
 TOB 5:5	1	13	καὶ	καί	conjunction	1	and
-TOB 5:5	1	14	εἰ	εἰ	conditional conjunction	1	whether
+TOB 5:5	1	14	εἰ	εἰ	conditional conjunction	1	[marks a question]
 TOB 5:5	1	15	ἔμπειρος	ἔμπειρος	adjective, nominative masculine singular	1	familiar
 TOB 5:5	1	16	εἶ	εἰμί	present indicative, second singular	1	are
-TOB 5:5	1	17	τῶν	ὁ	article, genitive plural	1	the
+TOB 5:5	1	17	τῶν	ὁ	article, genitive plural	1	with the
 TOB 5:5	1	18	τόπων	τόπος	noun, genitive masculine plural	1	places
 TOB 5:6	1	1	Καὶ	καί	conjunction	1	and
 TOB 5:6	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
@@ -106,7 +106,7 @@ TOB 5:6	1	19	ηὐλίσθην	αὐλίζομαι	aorist passive indicative fir
 TOB 5:7	1	1	Καὶ	καί	conjunction	1	and
 TOB 5:7	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 TOB 5:7	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-TOB 5:7	1	4	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	1	Tobiah
+TOB 5:7	1	4	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	1	Tobias
 TOB 5:7	1	5	ὑπόμεινόν	ὑπομένω	aorist active imperative, second singular	1	wait for
 TOB 5:7	1	6	με	ἐγώ	personal pronoun accusative first singular	1	me
 TOB 5:7	1	7	καὶ	καί	conjunction	1	and
@@ -131,7 +131,7 @@ TOB 5:9	1	7	εὕρηκα	εὑρίσκω	perfect active indicative, first singu
 TOB 5:9	1	8	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
 TOB 5:9	1	9	συμπορεύσεταί	συμπορεύομαι	future middle indicative, third singular	1	will travel with
 TOB 5:9	1	10	μοι	ἐγώ	personal pronoun, dative singular	1	me
-TOB 5:9	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
+TOB 5:9	1	11	ὁ	ὁ	article, nominative masculine singular	1	he
 TOB 5:9	1	12	δὲ	δέ	postpositive conjunction	1	and
 TOB 5:9	1	13	εἶπε	λέγω	aorist active indicative, third singular	1	said
 TOB 5:9	1	14	φώνησον	φωνέω	aorist active imperative, second singular	1	call
@@ -139,7 +139,7 @@ TOB 5:9	1	15	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	h
 TOB 5:9	1	16	πρὸς	πρός	preposition with the accusative	1	to
 TOB 5:9	1	17	μὲ	ἐγώ	personal pronoun, accusative first singular	1	me
 TOB 5:9	1	18	ἵνα	ἵνα	conjunction	1	so that
-TOB 5:9	1	19	ἐπιγνῶ	ἐπιγινώσκω	aorist active subjunctive, first singular form with third singular context	1	will recognize
+TOB 5:9	1	19	ἐπιγνῶ	ἐπιγινώσκω	aorist active subjunctive, first singular form with third singular context	1	I may learn
 TOB 5:9	1	20	ποίας	ποῖος	adjective, genitive feminine singular; interrogative	1	what
 TOB 5:9	1	20	ποίας			2	which
 TOB 5:9	1	21	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
@@ -191,7 +191,7 @@ TOB 5:12	1	6	πατριὰν	πατριά	noun, accusative feminine singular	1	f
 TOB 5:12	1	7	σὺ	σύ	personal pronoun, nominative singular	1	you
 TOB 5:12	1	8	ζητεῖς	ζητέω	present active indicative, second singular	1	are you looking for
 TOB 5:12	1	9	ἢ	ἤ	disjunctive conjunction	1	or
-TOB 5:12	1	10	μίσθιον	μίσθιον	noun, accusative neuter singular	1	payment for someone
+TOB 5:12	1	10	μίσθιον	μίσθιον	noun, accusative neuter singular	1	a hired man
 TOB 5:12	1	11	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
 TOB 5:12	1	12	συμπορεύσεται	συμπορεύομαι	future middle indicative, third singular	1	will travel
 TOB 5:12	1	13	μετὰ	μετά	preposition with the genitive	1	with
@@ -231,7 +231,7 @@ TOB 5:14	1	6	ἀδελφὲ	ἀδελφός	noun, vocative masculine singular	1	
 TOB 5:14	1	7	καὶ	καί	conjunction	1	and
 TOB 5:14	1	8	μή	μή	negative particle	1	not
 TOB 5:14	1	9	μοι	ἐγώ	personal pronoun, dative singular	1	to me
-TOB 5:14	1	10	ὀργισθῇς	ὀργίζω	aorist passive subjunctive second singular	1	will you be angry
+TOB 5:14	1	10	ὀργισθῇς	ὀργίζω	aorist passive subjunctive second singular	1	be angry
 TOB 5:14	1	11	ὅτι	ὅτι	causal conjunction	1	because
 TOB 5:14	1	12	ἐζήτησα	ζητέω	aorist active indicative first singular	1	I sought
 TOB 5:14	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -246,7 +246,7 @@ TOB 5:14	1	20	ἐπιγνῶναι	ἐπιγινώσκω	aorist active infinitiv
 TOB 5:14	1	20	ἐπιγνῶναι			2	to find out
 TOB 5:14	1	21	καὶ	καί	conjunction	1	and
 TOB 5:14	1	22	σὺ	σύ	personal pronoun nominative second singular	1	you
-TOB 5:14	1	23	τυγχάνεις	τυγχάνω	present active indicative, second singular	1	do you belong
+TOB 5:14	1	23	τυγχάνεις	τυγχάνω	present active indicative, second singular	1	happen to be
 TOB 5:14	1	24	ἀδελφός	ἀδελφός	noun, nominative masculine singular	1	brother
 TOB 5:14	1	25	μου	ἐγώ	personal pronoun, genitive first singular	1	my
 TOB 5:14	1	26	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -311,7 +311,7 @@ TOB 5:15	1	14	δέοντά	δέω	present active participle, accusative neuter p
 TOB 5:15	1	15	σοι	σύ	personal pronoun, dative singular	1	to you
 TOB 5:15	1	16	ὡς	ὡς	comparative particle	1	as
 TOB 5:15	1	17	καὶ	καί	conjunction	1	and
-TOB 5:15	1	18	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+TOB 5:15	1	18	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 TOB 5:15	1	19	υἱῷ	υἱός	noun, dative masculine singular	1	son
 TOB 5:15	1	20	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 TOB 5:16	1	1	καὶ	καί	conjunction	1	and
@@ -331,7 +331,7 @@ TOB 5:17	1	3	οὕτως	οὕτως	adverb	1	thus
 TOB 5:17	1	4	καὶ	καί	conjunction	1	and
 TOB 5:17	1	5	εἶπε	λέγω	aorist active indicative, third singular	1	said
 TOB 5:17	1	6	πρὸς	πρός	preposition with the accusative	1	to
-TOB 5:17	1	7	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	1	Tobiah
+TOB 5:17	1	7	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	1	Tobias
 TOB 5:17	1	8	ἕτοιμος	ἕτοιμος	adjective, nominative masc. sg.	1	ready
 TOB 5:17	1	9	γίνου	γίνομαι	present middle imperative, 2nd singular	1	be
 TOB 5:17	1	10	πρὸς	πρός	preposition with the accusative	1	to

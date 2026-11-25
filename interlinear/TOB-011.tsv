@@ -3,8 +3,8 @@ TOB 11:1	1	1	ΚΑΙ	καί	conjunction	1	and
 TOB 11:1	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 TOB 11:1	1	3	Ῥαφαὴλ	Ῥαφαήλ	indeclinable personal name, nominative in context	1	Raphael
 TOB 11:1	1	4	πρὸς	πρός	preposition with the accusative	1	to
-TOB 11:1	1	5	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	1	Tobiah
-TOB 11:1	1	6	οὐ	οὐ	negative particle	1	do you not
+TOB 11:1	1	5	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	1	Tobias
+TOB 11:1	1	6	οὐ	οὐ	negative particle	1	not
 TOB 11:1	1	7	γινώσκεις	γινώσκω	present active indicative, second singular	1	you know
 TOB 11:1	1	8	ἀδελφὲ	ἀδελφός	noun, vocative masculine singular	1	brother
 TOB 11:1	1	9	πῶς	πῶς	interrogative adverb	1	how
@@ -65,8 +65,8 @@ TOB 11:5	1	14	ἔρχεται	ἔρχομαι	present middle indicative, third s
 TOB 11:5	1	15	καὶ	καί	conjunction	1	and
 TOB 11:5	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
 TOB 11:5	1	17	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
-TOB 11:5	1	18	ὁ	ὁ	article, nominative masculine singular	1	the
-TOB 11:5	1	19	πορευθεὶς	πορεύομαι	aorist passive participle, nominative masculine singular; middle sense	1	having journeyed
+TOB 11:5	1	18	ὁ	ὁ	article, nominative masculine singular	1	—
+TOB 11:5	1	19	πορευθεὶς	πορεύομαι	aorist passive participle, nominative masculine singular; middle sense	1	who journeyed
 TOB 11:5	1	19	πορευθεὶς			2	travelling
 TOB 11:5	1	20	μετ᾽	μετά	elided preposition with the genitive	1	with
 TOB 11:5	1	21	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
@@ -76,14 +76,14 @@ TOB 11:6	1	3	εἶπεν	λέγω	aorist active indicative, third singular	1	sai
 TOB 11:6	1	4	ἐπίσταμαι	ἐπίσταμαι	present middle indicative, first singular	1	I know
 TOB 11:6	1	4	ἐπίσταμαι			2	I understand
 TOB 11:6	1	5	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-TOB 11:6	1	6	Τωβία	Τωβίας	personal name, vocative in context	1	Tobiah
+TOB 11:6	1	6	Τωβία	Τωβίας	personal name, vocative in context	1	Tobias
 TOB 11:6	1	7	ὅτι	ὅτι	causal conjunction	1	that
 TOB 11:6	1	8	ἀνοίξει	ἀνοίγω	future active indicative, third singular	1	will open
 TOB 11:6	1	9	τοὺς	ὁ	article, accusative masculine plural	1	the
 TOB 11:6	1	10	ὀφθαλμοὺς	ὀφθαλμός	noun, accusative masculine plural	1	eyes
-TOB 11:6	1	11	ὁ	ὁ	article, nominative masculine singular	1	your
+TOB 11:6	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 TOB 11:6	1	12	πατήρ	πατήρ	noun, nominative masculine singular	1	father
-TOB 11:6	1	13	σου	σύ	pronoun, possessive genitive second singular	1	own
+TOB 11:6	1	13	σου	σύ	pronoun, possessive genitive second singular	1	your
 TOB 11:7	1	1	Σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 TOB 11:7	1	2	οὖν	οὖν	postpositive conjunction	1	therefore
 TOB 11:7	1	2	οὖν			2	then
@@ -111,8 +111,8 @@ TOB 11:8	1	4	ἔπεσεν	πίπτω	aorist active indicative, third singular	1
 TOB 11:8	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	on
 TOB 11:8	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
 TOB 11:8	1	7	τράχηλον	τράχηλος	noun, accusative masculine singular	1	neck
-TOB 11:8	1	8	τοῦ	ὁ	article, genitive masculine singular	1	the
-TOB 11:8	1	9	υἱοῦ	υἱός	noun, genitive masculine singular	1	of the son
+TOB 11:8	1	8	τοῦ	ὁ	article, genitive masculine singular	1	of the
+TOB 11:8	1	9	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 TOB 11:8	1	10	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 TOB 11:8	1	11	καὶ	καί	conjunction	1	and
 TOB 11:8	1	12	εἶπεν	λέγω	aorist active indicative, third singular	1	she said
@@ -220,7 +220,7 @@ TOB 11:14	1	4	ἠλέησάς			2	you took pity
 TOB 11:14	1	5	με	ἐγώ	personal pronoun, accusative singular	1	me
 TOB 11:14	1	6	ἰδοὺ	ἰδού	presentative particle	1	behold
 TOB 11:14	1	7	βλέπω	βλέπω	present active indicative, first singular	1	I see
-TOB 11:14	1	8	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	1	Tobiah
+TOB 11:14	1	8	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	1	Tobias
 TOB 11:14	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
 TOB 11:14	1	10	υἱόν	υἱός	noun, accusative masculine singular	1	son
 TOB 11:14	1	11	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
@@ -238,7 +238,7 @@ TOB 11:14	1	21	πατρὶ	πατήρ	noun, dative masculine singular	1	father
 TOB 11:14	1	22	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 TOB 11:14	1	23	τὰ	ὁ	article, accusative neuter plural	1	the
 TOB 11:14	1	24	μεγαλεῖα	μεγαλεῖον	noun, accusative neuter plural	1	great deeds
-TOB 11:14	1	25	τὰ	ὁ	article, accusative neuter plural	1	the
+TOB 11:14	1	25	τὰ	ὁ	article, accusative neuter plural	1	—
 TOB 11:14	1	26	γενόμενα	γίνομαι	aorist middle participle, accusative neuter plural	1	that happened
 TOB 11:14	1	27	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 TOB 11:14	1	28	ἐν	ἐν	preposition with the dative	1	in
@@ -286,7 +286,7 @@ TOB 11:16	1	12	ὡς	ὡς	comparative particle	1	as
 TOB 11:16	1	13	ἤγγισε	ἐγγίζω	aorist active indicative, third singular	1	came near
 TOB 11:16	1	13	ἤγγισε			2	approached
 TOB 11:16	1	14	Τωβὶτ	Τωβίτ	indeclinable personal name; case determined by syntax	1	Tobit
-TOB 11:16	1	15	Σάῤῥᾳ	Σάῤῥα	indeclinable personal name, dative in context	1	Sarah
+TOB 11:16	1	15	Σάῤῥᾳ	Σάῤῥα	indeclinable personal name, dative in context	1	to Sarah
 TOB 11:16	1	16	τῇ	ὁ	article, dative feminine singular	1	the
 TOB 11:16	1	17	νύμφῃ	νύμφη	noun, dative feminine singular after τῇ, daughter-in-law	1	daughter-in-law
 TOB 11:16	1	18	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -323,7 +323,7 @@ TOB 11:16	1	48	ἀδελφοῖς	ἀδελφός	noun, dative masculine plural	
 TOB 11:16	1	49	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 TOB 11:17	1	1	Καὶ	καί	conjunction	1	and
 TOB 11:17	1	2	παρεγένετο	παραγίνομαι	aorist middle indicative, third singular	1	came
-TOB 11:17	1	3	Ἀχιάχαρος	Ἀχιάχαρος	noun, nominative masculine singular	1	Achiacharos
+TOB 11:17	1	3	Ἀχιάχαρος	Ἀχιάχαρος	noun, nominative masculine singular	1	Achiacharus
 TOB 11:17	1	3	Ἀχιάχαρος			2	Ahikar
 TOB 11:17	1	4	καὶ	καί	conjunction	1	and
 TOB 11:17	1	5	Νασβὰς	Νασβάς	indeclinable personal name, nominative in context	1	Nasbas
@@ -334,7 +334,7 @@ TOB 11:18	1	1	καὶ	καί	conjunction	1	and
 TOB 11:18	1	2	ἤχθη	ἄγω	aorist passive indicative, third singular	1	was held
 TOB 11:18	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 TOB 11:18	1	4	γάμος	γάμος	noun, nominative masculine singular	1	wedding feast
-TOB 11:18	1	5	Τωβία	Τωβίας	noun, nominative masculine singular; proper	1	of Tobiah
+TOB 11:18	1	5	Τωβία	Τωβίας	noun, nominative masculine singular; proper	1	of Tobias
 TOB 11:18	1	6	μετ᾽	μετά	preposition; with genitive, accompaniment; with accusative, sequence	1	with
 TOB 11:18	1	6	μετ᾽			2	after
 TOB 11:18	1	7	εὐφροσύνης	εὐφροσύνη	noun, genitive feminine singular	1	gladness
