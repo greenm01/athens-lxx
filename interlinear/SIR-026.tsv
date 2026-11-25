@@ -33,14 +33,14 @@ SIR 26:3	1	4	ἀγαθή	ἀγαθός	adjective, nominative feminine singular	1
 SIR 26:3	1	5	ἐν	ἐν	preposition with the dative	1	in
 SIR 26:3	1	6	μερίδι	μερίς	noun, dative feminine singular	1	portion
 SIR 26:3	1	6	μερίδι			2	part
-SIR 26:3	1	7	φοβουμένων	φοβέομαι	present middle participle genitive masculine plural	1	of one who fears
+SIR 26:3	1	7	φοβουμένων	φοβέομαι	present middle participle genitive masculine plural	1	of those who fear
 SIR 26:3	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 SIR 26:3	1	9	Κύριον	κύριος	noun, accusative masculine singular	1	Lord
 SIR 26:3	1	10	δοθήσεται	δίδωμι	future passive indicative, third person singular	1	will be given
-SIR 26:4	1	1	Πλουσίου	πλούσιος	adjective, genitive masculine singular	1	rich
+SIR 26:4	1	1	Πλουσίου	πλούσιος	adjective, genitive masculine singular	1	of a rich person
 SIR 26:4	1	2	δὲ	δέ	postpositive conjunction	1	now
 SIR 26:4	1	3	καὶ	καί	conjunction	1	and
-SIR 26:4	1	4	πτωχοῦ	πτωχός	adjective, genitive masculine singular; substantival	1	poor person
+SIR 26:4	1	4	πτωχοῦ	πτωχός	adjective, genitive masculine singular; substantival	1	of a poor person
 SIR 26:4	1	4	πτωχοῦ			2	the poor
 SIR 26:4	1	5	καρδία	καρδία	noun, nominative feminine singular	1	heart
 SIR 26:4	1	6	ἀγαθὴ	ἀγαθός	adjective, nominative feminine singular	1	good
@@ -68,7 +68,7 @@ SIR 26:5	1	12	διαβολὴν	διαβολή	noun, accusative feminine singula
 SIR 26:5	1	13	πόλεως	πόλις	noun, genitive feminine singular	1	of a city
 SIR 26:5	1	14	καὶ	καί	conjunction	1	and
 SIR 26:5	1	15	ἐκκλησίαν	ἐκκλησία	noun, accusative feminine singular	1	assembly
-SIR 26:5	1	16	ὄχλου	ὄχλος	noun, genitive masculine singular	1	a crowd
+SIR 26:5	1	16	ὄχλου	ὄχλος	noun, genitive masculine singular	1	of a crowd
 SIR 26:5	1	17	καὶ	καί	conjunction	1	and
 SIR 26:5	1	18	καταψευσμὸν	καταψευσμός	noun, accusative masculine singular	1	false accusation
 SIR 26:5	1	19	ὑπὲρ	ὑπέρ	preposition with the accusative, comparative 'above/more than'	1	worse than
@@ -91,7 +91,7 @@ SIR 26:6	1	12	πᾶσιν	πᾶς	adjective, dative neuter plural	1	with everyon
 SIR 26:6	1	13	ἐπικοινωνοῦσα	ἐπικοινωνέω	present active participle, nominative feminine singular	1	sharing
 SIR 26:7	1	1	Βοοζύγιον	βοοζύγιον	noun, nominative neuter singular	1	yoke of oxen
 SIR 26:7	1	2	σαλευόμενον	σαλεύω	present middle/passive participle, nominative neuter singular	1	shaken
-SIR 26:7	1	3	γυνὴ	γυνή	noun, nominative feminine singular	1	an evil woman
+SIR 26:7	1	3	γυνὴ	γυνή	noun, nominative feminine singular	1	woman
 SIR 26:7	1	4	πονηρά	πονηρός	substantival adjective, accusative neuter plural	1	evil
 SIR 26:7	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 SIR 26:7	1	6	κρατῶν	κρατέω	present active participle, nominative masculine singular	1	holding fast to
@@ -113,10 +113,10 @@ SIR 26:8	1	11	μὴ	μή	negative with subjunctive/optative (wish/prohibition fr
 SIR 26:8	1	12	συγκαλύψει	συγκαλύπτω	future active indicative, 3rd singular	1	shall cover
 SIR 26:9	1	1	Πορνεία	πορνεία	noun, nominative feminine singular	1	sexual immorality
 SIR 26:9	1	1	Πορνεία			2	prostitution
-SIR 26:9	1	2	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
+SIR 26:9	1	2	γυναικὸς	γυνή	noun, genitive feminine singular	1	of a woman
 SIR 26:9	1	3	ἐν	ἐν	preposition with the dative	1	in
 SIR 26:9	1	4	μετεωρισμῷ	μετεωρισμός	noun, dative masculine singular	1	roving
-SIR 26:9	1	5	ὀφθαλμῶν	ὀφθαλμός	noun, genitive masculine plural	1	eyes
+SIR 26:9	1	5	ὀφθαλμῶν	ὀφθαλμός	noun, genitive masculine plural	1	of eyes
 SIR 26:9	1	6	καὶ	καί	conjunction	1	and
 SIR 26:9	1	7	ἐν	ἐν	preposition with the dative	1	in
 SIR 26:9	1	8	τοῖς	ὁ	article, dative neuter plural	1	the
@@ -135,7 +135,7 @@ SIR 26:10	1	8	εὑροῦσα			2	having found
 SIR 26:10	1	9	ἄνεσιν	ἄνεσις	noun, accusative feminine singular	1	permission
 SIR 26:10	1	10	ἑαυτῇ	ἑαυτοῦ	pronoun, dative feminine singular; reflexive	1	herself
 SIR 26:10	1	11	χρήσηται	χράομαι	aorist middle subjunctive, third singular	1	she may use
-SIR 26:11	1	1	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	against
+SIR 26:11	1	1	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	after
 SIR 26:11	1	2	ἀναιδοῦς	ἀναιδής	adjective, genitive feminine singular	1	shameless
 SIR 26:11	1	3	ὀφθαλμοῦ	ὀφθαλμός	noun, genitive masculine singular	1	eye
 SIR 26:11	1	4	φύλαξαι	φυλάσσω	aorist middle imperative, second singular	1	watch yourself
@@ -156,7 +156,7 @@ SIR 26:12	1	6	καὶ	καί	conjunction	1	and
 SIR 26:12	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
 SIR 26:12	1	8	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
 SIR 26:12	1	9	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
-SIR 26:12	1	10	τοῦ	ὁ	article, genitive masculine singular	1	of the
+SIR 26:12	1	10	τοῦ	ὁ	article, genitive masculine singular	1	—
 SIR 26:12	1	11	σύνεγγυς	σύνεγγυς	adverb	1	nearby
 SIR 26:12	1	12	πίεται	πίνω	future middle indicative, 3rd singular	1	shall drink
 SIR 26:12	1	13	κατέναντι	κατέναντι	preposition with the genitive	1	by
@@ -164,13 +164,13 @@ SIR 26:12	1	14	παντὸς	πᾶς	adjective, genitive neuter singular	1	any
 SIR 26:12	1	15	πασσάλου	πάσσαλος	noun, genitive masculine singular	1	peg
 SIR 26:12	1	16	καθήσεται	κάθημαι	future middle indicative, third singular	1	shall sit
 SIR 26:12	1	17	καὶ	καί	conjunction	1	and
-SIR 26:12	1	18	ἔναντι	ἔναντι	preposition with genitive	1	to
+SIR 26:12	1	18	ἔναντι	ἔναντι	preposition with genitive	1	before
 SIR 26:12	1	19	βέλους	βέλος	noun, genitive neuter singular	1	arrow
 SIR 26:12	1	19	βέλους			2	projectile
 SIR 26:12	1	20	ἀνοίξει	ἀνοίγω	future active indicative, third singular	1	will open
 SIR 26:12	1	21	φαρέτραν	φαρέτρα	noun, accusative feminine singular	1	quiver
 SIR 26:13	1	1	Χάρις	χάρις	noun nominative feminine singular	1	favor
-SIR 26:13	1	2	γυναικὸς	γυνή	noun, genitive feminine singular	1	woman
+SIR 26:13	1	2	γυναικὸς	γυνή	noun, genitive feminine singular	1	of a woman
 SIR 26:13	1	3	τέρψει	τέρψις	noun, dative feminine singular	1	will delight
 SIR 26:13	1	4	ἄνδρα	ἀνήρ	noun, accusative masculine singular	1	husband
 SIR 26:13	1	5	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	her
@@ -187,7 +187,7 @@ SIR 26:14	1	2	Κυρίου	κύριος	noun, genitive masculine singular	1	of t
 SIR 26:14	1	3	γυνὴ	γυνή	noun, nominative feminine singular	1	woman
 SIR 26:14	1	4	σιγηρὰ	σιγηρός	adjective, nominative feminine singular	1	quiet
 SIR 26:14	1	5	καὶ	καί	conjunction	1	and
-SIR 26:14	1	6	εὔνους	εὔνους	adjective, nominative feminine singular	1	sensible
+SIR 26:14	1	6	εὔνους	εὔνους	adjective, nominative feminine singular	1	kindly
 SIR 26:14	1	7	καὶ	καί	conjunction	1	and
 SIR 26:14	1	8	οὐκ	οὐ	negative particle	1	not
 SIR 26:14	1	9	ἔστιν	εἰμί	present indicative, third singular	1	is
@@ -207,7 +207,7 @@ SIR 26:15	1	9	οὐκ	οὐ	negative particle	1	not
 SIR 26:15	1	10	ἔστι	εἰμί	present active indicative, third singular	1	is
 SIR 26:15	1	11	σταθμὸς	σταθμός	noun, nominative masculine singular	1	measure
 SIR 26:15	1	12	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
-SIR 26:15	1	13	ἄξιος	ἄξιος	adjective, nominative masculine singular	1	value
+SIR 26:15	1	13	ἄξιος	ἄξιος	adjective, nominative masculine singular	1	worthy of
 SIR 26:15	1	14	ἐγκρατοῦς	ἐγκρατής	adjective, genitive feminine singular	1	self-controlled
 SIR 26:15	1	15	ψυχῆς	ψυχή	noun, genitive feminine singular	1	soul
 SIR 26:16	1	1	Ἥλιος	ἥλιος	noun nominative masculine singular	1	sun
@@ -261,9 +261,9 @@ SIR 26:19	1	11	τὴν	ὁ	article, accusative fem. sg.	1	the
 SIR 26:19	1	12	ἰσχύν	ἰσχύς	noun, accusative feminine singular	1	strength
 SIR 26:19	1	13	σου	σύ	pronoun, genitive 2nd singular	1	your
 SIR 26:20	1	1	Ἀναζητήσας	ἀναζητέω	aorist active participle, nominative masculine singular	1	seeking out
-SIR 26:20	1	2	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
+SIR 26:20	1	2	παντὸς	πᾶς	adjective, genitive neuter singular	1	of every
 SIR 26:20	1	3	πεδίου	πεδίον	noun, genitive neuter singular	1	field
-SIR 26:20	1	4	εὔγεων	εὔγεως	noun, accusative feminine singular	1	fertile ground
+SIR 26:20	1	4	εὔγεων	εὔγεως	noun, accusative feminine singular	1	fertile
 SIR 26:20	1	5	κλῆρον	κλῆρος	noun, accusative masculine singular	1	a plot
 SIR 26:20	1	6	σπεῖρε	σπείρω	present active imperative, second singular	1	sow
 SIR 26:20	1	7	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -280,9 +280,9 @@ SIR 26:21	1	4	σου	σύ	pronoun, genitive 2nd singular	1	your
 SIR 26:21	1	5	περιόντα	περίειμι	present active participle, accusative masculine plural	1	surviving
 SIR 26:21	1	6	καὶ	καί	conjunction	1	and
 SIR 26:21	1	7	παρρησίαν	παρρησία	noun, accusative feminine singular	1	boldness
-SIR 26:21	1	8	εὐγενείας	εὐγένεια	noun, genitive feminine singular	1	noble birth
+SIR 26:21	1	8	εὐγενείας	εὐγένεια	noun, genitive feminine singular	1	of noble birth
 SIR 26:21	1	9	ἔχοντα	ἔχω	present active participle, accusative neuter singular	1	having
-SIR 26:21	1	10	μεγαλυνοῦσι	μεγαλύνω	present active indicative, third plural	1	magnify
+SIR 26:21	1	10	μεγαλυνοῦσι	μεγαλύνω	present active indicative, third plural	1	will grow great
 SIR 26:22	1	1	Γυνὴ	γυνή	noun, nominative feminine singular	1	woman
 SIR 26:22	1	2	μισθία	μίσθιος	adjective, nominative feminine singular	1	hired
 SIR 26:22	1	3	ἴση	ἴσος	adjective, nominative feminine singular	1	equal
@@ -337,8 +337,8 @@ SIR 26:26	1	1	Γυνὴ	γυνή	noun, nominative feminine singular	1	woman
 SIR 26:26	1	2	ἄνδρα	ἀνήρ	noun, accusative masculine singular	1	her husband
 SIR 26:26	1	3	ἴδιον	ἴδιος	adjective, accusative neuter singular	1	own
 SIR 26:26	1	4	τιμῶσα	τιμάω	present active participle, nominative feminine singular	1	honoring
-SIR 26:26	1	5	σοφὴ	σοφός	adjective, nominative feminine singular	1	skilled
-SIR 26:26	1	5	σοφὴ			2	wise
+SIR 26:26	1	5	σοφὴ	σοφός	adjective, nominative feminine singular	1	wise
+SIR 26:26	1	5	σοφὴ			2	skilled
 SIR 26:26	1	6	πᾶσι	πᾶς	adjective, dative neuter plural	1	to all
 SIR 26:26	1	7	φανήσεται	φαίνω	future passive indicative, third singular	1	will appear
 SIR 26:26	1	8	ἀτιμάζουσα	ἀτιμάζω	present active participle, nominative feminine singular	1	dishonoring
@@ -359,15 +359,15 @@ SIR 26:27	1	8	εἰς	εἰς	preposition with the accusative	1	for
 SIR 26:27	1	9	τροπὴν	τροπή	noun, accusative feminine singular	1	rout
 SIR 26:27	1	9	τροπὴν			2	flight
 SIR 26:27	1	10	θεωρηθήσεται	θεωρέω	future passive indicative, third singular	1	will be regarded
-SIR 26:27	1	11	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
+SIR 26:27	1	11	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of man
 SIR 26:27	1	12	δὲ	δέ	postpositive conjunction	1	and
 SIR 26:27	1	13	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
 SIR 26:27	1	14	ψυχὴ	ψυχή	noun, nominative feminine singular	1	soul
 SIR 26:27	1	15	ὁμοιότροπος	ὁμοιότροπος	adjective, nominative masculine singular	1	of similar character
-SIR 26:27	1	16	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	1	these things
-SIR 26:27	1	17	πολέμου	πόλεμος	noun, genitive masculine singular	1	war
+SIR 26:27	1	16	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	1	to these
+SIR 26:27	1	17	πολέμου	πόλεμος	noun, genitive masculine singular	1	of war
 SIR 26:27	1	17	πολέμου			2	battle
-SIR 26:27	1	18	ἀκαταστασίαις	ἀκαταστασία	noun, dative feminine plural	1	disorders
+SIR 26:27	1	18	ἀκαταστασίαις	ἀκαταστασία	noun, dative feminine plural	1	in disorders
 SIR 26:27	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
 SIR 26:27	1	20	ψυχὴν	ψυχή	noun accusative feminine singular	1	in soul
 SIR 26:27	1	21	διαιτηθήσεται	διαιτάω	future passive indicative, third singular	1	will live

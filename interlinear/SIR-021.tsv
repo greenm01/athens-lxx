@@ -37,8 +37,8 @@ SIR 21:3	1	3	δίστομος	δίστομος	adjective, nominative feminine si
 SIR 21:3	1	4	πᾶσα	πᾶς	adjective nominative feminine singular	1	all
 SIR 21:3	1	5	ἀνομία	ἀνομία	noun, nominative feminine singular	1	lawlessness
 SIR 21:3	1	6	καὶ	καί	conjunction	1	and
-SIR 21:3	1	7	τῇ	ὁ	article, dative feminine singular	1	the
-SIR 21:3	1	8	πληγῇ	πληγή	noun, dative feminine singular	1	plague
+SIR 21:3	1	7	τῇ	ὁ	article, dative feminine singular	1	for the
+SIR 21:3	1	8	πληγῇ	πληγή	noun, dative feminine singular	1	wound
 SIR 21:3	1	9	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	its
 SIR 21:3	1	10	οὐκ	οὐ	negative particle	1	not
 SIR 21:3	1	11	ἔστιν	εἰμί	present indicative, third singular	1	is
@@ -56,11 +56,11 @@ SIR 21:4	1	7	οἶκος	οἶκος	noun, nominative masculine singular	1	house
 SIR 21:4	1	8	ὑπερηφάνων	ὑπερήφανος	substantival adjective genitive masculine plural	1	of the proud
 SIR 21:4	1	9	ἐρημωθήσεται	ἐρημόω	future passive indicative, third singular	1	will be made desolate
 SIR 21:5	1	1	Δέησις	δέησις	noun, nominative feminine singular	1	prayer
-SIR 21:5	1	2	πτωχοῦ	πτωχός	adjective, genitive masculine singular; substantival	1	poor person
+SIR 21:5	1	2	πτωχοῦ	πτωχός	adjective, genitive masculine singular; substantival	1	of a poor person
 SIR 21:5	1	2	πτωχοῦ			2	the poor
 SIR 21:5	1	3	ἐκ	ἐκ	preposition with the genitive	1	from
 SIR 21:5	1	4	στόματος	στόμα	noun, genitive neuter singular	1	mouth
-SIR 21:5	1	5	ἕως	ἕως	preposition with the genitive	1	until
+SIR 21:5	1	5	ἕως	ἕως	preposition with the genitive	1	as far as
 SIR 21:5	1	6	ὠτίων	ὠτίον	noun, genitive neuter plural	1	ears
 SIR 21:5	1	7	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 21:5	1	8	καὶ	καί	conjunction	1	and
@@ -80,7 +80,7 @@ SIR 21:6	1	7	ὁ	ὁ	article nominative masculine singular	1	the one
 SIR 21:6	1	8	φοβούμενος	φοβέομαι	present middle participle nominative masculine singular	1	fearing
 SIR 21:6	1	9	Κύριον	κύριος	noun, accusative masculine singular, the Lord	1	the Lord
 SIR 21:6	1	10	ἐπιστρέψει	ἐπιστρέφω	future active indicative, 3rd singular	1	will turn
-SIR 21:6	1	11	ἐπὶ	ἐπί	preposition (case from context)	1	with
+SIR 21:6	1	11	ἐπὶ	ἐπί	preposition (case from context)	1	to
 SIR 21:6	1	12	καρδίαν	καρδία	noun, accusative feminine singular	1	heart
 SIR 21:6	1	13	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 21:7	1	1	Γνωστὸς	γνωστός	adjective, nominative masculine singular	1	known
@@ -116,7 +116,7 @@ SIR 21:8	1	15	χειμῶνα	χειμών	noun, accusative masculine singular	1
 SIR 21:9	1	1	Στυππεῖον	στυππεῖον	noun, nominative neuter singular	1	tow
 SIR 21:9	1	2	συνηγμένον	συνάγω	perfect middle/passive participle, nominative neuter singular	1	gathered
 SIR 21:9	1	3	συναγωγὴ	συναγωγή	noun, nominative feminine singular	1	congregation
-SIR 21:9	1	4	ἀνόμων	ἄνομος	adjective, genitive masculine plural; substantival	1	lawless people
+SIR 21:9	1	4	ἀνόμων	ἄνομος	adjective, genitive masculine plural; substantival	1	of lawless people
 SIR 21:9	1	5	καὶ	καί	conjunction	1	and
 SIR 21:9	1	6	ἡ	ὁ	article, nominative feminine singular	1	the
 SIR 21:9	1	7	συντέλεια	συντέλεια	noun, nominative feminine singular	1	end
@@ -196,10 +196,10 @@ SIR 21:15	1	3	ἐὰν	ἐάν	conditional conjunction	1	if
 SIR 21:15	1	4	ἀκούσῃ	ἀκούω	aorist active subjunctive, third singular	1	hears
 SIR 21:15	1	5	ἐπιστήμων	ἐπιστήμων	adjective, nominative masculine singular	1	understanding
 SIR 21:15	1	6	αἰνέσει	αἰνέω	future active indicative third singular	1	will praise
-SIR 21:15	1	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
+SIR 21:15	1	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 SIR 21:15	1	8	καὶ	καί	conjunction	1	and
-SIR 21:15	1	9	ἐπ᾿	ἐπί	elided preposition with accusative	1	at
-SIR 21:15	1	10	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
+SIR 21:15	1	9	ἐπ᾿	ἐπί	elided preposition with accusative	1	to
+SIR 21:15	1	10	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 SIR 21:15	1	11	προσθήσει	προστίθημι	future active indicative, third singular	1	he shall add
 SIR 21:15	1	12	ἤκουσεν	ἀκούω	aorist active indicative third singular	1	he heard
 SIR 21:15	1	13	ὁ	ὁ	article nominative masculine singular	1	the
@@ -209,14 +209,14 @@ SIR 21:15	1	16	ἀπήρεσεν	ἀπαρέσκω	aorist active indicative, thi
 SIR 21:15	1	17	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 SIR 21:15	1	18	καὶ	καί	conjunction	1	and
 SIR 21:15	1	19	ἀπέστρεψεν	ἀποστρέφω	aorist active indicative, third singular	1	turned back
-SIR 21:15	1	20	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-SIR 21:15	1	21	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	after
-SIR 21:15	1	21	ὀπίσω			2	behind
+SIR 21:15	1	20	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
+SIR 21:15	1	21	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	behind
+SIR 21:15	1	21	ὀπίσω			2	after
 SIR 21:15	1	22	τοῦ	ὁ	article, genitive singular	1	the
 SIR 21:15	1	23	νώτου	νῶτος	noun, genitive masculine singular	1	back
 SIR 21:15	1	24	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 21:16	1	1	Ἐξήγησις	ἐξήγησις	noun, nominative feminine singular	1	explanation
-SIR 21:16	1	2	μωροῦ	μωρός	adjective, genitive masculine singular	1	a fool
+SIR 21:16	1	2	μωροῦ	μωρός	adjective, genitive masculine singular	1	of a fool
 SIR 21:16	1	3	ὡς	ὡς	comparative particle	1	as
 SIR 21:16	1	4	ἐν	ἐν	preposition with the dative	1	in
 SIR 21:16	1	5	ὁδῷ	ὁδός	noun, dative feminine singular	1	way
@@ -227,8 +227,8 @@ SIR 21:16	1	9	χείλους	χεῖλος	noun, genitive neut. sg	1	lips
 SIR 21:16	1	10	συνετοῦ	συνετός	adjective, genitive masculine singular	1	of a discerning person
 SIR 21:16	1	11	εὑρεθήσεται	εὑρίσκω	future passive indicative, 3rd sg.	1	shall be found
 SIR 21:16	1	12	χάρις	χάρις	noun nominative feminine singular	1	favor
-SIR 21:17	1	1	Στόμα	στόμα	noun, accusative neuter singular; metonymy for spoken command	1	saying
-SIR 21:17	1	2	φρονίμου	φρόνιμος	adjective, genitive masculine singular	1	prudent person
+SIR 21:17	1	1	Στόμα	στόμα	noun, accusative neuter singular; metonymy for spoken command	1	mouth
+SIR 21:17	1	2	φρονίμου	φρόνιμος	adjective, genitive masculine singular	1	of a prudent person
 SIR 21:17	1	3	ζητηθήσεται	ζητέω	future passive indicative, 3rd singular	1	shall be sought
 SIR 21:17	1	4	ἐν	ἐν	preposition with the dative	1	in
 SIR 21:17	1	5	ἐκκλησίᾳ	ἐκκλησία	noun, dative feminine singular	1	assembly
@@ -248,18 +248,18 @@ SIR 21:18	1	5	μωρῷ	μωρός	adjective, dative masculine singular; substan
 SIR 21:18	1	6	σοφία	σοφία	noun, nominative feminine singular	1	wisdom
 SIR 21:18	1	7	καὶ	καί	conjunction	1	and
 SIR 21:18	1	8	γνῶσις	γνῶσις	noun, nominative feminine singular	1	knowledge
-SIR 21:18	1	9	ἀσυνέτου	ἀσύνετος	adjective, genitive masculine singular	1	one without understanding
+SIR 21:18	1	9	ἀσυνέτου	ἀσύνετος	adjective, genitive masculine singular	1	of one without understanding
 SIR 21:18	1	10	ἀδιεξέταστοι	ἀδιεξέταστος	adjective, nominative masculine plural	1	unexamined
 SIR 21:18	1	11	λόγοι	λόγος	noun, nominative masculine plural	1	words
 SIR 21:19	1	1	Πέδαι	πέδη	noun, nominative feminine plural	1	fetters
 SIR 21:19	1	2	ἐν	ἐν	preposition with the dative	1	in
 SIR 21:19	1	3	ποσὶν	πούς	noun, dative masc. pl	1	feet
-SIR 21:19	1	4	ἀνοήτοις	ἀνόητος	adjective dative neuter plural	1	of the foolish
+SIR 21:19	1	4	ἀνοήτοις	ἀνόητος	adjective dative neuter plural	1	to the foolish
 SIR 21:19	1	5	παιδεία	παιδεία	noun nominative feminine singular	1	discipline
 SIR 21:19	1	6	καὶ	καί	conjunction	1	and
 SIR 21:19	1	7	ὡς	ὡς	comparative particle	1	as
 SIR 21:19	1	8	χειροπέδαι	χειροπέδη	noun, nominative feminine plural	1	handcuffs
-SIR 21:19	1	9	ἐπὶ	ἐπί	preposition (accusative)	1	beside
+SIR 21:19	1	9	ἐπὶ	ἐπί	preposition (accusative)	1	on
 SIR 21:19	1	9	ἐπὶ			2	by
 SIR 21:19	1	10	χειρὸς	χείρ	noun, genitive feminine singular	1	hand
 SIR 21:19	1	11	δεξιᾶς	δεξιός	adjective, genitive feminine singular	1	right
@@ -287,12 +287,12 @@ SIR 21:21	1	5	παιδεία	παιδεία	noun nominative feminine singular	1	
 SIR 21:21	1	6	καὶ	καί	conjunction	1	and
 SIR 21:21	1	7	ὡς	ὡς	comparative particle	1	as
 SIR 21:21	1	8	χλιδὼν	χλιδών	noun, nominative feminine singular	1	ornament
-SIR 21:21	1	9	ἐπὶ	ἐπί	preposition (accusative)	1	beside
+SIR 21:21	1	9	ἐπὶ	ἐπί	preposition (accusative)	1	on
 SIR 21:21	1	9	ἐπὶ			2	by
 SIR 21:21	1	10	βραχίονι	βραχίων	noun, dative masculine singular	1	arm
 SIR 21:21	1	11	δεξιῷ	δεξιός	adjective, dative masculine singular	1	right
 SIR 21:22	1	1	Ποῦς	πούς	noun nominative masculine singular	1	foot
-SIR 21:22	1	2	μωροῦ	μωρός	adjective, genitive masculine singular	1	a fool
+SIR 21:22	1	2	μωροῦ	μωρός	adjective, genitive masculine singular	1	of a fool
 SIR 21:22	1	3	ταχὺς	ταχύς	adjective, nominative masculine singular	1	quick
 SIR 21:22	1	4	εἰς	εἰς	preposition with the accusative	1	into
 SIR 21:22	1	5	οἰκίαν	οἰκία	noun, accusative feminine singular	1	the house
@@ -316,7 +316,7 @@ SIR 21:23	1	11	στήσεται	ἵστημι	future middle indicative, third si
 SIR 21:24	1	1	ἀπαιδευσία	ἀπαιδευσία	noun, nominative feminine singular	1	lack of instruction
 SIR 21:24	1	2	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a person
 SIR 21:24	1	3	ἀκροᾶσθαι	ἀκροάομαι	present middle infinitive	1	to listen
-SIR 21:24	1	4	παρὰ	παρά	preposition with genitive	1	from
+SIR 21:24	1	4	παρὰ	παρά	preposition with genitive	1	at
 SIR 21:24	1	5	θύραν	θύρα	noun, accusative feminine singular	1	door
 SIR 21:24	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 SIR 21:24	1	7	δὲ	δέ	postpositive conjunction	1	now
@@ -326,14 +326,14 @@ SIR 21:24	1	8	φρόνιμος			2	wise
 SIR 21:24	1	9	βαρυνθήσεται	βαρύνω	future passive indicative, third singular	1	will be burdened with
 SIR 21:24	1	10	ἀτιμίᾳ	ἀτιμία	noun, dative feminine singular	1	disgrace
 SIR 21:25	1	1	Χείλη	χεῖλος	noun nominative neuter plural	1	lips
-SIR 21:25	1	2	πολυλάλων	πολύλαλος	adjective, genitive masculine plural	1	the talkative
-SIR 21:25	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
+SIR 21:25	1	2	πολυλάλων	πολύλαλος	adjective, genitive masculine plural	1	of the talkative
+SIR 21:25	1	3	τὰ	ὁ	article, accusative neuter plural	1	the things
 SIR 21:25	1	4	οὐκ	οὐ	negative particle	1	not
 SIR 21:25	1	5	αὐτῶν	αὐτός	pronoun, genitive plural	1	their own
 SIR 21:25	1	6	διηγήσονται	διηγέομαι	future middle indicative third plural	1	they will recount
 SIR 21:25	1	7	λόγοι	λόγος	noun, nominative masculine plural	1	words
 SIR 21:25	1	8	δὲ	δέ	postpositive conjunction	1	and
-SIR 21:25	1	9	φρονίμων	φρόνιμος	adjective, genitive masculine plural	1	the prudent
+SIR 21:25	1	9	φρονίμων	φρόνιμος	adjective, genitive masculine plural	1	of the prudent
 SIR 21:25	1	10	ἐν	ἐν	preposition with the dative	1	in
 SIR 21:25	1	11	ζυγῷ	ζυγός	noun, dative masculine singular	1	balance
 SIR 21:25	1	11	ζυγῷ			2	scales
@@ -347,7 +347,7 @@ SIR 21:26	1	6	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 SIR 21:26	1	7	ἐν	ἐν	preposition with the dative	1	in
 SIR 21:26	1	8	καρδίᾳ	καρδία	noun, dative feminine singular	1	heart
 SIR 21:26	1	9	δὲ	δέ	postpositive conjunction	1	and
-SIR 21:26	1	10	φρονίμων	φρόνιμος	adjective, genitive masculine plural	1	the prudent
+SIR 21:26	1	10	φρονίμων	φρόνιμος	adjective, genitive masculine plural	1	of the prudent
 SIR 21:26	1	11	στόμα	στόμα	noun, accusative neuter singular	1	mouth
 SIR 21:26	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 SIR 21:27	1	1	Ἐν	ἐν	preposition with the dative	1	in

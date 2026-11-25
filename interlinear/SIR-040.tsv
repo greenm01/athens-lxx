@@ -3,8 +3,8 @@ SIR 40:1	1	1	ΑΣΧΟΛΙΑ	ἀσχολία	noun, nominative feminine singular	1
 SIR 40:1	1	2	μεγάλη	μέγας	adjective, nominative feminine singular	1	great
 SIR 40:1	1	2	μεγάλη			2	large
 SIR 40:1	1	3	ἔκτισται	κτίζω	perfect middle/passive indicative, third singular	1	has been created
-SIR 40:1	1	4	παντὶ	πᾶς	adjective, dative masculine singular	1	all
-SIR 40:1	1	5	ἀνθρώπῳ	ἄνθρωπος	noun, dative masculine singular	1	for a person
+SIR 40:1	1	4	παντὶ	πᾶς	adjective, dative masculine singular	1	for every
+SIR 40:1	1	5	ἀνθρώπῳ	ἄνθρωπος	noun, dative masculine singular	1	person
 SIR 40:1	1	6	καὶ	καί	conjunction	1	and
 SIR 40:1	1	7	ζυγὸς	ζυγός	noun, nominative masculine singular	1	a yoke
 SIR 40:1	1	8	βαρὺς	βαρύς	adjective, nominative masculine singular	1	heavy
@@ -29,10 +29,10 @@ SIR 40:2	1	2	λογισμοὺς	λογισμός	noun accusative masculine plur
 SIR 40:2	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 SIR 40:2	1	4	καὶ	καί	conjunction	1	and
 SIR 40:2	1	5	φόβον	φόβος	noun, accusative masc. sg	1	fear
-SIR 40:2	1	6	καρδίας	καρδία	noun, genitive feminine singular	1	heart
+SIR 40:2	1	6	καρδίας	καρδία	noun, genitive feminine singular	1	of heart
 SIR 40:2	1	7	ἐπίνοια	ἐπίνοια	noun, nominative feminine singular	1	imagination
-SIR 40:2	1	8	προσδοκίας	προσδοκία	noun genitive feminine singular	1	expectation of
-SIR 40:2	1	9	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
+SIR 40:2	1	8	προσδοκίας	προσδοκία	noun genitive feminine singular	1	of expectation
+SIR 40:2	1	9	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	of day
 SIR 40:2	1	10	τελευτῆς	τελευτή	noun, genitive feminine singular	1	of death
 SIR 40:3	1	1	ἀπὸ	ἀπό	preposition with the genitive	1	from
 SIR 40:3	1	2	καθημένου	κάθημαι	present middle participle, genitive masc. sg	1	who sits
@@ -44,7 +44,7 @@ SIR 40:3	1	7	καὶ	καί	conjunction	1	and
 SIR 40:3	1	8	ἕως	ἕως	preposition with the genitive	1	to
 SIR 40:3	1	9	τεταπεινωμένου	ταπεινόω	perfect middle/passive participle, genitive masculine singular	1	one who is humbled
 SIR 40:3	1	10	ἐν	ἐν	preposition with the dative	1	in
-SIR 40:3	1	11	γῇ	γῆ	noun, dative feminine singular	1	land
+SIR 40:3	1	11	γῇ	γῆ	noun, dative feminine singular	1	earth
 SIR 40:3	1	12	καὶ	καί	conjunction	1	and
 SIR 40:3	1	13	σποδῷ	σποδός	noun, dative feminine singular	1	ashes
 SIR 40:4	1	1	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -80,7 +80,7 @@ SIR 40:5	1	18	ἀναπαύσεως			2	of repose
 SIR 40:5	1	19	ἐπὶ	ἐπί	preposition (case from context)	1	on
 SIR 40:5	1	20	κοίτης	κοίτη	noun, genitive feminine singular	1	bed
 SIR 40:5	1	21	ὕπνος	ὕπνος	noun, nominative masculine singular	1	sleep
-SIR 40:5	1	22	νυκτὸς	νύξ	noun, genitive feminine singular	1	night
+SIR 40:5	1	22	νυκτὸς	νύξ	noun, genitive feminine singular	1	of night
 SIR 40:5	1	23	ἀλλοιοῖ	ἀλλοιόω	present active indicative, third singular	1	changes
 SIR 40:5	1	24	γνῶσιν	γινώσκω	aorist active subjunctive, third plural	1	sense
 SIR 40:5	1	25	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -97,7 +97,7 @@ SIR 40:6	1	10	ὕπνοις	ὕπνος	noun, dative masculine plural	1	sleep
 SIR 40:6	1	11	ὡς	ὡς	comparative adverb/conjunction	1	like
 SIR 40:6	1	12	ἐν	ἐν	preposition with the dative	1	in
 SIR 40:6	1	13	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
-SIR 40:6	1	14	σκοπιᾶς	σκοπιά	noun, genitive feminine singular	1	watch
+SIR 40:6	1	14	σκοπιᾶς	σκοπιά	noun, genitive feminine singular	1	of watch
 SIR 40:6	1	14	σκοπιᾶς			2	watchpost
 SIR 40:6	1	15	τεθορυβημένος	θορυβέω	perfect middle/passive participle, nominative masculine singular	1	alarmed
 SIR 40:6	1	16	ἐν	ἐν	preposition with the dative	1	in
@@ -108,10 +108,10 @@ SIR 40:6	1	20	ὡς	ὡς	comparative particle	1	as
 SIR 40:6	1	21	ἐκπεφευγὼς	ἐκφεύγω	perfect active participle, nominative masculine singular	1	having escaped
 SIR 40:6	1	22	ἀπὸ	ἀπό	preposition with the genitive	1	from
 SIR 40:6	1	23	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the face
-SIR 40:6	1	24	πολέμου	πόλεμος	noun, genitive masculine singular	1	battle
+SIR 40:6	1	24	πολέμου	πόλεμος	noun, genitive masculine singular	1	of battle
 SIR 40:7	1	1	ἐν	ἐν	preposition with the dative	1	in
 SIR 40:7	1	2	καιρῷ	καιρός	noun dative masculine singular	1	the moment
-SIR 40:7	1	3	σωτηρίας	σωτηρία	noun, genitive feminine singular	1	salvation
+SIR 40:7	1	3	σωτηρίας	σωτηρία	noun, genitive feminine singular	1	of salvation
 SIR 40:7	1	3	σωτηρίας			2	deliverance
 SIR 40:7	1	4	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 40:7	1	5	ἐξηγέρθη	ἐξεγείρω	aorist passive indicative, third singular	1	woke up
@@ -119,14 +119,14 @@ SIR 40:7	1	5	ἐξηγέρθη			2	was roused
 SIR 40:7	1	6	καὶ	καί	conjunction	1	and
 SIR 40:7	1	7	ἀποθαυμάζων	ἀποθαυμάζω	present active participle, nominative masculine singular	1	wondering
 SIR 40:7	1	8	εἰς	εἰς	preposition with the accusative	1	at
-SIR 40:7	1	9	οὐδένα	οὐδείς	indefinite pronoun, accusative masculine singular	1	anyone
+SIR 40:7	1	9	οὐδένα	οὐδείς	indefinite pronoun, accusative masculine singular	1	no
 SIR 40:7	1	10	φόβον	φόβος	noun accusative masculine singular	1	fear
 SIR 40:8	1	1	Μετὰ	μετά	preposition with genitive	1	with
-SIR 40:8	1	2	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
+SIR 40:8	1	2	πάσης	πᾶς	adjective, genitive feminine singular	1	all
 SIR 40:8	1	3	σαρκὸς	σάρξ	noun, genitive feminine singular	1	flesh
 SIR 40:8	1	4	ἀπὸ	ἀπό	preposition with the genitive	1	from
 SIR 40:8	1	5	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
-SIR 40:8	1	6	ἕως	ἕως	temporal conjunction/preposition	1	until
+SIR 40:8	1	6	ἕως	ἕως	temporal conjunction/preposition	1	to
 SIR 40:8	1	7	κτήνους	κτῆνος	noun, genitive neuter singular	1	beast
 SIR 40:8	1	8	καὶ	καί	conjunction	1	and
 SIR 40:8	1	9	ἐπὶ	ἐπί	preposition with accusative	1	upon
@@ -172,7 +172,7 @@ SIR 40:11	1	6	γῆν	γῆ	noun, accusative feminine singular	1	earth
 SIR 40:11	1	7	ἀναστρέφει	ἀναστρέφω	present active indicative, third singular	1	turns back
 SIR 40:11	1	8	καὶ	καί	conjunction	1	and
 SIR 40:11	1	9	ἀπὸ	ἀπό	preposition with the genitive	1	from
-SIR 40:11	1	10	ὑδάτων	ὕδωρ	noun genitive neuter plural	1	of waters
+SIR 40:11	1	10	ὑδάτων	ὕδωρ	noun genitive neuter plural	1	waters
 SIR 40:11	1	11	εἰς	εἰς	preposition with the accusative	1	into
 SIR 40:11	1	12	θάλασσαν	θάλασσα	noun, accusative feminine singular	1	sea
 SIR 40:11	1	13	ἀνακάμπτει	ἀνακάμπτω	present active indicative, third singular	1	returns
@@ -206,11 +206,11 @@ SIR 40:14	1	4	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	
 SIR 40:14	1	5	χεῖρας	χείρ	noun, accusative feminine plural	1	hands
 SIR 40:14	1	6	εὐφρανθήσεται	εὐφραίνω	future passive indicative third singular	1	will rejoice
 SIR 40:14	1	7	οὕτως	οὕτως	adverb	1	thus
-SIR 40:14	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
-SIR 40:14	1	9	παραβαίνοντες	παραβαίνω	present active participle, nominative masculine plural	1	transgressing
+SIR 40:14	1	8	οἱ	ὁ	article, nominative masculine plural	1	those
+SIR 40:14	1	9	παραβαίνοντες	παραβαίνω	present active participle, nominative masculine plural	1	who transgress
 SIR 40:14	1	10	εἰς	εἰς	preposition with the accusative	1	into
 SIR 40:14	1	11	συντέλειαν	συντέλεια	noun, accusative feminine singular	1	the end
-SIR 40:14	1	12	ἐκλείψουσιν	ἐκλείπω	future active indicative, third plural	1	will faint
+SIR 40:14	1	12	ἐκλείψουσιν	ἐκλείπω	future active indicative, third plural	1	will fail
 SIR 40:14	1	12	ἐκλείψουσιν			2	will give out
 SIR 40:15	1	1	Ἔκγονα	ἔκγονα	noun, nominative neuter plural	1	offspring
 SIR 40:15	1	2	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	1	of the ungodly
@@ -230,7 +230,7 @@ SIR 40:16	1	3	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
 SIR 40:16	1	4	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
 SIR 40:16	1	5	καὶ	καί	conjunction	1	and
 SIR 40:16	1	6	χεῖλος	χεῖλος	noun, nominative neuter singular	1	bank
-SIR 40:16	1	7	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	river
+SIR 40:16	1	7	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	of river
 SIR 40:16	1	8	πρὸ	πρό	preposition with the genitive	1	before
 SIR 40:16	1	9	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
 SIR 40:16	1	10	χόρτου	χόρτος	noun, genitive masculine singular	1	grass
@@ -250,10 +250,10 @@ SIR 40:17	1	11	διαμένει	διαμένω	present active indicative third s
 SIR 40:18	1	1	Ζωὴ	ζωή	noun, nominative feminine singular	1	life
 SIR 40:18	1	2	αὐτάρκους	αὐτάρκης	adjective, genitive masculine singular	1	of a self-sufficient person
 SIR 40:18	1	3	καὶ	καί	conjunction	1	and
-SIR 40:18	1	4	ἐργάτου	ἐργάτης	noun, genitive masculine singular	1	laborer
+SIR 40:18	1	4	ἐργάτου	ἐργάτης	noun, genitive masculine singular	1	of a laborer
 SIR 40:18	1	5	γλυκανθήσεται	γλυκαίνω	future passive indicative, third singular	1	will be sweetened
 SIR 40:18	1	6	καὶ	καί	conjunction	1	and
-SIR 40:18	1	7	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
+SIR 40:18	1	7	ὑπὲρ	ὑπέρ	preposition with genitive	1	above
 SIR 40:18	1	8	ἀμφότερα	ἀμφότερος	substantival adjective, accusative neuter plural; comparative expression	1	both of them
 SIR 40:18	1	9	ὁ	ὁ	article before a substantival participle, nominative masculine singular	1	one who
 SIR 40:18	1	10	εὑρίσκων	εὑρίσκω	present active participle, nominative masculine singular	1	finds
@@ -261,26 +261,26 @@ SIR 40:18	1	11	θησαυρόν	θησαυρός	noun, accusative masculine sing
 SIR 40:19	1	1	Τέκνα	τέκνον	noun, nominative neuter plural	1	children
 SIR 40:19	1	2	καὶ	καί	conjunction	1	and
 SIR 40:19	1	3	οἰκοδομὴ	οἰκοδομή	noun, nominative feminine singular	1	building
-SIR 40:19	1	4	πόλεως	πόλις	noun, genitive feminine singular	1	city
+SIR 40:19	1	4	πόλεως	πόλις	noun, genitive feminine singular	1	of city
 SIR 40:19	1	4	πόλεως			2	town
 SIR 40:19	1	5	στηρίζουσιν	στηρίζω	present active indicative, third plural	1	uphold
 SIR 40:19	1	6	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 SIR 40:19	1	7	καὶ	καί	conjunction	1	and
-SIR 40:19	1	8	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
+SIR 40:19	1	8	ὑπὲρ	ὑπέρ	preposition with genitive	1	above
 SIR 40:19	1	9	ἀμφότερα	ἀμφότερος	substantival adjective, accusative neuter plural; comparative expression	1	both
 SIR 40:19	1	10	γυνὴ	γυνή	noun, nominative feminine singular	1	woman
 SIR 40:19	1	11	ἄμωμος	ἄμωμος	adjective nominative masculine singular	1	blameless
-SIR 40:19	1	12	λογίζεται	λογίζομαι	present middle indicative, third singular	1	is above
+SIR 40:19	1	12	λογίζεται	λογίζομαι	present middle indicative, third singular	1	is reckoned
 SIR 40:20	1	1	Οἶνος	οἶνος	noun, nominative masculine singular	1	wine
 SIR 40:20	1	2	καὶ	καί	conjunction	1	and
 SIR 40:20	1	3	μουσικὰ	μουσικός	adjective, nominative neuter plural	1	music
 SIR 40:20	1	4	εὐφραίνουσι	εὐφραίνω	present active indicative third plural	1	gladden
 SIR 40:20	1	5	καρδίαν	καρδία	noun, accusative feminine singular	1	heart
 SIR 40:20	1	6	καὶ	καί	conjunction	1	and
-SIR 40:20	1	7	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
+SIR 40:20	1	7	ὑπὲρ	ὑπέρ	preposition with genitive	1	above
 SIR 40:20	1	8	ἀμφότερα	ἀμφότερος	substantival adjective, accusative neuter plural; comparative expression	1	both
-SIR 40:20	1	9	ἀγάπησις	ἀγάπησις	noun, nominative feminine singular	1	love of
-SIR 40:20	1	10	σοφίας	σοφία	noun, genitive feminine singular	1	wisdom
+SIR 40:20	1	9	ἀγάπησις	ἀγάπησις	noun, nominative feminine singular	1	love
+SIR 40:20	1	10	σοφίας	σοφία	noun, genitive feminine singular	1	of wisdom
 SIR 40:21	1	1	Αὐλὸς	αὐλός	noun, nominative masculine singular	1	pipe
 SIR 40:21	1	2	καὶ	καί	conjunction	1	and
 SIR 40:21	1	3	ψαλτήριον	ψαλτήριον	noun, accusative neuter singular	1	psaltery
@@ -288,7 +288,7 @@ SIR 40:21	1	3	ψαλτήριον			2	stringed instrument
 SIR 40:21	1	4	ἡδύνουσι	ἡδύνω	present active indicative, third plural	1	sweeten
 SIR 40:21	1	5	μέλη	μέλος	noun, accusative neuter plural	1	melody
 SIR 40:21	1	6	καὶ	καί	conjunction	1	and
-SIR 40:21	1	7	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
+SIR 40:21	1	7	ὑπὲρ	ὑπέρ	preposition with genitive	1	above
 SIR 40:21	1	8	ἀμφότερα	ἀμφότερος	substantival adjective, accusative neuter plural; comparative expression	1	both
 SIR 40:21	1	9	γλῶσσα	γλῶσσα	noun, nominative feminine singular	1	tongue
 SIR 40:21	1	10	ἡδεῖα	ἡδύς	adjective, nominative feminine singular	1	sweet
@@ -298,18 +298,18 @@ SIR 40:22	1	3	κάλλος	κάλλος	noun, accusative neuter singular	1	beaut
 SIR 40:22	1	4	ἐπιθυμήσει	ἐπιθυμέω	future active indicative, 3rd sg	1	will desire
 SIR 40:22	1	5	ὀφθαλμὸς	ὀφθαλμός	noun, nominative masculine singular	1	eye
 SIR 40:22	1	6	καὶ	καί	conjunction	1	and
-SIR 40:22	1	7	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
+SIR 40:22	1	7	ὑπὲρ	ὑπέρ	preposition with genitive	1	above
 SIR 40:22	1	8	ἀμφότερα	ἀμφότερος	substantival adjective, accusative neuter plural; comparative expression	1	both
-SIR 40:22	1	9	χλόην	χλόη	noun accusative feminine singular	1	green growth of
-SIR 40:22	1	10	σπόρου	σπόρος	noun, genitive masculine singular	1	offspring
+SIR 40:22	1	9	χλόην	χλόη	noun accusative feminine singular	1	green growth
+SIR 40:22	1	10	σπόρου	σπόρος	noun, genitive masculine singular	1	of seed
 SIR 40:23	1	1	Φίλος	φίλος	noun, nominative masculine singular	1	friend
 SIR 40:23	1	2	καὶ	καί	conjunction	1	and
 SIR 40:23	1	3	ἑταῖρος	ἑταῖρος	noun, nominative masculine singular	1	companion
 SIR 40:23	1	4	εἰς	εἰς	preposition with the accusative	1	into
 SIR 40:23	1	5	καιρὸν	καιρός	noun, accusative masculine singular	1	time
-SIR 40:23	1	6	ἀπαντῶντες	ἀπαντάω	present active participle, nominative masculine plural	1	of encounter
+SIR 40:23	1	6	ἀπαντῶντες	ἀπαντάω	present active participle, nominative masculine plural	1	meeting
 SIR 40:23	1	7	καὶ	καί	conjunction	1	and
-SIR 40:23	1	8	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
+SIR 40:23	1	8	ὑπὲρ	ὑπέρ	preposition with genitive	1	above
 SIR 40:23	1	9	ἀμφότερα	ἀμφότερος	substantival adjective, accusative neuter plural; comparative expression	1	both
 SIR 40:23	1	10	γυνὴ	γυνή	noun, nominative feminine singular	1	woman
 SIR 40:23	1	11	μετ᾽	μετά	preposition with genitive, elided	1	with
@@ -321,21 +321,21 @@ SIR 40:24	1	3	βοήθεια	βοήθεια	noun, nominative feminine singular	1
 SIR 40:24	1	3	βοήθεια			2	aid
 SIR 40:24	1	4	εἰς	εἰς	preposition with the accusative	1	in
 SIR 40:24	1	5	καιρὸν	καιρός	noun, accusative masculine singular	1	time
-SIR 40:24	1	6	θλίψεως	θλῖψις	noun, genitive feminine singular	1	distress
+SIR 40:24	1	6	θλίψεως	θλῖψις	noun, genitive feminine singular	1	of distress
 SIR 40:24	1	6	θλίψεως			2	trouble
 SIR 40:24	1	7	καὶ	καί	conjunction	1	and
-SIR 40:24	1	8	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
+SIR 40:24	1	8	ὑπὲρ	ὑπέρ	preposition with genitive	1	above
 SIR 40:24	1	9	ἀμφότερα	ἀμφότερος	substantival adjective, accusative neuter plural; comparative expression	1	both
-SIR 40:24	1	10	ἐλεημοσύνη	ἐλεημοσύνη	noun, nominative feminine singular	1	righteousness
+SIR 40:24	1	10	ἐλεημοσύνη	ἐλεημοσύνη	noun, nominative feminine singular	1	almsgiving
 SIR 40:24	1	11	ῥύσεται	ῥύομαι	future middle indicative, third singular	1	will rescue
 SIR 40:24	1	11	ῥύσεται			2	will deliver
 SIR 40:25	1	1	Χρυσίον	χρυσίον	noun, nominative neuter singular	1	gold
 SIR 40:25	1	2	καὶ	καί	conjunction	1	and
 SIR 40:25	1	3	ἀργύριον	ἀργύριον	noun, accusative neuter singular	1	silver
-SIR 40:25	1	4	ἐπιστήσουσι	ἐφίστημι	future active indicative, third plural	1	will stand by
+SIR 40:25	1	4	ἐπιστήσουσι	ἐφίστημι	future active indicative, third plural	1	will make stand
 SIR 40:25	1	5	πόδα	πούς	noun, accusative masc. sg.	1	the foot
 SIR 40:25	1	6	καὶ	καί	conjunction	1	and
-SIR 40:25	1	7	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
+SIR 40:25	1	7	ὑπὲρ	ὑπέρ	preposition with genitive	1	above
 SIR 40:25	1	8	ἀμφότερα	ἀμφότερος	substantival adjective, accusative neuter plural; comparative expression	1	both
 SIR 40:25	1	9	βουλὴ	βουλή	noun, nominative feminine singular	1	counsel
 SIR 40:25	1	9	βουλὴ			2	plan
@@ -346,7 +346,7 @@ SIR 40:26	1	3	ἰσχὺς	ἰσχύς	noun, nominative feminine singular	1	stre
 SIR 40:26	1	4	ἀνυψοῦσι	ἀνυψόω	present active indicative, third plural	1	raise high
 SIR 40:26	1	5	καρδίαν	καρδία	noun, accusative feminine singular	1	heart
 SIR 40:26	1	6	καὶ	καί	conjunction	1	and
-SIR 40:26	1	7	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
+SIR 40:26	1	7	ὑπὲρ	ὑπέρ	preposition with genitive	1	above
 SIR 40:26	1	8	ἀμφότερα	ἀμφότερος	substantival adjective, accusative neuter plural; comparative expression	1	both
 SIR 40:26	1	9	φόβος	φόβος	noun nominative masculine singular	1	fear
 SIR 40:26	1	10	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
@@ -368,16 +368,16 @@ SIR 40:27	1	2	Κυρίου	κύριος	noun, genitive masculine singular	1	of t
 SIR 40:27	1	3	ὡς	ὡς	comparative particle	1	as
 SIR 40:27	1	4	παράδεισος	παράδεισος	noun, nominative masculine singular	1	garden
 SIR 40:27	1	4	παράδεισος			2	paradise
-SIR 40:27	1	5	εὐλογίας	εὐλογία	noun, genitive feminine singular	1	blessing
+SIR 40:27	1	5	εὐλογίας	εὐλογία	noun, genitive feminine singular	1	of blessing
 SIR 40:27	1	6	καὶ	καί	conjunction	1	and
-SIR 40:27	1	7	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
+SIR 40:27	1	7	ὑπὲρ	ὑπέρ	preposition with genitive	1	above
 SIR 40:27	1	8	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 SIR 40:27	1	9	δόξαν	δόξα	noun, accusative feminine singular	1	glory
 SIR 40:27	1	10	ἐκάλυψεν	καλύπτω	aorist active indicative, 3rd sg.	1	covered
-SIR 40:27	1	11	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	it
+SIR 40:27	1	11	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 SIR 40:28	1	1	Τέκνον	τέκνον	noun, vocative neuter singular	1	O child
-SIR 40:28	1	2	ζωὴν	ζωή	noun accusative feminine singular	1	a life of
-SIR 40:28	1	3	ἐπαιτήσεως	ἐπαίτησις	noun, genitive feminine singular	1	begging
+SIR 40:28	1	2	ζωὴν	ζωή	noun accusative feminine singular	1	a life
+SIR 40:28	1	3	ἐπαιτήσεως	ἐπαίτησις	noun, genitive feminine singular	1	of begging
 SIR 40:28	1	4	μὴ	μή	negative particle	1	not
 SIR 40:28	1	5	βιώσῃς	βιόω	aorist active subjunctive, second singular	1	live
 SIR 40:28	1	6	κρεῖσσον	κρείσσων	comparative adjective, nominative neut. sg.	1	better
@@ -396,7 +396,7 @@ SIR 40:29	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
 SIR 40:29	1	10	βίος	βίος	noun, nominative masculine singular	1	life
 SIR 40:29	1	11	ἐν	ἐν	preposition with the dative	1	in
 SIR 40:29	1	12	λογισμῷ	λογισμός	noun, dative masculine singular	1	reckoning
-SIR 40:29	1	13	ζωῆς	ζωή	noun, genitive feminine singular	1	life
+SIR 40:29	1	13	ζωῆς	ζωή	noun, genitive feminine singular	1	of life
 SIR 40:29	1	14	ἀλισγήσει	ἀλισγέω	future active indicative, third singular	1	will defile
 SIR 40:29	1	15	ψυχὴν	ψυχή	noun, accusative feminine singular	1	life
 SIR 40:29	1	16	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -411,12 +411,12 @@ SIR 40:29	1	24	πεπαιδευμένος	παιδεύω	perfect middle/passive 
 SIR 40:29	1	25	φυλάξεται	φυλάσσω	future middle indicative, third singular; singular with neuter plural subject	1	will guard himself
 SIR 40:30	1	1	Ἐν	ἐν	preposition with the dative	1	in
 SIR 40:30	1	2	στόματι	στόμα	noun, dative neuter singular	1	mouth
-SIR 40:30	1	3	ἀναιδοῦς	ἀναιδής	adjective, genitive feminine singular	1	shameless
+SIR 40:30	1	3	ἀναιδοῦς	ἀναιδής	adjective, genitive feminine singular	1	of a shameless one
 SIR 40:30	1	4	γλυκανθήσεται	γλυκαίνω	future passive indicative, third singular	1	will be sweetened
 SIR 40:30	1	5	ἐπαίτησις	ἐπαίτησις	noun, nominative feminine singular	1	begging
 SIR 40:30	1	6	καὶ	καί	conjunction	1	and
 SIR 40:30	1	7	ἐν	ἐν	preposition with the dative	1	in
-SIR 40:30	1	8	κοιλίᾳ	κοιλία	noun, dative feminine singular	1	womb
+SIR 40:30	1	8	κοιλίᾳ	κοιλία	noun, dative feminine singular	1	belly
 SIR 40:30	1	9	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 40:30	1	10	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
 SIR 40:30	1	11	καήσεται	καίω	future passive indicative, third singular	1	will burn

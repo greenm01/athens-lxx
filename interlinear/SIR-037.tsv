@@ -2,12 +2,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 SIR 37:1	1	1	Πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 SIR 37:1	1	2	φίλος	φίλος	noun, nominative masculine singular	1	friend
 SIR 37:1	1	3	ἐρεῖ	λέγω	future active indicative, third singular	1	will say
-SIR 37:1	1	4	ἐφιλίασα	φιλιάζω	aorist active indicative, first singular	1	I am a friend
+SIR 37:1	1	4	ἐφιλίασα	φιλιάζω	aorist active indicative, first singular	1	I became a friend
 SIR 37:1	1	5	κἀγώ	κἀγώ	crasis of conjunction and first-person nominative singular pronoun	1	and I
 SIR 37:1	1	6	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
 SIR 37:1	1	7	ἔστι	εἰμί	present active indicative, third singular	1	is
 SIR 37:1	1	8	φίλος	φίλος	noun, nominative masculine singular	1	friend
-SIR 37:1	1	9	ὀνόματι	ὄνομα	noun, dative neuter singular	1	name
+SIR 37:1	1	9	ὀνόματι	ὄνομα	noun, dative neuter singular	1	in name
 SIR 37:1	1	10	μόνον	μόνος	adjective, accusative masculine singular	1	alone
 SIR 37:1	1	11	φίλος	φίλος	noun, nominative masculine singular	1	friend
 SIR 37:2	1	1	Οὐχὶ	οὐχί	negative particle, emphatic form	1	not
@@ -27,14 +27,14 @@ SIR 37:3	1	1	Ὦ	ὦ	vocative particle	1	O
 SIR 37:3	1	2	πονηρὸν	πονηρός	substantival adjective, accusative neuter singular	1	evil
 SIR 37:3	1	3	ἐνθύμημα	ἐνθύμημα	noun nominative neuter singular	1	design
 SIR 37:3	1	4	πόθεν	πόθεν	interrogative adverb	1	from where
-SIR 37:3	1	5	ἐνεκυλίσθης	ἐγκυλίω	aorist passive indicative, second singular	1	you rolled about
+SIR 37:3	1	5	ἐνεκυλίσθης	ἐγκυλίω	aorist passive indicative, second singular	1	were you rolled in
 SIR 37:3	1	6	καλύψαι	καλύπτω	aorist active infinitive	1	to cover
 SIR 37:3	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 SIR 37:3	1	8	ξηρὰν	ξηρός	substantival adjective, accusative feminine singular	1	earth
 SIR 37:3	1	9	ἐν	ἐν	preposition with the dative	1	in
 SIR 37:3	1	10	δολιότητι	δολιότης	noun, dative feminine singular	1	deceit
 SIR 37:4	1	1	Ἑταῖρος	ἑταῖρος	noun, nominative masculine singular	1	companion
-SIR 37:4	1	2	φίλου	φίλος	noun, genitive masculine singular	1	friend
+SIR 37:4	1	2	φίλου	φίλος	noun, genitive masculine singular	1	of a friend
 SIR 37:4	1	3	ἐν	ἐν	preposition with the dative	1	in
 SIR 37:4	1	4	εὐφροσύνῃ	εὐφροσύνη	noun, dative feminine singular	1	rejoicing
 SIR 37:4	1	4	εὐφροσύνῃ			2	gladness
@@ -43,12 +43,12 @@ SIR 37:4	1	6	καὶ	καί	conjunction	1	and
 SIR 37:4	1	7	ἐν	ἐν	preposition with the dative	1	in
 SIR 37:4	1	8	καιρῷ	καιρός	noun, dative masculine singular	1	time
 SIR 37:4	1	8	καιρῷ			2	season
-SIR 37:4	1	9	θλίψεως	θλῖψις	noun, genitive feminine singular	1	distress
+SIR 37:4	1	9	θλίψεως	θλῖψις	noun, genitive feminine singular	1	of distress
 SIR 37:4	1	9	θλίψεως			2	trouble
 SIR 37:4	1	10	ἔσται	εἰμί	future indicative, third singular	1	will be
 SIR 37:4	1	11	ἀπέναντι	ἀπέναντι	preposition with the genitive	1	an adversary
 SIR 37:5	1	1	ἑταῖρος	ἑταῖρος	noun, nominative masculine singular	1	companion
-SIR 37:5	1	2	φίλῳ	φίλος	adjective, dative masculine singular	1	friend
+SIR 37:5	1	2	φίλῳ	φίλος	adjective, dative masculine singular	1	with a friend
 SIR 37:5	1	3	συμπονεῖ	συμπονέω	present active indicative, third singular	1	shares the toil
 SIR 37:5	1	4	χάριν	χάρις	noun, accusative feminine singular	1	for the sake of
 SIR 37:5	1	5	γαστρὸς	γαστήρ	noun genitive feminine singular	1	the belly
@@ -72,7 +72,7 @@ SIR 37:6	1	13	χρήμασί	χρῆμα	noun, dative neuter plural	1	wealth
 SIR 37:6	1	14	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 37:7	1	1	Πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 SIR 37:7	1	2	σύμβουλος	σύμβουλος	noun, nominative masculine singular	1	adviser
-SIR 37:7	1	3	ἐξαίρει	ἐξαίρω	present active indicative, 3rd singular	1	offers
+SIR 37:7	1	3	ἐξαίρει	ἐξαίρω	present active indicative, 3rd singular	1	extols
 SIR 37:7	1	4	βουλήν	βουλή	noun, accusative feminine singular	1	counsel
 SIR 37:7	1	4	βουλήν			2	plan
 SIR 37:7	1	5	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
@@ -89,7 +89,7 @@ SIR 37:8	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 37:8	1	7	καὶ	καί	conjunction	1	and
 SIR 37:8	1	8	γνῶθι	γινώσκω	aorist active imperative, second singular	1	know
 SIR 37:8	1	9	πρότερον	πρότερος	adjective, accusative neuter singular	1	beforehand
-SIR 37:8	1	10	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
+SIR 37:8	1	10	τίς	τίς	interrogative pronoun, nominative masculine singular	1	what
 SIR 37:8	1	11	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 37:8	1	12	χρεία	χρεία	noun, nominative feminine singular	1	need
 SIR 37:8	1	12	χρεία			2	use
@@ -99,7 +99,7 @@ SIR 37:8	1	15	αὐτὸς	αὐτός	personal pronoun nominative masculine sin
 SIR 37:8	1	16	ἑαυτῷ	ἑαυτοῦ	pronoun, dative masculine singular	1	for himself
 SIR 37:8	1	17	βουλεύσεται	βουλεύομαι	future middle indicative, third singular	1	will plan
 SIR 37:8	1	18	μήποτε	μήποτε	conjunction	1	lest
-SIR 37:8	1	19	βάλῃ	βάλλω	aorist active subjunctive, third singular	1	may shoot
+SIR 37:8	1	19	βάλῃ	βάλλω	aorist active subjunctive, third singular	1	may cast
 SIR 37:8	1	19	βάλῃ			2	may throw
 SIR 37:8	1	20	ἐπὶ	ἐπί	preposition (case from context)	1	on
 SIR 37:8	1	21	σοὶ	σύ	pronoun, dative 2nd singular	1	you
@@ -113,8 +113,8 @@ SIR 37:9	1	6	ὁδός	ὁδός	noun nominative feminine singular	1	way
 SIR 37:9	1	7	σου	σύ	personal pronoun genitive second singular	1	your
 SIR 37:9	1	8	καὶ	καί	conjunction	1	and
 SIR 37:9	1	9	στήσεται	ἵστημι	future middle indicative, third singular	1	shall stand
-SIR 37:9	1	10	ἐξ	ἐκ	preposition with the genitive	1	in
-SIR 37:9	1	11	ἐναντίας	ἐναντίος	adjective/noun genitive?	1	a distance
+SIR 37:9	1	10	ἐξ	ἐκ	preposition with the genitive	1	on
+SIR 37:9	1	11	ἐναντίας	ἐναντίος	adjective/noun genitive?	1	the opposite side
 SIR 37:9	1	12	ἰδεῖν	ὁράω	aorist active infinitive of purpose	1	to see
 SIR 37:9	1	13	τὸ	ὁ	article, accusative neuter singular	1	the
 SIR 37:9	1	14	συμβησόμενόν	συμβαίνω	future middle participle, accusative neuter singular	1	what will happen
@@ -131,49 +131,49 @@ SIR 37:10	1	8	ἀπὸ	ἀπό	preposition with the genitive	1	from
 SIR 37:10	1	9	τῶν	ὁ	article, genitive masculine plural	1	those
 SIR 37:10	1	10	ζηλούντων	ζηλόω	present active participle, genitive masculine plural	1	who envy
 SIR 37:10	1	11	σε	σύ	personal pronoun, accusative singular	1	you
-SIR 37:10	1	12	κρύψον	κρύπτω	aorist active imperative, second singular	1	store up
+SIR 37:10	1	12	κρύψον	κρύπτω	aorist active imperative, second singular	1	hide
 SIR 37:10	1	13	βουλήν	βουλή	noun, accusative feminine singular	1	counsel
 SIR 37:10	1	13	βουλήν			2	plan
 SIR 37:11	1	1	μετὰ	μετά	preposition with genitive	1	with
 SIR 37:11	1	2	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
-SIR 37:11	1	3	περὶ	περί	preposition with genitive	1	for
+SIR 37:11	1	3	περὶ	περί	preposition with genitive	1	about
 SIR 37:11	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
 SIR 37:11	1	5	ἀντιζήλου	ἀντίζηλος	adjective, genitive masculine singular	1	rival
 SIR 37:11	1	6	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	her
 SIR 37:11	1	7	καὶ	καί	conjunction	1	and
 SIR 37:11	1	8	μετὰ	μετά	preposition with genitive	1	with
 SIR 37:11	1	9	δειλοῦ	δειλός	adjective, genitive masculine singular	1	coward
-SIR 37:11	1	10	περὶ	περί	preposition with genitive	1	for
+SIR 37:11	1	10	περὶ	περί	preposition with genitive	1	about
 SIR 37:11	1	11	πολέμου	πόλεμος	noun, genitive masculine singular	1	war
 SIR 37:11	1	11	πολέμου			2	battle
 SIR 37:11	1	12	μετὰ	μετά	preposition with genitive	1	with
 SIR 37:11	1	13	ἐμπόρου	ἔμπορος	noun, genitive masculine singular	1	merchant
-SIR 37:11	1	14	περὶ	περί	preposition with genitive	1	for
+SIR 37:11	1	14	περὶ	περί	preposition with genitive	1	about
 SIR 37:11	1	15	μεταβολίας	μεταβολία	noun, genitive feminine singular	1	exchange
 SIR 37:11	1	16	καὶ	καί	conjunction	1	and
 SIR 37:11	1	17	μετὰ	μετά	preposition with genitive	1	with
 SIR 37:11	1	18	ἀγοράζοντος	ἀγοράζω	present active participle, genitive masculine singular	1	buyer
-SIR 37:11	1	19	περὶ	περί	preposition with genitive	1	for
+SIR 37:11	1	19	περὶ	περί	preposition with genitive	1	about
 SIR 37:11	1	20	πράσεως	πρᾶσις	noun, genitive feminine singular	1	selling
 SIR 37:11	1	21	μετὰ	μετά	preposition with genitive	1	with
-SIR 37:11	1	22	βασκάνου	βάσκανος	adjective, genitive masculine singular	1	of an envious person
-SIR 37:11	1	23	περὶ	περί	preposition with genitive	1	for
+SIR 37:11	1	22	βασκάνου	βάσκανος	adjective, genitive masculine singular	1	an envious person
+SIR 37:11	1	23	περὶ	περί	preposition with genitive	1	about
 SIR 37:11	1	24	εὐχαριστίας	εὐχαριστία	noun, genitive feminine singular	1	gratitude
 SIR 37:11	1	25	καὶ	καί	conjunction	1	and
 SIR 37:11	1	26	μετὰ	μετά	preposition with genitive	1	with
 SIR 37:11	1	27	ἀνελεήμονος	ἀνελεήμων	adjective, genitive masculine singular	1	a merciless person
-SIR 37:11	1	28	περὶ	περί	preposition with genitive	1	for
+SIR 37:11	1	28	περὶ	περί	preposition with genitive	1	about
 SIR 37:11	1	29	χρηστοηθείας	χρηστοήθεια	noun, genitive feminine singular	1	goodness
 SIR 37:11	1	30	μετὰ	μετά	preposition with genitive	1	with
 SIR 37:11	1	31	ὀκνηροῦ	ὀκνηρός	adjective, genitive masculine singular	1	an idle person
-SIR 37:11	1	32	περὶ	περί	preposition with genitive	1	for
+SIR 37:11	1	32	περὶ	περί	preposition with genitive	1	about
 SIR 37:11	1	33	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
 SIR 37:11	1	34	ἔργου	ἔργον	noun, genitive neuter singular	1	work
 SIR 37:11	1	35	καὶ	καί	conjunction	1	and
 SIR 37:11	1	36	μετὰ	μετά	preposition with genitive	1	with
-SIR 37:11	1	37	μισθίου	μίσθιος	substantival adjective, genitive masculine singular	1	of a hired worker
+SIR 37:11	1	37	μισθίου	μίσθιος	substantival adjective, genitive masculine singular	1	a hired worker
 SIR 37:11	1	38	ἐπετείου	ἐπέτειος	adjective, genitive neuter singular	1	for a year
-SIR 37:11	1	39	περὶ	περί	preposition with genitive	1	for
+SIR 37:11	1	39	περὶ	περί	preposition with genitive	1	about
 SIR 37:11	1	40	συντελείας	συντέλεια	noun, genitive feminine singular	1	completion
 SIR 37:11	1	41	οἰκέτῃ	οἰκέτης	noun, dative masculine singular	1	with a servant
 SIR 37:11	1	42	ἀργῷ	ἀργός	adjective, dative masculine singular	1	idle
@@ -186,16 +186,16 @@ SIR 37:11	1	46	μὴ	μή	negative particle	1	not
 SIR 37:11	1	47	ἔπεχε	ἐπέχω	present active imperative, second singular	1	rely
 SIR 37:11	1	48	ἐπὶ	ἐπί	preposition (case from context)	1	on
 SIR 37:11	1	49	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	1	these things
-SIR 37:11	1	50	περὶ	περί	preposition with genitive	1	for
-SIR 37:11	1	51	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
+SIR 37:11	1	50	περὶ	περί	preposition with genitive	1	about
+SIR 37:11	1	51	πάσης	πᾶς	adjective, genitive feminine singular	1	any
 SIR 37:11	1	52	συμβουλίας	συμβουλία	noun, genitive feminine singular	1	counsel
 SIR 37:12	1	1	Ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
 SIR 37:12	1	2	ἢ	ἤ	particle in exceptive expression, marks exception	1	—
 SIR 37:12	1	3	μετὰ	μετά	preposition with genitive	1	with
 SIR 37:12	1	4	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	a man
-SIR 37:12	1	5	εὐσεβοῦς	εὐσεβής	adjective, genitive masculine singular	1	of the devout
+SIR 37:12	1	5	εὐσεβοῦς	εὐσεβής	adjective, genitive masculine singular	1	devout
 SIR 37:12	1	6	ἐνδελέχιζε	ἐνδελεχίζω	present active imperative, second singular	1	linger
-SIR 37:12	1	7	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
+SIR 37:12	1	7	ὃν	ὅς	relative pronoun, accusative masculine singular	1	whom
 SIR 37:12	1	8	ἂν	ἄν	modal particle with the subjunctive	1	ever
 SIR 37:12	1	9	ἐπιγνῷς	ἐπιγινώσκω	aorist active subjunctive, second singular	1	you know
 SIR 37:12	1	10	συντηροῦντα	συντηρέω	present active participle, accusative masculine singular	1	keeping
@@ -218,7 +218,7 @@ SIR 37:12	1	26	σοι	σύ	personal pronoun, dative singular	1	you
 SIR 37:13	1	1	Καὶ	καί	conjunction	1	and
 SIR 37:13	1	2	βουλὴν	βουλή	noun, accusative feminine singular	1	counsel
 SIR 37:13	1	2	βουλὴν			2	a plan
-SIR 37:13	1	3	καρδίας	καρδία	noun, genitive feminine singular	1	heart
+SIR 37:13	1	3	καρδίας	καρδία	noun, genitive feminine singular	1	of heart
 SIR 37:13	1	4	στῆσον	ἵστημι	aorist active imperative, second singular	1	establish
 SIR 37:13	1	5	οὐ	οὐ	negative particle	1	not
 SIR 37:13	1	6	γάρ	γάρ	conjunction	1	for
@@ -262,13 +262,13 @@ SIR 37:16	1	4	λόγος	λόγος	noun, nominative masculine singular	1	word
 SIR 37:16	1	4	λόγος			2	message
 SIR 37:16	1	5	καὶ	καί	conjunction	1	and
 SIR 37:16	1	6	πρὸ	πρό	preposition with the genitive	1	before
-SIR 37:16	1	7	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
+SIR 37:16	1	7	πάσης	πᾶς	adjective, genitive feminine singular	1	every
 SIR 37:16	1	8	πράξεως	πρᾶξις	noun, genitive feminine singular	1	conduct
 SIR 37:16	1	9	βουλή	βουλή	noun, nominative feminine singular	1	counsel
 SIR 37:16	1	9	βουλή			2	plan
 SIR 37:17	1	1	Ἴχνος	ἴχνος	noun, nominative neuter singular	1	sign
 SIR 37:17	1	2	ἀλλοιώσεως	ἀλλοίωσις	noun, genitive feminine singular	1	of change
-SIR 37:17	1	3	καρδίας	καρδία	noun, genitive feminine singular	1	heart
+SIR 37:17	1	3	καρδίας	καρδία	noun, genitive feminine singular	1	of heart
 SIR 37:18	1	1	τέσσαρα	τέσσαρες	cardinal numeral, nominative neuter plural	1	four
 SIR 37:18	1	2	μέρη	μέρος	noun, accusative neuter plural	1	parts
 SIR 37:18	1	3	ἀνατέλλει	ἀνατέλλω	present active indicative, third singular	1	appear
@@ -280,20 +280,20 @@ SIR 37:18	1	8	καὶ	καί	conjunction	1	and
 SIR 37:18	1	9	θάνατος	θάνατος	noun, nominative masculine singular	1	death
 SIR 37:18	1	9	θάνατος			2	pestilence
 SIR 37:18	1	10	καὶ	καί	conjunction	1	and
-SIR 37:18	1	11	ἡ	ὁ	article, nominative feminine singular	1	the
-SIR 37:18	1	12	κυριεύουσα	κυριεύω	present active participle, nominative feminine singular	1	ruling
+SIR 37:18	1	11	ἡ	ὁ	article, nominative feminine singular	1	the one
+SIR 37:18	1	12	κυριεύουσα	κυριεύω	present active participle, nominative feminine singular	1	that rules
 SIR 37:18	1	13	ἐνδελεχῶς	ἐνδελεχῶς	adverb, continually/daily	1	continually
-SIR 37:18	1	14	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+SIR 37:18	1	14	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 SIR 37:18	1	15	γλῶσσά	γλῶσσα	noun nominative feminine singular	1	tongue
 SIR 37:18	1	16	ἐστιν	εἰμί	present indicative, third singular	1	is
 SIR 37:19	1	1	Ἔστιν	εἰμί	present indicative, third singular	1	is
 SIR 37:19	1	2	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
 SIR 37:19	1	3	πανοῦργος	πανοῦργος	adjective, nominative masculine singular	1	shrewd
-SIR 37:19	1	4	πολλῶν	πολύς	adjective, genitive neuter plural	1	many people
+SIR 37:19	1	4	πολλῶν	πολύς	adjective, genitive neuter plural	1	of many
 SIR 37:19	1	5	παιδευτὴς	παιδευτής	noun, nominative masculine singular	1	one who disciplines
 SIR 37:19	1	5	παιδευτὴς			2	instructor
 SIR 37:19	1	6	καὶ	καί	conjunction	1	and
-SIR 37:19	1	7	τῇ	ὁ	article, dative feminine singular	1	the
+SIR 37:19	1	7	τῇ	ὁ	article, dative feminine singular	1	to the
 SIR 37:19	1	8	ἰδίᾳ	ἴδιος	adjective, dative feminine singular	1	own
 SIR 37:19	1	9	ψυχῇ	ψυχή	noun dative feminine singular	1	soul
 SIR 37:19	1	10	ἐστὶν	εἰμί	present indicative, third singular	1	he is
@@ -320,7 +320,7 @@ SIR 37:21	1	10	σοφίας	σοφία	noun, genitive feminine singular	1	wisdom
 SIR 37:21	1	11	ἐστερήθη	στερέω	aorist passive indicative, third singular	1	was deprived
 SIR 37:22	1	1	Ἔστι	εἰμί	present active indicative, third singular	1	is
 SIR 37:22	1	2	σοφὸς	σοφός	adjective, nominative masculine singular	1	wise
-SIR 37:22	1	3	τῇ	ὁ	article, dative feminine singular	1	the
+SIR 37:22	1	3	τῇ	ὁ	article, dative feminine singular	1	for the
 SIR 37:22	1	4	ἰδίᾳ	ἴδιος	adjective, dative feminine singular	1	own
 SIR 37:22	1	5	ψυχῇ	ψυχή	noun dative feminine singular	1	soul
 SIR 37:22	1	6	καὶ	καί	conjunction	1	and
@@ -337,7 +337,7 @@ SIR 37:23	1	2	σοφὸς	σοφός	adjective, nominative masculine singular	1	
 SIR 37:23	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
 SIR 37:23	1	4	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, possessive, genitive masculine singular	1	own
 SIR 37:23	1	5	λαὸν	λαός	noun, accusative masculine singular	1	people
-SIR 37:23	1	6	παιδεύσει	παιδεύω	future active indicative, 3rd singular	1	disciplines
+SIR 37:23	1	6	παιδεύσει	παιδεύω	future active indicative, 3rd singular	1	will discipline
 SIR 37:23	1	7	καὶ	καί	conjunction	1	and
 SIR 37:23	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
 SIR 37:23	1	9	καρποὶ	καρπός	noun, nominative masculine plural	1	fruits
@@ -360,11 +360,11 @@ SIR 37:24	1	9	οἱ	ὁ	article, nominative masculine plural	1	—
 SIR 37:24	1	10	ὁρῶντες	ὁράω	present active participle, nominative masculine plural; substantival	1	who see
 SIR 37:24	1	10	ὁρῶντες			2	seers
 SIR 37:25	1	1	Ζωὴ	ζωή	noun, nominative feminine singular	1	life
-SIR 37:25	1	2	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	man
+SIR 37:25	1	2	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	of a man
 SIR 37:25	1	2	ἀνδρὸς			2	husband
 SIR 37:25	1	3	ἐν	ἐν	preposition with the dative	1	in
 SIR 37:25	1	4	ἀριθμῷ	ἀριθμός	noun, dative masculine singular	1	number
-SIR 37:25	1	5	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
+SIR 37:25	1	5	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	of days
 SIR 37:25	1	6	καὶ	καί	conjunction	1	and
 SIR 37:25	1	7	αἱ	ὁ	article, nominative feminine plural	1	the
 SIR 37:25	1	8	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days
@@ -400,15 +400,15 @@ SIR 37:27	1	9	καὶ	καί	conjunction	1	and
 SIR 37:27	1	10	ἴδε	ὁράω	aorist active indicative, third singular	1	see
 SIR 37:27	1	11	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 SIR 37:27	1	12	πονηρὸν	πονηρός	substantival adjective, accusative neuter singular	1	evil
-SIR 37:27	1	13	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
+SIR 37:27	1	13	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	for it
 SIR 37:27	1	14	καὶ	καί	conjunction	1	and
 SIR 37:27	1	15	μὴ	μή	negative particle	1	not
 SIR 37:27	1	16	δῷς	δίδωμι	aorist active subjunctive, second singular	1	give
-SIR 37:27	1	17	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
+SIR 37:27	1	17	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to it
 SIR 37:28	1	1	οὐ	οὐ	negative particle	1	not
 SIR 37:28	1	2	γὰρ	γάρ	conjunction	1	for
 SIR 37:28	1	3	πάντα	πᾶς	adjective, accusative neuter plural	1	everything
-SIR 37:28	1	4	πᾶσι	πᾶς	adjective, dative masculine plural	1	everyone
+SIR 37:28	1	4	πᾶσι	πᾶς	adjective, dative masculine plural	1	for everyone
 SIR 37:28	1	5	συμφέρει	συμφέρω	present active indicative, third singular	1	is advantageous
 SIR 37:28	1	5	συμφέρει			2	is beneficial
 SIR 37:28	1	6	καὶ	καί	conjunction	1	and
@@ -446,8 +446,8 @@ SIR 37:31	1	2	ἀπληστίαν	ἀπληστία	noun, accusative feminine si
 SIR 37:31	1	3	πολλοὶ	πολύς	adjective, nominative masculine plural	1	numerous
 SIR 37:31	1	3	πολλοὶ			2	many
 SIR 37:31	1	4	ἐτελεύτησαν	τελευτάω	aorist active indicative, third plural	1	died
-SIR 37:31	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
+SIR 37:31	1	5	ὁ	ὁ	article, nominative masculine singular	1	the one
 SIR 37:31	1	6	δὲ	δέ	postpositive conjunction	1	and
 SIR 37:31	1	7	προσέχων	προσέχω	present active participle, nominative masculine singular	1	who guards himself
-SIR 37:31	1	8	προσθήσει	προστίθημι	future active indicative, third singular	1	he shall add
+SIR 37:31	1	8	προσθήσει	προστίθημι	future active indicative, third singular	1	shall add
 SIR 37:31	1	9	ζωήν	ζωή	noun accusative feminine singular	1	life

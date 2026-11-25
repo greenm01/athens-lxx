@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 SIR 10:1	1	1	ΚΡΙΤΗΣ	κριτής	noun, nominative masculine singular	1	judge
 SIR 10:1	1	2	σοφὸς	σοφός	adjective, nominative masculine singular	1	wise
-SIR 10:1	1	3	παιδεύσει	παιδεύω	future active indicative, 3rd singular	1	disciplines
+SIR 10:1	1	3	παιδεύσει	παιδεύω	future active indicative, 3rd singular	1	will instruct
 SIR 10:1	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 SIR 10:1	1	5	λαὸν	λαός	noun, accusative masculine singular	1	people
 SIR 10:1	1	6	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -13,7 +13,7 @@ SIR 10:1	1	11	ἔσται	εἰμί	future indicative, third singular	1	will be
 SIR 10:2	1	1	Κατὰ	κατά	preposition with the accusative	1	according to
 SIR 10:2	1	2	τὸν	ὁ	article, accusative masculine singular	1	the
 SIR 10:2	1	3	κριτὴν	κριτής	noun, accusative masculine singular	1	judge
-SIR 10:2	1	4	τοῦ	ὁ	article, genitive singular	1	the
+SIR 10:2	1	4	τοῦ	ὁ	article, genitive singular	1	of the
 SIR 10:2	1	5	λαοῦ	λαός	noun, genitive masculine singular	1	people
 SIR 10:2	1	6	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 10:2	1	7	οὕτως	οὕτως	adverb	1	thus
@@ -65,11 +65,11 @@ SIR 10:5	1	2	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 SIR 10:5	1	3	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 SIR 10:5	1	4	εὐοδία	εὐοδία	noun, nominative feminine singular	1	success
 SIR 10:5	1	4	εὐοδία			2	prosperity
-SIR 10:5	1	5	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	man
+SIR 10:5	1	5	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	of a man
 SIR 10:5	1	5	ἀνδρὸς			2	husband
 SIR 10:5	1	6	καὶ	καί	conjunction	1	and
 SIR 10:5	1	7	προσώπῳ	πρόσωπον	noun, dative neuter singular	1	person
-SIR 10:5	1	8	γραμματέως	γραμματεύς	noun, genitive masculine singular	1	scribe
+SIR 10:5	1	8	γραμματέως	γραμματεύς	noun, genitive masculine singular	1	of a scribe
 SIR 10:5	1	9	ἐπιθήσει	ἐπιτίθημι	future active indicative, third singular	1	he shall place
 SIR 10:5	1	10	δόξαν	δόξα	noun, accusative feminine singular	1	honor
 SIR 10:5	1	11	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -83,10 +83,10 @@ SIR 10:6	1	7	πλησίον	πλησίον	adverb/noun, genitive masc. sg	1	neig
 SIR 10:6	1	8	καὶ	καί	conjunction	1	and
 SIR 10:6	1	9	μὴ	μή	negative particle	1	not
 SIR 10:6	1	10	πράσσε	πράσσω	present active imperative, second singular	1	do
-SIR 10:6	1	11	μηδὲν	μηδείς	pronoun, accusative neuter singular	1	nothing
+SIR 10:6	1	11	μηδὲν	μηδείς	pronoun, accusative neuter singular	1	anything
 SIR 10:6	1	12	ἐν	ἐν	preposition with the dative	1	by
 SIR 10:6	1	13	ἔργοις	ἔργον	noun, dative neuter plural	1	works
-SIR 10:6	1	14	ὕβρεως	ὕβρις	noun, genitive feminine singular	1	arrogance
+SIR 10:6	1	14	ὕβρεως	ὕβρις	noun, genitive feminine singular	1	of arrogance
 SIR 10:6	1	14	ὕβρεως			2	outrage
 SIR 10:7	1	1	Μισητὴ	μισητός	adjective, nominative feminine singular	1	hated
 SIR 10:7	1	2	ἔναντι	ἔναντι	improper preposition with genitive	1	before
@@ -97,8 +97,8 @@ SIR 10:7	1	5	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural
 SIR 10:7	1	6	ὑπερηφανία	ὑπερηφανία	noun nominative feminine singular	1	pride
 SIR 10:7	1	7	καὶ	καί	conjunction	1	and
 SIR 10:7	1	8	ἐξ	ἐκ	preposition with the genitive	1	by
-SIR 10:7	1	9	ἀμφοτέρων	ἀμφότερος	adjective/pronoun, genitive pl	1	of both
-SIR 10:7	1	10	πλημμελήσει	πλημμελέω	future active indicative, third singular	1	is a transgression
+SIR 10:7	1	9	ἀμφοτέρων	ἀμφότερος	adjective/pronoun, genitive pl	1	both
+SIR 10:7	1	10	πλημμελήσει	πλημμελέω	future active indicative, third singular	1	will transgress
 SIR 10:7	1	11	ἄδικα	ἄδικος	adjective, accusative neuter plural; substantival	1	unjust things
 SIR 10:7	1	11	ἄδικα			2	wrong things
 SIR 10:8	1	1	Βασιλεία	βασιλεία	noun, nominative feminine singular	1	kingdom
@@ -134,10 +134,10 @@ SIR 10:10	1	2	ὑπερηφανεύεται	ὑπερηφανεύομαι	presen
 SIR 10:10	1	3	γῆ	γῆ	noun, nominative feminine singular	1	earth
 SIR 10:10	1	4	καὶ	καί	conjunction	1	and
 SIR 10:10	1	5	σποδός	σποδός	noun, genitive feminine singular	1	ashes
-SIR 10:10	1	6	ὅτι	ὅτι	conjunction	1	that
+SIR 10:10	1	6	ὅτι	ὅτι	conjunction	1	for
 SIR 10:10	1	7	ἐν	ἐν	preposition with the dative	1	in
 SIR 10:10	1	8	ζωῇ	ζωή	noun, dative feminine singular	1	life
-SIR 10:10	1	9	ἔῤῥιψαν	ῥίπτω	aorist active indicative, third plural	1	cast out
+SIR 10:10	1	9	ἔῤῥιψαν	ῥίπτω	aorist active indicative, third plural	1	they cast out
 SIR 10:10	1	10	τὰ	ὁ	article, accusative neuter plural	1	the
 SIR 10:10	1	11	ἐνδόσθια	ἐνδόσθια	noun, accusative neut. pl	1	inwards
 SIR 10:10	1	12	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -156,7 +156,7 @@ SIR 10:11	1	2	γὰρ	γάρ	conjunction	1	for
 SIR 10:11	1	3	τῷ	ὁ	article, dative masculine singular	1	the
 SIR 10:11	1	4	ἀποθανεῖν	ἀποθνῄσκω	aorist active infinitive	1	to die
 SIR 10:11	1	5	ἄνθρωπον	ἄνθρωπος	noun, accusative masculine singular	1	man
-SIR 10:11	1	6	κληρονομήσει	κληρονομέω	future active indicative, third singular	1	inherit
+SIR 10:11	1	6	κληρονομήσει	κληρονομέω	future active indicative, third singular	1	he will inherit
 SIR 10:11	1	7	ἑρπετὰ	ἑρπετόν	noun, accusative neuter plural	1	creeping creatures
 SIR 10:11	1	7	ἑρπετὰ			2	creeping things
 SIR 10:11	1	8	καὶ	καί	conjunction	1	and
@@ -165,7 +165,7 @@ SIR 10:11	1	9	θηρία			2	beasts
 SIR 10:11	1	10	καὶ	καί	conjunction	1	and
 SIR 10:11	1	11	σκώληκας	σκώληξ	noun, accusative masc. pl.	1	worms
 SIR 10:12	1	1	Ἀρχὴ	ἀρχή	noun, nominative feminine singular	1	beginning
-SIR 10:12	1	2	ὑπερηφανίας	ὑπερηφανία	noun, genitive feminine singular	1	pride
+SIR 10:12	1	2	ὑπερηφανίας	ὑπερηφανία	noun, genitive feminine singular	1	of pride
 SIR 10:12	1	2	ὑπερηφανίας			2	arrogance
 SIR 10:12	1	3	ἀνθρώπου	ἄνθρωπος	noun genitive masculine singular	1	of a man
 SIR 10:12	1	4	ἀφισταμένου	ἀφίστημι	present middle participle, genitive masculine singular	1	turning away
@@ -184,7 +184,7 @@ SIR 10:12	1	14	καρδία	καρδία	noun, nominative feminine singular	1	he
 SIR 10:12	1	15	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 10:13	1	1	ὅτι	ὅτι	causal conjunction	1	because
 SIR 10:13	1	2	ἀρχὴ	ἀρχή	noun, nominative feminine singular	1	the beginning
-SIR 10:13	1	3	ὑπερηφανίας	ὑπερηφανία	noun, genitive feminine singular	1	pride
+SIR 10:13	1	3	ὑπερηφανίας	ὑπερηφανία	noun, genitive feminine singular	1	of pride
 SIR 10:13	1	3	ὑπερηφανίας			2	arrogance
 SIR 10:13	1	4	ἁμαρτία	ἁμαρτία	noun, nominative feminine singular	1	sin
 SIR 10:13	1	5	καὶ	καί	conjunction	1	and
@@ -205,7 +205,7 @@ SIR 10:13	1	19	εἰς	εἰς	preposition with the accusative	1	to
 SIR 10:13	1	20	τέλος	τέλος	noun, accusative neuter singular	1	end
 SIR 10:13	1	21	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 SIR 10:14	1	1	θρόνους	θρόνος	noun, accusative masculine plural	1	thrones
-SIR 10:14	1	2	ἀρχόντων	ἄρχων	noun, genitive masculine plural	1	leaders
+SIR 10:14	1	2	ἀρχόντων	ἄρχων	noun, genitive masculine plural	1	of leaders
 SIR 10:14	1	3	καθεῖλεν	καθαιρέω	aorist active indicative, third singular	1	took down
 SIR 10:14	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 SIR 10:14	1	5	Κύριος	κύριος	noun nominative masculine singular	1	Lord
@@ -215,8 +215,8 @@ SIR 10:14	1	8	πρᾳεῖς	πραΰς	adjective, nominative masculine plural	1
 SIR 10:14	1	9	ἀντ᾽	ἀντί	preposition governing genitive; elided	1	in place of
 SIR 10:14	1	10	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
 SIR 10:15	1	1	ῥίζας	ῥίζα	noun, accusative feminine plural	1	roots
-SIR 10:15	1	2	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
-SIR 10:15	1	3	ὑπερηφάνων	ὑπερήφανος	substantival adjective genitive masculine plural	1	of the proud
+SIR 10:15	1	2	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	of nations
+SIR 10:15	1	3	ὑπερηφάνων	ὑπερήφανος	substantival adjective genitive masculine plural	1	proud
 SIR 10:15	1	4	ἐξέτιλεν	ἐκτίλλω	aorist active indicative, third singular	1	plucked out
 SIR 10:15	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 SIR 10:15	1	6	Κύριος	κύριος	noun nominative masculine singular	1	Lord
@@ -236,7 +236,7 @@ SIR 10:16	1	6	καὶ	καί	conjunction	1	and
 SIR 10:16	1	7	ἀπώλεσεν	ἀπόλλυμι	aorist active indicative, third singular	1	destroyed
 SIR 10:16	1	7	ἀπώλεσεν			2	did away with
 SIR 10:16	1	8	αὐτὰς	αὐτός	pronoun, accusative feminine plural, referring to bricks	1	them
-SIR 10:16	1	9	ἕως	ἕως	preposition with genitive	1	to
+SIR 10:16	1	9	ἕως	ἕως	preposition with genitive	1	as far as
 SIR 10:16	1	10	θεμελίων	θεμέλιον	noun, genitive neuter plural	1	foundations
 SIR 10:16	1	11	γῆς	γῆ	noun, genitive feminine singular	1	of the earth
 SIR 10:17	1	1	ἐξῆρεν	ἐξαίρω	aorist active indicative, 3rd singular	1	plucked up
@@ -259,7 +259,7 @@ SIR 10:18	1	5	οὐδὲ	οὐδέ	conjunction/negative	1	nor
 SIR 10:18	1	6	ὀργὴ	ὀργή	noun, nominative feminine singular	1	anger
 SIR 10:18	1	7	θυμοῦ	θυμός	noun, genitive masculine singular	1	of fury
 SIR 10:18	1	7	θυμοῦ			2	of wrath
-SIR 10:18	1	8	γεννήμασι	γέννημα	noun, dative neuter plural	1	produce
+SIR 10:18	1	8	γεννήμασι	γέννημα	noun, dative neuter plural	1	for offspring
 SIR 10:18	1	9	γυναικῶν	γυνή	noun, genitive feminine plural	1	of women
 SIR 10:19	1	1	Σπέρμα	σπέρμα	noun, accusative neuter singular	1	seed
 SIR 10:19	1	2	ἔντιμον	ἔντιμος	adjective, accusative masculine singular; substantival	1	honorable
@@ -288,10 +288,10 @@ SIR 10:19	1	22	παραβαίνοντες	παραβαίνω	present active part
 SIR 10:19	1	23	ἐντολάς	ἐντολή	noun, accusative feminine plural	1	commandments
 SIR 10:20	1	1	Ἐν	ἐν	preposition with the dative	1	in
 SIR 10:20	1	2	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
-SIR 10:20	1	3	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
+SIR 10:20	1	3	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	of brothers
 SIR 10:20	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
-SIR 10:20	1	5	ἡγούμενος	ἡγέομαι	present middle participle, nominative masculine singular, substantival	1	a leader
-SIR 10:20	1	6	αὐτῶν	αὐτός	pronoun, genitive plural	1	is
+SIR 10:20	1	5	ἡγούμενος	ἡγέομαι	present middle participle, nominative masculine singular, substantival	1	leader
+SIR 10:20	1	6	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 SIR 10:20	1	7	ἔντιμος	ἔντιμος	adjective, nominative masculine singular	1	precious
 SIR 10:20	1	7	ἔντιμος			2	valuable
 SIR 10:20	1	8	καὶ	καί	conjunction	1	and
@@ -325,7 +325,7 @@ SIR 10:22	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 SIR 10:22	1	9	φόβος	φόβος	noun nominative masculine singular	1	fear
 SIR 10:22	1	10	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 SIR 10:23	1	1	Οὐ	οὐ	negative particle	1	not
-SIR 10:23	1	2	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	1	a righteous person
+SIR 10:23	1	2	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	1	right
 SIR 10:23	1	3	ἀτιμάσαι	ἀτιμάζω	aorist active infinitive	1	to dishonor
 SIR 10:23	1	3	ἀτιμάσαι			2	to disgrace
 SIR 10:23	1	4	πτωχὸν	πτωχός	adjective, accusative masculine singular	1	a poor person
@@ -347,14 +347,14 @@ SIR 10:24	1	6	δοξασθήσεται			2	will be honored
 SIR 10:24	1	7	καὶ	καί	conjunction	1	and
 SIR 10:24	1	8	οὐκ	οὐ	negative particle	1	not
 SIR 10:24	1	9	ἔστιν	εἰμί	present indicative, third singular	1	is
-SIR 10:24	1	10	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	than they
+SIR 10:24	1	10	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	of them
 SIR 10:24	1	11	τις	τις	indefinite pronoun, nominative masc. sg.	1	someone
 SIR 10:24	1	12	μείζων	μέγας	comparative adjective, nominative masculine singular	1	greater
-SIR 10:24	1	13	τῶν	ὁ	article genitive masculine plural	1	those
+SIR 10:24	1	13	τῶν	ὁ	article genitive masculine plural	1	than those
 SIR 10:24	1	14	φοβουμένων	φοβέομαι	present middle participle genitive masculine plural	1	fearing
 SIR 10:24	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
 SIR 10:24	1	16	Κύριον	κύριος	noun, accusative masculine singular	1	Lord
-SIR 10:25	1	1	Οἰκέτῃ	οἰκέτης	noun, dative masculine singular	1	a servant
+SIR 10:25	1	1	Οἰκέτῃ	οἰκέτης	noun, dative masculine singular	1	to a servant
 SIR 10:25	1	2	σοφῷ	σοφός	adjective, dative masculine singular	1	wise
 SIR 10:25	1	3	ἐλεύθεροι	ἐλεύθερος	adjective, nominative masculine plural	1	freemen
 SIR 10:25	1	4	λειτουργήσουσι	λειτουργέω	future active indicative, third plural	1	will serve
@@ -367,7 +367,7 @@ SIR 10:25	1	9	γογγύσει			2	will complain
 SIR 10:25	1	10	παιδευόμενος	παιδεύω	present middle/passive participle, nominative masculine singular	1	when corrected
 SIR 10:26	1	1	Μὴ	μή	negative particle	1	not
 SIR 10:26	1	2	σοφίζου	σοφίζομαι	present middle imperative, second singular	1	make yourself wise
-SIR 10:26	1	3	ποιῆσαι	ποιέω	aorist active infinitive	1	do
+SIR 10:26	1	3	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
 SIR 10:26	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
 SIR 10:26	1	5	ἔργον	ἔργον	noun, accusative neut. sg. in nominative work-formulas varies by syntax	1	work
 SIR 10:26	1	6	σου	σύ	personal pronoun, possessive genitive singular	1	your
@@ -378,12 +378,12 @@ SIR 10:26	1	9	δοξάζου	δοξάζω	present active imperative, second sing
 SIR 10:26	1	10	ἐν	ἐν	preposition with the dative	1	in
 SIR 10:26	1	11	καιρῷ	καιρός	noun, dative masculine singular	1	time
 SIR 10:26	1	11	καιρῷ			2	season
-SIR 10:26	1	12	στενοχωρίας	στενοχωρία	noun, genitive feminine singular	1	distress
+SIR 10:26	1	12	στενοχωρίας	στενοχωρία	noun, genitive feminine singular	1	of distress
 SIR 10:26	1	13	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 10:27	1	1	κρείσσων	κρείσσων	comparative adjective, nominative masculine singular	1	better
 SIR 10:27	1	2	ἐργαζόμενος	ἐργάζομαι	present middle participle, nominative masculine singular	1	one who labors
 SIR 10:27	1	3	καὶ	καί	conjunction	1	and
-SIR 10:27	1	4	περισσεύων	περισσεύω	present active participle, nominative masculine singular	1	one remaining
+SIR 10:27	1	4	περισσεύων	περισσεύω	present active participle, nominative masculine singular	1	abounding
 SIR 10:27	1	5	ἐν	ἐν	preposition with the dative	1	in
 SIR 10:27	1	6	πᾶσιν	πᾶς	adjective, dative neuter plural	1	everything
 SIR 10:27	1	7	ἢ	ἤ	disjunctive conjunction	1	than
@@ -420,7 +420,7 @@ SIR 10:29	1	10	δοξάσει	δοξάζω	future active indicative third singul
 SIR 10:29	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
 SIR 10:29	1	12	ἀτιμάζοντα	ἀτιμάζω	present active participle, accusative masculine singular	1	dishonoring
 SIR 10:29	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
-SIR 10:29	1	14	ζωὴν	ζωή	noun accusative feminine singular	1	livelihood
+SIR 10:29	1	14	ζωὴν	ζωή	noun accusative feminine singular	1	life
 SIR 10:29	1	15	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 10:30	1	1	Πτωχὸς	πτωχός	adjective, nominative masculine singular	1	poor
 SIR 10:30	1	2	δοξάζεται	δοξάζω	present middle/passive indicative, third singular	1	is glorified

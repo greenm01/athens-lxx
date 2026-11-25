@@ -3,15 +3,15 @@ BAR 4:1	1	1	ΑΥΤΗ	οὗτος	demonstrative pronoun, nominative feminine sing
 BAR 4:1	1	2	ἡ	ὁ	article, nominative feminine singular	1	the
 BAR 4:1	1	3	βίβλος	βίβλος	noun, nominative feminine singular	1	book
 BAR 4:1	1	3	βίβλος			2	scroll
-BAR 4:1	1	4	τῶν	ὁ	article, genitive plural	1	the
+BAR 4:1	1	4	τῶν	ὁ	article, genitive plural	1	of the
 BAR 4:1	1	5	προσταγμάτων	πρόσταγμα	noun, genitive neuter plural	1	commands
-BAR 4:1	1	6	τοῦ	ὁ	article, genitive singular	1	the
+BAR 4:1	1	6	τοῦ	ὁ	article, genitive singular	1	of the
 BAR 4:1	1	7	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 BAR 4:1	1	8	καὶ	καί	conjunction	1	and
 BAR 4:1	1	9	ὁ	ὁ	article nominative masculine singular	1	the
 BAR 4:1	1	10	νόμος	νόμος	noun, nominative masc. sg	1	law
-BAR 4:1	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
-BAR 4:1	1	12	ὑπάρχων	ὑπάρχω	present active participle, nominative masculine singular	1	enduring
+BAR 4:1	1	11	ὁ	ὁ	article, nominative masculine singular	1	—
+BAR 4:1	1	12	ὑπάρχων	ὑπάρχω	present active participle, nominative masculine singular	1	which endures
 BAR 4:1	1	12	ὑπάρχων			2	existing
 BAR 4:1	1	13	εἰς	εἰς	preposition with the accusative of duration	1	for
 BAR 4:1	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -24,8 +24,8 @@ BAR 4:1	1	19	αὐτῆς	αὐτός	pronoun, genitive feminine singular; refer
 BAR 4:1	1	19	αὐτῆς			2	her
 BAR 4:1	1	20	εἰς	εἰς	preposition with the accusative	1	into
 BAR 4:1	1	21	ζωήν	ζωή	noun, accusative feminine singular	1	life
-BAR 4:1	1	22	οἱ	ὁ	article, nominative masculine plural	1	the
-BAR 4:1	1	23	δὲ	δέ	postpositive conjunction	1	and
+BAR 4:1	1	22	οἱ	ὁ	article, nominative masculine plural	1	those
+BAR 4:1	1	23	δὲ	δέ	postpositive conjunction	1	but
 BAR 4:1	1	24	καταλείποντες	καταλείπω	present active participle, nominative masculine plural	1	who abandon
 BAR 4:1	1	24	καταλείποντες			2	who leave
 BAR 4:1	1	25	αὐτὴν	αὐτός	pronoun, accusative feminine singular; refers to the book of wisdom	1	it
@@ -48,7 +48,7 @@ BAR 4:2	1	10	κατέναντι	κατέναντι	Preposition with genitive	1	i
 BAR 4:2	1	10	κατέναντι			2	before
 BAR 4:2	1	11	τοῦ	ὁ	article, genitive neuter singular	1	the
 BAR 4:2	1	12	φωτὸς	φῶς	noun, genitive neuter singular	1	light
-BAR 4:2	1	13	αὐτῆς	αὐτός	pronoun, genitive feminine singular; refers to the book of wisdom	1	it
+BAR 4:2	1	13	αὐτῆς	αὐτός	pronoun, genitive feminine singular; refers to the book of wisdom	1	its
 BAR 4:2	1	13	αὐτῆς			2	her
 BAR 4:3	1	1	Μὴ	μή	negative particle	1	not
 BAR 4:3	1	2	δῷς	δίδωμι	aorist active subjunctive, second singular; with μή in prohibition	1	give
@@ -58,10 +58,10 @@ BAR 4:3	1	5	δόξαν	δόξα	noun, accusative feminine singular	1	glory
 BAR 4:3	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
 BAR 4:3	1	7	καὶ	καί	conjunction	1	and
 BAR 4:3	1	8	τὰ	ὁ	article, neuter plural (case from context)	1	the
-BAR 4:3	1	9	συμφέροντά	συμφέρω	present active participle, accusative neuter plural; used substantivally	1	things that benefit you
+BAR 4:3	1	9	συμφέροντά	συμφέρω	present active participle, accusative neuter plural; used substantivally	1	things that benefit
 BAR 4:3	1	9	συμφέροντά			2	advantages
 BAR 4:3	1	10	σοι	σύ	personal pronoun, dative second singular	1	to you
-BAR 4:3	1	11	ἔθνει	ἔθνος	noun, dative neuter singular	1	nation
+BAR 4:3	1	11	ἔθνει	ἔθνος	noun, dative neuter singular	1	to a nation
 BAR 4:3	1	12	ἀλλοτρίῳ	ἀλλότριος	adjective, dative neuter singular	1	foreign
 BAR 4:4	1	1	Μακάριοι	μακάριος	adjective nominative masculine plural	1	blessed
 BAR 4:4	1	2	ἐσμὲν	εἰμί	present indicative, first plural	1	we are
@@ -69,7 +69,7 @@ BAR 4:4	1	3	Ἰσραὴλ	Ἰσραήλ	noun, vocative masculine singular; inde
 BAR 4:4	1	4	ὅτι	ὅτι	causal conjunction	1	because
 BAR 4:4	1	5	τὰ	ὁ	article, nominative neuter plural	1	the
 BAR 4:4	1	6	ἀρεστὰ	ἀρεστός	adjective, nominative neuter plural; used substantivally	1	things pleasing
-BAR 4:4	1	7	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+BAR 4:4	1	7	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
 BAR 4:4	1	8	Θεῷ	θεός	noun, dative masculine singular	1	God
 BAR 4:4	1	9	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
 BAR 4:4	1	10	γνωστά	γνωστός	adjective, nominative neuter plural	1	known
@@ -78,7 +78,7 @@ BAR 4:5	1	1	Θαρσεῖτε	θαρσέω	present active imperative, 2nd pl	1	t
 BAR 4:5	1	2	λαός	λαός	noun, nominative masculine singular; nominative of address	1	people
 BAR 4:5	1	3	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 BAR 4:5	1	4	μνημόσυνον	μνημόσυνον	noun, nominative neut. sg	1	a memorial
-BAR 4:5	1	5	Ἰσραήλ	Ἰσραήλ	noun, vocative masculine singular; indeclinable	1	Israel
+BAR 4:5	1	5	Ἰσραήλ	Ἰσραήλ	noun, vocative masculine singular; indeclinable	1	of Israel
 BAR 4:6	1	1	Ἐπράθητε	πιπράσκω	aorist passive indicative, second plural	1	you were sold
 BAR 4:6	1	2	τοῖς	ὁ	article, dative neuter plural	1	to the
 BAR 4:6	1	3	ἔθνεσιν	ἔθνος	noun, dative neuter plural	1	nations
@@ -89,7 +89,7 @@ BAR 4:6	1	5	εἰς			2	to
 BAR 4:6	1	6	ἀπώλειαν	ἀπώλεια	noun, accusative feminine singular	1	destruction
 BAR 4:6	1	6	ἀπώλειαν			2	ruin
 BAR 4:6	1	7	διὰ	διά	preposition with the accusative	1	because of
-BAR 4:6	1	8	δὲ	δέ	conjunction	1	and
+BAR 4:6	1	8	δὲ	δέ	conjunction	1	but
 BAR 4:6	1	9	τὸ	ὁ	article, accusative neuter singular	1	the
 BAR 4:6	1	10	παροργίσαι	παροργίζω	aorist active infinitive	1	to provoke to anger
 BAR 4:6	1	11	ὑμᾶς	σύ	Second-person plural pronoun; accusative subject of infinitive	1	you
@@ -111,7 +111,7 @@ BAR 4:7	1	6	θύσαντες			2	having sacrificed
 BAR 4:7	1	7	δαιμονίοις	δαιμόνιον	noun, dative neuter plural	1	to demons
 BAR 4:7	1	8	καὶ	καί	conjunction	1	and
 BAR 4:7	1	9	οὐ	οὐ	negative adverb with future indicative	1	not
-BAR 4:7	1	10	Θεῷ	θεός	noun, dative masculine singular	1	God
+BAR 4:7	1	10	Θεῷ	θεός	noun, dative masculine singular	1	to God
 BAR 4:8	1	1	Ἐπελάθεσθε	ἐπιλανθάνομαι	aorist middle indicative, second plural	1	you forgot
 BAR 4:8	1	2	δὲ	δέ	postpositive conjunction	1	and
 BAR 4:8	1	3	τὸν	ὁ	article, accusative masculine singular	1	the one
@@ -158,9 +158,9 @@ BAR 4:10	1	2	γὰρ	γάρ	postpositive conjunction	1	for
 BAR 4:10	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
 BAR 4:10	1	4	αἰχμαλωσίαν	αἰχμαλωσία	noun, accusative feminine singular	1	captivity
 BAR 4:10	1	4	αἰχμαλωσίαν			2	exile
-BAR 4:10	1	5	τοῦ	ὁ	article, genitive masculine singular	1	the
+BAR 4:10	1	5	τοῦ	ὁ	article, genitive masculine singular	1	—
 BAR 4:10	1	6	λαοῦ	λαός	noun, genitive masculine singular	1	of the people
-BAR 4:10	1	7	τῶν	ὁ	article, genitive plural	1	the
+BAR 4:10	1	7	τῶν	ὁ	article, genitive plural	1	of the
 BAR 4:10	1	8	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 BAR 4:10	1	9	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 BAR 4:10	1	10	καὶ	καί	conjunction	1	and
@@ -180,15 +180,15 @@ BAR 4:11	1	4	μετ᾽			2	after
 BAR 4:11	1	5	εὐφροσύνης	εὐφροσύνη	noun, genitive feminine singular	1	gladness
 BAR 4:11	1	5	εὐφροσύνης			2	rejoicing
 BAR 4:11	1	6	ἐξαπέστειλα	ἐξαποστέλλω	aorist active indicative, first singular	1	I sent away
-BAR 4:11	1	7	δὲ	δέ	postpositive conjunction	1	and
+BAR 4:11	1	7	δὲ	δέ	postpositive conjunction	1	but
 BAR 4:11	1	8	μετὰ	μετά	Preposition with genitive	1	with
 BAR 4:11	1	9	κλαυθμοῦ	κλαυθμός	noun, genitive masculine singular	1	weeping
 BAR 4:11	1	10	καὶ	καί	conjunction	1	and
 BAR 4:11	1	11	πένθους	πένθος	noun, genitive neuter singular	1	mourning
 BAR 4:12	1	1	Μηδεὶς	μηδείς	pronoun, nominative masc. sg	1	let no one
-BAR 4:12	1	2	ἐπιχαιρέτω	ἐπιχαίρω	present active imperative, third singular	1	let anyone gloat
+BAR 4:12	1	2	ἐπιχαιρέτω	ἐπιχαίρω	present active imperative, third singular	1	gloat
 BAR 4:12	1	2	ἐπιχαιρέτω			2	let anyone rejoice
-BAR 4:12	1	3	μοι	ἐγώ	personal pronoun, dative singular	1	to me
+BAR 4:12	1	3	μοι	ἐγώ	personal pronoun, dative singular	1	over me
 BAR 4:12	1	4	τῇ	ὁ	definite article, dative feminine singular	1	the
 BAR 4:12	1	5	χήρᾳ	χήρα	noun, dative feminine singular	1	widow
 BAR 4:12	1	6	καὶ	καί	conjunction	1	and
@@ -202,13 +202,13 @@ BAR 4:12	1	11	διὰ	διά	preposition with accusative	1	because of
 BAR 4:12	1	12	τὰς	ὁ	article, accusative feminine plural	1	the
 BAR 4:12	1	13	ἁμαρτίας	ἁμαρτία	noun, accusative feminine plural	1	sins
 BAR 4:12	1	14	τῶν	ὁ	article, genitive neuter plural	1	of the
-BAR 4:12	1	15	τέκνων	τέκνον	noun, genitive neuter plural	1	of children
+BAR 4:12	1	15	τέκνων	τέκνον	noun, genitive neuter plural	1	children
 BAR 4:12	1	16	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 BAR 4:12	1	17	διότι	διότι	causal conjunction	1	because
 BAR 4:12	1	18	ἐξέκλιναν	ἐκκλίνω	aorist active indicative, third plural	1	turned aside
 BAR 4:12	1	19	ἐκ	ἐκ	preposition with the genitive	1	from
-BAR 4:12	1	20	νόμου	νόμος	noun, genitive masculine singular	1	of the law
-BAR 4:12	1	21	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+BAR 4:12	1	20	νόμου	νόμος	noun, genitive masculine singular	1	the law
+BAR 4:12	1	21	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 BAR 4:13	1	1	δικαιώματα	δικαίωμα	noun, accusative neuter plural	1	ordinances
 BAR 4:13	1	1	δικαιώματα			2	requirements
 BAR 4:13	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -220,12 +220,12 @@ BAR 4:13	1	6	οὐδὲ	οὐδέ	conjunction/negative	1	nor
 BAR 4:13	1	7	ἐπορεύθησαν	πορεύομαι	aorist passive/deponent indicative, third plural	1	went
 BAR 4:13	1	8	ὁδοῖς	ὁδός	noun, dative feminine plural	1	in the ways
 BAR 4:13	1	8	ὁδοῖς			2	in the roads
-BAR 4:13	1	9	ἐντολῶν	ἐντολή	noun, genitive feminine plural	1	commandments
-BAR 4:13	1	10	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+BAR 4:13	1	9	ἐντολῶν	ἐντολή	noun, genitive feminine plural	1	of commandments
+BAR 4:13	1	10	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 BAR 4:13	1	11	οὐδὲ	οὐδέ	conjunction/negative	1	nor
 BAR 4:13	1	12	τρίβους	τρίβος	noun, accusative feminine plural	1	paths
 BAR 4:13	1	12	τρίβους			2	tracks
-BAR 4:13	1	13	παιδείας	παιδεία	noun genitive feminine singular	1	instruction
+BAR 4:13	1	13	παιδείας	παιδεία	noun genitive feminine singular	1	of instruction
 BAR 4:13	1	14	ἐν	ἐν	preposition with the dative	1	in
 BAR 4:13	1	15	δικαιοσύνῃ	δικαιοσύνη	noun, dative feminine singular	1	righteousness
 BAR 4:13	1	15	δικαιοσύνῃ			2	innocence
@@ -242,7 +242,7 @@ BAR 4:14	1	6	μνήσθητε	μιμνῄσκω	aorist passive imperative, secon
 BAR 4:14	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 BAR 4:14	1	8	αἰχμαλωσίαν	αἰχμαλωσία	noun, accusative feminine singular	1	captivity
 BAR 4:14	1	8	αἰχμαλωσίαν			2	exile
-BAR 4:14	1	9	τῶν	ὁ	article, genitive masculine plural	1	the
+BAR 4:14	1	9	τῶν	ὁ	article, genitive masculine plural	1	of the
 BAR 4:14	1	10	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 BAR 4:14	1	11	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 BAR 4:14	1	12	καὶ	καί	conjunction	1	and
@@ -280,7 +280,7 @@ BAR 4:16	1	1	καὶ	καί	conjunction	1	and
 BAR 4:16	1	2	ἀπήγαγον	ἀπάγω	aorist active indicative, third plural	1	they led away
 BAR 4:16	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
 BAR 4:16	1	4	ἀγαπητοὺς	ἀγαπητός	adjective, accusative masculine plural; used substantivally	1	beloved ones
-BAR 4:16	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
+BAR 4:16	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 BAR 4:16	1	6	χήρας	χήρα	noun, genitive feminine singular	1	widow
 BAR 4:16	1	7	καὶ	καί	conjunction	1	and
 BAR 4:16	1	8	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -298,7 +298,7 @@ BAR 4:17	1	4	δύναμαι	δύναμαι	present middle indicative, first sing
 BAR 4:17	1	4	δύναμαι			2	I can
 BAR 4:17	1	5	βοηθῆσαι	βοηθέω	aorist active infinitive	1	to help
 BAR 4:17	1	6	ὑμῖν	σύ	Second-person plural pronoun; dative	1	you
-BAR 4:18	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
+BAR 4:18	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the one
 BAR 4:18	1	2	γὰρ	γάρ	explanatory conjunction	1	for
 BAR 4:18	1	3	ἐπαγαγὼν	ἐπάγω	aorist active participle, nominative masculine singular	1	who brought
 BAR 4:18	1	3	ἐπαγαγὼν			2	who brought upon
@@ -310,7 +310,7 @@ BAR 4:18	1	7	ἐξελεῖται	ἐξαιρέω	future middle indicative, 3rd 
 BAR 4:18	1	8	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 BAR 4:18	1	9	ἐκ	ἐκ	preposition with the genitive	1	from
 BAR 4:18	1	10	χειρὸς	χείρ	noun, genitive feminine singular	1	hand
-BAR 4:18	1	11	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	enemies
+BAR 4:18	1	11	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	of enemies
 BAR 4:18	1	12	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 BAR 4:19	1	1	Βαδίζετε	βαδίζω	present active imperative, second plural	1	go
 BAR 4:19	1	1	Βαδίζετε			2	walk
@@ -327,13 +327,13 @@ BAR 4:19	1	8	ἐξεδυσάμην			2	I stripped off
 BAR 4:19	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
 BAR 4:19	1	10	στολὴν	στολή	noun, accusative feminine singular	1	clothing
 BAR 4:19	1	10	στολὴν			2	robe
-BAR 4:19	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
+BAR 4:19	1	11	τῆς	ὁ	article, genitive feminine singular	1	of the
 BAR 4:19	1	12	εἰρήνης	εἰρήνη	noun, genitive feminine singular	1	peace
 BAR 4:20	1	1	καὶ	καί	conjunction	1	and
 BAR 4:20	1	2	ἐνεδυσάμην	ἐνδύω	aorist middle indicative, first singular	1	I put on
 BAR 4:20	1	2	ἐνεδυσάμην			2	I clothed myself in
 BAR 4:20	1	3	σάκκον	σάκκος	noun, accusative masculine singular	1	sackcloth
-BAR 4:20	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
+BAR 4:20	1	4	τῆς	ὁ	article, genitive feminine singular	1	of the
 BAR 4:20	1	5	δεήσεώς	δέησις	noun, genitive feminine singular	1	supplication
 BAR 4:20	1	5	δεήσεώς			2	pleading
 BAR 4:20	1	6	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
@@ -363,12 +363,12 @@ BAR 4:21	1	11	ἐκ	ἐκ	preposition with the genitive	1	from
 BAR 4:21	1	12	δυναστείας	δυναστεία	noun, genitive feminine singular	1	domination
 BAR 4:21	1	13	ἐκ	ἐκ	preposition with the genitive	1	from
 BAR 4:21	1	14	χειρὸς	χείρ	noun, genitive feminine singular	1	hand
-BAR 4:21	1	15	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	enemies
+BAR 4:21	1	15	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	of enemies
 BAR 4:21	1	16	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 BAR 4:22	1	1	Ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 BAR 4:22	1	2	γὰρ	γάρ	explanatory conjunction	1	for
 BAR 4:22	1	3	ἐπὶ	ἐπί	Preposition with dative	1	in
-BAR 4:22	1	4	τῷ	ὁ	article, dative masculine singular	1	to the
+BAR 4:22	1	4	τῷ	ὁ	article, dative masculine singular	1	the
 BAR 4:22	1	5	αἰωνίῳ	αἰώνιος	adjective, dative masculine singular; used substantivally	1	Eternal One
 BAR 4:22	1	6	ἤλπισα	ἐλπίζω	aorist active indicative, first singular	1	I hoped for
 BAR 4:22	1	6	ἤλπισα			2	I put my hope in
@@ -407,9 +407,9 @@ BAR 4:23	1	4	μετὰ	μετά	preposition with genitive	1	with
 BAR 4:23	1	5	πένθους	πένθος	noun, genitive neuter singular	1	mourning
 BAR 4:23	1	6	καὶ	καί	conjunction	1	and
 BAR 4:23	1	7	κλαυθμοῦ	κλαυθμός	noun, genitive masculine singular	1	weeping
-BAR 4:23	1	8	ἀποδώσει	ἀποδίδωμι	future active indicative, third singular	1	he will give back
+BAR 4:23	1	8	ἀποδώσει	ἀποδίδωμι	future active indicative, third singular	1	will give back
 BAR 4:23	1	8	ἀποδώσει			2	he will return
-BAR 4:23	1	9	δέ	δέ	postpositive conjunction	1	and
+BAR 4:23	1	9	δέ	δέ	postpositive conjunction	1	but
 BAR 4:23	1	10	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 BAR 4:23	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 BAR 4:23	1	12	Θεὸς	θεός	noun, nominative masculine singular	1	God
@@ -456,7 +456,7 @@ BAR 4:24	1	26	μεγάλης	μέγας	adjective, genitive feminine singular	1	
 BAR 4:24	1	27	καὶ	καί	conjunction	1	and
 BAR 4:24	1	28	λαμπρότητος	λαμπρότης	noun, genitive feminine singular	1	splendor
 BAR 4:24	1	28	λαμπρότητος			2	brightness
-BAR 4:24	1	29	τοῦ	ὁ	article, genitive singular	1	the
+BAR 4:24	1	29	τοῦ	ὁ	article, genitive singular	1	of the
 BAR 4:24	1	30	αἰωνίου	αἰώνιος	adjective, genitive masculine singular; used substantivally	1	Eternal One
 BAR 4:25	1	1	Τέκνα	τέκνον	noun, vocative neuter plural	1	children
 BAR 4:25	1	2	μακροθυμήσατε	μακροθυμέω	aorist active imperative, second plural	1	endure patiently
@@ -518,7 +518,7 @@ BAR 4:27	1	8	ἔσται	εἰμί	future indicative, third singular	1	will be
 BAR 4:27	1	9	γὰρ	γάρ	postpositive conjunction	1	for
 BAR 4:27	1	10	ὑμῶν	σύ	Second-person plural pronoun; genitive	1	of you
 BAR 4:27	1	11	ὑπὸ	ὑπό	Preposition with genitive	1	by
-BAR 4:27	1	12	τοῦ	ὁ	article genitive masculine singular	1	of the one
+BAR 4:27	1	12	τοῦ	ὁ	article genitive masculine singular	1	the one
 BAR 4:27	1	13	ἐπάγοντος	ἐπάγω	present active participle, genitive masculine singular	1	who brings
 BAR 4:27	1	14	μνεία	μνεία	noun, nominative feminine singular	1	remembrance
 BAR 4:27	1	14	μνεία			2	mention
@@ -545,7 +545,7 @@ BAR 4:28	1	17	ἐπιστραφέντες	ἐπιστρέφω	aorist passive par
 BAR 4:28	1	17	ἐπιστραφέντες			2	having returned
 BAR 4:28	1	18	ζητῆσαι	ζητέω	aorist active infinitive	1	to seek
 BAR 4:28	1	19	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
-BAR 4:29	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
+BAR 4:29	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the one
 BAR 4:29	1	2	γὰρ	γάρ	explanatory conjunction	1	for
 BAR 4:29	1	3	ἐπαγαγὼν	ἐπάγω	aorist active participle, nominative masculine singular	1	who brought
 BAR 4:29	1	3	ἐπαγαγὼν			2	who brought upon
@@ -574,14 +574,14 @@ BAR 4:30	1	6	ὀνομάσας	ὀνομάζω	aorist active participle, nominat
 BAR 4:30	1	7	σε	σύ	personal pronoun, accusative singular	1	you
 BAR 4:31	1	1	Δείλαιοι	δείλαιος	adjective, nominative masculine plural	1	wretched
 BAR 4:31	1	1	Δείλαιοι			2	miserable
-BAR 4:31	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
+BAR 4:31	1	2	οἱ	ὁ	article, nominative masculine plural	1	those
 BAR 4:31	1	3	σὲ	σύ	pronoun, accusative second singular	1	you
 BAR 4:31	1	4	κακώσαντες	κακόω	aorist active participle, nominative masculine plural	1	who harmed
 BAR 4:31	1	4	κακώσαντες			2	who mistreated
 BAR 4:31	1	5	καὶ	καί	conjunction	1	and
 BAR 4:31	1	6	ἐπιχαρέντες	ἐπιχαίρω	aorist passive participle, nominative masculine plural	1	who gloated
 BAR 4:31	1	6	ἐπιχαρέντες			2	who rejoiced
-BAR 4:31	1	7	τῇ	ὁ	article, dative feminine singular	1	the
+BAR 4:31	1	7	τῇ	ὁ	article, dative feminine singular	1	over the
 BAR 4:31	1	8	σῇ	σός	adjective, dative feminine singular; possessive adjective	1	your
 BAR 4:31	1	9	πτώσει	πτῶσις	noun, dative feminine singular	1	fall
 BAR 4:32	1	1	δείλαιαι	δείλαιος	adjective, nominative feminine plural	1	wretched
@@ -596,8 +596,8 @@ BAR 4:32	1	7	τέκνα	τέκνον	noun, accusative neuter plural	1	children
 BAR 4:32	1	8	σου	σύ	pronoun, possessive genitive second singular	1	your
 BAR 4:32	1	9	δειλαία	δείλαιος	adjective, nominative feminine singular	1	wretched
 BAR 4:32	1	9	δειλαία			2	miserable
-BAR 4:32	1	10	ἡ	ὁ	article, nominative feminine singular	1	the
-BAR 4:32	1	11	δεξαμένη	δέχομαι	aorist middle participle, nominative feminine singular	1	that received
+BAR 4:32	1	10	ἡ	ὁ	article, nominative feminine singular	1	the one
+BAR 4:32	1	11	δεξαμένη	δέχομαι	aorist middle participle, nominative feminine singular	1	who received
 BAR 4:32	1	11	δεξαμένη			2	that took in
 BAR 4:32	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
 BAR 4:32	1	13	υἱούς	υἱός	noun, accusative masculine plural	1	sons
@@ -630,7 +630,7 @@ BAR 4:34	1	3	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 BAR 4:34	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
 BAR 4:34	1	5	ἀγαλλίαμα	ἀγαλλίαμα	noun, accusative neuter singular	1	exultation
 BAR 4:34	1	5	ἀγαλλίαμα			2	rejoicing
-BAR 4:34	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
+BAR 4:34	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
 BAR 4:34	1	7	πολυοχλίας	πολυοχλία	noun, genitive feminine singular	1	crowd
 BAR 4:34	1	7	πολυοχλίας			2	multitude
 BAR 4:34	1	8	καὶ	καί	conjunction	1	and
@@ -671,7 +671,7 @@ BAR 4:36	1	6	ἴδε	ὁράω	aorist active imperative, second singular	1	see
 BAR 4:36	1	6	ἴδε			2	look
 BAR 4:36	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 BAR 4:36	1	8	εὐφροσύνην	εὐφροσύνη	noun accusative feminine singular	1	gladness
-BAR 4:36	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
+BAR 4:36	1	9	τὴν	ὁ	article, accusative feminine singular	1	—
 BAR 4:36	1	10	παρὰ	παρά	preposition with the genitive	1	from
 BAR 4:36	1	11	τοῦ	ὁ	article, genitive singular	1	the
 BAR 4:36	1	12	Θεοῦ	θεός	noun, genitive masculine singular	1	God
@@ -689,13 +689,13 @@ BAR 4:37	1	9	ἔρχονται	ἔρχομαι	present middle indicative, third 
 BAR 4:37	1	10	ἀπὸ	ἀπό	preposition with the genitive	1	from
 BAR 4:37	1	11	ἀνατολῆς	ἀνατολή	noun, genitive feminine singular	1	sunrise
 BAR 4:37	1	11	ἀνατολῆς			2	east
-BAR 4:37	1	12	ἕως	ἕως	temporal conjunction/preposition	1	until
+BAR 4:37	1	12	ἕως	ἕως	temporal conjunction/preposition	1	as far as
 BAR 4:37	1	13	δυσμῶν	δυσμή	noun, genitive feminine plural	1	sunset
 BAR 4:37	1	13	δυσμῶν			2	west
 BAR 4:37	1	14	τῷ	ὁ	article, dative neuter singular	1	by the
 BAR 4:37	1	15	ῥήματι	ῥῆμα	noun, dative neuter singular	1	word
 BAR 4:37	1	15	ῥήματι			2	command
-BAR 4:37	1	16	τοῦ	ὁ	article, genitive singular	1	the
+BAR 4:37	1	16	τοῦ	ὁ	article, genitive singular	1	of the
 BAR 4:37	1	17	ἁγίου	ἅγιος	adjective, genitive masculine singular; used substantivally	1	Holy One
 BAR 4:37	1	18	χαίροντες	χαίρω	present active participle, nominative masculine plural	1	rejoicing
 BAR 4:37	1	19	τῇ	ὁ	article, dative feminine singular	1	in the

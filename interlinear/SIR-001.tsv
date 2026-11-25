@@ -14,18 +14,18 @@ SIR 1:2	1	1	Ἄμμον	ἄμμος	noun accusative feminine singular	1	sand
 SIR 1:2	1	2	θαλασσῶν	θάλασσα	noun genitive feminine plural	1	of the seas
 SIR 1:2	1	3	καὶ	καί	conjunction	1	and
 SIR 1:2	1	4	σταγόνας	σταγών	noun, accusative feminine plural	1	drops
-SIR 1:2	1	5	ὑετοῦ	ὑετός	noun, genitive masculine singular	1	rain
+SIR 1:2	1	5	ὑετοῦ	ὑετός	noun, genitive masculine singular	1	of rain
 SIR 1:2	1	6	καὶ	καί	conjunction	1	and
 SIR 1:2	1	7	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
 SIR 1:2	1	8	αἰῶνος	αἰών	noun, genitive masculine singular	1	of eternity
 SIR 1:2	1	9	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
 SIR 1:2	1	10	ἐξαριθμήσει	ἐξαριθμέω	future active indicative, third singular	1	will enumerate
 SIR 1:3	1	1	Ὕψος	ὕψος	noun, accusative neuter singular	1	height
-SIR 1:3	1	2	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
+SIR 1:3	1	2	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	of heaven
 SIR 1:3	1	3	καὶ	καί	conjunction	1	and
 SIR 1:3	1	4	πλάτος	πλάτος	noun, accusative neuter singular	1	breadth
 SIR 1:3	1	4	πλάτος			2	width
-SIR 1:3	1	5	γῆς	γῆ	noun, genitive feminine singular	1	earth
+SIR 1:3	1	5	γῆς	γῆ	noun, genitive feminine singular	1	of the earth
 SIR 1:3	1	6	καὶ	καί	conjunction	1	and
 SIR 1:3	1	7	ἄβυσσον	ἄβυσσος	noun, accusative feminine singular	1	abyss
 SIR 1:3	1	7	ἄβυσσον			2	deep
@@ -45,10 +45,10 @@ SIR 1:4	1	9	αἰῶνος	αἰών	noun, genitive masculine singular	1	long ag
 SIR 1:4	1	9	αἰῶνος			2	of old
 SIR 1:5	1	1	Πηγὴ	πηγή	noun, nominative feminine singular	1	a spring
 SIR 1:5	1	1	Πηγὴ			2	a fountain
-SIR 1:5	1	2	σοφίας	σοφία	noun, genitive feminine singular	1	wisdom
+SIR 1:5	1	2	σοφίας	σοφία	noun, genitive feminine singular	1	of wisdom
 SIR 1:5	1	3	λόγος	λόγος	noun, nominative masculine singular	1	word
 SIR 1:5	1	3	λόγος			2	message
-SIR 1:5	1	4	Θεοῦ	θεός	noun genitive masculine singular	1	God
+SIR 1:5	1	4	Θεοῦ	θεός	noun genitive masculine singular	1	of God
 SIR 1:5	1	5	ἐν	ἐν	preposition with the dative	1	in
 SIR 1:5	1	6	ὑψίστοις	ὕψιστος	substantival adjective, dative neuter plural	1	the heights
 SIR 1:5	1	7	καὶ	καί	conjunction	1	and
@@ -59,7 +59,7 @@ SIR 1:5	1	11	ἐντολαὶ	ἐντολή	noun nominative feminine plural	1	co
 SIR 1:5	1	12	αἰώνιοι	αἰώνιος	adjective, nominative masculine plural	1	everlasting
 SIR 1:5	1	12	αἰώνιοι			2	perpetual
 SIR 1:6	1	1	Ῥίζα	ῥίζα	noun, nominative feminine singular	1	root
-SIR 1:6	1	2	σοφίας	σοφία	noun, genitive feminine singular	1	wisdom
+SIR 1:6	1	2	σοφίας	σοφία	noun, genitive feminine singular	1	of wisdom
 SIR 1:6	1	3	τίνι	τίς	interrogative pronoun, dative masculine singular	1	to whom
 SIR 1:6	1	4	ἀπεκαλύφθη	ἀποκαλύπτω	aorist passive indicative, third singular	1	was revealed
 SIR 1:7	1	1	καὶ	καί	conjunction	1	and
@@ -69,7 +69,7 @@ SIR 1:7	1	4	αὐτῆς	αὐτός	third-person pronoun, genitive feminine sin
 SIR 1:7	1	5	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
 SIR 1:7	1	6	ἔγνω	γινώσκω	aorist active indicative, third singular	1	has known
 SIR 1:7	1	7	Ἐπιστήμη	ἐπιστήμη	noun, nominative feminine singular	1	knowledge
-SIR 1:7	1	8	σοφίας	σοφία	noun, genitive feminine singular	1	wisdom
+SIR 1:7	1	8	σοφίας	σοφία	noun, genitive feminine singular	1	of wisdom
 SIR 1:7	1	9	τίνι	τίς	interrogative pronoun, dative singular	1	to whom
 SIR 1:7	1	10	ἐφανερώθη	φανερόω	aorist passive indicative, third singular	1	was disclosed
 SIR 1:7	1	11	καὶ	καί	conjunction	1	and
@@ -106,7 +106,7 @@ SIR 1:9	1	14	τὰ	ὁ	article nominative neuter plural	1	the
 SIR 1:9	1	15	ἔργα	ἔργον	noun nominative neuter plural	1	works
 SIR 1:9	1	16	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 1:10	1	1	μετὰ	μετά	preposition with genitive	1	among
-SIR 1:10	1	2	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
+SIR 1:10	1	2	πάσης	πᾶς	adjective, genitive feminine singular	1	all
 SIR 1:10	1	3	σαρκὸς	σάρξ	noun, genitive feminine singular	1	flesh
 SIR 1:10	1	4	κατὰ	κατά	preposition with the accusative	1	according to
 SIR 1:10	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -173,9 +173,9 @@ SIR 1:14	1	2	Κυρίου	κύριος	noun, genitive masculine singular	1	of th
 SIR 1:14	1	3	ἔνδοξος	ἔνδοξος	adjective, nominative masculine singular	1	honored
 SIR 1:14	1	4	σοφία	σοφία	noun, nominative fem. sg	1	wisdom
 SIR 1:14	1	4	σοφία			2	skill
-SIR 1:14	1	5	οἷς	ὅς	relative pronoun, dative neuter plural	1	that
+SIR 1:14	1	5	οἷς	ὅς	relative pronoun, dative neuter plural	1	to whom
 SIR 1:14	1	6	δ᾽	δέ	postpositive conjunction	1	and
-SIR 1:14	1	7	ὀπτάνηται	ὀπτάνω	present middle/passive subjunctive, third singular	1	he appears
+SIR 1:14	1	7	ὀπτάνηται	ὀπτάνω	present middle/passive subjunctive, third singular	1	she appears
 SIR 1:14	1	8	μερίζει	μερίζω	present active indicative, third singular	1	apportions
 SIR 1:14	1	9	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
 SIR 1:14	1	10	εἰς	εἰς	preposition with the accusative	1	for
@@ -188,7 +188,7 @@ SIR 1:15	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 SIR 1:15	1	5	Κύριον	κύριος	noun, accusative masculine singular	1	Lord
 SIR 1:15	1	6	καὶ	καί	conjunction	1	and
 SIR 1:15	1	7	μετὰ	μετά	preposition with genitive	1	with
-SIR 1:15	1	8	πιστῶν	πιστός	adjective, genitive masculine plural	1	of faithful people
+SIR 1:15	1	8	πιστῶν	πιστός	adjective, genitive masculine plural	1	faithful people
 SIR 1:15	1	9	ἐν	ἐν	preposition with the dative	1	in
 SIR 1:15	1	10	μήτρᾳ	μήτρα	noun, dative feminine singular	1	womb
 SIR 1:15	1	11	συνεκτίσθη	συγκτίζω	aorist passive indicative, third singular	1	was created together
@@ -207,7 +207,7 @@ SIR 1:15	1	21	σπέρματος	σπέρμα	noun, genitive neuter singular	1	s
 SIR 1:15	1	22	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 SIR 1:15	1	23	ἐμπιστευθήσεται	ἐμπιστεύω	future passive indicative, third singular	1	will be entrusted
 SIR 1:16	1	1	Πλησμονὴ	πλησμονή	noun, nominative feminine singular	1	fulness
-SIR 1:16	1	2	σοφίας	σοφία	noun, genitive feminine singular	1	wisdom
+SIR 1:16	1	2	σοφίας	σοφία	noun, genitive feminine singular	1	of wisdom
 SIR 1:16	1	3	φοβεῖσθαι	φοβέω	present middle infinitive	1	to fear
 SIR 1:16	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 SIR 1:16	1	5	Κύριον	κύριος	noun, accusative masculine singular	1	Lord
@@ -246,12 +246,12 @@ SIR 1:18	1	10	ἀμφότερα	ἀμφότερος	adjective, accusative neuter
 SIR 1:18	1	11	δέ	δέ	postpositive conjunction	1	and
 SIR 1:18	1	12	ἐστι	εἰμί	present indicative, third singular	1	are
 SIR 1:18	1	13	δῶρα	δῶρον	noun, accusative neuter plural	1	gifts
-SIR 1:18	1	14	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+SIR 1:18	1	14	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 SIR 1:18	1	15	πλατύνει	πλατύνω	present active indicative, third singular	1	widens
 SIR 1:18	1	16	δὲ	δέ	postpositive conjunction	1	and
 SIR 1:18	1	17	καύχησιν	καύχησις	noun, accusative feminine singular	1	boast
-SIR 1:18	1	18	τοῖς	ὁ	article dative masculine plural	1	the
-SIR 1:18	1	19	ἀγαπῶσιν	ἀγαπάω	present active participle, dative masculine plural	1	love
+SIR 1:18	1	18	τοῖς	ὁ	article dative masculine plural	1	to those
+SIR 1:18	1	19	ἀγαπῶσιν	ἀγαπάω	present active participle, dative masculine plural	1	who love
 SIR 1:18	1	20	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 SIR 1:19	1	1	Καὶ	καί	conjunction	1	and
 SIR 1:19	1	2	ἴδε	ὁράω	aorist active indicative, third singular	1	saw
@@ -269,7 +269,7 @@ SIR 1:19	1	13	κρατούντων	κρατέω	present active participle, genit
 SIR 1:19	1	14	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	her
 SIR 1:19	1	15	ἀνύψωσε	ἀνυψόω	aorist active indicative, third singular	1	raised high
 SIR 1:20	1	1	Ῥίζα	ῥίζα	noun, nominative feminine singular	1	root
-SIR 1:20	1	2	σοφίας	σοφία	noun, genitive feminine singular	1	wisdom
+SIR 1:20	1	2	σοφίας	σοφία	noun, genitive feminine singular	1	of wisdom
 SIR 1:20	1	3	φοβεῖσθαι	φοβέω	present middle infinitive	1	to fear
 SIR 1:20	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 SIR 1:20	1	5	Κύριον	κύριος	noun, accusative masculine singular	1	Lord
@@ -297,7 +297,7 @@ SIR 1:22	1	7	γὰρ	γάρ	conjunction	1	for
 SIR 1:22	1	8	ῥοπὴ	ῥοπή	noun, nominative feminine singular	1	sway
 SIR 1:22	1	9	τοῦ	ὁ	article, genitive singular	1	the
 SIR 1:22	1	10	θυμοῦ	θυμός	noun, genitive masc. sg	1	anger
-SIR 1:22	1	11	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	its
+SIR 1:22	1	11	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 1:22	1	12	πτῶσις	πτῶσις	noun, nominative feminine singular	1	downfall
 SIR 1:22	1	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	for him
 SIR 1:23	1	1	Ἕως	ἕως	preposition with the genitive	1	until
@@ -330,7 +330,7 @@ SIR 1:25	1	4	παραβολαὶ	παραβολή	noun, nominative feminine plur
 SIR 1:25	1	5	ἐπιστήμης	ἐπιστήμη	noun, genitive fem. sg., knowledge/skill	1	of knowledge
 SIR 1:25	1	6	βδέλυγμα	βδέλυγμα	noun, nominative neuter singular	1	an abomination
 SIR 1:25	1	7	δὲ	δέ	postpositive conjunction	1	and
-SIR 1:25	1	8	ἁμαρτωλῷ	ἁμαρτωλός	substantival adjective dative masculine singular	1	sinner
+SIR 1:25	1	8	ἁμαρτωλῷ	ἁμαρτωλός	substantival adjective dative masculine singular	1	to a sinner
 SIR 1:25	1	9	θεοσέβεια	θεοσέβεια	noun, nominative feminine singular	1	reverence for God
 SIR 1:26	1	1	Ἐπιθυμήσας	ἐπιθυμέω	aorist active participle, nominative masculine singular	1	if you desire
 SIR 1:26	1	2	σοφίαν	σοφία	noun, accusative feminine singular	1	wisdom
@@ -355,11 +355,11 @@ SIR 1:27	1	11	πίστις	πίστις	noun, nominative feminine singular	1	fai
 SIR 1:27	1	12	καὶ	καί	conjunction	1	and
 SIR 1:27	1	13	πραΰτης	πραΰτης	noun, nominative feminine singular	1	meekness
 SIR 1:28	1	1	Μὴ	μή	negative particle	1	not
-SIR 1:28	1	2	ἀπειθήσῃς	ἀπειθέω	aorist active subjunctive, second singular	1	do not disobey
+SIR 1:28	1	2	ἀπειθήσῃς	ἀπειθέω	aorist active subjunctive, second singular	1	disobey
 SIR 1:28	1	3	φόβῳ	φόβος	noun dative masculine singular	1	fear
 SIR 1:28	1	4	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-SIR 1:28	1	5	ἐνδεὴς	ἐνδεής	adjective, nominative masculine singular	1	distrustful
-SIR 1:28	1	6	ὤν	εἰμί	present active participle, nominative masculine singular	1	be
+SIR 1:28	1	5	ἐνδεὴς	ἐνδεής	adjective, nominative masculine singular	1	needy
+SIR 1:28	1	6	ὤν	εἰμί	present active participle, nominative masculine singular	1	being
 SIR 1:28	1	7	καὶ	καί	conjunction	1	and
 SIR 1:28	1	8	μὴ	μή	negative particle	1	not
 SIR 1:28	1	9	προσέλθῃς	προσέρχομαι	aorist active subjunctive, 2nd singular	1	draw near
@@ -371,7 +371,7 @@ SIR 1:29	1	1	Μὴ	μή	negative particle	1	not
 SIR 1:29	1	2	ὑποκριθῇς	ὑποκρίνομαι	aorist passive subjunctive, second singular	1	be hypocritical
 SIR 1:29	1	3	ἐν	ἐν	preposition with the dative	1	in
 SIR 1:29	1	4	στόμασιν	στόμα	noun, dative neuter plural	1	mouths
-SIR 1:29	1	5	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	human beings
+SIR 1:29	1	5	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	of human beings
 SIR 1:29	1	5	ἀνθρώπων			2	people
 SIR 1:29	1	6	καὶ	καί	conjunction	1	and
 SIR 1:29	1	7	ἐν	ἐν	preposition with the dative	1	in
@@ -380,7 +380,7 @@ SIR 1:29	1	9	χείλεσί	χεῖλος	noun dative neuter plural	1	lips
 SIR 1:29	1	10	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 1:29	1	11	πρόσεχε	προσέχω	present active imperative, 2nd singular	1	take heed
 SIR 1:30	1	1	Μὴ	μή	negative particle	1	not
-SIR 1:30	1	2	ἐξύψου	ἐξυψόω	present middle/passive imperative, second singular	1	exalt yourself
+SIR 1:30	1	2	ἐξύψου	ἐξυψόω	present middle/passive imperative, second singular	1	exalt
 SIR 1:30	1	3	σεαυτὸν	σεαυτοῦ	reflexive pronoun, accusative masculine singular	1	yourself
 SIR 1:30	1	4	ἵνα	ἵνα	conjunction	1	so that
 SIR 1:30	1	5	μὴ	μή	negative particle	1	not
@@ -402,7 +402,7 @@ SIR 1:30	1	18	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 1:30	1	19	καὶ	καί	conjunction	1	and
 SIR 1:30	1	20	ἐν	ἐν	preposition with the dative	1	in
 SIR 1:30	1	21	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
-SIR 1:30	1	22	συναγωγῆς	συναγωγή	noun, genitive feminine singular	1	congregation
+SIR 1:30	1	22	συναγωγῆς	συναγωγή	noun, genitive feminine singular	1	of the congregation
 SIR 1:30	1	23	καταβαλεῖ	καταβάλλω	future active indicative, third singular	1	will cast down
 SIR 1:30	1	24	σε	σύ	personal pronoun, accusative singular	1	you
 SIR 1:30	1	25	ὅτι	ὅτι	causal conjunction	1	because
@@ -418,5 +418,5 @@ SIR 1:30	1	33	ἡ	ὁ	article, nominative feminine singular	1	the
 SIR 1:30	1	34	καρδία	καρδία	noun, nominative feminine singular	1	heart
 SIR 1:30	1	35	σου	σύ	personal pronoun, possessive genitive singular	1	your
 SIR 1:30	1	36	πλήρης	πλήρης	adjective, nominative masculine singular	1	full
-SIR 1:30	1	37	δόλου	δόλος	noun, genitive masculine singular	1	deceit
+SIR 1:30	1	37	δόλου	δόλος	noun, genitive masculine singular	1	of deceit
 SIR 1:30	1	37	δόλου			2	trickery

@@ -1,6 +1,6 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
-SIR 32:1	1	1	Ο	ὁ	article, nominative masculine singular	1	the
-SIR 32:1	1	2	συντηρῶν	συντηρέω	present active participle, nominative masculine singular	1	guarding
+SIR 32:1	1	1	Ο	ὁ	article, nominative masculine singular	1	the one
+SIR 32:1	1	2	συντηρῶν	συντηρέω	present active participle, nominative masculine singular	1	who keeps
 SIR 32:1	1	3	νόμον	νόμος	noun, accusative masculine singular	1	law
 SIR 32:1	1	4	πλεονάζει	πλεονάζω	present active indicative, third singular	1	increases
 SIR 32:1	1	5	προσφορὰς	προσφορά	noun, accusative feminine plural	1	offerings
@@ -55,7 +55,7 @@ SIR 32:6	1	9	ἔναντι			2	in the presence of
 SIR 32:6	1	10	ὑψίστου	ὕψιστος	adjective genitive masculine singular	1	Most High
 SIR 32:7	1	1	θυσία	θυσία	noun, nominative feminine singular	1	sacrifice
 SIR 32:7	1	2	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	of a man
-SIR 32:7	1	3	δικαίου	δίκαιος	adjective, genitive masculine singular; substantival	1	of a righteous person
+SIR 32:7	1	3	δικαίου	δίκαιος	adjective, genitive masculine singular; substantival	1	righteous
 SIR 32:7	1	4	δεκτή	δεκτός	adjective, nominative feminine singular	1	welcome
 SIR 32:7	1	5	καὶ	καί	conjunction	1	and
 SIR 32:7	1	6	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -72,8 +72,8 @@ SIR 32:8	1	6	Κύριον	κύριος	noun accusative masculine singular	1	Lord
 SIR 32:8	1	7	καὶ	καί	conjunction	1	and
 SIR 32:8	1	8	μὴ	μή	negative particle	1	not
 SIR 32:8	1	9	μακρύνῃς	μακρύνω	aorist active subjunctive second singular	1	remove far
-SIR 32:8	1	10	ἀπαρχὴν	ἀπαρχή	noun, accusative feminine singular	1	the firstfruits of
-SIR 32:8	1	11	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
+SIR 32:8	1	10	ἀπαρχὴν	ἀπαρχή	noun, accusative feminine singular	1	the firstfruits
+SIR 32:8	1	11	χειρῶν	χείρ	noun, genitive feminine plural	1	of hands
 SIR 32:8	1	12	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 32:9	1	1	ἐν	ἐν	preposition with the dative	1	in
 SIR 32:9	1	2	πάσῃ	πᾶς	adjective dative feminine singular	1	all
@@ -99,9 +99,9 @@ SIR 32:10	1	7	καὶ	καί	conjunction	1	and
 SIR 32:10	1	8	ἐν	ἐν	preposition with the dative	1	with
 SIR 32:10	1	9	ἀγαθῷ	ἀγαθός	adjective, dative masculine singular	1	good
 SIR 32:10	1	10	ὀφθαλμῷ	ὀφθαλμός	noun, dative masculine singular	1	eye
-SIR 32:10	1	11	καθ᾽	κατά	preposition with the accusative, elided	1	like
+SIR 32:10	1	11	καθ᾽	κατά	preposition with the accusative, elided	1	according to
 SIR 32:10	1	12	εὕρεμα	εὕρεμα	noun, nominative neuter singular	1	what you have found
-SIR 32:10	1	13	χειρός	χείρ	noun, genitive feminine singular	1	hand
+SIR 32:10	1	13	χειρός	χείρ	noun, genitive feminine singular	1	of hand
 SIR 32:11	1	1	ὅτι	ὅτι	causal conjunction	1	because
 SIR 32:11	1	2	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 SIR 32:11	1	3	ἀνταποδιδοὺς	ἀνταποδίδωμι	present active participle, nominative masculine singular	1	one who repays
@@ -129,25 +129,25 @@ SIR 32:12	1	14	ἐστι	εἰμί	present indicative third singular	1	is
 SIR 32:12	1	15	καὶ	καί	conjunction	1	and
 SIR 32:12	1	16	οὐκ	οὐ	negative particle	1	not
 SIR 32:12	1	17	ἔστι	εἰμί	present active indicative, third singular	1	is
-SIR 32:12	1	18	παρ᾽	παρά	preposition with genitive	1	from
+SIR 32:12	1	18	παρ᾽	παρά	preposition with genitive	1	with
 SIR 32:12	1	19	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 SIR 32:12	1	20	δόξα	δόξα	noun, nominative feminine singular	1	regard
 SIR 32:12	1	21	προσώπου	πρόσωπον	noun, genitive neuter singular	1	for persons
 SIR 32:13	1	1	Οὐ	οὐ	negative particle	1	not
-SIR 32:13	1	2	λήψεται	λαμβάνω	future middle indicative, third singular	1	will show partiality
+SIR 32:13	1	2	λήψεται	λαμβάνω	future middle indicative, third singular	1	will accept
 SIR 32:13	1	3	πρόσωπον	πρόσωπον	noun, accusative neuter singular; in an idiom of partiality	1	the face
-SIR 32:13	1	4	ἐπὶ	ἐπί	preposition (case from context)	1	on
+SIR 32:13	1	4	ἐπὶ	ἐπί	preposition (case from context)	1	against
 SIR 32:13	1	5	πτωχοῦ	πτωχός	adjective, genitive masculine singular	1	poor
 SIR 32:13	1	6	καὶ	καί	conjunction	1	and
 SIR 32:13	1	7	δέησιν	δέησις	noun, accusative feminine singular	1	plea
 SIR 32:13	1	7	δέησιν			2	entreaty
-SIR 32:13	1	8	ἠδικημένου	ἀδικέω	perfect middle/passive participle, genitive masculine singular	1	one who has been wronged
+SIR 32:13	1	8	ἠδικημένου	ἀδικέω	perfect middle/passive participle, genitive masculine singular	1	of one who has been wronged
 SIR 32:13	1	9	εἰσακούσεται	εἰσακούω	future middle indicative third singular	1	he will hear
 SIR 32:14	1	1	οὐ	οὐ	negative particle	1	not
 SIR 32:14	1	2	μὴ	μή	negative particle	1	at all
-SIR 32:14	1	3	παρίδῃ	παροράω	aorist active subjunctive, third singular	1	overlooks
+SIR 32:14	1	3	παρίδῃ	παροράω	aorist active subjunctive, third singular	1	will overlook
 SIR 32:14	1	4	ἱκετείαν	ἱκετεία	noun, accusative feminine singular	1	supplication
-SIR 32:14	1	5	ὀρφανοῦ	ὀρφανός	adjective, genitive masculine singular	1	orphan
+SIR 32:14	1	5	ὀρφανοῦ	ὀρφανός	adjective, genitive masculine singular	1	of an orphan
 SIR 32:14	1	6	καὶ	καί	conjunction	1	and
 SIR 32:14	1	7	χήραν	χήρα	noun, accusative fem. sg	1	widow
 SIR 32:14	1	8	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
@@ -156,7 +156,7 @@ SIR 32:14	1	10	λαλιάν	λαλιά	noun, accusative feminine singular	1	spee
 SIR 32:14	1	10	λαλιάν			2	talk
 SIR 32:15	1	1	Οὐχὶ	οὐχί	negative particle, emphatic form	1	not
 SIR 32:15	1	2	δάκρυα	δάκρυον	noun, nominative neuter plural	1	tears
-SIR 32:15	1	3	χήρας	χήρα	noun, genitive feminine singular	1	widow
+SIR 32:15	1	3	χήρας	χήρα	noun, genitive feminine singular	1	of a widow
 SIR 32:15	1	4	ἐπὶ	ἐπί	preposition (case from context)	1	on
 SIR 32:15	1	5	σιαγόνι	σιαγών	noun, dative feminine singular	1	a cheek
 SIR 32:15	1	6	καταβαίνει	καταβαίνω	present active indicative, third singular	1	goes down
@@ -175,14 +175,14 @@ SIR 32:16	1	5	καὶ	καί	conjunction	1	and
 SIR 32:16	1	6	ἡ	ὁ	article, nominative feminine singular	1	the
 SIR 32:16	1	7	δέησις	δέησις	noun, nominative feminine singular	1	a plea
 SIR 32:16	1	8	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
-SIR 32:16	1	9	ἕως	ἕως	temporal conjunction/preposition	1	until
+SIR 32:16	1	9	ἕως	ἕως	temporal conjunction/preposition	1	as far as
 SIR 32:16	1	10	νεφελῶν	νεφέλη	noun genitive feminine plural	1	clouds
 SIR 32:16	1	11	συνάψει	συνάπτω	future active indicative, third singular	1	will meet
 SIR 32:16	1	11	συνάψει			2	will border
 SIR 32:17	1	1	προσευχὴ	προσευχή	noun nominative feminine singular	1	prayer
 SIR 32:17	1	2	ταπεινοῦ	ταπεινός	adjective, genitive masculine singular	1	of the humble
 SIR 32:17	1	3	νεφέλας	νεφέλη	noun, accusative feminine plural	1	clouds
-SIR 32:17	1	4	διῆλθε	διέρχομαι	aorist active indicative third singular	1	has passed through
+SIR 32:17	1	4	διῆλθε	διέρχομαι	aorist active indicative third singular	1	passed through
 SIR 32:17	1	5	καὶ	καί	conjunction	1	and
 SIR 32:17	1	6	ἕως	ἕως	temporal conjunction/preposition	1	until
 SIR 32:17	1	7	συνεγγίσῃ	συνεγγίζω	aorist active subjunctive, third singular	1	it approaches
@@ -195,7 +195,7 @@ SIR 32:17	1	13	μὴ	μή	negative particle reinforcing preceding negation, rein
 SIR 32:17	1	14	ἀποστῇ	ἀφίστημι	aorist active subjunctive, third singular	1	withdraws
 SIR 32:17	1	14	ἀποστῇ			2	turns away
 SIR 32:17	1	15	ἕως	ἕως	subordinating conjunction	1	until
-SIR 32:17	1	16	ἐπισκέψηται	ἐπισκέπτομαι	aorist middle subjunctive, third singular	1	he may investigate
+SIR 32:17	1	16	ἐπισκέψηται	ἐπισκέπτομαι	aorist middle subjunctive, third singular	1	visits
 SIR 32:17	1	17	Κύριος	κύριος	noun nominative masculine singular	1	Lord
 SIR 32:17	1	18	καὶ	καί	conjunction	1	and
 SIR 32:17	1	19	κρινεῖ	κρίνω	future active indicative, third singular	1	will judge for
@@ -220,10 +220,10 @@ SIR 32:18	1	13	ἕως	ἕως	subordinating conjunction	1	until
 SIR 32:18	1	14	ἂν	ἄν	modal particle, marks contingency	1	—
 SIR 32:18	1	15	συντρίψῃ	συντρίβω	aorist active subjunctive, third singular	1	may crush
 SIR 32:18	1	16	ὀσφὺν	ὀσφύς	noun, accusative feminine singular	1	loins
-SIR 32:18	1	17	ἀνελεημόνων	ἀνελεήμων	adjective, genitive masculine plural	1	merciless
+SIR 32:18	1	17	ἀνελεημόνων	ἀνελεήμων	adjective, genitive masculine plural	1	of the merciless
 SIR 32:18	1	18	καὶ	καί	conjunction	1	and
-SIR 32:18	1	19	τοῖς	ὁ	article, dative neuter plural	1	the
-SIR 32:18	1	20	ἔθνεσιν	ἔθνος	noun, dative neuter plural	1	to the nations
+SIR 32:18	1	19	τοῖς	ὁ	article, dative neuter plural	1	to the
+SIR 32:18	1	20	ἔθνεσιν	ἔθνος	noun, dative neuter plural	1	nations
 SIR 32:18	1	21	ἀνταποδώσει	ἀνταποδίδωμι	future active indicative, 3rd singular	1	shall repay
 SIR 32:18	1	22	ἐκδίκησιν	ἐκδίκησις	noun, accusative feminine singular	1	vengeance
 SIR 32:18	1	22	ἐκδίκησιν			2	retribution
@@ -239,7 +239,7 @@ SIR 32:18	1	29	ἀδίκων	ἄδικος	adjective, genitive masculine plural	
 SIR 32:18	1	30	συντρίψῃ	συντρίβω	aorist active subjunctive, third singular	1	may crush
 SIR 32:19	1	1	ἕως	ἕως	temporal conjunction/preposition	1	until
 SIR 32:19	1	2	ἀνταποδῷ	ἀνταποδίδωμι	aorist active optative, third singular	1	may repay
-SIR 32:19	1	3	ἀνθρώπῳ	ἄνθρωπος	noun, dative masculine singular	1	a person
+SIR 32:19	1	3	ἀνθρώπῳ	ἄνθρωπος	noun, dative masculine singular	1	to a person
 SIR 32:19	1	4	κατὰ	κατά	preposition with the accusative	1	according to
 SIR 32:19	1	5	τὰς	ὁ	article, accusative feminine plural	1	the
 SIR 32:19	1	6	πράξεις	πρᾶξις	noun, nominative feminine plural	1	deeds
@@ -247,7 +247,7 @@ SIR 32:19	1	7	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine 
 SIR 32:19	1	8	καὶ	καί	conjunction	1	and
 SIR 32:19	1	9	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 SIR 32:19	1	10	ἔργα	ἔργον	noun, accusative neuter plural	1	works
-SIR 32:19	1	11	τῶν	ὁ	article, genitive plural	1	the
+SIR 32:19	1	11	τῶν	ὁ	article, genitive plural	1	of the
 SIR 32:19	1	12	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	human beings
 SIR 32:19	1	12	ἀνθρώπων			2	people
 SIR 32:19	1	13	καὶ	καί	conjunction	1	and
@@ -258,7 +258,7 @@ SIR 32:19	1	17	ἕως	ἕως	preposition with the genitive	1	until
 SIR 32:19	1	18	κρινῇ	κρίνω	present active subjunctive, third singular	1	he judges
 SIR 32:19	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
 SIR 32:19	1	20	κρίσιν	κρίσις	noun accusative feminine singular	1	judgment
-SIR 32:19	1	21	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
+SIR 32:19	1	21	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	of the
 SIR 32:19	1	22	λαοῦ	λαός	noun, genitive masculine singular	1	people
 SIR 32:19	1	23	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 32:19	1	24	καὶ	καί	conjunction	1	and
@@ -279,8 +279,8 @@ SIR 32:20	1	4	καιρῷ			2	season
 SIR 32:20	1	5	θλίψεως	θλῖψις	noun, genitive feminine singular	1	of distress
 SIR 32:20	1	6	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 32:20	1	7	ὡς	ὡς	comparative particle	1	like
-SIR 32:20	1	8	νεφέλαι	νεφέλη	noun, nominative feminine plural	1	clouds of
-SIR 32:20	1	9	ὑετοῦ	ὑετός	noun, genitive masculine singular	1	rain
+SIR 32:20	1	8	νεφέλαι	νεφέλη	noun, nominative feminine plural	1	clouds
+SIR 32:20	1	9	ὑετοῦ	ὑετός	noun, genitive masculine singular	1	of rain
 SIR 32:20	1	10	ἐν	ἐν	preposition with the dative	1	in
 SIR 32:20	1	11	καιρῷ	καιρός	noun, dative masculine singular	1	time
 SIR 32:20	1	12	ἀβροχίας	ἀβροχία	noun, genitive feminine singular	1	of drought

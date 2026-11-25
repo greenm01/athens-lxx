@@ -1,9 +1,9 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 SIR 49:1	1	1	ΜΝΗΜΟΣΥΝΟΝ	μνημόσυνον	noun, nominative neuter singular	1	memory
 SIR 49:1	1	2	Ἰωσίου	Ἰωσίας	personal name, genitive masculine singular in context	1	of Josiah
-SIR 49:1	1	3	εἰς	εἰς	preposition with the accusative	1	is like
+SIR 49:1	1	3	εἰς	εἰς	preposition with the accusative	1	as
 SIR 49:1	1	4	σύνθεσιν	σύνθεσις	noun, accusative fem. sg	1	composition
-SIR 49:1	1	5	θυμιάματος	θυμίαμα	noun, genitive neut. sg	1	incense
+SIR 49:1	1	5	θυμιάματος	θυμίαμα	noun, genitive neut. sg	1	of incense
 SIR 49:1	1	6	ἐσκευασμένον	σκευάζω	perfect middle/passive participle, accusative neuter singular	1	prepared
 SIR 49:1	1	7	ἔργον	ἔργον	noun, accusative neut. sg. in nominative work-formulas varies by syntax	1	work
 SIR 49:1	1	8	μυρεψοῦ	μυρεψός	noun, genitive masc. sg	1	of a perfumer
@@ -17,8 +17,8 @@ SIR 49:1	1	15	καὶ	καί	conjunction	1	and
 SIR 49:1	1	16	ὡς	ὡς	comparative adverb/conjunction	1	like
 SIR 49:1	1	17	μουσικὰ	μουσικός	adjective, nominative neuter plural	1	music
 SIR 49:1	1	18	ἐν	ἐν	preposition with the dative	1	in
-SIR 49:1	1	19	συμποσίῳ	συμπόσιον	noun, dative neuter singular	1	a banquet of
-SIR 49:1	1	20	οἴνου	οἶνος	noun, genitive masculine singular	1	wine
+SIR 49:1	1	19	συμποσίῳ	συμπόσιον	noun, dative neuter singular	1	a banquet
+SIR 49:1	1	20	οἴνου	οἶνος	noun, genitive masculine singular	1	of wine
 SIR 49:2	1	1	Αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 SIR 49:2	1	2	κατηυθύνθη	κατευθύνω	aorist passive indicative, third singular	1	was set straight
 SIR 49:2	1	3	ἐν	ἐν	preposition with the dative	1	in
@@ -27,7 +27,7 @@ SIR 49:2	1	5	λαοῦ	λαός	noun genitive masculine singular	1	of people
 SIR 49:2	1	6	καὶ	καί	conjunction	1	and
 SIR 49:2	1	7	ἐξῆρε	ἐξαίρω	aorist active indicative, third singular	1	drove out
 SIR 49:2	1	8	βδελύγματα	βδέλυγμα	noun, accusative neuter plural	1	abominations
-SIR 49:2	1	9	ἀνομίας	ἀνομία	noun, accusative feminine plural	1	lawlessness
+SIR 49:2	1	9	ἀνομίας	ἀνομία	noun, accusative feminine plural	1	of lawlessness
 SIR 49:3	1	1	κατεύθυνε	κατευθύνω	aorist active indicative, third singular	1	directed
 SIR 49:3	1	2	πρὸς	πρός	preposition with accusative	1	to
 SIR 49:3	1	3	Κύριον	κύριος	noun accusative masculine singular	1	the Lord
@@ -35,8 +35,8 @@ SIR 49:3	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 SIR 49:3	1	5	καρδίαν	καρδία	noun, accusative feminine singular	1	heart
 SIR 49:3	1	6	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 49:3	1	7	ἐν	ἐν	preposition with the dative	1	in
-SIR 49:3	1	8	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	the days of
-SIR 49:3	1	9	ἀνόμων	ἄνομος	adjective, genitive masculine plural; substantival	1	lawless people
+SIR 49:3	1	8	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
+SIR 49:3	1	9	ἀνόμων	ἄνομος	adjective, genitive masculine plural; substantival	1	of lawless people
 SIR 49:3	1	10	κατίσχυσε	κατισχύω	aorist active indicative, 3rd sg.	1	strengthened
 SIR 49:3	1	11	τὴν	ὁ	article, accusative fem. sg.	1	the
 SIR 49:3	1	12	εὐσέβειαν	εὐσέβεια	noun, accusative feminine singular	1	piety
@@ -54,7 +54,7 @@ SIR 49:4	1	10	κατέλειπον	καταλείπω	aorist active indicative, 
 SIR 49:4	1	11	γὰρ	γάρ	conjunction	1	for
 SIR 49:4	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
 SIR 49:4	1	13	νόμον	νόμος	noun, accusative masc. sg	1	law
-SIR 49:4	1	14	τοῦ	ὁ	article, genitive singular	1	the
+SIR 49:4	1	14	τοῦ	ὁ	article, genitive singular	1	of the
 SIR 49:4	1	15	ὑψίστου	ὕψιστος	adjective genitive masculine singular	1	Most High
 SIR 49:4	1	16	οἱ	ὁ	article, nominative masculine plural	1	the
 SIR 49:4	1	17	βασιλεῖς	βασιλεύς	noun, nominative masculine plural	1	kings
@@ -70,7 +70,7 @@ SIR 49:5	1	7	καὶ	καί	conjunction	1	and
 SIR 49:5	1	8	τὴν	ὁ	article, accusative feminine singular	1	the
 SIR 49:5	1	9	δόξαν	δόξα	noun accusative feminine singular	1	glory
 SIR 49:5	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-SIR 49:5	1	11	ἔθνει	ἔθνος	noun, dative neuter singular	1	nation
+SIR 49:5	1	11	ἔθνει	ἔθνος	noun, dative neuter singular	1	to a nation
 SIR 49:5	1	12	ἀλλοτρίῳ	ἀλλότριος	adjective, dative neuter singular	1	foreign
 SIR 49:6	1	1	ἐνεπύρισαν	ἐμπυρίζω	aorist active indicative, third plural	1	set on fire
 SIR 49:6	1	2	ἐκλεκτὴν	ἐκλεκτός	adjective, accusative feminine singular	1	chosen
@@ -91,14 +91,14 @@ SIR 49:7	1	4	καὶ	καί	conjunction	1	and
 SIR 49:7	1	5	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 SIR 49:7	1	6	ἐν	ἐν	preposition with the dative	1	in
 SIR 49:7	1	7	μήτρᾳ	μήτρα	noun, dative feminine singular	1	the womb
-SIR 49:7	1	8	ἡγιάσθη	ἁγιάζω	aorist passive indicative, third singular	1	he showed himself holy
+SIR 49:7	1	8	ἡγιάσθη	ἁγιάζω	aorist passive indicative, third singular	1	was consecrated
 SIR 49:7	1	9	προφήτης	προφήτης	noun, nominative masculine singular	1	prophet
 SIR 49:7	1	10	ἐκριζοῦν	ἐκριζόω	present active infinitive	1	to uproot
 SIR 49:7	1	11	καὶ	καί	conjunction	1	and
 SIR 49:7	1	12	κακοῦν	κακόω	present active infinitive	1	to harm
 SIR 49:7	1	12	κακοῦν			2	to afflict
 SIR 49:7	1	13	καὶ	καί	conjunction	1	and
-SIR 49:7	1	14	ἀπολύειν	ἀπολύω	present active infinitive	1	to dissolve
+SIR 49:7	1	14	ἀπολύειν	ἀπολύω	present active infinitive	1	to destroy
 SIR 49:7	1	14	ἀπολύειν			2	to release
 SIR 49:7	1	15	ὡσαύτως	ὡσαύτως	adverb	1	likewise
 SIR 49:7	1	16	οἰκοδομεῖν	οἰκοδομέω	present active infinitive	1	to build
@@ -107,13 +107,13 @@ SIR 49:7	1	18	καταφυτεύειν	καταφυτεύω	present active infin
 SIR 49:8	1	1	Ἰεζεκίηλος	Ἰεζεκιήλ	indeclinable personal name, nominative in context	1	Ezekiel
 SIR 49:8	1	2	ἴδεν	ὁράω	aorist active indicative, third singular	1	saw
 SIR 49:8	1	3	ὅρασιν	ὅρασις	noun, accusative feminine singular	1	a vision
-SIR 49:8	1	4	δόξης	δόξα	noun, genitive fem. sg	1	glory
+SIR 49:8	1	4	δόξης	δόξα	noun, genitive fem. sg	1	of glory
 SIR 49:8	1	5	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 SIR 49:8	1	6	ὑπέδειξεν	ὑποδείκνυμι	aorist active indicative, third singular	1	showed
 SIR 49:8	1	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 SIR 49:8	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	on
 SIR 49:8	1	9	ἅρματος	ἅρμα	noun, genitive neuter singular	1	chariot
-SIR 49:8	1	10	Χερουβείμ	χερούβ	indeclinable transliterated plural noun, genitive in context	1	cherubim
+SIR 49:8	1	10	Χερουβείμ	χερούβ	indeclinable transliterated plural noun, genitive in context	1	of cherubim
 SIR 49:9	1	1	καὶ	καί	conjunction	1	and
 SIR 49:9	1	2	γὰρ	γάρ	conjunction	1	for
 SIR 49:9	1	3	ἐμνήσθη	μιμνῄσκομαι	aorist passive indicative, third singular	1	remembered
@@ -124,10 +124,10 @@ SIR 49:9	1	7	ὄμβρῳ	ὄμβρος	noun, dative masculine singular	1	rain
 SIR 49:9	1	8	καὶ	καί	conjunction	1	and
 SIR 49:9	1	9	ἀγαθῶσαι	ἀγαθόω	aorist active infinitive	1	to do good to
 SIR 49:9	1	10	τοὺς	ὁ	article, accusative masculine plural	1	those
-SIR 49:9	1	11	εὐθύνοντας	εὐθύνω	present active participle, accusative masculine plural	1	making straight
+SIR 49:9	1	11	εὐθύνοντας	εὐθύνω	present active participle, accusative masculine plural	1	who make straight
 SIR 49:9	1	12	ὁδούς	ὁδός	noun, accusative feminine plural	1	ways
 SIR 49:10	1	1	Καὶ	καί	conjunction	1	and
-SIR 49:10	1	2	τῶν	ὁ	article, genitive plural	1	the
+SIR 49:10	1	2	τῶν	ὁ	article, genitive plural	1	of the
 SIR 49:10	1	3	δώδεκα	δώδεκα	indeclinable cardinal numeral	1	twelve
 SIR 49:10	1	4	προφητῶν	προφήτης	noun, genitive masculine plural	1	prophets
 SIR 49:10	1	5	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -140,18 +140,18 @@ SIR 49:10	1	11	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 SIR 49:10	1	12	παρεκάλεσαν	παρακαλέω	aorist active indicative, third plural	1	they comforted
 SIR 49:10	1	12	παρεκάλεσαν			2	they encouraged
 SIR 49:10	1	13	γὰρ	γάρ	conjunction	1	for
-SIR 49:10	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
+SIR 49:10	1	14	τὸν	ὁ	article, accusative masculine singular	1	—
 SIR 49:10	1	15	Ἰακὼβ	Ἰακώβ	indeclinable personal name	1	Jacob
 SIR 49:10	1	16	καὶ	καί	conjunction	1	and
 SIR 49:10	1	17	ἐλυτρώσαντο	λυτρόω	aorist middle indicative, third plural	1	redeemed
 SIR 49:10	1	18	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 SIR 49:10	1	19	ἐν	ἐν	preposition with the dative	1	in
 SIR 49:10	1	20	πίστει	πίστις	noun dative feminine singular	1	confidence
-SIR 49:10	1	21	ἐλπίδος	ἐλπίς	noun, genitive feminine singular	1	hope
+SIR 49:10	1	21	ἐλπίδος	ἐλπίς	noun, genitive feminine singular	1	of hope
 SIR 49:10	1	21	ἐλπίδος			2	expectation
 SIR 49:11	1	1	Πῶς	πῶς	interrogative adverb	1	how
 SIR 49:11	1	2	μεγαλύνωμεν	μεγαλύνω	present active subjunctive, first plural	1	may we magnify
-SIR 49:11	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
+SIR 49:11	1	3	τὸν	ὁ	article, accusative masculine singular	1	—
 SIR 49:11	1	4	Ζοροβάβελ	Ζοροβάβελ	indeclinable personal name, case from context	1	Zerubbabel
 SIR 49:11	1	4	Ζοροβάβελ			2	Zorobabel
 SIR 49:11	1	5	καὶ	καί	conjunction	1	and
@@ -169,7 +169,7 @@ SIR 49:12	1	5	οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
 SIR 49:12	1	6	ἐν	ἐν	preposition with the dative	1	in
 SIR 49:12	1	7	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
 SIR 49:12	1	8	αὐτῶν	αὐτός	personal pronoun genitive plural	1	their
-SIR 49:12	1	9	ᾠκοδόμησαν	οἰκοδομέω	aorist active indicative, third plural	1	they built
+SIR 49:12	1	9	ᾠκοδόμησαν	οἰκοδομέω	aorist active indicative, third plural	1	built
 SIR 49:12	1	9	ᾠκοδόμησαν			2	they had built
 SIR 49:12	1	10	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 SIR 49:12	1	10	οἶκον			2	household
@@ -192,12 +192,12 @@ SIR 49:13	1	6	οὗ	οὗ	relative adverb of place	1	whose
 SIR 49:13	1	7	ἐπὶ	ἐπί	preposition (case from context)	1	for
 SIR 49:13	1	8	πολὺ	πολύς	adjective, nominative neuter singular	1	long
 SIR 49:13	1	9	τὸ	ὁ	article, accusative neuter singular	1	the
-SIR 49:13	1	10	μνημόσυνον	μνημόσυνον	noun, nominative neut. sg.	1	a memorial
-SIR 49:13	1	11	τοῦ	ὁ	article with the infinitive, genitive neuter singular, marks the infinitive	1	—
-SIR 49:13	1	12	ἐγείραντος	ἐγείρω	aorist active participle, genitive masculine singular	1	one who raised
+SIR 49:13	1	10	μνημόσυνον	μνημόσυνον	noun, nominative neut. sg.	1	memorial
+SIR 49:13	1	11	τοῦ	ὁ	article with the infinitive, genitive neuter singular, marks the infinitive	1	of the one
+SIR 49:13	1	12	ἐγείραντος	ἐγείρω	aorist active participle, genitive masculine singular	1	who raised
 SIR 49:13	1	13	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
 SIR 49:13	1	14	τείχη	τεῖχος	noun, nominative neuter plural	1	walls
-SIR 49:13	1	15	πεπτωκότα	πίπτω	perfect active participle, accusative neuter plural; substantival	1	fallen parts
+SIR 49:13	1	15	πεπτωκότα	πίπτω	perfect active participle, accusative neuter plural; substantival	1	fallen
 SIR 49:13	1	15	πεπτωκότα			2	what has fallen
 SIR 49:13	1	16	καὶ	καί	conjunction	1	and
 SIR 49:13	1	17	στήσαντος	ἵστημι	aorist active participle, genitive masculine singular	1	one who set up
@@ -226,23 +226,23 @@ SIR 49:14	1	13	ἀπὸ	ἀπό	preposition with the genitive	1	from
 SIR 49:14	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
 SIR 49:14	1	15	γῆς	γῆ	noun, genitive feminine singular	1	earth
 SIR 49:15	1	1	Οὐδὲ	οὐδέ	conjunction/negative	1	nor
-SIR 49:15	1	2	ὡς	ὡς	adverb	1	ever
+SIR 49:15	1	2	ὡς	ὡς	adverb	1	like
 SIR 49:15	1	3	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
 SIR 49:15	1	4	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	became
 SIR 49:15	1	5	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	a man
 SIR 49:15	1	6	ἡγούμενος	ἡγέομαι	present middle participle, nominative masculine singular, substantival	1	a leader
-SIR 49:15	1	7	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
+SIR 49:15	1	7	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	of brothers
 SIR 49:15	1	8	στήριγμα	στήριγμα	noun, accusative neuter singular	1	support
-SIR 49:15	1	9	λαοῦ	λαός	noun, genitive masculine singular	1	people
+SIR 49:15	1	9	λαοῦ	λαός	noun, genitive masculine singular	1	of people
 SIR 49:15	1	10	καὶ	καί	conjunction	1	and
 SIR 49:15	1	11	τὰ	ὁ	article, accusative neuter plural	1	the
 SIR 49:15	1	12	ὀστᾶ	ὀστέον	noun, accusative neuter plural	1	bones
 SIR 49:15	1	13	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
-SIR 49:15	1	14	ἐπεσκέπησαν	ἐπισκέπτομαι	aorist passive indicative, third plural	1	were counted
+SIR 49:15	1	14	ἐπεσκέπησαν	ἐπισκέπτομαι	aorist passive indicative, third plural	1	were cared for
 SIR 49:16	1	1	Σὴμ	Σήμ	indeclinable personal name	1	Shem
 SIR 49:16	1	2	καὶ	καί	adverb	1	and
 SIR 49:16	1	3	Σὴθ	Σήθ	indeclinable personal name	1	Seth
-SIR 49:16	1	4	ἐν	ἐν	preposition with the dative	1	in
+SIR 49:16	1	4	ἐν	ἐν	preposition with the dative	1	among
 SIR 49:16	1	5	ἀνθρώποις	ἄνθρωπος	noun, dative masculine plural	1	human beings
 SIR 49:16	1	6	ἐδοξάσθησαν	δοξάζω	aorist passive indicative, third plural	1	were honored
 SIR 49:16	1	7	καὶ	καί	conjunction	1	and

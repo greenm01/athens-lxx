@@ -4,7 +4,7 @@ BAR 1:1	1	2	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine 
 BAR 1:1	1	3	οἱ	ὁ	article, nominative masc. pl	1	the
 BAR 1:1	1	4	λόγοι	λόγος	noun, nominative masculine plural	1	words
 BAR 1:1	1	4	λόγοι			2	accounts
-BAR 1:1	1	5	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
+BAR 1:1	1	5	τοῦ	ὁ	article, genitive masculine/neuter singular	1	—
 BAR 1:1	1	6	βιβλίου	βιβλίον	noun, genitive neuter singular	1	of the scroll
 BAR 1:1	1	6	βιβλίου			2	of the book
 BAR 1:1	1	7	οὓς	ὅς	relative pronoun, accusative masculine plural	1	which
@@ -17,7 +17,7 @@ BAR 1:1	1	13	Μαασαίου	Μαασαίας	noun, genitive masculine singular
 BAR 1:1	1	14	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 BAR 1:1	1	15	Σεδεκίου	Σεδεκίας	noun, genitive masculine singular	1	of Zedekiah
 BAR 1:1	1	16	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-BAR 1:1	1	17	Σαδαίου	Σαδαῖος	noun, genitive masculine singular	1	Sadaiah
+BAR 1:1	1	17	Σαδαίου	Σαδαῖος	noun, genitive masculine singular	1	of Hasadiah
 BAR 1:1	1	18	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 BAR 1:1	1	19	Χελκίου	Χελκίας	noun, genitive masculine singular; personal name	1	of Hilkiah
 BAR 1:1	1	20	ἐν	ἐν	preposition with the dative	1	in
@@ -29,7 +29,7 @@ BAR 1:2	1	4	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 BAR 1:2	1	5	πέμπτῳ	πέμπτος	ordinal adjective, dative neuter singular	1	fifth
 BAR 1:2	1	6	ἐν	ἐν	preposition (dative)	1	on
 BAR 1:2	1	7	ἑβδόμῃ	ἕβδομος	ordinal adjective, dative feminine singular; with day understood	1	seventh
-BAR 1:2	1	8	τοῦ	ὁ	article, genitive singular	1	the
+BAR 1:2	1	8	τοῦ	ὁ	article, genitive singular	1	of the
 BAR 1:2	1	9	μηνὸς	μήν	noun, genitive masc. sg	1	month
 BAR 1:2	1	10	ἐν	ἐν	preposition with the dative	1	in
 BAR 1:2	1	11	τῷ	ὁ	article, dative masculine singular	1	the
@@ -52,7 +52,7 @@ BAR 1:3	1	2	ἀνέγνω			2	read
 BAR 1:3	1	3	Βαροὺχ	Βαρούχ	noun, nominative masculine singular; indeclinable	1	Baruch
 BAR 1:3	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
 BAR 1:3	1	5	λόγους	λόγος	noun, accusative masc. pl	1	words
-BAR 1:3	1	6	τοῦ	ὁ	article, genitive singular	1	the
+BAR 1:3	1	6	τοῦ	ὁ	article, genitive singular	1	—
 BAR 1:3	1	7	βιβλίου	βιβλίον	noun, genitive neuter singular	1	of the scroll
 BAR 1:3	1	7	βιβλίου			2	of the book
 BAR 1:3	1	8	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	this
@@ -66,11 +66,11 @@ BAR 1:3	1	15	Ἰούδα	Ἰούδας	personal name, genitive masculine singula
 BAR 1:3	1	16	καὶ	καί	conjunction	1	and
 BAR 1:3	1	17	ἐν	ἐν	preposition with the dative	1	in
 BAR 1:3	1	18	ὠσὶ	οὖς	noun, dative neuter plural	1	ears
-BAR 1:3	1	19	παντὸς	πᾶς	adjective, genitive masculine singular	1	all
+BAR 1:3	1	19	παντὸς	πᾶς	adjective, genitive masculine singular	1	of all
 BAR 1:3	1	20	τοῦ	ὁ	article, genitive singular	1	the
 BAR 1:3	1	21	λαοῦ	λαός	noun, genitive masculine singular	1	people
-BAR 1:3	1	22	τῶν	ὁ	article, genitive plural	1	the
-BAR 1:3	1	23	ἐρχομένων	ἔρχομαι	present middle participle, genitive masculine plural	1	coming
+BAR 1:3	1	22	τῶν	ὁ	article, genitive plural	1	of those
+BAR 1:3	1	23	ἐρχομένων	ἔρχομαι	present middle participle, genitive masculine plural	1	who came
 BAR 1:3	1	23	ἐρχομένων			2	who were coming
 BAR 1:3	1	24	πρὸς	πρός	preposition with the accusative	1	to
 BAR 1:3	1	25	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -79,12 +79,12 @@ BAR 1:3	1	26	βίβλον			2	book
 BAR 1:4	1	1	καὶ	καί	conjunction	1	and
 BAR 1:4	1	2	ἐν	ἐν	preposition with the dative	1	in
 BAR 1:4	1	3	ὠσὶ	οὖς	noun, dative neuter plural	1	ears
-BAR 1:4	1	4	τῶν	ὁ	article, genitive masculine plural	1	the
+BAR 1:4	1	4	τῶν	ὁ	article, genitive masculine plural	1	—
 BAR 1:4	1	5	δυνατῶν	δυνατός	adjective, genitive masculine plural; used substantivally	1	of the leading men
 BAR 1:4	1	5	δυνατῶν			2	of the powerful
 BAR 1:4	1	6	καὶ	καί	conjunction	1	and
-BAR 1:4	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-BAR 1:4	1	8	τῶν	ὁ	article, genitive plural	1	the
+BAR 1:4	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	of sons
+BAR 1:4	1	8	τῶν	ὁ	article, genitive plural	1	of the
 BAR 1:4	1	9	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
 BAR 1:4	1	10	καὶ	καί	conjunction	1	and
 BAR 1:4	1	11	ἐν	ἐν	preposition with the dative	1	in
@@ -94,7 +94,7 @@ BAR 1:4	1	14	πρεσβυτέρων	πρεσβύτης	noun, genitive masc. pl	1
 BAR 1:4	1	15	καὶ	καί	conjunction	1	and
 BAR 1:4	1	16	ἐν	ἐν	preposition with the dative	1	in
 BAR 1:4	1	17	ὠσὶ	οὖς	noun, dative neuter plural	1	ears
-BAR 1:4	1	18	παντὸς	πᾶς	adjective, genitive masculine singular	1	all
+BAR 1:4	1	18	παντὸς	πᾶς	adjective, genitive masculine singular	1	of all
 BAR 1:4	1	19	τοῦ	ὁ	article, genitive singular	1	the
 BAR 1:4	1	20	λαοῦ	λαός	noun, genitive masculine singular	1	people
 BAR 1:4	1	21	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -104,8 +104,8 @@ BAR 1:4	1	23	ἕως			2	to
 BAR 1:4	1	24	μεγάλου	μέγας	adjective, genitive masculine singular; used substantivally	1	the oldest
 BAR 1:4	1	25	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	of them
 BAR 1:4	1	26	πάντων	πᾶς	adjective, genitive neuter plural	1	all
-BAR 1:4	1	27	τῶν	ὁ	article, genitive plural	1	the
-BAR 1:4	1	28	κατοικούντων	κατοικέω	present active participle, genitive masculine plural; substantival	1	inhabitants
+BAR 1:4	1	27	τῶν	ὁ	article, genitive plural	1	those
+BAR 1:4	1	28	κατοικούντων	κατοικέω	present active participle, genitive masculine plural; substantival	1	who dwelt
 BAR 1:4	1	28	κατοικούντων			2	those living
 BAR 1:4	1	29	ἐν	ἐν	preposition with the dative	1	in
 BAR 1:4	1	30	Βαβυλῶνι	Βαβυλών	noun, dative feminine singular; place name	1	Babylon
@@ -146,7 +146,7 @@ BAR 1:7	1	7	υἱὸν			2	a son
 BAR 1:7	1	8	Χελκίου	Χελκίας	noun, genitive masculine singular; personal name	1	of Hilkiah
 BAR 1:7	1	8	Χελκίου			2	Chelkias
 BAR 1:7	1	9	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-BAR 1:7	1	10	Σαλὼμ	Σαλώμ	noun, genitive masculine singular; indeclinable	1	Shallum
+BAR 1:7	1	10	Σαλὼμ	Σαλώμ	noun, genitive masculine singular; indeclinable	1	of Shallum
 BAR 1:7	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
 BAR 1:7	1	12	ἱερέα	ἱερεύς	noun, accusative masculine singular	1	priest
 BAR 1:7	1	13	καὶ	καί	conjunction	1	and
@@ -174,7 +174,7 @@ BAR 1:8	1	6	σκεύη	σκεῦος	noun, accusative neuter plural	1	vessels
 BAR 1:8	1	6	σκεύη			2	implements
 BAR 1:8	1	7	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 BAR 1:8	1	8	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-BAR 1:8	1	9	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
+BAR 1:8	1	9	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	—
 BAR 1:8	1	10	ἐξενεχθέντα	ἐκφέρω	aorist passive participle, accusative neuter plural	1	carried out
 BAR 1:8	1	10	ἐξενεχθέντα			2	taken out
 BAR 1:8	1	11	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -186,9 +186,9 @@ BAR 1:8	1	14	ἀποστρέψαι			2	to turn back
 BAR 1:8	1	15	εἰς	εἰς	preposition with the accusative	1	into
 BAR 1:8	1	16	γῆν	γῆ	noun, accusative feminine singular	1	land
 BAR 1:8	1	17	Ἰούδα	Ἰούδας	indeclinable tribal name, genitive in context	1	of Judah
-BAR 1:8	1	18	τῇ	ὁ	article, dative feminine singular	1	the
+BAR 1:8	1	18	τῇ	ὁ	article, dative feminine singular	1	on the
 BAR 1:8	1	19	δεκάτῃ	δέκατος	ordinal adjective, dative feminine singular; with day understood	1	tenth
-BAR 1:8	1	20	τοῦ	ὁ	article, genitive singular	1	the
+BAR 1:8	1	20	τοῦ	ὁ	article, genitive singular	1	of the
 BAR 1:8	1	21	Σιουὰν	Σιουάν	noun, genitive masculine singular; indeclinable month name	1	Sivan
 BAR 1:8	1	22	σκεύη	σκεῦος	noun, accusative neuter plural	1	articles
 BAR 1:8	1	22	σκεύη			2	vessels
@@ -203,7 +203,7 @@ BAR 1:8	1	29	βασιλεὺς	βασιλεύς	noun, nominative masculine singu
 BAR 1:8	1	30	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 BAR 1:9	1	1	μετὰ	μετά	preposition with the accusative	1	after
 BAR 1:9	1	2	τὸ	ὁ	article, neuter singular (case from context)	1	the
-BAR 1:9	1	3	ἀποικίσαι	ἀποικίζω	aorist active infinitive	1	deport
+BAR 1:9	1	3	ἀποικίσαι	ἀποικίζω	aorist active infinitive	1	to deport
 BAR 1:9	1	3	ἀποικίσαι			2	send into exile
 BAR 1:9	1	4	Ναβουχοδονόσορ	Ναβουχοδονόσορ	noun, accusative masculine singular; indeclinable subject of infinitive	1	Nebuchadnezzar
 BAR 1:9	1	5	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
@@ -224,7 +224,7 @@ BAR 1:9	1	17	δυνατοὺς			2	powerful men
 BAR 1:9	1	18	καὶ	καί	conjunction	1	and
 BAR 1:9	1	19	τὸν	ὁ	article, accusative masculine singular	1	the
 BAR 1:9	1	20	λαὸν	λαός	noun, accusative masculine singular	1	people
-BAR 1:9	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
+BAR 1:9	1	21	τῆς	ὁ	article, genitive feminine singular	1	of the
 BAR 1:9	1	22	γῆς	γῆ	noun, genitive feminine singular	1	land
 BAR 1:9	1	23	ἀπὸ	ἀπό	preposition with the genitive	1	from
 BAR 1:9	1	24	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
@@ -269,15 +269,15 @@ BAR 1:10	1	29	ὑμῶν	σύ	pronoun, genitive 2nd plural	1	your
 BAR 1:11	1	1	καὶ	καί	conjunction	1	and
 BAR 1:11	1	2	προσεύξασθε	προσεύχομαι	aorist middle imperative, second plural	1	pray
 BAR 1:11	1	3	περὶ	περί	Preposition with genitive	1	for
-BAR 1:11	1	4	τῆς	ὁ	article, genitive feminine singular	1	of the
+BAR 1:11	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
 BAR 1:11	1	5	ζωῆς	ζωή	noun, genitive feminine singular	1	life
-BAR 1:11	1	6	Ναβουχοδονόσορ	Ναβουχοδονόσορ	noun, genitive masculine singular; indeclinable	1	Nebuchadnezzar
+BAR 1:11	1	6	Ναβουχοδονόσορ	Ναβουχοδονόσορ	noun, genitive masculine singular; indeclinable	1	of Nebuchadnezzar
 BAR 1:11	1	7	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 BAR 1:11	1	8	Βαβυλῶνος	Βαβυλών	noun, genitive feminine singular; place name	1	of Babylon
 BAR 1:11	1	9	καὶ	καί	conjunction	1	and
 BAR 1:11	1	10	εἰς	εἰς	Preposition with accusative	1	for
 BAR 1:11	1	11	ζωὴν	ζωή	noun, accusative feminine singular	1	life
-BAR 1:11	1	12	Βαλτάσαρ	Βαλτάσαρ	noun, genitive masculine singular; indeclinable	1	Belshazzar
+BAR 1:11	1	12	Βαλτάσαρ	Βαλτάσαρ	noun, genitive masculine singular; indeclinable	1	of Belshazzar
 BAR 1:11	1	13	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 BAR 1:11	1	14	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 BAR 1:11	1	15	ἵνα	ἵνα	conjunction introducing a purpose clause	1	so that
@@ -289,7 +289,7 @@ BAR 1:11	1	19	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	thei
 BAR 1:11	1	20	ὡς	ὡς	adverb	1	as
 BAR 1:11	1	21	αἱ	ὁ	definite article, nominative feminine plural	1	the
 BAR 1:11	1	22	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days
-BAR 1:11	1	23	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
+BAR 1:11	1	23	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	of the
 BAR 1:11	1	24	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
 BAR 1:11	1	25	ἐπὶ	ἐπί	preposition	1	on
 BAR 1:11	1	26	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -312,14 +312,14 @@ BAR 1:12	1	12	ζησόμεθα	ζάω	future middle indicative, first plural	1	w
 BAR 1:12	1	13	ὑπὸ	ὑπό	preposition with the accusative	1	under
 BAR 1:12	1	14	τὴν	ὁ	article, accusative fem. sg	1	the
 BAR 1:12	1	15	σκιὰν	σκιά	noun, accusative feminine singular	1	shadow
-BAR 1:12	1	16	Ναβουχοδονόσορ	Ναβουχοδονόσορ	noun, genitive masculine singular; indeclinable	1	Nebuchadnezzar
+BAR 1:12	1	16	Ναβουχοδονόσορ	Ναβουχοδονόσορ	noun, genitive masculine singular; indeclinable	1	of Nebuchadnezzar
 BAR 1:12	1	17	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 BAR 1:12	1	18	Βαβυλῶνος	Βαβυλών	noun, genitive feminine singular; place name	1	of Babylon
 BAR 1:12	1	19	καὶ	καί	conjunction	1	and
 BAR 1:12	1	20	ὑπὸ	ὑπό	preposition with the accusative	1	under
 BAR 1:12	1	21	τὴν	ὁ	article, accusative fem. sg	1	the
 BAR 1:12	1	22	σκιὰν	σκιά	noun, accusative feminine singular	1	shadow
-BAR 1:12	1	23	Βαλτάσαρ	Βαλτάσαρ	noun, genitive masculine singular; indeclinable	1	Belshazzar
+BAR 1:12	1	23	Βαλτάσαρ	Βαλτάσαρ	noun, genitive masculine singular; indeclinable	1	of Belshazzar
 BAR 1:12	1	24	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 BAR 1:12	1	25	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
 BAR 1:12	1	26	καὶ	καί	conjunction	1	and
@@ -346,7 +346,7 @@ BAR 1:13	1	7	Θεὸν	θεός	noun, accusative masculine singular	1	God
 BAR 1:13	1	8	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 BAR 1:13	1	9	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 BAR 1:13	1	10	ἡμάρτομεν	ἁμαρτάνω	aorist active indicative, 1st pl	1	we have sinned
-BAR 1:13	1	11	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+BAR 1:13	1	11	τῷ	ὁ	article, dative masculine/neuter singular	1	against the
 BAR 1:13	1	12	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 BAR 1:13	1	13	Θεῷ	θεός	noun, dative masculine singular	1	God
 BAR 1:13	1	14	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
@@ -390,11 +390,11 @@ BAR 1:14	1	16	ἑορτῆς	ἑορτή	noun, genitive fem. sg	1	of the feast
 BAR 1:14	1	17	καὶ	καί	conjunction	1	and
 BAR 1:14	1	18	ἐν	ἐν	preposition with the dative	1	in
 BAR 1:14	1	19	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
-BAR 1:14	1	20	καιροῦ	καιρός	noun, genitive masculine singular	1	the appointed time
+BAR 1:14	1	20	καιροῦ	καιρός	noun, genitive masculine singular	1	of the appointed time
 BAR 1:14	1	20	καιροῦ			2	the occasion
 BAR 1:15	1	1	καὶ	καί	conjunction	1	and
 BAR 1:15	1	2	ἐρεῖτε	λέγω	future active indicative, second plural	1	you will say
-BAR 1:15	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+BAR 1:15	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	—
 BAR 1:15	1	4	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
 BAR 1:15	1	5	Θεῷ	θεός	noun, dative masculine singular	1	God
 BAR 1:15	1	6	ἡμῶν	ἐγώ	personal pronoun, genitive plural	1	our
@@ -442,7 +442,7 @@ BAR 1:16	1	20	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 BAR 1:17	1	1	ὧν	ὅς	relative pronoun, genitive masculine plural; links the preceding list to the confession	1	of whom
 BAR 1:17	1	1	ὧν			2	since
 BAR 1:17	1	2	ἡμάρτομεν	ἁμαρτάνω	aorist active indicative, 1st pl	1	we have sinned
-BAR 1:17	1	3	ἐναντίον	ἐναντίον	preposition with genitive	1	against
+BAR 1:17	1	3	ἐναντίον	ἐναντίον	preposition with genitive	1	before
 BAR 1:17	1	4	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 BAR 1:18	1	1	καὶ	καί	conjunction	1	and
 BAR 1:18	1	2	ἠπειθήσαμεν	ἀπειθέω	aorist active indicative, first plural	1	we disobeyed
@@ -522,7 +522,7 @@ BAR 1:20	1	10	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 BAR 1:20	1	11	συνέταξε	συντάσσω	aorist active indicative, third singular	1	enjoined
 BAR 1:20	1	11	συνέταξε			2	prescribed
 BAR 1:20	1	12	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-BAR 1:20	1	13	τῷ	ὁ	article, dative masculine singular	1	the
+BAR 1:20	1	13	τῷ	ὁ	article, dative masculine singular	1	to
 BAR 1:20	1	14	Μωϋσῇ	Μωυσῆς	noun, dative masculine singular	1	Moses
 BAR 1:20	1	15	παιδὶ	παῖς	noun, dative masculine singular	1	servant
 BAR 1:20	1	15	παιδὶ			2	attendant
@@ -563,7 +563,7 @@ BAR 1:21	1	9	κατὰ	κατά	preposition (accusative)	1	according to
 BAR 1:21	1	10	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 BAR 1:21	1	11	τοὺς	ὁ	article, accusative masculine plural	1	the
 BAR 1:21	1	12	λόγους	λόγος	noun accusative masculine plural	1	words
-BAR 1:21	1	13	τῶν	ὁ	article, genitive masculine plural	1	the
+BAR 1:21	1	13	τῶν	ὁ	article, genitive masculine plural	1	of the
 BAR 1:21	1	14	προφητῶν	προφήτης	noun, genitive masculine plural	1	prophets
 BAR 1:21	1	15	οὕς	ὅς	relative pronoun, accusative masculine plural	1	whom
 BAR 1:21	1	15	οὕς			2	that
@@ -577,9 +577,9 @@ BAR 1:22	1	3	ἕκαστος	ἕκαστος	adjective, nominative masculine sin
 BAR 1:22	1	4	ἐν	ἐν	preposition with the dative	1	in
 BAR 1:22	1	5	διανοίᾳ	διάνοια	noun, dative feminine singular	1	intent
 BAR 1:22	1	5	διανοίᾳ			2	mind
-BAR 1:22	1	6	καρδίας	καρδία	noun, genitive feminine singular	1	heart
+BAR 1:22	1	6	καρδίας	καρδία	noun, genitive feminine singular	1	of heart
 BAR 1:22	1	7	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
-BAR 1:22	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
+BAR 1:22	1	8	τῆς	ὁ	article, genitive feminine singular	1	—
 BAR 1:22	1	9	πονηρᾶς	πονηρός	adjective, genitive feminine singular	1	evil
 BAR 1:22	1	10	ἐργάζεσθαι	ἐργάζομαι	present middle infinitive	1	to serve
 BAR 1:22	1	10	ἐργάζεσθαι			2	to work for

@@ -17,9 +17,9 @@ SIR 33:2	1	6	ἐπὶ	ἐπί	preposition with the accusative	1	upon
 SIR 33:2	1	7	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 SIR 33:2	1	8	τὰ	ὁ	article, accusative neuter plural	1	the
 SIR 33:2	1	9	ἔθνη	ἔθνος	noun, accusative neuter plural	1	nations
-SIR 33:2	1	10	τὰ	ὁ	article accusative neuter plural	1	those
+SIR 33:2	1	10	τὰ	ὁ	article accusative neuter plural	1	—
 SIR 33:2	1	11	μὴ	μή	negative particle	1	not
-SIR 33:2	1	12	ἐκζητοῦντά	ἐκζητέω	present active participle, accusative masculine plural	1	those who seek
+SIR 33:2	1	12	ἐκζητοῦντά	ἐκζητέω	present active participle, accusative masculine plural	1	who seek
 SIR 33:2	1	13	σε	σύ	pronoun, accusative 2nd singular	1	you
 SIR 33:3	1	1	ἔπαρον	ἐπαίρω	aorist active imperative, 2nd sg.	1	lift up
 SIR 33:3	1	2	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -53,7 +53,7 @@ SIR 33:5	1	3	σε	σύ	personal pronoun, accusative singular	1	you
 SIR 33:5	1	4	καθάπερ	καθάπερ	conjunction	1	just as
 SIR 33:5	1	5	καὶ	καί	conjunction	1	and
 SIR 33:5	1	6	ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
-SIR 33:5	1	7	ἐπέγνωμέν	ἐπιγινώσκω	aorist active indicative, first plural	1	have known
+SIR 33:5	1	7	ἐπέγνωμέν	ἐπιγινώσκω	aorist active indicative, first plural	1	knew
 SIR 33:5	1	8	σε	σύ	pronoun, accusative 2nd singular	1	you
 SIR 33:5	1	9	ὅτι	ὅτι	causal conjunction	1	that
 SIR 33:5	1	10	οὐκ	οὐ	negative particle	1	not
@@ -93,7 +93,7 @@ SIR 33:8	1	1	Σπεῦσον	σπεύδω	aorist active imperative, second singu
 SIR 33:8	1	2	καιρὸν	καιρός	noun, accusative masculine singular	1	the right time
 SIR 33:8	1	3	καὶ	καί	conjunction	1	and
 SIR 33:8	1	4	μνήσθητι	μιμνήσκομαι	aorist passive imperative, 2nd singular	1	remember
-SIR 33:8	1	5	ὁρκισμοῦ	ὁρκισμός	noun, genitive masculine singular	1	your oath
+SIR 33:8	1	5	ὁρκισμοῦ	ὁρκισμός	noun, genitive masculine singular	1	the oath
 SIR 33:8	1	6	καὶ	καί	conjunction	1	and
 SIR 33:8	1	7	ἐκδιηγησάσθωσαν	ἐκδιηγέομαι	aorist middle imperative, third plural	1	let them recount
 SIR 33:8	1	8	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -103,8 +103,8 @@ SIR 33:9	1	1	Ἐν	ἐν	preposition with the dative	1	in
 SIR 33:9	1	2	ὀργῇ	ὀργή	noun dative feminine singular	1	wrath
 SIR 33:9	1	3	πυρὸς	πῦρ	noun, genitive neuter singular	1	of fire
 SIR 33:9	1	4	καταβρωθήτω	καταβιβρώσκω	aorist passive imperative, third singular	1	let be devoured
-SIR 33:9	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
-SIR 33:9	1	6	σωζόμενος	σῴζω	present passive participle, nominative masculine singular	1	survivor
+SIR 33:9	1	5	ὁ	ὁ	article, nominative masculine singular	1	the one
+SIR 33:9	1	6	σωζόμενος	σῴζω	present passive participle, nominative masculine singular	1	who escapes
 SIR 33:9	1	6	σωζόμενος			2	one escaping
 SIR 33:9	1	7	καὶ	καί	conjunction	1	and
 SIR 33:9	1	8	οἱ	ὁ	article, nominative masculine plural	1	those
@@ -116,8 +116,8 @@ SIR 33:9	1	13	εὕροισαν	εὑρίσκω	aorist active optative, third pl
 SIR 33:9	1	14	ἀπώλειαν	ἀπώλεια	noun, accusative feminine singular	1	destruction
 SIR 33:10	1	1	Σύντριψον	συντρίβω	aorist active imperative, second singular	1	crush
 SIR 33:10	1	2	κεφαλὰς	κεφαλή	noun, accusative feminine plural	1	heads
-SIR 33:10	1	3	ἀρχόντων	ἄρχων	noun, genitive masculine plural	1	leaders
-SIR 33:10	1	4	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
+SIR 33:10	1	3	ἀρχόντων	ἄρχων	noun, genitive masculine plural	1	of leaders
+SIR 33:10	1	4	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	of nations
 SIR 33:10	1	5	λεγόντων	λέγω	present active participle, genitive masculine plural	1	saying
 SIR 33:10	1	6	οὐκ	οὐ	negative particle	1	not
 SIR 33:10	1	7	ἔστι	εἰμί	present active indicative, third singular	1	is
@@ -126,7 +126,7 @@ SIR 33:10	1	9	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	us
 SIR 33:11	1	1	Συνάγαγε	συνάγω	aorist active imperative, second person singular	1	gather
 SIR 33:11	1	2	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 SIR 33:11	1	3	φυλὰς	φυλή	noun, accusative feminine plural	1	tribes
-SIR 33:11	1	4	Ἰακώβ	Ἰακώβ	indeclinable personal name, nominative in context	1	Jacob
+SIR 33:11	1	4	Ἰακώβ	Ἰακώβ	indeclinable personal name, nominative in context	1	of Jacob
 SIR 33:25	1	1	Λαμπρὰ	λαμπρός	adjective, nominative neuter plural	1	bright
 SIR 33:25	1	1	Λαμπρὰ			2	shining
 SIR 33:25	1	2	καρδία	καρδία	noun, nominative feminine singular	1	heart

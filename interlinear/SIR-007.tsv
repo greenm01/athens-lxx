@@ -54,7 +54,7 @@ SIR 7:5	1	9	σοφίζου	σοφίζομαι	present middle imperative, second 
 SIR 7:6	1	1	Μὴ	μή	negative particle	1	not
 SIR 7:6	1	2	ζήτει	ζητέω	present active imperative, second singular	1	seek
 SIR 7:6	1	2	ζήτει			2	inquire
-SIR 7:6	1	3	γενέσθαι	γίνομαι	aorist middle infinitive	1	become
+SIR 7:6	1	3	γενέσθαι	γίνομαι	aorist middle infinitive	1	to become
 SIR 7:6	1	4	κριτὴς	κριτής	noun, nominative masculine singular	1	judge
 SIR 7:6	1	5	μὴ	μή	negative particle	1	lest
 SIR 7:6	1	6	οὐκ	οὐ	negative particle	1	not
@@ -77,16 +77,16 @@ SIR 7:7	1	2	ἁμάρτανε	ἁμαρτάνω	present active imperative, secon
 SIR 7:7	1	3	εἰς	εἰς	preposition with the accusative	1	against
 SIR 7:7	1	4	πλῆθος	πλῆθος	noun, accusative neuter singular	1	multitude
 SIR 7:7	1	4	πλῆθος			2	abundance
-SIR 7:7	1	5	πόλεως	πόλις	noun, genitive feminine singular	1	city
+SIR 7:7	1	5	πόλεως	πόλις	noun, genitive feminine singular	1	of a city
 SIR 7:7	1	5	πόλεως			2	town
 SIR 7:7	1	6	καὶ	καί	conjunction	1	and
 SIR 7:7	1	7	μὴ	μή	negative particle	1	not
-SIR 7:7	1	8	καταβάλῃς	καταβάλλω	aorist active subjunctive, second singular	1	you bind
+SIR 7:7	1	8	καταβάλῃς	καταβάλλω	aorist active subjunctive, second singular	1	you cast down
 SIR 7:7	1	9	σεαυτὸν	σεαυτοῦ	reflexive pronoun, accusative masculine singular	1	yourself
 SIR 7:7	1	10	ἐν	ἐν	preposition with the dative	1	in
 SIR 7:7	1	11	ὄχλῳ	ὄχλος	noun, dative masculine singular	1	crowd
 SIR 7:8	1	1	Μὴ	μή	negative particle	1	not
-SIR 7:8	1	2	καταδεσμεύσῃς	καταδεσμεύω	aorist active subjunctive, second singular	1	you become bound in
+SIR 7:8	1	2	καταδεσμεύσῃς	καταδεσμεύω	aorist active subjunctive, second singular	1	bind
 SIR 7:8	1	3	δὶς	δίς	adverb	1	twice
 SIR 7:8	1	4	ἁμαρτίαν	ἁμαρτία	noun, accusative feminine singular	1	sin
 SIR 7:8	1	5	ἐν	ἐν	preposition with dative	1	in
@@ -100,7 +100,7 @@ SIR 7:9	1	2	εἴπῃς	λέγω	aorist active subjunctive, second singular	1	y
 SIR 7:9	1	2	εἴπῃς			2	you should say
 SIR 7:9	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 SIR 7:9	1	4	πλήθει	πλῆθος	noun, dative neuter singular	1	multitude
-SIR 7:9	1	5	τῶν	ὁ	article, genitive plural	1	the
+SIR 7:9	1	5	τῶν	ὁ	article, genitive plural	1	of the
 SIR 7:9	1	6	δώρων	δῶρον	noun, genitive neuter plural	1	gifts
 SIR 7:9	1	7	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 SIR 7:9	1	8	ἐπόψεται	ἐφοράω	future middle indicative, third singular	1	will look upon
@@ -109,7 +109,7 @@ SIR 7:9	1	10	ἐν	ἐν	preposition with the dative	1	in
 SIR 7:9	1	11	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
 SIR 7:9	1	12	προσενέγκαι	προσφέρω	aorist active infinitive	1	to offer
 SIR 7:9	1	13	με	ἐγώ	pronoun, accusative 1st singular	1	me
-SIR 7:9	1	14	Θεῷ	θεός	noun, dative masculine singular	1	God
+SIR 7:9	1	14	Θεῷ	θεός	noun, dative masculine singular	1	to God
 SIR 7:9	1	15	ὑψίστῳ	ὕψιστος	adjective, dative masculine singular; superlative	1	Most High
 SIR 7:9	1	16	προσδέξεται	προσδέχομαι	future middle indicative, third singular	1	will accept
 SIR 7:9	1	16	προσδέξεται			2	will receive
@@ -146,7 +146,7 @@ SIR 7:12	1	4	ἐπ᾽	ἐπί	preposition with the accusative	1	against
 SIR 7:12	1	5	ἀδελφῷ	ἀδελφός	noun, dative masculine singular	1	brother
 SIR 7:12	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 7:12	1	7	μηδὲ	μηδέ	negative conjunction	1	nor
-SIR 7:12	1	8	φίλῳ	φίλος	adjective, dative masculine singular	1	friend
+SIR 7:12	1	8	φίλῳ	φίλος	adjective, dative masculine singular	1	to a friend
 SIR 7:12	1	9	τὸ	ὁ	article, nominative neuter singular	1	the
 SIR 7:12	1	10	ὅμοιον	ὅμοιος	adjective, accusative masculine singular	1	likewise
 SIR 7:12	1	11	ποίει	ποιέω	present active imperative, second singular	1	do
@@ -186,7 +186,7 @@ SIR 7:15	1	7	ὑπὸ	ὑπό	preposition with the accusative	1	by
 SIR 7:15	1	8	ὑψίστου	ὕψιστος	adjective genitive masculine singular	1	Most High
 SIR 7:15	1	9	ἐκτισμένην	κτίζω	perfect middle/passive participle, accusative feminine singular	1	created
 SIR 7:16	1	1	Μὴ	μή	negative particle	1	not
-SIR 7:16	1	2	προσλογίζου	προσλογίζομαι	present middle imperative, second singular	1	count yourself
+SIR 7:16	1	2	προσλογίζου	προσλογίζομαι	present middle imperative, second singular	1	count
 SIR 7:16	1	3	σεαυτὸν	σεαυτοῦ	reflexive pronoun, accusative masculine singular	1	yourself
 SIR 7:16	1	4	ἐν	ἐν	preposition with the dative	1	in
 SIR 7:16	1	5	πλήθει	πλῆθος	noun dative neuter singular	1	multitude
@@ -213,8 +213,8 @@ SIR 7:18	1	1	Μὴ	μή	negative with subjunctive/optative	1	not
 SIR 7:18	1	2	ἀλλάξῃς	ἀλλάσσω	aorist active subjunctive, 2nd sg	1	you exchange
 SIR 7:18	1	3	φίλον	φίλος	noun/adjective, accusative masc. sg., friend	1	a friend
 SIR 7:18	1	4	διαφόρου	διάφορος	adjective, genitive neuter singular	1	for money
-SIR 7:18	1	5	κατὰ	κατά	preposition with the accusative	1	at all
-SIR 7:18	1	6	μηδὲ	μηδέ	conjunction	1	nor
+SIR 7:18	1	5	κατὰ	κατά	preposition with the accusative	1	in
+SIR 7:18	1	6	μηδὲ	μηδέ	conjunction	1	not even
 SIR 7:18	1	7	ἓν	εἷς	cardinal numeral, nominative neuter singular	1	one
 SIR 7:18	1	8	μηδὲ	μηδέ	conjunction	1	nor
 SIR 7:18	1	9	ἀδελφὸν	ἀδελφός	noun, accusative masculine singular	1	brother
@@ -240,7 +240,7 @@ SIR 7:20	1	2	κακώσῃς	κακόω	aorist active subjunctive, second singul
 SIR 7:20	1	3	οἰκέτην	οἰκέτης	noun, accusative masc. sg	1	a slave
 SIR 7:20	1	4	ἐργαζόμενον	ἐργάζομαι	present middle participle, accusative masculine singular	1	one working
 SIR 7:20	1	5	ἐν	ἐν	preposition with the dative	1	in
-SIR 7:20	1	6	ἀληθείᾳ	ἀλήθεια	noun, dative feminine singular	1	faithfully
+SIR 7:20	1	6	ἀληθείᾳ	ἀλήθεια	noun, dative feminine singular	1	truth
 SIR 7:20	1	7	μηδὲ	μηδέ	negative conjunction	1	nor
 SIR 7:20	1	8	μίσθιον	μίσθιον	noun, accusative neuter singular	1	a hired worker
 SIR 7:20	1	9	διδόντα	δίδωμι	present active participle, accusative masculine singular	1	who gives
@@ -304,9 +304,9 @@ SIR 7:25	1	5	τετελεκὼς	τελέω	perfect active participle, nominativ
 SIR 7:25	1	6	ἔργον	ἔργον	noun, nominative neuter singular	1	work
 SIR 7:25	1	7	μέγα	μέγας	adjective, accusative neuter singular	1	great
 SIR 7:25	1	8	καὶ	καί	conjunction	1	and
-SIR 7:25	1	9	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	husband
+SIR 7:25	1	9	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	to a man
 SIR 7:25	1	9	ἀνδρὶ			2	man
-SIR 7:25	1	10	συνετῷ	συνετός	adjective, dative masc. sg	1	wise (in heart)
+SIR 7:25	1	10	συνετῷ	συνετός	adjective, dative masc. sg	1	discerning
 SIR 7:25	1	11	δώρησαι	δωρέομαι	aorist middle imperative, second singular	1	give in marriage
 SIR 7:25	1	12	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	her
 SIR 7:26	1	1	Γυνή	γυνή	noun, nominative feminine singular	1	wife
@@ -321,7 +321,7 @@ SIR 7:26	1	8	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	her
 SIR 7:26	1	9	μισουμένῃ	μισέω	present middle/passive participle, dative feminine singular	1	whom you hate
 SIR 7:26	1	10	δὲ	δέ	postpositive conjunction	1	and
 SIR 7:26	1	11	μὴ	μή	negative particle	1	not
-SIR 7:26	1	12	ἐκδῷς	ἐκδίδωμι	aorist active subjunctive, second singular	1	give yourself
+SIR 7:26	1	12	ἐκδῷς	ἐκδίδωμι	aorist active subjunctive, second singular	1	give
 SIR 7:26	1	13	σεαυτόν	σεαυτοῦ	reflexive pronoun, accusative masculine singular	1	yourself
 SIR 7:27	1	1	Ἐν	ἐν	preposition with the dative	1	in
 SIR 7:27	1	2	ὅλῃ	ὅλος	adjective dative feminine singular	1	whole
@@ -398,7 +398,7 @@ SIR 7:31	1	20	δόσιν	δόσις	noun, accusative feminine singular	1	bounty
 SIR 7:31	1	21	βραχιόνων	βραχίων	noun, genitive masculine plural	1	of the shoulders
 SIR 7:31	1	22	καὶ	καί	conjunction	1	and
 SIR 7:31	1	23	θυσίαν	θυσία	noun, accusative feminine singular	1	sacrifice
-SIR 7:31	1	24	ἁγιασμοῦ	ἁγιασμός	noun, genitive masculine singular	1	consecration
+SIR 7:31	1	24	ἁγιασμοῦ	ἁγιασμός	noun, genitive masculine singular	1	of consecration
 SIR 7:31	1	25	καὶ	καί	conjunction	1	and
 SIR 7:31	1	26	ἀπαρχὴν	ἀπαρχή	noun, accusative feminine singular	1	firstfruits
 SIR 7:31	1	27	ἁγίων	ἅγιος	adjective, genitive neuter plural; used substantivally	1	of holy things
@@ -414,7 +414,7 @@ SIR 7:32	1	9	ἡ	ὁ	article nominative feminine singular	1	the
 SIR 7:32	1	10	εὐλογία	εὐλογία	noun nominative feminine singular	1	blessing
 SIR 7:32	1	11	σου	σύ	personal pronoun genitive second singular	1	your
 SIR 7:33	1	1	Χάρις	χάρις	noun nominative feminine singular	1	kindness
-SIR 7:33	1	2	δόματος	δόμα	noun, genitive neut. sg., gift/offering	1	gift
+SIR 7:33	1	2	δόματος	δόμα	noun, genitive neut. sg., gift/offering	1	of a gift
 SIR 7:33	1	3	ἔναντι	ἔναντι	preposition with the genitive	1	before
 SIR 7:33	1	4	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
 SIR 7:33	1	5	ζῶντος	ζάω	present active participle, genitive masculine singular	1	living

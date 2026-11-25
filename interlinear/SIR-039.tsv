@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 SIR 39:1	1	1	ΠΛΗΝ	πλήν	conjunction	1	but
-SIR 39:1	1	2	τοῦ	ὁ	article genitive neuter singular	1	—
-SIR 39:1	1	3	ἐπιδιδόντος	ἐπιδίδωμι	present active participle, genitive masculine singular	1	one devoting
+SIR 39:1	1	2	τοῦ	ὁ	article genitive neuter singular	1	the one
+SIR 39:1	1	3	ἐπιδιδόντος	ἐπιδίδωμι	present active participle, genitive masculine singular	1	who devotes
 SIR 39:1	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 SIR 39:1	1	5	ψυχὴν	ψυχή	noun, accusative feminine singular	1	soul
 SIR 39:1	1	6	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -9,18 +9,18 @@ SIR 39:1	1	7	καὶ	καί	conjunction	1	and
 SIR 39:1	1	8	διανοουμένου	διανοέομαι	present middle participle, genitive masculine singular	1	reflecting
 SIR 39:1	1	9	ἐν	ἐν	preposition with the dative	1	in
 SIR 39:1	1	10	νόμῳ	νόμος	noun dative masculine singular	1	law
-SIR 39:1	1	11	ὑψίστου	ὕψιστος	adjective genitive masculine singular	1	Most High
+SIR 39:1	1	11	ὑψίστου	ὕψιστος	adjective genitive masculine singular	1	of the Most High
 SIR 39:1	1	12	σοφίαν	σοφία	noun, accusative feminine singular	1	wisdom
 SIR 39:1	1	13	πάντων	πᾶς	adjective, genitive neuter plural	1	of all
-SIR 39:1	1	14	ἀρχαίων	ἀρχαῖος	adjective, genitive masculine plural	1	ancient
+SIR 39:1	1	14	ἀρχαίων	ἀρχαῖος	adjective, genitive masculine plural	1	ancients
 SIR 39:1	1	15	ἐκζητήσει	ἐκζητέω	future active indicative third singular	1	will seek out
 SIR 39:1	1	16	καὶ	καί	conjunction	1	and
 SIR 39:1	1	17	ἐν	ἐν	preposition with the dative	1	in
 SIR 39:1	1	18	προφητείαις	προφητεία	noun, dative feminine plural	1	prophecies
 SIR 39:1	1	19	ἀσχοληθήσεται	ἀσχολέω	future passive indicative, third singular	1	will occupy himself
-SIR 39:2	1	1	διήγησιν	διήγησις	noun, accusative feminine singular	1	account of
-SIR 39:2	1	2	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	1	men
-SIR 39:2	1	3	ὀνομαστῶν	ὀνομαστός	adjective, genitive masculine plural	1	renowned people
+SIR 39:2	1	1	διήγησιν	διήγησις	noun, accusative feminine singular	1	an account
+SIR 39:2	1	2	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	1	of men
+SIR 39:2	1	3	ὀνομαστῶν	ὀνομαστός	adjective, genitive masculine plural	1	renowned
 SIR 39:2	1	4	συντηρήσει	συντηρέω	future active indicative, third singular	1	will preserve
 SIR 39:2	1	5	καὶ	καί	conjunction	1	and
 SIR 39:2	1	6	ἐν	ἐν	preposition with the dative	1	in
@@ -28,7 +28,7 @@ SIR 39:2	1	7	στροφαῖς	στροφή	noun, dative feminine plural	1	subtl
 SIR 39:2	1	8	παραβολῶν	παραβολή	noun, genitive feminine plural	1	of proverbs
 SIR 39:2	1	9	συνεισελεύσεται	συνεισέρχομαι	future middle indicative, third singular	1	will enter into
 SIR 39:3	1	1	ἀπόκρυφα	ἀπόκρυφος	adjective, accusative neuter plural	1	hidden things
-SIR 39:3	1	2	παροιμιῶν	παροιμία	noun, genitive feminine plural	1	proverbs
+SIR 39:3	1	2	παροιμιῶν	παροιμία	noun, genitive feminine plural	1	of proverbs
 SIR 39:3	1	3	ἐκζητήσει	ἐκζητέω	future active indicative third singular	1	will seek out
 SIR 39:3	1	4	καὶ	καί	conjunction	1	and
 SIR 39:3	1	5	ἐν	ἐν	preposition with the dative	1	in
@@ -46,8 +46,8 @@ SIR 39:4	1	7	ὀφθήσεται	ὁράω	future passive indicative, third sing
 SIR 39:4	1	7	ὀφθήσεται			2	will be seen
 SIR 39:4	1	8	ἐν	ἐν	preposition with the dative	1	in
 SIR 39:4	1	9	γῇ	γῆ	noun, dative feminine singular	1	land
-SIR 39:4	1	10	ἀλλοτρίων	ἀλλότριος	adjective, genitive masculine plural; substantival	1	of foreign
-SIR 39:4	1	11	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
+SIR 39:4	1	10	ἀλλοτρίων	ἀλλότριος	adjective, genitive masculine plural; substantival	1	foreign
+SIR 39:4	1	11	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	of nations
 SIR 39:4	1	12	διελεύσεται	διέρχομαι	future middle indicative, third singular	1	will pass
 SIR 39:4	1	12	διελεύσεται			2	will pass by
 SIR 39:4	1	13	ἀγαθὰ	ἀγαθός	adjective, accusative neuter plural; substantival	1	good things
@@ -57,7 +57,7 @@ SIR 39:4	1	16	κακὰ	κακός	adjective, accusative neuter plural; substant
 SIR 39:4	1	16	κακὰ			2	evils
 SIR 39:4	1	17	ἐν	ἐν	preposition with the dative	1	in
 SIR 39:4	1	18	ἀνθρώποις	ἄνθρωπος	noun, dative masculine plural	1	human beings
-SIR 39:4	1	19	ἐπείρασε	πειράζω	aorist active indicative, third singular	1	has experienced
+SIR 39:4	1	19	ἐπείρασε	πειράζω	aorist active indicative, third singular	1	tested
 SIR 39:5	1	1	Τὴν	ὁ	article, accusative feminine singular	1	the
 SIR 39:5	1	2	καρδίαν	καρδία	noun, accusative feminine singular	1	heart
 SIR 39:5	1	3	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -91,19 +91,19 @@ SIR 39:6	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	Lor
 SIR 39:6	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 SIR 39:6	1	5	μέγας	μέγας	adjective, nominative masculine singular	1	great one
 SIR 39:6	1	6	θελήσῃ	θέλω	aorist active subjunctive, third singular	1	wishes
-SIR 39:6	1	7	πνεύματι	πνεῦμα	noun, dative neuter singular	1	spirit
+SIR 39:6	1	7	πνεύματι	πνεῦμα	noun, dative neuter singular	1	with a spirit
 SIR 39:6	1	8	συνέσεως	σύνεσις	noun genitive feminine singular	1	of understanding
 SIR 39:6	1	9	ἐμπλήσει	ἐμπίπλημι	future active indicative, third singular	1	will fill
 SIR 39:6	1	10	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 SIR 39:6	1	11	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 SIR 39:6	1	12	ἀνομβρήσει	ἀνομβρέω	future active indicative, third singular	1	will pour forth
 SIR 39:6	1	13	ῥήματα	ῥῆμα	noun, accusative neuter plural	1	words
-SIR 39:6	1	14	σοφίας	σοφία	noun, genitive feminine singular	1	wisdom
+SIR 39:6	1	14	σοφίας	σοφία	noun, genitive feminine singular	1	of wisdom
 SIR 39:6	1	15	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 39:6	1	16	καὶ	καί	conjunction	1	and
 SIR 39:6	1	17	ἐν	ἐν	preposition with the dative	1	in
 SIR 39:6	1	18	προσευχῇ	προσευχή	noun, dative feminine singular	1	prayer
-SIR 39:6	1	19	ἐξομολογήσεται	ἐξομολογέομαι	future middle indicative, third singular	1	will acknowledge
+SIR 39:6	1	19	ἐξομολογήσεται	ἐξομολογέομαι	future middle indicative, third singular	1	will give thanks
 SIR 39:6	1	19	ἐξομολογήσεται			2	will confess
 SIR 39:6	1	20	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 SIR 39:7	1	1	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
@@ -122,7 +122,7 @@ SIR 39:8	1	1	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	h
 SIR 39:8	1	2	ἐκφανεῖ	ἐκφαίνω	future active indicative, third singular	1	will make known
 SIR 39:8	1	3	παιδείαν	παιδεία	noun, accusative feminine singular	1	instruction
 SIR 39:8	1	3	παιδείαν			2	discipline
-SIR 39:8	1	4	διδασκαλίας	διδασκαλία	noun, accusative feminine plural	1	of his teaching
+SIR 39:8	1	4	διδασκαλίας	διδασκαλία	noun, accusative feminine plural	1	of teaching
 SIR 39:8	1	5	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 39:8	1	6	καὶ	καί	conjunction	1	and
 SIR 39:8	1	7	ἐν	ἐν	preposition with the dative	1	in
@@ -137,7 +137,7 @@ SIR 39:9	1	4	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine s
 SIR 39:9	1	5	πολλοὶ	πολύς	adjective, nominative masculine plural	1	numerous
 SIR 39:9	1	5	πολλοὶ			2	many
 SIR 39:9	1	6	καὶ	καί	conjunction	1	and
-SIR 39:9	1	7	ἕως	ἕως	preposition with the genitive	1	forever
+SIR 39:9	1	7	ἕως	ἕως	preposition with the genitive	1	until
 SIR 39:9	1	8	τοῦ	ὁ	article, genitive masculine singular	1	the
 SIR 39:9	1	9	αἰῶνος	αἰών	noun genitive masculine singular	1	age
 SIR 39:9	1	10	οὐκ	οὐ	negative adverb with future indicative	1	not
@@ -145,7 +145,7 @@ SIR 39:9	1	11	ἐξαλειφθήσεται	ἐξαλείφω	future passive ind
 SIR 39:9	1	12	οὐκ	οὐ	negative particle	1	not
 SIR 39:9	1	13	ἀποστήσεται	ἀφίστημι	future middle indicative, third singular	1	shall depart
 SIR 39:9	1	14	τὸ	ὁ	article, accusative neuter singular	1	the
-SIR 39:9	1	15	μνημόσυνον	μνημόσυνον	noun, nominative neut. sg.	1	a memorial
+SIR 39:9	1	15	μνημόσυνον	μνημόσυνον	noun, nominative neut. sg.	1	memory
 SIR 39:9	1	16	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 39:9	1	17	καὶ	καί	conjunction	1	and
 SIR 39:9	1	18	τὸ	ὁ	article, neuter singular (case from context)	1	the
@@ -154,7 +154,7 @@ SIR 39:9	1	20	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine 
 SIR 39:9	1	21	ζητήσεται	ζητέω	future passive indicative, third singular	1	will be sought
 SIR 39:9	1	22	εἰς	εἰς	preposition with the accusative	1	into
 SIR 39:9	1	23	γενεὰς	γενεά	noun, accusative feminine plural	1	generations
-SIR 39:9	1	24	γενεῶν	γενεά	noun, genitive feminine plural	1	generations
+SIR 39:9	1	24	γενεῶν	γενεά	noun, genitive feminine plural	1	of generations
 SIR 39:9	1	24	γενεῶν			2	family lines
 SIR 39:10	1	1	τὴν	ὁ	article accusative feminine singular	1	the
 SIR 39:10	1	2	σοφίαν	σοφία	noun, accusative fem. sg	1	wisdom
@@ -191,7 +191,7 @@ SIR 39:12	1	7	ἐπληρώθην	πληρόω	aorist passive indicative, first 
 SIR 39:13	1	1	Εἰσακούσατέ	εἰσακούω	aorist active imperative, second plural	1	listen
 SIR 39:13	1	2	μου	ἐγώ	pronoun, genitive first singular	1	to me
 SIR 39:13	1	3	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-SIR 39:13	1	4	ὅσιοι	ὅσιος	adjective nominative masculine plural	1	holy ones
+SIR 39:13	1	4	ὅσιοι	ὅσιος	adjective nominative masculine plural	1	holy
 SIR 39:13	1	5	καὶ	καί	conjunction	1	and
 SIR 39:13	1	6	βλαστήσατε	βλαστάνω	aorist active imperative, second plural	1	sprout
 SIR 39:13	1	7	ὡς	ὡς	comparative particle	1	as
@@ -224,18 +224,18 @@ SIR 39:14	1	20	τοῖς	ὁ	article, dative neuter plural	1	the
 SIR 39:14	1	21	ἔργοις	ἔργον	noun, dative neuter plural	1	works
 SIR 39:14	1	22	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 39:15	1	1	Δότε	δίδωμι	aorist active imperative, second plural	1	give
-SIR 39:15	1	2	τῷ	ὁ	article, dative masculine singular	1	the
+SIR 39:15	1	2	τῷ	ὁ	article, dative masculine singular	1	to the
 SIR 39:15	1	3	ὀνόματι	ὄνομα	noun, dative neuter singular	1	name
 SIR 39:15	1	4	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 39:15	1	5	μεγαλωσύνην	μεγαλωσύνη	noun, accusative feminine singular	1	greatness
 SIR 39:15	1	6	καὶ	καί	conjunction	1	and
-SIR 39:15	1	7	ἐξομολογήσασθε	ἐξομολογέομαι	aorist middle imperative, second plural	1	acknowledge him
+SIR 39:15	1	7	ἐξομολογήσασθε	ἐξομολογέομαι	aorist middle imperative, second plural	1	give thanks
 SIR 39:15	1	8	ἐν	ἐν	preposition with the dative	1	in
 SIR 39:15	1	9	αἰνέσει	αἴνεσις	noun dative feminine singular	1	praise
 SIR 39:15	1	10	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 39:15	1	11	ἐν	ἐν	preposition governing the dative	1	with
 SIR 39:15	1	12	ᾠδαῖς	ᾠδή	noun, dative feminine plural	1	songs
-SIR 39:15	1	13	χειλέων	χεῖλος	noun, genitive neuter plural	1	lips
+SIR 39:15	1	13	χειλέων	χεῖλος	noun, genitive neuter plural	1	of lips
 SIR 39:15	1	14	καὶ	καί	conjunction	1	and
 SIR 39:15	1	15	ἐν	ἐν	preposition governing the dative	1	with
 SIR 39:15	1	16	κινύραις	κινύρα	noun, dative feminine plural	1	lyres
@@ -276,13 +276,13 @@ SIR 39:17	1	15	Ἐν	ἐν	preposition with the dative	1	in
 SIR 39:17	1	16	λόγῳ	λόγος	noun, dative masculine singular	1	speech
 SIR 39:17	1	17	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 39:17	1	18	ἔστη	ἵστημι	aorist active indicative third singular	1	stood
-SIR 39:17	1	19	ὡς	ὡς	comparative particle	1	in
+SIR 39:17	1	19	ὡς	ὡς	comparative particle	1	like
 SIR 39:17	1	20	θημωνία	θημωνία	noun, nominative feminine singular	1	heap
 SIR 39:17	1	21	ὕδωρ	ὕδωρ	noun, nominative neuter singular	1	water
 SIR 39:17	1	22	καὶ	καί	conjunction	1	and
 SIR 39:17	1	23	ἐν	ἐν	preposition with the dative	1	in
 SIR 39:17	1	24	ῥήματι	ῥῆμα	noun, dative neuter singular	1	word
-SIR 39:17	1	25	στόματος	στόμα	noun, genitive neuter singular	1	mouth
+SIR 39:17	1	25	στόματος	στόμα	noun, genitive neuter singular	1	of mouth
 SIR 39:17	1	26	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 39:17	1	27	ἀποδοχεῖα	ἀποδοχεῖον	noun, accusative neuter plural	1	reservoirs
 SIR 39:17	1	28	ὑδάτων	ὕδωρ	noun, genitive neuter plural	1	of waters
@@ -291,7 +291,7 @@ SIR 39:18	1	2	προστάγματι	πρόσταγμα	noun dative neuter singu
 SIR 39:18	1	3	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 39:18	1	4	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
 SIR 39:18	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
-SIR 39:18	1	6	εὐδοκία	εὐδοκία	noun, nominative feminine singular	1	his good pleasure
+SIR 39:18	1	6	εὐδοκία	εὐδοκία	noun, nominative feminine singular	1	good pleasure
 SIR 39:18	1	7	καὶ	καί	conjunction	1	and
 SIR 39:18	1	8	οὐκ	οὐ	negative particle	1	not
 SIR 39:18	1	9	ἔστιν	εἰμί	present indicative third singular	1	there is
@@ -309,7 +309,7 @@ SIR 39:19	1	5	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine 
 SIR 39:19	1	6	καὶ	καί	conjunction	1	and
 SIR 39:19	1	7	οὐκ	οὐ	negative particle	1	not
 SIR 39:19	1	8	ἔστι	εἰμί	present active indicative, third singular	1	is
-SIR 39:19	1	9	κρυβῆναι	κρύπτω	aorist passive infinitive	1	to hide
+SIR 39:19	1	9	κρυβῆναι	κρύπτω	aorist passive infinitive	1	to be hidden
 SIR 39:19	1	10	ἀπὸ	ἀπό	preposition with the genitive	1	from
 SIR 39:19	1	11	τῶν	ὁ	article, genitive plural	1	the
 SIR 39:19	1	12	ὀφθαλμῶν	ὀφθαλμός	noun genitive masculine plural	1	eyes
@@ -322,7 +322,7 @@ SIR 39:20	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 SIR 39:20	1	6	αἰῶνα	αἰών	noun accusative masculine singular	1	age
 SIR 39:20	1	7	ἐπέβλεψε	ἐπιβλέπω	aorist active indicative third singular	1	looked
 SIR 39:20	1	8	καὶ	καί	conjunction	1	and
-SIR 39:20	1	9	οὐδέν	οὐδείς	adjective, nominative neuter singular	1	no
+SIR 39:20	1	9	οὐδέν	οὐδείς	adjective, nominative neuter singular	1	nothing
 SIR 39:20	1	9	οὐδέν			2	not one
 SIR 39:20	1	10	ἐστι	εἰμί	present active indicative, third singular	1	is
 SIR 39:20	1	11	θαυμαστὸν	θαυμαστός	adjective nominative neuter singular	1	wondrous
@@ -333,7 +333,7 @@ SIR 39:21	1	2	ἔστιν	εἰμί	present indicative, third singular	1	is
 SIR 39:21	1	3	εἰπεῖν	λέγω	aorist active infinitive	1	to say
 SIR 39:21	1	4	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 SIR 39:21	1	5	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
-SIR 39:21	1	6	εἰς	εἰς	preposition with the accusative	1	into
+SIR 39:21	1	6	εἰς	εἰς	preposition with the accusative	1	for
 SIR 39:21	1	7	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 SIR 39:21	1	8	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 SIR 39:21	1	9	πάντα	πᾶς	adjective, accusative neuter plural	1	all things
@@ -369,18 +369,18 @@ SIR 39:23	1	10	ἅλμην	ἅλμη	noun accusative feminine singular	1	salt la
 SIR 39:24	1	1	Αἱ	ὁ	article nominative feminine plural	1	the
 SIR 39:24	1	2	ὁδοὶ	ὁδός	noun, nominative feminine plural	1	ways
 SIR 39:24	1	3	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
-SIR 39:24	1	4	τοῖς	ὁ	article, dative neuter plural	1	the
-SIR 39:24	1	5	ὁσίοις	ὅσιος	substantival adjective dative masculine plural	1	for holy ones
+SIR 39:24	1	4	τοῖς	ὁ	article, dative neuter plural	1	for the
+SIR 39:24	1	5	ὁσίοις	ὅσιος	substantival adjective dative masculine plural	1	holy ones
 SIR 39:24	1	6	εὐθεῖαι	εὐθύς	adjective, nominative feminine plural	1	straight
 SIR 39:24	1	6	εὐθεῖαι			2	upright
 SIR 39:24	1	7	οὕτως	οὕτως	adverb	1	thus
-SIR 39:24	1	8	τοῖς	ὁ	article, dative masculine plural	1	the
-SIR 39:24	1	9	ἀνόμοις	ἄνομος	adjective, dative masculine plural; substantival	1	for the lawless
+SIR 39:24	1	8	τοῖς	ὁ	article, dative masculine plural	1	for the
+SIR 39:24	1	9	ἀνόμοις	ἄνομος	adjective, dative masculine plural; substantival	1	lawless
 SIR 39:24	1	10	προσκόμματα	πρόσκομμα	noun, nominative neuter plural	1	obstacles
 SIR 39:25	1	1	Ἀγαθὰ	ἀγαθός	adjective, accusative neuter plural; substantival	1	good things
 SIR 39:25	1	1	Ἀγαθὰ			2	benefits
-SIR 39:25	1	2	τοῖς	ὁ	article, dative neuter plural	1	the
-SIR 39:25	1	3	ἀγαθοῖς	ἀγαθός	adjective, dative neuter plural; substantival	1	good things
+SIR 39:25	1	2	τοῖς	ὁ	article, dative neuter plural	1	for the
+SIR 39:25	1	3	ἀγαθοῖς	ἀγαθός	adjective, dative neuter plural; substantival	1	good
 SIR 39:25	1	3	ἀγαθοῖς			2	benefits
 SIR 39:25	1	4	ἔκτισται	κτίζω	perfect middle/passive indicative, third singular	1	have been created
 SIR 39:25	1	5	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
@@ -391,21 +391,21 @@ SIR 39:25	1	9	ἁμαρτωλοῖς	ἁμαρτωλός	adjective, dative mascu
 SIR 39:25	1	10	κακά	κακός	substantival adjective, accusative neuter plural	1	evils
 SIR 39:25	1	10	κακά			2	bad things
 SIR 39:26	1	1	Ἀρχὴ	ἀρχή	noun, nominative feminine singular	1	essentials
-SIR 39:26	1	2	πάσης	πᾶς	adjective, genitive feminine singular	1	all
+SIR 39:26	1	2	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
 SIR 39:26	1	3	χρείας	χρεία	noun, accusative feminine singular	1	need
 SIR 39:26	1	4	εἰς	εἰς	preposition with the accusative	1	for
 SIR 39:26	1	5	ζωὴν	ζωή	noun, accusative feminine singular	1	life
 SIR 39:26	1	6	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a person
 SIR 39:26	1	7	ὕδωρ	ὕδωρ	noun, nominative neuter singular	1	water
 SIR 39:26	1	8	καὶ	καί	conjunction	1	and
-SIR 39:26	1	9	πῦρ	πῦρ	noun, nominative neuter singular	1	the fire
+SIR 39:26	1	9	πῦρ	πῦρ	noun, nominative neuter singular	1	fire
 SIR 39:26	1	10	καὶ	καί	conjunction	1	and
 SIR 39:26	1	11	σίδηρος	σίδηρος	noun, nominative masculine singular	1	iron
 SIR 39:26	1	12	καὶ	καί	conjunction	1	and
 SIR 39:26	1	13	ἅλας	ἅλας	noun, genitive neuter singular	1	salt
 SIR 39:26	1	14	καὶ	καί	conjunction	1	and
 SIR 39:26	1	15	σεμίδαλις	σεμίδαλις	noun, nominative feminine singular	1	fine flour
-SIR 39:26	1	16	πυροῦ	πυρός	noun, genitive masculine singular	1	wheat
+SIR 39:26	1	16	πυροῦ	πυρός	noun, genitive masculine singular	1	of wheat
 SIR 39:26	1	17	καὶ	καί	conjunction	1	and
 SIR 39:26	1	18	μέλι	μέλι	noun, accusative neuter singular	1	honey
 SIR 39:26	1	19	καὶ	καί	conjunction	1	and
@@ -419,14 +419,14 @@ SIR 39:26	1	26	ἱμάτιον	ἱμάτιον	noun, accusative neuter singular	
 SIR 39:26	1	26	ἱμάτιον			2	cloak
 SIR 39:27	1	1	ταῦτα	οὗτος	demonstrative pronoun, nominative neuter plural	1	these
 SIR 39:27	1	2	πάντα	πᾶς	adjective, accusative neuter plural	1	all
-SIR 39:27	1	3	τοῖς	ὁ	article, dative neuter plural	1	the
+SIR 39:27	1	3	τοῖς	ὁ	article, dative neuter plural	1	for the
 SIR 39:27	1	4	εὐσεβέσιν	εὐσεβής	adjective, dative masculine plural	1	devout
 SIR 39:27	1	5	εἰς	εἰς	preposition with the accusative	1	into
 SIR 39:27	1	6	ἀγαθὰ	ἀγαθός	adjective, accusative neuter plural	1	good things
 SIR 39:27	1	7	οὕτως	οὕτως	adverb	1	thus
-SIR 39:27	1	8	τοῖς	ὁ	article, dative neuter plural	1	the
+SIR 39:27	1	8	τοῖς	ὁ	article, dative neuter plural	1	for the
 SIR 39:27	1	9	ἁμαρτωλοῖς	ἁμαρτωλός	adjective, dative masculine plural	1	sinners
-SIR 39:27	1	10	τραπήσεται	τρέπω	future passive indicative, third singular	1	will turn
+SIR 39:27	1	10	τραπήσεται	τρέπω	future passive indicative, third singular	1	will be turned
 SIR 39:27	1	11	εἰς	εἰς	preposition with the accusative	1	into
 SIR 39:27	1	12	κακά	κακός	substantival adjective, accusative neuter plural	1	evils
 SIR 39:27	1	12	κακά			2	bad things
@@ -448,7 +448,7 @@ SIR 39:28	1	12	μάστιγας			2	scourges
 SIR 39:28	1	13	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 SIR 39:28	1	14	ἐν	ἐν	preposition with the dative	1	in
 SIR 39:28	1	15	καιρῷ	καιρός	noun, dative masculine singular	1	time
-SIR 39:28	1	16	συντελείας	συντέλεια	noun, genitive feminine singular	1	consummation
+SIR 39:28	1	16	συντελείας	συντέλεια	noun, genitive feminine singular	1	of consummation
 SIR 39:28	1	17	ἰσχὺν	ἰσχύς	noun, accusative feminine singular	1	strength
 SIR 39:28	1	18	ἐκχέουσι	ἐκχέω	present active indicative, third plural	1	pour forth
 SIR 39:28	1	19	καὶ	καί	conjunction	1	and
@@ -472,7 +472,7 @@ SIR 39:29	1	10	εἰς	εἰς	preposition with the accusative	1	into
 SIR 39:29	1	11	ἐκδίκησιν	ἐκδίκησις	noun, accusative feminine singular	1	vengeance
 SIR 39:29	1	11	ἐκδίκησιν			2	retribution
 SIR 39:29	1	12	ἔκτισται	κτίζω	perfect middle/passive indicative, third singular	1	have been created
-SIR 39:30	1	1	θηρίων	θηρίον	noun, genitive neuter plural	1	wild animals
+SIR 39:30	1	1	θηρίων	θηρίον	noun, genitive neuter plural	1	of wild animals
 SIR 39:30	1	2	ὀδόντες	ὀδούς	noun nominative masculine plural	1	teeth
 SIR 39:30	1	3	καὶ	καί	conjunction	1	and
 SIR 39:30	1	4	σκορπίοι	σκορπίος	noun, nominative masculine plural	1	scorpions
@@ -533,8 +533,8 @@ SIR 39:34	1	2	οὐκ	οὐ	negative particle	1	not
 SIR 39:34	1	3	ἔστιν	εἰμί	present indicative, third singular	1	is
 SIR 39:34	1	4	εἰπεῖν	λέγω	aorist active infinitive	1	to say
 SIR 39:34	1	5	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
-SIR 39:34	1	6	τούτου	οὗτος	demonstrative pronoun, genitive neut. sg	1	this
-SIR 39:34	1	7	πονηρότερον	πονηρός	adjective, nominative neuter singular	1	worse than
+SIR 39:34	1	6	τούτου	οὗτος	demonstrative pronoun, genitive neut. sg	1	than this
+SIR 39:34	1	7	πονηρότερον	πονηρός	adjective, nominative neuter singular	1	worse
 SIR 39:34	1	8	πάντα	πᾶς	adjective, accusative neuter plural	1	all things
 SIR 39:34	1	9	γὰρ	γάρ	conjunction	1	for
 SIR 39:34	1	10	ἐν	ἐν	preposition with the dative	1	in

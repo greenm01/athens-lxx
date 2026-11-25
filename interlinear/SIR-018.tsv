@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 SIR 18:1	1	1	Ο	ὁ	article, nominative masculine singular	1	the one
 SIR 18:1	1	2	ζῶν	ζάω	present active participle, accusative neuter singular	1	who lives
-SIR 18:1	1	3	εἰς	εἰς	preposition with accusative	1	into
+SIR 18:1	1	3	εἰς	εἰς	preposition with accusative	1	for
 SIR 18:1	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 SIR 18:1	1	5	αἰῶνα	αἰών	noun accusative masculine singular	1	age
 SIR 18:1	1	6	ἔκτισε	κτίζω	aorist active indicative, third singular	1	created
@@ -11,7 +11,7 @@ SIR 18:1	1	8	πάντα	πᾶς	adjective, accusative neuter plural; used substa
 SIR 18:1	1	9	κοινῇ	κοινῇ	adverb	1	together
 SIR 18:2	1	1	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 SIR 18:2	1	2	μόνος	μόνος	adjective, nominative masculine singular	1	alone
-SIR 18:2	1	3	δικαιωθήσεται	δικαιόω	future passive indicative, third singular	1	is righteous
+SIR 18:2	1	3	δικαιωθήσεται	δικαιόω	future passive indicative, third singular	1	will be justified
 SIR 18:2	1	4	καὶ	καί	conjunction	1	and
 SIR 18:2	1	5	οὐκ	οὐ	negative adverb	1	not
 SIR 18:2	1	6	ἔστιν	εἰμί	present indicative, 3rd singular	1	is
@@ -25,7 +25,7 @@ SIR 18:3	1	4	κόσμον	κόσμος	noun, accusative masculine singular	1	wor
 SIR 18:3	1	5	ἐν	ἐν	preposition with the dative	1	in
 SIR 18:3	1	6	σπιθαμῇ	σπιθαμή	noun, dative feminine singular	1	handspan
 SIR 18:3	1	6	σπιθαμῇ			2	span
-SIR 18:3	1	7	χειρὸς	χείρ	noun, genitive feminine singular	1	hand
+SIR 18:3	1	7	χειρὸς	χείρ	noun, genitive feminine singular	1	of hand
 SIR 18:3	1	8	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 18:3	1	9	καὶ	καί	conjunction	1	and
 SIR 18:3	1	10	πάντα	πᾶς	adjective, accusative neuter plural	1	all
@@ -44,11 +44,11 @@ SIR 18:3	1	21	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine 
 SIR 18:3	1	22	διαστέλλων	διαστέλλω	present active participle, nominative masculine singular	1	distinguishing
 SIR 18:3	1	23	ἐν	ἐν	preposition with the dative	1	in
 SIR 18:3	1	24	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
-SIR 18:3	1	25	ἅγια	ἅγιος	substantival adjective, nominative neuter plural	1	most holy
+SIR 18:3	1	25	ἅγια	ἅγιος	substantival adjective, nominative neuter plural	1	holy things
 SIR 18:3	1	26	ἀπὸ	ἀπό	preposition with the genitive	1	from
 SIR 18:3	1	27	βεβήλων	βέβηλος	adjective, genitive neuter plural; used substantivally	1	profane things
 SIR 18:3	1	27	βεβήλων			2	common things
-SIR 18:4	1	1	Οὐδενὶ	οὐδείς	adjective, dative masculine singular	1	anyone
+SIR 18:4	1	1	Οὐδενὶ	οὐδείς	adjective, dative masculine singular	1	to no one
 SIR 18:4	1	2	ἐξεποίησεν	ἐκποιέω	aorist active indicative, third singular	1	was able
 SIR 18:4	1	3	ἐξαγγεῖλαι	ἐξαγγέλλω	aorist active infinitive	1	to proclaim
 SIR 18:4	1	4	τὰ	ὁ	article accusative neuter plural	1	the
@@ -61,7 +61,7 @@ SIR 18:4	1	10	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	
 SIR 18:4	1	11	μεγαλεῖα	μεγαλεῖον	noun, accusative neuter plural	1	greatness
 SIR 18:4	1	12	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 18:5	1	1	Κράτος	κράτος	noun, accusative neuter singular	1	might
-SIR 18:5	1	2	μεγαλωσύνης	μεγαλωσύνη	noun genitive feminine singular	1	greatness
+SIR 18:5	1	2	μεγαλωσύνης	μεγαλωσύνη	noun genitive feminine singular	1	of greatness
 SIR 18:5	1	3	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 18:5	1	4	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
 SIR 18:5	1	5	ἐξαριθμήσεται	ἐξαριθμέω	future middle indicative, third singular	1	shall count off
@@ -84,7 +84,7 @@ SIR 18:6	1	9	ἐξιχνιάσαι	ἐξιχνιάζω	aorist active infinitive	
 SIR 18:6	1	9	ἐξιχνιάσαι			2	to trace out
 SIR 18:6	1	10	τὰ	ὁ	article, accusative neuter plural	1	the
 SIR 18:6	1	11	θαυμάσια	θαυμάσιος	adjective accusative neuter plural	1	wonders
-SIR 18:6	1	12	τοῦ	ὁ	article, genitive singular	1	the
+SIR 18:6	1	12	τοῦ	ὁ	article, genitive singular	1	—
 SIR 18:6	1	13	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 SIR 18:7	1	1	ὅταν	ὅταν	temporal conjunction	1	when
 SIR 18:7	1	2	συντελέσει	συντελέω	future active indicative, third singular	1	has finished
@@ -114,19 +114,19 @@ SIR 18:8	1	14	τὸ	ὁ	article, accusative neuter singular	1	the
 SIR 18:8	1	15	κακὸν	κακός	substantival adjective, accusative neuter singular	1	evil
 SIR 18:8	1	16	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 18:9	1	1	Ἀριθμὸς	ἀριθμός	noun, nominative masculine singular	1	number
-SIR 18:9	1	2	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
-SIR 18:9	1	3	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
+SIR 18:9	1	2	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	of days
+SIR 18:9	1	3	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a man
 SIR 18:9	1	4	πολλὰ	πολύς	adjective, nominative neuter plural	1	at most
 SIR 18:9	1	5	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
 SIR 18:9	1	6	ἑκατόν	ἑκατόν	indeclinable cardinal numeral	1	one hundred
 SIR 18:10	1	1	ὡς	ὡς	comparative particle	1	as
 SIR 18:10	1	2	σταγὼν	σταγών	noun, nominative feminine singular	1	drop
-SIR 18:10	1	3	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
+SIR 18:10	1	3	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	of water
 SIR 18:10	1	4	ἀπὸ	ἀπό	preposition with the genitive	1	from
 SIR 18:10	1	5	θαλάσσης	θάλασσα	noun, genitive feminine singular	1	sea
 SIR 18:10	1	6	καὶ	καί	conjunction	1	and
 SIR 18:10	1	7	ψῆφος	ψῆφος	noun, nominative feminine singular	1	pebble
-SIR 18:10	1	8	ἄμμου	ἄμμος	noun, genitive feminine singular	1	than sand
+SIR 18:10	1	8	ἄμμου	ἄμμος	noun, genitive feminine singular	1	of sand
 SIR 18:10	1	9	οὕτως	οὕτως	adverb of manner	1	so
 SIR 18:10	1	10	χίλια	χίλιοι	adjective nominative neuter plural	1	a thousand
 SIR 18:10	1	11	ἔτη	ἔτος	noun nominative neuter plural	1	years
@@ -208,7 +208,7 @@ SIR 18:15	1	8	ἐν	ἐν	preposition with the dative	1	in
 SIR 18:15	1	9	πάσῃ	πᾶς	adjective dative feminine singular	1	all
 SIR 18:15	1	10	δόσει	δόσις	noun, dative feminine singular	1	gift
 SIR 18:15	1	11	λύπην	λύπη	noun, accusative feminine singular; cognate accusative	1	grief
-SIR 18:15	1	12	λόγων	λόγος	noun, genitive masculine plural	1	words
+SIR 18:15	1	12	λόγων	λόγος	noun, genitive masculine plural	1	of words
 SIR 18:15	1	12	λόγων			2	deeds
 SIR 18:16	1	1	Οὐχὶ	οὐχί	negative particle, emphatic form	1	not
 SIR 18:16	1	2	καύσωνα	καύσων	noun, accusative masculine singular	1	scorching wind
@@ -232,7 +232,7 @@ SIR 18:17	1	7	καὶ	καί	conjunction	1	and
 SIR 18:17	1	8	ἀμφότερα	ἀμφότερος	substantival adjective, nominative neuter plural	1	both
 SIR 18:17	1	9	παρὰ	παρά	preposition governing dative	1	with
 SIR 18:17	1	10	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	man
-SIR 18:17	1	11	κεΧαριτωμένῳ	χαριτόω	perfect middle/passive participle, dative masculine singular	1	a gracious person
+SIR 18:17	1	11	κεΧαριτωμένῳ	χαριτόω	perfect middle/passive participle, dative masculine singular	1	gracious
 SIR 18:18	1	1	Μωρὸς	μωρός	adjective, nominative masculine singular; substantival	1	fool
 SIR 18:18	1	1	Μωρὸς			2	foolish person
 SIR 18:18	1	2	ἀχαρίστως	ἀχαρίστως	adverb	1	ungraciously
@@ -256,7 +256,7 @@ SIR 18:20	1	4	σεαυτὸν	σεαυτοῦ	reflexive pronoun, accusative masc
 SIR 18:20	1	5	καὶ	καί	conjunction	1	and
 SIR 18:20	1	6	ἐν	ἐν	preposition with the dative	1	in
 SIR 18:20	1	7	ὥρᾳ	ὥρα	noun, dative feminine singular	1	time
-SIR 18:20	1	8	ἐπισκοπῆς	ἐπισκοπή	noun, genitive feminine singular	1	examination
+SIR 18:20	1	8	ἐπισκοπῆς	ἐπισκοπή	noun, genitive feminine singular	1	of visitation
 SIR 18:20	1	9	εὑρήσεις	εὑρίσκω	future active indicative, second singular	1	you shall find
 SIR 18:20	1	10	ἱλασμόν	ἱλασμός	noun, accusative masculine singular	1	atonement
 SIR 18:21	1	1	πρὶν	πρίν	conjunction	1	before
@@ -303,7 +303,7 @@ SIR 18:24	1	4	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
 SIR 18:24	1	5	τελευτῆς	τελευτή	noun, genitive feminine singular	1	of death
 SIR 18:24	1	6	καὶ	καί	conjunction	1	and
 SIR 18:24	1	7	καιρὸν	καιρός	noun, accusative masculine singular	1	time
-SIR 18:24	1	8	ἐκδικήσεως	ἐκδίκησις	noun, genitive feminine singular	1	vengeance
+SIR 18:24	1	8	ἐκδικήσεως	ἐκδίκησις	noun, genitive feminine singular	1	of vengeance
 SIR 18:24	1	8	ἐκδικήσεως			2	retribution
 SIR 18:24	1	9	ἐν	ἐν	preposition with the dative	1	in
 SIR 18:24	1	10	ἀποστροφῇ	ἀποστροφή	noun, dative feminine singular	1	turning away
@@ -312,10 +312,10 @@ SIR 18:25	1	1	μνήσθητι	μιμνῄσκομαι	aorist passive imperative
 SIR 18:25	1	2	κατὰ	κατά	preposition with the accusative	1	in
 SIR 18:25	1	3	καιρὸν	καιρός	noun, accusative masculine singular	1	time
 SIR 18:25	1	3	καιρὸν			2	season
-SIR 18:25	1	4	λιμοῦ	λιμός	noun, genitive masculine singular	1	famine
+SIR 18:25	1	4	λιμοῦ	λιμός	noun, genitive masculine singular	1	of famine
 SIR 18:25	1	5	ἐν	ἐν	preposition with the dative	1	in
 SIR 18:25	1	6	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
-SIR 18:25	1	7	πλησμονῆς	πλησμονή	noun, genitive feminine singular	1	abundance
+SIR 18:25	1	7	πλησμονῆς	πλησμονή	noun, genitive feminine singular	1	of abundance
 SIR 18:25	1	8	πτωχείαν	πτωχεία	noun, accusative feminine singular	1	poverty
 SIR 18:25	1	8	πτωχείαν			2	misery
 SIR 18:25	1	9	καὶ	καί	conjunction	1	and
@@ -323,7 +323,7 @@ SIR 18:25	1	10	ἔνδειαν	ἔνδεια	noun, accusative feminine singular	
 SIR 18:25	1	10	ἔνδειαν			2	shortage
 SIR 18:25	1	11	ἐν	ἐν	preposition with the dative	1	in
 SIR 18:25	1	12	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
-SIR 18:25	1	13	πλούτου	πλοῦτος	noun genitive masculine singular	1	wealth
+SIR 18:25	1	13	πλούτου	πλοῦτος	noun genitive masculine singular	1	of wealth
 SIR 18:26	1	1	Ἀπὸ	ἀπό	preposition with the genitive	1	from
 SIR 18:26	1	2	πρωΐθεν	πρωίθεν	adverb	1	morning
 SIR 18:26	1	3	ἕως	ἕως	temporal conjunction/preposition	1	until
@@ -352,12 +352,12 @@ SIR 18:27	1	12	πλημμελείας	πλημμέλεια	noun, genitive femini
 SIR 18:27	1	13	καὶ	καί	conjunction	1	and
 SIR 18:27	1	14	ἄφρων	ἄφρων	substantival adjective nominative masculine singular	1	a fool
 SIR 18:27	1	15	οὐ	οὐ	negative particle	1	not
-SIR 18:27	1	16	συντηρήσει	συντηρέω	future active indicative, third singular	1	will preserve
+SIR 18:27	1	16	συντηρήσει	συντηρέω	future active indicative, third singular	1	will observe
 SIR 18:27	1	17	καιρόν	καιρός	noun, accusative masculine singular	1	time
 SIR 18:28	1	1	Πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 SIR 18:28	1	2	συνετὸς	συνετός	adjective, nominative masculine singular	1	intelligent
 SIR 18:28	1	2	συνετὸς			2	discerning
-SIR 18:28	1	3	ἔγνω	γινώσκω	aorist active indicative, third singular, of marital union	1	knows
+SIR 18:28	1	3	ἔγνω	γινώσκω	aorist active indicative, third singular, of marital union	1	knew
 SIR 18:28	1	4	σοφίαν	σοφία	noun, accusative feminine singular	1	wisdom
 SIR 18:28	1	5	καὶ	καί	conjunction	1	and
 SIR 18:28	1	6	τῷ	ὁ	article, dative masculine singular	1	to the one
@@ -392,8 +392,8 @@ SIR 18:30	2	11	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 18:30	2	12	μὴ	μή	negative particle	1	not
 SIR 18:30	2	13	κωλύου	κωλύω	present middle/passive imperative, second singular	1	hold yourself back
 SIR 18:31	1	1	ἐὰν	ἐάν	conditional conjunction	1	if
-SIR 18:31	1	2	χορηγήσῃς	χορηγέω	aorist active subjunctive, second singular	1	you indulge
-SIR 18:31	1	3	τῇ	ὁ	article dative feminine singular	1	the
+SIR 18:31	1	2	χορηγήσῃς	χορηγέω	aorist active subjunctive, second singular	1	you supply
+SIR 18:31	1	3	τῇ	ὁ	article dative feminine singular	1	to the
 SIR 18:31	1	4	ψυχῇ	ψυχή	noun, accusative feminine singular	1	soul
 SIR 18:31	1	5	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 18:31	1	6	εὐδοκίαν	εὐδοκία	noun accusative feminine singular	1	good pleasure
@@ -423,7 +423,7 @@ SIR 18:33	1	4	συμβολοκοπῶν	συμβολοκοπέω	present active 
 SIR 18:33	1	5	ἐκ	ἐκ	preposition with the genitive	1	from
 SIR 18:33	1	6	δανεισμοῦ	δανεισμός	noun, genitive masculine singular	1	borrowing
 SIR 18:33	1	7	καὶ	καί	conjunction	1	and
-SIR 18:33	1	8	οὐδέν	οὐδείς	adjective, nominative neuter singular	1	no
+SIR 18:33	1	8	οὐδέν	οὐδείς	adjective, nominative neuter singular	1	nothing
 SIR 18:33	1	8	οὐδέν			2	not one
 SIR 18:33	1	9	σοί	σύ	personal pronoun, emphatic dative singular	1	to you
 SIR 18:33	1	10	ἐστιν	εἰμί	present indicative, third singular	1	is

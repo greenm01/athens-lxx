@@ -1,5 +1,5 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
-SIR 3:1	1	1	ΕΜΟΥ	ἐγώ	pronoun, first-person genitive singular	1	my
+SIR 3:1	1	1	ΕΜΟΥ	ἐγώ	pronoun, first-person genitive singular	1	me
 SIR 3:1	1	2	τοῦ	ὁ	article, genitive singular	1	the
 SIR 3:1	1	3	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 SIR 3:1	1	4	ἀκούσατε	ἀκούω	aorist active imperative, second plural	1	listen to
@@ -18,7 +18,7 @@ SIR 3:2	1	6	ἐπὶ	ἐπί	preposition	1	over
 SIR 3:2	1	7	τέκνοις	τέκνον	noun, dative neuter plural	1	children
 SIR 3:2	1	8	καὶ	καί	conjunction	1	and
 SIR 3:2	1	9	κρίσιν	κρίσις	noun, accusative feminine singular	1	authority
-SIR 3:2	1	10	μητρὸς	μήτηρ	noun, genitive feminine singular	1	mother
+SIR 3:2	1	10	μητρὸς	μήτηρ	noun, genitive feminine singular	1	of a mother
 SIR 3:2	1	11	ἐστερέωσεν	στερεόω	aorist active indicative, third singular	1	established
 SIR 3:2	1	12	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
 SIR 3:2	1	13	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
@@ -38,7 +38,7 @@ SIR 3:5	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 SIR 3:5	1	2	τιμῶν	τιμάω	present active participle, nominative masculine singular	1	honoring
 SIR 3:5	1	3	πατέρα	πατήρ	noun, accusative masculine singular	1	father
 SIR 3:5	1	4	εὐφρανθήσεται	εὐφραίνω	future passive indicative third singular	1	will rejoice
-SIR 3:5	1	5	ὑπὸ	ὑπό	preposition with the accusative	1	in
+SIR 3:5	1	5	ὑπὸ	ὑπό	preposition with the accusative	1	by
 SIR 3:5	1	6	τέκνων	τέκνον	noun, genitive neuter plural	1	children
 SIR 3:5	1	7	καὶ	καί	conjunction	1	and
 SIR 3:5	1	8	ἐν	ἐν	preposition with the dative	1	in
@@ -67,7 +67,7 @@ SIR 3:7	1	7	καὶ	καί	conjunction	1	and
 SIR 3:7	1	8	ὡς	ὡς	comparative particle	1	as
 SIR 3:7	1	9	δεσπόταις	δεσπότης	noun, dative masculine plural	1	masters
 SIR 3:7	1	10	δουλεύσει	δουλεύω	future active indicative, third singular, with the dative	1	will serve
-SIR 3:7	1	11	ἐν	ἐν	preposition with dative	1	as
+SIR 3:7	1	11	ἐν	ἐν	preposition with dative	1	to
 SIR 3:7	1	12	τοῖς	ὁ	article, dative neuter plural	1	those
 SIR 3:7	1	13	γεννήσασιν	γεννάω	aorist active participle, dative masculine plural	1	who gave birth
 SIR 3:7	1	14	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
@@ -103,14 +103,14 @@ SIR 3:10	1	1	Μὴ	μή	negative particle	1	not
 SIR 3:10	1	2	δοξάζου	δοξάζω	present active imperative, second singular	1	glory
 SIR 3:10	1	3	ἐν	ἐν	preposition with the dative	1	in
 SIR 3:10	1	4	ἀτιμίᾳ	ἀτιμία	noun, dative feminine singular	1	disgrace
-SIR 3:10	1	5	πατρός	πατήρ	noun, genitive masculine singular	1	father
+SIR 3:10	1	5	πατρός	πατήρ	noun, genitive masculine singular	1	of father
 SIR 3:10	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 3:10	1	7	οὐ	οὐ	negative particle	1	not
 SIR 3:10	1	8	γάρ	γάρ	explanatory conjunction	1	for
 SIR 3:10	1	9	ἐστί	εἰμί	present indicative, third singular	1	is
 SIR 3:10	1	10	σοι	σύ	personal pronoun, dative singular	1	to you
 SIR 3:10	1	11	δόξα	δόξα	noun, nominative feminine singular	1	glory
-SIR 3:10	1	12	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
+SIR 3:10	1	12	πατρὸς	πατήρ	noun, genitive masculine singular	1	a father's
 SIR 3:10	1	13	ἀτιμία	ἀτιμία	noun, nominative feminine singular	1	dishonor
 SIR 3:10	1	13	ἀτιμία			2	disgrace
 SIR 3:11	1	1	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -119,7 +119,7 @@ SIR 3:11	1	3	δόξα	δόξα	noun, nominative fem. sg	1	glory
 SIR 3:11	1	4	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of man
 SIR 3:11	1	5	ἐκ	ἐκ	preposition with the genitive	1	from
 SIR 3:11	1	6	τιμῆς	τιμή	noun, genitive feminine singular; genitive of valuation	1	honor
-SIR 3:11	1	7	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
+SIR 3:11	1	7	πατρὸς	πατήρ	noun, genitive masculine singular	1	of father
 SIR 3:11	1	8	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 3:11	1	9	καὶ	καί	conjunction	1	and
 SIR 3:11	1	10	ὄνειδος	ὄνειδος	noun, nominative neuter singular	1	a reproach
@@ -131,7 +131,7 @@ SIR 3:12	1	1	Τέκνον	τέκνον	noun, vocative neuter singular	1	O child
 SIR 3:12	1	2	ἀντιλαβοῦ	ἀντιλαμβάνομαι	aorist middle imperative second singular	1	help
 SIR 3:12	1	3	ἐν	ἐν	preposition with the dative	1	in
 SIR 3:12	1	4	γήρᾳ	γῆρας	noun, dative neuter singular	1	old age
-SIR 3:12	1	5	πατρός	πατήρ	noun, genitive masculine singular	1	your father
+SIR 3:12	1	5	πατρός	πατήρ	noun, genitive masculine singular	1	of father
 SIR 3:12	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 3:12	1	7	καὶ	καί	conjunction	1	and
 SIR 3:12	1	8	μὴ	μή	negative particle	1	not
@@ -146,8 +146,8 @@ SIR 3:13	1	2	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 SIR 3:13	1	3	ἀπολείπῃ	ἀπολείπω	aorist active subjunctive, third singular	1	may fail
 SIR 3:13	1	4	σύνεσιν	σύνεσις	noun, accusative feminine singular	1	understanding
 SIR 3:13	1	4	σύνεσιν			2	insight
-SIR 3:13	1	5	συγγνώμην	συγγνώμη	noun, accusative feminine singular	1	forbear
-SIR 3:13	1	6	ἔχε	ἔχω	present active imperative, second singular, completes the expression	1	with him
+SIR 3:13	1	5	συγγνώμην	συγγνώμη	noun, accusative feminine singular	1	forbearance
+SIR 3:13	1	6	ἔχε	ἔχω	present active imperative, second singular, completes the expression	1	have
 SIR 3:13	1	7	καὶ	καί	conjunction	1	and
 SIR 3:13	1	8	μὴ	μή	negative particle	1	not
 SIR 3:13	1	9	ἀτιμάσῃς	ἀτιμάζω	aorist active subjunctive, second singular	1	dishonor
@@ -159,7 +159,7 @@ SIR 3:13	1	13	ἰσχύϊ			2	might
 SIR 3:13	1	14	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 3:14	1	1	Ἐλεημοσύνη	ἐλεημοσύνη	noun, nominative feminine singular	1	kindness
 SIR 3:14	1	2	γὰρ	γάρ	conjunction	1	for
-SIR 3:14	1	3	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
+SIR 3:14	1	3	πατρὸς	πατήρ	noun, genitive masculine singular	1	of a father
 SIR 3:14	1	4	οὐκ	οὐ	negative particle	1	not
 SIR 3:14	1	5	ἐπιλησθήσεται	ἐπιλανθάνομαι	future passive indicative, third singular	1	will be forgotten
 SIR 3:14	1	6	καὶ	καί	conjunction	1	and
@@ -212,7 +212,7 @@ SIR 3:17	1	11	δεκτοῦ	δεκτός	adjective, genitive masculine singular	
 SIR 3:17	1	12	ἀγαπηθήσῃ	ἀγαπάω	future passive indicative, second singular	1	you will be loved
 SIR 3:18	1	1	Ὅσῳ	ὅσος	relative pronoun, dative neuter singular	1	by as much as
 SIR 3:18	1	2	μέγας	μέγας	adjective nominative masculine singular	1	great
-SIR 3:18	1	3	εἶ	εἰμί	present indicative, second singular	1	are
+SIR 3:18	1	3	εἶ	εἰμί	present indicative, second singular	1	you are
 SIR 3:18	1	4	τοσούτῳ	τοσοῦτος	demonstrative pronoun, dative neuter singular	1	by so much
 SIR 3:18	1	5	ταπεινοῦ	ταπεινός	adjective, genitive masculine singular	1	humble
 SIR 3:18	1	6	σεαυτὸν	σεαυτοῦ	reflexive pronoun, accusative masculine singular	1	yourself
@@ -230,7 +230,7 @@ SIR 3:19	1	4	καὶ	καί	conjunction	1	and
 SIR 3:19	1	5	ἐπίδοξοι	ἐπίδοξος	adjective, nominative masculine plural	1	renowned
 SIR 3:19	1	6	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 SIR 3:19	1	7	πρᾳέσιν	πραΰς	adjective, dative masculine plural	1	to the meek
-SIR 3:19	1	8	ἀποκαλύπτεται	ἀποκαλύπτω	present middle indicative, third singular	1	he reveals
+SIR 3:19	1	8	ἀποκαλύπτεται	ἀποκαλύπτω	present middle indicative, third singular	1	are revealed
 SIR 3:19	1	9	μυστήρια	μυστήριον	noun, accusative neuter plural	1	mysteries
 SIR 3:20	1	1	Ὅτι	ὅτι	causal conjunction	1	because
 SIR 3:20	1	2	μεγάλη	μέγας	adjective, nominative feminine singular	1	great
@@ -265,14 +265,14 @@ SIR 3:22	1	9	ἐστί	εἰμί	present indicative, third singular	1	is
 SIR 3:22	1	10	σοι	σύ	personal pronoun, dative singular	1	to you
 SIR 3:22	1	11	χρεία	χρεία	noun, nominative feminine singular	1	need
 SIR 3:22	1	11	χρεία			2	use
-SIR 3:22	1	12	τῶν	ὁ	article, genitive plural	1	the
+SIR 3:22	1	12	τῶν	ὁ	article, genitive plural	1	of the
 SIR 3:22	1	13	κρυπτῶν	κρυπτός	adjective, genitive neuter plural	1	hidden things
 SIR 3:22	1	14	βλέπειν	βλέπω	present active infinitive	1	to see
 SIR 3:22	1	15	ὀφθαλμοῖς	ὀφθαλμός	noun, dative masculine plural	1	with your eyes
 SIR 3:23	1	1	Ἐν	ἐν	preposition with the dative	1	in
 SIR 3:23	1	2	τοῖς	ὁ	article, dative neuter plural	1	the
 SIR 3:23	1	3	περισσοῖς	περισσός	adjective, dative neuter plural	1	superfluous things
-SIR 3:23	1	4	τῶν	ὁ	article, genitive masculine plural	1	the
+SIR 3:23	1	4	τῶν	ὁ	article, genitive masculine plural	1	of the
 SIR 3:23	1	5	ἔργων	ἔργον	noun genitive neuter plural	1	works
 SIR 3:23	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 3:23	1	7	μὴ	μή	negative particle	1	not
@@ -280,7 +280,7 @@ SIR 3:23	1	8	περιεργάζου	περιεργάζομαι	present middle im
 SIR 3:23	1	9	πλείονα	πολύς	adjective, nominative neuter plural; comparative	1	things beyond
 SIR 3:23	1	10	γὰρ	γάρ	conjunction	1	for
 SIR 3:23	1	11	συνέσεως	σύνεσις	noun genitive feminine singular	1	understanding
-SIR 3:23	1	12	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	human beings
+SIR 3:23	1	12	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	of human beings
 SIR 3:23	1	12	ἀνθρώπων			2	people
 SIR 3:23	1	13	ὑπεδείχθη	ὑποδείκνυμι	aorist passive indicative, third singular	1	was shown
 SIR 3:23	1	14	σοι	σύ	personal pronoun, dative singular	1	to you
@@ -292,7 +292,7 @@ SIR 3:24	1	5	ὑπόληψις	ὑπόληψις	noun, nominative feminine singu
 SIR 3:24	1	6	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 SIR 3:24	1	7	καὶ	καί	conjunction	1	and
 SIR 3:24	1	8	ὑπόνοια	ὑπόνοια	noun, nominative feminine singular	1	conjecture
-SIR 3:24	1	9	πονηρὰ	πονηρός	substantival adjective, accusative neuter plural	1	evil things
+SIR 3:24	1	9	πονηρὰ	πονηρός	substantival adjective, accusative neuter plural	1	evil
 SIR 3:24	1	10	ὠλίσθησε	ὀλισθάνω	aorist active indicative, third singular	1	has made slip
 SIR 3:24	1	11	διάνοιαν	διάνοια	noun, accusative feminine singular	1	thought
 SIR 3:24	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -301,7 +301,7 @@ SIR 3:25	1	2	μὴ	μή	negative particle	1	not
 SIR 3:25	1	3	ἔχων	ἔχω	present active participle, nominative masculine singular	1	having
 SIR 3:25	1	4	ἀπορήσεις	ἀπορέω	future active indicative, second singular	1	you will be at a loss
 SIR 3:25	1	5	φωτός	φῶς	noun, genitive neuter singular	1	for light
-SIR 3:25	1	6	γνώσεως	γνῶσις	noun, genitive feminine singular	1	knowledge
+SIR 3:25	1	6	γνώσεως	γνῶσις	noun, genitive feminine singular	1	of knowledge
 SIR 3:25	1	7	δὲ	δέ	postpositive conjunction	1	now
 SIR 3:25	1	8	ἄμοιρος	ἄμοιρος	adjective, nominative masculine singular	1	without a share
 SIR 3:25	1	9	ὢν	εἰμί	present active participle, nominative masculine singular	1	being
@@ -313,7 +313,7 @@ SIR 3:26	1	3	ἀγαπῶν	ἀγαπάω	present active participle nominative m
 SIR 3:26	1	4	κίνδυνον	κίνδυνος	noun, accusative masculine singular	1	danger
 SIR 3:26	1	5	ἐν	ἐν	preposition with dative	1	in
 SIR 3:26	1	6	αὐτῷ	αὐτός	pronoun, dative masc. sg. 'for him	1	it
-SIR 3:26	1	7	ἀπολεῖται	ἀπόλλυμι	future middle indicative, 3rd sg., shall perish/be cut off	1	shall be cut off
+SIR 3:26	1	7	ἀπολεῖται	ἀπόλλυμι	future middle indicative, 3rd sg., shall perish/be cut off	1	will perish
 SIR 3:26	1	7	ἀπολεῖται			2	perish
 SIR 3:26	1	8	καρδία	καρδία	noun, nominative feminine singular	1	heart
 SIR 3:26	1	9	σκληρά	σκληρός	adjective, accusative neuter plural substantival	1	hard
@@ -341,7 +341,7 @@ SIR 3:28	1	5	ἴασις	ἴασις	noun, nominative feminine singular	1	healin
 SIR 3:28	1	5	ἴασις			2	cure
 SIR 3:28	1	6	φυτὸν	φυτόν	noun, accusative neuter singular	1	plant
 SIR 3:28	1	7	γὰρ	γάρ	conjunction	1	for
-SIR 3:28	1	8	πονηρίας	πονηρία	noun, genitive feminine singular	1	wickedness
+SIR 3:28	1	8	πονηρίας	πονηρία	noun, genitive feminine singular	1	of wickedness
 SIR 3:28	1	8	πονηρίας			2	evil
 SIR 3:28	1	9	ἐρρίζωκεν	ῥιζόω	perfect active indicative, third singular	1	has taken root
 SIR 3:28	1	10	ἐν	ἐν	preposition with the dative	1	in
@@ -352,7 +352,7 @@ SIR 3:29	1	3	διανοηθήσεται	διανοέομαι	future passive indi
 SIR 3:29	1	4	παραβολὴν	παραβολή	noun, accusative feminine singular	1	a proverb
 SIR 3:29	1	5	καὶ	καί	conjunction	1	and
 SIR 3:29	1	6	οὖς	οὖς	noun accusative neuter singular	1	ear
-SIR 3:29	1	7	ἀκροατοῦ	ἀκροατής	noun, genitive masculine singular	1	hearer
+SIR 3:29	1	7	ἀκροατοῦ	ἀκροατής	noun, genitive masculine singular	1	of a hearer
 SIR 3:29	1	8	ἐπιθυμία	ἐπιθυμία	noun nominative feminine singular	1	the desire
 SIR 3:29	1	9	σοφοῦ	σοφός	substantival adjective genitive masculine singular	1	of a wise man
 SIR 3:30	1	1	Πῦρ	πῦρ	noun, accusative neuter singular	1	fire
@@ -362,11 +362,11 @@ SIR 3:30	1	4	ὕδωρ	ὕδωρ	noun, nominative neuter singular	1	water
 SIR 3:30	1	5	καὶ	καί	conjunction	1	and
 SIR 3:30	1	6	ἐλεημοσύνη	ἐλεημοσύνη	noun, nominative feminine singular	1	almsgiving
 SIR 3:30	1	7	ἐξιλάσεται	ἐξιλάσκομαι	future middle indicative, third singular	1	will atone for
-SIR 3:30	1	8	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
+SIR 3:30	1	8	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sins
 SIR 3:31	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 SIR 3:31	1	2	ἀνταποδιδοὺς	ἀνταποδίδωμι	present active participle, nominative masculine singular	1	repaying
 SIR 3:31	1	3	χάριτας	χάρις	noun, accusative feminine plural	1	kindnesses
-SIR 3:31	1	4	μέμνηται	μιμνῄσκομαι	perfect middle indicative, third singular	1	is remembered
+SIR 3:31	1	4	μέμνηται	μιμνῄσκομαι	perfect middle indicative, third singular	1	remembers
 SIR 3:31	1	5	εἰς	εἰς	preposition with the accusative	1	into
 SIR 3:31	1	6	τὰ	ὁ	article, accusative neuter plural	1	the
 SIR 3:31	1	7	μετὰ	μετά	preposition with the accusative	1	after
@@ -375,7 +375,7 @@ SIR 3:31	1	9	καὶ	καί	conjunction	1	and
 SIR 3:31	1	10	ἐν	ἐν	preposition with the dative	1	in
 SIR 3:31	1	11	καιρῷ	καιρός	noun, dative masculine singular	1	time
 SIR 3:31	1	11	καιρῷ			2	season
-SIR 3:31	1	12	πτώσεως	πτῶσις	noun, genitive feminine singular	1	fall
+SIR 3:31	1	12	πτώσεως	πτῶσις	noun, genitive feminine singular	1	of falling
 SIR 3:31	1	12	πτώσεως			2	downfall
 SIR 3:31	1	13	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 3:31	1	14	εὑρήσει	εὑρίσκω	future active indicative, third singular	1	will find

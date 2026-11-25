@@ -9,7 +9,7 @@ SIR 15:1	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
 SIR 15:1	1	8	ἐγκρατὴς	ἐγκρατής	adjective, nominative masculine singular	1	who holds fast to
 SIR 15:1	1	9	τοῦ	ὁ	article, genitive singular	1	the
 SIR 15:1	1	10	νόμου	νόμος	noun, genitive masculine singular	1	law
-SIR 15:1	1	11	καταλήψεται	καταλαμβάνω	future middle indicative, third singular	1	will overtake
+SIR 15:1	1	11	καταλήψεται	καταλαμβάνω	future middle indicative, third singular	1	will attain
 SIR 15:1	1	11	καταλήψεται			2	will catch up with
 SIR 15:1	1	12	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	her
 SIR 15:2	1	1	Καὶ	καί	conjunction	1	and
@@ -127,7 +127,7 @@ SIR 15:11	1	5	Κύριον	κύριος	noun, accusative masculine singular	1	Lo
 SIR 15:11	1	6	ἀπέστην	ἀφίστημι	aorist active indicative, first singular	1	I turned away
 SIR 15:11	1	7	ἃ	ὅς	relative pronoun, accusative neuter plural	1	what
 SIR 15:11	1	8	γὰρ	γάρ	postpositive conjunction	1	for
-SIR 15:11	1	9	ἐμίσησεν	μισέω	aorist active indicative, 3rd singular	1	he hates
+SIR 15:11	1	9	ἐμίσησεν	μισέω	aorist active indicative, 3rd singular	1	he hated
 SIR 15:11	1	10	οὐ	οὐ	negative particle	1	not
 SIR 15:11	1	11	ποιήσεις	ποιέω	future active indicative, second singular	1	you shall do
 SIR 15:12	1	1	Μὴ	μή	negative particle	1	not
@@ -142,10 +142,10 @@ SIR 15:12	1	8	γὰρ	γάρ	conjunction	1	for
 SIR 15:12	1	9	χρείαν	χρεία	noun accusative feminine singular	1	need
 SIR 15:12	1	10	ἔχει	ἔχω	present active indicative, third singular	1	has
 SIR 15:12	1	11	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	of a man
-SIR 15:12	1	12	ἁμαρτωλοῦ	ἁμαρτωλός	adjective genitive masculine singular	1	of a sinner
+SIR 15:12	1	12	ἁμαρτωλοῦ	ἁμαρτωλός	adjective genitive masculine singular	1	sinful
 SIR 15:13	1	1	Πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 SIR 15:13	1	2	βδέλυγμα	βδέλυγμα	noun, accusative neuter singular	1	abomination
-SIR 15:13	1	3	ἐμίσησεν	μισέω	aorist active indicative, third singular	1	hates
+SIR 15:13	1	3	ἐμίσησεν	μισέω	aorist active indicative, third singular	1	hated
 SIR 15:13	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 SIR 15:13	1	5	Κύριος	κύριος	noun nominative masculine singular	1	Lord
 SIR 15:13	1	6	καὶ	καί	conjunction	1	and
@@ -161,11 +161,11 @@ SIR 15:14	1	3	ἀρχῆς	ἀρχή	noun, genitive feminine singular	1	the begi
 SIR 15:14	1	4	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	made
 SIR 15:14	1	5	ἄνθρωπον	ἄνθρωπος	noun, accusative masculine singular	1	man
 SIR 15:14	1	6	καὶ	καί	conjunction	1	and
-SIR 15:14	1	7	ἀφῆκεν	ἀφίημι	aorist active indicative third singular	1	set free
+SIR 15:14	1	7	ἀφῆκεν	ἀφίημι	aorist active indicative third singular	1	left
 SIR 15:14	1	8	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 SIR 15:14	1	9	ἐν	ἐν	preposition with the dative	1	in
 SIR 15:14	1	10	χειρὶ	χείρ	noun, dative feminine singular	1	hand
-SIR 15:14	1	11	διαβουλίου	διαβούλιον	noun, genitive neuter singular	1	own counsel
+SIR 15:14	1	11	διαβουλίου	διαβούλιον	noun, genitive neuter singular	1	of counsel
 SIR 15:14	1	12	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 15:15	1	1	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 SIR 15:15	1	2	θέλῃς	θέλω	present active subjunctive, 2nd singular	1	you wish
@@ -182,8 +182,8 @@ SIR 15:16	1	2	σοι	σύ	personal pronoun, dative singular	1	you
 SIR 15:16	1	3	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
 SIR 15:16	1	4	καὶ	καί	conjunction	1	and
 SIR 15:16	1	5	ὕδωρ	ὕδωρ	noun, nominative neuter singular	1	water
-SIR 15:16	1	6	οὗ	ὅς	relative pronoun, accusative feminine singular; adverbial in an indefinite relative clause	1	wherever
-SIR 15:16	1	7	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
+SIR 15:16	1	6	οὗ	ὅς	relative pronoun, accusative feminine singular; adverbial in an indefinite relative clause	1	where
+SIR 15:16	1	7	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	ever
 SIR 15:16	1	8	θέλῃς	θέλω	present active subjunctive, 2nd singular	1	you wish
 SIR 15:16	1	9	ἐκτενεῖς	ἐκτείνω	future active indicative, second singular	1	you shall extend
 SIR 15:16	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -199,8 +199,8 @@ SIR 15:17	1	5	καὶ	καί	conjunction	1	and
 SIR 15:17	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 SIR 15:17	1	7	θάνατος	θάνατος	noun, nominative masculine singular	1	death
 SIR 15:17	1	8	καὶ	καί	conjunction	1	and
-SIR 15:17	1	9	ὃ	ὅς	relative pronoun, nominative/accusative neuter singular (from context)	1	whichever
-SIR 15:17	1	10	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
+SIR 15:17	1	9	ὃ	ὅς	relative pronoun, nominative/accusative neuter singular (from context)	1	what
+SIR 15:17	1	10	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	ever
 SIR 15:17	1	11	εὐδοκήσῃ	εὐδοκέω	aorist active subjunctive, third singular	1	one chooses
 SIR 15:17	1	12	δοθήσεται	δίδωμι	future passive indicative, third person singular	1	will be given
 SIR 15:17	1	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -208,7 +208,7 @@ SIR 15:18	1	1	Ὅτι	ὅτι	causal conjunction	1	because
 SIR 15:18	1	2	πολλὴ	πολύς	adjective, nominative feminine singular	1	great
 SIR 15:18	1	3	ἡ	ὁ	article nominative feminine singular	1	the
 SIR 15:18	1	4	σοφία	σοφία	noun, nominative feminine singular	1	wisdom
-SIR 15:19	1	1	τοῦ	ὁ	article, genitive singular	1	the
+SIR 15:19	1	1	τοῦ	ὁ	article, genitive singular	1	—
 SIR 15:19	1	2	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 SIR 15:19	1	3	ἰσχυρὸς	ἰσχυρός	adjective, nominative masculine singular	1	mighty
 SIR 15:19	1	4	ἐν	ἐν	preposition with the dative	1	in

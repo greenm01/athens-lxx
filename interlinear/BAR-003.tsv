@@ -1,5 +1,5 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
-BAR 3:1	1	1	ΚΥΡΙΕ	κύριος	noun, vocative masculine singular; divine title	1	Lord
+BAR 3:1	1	1	ΚΥΡΙΕ	κύριος	noun, vocative masculine singular; divine title	1	O Lord
 BAR 3:1	1	2	παντοκράτωρ	παντοκράτωρ	noun, nominative masculine singular; divine title	1	Almighty
 BAR 3:1	1	2	παντοκράτωρ			2	Ruler of all
 BAR 3:1	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -20,7 +20,7 @@ BAR 3:1	1	12	ἐκέκραξε			2	cried out
 BAR 3:1	1	13	πρὸς	πρός	preposition with the accusative	1	to
 BAR 3:1	1	14	σὲ	σύ	personal pronoun, emphatic accusative singular governed by πρός	1	you
 BAR 3:2	1	1	ἄκουσον	ἀκούω	aorist active imperative, 2nd singular	1	hear
-BAR 3:2	1	2	Κύριε	κύριος	noun, vocative masculine singular	1	Lord
+BAR 3:2	1	2	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 BAR 3:2	1	3	καὶ	καί	conjunction	1	and
 BAR 3:2	1	4	ἐλέησον	ἐλεέω	aorist active imperative, second singular	1	have mercy
 BAR 3:2	1	5	ὅτι	ὅτι	causal conjunction	1	because
@@ -57,14 +57,14 @@ BAR 3:4	1	5	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in
 BAR 3:4	1	6	ἄκουσον	ἀκούω	aorist active imperative, second singular	1	listen to
 BAR 3:4	1	7	δὴ	δή	emphatic particle	1	please
 BAR 3:4	1	7	δὴ			2	now
-BAR 3:4	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
+BAR 3:4	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
 BAR 3:4	1	9	προσευχῆς	προσευχή	noun, genitive feminine singular	1	prayer
-BAR 3:4	1	10	τῶν	ὁ	article, genitive masculine plural	1	the
+BAR 3:4	1	10	τῶν	ὁ	article, genitive masculine plural	1	of the
 BAR 3:4	1	11	τεθνηκότων	θνῄσκω	perfect active participle, genitive masculine plural	1	dead
 BAR 3:4	1	11	τεθνηκότων			2	deceased
 BAR 3:4	1	12	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 BAR 3:4	1	13	καὶ	καί	conjunction	1	and
-BAR 3:4	1	14	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+BAR 3:4	1	14	υἱῶν	υἱός	noun, genitive masculine plural	1	of sons
 BAR 3:4	1	15	τῶν	ὁ	article, genitive plural	1	—
 BAR 3:4	1	16	ἁμαρτανόντων	ἁμαρτάνω	present active participle, genitive masculine plural	1	who sin
 BAR 3:4	1	16	ἁμαρτανόντων			2	who are sinning
@@ -91,7 +91,7 @@ BAR 3:5	1	2	μνησθῇς	μιμνῄσκομαι	aorist passive subjunctive, 
 BAR 3:5	1	2	μνησθῇς			2	recall
 BAR 3:5	1	3	ἀδικιῶν	ἀδικία	noun, genitive feminine plural	1	wrongdoings
 BAR 3:5	1	3	ἀδικιῶν			2	injustices
-BAR 3:5	1	4	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers
+BAR 3:5	1	4	πατέρων	πατήρ	noun, genitive masculine plural	1	of fathers
 BAR 3:5	1	5	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 BAR 3:5	1	6	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 BAR 3:5	1	7	μνήσθητι	μιμνῄσκομαι	aorist passive imperative, second singular	1	remember
@@ -114,7 +114,7 @@ BAR 3:6	1	6	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	1	our
 BAR 3:6	1	7	καὶ	καί	conjunction	1	and
 BAR 3:6	1	8	αἰνέσομέν	αἰνέω	future active indicative, first plural	1	we will praise
 BAR 3:6	1	9	σε	σύ	personal pronoun, accusative singular	1	you
-BAR 3:6	1	10	Κύριε	κύριος	noun, vocative masculine singular	1	Lord
+BAR 3:6	1	10	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 BAR 3:7	1	1	ὅτι	ὅτι	conjunction	1	for
 BAR 3:7	1	2	διὰ	διά	preposition with the accusative	1	because of
 BAR 3:7	1	3	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
@@ -126,7 +126,7 @@ BAR 3:7	1	8	ἐπὶ	ἐπί	Preposition with accusative	1	on
 BAR 3:7	1	8	ἐπὶ			2	upon
 BAR 3:7	1	9	καρδίαν	καρδία	noun, accusative feminine singular	1	heart
 BAR 3:7	1	10	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
-BAR 3:7	1	11	τοῦ	ὁ	article, genitive neuter singular	1	of the
+BAR 3:7	1	11	τοῦ	ὁ	article, genitive neuter singular	1	—
 BAR 3:7	1	12	ἐπικαλεῖσθαι	ἐπικαλέω	present middle infinitive	1	to call upon
 BAR 3:7	1	12	ἐπικαλεῖσθαι			2	to invoke
 BAR 3:7	1	13	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -149,7 +149,7 @@ BAR 3:7	1	26	καρδίας	καρδία	noun, genitive feminine singular	1	hear
 BAR 3:7	1	27	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 BAR 3:7	1	28	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 BAR 3:7	1	29	ἀδικίαν	ἀδικία	noun, accusative feminine singular	1	iniquity
-BAR 3:7	1	30	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers
+BAR 3:7	1	30	πατέρων	πατήρ	noun, genitive masculine plural	1	of fathers
 BAR 3:7	1	31	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 BAR 3:7	1	32	τῶν	ὁ	article, genitive masculine plural	1	—
 BAR 3:7	1	33	ἡμαρτηκότων	ἁμαρτάνω	perfect active participle, genitive masculine plural	1	who have sinned
@@ -185,20 +185,20 @@ BAR 3:8	1	20	κατὰ	κατά	preposition with the accusative	1	according to
 BAR 3:8	1	21	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 BAR 3:8	1	22	τὰς	ὁ	article, accusative feminine plural	1	the
 BAR 3:8	1	23	ἀδικίας	ἀδικία	noun, accusative feminine plural	1	wrongdoings
-BAR 3:8	1	24	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers
+BAR 3:8	1	24	πατέρων	πατήρ	noun, genitive masculine plural	1	of fathers
 BAR 3:8	1	25	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 BAR 3:8	1	26	οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
 BAR 3:8	1	27	ἀπέστησαν	ἀφίστημι	aorist active indicative, third plural	1	turned away
 BAR 3:8	1	27	ἀπέστησαν			2	revolted
 BAR 3:8	1	28	ἀπὸ	ἀπό	preposition with the genitive	1	from
 BAR 3:8	1	29	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
-BAR 3:8	1	30	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
+BAR 3:8	1	30	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 BAR 3:8	1	31	ἡμῶν	ἐγώ	first person pronoun, genitive plural	1	our
 BAR 3:9	1	1	Ἄκουε	ἀκούω	present active imperative, 2nd singular	1	hear
 BAR 3:9	1	2	Ἰσραὴλ	Ἰσραήλ	noun, vocative masculine singular; indeclinable	1	Israel
 BAR 3:9	1	3	ἐντολὰς	ἐντολή	noun, accusative feminine plural	1	commandments
 BAR 3:9	1	3	ἐντολὰς			2	instructions
-BAR 3:9	1	4	ζωῆς	ζωή	noun, genitive feminine singular	1	life
+BAR 3:9	1	4	ζωῆς	ζωή	noun, genitive feminine singular	1	of life
 BAR 3:9	1	5	ἐνωτίσασθε	ἐνωτίζομαι	aorist middle imperative, second plural	1	give ear
 BAR 3:9	1	5	ἐνωτίσασθε			2	listen closely
 BAR 3:9	1	6	γνῶναι	γινώσκω	aorist active infinitive	1	to find out
@@ -223,12 +223,12 @@ BAR 3:11	1	3	γῇ	γῆ	noun, dative feminine singular	1	land
 BAR 3:11	1	4	ἀλλοτρίᾳ	ἀλλότριος	adjective, dative feminine singular	1	foreign
 BAR 3:12	1	1	συνεμιάνθης	συμμιαίνω	aorist passive indicative, second singular	1	you were defiled
 BAR 3:12	1	1	συνεμιάνθης			2	you became polluted
-BAR 3:12	1	2	τοῖς	ὁ	article dative masculine plural	1	the
+BAR 3:12	1	2	τοῖς	ὁ	article dative masculine plural	1	with the
 BAR 3:12	1	3	νεκροῖς	νεκρός	adjective, dative masculine plural; used substantivally	1	dead
 BAR 3:12	1	4	προσελογίσθης	προσλογίζομαι	aorist passive indicative, second singular	1	you were counted
 BAR 3:12	1	4	προσελογίσθης			2	you were reckoned
 BAR 3:12	1	5	μετὰ	μετά	preposition with genitive	1	with
-BAR 3:12	1	6	τῶν	ὁ	article, genitive masculine plural	1	the
+BAR 3:12	1	6	τῶν	ὁ	article, genitive masculine plural	1	those
 BAR 3:12	1	7	εἰς	εἰς	preposition with the accusative	1	into
 BAR 3:12	1	8	ᾅδου	ᾅδης	noun, genitive masculine singular; idiomatic εἰς ᾅδου with place understood	1	Hades
 BAR 3:12	1	8	ᾅδου			2	the realm of the dead
@@ -241,7 +241,7 @@ BAR 3:12	1	12	τῆς	ὁ	article, genitive feminine singular	1	of the
 BAR 3:12	1	13	σοφίας	σοφία	noun, genitive feminine singular	1	wisdom
 BAR 3:13	1	1	τῇ	ὁ	article, dative feminine singular	1	in the
 BAR 3:13	1	2	ὁδῷ	ὁδός	noun, dative feminine singular	1	way
-BAR 3:13	1	3	τοῦ	ὁ	article, genitive singular	1	the
+BAR 3:13	1	3	τοῦ	ὁ	article, genitive singular	1	of the
 BAR 3:13	1	4	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 BAR 3:13	1	5	εἰ	εἰ	Conditional conjunction	1	if
 BAR 3:13	1	6	ἐπορεύθης	πορεύομαι	aorist passive indicative, second singular	1	you went
@@ -279,7 +279,7 @@ BAR 3:14	1	18	ζωὴ	ζωή	noun, nominative feminine singular	1	life
 BAR 3:14	1	19	ποῦ	ποῦ	interrogative adverb of place	1	where
 BAR 3:14	1	20	ἐστι	εἰμί	present indicative, third singular	1	is
 BAR 3:14	1	21	φῶς	φῶς	noun, accusative neuter singular	1	light
-BAR 3:14	1	22	ὀφθαλμῶν	ὀφθαλμός	noun, genitive masculine plural	1	eyes
+BAR 3:14	1	22	ὀφθαλμῶν	ὀφθαλμός	noun, genitive masculine plural	1	of eyes
 BAR 3:14	1	23	καὶ	καί	conjunction	1	and
 BAR 3:14	1	24	εἰρήνη	εἰρήνη	noun, nominative feminine singular	1	peace
 BAR 3:15	1	1	Τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
@@ -301,7 +301,7 @@ BAR 3:16	1	2	εἰσιν	εἰμί	present indicative, third plural	1	are
 BAR 3:16	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 BAR 3:16	1	4	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	rulers
 BAR 3:16	1	4	ἄρχοντες			2	officials
-BAR 3:16	1	5	τῶν	ὁ	article, genitive neuter plural	1	the
+BAR 3:16	1	5	τῶν	ὁ	article, genitive neuter plural	1	of the
 BAR 3:16	1	6	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 BAR 3:16	1	7	καὶ	καί	conjunction	1	and
 BAR 3:16	1	8	οἱ	ὁ	article, nominative masculine plural	1	those
@@ -312,18 +312,18 @@ BAR 3:16	1	12	τῶν	ὁ	article, genitive neuter plural	1	that are
 BAR 3:16	1	13	ἐπὶ	ἐπί	preposition with the genitive	1	upon
 BAR 3:16	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
 BAR 3:16	1	15	γῆς	γῆ	noun, genitive feminine singular	1	earth
-BAR 3:17	1	1	οἱ	ὁ	article, nominative masculine plural	1	the
+BAR 3:17	1	1	οἱ	ὁ	article, nominative masculine plural	1	those
 BAR 3:17	1	2	ἐν	ἐν	preposition with the dative	1	in
 BAR 3:17	1	3	τοῖς	ὁ	article, dative neuter plural	1	the
 BAR 3:17	1	4	ὀρνέοις	ὄρνεον	noun, dative neuter plural	1	birds
 BAR 3:17	1	5	τοῦ	ὁ	article, genitive masculine singular	1	of the
 BAR 3:17	1	6	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
-BAR 3:17	1	7	ἐμπαίζοντες	ἐμπαίζω	present active participle, nominative masculine plural	1	play with
+BAR 3:17	1	7	ἐμπαίζοντες	ἐμπαίζω	present active participle, nominative masculine plural	1	who sport
 BAR 3:17	1	7	ἐμπαίζοντες			2	make sport of
 BAR 3:17	1	8	καὶ	καί	conjunction	1	and
 BAR 3:17	1	9	τὸ	ὁ	article, neuter singular (case from context)	1	the
 BAR 3:17	1	10	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular	1	silver
-BAR 3:17	1	11	θησαυρίζοντες	θησαυρίζω	present active participle, nominative masculine plural; substantival	1	those who store up
+BAR 3:17	1	11	θησαυρίζοντες	θησαυρίζω	present active participle, nominative masculine plural; substantival	1	who store up
 BAR 3:17	1	11	θησαυρίζοντες			2	those hoarding
 BAR 3:17	1	12	καὶ	καί	conjunction	1	and
 BAR 3:17	1	13	τὸ	ὁ	article, nominative neuter singular	1	the
@@ -337,10 +337,10 @@ BAR 3:17	1	19	οὐκ	οὐ	negative particle	1	not
 BAR 3:17	1	20	ἔστι	εἰμί	present active indicative, third singular	1	is
 BAR 3:17	1	21	τέλος	τέλος	noun, nominative neuter singular	1	end
 BAR 3:17	1	21	τέλος			2	limit
-BAR 3:17	1	22	τῆς	ὁ	article, genitive feminine singular	1	the
+BAR 3:17	1	22	τῆς	ὁ	article, genitive feminine singular	1	of the
 BAR 3:17	1	23	κτήσεως	κτῆσις	noun, genitive feminine singular	1	possession
 BAR 3:17	1	24	αὐτῶν	αὐτός	pronoun, possessive genitive plural	1	their
-BAR 3:18	1	1	Ὅτι	ὅτι	conjunction	1	that
+BAR 3:18	1	1	Ὅτι	ὅτι	conjunction	1	for
 BAR 3:18	1	2	οἱ	ὁ	article, nominative masculine plural	1	those who
 BAR 3:18	1	3	τὸ	ὁ	article, accusative neuter singular	1	the
 BAR 3:18	1	4	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular	1	silver
@@ -354,7 +354,7 @@ BAR 3:18	1	9	οὐκ	οὐ	negative particle	1	not
 BAR 3:18	1	10	ἔστιν	εἰμί	present indicative, third singular	1	is
 BAR 3:18	1	11	ἐξεύρεσις	ἐξεύρεσις	noun, nominative feminine singular	1	discovery
 BAR 3:18	1	11	ἐξεύρεσις			2	finding out
-BAR 3:18	1	12	τῶν	ὁ	article, genitive neuter plural	1	the
+BAR 3:18	1	12	τῶν	ὁ	article, genitive neuter plural	1	of the
 BAR 3:18	1	13	ἔργων	ἔργον	noun, genitive neuter plural	1	works
 BAR 3:18	1	14	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 BAR 3:19	1	1	Ἠφανίσθησαν	ἀφανίζω	aorist passive indicative, third plural	1	they disappeared
@@ -366,7 +366,7 @@ BAR 3:19	1	4	ᾅδου			2	the realm of the dead
 BAR 3:19	1	5	κατέβησαν	καταβαίνω	aorist active indicative, third plural	1	went down
 BAR 3:19	1	6	καὶ	καί	conjunction	1	and
 BAR 3:19	1	7	ἄλλοι	ἄλλος	adjective, nominative masculine plural; substantival	1	others
-BAR 3:19	1	8	ἀντανέστησαν	ἀντανίστημι	aorist active indicative, third plural	1	rose in their place
+BAR 3:19	1	8	ἀντανέστησαν	ἀντανίστημι	aorist active indicative, third plural	1	rose up
 BAR 3:19	1	8	ἀντανέστησαν			2	rose in turn
 BAR 3:19	1	9	ἀντ᾽	ἀντί	preposition ἀντί, elided	1	in place of
 BAR 3:19	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
@@ -382,7 +382,7 @@ BAR 3:20	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
 BAR 3:20	1	8	γῆς	γῆ	noun, genitive feminine singular	1	land
 BAR 3:20	1	9	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 BAR 3:20	1	9	ὁδὸν			2	path
-BAR 3:20	1	10	δὲ	δέ	postpositive conjunction	1	and
+BAR 3:20	1	10	δὲ	δέ	postpositive conjunction	1	but
 BAR 3:20	1	11	ἐπιστήμης	ἐπιστήμη	noun, genitive fem. sg., knowledge/skill	1	of knowledge
 BAR 3:20	1	12	οὐκ	οὐ	negative particle	1	not
 BAR 3:20	1	13	ἔγνωσαν	γινώσκω	aorist active indicative, third plural	1	knew
@@ -418,19 +418,19 @@ BAR 3:22	1	7	ἐν	ἐν	preposition with the dative	1	in
 BAR 3:22	1	8	Θαιμάν	Θαιμάν	noun, dative feminine singular; indeclinable	1	Teman
 BAR 3:23	1	1	οὔτε	οὔτε	negative conjunction, neither/nor in οὐκ...οὔτε series	1	nor
 BAR 3:23	1	2	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-BAR 3:23	1	3	Ἄγαρ	Ἄγαρ	indeclinable personal name, accusative feminine singular	1	Hagar
-BAR 3:23	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
-BAR 3:23	1	5	ἐκζητοῦντες	ἐκζητέω	present active participle, nominative masculine plural	1	seek out
+BAR 3:23	1	3	Ἄγαρ	Ἄγαρ	indeclinable personal name, accusative feminine singular	1	of Hagar
+BAR 3:23	1	4	οἱ	ὁ	article, nominative masculine plural	1	those
+BAR 3:23	1	5	ἐκζητοῦντες	ἐκζητέω	present active participle, nominative masculine plural	1	who seek out
 BAR 3:23	1	5	ἐκζητοῦντες			2	search for
 BAR 3:23	1	6	τὴν	ὁ	article, accusative fem. sg	1	the
-BAR 3:23	1	7	σύνεσιν	σύνεσις	noun, accusative fem. sg	1	understanding/wisdom
+BAR 3:23	1	7	σύνεσιν	σύνεσις	noun, accusative fem. sg	1	understanding
 BAR 3:23	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
 BAR 3:23	1	9	ἐπὶ	ἐπί	preposition with the genitive	1	upon
 BAR 3:23	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
 BAR 3:23	1	11	γῆς	γῆ	noun, genitive feminine singular	1	land
 BAR 3:23	1	12	οἱ	ὁ	article, nominative masculine plural	1	the
 BAR 3:23	1	13	ἔμποροι	ἔμπορος	noun, nominative masculine plural	1	merchants
-BAR 3:23	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+BAR 3:23	1	14	τῆς	ὁ	article, genitive feminine singular	1	of
 BAR 3:23	1	15	Μερρὰν	Μερράν	noun, genitive feminine singular; indeclinable	1	Merran
 BAR 3:23	1	16	καὶ	καί	conjunction	1	and
 BAR 3:23	1	17	Θαιμὰν	Θαιμάν	noun, genitive feminine singular; indeclinable	1	Teman
@@ -566,16 +566,16 @@ BAR 3:30	1	13	ἐκλεκτοῦ	ἐκλεκτός	adjective, genitive neuter si
 BAR 3:30	1	13	ἐκλεκτοῦ			2	fine
 BAR 3:31	1	1	Οὐκ	οὐ	negative particle	1	not
 BAR 3:31	1	2	ἔστιν	εἰμί	present indicative third singular	1	there is
-BAR 3:31	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
-BAR 3:31	1	4	γινώσκων	γινώσκω	present active participle, nominative masculine singular; cognate with the following verb	1	knowing
+BAR 3:31	1	3	ὁ	ὁ	article, nominative masculine singular	1	the one
+BAR 3:31	1	4	γινώσκων	γινώσκω	present active participle, nominative masculine singular; cognate with the following verb	1	who knows
 BAR 3:31	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 BAR 3:31	1	6	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 BAR 3:31	1	6	ὁδὸν			2	path
 BAR 3:31	1	7	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 BAR 3:31	1	7	αὐτῆς			2	her
 BAR 3:31	1	8	οὐδὲ	οὐδέ	conjunction/negative	1	nor
-BAR 3:31	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
-BAR 3:31	1	10	ἐνθυμούμενος	ἐνθυμέομαι	present middle participle, nominative masculine singular	1	considers
+BAR 3:31	1	9	ὁ	ὁ	article, nominative masculine singular	1	the one
+BAR 3:31	1	10	ἐνθυμούμενος	ἐνθυμέομαι	present middle participle, nominative masculine singular	1	who considers
 BAR 3:31	1	10	ἐνθυμούμενος			2	keeps in mind
 BAR 3:31	1	11	τὴν	ὁ	article, accusative feminine singular	1	the
 BAR 3:31	1	12	τρίβον	τρίβος	noun, accusative feminine singular	1	path
@@ -583,8 +583,8 @@ BAR 3:31	1	12	τρίβον			2	track
 BAR 3:31	1	13	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 BAR 3:31	1	13	αὐτῆς			2	her
 BAR 3:32	1	1	Ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
-BAR 3:32	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
-BAR 3:32	1	3	εἰδὼς	οἶδα	perfect active participle, nominative masculine singular; present sense	1	knowing
+BAR 3:32	1	2	ὁ	ὁ	article, nominative masculine singular	1	the one
+BAR 3:32	1	3	εἰδὼς	οἶδα	perfect active participle, nominative masculine singular; present sense	1	who knows
 BAR 3:32	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
 BAR 3:32	1	5	πάντα	πᾶς	adjective, accusative neuter plural	1	all things
 BAR 3:32	1	5	πάντα			2	all
@@ -602,7 +602,7 @@ BAR 3:32	1	13	ὁ	ὁ	article, nominative masculine singular	1	the one
 BAR 3:32	1	14	κατασκευάσας	κατασκευάζω	aorist active participle, nominative masculine singular; substantival	1	who made
 BAR 3:32	1	14	κατασκευάσας			2	maker
 BAR 3:32	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
-BAR 3:32	1	16	γῆν	γῆ	noun, accusative feminine singular	1	land
+BAR 3:32	1	16	γῆν	γῆ	noun, accusative feminine singular	1	earth
 BAR 3:32	1	17	εἰς	εἰς	preposition with the accusative	1	into
 BAR 3:32	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 BAR 3:32	1	19	αἰῶνα	αἰών	noun, accusative masc. sg	1	age
@@ -610,7 +610,7 @@ BAR 3:32	1	20	χρόνον	χρόνος	noun, accusative masc. sg. in εἰς τ
 BAR 3:32	1	21	καὶ	καί	conjunction	1	and
 BAR 3:32	1	22	ἐνέπλησεν	ἐμπίμπλημι	aorist active indicative, 3rd sg	1	he filled
 BAR 3:32	1	23	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
-BAR 3:32	1	24	κτηνῶν	κτῆνος	noun, genitive neuter plural	1	livestock
+BAR 3:32	1	24	κτηνῶν	κτῆνος	noun, genitive neuter plural	1	with livestock
 BAR 3:32	1	25	τετραπόδων	τετράπους	adjective, genitive neuter plural	1	four-footed
 BAR 3:33	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the one
 BAR 3:33	1	2	ἀποστέλλων	ἀποστέλλω	present active participle, nominative masculine singular; substantival	1	who sends out
@@ -691,7 +691,7 @@ BAR 3:38	1	1	μετὰ	μετά	preposition with the accusative	1	after
 BAR 3:38	1	2	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 BAR 3:38	1	3	ἐπὶ	ἐπί	Preposition with genitive	1	on
 BAR 3:38	1	3	ἐπὶ			2	upon
-BAR 3:38	1	4	γῆς	γῆ	noun, genitive feminine singular	1	the land
+BAR 3:38	1	4	γῆς	γῆ	noun, genitive feminine singular	1	earth
 BAR 3:38	1	5	ὤφθη	ὁράω	aorist passive indicative, third singular	1	appeared
 BAR 3:38	1	6	καὶ	καί	conjunction	1	and
 BAR 3:38	1	7	ἐν	ἐν	preposition with the dative	1	in

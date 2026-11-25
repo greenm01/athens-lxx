@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 SIR 47:1	1	1	ΚΑΙ	καί	conjunction	1	and
 SIR 47:1	1	2	μετὰ	μετά	preposition with the accusative	1	after
-SIR 47:1	1	3	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular, referring to the coat	1	this
+SIR 47:1	1	3	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular, referring to the coat	1	this one
 SIR 47:1	1	4	ἀνέστη	ἀνίστημι	aorist active indicative, third singular	1	rose up
 SIR 47:1	1	5	Νάθαν	Νάθαν	indeclinable name, accusative here, subject of the infinitive	1	Nathan
 SIR 47:1	1	6	προφητεύειν	προφητεύω	present active infinitive	1	to prophesy
@@ -31,7 +31,7 @@ SIR 47:3	1	9	ἄρκοις	ἄρκος	noun, dative feminine plural	1	bears
 SIR 47:3	1	10	ὡς	ὡς	comparative particle	1	as
 SIR 47:3	1	11	ἐν	ἐν	preposition with the dative	1	with
 SIR 47:3	1	12	ἄρνασι	ἀρήν	noun, dative masculine plural	1	lambs
-SIR 47:3	1	13	προβάτων	πρόβατον	noun, genitive neuter plural	1	sheep
+SIR 47:3	1	13	προβάτων	πρόβατον	noun, genitive neuter plural	1	of sheep
 SIR 47:4	1	1	Ἐν	ἐν	preposition with the dative	1	in
 SIR 47:4	1	2	νεότητι	νεότης	noun, dative feminine singular	1	youth
 SIR 47:4	1	3	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -51,11 +51,11 @@ SIR 47:4	1	14	ἐπᾶραι	ἐπαίρω	aorist active infinitive	1	to lift
 SIR 47:4	1	15	χεῖρα	χείρ	noun, accusative feminine singular	1	hand
 SIR 47:4	1	16	ἐν	ἐν	preposition with the dative	1	in
 SIR 47:4	1	17	λίθῳ	λίθος	noun, dative masculine singular	1	a stone
-SIR 47:4	1	18	σφενδόνης	σφενδόνη	noun, genitive feminine singular	1	sling
+SIR 47:4	1	18	σφενδόνης	σφενδόνη	noun, genitive feminine singular	1	of a sling
 SIR 47:4	1	19	καὶ	καί	conjunction	1	and
 SIR 47:4	1	20	καταβαλεῖν	καταβάλλω	aorist active infinitive	1	to cast down
 SIR 47:4	1	21	γαυρίαμα	γαυρίαμα	noun, nominative neuter singular	1	boast
-SIR 47:4	1	22	τοῦ	ὁ	article, genitive singular	1	the
+SIR 47:4	1	22	τοῦ	ὁ	article, genitive singular	1	of
 SIR 47:4	1	23	Γολιάθ	Γολιάθ	indeclinable personal name, nominative in context	1	Goliath
 SIR 47:5	1	1	Ἐπεκαλέσατο	ἐπικαλέομαι	aorist middle indicative, third singular	1	called upon
 SIR 47:5	1	1	Ἐπεκαλέσατο			2	invoked
@@ -70,7 +70,7 @@ SIR 47:5	1	9	τῇ	ὁ	article, dative feminine singular	1	the
 SIR 47:5	1	10	δεξιᾷ	δεξιός	substantival adjective, dative feminine singular	1	right hand
 SIR 47:5	1	11	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 47:5	1	12	κράτος	κράτος	noun, accusative neuter singular	1	might
-SIR 47:5	1	13	ἐξᾶραι	ἐξαίρω	aorist active infinitive	1	strike down
+SIR 47:5	1	13	ἐξᾶραι	ἐξαίρω	aorist active infinitive	1	to remove
 SIR 47:5	1	14	ἄνθρωπον	ἄνθρωπος	noun, accusative masculine singular	1	man
 SIR 47:5	1	15	δυνατὸν	δυνατός	substantival adjective, accusative masculine singular	1	mighty
 SIR 47:5	1	16	ἐν	ἐν	preposition with the dative	1	in
@@ -92,11 +92,11 @@ SIR 47:6	1	10	εὐλογίαις	εὐλογία	noun dative feminine plural	1	
 SIR 47:6	1	11	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 SIR 47:6	1	12	ἐν	ἐν	preposition with the dative	1	in
 SIR 47:6	1	13	τῷ	ὁ	article, dative masculine singular	1	the
-SIR 47:6	1	14	φέρεσθαι	φέρω	present middle/passive infinitive	1	to bring
-SIR 47:6	1	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
+SIR 47:6	1	14	φέρεσθαι	φέρω	present middle/passive infinitive	1	to be brought
+SIR 47:6	1	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 SIR 47:6	1	16	διάδημα	διάδημα	noun, nominative neuter singular	1	diadem
 SIR 47:6	1	16	διάδημα			2	royal crown
-SIR 47:6	1	17	δόξης	δόξα	noun, genitive fem. sg	1	glory
+SIR 47:6	1	17	δόξης	δόξα	noun, genitive fem. sg	1	of glory
 SIR 47:7	1	1	Ἐξέτριψε	ἐκτρίβω	aorist active indicative, 3rd sg.	1	he destroyed
 SIR 47:7	1	2	γὰρ	γάρ	conjunction	1	for
 SIR 47:7	1	3	ἐχθροὺς	ἐχθρός	adjective accusative masculine plural	1	enemies
@@ -108,7 +108,7 @@ SIR 47:7	1	7	Φυλιστιεὶμ	Φυλιστιείμ	indeclinable ethnic name
 SIR 47:7	1	7	Φυλιστιεὶμ			2	Phylistieim
 SIR 47:7	1	8	τοὺς	ὁ	article, accusative masculine plural	1	the
 SIR 47:7	1	9	ὑπεναντίους	ὑπεναντίος	adjective, accusative masculine plural	1	enemies
-SIR 47:7	1	10	ἕως	ἕως	preposition with the genitive	1	to
+SIR 47:7	1	10	ἕως	ἕως	preposition with the genitive	1	until
 SIR 47:7	1	11	σήμερον	σήμερον	adverb of time	1	today
 SIR 47:7	1	12	συνέτριψεν	συντρίβω	aorist active indicative, 3rd sg.	1	shattered
 SIR 47:7	1	13	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -119,10 +119,10 @@ SIR 47:8	1	3	ἔργῳ	ἔργον	noun, dative neuter singular	1	work
 SIR 47:8	1	4	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 47:8	1	5	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
 SIR 47:8	1	6	ἐξομολόγησιν	ἐξομολόγησις	noun, accusative feminine singular	1	praise
-SIR 47:8	1	7	ἁγίῳ	ἅγιος	substantival adjective, dative masculine singular	1	the Holy One
+SIR 47:8	1	7	ἁγίῳ	ἅγιος	substantival adjective, dative masculine singular	1	to the Holy One
 SIR 47:8	1	8	ὑψίστῳ	ὕψιστος	adjective, dative masculine singular; superlative	1	Most High
 SIR 47:8	1	9	ῥήματι	ῥῆμα	noun, dative neuter singular	1	with a word
-SIR 47:8	1	10	δόξης	δόξα	noun, genitive fem. sg	1	glory
+SIR 47:8	1	10	δόξης	δόξα	noun, genitive fem. sg	1	of glory
 SIR 47:8	1	11	ἐν	ἐν	preposition with the dative	1	in
 SIR 47:8	1	12	πάσῃ	πᾶς	adjective, dative feminine singular	1	all
 SIR 47:8	1	13	καρδίᾳ	καρδία	noun, dative feminine singular	1	heart
@@ -153,7 +153,7 @@ SIR 47:9	1	16	ἐν	ἐν	preposition with the dative	1	in
 SIR 47:9	1	17	ταῖς	ὁ	article, dative feminine plural	1	the
 SIR 47:9	1	18	ᾠδαῖς	ᾠδή	noun, dative feminine plural	1	songs
 SIR 47:9	1	19	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-SIR 47:10	1	1	ἔδωκεν	δίδωμι	aorist active indicative, 3rd sg.	1	has given
+SIR 47:10	1	1	ἔδωκεν	δίδωμι	aorist active indicative, 3rd sg.	1	gave
 SIR 47:10	1	2	ἐν	ἐν	preposition with the dative	1	in
 SIR 47:10	1	3	ἑορταῖς	ἑορτή	noun, dative feminine plural	1	festivals
 SIR 47:10	1	4	εὐπρέπειαν	εὐπρέπεια	noun, accusative feminine singular	1	splendor
@@ -162,7 +162,7 @@ SIR 47:10	1	5	καὶ	καί	conjunction	1	and
 SIR 47:10	1	6	ἐκόσμησε	κοσμέω	aorist active indicative, third singular	1	adorned
 SIR 47:10	1	7	καιροὺς	καιρός	noun, accusative masculine plural	1	seasons
 SIR 47:10	1	7	καιροὺς			2	appointed times
-SIR 47:10	1	8	μέχρι	μέχρι	preposition with genitive	1	to
+SIR 47:10	1	8	μέχρι	μέχρι	preposition with genitive	1	until
 SIR 47:10	1	9	συντελείας	συντέλεια	noun, genitive feminine singular	1	end
 SIR 47:10	1	9	συντελείας			2	destruction
 SIR 47:10	1	10	ἐν	ἐν	preposition with the dative	1	in
@@ -183,7 +183,7 @@ SIR 47:11	1	1	Κύριος	κύριος	noun, nominative masculine singular	1	th
 SIR 47:11	1	2	ἀφεῖλε	ἀφαιρέω	aorist active indicative, third singular	1	removed
 SIR 47:11	1	2	ἀφεῖλε			2	took away
 SIR 47:11	1	3	τὰς	ὁ	article, accusative feminine plural	1	the
-SIR 47:11	1	4	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
+SIR 47:11	1	4	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sins
 SIR 47:11	1	5	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 47:11	1	6	καὶ	καί	conjunction	1	and
 SIR 47:11	1	7	ἀνύψωσεν	ἀνυψόω	aorist active indicative, third singular	1	raised up
@@ -201,15 +201,15 @@ SIR 47:11	1	18	καὶ	καί	conjunction	1	and
 SIR 47:11	1	19	θρόνον	θρόνος	noun, accusative masculine singular	1	throne
 SIR 47:11	1	20	δόξης	δόξα	noun, genitive feminine singular	1	of glory
 SIR 47:11	1	21	ἐν	ἐν	preposition with the dative	1	in
-SIR 47:11	1	22	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+SIR 47:11	1	22	τῷ	ὁ	article, dative masculine/neuter singular	1	—
 SIR 47:11	1	23	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 SIR 47:12	1	1	Μετὰ	μετά	preposition with the accusative	1	after
-SIR 47:12	1	2	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular, referring to the coat	1	this
+SIR 47:12	1	2	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular, referring to the coat	1	this one
 SIR 47:12	1	3	ἀνέστη	ἀνίστημι	aorist active indicative, third singular	1	rose up
 SIR 47:12	1	4	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 SIR 47:12	1	5	ἐπιστήμων	ἐπιστήμων	adjective, nominative masculine singular	1	discerning
 SIR 47:12	1	6	καὶ	καί	conjunction	1	and
-SIR 47:12	1	7	δι᾽	διά	preposition, elided (genitive 'through/by'; accusative 'because of')	1	through
+SIR 47:12	1	7	δι᾽	διά	preposition, elided (genitive 'through/by'; accusative 'because of')	1	because of
 SIR 47:12	1	8	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 SIR 47:12	1	9	κατέλυσεν	καταλύω	aorist active indicative, third singular	1	made his dwelling
 SIR 47:12	1	10	ἐν	ἐν	preposition with the dative	1	in
@@ -218,7 +218,7 @@ SIR 47:13	1	1	Σολωμὼν	Σολωμών	indeclinable personal name, nominat
 SIR 47:13	1	2	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	reigned
 SIR 47:13	1	3	ἐν	ἐν	preposition with the dative	1	in
 SIR 47:13	1	4	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
-SIR 47:13	1	5	εἰρήνης	εἰρήνη	noun, genitive feminine singular	1	peace
+SIR 47:13	1	5	εἰρήνης	εἰρήνη	noun, genitive feminine singular	1	of peace
 SIR 47:13	1	6	ᾧ	ὅς	relative pronoun, dative masculine singular	1	to whom
 SIR 47:13	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
 SIR 47:13	1	8	Θεὸς	θεός	noun, nominative masculine singular	1	God
@@ -244,7 +244,7 @@ SIR 47:14	1	3	ἐν	ἐν	preposition with the dative	1	in
 SIR 47:14	1	4	νεότητί	νεότης	noun, dative feminine singular	1	youth
 SIR 47:14	1	5	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 47:14	1	6	καὶ	καί	conjunction	1	and
-SIR 47:14	1	7	ἐνεπλήσθης	ἐμπίπλημι	aorist passive indicative, 2nd singular	1	you overflowed
+SIR 47:14	1	7	ἐνεπλήσθης	ἐμπίπλημι	aorist passive indicative, 2nd singular	1	you were filled
 SIR 47:14	1	8	ὡς	ὡς	comparative particle	1	as
 SIR 47:14	1	9	ποταμὸς	ποταμός	noun, nominative masculine singular	1	river
 SIR 47:14	1	10	συνέσεως	σύνεσις	noun genitive feminine singular	1	of understanding
@@ -252,13 +252,13 @@ SIR 47:15	1	1	Γῆν	γῆ	noun, accusative feminine singular	1	earth
 SIR 47:15	1	1	Γῆν			2	ground
 SIR 47:15	1	2	ἐπεκάλυψεν	ἐπικαλύπτω	aorist active indicative, third singular	1	covered
 SIR 47:15	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
-SIR 47:15	1	4	ψυχή	ψυχή	noun, nominative feminine singular	1	understanding
+SIR 47:15	1	4	ψυχή	ψυχή	noun, nominative feminine singular	1	soul
 SIR 47:15	1	5	σου	σύ	pronoun, genitive 2nd singular	1	your
 SIR 47:15	1	6	καὶ	καί	conjunction	1	and
 SIR 47:15	1	7	ἐνέπλησας	ἐμπίπλημι	aorist active indicative, 2nd singular	1	filled
 SIR 47:15	1	8	ἐν	ἐν	preposition with the dative	1	in
 SIR 47:15	1	9	παραβολαῖς	παραβολή	noun dative feminine plural	1	parables
-SIR 47:15	1	10	αἰνιγμάτων	αἴνιγμα	noun, genitive neuter plural	1	with riddles
+SIR 47:15	1	10	αἰνιγμάτων	αἴνιγμα	noun, genitive neuter plural	1	of riddles
 SIR 47:16	1	1	εἰς	εἰς	preposition with the accusative	1	to
 SIR 47:16	1	2	νήσους	νῆσος	noun, accusative feminine plural	1	islands
 SIR 47:16	1	3	πόρρω	πόρρω	adverb	1	far away
@@ -292,8 +292,8 @@ SIR 47:18	1	2	ὀνόματι	ὄνομα	noun, dative neuter singular	1	the nam
 SIR 47:18	1	3	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 SIR 47:18	1	4	τοῦ	ὁ	article, genitive singular	1	the
 SIR 47:18	1	5	Θεοῦ	θεός	noun, genitive masculine singular	1	God
-SIR 47:18	1	6	τοῦ	ὁ	article, genitive singular	1	the
-SIR 47:18	1	7	ἐπικεκλημένου	ἐπικαλέω	perfect middle/passive participle, genitive neuter singular	1	invoked
+SIR 47:18	1	6	τοῦ	ὁ	article, genitive singular	1	—
+SIR 47:18	1	7	ἐπικεκλημένου	ἐπικαλέω	perfect middle/passive participle, genitive neuter singular	1	who is called
 SIR 47:18	1	8	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 SIR 47:18	1	9	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 SIR 47:18	1	10	συνήγαγες	συνάγω	aorist active indicative, second singular	1	you gathered
@@ -348,7 +348,7 @@ SIR 47:21	1	3	τυραννίδα	τυραννίς	noun, accusative feminine sing
 SIR 47:21	1	4	καὶ	καί	conjunction	1	and
 SIR 47:21	1	5	ἐξ	ἐκ	preposition with the genitive	1	from
 SIR 47:21	1	6	Ἐφραὶμ	Ἐφραίμ	indeclinable personal name, nominative in context	1	Ephraim
-SIR 47:21	1	7	ἄρξαι	ἄρχω	aorist middle imperative, second singular	1	began
+SIR 47:21	1	7	ἄρξαι	ἄρχω	aorist middle imperative, second singular	1	to rule
 SIR 47:21	1	8	βασιλείαν	βασιλεία	noun, accusative feminine singular	1	kingdom
 SIR 47:21	1	9	ἀπειθῆ	ἀπειθής	adjective, accusative feminine singular	1	disobedient
 SIR 47:21	1	9	ἀπειθῆ			2	unresponsive
@@ -372,21 +372,21 @@ SIR 47:22	1	17	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine
 SIR 47:22	1	18	οὐδὲ	οὐδέ	negative conjunction	1	nor
 SIR 47:22	1	19	μὴ	μή	negative particle reinforcing preceding negation, reinforces negation	1	—
 SIR 47:22	1	20	ἐξαλείψῃ	ἐξαλείφω	aorist active subjunctive, third singular	1	should wipe out
-SIR 47:22	1	21	ἐκλεκτοῦ	ἐκλεκτός	substantival adjective genitive masculine singular	1	his chosen
+SIR 47:22	1	21	ἐκλεκτοῦ	ἐκλεκτός	substantival adjective genitive masculine singular	1	of his chosen one
 SIR 47:22	1	22	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 47:22	1	23	ἔκγονα	ἔκγονα	noun, nominative neuter plural	1	offspring
 SIR 47:22	1	24	καὶ	καί	conjunction	1	and
 SIR 47:22	1	25	τὸ	ὁ	article, neuter singular (case from context)	1	the
 SIR 47:22	1	26	σπέρμα	σπέρμα	noun, accusative neuter singular	1	offspring
 SIR 47:22	1	26	σπέρμα			2	seed
-SIR 47:22	1	27	τοῦ	ὁ	article with the infinitive, genitive neuter singular, marks the infinitive	1	—
-SIR 47:22	1	28	ἀγαπήσαντος	ἀγαπάω	aorist active participle, genitive masculine singular	1	one who loved
+SIR 47:22	1	27	τοῦ	ὁ	article with the infinitive, genitive neuter singular, marks the infinitive	1	of the one
+SIR 47:22	1	28	ἀγαπήσαντος	ἀγαπάω	aorist active participle, genitive masculine singular	1	who loved
 SIR 47:22	1	29	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 SIR 47:22	1	30	οὐ	οὐ	negative particle	1	not
 SIR 47:22	1	31	μὴ	μή	negative particle	1	at all
 SIR 47:22	1	32	ἐξάρῃ	ἐξαίρω	aorist active subjunctive, 3rd singular	1	removes
 SIR 47:22	1	33	καὶ	καί	conjunction	1	and
-SIR 47:22	1	34	τῷ	ὁ	article dative masculine singular	1	the
+SIR 47:22	1	34	τῷ	ὁ	article dative masculine singular	1	to
 SIR 47:22	1	35	Ἰακὼβ	Ἰακώβ	indeclinable personal name, dative in context	1	Jacob
 SIR 47:22	1	36	ἔδωκε	δίδωμι	aorist active indicative, third singular	1	gave
 SIR 47:22	1	37	κατάλειμμα	κατάλειμμα	noun, accusative neuter singular	1	a remnant
@@ -394,7 +394,7 @@ SIR 47:22	1	38	καὶ	καί	conjunction	1	and
 SIR 47:22	1	39	τῷ	ὁ	article, dative masculine singular	1	for
 SIR 47:22	1	40	Δαυὶδ	Δαυίδ	indeclinable personal name, dative in context	1	David
 SIR 47:22	1	41	ἐξ	ἐκ	preposition with the genitive	1	from
-SIR 47:22	1	42	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
+SIR 47:22	1	42	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	him
 SIR 47:22	1	43	ῥίζαν	ῥίζα	noun, accusative feminine singular	1	root
 SIR 47:23	1	1	Καὶ	καί	conjunction	1	and
 SIR 47:23	1	2	ἀνεπαύσατο	ἀναπαύομαι	aorist middle indicative, 3rd singular	1	rested
@@ -406,7 +406,7 @@ SIR 47:23	1	6	πατέρων	πατήρ	noun, genitive masculine plural	1	father
 SIR 47:23	1	7	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 47:23	1	8	καὶ	καί	conjunction	1	and
 SIR 47:23	1	9	κατέλιπε	καταλείπω	aorist active indicative, third singular	1	he left
-SIR 47:23	1	10	μεθ᾽	μετά	preposition with the genitive, elided	1	with
+SIR 47:23	1	10	μεθ᾽	μετά	preposition with the genitive, elided	1	after
 SIR 47:23	1	11	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 SIR 47:23	1	12	ἐκ	ἐκ	preposition with the genitive	1	from
 SIR 47:23	1	13	τοῦ	ὁ	article, genitive singular	1	the
@@ -417,10 +417,10 @@ SIR 47:23	1	17	ἀφροσύνην	ἀφροσύνη	noun, accusative feminine s
 SIR 47:23	1	18	καὶ	καί	conjunction	1	and
 SIR 47:23	1	19	ἐλασσούμενον	ἐλασσόω	present middle/passive participle, accusative masculine singular	1	lacking in
 SIR 47:23	1	20	συνέσει	σύνεσις	noun, dative feminine singular	1	understanding
-SIR 47:23	1	21	Ῥοβοὰμ	Ῥοβοάμ	indeclinable personal name, genitive in context	1	Roboam
-SIR 47:23	1	21	Ῥοβοὰμ			2	Rehoboam
+SIR 47:23	1	21	Ῥοβοὰμ	Ῥοβοάμ	indeclinable personal name, genitive in context	1	Rehoboam
+SIR 47:23	1	21	Ῥοβοὰμ			2	Roboam
 SIR 47:23	1	22	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
-SIR 47:23	1	23	ἀπέστησε	ἀφίστημι	aorist active indicative, third singular	1	took away
+SIR 47:23	1	23	ἀπέστησε	ἀφίστημι	aorist active indicative, third singular	1	turned away
 SIR 47:23	1	24	τὸν	ὁ	article, accusative masculine singular	1	the
 SIR 47:23	1	25	λαὸν	λαός	noun, accusative masculine singular	1	people
 SIR 47:23	1	26	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -430,19 +430,19 @@ SIR 47:23	1	29	καὶ	καί	conjunction	1	and
 SIR 47:23	1	30	Ἱεροβοὰμ	Ἱεροβοάμ	indeclinable personal name, genitive in context	1	Jeroboam
 SIR 47:23	1	30	Ἱεροβοὰμ			2	Hieroboam
 SIR 47:23	1	31	υἱὸν	υἱός	noun, accusative masculine singular	1	son
-SIR 47:23	1	32	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	1	of Nabat
-SIR 47:23	1	32	Ναβὰτ			2	of Nebat
+SIR 47:23	1	32	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	1	of Nebat
+SIR 47:23	1	32	Ναβὰτ			2	of Nabat
 SIR 47:23	1	33	ὃς	ὅς	relative pronoun, accusative feminine singular	1	who
-SIR 47:23	1	34	ἐξήμαρτε	ἐξαμαρτάνω	aorist active indicative, third singular	1	he caused to sin
-SIR 47:23	1	35	τὸν	ὁ	article, accusative masculine singular	1	the
+SIR 47:23	1	34	ἐξήμαρτε	ἐξαμαρτάνω	aorist active indicative, third singular	1	caused to sin
+SIR 47:23	1	35	τὸν	ὁ	article, accusative masculine singular	1	—
 SIR 47:23	1	36	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, dative in context	1	Israel
 SIR 47:23	1	37	καὶ	καί	conjunction	1	and
 SIR 47:23	1	38	ἔδωκε	δίδωμι	aorist active indicative, third singular	1	he gave
-SIR 47:23	1	39	τῷ	ὁ	article, dative masculine singular	1	the
-SIR 47:23	1	40	Ἐφραὶμ	Ἐφραίμ	indeclinable personal name, genitive in context	1	of Ephraim
+SIR 47:23	1	39	τῷ	ὁ	article, dative masculine singular	1	to
+SIR 47:23	1	40	Ἐφραὶμ	Ἐφραίμ	indeclinable personal name, genitive in context	1	Ephraim
 SIR 47:23	1	41	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 SIR 47:23	1	41	ὁδὸν			2	path
-SIR 47:23	1	42	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
+SIR 47:23	1	42	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	of sin
 SIR 47:24	1	1	καὶ	καί	conjunction	1	and
 SIR 47:24	1	2	ἐπληθύνθησαν	πληθύνω	aorist passive indicative, third plural	1	multiplied
 SIR 47:24	1	3	αἱ	ὁ	article nominative feminine plural	1	the
@@ -453,11 +453,11 @@ SIR 47:24	1	7	ἀποστῆσαι	ἀφίστημι	aorist active infinitive	1	
 SIR 47:24	1	8	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 SIR 47:24	1	9	ἀπὸ	ἀπό	preposition with the genitive	1	from
 SIR 47:24	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
-SIR 47:24	1	11	γῆς	γῆ	noun, genitive feminine singular	1	earth
+SIR 47:24	1	11	γῆς	γῆ	noun, genitive feminine singular	1	land
 SIR 47:24	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 SIR 47:25	1	1	καὶ	καί	conjunction	1	and
 SIR 47:25	1	2	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
-SIR 47:25	1	3	πονηρίαν	πονηρία	noun, accusative feminine singular	1	harm
+SIR 47:25	1	3	πονηρίαν	πονηρία	noun, accusative feminine singular	1	wickedness
 SIR 47:25	1	4	ἐξεζήτησαν	ἐκζητέω	aorist active indicative, third plural	1	they sought out
 SIR 47:25	1	5	ἕως	ἕως	temporal conjunction	1	until
 SIR 47:25	1	6	ἐκδίκησις	ἐκδίκησις	noun, nominative feminine singular	1	vengeance

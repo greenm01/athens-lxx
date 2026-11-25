@@ -14,7 +14,7 @@ SIR 24:1	2	10	αὐτῆς	αὐτός	third-person pronoun, genitive feminine s
 SIR 24:1	2	11	καυχήσεται	καυχάομαι	future middle indicative, third singular	1	will boast
 SIR 24:2	1	1	Ἐν	ἐν	preposition with the dative	1	in
 SIR 24:2	1	2	ἐκκλησίᾳ	ἐκκλησία	noun, dative feminine singular	1	assembly
-SIR 24:2	1	3	ὑψίστου	ὕψιστος	adjective genitive masculine singular	1	Most High
+SIR 24:2	1	3	ὑψίστου	ὕψιστος	adjective genitive masculine singular	1	of the Most High
 SIR 24:2	1	4	στόμα	στόμα	noun, accusative neuter singular	1	mouth
 SIR 24:2	1	5	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	her
 SIR 24:2	1	6	ἀνοίξει	ἀνοίγω	future active indicative, third singular	1	will open
@@ -54,8 +54,8 @@ SIR 24:5	1	7	βάθει	βάθος	noun, dative neuter singular	1	depth
 SIR 24:5	1	8	ἀβύσσων	ἄβυσσος	noun genitive feminine plural	1	of the abyss
 SIR 24:5	1	9	περιεπάτησα	περιπατέω	aorist active indicative, first singular	1	I have walked
 SIR 24:6	1	1	ἐν	ἐν	preposition with the dative	1	in
-SIR 24:6	1	2	κύματι	κῦμα	noun, dative neuter singular	1	waves
-SIR 24:6	1	3	θαλάσσης	θάλασσα	noun, genitive feminine singular	1	sea
+SIR 24:6	1	2	κύματι	κῦμα	noun, dative neuter singular	1	wave
+SIR 24:6	1	3	θαλάσσης	θάλασσα	noun, genitive feminine singular	1	of the sea
 SIR 24:6	1	4	καὶ	καί	conjunction	1	and
 SIR 24:6	1	5	ἐν	ἐν	preposition with the dative	1	in
 SIR 24:6	1	6	πάσῃ	πᾶς	adjective, dative feminine singular	1	all
@@ -91,7 +91,7 @@ SIR 24:8	1	7	καὶ	καί	conjunction	1	and
 SIR 24:8	1	8	ὁ	ὁ	article, nominative masculine singular	1	the one
 SIR 24:8	1	9	κτίσας	κτίζω	aorist active participle, nominative masculine singular	1	who created
 SIR 24:8	1	10	με	ἐγώ	personal pronoun, accusative singular	1	me
-SIR 24:8	1	11	κατέπαυσε	καταπαύω	aorist active indicative, third singular	1	he rested
+SIR 24:8	1	11	κατέπαυσε	καταπαύω	aorist active indicative, third singular	1	caused to rest
 SIR 24:8	1	12	τὴν	ὁ	article, accusative feminine singular	1	the
 SIR 24:8	1	13	σκηνήν	σκηνή	noun, accusative feminine singular	1	tent
 SIR 24:8	1	14	μου	ἐγώ	personal pronoun, genitive first singular	1	my
@@ -147,7 +147,7 @@ SIR 24:12	1	6	ἐν	ἐν	preposition with the dative	1	in
 SIR 24:12	1	7	μερίδι	μερίς	noun, dative feminine singular	1	portion
 SIR 24:12	1	7	μερίδι			2	part
 SIR 24:12	1	8	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-SIR 24:12	1	9	κληρονομίας	κληρονομία	noun, genitive feminine singular	1	inheritance
+SIR 24:12	1	9	κληρονομίας	κληρονομία	noun, genitive feminine singular	1	of inheritance
 SIR 24:12	1	9	κληρονομίας			2	estate
 SIR 24:12	1	10	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 24:13	1	1	Ὡς	ὡς	comparative particle	1	as
@@ -162,7 +162,7 @@ SIR 24:13	1	9	κυπάρισσος	κυπάρισσος	noun, nominative feminin
 SIR 24:13	1	10	ἐν	ἐν	preposition with the dative	1	in
 SIR 24:13	1	11	ὄρει	ὄρος	noun, dative neuter singular	1	mountain
 SIR 24:13	1	11	ὄρει			2	hill country
-SIR 24:13	1	12	Ἀερμών	Ἀερμών	indeclinable place name, genitive in context	1	Hermon
+SIR 24:13	1	12	Ἀερμών	Ἀερμών	indeclinable place name, genitive in context	1	of Hermon
 SIR 24:14	1	1	ὡς	ὡς	exclamatory adverb	1	like
 SIR 24:14	1	2	φοῖνιξ	φοῖνιξ	noun nominative masculine singular	1	a palm tree
 SIR 24:14	1	3	ἀνυψώθην	ἀνυψόω	aorist passive indicative, first singular	1	I was raised high
@@ -191,7 +191,7 @@ SIR 24:15	1	1	ὡς	ὡς	comparative particle	1	as
 SIR 24:15	1	2	κιννάμωμον	κιννάμωμον	noun, nominative neuter singular	1	cinnamon
 SIR 24:15	1	3	καὶ	καί	conjunction	1	and
 SIR 24:15	1	4	ἀσπάλαθος	ἀσπάλαθος	noun, nominative masculine singular	1	aspalathus
-SIR 24:15	1	5	ἀρωμάτων	ἄρωμα	noun, genitive neuter plural	1	spices
+SIR 24:15	1	5	ἀρωμάτων	ἄρωμα	noun, genitive neuter plural	1	of spices
 SIR 24:15	1	6	δέδωκα	δίδωμι	perfect active indicative, first singular	1	I have given
 SIR 24:15	1	7	ὀσμὴν	ὀσμή	noun, accusative feminine singular	1	aroma
 SIR 24:15	1	8	καὶ	καί	conjunction	1	and
@@ -209,7 +209,7 @@ SIR 24:15	1	19	καὶ	καί	conjunction	1	and
 SIR 24:15	1	20	στακτὴ	στακτή	noun nominative feminine singular	1	stacte
 SIR 24:15	1	21	καὶ	καί	conjunction	1	and
 SIR 24:15	1	22	ὡς	ὡς	comparative particle	1	as
-SIR 24:15	1	23	λιβάνου	Λίβανος	noun, genitive masculine singular; place name	1	frankincense
+SIR 24:15	1	23	λιβάνου	Λίβανος	noun, genitive masculine singular; place name	1	of frankincense
 SIR 24:15	1	24	ἀτμὶς	ἀτμίς	noun, nominative feminine singular	1	smoke
 SIR 24:15	1	25	ἐν	ἐν	preposition with the dative	1	in
 SIR 24:15	1	26	σκηνῇ	σκηνή	noun, dative feminine singular	1	tent
@@ -244,28 +244,28 @@ SIR 24:17	1	12	καὶ	καί	conjunction	1	and
 SIR 24:17	1	13	πλούτου	πλοῦτος	noun genitive masculine singular	1	wealth
 SIR 24:18	1	1	Ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 SIR 24:18	1	2	μήτηρ	μήτηρ	noun, nominative feminine singular	1	mother
-SIR 24:18	1	3	τῆς	ὁ	article, genitive feminine singular	1	the
+SIR 24:18	1	3	τῆς	ὁ	article, genitive feminine singular	1	of the
 SIR 24:18	1	4	ἀγαπήσεως	ἀγάπησις	noun, genitive feminine singular	1	love
 SIR 24:18	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
 SIR 24:18	1	6	καλῆς	καλός	adjective, genitive feminine singular	1	good
 SIR 24:18	1	7	καὶ	καί	conjunction	1	and
-SIR 24:18	1	8	φόβου	φόβος	noun, genitive masculine singular	1	fear
+SIR 24:18	1	8	φόβου	φόβος	noun, genitive masculine singular	1	of fear
 SIR 24:18	1	9	καὶ	καί	conjunction	1	and
-SIR 24:18	1	10	γνώσεως	γνῶσις	noun, genitive feminine singular	1	knowledge
+SIR 24:18	1	10	γνώσεως	γνῶσις	noun, genitive feminine singular	1	of knowledge
 SIR 24:18	1	11	καὶ	καί	conjunction	1	and
-SIR 24:18	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
+SIR 24:18	1	12	τῆς	ὁ	article, genitive feminine singular	1	of the
 SIR 24:18	1	13	ὁσίας	ὅσιος	adjective, accusative feminine singular	1	holy
 SIR 24:18	1	14	ἐλπίδος	ἐλπίς	noun, genitive feminine singular	1	hope
 SIR 24:18	1	14	ἐλπίδος			2	expectation
 SIR 24:18	1	15	δίδομαι	δίδωμι	present middle/passive indicative, first singular	1	I am given
 SIR 24:18	1	16	δὲ	δέ	postpositive conjunction	1	and
-SIR 24:18	1	17	σύμπασι	σύμπας	adjective dative masculine plural	1	all together
+SIR 24:18	1	17	σύμπασι	σύμπας	adjective dative masculine plural	1	to all together
 SIR 24:18	1	18	τοῖς	ὁ	article, dative neuter plural	1	the
 SIR 24:18	1	19	τέκνοις	τέκνον	noun, dative neuter plural	1	children
 SIR 24:18	1	20	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 SIR 24:18	1	21	ἀειγενὴς	ἀειγενής	adjective, dative masculine plural	1	everlasting
-SIR 24:18	1	22	τοῖς	ὁ	article, dative neuter plural	1	the
-SIR 24:18	1	23	λεγομένοις	λέγω	present passive participle, dative neuter plural	1	named
+SIR 24:18	1	22	τοῖς	ὁ	article, dative neuter plural	1	to those
+SIR 24:18	1	23	λεγομένοις	λέγω	present passive participle, dative neuter plural	1	who are named
 SIR 24:18	1	24	ὑπ᾽	ὑπό	preposition with genitive	1	by
 SIR 24:18	1	25	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	him
 SIR 24:19	1	1	Προσέλθατε	προσέρχομαι	aorist active imperative second plural	1	draw near
@@ -320,15 +320,15 @@ SIR 24:22	1	6	καὶ	καί	conjunction	1	and
 SIR 24:22	1	7	οἱ	ὁ	article, nominative masculine plural	1	the
 SIR 24:22	1	8	ἐργαζόμενοι	ἐργάζομαι	present middle participle nominative masculine plural	1	working
 SIR 24:22	1	9	ἐν	ἐν	preposition with dative	1	in
-SIR 24:22	1	10	ἐμοὶ	ἐγώ	personal pronoun, emphatic dative singular	1	to me
+SIR 24:22	1	10	ἐμοὶ	ἐγώ	personal pronoun, emphatic dative singular	1	me
 SIR 24:22	1	11	οὐχ	οὐ	negative particle	1	not
 SIR 24:22	1	12	ἁμαρτήσουσι	ἁμαρτάνω	future active indicative, third plural	1	will sin
 SIR 24:23	1	1	Ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these things
 SIR 24:23	1	2	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 SIR 24:23	1	3	βίβλος	βίβλος	noun, nominative feminine singular	1	book
 SIR 24:23	1	3	βίβλος			2	record
-SIR 24:23	1	4	διαθήκης	διαθήκη	noun, genitive feminine singular	1	covenant
-SIR 24:23	1	5	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+SIR 24:23	1	4	διαθήκης	διαθήκη	noun, genitive feminine singular	1	of the covenant
+SIR 24:23	1	5	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 SIR 24:23	1	6	ὑψίστου	ὕψιστος	adjective genitive masculine singular	1	Most High
 SIR 24:23	1	7	νόμος	νόμος	noun, nominative masculine singular	1	law
 SIR 24:23	1	7	νόμος			2	instruction
@@ -338,12 +338,12 @@ SIR 24:23	1	10	ἡμῖν	ἐγώ	personal pronoun, dative plural	1	us
 SIR 24:23	1	11	Μωϋσῆς	Μωυσῆς	noun, nominative masculine singular; proper	1	Moses
 SIR 24:23	1	12	κληρονομίαν	κληρονομία	noun, accusative feminine singular	1	an inheritance for
 SIR 24:23	1	13	συναγωγαῖς	συναγωγή	noun, dative feminine plural	1	assemblies
-SIR 24:23	1	14	Ἰακώβ	Ἰακώβ	personal name, genitive indeclinable	1	Jacob
+SIR 24:23	1	14	Ἰακώβ	Ἰακώβ	personal name, genitive indeclinable	1	of Jacob
 SIR 24:24	1	1	Μὴ	μή	negative particle	1	not
 SIR 24:24	1	2	ἐκλύεσθε	ἐκλύω	present middle/passive imperative, second plural	1	grow faint
 SIR 24:24	1	3	ἰσχὺν	ἰσχύς	noun, accusative feminine singular	1	in strength
 SIR 24:24	1	4	ἐν	ἐν	preposition with the dative	1	in
-SIR 24:24	1	5	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+SIR 24:24	1	5	Κυρίῳ	κύριος	noun, dative masculine singular	1	the Lord
 SIR 24:24	1	6	κολλᾶσθε	κολλάω	present middle/passive imperative, second plural	1	cling
 SIR 24:24	1	7	δὲ	δέ	postpositive conjunction	1	now
 SIR 24:24	1	8	πρὸς	πρός	preposition with the accusative	1	to
@@ -369,7 +369,7 @@ SIR 24:24	1	26	σωτήρ	σωτήρ	noun nominative masculine singular	1	savior
 SIR 24:25	1	1	ὁ	ὁ	article, nominative masculine singular	1	the
 SIR 24:25	1	2	πιπλῶν	πίμπλημι	present active participle, nominative masculine singular	1	filling
 SIR 24:25	1	3	ὡς	ὡς	comparative particle	1	as
-SIR 24:25	1	4	Φεισὼν	Φεισών	indeclinable river name, nominative	1	Pheison
+SIR 24:25	1	4	Φεισὼν	Φεισών	indeclinable river name, nominative	1	Pishon
 SIR 24:25	1	5	σοφίαν	σοφία	noun, accusative feminine singular	1	wisdom
 SIR 24:25	1	6	καὶ	καί	conjunction	1	and
 SIR 24:25	1	7	ὡς	ὡς	comparative adverb/conjunction	1	like
@@ -397,7 +397,7 @@ SIR 24:27	1	5	παιδείαν	παιδεία	noun, accusative feminine singular
 SIR 24:27	1	6	γνώσεως	γνῶσις	noun, genitive feminine singular	1	of knowledge
 SIR 24:27	1	7	καὶ	καί	conjunction	1	and
 SIR 24:27	1	8	ὡς	ὡς	comparative adverb/conjunction	1	like
-SIR 24:27	1	9	Γηὼν	Γηών	indeclinable river name, nominative	1	Geon
+SIR 24:27	1	9	Γηὼν	Γηών	indeclinable river name, nominative	1	Gihon
 SIR 24:27	1	10	ἐν	ἐν	preposition with the dative	1	in
 SIR 24:27	1	11	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
 SIR 24:27	1	12	τρυγητοῦ	τρυγητός	noun, genitive masculine singular	1	vintage
@@ -448,7 +448,7 @@ SIR 24:31	1	3	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 SIR 24:31	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 SIR 24:31	1	5	κῆπον	κῆπος	noun, accusative masculine singular	1	garden
 SIR 24:31	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
-SIR 24:31	1	7	ἄριστον	ἄριστον	noun, nominative neuter singular	1	abundantly
+SIR 24:31	1	7	ἄριστον	ἄριστον	noun, nominative neuter singular	1	best
 SIR 24:31	1	8	καὶ	καί	conjunction	1	and
 SIR 24:31	1	9	μεθύσω	μεθύσκω	future active indicative, first singular	1	will drench
 SIR 24:31	1	10	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
@@ -456,7 +456,7 @@ SIR 24:31	1	11	τὴν	ὁ	article, accusative feminine singular	1	the
 SIR 24:31	1	12	πρασιάν	πρασιά	noun, accusative feminine singular	1	garden bed
 SIR 24:31	1	13	καὶ	καί	conjunction	1	and
 SIR 24:31	1	14	ἰδοὺ	ἰδού	presentative particle	1	behold
-SIR 24:31	1	15	ἐγένετό	γίνομαι	aorist middle indicative, 3rd sg.	1	has become
+SIR 24:31	1	15	ἐγένετό	γίνομαι	aorist middle indicative, 3rd sg.	1	became
 SIR 24:31	1	16	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 SIR 24:31	1	16	μου			2	of me
 SIR 24:31	1	17	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -467,7 +467,7 @@ SIR 24:31	1	21	καὶ	καί	conjunction	1	and
 SIR 24:31	1	22	ὁ	ὁ	article, nominative masculine singular	1	the
 SIR 24:31	1	23	ποταμός	ποταμός	noun, nominative masculine singular	1	river
 SIR 24:31	1	24	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-SIR 24:31	1	25	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
+SIR 24:31	1	25	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	became
 SIR 24:31	1	26	εἰς	εἰς	preposition with the accusative	1	into
 SIR 24:31	1	27	θάλασσαν	θάλασσα	noun, accusative feminine singular	1	sea
 SIR 24:32	1	1	Ἔτι	ἔτι	adverb of time	1	again

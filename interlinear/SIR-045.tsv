@@ -20,7 +20,7 @@ SIR 45:2	1	7	ἐμεγάλυνεν	μεγαλύνω	aorist active indicative, th
 SIR 45:2	1	8	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 SIR 45:2	1	9	ἐν	ἐν	preposition with the dative	1	in
 SIR 45:2	1	10	φόβοις	φόβος	noun, dative masculine plural	1	terrors
-SIR 45:2	1	11	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	enemies
+SIR 45:2	1	11	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	of enemies
 SIR 45:3	1	1	ἐν	ἐν	preposition with the dative	1	in
 SIR 45:3	1	2	λόγοις	λόγος	noun, dative masculine plural	1	words
 SIR 45:3	1	3	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -39,7 +39,7 @@ SIR 45:3	1	15	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine 
 SIR 45:3	1	16	καὶ	καί	conjunction	1	and
 SIR 45:3	1	17	ἔδειξεν	δείκνυμι	aorist active indicative, 3rd sg.	1	showed
 SIR 45:3	1	18	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-SIR 45:3	1	19	τῆς	ὁ	article, genitive feminine singular	1	the
+SIR 45:3	1	19	τῆς	ὁ	article, genitive feminine singular	1	of the
 SIR 45:3	1	20	δόξης	δόξα	noun, genitive fem. sg	1	glory
 SIR 45:3	1	21	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 45:4	1	1	ἐν	ἐν	preposition with the dative	1	in
@@ -83,7 +83,7 @@ SIR 45:5	1	25	διαθήκην	διαθήκη	noun, accusative feminine singular
 SIR 45:5	1	26	καὶ	καί	conjunction	1	and
 SIR 45:5	1	27	κρίματα	κρίμα	noun accusative neuter plural	1	judgments
 SIR 45:5	1	28	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
-SIR 45:5	1	29	τὸν	ὁ	article, accusative masculine singular	1	the
+SIR 45:5	1	29	τὸν	ὁ	article, accusative masculine singular	1	—
 SIR 45:5	1	30	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, accusative in context	1	Israel
 SIR 45:6	1	1	Ἀαρὼν	Ἀαρών	indeclinable name accusative	1	Aaron
 SIR 45:6	1	2	ὕψωσεν	ὑψόω	aorist active indicative, third singular	1	raised up
@@ -93,8 +93,8 @@ SIR 45:6	1	5	αὐτῷ	αὐτός	pronoun, dative neuter singular	1	him
 SIR 45:6	1	6	ἀδελφὸν	ἀδελφός	noun, accusative masculine singular	1	brother
 SIR 45:6	1	7	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 45:6	1	8	ἐκ	ἐκ	preposition with the genitive	1	from
-SIR 45:6	1	9	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-SIR 45:6	1	9	φυλῆς			2	tribe
+SIR 45:6	1	9	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+SIR 45:6	1	9	φυλῆς			2	clan
 SIR 45:6	1	10	Λευΐ	Λευί	proper name, indeclinable; genitive in context	1	of Levi
 SIR 45:7	1	1	ἔστησεν	ἵστημι	aorist active indicative, third singular	1	he confirmed
 SIR 45:7	1	2	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -112,17 +112,17 @@ SIR 45:7	1	13	εὐκοσμίᾳ	εὐκοσμία	noun, dative feminine singula
 SIR 45:7	1	14	καὶ	καί	conjunction	1	and
 SIR 45:7	1	15	περιέζωσεν	περιζώννυμι	aorist active indicative, third singular	1	he girded
 SIR 45:7	1	16	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-SIR 45:7	1	17	περιστολὴν	περιστολή	noun, accusative fem. sg	1	with a robe of
-SIR 45:7	1	18	δόξης	δόξα	noun, genitive fem. sg	1	glory
+SIR 45:7	1	17	περιστολὴν	περιστολή	noun, accusative fem. sg	1	with a robe
+SIR 45:7	1	18	δόξης	δόξα	noun, genitive fem. sg	1	of glory
 SIR 45:8	1	1	ἐνέδυσεν	ἐνδύω	aorist active indicative, third singular with double accusative	1	clothed
 SIR 45:8	1	2	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-SIR 45:8	1	3	συντέλειαν	συντέλεια	noun, accusative feminine singular	1	perfection of
-SIR 45:8	1	4	καυχήματος	καύχημα	noun, genitive neuter singular	1	glory
+SIR 45:8	1	3	συντέλειαν	συντέλεια	noun, accusative feminine singular	1	perfection
+SIR 45:8	1	4	καυχήματος	καύχημα	noun, genitive neuter singular	1	of glory
 SIR 45:8	1	5	καὶ	καί	conjunction	1	and
 SIR 45:8	1	6	ἐστερέωσεν	στερεόω	aorist active indicative, third singular	1	fortified
 SIR 45:8	1	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-SIR 45:8	1	8	σκεύεσιν	σκεῦος	noun, dative neuter plural	1	implements
-SIR 45:8	1	9	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	strength
+SIR 45:8	1	8	σκεύεσιν	σκεῦος	noun, dative neuter plural	1	with garments
+SIR 45:8	1	9	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	of strength
 SIR 45:8	1	9	ἰσχύος			2	might
 SIR 45:8	1	10	περισκελῆ	περισκελής	adjective/noun, accusative neut. pl.	1	breeches
 SIR 45:8	1	10	περισκελῆ			2	drawers
@@ -133,7 +133,7 @@ SIR 45:8	1	14	ἐπωμίδα	ἐπωμίς	noun, accusative fem. sg	1	ephod
 SIR 45:9	1	1	καὶ	καί	conjunction	1	and
 SIR 45:9	1	2	ἐκύκλωσεν	κυκλόω	aorist active indicative, 3rd singular	1	encircled
 SIR 45:9	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-SIR 45:9	1	4	ῥοΐσκοις	ῥοΐσκος	noun, dative masculine plural	1	small pomegranates
+SIR 45:9	1	4	ῥοΐσκοις	ῥοΐσκος	noun, dative masculine plural	1	with small pomegranates
 SIR 45:9	1	5	χρυσοῖς	χρυσοῦς	adjective dative plural	1	golden
 SIR 45:9	1	6	κώδωσι	κώδων	noun, dative masculine plural	1	bells
 SIR 45:9	1	7	πλείστοις	πολύς	adjective, dative masculine plural	1	very many
@@ -145,7 +145,7 @@ SIR 45:9	1	11	ἐν	ἐν	preposition with the dative	1	in
 SIR 45:9	1	12	βήμασιν	βῆμα	noun, dative neuter plural	1	steps
 SIR 45:9	1	13	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 45:9	1	14	ἀκουστὸν	ἀκουστός	verbal adjective, nominative neuter singular predicate, 'heard/report (it became heard)'	1	audible
-SIR 45:9	1	15	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
+SIR 45:9	1	15	ποιῆσαι	ποιέω	aorist active infinitive	1	to make
 SIR 45:9	1	16	ἦχον	ἦχος	noun, accusative masculine singular	1	sound
 SIR 45:9	1	16	ἦχον			2	noise
 SIR 45:9	1	17	ἐν	ἐν	preposition with the dative	1	in
@@ -153,8 +153,8 @@ SIR 45:9	1	18	ναῷ	ναός	noun, dative masculine singular	1	temple
 SIR 45:9	1	18	ναῷ			2	sanctuary
 SIR 45:9	1	19	εἰς	εἰς	preposition with the accusative	1	into
 SIR 45:9	1	20	μνημόσυνον	μνημόσυνον	noun, nominative neut. sg.	1	a memorial
-SIR 45:9	1	21	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
-SIR 45:9	1	22	λαοῦ	λαός	noun, genitive masculine singular	1	people
+SIR 45:9	1	21	υἱοῖς	υἱός	noun, dative masculine plural	1	for sons
+SIR 45:9	1	22	λαοῦ	λαός	noun, genitive masculine singular	1	of people
 SIR 45:9	1	23	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 45:10	1	1	στολὴ	στολή	noun, nominative fem. sg	1	robe
 SIR 45:10	1	2	ἁγία	ἅγιος	adjective, nominative fem. sg	1	holy
@@ -162,26 +162,26 @@ SIR 45:10	1	3	χρυσῷ	χρυσός	noun, dative masculine singular	1	gold
 SIR 45:10	1	4	καὶ	καί	conjunction	1	and
 SIR 45:10	1	5	ὑακίνθῳ	ὑάκινθος	noun, dative fem. sg	1	blue
 SIR 45:10	1	6	καὶ	καί	conjunction	1	and
-SIR 45:10	1	7	πορφύρᾳ	πορφύρα	noun, dative fem. sg	1	the purple
+SIR 45:10	1	7	πορφύρᾳ	πορφύρα	noun, dative fem. sg	1	purple
 SIR 45:10	1	8	ἔργῳ	ἔργον	noun, dative neuter singular	1	work
 SIR 45:10	1	9	ποικιλτοῦ	ποικιλτής	noun, genitive masc. sg., of an embroiderer	1	of an embroiderer
 SIR 45:10	1	10	λογείῳ	λογεῖον	noun, dative neuter singular	1	breastpiece
-SIR 45:10	1	11	κρίσεως	κρίσις	noun, genitive feminine singular	1	judgment
+SIR 45:10	1	11	κρίσεως	κρίσις	noun, genitive feminine singular	1	of judgment
 SIR 45:10	1	12	δήλοις	δῆλος	adjective, dative masculine plural	1	disclosures
-SIR 45:10	1	13	ἀληθείας	ἀλήθεια	noun genitive feminine singular	1	truth
+SIR 45:10	1	13	ἀληθείας	ἀλήθεια	noun genitive feminine singular	1	of truth
 SIR 45:11	1	1	κεκλωσμένῃ	κλώθω	perfect passive participle, dative fem. sg	1	spun
-SIR 45:11	1	2	κόκκῳ	κόκκος	noun, dative masculine singular	1	scarlet
+SIR 45:11	1	2	κόκκῳ	κόκκος	noun, dative masculine singular	1	with scarlet
 SIR 45:11	1	3	ἔργῳ	ἔργον	noun, dative neuter singular	1	work
-SIR 45:11	1	4	τεχνίτου	τεχνίτης	noun, genitive masculine singular	1	craftsman
-SIR 45:11	1	5	λίθοις	λίθος	noun, dative masculine plural	1	stones
+SIR 45:11	1	4	τεχνίτου	τεχνίτης	noun, genitive masculine singular	1	of a craftsman
+SIR 45:11	1	5	λίθοις	λίθος	noun, dative masculine plural	1	with stones
 SIR 45:11	1	6	πολυτελέσι	πολυτελής	adjective, dative masculine plural	1	costly
-SIR 45:11	1	7	γλύμματος	γλύμμα	noun, genitive neuter singular	1	engraving
-SIR 45:11	1	8	σφραγῖδος	σφραγίς	noun, genitive feminine singular	1	seal
+SIR 45:11	1	7	γλύμματος	γλύμμα	noun, genitive neuter singular	1	of engraving
+SIR 45:11	1	8	σφραγῖδος	σφραγίς	noun, genitive feminine singular	1	of a seal
 SIR 45:11	1	9	ἐν	ἐν	preposition with dative	1	in
 SIR 45:11	1	10	δέσει	δέσις	noun, dative feminine singular	1	setting
 SIR 45:11	1	11	χρυσίου	χρυσίον	noun, genitive neut. sg.	1	of gold
 SIR 45:11	1	12	ἔργῳ	ἔργον	noun, dative neuter singular	1	work
-SIR 45:11	1	13	λιθουργοῦ	λιθουργός	noun, genitive masculine singular	1	gem cutter
+SIR 45:11	1	13	λιθουργοῦ	λιθουργός	noun, genitive masculine singular	1	of a gem cutter
 SIR 45:11	1	14	εἰς	εἰς	preposition with the accusative	1	into
 SIR 45:11	1	15	μνημόσυνον	μνημόσυνον	noun, nominative neut. sg.	1	a memorial
 SIR 45:11	1	16	ἐν	ἐν	preposition with the dative	1	in
@@ -197,21 +197,21 @@ SIR 45:12	1	3	ἐπάνω	ἐπάνω	adverb with the genitive	1	over
 SIR 45:12	1	3	ἐπάνω			2	above
 SIR 45:12	1	4	κιδάρεως	κίδαρις	noun, genitive feminine singular	1	turban
 SIR 45:12	1	5	ἐκτύπωμα	ἐκτύπωμα	noun, accusative neut. sg., engraving in relief	1	an engraving
-SIR 45:12	1	6	σφραγῖδος	σφραγίς	noun, genitive feminine singular	1	seal
-SIR 45:12	1	7	ἁγιάσματος	ἁγίασμα	noun, genitive neuter singular	1	sanctuary
+SIR 45:12	1	6	σφραγῖδος	σφραγίς	noun, genitive feminine singular	1	of a seal
+SIR 45:12	1	7	ἁγιάσματος	ἁγίασμα	noun, genitive neuter singular	1	of holiness
 SIR 45:12	1	8	καύχημα	καύχημα	noun, nominative neuter singular	1	boast
 SIR 45:12	1	8	καύχημα			2	pride
-SIR 45:12	1	9	τιμῆς	τιμή	noun, genitive feminine singular; genitive of valuation	1	honor
+SIR 45:12	1	9	τιμῆς	τιμή	noun, genitive feminine singular; genitive of valuation	1	of honor
 SIR 45:12	1	10	ἔργον	ἔργον	noun, nominative neuter singular	1	work
-SIR 45:12	1	11	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	power
-SIR 45:12	1	12	ἐπιθυμήματα	ἐπιθύμημα	noun, accusative neuter plural	1	delight for
-SIR 45:12	1	13	ὀφθαλμῶν	ὀφθαλμός	noun, genitive masculine plural	1	eyes
+SIR 45:12	1	11	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	of power
+SIR 45:12	1	12	ἐπιθυμήματα	ἐπιθύμημα	noun, accusative neuter plural	1	delights
+SIR 45:12	1	13	ὀφθαλμῶν	ὀφθαλμός	noun, genitive masculine plural	1	of eyes
 SIR 45:12	1	14	κοσμούμενα	κοσμέω	present middle/passive participle, accusative neuter plural	1	ornamented
-SIR 45:12	1	15	ὡραῖα	ὡραῖος	adjective, accusative neuter plural; substantival	1	beauty
+SIR 45:12	1	15	ὡραῖα	ὡραῖος	adjective, accusative neuter plural; substantival	1	beautiful
 SIR 45:13	1	1	πρὸ	πρό	preposition with the genitive	1	before
 SIR 45:13	1	2	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	him
 SIR 45:13	1	3	οὐ	οὐ	negative particle	1	not
-SIR 45:13	1	4	γέγονε	γίνομαι	perfect active indicative, third singular	1	has become
+SIR 45:13	1	4	γέγονε	γίνομαι	perfect active indicative, third singular	1	have been
 SIR 45:13	1	5	τοιαῦτα	τοιοῦτος	demonstrative pronoun, nominative neuter plural; qualitative demonstrative	1	things like these
 SIR 45:13	1	5	τοιαῦτα			2	such things
 SIR 45:13	1	6	ἕως	ἕως	temporal conjunction/preposition (from context)	1	until
@@ -257,8 +257,8 @@ SIR 45:15	1	18	σπέρματι	σπέρμα	noun, dative neuter singular	1	offs
 SIR 45:15	1	18	σπέρματι			2	seed
 SIR 45:15	1	19	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 45:15	1	20	ἐν	ἐν	preposition with the dative	1	in
-SIR 45:15	1	21	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	the days of
-SIR 45:15	1	22	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
+SIR 45:15	1	21	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
+SIR 45:15	1	22	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	of heaven
 SIR 45:15	1	23	λειτουργεῖν	λειτουργέω	present active infinitive	1	to minister
 SIR 45:15	1	24	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 SIR 45:15	1	25	ἅμα	ἅμα	adverb	1	together
@@ -271,7 +271,7 @@ SIR 45:15	1	31	λαὸν	λαός	noun, accusative masculine singular	1	people
 SIR 45:15	1	32	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 45:15	1	33	ἐν	ἐν	preposition with the dative	1	in
 SIR 45:15	1	34	τῷ	ὁ	article, dative masculine singular	1	the
-SIR 45:15	1	35	ὀνόματι	ὄνομα	noun, dative neut. sg	1	in
+SIR 45:15	1	35	ὀνόματι	ὄνομα	noun, dative neut. sg	1	name
 SIR 45:15	1	35	ὀνόματι			2	by the name
 SIR 45:15	1	36	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 45:16	1	1	Ἐξελέξατο	ἐκλέγομαι	aorist middle indicative third singular	1	he chose
@@ -302,9 +302,9 @@ SIR 45:17	1	6	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine 
 SIR 45:17	1	7	ἐξουσίαν	ἐξουσία	noun, accusative feminine singular	1	authority
 SIR 45:17	1	8	ἐν	ἐν	preposition with the dative	1	in
 SIR 45:17	1	9	διαθήκαις	διαθήκη	noun, dative feminine plural	1	covenants
-SIR 45:17	1	10	κριμάτων	κρίμα	noun genitive neuter plural	1	judgments
+SIR 45:17	1	10	κριμάτων	κρίμα	noun genitive neuter plural	1	of judgments
 SIR 45:17	1	11	διδάξαι	διδάσκω	aorist active infinitive	1	to teach
-SIR 45:17	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
+SIR 45:17	1	12	τὸν	ὁ	article, accusative masculine singular	1	—
 SIR 45:17	1	13	Ἰακὼβ	Ἰακώβ	indeclinable personal name	1	Jacob
 SIR 45:17	1	14	τὰ	ὁ	article, accusative neuter plural	1	the
 SIR 45:17	1	15	μαρτύρια	μαρτύριον	noun, accusative neuter plural	1	testimonies
@@ -313,7 +313,7 @@ SIR 45:17	1	17	ἐν	ἐν	preposition with the dative	1	in
 SIR 45:17	1	18	νόμῳ	νόμος	noun dative masculine singular	1	law
 SIR 45:17	1	19	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 45:17	1	20	φωτίσαι	φωτίζω	aorist active infinitive	1	to enlighten
-SIR 45:17	1	21	τὸν	ὁ	article, accusative masculine singular	1	the
+SIR 45:17	1	21	τὸν	ὁ	article, accusative masculine singular	1	—
 SIR 45:17	1	22	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 SIR 45:18	1	1	Ἐπισυνέστησαν	ἐπισυνίστημι	aorist active indicative, third plural	1	rose up together
 SIR 45:18	1	2	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	against him
@@ -325,7 +325,7 @@ SIR 45:18	1	7	ἐν	ἐν	preposition with the dative	1	in
 SIR 45:18	1	8	τῇ	ὁ	article, dative feminine singular	1	the
 SIR 45:18	1	9	ἐρήμῳ	ἔρημος	noun, dative feminine singular	1	desert
 SIR 45:18	1	10	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
-SIR 45:18	1	11	οἱ	ὁ	article, nominative masculine plural	1	the
+SIR 45:18	1	11	οἱ	ὁ	article, nominative masculine plural	1	those
 SIR 45:18	1	12	περὶ	περί	preposition with the accusative	1	around
 SIR 45:18	1	13	Δαθὰν	Δαθάν	indeclinable personal name, accusative in context	1	Dathan
 SIR 45:18	1	14	καὶ	καί	conjunction	1	and
@@ -349,7 +349,7 @@ SIR 45:19	1	6	καὶ	καί	conjunction	1	and
 SIR 45:19	1	7	συνετελέσθησαν	συντελέω	aorist passive indicative, 3rd plural	1	were destroyed
 SIR 45:19	1	8	ἐν	ἐν	preposition with the dative	1	in
 SIR 45:19	1	9	θυμῷ	θυμός	noun, dative masculine singular	1	anger
-SIR 45:19	1	10	ὀργῆς	ὀργή	noun, genitive feminine singular	1	anger
+SIR 45:19	1	10	ὀργῆς	ὀργή	noun, genitive feminine singular	1	of wrath
 SIR 45:19	1	10	ὀργῆς			2	wrath
 SIR 45:19	1	11	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	made
 SIR 45:19	1	12	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
@@ -357,11 +357,11 @@ SIR 45:19	1	13	τέρατα	τέρας	noun, nominative neuter plural	1	wonders
 SIR 45:19	1	14	καταναλῶσαι	καταναλίσκω	aorist active infinitive	1	to consume
 SIR 45:19	1	15	ἐν	ἐν	preposition with the dative	1	in
 SIR 45:19	1	16	πυρὶ	πῦρ	noun, dative neuter singular	1	fire
-SIR 45:19	1	17	φλογὸς	φλόξ	noun, genitive feminine singular	1	flame
+SIR 45:19	1	17	φλογὸς	φλόξ	noun, genitive feminine singular	1	of flame
 SIR 45:19	1	18	αὐτούς	αὐτός	pronoun accusative masculine plural	1	them
 SIR 45:20	1	1	Καὶ	καί	conjunction	1	and
-SIR 45:20	1	2	προσέθηκεν	προστίθημι	aorist active indicative, third singular	1	again
-SIR 45:20	1	3	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
+SIR 45:20	1	2	προσέθηκεν	προστίθημι	aorist active indicative, third singular	1	added
+SIR 45:20	1	3	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	to Aaron
 SIR 45:20	1	4	δόξαν	δόξα	noun, accusative feminine singular	1	honor
 SIR 45:20	1	5	καὶ	καί	conjunction	1	and
 SIR 45:20	1	6	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
@@ -370,14 +370,14 @@ SIR 45:20	1	8	κληρονομίαν	κληρονομία	noun, accusative femin
 SIR 45:20	1	8	κληρονομίαν			2	estate
 SIR 45:20	1	9	ἀπαρχὰς	ἀπαρχή	noun, accusative feminine plural	1	heave offerings
 SIR 45:20	1	10	πρωτογενημάτων	πρωτογένημα	noun, genitive neuter plural	1	of first produce
-SIR 45:20	1	11	ἐμέρισεν	μερίζω	aorist active indicative, third singular	1	did he allot
+SIR 45:20	1	11	ἐμέρισεν	μερίζω	aorist active indicative, third singular	1	he allotted
 SIR 45:20	1	12	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 SIR 45:20	1	13	ἄρτον	ἄρτος	noun, accusative masculine singular	1	bread
 SIR 45:20	1	14	ἐν	ἐν	preposition with the dative	1	in
 SIR 45:20	1	15	πρώτοις	πρῶτος	ordinal adjective, dative masculine or neuter plural; adverbial	1	first of all
 SIR 45:20	1	16	ἡτοίμασεν	ἑτοιμάζω	aorist active indicative third singular	1	he prepared
 SIR 45:20	1	17	ἐν	ἐν	preposition with the dative	1	in
-SIR 45:20	1	18	πλησμονῇ	πλησμονή	noun, dative feminine singular	1	fulness
+SIR 45:20	1	18	πλησμονῇ	πλησμονή	noun, dative feminine singular	1	fullness
 SIR 45:21	1	1	καὶ	καί	conjunction	1	and
 SIR 45:21	1	2	γὰρ	γάρ	explanatory particle	1	for
 SIR 45:21	1	3	θυσίας	θυσία	noun, accusative feminine plural	1	sacrifices
@@ -386,9 +386,9 @@ SIR 45:21	1	5	φάγονται	ἐσθίω	future middle indicative, third plura
 SIR 45:21	1	6	ἃς	ὅς	relative pronoun, accusative of duration, accusative feminine plural	1	which
 SIR 45:21	1	7	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
 SIR 45:21	1	8	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-SIR 45:21	1	9	τε	τέ	enclitic conjunction, both/and	1	indeed
+SIR 45:21	1	9	τε	τέ	enclitic conjunction, both/and	1	both
 SIR 45:21	1	10	καὶ	καί	conjunction	1	and
-SIR 45:21	1	11	τῷ	ὁ	article, dative masculine singular	1	the
+SIR 45:21	1	11	τῷ	ὁ	article, dative masculine singular	1	to the
 SIR 45:21	1	12	σπέρματι	σπέρμα	noun, dative neuter singular	1	offspring
 SIR 45:21	1	12	σπέρματι			2	seed
 SIR 45:21	1	13	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -407,7 +407,7 @@ SIR 45:22	1	10	ἔστιν	εἰμί	present indicative, third singular	1	is
 SIR 45:22	1	11	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 SIR 45:22	1	12	ἐν	ἐν	preposition with the dative	1	in
 SIR 45:22	1	13	λαῷ	λαός	noun, dative masculine singular	1	people
-SIR 45:22	1	14	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	the Lord
+SIR 45:22	1	14	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 SIR 45:22	1	15	γὰρ	γάρ	conjunction	1	for
 SIR 45:22	1	16	μερίς	μερίς	noun, nominative feminine singular	1	share
 SIR 45:22	1	16	μερίς			2	portion
@@ -434,23 +434,23 @@ SIR 45:23	1	16	στῆναι	ἵστημι	aorist active infinitive	1	to stand
 SIR 45:23	1	17	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 SIR 45:23	1	18	ἐν	ἐν	preposition with dative	1	in
 SIR 45:23	1	19	τροπῇ	τροπή	noun, dative feminine singular	1	turning away
-SIR 45:23	1	20	λαοῦ	λαός	noun, genitive masculine singular	1	people
+SIR 45:23	1	20	λαοῦ	λαός	noun, genitive masculine singular	1	of people
 SIR 45:23	1	21	ἐν	ἐν	preposition with the dative	1	in
-SIR 45:23	1	22	ἀγαθότητι	ἀγαθότης	noun, dative feminine singular	1	good
-SIR 45:23	1	23	προθυμίας	προθυμία	noun, genitive feminine singular	1	zeal
-SIR 45:23	1	24	ψυχῆς	ψυχή	noun, genitive feminine singular	1	soul
+SIR 45:23	1	22	ἀγαθότητι	ἀγαθότης	noun, dative feminine singular	1	goodness
+SIR 45:23	1	23	προθυμίας	προθυμία	noun, genitive feminine singular	1	of zeal
+SIR 45:23	1	24	ψυχῆς	ψυχή	noun, genitive feminine singular	1	of soul
 SIR 45:23	1	25	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 45:23	1	26	καὶ	καί	conjunction	1	and
 SIR 45:23	1	27	ἐξιλάσατο	ἐξιλάσκομαι	aorist middle indicative, third singular	1	made atonement
 SIR 45:23	1	28	περὶ	περί	preposition with genitive	1	for
-SIR 45:23	1	29	τοῦ	ὁ	article, genitive singular	1	the
-SIR 45:23	1	30	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
+SIR 45:23	1	29	τοῦ	ὁ	article, genitive singular	1	—
+SIR 45:23	1	30	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 SIR 45:24	1	1	Διὰ	διά	preposition with the accusative	1	because of
 SIR 45:24	1	2	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
-SIR 45:24	1	3	ἐστάθη	ἵστημι	aorist passive indicative, 3rd sg.	1	was erected
+SIR 45:24	1	3	ἐστάθη	ἵστημι	aorist passive indicative, 3rd sg.	1	was established
 SIR 45:24	1	4	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	for him
 SIR 45:24	1	5	διαθήκη	διαθήκη	noun, nominative feminine singular	1	covenant
-SIR 45:24	1	6	εἰρήνης	εἰρήνη	noun, genitive feminine singular	1	peace
+SIR 45:24	1	6	εἰρήνης	εἰρήνη	noun, genitive feminine singular	1	of peace
 SIR 45:24	1	7	προστατεῖν	προστατέω	present active infinitive	1	to preside
 SIR 45:24	1	8	ἁγίων	ἅγιος	adjective, genitive neuter plural; used substantivally	1	over holy things
 SIR 45:24	1	9	καὶ	καί	conjunction	1	and
@@ -460,18 +460,18 @@ SIR 45:24	1	12	ἵνα	ἵνα	conjunction	1	so that
 SIR 45:24	1	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 SIR 45:24	1	14	ᾖ	εἰμί	present subjunctive, third singular	1	may be
 SIR 45:24	1	15	καὶ	καί	conjunction	1	and
-SIR 45:24	1	16	τῷ	ὁ	article, dative masculine singular	1	the
+SIR 45:24	1	16	τῷ	ὁ	article, dative masculine singular	1	to the
 SIR 45:24	1	17	σπέρματι	σπέρμα	noun, dative neuter singular	1	offspring
 SIR 45:24	1	17	σπέρματι			2	seed
 SIR 45:24	1	18	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
-SIR 45:24	1	19	ἱερωσύνης	ἱερωσύνη	noun, genitive feminine singular	1	priesthood
+SIR 45:24	1	19	ἱερωσύνης	ἱερωσύνη	noun, genitive feminine singular	1	of priesthood
 SIR 45:24	1	20	μεγαλεῖον	μεγαλεῖον	noun, accusative neuter singular	1	majesty
 SIR 45:24	1	21	εἰς	εἰς	preposition with the accusative	1	into
 SIR 45:24	1	22	τοὺς	ὁ	article, accusative masculine plural	1	the
 SIR 45:24	1	23	αἰῶνας	αἰών	noun accusative masculine plural	1	ages
 SIR 45:25	1	1	κατὰ	κατά	preposition with the accusative	1	according to
 SIR 45:25	1	2	διαθήκην	διαθήκη	noun, accusative feminine singular	1	covenant
-SIR 45:25	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+SIR 45:25	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	to
 SIR 45:25	1	4	Δαυὶδ	Δαυίδ	indeclinable personal name, dative in context	1	David
 SIR 45:25	1	5	υἱῷ	υἱός	noun, dative masculine singular	1	son
 SIR 45:25	1	6	Ἰεσσαὶ	Ἰεσσαί	indeclinable personal name, genitive in context	1	of Jesse
@@ -487,10 +487,10 @@ SIR 45:25	1	14	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 SIR 45:25	1	15	μόνου	μόνος	adjective, genitive neuter singular	1	alone
 SIR 45:25	1	15	μόνου			2	only
 SIR 45:25	1	16	κληρονομία	κληρονομία	noun, nominative feminine singular	1	inheritance
-SIR 45:25	1	17	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	Aaron
+SIR 45:25	1	17	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	of Aaron
 SIR 45:25	1	18	καὶ	καί	conjunction	1	and
-SIR 45:25	1	19	τῷ	ὁ	article, dative masculine singular	1	the
-SIR 45:25	1	20	σπέρματι	σπέρμα	noun, dative neuter singular	1	to his offspring
+SIR 45:25	1	19	τῷ	ὁ	article, dative masculine singular	1	to the
+SIR 45:25	1	20	σπέρματι	σπέρμα	noun, dative neuter singular	1	offspring
 SIR 45:25	1	21	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 45:26	1	1	Δῴη	δίδωμι	aorist active optative, third singular	1	may he give
 SIR 45:26	1	2	ὑμῖν	σύ	pronoun, dative second plural	1	to you
