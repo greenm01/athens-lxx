@@ -19,7 +19,7 @@ DAG 6:1	1	15	αὐτοὺς	αὐτός	pronoun, accusative masculine plural; su
 DAG 6:1	1	16	ἐν	ἐν	preposition with the dative	1	in
 DAG 6:1	1	17	πάσῃ	πᾶς	adjective dative feminine singular	1	all
 DAG 6:1	1	18	τῇ	ὁ	article, dative feminine singular	1	the
-DAG 6:1	1	19	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	reign
+DAG 6:1	1	19	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	kingdom
 DAG 6:1	1	19	βασιλείᾳ			2	kingship
 DAG 6:1	1	20	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DAG 6:2	1	1	καὶ	καί	conjunction	1	and
@@ -69,7 +69,7 @@ DAG 6:3	1	14	βασιλεὺς	βασιλεύς	noun, nominative masculine singu
 DAG 6:3	1	15	κατέστησεν	καθίστημι	aorist active indicative, third singular, appointed over	1	appointed
 DAG 6:3	1	16	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 DAG 6:3	1	17	ἐφ᾽	ἐπί	Preposition with genitive	1	over
-DAG 6:3	1	18	ὅλης	ὅλος	adjective, genitive feminine singular with γῆς/τῆς γῆς	1	the whole
+DAG 6:3	1	18	ὅλης	ὅλος	adjective, genitive feminine singular with γῆς/τῆς γῆς	1	whole
 DAG 6:3	1	19	τῆς	ὁ	article, genitive feminine singular	1	the
 DAG 6:3	1	20	βασιλείας	βασιλεία	noun, genitive feminine singular	1	kingdom
 DAG 6:3	1	20	βασιλείας			2	reign
@@ -91,8 +91,8 @@ DAG 6:4	1	9	εὑρεῖν			2	to meet
 DAG 6:4	1	10	κατὰ	κατά	Preposition with genitive	1	against
 DAG 6:4	1	11	Δανιήλ	Δανιήλ	noun, genitive masculine singular; indeclinable	1	Daniel
 DAG 6:4	1	12	καὶ	καί	conjunction	1	and
-DAG 6:4	1	13	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	every
-DAG 6:4	1	14	πρόφασιν	πρόφασις	noun, accusative feminine singular	1	a pretext
+DAG 6:4	1	13	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	any
+DAG 6:4	1	14	πρόφασιν	πρόφασις	noun, accusative feminine singular	1	pretext
 DAG 6:4	1	14	πρόφασιν			2	a ground for accusation
 DAG 6:4	1	15	καὶ	καί	conjunction	1	and
 DAG 6:4	1	16	παράπτωμα	παράπτωμα	noun, accusative neuter singular	1	an offense
@@ -123,7 +123,7 @@ DAG 6:5	1	11	μὴ	μή	negative with subjunctive/optative (wish/prohibition fro
 DAG 6:5	1	12	ἐν	ἐν	preposition with the dative	1	in
 DAG 6:5	1	13	νομίμοις	νόμιμος	adjective, dative neuter plural; used substantivally	1	ordinances
 DAG 6:5	1	13	νομίμοις			2	customs
-DAG 6:5	1	14	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+DAG 6:5	1	14	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 DAG 6:5	1	15	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DAG 6:6	1	1	Τότε	τότε	adverb of time	1	then
 DAG 6:6	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -188,11 +188,11 @@ DAG 6:7	1	24	αἰτήσηται			2	makes a request
 DAG 6:7	1	25	αἴτημα	αἴτημα	noun, accusative neuter singular	1	request
 DAG 6:7	1	25	αἴτημα			2	petition
 DAG 6:7	1	26	παρὰ	παρά	preposition with genitive	1	from
-DAG 6:7	1	27	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
+DAG 6:7	1	27	παντὸς	πᾶς	adjective, genitive neuter singular	1	any
 DAG 6:7	1	28	Θεοῦ	θεός	noun, genitive masculine singular	1	god
 DAG 6:7	1	29	καὶ	καί	conjunction	1	and
 DAG 6:7	1	30	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
-DAG 6:7	1	31	ἕως	ἕως	preposition with the genitive	1	as far as
+DAG 6:7	1	31	ἕως	ἕως	preposition with the genitive	1	until
 DAG 6:7	1	31	ἕως			2	to
 DAG 6:7	1	32	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
 DAG 6:7	1	33	τριάκοντα	τριάκοντα	indeclinable cardinal numeral	1	thirty
@@ -208,8 +208,8 @@ DAG 6:7	1	40	εἰς	εἰς	preposition with the accusative	1	into
 DAG 6:7	1	41	τὸν	ὁ	article, accusative masculine singular	1	the
 DAG 6:7	1	42	λάκκον	λάκκος	noun, accusative masculine singular	1	den
 DAG 6:7	1	42	λάκκον			2	pit
-DAG 6:7	1	43	τῶν	ὁ	article, genitive masculine plural	1	the
-DAG 6:7	1	44	λεόντων	λέων	noun, genitive masculine plural	1	of lions
+DAG 6:7	1	43	τῶν	ὁ	article, genitive masculine plural	1	of the
+DAG 6:7	1	44	λεόντων	λέων	noun, genitive masculine plural	1	lions
 DAG 6:8	1	1	Νῦν	νῦν	adverb of time	1	now
 DAG 6:8	1	2	οὖν	οὖν	inferential particle	1	then
 DAG 6:8	1	3	βασιλεῦ	βασιλεύς	noun, vocative masculine singular	1	king
@@ -322,7 +322,7 @@ DAG 6:11	1	15	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	hi
 DAG 6:12	1	1	Καὶ	καί	conjunction	1	and
 DAG 6:12	1	2	προσελθόντες	προσέρχομαι	aorist active participle, nominative masculine plural	1	having approached
 DAG 6:12	1	3	λέγουσι	λέγω	present active indicative, third plural	1	they say
-DAG 6:12	1	4	τῷ	ὁ	article, dative masculine singular	1	the
+DAG 6:12	1	4	τῷ	ὁ	article, dative masculine singular	1	to the
 DAG 6:12	1	5	βασιλεῖ	βασιλεύς	noun, dative masculine singular	1	king
 DAG 6:12	1	6	βασιλεῦ	βασιλεύς	noun, vocative masculine singular	1	king
 DAG 6:12	1	6	βασιλεῦ			2	O king
@@ -340,7 +340,7 @@ DAG 6:12	1	14	ἂν	ἄν	modal particle with the subjunctive	1	ever
 DAG 6:12	1	15	αἰτήσηται	αἰτέω	aorist middle subjunctive, third singular	1	asks
 DAG 6:12	1	15	αἰτήσηται			2	makes a request
 DAG 6:12	1	16	παρὰ	παρά	preposition with genitive	1	from
-DAG 6:12	1	17	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
+DAG 6:12	1	17	παντὸς	πᾶς	adjective, genitive neuter singular	1	any
 DAG 6:12	1	18	Θεοῦ	θεός	noun, genitive masculine singular	1	god
 DAG 6:12	1	19	καὶ	καί	conjunction	1	and
 DAG 6:12	1	20	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
@@ -360,8 +360,8 @@ DAG 6:12	1	31	εἰς	εἰς	preposition with the accusative	1	into
 DAG 6:12	1	32	τὸν	ὁ	article, accusative masculine singular	1	the
 DAG 6:12	1	33	λάκκον	λάκκος	noun, accusative masculine singular	1	den
 DAG 6:12	1	33	λάκκον			2	pit
-DAG 6:12	1	34	τῶν	ὁ	article, genitive masculine plural	1	the
-DAG 6:12	1	35	λεόντων	λέων	noun, genitive masculine plural	1	of lions
+DAG 6:12	1	34	τῶν	ὁ	article, genitive masculine plural	1	of the
+DAG 6:12	1	35	λεόντων	λέων	noun, genitive masculine plural	1	lions
 DAG 6:12	1	36	καὶ	καί	conjunction	1	and
 DAG 6:12	1	37	εἶπεν	λέγω	aorist active indicative, third person singular	1	said
 DAG 6:12	1	38	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -395,22 +395,22 @@ DAG 6:13	1	12	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 DAG 6:13	1	13	τῆς	ὁ	article, genitive feminine singular	1	of the
 DAG 6:13	1	14	αἰχμαλωσίας	αἰχμαλωσία	noun, genitive feminine singular	1	captivity
 DAG 6:13	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
-DAG 6:13	1	16	Ἰουδαίας	Ἰουδαία	noun, genitive feminine singular; place name	1	Judea
+DAG 6:13	1	16	Ἰουδαίας	Ἰουδαία	noun, genitive feminine singular; place name	1	of Judea
 DAG 6:13	1	16	Ἰουδαίας			2	Judah
 DAG 6:13	1	17	οὐχ	οὐ	negative particle	1	not
 DAG 6:13	1	18	ὑπετάγη	ὑποτάσσω	aorist passive indicative, third singular	1	submitted
 DAG 6:13	1	18	ὑπετάγη			2	subjected himself
-DAG 6:13	1	19	τῷ	ὁ	article, dative neuter singular	1	the
+DAG 6:13	1	19	τῷ	ὁ	article, dative neuter singular	1	to the
 DAG 6:13	1	20	δόγματί	δόγμα	noun, dative neuter singular	1	decree
 DAG 6:13	1	20	δόγματί			2	edict
-DAG 6:13	1	21	σου	σύ	personal pronoun, genitive singular	1	you
+DAG 6:13	1	21	σου	σύ	personal pronoun, genitive singular	1	your
 DAG 6:13	1	22	περὶ	περί	Preposition with genitive	1	concerning
 DAG 6:13	1	22	περὶ			2	about
 DAG 6:13	1	23	τοῦ	ὁ	article, genitive singular	1	the
 DAG 6:13	1	24	ὁρισμοῦ	ὁρισμός	noun, genitive masculine singular	1	ordinance
 DAG 6:13	1	24	ὁρισμοῦ			2	order
 DAG 6:13	1	25	οὗ	ὅς	relative pronoun, genitive masculine singular; attracted to case of antecedent	1	which
-DAG 6:13	1	26	ἔταξας	τάσσω	aorist active indicative, second singular	1	establish
+DAG 6:13	1	26	ἔταξας	τάσσω	aorist active indicative, second singular	1	you established
 DAG 6:13	1	26	ἔταξας			2	ordain
 DAG 6:13	1	27	καὶ	καί	conjunction	1	and
 DAG 6:13	1	28	καιροὺς	καιρός	noun, accusative masculine plural; accusative of frequency	1	times
@@ -466,7 +466,7 @@ DAG 6:15	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
 DAG 6:15	1	3	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
 DAG 6:15	1	4	ἐκεῖνοι	ἐκεῖνος	demonstrative pronoun, nominative masculine plural	1	those
 DAG 6:15	1	5	λέγουσι	λέγω	present active indicative, third plural	1	they say
-DAG 6:15	1	6	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+DAG 6:15	1	6	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 DAG 6:15	1	7	βασιλεῖ	βασιλεύς	noun, dative masculine singular	1	king
 DAG 6:15	1	8	γνῶθι	γινώσκω	aorist active imperative, second singular	1	know
 DAG 6:15	1	8	γνῶθι			2	recognize
@@ -479,7 +479,7 @@ DAG 6:15	1	12	δόγμα			2	edict
 DAG 6:15	1	13	Μήδοις	Μῆδος	noun, dative masculine plural	1	for the Medes
 DAG 6:15	1	14	καὶ	καί	conjunction	1	and
 DAG 6:15	1	15	Πέρσαις	Πέρσης	noun, dative masculine plural	1	for the Persians
-DAG 6:15	1	16	τοῦ	ὁ	article, genitive singular	1	the
+DAG 6:15	1	16	τοῦ	ὁ	article, genitive singular	1	—
 DAG 6:15	1	17	πᾶν	πᾶς	adjective, nominative neuter singular	1	every
 DAG 6:15	1	18	ὁρισμὸν	ὁρισμός	noun, accusative masculine singular	1	ordinance
 DAG 6:15	1	18	ὁρισμὸν			2	order
@@ -498,7 +498,7 @@ DAG 6:15	1	28	παραλλάξαι			2	to change
 DAG 6:16	1	1	Τότε	τότε	temporal adverb	1	then
 DAG 6:16	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 DAG 6:16	1	3	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
-DAG 6:16	1	4	εἶπε	λέγω	aorist active indicative, third singular	1	he gave the order
+DAG 6:16	1	4	εἶπε	λέγω	aorist active indicative, third singular	1	gave the order
 DAG 6:16	1	4	εἶπε			2	he said
 DAG 6:16	1	5	καὶ	καί	conjunction	1	and
 DAG 6:16	1	6	ἤγαγον	ἄγω	aorist active indicative, first singular	1	brought
@@ -512,8 +512,8 @@ DAG 6:16	1	12	εἰς	εἰς	preposition with the accusative	1	into
 DAG 6:16	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
 DAG 6:16	1	14	λάκκον	λάκκος	noun, accusative masculine singular	1	den
 DAG 6:16	1	14	λάκκον			2	pit
-DAG 6:16	1	15	τῶν	ὁ	article, genitive masculine plural	1	the
-DAG 6:16	1	16	λεόντων	λέων	noun, genitive masculine plural	1	of lions
+DAG 6:16	1	15	τῶν	ὁ	article, genitive masculine plural	1	of the
+DAG 6:16	1	16	λεόντων	λέων	noun, genitive masculine plural	1	lions
 DAG 6:16	1	17	καὶ	καί	conjunction	1	and
 DAG 6:16	1	18	εἶπεν	λέγω	aorist active indicative, third person singular	1	said
 DAG 6:16	1	19	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -525,7 +525,7 @@ DAG 6:16	1	24	Θεός	θεός	noun, nominative masculine singular	1	God
 DAG 6:16	1	25	σου	σύ	pronoun, genitive 2nd singular	1	your
 DAG 6:16	1	26	ᾧ	ὅς	relative pronoun, dative masculine singular	1	whom
 DAG 6:16	1	27	σὺ	σύ	pronoun, nominative 2nd singular	1	you
-DAG 6:16	1	28	λατρεύεις	λατρεύω	present active indicative, second singular	1	you serve
+DAG 6:16	1	28	λατρεύεις	λατρεύω	present active indicative, second singular	1	serve
 DAG 6:16	1	29	ἐνδελεχῶς	ἐνδελεχῶς	adverb, continually/daily	1	continually
 DAG 6:16	1	30	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 DAG 6:16	1	31	ἐξελεῖταί	ἐξαιρέω	future middle indicative, third singular	1	will deliver
@@ -535,7 +535,7 @@ DAG 6:17	1	1	Καὶ	καί	conjunction	1	and
 DAG 6:17	1	2	ἤνεγκε	φέρω	aorist active indicative, third singular	1	brought
 DAG 6:17	1	3	λίθον	λίθος	noun, accusative masculine singular	1	stone
 DAG 6:17	1	4	καὶ	καί	conjunction	1	and
-DAG 6:17	1	5	ἐπέθηκεν	ἐπιτίθημι	aorist active indicative, third singular	1	put on
+DAG 6:17	1	5	ἐπέθηκεν	ἐπιτίθημι	aorist active indicative, third singular	1	put
 DAG 6:17	1	6	ἐπὶ	ἐπί	preposition with accusative	1	onto
 DAG 6:17	1	7	τὸ	ὁ	article, accusative neuter singular	1	the
 DAG 6:17	1	8	στόμα	στόμα	noun, accusative neuter singular	1	mouth
@@ -555,7 +555,7 @@ DAG 6:17	1	20	ἐν	ἐν	Preposition with dative	1	with
 DAG 6:17	1	21	τῷ	ὁ	article, dative masculine singular	1	the
 DAG 6:17	1	22	δακτυλίῳ	δακτύλιος	noun, dative masculine singular	1	signet ring
 DAG 6:17	1	22	δακτυλίῳ			2	ring
-DAG 6:17	1	23	τῶν	ὁ	article, genitive plural	1	the
+DAG 6:17	1	23	τῶν	ὁ	article, genitive plural	1	of the
 DAG 6:17	1	24	μεγιστάνων	μεγιστάν	noun, genitive masculine plural	1	dignitaries
 DAG 6:17	1	24	μεγιστάνων			2	prominent officials
 DAG 6:17	1	25	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -605,8 +605,8 @@ DAG 6:18	1	26	ὁ	ὁ	article, nominative masculine singular	1	the
 DAG 6:18	1	27	Θεὸς	θεός	noun, nominative masculine singular	1	God
 DAG 6:18	1	28	τὰ	ὁ	article, accusative neuter plural	1	the
 DAG 6:18	1	29	στόματα	στόμα	noun, accusative neuter plural	1	mouths
-DAG 6:18	1	30	τῶν	ὁ	article, genitive plural	1	the
-DAG 6:18	1	31	λεόντων	λέων	noun, genitive masculine plural	1	of lions
+DAG 6:18	1	30	τῶν	ὁ	article, genitive plural	1	of the
+DAG 6:18	1	31	λεόντων	λέων	noun, genitive masculine plural	1	lions
 DAG 6:18	1	32	καὶ	καί	conjunction	1	and
 DAG 6:18	1	33	οὐ	οὐ	negative particle	1	not
 DAG 6:18	1	34	παρηνώχλησαν	παρενοχλέω	aorist active indicative, third plural	1	disturbed
@@ -631,15 +631,15 @@ DAG 6:19	1	14	ἐπὶ	ἐπί	Preposition with accusative	1	to
 DAG 6:19	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
 DAG 6:19	1	16	λάκκον	λάκκος	noun, accusative masculine singular	1	den
 DAG 6:19	1	16	λάκκον			2	pit
-DAG 6:19	1	17	τῶν	ὁ	article, genitive masculine plural	1	the
-DAG 6:19	1	18	λεόντων	λέων	noun, genitive masculine plural	1	of lions
+DAG 6:19	1	17	τῶν	ὁ	article, genitive masculine plural	1	of the
+DAG 6:19	1	18	λεόντων	λέων	noun, genitive masculine plural	1	lions
 DAG 6:20	1	1	Καὶ	καί	conjunction	1	and
 DAG 6:20	1	2	ἐν	ἐν	Preposition with dative; articular infinitive expressing time	1	as
 DAG 6:20	1	2	ἐν			2	when
 DAG 6:20	1	3	τῷ	ὁ	article, dative neuter singular, introduces the infinitive	1	—
 DAG 6:20	1	4	ἐγγίζειν	ἐγγίζω	present active infinitive	1	to draw near
 DAG 6:20	1	5	αὐτὸν	αὐτός	pronoun, accusative masculine singular; subject of infinitive	1	he
-DAG 6:20	1	6	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+DAG 6:20	1	6	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 DAG 6:20	1	7	λάκκῳ	λάκκος	noun, dative masculine singular	1	pit
 DAG 6:20	1	8	τῷ	ὁ	article, dative masculine singular	1	the
 DAG 6:20	1	9	Δανιὴλ	Δανιήλ	noun, dative masculine singular; indeclinable	1	Daniel
@@ -650,7 +650,7 @@ DAG 6:20	1	13	Δανιὴλ	Δανιήλ	noun, vocative masculine singular; inde
 DAG 6:20	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
 DAG 6:20	1	15	δοῦλος	δοῦλος	noun, nominative masculine singular	1	servant
 DAG 6:20	1	15	δοῦλος			2	slave
-DAG 6:20	1	16	τοῦ	ὁ	article, genitive singular	1	the
+DAG 6:20	1	16	τοῦ	ὁ	article, genitive singular	1	of the
 DAG 6:20	1	17	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 DAG 6:20	1	18	τοῦ	ὁ	article, genitive singular	1	the
 DAG 6:20	1	19	ζῶντος	ζάω	present active participle, genitive masculine singular	1	living
@@ -659,21 +659,21 @@ DAG 6:20	1	21	Θεός	θεός	noun, nominative masculine singular	1	God
 DAG 6:20	1	22	σου	σύ	pronoun, genitive 2nd singular	1	your
 DAG 6:20	1	23	ᾧ	ὅς	relative pronoun, dative masculine singular	1	whom
 DAG 6:20	1	24	σὺ	σύ	pronoun, nominative 2nd singular	1	you
-DAG 6:20	1	25	λατρεύεις	λατρεύω	present active indicative, second singular	1	you serve
+DAG 6:20	1	25	λατρεύεις	λατρεύω	present active indicative, second singular	1	serve
 DAG 6:20	1	26	ἐνδελεχῶς	ἐνδελεχῶς	adverb, continually/daily	1	continually
-DAG 6:20	1	27	εἰ	εἰ	Interrogative particle	1	whether
+DAG 6:20	1	27	εἰ	εἰ	Interrogative particle	1	[marks a question]
 DAG 6:20	1	27	εἰ			2	if
 DAG 6:20	1	28	ἠδυνάσθη	δύναμαι	aorist passive indicative, third singular	1	he was able
 DAG 6:20	1	29	ἐξελέσθαι	ἐξαιρέω	aorist middle infinitive	1	to deliver
 DAG 6:20	1	30	σε	σύ	pronoun, accusative 2nd singular	1	you
 DAG 6:20	1	31	ἐκ	ἐκ	preposition with the genitive	1	from
 DAG 6:20	1	32	στόματος	στόμα	noun, genitive neuter singular	1	mouth
-DAG 6:20	1	33	τῶν	ὁ	article, genitive plural	1	the
-DAG 6:20	1	34	λεόντων	λέων	noun, genitive masculine plural	1	of lions
+DAG 6:20	1	33	τῶν	ὁ	article, genitive plural	1	of the
+DAG 6:20	1	34	λεόντων	λέων	noun, genitive masculine plural	1	lions
 DAG 6:21	1	1	Καὶ	καί	conjunction	1	and
 DAG 6:21	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 DAG 6:21	1	3	Δανιὴλ	Δανιήλ	noun, nominative masculine singular; indeclinable	1	Daniel
-DAG 6:21	1	4	τῷ	ὁ	article, dative masculine singular	1	the
+DAG 6:21	1	4	τῷ	ὁ	article, dative masculine singular	1	to the
 DAG 6:21	1	5	βασιλεῖ	βασιλεύς	noun, dative masculine singular	1	king
 DAG 6:21	1	6	βασιλεῦ	βασιλεύς	noun, vocative masculine singular	1	king
 DAG 6:21	1	6	βασιλεῦ			2	O king
@@ -696,8 +696,8 @@ DAG 6:22	1	9	ἐνέφραξε	ἐμφράσσω	aorist active indicative, third
 DAG 6:22	1	9	ἐνέφραξε			2	closed up
 DAG 6:22	1	10	τὰ	ὁ	article, accusative neuter plural	1	the
 DAG 6:22	1	11	στόματα	στόμα	noun, accusative neuter plural	1	mouths
-DAG 6:22	1	12	τῶν	ὁ	article, genitive plural	1	the
-DAG 6:22	1	13	λεόντων	λέων	noun, genitive masculine plural	1	of lions
+DAG 6:22	1	12	τῶν	ὁ	article, genitive plural	1	of the
+DAG 6:22	1	13	λεόντων	λέων	noun, genitive masculine plural	1	lions
 DAG 6:22	1	14	καὶ	καί	conjunction	1	and
 DAG 6:22	1	15	οὐκ	οὐ	negative particle	1	not
 DAG 6:22	1	16	ἐλυμήναντό	λυμαίνομαι	aorist middle indicative, third plural	1	harmed
@@ -758,7 +758,7 @@ DAG 6:23	1	25	οὐχ	οὐ	negative particle	1	not
 DAG 6:23	1	26	εὑρέθη	εὑρίσκω	aorist passive indicative, third singular	1	was found
 DAG 6:23	1	27	ἐν	ἐν	preposition with the dative	1	in
 DAG 6:23	1	28	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
-DAG 6:23	1	29	ὅτι	ὅτι	conjunction introducing a content clause	1	that
+DAG 6:23	1	29	ὅτι	ὅτι	conjunction introducing a content clause	1	because
 DAG 6:23	1	30	ἐπίστευσεν	πιστεύω	aorist active indicative, third singular	1	he trusted
 DAG 6:23	1	30	ἐπίστευσεν			2	he believed
 DAG 6:23	1	31	ἐν	ἐν	preposition with the dative	1	in
@@ -766,7 +766,7 @@ DAG 6:23	1	32	τῷ	ὁ	article dative masculine singular	1	the
 DAG 6:23	1	33	Θεῷ	θεός	noun, dative masculine singular	1	God
 DAG 6:23	1	34	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 DAG 6:24	1	1	Καὶ	καί	conjunction	1	and
-DAG 6:24	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	he gave the order
+DAG 6:24	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	gave the order
 DAG 6:24	1	2	εἶπεν			2	he said
 DAG 6:24	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 DAG 6:24	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
@@ -784,8 +784,8 @@ DAG 6:24	1	14	εἰς	εἰς	Preposition with accusative	1	into
 DAG 6:24	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
 DAG 6:24	1	16	λάκκον	λάκκος	noun, accusative masculine singular	1	den
 DAG 6:24	1	16	λάκκον			2	pit
-DAG 6:24	1	17	τῶν	ὁ	article, genitive masculine plural	1	the
-DAG 6:24	1	18	λεόντων	λέων	noun, genitive masculine plural	1	of lions
+DAG 6:24	1	17	τῶν	ὁ	article, genitive masculine plural	1	of the
+DAG 6:24	1	18	λεόντων	λέων	noun, genitive masculine plural	1	lions
 DAG 6:24	1	19	ἐβλήθησαν	βάλλω	aorist passive indicative, third plural	1	were thrown
 DAG 6:24	1	20	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
 DAG 6:24	1	21	καὶ	καί	conjunction	1	and
@@ -825,19 +825,19 @@ DAG 6:25	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 DAG 6:25	1	3	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 DAG 6:25	1	4	Δαρεῖος	Δαρεῖος	noun, nominative masculine singular	1	Darius
 DAG 6:25	1	5	ἔγραψε	γράφω	aorist active indicative, 3rd sg	1	wrote
-DAG 6:25	1	6	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
+DAG 6:25	1	6	πᾶσι	πᾶς	adjective, dative neuter plural	1	to all
 DAG 6:25	1	7	τοῖς	ὁ	article, dative masculine plural	1	the
 DAG 6:25	1	8	λαοῖς	λαός	noun, dative masculine plural	1	peoples
 DAG 6:25	1	9	φυλαῖς	φυλή	noun, dative feminine plural	1	tribes
 DAG 6:25	1	10	γλώσσαις	γλῶσσα	noun, dative feminine plural	1	languages
 DAG 6:25	1	10	γλώσσαις			2	tongues
-DAG 6:25	1	11	τοῖς	ὁ	article, dative masculine plural	1	who
+DAG 6:25	1	11	τοῖς	ὁ	article, dative masculine plural	1	the
 DAG 6:25	1	12	οἰκοῦσιν	οἰκέω	present active participle, dative masculine plural	1	who dwell
 DAG 6:25	1	12	οἰκοῦσιν			2	who live
 DAG 6:25	1	13	ἐν	ἐν	preposition with the dative	1	in
 DAG 6:25	1	14	πάσῃ	πᾶς	adjective, dative feminine singular with γῇ	1	all
 DAG 6:25	1	15	τῇ	ὁ	article, dative feminine singular	1	the
-DAG 6:25	1	16	γῇ	γῆ	noun, dative feminine singular	1	land
+DAG 6:25	1	16	γῇ	γῆ	noun, dative feminine singular	1	earth
 DAG 6:25	1	17	εἰρήνη	εἰρήνη	noun, nominative feminine singular	1	peace
 DAG 6:25	1	18	ὑμῖν	σύ	personal pronoun, dative second plural	1	to you
 DAG 6:25	1	19	πληθυνθείη	πληθύνω	aorist passive optative, third singular	1	may it increase
@@ -870,8 +870,8 @@ DAG 6:26	1	18	προσώπου	πρόσωπον	noun, genitive neuter singular	1
 DAG 6:26	1	18	προσώπου			2	face
 DAG 6:26	1	19	τοῦ	ὁ	article, genitive masculine singular	1	of the
 DAG 6:26	1	20	Θεοῦ	θεός	noun, genitive masculine singular	1	God
-DAG 6:26	1	21	Δανιὴλ	Δανιήλ	noun, genitive masculine singular; indeclinable	1	Daniel
-DAG 6:26	1	22	ὅτι	ὅτι	conjunction	1	that
+DAG 6:26	1	21	Δανιὴλ	Δανιήλ	noun, genitive masculine singular; indeclinable	1	of Daniel
+DAG 6:26	1	22	ὅτι	ὅτι	conjunction	1	for
 DAG 6:26	1	23	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 DAG 6:26	1	24	Θεὸς	θεός	noun, nominative masc. sg	1	God
 DAG 6:26	1	25	ζῶν	ζάω	present active participle, nominative neuter singular	1	living
@@ -896,8 +896,8 @@ DAG 6:26	1	38	ἡ	ὁ	article, nominative feminine singular	1	the
 DAG 6:26	1	39	κυρεία	κυρεία	noun, nominative feminine singular	1	rule
 DAG 6:26	1	39	κυρεία			2	dominion
 DAG 6:26	1	40	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
-DAG 6:26	1	41	ἕως	ἕως	Preposition with genitive	1	to
-DAG 6:26	1	41	ἕως			2	until
+DAG 6:26	1	41	ἕως	ἕως	Preposition with genitive	1	until
+DAG 6:26	1	41	ἕως			2	to
 DAG 6:26	1	42	τέλους	τέλος	noun, genitive neuter singular	1	end
 DAG 6:27	1	1	Ἀντιλαμβάνεται	ἀντιλαμβάνομαι	present middle indicative, third singular	1	he helps
 DAG 6:27	1	1	Ἀντιλαμβάνεται			2	he takes hold
@@ -917,15 +917,15 @@ DAG 6:27	1	11	οὐρανῷ			2	sky
 DAG 6:27	1	12	καὶ	καί	conjunction	1	and
 DAG 6:27	1	13	ἐπὶ	ἐπί	preposition	1	on
 DAG 6:27	1	14	τῆς	ὁ	article genitive feminine singular	1	the
-DAG 6:27	1	15	γῆς	γῆ	noun, genitive feminine singular	1	land
+DAG 6:27	1	15	γῆς	γῆ	noun, genitive feminine singular	1	earth
 DAG 6:27	1	16	ὅστις	ὅστις	relative pronoun, nominative masculine singular	1	who
 DAG 6:27	1	17	ἐξείλατο	ἐξαιρέω	aorist middle indicative, 3rd sg	1	delivered
 DAG 6:27	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 DAG 6:27	1	19	Δανιὴλ	Δανιήλ	noun, accusative masculine singular; indeclinable	1	Daniel
 DAG 6:27	1	20	ἐκ	ἐκ	preposition with the genitive	1	from
 DAG 6:27	1	21	χειρὸς	χείρ	noun, genitive fem. sg	1	hand
-DAG 6:27	1	22	τῶν	ὁ	article, genitive masculine plural	1	the
-DAG 6:27	1	23	λεόντων	λέων	noun, genitive masculine plural	1	of lions
+DAG 6:27	1	22	τῶν	ὁ	article, genitive masculine plural	1	of the
+DAG 6:27	1	23	λεόντων	λέων	noun, genitive masculine plural	1	lions
 DAG 6:28	1	1	Καὶ	καί	conjunction	1	and
 DAG 6:28	1	2	Δανιὴλ	Δανιήλ	noun, nominative masculine singular; indeclinable	1	Daniel
 DAG 6:28	1	3	κατηύθυνεν	κατευθύνω	aorist active indicative, third singular	1	prospered
@@ -934,12 +934,12 @@ DAG 6:28	1	4	ἐν	ἐν	preposition with the dative	1	in
 DAG 6:28	1	5	τῇ	ὁ	article, dative feminine singular	1	the
 DAG 6:28	1	6	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	reign
 DAG 6:28	1	6	βασιλείᾳ			2	kingship
-DAG 6:28	1	7	Δαρείου	Δαρεῖος	noun, genitive masculine singular	1	Darius
+DAG 6:28	1	7	Δαρείου	Δαρεῖος	noun, genitive masculine singular	1	of Darius
 DAG 6:28	1	8	καὶ	καί	conjunction	1	and
 DAG 6:28	1	9	ἐν	ἐν	preposition with the dative	1	in
 DAG 6:28	1	10	τῇ	ὁ	article, dative feminine singular	1	the
 DAG 6:28	1	11	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	reign
 DAG 6:28	1	11	βασιλείᾳ			2	kingship
-DAG 6:28	1	12	Κύρου	Κῦρος	noun, genitive masculine singular	1	Cyrus
+DAG 6:28	1	12	Κύρου	Κῦρος	noun, genitive masculine singular	1	of Cyrus
 DAG 6:28	1	13	τοῦ	ὁ	article, genitive singular	1	the
 DAG 6:28	1	14	Πέρσου	Πέρσης	noun, genitive masculine singular	1	Persian

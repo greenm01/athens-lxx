@@ -18,7 +18,7 @@ DAG 12:1	1	14	ἐπὶ	ἐπί	Preposition with accusative	1	over
 DAG 12:1	1	14	ἐπὶ			2	for
 DAG 12:1	1	15	τοὺς	ὁ	article, accusative masculine plural	1	the
 DAG 12:1	1	16	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
-DAG 12:1	1	17	τοῦ	ὁ	article, genitive singular	1	the
+DAG 12:1	1	17	τοῦ	ὁ	article, genitive singular	1	of the
 DAG 12:1	1	18	λαοῦ	λαός	noun, genitive masculine singular	1	people
 DAG 12:1	1	19	σου	σύ	pronoun, possessive genitive second singular	1	your
 DAG 12:1	1	20	καὶ	καί	conjunction	1	and
@@ -51,7 +51,7 @@ DAG 12:1	1	43	ἐκείνῳ	ἐκεῖνος	demonstrative pronoun, dative masc
 DAG 12:1	1	44	σωθήσεται	σώζω	future passive indicative, third singular	1	will be saved
 DAG 12:1	1	44	σωθήσεται			2	will be rescued
 DAG 12:1	1	45	ὁ	ὁ	article, nominative masculine singular	1	the
-DAG 12:1	1	46	λαός	λαός	noun, nominative masculine singular	1	the people
+DAG 12:1	1	46	λαός	λαός	noun, nominative masculine singular	1	people
 DAG 12:1	1	47	σου	σύ	pronoun, possessive genitive second singular	1	your
 DAG 12:1	1	48	πᾶς	πᾶς	adjective, nominative masculine singular	1	everyone
 DAG 12:1	1	48	πᾶς			2	every one
@@ -66,7 +66,7 @@ DAG 12:1	1	55	βίβλῳ	βίβλος	noun, dative feminine singular	1	book
 DAG 12:1	1	55	βίβλῳ			2	scroll
 DAG 12:2	1	1	καὶ	καί	conjunction	1	and
 DAG 12:2	1	2	πολλοὶ	πολύς	adjective, nominative masculine plural	1	many
-DAG 12:2	1	3	τῶν	ὁ	article, genitive masculine plural	1	the
+DAG 12:2	1	3	τῶν	ὁ	article, genitive masculine plural	1	of
 DAG 12:2	1	4	καθευδόντων	καθεύδω	present active participle, genitive masculine plural; used substantivally	1	those sleeping
 DAG 12:2	1	4	καθευδόντων			2	those who sleep
 DAG 12:2	1	5	ἐν	ἐν	preposition with the dative	1	in
@@ -98,12 +98,12 @@ DAG 12:3	1	1	Καὶ	καί	conjunction	1	and
 DAG 12:3	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
 DAG 12:3	1	3	συνιέντες	συνίημι	present active participle, nominative masculine plural; used substantivally	1	who understand
 DAG 12:3	1	3	συνιέντες			2	who are discerning
-DAG 12:3	1	4	ἐκλάμψουσιν	ἐκλάμπω	future active indicative, third plural	1	they will shine forth
+DAG 12:3	1	4	ἐκλάμψουσιν	ἐκλάμπω	future active indicative, third plural	1	will shine forth
 DAG 12:3	1	5	ὡς	ὡς	comparative particle	1	as
 DAG 12:3	1	6	ἡ	ὁ	article, nominative feminine singular	1	the
 DAG 12:3	1	7	λαμπρότης	λαμπρότης	noun, nominative feminine singular	1	brightness
 DAG 12:3	1	7	λαμπρότης			2	splendor
-DAG 12:3	1	8	τοῦ	ὁ	article, genitive neuter singular	1	the
+DAG 12:3	1	8	τοῦ	ὁ	article, genitive neuter singular	1	of the
 DAG 12:3	1	9	στερεώματος	στερέωμα	noun, genitive neuter singular	1	firmament
 DAG 12:3	1	9	στερεώματος			2	expanse
 DAG 12:3	1	10	καὶ	καί	conjunction	1	and
@@ -134,10 +134,10 @@ DAG 12:4	1	8	σφράγισον	σφραγίζω	aorist active imperative, secon
 DAG 12:4	1	8	σφράγισον			2	seal up
 DAG 12:4	1	9	τὸ	ὁ	article, nominative neuter singular	1	the
 DAG 12:4	1	10	βιβλίον	βιβλίον	noun, accusative neut. sg	1	book
-DAG 12:4	1	11	ἕως	ἕως	preposition with the genitive	1	as far as
+DAG 12:4	1	11	ἕως	ἕως	preposition with the genitive	1	until
 DAG 12:4	1	11	ἕως			2	up to
 DAG 12:4	1	12	καιροῦ	καιρός	noun, genitive masculine singular	1	time
-DAG 12:4	1	13	συντελείας	συντέλεια	noun, genitive feminine singular	1	completion
+DAG 12:4	1	13	συντελείας	συντέλεια	noun, genitive feminine singular	1	of completion
 DAG 12:4	1	13	συντελείας			2	end
 DAG 12:4	1	14	ἕως	ἕως	Temporal conjunction	1	until
 DAG 12:4	1	15	διδαχθῶσι	διδάσκω	aorist passive subjunctive, third plural	1	are taught
@@ -163,23 +163,23 @@ DAG 12:5	1	10	καὶ	καί	conjunction	1	and
 DAG 12:5	1	11	εἷς	εἷς	cardinal numeral/pronoun, nominative masc. sg	1	one
 DAG 12:5	1	12	ἐντεῦθεν	ἐντεῦθεν	Adverb used with genitive to mark the riverbanks	1	on this side
 DAG 12:5	1	12	ἐντεῦθεν			2	here
-DAG 12:5	1	13	τοῦ	ὁ	article, genitive singular	1	the
+DAG 12:5	1	13	τοῦ	ὁ	article, genitive singular	1	of the
 DAG 12:5	1	14	χείλους	χεῖλος	noun, genitive neuter singular	1	bank
 DAG 12:5	1	14	χείλους			2	edge
-DAG 12:5	1	15	τοῦ	ὁ	article, genitive masculine singular	1	the
+DAG 12:5	1	15	τοῦ	ὁ	article, genitive masculine singular	1	—
 DAG 12:5	1	16	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	of the river
 DAG 12:5	1	17	καὶ	καί	conjunction	1	and
 DAG 12:5	1	18	εἷς	εἷς	cardinal numeral/pronoun, nominative masc. sg	1	one
 DAG 12:5	1	19	ἐντεῦθεν	ἐντεῦθεν	adverb of place	1	on the other side
 DAG 12:5	1	19	ἐντεῦθεν			2	here
-DAG 12:5	1	20	τοῦ	ὁ	article, genitive singular	1	the
+DAG 12:5	1	20	τοῦ	ὁ	article, genitive singular	1	of the
 DAG 12:5	1	21	χείλους	χεῖλος	noun, genitive neuter singular	1	bank
 DAG 12:5	1	21	χείλους			2	edge
-DAG 12:5	1	22	τοῦ	ὁ	article, genitive masculine singular	1	the
+DAG 12:5	1	22	τοῦ	ὁ	article, genitive masculine singular	1	—
 DAG 12:5	1	23	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	of the river
 DAG 12:6	1	1	Καὶ	καί	conjunction	1	and
 DAG 12:6	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
-DAG 12:6	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+DAG 12:6	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 DAG 12:6	1	4	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	man
 DAG 12:6	1	5	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
 DAG 12:6	1	6	ἐνδεδυμένῳ	ἐνδύω	perfect middle participle, dative masculine singular	1	clothed
@@ -193,7 +193,7 @@ DAG 12:6	1	11	ἐπάνω	ἐπάνω	Preposition with genitive	1	above
 DAG 12:6	1	11	ἐπάνω			2	over
 DAG 12:6	1	12	τοῦ	ὁ	article, genitive singular	1	the
 DAG 12:6	1	13	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
-DAG 12:6	1	14	τοῦ	ὁ	article, genitive masculine singular	1	the
+DAG 12:6	1	14	τοῦ	ὁ	article, genitive masculine singular	1	of the
 DAG 12:6	1	15	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	river
 DAG 12:6	1	16	ἕως	ἕως	Preposition in an interrogative expression with πότε	1	until
 DAG 12:6	1	17	πότε	πότε	interrogative adverb	1	when
@@ -204,7 +204,7 @@ DAG 12:6	1	20	ὧν	ὅς	relative pronoun, genitive neuter plural; attracted to
 DAG 12:6	1	20	ὧν			2	that
 DAG 12:6	1	21	εἴρηκας	λέγω	perfect active indicative, second singular	1	you have spoken
 DAG 12:6	1	21	εἴρηκας			2	you have stated
-DAG 12:6	1	22	τῶν	ὁ	article, genitive neuter plural	1	the
+DAG 12:6	1	22	τῶν	ὁ	article, genitive neuter plural	1	of the
 DAG 12:6	1	23	θαυμασίων	θαυμάσιος	adjective, genitive neuter plural; used substantivally	1	wonders
 DAG 12:6	1	23	θαυμασίων			2	wonderful things
 DAG 12:7	1	1	Καὶ	καί	conjunction	1	and
@@ -224,7 +224,7 @@ DAG 12:7	1	11	ἐπάνω	ἐπάνω	Preposition with genitive	1	above
 DAG 12:7	1	11	ἐπάνω			2	over
 DAG 12:7	1	12	τοῦ	ὁ	article, genitive singular	1	the
 DAG 12:7	1	13	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
-DAG 12:7	1	14	τοῦ	ὁ	article, genitive masculine singular	1	the
+DAG 12:7	1	14	τοῦ	ὁ	article, genitive masculine singular	1	—
 DAG 12:7	1	15	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	of the river
 DAG 12:7	1	16	καὶ	καί	conjunction	1	and
 DAG 12:7	1	17	ὕψωσε	ὑψόω	aorist active indicative, third singular	1	raised
@@ -256,7 +256,7 @@ DAG 12:7	1	40	καιροὺς			2	periods
 DAG 12:7	1	41	καὶ	καί	conjunction	1	and
 DAG 12:7	1	42	εἰς	εἰς	Preposition with accusative marking duration	1	for
 DAG 12:7	1	43	ἥμισυ	ἥμισυς	adjective, nominative neuter singular; substantival	1	half
-DAG 12:7	1	44	καιροῦ	καιρός	noun, genitive masculine singular	1	time
+DAG 12:7	1	44	καιροῦ	καιρός	noun, genitive masculine singular	1	of time
 DAG 12:7	1	45	ἐν	ἐν	Preposition with dative; articular infinitive expressing time	1	when
 DAG 12:7	1	46	τῷ	ὁ	article, dative masculine singular	1	the
 DAG 12:7	1	47	συντελέσαι	συντελέω	aorist active infinitive	1	to finish
@@ -293,7 +293,7 @@ DAG 12:9	1	8	ἐσφραγισμένοι	σφραγίζω	perfect passive partic
 DAG 12:9	1	9	οἱ	ὁ	article, nominative masculine plural	1	the
 DAG 12:9	1	10	λόγοι	λόγος	noun, nominative masculine plural	1	words
 DAG 12:9	1	10	λόγοι			2	accounts
-DAG 12:9	1	11	ἕως	ἕως	preposition with the genitive	1	as far as
+DAG 12:9	1	11	ἕως	ἕως	preposition with the genitive	1	until
 DAG 12:9	1	11	ἕως			2	up to
 DAG 12:9	1	12	καιροῦ	καιρός	noun, genitive masculine singular	1	time
 DAG 12:9	1	13	πέρας	πέρας	noun, accusative neuter singular; loosely follows καιροῦ in an expression of ending	1	end
@@ -330,9 +330,9 @@ DAG 12:10	1	20	συνήσουσι	συνίημι	future active indicative, third
 DAG 12:11	1	1	Καὶ	καί	conjunction	1	and
 DAG 12:11	1	2	ἀπὸ	ἀπό	preposition with the genitive	1	from
 DAG 12:11	1	3	καιροῦ	καιρός	noun, genitive masculine singular	1	time
-DAG 12:11	1	4	παραλλάξεως	παράλλαξις	noun, genitive feminine singular	1	change
+DAG 12:11	1	4	παραλλάξεως	παράλλαξις	noun, genitive feminine singular	1	of change
 DAG 12:11	1	4	παραλλάξεως			2	alteration
-DAG 12:11	1	5	τοῦ	ὁ	article, genitive singular	1	the
+DAG 12:11	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 DAG 12:11	1	6	ἐνδελεχισμοῦ	ἐνδελεχισμός	noun, genitive masculine singular	1	regular offering
 DAG 12:11	1	6	ἐνδελεχισμοῦ			2	continual observance
 DAG 12:11	1	7	ἀφ᾽	ἀπό	preposition with the genitive, elided	1	from
@@ -351,7 +351,7 @@ DAG 12:11	1	15	δοθῆναι	δίδωμι	aorist passive infinitive	1	to be pl
 DAG 12:11	1	15	δοθῆναι			2	to be given
 DAG 12:11	1	16	τὸ	ὁ	article, nominative neuter singular	1	the
 DAG 12:11	1	17	βδέλυγμα	βδέλυγμα	noun, nominative neuter singular	1	abomination
-DAG 12:11	1	18	τῆς	ὁ	article, genitive feminine singular	1	the
+DAG 12:11	1	18	τῆς	ὁ	article, genitive feminine singular	1	—
 DAG 12:11	1	19	ἐρημώσεως	ἐρήμωσις	noun, genitive feminine singular	1	of desolation
 DAG 12:11	1	19	ἐρημώσεως			2	of devastation
 DAG 12:11	1	20	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days
@@ -389,7 +389,7 @@ DAG 12:13	1	12	εἰς	εἰς	Preposition with accusative expressing purpose or
 DAG 12:13	1	12	εἰς			2	for
 DAG 12:13	1	13	ἀναπλήρωσιν	ἀναπλήρωσις	noun, accusative feminine singular	1	fulfillment
 DAG 12:13	1	13	ἀναπλήρωσιν			2	completion
-DAG 12:13	1	14	συντελείας	συντέλεια	noun, genitive feminine singular	1	completion
+DAG 12:13	1	14	συντελείας	συντέλεια	noun, genitive feminine singular	1	of completion
 DAG 12:13	1	14	συντελείας			2	end
 DAG 12:13	1	15	καὶ	καί	conjunction	1	and
 DAG 12:13	1	16	ἀναπαύσῃ	ἀναπαύω	future middle indicative, second singular	1	you will rest
@@ -404,4 +404,4 @@ DAG 12:13	1	22	σου	σύ	personal pronoun, genitive second singular	1	your
 DAG 12:13	1	23	εἰς	εἰς	Preposition with accusative marking time	1	at
 DAG 12:13	1	24	συντέλειαν	συντέλεια	noun, accusative feminine singular	1	completion
 DAG 12:13	1	24	συντέλειαν			2	end
-DAG 12:13	1	25	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
+DAG 12:13	1	25	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	of days

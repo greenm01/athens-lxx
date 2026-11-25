@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 EZK 19:1	1	1	ΚΑΙ	καί	conjunction	1	and
 EZK 19:1	1	2	σὺ	σύ	pronoun, nominative 2nd singular	1	you
 EZK 19:1	1	3	υἱὲ	υἱός	noun, vocative masculine singular	1	son
-EZK 19:1	1	4	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
+EZK 19:1	1	4	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of man
 EZK 19:1	1	5	λάβε	λαμβάνω	aorist active imperative, 2nd singular	1	take up
 EZK 19:1	1	6	θρῆνον	θρῆνος	noun, accusative masculine singular	1	lamentation
 EZK 19:1	1	7	ἐπὶ	ἐπί	preposition with the dative	1	over
@@ -19,27 +19,27 @@ EZK 19:2	1	6	σου	σύ	pronoun, genitive 2nd singular	1	your
 EZK 19:2	1	7	σκύμνος	σκύμνος	noun, nominative masculine singular	1	cub
 EZK 19:2	1	8	ἐν	ἐν	preposition with the dative	1	in
 EZK 19:2	1	9	μέσῳ	μέσος	noun, dative neuter singular	1	midst
-EZK 19:2	1	10	λεόντων	λέων	noun, genitive masculine plural	1	lions
+EZK 19:2	1	10	λεόντων	λέων	noun, genitive masculine plural	1	of lions
 EZK 19:2	1	11	ἐγενήθη	γίγνομαι	aorist middle indicative, 3rd singular	1	became
 EZK 19:2	1	12	καὶ	καί	conjunction	1	and
 EZK 19:2	1	13	ἐν	ἐν	preposition with the dative	1	in
 EZK 19:2	1	14	μέσῳ	μέσος	noun, dative neuter singular	1	midst
-EZK 19:2	1	15	λεόντων	λέων	noun, genitive masculine plural	1	lions
+EZK 19:2	1	15	λεόντων	λέων	noun, genitive masculine plural	1	of lions
 EZK 19:2	1	16	ἐπλήθυνε	πληθύνω	aorist active indicative, 3rd singular	1	multiplied
 EZK 19:2	1	17	σκύμνους	σκύμνος	noun, accusative masculine plural	1	cubs
 EZK 19:2	1	18	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 EZK 19:3	1	1	Καὶ	καί	conjunction	1	and
 EZK 19:3	1	2	ἀπεπήδησεν	ἀποπηδάω	aorist active indicative, 3rd singular	1	sprang up
 EZK 19:3	1	3	εἷς	εἷς	numeral, nominative masculine singular	1	one
-EZK 19:3	1	4	τῶν	ὁ	definite article, genitive plural	1	the
+EZK 19:3	1	4	τῶν	ὁ	definite article, genitive plural	1	of the
 EZK 19:3	1	5	σκύμνων	σκύμνος	noun, genitive masculine plural	1	cubs
 EZK 19:3	1	6	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 EZK 19:3	1	7	λέων	λέων	noun, nominative masculine singular	1	lion
 EZK 19:3	1	8	ἐγένετο	γίγνομαι	aorist middle indicative, 3rd singular	1	became
 EZK 19:3	1	9	καὶ	καί	conjunction	1	and
 EZK 19:3	1	10	ἔμαθεν	μανθάνω	aorist active indicative, 3rd singular	1	learned
-EZK 19:3	1	11	τοῦ	ὁ	definite article, genitive masculine singular	1	of
-EZK 19:3	1	12	ἁρπάζειν	ἁρπάζω	present active infinitive in the articular infinitive	1	seize
+EZK 19:3	1	11	τοῦ	ὁ	definite article, genitive masculine singular	1	—
+EZK 19:3	1	12	ἁρπάζειν	ἁρπάζω	present active infinitive in the articular infinitive	1	to seize
 EZK 19:3	1	13	ἁρπάγματα	ἅρπαγμα	noun, accusative neuter plural	1	prey
 EZK 19:3	1	14	ἀνθρώπους	ἄνθρωπος	noun, accusative masculine plural	1	men
 EZK 19:3	1	15	ἔφαγε	ἐσθίω	aorist active indicative, 3rd singular	1	devoured
@@ -64,7 +64,7 @@ EZK 19:4	1	18	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine 
 EZK 19:5	1	1	καὶ	καί	conjunction	1	and
 EZK 19:5	1	2	ἴδεν	ὁράω	aorist active indicative, 3rd singular	1	saw
 EZK 19:5	1	3	ὅτι	ὅτι	conjunction	1	that
-EZK 19:5	1	4	ἀπῶσται	ἀπωθέω	perfect passive indicative, 3rd singular	1	has been torn
+EZK 19:5	1	4	ἀπῶσται	ἀπωθέω	perfect passive indicative, 3rd singular	1	has been thrust away
 EZK 19:5	1	5	ἀπ᾽	ἀπό	preposition with the genitive, elided	1	from
 EZK 19:5	1	6	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 EZK 19:5	1	7	καὶ	καί	conjunction	1	and
@@ -86,12 +86,12 @@ EZK 19:6	1	1	καὶ	καί	conjunction	1	and
 EZK 19:6	1	2	ἀνεστρέφετο	ἀναστρέφομαι	imperfect middle indicative, 3rd singular	1	walked
 EZK 19:6	1	3	ἐν	ἐν	preposition with the dative	1	in
 EZK 19:6	1	4	μέσῳ	μέσος	noun, dative neuter singular	1	midst
-EZK 19:6	1	5	λεόντων	λέων	noun, genitive masculine plural	1	lions
+EZK 19:6	1	5	λεόντων	λέων	noun, genitive masculine plural	1	of lions
 EZK 19:6	1	6	λέων	λέων	noun, nominative masculine singular	1	lion
 EZK 19:6	1	7	ἐγένετο	γίγνομαι	aorist middle indicative, 3rd singular	1	became
 EZK 19:6	1	8	καὶ	καί	conjunction	1	and
 EZK 19:6	1	9	ἔμαθεν	μανθάνω	aorist active indicative, 3rd singular	1	learned
-EZK 19:6	1	10	ἁρπάζειν	ἁρπάζω	present active infinitive in the articular infinitive	1	seize
+EZK 19:6	1	10	ἁρπάζειν	ἁρπάζω	present active infinitive in the articular infinitive	1	to seize
 EZK 19:6	1	11	ἁρπάγματα	ἅρπαγμα	noun, accusative neuter plural	1	prey
 EZK 19:6	1	12	ἀνθρώπους	ἄνθρωπος	noun, accusative masculine plural	1	men
 EZK 19:6	1	13	ἔφαγε	ἐσθίω	aorist active indicative, 3rd singular	1	devoured
@@ -115,11 +115,11 @@ EZK 19:7	1	17	πλήρωμα	πλήρωμα	noun, accusative neuter singular	1	f
 EZK 19:7	1	18	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 EZK 19:7	1	19	ἀπὸ	ἀπό	preposition with the genitive	1	from
 EZK 19:7	1	20	φωνῆς	φωνή	noun, genitive feminine singular	1	voice
-EZK 19:7	1	21	ὠρυώματος	ὠρυγμός	noun, genitive masculine singular	1	roaring
+EZK 19:7	1	21	ὠρυώματος	ὠρυγμός	noun, genitive masculine singular	1	of roaring
 EZK 19:7	1	22	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 EZK 19:8	1	1	καὶ	καί	conjunction	1	and
-EZK 19:8	1	2	ἔδωκαν	δίδωμι	aorist active indicative, 3rd plural	1	gathered
-EZK 19:8	1	3	ἐπ᾽	ἐπί	preposition, elided	1	on
+EZK 19:8	1	2	ἔδωκαν	δίδωμι	aorist active indicative, 3rd plural	1	set
+EZK 19:8	1	3	ἐπ᾽	ἐπί	preposition, elided	1	against
 EZK 19:8	1	4	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 EZK 19:8	1	5	ἔθνη	ἔθνος	noun, nominative neuter plural	1	nations
 EZK 19:8	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -161,7 +161,7 @@ EZK 19:9	1	21	ἀκουσθῇ	ἀκούω	aorist passive subjunctive, 3rd singu
 EZK 19:9	1	22	ἡ	ὁ	article, nominative feminine singular	1	the
 EZK 19:9	1	23	φωνὴ	φωνή	noun, nominative feminine singular	1	voice
 EZK 19:9	1	24	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
-EZK 19:9	1	25	ἐπὶ	ἐπί	preposition with the dative	1	over
+EZK 19:9	1	25	ἐπὶ	ἐπί	preposition with the dative	1	on
 EZK 19:9	1	26	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 EZK 19:9	1	27	ὄρη	ὄρος	noun, accusative neuter plural	1	mountains
 EZK 19:9	1	28	τοῦ	ὁ	definite article, genitive masculine singular	1	of
@@ -193,10 +193,10 @@ EZK 19:11	1	1	Καὶ	καί	conjunction	1	and
 EZK 19:11	1	2	ἐγένοντο	γίγνομαι	aorist middle indicative, 3rd plural	1	came
 EZK 19:11	1	3	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
 EZK 19:11	1	4	ῥάβδος	ῥάβδος	noun, nominative feminine singular	1	rod
-EZK 19:11	1	5	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	strength
+EZK 19:11	1	5	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	of strength
 EZK 19:11	1	6	ἐπὶ	ἐπί	preposition with the dative	1	over
 EZK 19:11	1	7	φυλὴν	φυλή	noun, accusative feminine singular	1	tribe
-EZK 19:11	1	8	ἡγουμένων	ἡγέομαι	present middle participle, genitive masculine plural	1	rulers
+EZK 19:11	1	8	ἡγουμένων	ἡγέομαι	present middle participle, genitive masculine plural	1	of rulers
 EZK 19:11	1	9	καὶ	καί	conjunction	1	and
 EZK 19:11	1	10	ὑψώθη	ὑψόομαι	aorist passive indicative, 3rd singular	1	was exalted
 EZK 19:11	1	11	ἐν	ἐν	preposition with the dative	1	in
@@ -205,22 +205,22 @@ EZK 19:11	1	13	μεγέθει	μέγεθος	noun, dative neuter singular	1	stat
 EZK 19:11	1	14	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 EZK 19:11	1	15	ἐν	ἐν	preposition with the dative	1	in
 EZK 19:11	1	16	μέσῳ	μέσος	noun, dative neuter singular	1	midst
-EZK 19:11	1	17	στελεχέων	στέλεχος	noun, genitive masculine plural	1	stems
+EZK 19:11	1	17	στελεχέων	στέλεχος	noun, genitive masculine plural	1	of stems
 EZK 19:11	1	18	καὶ	καί	conjunction	1	and
-EZK 19:11	1	19	ἴδε	ὁράω	aorist active imperative, 2nd singular	1	see
+EZK 19:11	1	19	ἴδε	ὁράω	aorist active imperative, 2nd singular	1	saw
 EZK 19:11	1	20	τὸ	ὁ	definite article, accusative neuter singular before an infinitive	1	the
 EZK 19:11	1	21	μέγεθος	μέγεθος	noun, accusative neuter singular	1	size
 EZK 19:11	1	22	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 EZK 19:11	1	23	ἐν	ἐν	preposition with the dative	1	in
 EZK 19:11	1	24	πλήθει	πλῆθος	noun, dative neuter singular	1	multitude
-EZK 19:11	1	25	κλημάτων	κλῆμα	noun, genitive neuter plural	1	branches
+EZK 19:11	1	25	κλημάτων	κλῆμα	noun, genitive neuter plural	1	of branches
 EZK 19:11	1	26	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 EZK 19:12	1	1	καὶ	καί	conjunction	1	and
 EZK 19:12	1	2	κατεκλάσθη	κατακλάομαι	aorist passive indicative, 3rd singular	1	was broken
 EZK 19:12	1	3	ἐν	ἐν	preposition with the dative	1	in
 EZK 19:12	1	4	θυμῷ	θυμός	noun, dative masculine singular	1	fury
-EZK 19:12	1	5	ἐπὶ	ἐπί	preposition with the dative	1	over
-EZK 19:12	1	6	γῆν	γῆ	noun, accusative feminine singular	1	land
+EZK 19:12	1	5	ἐπὶ	ἐπί	preposition with the dative	1	on
+EZK 19:12	1	6	γῆν	γῆ	noun, accusative feminine singular	1	ground
 EZK 19:12	1	7	ἐρίφη	ῥίπτω	aorist passive indicative, 3rd singular	1	was cast
 EZK 19:12	1	8	καὶ	καί	conjunction	1	and
 EZK 19:12	1	9	ἄνεμος	ἄνεμος	noun, nominative masculine singular	1	wind
@@ -235,7 +235,7 @@ EZK 19:12	1	17	καὶ	καί	conjunction	1	and
 EZK 19:12	1	18	ἐξηράνθη	ξηραίνομαι	aorist passive indicative, 3rd singular	1	was withered
 EZK 19:12	1	19	ἡ	ὁ	article, nominative feminine singular	1	the
 EZK 19:12	1	20	ῥάβδος	ῥάβδος	noun, nominative feminine singular	1	rod
-EZK 19:12	1	21	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	strength
+EZK 19:12	1	21	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	of strength
 EZK 19:12	1	22	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 EZK 19:12	1	23	πῦρ	πῦρ	noun, nominative neuter singular	1	fire
 EZK 19:12	1	24	ἀνήλωσεν	ἀναλίσκω	aorist active indicative, 3rd singular	1	consumed
@@ -255,7 +255,7 @@ EZK 19:14	1	2	ἐξῆλθε	ἐξέρχομαι	aorist active indicative, 3rd s
 EZK 19:14	1	3	πῦρ	πῦρ	noun, nominative neuter singular	1	fire
 EZK 19:14	1	4	ἐκ	ἐκ	preposition with the genitive	1	from
 EZK 19:14	1	5	ῥάβδου	ῥάβδος	noun, genitive feminine singular	1	staff
-EZK 19:14	1	6	ἐκλεκτῶν	ἐκλεκτός	adjective, genitive feminine plural	1	choice
+EZK 19:14	1	6	ἐκλεκτῶν	ἐκλεκτός	adjective, genitive feminine plural	1	of choice ones
 EZK 19:14	1	7	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 EZK 19:14	1	8	καὶ	καί	conjunction	1	and
 EZK 19:14	1	9	κατέφαγεν	κατεσθίω	aorist active indicative, 3rd singular	1	devoured
@@ -266,12 +266,12 @@ EZK 19:14	1	13	ἦν	εἰμί	imperfect indicative, 3rd singular	1	was
 EZK 19:14	1	14	ἐν	ἐν	preposition with the dative	1	in
 EZK 19:14	1	15	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 EZK 19:14	1	16	ῥάβδος	ῥάβδος	noun, nominative feminine singular	1	rod
-EZK 19:14	1	17	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	strength
+EZK 19:14	1	17	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	of strength
 EZK 19:14	1	18	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 EZK 19:14	1	19	φυλὴ	φυλή	noun, nominative feminine singular	1	tribe
 EZK 19:14	1	20	εἰς	εἰς	preposition with the accusative	1	into
 EZK 19:14	1	21	παραβολὴν	παραβολή	noun, accusative feminine singular	1	parable
-EZK 19:14	1	22	θρήνου	θρῆνος	noun, genitive masculine singular	1	lamentation
+EZK 19:14	1	22	θρήνου	θρῆνος	noun, genitive masculine singular	1	of lamentation
 EZK 19:14	1	23	ἐστὶ	εἰμί	present indicative, 3rd singular	1	is
 EZK 19:14	1	24	καὶ	καί	conjunction	1	and
 EZK 19:14	1	25	ἔσται	εἰμί	future middle indicative, 3rd singular	1	shall be

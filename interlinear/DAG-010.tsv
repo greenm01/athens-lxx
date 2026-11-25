@@ -8,7 +8,7 @@ DAG 10:1	1	6	Περσῶν	Πέρσης	noun, genitive masculine plural	1	of the
 DAG 10:1	1	7	λόγος	λόγος	noun, nominative masculine singular	1	word
 DAG 10:1	1	7	λόγος			2	message
 DAG 10:1	1	8	ἀπεκαλύφθη	ἀποκαλύπτω	aorist passive indicative, third singular	1	was revealed
-DAG 10:1	1	9	τῷ	ὁ	article, dative masculine singular	1	the
+DAG 10:1	1	9	τῷ	ὁ	article, dative masculine singular	1	to
 DAG 10:1	1	10	Δανιὴλ	Δανιήλ	noun, dative masculine singular; indeclinable	1	Daniel
 DAG 10:1	1	11	οὗ	ὅς	relative pronoun, genitive masculine singular	1	whose
 DAG 10:1	1	12	τὸ	ὁ	article, nominative neuter singular	1	the
@@ -42,11 +42,11 @@ DAG 10:2	1	3	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
 DAG 10:2	1	4	ἐκείναις	ἐκεῖνος	demonstrative adjective, dative feminine plural	1	those
 DAG 10:2	1	5	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 DAG 10:2	1	6	Δανιὴλ	Δανιήλ	noun, nominative masculine singular; indeclinable	1	Daniel
-DAG 10:2	1	7	ἤμην	εἰμί	imperfect indicative, first singular	1	I was
+DAG 10:2	1	7	ἤμην	εἰμί	imperfect indicative, first singular	1	was
 DAG 10:2	1	8	πενθῶν	πενθέω	present active participle, nominative masculine singular	1	mourning
 DAG 10:2	1	9	τρεῖς	τρεῖς	cardinal numeral, nominative plural (gender from context)	1	three
 DAG 10:2	1	10	ἑβδομάδας	ἑβδομάς	noun, accusative feminine plural; accusative of duration	1	weeks
-DAG 10:2	1	11	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
+DAG 10:2	1	11	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	of days
 DAG 10:3	1	1	ἄρτον	ἄρτος	noun, accusative masculine singular	1	bread
 DAG 10:3	1	1	ἄρτον			2	food
 DAG 10:3	1	2	ἐπιθυμιῶν	ἐπιθυμία	noun, genitive feminine plural; genitive of description with ἄρτον	1	of choice
@@ -72,9 +72,9 @@ DAG 10:3	1	18	ἠλειψάμην			2	I rubbed myself with oil
 DAG 10:3	1	19	ἕως	ἕως	temporal conjunction/preposition	1	until
 DAG 10:3	1	20	πληρώσεως	πλήρωσις	noun, genitive feminine singular	1	completion
 DAG 10:3	1	20	πληρώσεως			2	fulfillment
-DAG 10:3	1	21	τριῶν	τρεῖς	cardinal numeral, genitive plural	1	three
+DAG 10:3	1	21	τριῶν	τρεῖς	cardinal numeral, genitive plural	1	of three
 DAG 10:3	1	22	ἑβδομάδων	ἑβδομάς	noun, genitive feminine plural	1	weeks
-DAG 10:3	1	23	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
+DAG 10:3	1	23	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	of days
 DAG 10:4	1	1	Ἐν	ἐν	preposition with the dative	1	in
 DAG 10:4	1	2	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 DAG 10:4	1	3	εἰκοστῇ	εἰκοστός	ordinal adjective, dative feminine singular	1	twentieth
@@ -86,12 +86,12 @@ DAG 10:4	1	8	τοῦ	ὁ	article, genitive masculine singular; attributive	1	the
 DAG 10:4	1	9	πρώτου	πρῶτος	ordinal adjective, genitive masculine singular	1	first
 DAG 10:4	1	10	καὶ	καί	conjunction	1	and
 DAG 10:4	1	11	ἐγὼ	ἐγώ	pronoun, nominative first singular emphatic	1	I
-DAG 10:4	1	12	ἤμην	εἰμί	imperfect indicative, first singular	1	I was
+DAG 10:4	1	12	ἤμην	εἰμί	imperfect indicative, first singular	1	was
 DAG 10:4	1	13	ἐχόμενα	ἔχω	present middle participle, accusative neuter plural; adverbial use	1	beside
 DAG 10:4	1	13	ἐχόμενα			2	near
 DAG 10:4	1	14	τοῦ	ὁ	article, genitive masculine singular	1	the
 DAG 10:4	1	15	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	river
-DAG 10:4	1	16	τοῦ	ὁ	article, genitive masculine singular	1	of the
+DAG 10:4	1	16	τοῦ	ὁ	article, genitive masculine singular	1	the
 DAG 10:4	1	17	μεγάλου	μέγας	adjective, genitive masculine singular	1	great
 DAG 10:4	1	18	αὐτός	αὐτός	pronoun, nominative masculine singular	1	it
 DAG 10:4	1	19	ἐστι	εἰμί	present indicative, third singular	1	is
@@ -136,11 +136,11 @@ DAG 10:6	1	7	καὶ	καί	conjunction	1	and
 DAG 10:6	1	8	τὸ	ὁ	article, nominative neuter singular	1	the
 DAG 10:6	1	9	πρόσωπον	πρόσωπον	noun, nominative neuter singular	1	face
 DAG 10:6	1	9	πρόσωπον			2	front
-DAG 10:6	1	10	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	its
+DAG 10:6	1	10	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	his
 DAG 10:6	1	11	ὡς	ὡς	comparative particle	1	as
 DAG 10:6	1	12	ὅρασις	ὅρασις	noun, nominative feminine singular	1	appearance
 DAG 10:6	1	12	ὅρασις			2	look
-DAG 10:6	1	13	ἀστραπῆς	ἀστραπή	noun, genitive feminine singular	1	flash
+DAG 10:6	1	13	ἀστραπῆς	ἀστραπή	noun, genitive feminine singular	1	of lightning
 DAG 10:6	1	13	ἀστραπῆς			2	lightning
 DAG 10:6	1	14	καὶ	καί	conjunction	1	and
 DAG 10:6	1	15	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -166,7 +166,7 @@ DAG 10:6	1	31	στίλβοντος			2	polished
 DAG 10:6	1	32	καὶ	καί	conjunction	1	and
 DAG 10:6	1	33	ἡ	ὁ	article, nominative feminine singular	1	the
 DAG 10:6	1	34	φωνὴ	φωνή	noun, nominative feminine singular	1	voice
-DAG 10:6	1	35	τῶν	ὁ	definite article, genitive plural	1	the
+DAG 10:6	1	35	τῶν	ὁ	definite article, genitive plural	1	of the
 DAG 10:6	1	36	λόγων	λόγος	noun, genitive masculine plural	1	words
 DAG 10:6	1	37	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 DAG 10:6	1	38	ὡς	ὡς	comparative particle	1	as
@@ -198,7 +198,7 @@ DAG 10:7	1	19	ἡ	ὁ	article, nominative feminine singular	1	the
 DAG 10:7	1	20	ἔκτασις	ἔκτασις	noun, nominative feminine singular	1	agitation
 DAG 10:7	1	20	ἔκτασις			2	terror
 DAG 10:7	1	21	μεγάλη	μέγας	adjective, nominative feminine singular predicate	1	great
-DAG 10:7	1	22	ἐπέπεσεν	ἐπιπίπτω	aorist active indicative, third singular	1	fell upon
+DAG 10:7	1	22	ἐπέπεσεν	ἐπιπίπτω	aorist active indicative, third singular	1	fell
 DAG 10:7	1	22	ἐπέπεσεν			2	attacked
 DAG 10:7	1	23	ἐπ᾽	ἐπί	Preposition with accusative	1	upon
 DAG 10:7	1	23	ἐπ᾽			2	on
@@ -208,7 +208,7 @@ DAG 10:7	1	26	ἔφυγον	φεύγω	aorist active indicative, third plural	1	
 DAG 10:7	1	27	ἐν	ἐν	preposition with the dative	1	in
 DAG 10:7	1	28	φόβῳ	φόβος	noun dative masculine singular	1	fear
 DAG 10:8	1	1	Κἀγὼ	καί ἐγώ	crasis of καί + ἐγώ, nominative first singular with καί 'I also'	1	I also
-DAG 10:8	1	2	ὑπελείφθην	ὑπολείπω	aorist passive indicative, first singular	1	I was left
+DAG 10:8	1	2	ὑπελείφθην	ὑπολείπω	aorist passive indicative, first singular	1	was left
 DAG 10:8	1	3	μόνος	μόνος	adjective, nominative masculine singular	1	alone
 DAG 10:8	1	4	καὶ	καί	conjunction	1	and
 DAG 10:8	1	5	ἴδον	ὁράω	aorist active indicative, first singular	1	I saw
@@ -242,10 +242,10 @@ DAG 10:8	1	26	ἐκράτησα			2	I held on to
 DAG 10:8	1	27	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	strength
 DAG 10:8	1	27	ἰσχύος			2	might
 DAG 10:9	1	1	καὶ	καί	conjunction	1	and
-DAG 10:9	1	2	ἤκουσα	ἀκούω	aorist active indicative, 1st singular	1	I have heard
+DAG 10:9	1	2	ἤκουσα	ἀκούω	aorist active indicative, 1st singular	1	I heard
 DAG 10:9	1	3	τὴν	ὁ	article, accusative fem. sg	1	the
 DAG 10:9	1	4	φωνὴν	φωνή	noun, accusative feminine singular	1	voice
-DAG 10:9	1	5	τῶν	ὁ	article genitive masculine plural	1	the
+DAG 10:9	1	5	τῶν	ὁ	article genitive masculine plural	1	of the
 DAG 10:9	1	6	λόγων	λόγος	noun, genitive masc. pl	1	words
 DAG 10:9	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	his
 DAG 10:9	1	8	καὶ	καί	conjunction	1	and
@@ -255,7 +255,7 @@ DAG 10:9	1	10	τῷ	ὁ	article, dative masculine singular	1	the
 DAG 10:9	1	11	ἀκοῦσαί	ἀκούω	aorist active infinitive	1	heard
 DAG 10:9	1	12	με	ἐγώ	First-person singular pronoun; accusative subject of infinitive	1	I
 DAG 10:9	1	13	φωνὴν	φωνή	noun, accusative feminine singular	1	voice
-DAG 10:9	1	14	ῥημάτων	ῥῆμα	noun, genitive neuter plural	1	words
+DAG 10:9	1	14	ῥημάτων	ῥῆμα	noun, genitive neuter plural	1	of words
 DAG 10:9	1	15	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 DAG 10:9	1	16	ἤμην	εἰμί	imperfect indicative, first singular	1	I was
 DAG 10:9	1	17	κατανενυγμένος	κατανύσσω	perfect passive participle, nominative masculine singular	1	stunned
@@ -267,7 +267,7 @@ DAG 10:9	1	21	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 DAG 10:9	1	22	ἐπὶ	ἐπί	Preposition with accusative	1	to
 DAG 10:9	1	22	ἐπὶ			2	toward
 DAG 10:9	1	23	τὴν	ὁ	article, accusative feminine singular	1	the
-DAG 10:9	1	24	γῆν	γῆ	noun, accusative feminine singular	1	land
+DAG 10:9	1	24	γῆν	γῆ	noun, accusative feminine singular	1	ground
 DAG 10:10	1	1	Καὶ	καί	conjunction	1	and
 DAG 10:10	1	2	ἰδοὺ	ἰδού	presentative particle	1	behold
 DAG 10:10	1	3	χεὶρ	χείρ	noun, nominative feminine singular	1	the hand
@@ -284,7 +284,7 @@ DAG 10:10	1	12	μου	ἐγώ	personal pronoun, genitive first singular	1	my
 DAG 10:10	1	13	καὶ	καί	conjunction	1	and
 DAG 10:10	1	14	ταρσοὺς	ταρσός	noun, accusative masculine plural	1	palms
 DAG 10:10	1	14	ταρσοὺς			2	flat surfaces
-DAG 10:10	1	15	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
+DAG 10:10	1	15	χειρῶν	χείρ	noun, genitive feminine plural	1	of hands
 DAG 10:10	1	16	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 DAG 10:11	1	1	Καὶ	καί	conjunction	1	and
 DAG 10:11	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
@@ -379,7 +379,7 @@ DAG 10:13	1	1	Καὶ	καί	conjunction	1	and
 DAG 10:13	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 DAG 10:13	1	3	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 DAG 10:13	1	3	ἄρχων			2	chief
-DAG 10:13	1	4	βασιλείας	βασιλεία	noun, accusative feminine plural	1	kingdoms
+DAG 10:13	1	4	βασιλείας	βασιλεία	noun, accusative feminine plural	1	of the kingdom
 DAG 10:13	1	5	Περσῶν	Πέρσης	noun, genitive masculine plural	1	of the Persians
 DAG 10:13	1	6	εἱστήκει	ἵστημι	pluperfect active indicative, 3rd sg	1	was standing
 DAG 10:13	1	7	ἐξεναντίας	ἐξεναντίας	Preposition with genitive	1	against
@@ -394,7 +394,7 @@ DAG 10:13	1	14	καὶ	καί	conjunction	1	and
 DAG 10:13	1	15	ἰδοὺ	ἰδού	presentative particle	1	behold
 DAG 10:13	1	16	Μιχαὴλ	Μιχαήλ	noun, nominative masculine singular; indeclinable	1	Michael
 DAG 10:13	1	17	εἷς	εἷς	cardinal numeral, nominative masculine singular	1	one
-DAG 10:13	1	18	τῶν	ὁ	article, genitive masculine plural	1	the
+DAG 10:13	1	18	τῶν	ὁ	article, genitive masculine plural	1	of the
 DAG 10:13	1	19	ἀρχόντων	ἄρχων	noun, genitive masculine plural	1	leaders
 DAG 10:13	1	20	τῶν	ὁ	article, genitive masculine plural	1	the
 DAG 10:13	1	21	πρώτων	πρῶτος	ordinal adjective, genitive masculine plural	1	chief
@@ -402,7 +402,7 @@ DAG 10:13	1	21	πρώτων			2	first
 DAG 10:13	1	22	ἦλθε	ἔρχομαι	aorist active indicative, third singular	1	came
 DAG 10:13	1	23	βοηθῆσαί	βοηθέω	aorist active infinitive	1	to help
 DAG 10:13	1	23	βοηθῆσαί			2	to assist
-DAG 10:13	1	24	μοι	ἐγώ	personal pronoun, dative singular	1	to me
+DAG 10:13	1	24	μοι	ἐγώ	personal pronoun, dative singular	1	me
 DAG 10:13	1	25	καὶ	καί	conjunction	1	and
 DAG 10:13	1	26	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 DAG 10:13	1	27	κατέλιπον	καταλείπω	aorist active indicative, first singular	1	I left
@@ -411,7 +411,7 @@ DAG 10:13	1	28	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 DAG 10:13	1	29	μετὰ	μετά	preposition with genitive	1	with
 DAG 10:13	1	30	τοῦ	ὁ	article, genitive singular	1	the
 DAG 10:13	1	31	ἄρχοντος	ἄρχων	noun, genitive masculine singular	1	leader
-DAG 10:13	1	32	βασιλείας	βασιλεία	noun, genitive feminine singular	1	kingdom
+DAG 10:13	1	32	βασιλείας	βασιλεία	noun, genitive feminine singular	1	of the kingdom
 DAG 10:13	1	32	βασιλείας			2	reign
 DAG 10:13	1	33	Περσῶν	Πέρσης	noun, genitive masculine plural	1	of the Persians
 DAG 10:14	1	1	καὶ	καί	conjunction	1	and
@@ -423,13 +423,13 @@ DAG 10:14	1	5	ὅσα	ὅσος	adjective, nominative neuter plural; used substa
 DAG 10:14	1	5	ὅσα			2	all that
 DAG 10:14	1	6	ἀπαντήσεται	ἀπαντάω	future middle indicative, third singular	1	will happen
 DAG 10:14	1	6	ἀπαντήσεται			2	will befall
-DAG 10:14	1	7	τῷ	ὁ	article, dative masculine singular	1	the
+DAG 10:14	1	7	τῷ	ὁ	article, dative masculine singular	1	—
 DAG 10:14	1	8	λαῷ	λαός	noun, dative masculine singular	1	to the people
 DAG 10:14	1	9	σου	σύ	pronoun, genitive 2nd singular	1	your
 DAG 10:14	1	10	ἐπ᾽	ἐπί	preposition with genitive, elided	1	at
 DAG 10:14	1	11	ἐσχάτων	ἔσχατος	adjective, genitive neuter plural; used substantivally in temporal expression	1	the end
 DAG 10:14	1	11	ἐσχάτων			2	the last part
-DAG 10:14	1	12	τῶν	ὁ	article, genitive plural	1	the
+DAG 10:14	1	12	τῶν	ὁ	article, genitive plural	1	of the
 DAG 10:14	1	13	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
 DAG 10:14	1	14	ὅτι	ὅτι	causal conjunction	1	because
 DAG 10:14	1	15	ἔτι	ἔτι	temporal adverb	1	still
@@ -457,7 +457,7 @@ DAG 10:15	1	15	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 DAG 10:15	1	16	ἐπὶ	ἐπί	Preposition with accusative	1	to
 DAG 10:15	1	16	ἐπὶ			2	toward
 DAG 10:15	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
-DAG 10:15	1	18	γῆν	γῆ	noun, accusative feminine singular	1	land
+DAG 10:15	1	18	γῆν	γῆ	noun, accusative feminine singular	1	ground
 DAG 10:15	1	19	καὶ	καί	conjunction	1	and
 DAG 10:15	1	20	κατενύγην	κατανύσσω	aorist passive indicative, first singular	1	I was stunned
 DAG 10:15	1	20	κατενύγην			2	I fell silent
@@ -466,8 +466,8 @@ DAG 10:16	1	2	ἰδοὺ	ἰδού	presentative particle	1	behold
 DAG 10:16	1	3	ὡς	ὡς	comparative particle	1	as
 DAG 10:16	1	4	ὁμοίωσις	ὁμοίωσις	noun, nominative feminine singular	1	likeness
 DAG 10:16	1	4	ὁμοίωσις			2	resemblance
-DAG 10:16	1	5	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-DAG 10:16	1	6	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
+DAG 10:16	1	5	υἱοῦ	υἱός	noun, genitive masculine singular	1	of a son
+DAG 10:16	1	6	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of man
 DAG 10:16	1	7	ἥψατο	ἅπτω	aorist middle indicative, third singular	1	touched
 DAG 10:16	1	8	τῶν	ὁ	article, genitive plural	1	the
 DAG 10:16	1	9	χειλέων	χεῖλος	noun, genitive neuter plural	1	lips
@@ -499,7 +499,7 @@ DAG 10:16	1	32	ἐντός	ἐντός	adverb used substantivally with article	1
 DAG 10:16	1	32	ἐντός			2	inward parts
 DAG 10:16	1	33	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 DAG 10:16	1	34	ἐν	ἐν	preposition with the dative	1	in
-DAG 10:16	1	35	ἐμοὶ	ἐγώ	personal pronoun, emphatic dative singular	1	to me
+DAG 10:16	1	35	ἐμοὶ	ἐγώ	personal pronoun, emphatic dative singular	1	me
 DAG 10:16	1	36	καὶ	καί	conjunction	1	and
 DAG 10:16	1	37	οὐκ	οὐ	negative particle	1	not
 DAG 10:16	1	38	ἔσχον	ἔχω	aorist active indicative, first singular	1	I retained
@@ -546,7 +546,7 @@ DAG 10:18	1	5	μου	ἐγώ	First-person singular pronoun; genitive	1	me
 DAG 10:18	1	6	ὡς	ὡς	comparative particle	1	as
 DAG 10:18	1	7	ὅρασις	ὅρασις	noun, nominative feminine singular	1	appearance
 DAG 10:18	1	7	ὅρασις			2	look
-DAG 10:18	1	8	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
+DAG 10:18	1	8	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a man
 DAG 10:18	1	9	καὶ	καί	conjunction	1	and
 DAG 10:18	1	10	ἐνίσχυσέ	ἐνισχύω	aorist active indicative, third singular	1	he strengthened
 DAG 10:18	1	10	ἐνίσχυσέ			2	he gave strength to
@@ -590,7 +590,7 @@ DAG 10:19	1	29	με	ἐγώ	personal pronoun, accusative singular	1	me
 DAG 10:20	1	1	Καὶ	καί	conjunction	1	and
 DAG 10:20	1	2	εἶπέ	λέγω	aorist active indicative, third singular	1	he said
 DAG 10:20	1	3	μοι	ἐγώ	personal pronoun, dative singular	1	to me
-DAG 10:20	1	4	εἰ	εἰ	Interrogative particle	1	whether
+DAG 10:20	1	4	εἰ	εἰ	Interrogative particle	1	[marks a question]
 DAG 10:20	1	5	οἶδας	οἶδα	perfect active indicative, 2nd sg	1	you know
 DAG 10:20	1	6	ἱνατί	ἱνατί	interrogative adverb, ἵνα τί written as one word	1	why
 DAG 10:20	1	6	ἱνατί			2	to what end
@@ -608,12 +608,12 @@ DAG 10:20	1	16	ἄρχοντος	ἄρχων	noun, genitive masculine singular	1
 DAG 10:20	1	17	Περσῶν	Πέρσης	noun, genitive masculine plural	1	of the Persians
 DAG 10:20	1	18	καὶ	καί	conjunction	1	and
 DAG 10:20	1	19	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-DAG 10:20	1	20	ἐξεπορευόμην	ἐκπορεύομαι	imperfect middle indicative, 1st sg	1	I was coming out
+DAG 10:20	1	20	ἐξεπορευόμην	ἐκπορεύομαι	imperfect middle indicative, 1st sg	1	was coming out
 DAG 10:20	1	21	καὶ	καί	conjunction	1	and
 DAG 10:20	1	22	ὁ	ὁ	article, nominative masculine singular	1	the
 DAG 10:20	1	23	ἄρχων	ἄρχων	noun, nominative masculine singular	1	ruler
 DAG 10:20	1	23	ἄρχων			2	chief
-DAG 10:20	1	24	τῶν	ὁ	article, genitive plural	1	the
+DAG 10:20	1	24	τῶν	ὁ	article, genitive plural	1	of the
 DAG 10:20	1	25	Ἑλλήνων	Ἕλλην	noun, genitive masculine plural	1	Greeks
 DAG 10:20	1	26	ἤρχετο	ἔρχομαι	imperfect middle indicative, third singular	1	was coming
 DAG 10:21	1	1	ἀλλ᾽	ἀλλά	Adversative conjunction	1	but
@@ -633,7 +633,7 @@ DAG 10:21	1	10	καὶ	καί	conjunction	1	and
 DAG 10:21	1	11	οὐκ	οὐ	negative particle	1	not
 DAG 10:21	1	12	ἔστιν	εἰμί	present indicative, third singular	1	is
 DAG 10:21	1	13	εἷς	εἷς	cardinal numeral, nominative masculine singular	1	one
-DAG 10:21	1	14	ἀντεχόμενος	ἀντέχομαι	present middle participle, nominative masculine singular	1	stands with
+DAG 10:21	1	14	ἀντεχόμενος	ἀντέχομαι	present middle participle, nominative masculine singular	1	standing firm
 DAG 10:21	1	14	ἀντεχόμενος			2	holds fast
 DAG 10:21	1	15	μετ᾽	μετά	elided preposition with the genitive	1	with
 DAG 10:21	1	16	ἐμοῦ	ἐγώ	pronoun, genitive first singular	1	me

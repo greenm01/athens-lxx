@@ -2,18 +2,18 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 DAG 7:1	1	1	ΕΝ	ἐν	preposition with the dative	1	in
 DAG 7:1	1	2	ἔτει	ἔτος	noun, dative neut. sg	1	year
 DAG 7:1	1	3	πρώτῳ	πρῶτος	ordinal adjective, dative neuter singular	1	first
-DAG 7:1	1	4	τῷ	ὁ	article, dative masculine singular	1	of the
+DAG 7:1	1	4	τῷ	ὁ	article, dative masculine singular	1	of
 DAG 7:1	1	5	Βαλτάσαρ	Βαλτάσαρ	noun, dative masculine singular; indeclinable king's name with dative article in regnal date	1	Belshazzar
 DAG 7:1	1	5	Βαλτάσαρ			2	Baltasar
 DAG 7:1	1	6	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
-DAG 7:1	1	7	Χαλδαίων	Χαλδαῖος	substantival adjective, genitive masculine plural	1	Chaldeans
+DAG 7:1	1	7	Χαλδαίων	Χαλδαῖος	substantival adjective, genitive masculine plural	1	of the Chaldeans
 DAG 7:1	1	8	Δανιὴλ	Δανιήλ	noun, nominative masculine singular; indeclinable	1	Daniel
 DAG 7:1	1	9	ἐνύπνιον	ἐνύπνιον	noun, accusative neuter singular, cognate object	1	a dream
 DAG 7:1	1	10	ἴδε	ὁράω	aorist active indicative, third singular	1	he saw
 DAG 7:1	1	11	καὶ	καί	conjunction	1	and
 DAG 7:1	1	12	αἱ	ὁ	article, nominative feminine plural	1	the
 DAG 7:1	1	13	ὁράσεις	ὅρασις	noun, nominative feminine plural	1	visions
-DAG 7:1	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+DAG 7:1	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 DAG 7:1	1	15	κεφαλῆς	κεφαλή	noun, genitive feminine singular	1	head
 DAG 7:1	1	16	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; distributive	1	his
 DAG 7:1	1	16	αὐτοῦ			2	its
@@ -31,16 +31,16 @@ DAG 7:2	1	3	ἐθεώρουν	θεωρέω	imperfect active indicative, first si
 DAG 7:2	1	3	ἐθεώρουν			2	I was looking
 DAG 7:2	1	4	ἐν	ἐν	preposition with the dative	1	in
 DAG 7:2	1	5	ὁράματι	ὅραμα	noun, dative neuter singular	1	a vision
-DAG 7:2	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
+DAG 7:2	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
 DAG 7:2	1	7	νυκτός	νύξ	noun, genitive feminine singular	1	night
 DAG 7:2	1	8	καὶ	καί	conjunction	1	and
 DAG 7:2	1	9	ἰδοὺ	ἰδού	presentative particle	1	behold
 DAG 7:2	1	10	οἱ	ὁ	article, nominative masculine plural	1	the
 DAG 7:2	1	11	τέσσαρες	τέσσαρες	cardinal numeral, nominative masculine plural	1	four
 DAG 7:2	1	12	ἄνεμοι	ἄνεμος	noun, nominative masculine plural	1	winds
-DAG 7:2	1	13	τοῦ	ὁ	article, genitive singular	1	the
+DAG 7:2	1	13	τοῦ	ὁ	article, genitive singular	1	of the
 DAG 7:2	1	14	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
-DAG 7:2	1	15	προσέβαλον	προσβάλλω	aorist active indicative, third plural	1	beat against
+DAG 7:2	1	15	προσέβαλον	προσβάλλω	aorist active indicative, third plural	1	struck
 DAG 7:2	1	15	προσέβαλον			2	rushed against
 DAG 7:2	1	16	εἰς	εἰς	Preposition with accusative	1	against
 DAG 7:2	1	16	εἰς			2	into
@@ -72,7 +72,7 @@ DAG 7:4	1	8	πτερὰ	πτερόν	noun, accusative neuter plural	1	wings
 DAG 7:4	1	8	πτερὰ			2	feathers
 DAG 7:4	1	9	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 DAG 7:4	1	10	ὡς	ὡς	comparative particle	1	as
-DAG 7:4	1	11	ἀετοῦ	ἀετός	noun, genitive masculine singular	1	eagle
+DAG 7:4	1	11	ἀετοῦ	ἀετός	noun, genitive masculine singular	1	of an eagle
 DAG 7:4	1	12	ἐθεώρουν	θεωρέω	imperfect active indicative, first singular	1	I was watching
 DAG 7:4	1	12	ἐθεώρουν			2	I was looking
 DAG 7:4	1	13	ἕως	ἕως	temporal conjunction with οὗ	1	until
@@ -92,14 +92,14 @@ DAG 7:4	1	23	γῆς	γῆ	noun, genitive feminine singular	1	earth
 DAG 7:4	1	24	καὶ	καί	conjunction	1	and
 DAG 7:4	1	25	ἐπὶ	ἐπί	Preposition with genitive	1	on
 DAG 7:4	1	26	ποδῶν	πούς	noun, genitive masculine plural	1	feet
-DAG 7:4	1	27	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
+DAG 7:4	1	27	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a man
 DAG 7:4	1	28	ἐστάθη	ἵστημι	aorist passive indicative, third singular	1	was set
 DAG 7:4	1	28	ἐστάθη			2	was made to stand
 DAG 7:4	1	29	καὶ	καί	conjunction	1	and
 DAG 7:4	1	30	καρδία	καρδία	noun, nominative feminine singular	1	heart
 DAG 7:4	1	31	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a man
 DAG 7:4	1	32	ἐδόθη	δίδωμι	aorist passive indicative, third singular	1	was given
-DAG 7:4	1	33	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
+DAG 7:4	1	33	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to it
 DAG 7:5	1	1	Καὶ	καί	conjunction	1	and
 DAG 7:5	1	2	ἰδοὺ	ἰδού	presentative particle	1	behold
 DAG 7:5	1	3	θηρίον	θηρίον	noun, nominative neuter singular	1	a wild beast
@@ -131,8 +131,8 @@ DAG 7:5	1	23	καὶ	καί	conjunction	1	and
 DAG 7:5	1	24	οὕτως	οὕτως	adverb of manner	1	so
 DAG 7:5	1	25	ἔλεγον	λέγω	imperfect active indicative, third plural	1	they were saying
 DAG 7:5	1	25	ἔλεγον			2	they were telling
-DAG 7:5	1	26	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
-DAG 7:5	1	27	ἀνάστηθι	ἀνίστημι	aorist active imperative, 2nd sg	1	arise/up
+DAG 7:5	1	26	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to it
+DAG 7:5	1	27	ἀνάστηθι	ἀνίστημι	aorist active imperative, 2nd sg	1	arise
 DAG 7:5	1	28	φάγε	ἐσθίω	aorist active imperative, second singular	1	eat
 DAG 7:5	1	29	σάρκας	σάρξ	noun, accusative feminine plural	1	flesh
 DAG 7:5	1	30	πολλάς	πολύς	adjective, accusative feminine plural	1	much
@@ -153,21 +153,21 @@ DAG 7:6	1	11	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 DAG 7:6	1	12	πτερὰ	πτερόν	noun, nominative neuter plural	1	wings
 DAG 7:6	1	12	πτερὰ			2	feathers
 DAG 7:6	1	13	τέσσαρα	τέσσαρες	cardinal numeral, accusative neuter plural	1	four
-DAG 7:6	1	14	πετεινοῦ	πετεινόν	noun, genitive neuter singular	1	bird
+DAG 7:6	1	14	πετεινοῦ	πετεινόν	noun, genitive neuter singular	1	of a bird
 DAG 7:6	1	15	ὑπεράνω	ὑπεράνω	preposition with genitive	1	above
 DAG 7:6	1	15	ὑπεράνω			2	over
-DAG 7:6	1	16	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
+DAG 7:6	1	16	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
 DAG 7:6	1	17	καὶ	καί	conjunction	1	and
 DAG 7:6	1	18	τέσσαρες	τέσσαρες	cardinal numeral, nominative masculine plural	1	four
 DAG 7:6	1	19	κεφαλαὶ	κεφαλή	noun, nominative feminine plural	1	heads
-DAG 7:6	1	20	τῷ	ὁ	article, dative neuter singular	1	the
+DAG 7:6	1	20	τῷ	ὁ	article, dative neuter singular	1	to the
 DAG 7:6	1	21	θηρίῳ	θηρίον	noun, dative neuter singular	1	beast
 DAG 7:6	1	21	θηρίῳ			2	wild animal
 DAG 7:6	1	22	καὶ	καί	conjunction	1	and
 DAG 7:6	1	23	ἐξουσία	ἐξουσία	noun, nominative feminine singular	1	dominion
 DAG 7:6	1	23	ἐξουσία			2	authority
 DAG 7:6	1	24	ἐδόθη	δίδωμι	aorist passive indicative, third singular	1	was given
-DAG 7:6	1	25	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
+DAG 7:6	1	25	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to it
 DAG 7:7	1	1	Ὀπίσω	ὀπίσω	Preposition with genitive	1	after
 DAG 7:7	1	2	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	this
 DAG 7:7	1	3	ἐθεώρουν	θεωρέω	imperfect active indicative, first singular	1	I was watching
@@ -191,13 +191,13 @@ DAG 7:7	1	15	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 DAG 7:7	1	16	τὰ	ὁ	article, nominative neuter plural	1	the
 DAG 7:7	1	17	θηρία	θηρίον	noun, nominative neuter plural; direct address	1	wild animals
 DAG 7:7	1	18	τὰ	ὁ	article, accusative neuter plural	1	that were
-DAG 7:7	1	19	ἔμπροσθεν	ἔμπροσθεν	adverb used attributively	1	former
+DAG 7:7	1	19	ἔμπροσθεν	ἔμπροσθεν	adverb used attributively	1	before
 DAG 7:7	1	19	ἔμπροσθεν			2	earlier
 DAG 7:7	1	20	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	it
 DAG 7:7	1	21	καὶ	καί	conjunction	1	and
 DAG 7:7	1	22	κέρατα	κέρας	noun, nominative neuter plural	1	horns
 DAG 7:7	1	23	δέκα	δέκα	indeclinable cardinal numeral	1	ten
-DAG 7:7	1	24	αὐτῷ	αὐτός	pronoun, dative neuter singular	1	it
+DAG 7:7	1	24	αὐτῷ	αὐτός	pronoun, dative neuter singular	1	to it
 DAG 7:7	1	25	καὶ	καί	conjunction	1	and
 DAG 7:7	1	26	οἱ	ὁ	article, nominative masculine plural	1	the
 DAG 7:7	1	27	ὀδόντες	ὀδούς	noun, nominative masculine plural	1	teeth
@@ -214,7 +214,7 @@ DAG 7:7	1	34	καὶ	καί	conjunction	1	and
 DAG 7:7	1	35	τὰ	ὁ	article, accusative neuter plural	1	the things
 DAG 7:7	1	36	ἐπίλοιπα	ἐπίλοιπος	adjective, accusative neuter plural	1	remaining
 DAG 7:7	1	36	ἐπίλοιπα			2	left over
-DAG 7:7	1	37	τοῖς	ὁ	article, dative masculine plural; feet in the washing construction	1	the
+DAG 7:7	1	37	τοῖς	ὁ	article, dative masculine plural; feet in the washing construction	1	with the
 DAG 7:7	1	38	ποσὶν	πούς	noun, dative masculine plural	1	feet
 DAG 7:7	1	39	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	its
 DAG 7:7	1	40	συνεπάτει	συμπατέω	imperfect active indicative, third singular	1	it trampled
@@ -231,13 +231,13 @@ DAG 7:7	1	46	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 DAG 7:7	1	47	τὰ	ὁ	article, nominative neuter plural	1	the
 DAG 7:7	1	48	θηρία	θηρίον	noun, nominative neuter plural; direct address	1	wild animals
 DAG 7:7	1	49	τὰ	ὁ	article, accusative neuter plural	1	that were
-DAG 7:7	1	50	ἔμπροσθεν	ἔμπροσθεν	adverb used attributively	1	former
+DAG 7:7	1	50	ἔμπροσθεν	ἔμπροσθεν	adverb used attributively	1	before
 DAG 7:7	1	50	ἔμπροσθεν			2	earlier
 DAG 7:7	1	51	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	it
 DAG 7:7	1	52	καὶ	καί	conjunction	1	and
 DAG 7:7	1	53	δέκα	δέκα	indeclinable cardinal numeral	1	ten
 DAG 7:7	1	54	κέρατα	κέρας	noun, accusative neuter plural	1	horns
-DAG 7:7	1	55	αὐτῷ	αὐτός	pronoun, dative neuter singular	1	it
+DAG 7:7	1	55	αὐτῷ	αὐτός	pronoun, dative neuter singular	1	to it
 DAG 7:8	1	1	Προσενόουν	προσνοέω	imperfect active indicative, first singular	1	I was considering
 DAG 7:8	1	1	Προσενόουν			2	I was paying attention
 DAG 7:8	1	2	τοῖς	ὁ	article, dative neuter plural	1	the
@@ -257,7 +257,7 @@ DAG 7:8	1	14	καὶ	καί	conjunction	1	and
 DAG 7:8	1	15	τρία	τρεῖς	cardinal numeral, accusative neuter plural	1	three
 DAG 7:8	1	16	κέρατα	κέρας	noun, accusative neuter plural	1	horns
 DAG 7:8	1	17	τῶν	ὁ	article, genitive neuter plural; with horns understood	1	of those
-DAG 7:8	1	18	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	1	ahead
+DAG 7:8	1	18	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	1	before
 DAG 7:8	1	19	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	it
 DAG 7:8	1	20	ἐξεριζώθη	ἐκριζόω	aorist passive indicative, third singular	1	were uprooted
 DAG 7:8	1	20	ἐξεριζώθη			2	were pulled out
@@ -282,7 +282,7 @@ DAG 7:8	1	37	μεγάλα	μέγας	adjective, accusative neuter plural; used s
 DAG 7:8	1	37	μεγάλα			2	great things
 DAG 7:9	1	1	Ἐθεώρουν	θεωρέω	imperfect active indicative, first singular	1	I was watching
 DAG 7:9	1	1	Ἐθεώρουν			2	I was looking
-DAG 7:9	1	2	ἕως	ἕως	preposition with the genitive	1	as far as
+DAG 7:9	1	2	ἕως	ἕως	preposition with the genitive	1	until
 DAG 7:9	1	2	ἕως			2	up to
 DAG 7:9	1	3	ὅτου	ὅστις	Relative pronoun; genitive neuter singular in temporal phrase	1	—
 DAG 7:9	1	4	θρόνοι	θρόνος	noun, nominative masculine plural	1	thrones
@@ -291,7 +291,7 @@ DAG 7:9	1	5	ἐτέθησαν			2	were put down
 DAG 7:9	1	6	καὶ	καί	conjunction	1	and
 DAG 7:9	1	7	παλαιὸς	παλαιός	adjective, nominative masculine singular; used substantivally	1	Ancient One
 DAG 7:9	1	7	παλαιὸς			2	Ancient
-DAG 7:9	1	8	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
+DAG 7:9	1	8	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	of days
 DAG 7:9	1	9	ἐκάθητο	κάθημαι	imperfect middle indicative, third singular	1	was sitting
 DAG 7:9	1	10	καὶ	καί	conjunction	1	and
 DAG 7:9	1	11	τὸ	ὁ	article, nominative neuter singular	1	the
@@ -305,7 +305,7 @@ DAG 7:9	1	16	λευκὸν			2	white markings
 DAG 7:9	1	17	καὶ	καί	conjunction	1	and
 DAG 7:9	1	18	ἡ	ὁ	article, nominative feminine singular	1	the
 DAG 7:9	1	19	θρὶξ	θρίξ	noun, nominative feminine singular	1	hair
-DAG 7:9	1	20	τῆς	ὁ	article, genitive feminine singular	1	the
+DAG 7:9	1	20	τῆς	ὁ	article, genitive feminine singular	1	of the
 DAG 7:9	1	21	κεφαλῆς	κεφαλή	noun, genitive feminine singular	1	head
 DAG 7:9	1	22	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
 DAG 7:9	1	23	ὡσεὶ	ὡσεί	comparative conjunction	1	like
@@ -356,7 +356,7 @@ DAG 7:11	1	3	ἀπὸ	ἀπό	Preposition with genitive	1	because of
 DAG 7:11	1	3	ἀπὸ			2	from
 DAG 7:11	1	4	φωνῆς	φωνή	noun, genitive feminine singular	1	sound
 DAG 7:11	1	4	φωνῆς			2	voice
-DAG 7:11	1	5	τῶν	ὁ	definite article, genitive plural	1	the
+DAG 7:11	1	5	τῶν	ὁ	definite article, genitive plural	1	of the
 DAG 7:11	1	6	λόγων	λόγος	noun, genitive masculine plural	1	words
 DAG 7:11	1	7	τῶν	ὁ	article, genitive masculine plural	1	the
 DAG 7:11	1	8	μεγάλων	μέγας	adjective, genitive masculine plural	1	boastful
@@ -368,7 +368,7 @@ DAG 7:11	1	12	ἐκεῖνο	ἐκεῖνος	demonstrative pronoun, nominative 
 DAG 7:11	1	13	ἐλάλει	λαλέω	imperfect active indicative, third singular, feminine subject in context	1	kept speaking
 DAG 7:11	1	14	ἕως	ἕως	Temporal conjunction	1	until
 DAG 7:11	1	15	τὸ	ὁ	article, neuter singular (case from context)	1	the
-DAG 7:11	1	16	θηρίον	θηρίον	noun, nominative neuter singular	1	a wild beast
+DAG 7:11	1	16	θηρίον	θηρίον	noun, nominative neuter singular	1	wild beast
 DAG 7:11	1	17	ἐκεῖνο	ἐκεῖνος	demonstrative pronoun, accusative neuter singular	1	that
 DAG 7:11	1	18	ἀνῃρέθη	ἀναιρέω	aorist passive indicative, third singular	1	was killed
 DAG 7:11	1	18	ἀνῃρέθη			2	was put to death
@@ -383,7 +383,7 @@ DAG 7:11	1	26	εἰς	εἰς	preposition with the accusative	1	into
 DAG 7:11	1	27	καῦσιν	καῦσις	noun, accusative feminine singular	1	burning
 DAG 7:11	1	28	πυρός	πῦρ	noun, genitive neuter singular	1	of fire
 DAG 7:12	1	1	Καὶ	καί	conjunction	1	and
-DAG 7:12	1	2	τῶν	ὁ	article, genitive masculine plural	1	the
+DAG 7:12	1	2	τῶν	ὁ	article, genitive masculine plural	1	of the
 DAG 7:12	1	3	λοιπῶν	λοιπός	adjective/noun, genitive neut. pl	1	rest
 DAG 7:12	1	4	θηρίων	θηρίον	noun, genitive neuter plural	1	wild animals
 DAG 7:12	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -394,11 +394,11 @@ DAG 7:12	1	7	μετεστάθη			2	was removed
 DAG 7:12	1	8	καὶ	καί	conjunction	1	and
 DAG 7:12	1	9	μακρότης	μακρότης	noun, nominative feminine singular	1	length
 DAG 7:12	1	9	μακρότης			2	extension
-DAG 7:12	1	10	ζωῆς	ζωή	noun, genitive feminine singular	1	life
+DAG 7:12	1	10	ζωῆς	ζωή	noun, genitive feminine singular	1	of life
 DAG 7:12	1	11	ἐδόθη	δίδωμι	aorist passive indicative, third singular	1	was given
 DAG 7:12	1	11	ἐδόθη			2	was handed over
 DAG 7:12	1	12	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
-DAG 7:12	1	13	ἕως	ἕως	preposition with the genitive	1	as far as
+DAG 7:12	1	13	ἕως	ἕως	preposition with the genitive	1	until
 DAG 7:12	1	13	ἕως			2	up to
 DAG 7:12	1	14	καιροῦ	καιρός	noun, genitive masculine singular	1	time
 DAG 7:12	1	15	καὶ	καί	conjunction	1	and
@@ -407,7 +407,7 @@ DAG 7:13	1	1	Ἐθεώρουν	θεωρέω	imperfect active indicative, first s
 DAG 7:13	1	1	Ἐθεώρουν			2	I was looking
 DAG 7:13	1	2	ἐν	ἐν	preposition with the dative	1	in
 DAG 7:13	1	3	ὁράματι	ὅραμα	noun, dative neuter singular	1	a vision
-DAG 7:13	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
+DAG 7:13	1	4	τῆς	ὁ	article, genitive feminine singular	1	of the
 DAG 7:13	1	5	νυκτὸς	νύξ	noun, genitive feminine singular	1	night
 DAG 7:13	1	6	καὶ	καί	conjunction	1	and
 DAG 7:13	1	7	ἰδοὺ	ἰδού	presentative particle	1	behold
@@ -428,8 +428,8 @@ DAG 7:13	1	19	ἕως			2	up to
 DAG 7:13	1	20	τοῦ	ὁ	article, genitive singular	1	the
 DAG 7:13	1	21	παλαιοῦ	παλαιός	adjective, genitive masculine singular; used substantivally	1	Ancient One
 DAG 7:13	1	21	παλαιοῦ			2	Ancient
-DAG 7:13	1	22	τῶν	ὁ	article, genitive plural	1	the
-DAG 7:13	1	23	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
+DAG 7:13	1	22	τῶν	ὁ	article, genitive plural	1	—
+DAG 7:13	1	23	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	of days
 DAG 7:13	1	24	ἔφθασε	φθάνω	aorist active indicative, third singular	1	reached
 DAG 7:13	1	24	ἔφθασε			2	arrived
 DAG 7:13	1	25	καὶ	καί	conjunction	1	and
@@ -472,7 +472,7 @@ DAG 7:14	1	24	ἐξουσία			2	authority
 DAG 7:14	1	25	αἰώνιος	αἰώνιος	adjective, nominative masculine singular	1	everlasting
 DAG 7:14	1	26	ἥτις	ὅστις	relative pronoun, nominative feminine singular	1	which
 DAG 7:14	1	27	οὐ	οὐ	negative adverb with future indicative	1	not
-DAG 7:14	1	28	παρελεύσεται	παρέρχομαι	future middle indicative, 3rd sg	1	will pass over
+DAG 7:14	1	28	παρελεύσεται	παρέρχομαι	future middle indicative, 3rd sg	1	will pass away
 DAG 7:14	1	29	καὶ	καί	conjunction	1	and
 DAG 7:14	1	30	ἡ	ὁ	article, nominative feminine singular	1	the
 DAG 7:14	1	31	βασιλεία	βασιλεία	noun, nominative feminine singular	1	kingdom
@@ -497,7 +497,7 @@ DAG 7:15	1	10	Δανιὴλ	Δανιήλ	noun, nominative masculine singular; in
 DAG 7:15	1	11	καὶ	καί	conjunction	1	and
 DAG 7:15	1	12	αἱ	ὁ	article, nominative feminine plural	1	the
 DAG 7:15	1	13	ὁράσεις	ὅρασις	noun, nominative feminine plural	1	visions
-DAG 7:15	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+DAG 7:15	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 DAG 7:15	1	15	κεφαλῆς	κεφαλή	noun, genitive feminine singular	1	head
 DAG 7:15	1	16	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 DAG 7:15	1	17	ἐτάρασσόν	ταράσσω	imperfect active indicative, third plural	1	were troubling
@@ -531,7 +531,7 @@ DAG 7:16	1	21	καὶ	καί	conjunction	1	and
 DAG 7:16	1	22	τὴν	ὁ	article, accusative feminine singular	1	the
 DAG 7:16	1	23	σύγκρισιν	σύγκρισις	noun, accusative feminine singular	1	interpretation
 DAG 7:16	1	23	σύγκρισιν			2	explanation
-DAG 7:16	1	24	τῶν	ὁ	article genitive masculine plural	1	the
+DAG 7:16	1	24	τῶν	ὁ	article genitive masculine plural	1	of the
 DAG 7:16	1	25	λόγων	λόγος	noun, genitive masc. pl	1	words
 DAG 7:16	1	26	ἐγνώρισέ	γνωρίζω	aorist active indicative, third singular	1	made known
 DAG 7:16	1	26	ἐγνώρισέ			2	disclosed
@@ -567,7 +567,7 @@ DAG 7:18	1	11	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	i
 DAG 7:18	1	12	ἕως	ἕως	temporal conjunction/preposition	1	until
 DAG 7:18	1	13	αἰῶνος	αἰών	noun, genitive masculine singular	1	the age
 DAG 7:18	1	13	αἰῶνος			2	all time
-DAG 7:18	1	14	τῶν	ὁ	article, genitive masculine plural	1	the
+DAG 7:18	1	14	τῶν	ὁ	article, genitive masculine plural	1	of the
 DAG 7:18	1	15	αἰώνων	αἰών	noun, genitive masc. pl	1	ages
 DAG 7:19	1	1	Καὶ	καί	conjunction	1	and
 DAG 7:19	1	2	ἐζήτουν	ζητέω	imperfect active indicative, first singular	1	I was seeking
@@ -575,7 +575,7 @@ DAG 7:19	1	2	ἐζήτουν			2	I sought
 DAG 7:19	1	3	ἀκριβῶς	ἀκριβῶς	adverb	1	diligently
 DAG 7:19	1	4	περὶ	περί	preposition with genitive	1	concerning
 DAG 7:19	1	5	τοῦ	ὁ	article, genitive singular	1	the
-DAG 7:19	1	6	θηρίου	θηρίον	noun, genitive neuter singular	1	of a beast
+DAG 7:19	1	6	θηρίου	θηρίον	noun, genitive neuter singular	1	beast
 DAG 7:19	1	6	θηρίου			2	of a wild animal
 DAG 7:19	1	7	τοῦ	ὁ	article, genitive singular	1	the
 DAG 7:19	1	8	τετάρτου	τέταρτος	ordinal adjective, genitive neuter singular	1	fourth
@@ -586,7 +586,7 @@ DAG 7:19	1	11	διάφορον			2	distinct
 DAG 7:19	1	12	παρὰ	παρά	Preposition with accusative in comparison	1	beyond
 DAG 7:19	1	12	παρὰ			2	compared with
 DAG 7:19	1	13	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
-DAG 7:19	1	14	θηρίον	θηρίον	noun, nominative neuter singular	1	a wild beast
+DAG 7:19	1	14	θηρίον	θηρίον	noun, nominative neuter singular	1	wild beast
 DAG 7:19	1	15	φοβερὸν	φοβερός	adjective, nominative neuter singular	1	fearsome
 DAG 7:19	1	15	φοβερὸν			2	terrifying
 DAG 7:19	1	16	περισσῶς	περισσῶς	adverb	1	exceedingly
@@ -612,7 +612,7 @@ DAG 7:19	1	29	καὶ	καί	conjunction	1	and
 DAG 7:19	1	30	τὰ	ὁ	article, accusative neuter plural	1	the things
 DAG 7:19	1	31	ἐπίλοιπα	ἐπίλοιπος	adjective, accusative neuter plural	1	remaining
 DAG 7:19	1	31	ἐπίλοιπα			2	left over
-DAG 7:19	1	32	τοῖς	ὁ	article, dative masculine plural; feet in the washing construction	1	the
+DAG 7:19	1	32	τοῖς	ὁ	article, dative masculine plural; feet in the washing construction	1	with the
 DAG 7:19	1	33	ποσὶν	πούς	noun, dative masculine plural	1	feet
 DAG 7:19	1	34	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	its
 DAG 7:19	1	35	συνεπάτει	συμπατέω	imperfect active indicative, third singular	1	it trampled
@@ -658,7 +658,7 @@ DAG 7:20	1	34	ὅρασις	ὅρασις	noun, nominative feminine singular	1	a
 DAG 7:20	1	34	ὅρασις			2	look
 DAG 7:20	1	35	αὐτοῦ	αὐτός	pronoun, genitive neuter singular	1	its
 DAG 7:20	1	36	μείζων	μέγας	adjective, nominative feminine singular; comparative	1	greater
-DAG 7:20	1	37	τῶν	ὁ	article, genitive neuter plural	1	the
+DAG 7:20	1	37	τῶν	ὁ	article, genitive neuter plural	1	—
 DAG 7:20	1	38	λοιπῶν	λοιπός	adjective, genitive neuter plural; used substantivally	1	than the rest
 DAG 7:21	1	1	Ἐθεώρουν	θεωρέω	imperfect active indicative, first singular	1	I was watching
 DAG 7:21	1	1	Ἐθεώρουν			2	I was looking
@@ -684,8 +684,8 @@ DAG 7:22	1	3	ἦλθεν	ἔρχομαι	aorist active indicative, third singula
 DAG 7:22	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 DAG 7:22	1	5	παλαιὸς	παλαιός	adjective, nominative masculine singular; used substantivally	1	Ancient One
 DAG 7:22	1	5	παλαιὸς			2	Ancient
-DAG 7:22	1	6	τῶν	ὁ	article genitive feminine plural	1	the
-DAG 7:22	1	7	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
+DAG 7:22	1	6	τῶν	ὁ	article genitive feminine plural	1	—
+DAG 7:22	1	7	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	of days
 DAG 7:22	1	8	καὶ	καί	conjunction	1	and
 DAG 7:22	1	9	τὸ	ὁ	article, accusative neuter singular	1	the
 DAG 7:22	1	10	κρῖμα	κρίμα	noun, accusative neuter singular	1	judgment
@@ -708,7 +708,7 @@ DAG 7:22	1	23	ἅγιοι	ἅγιος	adjective, nominative masculine plural; us
 DAG 7:23	1	1	καὶ	καί	conjunction	1	and
 DAG 7:23	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 DAG 7:23	1	3	τὸ	ὁ	article, neuter singular (case from context)	1	the
-DAG 7:23	1	4	θηρίον	θηρίον	noun, nominative neuter singular	1	a wild beast
+DAG 7:23	1	4	θηρίον	θηρίον	noun, nominative neuter singular	1	wild beast
 DAG 7:23	1	5	τὸ	ὁ	article, nominative neuter singular	1	the
 DAG 7:23	1	6	τέταρτον	τέταρτος	ordinal adjective, nominative neuter singular	1	fourth
 DAG 7:23	1	7	βασιλεία	βασιλεία	noun, nominative feminine singular	1	kingdom
@@ -717,8 +717,8 @@ DAG 7:23	1	8	τετάρτη	τέταρτος	ordinal, nominative feminine singul
 DAG 7:23	1	9	ἔσται	εἰμί	future indicative, third singular	1	will be
 DAG 7:23	1	10	ἐν	ἐν	preposition with the dative	1	in
 DAG 7:23	1	11	τῇ	ὁ	article, dative feminine singular	1	the
-DAG 7:23	1	12	γῇ	γῆ	noun, dative feminine singular	1	ground
-DAG 7:23	1	13	ἥτις	ὅστις	relative pronoun, nominative feminine singular	1	such as
+DAG 7:23	1	12	γῇ	γῆ	noun, dative feminine singular	1	earth
+DAG 7:23	1	13	ἥτις	ὅστις	relative pronoun, nominative feminine singular	1	which
 DAG 7:23	1	14	ὑπερέξει	ὑπερέχω	future active indicative, third singular	1	will surpass
 DAG 7:23	1	14	ὑπερέξει			2	will have the upper hand
 DAG 7:23	1	15	πάσας	πᾶς	adjective, accusative feminine plural	1	all
@@ -729,7 +729,7 @@ DAG 7:23	1	19	καταφάγεται	κατεσθίω	future middle indicative, 
 DAG 7:23	1	19	καταφάγεται			2	will devour
 DAG 7:23	1	20	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 DAG 7:23	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
-DAG 7:23	1	22	γῆν	γῆ	noun, accusative feminine singular	1	land
+DAG 7:23	1	22	γῆν	γῆ	noun, accusative feminine singular	1	earth
 DAG 7:23	1	23	καὶ	καί	conjunction	1	and
 DAG 7:23	1	24	συμπατήσει	συμπατέω	future active indicative, third singular	1	will trample
 DAG 7:23	1	25	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
@@ -867,7 +867,7 @@ DAG 7:28	1	2	ὧδε	ὧδε	adverb	1	here
 DAG 7:28	1	3	τὸ	ὁ	article, nominative neuter singular	1	the
 DAG 7:28	1	4	πέρας	πέρας	noun, nominative neuter singular	1	end
 DAG 7:28	1	4	πέρας			2	conclusion
-DAG 7:28	1	5	τοῦ	ὁ	article, genitive masculine singular	1	the
+DAG 7:28	1	5	τοῦ	ὁ	article, genitive masculine singular	1	of the
 DAG 7:28	1	6	λόγου	λόγος	noun, genitive masculine singular	1	word
 DAG 7:28	1	7	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 DAG 7:28	1	8	Δανιὴλ	Δανιήλ	noun, nominative masculine singular; indeclinable	1	Daniel

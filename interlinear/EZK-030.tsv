@@ -7,7 +7,7 @@ EZK 30:1	1	5	πρὸς	πρός	preposition with the accusative	1	to
 EZK 30:1	1	6	μὲ	ἐγώ	pronoun, accusative 1st singular	1	me
 EZK 30:1	1	7	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 EZK 30:2	1	1	υἱὲ	υἱός	noun, vocative masculine singular	1	son
-EZK 30:2	1	2	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
+EZK 30:2	1	2	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of man
 EZK 30:2	1	3	προφήτευσον	προφητεύω	aorist active imperative, 2nd singular	1	prophesy
 EZK 30:2	1	4	καὶ	καί	conjunction	1	and
 EZK 30:2	1	5	εἰπόν	λέγω	aorist active imperative, 2nd singular	1	say
@@ -38,8 +38,8 @@ EZK 30:3	1	16	ἔσται	εἰμί	future indicative, third singular	1	will be
 EZK 30:4	1	1	καὶ	καί	conjunction	1	and
 EZK 30:4	1	2	ἥξει	ἥκω	future active indicative, third singular as printed Ἥξει	1	will come
 EZK 30:4	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
-EZK 30:4	1	4	μάχαιρα	μάχαιρα	noun, nominative feminine singular	1	a sword
-EZK 30:4	1	5	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+EZK 30:4	1	4	μάχαιρα	μάχαιρα	noun, nominative feminine singular	1	sword
+EZK 30:4	1	5	ἐπ᾽	ἐπί	preposition with the accusative	1	against
 EZK 30:4	1	6	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular	1	Egypt
 EZK 30:4	1	7	καὶ	καί	conjunction	1	and
 EZK 30:4	1	8	ἔσται	εἰμί	future indicative, third singular	1	will be
@@ -59,7 +59,7 @@ EZK 30:4	1	20	τὸ	ὁ	article, accusative neuter singular	1	the
 EZK 30:4	1	21	πλῆθος	πλῆθος	noun, accusative neuter singular	1	multitude
 EZK 30:4	1	22	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 EZK 30:4	1	23	καὶ	καί	conjunction	1	and
-EZK 30:4	1	24	συμπεσεῖται	συμπίπτω	future middle indicative, third singular	1	will clash together
+EZK 30:4	1	24	συμπεσεῖται	συμπίπτω	future middle indicative, third singular	1	will collapse
 EZK 30:4	1	24	συμπεσεῖται			2	will fall upon one another
 EZK 30:4	1	25	τὰ	ὁ	article, accusative neuter plural	1	the
 EZK 30:4	1	26	θεμέλια	θεμέλιον	noun, accusative neuter plural	1	foundations
@@ -79,16 +79,16 @@ EZK 30:5	1	12	ἐπ᾽	ἐπί	elided preposition with accusative	1	on
 EZK 30:5	1	12	ἐπ᾽			2	upon
 EZK 30:5	1	13	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 EZK 30:5	1	14	καὶ	καί	conjunction	1	and
-EZK 30:5	1	15	Χοὺβ	Χούβ	indeclinable proper name	1	Choub
+EZK 30:5	1	15	Χοὺβ	Χούβ	indeclinable proper name	1	Chub
 EZK 30:5	1	16	ἀπὸ	ἀπό	preposition with the genitive	1	from
 EZK 30:5	1	17	τῶν	ὁ	article, genitive masculine plural	1	the
 EZK 30:5	1	18	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
-EZK 30:5	1	19	γῆς	γῆ	noun, genitive feminine singular	1	land
-EZK 30:5	1	20	διαθήκης	διαθήκη	noun, genitive feminine singular	1	covenant
+EZK 30:5	1	19	γῆς	γῆ	noun, genitive feminine singular	1	of the land
+EZK 30:5	1	20	διαθήκης	διαθήκη	noun, genitive feminine singular	1	of covenant
 EZK 30:5	1	21	μου	ἐγώ	pronoun, genitive 1st singular	1	my
 EZK 30:5	1	22	ἐπ᾽	ἐπί	preposition, elided	1	on
 EZK 30:5	1	23	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
-EZK 30:5	1	24	μαχαίρᾳ	μάχαιρα	noun, dative feminine singular	1	sword
+EZK 30:5	1	24	μαχαίρᾳ	μάχαιρα	noun, dative feminine singular	1	by the sword
 EZK 30:5	1	25	πεσοῦνται	πίπτω	future middle indicative, third plural	1	will fall
 EZK 30:6	1	1	Τάδε	ὅδε	demonstrative pronoun, accusative neuter plural	1	these things
 EZK 30:6	1	2	λέγει	λέγω	present active indicative, 3rd singular	1	says
@@ -103,14 +103,14 @@ EZK 30:6	1	10	καταβήσεται	καταβαίνω	future middle indicative
 EZK 30:6	1	11	ἡ	ὁ	article, nominative feminine singular	1	the
 EZK 30:6	1	12	ὕβρις	ὕβρις	noun, nominative feminine singular	1	arrogance
 EZK 30:6	1	12	ὕβρις			2	pride
-EZK 30:6	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
+EZK 30:6	1	13	τῆς	ὁ	article, genitive feminine singular	1	of the
 EZK 30:6	1	14	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	might
 EZK 30:6	1	15	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 EZK 30:6	1	16	ἀπὸ	ἀπό	preposition with the genitive	1	from
-EZK 30:6	1	17	Μαγδωλοῦ	Μαγδωλός	noun, genitive masculine singular	1	Magdol
-EZK 30:6	1	18	ἕως	ἕως	preposition with the genitive	1	until
+EZK 30:6	1	17	Μαγδωλοῦ	Μαγδωλός	noun, genitive masculine singular	1	Migdol
+EZK 30:6	1	18	ἕως	ἕως	preposition with the genitive	1	as far as
 EZK 30:6	1	19	Σουήνης	Σουήνη	noun, genitive feminine singular	1	Syene
-EZK 30:6	1	20	μαχαίρᾳ	μάχαιρα	noun, dative feminine singular	1	sword
+EZK 30:6	1	20	μαχαίρᾳ	μάχαιρα	noun, dative feminine singular	1	by the sword
 EZK 30:6	1	21	πεσοῦνται	πίπτω	future middle indicative, third plural	1	will fall
 EZK 30:6	1	22	ἐν	ἐν	preposition with the dative	1	in
 EZK 30:6	1	23	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
@@ -120,7 +120,7 @@ EZK 30:7	1	1	Καὶ	καί	conjunction	1	and
 EZK 30:7	1	2	ἐρημωθήσεται	ἐρημόω	future passive indicative, third singular	1	will be made desolate
 EZK 30:7	1	3	ἐν	ἐν	preposition with the dative	1	in
 EZK 30:7	1	4	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
-EZK 30:7	1	5	χωρῶν	χώρα	noun, genitive feminine plural	1	countries
+EZK 30:7	1	5	χωρῶν	χώρα	noun, genitive feminine plural	1	of countries
 EZK 30:7	1	6	ἠφανισμένων	ἀφανίζω	perfect passive participle, genitive feminine plural	1	laid waste
 EZK 30:7	1	7	καὶ	καί	conjunction	1	and
 EZK 30:7	1	8	αἱ	ὁ	definite article, nominative feminine plural	1	the
@@ -128,7 +128,7 @@ EZK 30:7	1	9	πόλεις	πόλις	noun, nominative feminine plural	1	cities
 EZK 30:7	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 EZK 30:7	1	11	ἐν	ἐν	preposition with the dative	1	in
 EZK 30:7	1	12	μέσῳ	μέσος	adjective, dative neuter singular	1	midst
-EZK 30:7	1	13	πόλεων	πόλις	noun, genitive feminine plural	1	cities
+EZK 30:7	1	13	πόλεων	πόλις	noun, genitive feminine plural	1	of cities
 EZK 30:7	1	13	πόλεων			2	towns
 EZK 30:7	1	14	ἠρημωμένων	ἐρημόω	perfect passive participle, genitive feminine plural	1	desolated
 EZK 30:7	1	15	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
@@ -160,7 +160,7 @@ EZK 30:9	1	6	ἄγγελοι	ἄγγελος	noun, nominative masculine plural	1
 EZK 30:9	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
 EZK 30:9	1	8	προσώπου	πρόσωπον	noun, genitive neuter singular after ἀπό, in the phrase 'from the face of'	1	the face
 EZK 30:9	1	9	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-EZK 30:9	1	10	ἐν	ἐν	preposition with dative; articular infinitive	1	when
+EZK 30:9	1	10	ἐν	ἐν	preposition with dative; articular infinitive	1	in
 EZK 30:9	1	11	Σιεὶμ	Σιείμ	indeclinable proper name	1	Sieim
 EZK 30:9	1	12	σπεύδοντες	σπεύδω	present active participle, nominative masculine plural	1	hurrying
 EZK 30:9	1	13	ἀφανίσαι	ἀφανίζω	aorist active infinitive, remove/destroy	1	to remove
@@ -188,10 +188,10 @@ EZK 30:10	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	th
 EZK 30:10	1	5	καὶ	καί	conjunction	1	and
 EZK 30:10	1	6	ἀπολῶ	ἀπόλλυμι	future active indicative, first singular	1	I will destroy
 EZK 30:10	1	7	πλῆθος	πλῆθος	noun, accusative neuter singular	1	multitude
-EZK 30:10	1	8	Αἰγυπτίων	Αἰγύπτιος	noun, genitive masculine plural	1	Egyptians
+EZK 30:10	1	8	Αἰγυπτίων	Αἰγύπτιος	noun, genitive masculine plural	1	of Egyptians
 EZK 30:10	1	9	διὰ	διά	preposition (genitive 'through/by the hand of'; accusative with articular infinitive 'because')	1	through
 EZK 30:10	1	10	χειρὸς	χείρ	noun, genitive feminine singular	1	hand
-EZK 30:10	1	11	Ναβουχοδονόσορ	Ναβουχοδονόσορ	indeclinable proper name	1	Nebuchadnezzar
+EZK 30:10	1	11	Ναβουχοδονόσορ	Ναβουχοδονόσορ	indeclinable proper name	1	of Nebuchadnezzar
 EZK 30:10	1	12	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 EZK 30:10	1	13	Βαβυλῶνος	Βαβυλών	noun, genitive feminine singular; place name	1	of Babylon
 EZK 30:11	1	1	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
@@ -199,9 +199,9 @@ EZK 30:11	1	2	καὶ	καί	conjunction	1	and
 EZK 30:11	1	3	τοῦ	ὁ	article, genitive singular	1	the
 EZK 30:11	1	4	λαοῦ	λαός	noun, genitive masculine singular	1	people
 EZK 30:11	1	5	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-EZK 30:11	1	6	λοιμοὶ	λοιμός	noun, nominative masculine plural	1	worthlessness
+EZK 30:11	1	6	λοιμοὶ	λοιμός	noun, nominative masculine plural	1	pestilent men
 EZK 30:11	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
-EZK 30:11	1	8	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	of nations
+EZK 30:11	1	8	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 EZK 30:11	1	9	ἀπεσταλμένοι	ἀποστέλλω	perfect passive participle, nominative masculine plural; substantival	1	those sent out
 EZK 30:11	1	9	ἀπεσταλμένοι			2	envoys
 EZK 30:11	1	10	ἀπολέσαι	ἀπόλλυμι	aorist active infinitive	1	to destroy
@@ -213,15 +213,15 @@ EZK 30:11	1	15	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 EZK 30:11	1	16	τὰς	ὁ	article, accusative feminine plural	1	the
 EZK 30:11	1	17	μαχαίρας	μάχαιρα	noun, accusative feminine plural	1	swords
 EZK 30:11	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-EZK 30:11	1	19	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+EZK 30:11	1	19	ἐπ᾽	ἐπί	preposition with the accusative	1	against
 EZK 30:11	1	20	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular	1	Egypt
 EZK 30:11	1	21	καὶ	καί	conjunction	1	and
 EZK 30:11	1	22	πλησθήσεται	πίμπλημι	future passive indicative, 3rd singular	1	shall be filled
-EZK 30:11	1	23	τραυματιῶν	τραυματίας	noun, genitive masculine plural	1	of the wounded
+EZK 30:11	1	23	τραυματιῶν	τραυματίας	noun, genitive masculine plural	1	with the wounded
 EZK 30:11	1	24	ἡ	ὁ	article, nominative feminine singular	1	the
 EZK 30:11	1	25	γῆ	γῆ	noun, nominative feminine singular	1	land
 EZK 30:12	1	1	καὶ	καί	conjunction	1	and
-EZK 30:12	1	2	δώσω	δίδωμι	future active indicative, first singular	1	I will give
+EZK 30:12	1	2	δώσω	δίδωμι	future active indicative, first singular	1	I will make
 EZK 30:12	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
 EZK 30:12	1	4	ποταμοὺς	ποταμός	noun, accusative masculine plural after τοὺς	1	rivers
 EZK 30:12	1	5	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
@@ -233,7 +233,7 @@ EZK 30:12	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
 EZK 30:12	1	10	γῆν	γῆ	noun, accusative feminine singular	1	land
 EZK 30:12	1	11	ἐν	ἐν	preposition with the dative	1	in
 EZK 30:12	1	12	χειρὶ	χείρ	noun, dative feminine singular	1	hand
-EZK 30:12	1	13	πονηρῶν	πονηρός	adjective, genitive feminine plural	1	evil
+EZK 30:12	1	13	πονηρῶν	πονηρός	adjective, genitive feminine plural	1	of evil men
 EZK 30:12	1	13	πονηρῶν			2	wicked
 EZK 30:12	1	14	καὶ	καί	conjunction	1	and
 EZK 30:12	1	15	ἀπολῶ	ἀπόλλυμι	future active indicative, first singular	1	I will destroy
@@ -246,7 +246,7 @@ EZK 30:12	1	21	πλήρωμα	πλήρωμα	noun, accusative neuter singular	1	
 EZK 30:12	1	22	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 EZK 30:12	1	23	ἐν	ἐν	preposition with the dative	1	in
 EZK 30:12	1	24	χερσὶν	χείρ	noun, dative feminine plural	1	hands
-EZK 30:12	1	25	ἀλλοτρίων	ἀλλότριος	adjective, genitive masculine plural; substantival	1	strangers
+EZK 30:12	1	25	ἀλλοτρίων	ἀλλότριος	adjective, genitive masculine plural; substantival	1	of strangers
 EZK 30:12	1	25	ἀλλοτρίων			2	foreigners
 EZK 30:12	1	26	ἐγὼ	ἐγώ	pronoun, nominative 1st singular	1	I
 EZK 30:12	1	27	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -260,7 +260,7 @@ EZK 30:13	1	6	καὶ	καί	conjunction	1	and
 EZK 30:13	1	7	ἀπολῶ	ἀπόλλυμι	future active indicative, first singular	1	I will destroy
 EZK 30:13	1	8	βδελύγματα	βδέλυγμα	noun, accusative neuter plural	1	detestable things
 EZK 30:13	1	9	καὶ	καί	conjunction	1	and
-EZK 30:13	1	10	καταπαύσω	καταπαύω	future active indicative, 1st sg. transitive 'I will give you rest/cause you to rest'	1	I will give rest
+EZK 30:13	1	10	καταπαύσω	καταπαύω	future active indicative, 1st sg. transitive 'I will give you rest/cause you to rest'	1	I will make cease
 EZK 30:13	1	11	μεγιστᾶνας	μεγιστάν	noun, accusative masculine plural	1	nobles
 EZK 30:13	1	11	μεγιστᾶνας			2	magnates
 EZK 30:13	1	12	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -268,14 +268,14 @@ EZK 30:13	1	13	Μέμφεως	Μέμφις	noun, genitive feminine singular; pla
 EZK 30:13	1	14	καὶ	καί	conjunction	1	and
 EZK 30:13	1	15	ἄρχοντας	ἄρχων	noun, accusative masculine plural	1	rulers
 EZK 30:13	1	15	ἄρχοντας			2	chiefs
-EZK 30:13	1	16	Τάνεως	Τάνις	noun, genitive feminine singular; place name	1	Tanis
+EZK 30:13	1	16	Τάνεως	Τάνις	noun, genitive feminine singular; place name	1	of Tanis
 EZK 30:13	1	17	ἐκ	ἐκ	preposition with the genitive	1	from
 EZK 30:13	1	18	γῆς	γῆ	noun, genitive feminine singular	1	land
 EZK 30:13	1	19	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
 EZK 30:13	1	20	καὶ	καί	conjunction	1	and
 EZK 30:13	1	21	οὐκ	οὐ	negative particle	1	not
 EZK 30:13	1	22	ἔσονται	εἰμί	future middle indicative, 3rd plural	1	shall be
-EZK 30:13	1	23	οὐκέτι	οὐκέτι	adverb	1	no more
+EZK 30:13	1	23	οὐκέτι	οὐκέτι	adverb	1	any longer
 EZK 30:13	1	24	καὶ	καί	conjunction	1	and
 EZK 30:13	1	25	δώσω	δίδωμι	future active indicative, first person singular	1	I will give
 EZK 30:13	1	26	φόβον	φόβος	noun, accusative masc. sg	1	fear
@@ -286,7 +286,7 @@ EZK 30:14	1	1	Καὶ	καί	conjunction	1	and
 EZK 30:14	1	2	ἀφανιῶ	ἀφανίζω	future active indicative, first singular	1	I will destroy
 EZK 30:14	1	2	ἀφανιῶ			2	I will wipe out
 EZK 30:14	1	3	γῆν	γῆ	noun, accusative feminine singular	1	land
-EZK 30:14	1	4	Παθουρῆς	Παθουρῆς	indeclinable proper name	1	Pathoures
+EZK 30:14	1	4	Παθουρῆς	Παθουρῆς	indeclinable proper name	1	of Pathros
 EZK 30:14	1	5	καὶ	καί	conjunction	1	and
 EZK 30:14	1	6	δώσω	δίδωμι	future active indicative, first singular	1	I will give
 EZK 30:14	1	7	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
@@ -311,8 +311,8 @@ EZK 30:15	1	10	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine
 EZK 30:15	1	11	καὶ	καί	conjunction	1	and
 EZK 30:15	1	12	ἀπολῶ	ἀπόλλυμι	future active indicative, first singular	1	I will destroy
 EZK 30:15	1	13	τὸ	ὁ	article, accusative neuter singular	1	the
-EZK 30:15	1	14	πλῆθος	πλῆθος	noun, accusative neuter singular	1	troops
-EZK 30:15	1	15	Μέμφεως	Μέμφις	noun, genitive feminine singular; place name	1	Memphis
+EZK 30:15	1	14	πλῆθος	πλῆθος	noun, accusative neuter singular	1	multitude
+EZK 30:15	1	15	Μέμφεως	Μέμφις	noun, genitive feminine singular; place name	1	of Memphis
 EZK 30:16	1	1	καὶ	καί	conjunction	1	and
 EZK 30:16	1	2	δώσω	δίδωμι	future active indicative, first singular	1	I will give
 EZK 30:16	1	3	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
@@ -336,7 +336,7 @@ EZK 30:17	1	1	Νεανίσκοι	νεανίσκος	noun, nominative masculine p
 EZK 30:17	1	2	Ἡλιουπόλεως	Ἡλιούπολις	noun, genitive feminine singular	1	of Heliopolis
 EZK 30:17	1	3	καὶ	καί	conjunction	1	and
 EZK 30:17	1	4	βουβάστου	Βούβαστος	noun, genitive feminine singular	1	of Bubastis
-EZK 30:17	1	5	ἐν	ἐν	preposition with the dative	1	in
+EZK 30:17	1	5	ἐν	ἐν	preposition with the dative	1	by
 EZK 30:17	1	6	μαχαίρᾳ	μάχαιρα	noun, dative feminine singular	1	sword
 EZK 30:17	1	7	πεσοῦνται	πίπτω	future middle indicative, third plural	1	will fall
 EZK 30:17	1	8	καὶ	καί	conjunction	1	and
@@ -347,7 +347,7 @@ EZK 30:17	1	12	αἰχμαλωσίᾳ	αἰχμαλωσία	noun, dative feminin
 EZK 30:17	1	13	πορεύσονται	πορεύομαι	future middle indicative, 3rd plural	1	shall go
 EZK 30:18	1	1	καὶ	καί	conjunction	1	and
 EZK 30:18	1	2	ἐν	ἐν	preposition with the dative	1	in
-EZK 30:18	1	3	Τάφναις	Τάφναι	noun, dative feminine plural	1	Taphnae
+EZK 30:18	1	3	Τάφναις	Τάφναι	noun, dative feminine plural	1	Tahpanhes
 EZK 30:18	1	4	συσκοτάσει	συσκοτάζω	future active indicative, third singular	1	will darken
 EZK 30:18	1	4	συσκοτάσει			2	will make dark
 EZK 30:18	1	5	ἡ	ὁ	definite article, nominative feminine singular	1	the
@@ -366,7 +366,7 @@ EZK 30:18	1	16	ἀπωλεῖται	ἀπόλλυμι	future middle indicative, 
 EZK 30:18	1	17	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 EZK 30:18	1	18	ἡ	ὁ	article, nominative feminine singular	1	the
 EZK 30:18	1	19	ὕβρις	ὕβρις	noun, nominative feminine singular	1	pride
-EZK 30:18	1	20	τῆς	ὁ	article, genitive feminine singular	1	the
+EZK 30:18	1	20	τῆς	ὁ	article, genitive feminine singular	1	of the
 EZK 30:18	1	21	ἰσχύος	ἰσχύς	noun, genitive feminine singular	1	might
 EZK 30:18	1	22	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 EZK 30:18	1	23	καὶ	καί	conjunction	1	and
@@ -398,10 +398,10 @@ EZK 30:20	1	5	ἑνδεκάτῳ	ἑνδέκατος	ordinal adjective, dative n
 EZK 30:20	1	6	ἔτει	ἔτος	noun, dative neuter singular	1	year
 EZK 30:20	1	7	ἐν	ἐν	preposition with the dative	1	in
 EZK 30:20	1	8	τῷ	ὁ	article, dative masculine/neuter singular	1	the
-EZK 30:20	1	9	πρώτῳ	πρῶτος	ordinal adjective, dative masculine singular; substantival	1	first one
+EZK 30:20	1	9	πρώτῳ	πρῶτος	ordinal adjective, dative masculine singular; substantival	1	first
 EZK 30:20	1	10	μηνὶ	μήν	noun, dative masculine singular	1	month
 EZK 30:20	1	11	ἑβδόμῃ	ἕβδομος	ordinal adjective, dative feminine singular; with day understood	1	seventh
-EZK 30:20	1	12	τοῦ	ὁ	article, genitive singular	1	the
+EZK 30:20	1	12	τοῦ	ὁ	article, genitive singular	1	of the
 EZK 30:20	1	13	μηνὸς	μήν	noun, genitive masculine singular	1	month
 EZK 30:20	1	14	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 EZK 30:20	1	15	λόγος	λόγος	noun, nominative masculine singular	1	word
@@ -410,13 +410,13 @@ EZK 30:20	1	17	πρὸς	πρός	preposition with the accusative	1	to
 EZK 30:20	1	18	μὲ	ἐγώ	pronoun, accusative 1st singular	1	me
 EZK 30:20	1	19	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 EZK 30:21	1	1	υἱὲ	υἱός	noun, vocative masculine singular	1	son
-EZK 30:21	1	2	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
+EZK 30:21	1	2	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of man
 EZK 30:21	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
 EZK 30:21	1	4	βραχίονας	βραχίων	noun, accusative masculine plural	1	arms
-EZK 30:21	1	5	Φαραὼ	Φαραώ	royal title/name (indeclined); case from syntax per occurrence	1	Pharaoh
+EZK 30:21	1	5	Φαραὼ	Φαραώ	royal title/name (indeclined); case from syntax per occurrence	1	of Pharaoh
 EZK 30:21	1	6	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 EZK 30:21	1	7	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
-EZK 30:21	1	8	συνέτριψα	συντρίβω	aorist active indicative, 1st singular	1	broke
+EZK 30:21	1	8	συνέτριψα	συντρίβω	aorist active indicative, 1st singular	1	I broke
 EZK 30:21	1	9	καὶ	καί	conjunction	1	and
 EZK 30:21	1	10	ἰδοὺ	ἰδού	presentative particle	1	behold
 EZK 30:21	1	11	οὐ	οὐ	negative particle	1	not
@@ -443,7 +443,7 @@ EZK 30:22	1	5	Κύριος	κύριος	noun, nominative masculine singular	1	th
 EZK 30:22	1	6	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 EZK 30:22	1	7	ἰδοὺ	ἰδού	particle	1	behold
 EZK 30:22	1	8	ἐγὼ	ἐγώ	pronoun, nominative 1st singular	1	I
-EZK 30:22	1	9	ἐπὶ	ἐπί	preposition	1	on
+EZK 30:22	1	9	ἐπὶ	ἐπί	preposition	1	against
 EZK 30:22	1	10	Φαραὼ	Φαραώ	indeclinable personal name, accusative in context	1	Pharaoh
 EZK 30:22	1	11	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 EZK 30:22	1	12	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
@@ -488,7 +488,7 @@ EZK 30:24	1	1	καὶ	καί	conjunction	1	and
 EZK 30:24	1	2	κατισχύσω	κατισχύω	future active indicative, first singular	1	I will strengthen
 EZK 30:24	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
 EZK 30:24	1	4	βραχίονας	βραχίων	noun, accusative masculine plural	1	arms
-EZK 30:24	1	5	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
+EZK 30:24	1	5	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of the king
 EZK 30:24	1	6	Βαβυλῶνος	Βαβυλών	noun, genitive feminine singular; place name	1	of Babylon
 EZK 30:24	1	7	καὶ	καί	conjunction	1	and
 EZK 30:24	1	8	δώσω	δίδωμι	future active indicative, first singular	1	I will give
@@ -502,9 +502,9 @@ EZK 30:24	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 EZK 30:24	1	14	χεῖρα	χείρ	noun, accusative feminine singular	1	hand
 EZK 30:24	1	15	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
 EZK 30:24	1	16	καὶ	καί	conjunction	1	and
-EZK 30:24	1	17	ἐπάξει	ἐπάγω	future active indicative, third singular	1	will bring upon
-EZK 30:24	1	18	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
-EZK 30:24	1	19	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+EZK 30:24	1	17	ἐπάξει	ἐπάγω	future active indicative, third singular	1	he will bring
+EZK 30:24	1	18	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
+EZK 30:24	1	19	ἐπ᾽	ἐπί	preposition with the accusative	1	against
 EZK 30:24	1	20	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular	1	Egypt
 EZK 30:24	1	21	καὶ	καί	conjunction	1	and
 EZK 30:24	1	22	προνομεύσει	προνομεύω	future active indicative, third singular	1	will plunder
@@ -523,10 +523,10 @@ EZK 30:25	1	4	βραχίονας	βραχίων	noun, accusative masculine plura
 EZK 30:25	1	5	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of the king
 EZK 30:25	1	6	Βαβυλῶνος	Βαβυλών	noun, genitive feminine singular; place name	1	of Babylon
 EZK 30:25	1	7	οἱ	ὁ	article, nominative masculine plural	1	the
-EZK 30:25	1	8	δὲ	δέ	postpositive conjunction	1	and
+EZK 30:25	1	8	δὲ	δέ	postpositive conjunction	1	but
 EZK 30:25	1	9	βραχίονες	βραχίων	noun, nominative masculine plural	1	arms
 EZK 30:25	1	9	βραχίονες			2	forces
-EZK 30:25	1	10	Φαραὼ	Φαραώ	royal title/name (indeclined); case from syntax per occurrence	1	Pharaoh
+EZK 30:25	1	10	Φαραὼ	Φαραώ	royal title/name (indeclined); case from syntax per occurrence	1	of Pharaoh
 EZK 30:25	1	11	πεσοῦνται	πίπτω	future middle indicative, 3rd plural	1	shall fall
 EZK 30:25	1	12	καὶ	καί	conjunction	1	and
 EZK 30:25	1	13	γνώσονται	γιγνώσκω	future middle indicative, 3rd plural	1	shall know
@@ -543,7 +543,7 @@ EZK 30:25	1	23	ῥομφαίαν	ῥομφαία	noun, accusative feminine singu
 EZK 30:25	1	24	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 EZK 30:25	1	25	εἰς	εἰς	preposition with the accusative	1	into
 EZK 30:25	1	26	χεῖρας	χείρ	noun, accusative feminine plural	1	hands
-EZK 30:25	1	27	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
+EZK 30:25	1	27	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of the king
 EZK 30:25	1	28	Βαβυλῶνος	Βαβυλών	noun, genitive feminine singular; place name	1	of Babylon
 EZK 30:25	1	29	καὶ	καί	conjunction	1	and
 EZK 30:25	1	30	ἐκτενεῖ	ἐκτείνω	future active indicative, third singular	1	will stretch out

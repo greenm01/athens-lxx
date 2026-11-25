@@ -33,7 +33,7 @@ EZK 2:2	1	16	τοὺς	ὁ	article, accusative masculine plural	1	the
 EZK 2:2	1	17	πόδας	πούς	noun, accusative masculine plural	1	feet
 EZK 2:2	1	18	μου	ἐγώ	pronoun, genitive 1st singular	1	my
 EZK 2:2	1	19	καὶ	καί	conjunction	1	and
-EZK 2:2	1	20	ἤκουον	ἀκούω	imperfect active indicative, 1st singular	1	heard
+EZK 2:2	1	20	ἤκουον	ἀκούω	imperfect active indicative, 1st singular	1	I heard
 EZK 2:2	1	21	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 EZK 2:2	1	22	λαλοῦντος	λαλέω	present active participle, genitive masculine singular	1	speaking
 EZK 2:2	1	23	πρὸς	πρός	preposition with the accusative	1	to
@@ -50,13 +50,13 @@ EZK 2:3	1	9	σε	σύ	pronoun, accusative 2nd singular	1	you
 EZK 2:3	1	10	πρὸς	πρός	preposition with the accusative	1	to
 EZK 2:3	1	11	τὸν	ὁ	definite article, accusative masculine singular	1	the
 EZK 2:3	1	12	οἶκον	οἶκος	noun, accusative masculine singular	1	house
-EZK 2:3	1	13	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	the
-EZK 2:3	1	14	Ἰσραὴλ	Ἰσραήλ	place name, genitive indeclinable	1	Israel
+EZK 2:3	1	13	τοῦ	ὁ	definite article, genitive masculine/neuter singular	1	—
+EZK 2:3	1	14	Ἰσραὴλ	Ἰσραήλ	place name, genitive indeclinable	1	of Israel
 EZK 2:3	1	15	τοὺς	ὁ	article, accusative masculine plural	1	the
-EZK 2:3	1	16	παραπικραίνοντάς	παραπικραίνω	present active participle, accusative masculine plural	1	rebelling
+EZK 2:3	1	16	παραπικραίνοντάς	παραπικραίνω	present active participle, accusative masculine plural	1	rebelling against
 EZK 2:3	1	17	με	ἐγώ	pronoun, accusative 1st singular	1	me
-EZK 2:3	1	18	οἵ	ὁ	definite article, nominative masculine plural	1	the
-EZK 2:3	1	19	τινες	τις	indefinite pronoun, nominative masculine plural	1	that
+EZK 2:3	1	18	οἵ	ὁ	definite article, nominative masculine plural	1	who
+EZK 2:3	1	19	τινες	τις	indefinite pronoun, nominative masculine plural	1	—
 EZK 2:3	1	20	παρεπίκρανάν	παραπικραίνω	aorist active indicative, 3rd plural	1	rebelled against
 EZK 2:3	1	21	με	ἐγώ	pronoun, accusative 1st singular	1	me
 EZK 2:3	1	22	αὐτοὶ	αὐτός	pronoun, nominative masc. pl.	1	they
@@ -120,7 +120,7 @@ EZK 2:6	1	10	ἀπὸ	ἀπό	preposition with the genitive	1	from
 EZK 2:6	1	11	προσώπου	πρόσωπον	noun, genitive neuter singular	1	face
 EZK 2:6	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 EZK 2:6	1	13	διότι	διότι	conjunction	1	for
-EZK 2:6	1	14	παροιστρήσουσι	παροιστράω	future active indicative, 3rd plural	1	shall collect madly
+EZK 2:6	1	14	παροιστρήσουσι	παροιστράω	future active indicative, 3rd plural	1	shall rage
 EZK 2:6	1	15	καὶ	καί	conjunction	1	and
 EZK 2:6	1	16	ἐπισυστήσονται	ἐπισυνίσταμαι	future middle indicative, 3rd plural	1	shall rise together
 EZK 2:6	1	17	ἐπὶ	ἐπί	preposition with the accusative	1	against
@@ -129,7 +129,7 @@ EZK 2:6	1	19	κύκλῳ	κύκλῳ	adverb	1	round about
 EZK 2:6	1	20	καὶ	καί	conjunction	1	and
 EZK 2:6	1	21	ἐν	ἐν	preposition with the dative	1	in
 EZK 2:6	1	22	μέσῳ	μέσος	adjective, dative neuter singular	1	midst
-EZK 2:6	1	23	σκορπίων	σκορπίος	noun, genitive masculine plural	1	scorpions
+EZK 2:6	1	23	σκορπίων	σκορπίος	noun, genitive masculine plural	1	of scorpions
 EZK 2:6	1	24	σὺ	σύ	pronoun, nominative 2nd singular	1	you
 EZK 2:6	1	25	κατοικεῖς	κατοικέω	present active indicative, 2nd singular	1	dwell
 EZK 2:6	1	26	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -188,15 +188,15 @@ EZK 2:8	1	22	στόμα	στόμα	noun, accusative neuter singular	1	mouth
 EZK 2:8	1	23	σου	σύ	pronoun, genitive 2nd singular	1	your
 EZK 2:8	1	24	καὶ	καί	conjunction	1	and
 EZK 2:8	1	25	φάγε	ἐσθίω	aorist active imperative, 2nd singular	1	eat
-EZK 2:8	1	26	ἃ	ὅς	relative pronoun, accusative neuter plural	1	which
+EZK 2:8	1	26	ἃ	ὅς	relative pronoun, accusative neuter plural	1	what
 EZK 2:8	1	27	ἐγὼ	ἐγώ	pronoun, nominative 1st singular	1	I
 EZK 2:8	1	28	δίδωμί	δίδωμι	present active indicative, 1st singular	1	give
 EZK 2:8	1	29	σοι	σύ	pronoun, dative 2nd singular	1	to you
 EZK 2:9	1	1	Καὶ	καί	conjunction	1	and
-EZK 2:9	1	2	ἴδον	ὁράω	aorist active indicative, 1st singular	1	saw
+EZK 2:9	1	2	ἴδον	ὁράω	aorist active indicative, 1st singular	1	I saw
 EZK 2:9	1	3	καὶ	καί	conjunction	1	and
 EZK 2:9	1	4	ἰδοὺ	ἰδού	interjection	1	behold
-EZK 2:9	1	5	χεὶρ	χείρ	noun, nominative fem. sg. after ἡ	1	the hand
+EZK 2:9	1	5	χεὶρ	χείρ	noun, nominative fem. sg. after ἡ	1	a hand
 EZK 2:9	1	6	ἐκτεταμένη	ἐκτείνω	perfect passive participle, nominative feminine singular	1	stretched out
 EZK 2:9	1	7	πρὸς	πρός	preposition with the accusative	1	to
 EZK 2:9	1	8	μὲ	ἐγώ	pronoun, accusative 1st singular	1	me
@@ -204,7 +204,7 @@ EZK 2:9	1	9	καὶ	καί	conjunction	1	and
 EZK 2:9	1	10	ἐν	ἐν	preposition with the dative	1	in
 EZK 2:9	1	11	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 EZK 2:9	1	12	κεφαλὶς	κεφαλίς	noun, nominative feminine singular	1	roll
-EZK 2:9	1	13	βιβλίου	βιβλίον	noun, genitive neuter singular	1	book
+EZK 2:9	1	13	βιβλίου	βιβλίον	noun, genitive neuter singular	1	of a book
 EZK 2:10	1	1	Καὶ	καί	conjunction	1	and
 EZK 2:10	1	2	ἀνείλησεν	ἀνειλέω	aorist active indicative, 3rd singular	1	spread open
 EZK 2:10	1	3	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
@@ -216,16 +216,16 @@ EZK 2:10	1	8	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 EZK 2:10	1	9	γεγραμμένα	γράφω	perfect passive participle, nominative neuter plural	1	written
 EZK 2:10	1	10	ἦν	εἰμί	imperfect indicative, 3rd plural	1	were
 EZK 2:10	1	11	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
-EZK 2:10	1	12	ὄπισθεν	ὄπισθεν	adverb	1	behind
+EZK 2:10	1	12	ὄπισθεν	ὄπισθεν	adverb	1	back
 EZK 2:10	1	13	καὶ	καί	conjunction	1	and
 EZK 2:10	1	14	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
-EZK 2:10	1	15	ἔμπροσθεν	ἔμπροσθεν	adverb	1	before
+EZK 2:10	1	15	ἔμπροσθεν	ἔμπροσθεν	adverb	1	front
 EZK 2:10	1	16	καὶ	καί	conjunction	1	and
 EZK 2:10	1	17	ἐγέγραπτο	γράφω	pluperfect passive indicative, 3rd singular	1	was written
 EZK 2:10	1	18	εἰς	εἰς	preposition with the accusative	1	into
 EZK 2:10	1	19	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 EZK 2:10	1	20	θρῆνος	θρῆνος	noun, nominative masculine singular	1	lamentation
 EZK 2:10	1	21	καὶ	καί	conjunction	1	and
-EZK 2:10	1	22	μέλος	μέλος	noun, nominative neuter singular	1	mourning
+EZK 2:10	1	22	μέλος	μέλος	noun, nominative neuter singular	1	song
 EZK 2:10	1	23	καὶ	καί	conjunction	1	and
 EZK 2:10	1	24	οὐαί	οὐαί	interjection	1	woe
