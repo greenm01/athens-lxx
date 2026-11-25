@@ -36,7 +36,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:3	1	6	τοὺς	ὁ	article, accusative masculine plural	1	the
 1KI 22:3	1	7	παῖδας	παῖς	noun, accusative masculine plural	1	servants
 1KI 22:3	1	8	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
-1KI 22:3	1	9	εἰ	εἰ	interrogative particle	1	is
+1KI 22:3	1	9	εἰ	εἰ	interrogative particle	1	[marks a question]
 1KI 22:3	1	10	οἴδατε	οἶδα	perfect active indicative, second plural	1	you know
 1KI 22:3	1	11	ὅτι	ὅτι	declarative conjunction	1	that
 1KI 22:3	1	12	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
@@ -49,7 +49,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:3	1	19	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 1KI 22:3	1	20	ἐκ	ἐκ	preposition with the genitive	1	from
 1KI 22:3	1	21	χειρὸς	χείρ	noun, genitive feminine singular	1	hand
-1KI 22:3	1	22	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
+1KI 22:3	1	22	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	of the king
 1KI 22:3	1	23	Συρίας	Συρία	noun, genitive feminine singular; place name	1	of Syria
 1KI 22:4	1	1	Καὶ	καί	conjunction	1	and
 1KI 22:4	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
@@ -58,7 +58,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:4	1	5	πρὸς	πρός	preposition with the accusative	1	to
 1KI 22:4	1	6	Ἰωσαφάτ	Ἰωσαφάτ	indeclinable personal or place name, genitive in context	1	Jehoshaphat
 1KI 22:4	1	6	Ἰωσαφάτ			2	Iosaphat
-1KI 22:4	1	7	εἰ	εἰ	conditional conjunction	1	will
+1KI 22:4	1	7	εἰ	εἰ	conditional conjunction	1	[marks a question]
 1KI 22:4	1	8	ἀναβήσῃ	ἀναβαίνω	future middle indicative, 2nd sg. in command sense	1	you shall go up
 1KI 22:4	1	9	μεθ᾽	μετά	preposition with the genitive, elided	1	with
 1KI 22:4	1	10	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	us
@@ -123,8 +123,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:6	1	14	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 1KI 22:6	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
 1KI 22:6	1	16	βασιλεύς	βασιλεύς	noun, nominative masculine singular	1	king
-1KI 22:6	1	17	εἰ	εἰ	interrogative particle, introduces the question	1	—
-1KI 22:6	1	18	πορευθῶ	πορεύομαι	aorist passive-form subjunctive, first singular	1	I go
+1KI 22:6	1	17	εἰ	εἰ	interrogative particle, introduces the question	1	[marks a question]
+1KI 22:6	1	18	πορευθῶ	πορεύομαι	aorist passive-form subjunctive, first singular	1	shall I go
 1KI 22:6	1	19	εἰς	εἰς	preposition with the accusative	1	into
 1KI 22:6	1	20	Ῥεμμὰθ	Ῥεμμάθ	indeclinable place name	1	Remmath~Ramoth
 1KI 22:6	1	21	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	1	of Gilead
@@ -158,7 +158,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:7	1	10	ἔστιν	εἰμί	present indicative, third singular	1	is
 1KI 22:7	1	11	ὧδε	ὧδε	adverb of place	1	here
 1KI 22:7	1	12	προφήτης	προφήτης	noun, nominative masculine singular	1	prophet
-1KI 22:7	1	13	τοῦ	ὁ	article, genitive singular	1	the
+1KI 22:7	1	13	τοῦ	ὁ	article, genitive singular	1	—
 1KI 22:7	1	14	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 1KI 22:7	1	15	οὐκ	οὐ	negative particle	1	not
 1KI 22:7	1	16	ἔτι	ἔτι	adverb	1	any more
@@ -178,9 +178,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:8	1	7	Ἰωσαφάτ			2	Iosaphat
 1KI 22:8	1	8	ἔτι	ἔτι	temporal adverb	1	still
 1KI 22:8	1	9	ἔστιν	εἰμί	present indicative, third singular	1	is
-1KI 22:8	1	10	ἀνὴρ	ἀνήρ	noun, nominative masculine singular; distributive	1	each man
-1KI 22:8	1	11	εἰς	εἰς	preposition with the accusative	1	into
-1KI 22:8	1	12	τὸ	ὁ	article, accusative neuter singular	1	the
+1KI 22:8	1	10	ἀνὴρ	ἀνήρ	noun, nominative masculine singular; distributive	1	man
+1KI 22:8	1	11	εἰς	εἰς	preposition with the accusative	1	for
+1KI 22:8	1	12	τὸ	ὁ	article, accusative neuter singular	1	—
 1KI 22:8	1	13	ἐπερωτῆσαι	ἐπερωτάω	aorist active infinitive	1	to inquire
 1KI 22:8	1	14	τὸν	ὁ	article, accusative masculine singular, marks the subject of the infinitive	1	—
 1KI 22:8	1	15	Κύριον	κύριος	noun, accusative masculine singular	1	the Lord
@@ -188,15 +188,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:8	1	17	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	him
 1KI 22:8	1	18	καὶ	καί	conjunction	1	and
 1KI 22:8	1	19	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
-1KI 22:8	1	20	μεμίσηκα	μισέω	perfect active indicative, first singular	1	I hate
+1KI 22:8	1	20	μεμίσηκα	μισέω	perfect active indicative, first singular	1	hate
 1KI 22:8	1	20	μεμίσηκα			2	I have hated
 1KI 22:8	1	21	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 1KI 22:8	1	22	ὅτι	ὅτι	causal conjunction	1	because
 1KI 22:8	1	23	οὐ	οὐ	negative particle in the emphatic negation οὐ μή	1	by no means
 1KI 22:8	1	24	λαλεῖ	λαλέω	present active indicative, third singular	1	speaks
-1KI 22:8	1	25	περὶ	περί	preposition with genitive	1	for
+1KI 22:8	1	25	περὶ	περί	preposition with genitive	1	concerning
 1KI 22:8	1	26	ἐμοῦ	ἐγώ	personal pronoun, emphatic genitive first singular	1	me
-1KI 22:8	1	27	καλὰ	καλός	adjective, accusative neuter plural; substantival	1	the best
+1KI 22:8	1	27	καλὰ	καλός	adjective, accusative neuter plural; substantival	1	good things
 1KI 22:8	1	28	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
 1KI 22:8	1	29	ἢ	ἤ	disjunctive conjunction	1	or
 1KI 22:8	1	30	κακὰ	κακός	substantival adjective, accusative neuter plural	1	bad things
@@ -276,13 +276,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:11	1	11	τάδε	ὅδε	demonstrative pronoun, accusative neuter plural, introducing the message 'these things'	1	these things
 1KI 22:11	1	12	λέγει	λέγω	present active indicative, third singular	1	says
 1KI 22:11	1	13	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-1KI 22:11	1	14	ἐν	ἐν	preposition with the dative	1	in
+1KI 22:11	1	14	ἐν	ἐν	preposition with the dative	1	with
 1KI 22:11	1	15	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	1	these things
 1KI 22:11	1	16	κερατιεῖς	κερατίζω	future active indicative, second singular	1	you shall gore
 1KI 22:11	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
 1KI 22:11	1	18	Συρίαν	Συρία	noun, accusative feminine singular; collective	1	Syrians
 1KI 22:11	1	18	Συρίαν			2	Syria
-1KI 22:11	1	19	ἕως	ἕως	preposition with the genitive	1	as far as
+1KI 22:11	1	19	ἕως	ἕως	preposition with the genitive	1	until
 1KI 22:11	1	19	ἕως			2	up to
 1KI 22:11	1	20	συντελεσθῇ	συντελέω	aorist passive subjunctive, third singular	1	comes to an end
 1KI 22:11	1	20	συντελεσθῇ			2	may be completed
@@ -334,7 +334,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:13	1	22	περὶ	περί	preposition with the genitive	1	concerning
 1KI 22:13	1	23	τοῦ	ὁ	article, genitive singular	1	the
 1KI 22:13	1	24	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
-1KI 22:13	1	25	γίνου	γίνομαι	present middle imperative, 2nd sg.	1	be (ready)
+1KI 22:13	1	25	γίνου	γίνομαι	present middle imperative, 2nd sg.	1	be
 1KI 22:13	1	26	δὴ	δή	emphatic particle	1	please
 1KI 22:13	1	26	δὴ			2	now
 1KI 22:13	1	27	καὶ	καί	conjunction	1	and
@@ -355,7 +355,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:14	1	3	Μιχαίας	Μιχαίας	personal name, nominative masculine singular	1	Michaias~Micaiah
 1KI 22:14	1	4	ζῇ	ζάω	present active indicative, third singular, oath formula	1	lives
 1KI 22:14	1	5	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-1KI 22:14	1	6	ὅτι	ὅτι	causal conjunction, introduces direct speech	1	—
+1KI 22:14	1	6	ὅτι	ὅτι	causal conjunction, introduces direct speech	1	that
 1KI 22:14	1	7	ἃ	ὅς	relative pronoun accusative neuter plural	1	what
 1KI 22:14	1	8	ἐὰν	ἐάν	indefinite relative particle with the subjunctive	1	ever
 1KI 22:14	1	9	εἴπῃ	λέγω	aorist active subjunctive, 3rd singular	1	say
@@ -375,7 +375,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:15	1	9	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 1KI 22:15	1	10	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 1KI 22:15	1	11	Μιχαία	Μιχαίας	personal name, vocative masculine singular	1	Michaias~Micaiah
-1KI 22:15	1	12	εἰ	εἰ	interrogative particle, introduces the question	1	—
+1KI 22:15	1	12	εἰ	εἰ	interrogative particle, introduces the question	1	[marks a question]
 1KI 22:15	1	13	ἀναβῶ	ἀναβαίνω	aorist active subjunctive, first singular	1	shall I go up
 1KI 22:15	1	14	εἰς	εἰς	preposition with the accusative	1	into
 1KI 22:15	1	15	Ῥεμμὰθ	Ῥεμμάθ	indeclinable place name	1	Remmath~Ramoth
@@ -433,7 +433,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:17	1	12	ὄρεσιν	ὄρος	noun, dative neuter plural	1	mountains
 1KI 22:17	1	13	ὡς	ὡς	comparative conjunction	1	like
 1KI 22:17	1	14	ποίμνιον	ποίμνιον	noun, nominative neuter singular	1	flock
-1KI 22:17	1	15	ᾧ	ὅς	relative pronoun, dative masculine singular	1	who
+1KI 22:17	1	15	ᾧ	ὅς	relative pronoun, dative masculine singular	1	which
 1KI 22:17	1	16	οὐκ	οὐ	negative particle	1	not
 1KI 22:17	1	17	ἔστι	εἰμί	present indicative, third singular	1	is
 1KI 22:17	1	18	ποιμήν	ποιμήν	noun, nominative masculine singular after ὁ	1	shepherd
@@ -515,7 +515,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:19	1	35	καὶ	καί	conjunction	1	and
 1KI 22:19	1	36	ἐξ	ἐκ	preposition with the genitive	1	from
 1KI 22:19	1	37	εὐωνύμων	εὐώνυμος	adjective, genitive neuter plural; substantival	1	left side
-1KI 22:19	1	38	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	him
+1KI 22:19	1	38	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1KI 22:20	1	1	Καὶ	καί	conjunction	1	and
 1KI 22:20	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 1KI 22:20	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -526,7 +526,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:20	1	8	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 1KI 22:20	1	9	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 1KI 22:20	1	10	καὶ	καί	conjunction	1	and
-1KI 22:20	1	11	ἀναβήσεται	ἀναβαίνω	future middle indicative, third singular	1	he will withdraw
+1KI 22:20	1	11	ἀναβήσεται	ἀναβαίνω	future middle indicative, third singular	1	will go up
 1KI 22:20	1	12	καὶ	καί	conjunction	1	and
 1KI 22:20	1	13	πεσεῖται	πίπτω	future middle indicative, third singular	1	will fall
 1KI 22:20	1	14	ἐν	ἐν	preposition with dative	1	in
@@ -545,7 +545,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:21	1	2	ἐξῆλθε	ἐξέρχομαι	aorist active indicative, third singular	1	went out
 1KI 22:21	1	3	πνεῦμα	πνεῦμα	noun, accusative neuter singular	1	a spirit
 1KI 22:21	1	4	καὶ	καί	conjunction	1	and
-1KI 22:21	1	5	ἔστη	ἵστημι	aorist active indicative, third singular	1	was established
+1KI 22:21	1	5	ἔστη	ἵστημι	aorist active indicative, third singular	1	stood
 1KI 22:21	1	6	ἐνώπιον	ἐνώπιον	preposition with the genitive	1	before
 1KI 22:21	1	6	ἐνώπιον			2	in the sight of
 1KI 22:21	1	7	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
@@ -797,7 +797,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:32	1	4	ἴδον	ὁράω	aorist active indicative, third plural	1	they saw
 1KI 22:32	1	5	οἱ	ὁ	article, nominative masculine plural	1	the
 1KI 22:32	1	6	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	commanders
-1KI 22:32	1	7	τῶν	ὁ	article, genitive plural	1	the
+1KI 22:32	1	7	τῶν	ὁ	article, genitive plural	1	of the
 1KI 22:32	1	8	ἁρμάτων	ἅρμα	noun, genitive neut. pl	1	chariots
 1KI 22:32	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
 1KI 22:32	1	10	Ἰωσαφὰτ	Ἰωσαφάτ	indeclinable personal or place name, genitive in context	1	Jehoshaphat
@@ -806,7 +806,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:32	1	12	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 1KI 22:32	1	13	καὶ	καί	conjunction	1	and
 1KI 22:32	1	14	αὐτοὶ	αὐτός	pronoun, nominative masc. pl. subject '(and they	1	they themselves
-1KI 22:32	1	15	εἶπον	λέγω	aorist active imperative, second person singular	1	say
+1KI 22:32	1	15	εἶπον	λέγω	aorist active imperative, second person singular	1	said
 1KI 22:32	1	16	φαίνεται	φαίνω	present passive indicative, third singular	1	appears
 1KI 22:32	1	17	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 1KI 22:32	1	18	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -826,7 +826,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:33	1	4	ἴδον	ὁράω	aorist active indicative, third plural	1	they saw
 1KI 22:33	1	5	οἱ	ὁ	article, nominative masculine plural	1	the
 1KI 22:33	1	6	ἄρχοντες	ἄρχων	noun, nominative masculine plural	1	commanders
-1KI 22:33	1	7	τῶν	ὁ	article, genitive plural	1	the
+1KI 22:33	1	7	τῶν	ὁ	article, genitive plural	1	of the
 1KI 22:33	1	8	ἁρμάτων	ἅρμα	noun, genitive neut. pl	1	chariots
 1KI 22:33	1	9	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 1KI 22:33	1	10	οὐκ	οὐ	negative particle	1	not
@@ -852,14 +852,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:34	1	11	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 1KI 22:34	1	12	ἀναμέσον	ἀναμέσον	adverb/preposition	1	between
 1KI 22:34	1	13	τοῦ	ὁ	article, genitive singular	1	the
-1KI 22:34	1	14	πνεύμονος	πνεύμων	noun, genitive masculine singular	1	the lung
+1KI 22:34	1	14	πνεύμονος	πνεύμων	noun, genitive masculine singular	1	lung
 1KI 22:34	1	15	καὶ	καί	conjunction	1	and
 1KI 22:34	1	16	ἀναμέσον	ἀνὰ μέσον	prepositional phrase with genitive following, between	1	between
 1KI 22:34	1	17	τοῦ	ὁ	article, genitive singular	1	the
 1KI 22:34	1	18	θώρακος	θώραξ	noun, genitive masculine singular	1	breastplate
 1KI 22:34	1	19	καὶ	καί	conjunction	1	and
 1KI 22:34	1	20	εἶπε	λέγω	aorist active indicative, third singular	1	said
-1KI 22:34	1	21	τῷ	ὁ	article, dative masculine singular	1	the
+1KI 22:34	1	21	τῷ	ὁ	article, dative masculine singular	1	to the
 1KI 22:34	1	22	ἡνιόχῳ	ἡνίοχος	noun, dative masculine singular	1	charioteer
 1KI 22:34	1	23	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1KI 22:34	1	24	ἐπίστρεψον	ἐπιστρέφω	aorist active imperative second singular	1	turn back
@@ -908,7 +908,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:35	1	29	πληγῆς	πληγή	noun, genitive feminine singular	1	wound
 1KI 22:35	1	30	εἰς	εἰς	preposition with the accusative	1	into
 1KI 22:35	1	31	τὸν	ὁ	article, accusative masculine singular	1	the
-1KI 22:35	1	32	κόλπον	κόλπος	noun, accusative masculine singular	1	fold of the garment
+1KI 22:35	1	32	κόλπον	κόλπος	noun, accusative masculine singular	1	hollow
 1KI 22:35	1	33	τοῦ	ὁ	article, genitive singular	1	of the
 1KI 22:35	1	34	ἅρματος	ἅρμα	noun, genitive neuter singular	1	chariot
 1KI 22:35	1	35	καὶ	καί	conjunction	1	and
@@ -923,11 +923,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:35	1	44	τροπῆς	τροπή	noun, genitive feminine singular governed by ἐκ	1	defeat
 1KI 22:35	1	45	ἕως	ἕως	temporal conjunction/preposition	1	until
 1KI 22:35	1	46	τοῦ	ὁ	article, genitive singular	1	the
-1KI 22:35	1	47	κόλπου	κόλπος	noun, genitive masculine singular	1	fold of the garment
+1KI 22:35	1	47	κόλπου	κόλπος	noun, genitive masculine singular	1	hollow
 1KI 22:35	1	48	τοῦ	ὁ	article, genitive singular	1	the
 1KI 22:35	1	49	ἅρματος	ἅρμα	noun, genitive neuter singular	1	chariot
 1KI 22:36	1	1	Καὶ	καί	conjunction	1	and
-1KI 22:36	1	2	ἔστη	ἵστημι	aorist active indicative, third singular	1	was established
+1KI 22:36	1	2	ἔστη	ἵστημι	aorist active indicative, third singular	1	stood
 1KI 22:36	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 1KI 22:36	1	4	στρατοκῆρυξ	στρατοκῆρυξ	noun, nominative masculine singular	1	army herald
 1KI 22:36	1	5	ἐν	ἐν	preposition with the dative	1	in
@@ -936,7 +936,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:36	1	7	παρεμβολῇ			2	encampment
 1KI 22:36	1	8	δύνοντος	δύνω	present active participle, genitive masculine singular	1	at the setting
 1KI 22:36	1	9	τοῦ	ὁ	article, genitive singular	1	the
-1KI 22:36	1	10	ἡλίου	ἥλιος	noun, genitive masc. sg.	1	of the sun
+1KI 22:36	1	10	ἡλίου	ἥλιος	noun, genitive masc. sg.	1	sun
 1KI 22:36	1	11	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 1KI 22:36	1	12	ἕκαστος	ἕκαστος	adjective, nominative masculine singular	1	each
 1KI 22:36	1	13	εἰς	εἰς	preposition with the accusative	1	into
@@ -949,8 +949,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:36	1	20	τὴν	ὁ	article, accusative feminine singular	1	the
 1KI 22:36	1	21	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, possessive, genitive masculine singular	1	his own
 1KI 22:36	1	22	γῆν	γῆ	noun, accusative feminine singular	1	land
-1KI 22:36	1	23	ἀποτρεχέτω	ἀποτρέχω	present active imperative, third singular	1	let go with
-1KI 22:37	1	1	ὅτι	ὅτι	conjunction	1	that
+1KI 22:36	1	23	ἀποτρεχέτω	ἀποτρέχω	present active imperative, third singular	1	let him go away
+1KI 22:37	1	1	ὅτι	ὅτι	conjunction	1	for
 1KI 22:37	1	2	τέθνηκεν	θνῄσκω	perfect active indicative, third singular	1	has died
 1KI 22:37	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 1KI 22:37	1	4	βασιλεύς	βασιλεύς	noun, nominative masculine singular	1	king
@@ -968,7 +968,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:38	1	2	ἀπένιψαν	ἀπονίπτω	aorist active indicative, third plural	1	washed
 1KI 22:38	1	3	τὸ	ὁ	article, accusative neuter singular	1	the
 1KI 22:38	1	4	ἅρμα	ἅρμα	noun, accusative neuter singular after τὸ	1	chariot
-1KI 22:38	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	on
+1KI 22:38	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	at
 1KI 22:38	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 1KI 22:38	1	7	κρήνην	κρήνη	noun, accusative feminine singular	1	pool
 1KI 22:38	1	7	κρήνην			2	spring
@@ -982,7 +982,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:38	1	15	κύνες	κύων	noun, nominative masculine plural	1	dogs
 1KI 22:38	1	16	τὸ	ὁ	article, neuter singular (case from context)	1	the
 1KI 22:38	1	17	αἷμα	αἷμα	noun, accusative neuter singular	1	blood
-1KI 22:38	1	18	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	its
+1KI 22:38	1	18	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1KI 22:38	1	19	καὶ	καί	conjunction	1	and
 1KI 22:38	1	20	αἱ	ὁ	article, nominative feminine plural	1	the
 1KI 22:38	1	21	πόρναι	πόρνη	noun, nominative feminine plural	1	prostitutes
@@ -1016,7 +1016,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:39	1	18	τὰς	ὁ	article, accusative feminine plural	1	the
 1KI 22:39	1	19	πόλεις	πόλις	noun, accusative feminine plural	1	cities
 1KI 22:39	1	20	ἃς	ὅς	relative pronoun, accusative feminine plural with ἡμέρας/ζωῆς phrases	1	which
-1KI 22:39	1	21	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	did
+1KI 22:39	1	21	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	made
 1KI 22:39	1	21	ἐποίησεν			2	had done
 1KI 22:39	1	22	οὐκ	οὐ	negative adverb	1	not
 1KI 22:39	1	23	ἰδοὺ	ἰδού	interjection	1	behold
@@ -1024,11 +1024,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:39	1	25	γέγραπται	γράφω	perfect middle/passive indicative, third singular	1	is written
 1KI 22:39	1	26	ἐν	ἐν	preposition with the dative	1	in
 1KI 22:39	1	27	βιβλίῳ	βιβλίον	noun, dative neuter singular	1	book
-1KI 22:39	1	28	λόγων	λόγος	noun, genitive masculine plural	1	words
+1KI 22:39	1	28	λόγων	λόγος	noun, genitive masculine plural	1	of words
 1KI 22:39	1	28	λόγων			2	deeds
-1KI 22:39	1	29	τῶν	ὁ	article, genitive plural	1	the
+1KI 22:39	1	29	τῶν	ὁ	article, genitive plural	1	of the
 1KI 22:39	1	30	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
-1KI 22:39	1	31	τῶν	ὁ	article, genitive masculine plural	1	the
+1KI 22:39	1	31	τῶν	ὁ	article, genitive masculine plural	1	of the
 1KI 22:39	1	32	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
 1KI 22:39	1	33	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 1KI 22:40	1	1	Καὶ	καί	conjunction	1	and
@@ -1057,7 +1057,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:41	1	8	ἐν	ἐν	preposition with the dative	1	in
 1KI 22:41	1	9	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
 1KI 22:41	1	10	τετάρτῳ	τέταρτος	ordinal adjective, dative masculine singular	1	fourth
-1KI 22:41	1	11	τοῦ	ὁ	article, genitive masculine singular	1	of the
+1KI 22:41	1	11	τοῦ	ὁ	article, genitive masculine singular	1	—
 1KI 22:41	1	12	Ἀχαὰβ	Ἀχαάβ	indeclinable personal name, genitive in context	1	of Ahab
 1KI 22:41	1	13	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 1KI 22:41	1	14	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -1119,7 +1119,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:43	1	21	τῶν	ὁ	article, genitive neuter plural	1	the
 1KI 22:43	1	22	ὑψηλῶν	ὑψηλός	adjective, genitive neuter plural	1	high places
 1KI 22:43	1	23	οὐκ	οὐ	particle	1	not
-1KI 22:43	1	24	ἐξῆρεν	ἐξαίρω	aorist active indicative, third singular	1	set out
+1KI 22:43	1	24	ἐξῆρεν	ἐξαίρω	aorist active indicative, third singular	1	removed
 1KI 22:43	1	24	ἐξῆρεν			2	departed
 1KI 22:43	1	25	ἔτι	ἔτι	temporal adverb	1	still
 1KI 22:43	1	26	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -1167,8 +1167,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:45	1	26	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 1KI 22:46	1	1	Καὶ	καί	conjunction	1	and
 1KI 22:46	1	2	περισσὸν	περισσός	adjective, accusative neuter singular	1	remainder
-1KI 22:46	1	3	τοῦ	ὁ	article, genitive singular	1	the
-1KI 22:46	1	4	ἐνδιηλλαγμένου	ἐνδιαλλάσσω	perfect middle/passive participle, genitive masculine singular	1	of the reconciled one
+1KI 22:46	1	3	τοῦ	ὁ	article, genitive singular	1	of the
+1KI 22:46	1	4	ἐνδιηλλαγμένου	ἐνδιαλλάσσω	perfect middle/passive participle, genitive masculine singular	1	cult prostitute
 1KI 22:46	1	5	ὃ	ὅς	relative pronoun, nominative neuter singular, subject of ὑπελείφθη	1	which
 1KI 22:46	1	6	ὑπελείφθη	ὑπολείπω	aorist passive indicative, third singular	1	was left
 1KI 22:46	1	7	ἐν	ἐν	preposition with the dative	1	in
@@ -1245,8 +1245,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:50	1	7	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1KI 22:50	1	8	καὶ	καί	conjunction	1	and
 1KI 22:50	1	9	ἐτάφη	θάπτω	aorist passive indicative, third singular	1	was buried
-1KI 22:50	1	10	παρὰ	παρά	preposition with genitive	1	from
-1KI 22:50	1	11	τοῖς	ὁ	article, dative masculine plural	1	to the
+1KI 22:50	1	10	παρὰ	παρά	preposition with genitive	1	beside
+1KI 22:50	1	11	τοῖς	ὁ	article, dative masculine plural	1	the
 1KI 22:50	1	12	πατράσιν	πατήρ	noun, dative masculine plural	1	fathers
 1KI 22:50	1	13	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1KI 22:50	1	14	ἐν	ἐν	preposition with the dative	1	in
@@ -1315,13 +1315,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:52	1	27	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 1KI 22:52	1	28	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	1	of Nebat
 1KI 22:52	1	28	Ναβὰτ			2	of Nabat
-1KI 22:52	1	29	ὃς	ὅς	relative pronoun, accusative feminine singular	1	which
-1KI 22:52	1	30	ἐξήμαρτε	ἐξαμαρτάνω	aorist active indicative, third singular	1	he caused to sin
+1KI 22:52	1	29	ὃς	ὅς	relative pronoun, accusative feminine singular	1	who
+1KI 22:52	1	30	ἐξήμαρτε	ἐξαμαρτάνω	aorist active indicative, third singular	1	caused to sin
 1KI 22:52	1	31	τὸν	ὁ	article, accusative masculine singular	1	the
 1KI 22:52	1	32	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, dative in context	1	Israel
 1KI 22:53	1	1	Καὶ	καί	conjunction	1	and
 1KI 22:53	1	2	ἐδούλευσε	δουλεύω	aorist active indicative, third singular	1	served
-1KI 22:53	1	3	τοῖς	ὁ	article, dative neuter plural	1	the
+1KI 22:53	1	3	τοῖς	ὁ	article, dative neuter plural	1	—
 1KI 22:53	1	4	Βααλεὶμ	Βααλείμ	indeclinable divine title, dative in context	1	the Baals
 1KI 22:53	1	5	καὶ	καί	conjunction	1	and
 1KI 22:53	1	6	προσεκύνησεν	προσκυνέω	aorist active indicative, third singular	1	bowed
@@ -1333,7 +1333,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 22:53	1	11	Κύριον	κύριος	noun, accusative masculine singular	1	the Lord
 1KI 22:53	1	12	Θεὸν	θεός	noun, accusative masculine singular	1	God
 1KI 22:53	1	13	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
-1KI 22:53	1	14	κατὰ	κατά	preposition with the accusative	1	in
+1KI 22:53	1	14	κατὰ	κατά	preposition with the accusative	1	according to
 1KI 22:53	1	15	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 1KI 22:53	1	16	τὰ	ὁ	article, accusative neuter plural	1	the
 1KI 22:53	1	17	γενόμενα	γίνομαι	aorist middle participle, nominative neuter plural	1	things done

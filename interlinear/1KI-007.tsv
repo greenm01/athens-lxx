@@ -273,8 +273,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:14	1	5	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this man
 1KI 7:14	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
 1KI 7:14	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
-1KI 7:14	1	8	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-1KI 7:14	1	8	φυλῆς			2	tribe
+1KI 7:14	1	8	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+1KI 7:14	1	8	φυλῆς			2	clan
 1KI 7:14	1	9	Νεφθαλείμ	Νεφθαλείμ	indeclinable personal name, nominative in context	1	of Naphtali
 1KI 7:14	1	10	καὶ	καί	conjunction	1	and
 1KI 7:14	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -355,9 +355,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:16	1	6	ἐπὶ	ἐπί	preposition (case/government from context)	1	on
 1KI 7:16	1	7	τὰς	ὁ	article, accusative feminine plural	1	the
 1KI 7:16	1	8	κεφαλὰς	κεφαλή	noun, accusative feminine plural	1	heads
-1KI 7:16	1	9	τῶν	ὁ	article, genitive neuter plural	1	the
+1KI 7:16	1	9	τῶν	ὁ	article, genitive neuter plural	1	of the
 1KI 7:16	1	10	στύλων	στῦλος	noun, genitive masc. pl. after ἐπὶ τῶν	1	pillars
-1KI 7:16	1	11	χωνευτὰ	χωνευτός	adjective, accusative neuter plural; substantival	1	cast images
+1KI 7:16	1	11	χωνευτὰ	χωνευτός	adjective, accusative neuter plural; substantival	1	cast
 1KI 7:16	1	11	χωνευτὰ			2	molten images
 1KI 7:16	1	12	χαλκᾶ	χαλκοῦς	adjective, accusative neuter plural	1	bronze
 1KI 7:16	1	13	πέντε	πέντε	indeclinable cardinal numeral	1	five
@@ -408,7 +408,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:18	1	8	δεδικτυωμένοι	δικτυόω	perfect passive participle, nominative masculine plural	1	latticed
 1KI 7:18	1	9	ἔργον	ἔργον	noun, nominative neuter singular	1	a work
 1KI 7:18	1	10	κρεμαστὸν	κρεμαστός	adjective, nominative neuter singular	1	hanging
-1KI 7:18	1	11	στίχος	στίχος	noun, nominative masc. sg.	1	row (a row)
+1KI 7:18	1	11	στίχος	στίχος	noun, nominative masc. sg.	1	row
 1KI 7:18	1	12	ἐπὶ	ἐπί	preposition governing the accusative	1	upon
 1KI 7:18	1	13	στίχον	στίχος	noun, accusative masculine singular after ἐπί	1	row
 1KI 7:18	1	14	καὶ	καί	conjunction	1	and
@@ -521,9 +521,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:23	1	15	χείλους	χεῖλος	noun, genitive neuter singular after ἕως	1	rim
 1KI 7:23	1	16	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	its
 1KI 7:23	1	17	στρογγύλον	στρογγύλος	adjective, nominative neuter singular	1	round
-1KI 7:23	1	18	κύκλῳ	κύκλος	noun used adverbially with genitive τοῦ ποταμοῦ	1	round
+1KI 7:23	1	18	κύκλῳ	κύκλος	noun used adverbially with genitive τοῦ ποταμοῦ	1	all around
 1KI 7:23	1	19	τὸ	ὁ	article, nominative neuter singular	1	the
-1KI 7:23	1	20	αὐτό	αὐτός	pronoun, accusative neuter singular	1	same place
+1KI 7:23	1	20	αὐτό	αὐτός	pronoun, accusative neuter singular	1	same
 1KI 7:23	1	21	πέντε	πέντε	indeclinable cardinal numeral	1	five
 1KI 7:23	1	22	ἐν	ἐν	preposition with the dative	1	in
 1KI 7:23	1	23	πήχει	πῆχυς	noun, dative masculine singular	1	cubit
@@ -963,7 +963,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:40	1	5	λέβητας			2	kettles
 1KI 7:40	1	6	καὶ	καί	conjunction	1	and
 1KI 7:40	1	7	τὰς	ὁ	article, accusative feminine plural	1	the
-1KI 7:40	1	8	θερμαστρεῖς	θερμαστήρ	noun, accusative masculine plural	1	heating vessels
+1KI 7:40	1	8	θερμαστρεῖς	θερμαστήρ	noun, accusative masculine plural	1	tongs
 1KI 7:40	1	9	καὶ	καί	conjunction	1	and
 1KI 7:40	1	10	τὰς	ὁ	article, accusative feminine plural	1	the
 1KI 7:40	1	11	φιάλας	φιάλη	noun, accusative fem. pl. after τὰς, bowls/basins	1	bowls
@@ -1067,7 +1067,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:45	1	3	λέβητας			2	kettles
 1KI 7:45	1	4	καὶ	καί	conjunction	1	and
 1KI 7:45	1	5	τὰς	ὁ	article, accusative feminine plural	1	the
-1KI 7:45	1	6	θερμαστρεῖς	θερμαστήρ	noun, accusative masculine plural	1	heating vessels
+1KI 7:45	1	6	θερμαστρεῖς	θερμαστήρ	noun, accusative masculine plural	1	tongs
 1KI 7:45	1	7	καὶ	καί	conjunction	1	and
 1KI 7:45	1	8	τὰς	ὁ	article, accusative feminine plural	1	the
 1KI 7:45	1	9	φιάλας	φιάλη	noun, accusative fem. pl. after τὰς, bowls/basins	1	bowls
@@ -1121,7 +1121,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:46	1	10	ἐν	ἐν	preposition with the dative	1	in
 1KI 7:46	1	11	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 1KI 7:46	1	12	πάχει	πάχος	noun, dative neuter singular	1	thickness
-1KI 7:46	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
+1KI 7:46	1	13	τῆς	ὁ	article, genitive feminine singular	1	of the
 1KI 7:46	1	14	γῆς	γῆ	noun, genitive feminine singular	1	soil
 1KI 7:46	1	15	ἀναμέσον	ἀνὰ μέσον	prepositional phrase with gen./acc. following, between	1	between
 1KI 7:46	1	16	Σοκχὼθ	Σοκχώθ	indeclinable place name, genitive in context	1	Succoth
@@ -1262,7 +1262,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:50	1	31	τοῦ	ὁ	article, genitive masculine singular	1	of the
 1KI 7:50	1	32	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 1KI 7:50	1	32	οἴκου			2	household
-1KI 7:50	1	33	τοῦ	ὁ	article, genitive masculine singular	1	the
+1KI 7:50	1	33	τοῦ	ὁ	article, genitive masculine singular	1	of the
 1KI 7:50	1	34	ναοῦ	ναός	noun, genitive masculine singular	1	temple
 1KI 7:50	1	34	ναοῦ			2	sanctuary
 1KI 7:50	1	35	χρυσᾶς	χρυσοῦς	adjective, accusative fem. pl.	1	of gold
