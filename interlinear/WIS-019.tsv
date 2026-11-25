@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 WIS 19:1	1	1	ΤΟΙΣ	ὁ	article, dative masculine plural	1	to the
 WIS 19:1	1	2	δὲ	δέ	postpositive conjunction	1	and
-WIS 19:1	1	3	ἀσεβέσι	ἀσεβής	adjective, dative masculine plural; substantival	1	the impious
+WIS 19:1	1	3	ἀσεβέσι	ἀσεβής	adjective, dative masculine plural; substantival	1	impious
 WIS 19:1	1	3	ἀσεβέσι			2	ungodly people
 WIS 19:1	1	4	μέχρι	μέχρι	preposition with genitive	1	to
 WIS 19:1	1	5	τέλους	τέλος	noun, genitive neuter singular	1	the end
@@ -41,7 +41,7 @@ WIS 19:3	1	12	ἕτερον	ἕτερος	adjective, accusative masculine singul
 WIS 19:3	1	13	ἐπεσπάσαντο	ἐπισπάω	aorist middle indicative, third plural	1	they drew upon themselves
 WIS 19:3	1	14	λογισμὸν	λογισμός	noun, accusative masculine singular	1	thought
 WIS 19:3	1	14	λογισμὸν			2	intention
-WIS 19:3	1	15	ἀνοίας	ἄνοια	noun, genitive feminine singular	1	folly
+WIS 19:3	1	15	ἀνοίας	ἄνοια	noun, genitive feminine singular	1	of folly
 WIS 19:3	1	16	καὶ	καί	conjunction	1	and
 WIS 19:3	1	17	οὓς	ὅς	relative pronoun, accusative masculine plural	1	whom
 WIS 19:3	1	18	ἱκετεύοντες	ἱκετεύω	present active participle, nominative masculine plural	1	having begged
@@ -55,23 +55,23 @@ WIS 19:4	1	2	γὰρ	γάρ	conjunction	1	for
 WIS 19:4	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 WIS 19:4	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
 WIS 19:4	1	5	ἀξία	ἄξιος	adjective, nominative feminine singular	1	deserved
-WIS 19:4	1	6	ἐπὶ	ἐπί	preposition with genitive	1	on
+WIS 19:4	1	6	ἐπὶ	ἐπί	preposition with genitive	1	to
 WIS 19:4	1	7	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 WIS 19:4	1	8	τὸ	ὁ	article, accusative neuter singular	1	the
 WIS 19:4	1	9	πέρας	πέρας	noun accusative neuter singular	1	end
 WIS 19:4	1	10	ἀνάγκη	ἀνάγκη	noun, nominative feminine singular	1	fate
 WIS 19:4	1	11	καὶ	καί	conjunction	1	and
-WIS 19:4	1	12	τῶν	ὁ	article, genitive plural	1	the
+WIS 19:4	1	12	τῶν	ὁ	article, genitive plural	1	of the
 WIS 19:4	1	13	συμβεβηκότων	συμβαίνω	perfect active participle, genitive neuter plural	1	things that had happened
 WIS 19:4	1	14	ἀμνηστίαν	ἀμνηστία	noun, accusative feminine singular	1	forgetfulness
 WIS 19:4	1	15	ἐνέβαλεν	ἐμβάλλω	aorist active indicative, 3rd sg.	1	instilled
 WIS 19:4	1	16	ἵνα	ἵνα	conjunction introducing a purpose clause	1	so that
 WIS 19:4	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
 WIS 19:4	1	18	λείπουσαν	λείπω	present active participle, accusative feminine singular	1	lacking
-WIS 19:4	1	19	ταῖς	ὁ	article, dative feminine plural	1	the
+WIS 19:4	1	19	ταῖς	ὁ	article, dative feminine plural	1	to the
 WIS 19:4	1	20	βασάνοις	βάσανος	noun, dative feminine plural	1	torments
 WIS 19:4	1	21	προσαναπληρώσωσι	προσαναπληρόω	aorist active subjunctive, third plural	1	might fill up
-WIS 19:4	1	22	κόλασιν	κόλασις	noun, accusative feminine singular	1	in punishment
+WIS 19:4	1	22	κόλασιν	κόλασις	noun, accusative feminine singular	1	punishment
 WIS 19:5	1	1	καὶ	καί	conjunction	1	and
 WIS 19:5	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 WIS 19:5	1	3	μὲν	μέν	particle marking the first of two contrasting clauses	1	indeed
@@ -82,7 +82,7 @@ WIS 19:5	1	7	ὁδοιπορίαν	ὁδοιπορία	noun, accusative feminine
 WIS 19:5	1	8	περάσῃ	περάω	aorist active subjunctive, third singular	1	might pass through
 WIS 19:5	1	9	ἐκεῖνοι	ἐκεῖνος	demonstrative pronoun, nominative masculine plural	1	those
 WIS 19:5	1	10	δὲ	δέ	postpositive conjunction	1	and
-WIS 19:5	1	11	ξένον	ξένος	adjective, accusative masculine singular	1	enemies
+WIS 19:5	1	11	ξένον	ξένος	adjective, accusative masculine singular	1	a strange
 WIS 19:5	1	12	εὕρωσι	εὑρίσκω	aorist active subjunctive, third plural	1	might find
 WIS 19:5	1	13	θάνατον	θάνατος	noun, accusative masculine singular	1	death
 WIS 19:6	1	1	Ὅλη	ὅλος	adjective, nominative feminine singular	1	whole
@@ -94,11 +94,11 @@ WIS 19:6	1	6	ἰδίῳ	ἴδιος	adjective, dative neuter singular	1	its own
 WIS 19:6	1	7	γένει	γένος	noun, dative neuter singular	1	kind
 WIS 19:6	1	8	πάλιν	πάλιν	adverb	1	again
 WIS 19:6	1	9	ἄνωθεν	ἄνωθεν	adverb of place	1	anew
-WIS 19:6	1	10	διετυποῦτο	διατυπόω	imperfect middle/passive indicative, third singular	1	was shaped anew
+WIS 19:6	1	10	διετυποῦτο	διατυπόω	imperfect middle/passive indicative, third singular	1	was fashioned
 WIS 19:6	1	11	ὑπηρετοῦσα	ὑπηρετέω	present active participle, nominative feminine singular	1	serving
 WIS 19:6	1	12	ταῖς	ὁ	definite article, dative feminine plural	1	the
 WIS 19:6	1	13	σαῖς	σός	adjective, dative feminine plural	1	your
-WIS 19:6	1	14	ἐπιταγαῖς	ἐπιταγή	noun, dative feminine plural	1	by decree
+WIS 19:6	1	14	ἐπιταγαῖς	ἐπιταγή	noun, dative feminine plural	1	commands
 WIS 19:6	1	15	ἵνα	ἵνα	purpose conjunction	1	so that
 WIS 19:6	1	16	οἱ	ὁ	article, nominative masculine plural	1	the
 WIS 19:6	1	17	σοὶ	σύ	pronoun, dative 2nd singular	1	your
@@ -115,7 +115,7 @@ WIS 19:7	1	6	ἐκ	ἐκ	preposition with the genitive	1	from
 WIS 19:7	1	7	δὲ	δέ	postpositive conjunction	1	now
 WIS 19:7	1	8	προϋφεστῶτος	προϋφίστημι	perfect active participle, genitive neuter singular	1	formerly existing
 WIS 19:7	1	9	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
-WIS 19:7	1	10	ξηρᾶς	ξηρός	adjective, genitive fem. sg.	1	dry ground
+WIS 19:7	1	10	ξηρᾶς	ξηρός	adjective, genitive fem. sg.	1	of dry
 WIS 19:7	1	11	ἀνάδυσις	ἀνάδυσις	noun, nominative feminine singular	1	emergence
 WIS 19:7	1	12	γῆς	γῆ	noun, genitive feminine singular	1	land
 WIS 19:7	1	13	ἐθεωρεῖτο	θεωρέω	imperfect middle/passive indicative, third singular	1	was seen
@@ -132,7 +132,7 @@ WIS 19:7	1	23	κλύδωνος	κλύδων	noun, genitive masculine singular	1	
 WIS 19:7	1	24	βιαίου	βίαιος	adjective, genitive masculine singular	1	violent
 WIS 19:8	1	1	δι᾽	διά	elided preposition with the accusative	1	through
 WIS 19:8	1	2	οὗ	ὅς	relative pronoun, genitive masculine singular; refers to the ram	1	which
-WIS 19:8	1	3	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+WIS 19:8	1	3	πᾶν	πᾶς	adjective, accusative neuter singular	1	whole
 WIS 19:8	1	4	ἔθνος	ἔθνος	noun, nominative neuter singular	1	nation
 WIS 19:8	1	5	διῆλθον	διέρχομαι	aorist active indicative, third plural	1	passed through
 WIS 19:8	1	6	οἱ	ὁ	article, nominative masculine plural	1	those
@@ -159,9 +159,9 @@ WIS 19:9	1	13	ῥυσάμενον	ῥύομαι	aorist middle participle, accusa
 WIS 19:9	1	14	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 WIS 19:10	1	1	ἐμέμνηντο	μιμνῄσκομαι	pluperfect middle/passive indicative, third plural	1	they remembered
 WIS 19:10	1	2	γὰρ	γάρ	conjunction	1	for
-WIS 19:10	1	3	ἔτι	ἔτι	adverb of time	1	again
+WIS 19:10	1	3	ἔτι	ἔτι	adverb of time	1	still
 WIS 19:10	1	3	ἔτι			2	any more
-WIS 19:10	1	4	τῶν	ὁ	article, genitive plural	1	the
+WIS 19:10	1	4	τῶν	ὁ	article, genitive plural	1	the things
 WIS 19:10	1	5	ἐν	ἐν	preposition with the dative	1	in
 WIS 19:10	1	6	τῇ	ὁ	article, dative feminine singular	1	the
 WIS 19:10	1	7	παροικίᾳ	παροικία	noun, dative feminine singular	1	sojourn
@@ -169,9 +169,9 @@ WIS 19:10	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 WIS 19:10	1	9	πῶς	πῶς	interrogative adverb	1	how
 WIS 19:10	1	10	ἀντὶ	ἀντί	preposition with the genitive	1	instead of
 WIS 19:10	1	11	μὲν	μέν	particle	1	indeed
-WIS 19:10	1	12	γενέσεως	γένεσις	noun, genitive feminine singular	1	of birth
+WIS 19:10	1	12	γενέσεως	γένεσις	noun, genitive feminine singular	1	birth
 WIS 19:10	1	13	ζώων	ζῷον	noun, genitive neuter plural	1	of animals
-WIS 19:10	1	14	ἐξήγαγεν	ἐξάγω	aorist active indicative, third singular	1	led out
+WIS 19:10	1	14	ἐξήγαγεν	ἐξάγω	aorist active indicative, third singular	1	brought forth
 WIS 19:10	1	15	ἡ	ὁ	article, nominative feminine singular	1	the
 WIS 19:10	1	16	γῆ	γῆ	noun, nominative feminine singular	1	land
 WIS 19:10	1	17	σκνῖφας	σκνίψ	noun, accusative feminine plural	1	gnats
@@ -183,7 +183,7 @@ WIS 19:10	1	22	ὁ	ὁ	article, nominative masculine singular	1	the
 WIS 19:10	1	23	ποταμὸς	ποταμός	noun, nominative masculine singular	1	river
 WIS 19:10	1	24	πλῆθος	πλῆθος	noun, accusative neuter singular	1	multitude
 WIS 19:10	1	24	πλῆθος			2	abundance
-WIS 19:10	1	25	βατράχων	βάτραχος	noun, genitive masculine plural	1	frogs
+WIS 19:10	1	25	βατράχων	βάτραχος	noun, genitive masculine plural	1	of frogs
 WIS 19:11	1	1	ἐφ᾽	ἐπί	preposition governing dative	1	at
 WIS 19:11	1	2	ὑστέρῳ	ὕστερος	adjective, dative neuter singular; temporal	1	later
 WIS 19:11	1	3	δὲ	δέ	postpositive conjunction	1	and
@@ -191,13 +191,13 @@ WIS 19:11	1	4	ἴδον	ὁράω	aorist active indicative, third plural	1	they 
 WIS 19:11	1	5	καὶ	καί	conjunction	1	and
 WIS 19:11	1	6	γένεσιν	γένεσις	noun, accusative feminine singular	1	origin
 WIS 19:11	1	7	νέαν	νέος	adjective, accusative feminine singular	1	unusual
-WIS 19:11	1	8	ὀρνέων	ὄρνεον	noun, genitive neuter plural	1	birds
+WIS 19:11	1	8	ὀρνέων	ὄρνεον	noun, genitive neuter plural	1	of birds
 WIS 19:11	1	9	ὅτε	ὅτε	temporal conjunction	1	when
-WIS 19:11	1	10	ἐπιθυμίᾳ	ἐπιθυμία	noun, dative feminine singular	1	desire
+WIS 19:11	1	10	ἐπιθυμίᾳ	ἐπιθυμία	noun, dative feminine singular	1	by desire
 WIS 19:11	1	11	προαχθέντες	προάγω	aorist passive participle, nominative masculine plural	1	being led on
 WIS 19:11	1	12	ᾐτήσαντο	αἰτέω	aorist middle indicative, third plural	1	they asked for
 WIS 19:11	1	13	ἐδέσματα	ἔδεσμα	noun, accusative neuter plural	1	foods
-WIS 19:11	1	14	τρυφῆς	τρυφή	noun, genitive feminine singular	1	delight
+WIS 19:11	1	14	τρυφῆς	τρυφή	noun, genitive feminine singular	1	of delight
 WIS 19:12	1	1	εἰς	εἰς	preposition with the accusative	1	for
 WIS 19:12	1	2	γὰρ	γάρ	postpositive conjunction	1	for
 WIS 19:12	1	3	παραμυθίαν	παραμυθία	noun, accusative feminine singular	1	relief
@@ -215,11 +215,11 @@ WIS 19:12	1	14	ἐπῆλθον	ἐπέρχομαι	aorist active indicative, th
 WIS 19:12	1	15	οὐκ	οὐ	negative particle	1	not
 WIS 19:12	1	16	ἄνευ	ἄνευ	preposition with genitive	1	without
 WIS 19:12	1	17	τῶν	ὁ	article, genitive plural	1	the
-WIS 19:12	1	18	προγεγονότων	προγίγνομαι	perfect active participle, genitive neuter plural	1	things that had happened before
+WIS 19:12	1	18	προγεγονότων	προγίγνομαι	perfect active participle, genitive neuter plural	1	previous
 WIS 19:12	1	19	τεκμηρίων	τεκμήριον	noun, genitive neuter plural	1	proofs
-WIS 19:12	1	20	τῇ	ὁ	article, dative feminine singular	1	the
-WIS 19:12	1	21	βίᾳ	βία	noun, dative feminine singular	1	violent
-WIS 19:12	1	22	τῶν	ὁ	article, genitive plural	1	the
+WIS 19:12	1	20	τῇ	ὁ	article, dative feminine singular	1	by the
+WIS 19:12	1	21	βίᾳ	βία	noun, dative feminine singular	1	violence
+WIS 19:12	1	22	τῶν	ὁ	article, genitive plural	1	of the
 WIS 19:12	1	23	κεραυνῶν	κεραυνός	noun, genitive masculine plural	1	thunderbolts
 WIS 19:12	1	24	δικαίως	δικαίως	adverb of manner	1	rightly
 WIS 19:12	1	24	δικαίως			2	justly
@@ -235,7 +235,7 @@ WIS 19:13	1	2	γὰρ	γάρ	conjunction	1	for
 WIS 19:13	1	3	χαλεπωτέραν	χαλεπός	adjective, accusative feminine singular	1	harsher
 WIS 19:13	1	4	μισοξενίαν	μισοξενία	noun, accusative feminine singular	1	hatred of strangers
 WIS 19:13	1	5	ἐπετήδευσαν	ἐπιτηδεύω	aorist active indicative, third plural	1	they practiced
-WIS 19:13	1	6	οἱ	ὁ	article, nominative masculine plural	1	the
+WIS 19:13	1	6	οἱ	ὁ	article, nominative masculine plural	1	those
 WIS 19:13	1	7	μὲν	μέν	particle	1	indeed
 WIS 19:13	1	8	τοὺς	ὁ	article, accusative masculine plural	1	the
 WIS 19:13	1	9	ἀγνῶτας	ἀγνώς	adjective, accusative masculine plural	1	strangers
@@ -252,11 +252,11 @@ WIS 19:14	1	2	οὐ	οὐ	negative particle	1	not
 WIS 19:14	1	3	μόνον	μόνος	adjective, accusative masculine singular	1	alone
 WIS 19:14	1	4	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
 WIS 19:14	1	5	ἄλλη	ἄλλος	adjective, nominative feminine singular	1	other
-WIS 19:14	1	6	τις	τις	indefinite pronoun, nominative masc. sg.	1	someone
+WIS 19:14	1	6	τις	τις	indefinite pronoun, nominative masc. sg.	1	some
 WIS 19:14	1	7	ἐπισκοπὴ	ἐπισκοπή	noun, nominative feminine singular	1	reckoning
 WIS 19:14	1	8	ἔσται	εἰμί	future indicative, third singular	1	will be
 WIS 19:14	1	9	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	for them
-WIS 19:14	1	10	ἐπεὶ	ἐπεί	temporal conjunction	1	when
+WIS 19:14	1	10	ἐπεὶ	ἐπεί	temporal conjunction	1	since
 WIS 19:14	1	11	ἀπεχθῶς	ἀπεχθῶς	adverb	1	with hostility
 WIS 19:14	1	12	προσεδέχοντο	προσδέχομαι	imperfect middle indicative, 3rd pl.	1	they were receiving
 WIS 19:14	1	13	τοὺς	ὁ	article, accusative masculine plural; introduces a prepositional phrase	1	those
@@ -267,11 +267,11 @@ WIS 19:15	1	2	δὲ	δέ	postpositive conjunction	1	and
 WIS 19:15	1	3	μετὰ	μετά	preposition with genitive	1	with
 WIS 19:15	1	4	ἑορτασμάτων	ἑόρτασμα	noun, genitive neuter plural	1	celebrations
 WIS 19:15	1	5	εἰσδεξάμενοι	εἰσδέχομαι	aorist middle participle, nominative masculine plural	1	having welcomed
-WIS 19:15	1	6	τοὺς	ὁ	article, accusative masculine plural	1	the
+WIS 19:15	1	6	τοὺς	ὁ	article, accusative masculine plural	1	those
 WIS 19:15	1	7	ἤδη	ἤδη	adverb of time	1	already
 WIS 19:15	1	7	ἤδη			2	now
 WIS 19:15	1	8	τῶν	ὁ	article, genitive plural	1	the
-WIS 19:15	1	9	αὐτῶν	αὐτός	personal pronoun genitive plural	1	their
+WIS 19:15	1	9	αὐτῶν	αὐτός	personal pronoun genitive plural	1	same
 WIS 19:15	1	10	μετεσχηκότας	μετέχω	perfect active participle, accusative masculine plural	1	having shared
 WIS 19:15	1	11	δικαίων	δίκαιος	substantival adjective genitive masculine plural	1	rights
 WIS 19:15	1	12	δεινοῖς	δεινός	adjective, dative neuter plural	1	with terrible
@@ -283,19 +283,19 @@ WIS 19:16	1	3	καὶ	καί	conjunction	1	also
 WIS 19:16	1	4	ἀορασίᾳ	ἀορασία	noun, dative feminine singular	1	with blindness
 WIS 19:16	1	5	ὥσπερ	ὥσπερ	comparative conjunction	1	just as
 WIS 19:16	1	6	ἐκεῖνοι	ἐκεῖνος	demonstrative pronoun, nominative masculine plural	1	those
-WIS 19:16	1	7	ἐπὶ	ἐπί	preposition	1	on
+WIS 19:16	1	7	ἐπὶ	ἐπί	preposition	1	at
 WIS 19:16	1	8	ταῖς	ὁ	article, dative feminine plural	1	the
 WIS 19:16	1	9	τοῦ	ὁ	article, genitive singular	1	of the
 WIS 19:16	1	10	δικαίου	δίκαιος	adjective, genitive masculine singular; substantival	1	righteous person
 WIS 19:16	1	11	θύραις	θύρα	noun, dative feminine plural	1	doors
 WIS 19:16	1	12	ὅτε	ὅτε	temporal conjunction	1	when
-WIS 19:16	1	13	ἀχανεῖ	ἀχανής	adjective, dative neuter singular	1	vast
+WIS 19:16	1	13	ἀχανεῖ	ἀχανής	adjective, dative neuter singular	1	with vast
 WIS 19:16	1	14	περιβληθέντες	περιβάλλω	aorist passive participle, nominative masculine plural	1	being surrounded
 WIS 19:16	1	15	σκότει	σκότος	noun, dative neuter singular	1	darkness
 WIS 19:16	1	16	ἕκαστος	ἕκαστος	adjective, nominative masculine singular	1	each
-WIS 19:16	1	17	τῶν	ὁ	article, genitive plural	1	the
+WIS 19:16	1	17	τῶν	ὁ	article, genitive plural	1	of the
 WIS 19:16	1	18	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, possessive, genitive masculine singular	1	his own
-WIS 19:16	1	19	θυρῶν	θύρα	noun, genitive feminine plural	1	of the door
+WIS 19:16	1	19	θυρῶν	θύρα	noun, genitive feminine plural	1	doors
 WIS 19:16	1	20	τὴν	ὁ	article accusative feminine singular	1	the
 WIS 19:16	1	21	δίοδον	δίοδος	noun, accusative feminine singular	1	passage
 WIS 19:16	1	22	ἐζήτει	ζητέω	imperfect active indicative, third person singular	1	sought
@@ -309,7 +309,7 @@ WIS 19:17	1	7	ὥσπερ	ὥσπερ	comparative conjunction	1	just as
 WIS 19:17	1	8	ἐν	ἐν	preposition with the dative	1	in
 WIS 19:17	1	9	ψαλτηρίῳ	ψαλτήριον	noun dative neuter singular	1	a harp
 WIS 19:17	1	10	φθόγγοι	φθόγγος	noun, nominative masculine plural	1	notes
-WIS 19:17	1	11	τοῦ	ὁ	article, genitive singular	1	the
+WIS 19:17	1	11	τοῦ	ὁ	article, genitive singular	1	of the
 WIS 19:17	1	12	ῥυθμοῦ	ῥυθμός	noun, genitive masculine singular	1	tune
 WIS 19:17	1	13	τὸ	ὁ	article, accusative neuter singular	1	the
 WIS 19:17	1	14	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
@@ -335,12 +335,12 @@ WIS 19:18	1	5	μετεβάλλετο	μεταβάλλω	imperfect middle/passive
 WIS 19:18	1	6	καὶ	καί	conjunction	1	and
 WIS 19:18	1	7	νηκτὰ	νηκτός	adjective, nominative neuter plural	1	swimming creatures
 WIS 19:18	1	8	μετέβαινεν	μεταβαίνω	imperfect active indicative, third singular	1	crossed over
-WIS 19:18	1	9	ἐπὶ	ἐπί	preposition with dative, causal	1	over
+WIS 19:18	1	9	ἐπὶ	ἐπί	preposition with dative, causal	1	onto
 WIS 19:18	1	10	γῆς	γῆ	noun, genitive feminine singular	1	earth
 WIS 19:19	1	1	πῦρ	πῦρ	noun, nominative neuter singular	1	fire
 WIS 19:19	1	2	ἴσχυεν	ἰσχύω	imperfect active indicative, third singular	1	maintained its strength
 WIS 19:19	1	3	ἐν	ἐν	preposition with the dative	1	in
-WIS 19:19	1	4	ὕδατι	ὕδωρ	noun, dative neuter singular	1	waters
+WIS 19:19	1	4	ὕδατι	ὕδωρ	noun, dative neuter singular	1	water
 WIS 19:19	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
 WIS 19:19	1	6	ἰδίας	ἴδιος	adjective, genitive feminine singular	1	its own
 WIS 19:19	1	7	δυνάμεως	δύναμις	noun, genitive feminine singular	1	power
@@ -364,14 +364,14 @@ WIS 19:20	1	10	ἔτηκον	τήκω	imperfect active indicative, third plural	
 WIS 19:20	1	11	κρυσταλλοειδὲς	κρυσταλλοειδής	adjective, accusative neuter singular	1	ice-like
 WIS 19:20	1	12	εὔτηκτον	εὔτηκτος	adjective, accusative neuter singular	1	easily melted
 WIS 19:20	1	13	γένος	γένος	noun, accusative neuter singular	1	kind
-WIS 19:20	1	14	ἀμβροσίας	ἀμβροσία	noun, genitive feminine singular	1	heavenly
+WIS 19:20	1	14	ἀμβροσίας	ἀμβροσία	noun, genitive feminine singular	1	of heavenly
 WIS 19:20	1	15	τροφῆς	τροφή	noun, genitive feminine singular	1	food
 WIS 19:21	1	1	Κατὰ	κατά	preposition with the accusative	1	in
 WIS 19:21	1	2	πάντα	πᾶς	adjective, accusative neuter plural	1	all things
 WIS 19:21	1	3	γὰρ	γάρ	conjunction	1	for
 WIS 19:21	1	4	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 WIS 19:21	1	4	Κύριε			2	Lord
-WIS 19:21	1	5	ἐμεγάλυνας	μεγαλύνω	aorist active indicative, second singular	1	you have magnified
+WIS 19:21	1	5	ἐμεγάλυνας	μεγαλύνω	aorist active indicative, second singular	1	you magnified
 WIS 19:21	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
 WIS 19:21	1	7	λαόν	λαός	noun, accusative masculine singular	1	people
 WIS 19:21	1	8	σου	σύ	pronoun, possessive genitive second singular	1	your

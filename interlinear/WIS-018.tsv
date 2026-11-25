@@ -6,7 +6,7 @@ WIS 18:1	1	4	σου	σύ	pronoun, possessive genitive second singular	1	your
 WIS 18:1	1	5	μέγιστον	μέγας	adjective, nominative neuter singular	1	very great
 WIS 18:1	1	6	ἦν	εἰμί	imperfect indicative, third singular	1	was
 WIS 18:1	1	7	φῶς	φῶς	noun, nominative neuter singular	1	light
-WIS 18:1	1	8	ὧν	ὅς	relative pronoun, genitive neuter plural, part of 'because'	1	—
+WIS 18:1	1	8	ὧν	ὅς	relative pronoun, genitive neuter plural, part of 'because'	1	whose
 WIS 18:1	1	9	φωνὴν	φωνή	noun, accusative feminine singular	1	voice
 WIS 18:1	1	10	μὲν	μέν	particle	1	indeed
 WIS 18:1	1	11	ἀκούοντες	ἀκούω	present active imperative, nominative masculine plural	1	hearing
@@ -42,7 +42,7 @@ WIS 18:3	1	8	ὁδοιπορίας	ὁδοιπορία	noun, genitive feminine s
 WIS 18:3	1	9	ἥλιον	ἥλιος	noun, accusative masculine singular	1	sun
 WIS 18:3	1	10	δὲ	δέ	postpositive conjunction	1	and
 WIS 18:3	1	11	ἀβλαβῆ	ἀβλαβής	adjective, accusative masculine singular	1	harmless
-WIS 18:3	1	12	φιλοτίμου	φιλότιμος	adjective, genitive feminine singular	1	glorious
+WIS 18:3	1	12	φιλοτίμου	φιλότιμος	adjective, genitive feminine singular	1	of glorious
 WIS 18:3	1	13	ξενιτείας	ξενιτεία	noun, genitive feminine singular	1	sojourn
 WIS 18:3	1	14	παρέσχες	παρέχω	aorist active indicative, second singular	1	you provided
 WIS 18:4	1	1	Ἄξιοι	ἄξιος	adjective, nominative masculine plural	1	deserving
@@ -50,25 +50,25 @@ WIS 18:4	1	2	μὲν	μέν	particle marking the first of two contrasting clause
 WIS 18:4	1	3	γὰρ	γάρ	explanatory conjunction	1	for
 WIS 18:4	1	4	ἐκεῖνοι	ἐκεῖνος	demonstrative pronoun, nominative masculine plural	1	those
 WIS 18:4	1	5	στερηθῆναι	στερέω	aorist passive infinitive	1	to be deprived
-WIS 18:4	1	6	φωτὸς	φῶς	noun, genitive neuter singular	1	light
+WIS 18:4	1	6	φωτὸς	φῶς	noun, genitive neuter singular	1	of light
 WIS 18:4	1	7	καὶ	καί	conjunction	1	and
 WIS 18:4	1	8	φυλακισθῆναι	φυλακίζω	aorist passive infinitive	1	to be imprisoned
 WIS 18:4	1	9	ἐν	ἐν	preposition with the dative	1	in
 WIS 18:4	1	10	σκότει	σκότος	noun, dative neuter singular	1	darkness
-WIS 18:4	1	11	οἱ	ὁ	article, nominative masculine plural	1	the
+WIS 18:4	1	11	οἱ	ὁ	article, nominative masculine plural	1	those
 WIS 18:4	1	12	κατακλείστους	κατάκλειστος	adjective, accusative masculine plural	1	shut in
 WIS 18:4	1	13	φυλάξαντες	φυλάσσω	aorist active participle, nominative masculine plural	1	who had kept
 WIS 18:4	1	14	τοὺς	ὁ	article, accusative masculine plural	1	the
 WIS 18:4	1	15	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
 WIS 18:4	1	16	σου	σύ	pronoun, possessive genitive second singular	1	your
-WIS 18:4	1	17	δι᾽	διά	elided preposition with the accusative	1	because of
-WIS 18:4	1	18	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	which
+WIS 18:4	1	17	δι᾽	διά	elided preposition with the accusative	1	through
+WIS 18:4	1	18	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	whom
 WIS 18:4	1	19	ἤμελλε	μέλλω	imperfect active indicative, third singular	1	was about to
 WIS 18:4	1	20	τὸ	ὁ	article, accusative neuter singular	1	the
 WIS 18:4	1	21	ἄφθαρτον	ἄφθαρτος	adjective, accusative neuter singular	1	incorruptible
 WIS 18:4	1	22	νόμου	νόμος	noun, genitive masculine singular	1	of the law
 WIS 18:4	1	23	φῶς	φῶς	noun, nominative neuter singular	1	light
-WIS 18:4	1	24	τῷ	ὁ	article, dative masculine singular	1	the
+WIS 18:4	1	24	τῷ	ὁ	article, dative masculine singular	1	to the
 WIS 18:4	1	25	αἰῶνι	αἰών	noun, dative masculine singular	1	world
 WIS 18:4	1	26	δίδοσθαι	δίδωμι	present passive infinitive	1	to be given
 WIS 18:5	1	1	βουλευσαμένους	βουλεύομαι	aorist middle participle, accusative masculine plural	1	having resolved
@@ -85,14 +85,14 @@ WIS 18:5	1	11	ἐκτεθέντος	ἐκτίθημι	aorist passive participle,
 WIS 18:5	1	12	τέκνου	τέκνον	noun, genitive neuter singular	1	of a child
 WIS 18:5	1	13	καὶ	καί	conjunction	1	and
 WIS 18:5	1	14	σωθέντος	σῴζω	aorist passive participle, genitive neuter singular	1	having been saved
-WIS 18:5	1	15	εἰς	εἰς	preposition with the accusative	1	into
-WIS 18:5	1	16	ἔλεγχον	ἔλεγχος	noun, accusative masculine singular	1	punishment
+WIS 18:5	1	15	εἰς	εἰς	preposition with the accusative	1	for
+WIS 18:5	1	16	ἔλεγχον	ἔλεγχος	noun, accusative masculine singular	1	reproof
 WIS 18:5	1	17	τὸ	ὁ	article, accusative neuter singular	1	the
 WIS 18:5	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 WIS 18:5	1	19	ἀφείλου	ἀφαιρέομαι	aorist middle imperative, 2nd singular	1	you took away
 WIS 18:5	1	20	πλῆθος	πλῆθος	noun, accusative neuter singular	1	multitude
 WIS 18:5	1	20	πλῆθος			2	abundance
-WIS 18:5	1	21	τέκνων	τέκνον	noun, genitive neuter plural	1	children
+WIS 18:5	1	21	τέκνων	τέκνον	noun, genitive neuter plural	1	of children
 WIS 18:5	1	22	καὶ	καί	conjunction	1	and
 WIS 18:5	1	23	ὁμοθυμαδὸν	ὁμοθυμαδόν	adverb, with one accord	1	together
 WIS 18:5	1	24	ἀπώλεσας	ἀπόλλυμι	aorist active indicative, second singular	1	you destroyed
@@ -103,7 +103,7 @@ WIS 18:6	1	1	Ἐκείνη	ἐκεῖνος	demonstrative pronoun, nominative fe
 WIS 18:6	1	2	ἡ	ὁ	article, nominative feminine singular	1	the
 WIS 18:6	1	3	νὺξ	νύξ	noun, nominative fem. sg	1	night
 WIS 18:6	1	4	προεγνώσθη	προγινώσκω	aorist passive indicative, third singular	1	was known beforehand
-WIS 18:6	1	5	πατράσιν	πατήρ	noun, dative masculine plural	1	fathers
+WIS 18:6	1	5	πατράσιν	πατήρ	noun, dative masculine plural	1	to fathers
 WIS 18:6	1	6	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 WIS 18:6	1	7	ἵνα	ἵνα	purpose conjunction	1	so that
 WIS 18:6	1	8	ἀσφαλῶς	ἀσφαλῶς	adverb	1	securely
@@ -114,7 +114,7 @@ WIS 18:6	1	12	ὅρκοις	ὅρκος	noun, dative masculine plural	1	oaths
 WIS 18:6	1	13	ἐπευθυμήσωσι	ἐπευθυμέω	aorist active subjunctive, third plural	1	might be encouraged
 WIS 18:7	1	1	προσδεχθῇ	προσδέχομαι	aorist passive indicative, third singular	1	was awaited
 WIS 18:7	1	2	δὲ	δέ	postpositive conjunction	1	and
-WIS 18:7	1	3	ὑπὸ	ὑπό	preposition with the accusative	1	under
+WIS 18:7	1	3	ὑπὸ	ὑπό	preposition with the accusative	1	by
 WIS 18:7	1	4	λαοῦ	λαός	noun, genitive masculine singular	1	people
 WIS 18:7	1	5	σου	σύ	pronoun, possessive genitive second singular	1	your
 WIS 18:7	1	6	σωτηρία	σωτηρία	noun nominative feminine singular	1	deliverance
@@ -139,9 +139,9 @@ WIS 18:9	1	1	Κρυφῇ			2	in secret
 WIS 18:9	1	2	γὰρ	γάρ	conjunction	1	for
 WIS 18:9	1	3	ἐθυσίαζον	θυσιάζω	imperfect active indicative, third plural	1	they were sacrificing
 WIS 18:9	1	3	ἐθυσίαζον			2	they sacrificed
-WIS 18:9	1	4	ὅσιοι	ὅσιος	substantival adjective nominative masculine plural in address	1	holy ones
+WIS 18:9	1	4	ὅσιοι	ὅσιος	substantival adjective nominative masculine plural in address	1	holy
 WIS 18:9	1	5	παῖδες	παῖς	noun, nominative masculine plural	1	children
-WIS 18:9	1	6	ἀγαθῶν	ἀγαθός	substantival adjective genitive neuter plural	1	good things
+WIS 18:9	1	6	ἀγαθῶν	ἀγαθός	substantival adjective genitive neuter plural	1	of good people
 WIS 18:9	1	7	καὶ	καί	conjunction	1	and
 WIS 18:9	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 WIS 18:9	1	9	τῆς	ὁ	article, genitive feminine singular	1	of
@@ -151,7 +151,7 @@ WIS 18:9	1	12	ἐν	ἐν	preposition with the dative	1	in
 WIS 18:9	1	13	ὁμονοίᾳ	ὁμόνοια	noun dative feminine singular	1	agreement
 WIS 18:9	1	14	διέθεντο	διατίθημι	aorist middle indicative, third plural	1	established
 WIS 18:9	1	15	τῶν	ὁ	article, genitive plural	1	the
-WIS 18:9	1	16	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+WIS 18:9	1	16	αὐτῶν	αὐτός	pronoun, genitive plural	1	same
 WIS 18:9	1	17	ὁμοίως	ὁμοίως	adverb	1	likewise
 WIS 18:9	1	18	καὶ	καί	conjunction	1	and
 WIS 18:9	1	19	ἀγαθῶν	ἀγαθός	substantival adjective genitive neuter plural	1	blessings
@@ -160,7 +160,7 @@ WIS 18:9	1	21	κινδύνων	κίνδυνος	noun, genitive masculine plural	
 WIS 18:9	1	22	μεταλήψεσθαι	μεταλαμβάνω	future middle infinitive	1	to share
 WIS 18:9	1	23	τοὺς	ὁ	article, accusative masculine plural	1	the
 WIS 18:9	1	24	ἁγίους	ἅγιος	substantival adjective, accusative masculine plural	1	holy ones
-WIS 18:9	1	25	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers
+WIS 18:9	1	25	πατέρων	πατήρ	noun, genitive masculine plural	1	of fathers
 WIS 18:9	1	26	ἤδη	ἤδη	adverb of time	1	already
 WIS 18:9	1	26	ἤδη			2	now
 WIS 18:9	1	27	προαναμέλποντες	προαναμέλπω	present active participle, nominative masculine plural	1	singing beforehand
@@ -168,7 +168,7 @@ WIS 18:9	1	28	αἴνους	αἶνος	noun, accusative masculine plural	1	song
 WIS 18:10	1	1	Ἀντήχει	ἀντηχέω	imperfect active indicative, third singular	1	echoed back
 WIS 18:10	1	2	δὲ	δέ	postpositive conjunction	1	and
 WIS 18:10	1	3	ἀσύμφωνος	ἀσύμφωνος	adjective, nominative feminine singular	1	discordant
-WIS 18:10	1	4	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	enemies
+WIS 18:10	1	4	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	of enemies
 WIS 18:10	1	5	βοὴ	βοή	noun, nominative feminine singular	1	cry
 WIS 18:10	1	6	καὶ	καί	conjunction	1	and
 WIS 18:10	1	7	οἰκτρὰ	οἰκτρός	adjective, nominative feminine singular	1	pitiful
@@ -180,14 +180,14 @@ WIS 18:11	1	1	Ὁμοίᾳ	ὅμοιος	adjective, dative feminine singular	1	l
 WIS 18:11	1	2	δὲ	δέ	postpositive conjunction	1	and
 WIS 18:11	1	3	δίκῃ	δίκη	noun, dative feminine singular	1	by judgment
 WIS 18:11	1	4	δοῦλος	δοῦλος	noun nominative masculine singular	1	a servant
-WIS 18:11	1	5	ἅμα	ἅμα	adverb	1	together
+WIS 18:11	1	5	ἅμα	ἅμα	adverb	1	together with
 WIS 18:11	1	6	δεσπότῃ	δεσπότης	noun, dative masculine singular	1	master
 WIS 18:11	1	7	κολασθεὶς	κολάζω	aorist passive participle, nominative masculine singular	1	punished
 WIS 18:11	1	8	καὶ	καί	conjunction	1	and
 WIS 18:11	1	9	δημότης	δημότης	noun, nominative masculine singular	1	commoner
-WIS 18:11	1	10	βασιλεῖ	βασιλεύς	noun, dative masc. sg	1	king
-WIS 18:11	1	11	τὰ	ὁ	article, neuter plural (case from context)	1	same
-WIS 18:11	1	12	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	things
+WIS 18:11	1	10	βασιλεῖ	βασιλεύς	noun, dative masc. sg	1	as king
+WIS 18:11	1	11	τὰ	ὁ	article, neuter plural (case from context)	1	the
+WIS 18:11	1	12	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	same things
 WIS 18:11	1	13	πάσχων	πάσχω	present active participle, nominative masculine singular	1	suffering
 WIS 18:12	1	1	ὁμοθυμαδὸν	ὁμοθυμαδόν	adverb, with one accord	1	together
 WIS 18:12	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -199,7 +199,7 @@ WIS 18:12	1	7	θανάτου	θάνατος	noun, genitive masculine singular	1	
 WIS 18:12	1	8	νεκροὺς	νεκρός	adjective, accusative masculine plural	1	dead
 WIS 18:12	1	9	εἶχον	ἔχω	imperfect active indicative, third plural	1	they had
 WIS 18:12	1	10	ἀναριθμήτους	ἀναρίθμητος	adjective, accusative masculine plural	1	countless
-WIS 18:12	1	11	οὐδὲ	οὐδέ	conjunction/negative	1	not one
+WIS 18:12	1	11	οὐδὲ	οὐδέ	conjunction/negative	1	nor
 WIS 18:12	1	12	γὰρ	γάρ	conjunction	1	for
 WIS 18:12	1	13	πρὸς	πρός	preposition with the accusative	1	to
 WIS 18:12	1	14	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -208,8 +208,8 @@ WIS 18:12	1	16	οἱ	ὁ	article, nominative masculine plural	1	the
 WIS 18:12	1	17	ζῶντες	ζάω	present active participle, nominative masculine plural	1	living
 WIS 18:12	1	18	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 WIS 18:12	1	19	ἱκανοὶ	ἱκανός	adjective, nominative masculine plural	1	enough
-WIS 18:12	1	20	ἐπεὶ	ἐπεί	temporal conjunction	1	when
-WIS 18:12	1	21	πρὸς	πρός	preposition with the accusative	1	to
+WIS 18:12	1	20	ἐπεὶ	ἐπεί	temporal conjunction	1	since
+WIS 18:12	1	21	πρὸς	πρός	preposition with the accusative	1	in
 WIS 18:12	1	22	μίαν	εἷς	numeral, accusative feminine singular	1	one
 WIS 18:12	1	23	ῥοπὴν	ῥοπή	noun, accusative feminine singular	1	moment
 WIS 18:12	1	24	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -229,7 +229,7 @@ WIS 18:13	1	9	τῶν	ὁ	article, genitive plural	1	of the
 WIS 18:13	1	10	πρωτοτόκων	πρωτότοκος	substantival adjective, genitive neuter plural	1	firstborn
 WIS 18:13	1	11	ὀλέθρῳ	ὄλεθρος	noun, dative masculine singular	1	destruction
 WIS 18:13	1	12	ὡμολόγησαν	ὁμολογέω	aorist active indicative, third plural	1	they confessed
-WIS 18:13	1	13	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+WIS 18:13	1	13	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 WIS 18:13	1	14	υἱὸν	υἱός	noun, accusative masculine singular	1	son
 WIS 18:13	1	15	λαὸν	λαός	noun, accusative masculine singular	1	people
 WIS 18:13	1	16	εἶναι	εἰμί	present infinitive	1	to be
@@ -243,7 +243,7 @@ WIS 18:14	1	7	καὶ	καί	conjunction	1	and
 WIS 18:14	1	8	νυκτὸς	νύξ	noun genitive feminine singular	1	night
 WIS 18:14	1	9	ἐν	ἐν	preposition with dative	1	in
 WIS 18:14	1	10	ἰδίῳ	ἴδιος	adjective, dative neuter singular	1	its own
-WIS 18:14	1	11	τάχει	τάχος	noun dative neuter singular	1	course
+WIS 18:14	1	11	τάχει	τάχος	noun dative neuter singular	1	swiftness
 WIS 18:14	1	12	μεσαζούσης	μεσάζω	present active participle, genitive feminine singular	1	being in the middle
 WIS 18:15	1	1	ὁ	ὁ	article, nominative masculine singular	1	the
 WIS 18:15	1	2	παντοδύναμός	παντοδύναμος	adjective, nominative feminine singular	1	all-powerful
@@ -265,7 +265,7 @@ WIS 18:15	1	17	γῆς	γῆ	noun, genitive feminine singular	1	land
 WIS 18:16	1	1	ξίφος	ξίφος	noun, accusative neuter singular	1	sword
 WIS 18:16	1	2	ὀξὺ	ὀξύς	adjective, nominative neuter singular	1	keen
 WIS 18:16	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
-WIS 18:16	1	4	ἀνυπόκριτον	ἀνυπόκριτος	adjective, accusative feminine singular	1	unfailing
+WIS 18:16	1	4	ἀνυπόκριτον	ἀνυπόκριτος	adjective, accusative feminine singular	1	unfeigned
 WIS 18:16	1	5	ἐπιταγήν	ἐπιταγή	noun, accusative feminine singular	1	command
 WIS 18:16	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
 WIS 18:16	1	7	φέρων	φέρω	present active participle, nominative masculine singular	1	bringing
@@ -274,7 +274,7 @@ WIS 18:16	1	9	στὰς	ἵσταμαι	aorist active participle, nominative mas
 WIS 18:16	1	10	ἐπλήρωσε	πληρόω	aorist active indicative third singular	1	it filled
 WIS 18:16	1	11	τὰ	ὁ	article, accusative neuter plural	1	the
 WIS 18:16	1	12	πάντα	πᾶς	adjective, nominative neuter plural	1	all things
-WIS 18:16	1	13	θανάτου	θάνατος	noun, genitive masculine singular	1	of death
+WIS 18:16	1	13	θανάτου	θάνατος	noun, genitive masculine singular	1	with death
 WIS 18:16	1	14	καὶ	καί	conjunction	1	and
 WIS 18:16	1	15	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
 WIS 18:16	1	16	μὲν	μέν	particle	1	indeed
@@ -287,7 +287,7 @@ WIS 18:17	1	1	Τότε	τότε	temporal adverb	1	then
 WIS 18:17	1	2	παραχρῆμα	παραχρῆμα	adverb	1	immediately
 WIS 18:17	1	3	φαντασίαι	φαντασία	noun, nominative feminine plural	1	visions
 WIS 18:17	1	4	μὲν	μέν	particle	1	indeed
-WIS 18:17	1	5	ὀνείρων	ὄνειρον	noun, genitive neuter plural	1	dreams
+WIS 18:17	1	5	ὀνείρων	ὄνειρον	noun, genitive neuter plural	1	of dreams
 WIS 18:17	1	6	δεινῶν	δεινός	adjective, genitive neuter plural	1	dreadful
 WIS 18:17	1	7	ἐξετάραξαν	ἐκταράσσω	aorist active indicative, third plural	1	terrified
 WIS 18:17	1	8	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -326,17 +326,17 @@ WIS 18:20	1	2	δὲ	δέ	postpositive conjunction	1	and
 WIS 18:20	1	3	καὶ	καί	conjunction	1	also
 WIS 18:20	1	4	δικαίων	δίκαιος	substantival adjective genitive masculine plural	1	the righteous
 WIS 18:20	1	5	πεῖρα	πεῖρα	noun, nominative feminine singular	1	experience
-WIS 18:20	1	6	θανάτου	θάνατος	noun, genitive masculine singular	1	death
+WIS 18:20	1	6	θανάτου	θάνατος	noun, genitive masculine singular	1	of death
 WIS 18:20	1	7	καὶ	καί	conjunction	1	and
 WIS 18:20	1	8	θραῦσις	θραῦσις	noun, nominative feminine singular	1	destruction
 WIS 18:20	1	9	ἐν	ἐν	preposition with the dative	1	in
 WIS 18:20	1	10	ἐρήμῳ	ἔρημος	substantival adjective, dative feminine singular	1	wilderness
 WIS 18:20	1	10	ἐρήμῳ			2	desert
 WIS 18:20	1	11	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	there came
-WIS 18:20	1	12	πλήθους	πλῆθος	noun, genitive neuter singular	1	abundance
+WIS 18:20	1	12	πλήθους	πλῆθος	noun, genitive neuter singular	1	of the multitude
 WIS 18:20	1	13	ἀλλ᾽	ἀλλά	adversative conjunction	1	but
 WIS 18:20	1	14	οὐκ	οὐ	negative particle	1	not
-WIS 18:20	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	on
+WIS 18:20	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	for
 WIS 18:20	1	16	πολὺ	πολύς	adjective, accusative neuter singular	1	long
 WIS 18:20	1	17	ἔμεινεν	μένω	aorist active indicative, third singular	1	stayed
 WIS 18:20	1	18	ἡ	ὁ	article nominative feminine singular	1	the
@@ -350,10 +350,10 @@ WIS 18:21	1	6	τὸ	ὁ	article, accusative neuter singular	1	the
 WIS 18:21	1	7	τῆς	ὁ	article, genitive feminine singular	1	of
 WIS 18:21	1	8	ἰδίας	ἴδιος	adjective, genitive feminine singular	1	his own
 WIS 18:21	1	9	λειτουργίας	λειτουργία	noun, accusative feminine plural	1	ministry
-WIS 18:21	1	10	ὅπλον	ὅπλον	noun accusative neuter singular	1	a weapon
+WIS 18:21	1	10	ὅπλον	ὅπλον	noun accusative neuter singular	1	weapon
 WIS 18:21	1	11	προσευχὴν	προσευχή	noun accusative feminine singular	1	prayer
 WIS 18:21	1	12	καὶ	καί	conjunction	1	and
-WIS 18:21	1	13	θυμιάματος	θυμίαμα	noun, genitive neuter singular	1	incense
+WIS 18:21	1	13	θυμιάματος	θυμίαμα	noun, genitive neuter singular	1	of incense
 WIS 18:21	1	14	ἐξιλασμὸν	ἐξιλασμός	noun, accusative masculine singular	1	atonement
 WIS 18:21	1	15	κομίσας	κομίζω	aorist active participle, nominative masculine singular	1	having brought
 WIS 18:21	1	16	ἀντέστη	ἀνθίστημι	aorist active indicative, third singular	1	stood against
@@ -367,7 +367,7 @@ WIS 18:21	1	23	συμφορᾷ	συμφορά	noun, dative feminine singular	1	m
 WIS 18:21	1	24	δεικνὺς	δείκνυμι	present active participle, nominative masculine singular	1	demonstrating
 WIS 18:21	1	25	ὅτι	ὅτι	causal conjunction	1	that
 WIS 18:21	1	26	σός	σός	possessive adjective nominative masculine singular	1	yours
-WIS 18:21	1	27	ἐστι	εἰμί	present active indicative third singular	1	are
+WIS 18:21	1	27	ἐστι	εἰμί	present active indicative third singular	1	he is
 WIS 18:21	1	28	θεράπων	θεράπων	noun, nominative masculine singular	1	servant
 WIS 18:22	1	1	Ἐνίκησε	νικάω	aorist active indicative, third singular	1	conquered
 WIS 18:22	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -375,18 +375,18 @@ WIS 18:22	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
 WIS 18:22	1	4	ὄχλον	ὄχλος	noun, accusative masculine singular	1	multitude
 WIS 18:22	1	5	οὐκ	οὐ	negative adverb with future indicative	1	not
 WIS 18:22	1	6	ἰσχύϊ	ἰσχύς	noun, dative feminine singular	1	by strength
-WIS 18:22	1	7	τοῦ	ὁ	article, genitive singular	1	the
+WIS 18:22	1	7	τοῦ	ὁ	article, genitive singular	1	of the
 WIS 18:22	1	8	σώματος	σῶμα	noun, genitive neuter singular	1	body
 WIS 18:22	1	9	οὐχ	οὐ	negative particle	1	not
-WIS 18:22	1	10	ὅπλων	ὅπλον	noun, genitive neuter plural	1	weapons
-WIS 18:22	1	11	ἐνεργείᾳ	ἐνέργεια	noun, dative feminine singular	1	activity
+WIS 18:22	1	10	ὅπλων	ὅπλον	noun, genitive neuter plural	1	of weapons
+WIS 18:22	1	11	ἐνεργείᾳ	ἐνέργεια	noun, dative feminine singular	1	by activity
 WIS 18:22	1	12	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 WIS 18:22	1	13	λόγῳ	λόγος	noun, dative masculine singular	1	by word
 WIS 18:22	1	14	τὸν	ὁ	article, accusative masculine singular	1	the one
-WIS 18:22	1	15	κολάζοντα	κολάζω	present active participle, accusative masculine singular	1	punishing
+WIS 18:22	1	15	κολάζοντα	κολάζω	present active participle, accusative masculine singular	1	who punished
 WIS 18:22	1	16	ὑπέταξεν	ὑποτάσσω	aorist active indicative, third singular	1	he subdued
 WIS 18:22	1	17	ὅρκους	ὅρκος	noun, accusative masculine plural	1	oaths
-WIS 18:22	1	18	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers
+WIS 18:22	1	18	πατέρων	πατήρ	noun, genitive masculine plural	1	of fathers
 WIS 18:22	1	19	καὶ	καί	conjunction	1	and
 WIS 18:22	1	20	διαθήκας	διαθήκη	noun, accusative feminine plural	1	covenants
 WIS 18:22	1	21	ὑπομνήσας	ὑπομιμνῄσκω	aorist active participle, nominative masculine singular	1	having recalled
@@ -394,11 +394,11 @@ WIS 18:23	1	1	Σωρηδὸν	σωρηδόν	adverb	1	in heaps
 WIS 18:23	1	2	γὰρ	γάρ	postpositive conjunction	1	for
 WIS 18:23	1	3	ἤδη	ἤδη	adverb of time	1	already
 WIS 18:23	1	3	ἤδη			2	now
-WIS 18:23	1	4	πεπτωκότων	πίπτω	perfect active participle, genitive masculine plural; substantival	1	those fallen
+WIS 18:23	1	4	πεπτωκότων	πίπτω	perfect active participle, genitive masculine plural; substantival	1	having fallen
 WIS 18:23	1	5	ἐπαλλήλων	ἐπάλληλος	adjective, genitive masculine plural	1	one upon another
 WIS 18:23	1	6	νεκρῶν	νεκρός	noun, genitive masculine plural	1	the dead
 WIS 18:23	1	7	μεταξὺ	μεταξύ	preposition with genitive	1	in between
-WIS 18:23	1	8	στὰς	ἵσταμαι	aorist active participle, nominative masculine singular	1	having taken their places
+WIS 18:23	1	8	στὰς	ἵσταμαι	aorist active participle, nominative masculine singular	1	having stood
 WIS 18:23	1	9	ἀνέκοψε	ἀνακόπτω	aorist active indicative, third singular	1	held back
 WIS 18:23	1	10	τὴν	ὁ	article, accusative fem. sg.	1	the
 WIS 18:23	1	11	ὀργὴν	ὀργή	noun, accusative feminine singular	1	anger
@@ -412,7 +412,7 @@ WIS 18:23	1	18	ὁδόν	ὁδός	noun, accusative feminine singular	1	way
 WIS 18:23	1	18	ὁδόν			2	path
 WIS 18:24	1	1	Ἐπὶ	ἐπί	preposition (case from context)	1	on
 WIS 18:24	1	2	γὰρ	γάρ	conjunction	1	for
-WIS 18:24	1	3	ποδήρους	ποδήρης	adjective, genitive masculine singular	1	full-length robe
+WIS 18:24	1	3	ποδήρους	ποδήρης	adjective, genitive masculine singular	1	full-length
 WIS 18:24	1	4	ἐνδύματος	ἔνδυμα	noun genitive neuter singular	1	garment
 WIS 18:24	1	5	ἦν	εἰμί	imperfect indicative, third singular	1	was
 WIS 18:24	1	6	ὅλος	ὅλος	adjective, nominative masculine singular	1	whole
@@ -447,7 +447,7 @@ WIS 18:25	1	9	γὰρ	γάρ	conjunction	1	for
 WIS 18:25	1	10	μόνη	μόνος	adjective, nominative feminine singular	1	alone
 WIS 18:25	1	11	ἡ	ὁ	article, nominative feminine singular	1	the
 WIS 18:25	1	12	πεῖρα	πεῖρα	noun, nominative feminine singular	1	experience
-WIS 18:25	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
+WIS 18:25	1	13	τῆς	ὁ	article, genitive feminine singular	1	of the
 WIS 18:25	1	14	ὀργῆς	ὀργή	noun, genitive feminine singular	1	anger
 WIS 18:25	1	14	ὀργῆς			2	wrath
 WIS 18:25	1	15	ἱκανή	ἱκανός	adjective, nominative feminine singular	1	sufficient

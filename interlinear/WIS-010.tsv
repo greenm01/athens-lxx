@@ -1,8 +1,8 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
-WIS 10:1	1	1	ΑΥΤΗ	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
+WIS 10:1	1	1	ΑΥΤΗ	οὗτος	demonstrative pronoun, nominative feminine singular	1	she
 WIS 10:1	1	2	πρωτόπλαστον	πρωτόπλαστος	adjective, accusative masculine singular	1	first-formed
 WIS 10:1	1	3	πατέρα	πατήρ	noun, accusative masculine singular	1	father
-WIS 10:1	1	4	κόσμου	κόσμος	noun, genitive masculine singular	1	world
+WIS 10:1	1	4	κόσμου	κόσμος	noun, genitive masculine singular	1	of world
 WIS 10:1	1	5	μόνον	μόνος	adjective, accusative masculine singular	1	alone
 WIS 10:1	1	6	κτισθέντα	κτίζω	aorist passive participle, accusative masculine singular	1	created
 WIS 10:1	1	7	διεφύλαξε	διαφυλάσσω	aorist active indicative, third singular	1	preserved
@@ -13,7 +13,7 @@ WIS 10:1	1	11	ἐκ	ἐκ	preposition with the genitive	1	from
 WIS 10:1	1	12	παραπτώματος	παράπτωμα	noun, genitive neuter singular	1	transgression
 WIS 10:1	1	13	ἰδίου	ἴδιος	adjective, genitive masculine singular	1	own
 WIS 10:2	1	1	ἔδωκέ	δίδωμι	aorist active indicative, 3rd singular	1	gave
-WIS 10:2	1	2	τε	τε	particle	1	both
+WIS 10:2	1	2	τε	τε	particle	1	and
 WIS 10:2	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 WIS 10:2	1	4	ἰσχὺν	ἰσχύς	noun, accusative feminine singular	1	strength
 WIS 10:2	1	4	ἰσχὺν			2	power
@@ -31,24 +31,24 @@ WIS 10:3	1	9	ἀδελφοκτόνοις	ἀδελφοκτόνος	adjective, da
 WIS 10:3	1	10	συναπώλετο	συναπόλλυμι	aorist middle indicative, third singular	1	perished with
 WIS 10:3	1	11	θυμοῖς	θυμός	noun, dative masculine plural	1	fits of rage
 WIS 10:4	1	1	δι᾽	διά	elided preposition with the accusative	1	because of
-WIS 10:4	1	2	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
+WIS 10:4	1	2	ὃν	ὅς	relative pronoun, accusative masculine singular	1	whom
 WIS 10:4	1	3	κατακλυζομένην	κατακλύζω	present passive participle, accusative feminine singular	1	being flooded
-WIS 10:4	1	4	γῆν	γῆ	noun, accusative feminine singular	1	land
+WIS 10:4	1	4	γῆν	γῆ	noun, accusative feminine singular	1	earth
 WIS 10:4	1	4	γῆν			2	country
 WIS 10:4	1	5	πάλιν	πάλιν	adverb	1	again
 WIS 10:4	1	6	ἔσωσε	σῴζω	aorist active indicative, third singular	1	saved
 WIS 10:4	1	7	σοφία	σοφία	noun, nominative feminine singular	1	wisdom
-WIS 10:4	1	8	δι᾽	διά	elided preposition with the accusative	1	because of
+WIS 10:4	1	8	δι᾽	διά	elided preposition with the accusative	1	by
 WIS 10:4	1	9	εὐτελοῦς	εὐτελής	adjective, genitive neuter singular	1	cheap
 WIS 10:4	1	10	ξύλου	ξύλον	noun, genitive neuter singular	1	wood
 WIS 10:4	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
-WIS 10:4	1	12	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	1	a righteous person
+WIS 10:4	1	12	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	1	righteous one
 WIS 10:4	1	13	κυβερνήσασα	κυβερνάω	aorist active participle, nominative feminine singular	1	having steered
-WIS 10:5	1	1	Αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
+WIS 10:5	1	1	Αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	she
 WIS 10:5	1	2	καὶ	καί	conjunction	1	and
 WIS 10:5	1	3	ἐν	ἐν	preposition with the dative	1	in
 WIS 10:5	1	4	ὁμονοίᾳ	ὁμόνοια	noun dative feminine singular	1	agreement
-WIS 10:5	1	5	πονηρίας	πονηρία	noun, genitive feminine singular	1	wickedness
+WIS 10:5	1	5	πονηρίας	πονηρία	noun, genitive feminine singular	1	of wickedness
 WIS 10:5	1	6	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 WIS 10:5	1	7	συγχυθέντων	συγχέω	aorist passive participle, genitive neuter plural	1	having been confounded
 WIS 10:5	1	8	ἔγνω	γινώσκω	aorist active indicative, third singular, of marital union	1	knew
@@ -59,23 +59,23 @@ WIS 10:5	1	11	καὶ	καί	conjunction	1	and
 WIS 10:5	1	12	ἐτήρησεν	τηρέω	aorist active indicative, third singular	1	preserved
 WIS 10:5	1	13	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 WIS 10:5	1	14	ἄμεμπτον	ἄμεμπτος	adjective, accusative feminine singular	1	blameless
-WIS 10:5	1	15	Θεῷ	θεός	noun, dative masculine singular	1	God
+WIS 10:5	1	15	Θεῷ	θεός	noun, dative masculine singular	1	to God
 WIS 10:5	1	16	καὶ	καί	conjunction	1	and
-WIS 10:5	1	17	ἐπὶ	ἐπί	preposition (case from context)	1	toward
+WIS 10:5	1	17	ἐπὶ	ἐπί	preposition (case from context)	1	against
 WIS 10:5	1	18	τέκνου	τέκνον	noun, genitive neuter singular	1	of a child
 WIS 10:5	1	19	σπλάγχνοις	σπλάγχνον	noun, dative neuter plural	1	affections
 WIS 10:5	1	20	ἰσχυρὸν	ἰσχυρός	adjective, accusative neuter singular	1	strong
 WIS 10:5	1	21	ἐφύλαξεν	φυλάσσω	aorist active indicative, third singular	1	kept
-WIS 10:6	1	1	Αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
+WIS 10:6	1	1	Αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	she
 WIS 10:6	1	2	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	1	a righteous person
 WIS 10:6	1	3	ἐξαπολλυμένων	ἐξαπόλλυμι	present middle participle, genitive masculine plural	1	perishing
-WIS 10:6	1	4	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	1	of the ungodly
+WIS 10:6	1	4	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	1	the ungodly
 WIS 10:6	1	5	ἐῤῥύσατο	ῥύομαι	aorist middle indicative, third person singular	1	rescued
 WIS 10:6	1	6	φυγόντα	φεύγω	aorist active participle, accusative masculine singular	1	having fled
 WIS 10:6	1	7	καταβάσιον	καταβάσιον	adjective, accusative neuter singular	1	descending
 WIS 10:6	1	8	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
 WIS 10:6	1	9	Πενταπόλεως	πεντάπολις	noun, genitive feminine singular	1	of the Five Cities
-WIS 10:7	1	1	ἧς	ὅς	relative pronoun, genitive feminine singular	1	which
+WIS 10:7	1	1	ἧς	ὅς	relative pronoun, genitive feminine singular	1	of whose
 WIS 10:7	1	2	ἔτι	ἔτι	temporal adverb	1	still
 WIS 10:7	1	3	μαρτύριον	μαρτύριον	noun, accusative neuter singular	1	testimony
 WIS 10:7	1	3	μαρτύριον			2	witness
@@ -93,37 +93,37 @@ WIS 10:7	1	12	καρποφοροῦντα	καρποφορέω	present active pa
 WIS 10:7	1	13	φυτὰ	φυτόν	noun, nominative neuter plural	1	plants
 WIS 10:7	1	14	καὶ	καί	conjunction	1	and
 WIS 10:7	1	15	ἀπιστοῦσης	ἀπιστέω	present active participle, genitive feminine singular	1	disbelieving
-WIS 10:7	1	16	ψυχῆς	ψυχή	noun, genitive feminine singular	1	soul
-WIS 10:7	1	17	μνημεῖον	μνημεῖον	noun, accusative neuter singular	1	tomb
+WIS 10:7	1	16	ψυχῆς	ψυχή	noun, genitive feminine singular	1	of soul
+WIS 10:7	1	17	μνημεῖον	μνημεῖον	noun, accusative neuter singular	1	memorial
 WIS 10:7	1	18	ἑστηκυῖα	ἵστημι	perfect active participle, nominative feminine singular	1	standing
 WIS 10:7	1	19	στήλη	στήλη	noun, nominative feminine singular	1	pillar
-WIS 10:7	1	20	ἁλός	ἅλς	noun, genitive masculine singular	1	salt
+WIS 10:7	1	20	ἁλός	ἅλς	noun, genitive masculine singular	1	of salt
 WIS 10:8	1	1	Σοφίαν	σοφία	noun, accusative feminine singular	1	wisdom
 WIS 10:8	1	2	γὰρ	γάρ	postpositive conjunction	1	for
 WIS 10:8	1	3	παροδεύσαντες	παροδεύω	aorist active participle, nominative masculine plural	1	having passed by
 WIS 10:8	1	4	οὐ	οὐ	negative particle	1	not
-WIS 10:8	1	5	μόνον	μόνος	adjective, accusative masculine singular	1	alone
+WIS 10:8	1	5	μόνον	μόνος	adjective, accusative masculine singular	1	only
 WIS 10:8	1	6	ἐβλάβησαν	βλάπτω	aorist passive indicative, third plural	1	were harmed
-WIS 10:8	1	7	τοῦ	ὁ	article, genitive singular	1	the
+WIS 10:8	1	7	τοῦ	ὁ	article, genitive singular	1	so as
 WIS 10:8	1	8	μὴ	μή	negative particle	1	not
 WIS 10:8	1	9	γνῶναι	γινώσκω	aorist active infinitive	1	to know
 WIS 10:8	1	10	τὰ	ὁ	article, accusative neuter plural	1	the
-WIS 10:8	1	11	καλά	καλός	adjective, accusative neuter plural; substantival	1	what is good
-WIS 10:8	1	11	καλά			2	good things
+WIS 10:8	1	11	καλά	καλός	adjective, accusative neuter plural; substantival	1	good things
+WIS 10:8	1	11	καλά			2	what is good
 WIS 10:8	1	12	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 WIS 10:8	1	13	καὶ	καί	conjunction	1	and
 WIS 10:8	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
 WIS 10:8	1	15	ἑαυτῶν	ἑαυτοῦ	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	1	their own
 WIS 10:8	1	16	ἀφροσύνης	ἀφροσύνη	noun, genitive feminine singular	1	of folly
 WIS 10:8	1	17	ἀπέλιπον	ἀπολείπω	aorist active indicative, third plural	1	left behind
-WIS 10:8	1	18	τῷ	ὁ	article, dative masculine singular	1	the
+WIS 10:8	1	18	τῷ	ὁ	article, dative masculine singular	1	to the
 WIS 10:8	1	19	βίῳ	βίος	noun, dative masculine singular	1	life
 WIS 10:8	1	20	μνημόσυνον	μνημόσυνον	noun, nominative neut. sg.	1	a memorial
 WIS 10:8	1	21	ἵνα	ἵνα	conjunction	1	so that
 WIS 10:8	1	22	ἐν	ἐν	preposition with the dative	1	in
 WIS 10:8	1	23	οἷς	ὅς	relative pronoun, dative neuter plural	1	which
 WIS 10:8	1	24	ἐσφάλησαν	σφάλλω	aorist passive indicative, third plural	1	they fell
-WIS 10:8	1	25	μηδὲ	μηδέ	conjunction	1	nor
+WIS 10:8	1	25	μηδὲ	μηδέ	conjunction	1	not even
 WIS 10:8	1	26	λαθεῖν	λανθάνω	aorist active infinitive	1	to escape notice
 WIS 10:8	1	27	δυνηθῶσι	δύναμαι	aorist passive subjunctive, third plural	1	might be able
 WIS 10:9	1	1	Σοφία	σοφία	noun, nominative feminine singular	1	wisdom
@@ -134,20 +134,20 @@ WIS 10:9	1	5	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	he
 WIS 10:9	1	6	ἐκ	ἐκ	preposition with the genitive	1	from
 WIS 10:9	1	7	πόνων	πόνος	noun, genitive masculine plural	1	labors
 WIS 10:9	1	8	ἐῤῥύσατο	ῥύομαι	aorist middle indicative, third person singular	1	rescued
-WIS 10:10	1	1	Αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
+WIS 10:10	1	1	Αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	she
 WIS 10:10	1	2	φυγάδα	φυγάς	adjective, accusative masculine singular	1	a fugitive
-WIS 10:10	1	3	ὀργῆς	ὀργή	noun, genitive feminine singular	1	anger
+WIS 10:10	1	3	ὀργῆς	ὀργή	noun, genitive feminine singular	1	from anger
 WIS 10:10	1	3	ὀργῆς			2	wrath
-WIS 10:10	1	4	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
+WIS 10:10	1	4	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	of brother
 WIS 10:10	1	5	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	1	a righteous person
 WIS 10:10	1	6	ὡδήγησεν	ὁδηγέω	aorist active indicative, 3rd sg. with accusative	1	guided
-WIS 10:10	1	7	ἐν	ἐν	preposition with dative	1	within
+WIS 10:10	1	7	ἐν	ἐν	preposition with dative	1	in
 WIS 10:10	1	8	τρίβοις	τρίβος	noun, dative feminine plural	1	paths
 WIS 10:10	1	9	εὐθείαις	εὐθύς	adjective, dative feminine plural	1	straight
 WIS 10:10	1	10	ἔδειξεν	δείκνυμι	aorist active indicative, 3rd sg.	1	showed
 WIS 10:10	1	11	αὐτῷ	αὐτός	pronoun, dative masculine/neuter singular	1	to him
 WIS 10:10	1	12	βασιλείαν	βασιλεία	noun, accusative feminine singular	1	kingdom
-WIS 10:10	1	13	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+WIS 10:10	1	13	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 WIS 10:10	1	14	καὶ	καί	conjunction	1	and
 WIS 10:10	1	15	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
 WIS 10:10	1	16	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -164,9 +164,9 @@ WIS 10:10	1	26	πόνους	πόνος	noun accusative masculine plural	1	labors
 WIS 10:10	1	27	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 WIS 10:11	1	1	ἐν	ἐν	preposition with the dative	1	in
 WIS 10:11	1	2	πλεονεξίᾳ	πλεονεξία	noun, dative feminine singular	1	greed
-WIS 10:11	1	3	κατισχυόντων	κατισχύω	present active participle, genitive masculine plural	1	prevailing against
+WIS 10:11	1	3	κατισχυόντων	κατισχύω	present active participle, genitive masculine plural	1	of those oppressing
 WIS 10:11	1	4	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-WIS 10:11	1	5	παρέστη	παρίστημι	aorist active indicative, third singular	1	stood
+WIS 10:11	1	5	παρέστη	παρίστημι	aorist active indicative, third singular	1	stood by
 WIS 10:11	1	6	καὶ	καί	conjunction	1	and
 WIS 10:11	1	7	ἐπλούτισεν	πλουτίζω	aorist active indicative, third singular	1	made rich
 WIS 10:11	1	8	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
@@ -176,7 +176,7 @@ WIS 10:12	1	3	ἀπὸ	ἀπό	preposition with the genitive	1	from
 WIS 10:12	1	4	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	enemies
 WIS 10:12	1	5	καὶ	καί	conjunction	1	and
 WIS 10:12	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
-WIS 10:12	1	7	ἐνεδρευόντων	ἐνεδρεύω	present active participle, genitive masculine plural	1	lying in wait
+WIS 10:12	1	7	ἐνεδρευόντων	ἐνεδρεύω	present active participle, genitive masculine plural	1	those lying in wait
 WIS 10:12	1	8	ἠσφαλίσατο	ἀσφαλίζω	aorist middle indicative, third singular	1	made secure
 WIS 10:12	1	9	καὶ	καί	conjunction	1	and
 WIS 10:12	1	10	ἀγῶνα	ἀγών	noun, accusative masculine singular	1	contest
@@ -193,18 +193,18 @@ WIS 10:12	1	19	ἐστὶν	εἰμί	present indicative, third singular	1	is
 WIS 10:12	1	20	ἡ	ὁ	article, nominative feminine singular	1	the
 WIS 10:12	1	21	εὐσέβεια	εὐσέβεια	noun, nominative feminine singular	1	piety
 WIS 10:12	1	21	εὐσέβεια			2	reverence
-WIS 10:13	1	1	Αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
+WIS 10:13	1	1	Αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	she
 WIS 10:13	1	2	πραθέντα	πιπράσκω	aorist passive participle, accusative masculine singular	1	having been sold
 WIS 10:13	1	3	δίκαιον	δίκαιος	adjective, accusative masc. sg.	1	the righteous
 WIS 10:13	1	4	οὐκ	οὐ	negative adverb	1	not
 WIS 10:13	1	5	ἐγκατέλειπεν	ἐγκαταλείπω	aorist active indicative, third singular	1	abandoned
 WIS 10:13	1	6	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 WIS 10:13	1	7	ἐξ	ἐκ	preposition with the genitive	1	from
-WIS 10:13	1	8	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	to sin
+WIS 10:13	1	8	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
 WIS 10:13	1	9	ἐῤῥύσατο	ῥύομαι	aorist middle indicative, third person singular	1	rescued
 WIS 10:13	1	10	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 WIS 10:14	1	1	συγκατέβη	συγκαταβαίνω	aorist active indicative, third singular	1	went down with
-WIS 10:14	1	2	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+WIS 10:14	1	2	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 WIS 10:14	1	3	εἰς	εἰς	preposition with the accusative	1	into
 WIS 10:14	1	4	λάκκον	λάκκος	noun, accusative masculine singular	1	pit
 WIS 10:14	1	4	λάκκον			2	cistern
@@ -213,18 +213,18 @@ WIS 10:14	1	6	ἐν	ἐν	preposition with the dative	1	in
 WIS 10:14	1	7	δεσμοῖς	δεσμός	noun, dative masculine plural	1	bonds
 WIS 10:14	1	7	δεσμοῖς			2	cords
 WIS 10:14	1	8	οὐκ	οὐ	negative particle	1	not
-WIS 10:14	1	9	ἀφῆκεν	ἀφίημι	aorist active indicative, third singular	1	let
+WIS 10:14	1	9	ἀφῆκεν	ἀφίημι	aorist active indicative, third singular	1	left
 WIS 10:14	1	10	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 WIS 10:14	1	11	ἕως	ἕως	temporal conjunction	1	until
 WIS 10:14	1	12	ἤνεγκεν	φέρω	aorist active indicative, third singular	1	brought
 WIS 10:14	1	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 WIS 10:14	1	14	σκῆπτρα	σκῆπτρον	noun, accusative neuter plural	1	scepters
-WIS 10:14	1	15	βασιλείας	βασιλεία	noun, genitive feminine singular	1	kingdom
+WIS 10:14	1	15	βασιλείας	βασιλεία	noun, genitive feminine singular	1	of kingdom
 WIS 10:14	1	15	βασιλείας			2	reign
 WIS 10:14	1	16	καὶ	καί	conjunction	1	and
 WIS 10:14	1	17	ἐξουσίαν	ἐξουσία	noun, accusative feminine singular	1	authority
-WIS 10:14	1	18	τυραννούντων	τυραννέω	present active participle, genitive masculine plural	1	ruling tyrannically
-WIS 10:14	1	19	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
+WIS 10:14	1	18	τυραννούντων	τυραννέω	present active participle, genitive masculine plural	1	over those oppressing
+WIS 10:14	1	19	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	him
 WIS 10:14	1	20	ψευδεῖς	ψευδής	adjective, accusative feminine plural	1	false
 WIS 10:14	1	20	ψευδεῖς			2	deceptive
 WIS 10:14	1	21	τε	τε	postpositive connective particle	1	and
@@ -237,7 +237,7 @@ WIS 10:14	1	27	ἔδωκεν	δίδωμι	aorist active indicative, third singul
 WIS 10:14	1	28	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 WIS 10:14	1	29	δόξαν	δόξα	noun, accusative feminine singular	1	glory
 WIS 10:14	1	30	αἰώνιον	αἰώνιος	adjective, nominative neuter singular	1	everlasting
-WIS 10:15	1	1	Αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
+WIS 10:15	1	1	Αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	she
 WIS 10:15	1	2	λαὸν	λαός	noun, accusative masculine singular	1	people
 WIS 10:15	1	3	ὅσιον	ὅσιος	adjective, accusative masculine singular	1	upright
 WIS 10:15	1	3	ὅσιον			2	devout
@@ -248,12 +248,12 @@ WIS 10:15	1	6	ἄμεμπτον	ἄμεμπτος	adjective, accusative feminine
 WIS 10:15	1	7	ἐρύσατο	ῥύομαι	aorist middle indicative, third singular	1	rescued
 WIS 10:15	1	8	ἐξ	ἐκ	preposition with genitive	1	from
 WIS 10:15	1	9	ἔθνους	ἔθνος	noun genitive neuter singular	1	nation
-WIS 10:15	1	10	θλιβόντων	θλίβω	present active participle, genitive masculine plural	1	oppress
+WIS 10:15	1	10	θλιβόντων	θλίβω	present active participle, genitive masculine plural	1	of oppressors
 WIS 10:15	1	10	θλιβόντων			2	afflict
 WIS 10:16	1	1	εἰσῆλθεν	εἰσέρχομαι	aorist active indicative, third singular	1	entered
 WIS 10:16	1	2	εἰς	εἰς	preposition with the accusative	1	into
 WIS 10:16	1	3	ψυχὴν	ψυχή	noun, accusative feminine singular	1	soul
-WIS 10:16	1	4	θεράποντος	θεράπων	noun, genitive masculine singular	1	servant
+WIS 10:16	1	4	θεράποντος	θεράπων	noun, genitive masculine singular	1	of a servant
 WIS 10:16	1	5	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 WIS 10:16	1	6	καὶ	καί	conjunction	1	and
 WIS 10:16	1	7	ἀντέστη	ἀνθίστημι	aorist active indicative, third singular	1	stood against
@@ -264,10 +264,10 @@ WIS 10:16	1	11	τέρασι	τέρας	noun, dative neuter plural	1	wonders
 WIS 10:16	1	12	καὶ	καί	conjunction	1	and
 WIS 10:16	1	13	σημείοις	σημεῖον	noun, dative neuter plural	1	signs
 WIS 10:17	1	1	Ἀπέδωκεν	ἀποδίδωμι	aorist active indicative, third singular	1	repaid
-WIS 10:17	1	2	ὁσίοις	ὅσιος	substantival adjective dative masculine plural	1	holy ones
+WIS 10:17	1	2	ὁσίοις	ὅσιος	substantival adjective dative masculine plural	1	to holy ones
 WIS 10:17	1	3	μισθὸν	μισθός	noun, accusative masculine singular	1	wages
 WIS 10:17	1	3	μισθὸν			2	pay
-WIS 10:17	1	4	κόπων	κόπος	noun, genitive masculine plural	1	troubles
+WIS 10:17	1	4	κόπων	κόπος	noun, genitive masculine plural	1	of labors
 WIS 10:17	1	4	κόπων			2	toils
 WIS 10:17	1	5	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 WIS 10:17	1	6	ὡδήγησεν	ὁδηγέω	aorist active indicative third singular	1	she guided
@@ -280,14 +280,14 @@ WIS 10:17	1	11	καὶ	καί	conjunction	1	and
 WIS 10:17	1	12	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	became
 WIS 10:17	1	12	ἐγένετο			2	served
 WIS 10:17	1	13	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
-WIS 10:17	1	14	εἰς	εἰς	preposition with accusative	1	into
+WIS 10:17	1	14	εἰς	εἰς	preposition with accusative	1	as
 WIS 10:17	1	15	σκέπην	σκέπη	noun accusative feminine singular	1	a covering
-WIS 10:17	1	16	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
+WIS 10:17	1	16	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	by day
 WIS 10:17	1	17	καὶ	καί	conjunction	1	and
-WIS 10:17	1	18	εἰς	εἰς	preposition with the accusative	1	into
+WIS 10:17	1	18	εἰς	εἰς	preposition with the accusative	1	as
 WIS 10:17	1	19	φλόγα	φλόξ	noun, accusative feminine singular	1	flame
 WIS 10:17	1	20	ἀστέρων	ἀστήρ	noun, genitive masculine plural	1	of stars
-WIS 10:17	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
+WIS 10:17	1	21	τὴν	ὁ	article, accusative feminine singular	1	through the
 WIS 10:17	1	22	νύκτα	νύξ	noun, accusative feminine singular	1	night
 WIS 10:18	1	1	Διεβίβασεν	διαβιβάζω	aorist active indicative, third singular	1	brought across
 WIS 10:18	1	2	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -309,8 +309,8 @@ WIS 10:19	1	4	αὐτῶν	αὐτός	personal pronoun genitive plural	1	their
 WIS 10:19	1	5	κατέκλυσε	κατακλύζω	aorist active indicative, third singular	1	flooded
 WIS 10:19	1	6	καὶ	καί	conjunction	1	and
 WIS 10:19	1	7	ἐκ	ἐκ	preposition with the genitive	1	from
-WIS 10:19	1	8	βάθους	βάθος	noun, genitive neuter singular	1	of depth
-WIS 10:19	1	9	ἀβύσσου	ἄβυσσος	noun, genitive feminine singular	1	deep
+WIS 10:19	1	8	βάθους	βάθος	noun, genitive neuter singular	1	depth
+WIS 10:19	1	9	ἀβύσσου	ἄβυσσος	noun, genitive feminine singular	1	of abyss
 WIS 10:19	1	10	ἀνέβρασεν	ἀναβράζω	aorist active indicative, third singular	1	cast up
 WIS 10:19	1	11	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 WIS 10:20	1	1	Διὰ	διά	preposition with the accusative	1	because of
@@ -323,11 +323,11 @@ WIS 10:20	1	7	ὕμνησαν	ὑμνέω	aorist active indicative, third plural
 WIS 10:20	1	8	Κύριε	κύριος	noun vocative masculine singular	1	O Lord
 WIS 10:20	1	9	τὸ	ὁ	article, nominative neuter singular	1	the
 WIS 10:20	1	10	ὄνομα	ὄνομα	noun, nominative neuter singular	1	name
-WIS 10:20	1	11	τὸ	ὁ	article, accusative neuter singular	1	the
+WIS 10:20	1	11	τὸ	ὁ	article, accusative neuter singular	1	—
 WIS 10:20	1	12	ἅγιόν	ἅγιος	adjective, accusative neuter singular	1	holy
 WIS 10:20	1	13	σου	σύ	personal pronoun, genitive second singular	1	your
 WIS 10:20	1	14	τὴν	ὁ	article, accusative feminine singular	1	the
-WIS 10:20	1	15	τε	τε	correlative particle	1	both
+WIS 10:20	1	15	τε	τε	correlative particle	1	and
 WIS 10:20	1	16	ὑπέρμαχόν	ὑπέρμαχος	adjective, accusative masculine singular	1	defending
 WIS 10:20	1	17	σου	σύ	pronoun, possessive genitive second singular	1	your
 WIS 10:20	1	18	χεῖρα	χείρ	noun, accusative feminine singular	1	hand
@@ -338,7 +338,7 @@ WIS 10:21	1	2	ἡ	ὁ	article, nominative feminine singular	1	the
 WIS 10:21	1	3	σοφία	σοφία	noun, nominative feminine singular	1	wisdom
 WIS 10:21	1	4	ἤνοιξε	ἀνοίγω	aorist active indicative, third singular	1	opened
 WIS 10:21	1	5	στόμα	στόμα	noun, accusative neuter singular	1	mouth
-WIS 10:21	1	6	κωφῶν	κωφός	adjective, genitive masculine plural; substantival	1	deaf people
+WIS 10:21	1	6	κωφῶν	κωφός	adjective, genitive masculine plural; substantival	1	of the deaf
 WIS 10:21	1	6	κωφῶν			2	the deaf
 WIS 10:21	1	7	καὶ	καί	conjunction	1	and
 WIS 10:21	1	8	γλώσσας	γλῶσσα	noun, accusative feminine plural	1	tongues

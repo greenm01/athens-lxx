@@ -30,7 +30,7 @@ WIS 15:2	1	11	οὐχ	οὐ	negative particle	1	not
 WIS 15:2	1	12	ἁμαρτησόμεθα	ἁμαρτάνω	future middle indicative, first plural	1	we shall sin
 WIS 15:2	1	13	δὲ	δέ	postpositive conjunction	1	and
 WIS 15:2	1	14	εἰδότες	οἶδα	perfect active participle, nominative masculine plural	1	knowing
-WIS 15:2	1	15	ὅτι	ὅτι	causal conjunction	1	because
+WIS 15:2	1	15	ὅτι	ὅτι	causal conjunction	1	that
 WIS 15:2	1	16	σοὶ	σύ	pronoun, dative 2nd singular	1	to you
 WIS 15:2	1	17	λελογίσμεθα	λογίζομαι	perfect middle/passive indicative, first plural	1	we are reckoned
 WIS 15:3	1	1	Τὸ	ὁ	article, accusative neuter singular	1	the
@@ -61,9 +61,9 @@ WIS 15:4	1	11	ἄκαρπος	ἄκαρπος	adjective, nominative masculine si
 WIS 15:4	1	12	εἶδος	εἶδος	noun, accusative neuter singular	1	form
 WIS 15:4	1	12	εἶδος			2	appearance
 WIS 15:4	1	13	σπιλωθὲν	σπιλόω	aorist passive participle, nominative neuter singular	1	stained
-WIS 15:4	1	14	χρώμασι	χρῶμα	noun, dative neuter plural	1	colors
+WIS 15:4	1	14	χρώμασι	χρῶμα	noun, dative neuter plural	1	with colors
 WIS 15:4	1	15	διηλλαγμένοις	διαλλάσσω	perfect middle/passive participle, dative neuter plural	1	varied
-WIS 15:5	1	1	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	which
+WIS 15:5	1	1	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	whose
 WIS 15:5	1	2	ὄψις	ὄψις	noun, nominative feminine singular	1	appearance
 WIS 15:5	1	3	ἄφρονι	ἄφρων	substantival adjective dative masculine singular	1	to a fool
 WIS 15:5	1	4	εἰς	εἰς	preposition with the accusative	1	into
@@ -76,21 +76,21 @@ WIS 15:5	1	10	εἰκόνος	εἰκών	noun, genitive feminine singular	1	ima
 WIS 15:5	1	11	εἶδος	εἶδος	noun, accusative neuter singular	1	form
 WIS 15:5	1	11	εἶδος			2	appearance
 WIS 15:5	1	12	ἄπνουν	ἄπνους	adjective, accusative neuter singular	1	breathless
-WIS 15:6	1	1	Κακῶν	κακός	adjective, genitive neuter plural	1	evils
+WIS 15:6	1	1	Κακῶν	κακός	adjective, genitive neuter plural	1	of evils
 WIS 15:6	1	2	ἐρασταὶ	ἐραστής	noun, nominative masculine plural	1	lovers
 WIS 15:6	1	3	ἄξιοί	ἄξιος	adjective, nominative masculine plural	1	worthy
 WIS 15:6	1	4	τε	τε	particle	1	both
 WIS 15:6	1	5	τοιούτων	τοιοῦτος	demonstrative pronoun, genitive neuter plural	1	of such
 WIS 15:6	1	6	ἐλπίδων	ἐλπίς	noun, genitive feminine plural	1	hopes
 WIS 15:6	1	7	καὶ	καί	conjunction	1	and
-WIS 15:6	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
-WIS 15:6	1	9	δρῶντες	δράω	present active participle, nominative masculine plural	1	making them
+WIS 15:6	1	8	οἱ	ὁ	article, nominative masculine plural	1	those
+WIS 15:6	1	9	δρῶντες	δράω	present active participle, nominative masculine plural	1	who make them
 WIS 15:6	1	10	καὶ	καί	conjunction	1	and
-WIS 15:6	1	11	οἱ	ὁ	article, nominative masculine plural	1	the
-WIS 15:6	1	12	ποθοῦντες	ποθέω	present active participle, nominative masculine plural	1	desiring them
+WIS 15:6	1	11	οἱ	ὁ	article, nominative masculine plural	1	those
+WIS 15:6	1	12	ποθοῦντες	ποθέω	present active participle, nominative masculine plural	1	who desire them
 WIS 15:6	1	13	καὶ	καί	conjunction	1	and
-WIS 15:6	1	14	οἱ	ὁ	article, nominative masculine plural	1	the
-WIS 15:6	1	15	σεβόμενοι	σέβομαι	present middle participle, nominative masculine plural	1	worshiping them
+WIS 15:6	1	14	οἱ	ὁ	article, nominative masculine plural	1	those
+WIS 15:6	1	15	σεβόμενοι	σέβομαι	present middle participle, nominative masculine plural	1	who worship them
 WIS 15:7	1	1	Καὶ	καί	conjunction	1	and
 WIS 15:7	1	2	γὰρ	γάρ	postpositive conjunction	1	for
 WIS 15:7	1	3	κεραμεὺς	κεραμεύς	noun, nominative masculine singular	1	potter
@@ -115,14 +115,14 @@ WIS 15:7	1	21	τε	τε	particle	1	both
 WIS 15:7	1	22	τῶν	ὁ	article, genitive masculine plural	1	of the
 WIS 15:7	1	23	καθαρῶν	καθαρός	adjective, genitive neuter plural	1	clean
 WIS 15:7	1	24	ἔργων	ἔργον	noun genitive neuter plural	1	works
-WIS 15:7	1	25	δοῦλα	δοῦλος	adjective nominative neuter plural	1	servants
+WIS 15:7	1	25	δοῦλα	δοῦλος	adjective nominative neuter plural	1	serving
 WIS 15:7	1	26	σκεύη	σκεῦος	noun, accusative neuter plural	1	vessels
 WIS 15:7	1	27	τά	ὁ	article, accusative neuter plural	1	the
 WIS 15:7	1	28	τε	τε	particle	1	both
-WIS 15:7	1	29	ἐναντία	ἐναντίος	adjective, accusative neuter plural	1	perverse things
+WIS 15:7	1	29	ἐναντία	ἐναντίος	adjective, accusative neuter plural	1	contrary
 WIS 15:7	1	30	πάντα	πᾶς	adjective, accusative neuter plural	1	all of them
 WIS 15:7	1	31	ὁμοίως	ὁμοίως	adverb	1	likewise
-WIS 15:7	1	32	τούτων	οὗτος	demonstrative pronoun, genitive neuter plural	1	these
+WIS 15:7	1	32	τούτων	οὗτος	demonstrative pronoun, genitive neuter plural	1	of these
 WIS 15:7	1	33	δὲ	δέ	postpositive conjunction	1	and
 WIS 15:7	1	34	ἑκατέρου	ἑκάτερος	adjective, genitive neuter singular	1	of each
 WIS 15:7	1	35	τίς	τίς	interrogative pronoun, nominative feminine singular	1	what
@@ -135,7 +135,7 @@ WIS 15:7	1	41	ὁ	ὁ	article, nominative masculine singular	1	the
 WIS 15:7	1	42	πηλουργός	πηλουργός	noun, nominative masculine singular	1	potter
 WIS 15:8	1	1	καὶ	καί	conjunction	1	and
 WIS 15:8	1	2	κακόμοχθος	κακόμοχθος	adjective, nominative masculine singular	1	toiling at evil
-WIS 15:8	1	3	θεὸν	θεός	noun, accusative masculine singular	1	God
+WIS 15:8	1	3	θεὸν	θεός	noun, accusative masculine singular	1	a god
 WIS 15:8	1	4	μάταιον	μάταιος	adjective, nominative neuter singular; predicate	1	futile
 WIS 15:8	1	4	μάταιον			2	worthless
 WIS 15:8	1	5	πλάσσει	πλάσσω	present active indicative, third singular	1	molds
@@ -143,13 +143,13 @@ WIS 15:8	1	6	ἐκ	ἐκ	preposition with the genitive	1	from
 WIS 15:8	1	7	τοῦ	ὁ	article, genitive singular	1	the
 WIS 15:8	1	8	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	same
 WIS 15:8	1	9	πηλοῦ	πηλός	noun, genitive masculine singular	1	clay
-WIS 15:8	1	10	ὃς	ὅς	relative pronoun nominative masculine singular	1	which
+WIS 15:8	1	10	ὃς	ὅς	relative pronoun nominative masculine singular	1	who
 WIS 15:8	1	11	πρὸ	πρό	preposition with genitive	1	before
 WIS 15:8	1	12	μικροῦ	μικρός	adjective, genitive masculine singular; used substantivally	1	a short while
 WIS 15:8	1	13	ἐκ	ἐκ	preposition with the genitive	1	from
 WIS 15:8	1	14	γῆς	γῆ	noun, genitive feminine singular	1	earth
 WIS 15:8	1	15	γεννηθεὶς	γεννάω	aorist passive participle, nominative masculine singular	1	born
-WIS 15:8	1	16	μετ᾽	μετά	elided preposition with the genitive	1	with
+WIS 15:8	1	16	μετ᾽	μετά	elided preposition with the genitive	1	after
 WIS 15:8	1	17	ὀλίγον	ὀλίγος	adverbial adjective, accusative neuter singular	1	little
 WIS 15:8	1	18	πορεύεται	πορεύομαι	present middle indicative, third singular	1	returns
 WIS 15:8	1	19	ἐξ	ἐκ	preposition with the genitive	1	from
@@ -185,8 +185,8 @@ WIS 15:9	1	21	τε	τε	particle	1	both
 WIS 15:9	1	22	μιμεῖται	μιμέομαι	present middle indicative, third singular	1	he imitates
 WIS 15:9	1	23	καὶ	καί	conjunction	1	and
 WIS 15:9	1	24	δόξαν	δόξα	noun, accusative feminine singular	1	glory
-WIS 15:9	1	25	ἡγεῖται	ἡγέομαι	present middle indicative, third singular	1	leads
-WIS 15:9	1	26	ὅτι	ὅτι	conjunction	1	because
+WIS 15:9	1	25	ἡγεῖται	ἡγέομαι	present middle indicative, third singular	1	considers
+WIS 15:9	1	26	ὅτι	ὅτι	conjunction	1	that
 WIS 15:9	1	27	κίβδηλα	κίβδηλος	adjective, accusative neuter plural	1	counterfeits
 WIS 15:9	1	28	πλάσσει	πλάσσω	present active indicative, third singular	1	molds
 WIS 15:10	1	1	Σποδὸς	σποδός	noun, genitive feminine singular	1	ash
@@ -194,8 +194,8 @@ WIS 15:10	1	2	ἡ	ὁ	article, nominative feminine singular	1	the
 WIS 15:10	1	3	καρδία	καρδία	noun, nominative feminine singular	1	heart
 WIS 15:10	1	4	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 WIS 15:10	1	5	καὶ	καί	conjunction	1	and
-WIS 15:10	1	6	γῆς	γῆ	noun, genitive feminine singular	1	of earth
-WIS 15:10	1	7	εὐτελεστέρα	εὐτελής	adjective, nominative feminine singular	1	more worthless than
+WIS 15:10	1	6	γῆς	γῆ	noun, genitive feminine singular	1	than earth
+WIS 15:10	1	7	εὐτελεστέρα	εὐτελής	adjective, nominative feminine singular	1	more worthless
 WIS 15:10	1	8	ἡ	ὁ	article, nominative feminine singular	1	the
 WIS 15:10	1	9	ἐλπὶς	ἐλπίς	noun nominative feminine singular	1	hope
 WIS 15:10	1	10	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -205,10 +205,10 @@ WIS 15:10	1	13	ἀτιμότερος	ἄτιμος	adjective, nominative masculi
 WIS 15:10	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
 WIS 15:10	1	15	βίος	βίος	noun, nominative masculine singular	1	life
 WIS 15:10	1	16	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
-WIS 15:11	1	1	Ὅτι	ὅτι	causal conjunction	1	that
+WIS 15:11	1	1	Ὅτι	ὅτι	causal conjunction	1	because
 WIS 15:11	1	2	ἠγνόησε	ἀγνοέω	aorist active indicative, third singular	1	he did not know
-WIS 15:11	1	3	τὸν	ὁ	definite article, accusative masculine singular	1	the
-WIS 15:11	1	4	ποιήσαντα	ποιέω	aorist active participle, accusative masculine singular	1	made
+WIS 15:11	1	3	τὸν	ὁ	definite article, accusative masculine singular	1	the one
+WIS 15:11	1	4	ποιήσαντα	ποιέω	aorist active participle, accusative masculine singular	1	who made
 WIS 15:11	1	5	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 WIS 15:11	1	6	καὶ	καί	conjunction	1	and
 WIS 15:11	1	7	τὸν	ὁ	article, accusative masculine singular	1	the one
@@ -217,7 +217,7 @@ WIS 15:11	1	9	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 WIS 15:11	1	10	ψυχὴν	ψυχή	noun, accusative feminine singular	1	soul
 WIS 15:11	1	11	ἐνεργοῦσαν	ἐνεργέω	present active participle, accusative feminine singular	1	active
 WIS 15:11	1	12	καὶ	καί	conjunction	1	and
-WIS 15:11	1	13	ἐμφυσήσαντα	ἐμφυσάω	aorist active participle, accusative masculine singular	1	the one who breathed in
+WIS 15:11	1	13	ἐμφυσήσαντα	ἐμφυσάω	aorist active participle, accusative masculine singular	1	who breathed in
 WIS 15:11	1	14	πνεῦμα	πνεῦμα	noun, accusative neuter singular	1	spirit
 WIS 15:11	1	15	ζωτικόν	ζωτικός	adjective, accusative neuter singular	1	life-giving
 WIS 15:12	1	1	Ἀλλὰ	ἀλλά	adversative conjunction	1	but
@@ -238,8 +238,8 @@ WIS 15:12	1	14	γάρ	γάρ	conjunction	1	for
 WIS 15:12	1	15	φασιν	φημί	present active indicative, third plural	1	they say
 WIS 15:12	1	16	ὅθεν	ὅθεν	relative adverb of place	1	from where
 WIS 15:12	1	16	ὅθεν			2	whence
-WIS 15:12	1	17	δὴ	δή	emphatic particle	1	one can
-WIS 15:12	1	18	καὶ	καί	conjunction	1	and
+WIS 15:12	1	17	δὴ	δή	emphatic particle	1	indeed
+WIS 15:12	1	18	καὶ	καί	conjunction	1	even
 WIS 15:12	1	19	ἐκ	ἐκ	preposition with the genitive	1	from
 WIS 15:12	1	20	κακοῦ	κακός	substantival adjective genitive neuter singular	1	evil
 WIS 15:12	1	21	πορίζειν	πορίζω	present active infinitive	1	to gain
@@ -258,7 +258,7 @@ WIS 15:13	1	12	καὶ	καί	conjunction	1	and
 WIS 15:13	1	13	γλυπτὰ	γλυπτός	adjective, accusative neuter plural; substantival	1	carved images
 WIS 15:13	1	13	γλυπτὰ			2	sculptures
 WIS 15:13	1	14	δημιουργῶν	δημιουργέω	present active participle, nominative masculine singular	1	fashioning
-WIS 15:14	1	1	Πάντων	πᾶς	substantival adjective, genitive masculine plural	1	all
+WIS 15:14	1	1	Πάντων	πᾶς	substantival adjective, genitive masculine plural	1	of all
 WIS 15:14	1	2	δὲ	δέ	postpositive conjunction	1	and
 WIS 15:14	1	3	ἀφρονέστατοι	ἄφρων	adjective, nominative masculine plural	1	most foolish
 WIS 15:14	1	4	καὶ	καί	conjunction	1	and
@@ -268,7 +268,7 @@ WIS 15:14	1	7	ψυχὰς	ψυχή	noun, accusative feminine plural	1	souls
 WIS 15:14	1	8	νηπίων	νήπιος	substantival adjective genitive plural	1	of infants
 WIS 15:14	1	9	οἱ	ὁ	article, nominative masculine plural	1	the
 WIS 15:14	1	10	ἐχθροὶ	ἐχθρός	adjective, nominative masculine plural; substantival	1	enemies
-WIS 15:14	1	11	τοῦ	ὁ	article, genitive singular	1	the
+WIS 15:14	1	11	τοῦ	ὁ	article, genitive singular	1	of the
 WIS 15:14	1	12	λαοῦ	λαός	noun, genitive masculine singular	1	people
 WIS 15:14	1	13	σου	σύ	pronoun, possessive genitive second singular	1	your
 WIS 15:14	1	14	καταδυναστεύσαντες	καταδυναστεύω	aorist active participle, nominative masculine plural	1	having oppressed
@@ -284,8 +284,8 @@ WIS 15:15	1	7	ἐλογίσαντο			2	reckoned
 WIS 15:15	1	8	θεοὺς	θεός	noun, accusative masculine plural	1	gods
 WIS 15:15	1	9	οἷς	ὅς	relative pronoun, dative neuter plural	1	which
 WIS 15:15	1	10	οὔτε	οὔτε	negative conjunction, neither/nor	1	nor
-WIS 15:15	1	11	ὀμμάτων	ὄμμα	noun, genitive neuter plural	1	eyes
-WIS 15:15	1	12	χρῆσις	χρῆσις	noun, nominative feminine singular	1	have
+WIS 15:15	1	11	ὀμμάτων	ὄμμα	noun, genitive neuter plural	1	of eyes
+WIS 15:15	1	12	χρῆσις	χρῆσις	noun, nominative feminine singular	1	use
 WIS 15:15	1	13	εἰς	εἰς	preposition with the accusative	1	for
 WIS 15:15	1	14	ὅρασιν	ὅρασις	noun, accusative feminine singular	1	sight
 WIS 15:15	1	15	οὔτε	οὔτε	negative conjunction, neither/nor	1	nor
@@ -298,7 +298,7 @@ WIS 15:15	1	21	ὦτα	οὖς	noun, accusative neuter plural	1	ears
 WIS 15:15	1	22	ἀκούειν	ἀκούω	present active infinitive	1	to hear
 WIS 15:15	1	23	οὔτε	οὔτε	negative conjunction, neither/nor	1	nor
 WIS 15:15	1	24	δάκτυλοι	δάκτυλος	noun, nominative masculine plural	1	fingers
-WIS 15:15	1	25	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
+WIS 15:15	1	25	χειρῶν	χείρ	noun, genitive feminine plural	1	of hands
 WIS 15:15	1	26	εἰς	εἰς	preposition with the accusative	1	for
 WIS 15:15	1	27	ψηλάφησιν	ψηλάφησις	noun, accusative feminine singular	1	touching
 WIS 15:15	1	28	καὶ	καί	conjunction	1	and
@@ -322,23 +322,23 @@ WIS 15:16	1	10	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	
 WIS 15:16	1	11	οὐδεὶς	οὐδείς	pronoun, nominative masculine singular	1	no one
 WIS 15:16	1	12	γὰρ	γάρ	conjunction	1	for
 WIS 15:16	1	13	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	among human beings
-WIS 15:16	1	14	ὅμοιον	ὅμοιος	adjective, accusative masculine singular	1	like himself
+WIS 15:16	1	14	ὅμοιον	ὅμοιος	adjective, accusative masculine singular	1	like
 WIS 15:16	1	15	ἰσχύει	ἰσχύω	present active indicative, third singular	1	has the power
 WIS 15:16	1	15	ἰσχύει			2	is strong enough
 WIS 15:16	1	16	πλάσαι	πλάσσω	aorist active infinitive	1	to form
 WIS 15:16	1	16	πλάσαι			2	to shape
-WIS 15:16	1	17	θεόν	θεός	noun, accusative masculine singular	1	God
+WIS 15:16	1	17	θεόν	θεός	noun, accusative masculine singular	1	a god
 WIS 15:17	1	1	θνητὸς	θνητός	adjective, nominative masculine singular	1	mortal
 WIS 15:17	1	2	δὲ	δέ	postpositive conjunction	1	and
 WIS 15:17	1	3	ὢν	εἰμί	present active participle, nominative masculine singular	1	being
 WIS 15:17	1	4	νεκρὸν	νεκρός	adjective, accusative masculine singular; used substantivally	1	a dead thing
 WIS 15:17	1	5	ἐργάζεται	ἐργάζομαι	present middle indicative, third singular	1	works
-WIS 15:17	1	6	χερσὶν	χείρ	noun, dative feminine plural	1	hands
+WIS 15:17	1	6	χερσὶν	χείρ	noun, dative feminine plural	1	with hands
 WIS 15:17	1	7	ἀνόμοις	ἄνομος	adjective, dative masculine plural; substantival	1	lawless
 WIS 15:17	1	8	κρείσσων	κρείσσων	comparative adjective, nominative masculine singular	1	better
 WIS 15:17	1	9	γὰρ	γάρ	conjunction	1	for
 WIS 15:17	1	10	ἐστι	εἰμί	present indicative, third singular	1	is
-WIS 15:17	1	11	τῶν	ὁ	article, genitive plural	1	the
+WIS 15:17	1	11	τῶν	ὁ	article, genitive plural	1	than the
 WIS 15:17	1	12	σεβασμάτων	σέβασμα	noun, genitive neuter plural	1	objects of worship
 WIS 15:17	1	13	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 WIS 15:17	1	14	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	since
@@ -352,14 +352,14 @@ WIS 15:18	1	1	Καὶ	καί	conjunction	1	and
 WIS 15:18	1	2	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
 WIS 15:18	1	3	ζῶα	ζῷον	noun, nominative neuter plural	1	living creatures
 WIS 15:18	1	4	δὲ	δέ	postpositive conjunction	1	and
-WIS 15:18	1	5	τὰ	ὁ	article, accusative neuter plural	1	the
+WIS 15:18	1	5	τὰ	ὁ	article, accusative neuter plural	1	—
 WIS 15:18	1	6	ἔχθιστα	ἔχθιστος	adjective, accusative neuter plural	1	most hated
 WIS 15:18	1	7	σέβονται	σέβομαι	present middle indicative, third plural	1	they worship
 WIS 15:18	1	8	ἔνια	ἔνιος	adjective, accusative neuter plural	1	some
 WIS 15:18	1	9	γὰρ	γάρ	conjunction	1	for
 WIS 15:18	1	10	συγκρινόμενα	συγκρίνω	present middle/passive participle, nominative neuter plural	1	compared
-WIS 15:18	1	11	τῶν	ὁ	article, genitive plural	1	the
-WIS 15:18	1	12	ἄλλων	ἄλλος	adjective, genitive masculine plural	1	than the others
+WIS 15:18	1	11	τῶν	ὁ	article, genitive plural	1	than the
+WIS 15:18	1	12	ἄλλων	ἄλλος	adjective, genitive masculine plural	1	others
 WIS 15:18	1	13	ἐστὶ	εἰμί	present indicative, third singular	1	is
 WIS 15:18	1	14	χείρονα	χείρων	adjective, nominative neuter plural	1	worse
 WIS 15:19	1	1	οὐδ᾽	οὐδέ	negative conjunction, elided	1	nor

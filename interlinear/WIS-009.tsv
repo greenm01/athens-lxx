@@ -1,9 +1,9 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 WIS 9:1	1	1	ΘΕΕ	θεός	noun, vocative masculine singular	1	O God
-WIS 9:1	1	2	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers
+WIS 9:1	1	2	πατέρων	πατήρ	noun, genitive masculine plural	1	of fathers
 WIS 9:1	1	3	καὶ	καί	conjunction	1	and
 WIS 9:1	1	4	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
-WIS 9:1	1	5	τοῦ	ὁ	article, genitive singular	1	the
+WIS 9:1	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 WIS 9:1	1	6	ἐλέους	ἔλεος	noun genitive neuter singular	1	mercy
 WIS 9:1	1	7	σου	σύ	pronoun, possessive genitive second singular	1	your
 WIS 9:1	1	8	ὁ	ὁ	article, nominative masculine singular	1	—
@@ -14,7 +14,7 @@ WIS 9:1	1	12	ἐν	ἐν	preposition with the dative	1	in
 WIS 9:1	1	13	λόγῳ	λόγος	noun, dative masculine singular	1	word
 WIS 9:1	1	14	σου	σύ	pronoun, possessive genitive second singular	1	your
 WIS 9:2	1	1	καὶ	καί	conjunction	1	and
-WIS 9:2	1	2	τῇ	ὁ	article, dative feminine singular	1	the
+WIS 9:2	1	2	τῇ	ὁ	article, dative feminine singular	1	by the
 WIS 9:2	1	3	σοφίᾳ	σοφία	noun, dative feminine singular	1	wisdom
 WIS 9:2	1	4	σου	σύ	pronoun, possessive genitive second singular	1	your
 WIS 9:2	1	5	κατασκευάσας	κατασκευάζω	aorist active participle, nominative masculine singular; substantival	1	one who made
@@ -22,7 +22,7 @@ WIS 9:2	1	5	κατασκευάσας			2	maker
 WIS 9:2	1	6	ἄνθρωπον	ἄνθρωπος	noun, accusative masculine singular	1	man
 WIS 9:2	1	7	ἵνα	ἵνα	conjunction	1	so that
 WIS 9:2	1	8	δεσπόζῃ	δεσπόζω	present active subjunctive, third singular	1	he rules
-WIS 9:2	1	9	τῶν	ὁ	article genitive masculine plural	1	those
+WIS 9:2	1	9	τῶν	ὁ	article genitive masculine plural	1	over the
 WIS 9:2	1	10	ὑπὸ	ὑπό	preposition with genitive	1	by
 WIS 9:2	1	11	σοῦ	σύ	personal pronoun, emphatic genitive singular	1	you
 WIS 9:2	1	12	γενομένων	γίνομαι	aorist middle participle, genitive neuter plural	1	brought into being
@@ -75,7 +75,7 @@ WIS 9:5	1	14	καὶ	καί	conjunction	1	and
 WIS 9:5	1	15	ἐλάσσων	ἐλάσσων	adjective, nominative feminine singular	1	smaller
 WIS 9:5	1	16	ἐν	ἐν	preposition with the dative	1	in
 WIS 9:5	1	17	συνέσει	σύνεσις	noun, dative feminine singular	1	understanding
-WIS 9:5	1	18	κρίσεως	κρίσις	noun, genitive feminine singular	1	judgment
+WIS 9:5	1	18	κρίσεως	κρίσις	noun, genitive feminine singular	1	of judgment
 WIS 9:5	1	19	καὶ	καί	conjunction	1	and
 WIS 9:5	1	20	νόμων	νόμος	noun, genitive masculine plural	1	of the laws
 WIS 9:6	1	1	κἂν	κἄν	crasis of conjunction and conditional conjunction	1	even if
@@ -85,28 +85,28 @@ WIS 9:6	1	4	ᾖ	εἰμί	present subjunctive, third singular	1	may be
 WIS 9:6	1	5	τέλειος	τέλειος	adjective, nominative masculine singular	1	perfect
 WIS 9:6	1	6	ἐν	ἐν	preposition with the dative	1	in
 WIS 9:6	1	7	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
-WIS 9:6	1	8	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	human beings
+WIS 9:6	1	8	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	of human beings
 WIS 9:6	1	8	ἀνθρώπων			2	people
 WIS 9:6	1	9	τῆς	ὁ	article, genitive feminine singular	1	of the
 WIS 9:6	1	10	ἀπὸ	ἀπό	preposition with the genitive	1	from
 WIS 9:6	1	11	σοῦ	σύ	personal pronoun, emphatic genitive singular	1	you
 WIS 9:6	1	12	σοφίας	σοφία	noun, genitive feminine singular	1	wisdom
 WIS 9:6	1	13	ἀπούσης	ἄπειμι	present active participle, genitive feminine singular	1	being absent
-WIS 9:6	1	14	εἰς	εἰς	preposition with the accusative	1	into
+WIS 9:6	1	14	εἰς	εἰς	preposition with the accusative	1	as
 WIS 9:6	1	15	οὐθὲν	οὐδείς	indefinite pronoun, accusative neuter singular; variant	1	nothing
 WIS 9:6	1	16	λογισθήσεται	λογίζομαι	future passive indicative, third singular	1	shall be reckoned
 WIS 9:7	1	1	Σύ	σύ	pronoun, nominative second singular	1	you
 WIS 9:7	1	2	με	ἐγώ	personal pronoun, accusative singular	1	me
 WIS 9:7	1	3	προείλω	προαιρέομαι	aorist middle indicative, second singular	1	you chose
 WIS 9:7	1	4	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
-WIS 9:7	1	5	λαοῦ	λαός	noun, genitive masculine singular	1	people
+WIS 9:7	1	5	λαοῦ	λαός	noun, genitive masculine singular	1	of people
 WIS 9:7	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
 WIS 9:7	1	7	καὶ	καί	conjunction	1	and
 WIS 9:7	1	8	δικαστὴν	δικαστής	noun, accusative masculine singular	1	judge
-WIS 9:7	1	9	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+WIS 9:7	1	9	υἱῶν	υἱός	noun, genitive masculine plural	1	of sons
 WIS 9:7	1	10	σου	σύ	pronoun, genitive 2nd singular	1	your
 WIS 9:7	1	11	καὶ	καί	conjunction	1	and
-WIS 9:7	1	12	θυγατέρων	θυγάτηρ	noun, genitive feminine plural	1	daughters
+WIS 9:7	1	12	θυγατέρων	θυγάτηρ	noun, genitive feminine plural	1	of daughters
 WIS 9:7	1	13	σου	σύ	pronoun, genitive 2nd singular	1	your
 WIS 9:8	1	1	εἶπας	λέγω	aorist active indicative, second singular	1	you said
 WIS 9:8	1	2	οἰκοδομῆσαι	οἰκοδομέω	aorist active infinitive	1	to build
@@ -125,7 +125,7 @@ WIS 9:8	1	11	κατασκηνώσεώς	κατασκήνωσις	noun, genitive 
 WIS 9:8	1	12	σου	σύ	pronoun, genitive 2nd singular	1	your
 WIS 9:8	1	13	θυσιαστήριον	θυσιαστήριον	noun, accusative neuter singular	1	altar
 WIS 9:8	1	14	μίμημα	μίμημα	noun, accusative neuter singular	1	copy
-WIS 9:8	1	15	σκηνῆς	σκηνή	noun, genitive feminine singular	1	tent
+WIS 9:8	1	15	σκηνῆς	σκηνή	noun, genitive feminine singular	1	of tent
 WIS 9:8	1	16	ἁγίας	ἅγιος	adjective, accusative feminine singular	1	holy
 WIS 9:8	1	17	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 WIS 9:8	1	18	προητοίμασας	προετοιμάζω	aorist active indicative, second singular	1	you prepared beforehand
@@ -136,8 +136,8 @@ WIS 9:9	1	2	μετὰ	μετά	preposition with genitive	1	with
 WIS 9:9	1	3	σοῦ	σύ	personal pronoun genitive second singular	1	you
 WIS 9:9	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
 WIS 9:9	1	5	σοφία	σοφία	noun, nominative feminine singular	1	wisdom
-WIS 9:9	1	6	ἡ	ὁ	article, nominative feminine singular	1	the
-WIS 9:9	1	7	εἰδυῖα	οἶδα	perfect active participle, nominative feminine singular	1	knowing
+WIS 9:9	1	6	ἡ	ὁ	article, nominative feminine singular	1	—
+WIS 9:9	1	7	εἰδυῖα	οἶδα	perfect active participle, nominative feminine singular	1	who knows
 WIS 9:9	1	8	τὰ	ὁ	article, accusative neuter plural	1	the
 WIS 9:9	1	9	ἔργα	ἔργον	noun accusative neuter plural	1	works
 WIS 9:9	1	10	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -171,21 +171,21 @@ WIS 9:10	1	5	οὐρανῶν	οὐρανός	noun genitive masculine plural	1	h
 WIS 9:10	1	6	καὶ	καί	conjunction	1	and
 WIS 9:10	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
 WIS 9:10	1	8	θρόνου	θρόνος	noun, genitive masculine singular	1	throne
-WIS 9:10	1	9	δόξης	δόξα	noun, genitive feminine singular	1	authority
+WIS 9:10	1	9	δόξης	δόξα	noun, genitive feminine singular	1	of glory
 WIS 9:10	1	9	δόξης			2	honor
 WIS 9:10	1	10	σου	σύ	pronoun, possessive genitive second singular	1	your
 WIS 9:10	1	11	πέμψον	πέμπω	aorist active imperative, second singular	1	send
 WIS 9:10	1	12	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
 WIS 9:10	1	13	ἵνα	ἵνα	conjunction	1	so that
 WIS 9:10	1	14	συμπαροῦσά	συμπάρειμι	present active participle, nominative feminine singular	1	being present with
-WIS 9:10	1	15	μοι	ἐγώ	personal pronoun, dative singular	1	to me
+WIS 9:10	1	15	μοι	ἐγώ	personal pronoun, dative singular	1	me
 WIS 9:10	1	16	κοπιάσῃ	κοπιάω	aorist active subjunctive, third singular	1	may toil
 WIS 9:10	1	17	καὶ	καί	conjunction	1	and
 WIS 9:10	1	18	γνῶ	γινώσκω	aorist active subjunctive first singular	1	I may know
 WIS 9:10	1	19	τί	τίς	interrogative pronoun accusative neuter singular	1	what
 WIS 9:10	1	20	εὐάρεστόν	εὐάρεστος	adjective, nominative neuter singular	1	pleasing
 WIS 9:10	1	21	ἐστι	εἰμί	present indicative, third singular	1	is
-WIS 9:10	1	22	παρὰ	παρά	preposition with genitive	1	from
+WIS 9:10	1	22	παρὰ	παρά	preposition with genitive	1	with
 WIS 9:10	1	23	σοί	σύ	pronoun, dative 2nd singular	1	you
 WIS 9:11	1	1	Οἶδε	οἶδα	perfect active indicative, third singular; present in sense	1	knows
 WIS 9:11	1	2	γὰρ	γάρ	postpositive conjunction	1	for
@@ -225,15 +225,15 @@ WIS 9:12	1	12	δικαίως			2	justly
 WIS 9:12	1	13	καὶ	καί	conjunction	1	and
 WIS 9:12	1	14	ἔσομαι	εἰμί	future middle indicative, first singular	1	I will be
 WIS 9:12	1	15	ἄξιος	ἄξιος	adjective, nominative masculine singular	1	deserving
-WIS 9:12	1	16	θρόνων	θρόνος	noun, genitive masculine plural	1	thrones
-WIS 9:12	1	17	πατρός	πατήρ	noun, genitive masculine singular	1	father
+WIS 9:12	1	16	θρόνων	θρόνος	noun, genitive masculine plural	1	of thrones
+WIS 9:12	1	17	πατρός	πατήρ	noun, genitive masculine singular	1	of father
 WIS 9:12	1	18	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 WIS 9:13	1	1	Τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
 WIS 9:13	1	2	γὰρ	γάρ	conjunction	1	for
 WIS 9:13	1	3	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	a man
 WIS 9:13	1	4	γνώσεται	γινώσκω	future middle indicative, third singular	1	will know
 WIS 9:13	1	5	βουλὴν	βουλή	noun accusative feminine singular	1	counsel
-WIS 9:13	1	6	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+WIS 9:13	1	6	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 WIS 9:14	1	1	ἢ	ἤ	disjunctive conjunction	1	or
 WIS 9:14	1	2	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
 WIS 9:14	1	3	ἐνθυμηθήσεται	ἐνθυμέομαι	future passive indicative, third singular	1	will consider
@@ -265,17 +265,17 @@ WIS 9:15	1	21	πολυφροντίδα	πολυφρόντις	adjective, accusat
 WIS 9:16	1	1	Καὶ	καί	conjunction	1	and
 WIS 9:16	1	2	μόγις	μόγις	adverb	1	with difficulty
 WIS 9:16	1	3	εἰκάζομεν	εἰκάζω	present active indicative, first plural	1	we conjecture
-WIS 9:16	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
+WIS 9:16	1	4	τὰ	ὁ	article, accusative neuter plural	1	the things
 WIS 9:16	1	5	ἐπὶ	ἐπί	preposition with dative, causal	1	on
 WIS 9:16	1	6	γῆς	γῆ	noun, genitive feminine singular	1	earth
 WIS 9:16	1	7	καὶ	καί	conjunction	1	and
-WIS 9:16	1	8	τὰ	ὁ	article, accusative neuter plural	1	the
+WIS 9:16	1	8	τὰ	ὁ	article, accusative neuter plural	1	the things
 WIS 9:16	1	9	ἐν	ἐν	preposition with the dative	1	in
 WIS 9:16	1	10	χερσὶν	χείρ	noun, dative feminine plural	1	hands
 WIS 9:16	1	11	εὑρίσκομεν	εὑρίσκω	present active indicative, first plural	1	we find
 WIS 9:16	1	12	μετὰ	μετά	preposition with the genitive	1	with
 WIS 9:16	1	13	πόνου	πόνος	noun, genitive masculine singular	1	effort
-WIS 9:16	1	14	τὰ	ὁ	article, accusative neuter plural	1	the
+WIS 9:16	1	14	τὰ	ὁ	article, accusative neuter plural	1	the things
 WIS 9:16	1	15	δὲ	δέ	postpositive conjunction	1	and
 WIS 9:16	1	16	ἐν	ἐν	preposition with the dative	1	in
 WIS 9:16	1	17	οὐρανοῖς	οὐρανός	noun dative masculine plural	1	the heavens
@@ -285,7 +285,7 @@ WIS 9:17	1	1	Βουλὴν	βουλή	noun, accusative feminine singular	1	the c
 WIS 9:17	1	2	δέ	δέ	postpositive conjunction	1	and
 WIS 9:17	1	3	σου	σύ	pronoun, possessive genitive second singular	1	your
 WIS 9:17	1	4	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
-WIS 9:17	1	5	ἔγνω	γινώσκω	aorist active indicative, third singular	1	he knew
+WIS 9:17	1	5	ἔγνω	γινώσκω	aorist active indicative, third singular	1	knew
 WIS 9:17	1	6	εἰ	εἰ	conditional conjunction	1	if
 WIS 9:17	1	7	μὴ	μή	negative particle	1	not
 WIS 9:17	1	8	σὺ	σύ	pronoun, nominative second singular	1	you
@@ -304,17 +304,17 @@ WIS 9:18	1	2	οὕτως	οὕτως	adverb	1	thus
 WIS 9:18	1	3	διωρθώθησαν	διορθόω	aorist passive indicative, third plural	1	were set right
 WIS 9:18	1	4	αἱ	ὁ	article, nominative feminine plural	1	the
 WIS 9:18	1	5	τρίβοι	τρίβος	noun, nominative feminine plural	1	paths
-WIS 9:18	1	6	τῶν	ὁ	article, genitive masculine plural	1	the
+WIS 9:18	1	6	τῶν	ὁ	article, genitive masculine plural	1	of those
 WIS 9:18	1	7	ἐπὶ	ἐπί	preposition with dative, causal	1	on
 WIS 9:18	1	8	γῆς	γῆ	noun, genitive feminine singular	1	earth
 WIS 9:18	1	9	καὶ	καί	conjunction	1	and
 WIS 9:18	1	10	τὰ	ὁ	article, accusative neuter plural	1	the
-WIS 9:18	1	11	ἀρεστά	ἀρεστός	adjective, accusative neut. pl	1	what is pleasing
-WIS 9:18	1	12	σου	σύ	pronoun, possessive genitive second singular	1	your
+WIS 9:18	1	11	ἀρεστά	ἀρεστός	adjective, accusative neut. pl	1	things pleasing
+WIS 9:18	1	12	σου	σύ	pronoun, possessive genitive second singular	1	to you
 WIS 9:18	1	13	ἐδιδάχθησαν	διδάσκω	aorist passive indicative, third plural	1	were taught
 WIS 9:18	1	14	ἄνθρωποι	ἄνθρωπος	noun, nominative masculine plural	1	human beings
 WIS 9:18	1	14	ἄνθρωποι			2	people
 WIS 9:19	1	1	καὶ	καί	conjunction	1	and
-WIS 9:19	1	2	τῇ	ὁ	article, dative feminine singular	1	the
+WIS 9:19	1	2	τῇ	ὁ	article, dative feminine singular	1	by the
 WIS 9:19	1	3	σοφίᾳ	σοφία	noun, dative feminine singular	1	wisdom
 WIS 9:19	1	4	ἐσώθησαν	σῴζω	aorist passive indicative, third plural	1	they were saved

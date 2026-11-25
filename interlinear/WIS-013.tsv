@@ -6,19 +6,19 @@ WIS 13:1	1	4	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 WIS 13:1	1	5	ἄνθρωποι	ἄνθρωπος	noun, nominative masculine plural	1	men
 WIS 13:1	1	6	φύσει	φύσις	noun, dative feminine singular	1	by nature
 WIS 13:1	1	7	οἷς	ὅς	relative pronoun, dative neuter plural	1	in whom
-WIS 13:1	1	8	παρῆν	πάρειμι	imperfect active indicative, third singular	1	arrived
-WIS 13:1	1	9	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+WIS 13:1	1	8	παρῆν	πάρειμι	imperfect active indicative, third singular	1	was present
+WIS 13:1	1	9	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 WIS 13:1	1	10	ἀγνωσία	ἀγνωσία	noun, nominative feminine singular	1	ignorance
 WIS 13:1	1	11	καὶ	καί	conjunction	1	and
 WIS 13:1	1	12	ἐκ	ἐκ	preposition with the genitive	1	from
 WIS 13:1	1	13	τῶν	ὁ	article, genitive plural	1	the
-WIS 13:1	1	14	ὁρωμένων	ὁράω	present middle/passive participle, genitive neuter plural	1	things seen
+WIS 13:1	1	14	ὁρωμένων	ὁράω	present middle/passive participle, genitive neuter plural	1	seen
 WIS 13:1	1	15	ἀγαθῶν	ἀγαθός	substantival adjective genitive neuter plural	1	good things
 WIS 13:1	1	16	οὐκ	οὐ	particle	1	not
 WIS 13:1	1	17	ἴσχυσαν	ἰσχύω	aorist active indicative, third plural	1	had the power
 WIS 13:1	1	18	εἰδέναι	οἶδα	perfect active infinitive with present sense	1	to know
 WIS 13:1	1	19	τὸν	ὁ	article, accusative masculine singular	1	the one
-WIS 13:1	1	20	ὄντα	εἰμί	present active participle, accusative masculine singular	1	who was
+WIS 13:1	1	20	ὄντα	εἰμί	present active participle, accusative masculine singular	1	who is
 WIS 13:1	1	21	οὔτε	οὔτε	negative conjunction, neither/nor	1	nor
 WIS 13:1	1	22	τοῖς	ὁ	article, dative neuter plural	1	the
 WIS 13:1	1	23	ἔργοις	ἔργον	noun, dative neuter plural	1	works
@@ -28,7 +28,7 @@ WIS 13:1	1	25	ἐπέγνωσαν	ἐπιγιγνώσκω	aorist active indicati
 WIS 13:1	1	26	τὸν	ὁ	article, accusative masculine singular	1	the
 WIS 13:1	1	27	τεχνίτην	τεχνίτης	noun, accusative masculine singular	1	craftsman
 WIS 13:2	1	1	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
-WIS 13:2	1	2	ἢ	ἤ	disjunctive conjunction	1	or
+WIS 13:2	1	2	ἢ	ἤ	disjunctive conjunction	1	—
 WIS 13:2	1	3	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
 WIS 13:2	1	4	ἢ	ἤ	disjunctive conjunction	1	or
 WIS 13:2	1	5	πνεῦμα	πνεῦμα	noun, accusative neuter singular	1	wind
@@ -38,22 +38,22 @@ WIS 13:2	1	7	ταχινὸν			2	quick
 WIS 13:2	1	8	ἀέρα	ἀήρ	noun, accusative masculine singular	1	air
 WIS 13:2	1	9	ἢ	ἤ	disjunctive conjunction	1	or
 WIS 13:2	1	10	κύκλον	κύκλος	noun, accusative masculine singular	1	circle
-WIS 13:2	1	11	ἄστρων	ἄστρον	noun, genitive neuter plural	1	stars
+WIS 13:2	1	11	ἄστρων	ἄστρον	noun, genitive neuter plural	1	of stars
 WIS 13:2	1	12	ἢ	ἤ	disjunctive conjunction	1	or
 WIS 13:2	1	13	βίαιον	βίαιος	adjective, nominative neuter singular	1	violent
 WIS 13:2	1	14	ὕδωρ	ὕδωρ	noun, nominative neuter singular	1	water
 WIS 13:2	1	15	ἢ	ἤ	disjunctive conjunction	1	or
 WIS 13:2	1	16	φωστῆρας	φωστήρ	noun, accusative masculine plural	1	luminaries
 WIS 13:2	1	16	φωστῆρας			2	lights
-WIS 13:2	1	17	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
+WIS 13:2	1	17	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	of heaven
 WIS 13:2	1	18	πρυτάνεις	πρύτανις	noun, accusative masculine plural	1	rulers
 WIS 13:2	1	19	κόσμου	κόσμος	noun, genitive masculine singular	1	of the world
 WIS 13:2	1	20	θεοὺς	θεός	noun, accusative masculine plural	1	gods
 WIS 13:2	1	21	ἐνόμισαν	νομίζω	aorist active indicative, third plural	1	they regarded
-WIS 13:3	1	1	ὧν	ὅς	relative pronoun, genitive neuter plural, part of 'because'	1	—
+WIS 13:3	1	1	ὧν	ὅς	relative pronoun, genitive neuter plural, part of 'because'	1	whose
 WIS 13:3	1	2	εἰ	εἰ	conditional conjunction	1	if
 WIS 13:3	1	3	μὲν	μέν	particle	1	indeed
-WIS 13:3	1	4	τῇ	ὁ	article, dative feminine singular	1	the
+WIS 13:3	1	4	τῇ	ὁ	article, dative feminine singular	1	in the
 WIS 13:3	1	5	καλλονῇ	καλλονή	noun, dative feminine singular	1	beauty
 WIS 13:3	1	6	τερπόμενοι	τέρπω	present middle/passive participle, nominative masculine plural	1	taking delight
 WIS 13:3	1	7	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these things
@@ -61,7 +61,7 @@ WIS 13:3	1	8	θεοὺς	θεός	noun, accusative masculine plural	1	gods
 WIS 13:3	1	9	ὑπελάμβανον	ὑπολαμβάνω	imperfect active indicative, third plural	1	they supposed
 WIS 13:3	1	10	γνώτωσαν	γινώσκω	aorist active imperative third plural	1	let them know
 WIS 13:3	1	11	πόσῳ	πόσος	adjective, dative neuter singular	1	by how much
-WIS 13:3	1	12	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	them
+WIS 13:3	1	12	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	than these
 WIS 13:3	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 WIS 13:3	1	14	δεσπότης	δεσπότης	noun, nominative masculine singular	1	Master
 WIS 13:3	1	14	δεσπότης			2	Sovereign
@@ -70,7 +70,7 @@ WIS 13:3	1	16	βελτίων	ἀγαθός	adjective, nominative masculine singu
 WIS 13:3	1	16	βελτίων			2	superior
 WIS 13:3	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
 WIS 13:3	1	18	γὰρ	γάρ	conjunction	1	for
-WIS 13:3	1	19	τοῦ	ὁ	article genitive neuter singular	1	the
+WIS 13:3	1	19	τοῦ	ὁ	article genitive neuter singular	1	of the
 WIS 13:3	1	20	κάλλους	κάλλος	noun genitive neuter singular	1	beauty
 WIS 13:3	1	21	γενεσιάρχης	γενεσιάρχης	noun, nominative masculine singular	1	author
 WIS 13:3	1	22	ἔκτισεν	κτίζω	aorist active indicative, 3rd singular	1	created
@@ -96,7 +96,7 @@ WIS 13:5	1	2	γὰρ	γάρ	postpositive conjunction	1	for
 WIS 13:5	1	3	μεγέθους	μέγεθος	noun, genitive neuter singular	1	greatness
 WIS 13:5	1	4	καὶ	καί	conjunction	1	and
 WIS 13:5	1	5	καλλονῆς	καλλονή	noun, genitive feminine singular	1	beauty
-WIS 13:5	1	6	κτισμάτων	κτίσμα	noun, genitive neuter plural	1	creatures
+WIS 13:5	1	6	κτισμάτων	κτίσμα	noun, genitive neuter plural	1	of creatures
 WIS 13:5	1	7	ἀναλόγως	ἀναλόγως	adverb	1	by analogy
 WIS 13:5	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
 WIS 13:5	1	9	γενεσιουργὸς	γενεσιουργός	noun, nominative masculine singular	1	maker
@@ -170,12 +170,12 @@ WIS 13:10	1	9	οἵτινες	ὅστις	relative pronoun, nominative masculine
 WIS 13:10	1	10	ἐκάλεσαν	καλέω	aorist active indicative, third plural	1	called
 WIS 13:10	1	11	θεοὺς	θεός	noun, accusative masculine plural	1	gods
 WIS 13:10	1	12	ἔργα	ἔργον	noun nominative neuter plural	1	works
-WIS 13:10	1	13	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
-WIS 13:10	1	14	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	men
+WIS 13:10	1	13	χειρῶν	χείρ	noun, genitive feminine plural	1	of hands
+WIS 13:10	1	14	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	of men
 WIS 13:10	1	15	χρυσὸν	χρυσός	noun, accusative masculine singular	1	gold
 WIS 13:10	1	16	καὶ	καί	conjunction	1	and
 WIS 13:10	1	17	ἄργυρον	ἄργυρος	noun, accusative masculine singular	1	silver
-WIS 13:10	1	18	τέχνης	τέχνη	noun, genitive fem. sg., craft/art	1	craft
+WIS 13:10	1	18	τέχνης	τέχνη	noun, genitive fem. sg., craft/art	1	of craft
 WIS 13:10	1	19	ἐμμελέτημα	ἐμμελέτημα	noun, accusative neuter singular	1	piece of craftsmanship
 WIS 13:10	1	20	καὶ	καί	conjunction	1	and
 WIS 13:10	1	21	ἀπεικάσματα	ἀπείκασμα	noun, accusative neuter plural	1	likenesses
@@ -184,7 +184,7 @@ WIS 13:10	1	23	ἢ	ἤ	disjunctive conjunction	1	or
 WIS 13:10	1	24	λίθον	λίθος	noun, accusative masculine singular	1	stone
 WIS 13:10	1	25	ἄχρηστον	ἄχρηστος	adjective, nominative neuter singular	1	useless
 WIS 13:10	1	25	ἄχρηστον			2	worthless
-WIS 13:10	1	26	χειρὸς	χείρ	noun, genitive feminine singular	1	the hand
+WIS 13:10	1	26	χειρὸς	χείρ	noun, genitive feminine singular	1	of a hand
 WIS 13:10	1	27	ἔργον	ἔργον	noun, nominative neuter singular	1	work
 WIS 13:10	1	28	ἀρχαίας	ἀρχαῖος	adjective, genitive feminine singular	1	of old
 WIS 13:11	1	1	Εἰ	εἰ	conditional conjunction	1	if
@@ -201,7 +201,7 @@ WIS 13:11	1	11	εὐμαθῶς	εὐμαθῶς	adverb	1	skillfully
 WIS 13:11	1	12	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 WIS 13:11	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
 WIS 13:11	1	14	φλοιὸν	φλοιός	noun, accusative masculine singular	1	bark
-WIS 13:11	1	15	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
+WIS 13:11	1	15	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	its
 WIS 13:11	1	16	καὶ	καί	conjunction	1	and
 WIS 13:11	1	17	τεχνησάμενος	τεχνάομαι	aorist middle participle, nominative masculine singular	1	having fashioned
 WIS 13:11	1	18	εὐπρεπῶς	εὐπρεπῶς	adverb	1	in proper order
@@ -215,12 +215,12 @@ WIS 13:11	1	24	ζωῆς	ζωή	noun, genitive feminine singular	1	of life
 WIS 13:12	1	1	τὰ	ὁ	article, accusative neuter plural	1	the
 WIS 13:12	1	2	δὲ	δέ	postpositive conjunction	1	and
 WIS 13:12	1	3	ὑπολείμματα	ὑπόλειμμα	noun, accusative neuter plural	1	scraps
-WIS 13:12	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
+WIS 13:12	1	4	τῆς	ὁ	article, genitive feminine singular	1	of the
 WIS 13:12	1	5	ἐργασίας	ἐργασία	noun, genitive feminine singular	1	work
 WIS 13:12	1	5	ἐργασίας			2	service
 WIS 13:12	1	6	εἰς	εἰς	preposition with the accusative	1	into
 WIS 13:12	1	7	ἑτοιμασίαν	ἑτοιμασία	noun, accusative feminine singular	1	preparation
-WIS 13:12	1	8	τροφῆς	τροφή	noun, genitive feminine singular	1	food
+WIS 13:12	1	8	τροφῆς	τροφή	noun, genitive feminine singular	1	of food
 WIS 13:12	1	9	ἀναλώσας	ἀναλίσκω	aorist active participle, nominative masculine singular	1	having used up
 WIS 13:12	1	10	ἐνεπλήσθη	ἐμπίπλημι	aorist passive indicative, third singular	1	he ate his fill
 WIS 13:13	1	1	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -229,7 +229,7 @@ WIS 13:13	1	3	ἐξ	ἐκ	preposition with the genitive	1	from
 WIS 13:13	1	4	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 WIS 13:13	1	5	ἀπόβλημα	ἀπόβλημα	noun, accusative neuter singular	1	discarded piece
 WIS 13:13	1	6	εἰς	εἰς	preposition with the accusative	1	into
-WIS 13:13	1	7	οὐδὲν	οὐδείς	pronoun/adjective, accusative neuter singular	1	anything
+WIS 13:13	1	7	οὐδὲν	οὐδείς	pronoun/adjective, accusative neuter singular	1	nothing
 WIS 13:13	1	8	εὔχρηστον	εὔχρηστος	adjective, accusative neuter singular	1	useful
 WIS 13:13	1	9	ξύλον	ξύλον	noun, accusative neuter singular	1	tree
 WIS 13:13	1	10	σκολιὸν	σκολιός	adjective, accusative masculine singular	1	crooked
@@ -241,44 +241,44 @@ WIS 13:13	1	14	λαβὼν	λαμβάνω	aorist active participle, nominative m
 WIS 13:13	1	14	λαβὼν			2	having taken
 WIS 13:13	1	15	ἔγλυψεν	γλύφω	aorist active indicative, third singular	1	he carved
 WIS 13:13	1	16	ἐν	ἐν	preposition with the dative	1	in
-WIS 13:13	1	17	ἐπιμελείᾳ	ἐπιμέλεια	noun, dative feminine singular	1	leisure
+WIS 13:13	1	17	ἐπιμελείᾳ	ἐπιμέλεια	noun, dative feminine singular	1	care
 WIS 13:13	1	18	ἐργασίας	ἐργασία	noun, genitive feminine singular	1	of occupation
 WIS 13:13	1	19	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 WIS 13:13	1	20	καὶ	καί	conjunction	1	and
 WIS 13:13	1	21	ἐμπειρίᾳ	ἐμπειρία	noun, dative feminine singular	1	skill
-WIS 13:13	1	22	συνέσεως	σύνεσις	noun, genitive feminine singular	1	understanding
+WIS 13:13	1	22	συνέσεως	σύνεσις	noun, genitive feminine singular	1	of understanding
 WIS 13:13	1	22	συνέσεως			2	discernment
 WIS 13:13	1	23	ἐτύπωσεν	τυπόω	aorist active indicative, third singular	1	he fashioned
 WIS 13:13	1	24	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
-WIS 13:13	1	25	ἀπείκασέ	ἀπεικάζω	aorist active indicative, third singular	1	he made it resemble
+WIS 13:13	1	25	ἀπείκασέ	ἀπεικάζω	aorist active indicative, third singular	1	he likened
 WIS 13:13	1	26	τε	τε	particle	1	both
 WIS 13:13	1	27	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
-WIS 13:13	1	28	εἰκόνι	εἰκών	noun, dative feminine singular	1	image
+WIS 13:13	1	28	εἰκόνι	εἰκών	noun, dative feminine singular	1	to an image
 WIS 13:13	1	29	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a person
 WIS 13:14	1	1	ἢ	ἤ	disjunctive conjunction	1	or
-WIS 13:14	1	2	ζώῳ	ζῷον	noun, dative neuter singular	1	animal
+WIS 13:14	1	2	ζώῳ	ζῷον	noun, dative neuter singular	1	to an animal
 WIS 13:14	1	3	τινὶ	τις	pronoun, dative masculine singular; indefinite	1	a certain
 WIS 13:14	1	4	εὐτελεῖ	εὐτελής	adjective, dative neuter singular	1	lowly
-WIS 13:14	1	5	ὡμοίωσεν	ὁμοιόω	aorist active indicative, third singular	1	he made it like
+WIS 13:14	1	5	ὡμοίωσεν	ὁμοιόω	aorist active indicative, third singular	1	he likened
 WIS 13:14	1	6	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
 WIS 13:14	1	7	καταχρίσας	καταχρίω	aorist active participle, nominative masculine singular	1	having coated
-WIS 13:14	1	8	μίλτῳ	μίλτος	noun, dative feminine singular	1	red ochre
+WIS 13:14	1	8	μίλτῳ	μίλτος	noun, dative feminine singular	1	with red ochre
 WIS 13:14	1	9	καὶ	καί	conjunction	1	and
-WIS 13:14	1	10	φύκει	φῦκος	noun, dative neuter singular	1	red dye
+WIS 13:14	1	10	φύκει	φῦκος	noun, dative neuter singular	1	with red dye
 WIS 13:14	1	11	ἐρυθήνας	ἐρυθραίνω	aorist active participle, nominative masculine singular	1	having reddened
 WIS 13:14	1	12	χρόαν	χρόα	noun, accusative feminine singular	1	color
 WIS 13:14	1	13	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	its
 WIS 13:14	1	14	καὶ	καί	conjunction	1	and
 WIS 13:14	1	15	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 WIS 13:14	1	16	κηλίδα	κηλίς	noun, accusative feminine singular	1	blemish
-WIS 13:14	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
+WIS 13:14	1	17	τὴν	ὁ	article, accusative feminine singular	1	—
 WIS 13:14	1	18	ἐν	ἐν	preposition with the dative	1	in
 WIS 13:14	1	19	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
 WIS 13:14	1	20	καταχρίσας	καταχρίω	aorist active participle, nominative masculine singular	1	covering up
 WIS 13:15	1	1	καὶ	καί	conjunction	1	and
-WIS 13:15	1	2	ποιήσας	ποιέω	aorist active participle, nominative masculine singular	1	who made
-WIS 13:15	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-WIS 13:15	1	4	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
+WIS 13:15	1	2	ποιήσας	ποιέω	aorist active participle, nominative masculine singular	1	having made
+WIS 13:15	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	for it
+WIS 13:15	1	4	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	of it
 WIS 13:15	1	5	ἄξιον	ἄξιος	adjective, nominative neuter singular	1	fitting
 WIS 13:15	1	6	οἴκημα	οἴκημα	noun, accusative neuter singular	1	housing
 WIS 13:15	1	7	ἐν	ἐν	preposition with the dative	1	in
@@ -292,10 +292,10 @@ WIS 13:16	1	2	μὲν	μέν	particle	1	indeed
 WIS 13:16	1	3	οὖν	οὖν	inferential particle	1	then
 WIS 13:16	1	4	μὴ	μή	negative with subjunctive/optative	1	not
 WIS 13:16	1	5	καταπέσῃ	καταπίπτω	aorist active optative, third singular	1	might fall down
-WIS 13:16	1	6	προενόησεν	προνοέω	aorist active indicative, third singular	1	he foresaw
+WIS 13:16	1	6	προενόησεν	προνοέω	aorist active indicative, third singular	1	he took care
 WIS 13:16	1	7	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	for it
 WIS 13:16	1	8	εἰδὼς	οἶδα	perfect active participle, nominative masculine singular; present sense	1	knowing
-WIS 13:16	1	9	ὅτι	ὅτι	causal conjunction	1	because
+WIS 13:16	1	9	ὅτι	ὅτι	causal conjunction	1	that
 WIS 13:16	1	10	ἀδυνατεῖ	ἀδυνατέω	present active indicative, third singular	1	it is unable
 WIS 13:16	1	11	ἑαυτῷ	ἑαυτοῦ	reflexive pronoun, dative masculine singular	1	itself
 WIS 13:16	1	12	βοηθῆσαι	βοηθέω	aorist active infinitive	1	to help
@@ -306,7 +306,7 @@ WIS 13:16	1	16	εἰκὼν	εἰκών	noun, nominative feminine singular	1	ima
 WIS 13:16	1	17	καὶ	καί	conjunction	1	and
 WIS 13:16	1	18	χρείαν	χρεία	noun accusative feminine singular	1	need
 WIS 13:16	1	19	ἔχει	ἔχω	present active indicative, third singular	1	has
-WIS 13:16	1	20	βοηθείας	βοήθεια	noun, genitive feminine singular	1	aid
+WIS 13:16	1	20	βοηθείας	βοήθεια	noun, genitive feminine singular	1	of aid
 WIS 13:16	1	20	βοηθείας			2	help
 WIS 13:17	1	1	περὶ	περί	preposition with the accusative	1	for
 WIS 13:17	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -331,7 +331,7 @@ WIS 13:17	1	20	ἀσθενὲς	ἀσθενής	adjective, nominative neuter sin
 WIS 13:17	1	21	ἐπικαλεῖται	ἐπικαλέω	present passive indicative, third singular	1	he appeals to
 WIS 13:18	1	1	περὶ	περί	preposition with the accusative	1	for
 WIS 13:18	1	2	δὲ	δέ	postpositive conjunction	1	and
-WIS 13:18	1	3	ζωῆς	ζωή	noun, genitive feminine singular	1	of life
+WIS 13:18	1	3	ζωῆς	ζωή	noun, genitive feminine singular	1	life
 WIS 13:18	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
 WIS 13:18	1	5	νεκρὸν	νεκρός	adjective, accusative masculine singular; used substantivally	1	dead one
 WIS 13:18	1	6	ἀξιοῖ	ἀξιόω	present active indicative, third singular	1	he asks
@@ -356,11 +356,11 @@ WIS 13:19	1	4	καὶ	καί	conjunction	1	and
 WIS 13:19	1	5	ἐργασίας	ἐργασία	noun, genitive feminine singular	1	work
 WIS 13:19	1	5	ἐργασίας			2	service
 WIS 13:19	1	6	καὶ	καί	conjunction	1	and
-WIS 13:19	1	7	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
+WIS 13:19	1	7	χειρῶν	χείρ	noun, genitive feminine plural	1	of hands
 WIS 13:19	1	8	ἐπιτυχίας	ἐπιτυχία	noun, genitive feminine singular	1	success
 WIS 13:19	1	9	τὸ	ὁ	article, accusative neuter singular	1	the
 WIS 13:19	1	10	ἀδρανέστατον	ἀδρανής	adjective, accusative neuter singular	1	most powerless
-WIS 13:19	1	11	ταῖς	ὁ	article, dative feminine plural	1	the
+WIS 13:19	1	11	ταῖς	ὁ	article, dative feminine plural	1	for the
 WIS 13:19	1	12	χερσὶν	χείρ	noun, dative feminine plural	1	hands
 WIS 13:19	1	13	εὐδράνειαν	εὐδράνεια	noun, accusative feminine singular	1	dexterity
-WIS 13:19	1	14	αἰτεῖται	αἰτέομαι	present middle indicative, 3rd singular	1	requires
+WIS 13:19	1	14	αἰτεῖται	αἰτέομαι	present middle indicative, 3rd singular	1	asks

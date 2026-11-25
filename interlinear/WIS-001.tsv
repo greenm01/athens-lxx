@@ -20,13 +20,13 @@ WIS 1:1	1	17	ζητήσατε	ζητέω	aorist active imperative, second plural
 WIS 1:1	1	18	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 WIS 1:2	1	1	ὅτι	ὅτι	causal conjunction	1	because
 WIS 1:2	1	2	εὑρίσκεται	εὑρίσκω	present passive indicative, third singular	1	is found
-WIS 1:2	1	3	τοῖς	ὁ	article, dative neuter plural	1	the
+WIS 1:2	1	3	τοῖς	ὁ	article, dative neuter plural	1	by those
 WIS 1:2	1	4	μὴ	μή	negative particle	1	not
 WIS 1:2	1	5	πειράζουσιν	πειράζω	present active indicative, third plural	1	put to the test
 WIS 1:2	1	6	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 WIS 1:2	1	7	ἐμφανίζεται	ἐμφανίζω	present passive indicative, third singular	1	shows himself
 WIS 1:2	1	8	δὲ	δέ	postpositive conjunction	1	and
-WIS 1:2	1	9	τοῖς	ὁ	article, dative neuter plural	1	the
+WIS 1:2	1	9	τοῖς	ὁ	article, dative neuter plural	1	to those
 WIS 1:2	1	10	μὴ	μή	negative particle	1	not
 WIS 1:2	1	11	ἀπιστοῦσιν	ἀπιστέω	present active indicative, third plural	1	distrust
 WIS 1:2	1	12	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -51,7 +51,7 @@ WIS 1:4	1	5	οὐκ	οὐ	particle	1	not
 WIS 1:4	1	6	εἰσελεύσεται	εἰσέρχομαι	future middle indicative, third singular	1	will come in
 WIS 1:4	1	7	σοφία	σοφία	noun, nominative feminine singular	1	wisdom
 WIS 1:4	1	8	οὐδὲ	οὐδέ	negative conjunction	1	nor
-WIS 1:4	1	9	κατοικήσει	κατοικέω	future active indicative, third singular	1	he will dwell
+WIS 1:4	1	9	κατοικήσει	κατοικέω	future active indicative, third singular	1	will dwell
 WIS 1:4	1	10	ἐν	ἐν	preposition with the dative	1	in
 WIS 1:4	1	11	σώματι	σῶμα	noun, dative neuter singular	1	body
 WIS 1:4	1	12	καταχρέῳ	κατάχρεος	adjective, dative neuter singular	1	indebted
@@ -65,8 +65,8 @@ WIS 1:5	1	6	δόλον	δόλος	noun accusative masculine singular	1	deceit
 WIS 1:5	1	7	καὶ	καί	conjunction	1	and
 WIS 1:5	1	8	ἀπαναστήσεται	ἀπανίστημι	future middle indicative, third singular	1	will withdraw
 WIS 1:5	1	9	ἀπὸ	ἀπό	preposition with the genitive	1	from
-WIS 1:5	1	10	λογισμῶν	λογισμός	noun, genitive masculine plural	1	of thoughts
-WIS 1:5	1	11	ἀσυνέτων	ἀσύνετος	adjective, genitive masculine plural	1	of senseless people
+WIS 1:5	1	10	λογισμῶν	λογισμός	noun, genitive masculine plural	1	thoughts
+WIS 1:5	1	11	ἀσυνέτων	ἀσύνετος	adjective, genitive masculine plural	1	senseless
 WIS 1:5	1	12	καὶ	καί	conjunction	1	and
 WIS 1:5	1	13	ἐλεγχθήσεται	ἐλέγχω	future passive indicative, third singular	1	will be exposed
 WIS 1:5	1	14	ἐπελθούσης	ἐπέρχομαι	aorist active participle, genitive feminine singular	1	having come upon
@@ -92,13 +92,13 @@ WIS 1:6	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
 WIS 1:6	1	18	Θεὸς	θεός	noun, nominative masculine singular	1	God
 WIS 1:6	1	19	καὶ	καί	conjunction	1	and
 WIS 1:6	1	20	τῆς	ὁ	article, genitive feminine singular	1	the
-WIS 1:6	1	21	καρδίας	καρδία	noun genitive feminine singular	1	heart
+WIS 1:6	1	21	καρδίας	καρδία	noun genitive feminine singular	1	of heart
 WIS 1:6	1	22	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 WIS 1:6	1	23	ἐπίσκοπος	ἐπίσκοπος	noun, nominative masculine singular	1	overseer
 WIS 1:6	1	24	ἀληθὴς	ἀληθής	adjective, nominative masculine singular	1	true
 WIS 1:6	1	25	καὶ	καί	conjunction	1	and
 WIS 1:6	1	26	τῆς	ὁ	article, genitive feminine singular	1	the
-WIS 1:6	1	27	γλώσσης	γλῶσσα	noun, genitive feminine singular	1	tongue
+WIS 1:6	1	27	γλώσσης	γλῶσσα	noun, genitive feminine singular	1	of tongue
 WIS 1:6	1	27	γλώσσης			2	speech
 WIS 1:6	1	28	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 WIS 1:6	1	29	ἀκουστής	ἀκουστής	noun, nominative masculine singular	1	listener
@@ -122,7 +122,7 @@ WIS 1:8	1	3	φθεγγόμενος	φθέγγομαι	present middle participle,
 WIS 1:8	1	4	ἄδικα	ἄδικος	adjective, accusative neuter plural; substantival	1	unjust things
 WIS 1:8	1	4	ἄδικα			2	wrong things
 WIS 1:8	1	5	οὐδεὶς	οὐδείς	pronoun, nominative masculine singular	1	no one
-WIS 1:8	1	6	μὴ	μή	negative particle	1	not
+WIS 1:8	1	6	μὴ	μή	negative particle	1	at all
 WIS 1:8	1	7	λάθῃ	λανθάνω	aorist active subjunctive, third singular	1	escapes notice
 WIS 1:8	1	8	οὐδὲ	οὐδέ	conjunction	1	nor
 WIS 1:8	1	9	μὴ	μή	negative particle reinforcing the preceding negation, reinforces negation	1	—
@@ -167,14 +167,14 @@ WIS 1:11	1	3	γογγυσμὸν	γογγυσμός	noun, accusative masc. sg	1	
 WIS 1:11	1	4	ἀνωφελῆ	ἀνωφελής	adjective, accusative neuter plural; substantival	1	useless
 WIS 1:11	1	5	καὶ	καί	conjunction	1	and
 WIS 1:11	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
-WIS 1:11	1	7	καταλαλιᾶς	καταλαλιά	noun, genitive feminine singular	1	of slander
+WIS 1:11	1	7	καταλαλιᾶς	καταλαλιά	noun, genitive feminine singular	1	slander
 WIS 1:11	1	8	φείσασθε	φείδομαι	aorist middle imperative, second plural	1	refrain
 WIS 1:11	1	9	γλώσσης	γλῶσσα	noun, genitive feminine singular	1	tongue
 WIS 1:11	1	9	γλώσσης			2	speech
 WIS 1:11	1	10	ὅτι	ὅτι	causal conjunction	1	because
 WIS 1:11	1	11	φθέγμα	φθέγμα	noun, genitive neuter singular	1	an utterance
 WIS 1:11	1	12	λαθραῖον	λαθραῖος	adjective, nominative neuter singular	1	secret
-WIS 1:11	1	13	κενὸν	κενός	substantival adjective, accusative neuter singular	1	nothing
+WIS 1:11	1	13	κενὸν	κενός	substantival adjective, accusative neuter singular	1	in vain
 WIS 1:11	1	14	οὐ	οὐ	negative particle	1	not
 WIS 1:11	1	15	πορεύσεται	πορεύομαι	future middle indicative, third singular	1	shall go
 WIS 1:11	1	16	στόμα	στόμα	noun, accusative neuter singular	1	mouth
@@ -201,24 +201,24 @@ WIS 1:13	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 WIS 1:13	1	3	Θεὸς	θεός	noun, nominative masculine singular	1	God
 WIS 1:13	1	4	θάνατον	θάνατος	noun, accusative masculine singular	1	death
 WIS 1:13	1	5	οὐκ	οὐ	negative particle	1	not
-WIS 1:13	1	6	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	did
+WIS 1:13	1	6	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	made
 WIS 1:13	1	7	οὐδὲ	οὐδέ	conjunction/negative	1	nor
 WIS 1:13	1	8	τέρπεται	τέρπω	present passive indicative, third singular	1	is delighted
-WIS 1:13	1	9	ἐπ᾿	ἐπί	elided preposition with accusative	1	against
+WIS 1:13	1	9	ἐπ᾿	ἐπί	elided preposition with accusative	1	in
 WIS 1:13	1	10	ἀπωλείᾳ	ἀπώλεια	noun, dative feminine singular	1	destruction
 WIS 1:13	1	11	ζώντων	ζάω	present active participle, genitive masculine plural, substantival	1	of the living
 WIS 1:14	1	1	ἔκτισε	κτίζω	aorist active indicative, third singular	1	he created
 WIS 1:14	1	2	γὰρ	γάρ	conjunction	1	for
-WIS 1:14	1	3	εἰς	εἰς	preposition with the accusative	1	into
+WIS 1:14	1	3	εἰς	εἰς	preposition with the accusative	1	for
 WIS 1:14	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
 WIS 1:14	1	5	εἶναι	εἰμί	present infinitive with accusative subject	1	to exist
 WIS 1:14	1	6	τὰ	ὁ	article, accusative neuter plural; substantivizes, marks the totality	1	—
-WIS 1:14	1	7	πάντα	πᾶς	adjective, accusative neuter plural; used substantivally	1	all of it
+WIS 1:14	1	7	πάντα	πᾶς	adjective, accusative neuter plural; used substantivally	1	all things
 WIS 1:14	1	8	καὶ	καί	conjunction	1	and
 WIS 1:14	1	9	σωτήριοι	σωτήριος	adjective, nominative feminine plural	1	life-preserving
 WIS 1:14	1	10	αἱ	ὁ	article, nominative feminine plural	1	the
 WIS 1:14	1	11	γενέσεις	γένεσις	noun, nominative feminine plural	1	generations
-WIS 1:14	1	12	τοῦ	ὁ	article, genitive singular	1	the
+WIS 1:14	1	12	τοῦ	ὁ	article, genitive singular	1	of the
 WIS 1:14	1	13	κόσμου	κόσμος	noun, genitive masculine singular	1	world
 WIS 1:14	1	14	καὶ	καί	conjunction	1	and
 WIS 1:14	1	15	οὐκ	οὐ	negative particle	1	not
@@ -230,17 +230,17 @@ WIS 1:14	1	20	ὀλέθρου	ὄλεθρος	noun, genitive masculine singular	
 WIS 1:14	1	21	οὐδὲ	οὐδέ	conjunction/negative	1	nor
 WIS 1:14	1	22	ᾅδου	ᾅδης	noun, genitive masculine singular	1	of Hades
 WIS 1:14	1	23	βασίλειον	βασίλειον	noun/adjective, nominative neut. sg.	1	dominion
-WIS 1:14	1	24	ἐπὶ	ἐπί	preposition with genitive	1	at
+WIS 1:14	1	24	ἐπὶ	ἐπί	preposition with genitive	1	on
 WIS 1:14	1	24	ἐπὶ			2	beside
 WIS 1:14	1	25	τῆς	ὁ	article, genitive feminine singular	1	the
-WIS 1:14	1	26	γῆς	γῆ	noun, genitive feminine singular	1	land
+WIS 1:14	1	26	γῆς	γῆ	noun, genitive feminine singular	1	earth
 WIS 1:15	1	1	Δικαιοσύνη	δικαιοσύνη	noun, nominative feminine singular	1	righteousness
 WIS 1:15	1	2	γὰρ	γάρ	conjunction	1	for
 WIS 1:15	1	3	ἀθάνατός	ἀθάνατος	adjective, nominative feminine singular	1	immortal
 WIS 1:15	1	4	ἐστιν	εἰμί	present indicative, third singular	1	is
 WIS 1:16	1	1	ἀσεβεῖς	ἀσεβής	substantival adjective nominative masculine plural	1	the ungodly
 WIS 1:16	1	2	δὲ	δέ	postpositive conjunction	1	and
-WIS 1:16	1	3	ταῖς	ὁ	article, dative feminine plural	1	the
+WIS 1:16	1	3	ταῖς	ὁ	article, dative feminine plural	1	with the
 WIS 1:16	1	4	χερσὶ	χείρ	noun, dative feminine plural	1	hands
 WIS 1:16	1	5	καὶ	καί	conjunction	1	and
 WIS 1:16	1	6	τοῖς	ὁ	article, dative neuter plural	1	the
@@ -259,8 +259,8 @@ WIS 1:16	1	18	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	
 WIS 1:16	1	19	ὅτι	ὅτι	causal conjunction	1	because
 WIS 1:16	1	20	ἄξιοί	ἄξιος	adjective, nominative masculine plural	1	worthy
 WIS 1:16	1	21	εἰσι	εἰμί	present active indicative, third plural	1	are
-WIS 1:16	1	22	τῆς	ὁ	article, genitive feminine singular	1	the
-WIS 1:16	1	23	ἐκείνου	ἐκεῖνος	demonstrative pronoun, genitive masculine singular	1	that
+WIS 1:16	1	22	τῆς	ὁ	article, genitive feminine singular	1	of the
+WIS 1:16	1	23	ἐκείνου	ἐκεῖνος	demonstrative pronoun, genitive masculine singular	1	that one's
 WIS 1:16	1	24	μερίδος	μερίς	noun, genitive feminine singular	1	share
 WIS 1:16	1	24	μερίδος			2	portion
 WIS 1:16	1	25	εἶναι	εἰμί	present infinitive	1	to be

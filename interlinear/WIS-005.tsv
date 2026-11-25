@@ -7,10 +7,10 @@ WIS 5:1	1	5	πολλῇ	πολύς	adjective, dative feminine singular	1	much
 WIS 5:1	1	5	πολλῇ			2	abundant
 WIS 5:1	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 WIS 5:1	1	7	δίκαιος	δίκαιος	substantival adjective nominative masculine singular	1	righteous man
-WIS 5:1	1	8	κατὰ	κατά	preposition with the accusative	1	according to
+WIS 5:1	1	8	κατὰ	κατά	preposition with the accusative	1	in
 WIS 5:1	1	9	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
-WIS 5:1	1	10	τῶν	ὁ	definite article, genitive plural	1	the
-WIS 5:1	1	11	θλιψάντων	θλίβω	aorist active participle, genitive masculine plural	1	of those who afflicted
+WIS 5:1	1	10	τῶν	ὁ	definite article, genitive plural	1	of those
+WIS 5:1	1	11	θλιψάντων	θλίβω	aorist active participle, genitive masculine plural	1	who afflicted
 WIS 5:1	1	12	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 WIS 5:1	1	13	καὶ	καί	conjunction	1	and
 WIS 5:1	1	14	τῶν	ὁ	article, genitive masculine plural	1	of those
@@ -21,15 +21,15 @@ WIS 5:1	1	18	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine s
 WIS 5:2	1	1	Ἰδόντες	ὁράω	aorist active participle, nominative masculine plural	1	having seen
 WIS 5:2	1	2	δὲ	δέ	postpositive conjunction	1	and
 WIS 5:2	1	3	ταραχθήσονται	ταράσσω	future passive indicative, 3rd pl	1	shall tremble
-WIS 5:2	1	4	φόβῳ	φόβος	noun dative masculine singular	1	fear
+WIS 5:2	1	4	φόβῳ	φόβος	noun dative masculine singular	1	with fear
 WIS 5:2	1	5	δεινῷ	δεινός	adjective, dative masculine singular	1	terrible
 WIS 5:2	1	6	καὶ	καί	conjunction	1	and
 WIS 5:2	1	7	ἐκστήσονται	ἐξίστημι	future middle indicative, third plural	1	will be astounded
-WIS 5:2	1	8	ἐπὶ	ἐπί	preposition with dative	1	in
+WIS 5:2	1	8	ἐπὶ	ἐπί	preposition with dative	1	at
 WIS 5:2	1	8	ἐπὶ			2	over
-WIS 5:2	1	9	τῷ	ὁ	article, dative masculine singular	1	to the
+WIS 5:2	1	9	τῷ	ὁ	article, dative masculine singular	1	the
 WIS 5:2	1	10	παραδόξῳ	παράδοξος	adjective, dative feminine singular	1	unexpected
-WIS 5:2	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
+WIS 5:2	1	11	τῆς	ὁ	article, genitive feminine singular	1	of the
 WIS 5:2	1	12	σωτηρίας	σωτηρία	noun genitive feminine singular	1	salvation
 WIS 5:2	1	13	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 WIS 5:3	1	1	Καὶ	καί	conjunction	1	and
@@ -46,16 +46,16 @@ WIS 5:3	1	11	καὶ	καί	conjunction	1	and
 WIS 5:3	1	12	ἐροῦσιν	λέγω	future active indicative, third plural	1	they will say
 WIS 5:3	1	13	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 WIS 5:3	1	14	ἦν	εἰμί	imperfect indicative, third singular	1	was
-WIS 5:3	1	15	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
+WIS 5:3	1	15	ὃν	ὅς	relative pronoun, accusative masculine singular	1	whom
 WIS 5:3	1	16	ἔσχομέν	ἔχω	aorist active indicative, first plural	1	we held
-WIS 5:3	1	17	ποτε	ποτέ	adverb	1	ever
-WIS 5:3	1	18	εἰς	εἰς	preposition with accusative	1	into
+WIS 5:3	1	17	ποτε	ποτέ	adverb	1	once
+WIS 5:3	1	18	εἰς	εἰς	preposition with accusative	1	for
 WIS 5:3	1	19	γέλωτα	γέλως	noun, accusative masculine singular	1	laughter
 WIS 5:3	1	19	γέλωτα			2	a laughingstock
 WIS 5:3	1	20	καὶ	καί	conjunction	1	and
 WIS 5:3	1	21	εἰς	εἰς	preposition with the accusative of purpose	1	for
 WIS 5:3	1	22	παραβολὴν	παραβολή	noun, accusative feminine singular	1	a byword
-WIS 5:3	1	23	ὀνειδισμοῦ	ὀνειδισμός	noun, genitive masculine singular	1	reproach
+WIS 5:3	1	23	ὀνειδισμοῦ	ὀνειδισμός	noun, genitive masculine singular	1	of reproach
 WIS 5:4	1	1	οἱ	ὁ	article, nominative masculine plural	1	the
 WIS 5:4	1	2	ἄφρονες	ἄφρων	adjective, nominative masculine plural	1	fools
 WIS 5:4	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -76,7 +76,7 @@ WIS 5:5	1	3	ἐν	ἐν	preposition with dative	1	among
 WIS 5:5	1	4	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 WIS 5:5	1	5	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 WIS 5:5	1	6	καὶ	καί	conjunction	1	and
-WIS 5:5	1	7	ἐν	ἐν	preposition with the dative	1	in
+WIS 5:5	1	7	ἐν	ἐν	preposition with the dative	1	among
 WIS 5:5	1	8	ἁγίοις	ἅγιος	adjective/noun, dative pl	1	holy ones
 WIS 5:5	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
 WIS 5:5	1	10	κλῆρος	κλῆρος	noun, nominative masculine singular	1	lot
@@ -107,7 +107,7 @@ WIS 5:7	1	1	Ἀνομίας	ἀνομία	noun, accusative feminine plural	1	of 
 WIS 5:7	1	2	ἐνεπλήσθημεν	ἐμπίπλημι	aorist passive indicative first plural	1	we were filled
 WIS 5:7	1	3	τρίβοις	τρίβος	noun, dative feminine plural	1	paths
 WIS 5:7	1	4	καὶ	καί	conjunction	1	and
-WIS 5:7	1	5	ἀπωλείας	ἀπώλεια	noun, genitive feminine singular	1	destruction
+WIS 5:7	1	5	ἀπωλείας	ἀπώλεια	noun, genitive feminine singular	1	of destruction
 WIS 5:7	1	5	ἀπωλείας			2	loss
 WIS 5:7	1	6	καὶ	καί	conjunction	1	and
 WIS 5:7	1	7	ὡδεύσαμεν	ὁδεύω	aorist active indicative, first plural	1	we traveled
@@ -167,11 +167,11 @@ WIS 5:11	1	2	ὡς	ὡς	comparative adverb/conjunction	1	like
 WIS 5:11	1	3	ὀρνέου	ὄρνεον	noun, genitive neuter singular	1	bird
 WIS 5:11	1	4	διαπτάντος	διαπέτομαι	aorist active participle, genitive neuter singular	1	having flown through
 WIS 5:11	1	5	ἀέρα	ἀήρ	noun, accusative masculine singular	1	air
-WIS 5:11	1	6	οὗ	οὗ	relative adverb of place	1	when it
+WIS 5:11	1	6	οὗ	οὗ	relative adverb of place	1	of which
 WIS 5:11	1	7	οὐθὲν	οὐδείς	indefinite pronoun, accusative neuter singular; variant	1	nothing
 WIS 5:11	1	8	εὑρίσκεται	εὑρίσκω	present passive indicative, third singular	1	is found
 WIS 5:11	1	9	τεκμήριον	τεκμήριον	noun, nominative neuter singular	1	sign
-WIS 5:11	1	10	πορείας	πορεία	noun, genitive feminine singular; genitive of measure	1	journey
+WIS 5:11	1	10	πορείας	πορεία	noun, genitive feminine singular; genitive of measure	1	of journey
 WIS 5:11	1	11	πληγῇ	πληγή	noun, dative feminine singular	1	by the stroke
 WIS 5:11	1	12	δὲ	δέ	postpositive conjunction	1	and
 WIS 5:11	1	13	ταρσῶν	ταρσός	noun, genitive masculine plural	1	of wings
@@ -193,26 +193,26 @@ WIS 5:11	1	28	εὑρέθη	εὑρίσκω	aorist passive indicative, third sin
 WIS 5:11	1	29	σημεῖον	σημεῖον	noun, nominative neuter singular	1	sign
 WIS 5:11	1	30	ἐπιβάσεως	ἐπίβασις	noun, genitive feminine singular	1	of passage
 WIS 5:11	1	31	ἐν	ἐν	preposition with the dative	1	in
-WIS 5:11	1	32	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+WIS 5:11	1	32	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
 WIS 5:12	1	1	ἢ	ἤ	conjunction	1	or
 WIS 5:12	1	2	ὡς	ὡς	comparative adverb/conjunction	1	like
 WIS 5:12	1	3	βέλους	βέλος	noun, genitive neuter singular	1	arrow
 WIS 5:12	1	3	βέλους			2	projectile
 WIS 5:12	1	4	βληθέντος	βάλλω	aorist passive participle, genitive neuter singular	1	having been shot
-WIS 5:12	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	on
+WIS 5:12	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	at
 WIS 5:12	1	6	σκοπὸν	σκοπός	noun, accusative masculine singular	1	a target
 WIS 5:12	1	7	τμηθεὶς	τέμνω	aorist passive participle, nominative masculine singular	1	having been cut
 WIS 5:12	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
 WIS 5:12	1	9	ἀὴρ	ἀήρ	noun, nominative masculine singular	1	air
 WIS 5:12	1	10	εὐθέως	εὐθέως	adverb	1	immediately
 WIS 5:12	1	11	εἰς	εἰς	preposition with the accusative	1	into
-WIS 5:12	1	12	ἑαυτὸν	ἑαυτοῦ	reflexive pronoun, accusative masculine singular	1	himself
+WIS 5:12	1	12	ἑαυτὸν	ἑαυτοῦ	reflexive pronoun, accusative masculine singular	1	itself
 WIS 5:12	1	13	ἀνελύθη	ἀναλύω	aorist passive indicative, third singular	1	closed up
 WIS 5:12	1	14	ὡς	ὡς	comparative particle	1	as
 WIS 5:12	1	15	ἀγνοῆσαι	ἀγνοέω	aorist active infinitive	1	to be unaware
 WIS 5:12	1	16	τὴν	ὁ	article accusative feminine singular	1	the
 WIS 5:12	1	17	δίοδον	δίοδος	noun, accusative feminine singular	1	passage
-WIS 5:12	1	18	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
+WIS 5:12	1	18	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	its
 WIS 5:13	1	1	οὕτως	οὕτως	adverb	1	thus
 WIS 5:13	1	2	καὶ	καί	conjunction	1	and
 WIS 5:13	1	3	ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
@@ -223,7 +223,7 @@ WIS 5:13	1	7	ἀρετῆς	ἀρετή	noun, genitive feminine singular	1	of vi
 WIS 5:13	1	8	μὲν	μέν	particle	1	indeed
 WIS 5:13	1	9	σημεῖον	σημεῖον	noun, accusative neuter singular	1	a sign
 WIS 5:13	1	10	οὐδὲν	οὐδείς	pronoun/adjective, accusative neuter singular	1	nothing
-WIS 5:13	1	11	ἔσχομεν	ἔχω	aorist active indicative, first plural	1	we got
+WIS 5:13	1	11	ἔσχομεν	ἔχω	aorist active indicative, first plural	1	we had
 WIS 5:13	1	11	ἔσχομεν			2	we gained
 WIS 5:13	1	12	δεῖξαι	δείκνυμι	aorist active infinitive	1	to show
 WIS 5:13	1	13	ἐν	ἐν	preposition with the dative	1	in
@@ -240,11 +240,11 @@ WIS 5:14	1	5	φερόμενος	φέρω	present passive participle, nominative 
 WIS 5:14	1	5	φερόμενος			2	carried along
 WIS 5:14	1	6	χνοῦς	χνοῦς	noun nominative masculine singular	1	chaff
 WIS 5:14	1	7	ὑπὸ	ὑπό	preposition (genitive), marking agent	1	by
-WIS 5:14	1	8	ἀνέμου	ἄνεμος	noun genitive masculine singular	1	of the wind
+WIS 5:14	1	8	ἀνέμου	ἄνεμος	noun genitive masculine singular	1	the wind
 WIS 5:15	1	1	καὶ	καί	conjunction	1	and
 WIS 5:15	1	2	ὡς	ὡς	comparative particle	1	as
 WIS 5:15	1	3	πάχνη	πάχνη	noun, nominative feminine singular	1	frost
-WIS 5:15	1	4	ὑπὸ	ὑπό	preposition with the accusative	1	under
+WIS 5:15	1	4	ὑπὸ	ὑπό	preposition with the accusative	1	by
 WIS 5:15	1	5	λαίλαπος	λαῖλαψ	noun, genitive feminine singular	1	a storm
 WIS 5:15	1	6	διωχθεῖσα	διώκω	aorist passive participle, nominative feminine singular	1	driven away
 WIS 5:15	1	7	λεπτὴ	λεπτός	adjective, nominative feminine singular	1	thin
@@ -256,7 +256,7 @@ WIS 5:15	1	12	ἀνέμου	ἄνεμος	noun genitive masculine singular	1	win
 WIS 5:15	1	13	διεχύθη	διαχέω	aorist passive indicative, third singular	1	spread
 WIS 5:15	1	14	καὶ	καί	conjunction	1	and
 WIS 5:15	1	15	ὡς	ὡς	comparative particle	1	as
-WIS 5:15	1	16	μνεία	μνεία	noun, nominative feminine singular	1	mention
+WIS 5:15	1	16	μνεία	μνεία	noun, nominative feminine singular	1	memory
 WIS 5:15	1	16	μνεία			2	remembrance
 WIS 5:15	1	17	καταλύτου	καταλύτης	noun, genitive masculine singular	1	of a guest
 WIS 5:15	1	18	μονοημέρου	μονοήμερος	adjective, genitive masculine singular	1	staying one day
@@ -277,7 +277,7 @@ WIS 5:16	1	13	καὶ	καί	conjunction	1	and
 WIS 5:16	1	14	ἡ	ὁ	article, nominative feminine singular	1	the
 WIS 5:16	1	15	φροντὶς	φροντίς	noun, nominative feminine singular	1	care
 WIS 5:16	1	16	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-WIS 5:16	1	17	παρὰ	παρά	preposition with genitive	1	from
+WIS 5:16	1	17	παρὰ	παρά	preposition with genitive	1	with
 WIS 5:16	1	18	ὑψίστῳ	ὕψιστος	adjective, dative masculine singular; superlative	1	the Most High
 WIS 5:17	1	1	διὰ	διά	preposition with the accusative	1	because of
 WIS 5:17	1	2	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
@@ -290,7 +290,7 @@ WIS 5:17	1	8	καὶ	καί	conjunction	1	and
 WIS 5:17	1	9	τὸ	ὁ	article, nominative neuter singular	1	the
 WIS 5:17	1	10	διάδημα	διάδημα	noun, nominative neuter singular	1	diadem
 WIS 5:17	1	10	διάδημα			2	royal crown
-WIS 5:17	1	11	τοῦ	ὁ	article, genitive masculine singular	1	of the
+WIS 5:17	1	11	τοῦ	ὁ	article, genitive masculine singular	1	the
 WIS 5:17	1	12	κάλλους	κάλλος	noun genitive neuter singular	1	of beauty
 WIS 5:17	1	13	ἐκ	ἐκ	preposition with the genitive	1	from
 WIS 5:17	1	14	χειρὸς	χείρ	noun, genitive feminine singular	1	the hand
@@ -315,7 +315,7 @@ WIS 5:18	1	6	καὶ	καί	conjunction	1	and
 WIS 5:18	1	7	ὁπλοποιήσει	ὁπλοποιέω	future active indicative, third singular	1	will arm
 WIS 5:18	1	8	τὴν	ὁ	article, accusative feminine singular	1	the
 WIS 5:18	1	9	κτίσιν	κτίσις	noun, accusative feminine singular	1	creation
-WIS 5:18	1	10	εἰς	εἰς	preposition with the accusative	1	into
+WIS 5:18	1	10	εἰς	εἰς	preposition with the accusative	1	for
 WIS 5:18	1	11	ἄμυναν	ἄμυνα	noun, accusative feminine singular	1	repelling
 WIS 5:18	1	12	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	of enemies
 WIS 5:19	1	1	ἐνδύσεται	ἐνδύω	future middle indicative, third singular	1	shall put on
@@ -338,10 +338,10 @@ WIS 5:20	1	9	εἰς	εἰς	preposition with the accusative	1	into
 WIS 5:20	1	10	ῥομφαίαν	ῥομφαία	noun, accusative feminine singular	1	sword
 WIS 5:21	1	1	Συνεκπολεμήσει	συνεκπολεμέω	future active indicative, 3rd singular	1	will fight
 WIS 5:21	1	2	δὲ	δέ	postpositive conjunction	1	and
-WIS 5:21	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+WIS 5:21	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	with him
 WIS 5:21	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 WIS 5:21	1	5	κόσμος	κόσμος	noun, nominative masculine singular	1	world
-WIS 5:21	1	6	ἐπὶ	ἐπί	preposition (case from context)	1	on
+WIS 5:21	1	6	ἐπὶ	ἐπί	preposition (case from context)	1	against
 WIS 5:21	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
 WIS 5:21	1	8	παράφρονας	παράφρων	adjective, accusative masculine plural	1	senseless people
 WIS 5:22	1	1	πορεύσονται	πορεύομαι	future middle indicative, third plural	1	will go
@@ -353,30 +353,30 @@ WIS 5:22	1	6	ὡς	ὡς	comparative particle	1	as
 WIS 5:22	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
 WIS 5:22	1	8	εὐκύκλου	εὔκυκλος	adjective, genitive neuter singular	1	well-rounded
 WIS 5:22	1	9	τόξου	τόξον	noun genitive neuter singular	1	bow
-WIS 5:22	1	10	τῶν	ὁ	article, genitive neuter plural	1	that
-WIS 5:22	1	11	νεφῶν	νεφέλη	noun, genitive feminine plural	1	the clouds
-WIS 5:22	1	12	ἐπὶ	ἐπί	preposition (case from context)	1	on
+WIS 5:22	1	10	τῶν	ὁ	article, genitive neuter plural	1	of the
+WIS 5:22	1	11	νεφῶν	νεφέλη	noun, genitive feminine plural	1	clouds
+WIS 5:22	1	12	ἐπὶ	ἐπί	preposition (case from context)	1	at
 WIS 5:22	1	13	σκοπὸν	σκοπός	noun, accusative masculine singular	1	a target
 WIS 5:22	1	14	ἁλοῦνται	ἅλλομαι	future middle indicative, third plural	1	will leap
 WIS 5:23	1	1	καὶ	καί	conjunction	1	and
 WIS 5:23	1	2	ἐκ	ἐκ	preposition with the genitive	1	from
 WIS 5:23	1	3	πετροβόλου	πετροβόλος	adjective, genitive masculine singular	1	stone-hurling
-WIS 5:23	1	4	θυμοῦ	θυμός	noun, genitive masculine singular	1	with wrath
+WIS 5:23	1	4	θυμοῦ	θυμός	noun, genitive masculine singular	1	of wrath
 WIS 5:23	1	5	πλήρεις	πλήρης	adjective, accusative masculine plural, describing	1	full
 WIS 5:23	1	6	ῥιφήσονται	ῥίπτω	future passive indicative, third plural	1	will be thrown
 WIS 5:23	1	6	ῥιφήσονται			2	will be cast out
 WIS 5:23	1	7	χάλαζαι	χάλαζα	noun, nominative feminine plural	1	hailstones
 WIS 5:23	1	8	ἀγανακτήσει	ἀγανακτέω	future active indicative, third singular	1	will be indignant
 WIS 5:23	1	9	κατ᾽	κατά	elided preposition with genitive	1	against
-WIS 5:23	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+WIS 5:23	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 WIS 5:23	1	11	ὕδωρ	ὕδωρ	noun, nominative neuter singular	1	water
-WIS 5:23	1	12	θαλάσσης	θάλασσα	noun, genitive feminine singular	1	sea
+WIS 5:23	1	12	θαλάσσης	θάλασσα	noun, genitive feminine singular	1	of sea
 WIS 5:23	1	13	ποταμοὶ	ποταμός	noun, nominative masculine plural	1	rivers
 WIS 5:23	1	14	δὲ	δέ	postpositive conjunction	1	and
 WIS 5:23	1	15	συγκλύσουσιν	συγκλύζω	future active indicative, third plural	1	will wash over
 WIS 5:23	1	16	ἀποτόμως	ἀποτόμως	adverb	1	sharply
 WIS 5:24	1	1	ἀντιστήσεται	ἀνθίστημι	future middle indicative, 3rd singular	1	shall withstand
-WIS 5:24	1	2	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
+WIS 5:24	1	2	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 WIS 5:24	1	3	πνεῦμα	πνεῦμα	noun, accusative neuter singular	1	a blast
 WIS 5:24	1	4	δυνάμεως	δύναμις	noun, genitive feminine singular	1	of power
 WIS 5:24	1	5	καὶ	καί	conjunction	1	and
@@ -390,7 +390,7 @@ WIS 5:24	1	11	ἐρημώσει	ἐρημόω	future active indicative, third si
 WIS 5:24	1	11	ἐρημώσει			2	will dry up
 WIS 5:24	1	12	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 WIS 5:24	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
-WIS 5:24	1	14	γῆν	γῆ	noun, accusative feminine singular	1	land
+WIS 5:24	1	14	γῆν	γῆ	noun, accusative feminine singular	1	earth
 WIS 5:24	1	15	ἀνομία	ἀνομία	noun, nominative feminine singular	1	lawlessness
 WIS 5:24	1	16	καὶ	καί	conjunction	1	and
 WIS 5:24	1	17	ἡ	ὁ	article, nominative feminine singular	1	the
