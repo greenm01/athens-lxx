@@ -22,7 +22,7 @@ NEH 7:1	1	20	Λευῖται	Λευίτης	proper noun, nominative masculine pl
 NEH 7:2	1	1	Καὶ	καί	conjunction	1	and
 NEH 7:2	1	2	ἐνετειλάμην	ἐντέλλομαι	aorist middle indicative, 1st sg.	1	I charged
 NEH 7:2	1	3	τῷ	ὁ	article, dative masculine singular; before a name, marks the name	1	—
-NEH 7:2	1	4	Ἀνανίᾳ	Ἀνανίας	noun, dative masculine singular; proper	1	Hanani
+NEH 7:2	1	4	Ἀνανίᾳ	Ἀνανίας	noun, dative masculine singular; proper	1	Hananiah
 NEH 7:2	1	5	ἀδελφῷ	ἀδελφός	noun, dative masculine singular	1	brother
 NEH 7:2	1	6	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 NEH 7:2	1	7	καὶ	καί	conjunction	1	and
@@ -127,13 +127,13 @@ NEH 7:5	1	20	συνοδίας			2	registered groups
 NEH 7:5	1	21	καὶ	καί	conjunction	1	and
 NEH 7:5	1	22	εὗρον	εὑρίσκω	aorist active indicative, first singular	1	I found
 NEH 7:5	1	23	βιβλίον	βιβλίον	noun, accusative neuter singular	1	a book
-NEH 7:5	1	24	τῆς	ὁ	article, genitive feminine singular	1	the
+NEH 7:5	1	24	τῆς	ὁ	article, genitive feminine singular	1	of the
 NEH 7:5	1	25	συνοδίας	συνοδία	noun, genitive feminine singular	1	company
 NEH 7:5	1	25	συνοδίας			2	caravan
 NEH 7:5	1	26	οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
 NEH 7:5	1	27	ἀνέβησαν	ἀναβαίνω	aorist active indicative, third plural	1	went up
-NEH 7:5	1	28	ἐν	ἐν	preposition with the dative	1	in
-NEH 7:5	1	29	πρώτοις	πρῶτος	substantival adjective, dative masculine plural; with ἐν, adverbial	1	at first
+NEH 7:5	1	28	ἐν	ἐν	preposition with the dative	1	at
+NEH 7:5	1	29	πρώτοις	πρῶτος	substantival adjective, dative masculine plural; with ἐν, adverbial	1	first
 NEH 7:5	1	30	καὶ	καί	conjunction	1	and
 NEH 7:5	1	31	εὗρον	εὑρίσκω	aorist active indicative, first singular	1	I found
 NEH 7:5	1	32	γεγραμμένον	γράφω	perfect passive participle, accusative neuter singular	1	what was written
@@ -289,7 +289,7 @@ NEH 7:28	1	2	Βὴθ	Βήθ	personal or clan name, indeclinable; possessive in c
 NEH 7:28	1	3	τεσσαρακονταδύο	τεσσαρακονταδύο	cardinal numeral, indeclinable	1	forty-two
 NEH 7:29	1	1	Ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
 NEH 7:29	1	2	Καριαθιαρεὶμ	Καριαθιαρείμ	place name, indeclinable	1	of Kirjath Jearim
-NEH 7:29	1	3	Χαφερὰ	Χαφηρά	place name, indeclinable	1	Chephirah
+NEH 7:29	1	3	Χαφερὰ	Χαφηρά	place name, indeclinable	1	of Chephirah
 NEH 7:29	1	4	καὶ	καί	conjunction	1	and
 NEH 7:29	1	5	Βηρὼθ	Βηρώθ	indeclinable place name, nominative in context; possessive in context	1	of Beeroth
 NEH 7:29	1	6	ἑπτακόσιοι	ἑπτακόσιοι	cardinal numeral, nominative masculine plural	1	seven hundred
@@ -297,7 +297,7 @@ NEH 7:29	1	7	τεσσαρακοντατρεῖς	τεσσαρακοντατρε�
 NEH 7:30	1	1	Ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
 NEH 7:30	1	2	Ἀραμὰ	Ἀραμά	place name, indeclinable	1	of Ramah
 NEH 7:30	1	3	καὶ	καί	conjunction	1	and
-NEH 7:30	1	4	Γαβαὰ	Γαβαά	place name, indeclinable	1	Geba
+NEH 7:30	1	4	Γαβαὰ	Γαβαά	place name, indeclinable	1	of Geba
 NEH 7:30	1	5	ἑξακόσιοι	ἑξακόσιοι	cardinal numeral, nominative masculine plural	1	six hundred
 NEH 7:30	1	6	εἰκοσιεῖς	εἰκοσιείς	cardinal numeral, nominative masculine plural; compound cardinal numeral as printed	1	twenty-one
 NEH 7:31	1	1	Ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
@@ -374,7 +374,7 @@ NEH 7:43	1	6	Καδμιὴλ	Καδμιήλ	personal or clan name, indeclinable	
 NEH 7:43	1	7	τοῖς	ὁ	article, dative masculine plural	1	among the
 NEH 7:43	1	8	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 NEH 7:43	1	9	τοῦ	ὁ	article, genitive masculine singular	1	of
-NEH 7:43	1	10	Οὐδουία	Οὐδουία	personal or clan name, indeclinable	1	Oudouia
+NEH 7:43	1	10	Οὐδουία	Οὐδουία	personal or clan name, indeclinable	1	Hodevah
 NEH 7:43	1	11	ἑβδομηκοντατέσσαρες	ἑβδομηκοντατέσσαρες	cardinal numeral, nominative masculine plural; compound cardinal numeral	1	seventy-four
 NEH 7:44	1	1	Οἱ	ὁ	article, nominative masculine plural	1	the
 NEH 7:44	1	2	ᾄδοντες	ᾄδω	present active participle, nominative masculine plural; substantival	1	singers
@@ -408,25 +408,25 @@ NEH 7:46	1	6	Ἀσειφὰ	Ἀσειφά	personal or clan name, indeclinable; p
 NEH 7:46	1	7	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
 NEH 7:46	1	8	Ταββαὼθ	Ταββαώθ	personal or clan name, indeclinable; possessive in context	1	of Tabbaoth
 NEH 7:47	1	1	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:47	1	2	Κειρὰς	Κειράς	personal or clan name, indeclinable; possessive in context	1	of Keiras
+NEH 7:47	1	2	Κειρὰς	Κειράς	personal or clan name, indeclinable; possessive in context	1	of Keros
 NEH 7:47	1	3	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:47	1	4	Σιαιὰ	Σιαιά	personal or clan name, indeclinable; possessive in context	1	of Siaia
+NEH 7:47	1	4	Σιαιὰ	Σιαιά	personal or clan name, indeclinable; possessive in context	1	of Sia
 NEH 7:47	1	5	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 NEH 7:47	1	6	Φαδὼν	Φαδών	personal or clan name, indeclinable; possessive in context	1	of Padon
 NEH 7:48	1	1	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:48	1	2	Λαβανὰ	Λαβανά	personal or clan name, indeclinable; possessive in context	1	of Labana
+NEH 7:48	1	2	Λαβανὰ	Λαβανά	personal or clan name, indeclinable; possessive in context	1	of Lebana
 NEH 7:48	1	3	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:48	1	4	Ἀγγαβὰ	Ἀγγαβά	personal or clan name, indeclinable; possessive in context	1	of Angaba
+NEH 7:48	1	4	Ἀγγαβὰ	Ἀγγαβά	personal or clan name, indeclinable; possessive in context	1	of Hagaba
 NEH 7:48	1	5	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:48	1	6	Ἀκοὺδ	Ἀκούδ	personal or clan name, indeclinable; possessive in context	1	of Akoud
+NEH 7:48	1	6	Ἀκοὺδ	Ἀκούδ	personal or clan name, indeclinable; possessive in context	1	of Akkub
 NEH 7:48	1	7	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 NEH 7:48	1	8	Οὐτὰ	Οὐτά	personal or clan name, indeclinable; possessive in context	1	of Outa
 NEH 7:48	1	9	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 NEH 7:48	1	10	Κητὰρ	Κητάρ	personal or clan name, indeclinable; possessive in context	1	of Ketar
 NEH 7:48	1	11	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:48	1	12	Ἀγὰβ	Ἀγάβ	personal or clan name, indeclinable; possessive in context	1	of Agab
+NEH 7:48	1	12	Ἀγὰβ	Ἀγάβ	personal or clan name, indeclinable; possessive in context	1	of Hagab
 NEH 7:48	1	13	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:48	1	14	Σελμεὶ	Σελμεί	personal or clan name, indeclinable; possessive in context	1	of Selmei
+NEH 7:48	1	14	Σελμεὶ	Σελμεί	personal or clan name, indeclinable; possessive in context	1	of Shalmai
 NEH 7:49	1	1	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 NEH 7:49	1	2	Ἀνὰν	Ἀνάν	indeclinable personal name, nominative in context; possessive in context	1	of Hanan
 NEH 7:49	1	3	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
@@ -470,18 +470,18 @@ NEH 7:55	1	4	Σισαρὰθ	Σισαράθ	personal or clan name, indeclinable;
 NEH 7:55	1	5	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 NEH 7:55	1	6	Θημὰ	Θημά	personal or clan name, indeclinable; possessive in context	1	of Tamah
 NEH 7:56	1	1	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:56	1	2	Νισειὰ	Νισειά	personal or clan name, indeclinable; possessive in context	1	of Niseia
+NEH 7:56	1	2	Νισειὰ	Νισειά	personal or clan name, indeclinable; possessive in context	1	of Neziah
 NEH 7:56	1	3	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:56	1	4	Ἀτειφά	Ἀτειφά	personal or clan name, indeclinable; possessive in context	1	of Ateipha
+NEH 7:56	1	4	Ἀτειφά	Ἀτειφά	personal or clan name, indeclinable; possessive in context	1	of Hatipha
 NEH 7:57	1	1	Υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 NEH 7:57	1	2	δούλων	δοῦλος	noun, genitive masculine plural	1	of the servants
 NEH 7:57	1	3	Σαλωμὼν	Σαλωμών	personal name, indeclinable; possessive in context	1	of Solomon
 NEH 7:57	1	4	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:57	1	5	Σουτεὶ	Σουτεί	personal or clan name, indeclinable; possessive in context	1	of Soutei
+NEH 7:57	1	5	Σουτεὶ	Σουτεί	personal or clan name, indeclinable; possessive in context	1	of Sotai
 NEH 7:57	1	6	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:57	1	7	Σαφαρὰθ	Σαφαράθ	personal or clan name, indeclinable; possessive in context	1	of Sapharath
+NEH 7:57	1	7	Σαφαρὰθ	Σαφαράθ	personal or clan name, indeclinable; possessive in context	1	of Sophereth
 NEH 7:57	1	8	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:57	1	9	Φαρειδὰ	Φαρειδά	personal or clan name, indeclinable; possessive in context	1	of Phareida
+NEH 7:57	1	9	Φαρειδὰ	Φαρειδά	personal or clan name, indeclinable; possessive in context	1	of Perida
 NEH 7:58	1	1	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 NEH 7:58	1	2	Ἰεαὴλ	Ἰεαήλ	personal or clan name, indeclinable; possessive in context	1	of Ieael
 NEH 7:58	1	3	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
@@ -513,10 +513,10 @@ NEH 7:61	1	2	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine
 NEH 7:61	1	3	ἀνέβησαν	ἀναβαίνω	aorist active indicative, third plural	1	went up
 NEH 7:61	1	4	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NEH 7:61	1	5	Θελμελὲχ	Θελμελέχ	place name, indeclinable	1	Tel Melah
-NEH 7:61	1	6	Θελαρσὰ	Θελαρσά	personal or clan name, indeclinable	1	Thelarsa
+NEH 7:61	1	6	Θελαρσὰ	Θελαρσά	personal or clan name, indeclinable	1	Tel Harsha
 NEH 7:61	1	7	Χεροὺβ	Χερούβ	place name in this context, indeclinable	1	Cherub
 NEH 7:61	1	8	Ἠρὼν	Ἠρών	personal or clan name, indeclinable	1	Eron
-NEH 7:61	1	9	Ἰεμμὴρ	Ἰεμμήρ	personal or clan name, indeclinable	1	Iemmer
+NEH 7:61	1	9	Ἰεμμὴρ	Ἰεμμήρ	personal or clan name, indeclinable	1	Immer
 NEH 7:61	1	10	καὶ	καί	conjunction	1	and
 NEH 7:61	1	11	οὐκ	οὐ	negative particle	1	not
 NEH 7:61	1	12	ἐδυνάσθησαν	δύναμαι	aorist passive indicative, 3rd pl.	1	could
@@ -533,7 +533,7 @@ NEH 7:61	1	21	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NEH 7:61	1	22	Ἰσραὴλ	Ἰσραήλ	proper name, indeclinable	1	Israel
 NEH 7:61	1	23	εἰσίν	εἰμί	present indicative, third plural with οὐκ	1	are
 NEH 7:62	1	1	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:62	1	2	Δαλαία	Δαλαία	personal or clan name, indeclinable; possessive in context	1	of Dalaia
+NEH 7:62	1	2	Δαλαία	Δαλαία	personal or clan name, indeclinable; possessive in context	1	of Delaiah
 NEH 7:62	1	3	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 NEH 7:62	1	4	Βουὰ	Βουά	personal or clan name, indeclinable; possessive in context	1	of Boua
 NEH 7:62	1	5	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
@@ -547,12 +547,12 @@ NEH 7:63	1	2	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NEH 7:63	1	3	τῶν	ὁ	article, genitive masculine plural	1	the
 NEH 7:63	1	4	ἱερέων	ἱερεὺς	noun, genitive masculine plural after τῶν	1	priests
 NEH 7:63	1	5	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:63	1	6	Ἐβεία	Ἐβεία	personal or clan name, indeclinable; possessive in context	1	of Ebeia
+NEH 7:63	1	6	Ἐβεία	Ἐβεία	personal or clan name, indeclinable; possessive in context	1	of Habaiah
 NEH 7:63	1	7	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NEH 7:63	1	8	Ἀκκὼς	Ἀκκώς	indeclinable personal name; possessive in context	1	of Kos
+NEH 7:63	1	8	Ἀκκὼς	Ἀκκώς	indeclinable personal name; possessive in context	1	of Koz
 NEH 7:63	1	9	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 NEH 7:63	1	10	Βερζελλαὶ	Βερζελλαΐ	personal name, indeclinable; possessive in context	1	of Barzillai
-NEH 7:63	1	11	ὅτι	ὅς	relative pronoun; genitive masculine singular	1	who
+NEH 7:63	1	11	ὅτι	ὅς	relative pronoun; genitive masculine singular	1	because
 NEH 7:63	1	12	ἔλαβεν	λαμβάνω	aorist active indicative, third singular	1	he took
 NEH 7:63	1	13	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NEH 7:63	1	14	θυγατέρων	θυγάτηρ	noun, genitive feminine plural	1	daughters
@@ -607,7 +607,7 @@ NEH 7:66	1	2	ἐγένετο			2	served
 NEH 7:66	1	3	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
 NEH 7:66	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
 NEH 7:66	1	5	ἐκκλησία	ἐκκλησία	noun, nominative feminine singular	1	assembly
-NEH 7:66	1	6	εἰς	εἰς	preposition with the accusative	1	into
+NEH 7:66	1	6	εἰς	εἰς	preposition with the accusative	1	to
 NEH 7:66	1	7	τέσσαρας	τέσσαρες	cardinal numeral, accusative feminine plural	1	four
 NEH 7:66	1	8	μυριάδας	μυριάς	noun, accusative feminine plural	1	ten-thousands
 NEH 7:66	1	9	δισχιλίους	δισχίλιοι	cardinal numeral, accusative masculine plural	1	two thousand

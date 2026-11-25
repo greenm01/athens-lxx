@@ -1,11 +1,11 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
-ESG 7:1	1	1	ΕΙΣΗΛΘΕ	εἰσέρχομαι	aorist active indicative, third singular	1	he came in
+ESG 7:1	1	1	ΕΙΣΗΛΘΕ	εἰσέρχομαι	aorist active indicative, third singular	1	came in
 ESG 7:1	1	2	δὲ	δέ	conjunction	1	and
 ESG 7:1	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 ESG 7:1	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 ESG 7:1	1	5	καὶ	καί	conjunction	1	and
 ESG 7:1	1	6	Ἀμὰν	Ἀμάν	personal name, indeclinable	1	Haman
-ESG 7:1	1	7	συμπιεῖν	συμπίνω	aorist active infinitive	1	to drink with
+ESG 7:1	1	7	συμπιεῖν	συμπίνω	aorist active infinitive	1	to drink
 ESG 7:1	1	8	τῇ	ὁ	article, dative feminine singular	1	with the
 ESG 7:1	1	9	βασιλίσση	βασίλισσα	noun, dative feminine singular	1	queen
 ESG 7:2	1	1	Καὶ	καί	conjunction	1	and
@@ -13,7 +13,7 @@ ESG 7:2	1	2	εἶπεν	λέγω	aorist active indicative, third person singular
 ESG 7:2	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 ESG 7:2	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 ESG 7:2	1	5	Ἐσθὴρ	Ἐσθήρ	indeclinable personal name, dative in context	1	to Esther
-ESG 7:2	1	6	τῇ	ὁ	article, dative feminine singular	1	the
+ESG 7:2	1	6	τῇ	ὁ	article, dative feminine singular	1	on the
 ESG 7:2	1	7	δευτέρᾳ	δεύτερος	ordinal adjective, dative feminine singular	1	second
 ESG 7:2	1	8	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular after τῇ	1	day
 ESG 7:2	1	9	ἐν	ἐν	preposition with the dative	1	in
@@ -37,7 +37,7 @@ ESG 7:2	1	26	σου	σύ	pronoun, possessive genitive second singular	1	your
 ESG 7:2	1	27	καὶ	καί	conjunction	1	and
 ESG 7:2	1	28	ἔσται	εἰμί	future indicative, third singular	1	will be
 ESG 7:2	1	29	σοι	σύ	personal pronoun, dative singular	1	to you
-ESG 7:2	1	30	ἕως	ἕως	temporal conjunction/preposition	1	until
+ESG 7:2	1	30	ἕως	ἕως	temporal conjunction/preposition	1	as far as
 ESG 7:2	1	31	τοῦ	ὁ	article, genitive singular	1	the
 ESG 7:2	1	32	ἡμίσους	ἥμισυς	substantival adjective, genitive neuter singular governed by ἕως	1	half
 ESG 7:2	1	33	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -183,7 +183,7 @@ ESG 7:8	1	21	βασιλεύς	βασιλεύς	noun, nominative masculine singul
 ESG 7:8	1	22	ὥστε	ὥστε	conjunction with the infinitive	1	so then
 ESG 7:8	1	23	καὶ	καί	conjunction	1	even
 ESG 7:8	1	24	τὴν	ὁ	article, accusative feminine singular	1	the
-ESG 7:8	1	25	γυναῖκα	γυνή	noun, accusative feminine singular	1	queen
+ESG 7:8	1	25	γυναῖκα	γυνή	noun, accusative feminine singular	1	wife
 ESG 7:8	1	26	ἐκβιάζει	ἐκβιάζω	present active indicative, third singular	1	is he assaulting
 ESG 7:8	1	27	ἐν	ἐν	preposition with the dative	1	in
 ESG 7:8	1	28	τῇ	ὁ	article, dative feminine singular	1	the
@@ -207,14 +207,14 @@ ESG 7:9	1	7	πρὸς	πρός	preposition with the accusative	1	to
 ESG 7:9	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 ESG 7:9	1	9	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 ESG 7:9	1	10	ἰδοὺ	ἰδού	interjection	1	look
-ESG 7:9	1	11	καὶ	καί	conjunction	1	and
+ESG 7:9	1	11	καὶ	καί	conjunction	1	also
 ESG 7:9	1	12	τὸ	ὁ	article, accusative neuter singular	1	the
 ESG 7:9	1	13	ξύλον	ξύλον	noun, accusative neuter singular	1	stake
 ESG 7:9	1	14	ὃ	ὅς	relative pronoun, accusative neuter singular	1	which
-ESG 7:9	1	15	ἡτοίμασεν	ἑτοιμάζω	aorist active indicative, third singular	1	established
+ESG 7:9	1	15	ἡτοίμασεν	ἑτοιμάζω	aorist active indicative, third singular	1	prepared
 ESG 7:9	1	16	Ἀμὰν	Ἀμάν	personal name, indeclinable	1	Haman
 ESG 7:9	1	17	Μαρδοχαίῳ	Μαρδοχαῖος	noun, dative masculine singular; proper	1	for Mordecai
-ESG 7:9	1	18	τῷ	ὁ	article, dative masculine singular	1	who
+ESG 7:9	1	18	τῷ	ὁ	article, dative masculine singular	1	—
 ESG 7:9	1	19	λαλήσαντι	λαλέω	aorist active participle, dative masculine singular	1	who spoke
 ESG 7:9	1	20	περὶ	περί	preposition with the genitive	1	concerning
 ESG 7:9	1	21	τοῦ	ὁ	article, genitive singular	1	the
@@ -248,4 +248,4 @@ ESG 7:10	1	12	ἐκόπασεν	κοπάζω	aorist active indicative, third sin
 ESG 7:10	1	13	ὁ	ὁ	article, nominative masculine singular	1	the
 ESG 7:10	1	14	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 ESG 7:10	1	15	τοῦ	ὁ	article, genitive masculine singular	1	from the
-ESG 7:10	1	16	θυμοῦ	θυμός	noun, genitive masc. sg	1	wrath/anger
+ESG 7:10	1	16	θυμοῦ	θυμός	noun, genitive masc. sg	1	anger

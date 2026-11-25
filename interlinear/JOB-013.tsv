@@ -15,17 +15,17 @@ JOB 13:1	1	12	ἀκήκοε	ἀκούω	perfect active indicative, third singula
 JOB 13:2	1	1	καὶ	καί	conjunction	1	and
 JOB 13:2	1	2	οἶδα	οἶδα	perfect active indicative, first person singular	1	know
 JOB 13:2	1	3	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
-JOB 13:2	1	4	καὶ	καί	conjunction	1	and
+JOB 13:2	1	4	καὶ	καί	conjunction	1	also
 JOB 13:2	1	5	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
 JOB 13:2	1	6	ἐπίστασθε	ἐπίσταμαι	present middle indicative, second plural	1	you know
 JOB 13:2	1	7	καί	καί	conjunction	1	and
 JOB 13:2	1	8	γε	γε	emphatic particle	1	indeed
-JOB 13:2	1	9	νεώτερος	νέος	comparative adjective, nominative masculine singular	1	inferior
-JOB 13:2	1	10	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
+JOB 13:2	1	9	νεώτερος	νέος	comparative adjective, nominative masculine singular	1	younger
+JOB 13:2	1	10	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	than you
 JOB 13:2	1	11	οὐκ	οὐ	negative particle	1	not
 JOB 13:2	1	12	εἰμὶ	εἰμί	present indicative, first singular	1	am
-JOB 13:2	1	13	ἀσυνετώτερος	ἀσύνετος	adjective, nominative masculine singular	1	less discerning
-JOB 13:2	1	14	ὑμῶν	σύ	pronoun, genitive second plural	1	you
+JOB 13:2	1	13	ἀσυνετώτερος	ἀσύνετος	adjective, nominative masculine singular	1	more foolish
+JOB 13:2	1	14	ὑμῶν	σύ	pronoun, genitive second plural	1	than you
 JOB 13:3	1	1	Οὐ	οὐ	negative particle	1	not
 JOB 13:3	1	2	μὴν	μήν	particle	1	indeed
 JOB 13:3	1	3	δὲ	δέ	postpositive conjunction	1	and
@@ -123,13 +123,13 @@ JOB 13:11	1	7	φόβος	φόβος	noun, nominative masc. sg	1	fear
 JOB 13:11	1	8	δὲ	δέ	postpositive conjunction	1	and
 JOB 13:11	1	9	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 JOB 13:11	1	10	ἐπιπεσεῖται	ἐπιπίπτω	future middle indicative, third singular	1	will fall upon
-JOB 13:11	1	11	ὑμῖν	σύ	pronoun, dative second plural	1	to you
+JOB 13:11	1	11	ὑμῖν	σύ	pronoun, dative second plural	1	you
 JOB 13:12	1	1	Καὶ	καί	conjunction	1	and
 JOB 13:12	1	2	ἀποβήσεται	ἀποβαίνω	future middle indicative, third singular	1	will turn out
-JOB 13:12	1	3	ὑμῶν	σύ	pronoun, genitive second plural	1	you
+JOB 13:12	1	3	ὑμῶν	σύ	pronoun, genitive second plural	1	your
 JOB 13:12	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
 JOB 13:12	1	5	γαυρίαμα	γαυρίαμα	noun, nominative neuter singular	1	boasting
-JOB 13:12	1	6	ἴσα	ἴσος	adjective, accusative neuter plural	1	as in
+JOB 13:12	1	6	ἴσα	ἴσος	adjective, accusative neuter plural	1	like
 JOB 13:12	1	7	σποδῷ	σποδός	noun, dative feminine singular	1	ashes
 JOB 13:12	1	8	τὸ	ὁ	article, accusative neuter singular	1	the
 JOB 13:12	1	9	δὲ	δέ	postpositive conjunction	1	and
@@ -162,9 +162,9 @@ JOB 13:15	1	2	μή	μή	negative particle	1	not
 JOB 13:15	1	3	με	ἐγώ	personal pronoun accusative first singular	1	me
 JOB 13:15	1	4	χειρώσηται	χειρόομαι	aorist middle subjunctive, third singular	1	subdues
 JOB 13:15	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
-JOB 13:15	1	6	δυνάστης	δυνάστης	noun, nominative masculine singular	1	a powerful one
-JOB 13:15	1	7	ἐπεὶ	ἐπεί	temporal conjunction	1	when
-JOB 13:15	1	8	καὶ	καί	conjunction	1	and
+JOB 13:15	1	6	δυνάστης	δυνάστης	noun, nominative masculine singular	1	powerful one
+JOB 13:15	1	7	ἐπεὶ	ἐπεί	temporal conjunction	1	since
+JOB 13:15	1	8	καὶ	καί	conjunction	1	also
 JOB 13:15	1	9	ἦρκται	ἄρχω	perfect middle/passive indicative, third singular	1	he has begun
 JOB 13:15	1	10	οὐ	οὐ	negative particle	1	not
 JOB 13:15	1	11	μὴν	μήν	particle	1	indeed
@@ -217,7 +217,7 @@ JOB 13:19	1	2	γάρ	γάρ	conjunction	1	for
 JOB 13:19	1	3	ἐστιν	εἰμί	present indicative, third singular	1	is
 JOB 13:19	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 JOB 13:19	1	5	κριθησόμενός	κρίνω	future passive participle, nominative masculine singular	1	who will contend
-JOB 13:19	1	6	μοι	ἐγώ	personal pronoun, dative first singular	1	to me
+JOB 13:19	1	6	μοι	ἐγώ	personal pronoun, dative first singular	1	with me
 JOB 13:19	1	7	ἵνα	ἵνα	purpose conjunction	1	so that
 JOB 13:19	1	8	νῦν	νῦν	adverb of time	1	now
 JOB 13:19	1	9	κωφεύσω	κωφεύω	future active indicative, first singular	1	I will be silent
@@ -226,12 +226,12 @@ JOB 13:19	1	11	ἐκλείψω	ἐκλείπω	future active indicative, first s
 JOB 13:20	1	1	Δυεῖν	δύο	cardinal numeral, genitive dual	1	two things
 JOB 13:20	1	2	δέ	δέ	postpositive conjunction	1	and
 JOB 13:20	1	3	μή	μή	negative particle	1	not
-JOB 13:20	1	4	μοι	ἐγώ	pronoun, dative first singular	1	to me
+JOB 13:20	1	4	μοι	ἐγώ	pronoun, dative first singular	1	with me
 JOB 13:20	1	5	χρήσῃ	χράομαι	future middle indicative, second singular	1	you will deal
 JOB 13:20	1	6	τότε	τότε	adverb	1	then
 JOB 13:20	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOB 13:20	1	8	τοῦ	ὁ	article, genitive neuter singular	1	the
-JOB 13:20	1	9	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the face
+JOB 13:20	1	9	προσώπου	πρόσωπον	noun, genitive neuter singular	1	face
 JOB 13:20	1	10	σου	σύ	pronoun, genitive 2nd singular	1	your
 JOB 13:20	1	11	οὐ	οὐ	negative adverb with future indicative	1	not
 JOB 13:20	1	12	κρυβήσομαι	κρύπτω	future passive indicative, first singular	1	I will be hidden
@@ -294,11 +294,11 @@ JOB 13:25	1	8	ἢ	ἤ	conjunction	1	or
 JOB 13:25	1	9	ὡς	ὡς	comparative adverb/conjunction	1	like
 JOB 13:25	1	10	χόρτῳ	χόρτος	noun, dative masculine singular	1	grass
 JOB 13:25	1	11	φερομένῳ	φέρω	present passive participle, dative neuter singular	1	being carried along
-JOB 13:25	1	12	ὑπὸ	ὑπό	preposition with the accusative	1	under
+JOB 13:25	1	12	ὑπὸ	ὑπό	preposition with the accusative	1	by
 JOB 13:25	1	13	πνεύματος	πνεῦμα	noun, genitive neuter singular	1	wind
 JOB 13:25	1	14	ἀντίκεισαι	ἀντίκειμαι	present middle indicative, second singular	1	do you oppose
 JOB 13:25	1	15	δέ	δέ	postpositive conjunction	1	and
-JOB 13:25	1	16	μοι	ἐγώ	personal pronoun, dative singular	1	to me
+JOB 13:25	1	16	μοι	ἐγώ	personal pronoun, dative singular	1	me
 JOB 13:26	1	1	Ὅτι	ὅτι	causal conjunction	1	because
 JOB 13:26	1	2	κατέγραψας	καταγράφω	aorist active indicative, second singular	1	you wrote down
 JOB 13:26	1	3	κατ᾽	κατά	preposition with genitive	1	against
@@ -323,7 +323,7 @@ JOB 13:27	1	10	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 13:27	1	11	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 JOB 13:27	1	12	τὰ	ὁ	article, accusative neuter plural	1	the
 JOB 13:27	1	13	ἔργα	ἔργον	noun, accusative neuter plural	1	works
-JOB 13:27	1	14	εἰς	εἰς	preposition with accusative	1	for
+JOB 13:27	1	14	εἰς	εἰς	preposition with accusative	1	to
 JOB 13:27	1	15	δὲ	δέ	postpositive conjunction	1	now
 JOB 13:27	1	15	δὲ			2	but
 JOB 13:27	1	16	ῥίζας	ῥίζα	noun, accusative feminine plural	1	roots

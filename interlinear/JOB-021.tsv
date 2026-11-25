@@ -17,7 +17,7 @@ JOB 21:2	1	8	μὴ	μή	negative particle	1	not
 JOB 21:2	1	9	εἴη	εἰμί	present active optative, third singular	1	may it be
 JOB 21:2	1	10	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 JOB 21:2	1	11	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
-JOB 21:2	1	12	παρ᾽	παρά	preposition, elided with dative	1	with
+JOB 21:2	1	12	παρ᾽	παρά	preposition, elided with dative	1	from
 JOB 21:2	1	13	ὑμῶν	ὑμεῖς	pronoun, genitive second plural	1	you
 JOB 21:2	1	14	παράκλησις	παράκλησις	noun, nominative feminine singular	1	comfort
 JOB 21:3	1	1	Βαστάσατέ	βαστάζω	aorist active imperative, second plural	1	bear with
@@ -31,7 +31,7 @@ JOB 21:3	1	8	μου	ἐγώ	personal pronoun genitive first singular	1	me
 JOB 21:3	1	9	καταγελᾶτε	καταγελάω	present active imperative, second plural	1	mock
 JOB 21:4	1	1	Τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 JOB 21:4	1	2	γάρ	γάρ	conjunction	1	for
-JOB 21:4	1	3	μὴ	μή	negative particle	1	not
+JOB 21:4	1	3	μὴ	μή	negative particle	1	[marks a question]
 JOB 21:4	1	4	ἐξ	ἐκ	preposition with the genitive	1	from
 JOB 21:4	1	5	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a person
 JOB 21:4	1	6	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -49,13 +49,13 @@ JOB 21:5	1	9	χεῖρα	χείρ	noun, accusative feminine singular	1	hand
 JOB 21:5	1	10	θέντες	τίθημι	aorist active participle, nominative masculine plural	1	having put
 JOB 21:5	1	11	ἐπὶ	ἐπί	preposition (case from context)	1	on
 JOB 21:5	1	12	σιαγόνι	σιαγών	noun, dative feminine singular	1	a cheek
-JOB 21:6	1	1	Ἐάν	ἐάν	conditional conjunction	1	whether
+JOB 21:6	1	1	Ἐάν	ἐάν	conditional conjunction	1	when
 JOB 21:6	1	2	τε	τε	postpositive connective particle	1	and
 JOB 21:6	1	3	γὰρ	γάρ	postpositive conjunction	1	for
-JOB 21:6	1	4	μνησθῶ	μιμνῄσκομαι	aorist passive subjunctive first singular	1	will I remember
+JOB 21:6	1	4	μνησθῶ	μιμνῄσκομαι	aorist passive subjunctive first singular	1	I remember
 JOB 21:6	1	4	μνησθῶ			2	will I mention
 JOB 21:6	1	5	ἐσπούδακα	σπουδάζω	perfect active indicative, first singular	1	I am alarmed
-JOB 21:6	1	6	ἔχουσι	ἔχω	present active indicative, third plural	1	they have
+JOB 21:6	1	6	ἔχουσι	ἔχω	present active indicative, third plural	1	have
 JOB 21:6	1	7	δέ	δέ	postpositive conjunction	1	and
 JOB 21:6	1	8	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 21:6	1	9	τὰς	ὁ	article accusative feminine plural	1	the
@@ -75,7 +75,7 @@ JOB 21:8	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 JOB 21:8	1	2	σπόρος	σπόρος	noun, nominative masculine singular	1	seed
 JOB 21:8	1	2	σπόρος			2	sowing
 JOB 21:8	1	3	αὐτῶν	αὐτός	pronoun, possessive genitive masculine plural	1	their
-JOB 21:8	1	4	κατὰ	κατά	preposition with the accusative	1	in
+JOB 21:8	1	4	κατὰ	κατά	preposition with the accusative	1	according to
 JOB 21:8	1	5	ψυχὴν	ψυχή	noun accusative feminine singular	1	soul
 JOB 21:8	1	6	τὰ	ὁ	article, accusative neuter plural	1	the
 JOB 21:8	1	7	δὲ	δέ	conjunction	1	but
@@ -152,7 +152,7 @@ JOB 21:14	1	1	Λέγει	λέγω	present active indicative, third singular	1	sa
 JOB 21:14	1	2	δὲ	δέ	postpositive conjunction	1	now
 JOB 21:14	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 JOB 21:14	1	4	ἀσεβὴς	ἀσεβής	adjective, nominative masculine singular; used substantivally	1	ungodly person
-JOB 21:14	1	5	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+JOB 21:14	1	5	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 JOB 21:14	1	6	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 JOB 21:14	1	7	ἀπόστα	ἀφίστημι	aorist active imperative, second singular	1	stand back
 JOB 21:14	1	8	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
@@ -162,18 +162,18 @@ JOB 21:14	1	11	ὁδούς	ὁδός	noun, accusative feminine plural	1	ways
 JOB 21:14	1	12	σου	σύ	pronoun, possessive genitive second singular	1	your
 JOB 21:14	1	13	εἰδέναι	οἶδα	perfect active infinitive	1	to know
 JOB 21:14	1	14	οὐ	οὐ	negative particle	1	not
-JOB 21:14	1	15	βούλομαι	βούλομαι	present middle indicative, 1st singular	1	will
+JOB 21:14	1	15	βούλομαι	βούλομαι	present middle indicative, 1st singular	1	I want
 JOB 21:15	1	1	Τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 JOB 21:15	1	2	ἱκανὸς	ἱκανός	substantival adjective, nominative masculine singular	1	the Mighty One
-JOB 21:15	1	3	ὅτι	ὅτι	causal conjunction	1	because
+JOB 21:15	1	3	ὅτι	ὅτι	causal conjunction	1	that
 JOB 21:15	1	4	δουλεύσωμεν	δουλεύω	aorist active subjunctive, 1st pl	1	we may serve
-JOB 21:15	1	5	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+JOB 21:15	1	5	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 JOB 21:15	1	6	καὶ	καί	conjunction	1	and
-JOB 21:15	1	7	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
+JOB 21:15	1	7	τίς	τίς	interrogative pronoun, nominative masculine singular	1	what
 JOB 21:15	1	8	ὠφέλεια	ὠφέλεια	noun nominative feminine singular	1	benefit
-JOB 21:15	1	9	ὅτι	ὅτι	causal conjunction	1	because
+JOB 21:15	1	9	ὅτι	ὅτι	causal conjunction	1	that
 JOB 21:15	1	10	ἀπαντήσωμεν	ἀπαντάω	aorist active subjunctive, first plural	1	we should meet
-JOB 21:15	1	11	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+JOB 21:15	1	11	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 JOB 21:16	1	1	Ἐν	ἐν	preposition with the dative	1	in
 JOB 21:16	1	2	χερσὶ	χείρ	noun, dative feminine plural	1	hands
 JOB 21:16	1	3	γὰρ	γάρ	explanatory conjunction	1	for
@@ -197,7 +197,7 @@ JOB 21:17	1	7	λύχνος	λύχνος	noun, nominative masc. sg., lamp	1	lamp
 JOB 21:17	1	8	σβεσθήσεται	σβέννυμι	future passive indicative, third singular	1	shall be put out
 JOB 21:17	1	9	ἐπελεύσεται	ἐπέρχομαι	future middle indicative, third singular	1	shall come upon
 JOB 21:17	1	10	δὲ	δέ	postpositive conjunction	1	and
-JOB 21:17	1	11	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
+JOB 21:17	1	11	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 JOB 21:17	1	12	ἡ	ὁ	article nominative feminine singular	1	the
 JOB 21:17	1	13	καταστροφὴ	καταστροφή	noun, nominative feminine singular	1	ruin
 JOB 21:17	1	14	καὶ	καί	conjunction	1	and
@@ -220,7 +220,7 @@ JOB 21:18	1	10	ὃν	ὅς	relative pronoun, accusative masculine singular	1	whi
 JOB 21:18	1	11	ὑφείλατο	ὑφαιρέω	aorist middle indicative, third singular	1	swept away
 JOB 21:18	1	12	λαῖλαψ	λαῖλαψ	noun, nominative feminine singular	1	storm
 JOB 21:18	1	12	λαῖλαψ			2	tempest
-JOB 21:19	1	1	Ἐκλείποι	ἐκλείπω	aorist active optative, third singular	1	may he fail
+JOB 21:19	1	1	Ἐκλείποι	ἐκλείπω	aorist active optative, third singular	1	may fail
 JOB 21:19	1	2	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 JOB 21:19	1	3	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 JOB 21:19	1	4	τὰ	ὁ	definite article, nominative/accusative neuter plural	1	the
@@ -241,10 +241,10 @@ JOB 21:20	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 JOB 21:20	1	7	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, possessive, genitive masculine singular	1	his own
 JOB 21:20	1	8	σφαγὴν	σφαγή	noun, accusative feminine singular	1	slaughter
 JOB 21:20	1	9	καὶ	καί	conjunction	1	and
-JOB 21:20	1	10	ὑπὸ	ὑπό	preposition with the accusative	1	under
+JOB 21:20	1	10	ὑπὸ	ὑπό	preposition with the accusative	1	by
 JOB 21:20	1	11	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 JOB 21:20	1	12	μὴ	μή	negative particle	1	not
-JOB 21:20	1	13	διασωθείη	διασῴζω	aorist passive optative, third singular	1	may it be saved
+JOB 21:20	1	13	διασωθείη	διασῴζω	aorist passive optative, third singular	1	may he be saved
 JOB 21:21	1	1	Ὅτι	ὅτι	causal/that conjunction (from context)	1	for
 JOB 21:21	1	2	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 JOB 21:21	1	3	θέλημα	θέλημα	noun nominative neuter singular	1	desire
@@ -263,14 +263,14 @@ JOB 21:21	1	14	διῃρέθησαν	διαιρέω	aorist passive indicative, t
 JOB 21:22	1	1	Πότερον	πότερον	interrogative particle, introduces question	1	—
 JOB 21:22	1	2	οὐχὶ	οὐχί	interrogative negative particle	1	is it not
 JOB 21:22	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
-JOB 21:22	1	4	Κύριός	κύριος	noun, nominative masculine singular	1	master
+JOB 21:22	1	4	Κύριός	κύριος	noun, nominative masculine singular	1	Lord
 JOB 21:22	1	5	ἐστιν	εἰμί	present indicative, third singular	1	is
 JOB 21:22	1	6	ὁ	ὁ	article nominative masculine singular	1	the
 JOB 21:22	1	7	διδάσκων	διδάσκω	present active participle nominative masculine singular	1	teaching
 JOB 21:22	1	8	σύνεσιν	σύνεσις	noun, accusative feminine singular	1	understanding
 JOB 21:22	1	8	σύνεσιν			2	insight
 JOB 21:22	1	9	καὶ	καί	conjunction	1	and
-JOB 21:22	1	10	ἐπιστήμην	ἐπιστήμη	noun, accusative fem. sg	1	understanding
+JOB 21:22	1	10	ἐπιστήμην	ἐπιστήμη	noun, accusative fem. sg	1	knowledge
 JOB 21:22	1	11	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 JOB 21:22	1	12	δὲ	δέ	postpositive conjunction	1	and
 JOB 21:22	1	13	φόνους	φόνος	noun, accusative masculine plural	1	bloodshed
@@ -299,11 +299,11 @@ JOB 21:24	1	8	δὲ	δέ	postpositive conjunction	1	and
 JOB 21:24	1	9	μυελὸς	μυελός	noun, nominative masculine singular	1	marrow
 JOB 21:24	1	10	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 JOB 21:24	1	11	διαχεῖται	διαχέω	perfect middle/passive indicative, third singular	1	is poured out
-JOB 21:25	1	1	ὁ	ὁ	article, nominative masculine singular	1	the
+JOB 21:25	1	1	ὁ	ὁ	article, nominative masculine singular	1	another
 JOB 21:25	1	2	δέ	δέ	postpositive conjunction	1	and
 JOB 21:25	1	3	γε	γε	emphatic particle	1	indeed
 JOB 21:25	1	4	τελευτᾷ	τελευτάω	present active indicative, third singular	1	comes to his end
-JOB 21:25	1	5	ὑπὸ	ὑπό	preposition with the accusative	1	under
+JOB 21:25	1	5	ὑπὸ	ὑπό	preposition with the accusative	1	in
 JOB 21:25	1	6	πικρίας	πικρία	noun genitive feminine singular	1	bitterness
 JOB 21:25	1	7	ψυχῆς	ψυχή	noun, genitive feminine singular	1	of soul
 JOB 21:25	1	8	οὐ	οὐ	negative particle	1	not
@@ -330,7 +330,7 @@ JOB 21:27	1	3	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 JOB 21:27	1	4	ὅτι	ὅτι	causal conjunction	1	that
 JOB 21:27	1	5	τόλμῃ	τόλμα	noun, dative feminine singular	1	with boldness
 JOB 21:27	1	6	ἐπίκεισθέ	ἐπίκειμαι	present middle indicative, second plural	1	you press upon
-JOB 21:27	1	7	μοι	ἐγώ	personal pronoun, dative singular	1	to me
+JOB 21:27	1	7	μοι	ἐγώ	personal pronoun, dative singular	1	on me
 JOB 21:27	1	8	ὅτι	ὅτι	causal conjunction	1	because
 JOB 21:27	1	9	ἐρεῖτε	λέγω	future active indicative, second plural	1	you will say
 JOB 21:27	1	10	ποῦ	ποῦ	interrogative adverb of place	1	where
@@ -339,7 +339,7 @@ JOB 21:27	1	12	οἶκος	οἶκος	noun, nominative masculine singular	1	hou
 JOB 21:27	1	13	ἄρχοντος	ἄρχων	noun, genitive masculine singular	1	of a ruler
 JOB 21:28	1	1	Καὶ	καί	conjunction	1	and
 JOB 21:28	1	2	ποῦ	ποῦ	adverb	1	where
-JOB 21:28	1	3	ἐστι	εἰμί	present active indicative, third person singular	1	is he
+JOB 21:28	1	3	ἐστι	εἰμί	present active indicative, third person singular	1	is
 JOB 21:28	1	4	σκέπη	σκέπη	noun, nominative feminine singular	1	shelter
 JOB 21:28	1	5	τῶν	ὁ	article, genitive plural	1	the
 JOB 21:28	1	6	σκηνωμάτων	σκήνωμα	noun, genitive neuter plural	1	of tents
@@ -358,7 +358,7 @@ JOB 21:29	1	9	ἀπαλλοτριώσετε	ἀπαλλοτριόω	future activ
 JOB 21:30	1	1	Ὅτι	ὅτι	causal conjunction	1	because
 JOB 21:30	1	2	εἰς	εἰς	preposition with the accusative	1	into
 JOB 21:30	1	3	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
-JOB 21:30	1	4	ἀπωλείας	ἀπώλεια	noun, genitive feminine singular	1	destruction
+JOB 21:30	1	4	ἀπωλείας	ἀπώλεια	noun, genitive feminine singular	1	of destruction
 JOB 21:30	1	4	ἀπωλείας			2	loss
 JOB 21:30	1	5	κουφίζεται	κουφίζω	present passive indicative, third singular	1	is spared
 JOB 21:30	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -371,7 +371,7 @@ JOB 21:30	1	12	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine
 JOB 21:30	1	13	ἀπαχθήσονται	ἀπάγω	future passive indicative, third plural	1	will be led away
 JOB 21:31	1	1	Τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
 JOB 21:31	1	2	ἀπαγγελεῖ	ἀπαγγέλλω	future active indicative, third singular	1	will tell
-JOB 21:31	1	3	ἐπὶ	ἐπί	preposition with accusative	1	on
+JOB 21:31	1	3	ἐπὶ	ἐπί	preposition with accusative	1	to
 JOB 21:31	1	3	ἐπὶ			2	upon
 JOB 21:31	1	4	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
 JOB 21:31	1	5	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -383,9 +383,9 @@ JOB 21:31	1	10	ἃ	ὅς	relative pronoun, nominative neuter plural	1	which
 JOB 21:31	1	11	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 JOB 21:31	1	12	ἐποίησε	ποιέω	aorist active indicative, third singular	1	did
 JOB 21:31	1	13	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
-JOB 21:31	1	14	ἀνταποδώσει	ἀνταποδίδωμι	future active indicative, third singular	1	he will repay
+JOB 21:31	1	14	ἀνταποδώσει	ἀνταποδίδωμι	future active indicative, third singular	1	will repay
 JOB 21:31	1	14	ἀνταποδώσει			2	he will pay back
-JOB 21:31	1	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+JOB 21:31	1	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 JOB 21:32	1	1	Καὶ	καί	conjunction	1	and
 JOB 21:32	1	2	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 JOB 21:32	1	3	εἰς	εἰς	preposition with the accusative	1	into
@@ -402,12 +402,12 @@ JOB 21:33	1	4	χειμάρρου	χειμάρρους	noun, genitive masculine s
 JOB 21:33	1	5	καὶ	καί	conjunction	1	and
 JOB 21:33	1	6	ὀπίσω	ὀπίσω	preposition with genitive	1	behind
 JOB 21:33	1	7	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	him
-JOB 21:33	1	8	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
+JOB 21:33	1	8	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 JOB 21:33	1	9	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
-JOB 21:33	1	10	ἀπελεύσεται	ἀπέρχομαι	future middle indicative, third singular	1	he will depart
+JOB 21:33	1	10	ἀπελεύσεται	ἀπέρχομαι	future middle indicative, third singular	1	will depart
 JOB 21:33	1	11	καὶ	καί	conjunction	1	and
 JOB 21:33	1	12	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	1	ahead
-JOB 21:33	1	13	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
+JOB 21:33	1	13	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	him
 JOB 21:33	1	14	ἀναρίθμητοι	ἀναρίθμητος	adjective, nominative masculine plural	1	countless
 JOB 21:34	1	1	Πῶς	πῶς	interrogative adverb	1	how
 JOB 21:34	1	2	δὲ	δέ	postpositive conjunction	1	and

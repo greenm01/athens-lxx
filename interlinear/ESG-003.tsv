@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 ESG 3:1	1	1	ΜΕΤΑ	μετά	preposition with accusative	1	after
 ESG 3:1	1	2	τὰ	ὁ	article, accusative neuter plural	1	the
 ESG 3:1	1	3	ῥήματα	ῥῆμα	noun, accusative neuter plural after τὰ, here 'things/events'	1	things
-ESG 3:1	1	4	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these things
+ESG 3:1	1	4	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	1	these
 ESG 3:1	1	5	ἐδόξασεν	δοξάζω	aorist active indicative, third singular	1	honored
 ESG 3:1	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 ESG 3:1	1	7	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
@@ -32,9 +32,9 @@ ESG 3:2	1	10	γὰρ	γάρ	conjunction	1	for
 ESG 3:2	1	11	ἐπέταξεν	ἐπιτάσσω	aorist active indicative, third singular	1	ordered
 ESG 3:2	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
 ESG 3:2	1	13	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
-ESG 3:2	1	14	ποιῆσαι	ποιέω	aorist active infinitive	1	to make
-ESG 3:2	1	14	ποιῆσαι			2	to do
-ESG 3:2	1	15	ὁ	ὁ	article used pronominally, nominative masculine singular	1	he
+ESG 3:2	1	14	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
+ESG 3:2	1	14	ποιῆσαι			2	to make
+ESG 3:2	1	15	ὁ	ὁ	article used pronominally, nominative masculine singular	1	the
 ESG 3:2	1	16	δὲ	δέ	postpositive conjunction	1	and
 ESG 3:2	1	17	Μαρδοχαῖος	Μαρδοχαῖος	noun, nominative masculine singular; proper	1	Mordecai
 ESG 3:2	1	18	οὐ	οὐ	negative particle	1	not
@@ -83,14 +83,14 @@ ESG 3:4	1	22	γὰρ	γάρ	postpositive conjunction	1	for
 ESG 3:4	1	23	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 ESG 3:4	1	24	ὁ	ὁ	article, nominative masculine singular	1	the
 ESG 3:4	1	25	Μαρδοχαῖος	Μαρδοχαῖος	noun, nominative masculine singular; proper	1	Mordecai
-ESG 3:4	1	26	ὅτι	ὅτι	causal conjunction	1	because
+ESG 3:4	1	26	ὅτι	ὅτι	causal conjunction	1	that
 ESG 3:4	1	27	Ἰουδαῖός	Ἰουδαῖος	noun, nominative masculine singular; proper ethnic name	1	a Jew
 ESG 3:4	1	27	Ἰουδαῖός			2	a Judean
 ESG 3:4	1	28	ἐστι	εἰμί	present indicative, third singular	1	is
 ESG 3:5	1	1	Καὶ	καί	conjunction	1	and
 ESG 3:5	1	2	ἐπέγνω	ἐπιγιγνώσκω	aorist active indicative, third singular	1	recognized
 ESG 3:5	1	3	Ἀμὰν	Ἀμάν	personal name, indeclinable	1	Haman
-ESG 3:5	1	4	ὅτι	ὅτι	causal conjunction	1	because
+ESG 3:5	1	4	ὅτι	ὅτι	causal conjunction	1	that
 ESG 3:5	1	5	οὐ	οὐ	negative adverb with future indicative	1	not
 ESG 3:5	1	6	προσκυνεῖ	προσκυνέω	present active indicative, third singular	1	bows down
 ESG 3:5	1	6	προσκυνεῖ			2	worships
@@ -167,7 +167,7 @@ ESG 3:8	1	13	ἔθνεσιν			2	peoples
 ESG 3:8	1	14	ἐν	ἐν	preposition with the dative	1	in
 ESG 3:8	1	15	πάσῃ	πᾶς	adjective, dative feminine singular	1	all
 ESG 3:8	1	16	τῇ	ὁ	article, dative feminine singular	1	the
-ESG 3:8	1	17	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	reign
+ESG 3:8	1	17	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	kingdom
 ESG 3:8	1	17	βασιλείᾳ			2	kingship
 ESG 3:8	1	18	σου	σύ	pronoun, possessive genitive second singular	1	your
 ESG 3:8	1	19	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -197,7 +197,7 @@ ESG 3:8	1	40	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	th
 ESG 3:9	1	1	Εἰ	εἰ	conditional conjunction	1	if
 ESG 3:9	1	2	δοκεῖ	δοκέω	present active indicative, third singular	1	seems good
 ESG 3:9	1	3	οὖν	οὖν	inferential particle	1	then
-ESG 3:9	1	4	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+ESG 3:9	1	4	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 ESG 3:9	1	5	βα	βασιλεύς	noun, dative masculine singular; first part of a word split across positions	1	king
 ESG 3:9	1	6	σιλεῖ	βασιλεύς	noun, dative masculine singular; second part of the word begun at the preceding position, continues “king”	1	—
 ESG 3:9	1	7	δογματισάτω	δογματίζω	aorist active imperative, third singular	1	let him decree
@@ -226,10 +226,10 @@ ESG 3:10	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	hi
 ESG 3:10	1	8	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
 ESG 3:10	1	9	εἰς	εἰς	preposition with the accusative	1	into
 ESG 3:10	1	10	χεῖρας	χείρ	noun, accusative feminine plural	1	hands
-ESG 3:10	1	11	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+ESG 3:10	1	11	τῷ	ὁ	definite article, dative masculine/neuter singular	1	of
 ESG 3:10	1	12	Ἀμὰν	Ἀμάν	personal name, indeclinable	1	Haman
 ESG 3:10	1	13	σφραγίσαι	σφραγίζω	aorist active infinitive	1	to seal
-ESG 3:10	1	14	κατὰ	κατά	preposition with genitive	1	against
+ESG 3:10	1	14	κατὰ	κατά	preposition with genitive	1	on
 ESG 3:10	1	15	τῶν	ὁ	article, genitive plural	1	the
 ESG 3:10	1	16	γεγραμμένων	γράφω	perfect passive participle, genitive neuter plural; substantival	1	what had been written
 ESG 3:10	1	17	κατὰ	κατά	preposition governing genitive in expression of shutting the door	1	against
@@ -243,7 +243,7 @@ ESG 3:11	1	5	τῷ	ὁ	article, dative masculine singular; with a proper name	1	
 ESG 3:11	1	6	Ἀμάν	Ἀμάν	personal name, indeclinable	1	Haman
 ESG 3:11	1	7	τὸ	ὁ	article, neuter singular (case from context)	1	the
 ESG 3:11	1	8	μὲν	μέν	particle, first member of μέν...δέ contrast	1	indeed
-ESG 3:11	1	9	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular after τὸ, silver/money (from context)	1	the silver
+ESG 3:11	1	9	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular after τὸ, silver/money (from context)	1	silver
 ESG 3:11	1	10	ἔχε	ἔχω	present active imperative, second singular	1	keep
 ESG 3:11	1	11	τῷ	ὁ	article, dative masculine singular	1	the
 ESG 3:11	1	12	δὲ	δέ	postpositive conjunction	1	and
@@ -272,14 +272,14 @@ ESG 3:12	1	17	στρατηγοῖς	στρατηγός	noun, dative masculine pl
 ESG 3:12	1	18	καὶ	καί	conjunction	1	and
 ESG 3:12	1	19	τοῖς	ὁ	article, dative masculine plural	1	to the
 ESG 3:12	1	20	ἄρχουσι	ἄρχων	noun, dative masculine plural	1	leaders
-ESG 3:12	1	21	κατὰ	κατά	preposition with the accusative	1	according to
-ESG 3:12	1	22	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
+ESG 3:12	1	21	κατὰ	κατά	preposition with the accusative	1	in
+ESG 3:12	1	22	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	every
 ESG 3:12	1	23	χώραν	χώρα	noun, accusative feminine singular; place designation in apposition	1	country
 ESG 3:12	1	23	χώραν			2	region
 ESG 3:12	1	24	ἀπὸ	ἀπό	preposition with the genitive	1	from
 ESG 3:12	1	25	τῆς	ὁ	article, genitive feminine singular	1	the
 ESG 3:12	1	26	Ἰνδικῆς	Ἰνδική	noun, genitive feminine singular; proper territorial name	1	India
-ESG 3:12	1	27	ἕως	ἕως	temporal conjunction/preposition	1	until
+ESG 3:12	1	27	ἕως	ἕως	temporal conjunction/preposition	1	as far as
 ESG 3:12	1	28	τῆς	ὁ	article, genitive feminine singular	1	the
 ESG 3:12	1	29	Αἰθιοπίας	Αἰθιοπία	noun, genitive feminine singular; place name	1	of Ethiopia
 ESG 3:12	1	29	Αἰθιοπίας			2	of Cush
@@ -290,17 +290,17 @@ ESG 3:12	1	33	καὶ	καί	conjunction	1	and
 ESG 3:12	1	34	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 ESG 3:12	1	35	χώραις	χώρα	noun, dative feminine plural	1	lands
 ESG 3:12	1	35	χώραις			2	territories
-ESG 3:12	1	36	τοῖς	ὁ	article, dative neuter plural	1	the
+ESG 3:12	1	36	τοῖς	ὁ	article, dative neuter plural	1	to the
 ESG 3:12	1	37	τε	τε	particle	1	both
-ESG 3:12	1	38	ἄρχουσι	ἄρχων	noun/participle used substantivally, dative masculine plural	1	to rulers
-ESG 3:12	1	39	τῶν	ὁ	article, genitive plural	1	the
+ESG 3:12	1	38	ἄρχουσι	ἄρχων	noun/participle used substantivally, dative masculine plural	1	rulers
+ESG 3:12	1	39	τῶν	ὁ	article, genitive plural	1	of the
 ESG 3:12	1	40	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
 ESG 3:12	1	41	κατὰ	κατά	preposition with accusative	1	according to
 ESG 3:12	1	42	τὴν	ὁ	article accusative feminine singular	1	the
 ESG 3:12	1	43	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 ESG 3:12	1	44	λέξιν	λέξις	noun, accusative feminine singular	1	language
 ESG 3:12	1	45	δι	διά	preposition with genitive; through royal authority	1	through
-ESG 3:12	1	46	Ἀρταξέρξου	Ἀρταξέρξης	noun, genitive masculine singular; proper	1	of Artaxerxes
+ESG 3:12	1	46	Ἀρταξέρξου	Ἀρταξέρξης	noun, genitive masculine singular; proper	1	Artaxerxes
 ESG 3:12	1	47	τοῦ	ὁ	article, genitive singular	1	the
 ESG 3:12	1	48	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 ESG 3:13	1	1	Καὶ	καί	conjunction	1	and
@@ -609,7 +609,7 @@ ESG 3:14	1	12	ἔθνεσι	ἔθνος	noun dative neuter plural	1	nations
 ESG 3:14	1	13	πᾶσιν	πᾶς	adjective, dative neuter plural	1	all
 ESG 3:14	1	14	ἑτοίμους	ἕτοιμος	adjective, accusative masculine plural	1	ready
 ESG 3:14	1	15	εἶναι	εἰμί	present infinitive	1	to be
-ESG 3:14	1	16	εἰς	εἰς	preposition with the accusative	1	into
+ESG 3:14	1	16	εἰς	εἰς	preposition with the accusative	1	for
 ESG 3:14	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
 ESG 3:14	1	18	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
 ESG 3:14	1	19	ταύτην	οὗτος	demonstrative pronoun, accusative feminine singular	1	this
@@ -617,7 +617,7 @@ ESG 3:15	1	1	Ἐσπεύδετο	σπεύδω	imperfect middle/passive indicativ
 ESG 3:15	1	2	δὲ	δέ	postpositive conjunction	1	and
 ESG 3:15	1	3	τὸ	ὁ	article, accusative neuter singular	1	the
 ESG 3:15	1	4	πρᾶγμα	πρᾶγμα	noun, accusative neuter singular	1	thing
-ESG 3:15	1	5	καὶ	καί	conjunction	1	and
+ESG 3:15	1	5	καὶ	καί	conjunction	1	also
 ESG 3:15	1	6	ἐν	ἐν	preposition with the dative	1	in
 ESG 3:15	1	7	Σούσοις	Σοῦσα	noun, dative neuter plural; proper place name	1	Shushan
 ESG 3:15	1	8	ὁ	ὁ	article, nominative masculine singular	1	the

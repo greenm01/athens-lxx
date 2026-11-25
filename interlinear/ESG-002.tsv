@@ -9,7 +9,7 @@ ESG 2:1	1	6	ἐκόπασεν	κοπάζω	aorist active indicative, third singu
 ESG 2:1	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
 ESG 2:1	1	8	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 ESG 2:1	1	9	τοῦ	ὁ	article, genitive masculine singular	1	from the
-ESG 2:1	1	10	θυμοῦ	θυμός	noun, genitive masc. sg	1	wrath/anger
+ESG 2:1	1	10	θυμοῦ	θυμός	noun, genitive masc. sg	1	anger
 ESG 2:1	1	11	ἐμνήσθη	μιμνῄσκομαι	aorist passive indicative, third singular	1	he remembered
 ESG 2:1	1	12	γὰρ	γάρ	conjunction	1	for
 ESG 2:1	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -31,7 +31,7 @@ ESG 2:2	1	7	ζητηθήτω	ζητέω	aorist passive imperative, third singula
 ESG 2:2	1	8	τῷ	ὁ	article, dative masculine singular	1	for the
 ESG 2:2	1	9	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 ESG 2:2	1	10	κοράσια	κοράσιον	noun, accusative neuter plural	1	girls
-ESG 2:2	1	11	ἄφθορα	ἄφθορος	adjective, accusative neuter plural	1	unmarried
+ESG 2:2	1	11	ἄφθορα	ἄφθορος	adjective, accusative neuter plural	1	chaste
 ESG 2:2	1	11	ἄφθορα			2	untouched
 ESG 2:2	1	12	καλὰ	καλός	adjective, nominative neuter plural	1	good
 ESG 2:2	1	13	τῷ	ὁ	article, dative masculine/neuter singular	1	in
@@ -54,7 +54,7 @@ ESG 2:3	1	12	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 ESG 2:3	1	13	καὶ	καί	conjunction	1	and
 ESG 2:3	1	14	ἐπιλεξάτωσαν	ἐπιλέγω	aorist active imperative, third plural	1	let them select
 ESG 2:3	1	15	κοράσια	κοράσιον	noun, accusative neuter plural	1	girls
-ESG 2:3	1	16	παρθενικὰ	παρθενικός	substantival adjective, accusative neuter plural	1	young women
+ESG 2:3	1	16	παρθενικὰ	παρθενικός	substantival adjective, accusative neuter plural	1	virgin
 ESG 2:3	1	16	παρθενικὰ			2	maidens
 ESG 2:3	1	17	καλὰ	καλός	adjective, accusative neuter plural	1	beautiful
 ESG 2:3	1	18	τῷ	ὁ	article, dative masculine/neuter singular	1	in
@@ -102,7 +102,7 @@ ESG 2:4	1	15	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ
 ESG 2:4	1	16	τὸ	ὁ	article, accusative neuter singular	1	the
 ESG 2:4	1	17	πρᾶγμα	πρᾶγμα	noun, accusative neuter singular	1	thing
 ESG 2:4	1	18	καὶ	καί	conjunction	1	and
-ESG 2:4	1	19	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	made
+ESG 2:4	1	19	ἐποίησεν	ποιέω	aorist active indicative, third singular	1	did
 ESG 2:4	1	20	οὕτως	οὕτως	adverb	1	thus
 ESG 2:5	1	1	Καὶ	καί	conjunction	1	and
 ESG 2:5	1	2	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	a man
@@ -119,16 +119,16 @@ ESG 2:5	1	10	ὄνομα	ὄνομα	noun, nominative neuter singular	1	name
 ESG 2:5	1	11	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 ESG 2:5	1	12	Μαρδοχαῖος	Μαρδοχαῖος	noun, nominative masculine singular; proper	1	Mordecai
 ESG 2:5	1	13	ὁ	ὁ	noun, nominative masculine singular in apposition to Mordecai	1	son
-ESG 2:5	1	14	τοῦ	ὁ	article, genitive masculine singular; in descent formula	1	of
+ESG 2:5	1	14	τοῦ	ὁ	article, genitive masculine singular; in descent formula	1	—
 ESG 2:5	1	15	Ἰαίρου	Ἰάιρος	noun, genitive masculine singular; proper	1	of Jair
 ESG 2:5	1	16	ὁ	ὁ	noun, nominative masculine singular in apposition to Mordecai	1	son
-ESG 2:5	1	17	τοῦ	ὁ	article, genitive masculine singular; in descent formula	1	of
+ESG 2:5	1	17	τοῦ	ὁ	article, genitive masculine singular; in descent formula	1	—
 ESG 2:5	1	18	Σεμείου	Σεμεΐος	noun, genitive masculine singular; proper	1	of Shimei
-ESG 2:5	1	19	τοῦ	ὁ	article, genitive masculine singular; in descent formula	1	of
+ESG 2:5	1	19	τοῦ	ὁ	article, genitive masculine singular; in descent formula	1	son
 ESG 2:5	1	20	Κεισαίου	Κεισαῖος	noun, genitive masculine singular; proper	1	of Kish
 ESG 2:5	1	21	ἐκ	ἐκ	preposition with the genitive	1	from
-ESG 2:5	1	22	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
-ESG 2:5	1	22	φυλῆς			2	tribe
+ESG 2:5	1	22	φυλῆς	φυλή	noun, genitive feminine singular	1	tribe
+ESG 2:5	1	22	φυλῆς			2	clan
 ESG 2:5	1	23	Βενιαμεὶν	Βενιαμείν	indeclinable personal name, genitive in context	1	of Benjamin
 ESG 2:6	1	1	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
 ESG 2:6	1	2	ἦν	εἰμί	imperfect indicative, third singular	1	was
@@ -194,17 +194,17 @@ ESG 2:8	1	12	Σοῦσαν	Σοῦσα	noun, accusative feminine singular; prope
 ESG 2:8	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 ESG 2:8	1	14	πόλιν	πόλις	noun, accusative feminine singular	1	city
 ESG 2:8	1	15	ὑπὸ	ὑπό	preposition with the accusative, 'under the hand (authority) of'	1	under
-ESG 2:8	1	16	χεῖρα	χείρ	noun, accusative feminine singular	1	a hand
-ESG 2:8	1	17	Γαὶ	Γαί	indeclinable place name, case from syntax	1	Gai
+ESG 2:8	1	16	χεῖρα	χείρ	noun, accusative feminine singular	1	the hand
+ESG 2:8	1	17	Γαὶ	Γαί	indeclinable place name, case from syntax	1	of Hegai
 ESG 2:8	1	18	καὶ	καί	conjunction	1	and
 ESG 2:8	1	19	ἤχθη	ἄγω	aorist passive indicative, third singular	1	was led
 ESG 2:8	1	20	Ἐσθὴρ	Ἐσθήρ	personal name, indeclinable	1	Esther
 ESG 2:8	1	21	πρὸς	πρός	preposition with the accusative	1	to
-ESG 2:8	1	22	Γαὶ	Γαί	indeclinable place name, case from syntax	1	Gai
+ESG 2:8	1	22	Γαὶ	Γαί	indeclinable place name, case from syntax	1	Hegai
 ESG 2:8	1	23	τὸν	ὁ	definite article, accusative masculine singular	1	the
 ESG 2:8	1	24	φύλακα	φύλαξ	noun, accusative masculine singular	1	keeper
 ESG 2:8	1	25	τῶν	ὁ	article, genitive feminine plural	1	of the
-ESG 2:8	1	26	γυναικῶν	γυνή	noun, genitive feminine plural	1	wives
+ESG 2:8	1	26	γυναικῶν	γυνή	noun, genitive feminine plural	1	women
 ESG 2:9	1	1	καὶ	καί	conjunction	1	and
 ESG 2:9	1	2	ἤρεσεν	ἀρέσκω	aorist active indicative, third singular	1	pleased
 ESG 2:9	1	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -304,7 +304,7 @@ ESG 2:12	1	17	γὰρ	γάρ	conjunction	1	for
 ESG 2:12	1	18	ἀναπληροῦνται	ἀναπληρόω	present middle/passive indicative, third plural	1	are completed
 ESG 2:12	1	19	αἱ	ὁ	article, nominative feminine plural	1	the
 ESG 2:12	1	20	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days
-ESG 2:12	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
+ESG 2:12	1	21	τῆς	ὁ	article, genitive feminine singular	1	of the
 ESG 2:12	1	22	θεραπείας	θεραπεία	noun, genitive feminine singular	1	treatment
 ESG 2:12	1	23	μῆνας	μήν	noun, accusative masculine plural	1	months
 ESG 2:12	1	24	ἕξ	ἕξ	indeclinable cardinal numeral	1	six
@@ -324,7 +324,7 @@ ESG 2:12	1	37	τοῖς	ὁ	article, dative neuter plural	1	the
 ESG 2:12	1	38	σμήγμασι	σμῆγμα	noun, dative neuter plural	1	cleansing preparations
 ESG 2:12	1	38	σμήγμασι			2	cosmetics
 ESG 2:12	1	39	τῶν	ὁ	article, genitive feminine plural	1	of the
-ESG 2:12	1	40	γυναικῶν	γυνή	noun, genitive feminine plural	1	wives
+ESG 2:12	1	40	γυναικῶν	γυνή	noun, genitive feminine plural	1	women
 ESG 2:13	1	1	Καὶ	καί	conjunction	1	and
 ESG 2:13	1	2	τότε	τότε	temporal adverb	1	then
 ESG 2:13	1	3	εἰσπορεύεται	εἰσπορεύομαι	present middle indicative, third singular	1	she goes in
@@ -358,8 +358,8 @@ ESG 2:14	1	9	γυναικῶνα	γυναικών	noun, accusative masculine sin
 ESG 2:14	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 ESG 2:14	1	11	δεύτερον	δεύτερος	ordinal, accusative masculine singular with γυναικῶνα	1	second
 ESG 2:14	1	12	οὗ	οὗ	relative adverb of place	1	where
-ESG 2:14	1	13	τε	τέ	enclitic conjunction	1	and/both
-ESG 2:14	1	14	Γαὶ	Γαί	indeclinable place name, case from syntax	1	Gai
+ESG 2:14	1	13	τε	τέ	enclitic conjunction	1	and
+ESG 2:14	1	14	Γαὶ	Γαί	indeclinable place name, case from syntax	1	Hegai
 ESG 2:14	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
 ESG 2:14	1	16	εὐνοῦχος	εὐνοῦχος	noun, nominative masculine singular after ὁ, eunuch/court official	1	eunuch
 ESG 2:14	1	17	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -371,7 +371,7 @@ ESG 2:14	1	21	τῶν	ὁ	article, genitive feminine plural	1	of the
 ESG 2:14	1	22	γυναικῶν	γυνή	noun, genitive feminine plural	1	women
 ESG 2:14	1	23	καὶ	καί	conjunction	1	and
 ESG 2:14	1	24	οὐκ	οὐ	negative particle	1	not
-ESG 2:14	1	25	ἔτι	ἔτι	temporal adverb	1	still
+ESG 2:14	1	25	ἔτι	ἔτι	temporal adverb	1	longer
 ESG 2:14	1	26	εἰσπορεύεται	εἰσπορεύομαι	present middle indicative, third singular	1	she goes in
 ESG 2:14	1	27	πρὸς	πρός	preposition with the accusative	1	to
 ESG 2:14	1	28	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -409,7 +409,7 @@ ESG 2:15	1	25	ῥῆμα	ῥῆμα	noun, accusative neut. sg.	1	word
 ESG 2:15	1	26	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	which
 ESG 2:15	1	27	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
 ESG 2:15	1	28	ἔλεγε	λέγω	imperfect active indicative, third singular	1	would say
-ESG 2:15	1	29	Γογαῖος	Γογαῖος	noun, nominative masculine singular; proper	1	Gogaeus
+ESG 2:15	1	29	Γογαῖος	Γογαῖος	noun, nominative masculine singular; proper	1	Hegai
 ESG 2:15	1	30	ὁ	ὁ	article, nominative masculine singular	1	the
 ESG 2:15	1	31	εὐνοῦχος	εὐνοῦχος	noun, nominative masculine singular after ὁ, eunuch/court official	1	eunuch
 ESG 2:15	1	32	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -418,7 +418,7 @@ ESG 2:15	1	34	ὁ	ὁ	article, nominative masculine singular	1	the
 ESG 2:15	1	35	φύλαξ	φύλαξ	noun, nominative masculine singular	1	keeper
 ESG 2:15	1	35	φύλαξ			2	guardian
 ESG 2:15	1	36	τῶν	ὁ	article, genitive feminine plural	1	of the
-ESG 2:15	1	37	γυναικῶν	γυνή	noun, genitive feminine plural	1	wives
+ESG 2:15	1	37	γυναικῶν	γυνή	noun, genitive feminine plural	1	women
 ESG 2:15	1	38	ἦν	εἰμί	imperfect indicative, third singular	1	was
 ESG 2:15	1	39	γὰρ	γάρ	explanatory conjunction	1	for
 ESG 2:15	1	40	Ἐσθὴρ	Ἐσθήρ	personal name, indeclinable	1	Esther
@@ -479,7 +479,7 @@ ESG 2:18	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 ESG 2:18	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 ESG 2:18	1	5	πότον	πότος	noun, accusative masculine singular	1	feast
 ESG 2:18	1	5	πότον			2	drinking party
-ESG 2:18	1	6	πᾶσι	πᾶς	adjective, dative neuter plural	1	for
+ESG 2:18	1	6	πᾶσι	πᾶς	adjective, dative neuter plural	1	for all
 ESG 2:18	1	7	τοῖς	ὁ	article, dative masculine plural	1	the
 ESG 2:18	1	8	φίλοις	φίλος	noun, dative masculine plural	1	friends
 ESG 2:18	1	9	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -496,7 +496,7 @@ ESG 2:18	1	19	γάμους	γάμος	noun, accusative masculine plural	1	weddin
 ESG 2:18	1	20	Ἐσθὴρ	Ἐσθήρ	personal name, indeclinable	1	Esther
 ESG 2:18	1	21	καὶ	καί	conjunction	1	and
 ESG 2:18	1	22	ἄφεσιν	ἄφεσις	noun, accusative feminine singular	1	remission
-ESG 2:18	1	23	ἐποίησε	ποιέω	aorist active indicative, third singular	1	did
+ESG 2:18	1	23	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
 ESG 2:18	1	24	τοῖς	ὁ	article, dative masculine plural	1	to those
 ESG 2:18	1	25	ὑπὸ	ὑπό	preposition with the accusative	1	under
 ESG 2:18	1	26	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -534,7 +534,7 @@ ESG 2:20	1	21	προστάγματα			2	ordinances
 ESG 2:20	1	22	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 ESG 2:20	1	23	καθὼς	καθώς	comparative conjunction	1	just as
 ESG 2:20	1	24	ἦν	εἰμί	imperfect indicative, third singular	1	was
-ESG 2:20	1	25	μετ᾽	μετά	elided preposition with the genitive	1	under
+ESG 2:20	1	25	μετ᾽	μετά	elided preposition with the genitive	1	with
 ESG 2:20	1	26	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	him
 ESG 2:20	1	27	καὶ	καί	conjunction	1	and
 ESG 2:20	1	28	Ἐσθὴρ	Ἐσθήρ	personal name, indeclinable	1	Esther
@@ -566,7 +566,7 @@ ESG 2:21	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 ESG 2:21	1	19	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 ESG 2:22	1	1	Καὶ	καί	conjunction	1	and
 ESG 2:22	1	2	ἐδηλώθη	δηλόω	aorist passive indicative, third singular	1	was made known
-ESG 2:22	1	3	Μαρδοχαίῳ	Μαρδοχαῖος	noun, dative masculine singular; proper	1	Mordecai
+ESG 2:22	1	3	Μαρδοχαίῳ	Μαρδοχαῖος	noun, dative masculine singular; proper	1	to Mordecai
 ESG 2:22	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 ESG 2:22	1	5	λόγος	λόγος	noun, nominative masculine singular	1	word
 ESG 2:22	1	5	λόγος			2	message
@@ -582,8 +582,8 @@ ESG 2:22	1	14	ἐνεφάνισε	ἐμφανίζω	aorist active indicative, th
 ESG 2:22	1	15	τῷ	ὁ	article, dative masculine singular	1	to the
 ESG 2:22	1	16	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
 ESG 2:22	1	17	Ἀρταξέρξῃ	Ἀρταξέρξης	noun, dative masculine singular; proper	1	Artaxerxes
-ESG 2:22	1	18	τὰ	ὁ	article, accusative neuter plural	1	the
-ESG 2:22	1	19	τῆς	ὁ	article, genitive feminine singular	1	the
+ESG 2:22	1	18	τὰ	ὁ	article, accusative neuter plural	1	the matters
+ESG 2:22	1	19	τῆς	ὁ	article, genitive feminine singular	1	of the
 ESG 2:22	1	20	ἐπιβουλῆς	ἐπιβουλή	noun, genitive feminine singular	1	plot
 ESG 2:23	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 ESG 2:23	1	2	δὲ	δέ	postpositive conjunction	1	and

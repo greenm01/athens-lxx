@@ -36,18 +36,18 @@ JOB 7:2	1	17	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine s
 JOB 7:3	1	1	Οὕτως	οὕτως	adverb	1	thus
 JOB 7:3	1	2	καὶ	καί	conjunction	1	and
 JOB 7:3	1	3	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-JOB 7:3	1	4	ὑπέμεινα	ὑπομένω	aorist active indicative first singular	1	I endured
+JOB 7:3	1	4	ὑπέμεινα	ὑπομένω	aorist active indicative first singular	1	endured
 JOB 7:3	1	5	μῆνας	μήν	noun, accusative masculine plural	1	months
 JOB 7:3	1	6	κενοὺς	κενός	adjective, accusative masculine plural	1	empty
 JOB 7:3	1	7	νύκτες	νύξ	noun, nominative feminine plural	1	nights
 JOB 7:3	1	8	δὲ	δέ	postpositive conjunction	1	and
-JOB 7:3	1	9	ὀδυνῶν	ὀδύνη	noun genitive feminine plural	1	pains
+JOB 7:3	1	9	ὀδυνῶν	ὀδύνη	noun genitive feminine plural	1	of pains
 JOB 7:3	1	10	δεδομέναι	δίδωμι	perfect passive participle, nominative feminine plural	1	given
 JOB 7:3	1	11	μοί	ἐγώ	personal pronoun dative first singular	1	to me
 JOB 7:3	1	12	εἰσιν	εἰμί	present indicative, third plural	1	are
 JOB 7:4	1	1	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 JOB 7:4	1	2	κοιμηθῶ	κοιμάομαι	aorist passive subjunctive, first singular	1	I lie down
-JOB 7:4	1	3	λέγω	λέγω	present active indicative, first person singular	1	say
+JOB 7:4	1	3	λέγω	λέγω	present active indicative, first person singular	1	I say
 JOB 7:4	1	4	πότε	πότε	interrogative adverb	1	when
 JOB 7:4	1	5	ἡμέρα	ἡμέρα	noun, nominative feminine singular	1	day
 JOB 7:4	1	6	ὡς	ὡς	comparative particle	1	as
@@ -109,15 +109,15 @@ JOB 7:7	1	14	ἰδεῖν	ὁράω	aorist active infinitive of purpose	1	to see
 JOB 7:7	1	15	ἀγαθόν	ἀγαθός	substantival adjective, accusative neuter singular	1	good
 JOB 7:8	1	1	οὐκ	οὐ	negative particle	1	not
 JOB 7:8	1	2	ἀτενιεῖ	ἀτενίζω	future active indicative, third singular	1	will gaze
-JOB 7:8	1	3	μοι	ἐγώ	personal pronoun, dative singular	1	to me
+JOB 7:8	1	3	μοι	ἐγώ	personal pronoun, dative singular	1	at me
 JOB 7:8	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 JOB 7:8	1	5	ὀφθαλμὸς	ὀφθαλμός	noun, nominative masculine singular	1	eye
-JOB 7:8	1	6	ὁρῶντός	ὁράω	present active participle, genitive masculine singular	1	who sees
+JOB 7:8	1	6	ὁρῶντός	ὁράω	present active participle, genitive masculine singular	1	of one who sees
 JOB 7:8	1	7	με	ἐγώ	personal pronoun accusative first singular	1	me
 JOB 7:8	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
 JOB 7:8	1	9	ὀφθαλμοί	ὀφθαλμός	noun, nominative masculine plural	1	eyes
 JOB 7:8	1	10	σου	σύ	pronoun, possessive genitive second singular	1	your
-JOB 7:8	1	11	ἐν	ἐν	preposition with the dative	1	in
+JOB 7:8	1	11	ἐν	ἐν	preposition with the dative	1	on
 JOB 7:8	1	12	ἐμοὶ	ἐγώ	pronoun, dative first singular	1	me
 JOB 7:8	1	13	καὶ	καί	conjunction	1	and
 JOB 7:8	1	14	οὐκ	οὐ	negative particle	1	not
@@ -147,7 +147,7 @@ JOB 7:10	1	4	ἔτι			2	any more
 JOB 7:10	1	5	εἰς	εἰς	preposition with the accusative	1	into
 JOB 7:10	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
 JOB 7:10	1	7	ἴδιον	ἴδιος	adjective, accusative neuter singular	1	own
-JOB 7:10	1	8	οἶκον	οἶκος	noun, accusative masculine singular	1	the house
+JOB 7:10	1	8	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 JOB 7:10	1	8	οἶκον			2	household
 JOB 7:10	1	9	οὐδὲ	οὐδέ	negative conjunction	1	nor
 JOB 7:10	1	10	μὴ	μή	negative particle reinforcing the preceding negation, reinforces negation	1	—
@@ -161,7 +161,7 @@ JOB 7:11	1	1	Τοιγαροῦν	τοιγαροῦν	inferential particle	1	ther
 JOB 7:11	1	1	Τοιγαροῦν			2	so then
 JOB 7:11	1	2	οὐδὲ	οὐδέ	negative conjunction	1	nor
 JOB 7:11	1	3	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-JOB 7:11	1	4	φείσομαι	φείδομαι	future middle indicative, first singular	1	will I spare
+JOB 7:11	1	4	φείσομαι	φείδομαι	future middle indicative, first singular	1	will spare
 JOB 7:11	1	4	φείσομαι			2	shall I have regard
 JOB 7:11	1	5	τῷ	ὁ	article, dative masculine singular	1	the
 JOB 7:11	1	6	στόματί	στόμα	noun dative neuter singular	1	mouth
@@ -171,7 +171,7 @@ JOB 7:11	1	9	δὲ	δέ	postpositive conjunction	1	and
 JOB 7:11	1	10	ἐν	ἐν	preposition with dative	1	in
 JOB 7:11	1	11	ἀνάγκῃ	ἀνάγκη	noun, dative feminine singular	1	distress
 JOB 7:11	1	12	ὢν	εἰμί	present active participle, nominative masculine singular	1	being
-JOB 7:11	1	13	τοῦ	ὁ	article, genitive singular	1	the
+JOB 7:11	1	13	τοῦ	ὁ	article, genitive singular	1	—
 JOB 7:11	1	14	πνεύματός	πνεῦμα	noun, genitive neuter singular	1	of the spirit
 JOB 7:11	1	15	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 7:11	1	16	ἀνοίξω	ἀνοίγω	future active indicative, first person singular	1	will open
@@ -187,13 +187,13 @@ JOB 7:12	1	2	θάλασσά	θάλασσα	noun, nominative feminine singular	1	
 JOB 7:12	1	3	εἰμι	εἰμί	present indicative, first singular	1	am
 JOB 7:12	1	4	ἢ	ἤ	disjunctive conjunction	1	or
 JOB 7:12	1	5	δράκων	δράκων	noun, nominative masculine singular predicate, snake/dragon	1	a snake
-JOB 7:12	1	6	ἐπεὶ	ἐπεί	temporal conjunction	1	when
+JOB 7:12	1	6	ἐπεὶ	ἐπεί	temporal conjunction	1	since
 JOB 7:12	1	7	κατέταξας	κατατάσσω	aorist active indicative, second singular	1	you stationed
 JOB 7:12	1	8	κατ᾽	κατά	preposition with genitive	1	against
 JOB 7:12	1	9	ἐμοῦ	ἐγώ	personal pronoun, emphatic genitive first singular	1	me
 JOB 7:12	1	10	φυλακήν	φυλακή	noun, accusative feminine singular	1	a guard
 JOB 7:13	1	1	Ὅτι	ὅτι	causal conjunction	1	because
-JOB 7:13	1	2	εἶπον	λέγω	aorist active indicative, third plural	1	said
+JOB 7:13	1	2	εἶπον	λέγω	aorist active indicative, third plural	1	I said
 JOB 7:13	1	3	παρακαλέσει	παρακαλέω	future active indicative, third singular	1	will comfort
 JOB 7:13	1	4	με	ἐγώ	personal pronoun, accusative singular	1	me
 JOB 7:13	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -204,8 +204,8 @@ JOB 7:13	1	9	δὲ	δέ	postpositive conjunction	1	and
 JOB 7:13	1	10	πρὸς	πρός	preposition with the accusative	1	to
 JOB 7:13	1	11	ἐμαυτὸν	ἐμαυτοῦ	reflexive pronoun, accusative masc. sg	1	myself
 JOB 7:13	1	12	διάλογον	διάλογος	noun, accusative masculine singular	1	reasoning
-JOB 7:13	1	13	ἰδίᾳ	ἴδιος	adjective, dative feminine singular	1	its own
-JOB 7:13	1	14	τῇ	ὁ	article, dative feminine singular	1	the
+JOB 7:13	1	13	ἰδίᾳ	ἴδιος	adjective, dative feminine singular	1	privately
+JOB 7:13	1	14	τῇ	ὁ	article, dative feminine singular	1	on the
 JOB 7:13	1	15	κοίτῃ	κοίτη	noun, dative feminine singular	1	bed
 JOB 7:13	1	16	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 JOB 7:14	1	1	διατί	διατί	adverb	1	why
@@ -260,7 +260,7 @@ JOB 7:17	1	9	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 JOB 7:17	1	10	προσέχεις	προσέχω	present active indicative, second singular	1	you pay attention
 JOB 7:17	1	11	τὸν	ὁ	article, accusative masculine singular, marks the name	1	—
 JOB 7:17	1	12	νοῦν	νοῦς	noun, accusative masculine singular	1	mind
-JOB 7:17	1	13	εἰς	εἰς	preposition with the accusative	1	into
+JOB 7:17	1	13	εἰς	εἰς	preposition with the accusative	1	to
 JOB 7:17	1	14	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 JOB 7:18	1	1	Ἢ	ἤ	disjunctive conjunction	1	or
 JOB 7:18	1	2	ἐπισκοπὴν	ἐπισκοπή	noun, accusative feminine singular	1	visitation
@@ -272,7 +272,7 @@ JOB 7:18	1	7	εἰς	εἰς	preposition with the accusative	1	into
 JOB 7:18	1	8	ἀνάπαυσιν	ἀνάπαυσις	noun, accusative feminine singular	1	rest
 JOB 7:18	1	9	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 JOB 7:18	1	10	κρίνεις	κρίνω	present active indicative, second singular	1	you judge
-JOB 7:19	1	1	Ἕως	ἕως	preposition with the genitive	1	as far as
+JOB 7:19	1	1	Ἕως	ἕως	preposition with the genitive	1	until
 JOB 7:19	1	1	Ἕως			2	up to
 JOB 7:19	1	2	τίνος	τίς	interrogative pronoun, genitive singular	1	when
 JOB 7:19	1	3	οὐκ	οὐ	negative particle	1	not
@@ -300,7 +300,7 @@ JOB 7:20	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
 JOB 7:20	1	9	ἐπιστάμενος	ἐπίσταμαι	present middle participle, nominative masculine singular	1	knowing
 JOB 7:20	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 JOB 7:20	1	11	νοῦν	νοῦς	noun, accusative masculine singular	1	mind
-JOB 7:20	1	12	τῶν	ὁ	article, genitive plural	1	the
+JOB 7:20	1	12	τῶν	ὁ	article, genitive plural	1	of the
 JOB 7:20	1	13	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	human beings
 JOB 7:20	1	13	ἀνθρώπων			2	people
 JOB 7:20	1	14	διατί	διατί	adverb	1	why
@@ -310,7 +310,7 @@ JOB 7:20	1	17	κατεντευκτήν	κατεντευκτής	noun, accusative
 JOB 7:20	1	18	σου	σύ	pronoun, possessive genitive second singular	1	your
 JOB 7:20	1	19	εἰμὶ	εἰμί	present indicative, first singular	1	am
 JOB 7:20	1	20	δὲ	δέ	conjunction	1	but
-JOB 7:20	1	21	ἐπὶ	ἐπί	preposition with dative	1	in
+JOB 7:20	1	21	ἐπὶ	ἐπί	preposition with dative	1	on
 JOB 7:20	1	22	σοὶ	σύ	personal pronoun dative second singular	1	you
 JOB 7:20	1	23	φορτίον	φορτίον	noun, accusative neuter singular	1	a burden
 JOB 7:21	1	1	Καὶ	καί	conjunction	1	and
@@ -318,13 +318,13 @@ JOB 7:21	1	2	διατί	διατί	adverb	1	why
 JOB 7:21	1	3	οὐ	οὐ	negative particle	1	not
 JOB 7:21	1	4	λήθην	λήθη	noun, accusative feminine singular	1	forgetfulness
 JOB 7:21	1	5	ἐποιήσω	ποιέω	aorist middle indicative, second singular	1	you made
-JOB 7:21	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
+JOB 7:21	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
 JOB 7:21	1	7	ἁμαρτίας	ἁμαρτία	noun genitive feminine singular	1	sin
 JOB 7:21	1	8	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 JOB 7:21	1	8	μου			2	of me
 JOB 7:21	1	9	καὶ	καί	conjunction	1	and
 JOB 7:21	1	10	καθαρισμὸν	καθαρισμός	noun, accusative masculine singular	1	cleansing
-JOB 7:21	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
+JOB 7:21	1	11	τῆς	ὁ	article, genitive feminine singular	1	of the
 JOB 7:21	1	12	ἀνομίας	ἀνομία	noun genitive feminine singular	1	lawlessness
 JOB 7:21	1	13	μου	ἐγώ	personal pronoun genitive first singular	1	my
 JOB 7:21	1	14	νυνὶ	νυνί	adverb	1	now

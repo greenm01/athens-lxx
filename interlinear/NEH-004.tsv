@@ -72,7 +72,7 @@ NEH 4:3	1	8	καὶ	καί	conjunction	1	and
 NEH 4:3	1	9	εἶπε	λέγω	aorist active indicative, third singular	1	said
 NEH 4:3	1	10	πρὸς	πρός	preposition with the accusative	1	to
 NEH 4:3	1	11	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
-NEH 4:3	1	12	μὴ	μή	interrogative particle	1	do
+NEH 4:3	1	12	μὴ	μή	interrogative particle	1	[marks a question]
 NEH 4:3	1	13	θυσιάζουσιν	θυσιάζω	present active indicative, third plural	1	they sacrifice
 NEH 4:3	1	14	ἢ	ἤ	disjunctive conjunction	1	or
 NEH 4:3	1	15	φάγονται	ἐσθίω	future middle indicative, third plural	1	will eat
@@ -80,7 +80,7 @@ NEH 4:3	1	16	ἐπὶ	ἐπί	preposition (case from context)	1	on
 NEH 4:3	1	17	τοῦ	ὁ	article, genitive singular	1	the
 NEH 4:3	1	18	τόπου	τόπος	noun, genitive masc. sg. after τοῦ/ἐκ τοῦ	1	place
 NEH 4:3	1	19	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-NEH 4:3	1	20	οὐχὶ	οὐχί	negative interrogative particle	1	will not
+NEH 4:3	1	20	οὐχὶ	οὐχί	negative interrogative particle	1	not
 NEH 4:3	1	21	ἀναβήσεται	ἀναβαίνω	future middle indicative, third singular	1	will rise
 NEH 4:3	1	22	ἀλώπηξ	ἀλώπηξ	noun, nominative feminine singular	1	a fox
 NEH 4:3	1	23	καὶ	καί	conjunction	1	and
@@ -139,7 +139,7 @@ NEH 4:6	1	17	φυὴ			2	height
 NEH 4:6	1	18	τοῖς	ὁ	article, dative neuter plural	1	of the
 NEH 4:6	1	19	τείχεσιν	τεῖχος	noun, dative neuter plural	1	walls
 NEH 4:6	1	20	Ἱερουσαλὴμ	Ἱερουσαλήμ	place name, indeclinable; possessive in context	1	of Jerusalem
-NEH 4:6	1	21	ὅτι	ὅτι	causal conjunction	1	because
+NEH 4:6	1	21	ὅτι	ὅτι	causal conjunction	1	that
 NEH 4:6	1	22	ἤρξαντο	ἄρχω	aorist middle indicative, third plural	1	began
 NEH 4:6	1	23	αἱ	ὁ	article, nominative feminine plural	1	the
 NEH 4:6	1	24	διασφαγαὶ	διασφαγή	noun, nominative feminine plural	1	breaches
@@ -156,11 +156,11 @@ NEH 4:8	1	4	ἐπιτοαυτὸ	ἐπὶ τὸ αὐτό	preposition and articu
 NEH 4:8	1	5	ἐλθεῖν	ἔρχομαι	aorist active infinitive	1	to come
 NEH 4:8	1	6	καὶ	καί	conjunction	1	and
 NEH 4:8	1	7	παρατάξασθαι	παρατάσσω	aorist middle infinitive	1	to form battle ranks
-NEH 4:8	1	8	ἐν	ἐν	preposition with the dative	1	in
+NEH 4:8	1	8	ἐν	ἐν	preposition with the dative	1	against
 NEH 4:8	1	9	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, dative in context	1	Jerusalem
 NEH 4:8	1	10	καὶ	καί	conjunction	1	and
-NEH 4:8	1	11	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
-NEH 4:8	1	11	ποιῆσαι			2	to make
+NEH 4:8	1	11	ποιῆσαι	ποιέω	aorist active infinitive	1	to make
+NEH 4:8	1	11	ποιῆσαι			2	to do
 NEH 4:8	1	12	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 NEH 4:8	1	13	ἀφανῆ	ἀφανής	adjective, accusative feminine singular	1	invisible
 NEH 4:8	1	13	ἀφανῆ			2	unseen
@@ -193,7 +193,7 @@ NEH 4:10	1	8	ἐχθρῶν	ἐχθρός	substantival adjective, genitive mascu
 NEH 4:10	1	9	καὶ	καί	conjunction	1	and
 NEH 4:10	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
 NEH 4:10	1	11	χοῦς	χοῦς	noun, nominative masculine singular	1	dust
-NEH 4:10	1	12	πολὺς	πολύς	adjective, nominative masculine singular	1	numerous
+NEH 4:10	1	12	πολὺς	πολύς	adjective, nominative masculine singular	1	much
 NEH 4:10	1	13	καὶ	καί	conjunction	1	and
 NEH 4:10	1	14	ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
 NEH 4:10	1	15	οὐ	οὐ	negative particle	1	not
@@ -213,7 +213,7 @@ NEH 4:11	1	8	καὶ	καί	conjunction	1	and
 NEH 4:11	1	9	οὐκ	οὐ	negative particle	1	not
 NEH 4:11	1	10	ὄψονται	ὁράω	future middle indicative, third plural	1	will see
 NEH 4:11	1	11	ἕως	ἕως	preposition with genitive	1	until
-NEH 4:11	1	12	ὅτου	ὅστις	relative pronoun, genitive masculine singular	1	when
+NEH 4:11	1	12	ὅτου	ὅστις	relative pronoun, genitive masculine singular	1	—
 NEH 4:11	1	13	ἔλθωμεν	ἔρχομαι	aorist active subjunctive, first plural	1	we come
 NEH 4:11	1	14	εἰς	εἰς	preposition with the accusative	1	into
 NEH 4:11	1	15	μέσον	μέσος	substantival adjective, accusative neuter singular	1	the midst
@@ -245,14 +245,14 @@ NEH 4:12	1	15	ἐκ	ἐκ	preposition with the genitive	1	from
 NEH 4:12	1	16	πάντων	πᾶς	substantival adjective, genitive masculine plural	1	all
 NEH 4:12	1	17	τῶν	ὁ	article, genitive plural	1	the
 NEH 4:12	1	18	τόπων	τόπος	noun, genitive masculine plural	1	places
-NEH 4:12	1	19	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
+NEH 4:12	1	19	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	against
 NEH 4:12	1	20	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	1	us
 NEH 4:13	1	1	Καὶ	καί	conjunction	1	and
 NEH 4:13	1	2	ἔστησα	ἵστημι	aorist active indicative, first singular	1	I stationed
 NEH 4:13	1	3	εἰς	εἰς	preposition with accusative	1	in
 NEH 4:13	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
 NEH 4:13	1	5	κατώτατα	κατώτατος	substantival adjective accusative neuter plural	1	lowest parts
-NEH 4:13	1	6	τοῦ	ὁ	article, genitive singular	1	the
+NEH 4:13	1	6	τοῦ	ὁ	article, genitive singular	1	of the
 NEH 4:13	1	7	τόπου	τόπος	noun, genitive masc. sg	1	place
 NEH 4:13	1	8	κατόπισθεν	κατόπισθεν	preposition with genitive	1	behind
 NEH 4:13	1	8	κατόπισθεν			2	after
@@ -295,7 +295,7 @@ NEH 4:14	1	15	πρὸς			2	toward
 NEH 4:14	1	16	τοὺς	ὁ	article, accusative masculine plural	1	the
 NEH 4:14	1	17	καταλοίπους	κατάλοιπος	adjective, accusative masculine plural; substantival	1	survivors
 NEH 4:14	1	17	καταλοίπους			2	those left
-NEH 4:14	1	18	τοῦ	ὁ	article, genitive singular	1	the
+NEH 4:14	1	18	τοῦ	ὁ	article, genitive singular	1	of the
 NEH 4:14	1	19	λαοῦ	λαός	noun, genitive masculine singular	1	people
 NEH 4:14	1	20	μὴ	μή	negative particle	1	not
 NEH 4:14	1	21	φοβηθῆτε	φοβέομαι	present middle/passive imperative, second plural	1	be afraid
@@ -347,11 +347,11 @@ NEH 4:15	1	18	καὶ	καί	conjunction	1	and
 NEH 4:15	1	19	ἐπεστρέψαμεν	ἐπιστρέφω	aorist active indicative, first plural	1	we returned
 NEH 4:15	1	20	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 NEH 4:15	1	21	ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
-NEH 4:15	1	22	εἰς	εἰς	preposition with accusative	1	into
+NEH 4:15	1	22	εἰς	εἰς	preposition with accusative	1	to
 NEH 4:15	1	23	τὸ	ὁ	article, accusative neuter singular	1	the
 NEH 4:15	1	24	τεῖχος	τεῖχος	noun, accusative neuter singular	1	wall
 NEH 4:15	1	25	ἀνὴρ	ἀνήρ	noun, nominative masculine singular; distributive	1	each man
-NEH 4:15	1	26	εἰς	εἰς	preposition with the accusative	1	into
+NEH 4:15	1	26	εἰς	εἰς	preposition with the accusative	1	to
 NEH 4:15	1	27	τὸ	ὁ	article, accusative neuter singular	1	the
 NEH 4:15	1	28	ἔργον	ἔργον	noun, accusative neuter singular	1	work
 NEH 4:15	1	29	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -435,8 +435,8 @@ NEH 4:18	1	11	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculin
 NEH 4:18	1	12	καὶ	καί	conjunction	1	and
 NEH 4:18	1	13	ᾠκοδομοῦσαν	οἰκοδομέω	imperfect active indicative, third plural	1	were building
 NEH 4:18	1	14	καὶ	καί	conjunction	1	and
-NEH 4:18	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
-NEH 4:18	1	16	σαλπίζων	σαλπίζω	present active participle, nominative masculine singular	1	blowing trumpets
+NEH 4:18	1	15	ὁ	ὁ	article, nominative masculine singular	1	the one
+NEH 4:18	1	16	σαλπίζων	σαλπίζω	present active participle, nominative masculine singular	1	blowing
 NEH 4:18	1	17	ἐν	ἐν	preposition with the dative	1	in
 NEH 4:18	1	18	τῇ	ὁ	article, dative feminine singular	1	the
 NEH 4:18	1	19	κερατίνῃ	κερατίνη	noun, dative feminine singular	1	horn trumpet
@@ -460,7 +460,7 @@ NEH 4:19	1	11	πρὸς			2	toward
 NEH 4:19	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
 NEH 4:19	1	13	καταλοίπους	κατάλοιπος	adjective, accusative masculine plural; substantival	1	survivors
 NEH 4:19	1	13	καταλοίπους			2	those left
-NEH 4:19	1	14	τοῦ	ὁ	article, genitive singular	1	the
+NEH 4:19	1	14	τοῦ	ὁ	article, genitive singular	1	of the
 NEH 4:19	1	15	λαοῦ	λαός	noun, genitive masculine singular	1	people
 NEH 4:19	1	16	τὸ	ὁ	article, accusative neuter singular	1	the
 NEH 4:19	1	17	ἔργον	ἔργον	noun, accusative neut. sg. in nominative work-formulas varies by syntax	1	work
@@ -487,7 +487,7 @@ NEH 4:20	1	4	ἐὰν	ἐάν	conditional conjunction	1	if
 NEH 4:20	1	5	ἀκούσητε	ἀκούω	aorist active subjunctive, 2nd plural	1	hear
 NEH 4:20	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 NEH 4:20	1	7	φωνὴν	φωνή	noun, accusative feminine singular	1	sound
-NEH 4:20	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
+NEH 4:20	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
 NEH 4:20	1	9	κερατίνης	κεράτινος	substantival adjective, genitive feminine singular	1	horn trumpet
 NEH 4:20	1	10	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 NEH 4:20	1	11	συναχθήσεσθε	συνάγω	future passive indicative, second plural	1	you shall be gathered
@@ -513,11 +513,11 @@ NEH 4:21	1	10	τὰς	ὁ	article, accusative feminine plural	1	the
 NEH 4:21	1	11	λόγχας	λόγχη	noun, accusative feminine plural	1	spears
 NEH 4:21	1	12	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NEH 4:21	1	13	ἀναβάσεως	ἀνάβασις	noun, genitive feminine singular	1	the rising
-NEH 4:21	1	14	τοῦ	ὁ	article, genitive singular	1	the
+NEH 4:21	1	14	τοῦ	ὁ	article, genitive singular	1	of the
 NEH 4:21	1	15	ὄρθρου	ὄρθρος	noun, genitive masculine singular	1	dawn
-NEH 4:21	1	16	ἕως	ἕως	preposition with the genitive	1	as far as
+NEH 4:21	1	16	ἕως	ἕως	preposition with the genitive	1	until
 NEH 4:21	1	17	ἐξόδου	ἔξοδος	noun, genitive feminine singular	1	the coming out
-NEH 4:21	1	18	τῶν	ὁ	article, genitive plural	1	the
+NEH 4:21	1	18	τῶν	ὁ	article, genitive plural	1	of the
 NEH 4:21	1	19	ἄστρων	ἄστρον	noun, genitive neuter plural	1	stars
 NEH 4:22	1	1	Καὶ	καί	conjunction	1	and
 NEH 4:22	1	2	ἐν	ἐν	preposition with the dative	1	in
@@ -525,7 +525,7 @@ NEH 4:22	1	3	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 NEH 4:22	1	4	καιρῷ	καιρός	noun, dative masculine singular after τῷ	1	time
 NEH 4:22	1	5	ἐκείνῳ	ἐκεῖνος	demonstrative pronoun, dative masculine singular with καιρῷ	1	that
 NEH 4:22	1	6	εἶπα	λέγω	aorist active indicative, first singular	1	I said
-NEH 4:22	1	7	τῷ	ὁ	article, dative masculine singular	1	the
+NEH 4:22	1	7	τῷ	ὁ	article, dative masculine singular	1	to the
 NEH 4:22	1	8	λαῷ	λαός	noun, dative masculine singular	1	people
 NEH 4:22	1	9	ἕκαστος	ἕκαστος	adjective, nominative masculine singular	1	each
 NEH 4:22	1	10	μετὰ	μετά	preposition with genitive	1	with
@@ -535,13 +535,13 @@ NEH 4:22	1	13	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	h
 NEH 4:22	1	14	αὐλίσθητε	αὐλίζομαι	aorist passive imperative, second plural	1	stay overnight
 NEH 4:22	1	15	ἐν	ἐν	preposition with the dative	1	in
 NEH 4:22	1	16	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
-NEH 4:22	1	17	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
+NEH 4:22	1	17	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	of Jerusalem
 NEH 4:22	1	18	καὶ	καί	conjunction	1	and
 NEH 4:22	1	19	ἔστω	εἰμί	present imperative, third singular	1	let it be
 NEH 4:22	1	20	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 NEH 4:22	1	21	ἡ	ὁ	article nominative feminine singular	1	the
 NEH 4:22	1	22	νὺξ	νύξ	noun, nominative fem. sg. after ἡ	1	night
-NEH 4:22	1	23	προφυλακὴ	προφυλακή	noun, nominative fem. sg.	1	a watch-night
+NEH 4:22	1	23	προφυλακὴ	προφυλακή	noun, nominative fem. sg.	1	a watch
 NEH 4:22	1	24	καὶ	καί	conjunction	1	and
 NEH 4:22	1	25	ἡ	ὁ	article, nominative feminine singular	1	the
 NEH 4:22	1	26	ἡμέρα	ἡμέρα	noun, nominative feminine singular	1	day

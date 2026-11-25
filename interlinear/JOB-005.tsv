@@ -8,7 +8,7 @@ JOB 5:1	1	6	ἢ	ἤ	disjunctive conjunction	1	or
 JOB 5:1	1	7	εἴ	εἰ	conditional conjunction	1	if
 JOB 5:1	1	8	τινα	τις	indefinite pronoun, accusative masculine singular	1	a certain
 JOB 5:1	1	9	ἁγίων	ἅγιος	substantival adjective, genitive neuter plural	1	of holy
-JOB 5:1	1	10	ἀγγέλων	ἄγγελος	noun, genitive masculine plural	1	messengers
+JOB 5:1	1	10	ἀγγέλων	ἄγγελος	noun, genitive masculine plural	1	angels
 JOB 5:1	1	11	ὄψῃ	ὁράω	future middle indicative, second singular	1	you will see
 JOB 5:2	1	1	καὶ	καί	conjunction	1	and
 JOB 5:2	1	2	γὰρ	γάρ	conjunction	1	for
@@ -105,7 +105,7 @@ JOB 5:8	1	11	πάντων	πᾶς	adjective, genitive neuter plural	1	of all
 JOB 5:8	1	12	δεσπότην	δεσπότης	noun, accusative masculine singular	1	master
 JOB 5:8	1	13	ἐπικαλέσομαι	ἐπικαλέω	future middle indicative first singular	1	I will call upon
 JOB 5:9	1	1	τὸν	ὁ	article, accusative masculine singular	1	the
-JOB 5:9	1	2	ποιοῦντα	ποιέω	present active participle, accusative masculine singular	1	doing
+JOB 5:9	1	2	ποιοῦντα	ποιέω	present active participle, accusative masculine singular	1	one who does
 JOB 5:9	1	3	μεγάλα	μέγας	adjective, accusative neuter plural	1	great
 JOB 5:9	1	4	καὶ	καί	conjunction	1	and
 JOB 5:9	1	5	ἀνεξιχνίαστα	ἀνεξιχνίαστος	adjective, accusative neuter plural	1	unsearchable
@@ -117,7 +117,7 @@ JOB 5:9	1	10	ὧν	ὅς	relative pronoun, genitive feminine plural	1	of which
 JOB 5:9	1	11	οὐκ	οὐ	negative particle	1	not
 JOB 5:9	1	12	ἔστιν	εἰμί	present indicative, third singular	1	is
 JOB 5:9	1	13	ἀριθμός	ἀριθμός	noun, nominative masculine singular	1	number
-JOB 5:10	1	1	τὸν	ὁ	article, accusative masculine singular	1	the
+JOB 5:10	1	1	τὸν	ὁ	article, accusative masculine singular	1	the one
 JOB 5:10	1	2	διδόντα	δίδωμι	present active participle, accusative masculine singular	1	who gives
 JOB 5:10	1	3	ὑετὸν	ὑετός	noun, accusative masculine singular	1	rain
 JOB 5:10	1	4	ἐπὶ	ἐπί	preposition with accusative	1	on
@@ -133,8 +133,8 @@ JOB 5:10	1	12	τὴν	ὁ	article, accusative feminine singular	1	the
 JOB 5:10	1	13	ὑπ᾽	ὑπό	preposition with genitive	1	under
 JOB 5:10	1	14	οὐρανόν	οὐρανός	noun, accusative masculine singular	1	heaven
 JOB 5:10	1	14	οὐρανόν			2	the sky
-JOB 5:11	1	1	τὸν	ὁ	article, accusative masculine singular	1	the
-JOB 5:11	1	2	ποιοῦντα	ποιέω	present active participle, accusative masculine singular	1	doing
+JOB 5:11	1	1	τὸν	ὁ	article, accusative masculine singular	1	the one
+JOB 5:11	1	2	ποιοῦντα	ποιέω	present active participle, accusative masculine singular	1	making
 JOB 5:11	1	3	ταπεινοὺς	ταπεινός	adjective, accusative masculine plural; substantival	1	the lowly
 JOB 5:11	1	3	ταπεινοὺς			2	humble people
 JOB 5:11	1	4	εἰς	εἰς	preposition with the accusative	1	into
@@ -156,8 +156,8 @@ JOB 5:12	1	8	ποιήσουσιν	ποιέω	future active indicative, third plu
 JOB 5:12	1	9	αἱ	ὁ	article, nominative feminine plural	1	the
 JOB 5:12	1	10	χεῖρες	χείρ	noun, nominative feminine plural	1	hands
 JOB 5:12	1	11	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-JOB 5:12	1	12	ἀληθές	ἀληθής	adjective, nominative neuter singular predicate	1	anything effective
-JOB 5:13	1	1	ὁ	ὁ	article, nominative masculine singular	1	the
+JOB 5:12	1	12	ἀληθές	ἀληθής	adjective, nominative neuter singular predicate	1	anything true
+JOB 5:13	1	1	ὁ	ὁ	article, nominative masculine singular	1	the one
 JOB 5:13	1	2	καταλαμβάνων	καταλαμβάνω	present active imperative, nominative masculine singular	1	overtaking
 JOB 5:13	1	3	σοφοὺς	σοφός	adjective, accusative masc. pl	1	wise
 JOB 5:13	1	4	ἐν	ἐν	preposition with the dative	1	in
@@ -274,19 +274,19 @@ JOB 5:21	1	17	ὅτι	ὅτι	causal conjunction	1	because
 JOB 5:21	1	18	ἐλεύσεται	ἔρχομαι	future middle indicative, 3rd sg.	1	shall come
 JOB 5:21	1	19	ταλαιπωρία	ταλαιπωρία	noun, nominative feminine singular	1	devastation
 JOB 5:21	1	19	ταλαιπωρία			2	distress
-JOB 5:22	1	1	ἀδίκων	ἄδικος	adjective, genitive masculine plural	1	of the unjust
+JOB 5:22	1	1	ἀδίκων	ἄδικος	adjective, genitive masculine plural	1	at the unjust
 JOB 5:22	1	2	καὶ	καί	conjunction	1	and
 JOB 5:22	1	3	ἀνόμων	ἄνομος	adjective, genitive masculine plural; substantival	1	lawless people
 JOB 5:22	1	4	καταγελάσῃ	καταγελάω	future middle indicative, second singular	1	you will laugh
 JOB 5:22	1	5	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOB 5:22	1	6	δὲ	δέ	postpositive conjunction	1	and
-JOB 5:22	1	7	θηρίων	θηρίον	noun, genitive neuter plural	1	wild animals
+JOB 5:22	1	7	θηρίων	θηρίον	noun, genitive neuter plural	1	animals
 JOB 5:22	1	8	ἀγρίων	ἄγριος	adjective, genitive masculine plural	1	wild
-JOB 5:22	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
+JOB 5:22	1	9	τῆς	ὁ	article, genitive feminine singular	1	of the
 JOB 5:22	1	10	γῆς	γῆ	noun, genitive feminine singular	1	earth
 JOB 5:22	1	11	οὐ	οὐ	negative particle	1	not
 JOB 5:22	1	12	φοβηθήσῃ	φοβέομαι	future passive indicative, 2nd singular	1	shall fear
-JOB 5:23	1	1	θῆρες	θήρ	noun, nominative masculine plural	1	wild beasts
+JOB 5:23	1	1	θῆρες	θήρ	noun, nominative masculine plural	1	beasts
 JOB 5:23	1	2	γὰρ	γάρ	conjunction	1	for
 JOB 5:23	1	3	ἄγριοι	ἄγριος	adjective, nominative masculine plural	1	wild
 JOB 5:23	1	4	εἰρηνεύσουσί	εἰρηνεύω	future active indicative, third plural	1	will be at peace
@@ -295,7 +295,7 @@ JOB 5:23	1	6	ὅτι	ὅτι	causal conjunction	1	because
 JOB 5:23	1	7	μετὰ	μετά	preposition with genitive	1	with
 JOB 5:23	1	8	τῶν	ὁ	article, genitive neuter plural	1	the
 JOB 5:23	1	9	λίθων	λίθος	noun, genitive masculine plural	1	stones
-JOB 5:23	1	10	τοῦ	ὁ	article, genitive singular	1	the
+JOB 5:23	1	10	τοῦ	ὁ	article, genitive singular	1	of the
 JOB 5:23	1	11	ἀγροῦ	ἀγρός	noun, genitive masculine singular	1	field
 JOB 5:23	1	12	ἡ	ὁ	article, nominative feminine singular	1	the
 JOB 5:23	1	13	διαθήκη	διαθήκη	noun, nominative feminine singular	1	covenant
@@ -381,7 +381,7 @@ JOB 5:27	1	2	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter pl
 JOB 5:27	1	3	οὕτως	οὕτως	adverb	1	thus
 JOB 5:27	1	4	ἐξιχνιάσαμεν	ἐξιχνιάζω	aorist active indicative, first plural	1	we traced out
 JOB 5:27	1	5	ταῦτά	οὗτος	demonstrative pronoun, nominative neut. pl.	1	these things
-JOB 5:27	1	6	ἐστιν	εἰμί	present active indicative, third person singular	1	is
+JOB 5:27	1	6	ἐστιν	εἰμί	present active indicative, third person singular	1	are
 JOB 5:27	1	7	ἃ	ὅς	relative pronoun, accusative neuter plural	1	which
 JOB 5:27	1	8	ἀκηκόαμεν	ἀκούω	perfect active indicative, first plural	1	we have heard
 JOB 5:27	1	9	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you

@@ -14,7 +14,7 @@ JOB 16:2	1	6	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 JOB 16:2	1	7	ὑμεῖς	σύ	pronoun, nominative 2nd pl. emphatic subject	1	you
 JOB 16:3	1	1	Τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 JOB 16:3	1	2	γάρ	γάρ	conjunction	1	for
-JOB 16:3	1	3	μὴ	μή	negative particle	1	not
+JOB 16:3	1	3	μὴ	μή	negative particle	1	[marks a question]
 JOB 16:3	1	4	τάξις	τάξις	noun, nominative feminine singular	1	order
 JOB 16:3	1	5	ἐστὶ	εἰμί	present indicative, third singular	1	is
 JOB 16:3	1	6	ῥήμασι	ῥῆμα	noun, dative neuter plural	1	in words
@@ -22,7 +22,7 @@ JOB 16:3	1	7	πνεύματος	πνεῦμα	noun, genitive neuter singular	1	o
 JOB 16:3	1	8	ἢ	ἤ	disjunctive conjunction	1	or
 JOB 16:3	1	9	τί	τίς	interrogative pronoun accusative neuter singular, used adverbially	1	what
 JOB 16:3	1	10	παρενοχλήσει	παρενοχλέω	future active indicative, third singular	1	will trouble
-JOB 16:3	1	11	σοι	σύ	personal pronoun, dative singular	1	to you
+JOB 16:3	1	11	σοι	σύ	personal pronoun, dative singular	1	you
 JOB 16:3	1	12	ὅτι	ὅτι	conjunction introducing reported content	1	that
 JOB 16:3	1	13	ἀποκρίνῃ	ἀποκρίνομαι	present middle indicative, second singular	1	you answer
 JOB 16:4	1	1	Καὶ	καί	conjunction	1	and
@@ -43,12 +43,12 @@ JOB 16:4	1	14	ἐμῆς	ἐμός	adjective, genitive feminine singular; posses
 JOB 16:4	1	15	ψυχῆς	ψυχή	noun, genitive feminine singular	1	soul
 JOB 16:4	1	16	εἶτ᾽	εἶτα	adverb, elided	1	then
 JOB 16:4	1	17	ἐναλοῦμαι	ἐνάλλομαι	future middle indicative, first singular	1	I would leap at
-JOB 16:4	1	18	ὑμῖν	σύ	pronoun, dative second plural	1	to you
+JOB 16:4	1	18	ὑμῖν	σύ	pronoun, dative second plural	1	on you
 JOB 16:4	1	19	λόγοις	λόγος	noun, dative masculine plural	1	in words
 JOB 16:4	1	20	κινήσω	κινέω	future active indicative, first singular	1	I would shake
 JOB 16:4	1	21	δὲ	δέ	postpositive conjunction	1	and
 JOB 16:4	1	22	καθ᾽	κατά	preposition governing the genitive	1	against
-JOB 16:4	1	23	ὑμῶν	ἑαυτοῦ	reflexive pronoun, genitive plural	1	yourselves
+JOB 16:4	1	23	ὑμῶν	ἑαυτοῦ	reflexive pronoun, genitive plural	1	you
 JOB 16:4	1	24	κεφαλήν	κεφαλή	noun, accusative feminine singular	1	head
 JOB 16:5	1	1	εἴη	εἰμί	present active optative, third singular	1	may it be
 JOB 16:5	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -88,7 +88,7 @@ JOB 16:7	1	7	σεσηπότα	σήπω	perfect passive participle, accusative ma
 JOB 16:7	1	8	καὶ	καί	conjunction	1	and
 JOB 16:7	1	9	ἐπελάβου	ἐπιλαμβάνομαι	aorist middle indicative, second singular	1	you seized
 JOB 16:7	1	10	μου	ἐγώ	pronoun, possessive genitive first singular	1	me
-JOB 16:8	1	1	εἰς	εἰς	preposition with the accusative	1	into
+JOB 16:8	1	1	εἰς	εἰς	preposition with the accusative	1	for
 JOB 16:8	1	2	μαρτύριον	μαρτύριον	noun, accusative neuter singular	1	testimony
 JOB 16:8	1	3	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	became
 JOB 16:8	1	4	καὶ	καί	conjunction	1	and
@@ -117,12 +117,12 @@ JOB 16:10	1	8	βέλη	βέλος	noun accusative neuter plural	1	arrows
 JOB 16:10	1	9	πειρατηρίων	πειρατήριον	noun, genitive neuter plural	1	of trials
 JOB 16:10	1	10	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 JOB 16:10	1	11	ἐπ᾽	ἐπί	preposition with dative	1	on
-JOB 16:10	1	12	ἐμοὶ	ἐγώ	personal pronoun, emphatic dative singular	1	to me
+JOB 16:10	1	12	ἐμοὶ	ἐγώ	personal pronoun, emphatic dative singular	1	me
 JOB 16:10	1	13	ἔπεσεν	πίπτω	aorist active indicative, third singular	1	fell
 JOB 16:10	1	14	Ἀκίσιν	ἀκίς	noun, dative feminine plural	1	points
 JOB 16:10	1	15	ὀφθαλμῶν	ὀφθαλμός	noun, genitive masculine plural	1	of eyes
 JOB 16:10	1	16	ἐνήλατό	ἐνάλλομαι	aorist middle indicative, third singular	1	leapt upon
-JOB 16:10	1	17	μοι	ἐγώ	personal pronoun, dative singular	1	to me
+JOB 16:10	1	17	μοι	ἐγώ	personal pronoun, dative singular	1	me
 JOB 16:10	1	18	ὀξεῖ	ὀξύς	substantival adjective, dative neuter singular	1	with a sharp point
 JOB 16:10	1	19	ἔπαισέ	παίω	aorist active indicative, third singular	1	struck
 JOB 16:10	1	20	με	ἐγώ	personal pronoun, accusative singular	1	me
@@ -151,10 +151,10 @@ JOB 16:12	1	1	εἰρηνεύοντα	εἰρηνεύω	present active participl
 JOB 16:12	1	2	διεσκέδασέ	διασκεδάννυμι	aorist active indicative, third singular	1	scattered
 JOB 16:12	1	3	με	ἐγώ	personal pronoun, accusative singular	1	me
 JOB 16:12	1	4	λαβών	λαμβάνω	aorist active participle, nominative masculine singular	1	having taken
-JOB 16:12	1	5	με	ἐγώ	pronoun, accusative first singular	1	I
-JOB 16:12	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
+JOB 16:12	1	5	με	ἐγώ	pronoun, accusative first singular	1	me
+JOB 16:12	1	6	τῆς	ὁ	article, genitive feminine singular	1	by the
 JOB 16:12	1	7	κόμης	κόμη	noun, genitive feminine singular	1	hair
-JOB 16:12	1	8	διέτιλε	διατίλλω	aorist active indicative, third singular	1	tore apart
+JOB 16:12	1	8	διέτιλε	διατίλλω	aorist active indicative, third singular	1	plucked out
 JOB 16:13	1	1	Κατέστησέ	καθίστημι	aorist active indicative, third singular	1	set
 JOB 16:13	1	2	με	ἐγώ	personal pronoun, accusative singular	1	me
 JOB 16:13	1	3	ὥσπερ	ὥσπερ	comparative conjunction	1	just as
@@ -223,7 +223,7 @@ JOB 16:17	1	11	καθαρά	καθαρός	adjective, accusative neuter plural	1
 JOB 16:18	1	1	Γῆ	γῆ	noun, nominative feminine singular	1	earth
 JOB 16:18	1	2	μὴ	μή	negative particle	1	not
 JOB 16:18	1	3	ἐπικαλύψῃς	ἐπικαλύπτω	aorist active subjunctive, second singular	1	you cover over
-JOB 16:18	1	4	ἐφ᾽	ἐπί	preposition with dative	1	against
+JOB 16:18	1	4	ἐφ᾽	ἐπί	preposition with dative	1	over
 JOB 16:18	1	5	αἵματι	αἷμα	noun, dative neuter singular	1	blood
 JOB 16:18	1	6	σαρκός	σάρξ	noun, genitive feminine singular	1	of flesh
 JOB 16:18	1	7	μου	ἐγώ	personal pronoun, genitive first singular	1	my

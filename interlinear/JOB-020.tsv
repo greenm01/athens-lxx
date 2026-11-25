@@ -18,7 +18,7 @@ JOB 20:2	1	10	καὶ	καί	conjunction	1	and
 JOB 20:2	1	11	οὐχὶ	οὐχί	negative particle, emphatic form	1	not
 JOB 20:2	1	12	συνίετε	συνίημι	present active indicative, second plural	1	you understand
 JOB 20:2	1	13	μᾶλλον	μᾶλλον	adverb; comparative	1	more
-JOB 20:2	1	14	ἢ	ἤ	disjunctive conjunction	1	or
+JOB 20:2	1	14	ἢ	ἤ	disjunctive conjunction	1	than
 JOB 20:2	1	15	ἐγώ	ἐγώ	pronoun, nominative first singular	1	I
 JOB 20:3	1	1	Παιδείαν	παιδεία	noun, accusative feminine singular	1	instruction
 JOB 20:3	1	1	Παιδείαν			2	discipline
@@ -35,14 +35,14 @@ JOB 20:3	1	9	συνέσεώς	σύνεσις	noun, genitive feminine singular	1	
 JOB 20:3	1	10	μου	ἐγώ	pronoun, genitive 1st singular	1	my
 JOB 20:3	1	11	ἀποκρίνεταί	ἀποκρίνομαι	present middle indicative, third singular	1	answers
 JOB 20:3	1	12	μοι	ἐγώ	personal pronoun, dative singular	1	to me
-JOB 20:4	1	1	Μὴ	μή	negative particle	1	not
+JOB 20:4	1	1	Μὴ	μή	negative particle	1	[marks a question]
 JOB 20:4	1	2	ταῦτα	οὗτος	demonstrative pronoun, nominative neuter plural	1	these
 JOB 20:4	1	3	ἔγνως	γινώσκω	aorist active indicative, 2nd singular	1	did you know
 JOB 20:4	1	4	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOB 20:4	1	5	τοῦ	ὁ	article, genitive neuter singular	1	the
 JOB 20:4	1	6	ἔτι	ἔτι	temporal adverb	1	still
 JOB 20:4	1	7	ἀφ᾽	ἀπό	preposition with the genitive, elided	1	from
-JOB 20:4	1	8	οὗ	οὗ	relative adverb of place	1	where
+JOB 20:4	1	8	οὗ	οὗ	relative adverb of place	1	when
 JOB 20:4	1	9	ἐτέθη	τίθημι	aorist passive indicative, third singular	1	was placed
 JOB 20:4	1	10	ἄνθρωπος	ἄνθρωπος	noun nominative masculine singular	1	man
 JOB 20:4	1	11	ἐπὶ	ἐπί	preposition with genitive	1	on
@@ -67,7 +67,7 @@ JOB 20:6	1	4	οὐρανὸν			2	the sky
 JOB 20:6	1	5	τὰ	ὁ	article, accusative neuter plural	1	the
 JOB 20:6	1	6	δῶρα	δῶρον	noun, accusative neuter plural	1	gifts
 JOB 20:6	1	7	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
-JOB 20:6	1	8	ἡ	ὁ	article, nominative feminine singular, used pronominally	1	she
+JOB 20:6	1	8	ἡ	ὁ	article, nominative feminine singular, used pronominally	1	the
 JOB 20:6	1	9	δὲ	δέ	postpositive conjunction	1	and
 JOB 20:6	1	10	θυσία	θυσία	noun, nominative feminine singular	1	sacrifice
 JOB 20:6	1	11	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -137,7 +137,7 @@ JOB 20:11	1	5	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine 
 JOB 20:11	1	6	καὶ	καί	conjunction	1	and
 JOB 20:11	1	7	μετ	μετά	preposition with genitive, printed without elision mark	1	with
 JOB 20:11	1	8	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	him
-JOB 20:11	1	9	ἐπὶ	ἐπί	preposition governing the accusative	1	over
+JOB 20:11	1	9	ἐπὶ	ἐπί	preposition governing the accusative	1	on
 JOB 20:11	1	10	χώματος	χῶμα	noun, genitive neuter singular	1	the soil
 JOB 20:11	1	11	κοιμηθήσεται	κοιμάομαι	future passive indicative, 3rd sg.	1	shall he sleep
 JOB 20:12	1	1	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
@@ -154,7 +154,7 @@ JOB 20:12	1	11	γλῶσσαν	γλῶσσα	noun, accusative feminine singular	
 JOB 20:12	1	12	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 JOB 20:13	1	1	οὐ	οὐ	negative particle	1	not
 JOB 20:13	1	2	φείσεται	φείδομαι	future middle indicative, 3rd singular	1	will spare
-JOB 20:13	1	3	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	her
+JOB 20:13	1	3	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	it
 JOB 20:13	1	4	καὶ	καί	conjunction	1	and
 JOB 20:13	1	5	οὐκ	οὐ	negative adverb with future indicative	1	not
 JOB 20:13	1	6	ἐγκαταλείψει	ἐγκαταλείπω	future active indicative third singular	1	he will forsake
@@ -176,13 +176,13 @@ JOB 20:13	1	21	ἑαυτῷ	ἑαυτοῦ	pronoun, dative masculine singular	1	
 JOB 20:14	1	1	Χολὴ	χολή	noun, nominative feminine singular	1	gall
 JOB 20:14	1	2	ἀσπίδος	ἀσπίς	noun genitive feminine singular	1	of a viper
 JOB 20:14	1	3	ἐν	ἐν	preposition with the dative	1	in
-JOB 20:14	1	4	γαστρὶ	γαστήρ	noun, dative feminine singular	1	the womb
+JOB 20:14	1	4	γαστρὶ	γαστήρ	noun, dative feminine singular	1	belly
 JOB 20:14	1	5	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 JOB 20:14	1	6	καὶ	καί	conjunction	1	and
 JOB 20:14	1	7	πόνος	πόνος	noun nominative masculine singular	1	trouble
 JOB 20:15	1	1	πλοῦτος	πλοῦτος	noun, nominative masculine singular	1	wealth
 JOB 20:15	1	1	πλοῦτος			2	riches
-JOB 20:15	1	2	ἀδίκως	ἀδίκως	adverb	1	without cause
+JOB 20:15	1	2	ἀδίκως	ἀδίκως	adverb	1	unjustly
 JOB 20:15	1	3	συναγόμενος	συνάγω	present middle/passive participle, nominative masculine singular	1	being gathered
 JOB 20:15	1	3	συναγόμενος			2	gathered
 JOB 20:15	1	4	ἐξεμεθήσεται	ἐξεμέω	future passive indicative, third singular	1	will be vomited up
@@ -190,7 +190,7 @@ JOB 20:15	1	5	ἐκ	ἐκ	preposition with the genitive	1	from
 JOB 20:15	1	6	κοιλίας	κοιλία	noun, genitive feminine singular	1	body
 JOB 20:15	1	7	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 JOB 20:15	1	8	ἐξ	ἐκ	preposition with the genitive	1	from
-JOB 20:15	1	9	οἰκίας	οἰκία	noun, accusative feminine plural	1	houses
+JOB 20:15	1	9	οἰκίας	οἰκία	noun, accusative feminine plural	1	house
 JOB 20:15	1	10	δὲ	δέ	postpositive conjunction	1	and
 JOB 20:15	1	11	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 JOB 20:15	1	12	ἐξελκύσει	ἐξέλκω	future active indicative, third singular	1	will drag out
@@ -207,17 +207,17 @@ JOB 20:16	1	5	καὶ	καί	conjunction	1	and
 JOB 20:16	1	6	ἀνέλοι	ἀναιρέω	aorist active optative, third singular	1	may kill
 JOB 20:16	1	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 JOB 20:16	1	8	γλῶσσα	γλῶσσα	noun, nominative feminine singular	1	tongue
-JOB 20:16	1	9	ὄφεως	ὄφις	noun, genitive masculine singular	1	snake
+JOB 20:16	1	9	ὄφεως	ὄφις	noun, genitive masculine singular	1	of a snake
 JOB 20:16	1	9	ὄφεως			2	serpent
 JOB 20:17	1	1	Μὴ	μή	negative particle	1	not
-JOB 20:17	1	2	ἴδοι	ὁράω	aorist active optative, third singular	1	may it see
+JOB 20:17	1	2	ἴδοι	ὁράω	aorist active optative, third singular	1	may he see
 JOB 20:17	1	3	ἄμελξιν	ἄμελξις	noun, accusative feminine singular	1	milking
 JOB 20:17	1	4	νομάδων	νομάς	adjective, genitive masculine plural	1	of grazing herds
 JOB 20:17	1	5	μηδὲ	μηδέ	conjunction	1	nor
 JOB 20:17	1	6	νομὰς	νομή	noun, accusative feminine plural	1	pastures
-JOB 20:17	1	7	μέλιτος	μέλι	noun, genitive neuter singular	1	honey
+JOB 20:17	1	7	μέλιτος	μέλι	noun, genitive neuter singular	1	of honey
 JOB 20:17	1	8	καὶ	καί	conjunction	1	and
-JOB 20:17	1	9	βουτύρου	βούτυρον	noun, genitive neuter singular	1	butter
+JOB 20:17	1	9	βουτύρου	βούτυρον	noun, genitive neuter singular	1	of butter
 JOB 20:18	1	1	Εἰς	εἰς	preposition with the accusative	1	into
 JOB 20:18	1	2	κενὰ	κενός	adjective, accusative neuter plural; substantival	1	empty things
 JOB 20:18	1	3	καὶ	καί	conjunction	1	and
@@ -228,14 +228,14 @@ JOB 20:18	1	7	δὲ	δέ	postpositive conjunction	1	and
 JOB 20:18	1	8	πλοῦτον	πλοῦτος	noun, accusative masculine singular	1	wealth
 JOB 20:18	1	8	πλοῦτον			2	riches
 JOB 20:18	1	9	ἐξ	ἐκ	preposition with the genitive	1	from
-JOB 20:18	1	10	οὗ	οὗ	relative adverb of place	1	where
+JOB 20:18	1	10	οὗ	οὗ	relative adverb of place	1	which
 JOB 20:18	1	11	οὐ	οὐ	negative particle	1	not
 JOB 20:18	1	12	γεύσεται	γεύομαι	future middle indicative, third singular	1	will taste
 JOB 20:18	1	13	ὥσπερ	ὥσπερ	comparative conjunction	1	just as
 JOB 20:18	1	14	στρύχνον	στρύχνον	noun, accusative neuter singular	1	nightshade
 JOB 20:18	1	15	ἀμάσητον	ἀμάσητος	adjective, accusative neuter singular	1	unchewed
 JOB 20:18	1	16	ἀκατάποτον	ἀκατάποτος	adjective, accusative neuter singular	1	unswallowed
-JOB 20:19	1	1	Πολλῶν	πολύς	adjective, genitive neuter plural	1	many
+JOB 20:19	1	1	Πολλῶν	πολύς	adjective, genitive neuter plural	1	of many
 JOB 20:19	1	2	γὰρ	γάρ	conjunction	1	for
 JOB 20:19	1	3	ἀδυνάτων	ἀδύνατος	adjective, genitive masculine plural	1	of the powerless
 JOB 20:19	1	4	οἴκους	οἶκος	noun, accusative masculine plural	1	houses
@@ -294,9 +294,9 @@ JOB 20:22	1	5	θλιβήσεται	θλίβω	future passive indicative, third s
 JOB 20:22	1	6	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
 JOB 20:22	1	7	δὲ	δέ	postpositive conjunction	1	and
 JOB 20:22	1	8	ἀνάγκη	ἀνάγκη	noun, nominative feminine singular	1	distress
-JOB 20:22	1	9	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+JOB 20:22	1	9	ἐπ᾽	ἐπί	preposition with the accusative	1	upon
 JOB 20:22	1	10	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-JOB 20:22	1	11	ἐπελεύσεται	ἐπέρχομαι	future middle indicative, third singular	1	shall come upon
+JOB 20:22	1	11	ἐπελεύσεται	ἐπέρχομαι	future middle indicative, third singular	1	shall come
 JOB 20:23	1	1	εἴ	εἰ	conditional conjunction	1	if
 JOB 20:23	1	2	πως	πως	indefinite adverb	1	somehow
 JOB 20:23	1	3	εἴ	εἰ	conditional conjunction	1	if
@@ -328,7 +328,7 @@ JOB 20:24	1	11	τόξον	τόξον	noun, nominative neuter singular	1	bow
 JOB 20:24	1	12	χάλκεον	χάλκεος	adjective, nominative neuter singular	1	bronze
 JOB 20:25	1	1	καὶ	καί	conjunction	1	and
 JOB 20:25	1	2	διεξέλθοι	διεξέρχομαι	aorist active optative, third singular	1	may it pass through
-JOB 20:25	1	3	διὰ	διά	preposition with the accusative	1	because of
+JOB 20:25	1	3	διὰ	διά	preposition with the accusative	1	through
 JOB 20:25	1	4	σώματος	σῶμα	noun, genitive neuter singular	1	body
 JOB 20:25	1	5	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 JOB 20:25	1	6	βέλος	βέλος	noun, accusative neuter singular	1	arrow
@@ -341,7 +341,7 @@ JOB 20:25	1	11	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine
 JOB 20:25	1	12	μὴ	μή	negative particle	1	not
 JOB 20:25	1	13	περιπατήσαι	περιπατέω	aorist active optative, third singular	1	may walk
 JOB 20:25	1	14	ἐπ᾽	ἐπί	preposition with dative	1	on
-JOB 20:25	1	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+JOB 20:25	1	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 JOB 20:25	1	16	φόβοι	φόβος	noun, nominative masculine plural	1	fears
 JOB 20:26	1	1	καὶ	καί	conjunction	1	and
 JOB 20:26	1	2	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
@@ -370,7 +370,7 @@ JOB 20:27	1	6	ἀνομίας	ἀνομία	noun, accusative feminine plural	1	l
 JOB 20:27	1	7	γῆ	γῆ	noun, nominative feminine singular	1	land
 JOB 20:27	1	8	δὲ	δέ	postpositive conjunction	1	and
 JOB 20:27	1	9	ἐπανασταίη	ἐπανίστημι	aorist active optative, third singular	1	may rise up
-JOB 20:27	1	10	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+JOB 20:27	1	10	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	against him
 JOB 20:28	1	1	Ἑλκύσαι	ἕλκω	aorist active optative, third singular	1	may draw away
 JOB 20:28	1	2	τὸν	ὁ	article, accusative masculine singular	1	the
 JOB 20:28	1	3	οἶκον	οἶκος	noun, accusative masculine singular	1	house
@@ -384,7 +384,7 @@ JOB 20:28	1	8	καὶ	καί	conjunction	1	and
 JOB 20:28	1	9	ἡμέρα	ἡμέρα	noun, nominative feminine singular	1	day
 JOB 20:28	1	10	ὀργῆς	ὀργή	noun, genitive feminine singular	1	of wrath
 JOB 20:28	1	11	ἐπέλθοι	ἐπέρχομαι	aorist active optative, third singular	1	may come upon
-JOB 20:28	1	12	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+JOB 20:28	1	12	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 JOB 20:29	1	1	Αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 JOB 20:29	1	2	ἡ	ὁ	article, nominative feminine singular	1	the
 JOB 20:29	1	3	μερὶς	μερίς	noun, nominative feminine singular	1	portion
@@ -397,6 +397,6 @@ JOB 20:29	1	8	καὶ	καί	conjunction	1	and
 JOB 20:29	1	9	κτῆμα	κτῆμα	noun, nominative neuter singular	1	possession
 JOB 20:29	1	10	ὑπαρχόντων	ὑπάρχω	present active participle, substantival genitive neuter plural	1	possessions
 JOB 20:29	1	11	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
-JOB 20:29	1	12	παρὰ	παρά	preposition with dative, in one's service	1	with
+JOB 20:29	1	12	παρὰ	παρά	preposition with dative, in one's service	1	from
 JOB 20:29	1	13	τοῦ	ὁ	article, genitive singular	1	the
 JOB 20:29	1	14	ἐπισκόπου	ἐπίσκοπος	noun, genitive masculine singular	1	overseer

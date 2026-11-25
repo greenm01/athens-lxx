@@ -41,7 +41,7 @@ EZR 9:1	1	38	Ἀμμωνὶ	Ἀμμωνίτης	noun, genitive masculine plural;
 EZR 9:1	1	39	ὁ	ὁ	article, genitive masculine plural	1	the
 EZR 9:1	1	40	Μωαβὶ	Μωαβί	proper ethnic designation, indeclinable	1	Moabites
 EZR 9:1	1	41	ὁ	ὁ	article, genitive masculine plural	1	the
-EZR 9:1	1	42	Μωσρὶ	Μοσερί	proper ethnic designation, indeclinable	1	Moserites
+EZR 9:1	1	42	Μωσρὶ	Μοσερί	proper ethnic designation, indeclinable	1	Egyptians
 EZR 9:1	1	43	καὶ	καί	conjunction	1	and
 EZR 9:1	1	44	ὁ	ὁ	article, genitive masculine plural	1	the
 EZR 9:1	1	45	Ἀμορὶ	Ἀμορί	proper ethnic designation, indeclinable	1	Amorites
@@ -59,8 +59,8 @@ EZR 9:2	1	11	καὶ	καί	conjunction	1	and
 EZR 9:2	1	12	παρήχθη	παράγω	aorist passive indicative, third singular	1	was brought aside
 EZR 9:2	1	12	παρήχθη			2	was diverted
 EZR 9:2	1	13	σπέρμα	σπέρμα	noun, accusative neuter singular	1	seed
-EZR 9:2	1	14	τὸ	ὁ	article, genitive neuter singular	1	of the
-EZR 9:2	1	15	ἅγιον	ἁγίασμα	noun, genitive neuter singular	1	sanctuary
+EZR 9:2	1	14	τὸ	ὁ	article, genitive neuter singular	1	the
+EZR 9:2	1	15	ἅγιον	ἁγίασμα	noun, genitive neuter singular	1	holy
 EZR 9:2	1	15	ἅγιον			2	holy people
 EZR 9:2	1	16	ἐν	ἐν	preposition with the dative	1	in
 EZR 9:2	1	17	λαοῖς	λαός	noun, dative masculine plural	1	peoples
@@ -114,16 +114,16 @@ EZR 9:4	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 EZR 9:4	1	7	διώκων	διώκω	present active participle, nominative masculine singular; substantival	1	who pursues
 EZR 9:4	1	8	λόγον	λόγος	noun, accusative masculine singular	1	word
 EZR 9:4	1	8	λόγον			2	message
-EZR 9:4	1	9	Θεοῦ	θεός	noun, genitive masculine singular	1	God
+EZR 9:4	1	9	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 EZR 9:4	1	10	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 EZR 9:4	1	11	ἐπὶ	ἐπί	preposition (case from context)	1	on
 EZR 9:4	1	12	ἀσυνθεσίᾳ	ἀσυνθεσία	noun, dative feminine singular	1	unfaithfulness
-EZR 9:4	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
-EZR 9:4	1	14	ἀποικεσίας	ἀποικεσία	noun, genitive feminine singular	1	of the exiles
+EZR 9:4	1	13	τῆς	ὁ	article, genitive feminine singular	1	of the
+EZR 9:4	1	14	ἀποικεσίας	ἀποικεσία	noun, genitive feminine singular	1	exile
 EZR 9:4	1	15	κἀγὼ	κἀγώ	crasis of καί and ἐγώ	1	and I
 EZR 9:4	1	16	καθήμενος	κάθημαι	present middle participle, nominative masculine singular	1	sitting
 EZR 9:4	1	17	ἠρεμάζων	ἠρεμάζω	present active participle, nominative masculine singular	1	sitting still
-EZR 9:4	1	18	ἕως	ἕως	preposition with the genitive	1	as far as
+EZR 9:4	1	18	ἕως	ἕως	preposition with the genitive	1	until
 EZR 9:4	1	18	ἕως			2	up to
 EZR 9:4	1	19	τῆς	ὁ	article, genitive feminine singular	1	the
 EZR 9:4	1	20	θυσίας	θυσία	noun, genitive feminine singular	1	offering
@@ -194,7 +194,7 @@ EZR 9:6	1	25	αἱ	ὁ	article, nominative feminine plural	1	the
 EZR 9:6	1	26	πλημμέλειαι	πλημμέλεια	noun, nominative feminine plural	1	offenses
 EZR 9:6	1	27	ἡμῶν	ἐγώ	personal pronoun, genitive plural	1	our
 EZR 9:6	1	28	ἐμεγαλύνθησαν	μεγαλύνω	aorist passive indicative, third plural	1	have grown
-EZR 9:6	1	29	ἕως	ἕως	temporal conjunction/preposition (from context)	1	until
+EZR 9:6	1	29	ἕως	ἕως	temporal conjunction/preposition (from context)	1	as far as
 EZR 9:6	1	30	εἰς	εἰς	preposition with the accusative	1	into
 EZR 9:6	1	31	οὐρανόν	οὐρανός	noun accusative masculine singular	1	heaven
 EZR 9:7	1	1	Ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -260,7 +260,7 @@ EZR 9:8	1	9	τοῦ	ὁ	article, genitive neuter singular; articular infinitive 
 EZR 9:8	1	10	καταλιπεῖν	καταλείπω	aorist active infinitive, leave (his father)	1	to leave
 EZR 9:8	1	11	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
 EZR 9:8	1	12	εἰς	εἰς	preposition with the accusative	1	into
-EZR 9:8	1	13	σωτηρίαν	σωτηρία	noun, accusative feminine singular	1	help
+EZR 9:8	1	13	σωτηρίαν	σωτηρία	noun, accusative feminine singular	1	deliverance
 EZR 9:8	1	13	σωτηρίαν			2	rescue
 EZR 9:8	1	14	καὶ	καί	conjunction	1	and
 EZR 9:8	1	15	δοῦναι	δίδωμι	aorist active infinitive	1	to give
@@ -293,7 +293,7 @@ EZR 9:9	1	6	τῇ	ὁ	article, dative feminine singular	1	the
 EZR 9:9	1	7	δουλείᾳ	δουλεία	noun, dative feminine singular	1	bondage
 EZR 9:9	1	8	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 EZR 9:9	1	9	οὐκ	οὐ	negative particle	1	not
-EZR 9:9	1	10	ἐγκατέλιπεν	ἐγκαταλείπω	aorist active indicative, third singular	1	he abandoned
+EZR 9:9	1	10	ἐγκατέλιπεν	ἐγκαταλείπω	aorist active indicative, third singular	1	abandoned
 EZR 9:9	1	11	ἡμᾶς	ἐγώ	pronoun, accusative 1st plural	1	us
 EZR 9:9	1	12	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 EZR 9:9	1	13	ὁ	ὁ	article nominative masculine singular	1	the
@@ -431,7 +431,7 @@ EZR 9:12	1	35	τὰ	ὁ	article, accusative neuter plural	1	the
 EZR 9:12	1	36	ἀγαθὰ	ἀγαθός	adjective, accusative neuter plural; substantival	1	good things
 EZR 9:12	1	36	ἀγαθὰ			2	produce
 EZR 9:12	1	37	τῆς	ὁ	article, genitive feminine singular	1	of the
-EZR 9:12	1	38	γῆς	γῆ	noun, genitive feminine singular	1	earth
+EZR 9:12	1	38	γῆς	γῆ	noun, genitive feminine singular	1	land
 EZR 9:12	1	39	καὶ	καί	conjunction	1	and
 EZR 9:12	1	40	κληρονομήσητε	κληρονομέω	aorist active subjunctive, second plural	1	you may pass on possession
 EZR 9:12	1	41	τοῖς	ὁ	article, dative masculine plural	1	to the
@@ -455,7 +455,7 @@ EZR 9:13	1	13	καὶ	καί	conjunction	1	and
 EZR 9:13	1	14	ἐν	ἐν	preposition with the dative	1	in
 EZR 9:13	1	15	πλημμελείᾳ	πλημμέλεια	noun, dative feminine singular	1	offense
 EZR 9:13	1	16	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
-EZR 9:13	1	17	τῇ	ὁ	article, dative feminine singular; introduces a place name	1	of
+EZR 9:13	1	17	τῇ	ὁ	article, dative feminine singular; introduces a place name	1	the
 EZR 9:13	1	18	μεγάλῃ	μέγας	adjective, dative feminine singular	1	great
 EZR 9:13	1	19	ὅτι	ὅτι	conjunction	1	because
 EZR 9:13	1	20	οὐκ	οὐ	particle	1	not
@@ -493,7 +493,7 @@ EZR 9:14	1	15	ἡμῖν	ἐγώ	personal pronoun, dative first plural	1	us
 EZR 9:14	1	16	ἕως	ἕως	temporal conjunction/preposition	1	until
 EZR 9:14	1	17	συντελείας	συντέλεια	noun, genitive feminine singular	1	end
 EZR 9:14	1	17	συντελείας			2	destruction
-EZR 9:14	1	18	τοῦ	ὁ	article, genitive singular	1	the
+EZR 9:14	1	18	τοῦ	ὁ	article, genitive singular	1	—
 EZR 9:14	1	19	μὴ	μή	negative particle	1	not
 EZR 9:14	1	20	εἶναι	εἰμί	present infinitive	1	to be
 EZR 9:14	1	21	ἐγκατάλειμμα	ἐγκατάλειμμα	noun, nominative neuter singular	1	remnant

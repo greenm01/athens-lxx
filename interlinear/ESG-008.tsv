@@ -24,7 +24,7 @@ ESG 8:1	1	22	βασιλέως	βασιλεύς	noun, genitive masculine singular
 ESG 8:1	1	23	ὑπέδειξε	ὑποδείκνυμι	aorist active indicative, third singular	1	disclosed
 ESG 8:1	1	24	γὰρ	γάρ	postpositive conjunction	1	for
 ESG 8:1	1	25	Ἐσθὴρ	Ἐσθήρ	personal name, indeclinable	1	Esther
-ESG 8:1	1	26	ὅτι	ὅτι	causal conjunction	1	because
+ESG 8:1	1	26	ὅτι	ὅτι	causal conjunction	1	that
 ESG 8:1	1	27	ἐνοικείωται	οἰκειόομαι	perfect passive indicative, third singular	1	is related
 ESG 8:1	1	28	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
 ESG 8:2	1	1	Ἔλαβε	λαμβάνω	aorist active indicative, third person singular	1	took
@@ -36,7 +36,7 @@ ESG 8:2	1	6	δακτύλιον	δακτύλιος	noun, accusative masculine sin
 ESG 8:2	1	7	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
 ESG 8:2	1	8	ἀφείλατο	ἀφαιρέω	aorist middle indicative, third singular	1	took away
 ESG 8:2	1	8	ἀφείλατο			2	removed
-ESG 8:2	1	9	τοῦ	ὁ	article, genitive singular	1	the
+ESG 8:2	1	9	τοῦ	ὁ	article, genitive singular	1	from
 ESG 8:2	1	10	Ἀμὰν	Ἀμάν	personal name, indeclinable	1	Haman
 ESG 8:2	1	11	καὶ	καί	conjunction	1	and
 ESG 8:2	1	12	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
@@ -46,7 +46,7 @@ ESG 8:2	1	15	καὶ	καί	conjunction	1	and
 ESG 8:2	1	16	κατέστησεν	καθίστημι	aorist active indicative, third singular, appointed over	1	appointed
 ESG 8:2	1	17	Ἐσθὴρ	Ἐσθήρ	indeclinable personal name; vocative in context	1	Esther
 ESG 8:2	1	18	Μαρδοχαῖον	Μαρδοχαῖος	noun, accusative masculine singular	1	Mordecai
-ESG 8:2	1	19	ἐπὶ	ἐπί	preposition (case from context)	1	on
+ESG 8:2	1	19	ἐπὶ	ἐπί	preposition (case from context)	1	over
 ESG 8:2	1	20	πάντων	πᾶς	adjective, genitive neuter plural	1	all
 ESG 8:2	1	21	τῶν	ὁ	article, genitive neuter plural	1	the estate of
 ESG 8:2	1	22	Ἀμάν	Ἀμάν	personal name, indeclinable	1	Haman
@@ -99,12 +99,12 @@ ESG 8:5	1	6	σοι	σύ	personal pronoun, dative singular	1	to you
 ESG 8:5	1	7	καὶ	καί	conjunction	1	and
 ESG 8:5	1	8	εὗρον	εὑρίσκω	aorist active indicative, 1st sg. after εἰ, I have found	1	I have found
 ESG 8:5	1	9	χάριν	χάρις	noun, accusative fem. sg.	1	favour
-ESG 8:5	1	10	ἐνώπιόν	ἐνώπιον	preposition with genitive	1	before/in the sight of
+ESG 8:5	1	10	ἐνώπιόν	ἐνώπιον	preposition with genitive	1	before
 ESG 8:5	1	11	σου	σύ	pronoun, possessive genitive second singular	1	you
 ESG 8:5	1	12	πεμφθήτω	πέμπω	aorist passive imperative, third singular	1	let word be sent
 ESG 8:5	1	13	ἀποστρέψαι	ἀποστρέφω	aorist active infinitive	1	to recall
 ESG 8:5	1	14	τὰ	ὁ	article, accusative neuter plural	1	the
-ESG 8:5	1	15	γράμματα	γράμμα	noun, accusative neuter plural	1	records
+ESG 8:5	1	15	γράμματα	γράμμα	noun, accusative neuter plural	1	letters
 ESG 8:5	1	16	τὰ	ὁ	article, accusative neuter plural	1	which were
 ESG 8:5	1	17	ἐξαπεσταλμένα	ἐξαποστέλλω	perfect passive participle, accusative neuter plural	1	sent out
 ESG 8:5	1	18	ὑπὸ	ὑπό	preposition with genitive of agent	1	by
@@ -118,7 +118,7 @@ ESG 8:5	1	25	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	1
 ESG 8:5	1	26	εἰσὶν	εἰμί	present active indicative, third plural	1	are
 ESG 8:5	1	27	ἐν	ἐν	preposition with the dative	1	in
 ESG 8:5	1	28	τῇ	ὁ	article, dative feminine singular	1	the
-ESG 8:5	1	29	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	reign
+ESG 8:5	1	29	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	kingdom
 ESG 8:5	1	29	βασιλείᾳ			2	kingship
 ESG 8:5	1	30	σου	σύ	pronoun, possessive genitive second singular	1	your
 ESG 8:6	1	1	πῶς	πῶς	interrogative adverb	1	how
@@ -127,8 +127,8 @@ ESG 8:6	1	3	δυνήσομαι	δύναμαι	future middle indicative, first si
 ESG 8:6	1	4	ἐπιδεῖν	ἐπεῖδον	aorist active infinitive	1	to see
 ESG 8:6	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 ESG 8:6	1	6	κάκωσιν	κάκωσις	noun, accusative feminine singular	1	mistreatment
-ESG 8:6	1	7	τοῦ	ὁ	article, genitive masculine singular	1	the
-ESG 8:6	1	8	λαοῦ	λαός	noun, genitive masculine singular	1	of the people
+ESG 8:6	1	7	τοῦ	ὁ	article, genitive masculine singular	1	of the
+ESG 8:6	1	8	λαοῦ	λαός	noun, genitive masculine singular	1	people
 ESG 8:6	1	9	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ESG 8:6	1	10	καὶ	καί	conjunction	1	and
 ESG 8:6	1	11	πῶς	πῶς	adverb	1	how
@@ -137,7 +137,7 @@ ESG 8:6	1	13	σωθῆναι	σῴζω	aorist passive infinitive	1	to escape
 ESG 8:6	1	14	ἐν	ἐν	preposition with the dative	1	in
 ESG 8:6	1	15	τῇ	ὁ	article, dative feminine singular	1	the
 ESG 8:6	1	16	ἀπωλείᾳ	ἀπώλεια	noun, dative feminine singular	1	destruction
-ESG 8:6	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
+ESG 8:6	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
 ESG 8:6	1	18	πατρίδος	πατρίς	noun, genitive feminine singular	1	homeland
 ESG 8:6	1	19	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ESG 8:7	1	1	καὶ	καί	conjunction	1	and
@@ -183,7 +183,7 @@ ESG 8:8	1	4	ἐκ	ἐκ	preposition with the genitive	1	in
 ESG 8:8	1	5	τοῦ	ὁ	article, genitive singular	1	the
 ESG 8:8	1	6	ὀνόματός	ὄνομα	noun, genitive neuter singular	1	name
 ESG 8:8	1	7	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-ESG 8:8	1	8	ὡς	ὡς	conjunction	1	if
+ESG 8:8	1	8	ὡς	ὡς	conjunction	1	as
 ESG 8:8	1	9	δοκεῖ	δοκέω	present active indicative, third singular	1	seems good
 ESG 8:8	1	10	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 ESG 8:8	1	11	καὶ	καί	conjunction	1	and
@@ -216,8 +216,8 @@ ESG 8:9	1	7	πρώτῳ	πρῶτος	ordinal adjective, dative masculine singul
 ESG 8:9	1	8	μηνὶ	μήν	noun, dative masculine singular	1	month
 ESG 8:9	1	9	ὅς	ὅς	relative pronoun, nominative masculine singular	1	which
 ESG 8:9	1	10	ἐστι	εἰμί	present indicative, third singular	1	is
-ESG 8:9	1	11	Νισὰ	Νισά	indeclinable month-name in apposition	1	Nisa
-ESG 8:9	1	11	Νισὰ			2	Nisan
+ESG 8:9	1	11	Νισὰ	Νισά	indeclinable month-name in apposition	1	Nisan
+ESG 8:9	1	11	Νισὰ			2	Nisa
 ESG 8:9	1	12	τρίτῃ	τρίτος	ordinal adjective, dative feminine singular	1	on the third
 ESG 8:9	1	13	καὶ	καί	conjunction	1	and
 ESG 8:9	1	14	εἰκάδι	εἰκάς	ordinal adjective, dative feminine singular	1	twentieth
@@ -225,8 +225,8 @@ ESG 8:9	1	15	τοῦ	ὁ	article, genitive masculine singular	1	of the
 ESG 8:9	1	16	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	same
 ESG 8:9	1	17	μηνὸς	μήν	noun, genitive masculine singular	1	month
 ESG 8:9	1	18	καὶ	καί	conjunction	1	and
-ESG 8:9	1	19	ἐγράφη	γράφω	aorist passive indicative, third singular	1	was recorded
-ESG 8:9	1	20	τοῖς	ὁ	article, dative masculine plural	1	for the
+ESG 8:9	1	19	ἐγράφη	γράφω	aorist passive indicative, third singular	1	was written
+ESG 8:9	1	20	τοῖς	ὁ	article, dative masculine plural	1	to the
 ESG 8:9	1	21	Ἰουδαίοις	Ἰουδαῖος	noun, dative masculine plural	1	Judeans
 ESG 8:9	1	21	Ἰουδαίοις			2	Jews
 ESG 8:9	1	22	ὅσα	ὅσος	relative adjective accusative neuter plural	1	all that
@@ -241,7 +241,7 @@ ESG 8:9	1	30	σατραπῶν	σατράπης	noun, genitive masculine plural	
 ESG 8:9	1	31	ἀπὸ	ἀπό	preposition with the genitive	1	from
 ESG 8:9	1	32	τῆς	ὁ	article, genitive feminine singular	1	the
 ESG 8:9	1	33	Ἰνδικῆς	Ἰνδική	noun, genitive feminine singular; proper territorial name	1	India
-ESG 8:9	1	34	ἕως	ἕως	temporal conjunction/preposition	1	until
+ESG 8:9	1	34	ἕως	ἕως	temporal conjunction/preposition	1	as far as
 ESG 8:9	1	35	τῆς	ὁ	article, genitive feminine singular	1	the
 ESG 8:9	1	36	Αἰθιοπίας	Αἰθιοπία	noun, genitive feminine singular; place name	1	of Ethiopia
 ESG 8:9	1	36	Αἰθιοπίας			2	of Cush
@@ -261,7 +261,7 @@ ESG 8:9	1	47	τὴν	ὁ	article, accusative feminine singular	1	the
 ESG 8:9	1	48	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 ESG 8:9	1	49	λέξιν	λέξις	noun, accusative feminine singular	1	language
 ESG 8:10	1	1	Καὶ	καί	conjunction	1	and
-ESG 8:10	1	2	ἐγράφη	γράφω	aorist passive indicative, third singular	1	was recorded
+ESG 8:10	1	2	ἐγράφη	γράφω	aorist passive indicative, third singular	1	was written
 ESG 8:10	1	3	διὰ	διά	preposition with the genitive	1	through
 ESG 8:10	1	4	τοῦ	ὁ	article, genitive singular	1	the
 ESG 8:10	1	5	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
@@ -310,7 +310,7 @@ ESG 8:12	1	3	μιᾷ			2	first
 ESG 8:12	1	4	ἐν	ἐν	preposition with the dative	1	in
 ESG 8:12	1	5	πάσῃ	πᾶς	adjective, dative feminine singular	1	all
 ESG 8:12	1	6	τῇ	ὁ	article, dative feminine singular	1	the
-ESG 8:12	1	7	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	reign
+ESG 8:12	1	7	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	kingdom
 ESG 8:12	1	7	βασιλείᾳ			2	kingship
 ESG 8:12	1	8	Ἀρταξέρξου	Ἀρταξέρξης	noun, genitive masculine singular; proper	1	of Artaxerxes
 ESG 8:12	1	9	τῇ	ὁ	article, dative feminine singular	1	the
@@ -346,7 +346,7 @@ ESG 8:13	1	20	καὶ	καί	conjunction	1	and
 ESG 8:13	1	21	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 ESG 8:13	1	22	σατραπείαις	σατραπεία	noun, dative feminine plural	1	districts
 ESG 8:13	1	22	σατραπείαις			2	satrapies
-ESG 8:13	1	23	χωρῶν	χώρα	noun, genitive feminine plural	1	provinces
+ESG 8:13	1	23	χωρῶν	χώρα	noun, genitive feminine plural	1	of provinces
 ESG 8:13	1	24	ἄρχουσι	ἄρχων	noun, dative masculine plural	1	leaders
 ESG 8:13	1	25	καὶ	καί	conjunction	1	and
 ESG 8:13	1	26	σατράπαις	σατράπης	noun, dative masculine plural	1	satraps
@@ -372,7 +372,7 @@ ESG 8:13	1	43	οὐ	οὐ	negative particle	1	not
 ESG 8:13	1	44	μόνον	μόνος	adjective, accusative masculine singular	1	alone
 ESG 8:13	1	45	τοὺς	ὁ	article accusative masculine plural	1	the
 ESG 8:13	1	46	ὑποτεταγμένους	ὑποτάσσω	perfect passive participle, accusative masculine plural	1	who are subject
-ESG 8:13	1	47	ἡμῖν	ἐγώ	personal pronoun dative first plural	1	us
+ESG 8:13	1	47	ἡμῖν	ἐγώ	personal pronoun dative first plural	1	to us
 ESG 8:13	1	48	ζητοῦσι	ζητέω	present active indicative, third plural	1	they seek
 ESG 8:13	1	49	κακοποιεῖν	κακοποιέω	present active infinitive	1	to do harm
 ESG 8:13	1	50	τόν	ὁ	article, accusative masculine singular	1	the
@@ -399,7 +399,7 @@ ESG 8:13	1	70	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plura
 ESG 8:13	1	70	ἀνθρώπων			2	people
 ESG 8:13	1	71	ἀνταναιροῦντες	ἀνταναιρέω	present active participle, nominative masculine plural	1	destroying
 ESG 8:13	1	72	ἀλλὰ	ἀλλά	adversative conjunction	1	but
-ESG 8:13	1	73	καὶ	καί	conjunction	1	and
+ESG 8:13	1	73	καὶ	καί	conjunction	1	also
 ESG 8:13	1	74	τοῖς	ὁ	article, dative masculine plural	1	by the
 ESG 8:13	1	75	τῶν	ὁ	article, genitive masculine plural	1	of those
 ESG 8:13	1	76	ἀπειραγάθων	ἀπειράγαθος	adjective, genitive masculine plural	1	who are strangers to goodness
@@ -418,7 +418,7 @@ ESG 8:13	1	87	ἐκφεύξεσθαι	ἐκφεύγω	future active infinitive	1
 ESG 8:13	1	88	δίκην	δίκη	noun accusative feminine singular	1	justice
 ESG 8:13	1	89	Πολλάκις	πολλάκις	adverb	1	often
 ESG 8:13	1	90	δὲ	δέ	postpositive conjunction	1	and
-ESG 8:13	1	91	καὶ	καί	conjunction	1	and
+ESG 8:13	1	91	καὶ	καί	conjunction	1	also
 ESG 8:13	1	92	πολλοὺς	πολύς	adjective, accusative masculine plural	1	many
 ESG 8:13	1	93	τῶν	ὁ	article, genitive masculine plural	1	the
 ESG 8:13	1	94	ἐπ᾽	ἐπί	preposition with dative indicating position of authority	1	in
@@ -470,7 +470,7 @@ ESG 8:13	1	139	ἀνοσίως	ἀνόσιος	adverb	1	impiously
 ESG 8:13	1	140	συντετελεσμένα	συντελέω	perfect passive participle, accusative neuter plural	1	finished
 ESG 8:13	1	140	συντετελεσμένα			2	completed
 ESG 8:13	1	141	τῇ	ὁ	article, dative feminine singular	1	through the
-ESG 8:13	1	142	τῶν	ὁ	article, genitive plural	1	the
+ESG 8:13	1	142	τῶν	ὁ	article, genitive plural	1	of those
 ESG 8:13	1	143	ἀναξίᾳ	ἀνάξιος	adjective, dative feminine singular	1	unworthy
 ESG 8:13	1	144	δυναστευόντων	δυναστεύω	present active participle, genitive masculine plural	1	who wield power
 ESG 8:13	1	145	λοιμότητι	λοιμότης	noun, dative feminine singular	1	viciousness
@@ -505,7 +505,7 @@ ESG 8:13	1	173	διακρίνοντες	διακρίνω	present active particip
 ESG 8:13	1	174	ἀεὶ	ἀεί	adverb	1	always
 ESG 8:13	1	174	ἀεὶ			2	as usual
 ESG 8:13	1	175	μετὰ	μετά	preposition with genitive	1	with
-ESG 8:13	1	176	ἐπιεικεστέρας	ἐπιεικής	comparative adjective, genitive feminine singular	1	of more equitable
+ESG 8:13	1	176	ἐπιεικεστέρας	ἐπιεικής	comparative adjective, genitive feminine singular	1	more equitable
 ESG 8:13	1	177	ἀπαντήσεως	ἀπάντησις	noun, genitive feminine singular	1	treatment
 ESG 8:13	1	178	Ὡς	ὡς	comparative particle	1	as
 ESG 8:13	1	179	γὰρ	γάρ	postpositive conjunction	1	for
@@ -516,7 +516,7 @@ ESG 8:13	1	183	ταῖς	ὁ	article, dative feminine plural	1	in
 ESG 8:13	1	184	ἀληθείαις	ἀλήθεια	noun, dative feminine plural	1	truth
 ESG 8:13	1	185	ἀλλότριος	ἀλλότριος	adjective, nominative masculine singular; substantival	1	a foreigner
 ESG 8:13	1	186	τοῦ	ὁ	article, genitive singular	1	the
-ESG 8:13	1	187	τῶν	ὁ	article, genitive plural	1	the
+ESG 8:13	1	187	τῶν	ὁ	article, genitive plural	1	of the
 ESG 8:13	1	188	Περσῶν	Πέρσης	noun, genitive masculine plural	1	Persians
 ESG 8:13	1	189	αἵματος	αἷμα	noun, genitive neuter singular	1	blood
 ESG 8:13	1	190	καὶ	καί	conjunction	1	and
@@ -524,7 +524,7 @@ ESG 8:13	1	191	πολὺ	πολύς	adjective, accusative neut. sg. after τὸ	
 ESG 8:13	1	192	διεστηκὼς	διίστημι	perfect active participle, nominative masculine singular	1	removed
 ESG 8:13	1	193	τῆς	ὁ	article, genitive feminine singular	1	from
 ESG 8:13	1	194	ἡμετέρας	ἡμέτερος	adjective, genitive feminine singular	1	our
-ESG 8:13	1	195	χρηστότητος	χρηστότης	noun genitive feminine singular	1	of goodness
+ESG 8:13	1	195	χρηστότητος	χρηστότης	noun genitive feminine singular	1	goodness
 ESG 8:13	1	196	ἐπιξενωθεὶς	ἐπιξενόω	aorist passive participle, nominative masculine singular	1	admitted as a guest
 ESG 8:13	1	197	ἡμῖν	ἐγώ	pronoun, dative first plural	1	among us
 ESG 8:13	1	198	ἔτυχεν	τυγχάνω	aorist active indicative, third singular	1	received
@@ -642,9 +642,9 @@ ESG 8:13	1	305	ἡμῖν	ἐγώ	personal pronoun, dative first plural	1	to us
 ESG 8:13	1	305	ἡμῖν			2	for us
 ESG 8:13	1	306	τε	τέ	enclitic connective in τε καί	1	both
 ESG 8:13	1	307	καὶ	καί	conjunction	1	and
-ESG 8:13	1	308	τοῖς	ὁ	article, dative masculine plural	1	to our
+ESG 8:13	1	308	τοῖς	ὁ	article, dative masculine plural	1	to the
 ESG 8:13	1	309	προγόνοις	πρόγονος	noun, dative masculine plural	1	ancestors
-ESG 8:13	1	310	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	own
+ESG 8:13	1	310	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 ESG 8:13	1	311	τὴν	ὁ	article, accusative feminine singular	1	the
 ESG 8:13	1	312	βασιλείαν	βασιλεία	noun, accusative feminine singular	1	kingdom
 ESG 8:13	1	313	ἐν	ἐν	preposition with the dative	1	in
@@ -669,7 +669,7 @@ ESG 8:13	1	331	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter 
 ESG 8:13	1	332	ἐξεργασάμενον	ἐξεργάζομαι	aorist middle participle, accusative masculine singular	1	having devised
 ESG 8:13	1	333	πρὸς	πρός	preposition with the accusative	1	at
 ESG 8:13	1	334	ταῖς	ὁ	article, dative feminine plural	1	the
-ESG 8:13	1	335	Σούσων	Σοῦσα	noun, genitive neuter plural	1	of Susa
+ESG 8:13	1	335	Σούσων	Σοῦσα	noun, genitive neuter plural	1	of Shushan
 ESG 8:13	1	336	πύλαις	πύλη	noun, dative feminine plural	1	gates
 ESG 8:13	1	337	ἐσταυρῶσθαι	σταυρόω	perfect passive infinitive	1	to have been impaled
 ESG 8:13	1	338	σὺν	σύν	preposition with dative	1	with
@@ -689,7 +689,7 @@ ESG 8:13	1	351	κρίσιν	κρίσις	noun, accusative feminine singular	1	ju
 ESG 8:13	1	352	τὸ	ὁ	article, nominative neuter singular	1	the
 ESG 8:13	1	353	δὲ	δέ	postpositive conjunction	1	and
 ESG 8:13	1	354	ἀντίγραφον	ἀντίγραφον	noun, nominative neuter singular	1	copy
-ESG 8:13	1	355	τῆς	ὁ	article, genitive feminine singular	1	the
+ESG 8:13	1	355	τῆς	ὁ	article, genitive feminine singular	1	of the
 ESG 8:13	1	356	ἐπιστολῆς	ἐπιστολή	noun, genitive feminine singular	1	letter
 ESG 8:13	1	357	ταύτης	οὗτος	demonstrative adjective, genitive feminine singular with ἐπιστολῆς	1	this
 ESG 8:13	1	358	ἐκτεθέντες	ἐκτίθημι	aorist passive participle, nominative masculine plural as printed; context calls for the copy to be posted	1	once published
@@ -714,7 +714,7 @@ ESG 8:13	1	375	τοὺς	ὁ	article, accusative masculine plural	1	the
 ESG 8:13	1	376	ἐν	ἐν	preposition with the dative	1	in
 ESG 8:13	1	377	καιρῷ	καιρός	noun, dative masculine singular	1	time
 ESG 8:13	1	377	καιρῷ			2	season
-ESG 8:13	1	378	θλίψεως	θλῖψις	noun, genitive feminine singular	1	distress
+ESG 8:13	1	378	θλίψεως	θλῖψις	noun, genitive feminine singular	1	of distress
 ESG 8:13	1	378	θλίψεως			2	trouble
 ESG 8:13	1	379	ἐπιθεμένους	ἐπιτίθημι	aorist middle participle, accusative masculine plural	1	who attack
 ESG 8:13	1	380	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
@@ -776,7 +776,7 @@ ESG 8:13	1	432	τοῖς	ὁ	article, dative masculine plural	1	to the
 ESG 8:13	1	433	Πέρσαις	Πέρσης	noun, dative masculine plural	1	Persians
 ESG 8:13	1	434	τῶν	ὁ	article, genitive masculine plural	1	for those
 ESG 8:13	1	435	δὲ	δέ	postpositive conjunction	1	and
-ESG 8:13	1	436	ὑμῖν	σύ	pronoun, dative second plural	1	to you
+ESG 8:13	1	436	ὑμῖν	σύ	pronoun, dative second plural	1	against you
 ESG 8:13	1	437	ἐπιβουλευσάντων	ἐπιβουλεύω	aorist active participle, genitive masculine plural	1	who plotted
 ESG 8:13	1	438	μνημόσυνον	μνημόσυνον	noun, nominative neuter singular	1	memorial
 ESG 8:13	1	439	τῆς	ὁ	article, genitive feminine singular	1	of
@@ -806,7 +806,7 @@ ESG 8:13	1	460	μόνον	μόνος	adjective, accusative masculine singular	1	
 ESG 8:13	1	461	ἀνθρώποις	ἄνθρωπος	noun, dative masculine plural after ἐν τοῖς	1	to people
 ESG 8:13	1	462	ἄβατος	ἄβατος	adjective, nominative feminine singular	1	impassable
 ESG 8:13	1	463	ἀλλὰ	ἀλλά	adversative conjunction	1	but
-ESG 8:13	1	464	καὶ	καί	conjunction	1	and
+ESG 8:13	1	464	καὶ	καί	conjunction	1	also
 ESG 8:13	1	465	θηρίοις	θηρίον	noun, dative neuter plural	1	to wild animals
 ESG 8:13	1	466	καὶ	καί	conjunction	1	and
 ESG 8:13	1	467	πετεινοῖς	πετεινός	substantival adjective, dative neuter plural	1	birds
@@ -827,7 +827,7 @@ ESG 8:13	1	480	ὀφθαλμοφανῶς	ὀφθαλμοφανῶς	adverb	1	pl
 ESG 8:13	1	481	ἐν	ἐν	preposition with the dative	1	in
 ESG 8:13	1	482	πάσῃ	πᾶς	adjective, dative feminine singular	1	all
 ESG 8:13	1	483	τῇ	ὁ	article, dative feminine singular	1	the
-ESG 8:13	1	484	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	reign
+ESG 8:13	1	484	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	kingdom
 ESG 8:13	1	484	βασιλείᾳ			2	kingship
 ESG 8:13	1	485	ἑτοίμους	ἕτοιμος	adjective, accusative masculine plural	1	ready
 ESG 8:13	1	486	δὲ	δέ	postpositive conjunction	1	and
@@ -835,7 +835,7 @@ ESG 8:13	1	487	εἶναι	εἰμί	present infinitive	1	to be
 ESG 8:13	1	488	πάντας	πᾶς	adjective, accusative masculine plural	1	all
 ESG 8:13	1	489	τοὺς	ὁ	article, accusative masculine plural	1	the
 ESG 8:13	1	490	Ἰουδαίους	Ἰουδαῖος	noun, accusative masculine plural	1	Judeans
-ESG 8:13	1	491	εἰς	εἰς	preposition with the accusative	1	into
+ESG 8:13	1	491	εἰς	εἰς	preposition with the accusative	1	for
 ESG 8:13	1	492	ταύτην	οὗτος	demonstrative pronoun, accusative feminine singular	1	this
 ESG 8:13	1	493	τὴν	ὁ	article, accusative feminine singular	1	the
 ESG 8:13	1	494	ἡμέραν	ἡμέρα	noun, accusative feminine singular	1	day
@@ -859,7 +859,7 @@ ESG 8:14	1	13	ἐξετέθη	ἐκτίθημι	aorist passive indicative, third
 ESG 8:14	1	14	δὲ	δέ	postpositive conjunction	1	and
 ESG 8:14	1	15	τὸ	ὁ	article, nominative neuter singular	1	the
 ESG 8:14	1	16	ἔκθεμα	ἔκθεμα	noun, nominative neuter singular	1	notice
-ESG 8:14	1	17	καὶ	καί	conjunction	1	and
+ESG 8:14	1	17	καὶ	καί	conjunction	1	also
 ESG 8:14	1	18	ἐν	ἐν	preposition with the dative	1	in
 ESG 8:14	1	19	Σούσοις	Σοῦσα	noun, dative neuter plural; proper place name	1	Shushan
 ESG 8:15	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
@@ -881,7 +881,7 @@ ESG 8:15	1	15	βύσσινον	βύσσινος	adjective, accusative neuter sin
 ESG 8:15	1	16	πορφυροῦν	πορφυροῦς	adjective, accusative neuter singular	1	purple
 ESG 8:16	1	1	ἰδόντες	ὁράω	aorist active participle, nominative masculine plural	1	having seen
 ESG 8:16	1	2	δὲ	δέ	postpositive conjunction	1	and
-ESG 8:16	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
+ESG 8:16	1	3	οἱ	ὁ	article, nominative masculine plural	1	those
 ESG 8:16	1	4	ἐν	ἐν	preposition with the dative	1	in
 ESG 8:16	1	5	Σούσοις	Σοῦσα	noun, dative neuter plural; proper place name	1	Shushan
 ESG 8:16	1	6	ἐχάρησαν	χαίρω	aorist passive indicative, third plural	1	rejoiced
@@ -895,13 +895,13 @@ ESG 8:16	1	11	φῶς	φῶς	noun, nominative neuter singular	1	light
 ESG 8:16	1	12	καὶ	καί	conjunction	1	and
 ESG 8:16	1	13	εὐφροσύνη	εὐφροσύνη	noun, nominative feminine singular	1	gladness
 ESG 8:16	1	13	εὐφροσύνη			2	rejoicing
-ESG 8:17	1	1	κατὰ	κατά	preposition with the accusative	1	according to
+ESG 8:17	1	1	κατὰ	κατά	preposition with the accusative	1	in each
 ESG 8:17	1	2	πόλιν	πόλις	noun, accusative feminine singular	1	city
 ESG 8:17	1	3	καὶ	καί	conjunction	1	and
 ESG 8:17	1	4	χώραν	χώρα	noun, accusative feminine singular; place designation in apposition	1	country
 ESG 8:17	1	4	χώραν			2	region
 ESG 8:17	1	5	οὗ	ὅς	relative pronoun, accusative feminine singular; adverbial in an indefinite relative clause	1	wherever
-ESG 8:17	1	6	ἐὰν	ἐάν	conditional conjunction	1	if
+ESG 8:17	1	6	ἐὰν	ἐάν	conditional conjunction	1	ever
 ESG 8:17	1	7	ἐξετέθη	ἐκτίθημι	aorist passive indicative, third singular	1	was posted
 ESG 8:17	1	8	τὸ	ὁ	article, nominative neuter singular	1	the
 ESG 8:17	1	9	ἔκθεμα	ἔκθεμα	noun, nominative neuter singular	1	notice
