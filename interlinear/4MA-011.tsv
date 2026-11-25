@@ -50,7 +50,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 11:3	1	11	ἀδικημάτων			2	offenses
 4MA 11:3	1	12	ὀφειλήσῃς	ὀφείλω	aorist active subjunctive, second singular	1	you may incur
 4MA 11:3	1	12	ὀφειλήσῃς			2	you might incur
-4MA 11:3	1	13	τῇ	ὁ	article, dative feminine singular	1	the
+4MA 11:3	1	13	τῇ	ὁ	article, dative feminine singular	1	to the
 4MA 11:3	1	14	οὐρανίῳ	οὐράνιος	adjective, dative feminine singular	1	heavenly
 4MA 11:3	1	15	δίκῃ	δίκη	noun, dative feminine singular	1	justice
 4MA 11:3	1	16	τιμωρίαν	τιμωρία	noun, accusative feminine singular	1	punishment
@@ -75,7 +75,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 11:5	1	4	δοκεῖ			2	appear
 4MA 11:5	1	5	ὅτι	ὅτι	Subordinating conjunction	1	that
 4MA 11:5	1	6	τὸν	ὁ	article, accusative masculine singular; modifies κτιστήν across an inserted genitive	1	the
-4MA 11:5	1	7	πάντων	πᾶς	adjective, genitive neuter plural	1	all
+4MA 11:5	1	7	πάντων	πᾶς	adjective, genitive neuter plural	1	of all
 4MA 11:5	1	8	κτιστὴν	κτίστης	noun, accusative masculine singular	1	creator
 4MA 11:5	1	8	κτιστὴν			2	founder
 4MA 11:5	1	9	εὐσεβοῦμεν	εὐσεβέω	present active indicative, first plural	1	we revere
@@ -90,9 +90,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 11:5	1	16	νόμον	νόμος	noun accusative masculine singular	1	law
 4MA 11:6	1	1	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 4MA 11:6	1	2	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
-4MA 11:6	1	3	τιμῶν	τιμή	noun, genitive feminine plural	1	honors
+4MA 11:6	1	3	τιμῶν	τιμή	noun, genitive feminine plural	1	of honors
 4MA 11:6	1	4	οὐ	οὐ	negative adverb with future indicative	1	not
-4MA 11:6	1	5	βασάνων	βάσανος	noun, genitive feminine plural	1	tortures
+4MA 11:6	1	5	βασάνων	βάσανος	noun, genitive feminine plural	1	of tortures
 4MA 11:6	1	5	βασάνων			2	torments
 4MA 11:6	1	6	ἐστὶν	εἰμί	present indicative, third singular	1	is
 4MA 11:6	1	7	ἄξια	ἄξιος	adjective, nominative neuter plural	1	worthy
@@ -100,7 +100,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 11:7	1	1	Εἴπερ	εἴπερ	Conditional conjunction	1	if indeed
 4MA 11:7	1	2	ἠσθάνου	αἰσθάνομαι	imperfect middle indicative, second singular	1	you perceived
 4MA 11:7	1	2	ἠσθάνου			2	you were aware of
-4MA 11:7	1	3	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
+4MA 11:7	1	3	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of man
 4MA 11:7	1	4	πόθων	πόθος	noun, genitive masculine plural	1	longings
 4MA 11:7	1	4	πόθων			2	desires
 4MA 11:7	1	5	καὶ	καί	conjunction	1	and
@@ -183,7 +183,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 11:10	1	28	ἀνακλώμενος			2	being broken back
 4MA 11:10	1	29	ἐξεμελίζετο	ἐκμελίζω	imperfect passive indicative, third singular	1	was being dismembered
 4MA 11:10	1	29	ἐξεμελίζετο			2	was torn limb from limb
-4MA 11:11	1	1	Κατὰ	κατά	preposition with the accusative	1	according to
+4MA 11:11	1	1	Κατὰ	κατά	preposition with the accusative	1	in
 4MA 11:11	1	2	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	1	this
 4MA 11:11	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 11:11	1	4	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
@@ -257,18 +257,18 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 11:14	1	2	τῇ	ὁ	article, dative feminine singular	1	on the
 4MA 11:14	1	3	μὲν	μέν	particle	1	indeed
 4MA 11:14	1	4	ἡλικίᾳ	ἡλικία	noun, dative feminine singular	1	age
-4MA 11:14	1	5	τῶν	ὁ	article, genitive masculine plural	1	the
+4MA 11:14	1	5	τῶν	ὁ	article, genitive masculine plural	1	than the
 4MA 11:14	1	6	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 4MA 11:14	1	7	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 4MA 11:14	1	8	εἰμὶ	εἰμί	present indicative, first singular	1	am
 4MA 11:14	1	9	νεώτερος	νέος	adjective, nominative masculine singular; comparative	1	younger
-4MA 11:14	1	10	τῇ	ὁ	article, dative feminine singular	1	to the
+4MA 11:14	1	10	τῇ	ὁ	article, dative feminine singular	1	in the
 4MA 11:14	1	11	δὲ	δέ	postpositive conjunction	1	now
 4MA 11:14	1	12	διανοίᾳ	διάνοια	noun, dative feminine singular	1	mind
 4MA 11:14	1	12	διανοίᾳ			2	thought
 4MA 11:14	1	13	ἡλικιώτης	ἡλικιώτης	noun, nominative masculine singular	1	a peer
 4MA 11:14	1	13	ἡλικιώτης			2	of the same age
-4MA 11:15	1	1	Εἰς	εἰς	preposition with the accusative	1	into
+4MA 11:15	1	1	Εἰς	εἰς	preposition with the accusative	1	for
 4MA 11:15	1	2	τὰ	ὁ	article, accusative neuter plural	1	the
 4MA 11:15	1	3	αὐτὰ	αὐτός	adjective, accusative neuter plural; attributive after article	1	same things
 4MA 11:15	1	4	γὰρ	γάρ	postpositive conjunction	1	for
@@ -352,7 +352,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 11:20	1	5	ἱεροπρεποῦς			2	holy
 4MA 11:20	1	6	ἀγῶνος	ἀγών	noun, genitive masculine singular; exclamatory genitive	1	contest
 4MA 11:20	1	6	ἀγῶνος			2	struggle
-4MA 11:20	1	7	ἔλεγεν	λέγω	imperfect active indicative, third singular	1	would say
+4MA 11:20	1	7	ἔλεγεν	λέγω	imperfect active indicative, third singular	1	was saying
 4MA 11:20	1	8	ἐφ᾽	ἐπί	Preposition with printed particle in a relative-like expression	1	in which
 4MA 11:20	1	8	ἐφ᾽			2	for which
 4MA 11:20	1	9	ἂν	ἄν	Modal particle as printed	1	—
@@ -413,14 +413,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 11:23	1	10	τιμωρὸν			2	one who punishes
 4MA 11:23	1	11	καινουργὲ	καινουργός	noun, vocative masculine singular	1	inventor
 4MA 11:23	1	11	καινουργὲ			2	deviser
-4MA 11:23	1	12	τῶν	ὁ	article, genitive plural	1	the
+4MA 11:23	1	12	τῶν	ὁ	article, genitive plural	1	of the
 4MA 11:23	1	13	βασάνων	βάσανος	noun, genitive feminine plural	1	tortures
 4MA 11:23	1	13	βασάνων			2	torments
 4MA 11:23	1	14	καὶ	καί	conjunction	1	and
 4MA 11:23	1	15	πολέμιε	πολέμιος	adjective, vocative masculine singular; used substantivally	1	enemy
-4MA 11:23	1	16	τῶν	ὁ	article, genitive plural	1	the
+4MA 11:23	1	16	τῶν	ὁ	article, genitive plural	1	of those
 4MA 11:23	1	17	ἀληθῶς	ἀληθῶς	adverb	1	truly
-4MA 11:23	1	18	εὐσεβούντων	εὐσεβέω	present active participle, genitive masculine plural; used substantivally	1	those who act reverently
+4MA 11:23	1	18	εὐσεβούντων	εὐσεβέω	present active participle, genitive masculine plural; used substantivally	1	who act reverently
 4MA 11:23	1	18	εὐσεβούντων			2	the devout
 4MA 11:24	1	1	Ἕξ	ἕξ	indeclinable cardinal numeral	1	six
 4MA 11:24	1	2	μειράκια	μειράκιον	noun, nominative neuter plural	1	young men
@@ -478,7 +478,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 11:27	1	2	γὰρ	γάρ	postpositive conjunction	1	for
 4MA 11:27	1	3	τυράννου	τύραννος	noun, genitive masculine singular	1	of a tyrant
 4MA 11:27	1	4	ἀλλὰ	ἀλλά	adversative conjunction	1	but
-4MA 11:27	1	5	θείου	θεῖος	adjective, genitive masculine singular	1	divine
+4MA 11:27	1	5	θείου	θεῖος	adjective, genitive masculine singular	1	of divine
 4MA 11:27	1	6	νόμου	νόμος	noun, genitive masculine singular	1	law
 4MA 11:27	1	7	προεστήκασιν	προΐστημι	perfect active indicative, third plural	1	preside over
 4MA 11:27	1	7	προεστήκασιν			2	stand over

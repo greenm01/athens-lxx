@@ -37,7 +37,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 10:2	1	9	αὐτός	αὐτός	adjective, nominative masculine singular; attributive after article	1	same
 4MA 10:2	1	10	με	ἐγώ	personal pronoun, accusative singular	1	me
 4MA 10:2	1	11	τοῖς	ὁ	article, dative masculine plural	1	along with those
-4MA 10:2	1	12	ἀποθανοῦσιν	ἀποθνῄσκω	aorist active participle, dative masculine plural; used substantivally	1	those who died
+4MA 10:2	1	12	ἀποθανοῦσιν	ἀποθνῄσκω	aorist active participle, dative masculine plural; used substantivally	1	who died
 4MA 10:2	1	13	ἔσπειρεν	σπείρω	aorist active indicative, third singular	1	begot
 4MA 10:2	1	13	ἔσπειρεν			2	sowed
 4MA 10:2	1	14	πατὴρ	πατήρ	noun, nominative masculine singular	1	father
@@ -100,7 +100,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 10:5	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 4MA 10:5	1	6	παῤῥησίαν	παρρησία	noun, accusative feminine singular	1	frankness
 4MA 10:5	1	6	παῤῥησίαν			2	boldness of speech
-4MA 10:5	1	7	τοῦ	ὁ	article, genitive masculine singular	1	the
+4MA 10:5	1	7	τοῦ	ὁ	article, genitive masculine singular	1	of the
 4MA 10:5	1	8	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	man
 4MA 10:5	1	8	ἀνδρὸς			2	husband
 4MA 10:5	1	9	ἀρθρεμβόλοις	ἀρθρέμβολος	adjective, dative neuter plural	1	for dislocating joints
@@ -139,8 +139,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 10:6	1	13	περιέκλων	περικλάω	imperfect active indicative, third plural	1	they were breaking
 4MA 10:6	1	13	περιέκλων			2	they broke
 4MA 10:7	1	1	Καὶ	καί	conjunction	1	and
-4MA 10:7	1	2	κατὰ	κατά	preposition with the accusative	1	according to
-4MA 10:7	1	3	μηδένα	μηδείς	adjective, accusative masculine singular; substantival	1	no one
+4MA 10:7	1	2	κατὰ	κατά	preposition with the accusative	1	in
+4MA 10:7	1	3	μηδένα	μηδείς	adjective, accusative masculine singular; substantival	1	no
 4MA 10:7	1	4	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
 4MA 10:7	1	5	ἰσχύοντες	ἰσχύω	present active participle, nominative masculine plural	1	being able
 4MA 10:7	1	5	ἰσχύοντες			2	having the strength
@@ -275,7 +275,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 10:15	1	1	Μὰ	μά	Particle introducing an oath	1	by
 4MA 10:15	1	2	τὸν	ὁ	article with a personal name, accusative masculine singular, marks the name	1	—
 4MA 10:15	1	3	μακάριον	μακάριος	adjective, accusative masculine singular	1	blessed
-4MA 10:15	1	4	τῶν	ὁ	article, genitive masculine plural	1	the
+4MA 10:15	1	4	τῶν	ὁ	article, genitive masculine plural	1	of the
 4MA 10:15	1	5	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 4MA 10:15	1	6	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 4MA 10:15	1	7	θάνατον	θάνατος	noun, accusative masculine singular	1	death
@@ -373,7 +373,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 10:20	1	2	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
 4MA 10:20	1	3	τοῦ	ὁ	article, genitive singular	1	the
 4MA 10:20	1	4	νόμου	νόμος	noun, genitive masculine singular	1	law
-4MA 10:20	1	5	τοῦ	ὁ	article, genitive singular	1	the
+4MA 10:20	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 4MA 10:20	1	6	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 4MA 10:20	1	7	τὰ	ὁ	article, accusative neuter plural	1	the
 4MA 10:20	1	8	τοῦ	ὁ	article, genitive neuter singular	1	of the
@@ -394,7 +394,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 10:21	1	6	Θεός	θεός	noun, nominative masculine singular	1	God
 4MA 10:21	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 4MA 10:21	1	8	γὰρ	γάρ	postpositive conjunction	1	for
-4MA 10:21	1	9	τῶν	ὁ	article, genitive plural	1	the
+4MA 10:21	1	9	τῶν	ὁ	article, genitive plural	1	of the
 4MA 10:21	1	10	θείων	θεῖος	adjective, genitive neuter plural	1	divine
 4MA 10:21	1	11	ὕμνων	ὕμνος	noun, genitive masculine plural	1	hymns
 4MA 10:21	1	11	ὕμνων			2	songs of praise

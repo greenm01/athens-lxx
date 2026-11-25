@@ -29,14 +29,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:2	1	1	καὶ	καί	conjunction	1	and
 4MA 7:2	1	2	καταικιζόμενος	καταικίζω	present passive participle, nominative masculine singular	1	buffeted
 4MA 7:2	1	2	καταικιζόμενος			2	tormented
-4MA 7:2	1	3	ταῖς	ὁ	article, dative feminine plural	1	the
+4MA 7:2	1	3	ταῖς	ὁ	article, dative feminine plural	1	by the
 4MA 7:2	1	4	τοῦ	ὁ	article, genitive singular	1	of the
 4MA 7:2	1	5	τυράννου	τύραννος	noun, genitive masculine singular	1	tyrant
 4MA 7:2	1	6	ἀπειλαῖς	ἀπειλή	noun, dative feminine plural	1	threats
 4MA 7:2	1	7	καὶ	καί	conjunction	1	and
 4MA 7:2	1	8	καταντλούμενος	καταντλέω	present passive participle, nominative masculine singular	1	being drenched
 4MA 7:2	1	8	καταντλούμενος			2	being swamped
-4MA 7:2	1	9	ταῖς	ὁ	article, dative feminine plural	1	the
+4MA 7:2	1	9	ταῖς	ὁ	article, dative feminine plural	1	by the
 4MA 7:2	1	10	τῶν	ὁ	article, genitive plural	1	of the
 4MA 7:2	1	11	βασάνων	βάσανος	noun, genitive feminine plural	1	tortures
 4MA 7:2	1	11	βασάνων			2	torments
@@ -62,7 +62,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:3	1	15	ἀθανάτου	ἀθάνατος	adjective, genitive feminine singular	1	immortal
 4MA 7:3	1	15	ἀθανάτου			2	undying
 4MA 7:3	1	16	νίκης	νίκη	noun, genitive feminine singular	1	victory
-4MA 7:3	1	17	λιμένα	λιμήν	noun accusative masculine singular	1	a harbor
+4MA 7:3	1	17	λιμένα	λιμήν	noun accusative masculine singular	1	harbor
 4MA 7:4	1	1	Οὐχ	οὐ	negative particle	1	not
 4MA 7:4	1	2	οὕτως	οὕτως	adverb	1	thus
 4MA 7:4	1	3	πόλις	πόλις	noun, nominative feminine singular	1	city
@@ -74,7 +74,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:4	1	7	μηχανήμασιν			2	devices
 4MA 7:4	1	8	ἀντέσχεν	ἀντέχω	aorist active indicative, third singular	1	held out
 4MA 7:4	1	8	ἀντέσχεν			2	withstood
-4MA 7:4	1	9	ποτὲ	ποτέ	adverb	1	once
+4MA 7:4	1	9	ποτὲ	ποτέ	adverb	1	ever
 4MA 7:4	1	10	πολιορκουμένη	πολιορκέω	present passive participle, nominative feminine singular	1	being besieged
 4MA 7:4	1	10	πολιορκουμένη			2	under siege
 4MA 7:4	1	11	ὡς	ὡς	comparative particle	1	as
@@ -125,7 +125,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:5	1	12	περιέκλασεν			2	he smashed
 4MA 7:5	1	13	τοὺς	ὁ	article, accusative masculine plural	1	the
 4MA 7:5	1	14	μαινομένους	μαίνομαι	present middle participle, accusative masculine plural	1	raging
-4MA 7:5	1	15	τῶν	ὁ	article, genitive plural	1	the
+4MA 7:5	1	15	τῶν	ὁ	article, genitive plural	1	of the
 4MA 7:5	1	16	παθῶν	πάθος	noun, genitive neuter plural	1	passions
 4MA 7:5	1	16	παθῶν			2	emotions
 4MA 7:5	1	17	κλύδωνας	κλύδων	noun, accusative masculine plural	1	surges
@@ -165,7 +165,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:7	1	4	καὶ	καί	conjunction	1	and
 4MA 7:7	1	5	φιλόσοφε	φιλόσοφος	adjective, vocative masculine singular; used substantivally	1	philosopher
 4MA 7:7	1	5	φιλόσοφε			2	lover of wisdom
-4MA 7:7	1	6	θείου	θεῖος	adjective, genitive masculine singular	1	divine
+4MA 7:7	1	6	θείου	θεῖος	adjective, genitive masculine singular	1	of divine
 4MA 7:7	1	7	βίου	βίος	noun, genitive masculine singular	1	life
 4MA 7:7	1	7	βίου			2	lifetime
 4MA 7:8	1	1	Τοιούτους	τοιοῦτος	adjective, accusative masculine plural; used substantivally	1	such people
@@ -185,9 +185,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:8	1	12	γενναίῳ	γενναῖος	adjective, dative masculine singular	1	noble
 4MA 7:8	1	12	γενναίῳ			2	brave
 4MA 7:8	1	13	ἱδρῶτι	ἱδρώς	noun, dative masculine singular	1	sweat
-4MA 7:8	1	14	τοῖς	ὁ	article, dative masculine plural	1	the
+4MA 7:8	1	14	τοῖς	ὁ	article, dative masculine plural	1	by the
 4MA 7:8	1	15	μέχρι	μέχρι	preposition with genitive	1	until
-4MA 7:8	1	16	θανάτου	θάνατος	noun, genitive masculine singular	1	of death
+4MA 7:8	1	16	θανάτου	θάνατος	noun, genitive masculine singular	1	death
 4MA 7:8	1	17	πάθεσιν	πάθος	noun, dative neuter plural	1	sufferings
 4MA 7:8	1	17	πάθεσιν			2	experiences
 4MA 7:8	1	18	ὑπερασπίζοντας	ὑπερασπίζω	present active participle, accusative masculine plural	1	defending
@@ -229,19 +229,19 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:9	1	27	λόγους	λόγος	noun, accusative masculine plural	1	arguments
 4MA 7:9	1	27	λόγους			2	words
 4MA 7:10	1	1	Ὦ	ὦ	vocative particle	1	O
-4MA 7:10	1	2	βασάνων	βάσανος	noun, genitive feminine plural	1	tortures
+4MA 7:10	1	2	βασάνων	βάσανος	noun, genitive feminine plural	1	than tortures
 4MA 7:10	1	2	βασάνων			2	torments
 4MA 7:10	1	3	βιαιότερε	βίαιος	adjective, vocative masculine singular; comparative	1	stronger
 4MA 7:10	1	3	βιαιότερε			2	more powerful
 4MA 7:10	1	4	γέρων	γέρων	noun, vocative masculine singular	1	old man
 4MA 7:10	1	5	καὶ	καί	conjunction	1	and
-4MA 7:10	1	6	πυρὸς	πῦρ	noun, genitive neuter singular	1	of fire
+4MA 7:10	1	6	πυρὸς	πῦρ	noun, genitive neuter singular	1	than fire
 4MA 7:10	1	7	εὐτονώτερε	εὔτονος	adjective, vocative masculine singular; comparative	1	more vigorous
 4MA 7:10	1	7	εὐτονώτερε			2	stronger
 4MA 7:10	1	8	πρεσβύτα	πρεσβύτης	noun, vocative masculine singular	1	elder
 4MA 7:10	1	8	πρεσβύτα			2	old man
 4MA 7:10	1	9	καὶ	καί	conjunction	1	and
-4MA 7:10	1	10	παθῶν	πάθος	noun, genitive neuter plural	1	passions
+4MA 7:10	1	10	παθῶν	πάθος	noun, genitive neuter plural	1	of passions
 4MA 7:10	1	10	παθῶν			2	emotions
 4MA 7:10	1	11	μέγιστε	μέγας	adjective, vocative masculine singular; superlative	1	greatest
 4MA 7:10	1	12	βασιλεῦ	βασιλεύς	noun, vocative masculine singular	1	king
@@ -260,7 +260,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:11	1	10	τοῦ	ὁ	article, genitive singular	1	the
 4MA 7:11	1	11	ἐθνοπλήκτου	ἐθνοπλήκτης	adjective, genitive masculine singular; first-declension adjective	1	that struck the nation
 4MA 7:11	1	11	ἐθνοπλήκτου			2	nation-smiting
-4MA 7:11	1	12	πυρὸς	πῦρ	noun, genitive neuter singular	1	of fire
+4MA 7:11	1	12	πυρὸς	πῦρ	noun, genitive neuter singular	1	fire
 4MA 7:11	1	13	ἐπιτρέχων	ἐπιτρέχω	present active participle, nominative masculine singular	1	running
 4MA 7:11	1	13	ἐπιτρέχων			2	rushing
 4MA 7:11	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -278,7 +278,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:12	1	4	Ἐλεάζαρος	Ἐλεάζαρος	noun, nominative masculine singular	1	Eleazar
 4MA 7:12	1	5	διὰ	διά	preposition with the genitive	1	through
 4MA 7:12	1	6	τοῦ	ὁ	article, genitive singular	1	the
-4MA 7:12	1	7	πυρὸς	πῦρ	noun, genitive neuter singular	1	of fire
+4MA 7:12	1	7	πυρὸς	πῦρ	noun, genitive neuter singular	1	fire
 4MA 7:12	1	8	ὑπερτηκόμενος	ὑπερτήκω	present passive participle, nominative masculine singular	1	being melted down
 4MA 7:12	1	8	ὑπερτηκόμενος			2	being consumed
 4MA 7:12	1	9	οὐ	οὐ	negative adverb with future indicative	1	not
@@ -293,7 +293,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:13	1	3	θαυμασιώτατον	θαυμάσιος	adjective, nominative neuter singular; superlative used substantivally	1	most astonishing thing
 4MA 7:13	1	4	γέρων	γέρων	noun, nominative masculine singular	1	old man
 4MA 7:13	1	5	ὤν	εἰμί	present active participle, nominative masculine singular	1	being
-4MA 7:13	1	6	λελυμένων	λύω	perfect passive participle, genitive masculine plural; genitive absolute	1	having loosened
+4MA 7:13	1	6	λελυμένων	λύω	perfect passive participle, genitive masculine plural; genitive absolute	1	having been loosened
 4MA 7:13	1	6	λελυμένων			2	being slackened
 4MA 7:13	1	7	μὲν	μέν	particle	1	indeed
 4MA 7:13	1	8	ἤδη	ἤδη	adverb of time	1	already
@@ -314,18 +314,18 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:13	1	18	κεκμηκότων			2	having worn out
 4MA 7:13	1	19	δὲ	δέ	postpositive conjunction	1	and
 4MA 7:13	1	20	καὶ	καί	conjunction	1	also
-4MA 7:13	1	21	τῶν	ὁ	article, genitive neuter plural	1	of the
+4MA 7:13	1	21	τῶν	ὁ	article, genitive neuter plural	1	the
 4MA 7:13	1	22	νεύρων	νεῦρον	noun, genitive neuter plural	1	sinews
 4MA 7:13	1	22	νεύρων			2	nerves
 4MA 7:13	1	23	ἀνενέασεν	ἀνανεάζω	aorist active indicative, third singular	1	he grew young again
 4MA 7:13	1	23	ἀνενέασεν			2	he renewed his strength
-4MA 7:14	1	1	Τῷ	ὁ	article, dative neuter singular	1	the
+4MA 7:14	1	1	Τῷ	ὁ	article, dative neuter singular	1	by the
 4MA 7:14	1	2	πνεύματι	πνεῦμα	noun, dative neuter singular	1	spirit
 4MA 7:14	1	3	τοῦ	ὁ	article, genitive masculine singular	1	of the
 4MA 7:14	1	4	λογισμοῦ	λογισμός	noun, genitive masculine singular	1	reason
 4MA 7:14	1	4	λογισμοῦ			2	reasoning
 4MA 7:14	1	5	καὶ	καί	conjunction	1	and
-4MA 7:14	1	6	τῷ	ὁ	article, dative masculine singular	1	to
+4MA 7:14	1	6	τῷ	ὁ	article, dative masculine singular	1	by the
 4MA 7:14	1	7	Ἰσακείῳ	Ἰσακεῖος	adjective, dative masculine singular	1	like Isaac's
 4MA 7:14	1	7	Ἰσακείῳ			2	of Isaac
 4MA 7:14	1	8	λογισμῷ	λογισμός	noun, dative masculine singular	1	reason
@@ -359,11 +359,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:16	1	2	δὲ	δέ	postpositive conjunction	1	and
 4MA 7:16	1	3	τοίνυν	τοίνυν	inferential particle	1	therefore
 4MA 7:16	1	3	τοίνυν			2	then
-4MA 7:16	1	4	γέρων	γέρων	noun, nominative masculine singular	1	old man
+4MA 7:16	1	4	γέρων	γέρων	noun, nominative masculine singular	1	old
 4MA 7:16	1	5	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	a man
-4MA 7:16	1	6	τῶν	ὁ	article, genitive masculine plural	1	from the
+4MA 7:16	1	6	τῶν	ὁ	article, genitive masculine plural	1	the
 4MA 7:16	1	7	μέχρι	μέχρι	preposition with genitive	1	until
-4MA 7:16	1	8	θανάτου	θάνατος	noun, genitive masculine singular	1	of death
+4MA 7:16	1	8	θανάτου	θάνατος	noun, genitive masculine singular	1	death
 4MA 7:16	1	9	βασάνων	βάσανος	noun, genitive feminine plural	1	tortures
 4MA 7:16	1	9	βασάνων			2	torments
 4MA 7:16	1	10	περιεφρόνησεν	περιφρονέω	aorist active indicative, third singular	1	disregarded
@@ -376,7 +376,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:16	1	14	ἡγεμών	ἡγεμών	noun, nominative masculine singular	1	ruler
 4MA 7:16	1	14	ἡγεμών			2	guide
 4MA 7:16	1	15	ἐστιν	εἰμί	present indicative, third singular	1	is
-4MA 7:16	1	16	τῶν	ὁ	article, genitive plural	1	the
+4MA 7:16	1	16	τῶν	ὁ	article, genitive plural	1	of the
 4MA 7:16	1	17	παθῶν	πάθος	noun, genitive neuter plural	1	passions
 4MA 7:16	1	17	παθῶν			2	emotions
 4MA 7:16	1	18	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -432,7 +432,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:19	1	1	οἱ	ὁ	article, nominative masculine plural	1	the
 4MA 7:19	1	2	πιστεύοντες	πιστεύω	present active participle, nominative masculine plural	1	believing
 4MA 7:19	1	2	πιστεύοντες			2	trusting
-4MA 7:19	1	3	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+4MA 7:19	1	3	ὅτι	ὅτι	causal/that conjunction (from context)	1	that
 4MA 7:19	1	4	Θεῷ	θεός	noun, dative masculine singular	1	to God
 4MA 7:19	1	4	Θεῷ			2	for God
 4MA 7:19	1	5	οὐκ	οὐ	negative particle	1	not
@@ -487,7 +487,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:21	1	13	Θεῷ			2	for God
 4MA 7:22	1	1	καὶ	καί	conjunction	1	and
 4MA 7:22	1	2	εἰδὼς	οἶδα	perfect active participle, nominative masculine singular; present sense	1	knowing
-4MA 7:22	1	3	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+4MA 7:22	1	3	ὅτι	ὅτι	causal/that conjunction (from context)	1	that
 4MA 7:22	1	4	τὸ	ὁ	article, neuter singular (case from context)	1	the
 4MA 7:22	1	5	διὰ	διά	preposition with the accusative	1	because of
 4MA 7:22	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -503,7 +503,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:22	1	14	ἂν	ἄν	Modal particle with potential optative	1	—
 4MA 7:22	1	15	περικρατήσειεν	περικρατέω	aorist active optative, third singular	1	would master
 4MA 7:22	1	15	περικρατήσειεν			2	would gain control
-4MA 7:22	1	16	τῶν	ὁ	article, genitive neuter plural	1	of the
+4MA 7:22	1	16	τῶν	ὁ	article, genitive neuter plural	1	the
 4MA 7:22	1	17	παθῶν	πάθος	noun, genitive neuter plural	1	passions
 4MA 7:22	1	17	παθῶν			2	emotions
 4MA 7:22	1	18	διὰ	διά	preposition with the accusative	1	because of
@@ -520,7 +520,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:23	1	7	ἀνδρεῖός	ἀνδρεῖος	adjective, nominative masculine singular	1	courageous
 4MA 7:23	1	7	ἀνδρεῖός			2	brave
 4MA 7:23	1	8	ἐστι	εἰμί	present indicative, third singular	1	is
-4MA 7:23	1	9	τῶν	ὁ	article, genitive neuter plural	1	the
+4MA 7:23	1	9	τῶν	ὁ	article, genitive neuter plural	1	of the
 4MA 7:23	1	10	παθῶν	πάθος	noun, genitive neuter plural	1	passions
 4MA 7:23	1	10	παθῶν			2	emotions
 4MA 7:23	1	11	κύριος	κύριος	adjective, nominative masculine singular	1	master
@@ -532,7 +532,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:24	1	5	καὶ	καί	conjunction	1	and
 4MA 7:24	1	6	μειρακίσκοι	μειρακίσκος	noun, nominative masculine plural	1	young men
 4MA 7:24	1	6	μειρακίσκοι			2	lads
-4MA 7:24	1	7	τῷ	ὁ	article, dative masculine singular	1	the
+4MA 7:24	1	7	τῷ	ὁ	article, dative masculine singular	1	by the
 4MA 7:24	1	8	τῆς	ὁ	article, genitive feminine singular	1	of
 4MA 7:24	1	9	εὐσεβείας	εὐσέβεια	noun, genitive feminine singular	1	piety
 4MA 7:24	1	9	εὐσεβείας			2	devotion
@@ -562,7 +562,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:25	1	10	τύραννος	τύραννος	noun, nominative masculine singular	1	tyrant
 4MA 7:25	1	10	τύραννος			2	despot
 4MA 7:25	1	11	μὴ	μή	negative particle	1	not
-4MA 7:25	1	12	δυνηθεὶς	δύναμαι	aorist passive participle, nominative masculine singular	1	being unable
+4MA 7:25	1	12	δυνηθεὶς	δύναμαι	aorist passive participle, nominative masculine singular	1	being able
 4MA 7:25	1	12	δυνηθεὶς			2	having been unable
 4MA 7:25	1	13	ἀναγκάσαι	ἀναγκάζω	aorist active infinitive	1	to force
 4MA 7:25	1	13	ἀναγκάσαι			2	to compel

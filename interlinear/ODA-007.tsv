@@ -1,6 +1,6 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 ODA 7:0	1	1	ΠΡΟΣΕΥΧΗ	προσευχή	noun, nominative feminine singular	1	prayer
-ODA 7:0	1	2	Ἐζεκίου	Ἐζεκίας	noun, genitive masculine singular; personal name	1	Hezekiah
+ODA 7:0	1	2	Ἐζεκίου	Ἐζεκίας	noun, genitive masculine singular; personal name	1	of Hezekiah
 ODA 7:10	1	1	Ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 ODA 7:10	1	2	εἶπα	λέγω	aorist active indicative, first singular	1	said
 ODA 7:10	1	3	ἐν	ἐν	preposition with dative	1	in
@@ -12,7 +12,7 @@ ODA 7:10	1	8	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ODA 7:10	1	9	πορεύσομαι	πορεύομαι	future middle indicative, first person singular	1	I will go
 ODA 7:10	1	10	ἐν	ἐν	preposition with the dative	1	in
 ODA 7:10	1	11	πύλαις	πύλη	noun, dative feminine plural	1	gates
-ODA 7:10	1	12	ᾅδου	ᾅδης	noun, genitive masculine singular	1	Hades
+ODA 7:10	1	12	ᾅδου	ᾅδης	noun, genitive masculine singular	1	of Hades
 ODA 7:10	1	12	ᾅδου			2	the realm of the dead
 ODA 7:10	1	13	καταλείψω	καταλείπω	future active indicative, first singular	1	I will leave behind
 ODA 7:10	1	14	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -28,13 +28,13 @@ ODA 7:11	1	5	ἴδω	ὁράω	aorist active subjunctive, first singular	1	I may
 ODA 7:11	1	6	τὸ	ὁ	article accusative neuter singular	1	the
 ODA 7:11	1	7	σωτήριον	σωτήριος	adjective, accusative neuter singular; substantival	1	deliverance
 ODA 7:11	1	7	σωτήριον			2	salvation
-ODA 7:11	1	8	τοῦ	ὁ	article, genitive masculine singular	1	the
+ODA 7:11	1	8	τοῦ	ὁ	article, genitive masculine singular	1	of the
 ODA 7:11	1	9	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 ODA 7:11	1	10	ἐπὶ	ἐπί	preposition with genitive	1	at
 ODA 7:11	1	10	ἐπὶ			2	beside
 ODA 7:11	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
 ODA 7:11	1	12	γῆς	γῆ	noun, genitive feminine singular	1	earth
-ODA 7:11	1	13	ζώντων	ζάω	present active participle, genitive masculine plural, substantival	1	living ones
+ODA 7:11	1	13	ζώντων	ζάω	present active participle, genitive masculine plural, substantival	1	of living ones
 ODA 7:11	1	13	ζώντων			2	those who live
 ODA 7:11	1	14	οὐ	οὐ	negative particle	1	not
 ODA 7:11	1	15	μὴ	μή	negative particle completing οὐ μή	1	at all
@@ -59,7 +59,7 @@ ODA 7:12	1	10	ζωῆς	ζωή	noun, genitive feminine singular	1	life
 ODA 7:12	1	11	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ODA 7:12	1	12	ἐξῆλθε	ἐξέρχομαι	aorist active indicative, third singular	1	went out
 ODA 7:12	1	13	καὶ	καί	conjunction	1	and
-ODA 7:12	1	14	ἀπῆλθεν	ἀπέρχομαι	aorist active indicative, third person singular	1	he went away
+ODA 7:12	1	14	ἀπῆλθεν	ἀπέρχομαι	aorist active indicative, third person singular	1	went away
 ODA 7:12	1	15	ἀπ᾽	ἀπό	preposition with the genitive, elided	1	from
 ODA 7:12	1	16	ἐμοῦ	ἐγώ	pronoun, genitive first singular	1	me
 ODA 7:12	1	17	ὥσπερ	ὥσπερ	comparative conjunction	1	just as
@@ -74,12 +74,12 @@ ODA 7:12	1	23	πνεῦμά	πνεῦμα	noun, nominative neuter singular	1	spi
 ODA 7:12	1	23	πνεῦμά			2	breath
 ODA 7:12	1	24	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 ODA 7:12	1	25	παρ᾽	παρά	preposition with the accusative, elided	1	beside
-ODA 7:12	1	26	ἐμοὶ	ἐγώ	personal pronoun, emphatic dative singular	1	to me
-ODA 7:12	1	27	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
+ODA 7:12	1	26	ἐμοὶ	ἐγώ	personal pronoun, emphatic dative singular	1	me
+ODA 7:12	1	27	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	became
 ODA 7:12	1	28	ὡς	ὡς	comparative particle	1	as
 ODA 7:12	1	29	ἱστὸς	ἱστός	noun, nominative masculine singular	1	loom
 ODA 7:12	1	29	ἱστὸς			2	web
-ODA 7:12	1	30	ἐρίθου	ἔριθος	noun, genitive feminine singular	1	weaver
+ODA 7:12	1	30	ἐρίθου	ἔριθος	noun, genitive feminine singular	1	of weaver
 ODA 7:12	1	30	ἐρίθου			2	worker in wool
 ODA 7:12	1	31	ἐγγιζούσης	ἐγγίζω	present active participle, genitive feminine singular	1	coming near
 ODA 7:12	1	31	ἐγγιζούσης			2	approaching
@@ -90,11 +90,11 @@ ODA 7:13	1	3	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 ODA 7:13	1	4	ἐκείνῃ	ἐκεῖνος	demonstrative pronoun, dative feminine singular	1	that
 ODA 7:13	1	5	παρεδόθην	παραδίδωμι	aorist passive indicative, first singular	1	I was given over
 ODA 7:13	1	5	παρεδόθην			2	I was handed over
-ODA 7:13	1	6	ἕως	ἕως	preposition with the genitive	1	as far as
+ODA 7:13	1	6	ἕως	ἕως	preposition with the genitive	1	until
 ODA 7:13	1	6	ἕως			2	up to
 ODA 7:13	1	7	πρωῒ	πρωί	adverb used as a time designation	1	morning
-ODA 7:13	1	8	ὡς	ὡς	comparative particle	1	when
-ODA 7:13	1	9	λέοντι	λέων	noun, dative masculine singular	1	lion
+ODA 7:13	1	8	ὡς	ὡς	comparative particle	1	as
+ODA 7:13	1	9	λέοντι	λέων	noun, dative masculine singular	1	to a lion
 ODA 7:13	1	10	οὕτως	οὕτως	adverb of manner	1	so
 ODA 7:13	1	11	συνέτριψε	συντρίβω	aorist active indicative third singular	1	he shattered
 ODA 7:13	1	12	πάντα	πᾶς	adjective, accusative neuter plural	1	all
@@ -152,7 +152,7 @@ ODA 7:15	1	10	ψυχῆς	ψυχή	noun, genitive feminine singular; refers to a
 ODA 7:16	1	1	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 ODA 7:16	1	1	Κύριε			2	Lord
 ODA 7:16	1	2	καὶ	καί	conjunction	1	and
-ODA 7:16	1	3	περὶ	περί	preposition with genitive	1	for
+ODA 7:16	1	3	περὶ	περί	preposition with genitive	1	concerning
 ODA 7:16	1	4	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 ODA 7:16	1	5	γὰρ	γάρ	postpositive conjunction	1	for
 ODA 7:16	1	6	ἀνηγγέλη	ἀναγγέλλω	aorist passive indicative, third singular, impersonal 'it was reported'	1	it was reported
@@ -162,7 +162,7 @@ ODA 7:16	1	9	ἐξήγειράς	ἐξεγείρω	aorist active indicative, sec
 ODA 7:16	1	9	ἐξήγειράς			2	you raised
 ODA 7:16	1	10	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ODA 7:16	1	11	τὴν	ὁ	article, accusative feminine singular	1	the
-ODA 7:16	1	12	πνοὴν	πνοή	noun, accusative feminine singular	1	a breath
+ODA 7:16	1	12	πνοὴν	πνοή	noun, accusative feminine singular	1	breath
 ODA 7:16	1	13	καὶ	καί	conjunction	1	and
 ODA 7:16	1	14	παρακληθεὶς	παρακαλέω	aorist passive participle, nominative masculine singular	1	comforted
 ODA 7:16	1	14	παρακληθεὶς			2	encouraged
@@ -171,7 +171,7 @@ ODA 7:16	1	15	ἔζησα			2	I came to life
 ODA 7:17	1	1	Ἰδοὺ	ἰδού	presentative particle	1	behold
 ODA 7:17	1	2	εἰς	εἰς	preposition with the accusative	1	into
 ODA 7:17	1	3	εἰρήνην	εἰρήνη	noun, accusative feminine singular	1	peace
-ODA 7:17	1	4	πικρία	Πικρία	place name, nominative fem. sg. predicate 'Bitterness'	1	Pikria (Bitterness)
+ODA 7:17	1	4	πικρία	Πικρία	place name, nominative fem. sg. predicate 'Bitterness'	1	bitterness
 ODA 7:17	1	5	μοι	ἐγώ	personal pronoun dative singular	1	to me
 ODA 7:17	1	6	εἵλου	αἱρέω	aorist middle indicative, second singular	1	you took
 ODA 7:17	1	6	εἵλου			2	you took hold of
@@ -187,16 +187,16 @@ ODA 7:17	1	13	ἀπόληται	ἀπόλλυμι	aorist middle subjunctive, thi
 ODA 7:17	1	14	καὶ	καί	conjunction	1	and
 ODA 7:17	1	15	ἀπέῤῥιψας	ἀπορρίπτω	aorist active indicative, second singular	1	you threw away
 ODA 7:17	1	15	ἀπέῤῥιψας			2	you cast away
-ODA 7:17	1	16	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	after
-ODA 7:17	1	16	ὀπίσω			2	behind
-ODA 7:17	1	17	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
+ODA 7:17	1	16	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	1	behind
+ODA 7:17	1	16	ὀπίσω			2	after
+ODA 7:17	1	17	μου	ἐγώ	pronoun, possessive genitive first singular	1	me
 ODA 7:17	1	18	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 ODA 7:17	1	19	τὰς	ὁ	article accusative feminine plural	1	the
 ODA 7:17	1	20	ἁμαρτίας	ἁμαρτία	noun accusative feminine plural	1	sins
 ODA 7:17	1	21	μου	ἐγώ	personal pronoun genitive first singular	1	my
 ODA 7:18	1	1	Οὐ	οὐ	negative adverb with future indicative	1	not
 ODA 7:18	1	2	γὰρ	γάρ	explanatory conjunction	1	for
-ODA 7:18	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
+ODA 7:18	1	3	οἱ	ὁ	article, nominative masculine plural	1	those
 ODA 7:18	1	4	ἐν	ἐν	preposition with the dative	1	in
 ODA 7:18	1	5	ᾅδου	ᾅδης	noun, genitive masculine singular	1	Hades
 ODA 7:18	1	5	ᾅδου			2	the realm of the dead
@@ -209,7 +209,7 @@ ODA 7:18	1	11	εὐλογήσουσί	εὐλογέω	future active indicative, 
 ODA 7:18	1	12	σε	σύ	personal pronoun, accusative singular	1	you
 ODA 7:18	1	13	οὐδὲ	οὐδέ	conjunction/negative	1	nor
 ODA 7:18	1	14	ἐλπιοῦσιν	ἐλπίζω	future active indicative, third plural	1	will hope
-ODA 7:18	1	15	οἱ	ὁ	article, nominative masculine plural	1	the
+ODA 7:18	1	15	οἱ	ὁ	article, nominative masculine plural	1	those
 ODA 7:18	1	16	ἐν	ἐν	preposition with the dative	1	in
 ODA 7:18	1	17	ᾅδου	ᾅδης	noun, genitive masculine singular	1	Hades
 ODA 7:18	1	17	ᾅδου			2	the realm of the dead
@@ -217,8 +217,8 @@ ODA 7:18	1	18	τὴν	ὁ	article, accusative feminine singular	1	the
 ODA 7:18	1	19	ἐλεημοσύνην	ἐλεημοσύνη	noun, accusative feminine singular	1	mercy
 ODA 7:18	1	19	ἐλεημοσύνην			2	kindness
 ODA 7:18	1	20	σου	σύ	pronoun, possessive genitive second singular	1	your
-ODA 7:19	1	1	Οἱ	ὁ	article, nominative masculine plural	1	the
-ODA 7:19	1	2	ζῶντες	ζάω	present active participle, nominative masculine plural	1	living
+ODA 7:19	1	1	Οἱ	ὁ	article, nominative masculine plural	1	those
+ODA 7:19	1	2	ζῶντες	ζάω	present active participle, nominative masculine plural	1	who live
 ODA 7:19	1	3	εὐλογήσουσί	εὐλογέω	future active indicative, third plural	1	they will bless
 ODA 7:19	1	4	σε	σύ	personal pronoun, accusative singular	1	you
 ODA 7:19	1	5	ὃν	ὅς	relative pronoun, accusative masculine singular	1	in the
@@ -239,7 +239,7 @@ ODA 7:19	1	17	δικαιοσύνην			2	justice
 ODA 7:19	1	18	σου	σύ	personal pronoun, possessive genitive singular	1	your
 ODA 7:19	1	18	σου			2	of you
 ODA 7:19	1	19	Κύριε	κύριος	noun vocative masculine singular	1	O Lord
-ODA 7:19	1	20	τῆς	ὁ	article, genitive feminine singular	1	the
+ODA 7:19	1	20	τῆς	ὁ	article, genitive feminine singular	1	of the
 ODA 7:19	1	21	σωτηρίας	σωτηρία	noun genitive feminine singular	1	salvation
 ODA 7:19	1	22	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 ODA 7:20	1	1	καὶ	καί	conjunction	1	and
@@ -248,18 +248,18 @@ ODA 7:20	1	3	παύσομαι	παύω	future middle indicative, first singular	
 ODA 7:20	1	3	παύσομαι			2	I will cease
 ODA 7:20	1	4	εὐλογῶν	εὐλογέω	present active participle, nominative masculine singular	1	blessing
 ODA 7:20	1	5	σε	σύ	personal pronoun, accusative singular	1	you
-ODA 7:20	1	6	μετὰ	μετά	preposition with accusative	1	after
+ODA 7:20	1	6	μετὰ	μετά	preposition with accusative	1	with
 ODA 7:20	1	7	ψαλτηρίου	ψαλτήριον	noun, genitive neuter singular	1	harp
 ODA 7:20	1	7	ψαλτηρίου			2	stringed instrument
 ODA 7:20	1	8	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 ODA 7:20	1	9	τὰς	ὁ	article, accusative feminine plural	1	the
 ODA 7:20	1	10	ἡμέρας	ἡμέρα	noun, accusative feminine plural, duration	1	days
-ODA 7:20	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
-ODA 7:20	1	12	ζωῆς	ζωή	noun, genitive feminine singular	1	of life
+ODA 7:20	1	11	τῆς	ὁ	article, genitive feminine singular	1	of the
+ODA 7:20	1	12	ζωῆς	ζωή	noun, genitive feminine singular	1	life
 ODA 7:20	1	13	μου	ἐγώ	personal pronoun genitive first singular	1	my
 ODA 7:20	1	14	κατέναντι	κατέναντι	preposition with genitive	1	in front of
 ODA 7:20	1	15	τοῦ	ὁ	article, genitive masculine singular	1	the
 ODA 7:20	1	16	οἴκου	οἶκος	noun, genitive masculine singular	1	house
 ODA 7:20	1	16	οἴκου			2	household
-ODA 7:20	1	17	τοῦ	ὁ	article, genitive singular	1	the
+ODA 7:20	1	17	τοῦ	ὁ	article, genitive singular	1	of the
 ODA 7:20	1	18	Θεοῦ	θεός	noun, genitive masculine singular	1	God

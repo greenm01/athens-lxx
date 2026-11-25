@@ -16,7 +16,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:1	1	15	εὐσεβεῖτε	εὐσεβέω	present active imperative, second plural	1	practice piety
 4MA 18:2	1	1	γινώσκοντες	γινώσκω	present active participle, nominative masculine plural; intensifies preceding verb	1	knowing
 4MA 18:2	1	2	ὅτι	ὅτι	Subordinating conjunction	1	that
-4MA 18:2	1	3	τῶν	ὁ	article, genitive plural	1	the
+4MA 18:2	1	3	τῶν	ὁ	article, genitive plural	1	of the
 4MA 18:2	1	4	παθῶν	πάθος	noun, genitive neuter plural	1	passions
 4MA 18:2	1	4	παθῶν			2	emotions
 4MA 18:2	1	5	δεσπότης	δεσπότης	noun, nominative masculine singular	1	master
@@ -30,11 +30,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:2	1	10	καὶ	καί	conjunction	1	and
 4MA 18:2	1	11	οὐ	οὐ	negative particle	1	not
 4MA 18:2	1	12	μόνον	μόνος	adjective, accusative masculine singular	1	alone
-4MA 18:2	1	13	τῶν	ὁ	article, genitive feminine plural	1	the
+4MA 18:2	1	13	τῶν	ὁ	article, genitive feminine plural	1	of the
 4MA 18:2	1	14	ἔνδοθεν	ἔνδοθεν	adverb with genitive	1	inward
 4MA 18:2	1	15	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 4MA 18:2	1	16	καὶ	καί	conjunction	1	and
-4MA 18:2	1	17	τῶν	ὁ	article, genitive masculine plural	1	the
+4MA 18:2	1	17	τῶν	ὁ	article, genitive masculine plural	1	of the
 4MA 18:2	1	18	ἔξωθεν	ἔξωθεν	preposition (genitive)	1	outward
 4MA 18:2	1	19	πόνων	πόνος	noun, genitive masculine plural	1	sufferings
 4MA 18:2	1	19	πόνων			2	pains
@@ -76,7 +76,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:4	1	11	ἐπὶ	ἐπί	preposition	1	on
 4MA 18:4	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
 4MA 18:4	1	13	πατρίδος	πατρίς	noun, genitive feminine singular	1	homeland
-4MA 18:4	1	14	ἀνανεωσάμενον	ἀνανεόω	aorist middle participle, accusative neuter singular	1	renewed
+4MA 18:4	1	14	ἀνανεωσάμενον	ἀνανεόω	aorist middle participle, accusative neuter singular	1	having renewed
 4MA 18:4	1	15	ἐκπεπολιόρκηκε	ἐκπολιορκέω	perfect active indicative, third singular	1	has conquered
 4MA 18:4	1	16	τοὺς	ὁ	article, accusative masculine plural	1	the
 4MA 18:4	1	17	πολεμίους	πολέμιος	adjective, accusative masculine plural	1	enemies
@@ -92,7 +92,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:5	1	9	καὶ	καί	conjunction	1	and
 4MA 18:5	1	10	ἀποθανὼν	ἀποθνῄσκω	aorist active participle, nominative masculine singular	1	having died
 4MA 18:5	1	11	κολάζεται	κολάζω	present passive indicative, third singular	1	is punished
-4MA 18:5	1	12	ὡς	ὡς	comparative particle	1	as
+4MA 18:5	1	12	ὡς	ὡς	comparative particle	1	when
 4MA 18:5	1	13	γὰρ	γάρ	conjunction	1	for
 4MA 18:5	1	14	οὐδὲν	οὐδείς	negative pronoun, nominative neuter singular	1	nothing
 4MA 18:5	1	15	οὐδαμῶς	οὐδαμῶς	adverb	1	in no way
@@ -104,17 +104,17 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:5	1	20	ἀλλοφυλῆσαι	ἀλλοφυλέω	aorist active infinitive	1	to adopt foreign ways
 4MA 18:5	1	21	καὶ	καί	conjunction	1	and
 4MA 18:5	1	22	τῶν	ὁ	definite article, genitive neuter plural modifying the later ἐθνῶν, with intervening πατριῶν	1	the
-4MA 18:5	1	23	πατριῶν	πατριά	noun, genitive feminine plural	1	ancestral families
-4MA 18:5	1	24	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	peoples
+4MA 18:5	1	23	πατριῶν	πατριά	noun, genitive feminine plural	1	ancestral
+4MA 18:5	1	24	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	customs
 4MA 18:5	1	25	ἐκδιαιτηθῆναι	ἐκδιαιτάω	aorist passive infinitive	1	to depart from
 4MA 18:5	1	26	τότε	τότε	temporal adverb	1	then
-4MA 18:5	1	27	δὴ	δή	Emphatic particle	1	then
-4MA 18:5	1	27	δὴ			2	indeed
+4MA 18:5	1	27	δὴ	δή	Emphatic particle	1	indeed
+4MA 18:5	1	27	δὴ			2	then
 4MA 18:5	1	28	ἀπάρας	ἀπαίρω	aorist active participle, nominative masculine singular	1	having moved on
 4MA 18:5	1	28	ἀπάρας			2	leaving
 4MA 18:5	1	29	ἀπὸ	ἀπό	preposition with the genitive	1	from
 4MA 18:5	1	30	τῶν	ὁ	article, genitive plural	1	the
-4MA 18:5	1	31	Ἱεροσολύμων	Ἱεροσόλυμα	noun, genitive neuter plural	1	of Jerusalem
+4MA 18:5	1	31	Ἱεροσολύμων	Ἱεροσόλυμα	noun, genitive neuter plural	1	Jerusalem
 4MA 18:5	1	32	ἐστρατοπέδευσεν	στρατοπεδεύω	aorist active indicative, third singular	1	encamped
 4MA 18:5	1	32	ἐστρατοπέδευσεν			2	pitched camp
 4MA 18:5	1	33	ἐπὶ	ἐπί	Preposition with dative	1	against
@@ -123,7 +123,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:6	1	2	δὲ	δέ	conjunction	1	and
 4MA 18:6	1	3	ἡ	ὁ	article, nominative feminine singular	1	the
 4MA 18:6	1	4	μήτηρ	μήτηρ	noun, nominative feminine singular	1	mother
-4MA 18:6	1	5	τῶν	ὁ	article, genitive plural	1	the
+4MA 18:6	1	5	τῶν	ὁ	article, genitive plural	1	of the
 4MA 18:6	1	6	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 4MA 18:6	1	7	παίδων	παῖς	noun, genitive masculine plural	1	children
 4MA 18:6	1	8	καὶ	καί	conjunction	1	and
@@ -132,7 +132,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:6	1	11	δικαία	δίκαιος	adjective nominative feminine singular	1	righteous woman
 4MA 18:6	1	12	τοῖς	ὁ	article, dative neuter plural	1	to the
 4MA 18:6	1	13	τέκνοις	τέκνον	noun, dative neuter plural	1	children
-4MA 18:7	1	1	Ὅτι	ὅτι	causal conjunction	1	because
+4MA 18:7	1	1	Ὅτι	ὅτι	causal conjunction	1	that
 4MA 18:7	1	2	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 4MA 18:7	1	3	ἐγενήθην	γίνομαι	aorist passive indicative first singular	1	became
 4MA 18:7	1	4	παρθένος	παρθένος	noun, nominative feminine singular	1	a virgin
@@ -142,7 +142,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:7	1	8	ὑπερέβην	ὑπερβαίνω	aorist active indicative, first singular	1	I went beyond
 4MA 18:7	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 18:7	1	10	πατρικὸν	πατρικός	adjective, accusative masculine singular	1	paternal
-4MA 18:7	1	11	οἶκον	οἶκος	noun, accusative masculine singular	1	the house
+4MA 18:7	1	11	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 4MA 18:7	1	11	οἶκον			2	household
 4MA 18:7	1	12	ἐφύλασσον	φυλάσσω	imperfect active indicative, first singular	1	I guarded
 4MA 18:7	1	13	δὲ	δέ	postpositive conjunction	1	now
@@ -154,8 +154,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:8	1	2	διέφθειρέν	διαφθείρω	aorist active indicative, third singular	1	ruined
 4MA 18:8	1	3	με	ἐγώ	personal pronoun, accusative singular	1	me
 4MA 18:8	1	4	λυμεὼν	λυμεών	noun, nominative masculine singular	1	ravager
-4MA 18:8	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-4MA 18:8	1	6	ἐρημίας	ἐρημία	noun, genitive feminine singular	1	of desolation
+4MA 18:8	1	5	τῆς	ὁ	article, genitive feminine singular	1	—
+4MA 18:8	1	6	ἐρημίας	ἐρημία	noun, genitive feminine singular	1	of the wilderness
 4MA 18:8	1	7	φθορεὺς	φθορεύς	noun, nominative masculine singular	1	destroyer
 4MA 18:8	1	8	ἐν	ἐν	preposition with the dative	1	in
 4MA 18:8	1	9	πεδίῳ	πεδίον	noun, dative neuter singular	1	field
@@ -175,7 +175,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:9	1	1	ἔμεινα	μένω	aorist active indicative, first singular	1	I remained
 4MA 18:9	1	2	δὲ	δέ	postpositive conjunction	1	and
 4MA 18:9	1	3	χρόνον	χρόνος	noun, accusative masculine singular	1	time
-4MA 18:9	1	4	ἀκμῆς	ἀκμή	noun, genitive feminine singular	1	prime
+4MA 18:9	1	4	ἀκμῆς	ἀκμή	noun, genitive feminine singular	1	of prime
 4MA 18:9	1	5	σὺν	σύν	preposition governing dative	1	with
 4MA 18:9	1	6	ἀνδρί	ἀνήρ	noun, dative masculine singular	1	a husband
 4MA 18:9	1	7	Τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	these
@@ -190,10 +190,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:9	1	16	ἐκεῖνος	ἐκεῖνος	demonstrative pronoun, nominative masculine singular	1	that
 4MA 18:9	1	17	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 18:9	1	18	γὰρ	γάρ	postpositive conjunction	1	for
-4MA 18:9	1	19	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 18:9	1	19	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 18:9	1	20	εὐτεκνίας	εὐτεκνία	noun, genitive feminine singular	1	fine children
 4MA 18:9	1	21	βίον	βίος	noun, accusative masculine singular	1	life
-4MA 18:9	1	22	ἐπιζήσας	ἐπιζάω	aorist active participle, nominative masculine singular	1	living to see
+4MA 18:9	1	22	ἐπιζήσας	ἐπιζάω	aorist active participle, nominative masculine singular	1	having lived to see
 4MA 18:9	1	23	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 18:9	1	24	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 18:9	1	25	ἀτεκνίας	ἀτεκνία	noun, genitive feminine singular	1	childlessness
@@ -219,7 +219,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:11	1	5	Κάϊν	Κάϊν	indeclinable personal name	1	Cain
 4MA 18:11	1	6	ἀνεγίνωσκεν	ἀναγινώσκω	imperfect active indicative, third singular	1	used to read
 4MA 18:11	1	7	δὲ	δέ	postpositive conjunction	1	and
-4MA 18:11	1	8	ἡμῖν	ἐγώ	pronoun, dative first plural	1	us
+4MA 18:11	1	8	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
 4MA 18:11	1	9	καὶ	καί	conjunction	1	and
 4MA 18:11	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 18:11	1	11	ὁλοκαρπούμενον	ὁλοκαρπόω	present passive participle, accusative masculine singular	1	being offered
@@ -244,8 +244,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:12	1	12	πυρὶ	πῦρ	noun, dative neuter singular	1	fire
 4MA 18:12	1	13	Ἀνανίαν	Ἀνανίας	noun, accusative masculine singular; personal name	1	Hananiah
 4MA 18:12	1	14	καὶ	καί	conjunction	1	and
-4MA 18:12	1	15	Ἀζαρίαν	Ἀζαρίας	personal name, accusative masculine singular	1	Azarias
-4MA 18:12	1	15	Ἀζαρίαν			2	Azariah
+4MA 18:12	1	15	Ἀζαρίαν	Ἀζαρίας	personal name, accusative masculine singular	1	Azariah
+4MA 18:12	1	15	Ἀζαρίαν			2	Azarias
 4MA 18:12	1	16	καὶ	καί	conjunction	1	and
 4MA 18:12	1	17	Μισαήλ	Μισαήλ	indeclinable personal name, nominative in context	1	Mishael
 4MA 18:13	1	1	Ἐδόξαζεν	δοξάζω	imperfect active indicative, third singular	1	used to praise
@@ -263,13 +263,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:14	1	2	δὲ	δέ	postpositive conjunction	1	and
 4MA 18:14	1	3	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 4MA 18:14	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
-4MA 18:14	1	5	Ἡσαΐου	Ἠσαΐας	proper name, genitive masculine singular	1	Isaiah
+4MA 18:14	1	5	Ἡσαΐου	Ἠσαΐας	proper name, genitive masculine singular	1	of Isaiah
 4MA 18:14	1	6	γραφὴν	γραφή	noun, accusative feminine singular	1	writing
-4MA 18:14	1	7	τὴν	ὁ	article, accusative fem. sg.	1	the
+4MA 18:14	1	7	τὴν	ὁ	article, accusative fem. sg.	1	—
 4MA 18:14	1	8	λέγουσαν	λέγω	present active participle, accusative feminine singular	1	saying
 4MA 18:14	1	9	Κᾂν	κἄν	crasis of καὶ ἐάν	1	even if
 4MA 18:14	1	10	διὰ	διά	preposition with the accusative	1	through
-4MA 18:14	1	11	πυρὸς	πῦρ	noun, genitive neuter singular	1	of fire
+4MA 18:14	1	11	πυρὸς	πῦρ	noun, genitive neuter singular	1	fire
 4MA 18:14	1	12	διέλθῃς	διέρχομαι	aorist active subjunctive, second singular	1	you pass through
 4MA 18:14	1	13	φλὸξ	φλόξ	noun, nominative feminine singular	1	a flame
 4MA 18:14	1	14	οὐ	οὐ	negative particle	1	not
@@ -280,7 +280,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:15	1	3	ἐμελῴδει	μελῳδέω	imperfect active indicative, third singular	1	used to sing
 4MA 18:15	1	4	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	to you
 4MA 18:15	1	5	Δαυὶδ	Δαυίδ	indeclinable proper noun, accusative in apposition	1	David
-4MA 18:15	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
+4MA 18:15	1	6	τὸν	ὁ	article, accusative masculine singular	1	—
 4MA 18:15	1	7	λέγοντα	λέγω	present active participle, accusative masculine singular	1	saying
 4MA 18:15	1	7	λέγοντα			2	who says
 4MA 18:15	1	8	πολλαὶ	πολύς	adjective nominative feminine plural	1	many
@@ -300,25 +300,25 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:16	1	2	Σαλομῶντα	Σαλομών	noun, accusative masculine singular	1	Solomon
 4MA 18:16	1	3	ἐπαροιμίαζεν	παροιμιάζω	imperfect active indicative, third singular	1	used to quote as a proverb
 4MA 18:16	1	4	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
-4MA 18:16	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
+4MA 18:16	1	5	τὸν	ὁ	article, accusative masculine singular	1	—
 4MA 18:16	1	6	λέγοντα	λέγω	present active participle, accusative masculine singular	1	saying
 4MA 18:16	1	6	λέγοντα			2	who says
 4MA 18:16	1	7	ξύλον	ξύλον	noun, accusative neuter singular	1	tree
 4MA 18:16	1	8	ζωῆς	ζωή	noun, genitive feminine singular	1	of life
 4MA 18:16	1	9	ἐστιν	εἰμί	present indicative, third singular	1	is
 4MA 18:16	1	10	πᾶσιν	πᾶς	adjective, dative neuter plural	1	to all
-4MA 18:16	1	11	τοῖς	ὁ	article, dative masculine plural	1	who
-4MA 18:16	1	12	ποιοῦσιν	ποιέω	present active indicative, third plural	1	they do
+4MA 18:16	1	11	τοῖς	ὁ	article, dative masculine plural	1	those
+4MA 18:16	1	12	ποιοῦσιν	ποιέω	present active indicative, third plural	1	who do
 4MA 18:16	1	13	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 4MA 18:16	1	14	τὸ	ὁ	article, accusative neuter singular	1	the
 4MA 18:16	1	15	θέλημα	θέλημα	noun, accusative neuter singular	1	will
 4MA 18:17	1	1	Τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 18:17	1	2	Ἰεζεκιὴλ	Ἰεζεκιήλ	personal name, accusative indeclinable	1	Ezekiel
 4MA 18:17	1	3	ἐπιστοποιεῖτο	πιστόω	imperfect middle indicative, third singular	1	used to confirm
-4MA 18:17	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
+4MA 18:17	1	4	τὸν	ὁ	article, accusative masculine singular	1	—
 4MA 18:17	1	5	λέγοντα	λέγω	present active participle, accusative masculine singular	1	saying
 4MA 18:17	1	5	λέγοντα			2	who says
-4MA 18:17	1	6	εἰ	εἰ	conditional conjunction	1	whether
+4MA 18:17	1	6	εἰ	εἰ	conditional conjunction	1	[marks a question]
 4MA 18:17	1	7	ζήσεται	ζάω	future middle indicative, third singular	1	will live
 4MA 18:17	1	8	τὰ	ὁ	article, accusative neuter plural	1	the
 4MA 18:17	1	9	ὀστᾶ	ὀστέον	noun, accusative neuter plural	1	bones
@@ -333,7 +333,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:18	1	6	Μωϋσῆς	Μωυσῆς	noun, nominative masculine singular; proper	1	Moses
 4MA 18:18	1	7	οὐκ	οὐ	negative particle	1	not
 4MA 18:18	1	8	ἐπελάθετο	ἐπιλανθάνομαι	aorist middle indicative third singular	1	forgot
-4MA 18:18	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
+4MA 18:18	1	9	τὴν	ὁ	article, accusative feminine singular	1	—
 4MA 18:18	1	10	διδάσκουσαν	διδάσκω	present active participle, accusative feminine singular	1	teaching
 4MA 18:18	1	11	καὶ	καί	conjunction	1	and
 4MA 18:18	1	12	λέγουσαν	λέγω	present active participle, accusative feminine singular	1	saying
@@ -349,7 +349,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:19	1	5	καὶ	καί	conjunction	1	and
 4MA 18:19	1	6	ἡ	ὁ	article, nominative feminine singular	1	the
 4MA 18:19	1	7	μακρότης	μακρότης	noun, nominative feminine singular	1	length
-4MA 18:19	1	8	τῶν	ὁ	article, genitive feminine plural	1	of your
+4MA 18:19	1	8	τῶν	ὁ	article, genitive feminine plural	1	of the
 4MA 18:19	1	9	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
 4MA 18:20	1	1	Ὦ	ὦ	vocative particle	1	O
 4MA 18:20	1	2	πικρᾶς	πικρός	adjective, genitive feminine singular	1	bitter
@@ -373,7 +373,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:20	1	19	ζέουσι	ζέω	present active participle, dative masculine plural	1	boiling
 4MA 18:20	1	20	θυμοῖς	θυμός	noun, dative masculine plural	1	in rage
 4MA 18:20	1	21	ἀγαγὼν	ἄγω	aorist active participle, nominative masculine singular	1	who led
-4MA 18:20	1	22	ἐπὶ	ἐπί	preposition (case from context)	1	on
+4MA 18:20	1	22	ἐπὶ	ἐπί	preposition (case from context)	1	to
 4MA 18:20	1	23	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 18:20	1	24	καταπέλτην	καταπέλτης	noun, accusative masculine singular	1	catapult
 4MA 18:20	1	25	καὶ	καί	conjunction	1	and
@@ -389,7 +389,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:21	1	1	Καὶ	καί	conjunction	1	and
 4MA 18:21	1	2	τὰς	ὁ	article, accusative feminine plural	1	the
 4MA 18:21	1	3	τῶν	ὁ	article, genitive plural	1	—
-4MA 18:21	1	4	ὀμμάτων	ὄμμα	noun, genitive neuter plural	1	of your eyes
+4MA 18:21	1	4	ὀμμάτων	ὄμμα	noun, genitive neuter plural	1	of the eyes
 4MA 18:21	1	5	κόρας	κόρη	noun, accusative feminine singular	1	pupils
 4MA 18:21	1	6	ἐπήρωσεν	πηρόω	aorist active indicative, third singular	1	maimed
 4MA 18:21	1	7	καὶ	καί	conjunction	1	and
@@ -420,7 +420,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:23	1	8	μητρὶ	μήτηρ	noun, dative feminine singular	1	mother
 4MA 18:23	1	9	εἰς	εἰς	preposition with the accusative	1	into
 4MA 18:23	1	10	πατέρων	πατήρ	noun, genitive masculine plural	1	of the fathers
-4MA 18:23	1	11	χορὸν	χορός	noun accusative masculine singular	1	company
+4MA 18:23	1	11	χορὸν	χορός	noun accusative masculine singular	1	chorus
 4MA 18:23	1	12	συναγελάζονται	συναγελάζομαι	present middle/passive indicative, third plural	1	join the company
 4MA 18:23	1	13	ψυχὰς	ψυχή	noun, accusative feminine plural	1	souls
 4MA 18:23	1	14	ἁγνὰς	ἁγνός	adjective, accusative feminine plural	1	pure
@@ -430,7 +430,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 18:23	1	18	παρὰ	παρά	preposition with genitive	1	from
 4MA 18:23	1	19	τοῦ	ὁ	article, genitive singular	1	the
 4MA 18:23	1	20	Θεοῦ	θεός	noun, genitive masculine singular	1	God
-4MA 18:24	1	1	Ὦ	ὦ	exclamatory particle as printed in Athens	1	O
+4MA 18:24	1	1	Ὦ	ὦ	exclamatory particle as printed in Athens	1	to whom
 4MA 18:24	1	2	ἡ	ὁ	article, nominative feminine singular	1	the
 4MA 18:24	1	3	δόξα	δόξα	noun, nominative feminine singular	1	glory
 4MA 18:24	1	4	εἰς	εἰς	preposition with accusative	1	into

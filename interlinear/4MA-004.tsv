@@ -6,7 +6,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:1	1	5	Ὀνίαν	Ὀνίας	noun, accusative masculine singular	1	Onias
 4MA 4:1	1	6	ἀντιπολιτευόμενος	ἀντιπολιτεύομαι	present middle participle, nominative masculine singular	1	opposing in public affairs
 4MA 4:1	1	6	ἀντιπολιτευόμενος			2	acting in opposition
-4MA 4:1	1	7	τόν	ὁ	article, accusative masculine singular	1	the
+4MA 4:1	1	7	τόν	ὁ	article, accusative masculine singular	1	the one
 4MA 4:1	1	8	ποτε	ποτέ	adverb	1	once
 4MA 4:1	1	8	ποτε			2	formerly
 4MA 4:1	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -61,7 +61,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:3	1	1	εὔνους	εὔνους	adjective, nominative masculine singular	1	well-disposed
 4MA 4:3	1	1	εὔνους			2	loyal
 4MA 4:3	1	2	ὢν	εἰμί	present active participle, nominative masculine singular	1	being
-4MA 4:3	1	3	τοῖς	ὁ	article, dative neuter plural	1	the
+4MA 4:3	1	3	τοῖς	ὁ	article, dative neuter plural	1	to the
 4MA 4:3	1	4	τοῦ	ὁ	article, genitive singular	1	of the
 4MA 4:3	1	5	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 4MA 4:3	1	6	πράγμασιν	πρᾶγμα	noun, dative neuter plural	1	affairs
@@ -71,7 +71,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:3	1	8	μηνύσων	μηνύω	future active participle, nominative masculine singular	1	to disclose
 4MA 4:3	1	8	μηνύσων			2	intending to report
 4MA 4:3	1	9	πολλὰς	πολύς	adjective, accusative feminine plural	1	many
-4MA 4:3	1	10	ἰδιωτικῶν	ἰδιωτικός	adjective, genitive neuter plural	1	private
+4MA 4:3	1	10	ἰδιωτικῶν	ἰδιωτικός	adjective, genitive neuter plural	1	of private
 4MA 4:3	1	11	χρημάτων	χρῆμα	noun, genitive neuter plural	1	funds
 4MA 4:3	1	11	χρημάτων			2	money
 4MA 4:3	1	12	μυριάδας	μυριάς	noun, accusative feminine plural	1	tens of thousands
@@ -95,7 +95,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:3	1	25	Σελεύκῳ	Σέλευκος	noun, dative masculine singular	1	to Seleucus
 4MA 4:3	1	26	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 4MA 4:3	1	27	βασιλεῖ	βασιλεύς	noun, dative masculine singular	1	king
-4MA 4:4	1	1	Τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	these
+4MA 4:4	1	1	Τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	of these
 4MA 4:4	1	2	δὲ	δέ	postpositive conjunction	1	and
 4MA 4:4	1	3	ἕκαστα	ἕκαστος	adjective, accusative neuter plural; used substantivally	1	each item
 4MA 4:4	1	3	ἕκαστα			2	each detail
@@ -106,15 +106,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:4	1	7	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 4:4	1	8	μὲν	μέν	particle	1	indeed
 4MA 4:4	1	9	Σίμωνα	Σίμων	noun, accusative masculine singular	1	Simon
-4MA 4:4	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
-4MA 4:4	1	11	εἰς	εἰς	preposition with the accusative	1	into
+4MA 4:4	1	10	τῆς	ὁ	article, genitive feminine singular	1	for the
+4MA 4:4	1	11	εἰς	εἰς	preposition with the accusative	1	toward
 4MA 4:4	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 4:4	1	13	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 4MA 4:4	1	14	κηδεμονίας	κηδεμονία	noun, genitive feminine singular	1	solicitude
 4MA 4:4	1	14	κηδεμονίας			2	care
 4MA 4:4	1	15	ἐπῄνει	ἐπαινέω	imperfect active indicative, third singular	1	praised
 4MA 4:4	1	15	ἐπῄνει			2	commended
-4MA 4:4	1	16	πρὸς	πρός	preposition (accusative)	1	with
+4MA 4:4	1	16	πρὸς	πρός	preposition (accusative)	1	to
 4MA 4:4	1	17	δὲ	δέ	postpositive conjunction	1	and
 4MA 4:4	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 4:4	1	19	Σέλευκον	Σέλευκος	noun, accusative masculine singular	1	Seleucus
@@ -135,7 +135,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:5	1	4	περὶ			2	about
 4MA 4:5	1	5	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
 4MA 4:5	1	6	ἐξουσίαν	ἐξουσία	noun, accusative feminine singular	1	authority
-4MA 4:5	1	7	ταχὺ	ταχύ	adverb of manner	1	so quickly
+4MA 4:5	1	7	ταχὺ	ταχύ	adverb of manner	1	quickly
 4MA 4:5	1	8	εἰς	εἰς	preposition with the accusative	1	into
 4MA 4:5	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
 4MA 4:5	1	10	πατρίδα	πατρίς	noun, accusative feminine singular	1	homeland
@@ -155,7 +155,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:6	1	2	προσελθὼν	προσέρχομαι	aorist active participle, nominative masculine singular	1	having approached
 4MA 4:6	1	2	προσελθὼν			2	coming up
 4MA 4:6	1	3	ταῖς	ὁ	article, dative feminine plural	1	with the
-4MA 4:6	1	4	τοῦ	ὁ	article, genitive singular	1	the
+4MA 4:6	1	4	τοῦ	ὁ	article, genitive singular	1	of the
 4MA 4:6	1	5	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 4MA 4:6	1	6	ἐντολαῖς	ἐντολή	noun dative feminine plural	1	commandments
 4MA 4:6	1	7	ἥκειν	ἥκω	present active infinitive	1	to have come
@@ -193,7 +193,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:7	1	15	τὰς	ὁ	article, accusative feminine plural	1	the
 4MA 4:7	1	16	παρακαταθήκας	παρακαταθήκη	noun, accusative feminine plural	1	deposits held in trust
 4MA 4:7	1	17	πιστεύσαντες	πιστεύω	aorist active participle, nominative masculine plural	1	who entrusted
-4MA 4:7	1	18	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+4MA 4:7	1	18	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
 4MA 4:7	1	19	ἱερῷ	ἱερόν	noun, dative neuter singular	1	temple
 4MA 4:7	1	20	θησαυρῷ	θησαυρός	noun, dative masculine singular	1	treasury
 4MA 4:7	1	20	θησαυρῷ			2	storehouse
@@ -201,7 +201,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:7	1	21	στερηθήσονται			2	will lose them
 4MA 4:7	1	22	ὡς	ὡς	comparative particle	1	as
 4MA 4:7	1	23	οἷόν	οἷος	adjective, nominative neuter singular; impersonal predicate with τε	1	possible
-4MA 4:7	1	24	τε	τε	postpositive connective particle	1	and
+4MA 4:7	1	24	τε	τε	postpositive connective particle	1	—
 4MA 4:7	1	25	ἦν	εἰμί	imperfect indicative, third singular	1	was
 4MA 4:7	1	26	ἐκώλυον	κωλύω	imperfect active indicative, third plural	1	they tried to prevent it
 4MA 4:7	1	26	ἐκώλυον			2	they hindered
@@ -234,7 +234,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:9	1	14	ὑπερασπίσαι	ὑπερασπίζω	aorist active infinitive	1	to defend
 4MA 4:9	1	14	ὑπερασπίσαι			2	to protect
 4MA 4:9	1	15	τοῦ	ὁ	article, genitive singular	1	the
-4MA 4:9	1	16	ἱεροῦ	ἱερόν	noun, genitive neuter singular	1	sanctuary
+4MA 4:9	1	16	ἱεροῦ	ἱερόν	noun, genitive neuter singular	1	holy
 4MA 4:9	1	17	καταφρονουμένου	καταφρονέω	present passive participle, genitive masculine singular; genitive absolute with τόπου	1	being treated with contempt
 4MA 4:9	1	17	καταφρονουμένου			2	being despised
 4MA 4:9	1	18	τοῦ	ὁ	article, genitive masculine singular	1	the
@@ -326,7 +326,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:12	1	2	γὰρ	γάρ	postpositive conjunction	1	for
 4MA 4:12	1	3	ἡμαρτηκὼς	ἁμαρτάνω	perfect active participle, nominative masculine singular	1	having sinned
 4MA 4:12	1	3	ἡμαρτηκὼς			2	having done wrong
-4MA 4:12	1	4	ὥστε	ὥστε	conjunction	1	so then
+4MA 4:12	1	4	ὥστε	ὥστε	conjunction	1	so as
 4MA 4:12	1	5	καὶ	καί	conjunction	1	and
 4MA 4:12	1	6	ἀποθανεῖν	ἀποθνῄσκω	aorist active infinitive	1	to die
 4MA 4:12	1	7	ἄξιος	ἄξιος	adjective, nominative masculine singular	1	worthy
@@ -341,11 +341,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:12	1	13	σωθεὶς			2	having been saved
 4MA 4:12	1	14	τὴν	ὁ	article, accusative feminine singular	1	the
 4MA 4:12	1	15	τοῦ	ὁ	article, genitive neuter singular	1	of the
-4MA 4:12	1	16	ἱεροῦ	ἱερόν	noun, genitive neuter singular	1	sanctuary
+4MA 4:12	1	16	ἱεροῦ	ἱερόν	noun, genitive neuter singular	1	holy
 4MA 4:12	1	17	τόπου	τόπος	noun, genitive masculine singular	1	place
 4MA 4:12	1	18	μακαριότητα	μακαριότης	noun, accusative feminine singular	1	blessedness
 4MA 4:12	1	18	μακαριότητα			2	blessing
-4MA 4:13	1	1	Τούτοις	οὗτος	demonstrative adjective, dative masculine plural	1	these
+4MA 4:13	1	1	Τούτοις	οὗτος	demonstrative adjective, dative masculine plural	1	by these
 4MA 4:13	1	2	ἐπαχθεὶς	ἐπάγω	aorist passive participle, nominative masculine singular	1	moved
 4MA 4:13	1	2	ἐπαχθεὶς			2	persuaded
 4MA 4:13	1	3	τοῖς	ὁ	article, dative masculine plural	1	the
@@ -358,7 +358,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:13	1	9	ἄλλως	ἄλλως	adverb	1	otherwise
 4MA 4:13	1	10	εὐλαβηθεὶς	εὐλαβέομαι	aorist passive participle, nominative masculine singular	1	being wary
 4MA 4:13	1	10	εὐλαβηθεὶς			2	being concerned
-4MA 4:13	1	11	μή	μή	negative particle	1	not
+4MA 4:13	1	11	μή	μή	negative particle	1	lest
 4MA 4:13	1	12	ποτε	ποτέ	adverb	1	ever
 4MA 4:13	1	13	νομίσειεν	νομίζω	aorist active optative, third singular	1	might think
 4MA 4:13	1	13	νομίσειεν			2	might suppose
@@ -383,7 +383,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:13	1	28	περὶ			2	on behalf of
 4MA 4:13	1	29	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 4MA 4:14	1	1	Καὶ	καί	conjunction	1	and
-4MA 4:14	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 4:14	1	2	ὁ	ὁ	article, nominative masculine singular	1	he
 4MA 4:14	1	3	μὲν	μέν	particle marking the first of two contrasting clauses	1	indeed
 4MA 4:14	1	4	παραδόξως	παραδόξως	adverb	1	unexpectedly
 4MA 4:14	1	4	παραδόξως			2	astonishingly
@@ -393,7 +393,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:14	1	6	ᾤχετο			2	he departed
 4MA 4:14	1	7	δηλώσων	δηλόω	future active participle, nominative masculine singular	1	to report
 4MA 4:14	1	7	δηλώσων			2	intending to disclose
-4MA 4:14	1	8	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+4MA 4:14	1	8	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 4MA 4:14	1	9	βασιλεῖ	βασιλεύς	noun, dative masculine singular	1	king
 4MA 4:14	1	10	τὰ	ὁ	article, neuter plural (case from context)	1	the
 4MA 4:14	1	11	συμβάντα	συμβαίνω	aorist active participle, accusative neuter plural; used substantivally	1	things that happened
@@ -402,7 +402,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:15	1	1	Τελευτήσαντος	τελευτάω	aorist active participle, genitive masculine singular; genitive absolute	1	having died
 4MA 4:15	1	1	Τελευτήσαντος			2	when he died
 4MA 4:15	1	2	δὲ	δέ	postpositive conjunction	1	and
-4MA 4:15	1	3	Σελεύκου	Σέλευκος	noun, genitive masculine singular	1	of Seleucus
+4MA 4:15	1	3	Σελεύκου	Σέλευκος	noun, genitive masculine singular	1	Seleucus
 4MA 4:15	1	4	τοῦ	ὁ	article, genitive singular	1	the
 4MA 4:15	1	5	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 4MA 4:15	1	6	διαδέχεται	διαδέχομαι	present middle indicative, third singular; historical present	1	takes over
@@ -426,7 +426,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:16	1	2	καταλύσας			2	having deposed
 4MA 4:16	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 4:16	1	4	Ὀνίαν	Ὀνίας	noun, accusative masculine singular	1	Onias
-4MA 4:16	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 4:16	1	5	τῆς	ὁ	article, genitive feminine singular	1	from the
 4MA 4:16	1	6	ἀρχιερωσύνης	ἀρχιερωσύνη	noun, genitive feminine singular	1	high priesthood
 4MA 4:16	1	7	Ἰάσονα	Ἰάσων	noun, accusative masculine singular	1	Jason
 4MA 4:16	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -451,9 +451,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:17	1	11	ἑξακόσια	ἑξακόσιοι	cardinal numeral, accusative neuter plural	1	six hundred
 4MA 4:17	1	12	ἑξήκοντα	ἑξήκοντα	indeclinable cardinal numeral	1	sixty
 4MA 4:17	1	13	τάλαντα	τάλαντον	noun, nominative neut. pl., talents	1	talents
-4MA 4:18	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
+4MA 4:18	1	1	Ὁ	ὁ	article, nominative masculine singular	1	he
 4MA 4:18	1	2	δὲ	δέ	postpositive conjunction	1	and
-4MA 4:18	1	3	ἐπέτρεψεν	ἐπιτρέπω	aorist active indicative, third singular	1	he permitted
+4MA 4:18	1	3	ἐπέτρεψεν	ἐπιτρέπω	aorist active indicative, third singular	1	permitted
 4MA 4:18	1	3	ἐπέτρεψεν			2	he entrusted
 4MA 4:18	1	4	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 4MA 4:18	1	5	καὶ	καί	conjunction	1	and
@@ -483,10 +483,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:20	1	2	μὴ	μή	negative particle	1	not
 4MA 4:20	1	3	μόνον	μόνον	adverb	1	only
 4MA 4:20	1	4	ἐπ᾽	ἐπί	Preposition with dative	1	on
-4MA 4:20	1	5	αὐτῇ	αὐτός	adjective, dative feminine singular; intensive in temporal expression	1	at that very
+4MA 4:20	1	5	αὐτῇ	αὐτός	adjective, dative feminine singular; intensive in temporal expression	1	very
 4MA 4:20	1	6	τῇ	ὁ	article, dative feminine singular	1	the
 4MA 4:20	1	7	ἄκρᾳ	ἄκρα	noun, dative feminine singular	1	citadel
-4MA 4:20	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 4:20	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 4:20	1	9	πατρίδος	πατρίς	noun, genitive feminine singular	1	homeland
 4MA 4:20	1	10	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 4MA 4:20	1	11	γυμνάσιον	γυμνάσιον	noun, accusative neuter singular	1	gymnasium
@@ -496,7 +496,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:20	1	14	καὶ	καί	conjunction	1	and
 4MA 4:20	1	15	καταλῦσαι	καταλύω	aorist active infinitive	1	to abolish
 4MA 4:20	1	15	καταλῦσαι			2	to bring to an end
-4MA 4:20	1	16	τὴν	ὁ	article, accusative feminine singular	1	that
+4MA 4:20	1	16	τὴν	ὁ	article, accusative feminine singular	1	the
 4MA 4:20	1	17	τοῦ	ὁ	article, genitive neuter singular	1	of the
 4MA 4:20	1	18	ἱεροῦ	ἱερόν	noun, genitive neuter singular	1	sanctuary
 4MA 4:20	1	19	κηδεμονίαν	κηδεμονία	noun, accusative feminine singular	1	care
@@ -522,14 +522,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:22	1	4	ἦ	εἰμί	imperfect active indicative, third singular; singular as printed	1	he was
 4MA 4:22	1	5	κατ᾽	κατά	Preposition with accusative of place	1	in
 4MA 4:22	1	6	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular	1	Egypt
-4MA 4:22	1	7	Πτολεμαίῳ	Πτολεμαῖος	noun, dative masculine singular	1	Ptolemy
+4MA 4:22	1	7	Πτολεμαίῳ	Πτολεμαῖος	noun, dative masculine singular	1	with Ptolemy
 4MA 4:22	1	8	ἤκουσέ	ἀκούω	aorist active indicative, third singular	1	he heard
 4MA 4:22	1	9	τε	τέ	enclitic connective in τε καί	1	both
 4MA 4:22	1	10	ὅτι	ὅτι	causal conjunction	1	that
 4MA 4:22	1	11	φήμης	φήμη	noun, genitive feminine singular	1	report
 4MA 4:22	1	12	διαδοθείσης	διαδίδωμι	aorist passive participle, genitive feminine singular; genitive absolute	1	having spread
 4MA 4:22	1	12	διαδοθείσης			2	as it was spread
-4MA 4:22	1	13	περὶ	περί	preposition with the genitive	1	on account of
+4MA 4:22	1	13	περὶ	περί	preposition with the genitive	1	about
 4MA 4:22	1	13	περὶ			2	concerning
 4MA 4:22	1	14	τοῦ	ὁ	article, genitive singular	1	the
 4MA 4:22	1	15	τεθνάναι	θνῄσκω	perfect active infinitive	1	to have died
@@ -567,7 +567,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:23	1	10	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	of them
 4MA 4:23	1	11	φάνοιεν	φαίνω	aorist active optative, third plural; intransitive second aorist	1	were found
 4MA 4:23	1	11	φάνοιεν			2	should appear
-4MA 4:23	1	12	τῷ	ὁ	article, dative masculine singular	1	the
+4MA 4:23	1	12	τῷ	ὁ	article, dative masculine singular	1	by the
 4MA 4:23	1	13	πατρίῳ	πάτριος	adjective, dative masculine singular	1	ancestral
 4MA 4:23	1	14	πολιτευόμενοι	πολιτεύομαι	present middle participle, nominative masculine plural	1	living according to
 4MA 4:23	1	14	πολιτευόμενοι			2	conducting their lives
@@ -580,7 +580,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:24	1	4	μηδένα	μηδείς	adjective, accusative masculine singular; substantival	1	no
 4MA 4:24	1	5	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
 4MA 4:24	1	5	τρόπον			2	way
-4MA 4:24	1	6	ἴσχυε	ἰσχύω	present active imperative, 2nd singular	1	be strong
+4MA 4:24	1	6	ἴσχυε	ἰσχύω	present active imperative, 2nd singular	1	he was able
 4MA 4:24	1	7	καταλῦσαι	καταλύω	aorist active infinitive	1	to put an end to
 4MA 4:24	1	7	καταλῦσαι			2	to dissolve
 4MA 4:24	1	8	διὰ	διά	Preposition with genitive	1	by
@@ -604,7 +604,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:24	1	22	ἑώρα	ὁράω	pluperfect active indicative, third singular; pluperfect with past sense	1	he saw
 4MA 4:24	1	23	καταλυομένας	καταλύω	present passive participle, accusative feminine plural	1	being made ineffective
 4MA 4:24	1	23	καταλυομένας			2	being thwarted
-4MA 4:25	1	1	ὥστε	ὥστε	conjunction	1	so then
+4MA 4:25	1	1	ὥστε	ὥστε	conjunction	1	so that
 4MA 4:25	1	2	καὶ	καί	conjunction	1	and
 4MA 4:25	1	3	γυναῖκας	γυνή	noun, accusative fem. pl	1	women
 4MA 4:25	1	4	ὅτι	ὅτι	Causal conjunction	1	because
@@ -642,11 +642,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:26	1	12	βασάνων			2	torments
 4MA 4:26	1	13	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 4MA 4:26	1	14	ἕκαστον	ἕκαστος	adjective, accusative masculine singular; distributive with the numeral	1	each
-4MA 4:26	1	15	τοῦ	ὁ	article, genitive singular	1	the
+4MA 4:26	1	15	τοῦ	ὁ	article, genitive singular	1	of the
 4MA 4:26	1	16	ἔθνους	ἔθνος	noun, genitive neut. sg	1	people
 4MA 4:26	1	17	ἠνάγκαζε	ἀναγκάζω	imperfect active indicative, third singular	1	he tried to force
 4MA 4:26	1	17	ἠνάγκαζε			2	he was compelling
-4MA 4:26	1	18	μικρῶν	μικρός	adjective, genitive feminine plural	1	small portions
+4MA 4:26	1	18	μικρῶν	μικρός	adjective, genitive feminine plural	1	unclean
 4MA 4:26	1	18	μικρῶν			2	small
 4MA 4:26	1	19	ἀπογευομένους	ἀπογεύομαι	present middle participle, accusative masculine plural; plural by sense with distributive singular	1	tasting
 4MA 4:26	1	19	ἀπογευομένους			2	by tasting

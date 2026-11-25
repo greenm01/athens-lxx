@@ -24,8 +24,8 @@ ODA 4:9	1	18	γῆς	γῆ	noun, genitive feminine singular	1	land
 ODA 4:10	1	1	Δικαιοσύνην	δικαιοσύνη	noun, accusative feminine singular	1	righteousness
 ODA 4:10	1	1	Δικαιοσύνην			2	justice
 ODA 4:10	1	2	μάθετε	μανθάνω	aorist active imperative, second plural	1	learn
-ODA 4:10	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
-ODA 4:10	1	4	ἐνοικοῦντες	ἐνοικέω	present active participle, nominative masculine plural	1	living in
+ODA 4:10	1	3	οἱ	ὁ	article, nominative masculine plural	1	those
+ODA 4:10	1	4	ἐνοικοῦντες	ἐνοικέω	present active participle, nominative masculine plural	1	who dwell
 ODA 4:10	1	5	ἐπὶ	ἐπί	preposition	1	on
 ODA 4:10	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
 ODA 4:10	1	7	γῆς	γῆ	noun, genitive feminine singular	1	land
@@ -56,11 +56,11 @@ ODA 4:10	1	30	δόξαν	δόξα	noun, accusative fem. sg	1	glory
 ODA 4:10	1	31	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 ODA 4:11	1	1	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 ODA 4:11	1	1	Κύριε			2	Lord
-ODA 4:11	1	2	ὑψηλός	ὑψηλός	adjective, nominative masculine singular	1	tall
+ODA 4:11	1	2	ὑψηλός	ὑψηλός	adjective, nominative masculine singular	1	high
 ODA 4:11	1	3	σου	σύ	pronoun, genitive 2nd singular	1	your
 ODA 4:11	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
-ODA 4:11	1	5	βραχίων	βραχίων	noun, nominative masculine singular	1	foreleg
-ODA 4:11	1	5	βραχίων			2	arm
+ODA 4:11	1	5	βραχίων	βραχίων	noun, nominative masculine singular	1	arm
+ODA 4:11	1	5	βραχίων			2	foreleg
 ODA 4:11	1	6	καὶ	καί	conjunction	1	and
 ODA 4:11	1	7	οὐκ	οὐ	negative adverb	1	not
 ODA 4:11	1	8	ᾔδεισαν	οἶδα	pluperfect active indicative, 3rd plural	1	knew
@@ -103,10 +103,10 @@ ODA 4:13	1	3	Θεὸς	θεός	noun, nominative masculine singular	1	God
 ODA 4:13	1	4	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 ODA 4:13	1	5	κτῆσαι	κτάομαι	aorist middle imperative, second singular	1	take possession of
 ODA 4:13	1	5	κτῆσαι			2	claim
-ODA 4:13	1	6	ἡμᾶς	ἐγώ	pronoun, accusative first plural	1	we
+ODA 4:13	1	6	ἡμᾶς	ἐγώ	pronoun, accusative first plural	1	us
 ODA 4:13	1	7	Κύριε	κύριος	noun, vocative masculine singular	1	Lord
-ODA 4:13	1	8	ἐκτός	ἐκτός	adverb/preposition with genitive τῆς πόλεως, outside	1	outside
-ODA 4:13	1	9	σου	σύ	personal pronoun, possessive genitive singular	1	your
+ODA 4:13	1	8	ἐκτός	ἐκτός	adverb/preposition with genitive τῆς πόλεως, outside	1	besides
+ODA 4:13	1	9	σου	σύ	personal pronoun, possessive genitive singular	1	you
 ODA 4:13	1	10	ἄλλον	ἄλλος	adjective, accusative masculine singular	1	another
 ODA 4:13	1	11	οὐκ	οὐ	negative adverb with future indicative	1	not
 ODA 4:13	1	12	οἴδαμεν	οἶδα	perfect active indicative, first plural; perfect with present sense	1	we know
@@ -168,7 +168,7 @@ ODA 4:16	1	2	ἐν	ἐν	preposition with the dative	1	in
 ODA 4:16	1	3	θλίψει	θλῖψις	noun, dative feminine singular	1	distress
 ODA 4:16	1	3	θλίψει			2	trouble
 ODA 4:16	1	4	ἐμνήσθημέν	μιμνῄσκομαι	aorist passive indicative first plural	1	we remembered
-ODA 4:16	1	5	σου	σύ	personal pronoun, possessive genitive singular	1	your
+ODA 4:16	1	5	σου	σύ	personal pronoun, possessive genitive singular	1	you
 ODA 4:16	1	6	ἐν	ἐν	preposition with the dative	1	in
 ODA 4:16	1	7	θλίψει	θλῖψις	noun, dative feminine singular	1	distress
 ODA 4:16	1	7	θλίψει			2	trouble
@@ -182,8 +182,8 @@ ODA 4:17	1	1	Καὶ	καί	conjunction	1	and
 ODA 4:17	1	2	ὡς	ὡς	comparative particle	1	as
 ODA 4:17	1	3	ἡ	ὁ	article nominative feminine singular	1	the
 ODA 4:17	1	4	ἔγκυος	ἔγκυος	substantival adjective nominative feminine singular	1	pregnant woman
-ODA 4:17	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
-ODA 4:17	1	6	ὠδίνουσα	ὠδίνω	present active participle, nominative feminine singular; substantival	1	a woman in labor
+ODA 4:17	1	5	ἡ	ὁ	article, nominative feminine singular	1	—
+ODA 4:17	1	6	ὠδίνουσα	ὠδίνω	present active participle, nominative feminine singular; substantival	1	who is in labor
 ODA 4:17	1	7	ἐγγίζει	ἐγγίζω	present active indicative, third singular	1	is close
 ODA 4:17	1	7	ἐγγίζει			2	is near
 ODA 4:17	1	8	τοῦ	ὁ	article, genitive neuter singular	1	—
@@ -196,15 +196,15 @@ ODA 4:17	1	14	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 ODA 4:17	1	15	ἐκέκραξεν	κράζω	aorist active indicative, third singular	1	cried out
 ODA 4:17	1	16	οὕτως	οὕτως	adverb of manner	1	so
 ODA 4:17	1	16	οὕτως			2	thus
-ODA 4:17	1	17	ἐγενήθημεν	γίνομαι	aorist middle indicative, first plural	1	we pressed
-ODA 4:17	1	18	τῷ	ὁ	definite article, dative masculine/neuter singular	1	the
+ODA 4:17	1	17	ἐγενήθημεν	γίνομαι	aorist middle indicative, first plural	1	we became
+ODA 4:17	1	18	τῷ	ὁ	definite article, dative masculine/neuter singular	1	to the
 ODA 4:17	1	19	ἀγαπητῷ	ἀγαπητός	adjective, dative masculine singular; substantival	1	beloved one
 ODA 4:17	1	20	σου	σύ	pronoun, possessive genitive second singular	1	your
 ODA 4:17	1	21	Διὰ	διά	preposition with the accusative	1	because of
 ODA 4:17	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
 ODA 4:17	1	23	φόβον	φόβος	noun, accusative masc. sg	1	fear
 ODA 4:17	1	24	σου	σύ	pronoun, possessive genitive second singular	1	your
-ODA 4:17	1	25	Κύριε	κύριος	noun, vocative masculine singular	1	my lord
+ODA 4:17	1	25	Κύριε	κύριος	noun, vocative masculine singular	1	O Lord
 ODA 4:17	1	25	Κύριε			2	lord
 ODA 4:17	1	26	ἐν	ἐν	preposition with the dative	1	in
 ODA 4:17	1	27	γαστρὶ	γαστήρ	noun, dative feminine singular	1	womb
@@ -228,8 +228,8 @@ ODA 4:18	1	8	Οὐ	οὐ	negative particle	1	not
 ODA 4:18	1	9	πεσούμεθα	πίπτω	future middle indicative first plural	1	we will fall
 ODA 4:18	1	10	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 ODA 4:18	1	11	πεσοῦνται	πίπτω	future middle indicative, third plural	1	will fall
-ODA 4:18	1	12	οἱ	ὁ	article, nominative masculine plural	1	the
-ODA 4:18	1	13	ἐνοικοῦντες	ἐνοικέω	present active participle, nominative masculine plural	1	living in
+ODA 4:18	1	12	οἱ	ὁ	article, nominative masculine plural	1	those
+ODA 4:18	1	13	ἐνοικοῦντες	ἐνοικέω	present active participle, nominative masculine plural	1	who dwell
 ODA 4:18	1	14	ἐπὶ	ἐπί	preposition with genitive	1	on
 ODA 4:18	1	14	ἐπὶ			2	upon
 ODA 4:18	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -243,15 +243,15 @@ ODA 4:19	1	4	σου	σύ	pronoun, possessive genitive second singular	1	your
 ODA 4:19	1	5	καὶ	καί	conjunction	1	and
 ODA 4:19	1	6	ἐγερθήσονται	ἐγείρω	future passive indicative, third plural	1	they will be raised
 ODA 4:19	1	6	ἐγερθήσονται			2	they will rise
-ODA 4:19	1	7	οἱ	ὁ	article, nominative masculine plural	1	the
+ODA 4:19	1	7	οἱ	ὁ	article, nominative masculine plural	1	those
 ODA 4:19	1	8	ἐν	ἐν	preposition with the dative	1	in
 ODA 4:19	1	9	τοῖς	ὁ	article, dative neuter plural	1	the
 ODA 4:19	1	10	μνήμασιν	μνῆμα	noun dative neuter plural	1	tombs
 ODA 4:19	1	11	ἐξυπνισθήσονται	ἐξυπνίζω	future passive indicative third plural	1	they will be awakened
 ODA 4:19	1	12	καὶ	καί	conjunction	1	and
 ODA 4:19	1	13	εὐφρανθήσονται	εὐφραίνω	future passive indicative, third plural	1	they will rejoice
-ODA 4:19	1	14	οἱ	ὁ	article, nominative masculine plural	1	the
-ODA 4:19	1	15	ἡσυχάζοντες	ἡσυχάζω	present active participle nominative masculine plural	1	resting
+ODA 4:19	1	14	οἱ	ὁ	article, nominative masculine plural	1	those
+ODA 4:19	1	15	ἡσυχάζοντες	ἡσυχάζω	present active participle nominative masculine plural	1	who rest
 ODA 4:19	1	16	ἐν	ἐν	preposition with the dative	1	in
 ODA 4:19	1	17	τῇ	ὁ	article, dative feminine singular	1	the
 ODA 4:19	1	18	γῇ	γῆ	noun, dative feminine singular	1	land
@@ -259,7 +259,7 @@ ODA 4:19	1	19	ἡ	ὁ	article, nominative feminine singular	1	the
 ODA 4:19	1	20	γὰρ	γάρ	explanatory conjunction	1	for
 ODA 4:19	1	21	δρόσος	δρόσος	noun, nominative feminine singular	1	dew
 ODA 4:19	1	22	ἡ	ὁ	article, nominative feminine singular	1	the
-ODA 4:19	1	23	παρὰ	παρά	preposition with the accusative of place	1	beside
+ODA 4:19	1	23	παρὰ	παρά	preposition with the accusative of place	1	from
 ODA 4:19	1	23	παρὰ			2	near
 ODA 4:19	1	24	σοῦ	σύ	personal pronoun, emphatic genitive singular governed by παρά	1	you
 ODA 4:19	1	25	ἴαμα	ἴαμα	noun, nominative neuter singular	1	healing
@@ -271,8 +271,8 @@ ODA 4:19	1	29	δὲ	δέ	postpositive connective	1	now
 ODA 4:19	1	29	δὲ			2	and
 ODA 4:19	1	30	γῆ	γῆ	noun, nominative feminine singular	1	land
 ODA 4:19	1	30	γῆ			2	earth
-ODA 4:19	1	31	τῶν	ὁ	article, genitive masculine plural	1	the
-ODA 4:19	1	32	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	1	of the ungodly
+ODA 4:19	1	31	τῶν	ὁ	article, genitive masculine plural	1	of the
+ODA 4:19	1	32	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	1	ungodly
 ODA 4:19	1	33	πεσεῖται	πίπτω	future middle indicative, third singular	1	will fall
 ODA 4:20	1	1	Βάδιζε	βαδίζω	present active imperative, second person singular	1	go
 ODA 4:20	1	2	λαός	λαός	noun, nominative masculine singular	1	people
@@ -289,7 +289,7 @@ ODA 4:20	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 ODA 4:20	1	11	θύραν	θύρα	noun, accusative feminine singular	1	door
 ODA 4:20	1	12	σου	σύ	personal pronoun genitive singular	1	your
 ODA 4:20	1	13	κατὰ	κατά	preposition with genitive	1	behind
-ODA 4:20	1	14	σοῦ	σύ	pronoun, possessive genitive second singular	1	your
+ODA 4:20	1	14	σοῦ	σύ	pronoun, possessive genitive second singular	1	you
 ODA 4:20	1	15	ἀποκρύβηθι	ἀποκρύπτω	aorist passive imperative, second singular	1	hide yourself
 ODA 4:20	1	15	ἀποκρύβηθι			2	go into hiding
 ODA 4:20	1	16	μικρὸν	μικρός	adjective, accusative neuter singular	1	little

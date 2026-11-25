@@ -53,9 +53,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 12:3	1	6	ἐπειρᾶτο	πειράομαι	imperfect middle indicative, third singular	1	he attempted
 4MA 12:3	1	6	ἐπειρᾶτο			2	he tried
 4MA 12:3	1	7	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
-4MA 12:4	1	1	Τῆς	ὁ	article, genitive feminine singular; modifies ἀπονοίας across an inserted genitive	1	the
+4MA 12:4	1	1	Τῆς	ὁ	article, genitive feminine singular; modifies ἀπονοίας across an inserted genitive	1	of the
 4MA 12:4	1	2	μὲν	μέν	particle	1	indeed
-4MA 12:4	1	3	τῶν	ὁ	article, genitive masculine plural	1	the
+4MA 12:4	1	3	τῶν	ὁ	article, genitive masculine plural	1	of the
 4MA 12:4	1	4	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 4MA 12:4	1	5	σου	σύ	personal pronoun, possessive genitive singular	1	your
 4MA 12:4	1	6	ἀπονοίας	ἀπόνοια	noun, genitive feminine singular	1	folly
@@ -142,7 +142,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 12:7	1	2	δὲ	δέ	postpositive conjunction	1	and
 4MA 12:7	1	3	τῆς	ὁ	definite article, genitive feminine singular	1	the
 4MA 12:7	1	4	μητρὸς	μήτηρ	noun, genitive feminine singular	1	mother
-4MA 12:7	1	5	τῇ	ὁ	article, dative feminine singular	1	the
+4MA 12:7	1	5	τῇ	ὁ	article, dative feminine singular	1	in the
 4MA 12:7	1	6	Ἑβραΐδι	Ἑβραΐς	adjective, dative feminine singular	1	Hebrew
 4MA 12:7	1	7	φωνῇ	φωνή	noun, dative feminine singular	1	language
 4MA 12:7	1	7	φωνῇ			2	speech
@@ -162,7 +162,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 12:8	1	4	εἴπω	λέγω	aorist active subjunctive, first singular; hortatory in direct speech	1	let me say
 4MA 12:8	1	4	εἴπω			2	let me speak
 4MA 12:8	1	5	τὶ	τις	Indefinite pronoun; accusative neuter singular	1	something
-4MA 12:8	1	6	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+4MA 12:8	1	6	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 4MA 12:8	1	7	βασιλεῖ	βασιλεύς	noun, dative masculine singular	1	king
 4MA 12:8	1	8	καὶ	καί	conjunction	1	and
 4MA 12:8	1	9	τοῖς	ὁ	article, dative masculine plural	1	to the
@@ -187,7 +187,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 12:9	1	12	τῇ	ὁ	article, dative feminine singular	1	the
 4MA 12:9	1	13	ἐπαγγελίᾳ	ἐπαγγελία	noun, dative feminine singular	1	announcement
 4MA 12:9	1	13	ἐπαγγελίᾳ			2	promise
-4MA 12:9	1	14	τοῦ	ὁ	article, genitive singular	1	the
+4MA 12:9	1	14	τοῦ	ὁ	article, genitive singular	1	of the
 4MA 12:9	1	15	παιδὸς	παῖς	noun, genitive masculine singular	1	boy
 4MA 12:9	1	15	παιδὸς			2	child
 4MA 12:9	1	16	ταχέως	ταχέως	adverb	1	quickly
@@ -209,7 +209,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 12:10	1	8	Ἀνόσιε			2	irreverent
 4MA 12:11	1	1	φησὶν	φημί	present active indicative, third singular	1	says
 4MA 12:11	1	2	καὶ	καί	conjunction	1	and
-4MA 12:11	1	3	πάντων	πᾶς	adjective, genitive neuter plural	1	all
+4MA 12:11	1	3	πάντων	πᾶς	adjective, genitive neuter plural	1	of all
 4MA 12:11	1	4	τῶν	ὁ	article, genitive plural	1	the
 4MA 12:11	1	5	πονηρῶν	πονηρός	adjective, genitive masculine plural; used substantivally	1	evil people
 4MA 12:11	1	5	πονηρῶν			2	the wicked
@@ -283,7 +283,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 12:13	1	4	ὤν	εἰμί	present active participle, nominative masculine singular	1	being
 4MA 12:13	1	5	θηριωδέστατε	θηριώδης	adjective, vocative masculine singular; superlative	1	most beastly
 4MA 12:13	1	5	θηριωδέστατε			2	most savage
-4MA 12:13	1	6	τοὺς	ὁ	article, accusative masculine plural	1	the
+4MA 12:13	1	6	τοὺς	ὁ	article, accusative masculine plural	1	—
 4MA 12:13	1	7	ὁμοιοπαθεῖς	ὁμοιοπαθής	adjective, accusative masculine plural; used substantivally	1	those who share your feelings
 4MA 12:13	1	7	ὁμοιοπαθεῖς			2	those subject to the same experiences
 4MA 12:13	1	8	καὶ	καί	conjunction	1	and
@@ -381,7 +381,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 12:19	1	10	τιμωρήσεται			2	he will take vengeance on
 4MA 12:20	1	1	Καὶ	καί	conjunction	1	and
 4MA 12:20	1	2	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
-4MA 12:20	1	3	κατευξάμενος	κατεύχομαι	aorist middle participle, nominative masculine singular	1	having pronounced these curses
+4MA 12:20	1	3	κατευξάμενος	κατεύχομαι	aorist middle participle, nominative masculine singular	1	having pronounced curses
 4MA 12:20	1	3	κατευξάμενος			2	having prayed against him
 4MA 12:20	1	4	ἑαυτὸν	ἑαυτοῦ	reflexive pronoun, accusative masculine singular	1	himself
 4MA 12:20	1	5	ἔῤῥιψεν	ῥίπτω	aorist active indicative, 3rd sg	1	threw

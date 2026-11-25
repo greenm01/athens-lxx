@@ -34,8 +34,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:2	1	6	δορυφόροις			2	guards
 4MA 5:2	1	7	ἕνα	εἷς	cardinal numeral, accusative masculine singular	1	one
 4MA 5:2	1	8	ἕκαστον	ἕκαστος	adjective, accusative masculine singular; distributive with the numeral	1	each
-4MA 5:2	1	9	τῶν	ὁ	article, genitive plural	1	the
-4MA 5:2	1	10	Ἑβραίων	Ἑβραῖος	ethnic noun, genitive masculine plural	1	of the Hebrews
+4MA 5:2	1	9	τῶν	ὁ	article, genitive plural	1	of the
+4MA 5:2	1	10	Ἑβραίων	Ἑβραῖος	ethnic noun, genitive masculine plural	1	Hebrews
 4MA 5:2	1	11	ἐπισπᾶσθαι	ἐπισπάομαι	present middle infinitive	1	to drag in
 4MA 5:2	1	11	ἐπισπᾶσθαι			2	to pull in
 4MA 5:2	1	12	καὶ	καί	conjunction	1	and
@@ -63,7 +63,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:3	1	9	ἀναιρεθῆναι	ἀναιρέω	aorist passive infinitive	1	to be killed
 4MA 5:3	1	9	ἀναιρεθῆναι			2	to be put to death
 4MA 5:4	1	1	Πολλῶν	πολύς	adjective, genitive neuter plural	1	many
-4MA 5:4	1	2	δὲ	δέ	postpositive conjunction	1	and/but
+4MA 5:4	1	2	δὲ	δέ	postpositive conjunction	1	and
 4MA 5:4	1	3	συναρπασθέντων	συναρπάζω	aorist passive participle, genitive masculine plural; genitive absolute	1	having been seized
 4MA 5:4	1	3	συναρπασθέντων			2	when seized
 4MA 5:4	1	4	εἷς	εἷς	cardinal numeral/pronoun, nominative masc. sg	1	one
@@ -73,7 +73,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:4	1	8	ἀγέλης	ἀγέλη	noun, genitive feminine singular	1	group
 4MA 5:4	1	8	ἀγέλης			2	crowd
 4MA 5:4	1	9	Ἑβραῖος	Ἑβραῖος	adjective, nominative masculine singular; used substantivally	1	Hebrew
-4MA 5:4	1	10	ὀνόματι	ὄνομα	noun, dative neuter singular	1	name
+4MA 5:4	1	10	ὀνόματι	ὄνομα	noun, dative neuter singular	1	by name
 4MA 5:4	1	11	Ἐλεάζαρος	Ἐλεάζαρος	noun, nominative masculine singular	1	Eleazar
 4MA 5:4	1	12	τὸ	ὁ	article, accusative neuter singular; accusative of respect	1	in
 4MA 5:4	1	13	γένος	γένος	noun, accusative neuter singular	1	birth
@@ -89,9 +89,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:4	1	20	ἡλικίαν	ἡλικία	noun, accusative feminine singular	1	age
 4MA 5:4	1	21	προήκων	προήκω	present active participle, nominative masculine singular	1	advanced
 4MA 5:4	1	22	καὶ	καί	conjunction	1	and
-4MA 5:4	1	23	πολλοῖς	πολύς	adjective, dative neuter plural	1	many
+4MA 5:4	1	23	πολλοῖς	πολύς	adjective, dative neuter plural	1	to many
 4MA 5:4	1	24	τῶν	ὁ	article, genitive masculine plural	1	of those
-4MA 5:4	1	25	περὶ	περί	preposition with the accusative	1	about/on
+4MA 5:4	1	25	περὶ	περί	preposition with the accusative	1	around
 4MA 5:4	1	26	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 5:4	1	27	τύραννον	τύραννος	noun, accusative masculine singular	1	tyrant
 4MA 5:4	1	27	τύραννον			2	despot
@@ -158,7 +158,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:6	1	35	φιλοσοφεῖν	φιλοσοφέω	present active infinitive	1	to reason wisely
 4MA 5:6	1	35	φιλοσοφεῖν			2	to practice philosophy
 4MA 5:6	1	36	τῇ	ὁ	article, dative feminine singular; modifies θρησκείᾳ across an inserted genitive	1	the
-4MA 5:6	1	37	Ἰουδαίων	Ἰουδαῖος	adjective, genitive masculine plural; substantival	1	Judeans
+4MA 5:6	1	37	Ἰουδαίων	Ἰουδαῖος	adjective, genitive masculine plural; substantival	1	of Judeans
 4MA 5:6	1	38	χρώμενος	χράομαι	present middle participle, nominative masculine singular	1	practicing
 4MA 5:6	1	38	χρώμενος			2	following
 4MA 5:6	1	39	θρησκείᾳ	θρησκεία	noun, dative feminine singular	1	religious practice
@@ -184,7 +184,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:8	1	3	ἀνόητον	ἀνόητος	adjective, nominative neuter singular	1	foolish
 4MA 5:8	1	3	ἀνόητον			2	senseless
 4MA 5:8	1	4	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
-4MA 5:8	1	5	δοκεῖ	δοκέω	present active indicative, third singular	1	seem
+4MA 5:8	1	5	δοκεῖ	δοκέω	present active indicative, third singular	1	seems
 4MA 5:8	1	5	δοκεῖ			2	appear
 4MA 5:8	1	6	τὸ	ὁ	article, accusative neuter singular	1	the
 4MA 5:8	1	7	μὴ	μή	negative particle	1	not
@@ -230,7 +230,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:10	1	4	ἐπὶ	ἐπί	Preposition with dative	1	at the cost of
 4MA 5:10	1	4	ἐπὶ			2	to
 4MA 5:10	1	5	τῇ	ὁ	article, dative feminine singular	1	the
-4MA 5:10	1	6	ἰδίᾳ	ἴδιος	adjective, dative feminine singular	1	its own
+4MA 5:10	1	6	ἰδίᾳ	ἴδιος	adjective, dative feminine singular	1	your own
 4MA 5:10	1	7	τιμωρίᾳ	τιμωρία	noun, dative feminine singular	1	punishment
 4MA 5:10	1	7	τιμωρίᾳ			2	penalty
 4MA 5:10	1	8	οὐκ	οὐ	particle	1	not
@@ -245,7 +245,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:11	1	1	Καὶ	καί	conjunction	1	and
 4MA 5:11	1	2	ἀποσκεδάσεις	ἀποσκεδάζω	future active indicative, second singular	1	will scatter
 4MA 5:11	1	2	ἀποσκεδάσεις			2	will shake off
-4MA 5:11	1	3	τῶν	ὁ	article, genitive plural	1	the
+4MA 5:11	1	3	τῶν	ὁ	article, genitive plural	1	of the
 4MA 5:11	1	4	λογισμῶν	λογισμός	noun, genitive masculine plural	1	reasoning
 4MA 5:11	1	4	λογισμῶν			2	thoughts
 4MA 5:11	1	5	σου	σύ	pronoun, genitive 2nd singular	1	your
@@ -255,7 +255,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:11	1	8	καὶ	καί	conjunction	1	and
 4MA 5:11	1	9	ἄξιον	ἄξιος	adjective, nominative neuter singular	1	worthy
 4MA 5:11	1	9	ἄξιον			2	fitting
-4MA 5:11	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 5:11	1	10	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 5:11	1	11	ἡλικίας	ἡλικία	noun, genitive feminine singular	1	age
 4MA 5:11	1	12	ἀναλαβὼν	ἀναλαμβάνω	aorist active participle, nominative masculine singular	1	taking up
 4MA 5:11	1	12	ἀναλαβὼν			2	regaining
@@ -264,7 +264,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:11	1	14	φιλοσοφήσεις			2	you will study
 4MA 5:11	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
 4MA 5:11	1	16	τοῦ	ὁ	article, genitive singular	1	—
-4MA 5:11	1	17	συμφέροντος	συμφέρω	present active participle, genitive neuter singular; used substantivally	1	what is advantageous
+4MA 5:11	1	17	συμφέροντος	συμφέρω	present active participle, genitive neuter singular; used substantivally	1	of what is advantageous
 4MA 5:11	1	17	συμφέροντος			2	what is beneficial
 4MA 5:11	1	18	ἀλήθειαν	ἀλήθεια	noun, accusative feminine singular	1	truth
 4MA 5:12	1	1	Καὶ	καί	conjunction	1	and
@@ -279,18 +279,18 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:12	1	7	οἰκτειρήσεις	οἰκτείρω	future active indicative, second singular	1	you will pity
 4MA 5:12	1	7	οἰκτειρήσεις			2	you will have compassion on
 4MA 5:12	1	8	τὸ	ὁ	article, accusative neuter singular	1	the
-4MA 5:12	1	9	σεαυτοῦ	σεαυτοῦ	reflexive pronoun, genitive masculine singular	1	yourself
+4MA 5:12	1	9	σεαυτοῦ	σεαυτοῦ	reflexive pronoun, genitive masculine singular	1	your own
 4MA 5:12	1	10	γῆρας	γῆρας	noun, accusative neuter singular	1	old age
 4MA 5:13	1	1	Καὶ	καί	conjunction	1	and
 4MA 5:13	1	2	γὰρ	γάρ	postpositive conjunction	1	for
 4MA 5:13	1	3	ἐνθυμήθητι	ἐνθυμέομαι	aorist passive imperative, second singular	1	consider
 4MA 5:13	1	3	ἐνθυμήθητι			2	reflect
-4MA 5:13	1	4	ὡς	ὡς	comparative particle	1	as
+4MA 5:13	1	4	ὡς	ὡς	comparative particle	1	that
 4MA 5:13	1	5	εἰ	εἰ	conditional conjunction	1	if
-4MA 5:13	1	6	καί	καί	conjunction	1	and
+4MA 5:13	1	6	καί	καί	conjunction	1	even
 4MA 5:13	1	7	τίς	τις	Indefinite adjective; nominative feminine singular in conditional clause	1	any
 4MA 5:13	1	8	ἐστι	εἰμί	present active indicative, third person singular	1	is
-4MA 5:13	1	9	τῆσδε	ὅδε	demonstrative pronoun, genitive feminine singular	1	this
+4MA 5:13	1	9	τῆσδε	ὅδε	demonstrative pronoun, genitive feminine singular	1	of this
 4MA 5:13	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
 4MA 5:13	1	11	ὑμῶν	σύ	Second-person plural pronoun; genitive	1	your
 4MA 5:13	1	12	θρησκείας	θρησκεία	noun, genitive feminine singular	1	religious practice
@@ -312,10 +312,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:13	1	23	γινομένῃ			2	taking place
 4MA 5:13	1	24	παρανομίᾳ	παρανομία	noun, dative feminine singular	1	lawbreaking
 4MA 5:13	1	24	παρανομίᾳ			2	transgression
-4MA 5:14	1	1	Τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	1	this
+4MA 5:14	1	1	Τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	1	in this
 4MA 5:14	1	2	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 5:14	1	3	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
-4MA 5:14	1	4	ἐπὶ	ἐπί	preposition (case from context)	1	on
+4MA 5:14	1	4	ἐπὶ	ἐπί	preposition (case from context)	1	to
 4MA 5:14	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 4MA 5:14	1	6	ἔκθεσμον	ἔκθεσμος	adjective, accusative feminine singular	1	unlawful
 4MA 5:14	1	6	ἔκθεσμον			2	contrary to ordinance
@@ -343,7 +343,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:15	1	8	οὕτως	οὕτως	adverb	1	thus
 4MA 5:16	1	1	Ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
 4MA 5:16	1	2	Ἀντίοχε	Ἀντίοχος	noun, vocative masculine singular	1	Antiochus
-4MA 5:16	1	3	θείῳ	θεῖος	adjective, dative masculine singular	1	divine
+4MA 5:16	1	3	θείῳ	θεῖος	adjective, dative masculine singular	1	by divine
 4MA 5:16	1	4	πεπεισμένοι	πείθω	perfect passive participle, nominative masculine plural	1	having been persuaded
 4MA 5:16	1	4	πεπεισμένοι			2	convinced
 4MA 5:16	1	5	νόμῳ	νόμος	noun dative masculine singular	1	law
@@ -357,7 +357,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:16	1	10	εἶναι	εἰμί	present infinitive	1	to be
 4MA 5:16	1	11	νομίζομεν	νομίζω	present active indicative, first plural	1	we consider
 4MA 5:16	1	11	νομίζομεν			2	we think
-4MA 5:16	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 5:16	1	12	τῆς	ὁ	article, genitive feminine singular	1	than the
 4MA 5:16	1	13	πρὸς	πρός	preposition with the accusative	1	to
 4MA 5:16	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 5:16	1	15	νόμον	νόμος	noun, accusative masc. sg	1	law
@@ -378,7 +378,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:18	1	1	Καί	καί	conjunction	1	and
 4MA 5:18	1	2	τοι	τοι	Emphatic particle	1	surely
 4MA 5:18	1	3	εἰ	εἰ	conjunction, introducing sworn commitment	1	if
-4MA 5:18	1	4	καὶ	καί	conjunction	1	and
+4MA 5:18	1	4	καὶ	καί	conjunction	1	even
 4MA 5:18	1	5	κατὰ	κατά	preposition with the accusative	1	according to
 4MA 5:18	1	6	ἀλήθειαν	ἀλήθεια	noun, accusative feminine singular	1	truth
 4MA 5:18	1	7	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
@@ -528,12 +528,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:25	1	1	Διὸ	διό	Inferential conjunction	1	therefore
 4MA 5:25	1	1	Διὸ			2	for that reason
 4MA 5:25	1	2	οὐ	οὐ	negative adverb with future indicative	1	not
-4MA 5:25	1	3	μιαροφαγοῦμεν	μιαροφαγέω	future active indicative, first plural	1	we will eat unclean food
+4MA 5:25	1	3	μιαροφαγοῦμεν	μιαροφαγέω	future active indicative, first plural	1	we eat unclean food
 4MA 5:25	1	3	μιαροφαγοῦμεν			2	we will eat defiled food
 4MA 5:25	1	4	πιστεύοντες	πιστεύω	present active participle, nominative masculine plural	1	believing
 4MA 5:25	1	4	πιστεύοντες			2	trusting
 4MA 5:25	1	5	γὰρ	γάρ	explanatory conjunction	1	for
-4MA 5:25	1	6	Θεοῦ	θεός	noun, genitive masculine singular; predicate genitive of possession	1	God
+4MA 5:25	1	6	Θεοῦ	θεός	noun, genitive masculine singular; predicate genitive of possession	1	of God
 4MA 5:25	1	7	καθεστᾶναι	καθίστημι	perfect active infinitive	1	to be established
 4MA 5:25	1	7	καθεστᾶναι			2	to stand established
 4MA 5:25	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -561,7 +561,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:26	1	4	οἰκειωθησόμενα			2	things that will be made fitting
 4MA 5:26	1	5	ἡμῶν	ἐγώ	personal pronoun, genitive first plural	1	our
 4MA 5:26	1	5	ἡμῶν			2	of us
-4MA 5:26	1	6	ταῖς	ὁ	article, dative feminine plural	1	the
+4MA 5:26	1	6	ταῖς	ὁ	article, dative feminine plural	1	to the
 4MA 5:26	1	7	ψυχαῖς	ψυχή	noun, dative feminine plural	1	souls
 4MA 5:26	1	8	ἐπέτρεψεν	ἐπιτρέπω	aorist active indicative, third singular	1	he permitted
 4MA 5:26	1	8	ἐπέτρεψεν			2	he entrusted
@@ -587,7 +587,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:27	1	10	ἐσθίειν	ἐσθίω	present active infinitive	1	to eat
 4MA 5:27	1	11	ὅπως	ὅπως	conjunction of purpose with the subjunctive	1	so that
 4MA 5:27	1	11	ὅπως			2	in order that
-4MA 5:27	1	12	τῇ	ὁ	article, dative feminine singular	1	the
+4MA 5:27	1	12	τῇ	ὁ	article, dative feminine singular	1	at the
 4MA 5:27	1	13	ἐχθίστῃ	ἐχθρός	adjective, dative feminine singular; superlative	1	most hateful
 4MA 5:27	1	13	ἐχθίστῃ			2	most detested
 4MA 5:27	1	14	ἡμῶν	ἐγώ	personal pronoun, genitive first plural	1	our
@@ -611,7 +611,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:28	1	10	τοὺς	ὁ	article, accusative masculine plural	1	the
 4MA 5:28	1	11	ἱεροὺς	ἱερός	adjective, accusative masculine plural	1	sacred
 4MA 5:28	1	11	ἱεροὺς			2	holy
-4MA 5:28	1	12	τῶν	ὁ	article, genitive plural	1	the
+4MA 5:28	1	12	τῶν	ὁ	article, genitive plural	1	of the
 4MA 5:28	1	13	προγόνων	πρόγονος	noun, genitive masculine plural	1	ancestors
 4MA 5:28	1	13	προγόνων			2	forefathers
 4MA 5:28	1	14	περὶ	περί	Preposition with a genitive articular infinitive	1	concerning
@@ -626,7 +626,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:28	1	21	παρήσω			2	I will neglect
 4MA 5:29	1	1	Οὐδ᾽	οὐδέ	negative conjunction, elided	1	nor
 4MA 5:29	1	2	ἂν	ἄν	modal particle in an indefinite clause, marks the clause as indefinite	1	—
-4MA 5:29	1	3	ἐκκόψεις	ἐκκόπτω	future active indicative, 2nd singular	1	shall cut down
+4MA 5:29	1	3	ἐκκόψεις	ἐκκόπτω	future active indicative, 2nd singular	1	you will cut out
 4MA 5:29	1	4	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 4MA 5:29	1	5	τὰ	ὁ	article, accusative neuter plural	1	the
 4MA 5:29	1	6	ὄμματα	ὄμμα	noun, accusative neuter plural	1	eyes
@@ -658,7 +658,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:30	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 5:30	1	16	λογισμόν	λογισμός	noun, accusative masculine singular; subject of infinitive	1	reason
 4MA 5:30	1	16	λογισμόν			2	reasoning
-4MA 5:31	1	1	Πρὸς	πρός	preposition with the accusative	1	to
+4MA 5:31	1	1	Πρὸς	πρός	preposition with the accusative	1	in view of
 4MA 5:31	1	2	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 4MA 5:31	1	3	τροχοὺς	τροχός	noun, accusative masculine plural	1	wheels
 4MA 5:31	1	4	εὐτρέπιζε	εὐτρεπίζω	present active imperative, second singular	1	prepare
@@ -673,11 +673,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:32	1	2	οὕτως	οὕτως	adverb	1	thus
 4MA 5:32	1	3	οἰκτειρήσω	οἰκτείρω	future active indicative, 1st sg	1	I will have compassion on
 4MA 5:32	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
-4MA 5:32	1	5	ἐμαυτοῦ	ἐμαυτοῦ	reflexive pronoun, genitive first singular	1	myself
+4MA 5:32	1	5	ἐμαυτοῦ	ἐμαυτοῦ	reflexive pronoun, genitive first singular	1	my own
 4MA 5:32	1	6	γῆρας	γῆρας	noun, accusative neuter singular	1	old age
 4MA 5:32	1	7	ὥστε	ὥστε	conjunction	1	so as
 4MA 5:32	1	8	με	ἐγώ	personal pronoun, accusative singular	1	me
-4MA 5:32	1	9	δι᾽	διά	elided preposition with the accusative	1	because of
+4MA 5:32	1	9	δι᾽	διά	elided preposition with the accusative	1	through
 4MA 5:32	1	10	ἐμαυτοῦ	ἐμαυτοῦ	reflexive pronoun, genitive first singular	1	myself
 4MA 5:32	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 5:32	1	12	πάτριον	πάτριος	adjective, accusative masculine singular	1	ancestral
@@ -691,7 +691,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:33	1	4	παιδευτὰ	παιδευτής	noun, vocative masculine singular	1	teacher
 4MA 5:33	1	4	παιδευτὰ			2	instructor
 4MA 5:33	1	5	νόμε	νόμος	noun, vocative masculine singular	1	law
-4MA 5:33	1	6	οὐδὲ	οὐδέ	negative conjunction	1	even
+4MA 5:33	1	6	οὐδὲ	οὐδέ	negative conjunction	1	nor
 4MA 5:33	1	7	φεύξομαί	φεύγω	future middle indicative, first singular	1	I will flee
 4MA 5:33	1	7	φεύξομαί			2	I will escape
 4MA 5:33	1	8	σε	σύ	pronoun, accusative 2nd singular	1	you
@@ -711,7 +711,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:34	1	4	φιλόσοφε			2	wisdom-loving
 4MA 5:34	1	5	λόγε	λόγος	noun, vocative masculine singular	1	reasoning
 4MA 5:34	1	5	λόγε			2	discourse
-4MA 5:34	1	6	οὐδὲ	οὐδέ	negative conjunction	1	even
+4MA 5:34	1	6	οὐδὲ	οὐδέ	negative conjunction	1	nor
 4MA 5:34	1	7	ἐξαρνήσομαί	ἐξαρνέομαι	future middle indicative, first singular	1	I will disown
 4MA 5:34	1	7	ἐξαρνήσομαί			2	I will deny
 4MA 5:34	1	8	σε	σύ	personal pronoun, accusative singular	1	you
@@ -719,7 +719,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:34	1	10	τιμία	τίμιος	adjective, vocative feminine singular	1	honored
 4MA 5:34	1	10	τιμία			2	esteemed
 4MA 5:34	1	11	καὶ	καί	conjunction	1	and
-4MA 5:34	1	12	νομοθεσίας	νομοθεσία	noun, genitive feminine singular	1	legislation
+4MA 5:34	1	12	νομοθεσίας	νομοθεσία	noun, genitive feminine singular	1	of legislation
 4MA 5:34	1	12	νομοθεσίας			2	the giving of laws
 4MA 5:34	1	13	ἐπιστήμη	ἐπιστήμη	noun, vocative feminine singular	1	knowledge
 4MA 5:34	1	13	ἐπιστήμη			2	understanding
@@ -732,7 +732,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:35	1	6	γήρως	γῆρας	noun, genitive neuter singular; written γήρως	1	of old age
 4MA 5:35	1	7	στόμα	στόμα	noun, accusative neuter singular	1	mouth
 4MA 5:35	1	8	οὐδὲ	οὐδέ	conjunction/negative	1	nor
-4MA 5:35	1	9	νομίμου	νόμιμος	adjective, genitive masculine singular	1	lawful
+4MA 5:35	1	9	νομίμου	νόμιμος	adjective, genitive masculine singular	1	of lawful
 4MA 5:35	1	9	νομίμου			2	in accordance with law
 4MA 5:35	1	10	βίου	βίος	noun, genitive masculine singular	1	life
 4MA 5:35	1	11	ἡλικίαν	ἡλικία	noun, accusative feminine singular	1	age
@@ -750,7 +750,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 5:36	1	9	σου	σύ	personal pronoun, possessive genitive singular	1	your
 4MA 5:36	1	10	τὰς	ὁ	article, accusative feminine plural	1	the
 4MA 5:36	1	11	μέχρι	μέχρι	preposition with genitive	1	until
-4MA 5:36	1	12	θανάτου	θάνατος	noun, genitive masculine singular	1	of death
+4MA 5:36	1	12	θανάτου	θάνατος	noun, genitive masculine singular	1	death
 4MA 5:36	1	13	ἀνάγκας	ἀνάγκη	noun, accusative feminine plural	1	compulsions
 4MA 5:36	1	13	ἀνάγκας			2	pressures
 4MA 5:37	1	1	Ἀσεβῶν	ἀσεβής	adjective, genitive masculine plural; used substantivally	1	over the impious

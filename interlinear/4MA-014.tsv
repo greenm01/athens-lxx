@@ -22,14 +22,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:1	1	20	φιλαδελφίας	φιλαδελφία	noun, genitive feminine singular	1	brotherly love
 4MA 14:1	1	21	παθῶν	πάθος	noun, genitive neuter plural	1	passions
 4MA 14:1	1	21	παθῶν			2	emotions
-4MA 14:1	1	22	κρατῆσαι	κρατέω	aorist active infinitive	1	become powerful
+4MA 14:1	1	22	κρατῆσαι	κρατέω	aorist active infinitive	1	to master
 4MA 14:1	1	22	κρατῆσαι			2	gain control
 4MA 14:2	1	1	Ὦ	ὦ	vocative particle	1	O
-4MA 14:2	1	2	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
+4MA 14:2	1	2	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	than a king
 4MA 14:2	1	3	λογισμοὶ	λογισμός	noun nominative masculine plural	1	thoughts
 4MA 14:2	1	4	βασιλικώτεροι	βασιλικός	comparative adjective, nominative masculine plural	1	more kingly
 4MA 14:2	1	5	καὶ	καί	conjunction	1	and
-4MA 14:2	1	6	ἐλευθέρων	ἐλεύθερος	adjective, genitive masculine plural	1	free
+4MA 14:2	1	6	ἐλευθέρων	ἐλεύθερος	adjective, genitive masculine plural	1	than the free
 4MA 14:2	1	7	ἐλευθερώτεροι	ἐλεύθερος	comparative adjective, nominative masculine plural	1	freer
 4MA 14:3	1	1	Ὦ	ὦ	vocative particle	1	O
 4MA 14:3	1	2	ἱερᾶς	ἱερός	adjective, genitive feminine singular	1	sacred
@@ -40,7 +40,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:3	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
 4MA 14:3	1	7	εὐσεβείας	εὐσέβεια	noun, genitive feminine singular	1	piety
 4MA 14:3	1	7	εὐσεβείας			2	devotion
-4MA 14:3	1	8	τῶν	ὁ	article, genitive plural	1	the
+4MA 14:3	1	8	τῶν	ὁ	article, genitive plural	1	of the
 4MA 14:3	1	9	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 4MA 14:3	1	10	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 4MA 14:3	1	11	συμφωνίας	συμφωνία	noun, genitive feminine singular	1	accord
@@ -77,7 +77,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:6	1	4	καὶ	καί	conjunction	1	and
 4MA 14:6	1	5	πόδες	πούς	noun, nominative masculine plural	1	feet
 4MA 14:6	1	6	συμφώνως	συμφώνως	adverb	1	in harmony
-4MA 14:6	1	7	τοῖς	ὁ	article, dative neuter plural	1	the
+4MA 14:6	1	7	τοῖς	ὁ	article, dative neuter plural	1	with the
 4MA 14:6	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 14:6	1	9	ψυχῆς	ψυχή	noun, genitive feminine singular	1	soul
 4MA 14:6	1	10	ἀφηγήμασιν	ἀφήγημα	noun, dative neuter plural	1	directions
@@ -93,7 +93,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:6	1	20	μιᾶς	εἷς	cardinal numeral, genitive feminine singular	1	one
 4MA 14:6	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
 4MA 14:6	1	22	ἀθανάτου	ἀθάνατος	adjective, genitive feminine singular	1	immortal
-4MA 14:6	1	23	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 14:6	1	23	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 14:6	1	24	εὐσεβείας	εὐσέβεια	noun, genitive feminine singular	1	piety
 4MA 14:6	1	24	εὐσεβείας			2	devotion
 4MA 14:6	1	25	κινούμενοι	κινέω	present middle participle, nominative masculine plural	1	stirred
@@ -114,7 +114,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:7	1	6	καθάπερ	καθάπερ	comparative conjunction	1	just as
 4MA 14:7	1	7	γὰρ	γάρ	conjunction	1	for
 4MA 14:7	1	8	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
-4MA 14:7	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 14:7	1	9	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 14:7	1	10	κοσμοποιίας	κοσμοποιία	noun, genitive feminine singular	1	creation of the world
 4MA 14:7	1	11	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days
 4MA 14:7	1	12	περὶ	περί	Preposition with accusative	1	in
@@ -123,7 +123,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:7	1	14	εὐσέβειαν	εὐσέβεια	noun, accusative feminine singular	1	piety
 4MA 14:7	1	14	εὐσέβειαν			2	devotion
 4MA 14:8	1	1	οὕτως	οὕτως	adverb	1	thus
-4MA 14:8	1	2	περὶ	περί	Preposition with accusative	1	concerning
+4MA 14:8	1	2	περὶ	περί	Preposition with accusative	1	around
 4MA 14:8	1	2	περὶ			2	with respect to
 4MA 14:8	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
 4MA 14:8	1	4	ἑβδομάδα	ἑβδομάς	noun, accusative feminine singular	1	group of seven
@@ -142,7 +142,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:9	1	3	ἀκούοντες	ἀκούω	present active imperative, nominative masculine plural	1	hearing
 4MA 14:9	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 4MA 14:9	1	5	θλίψιν	θλῖψις	noun, accusative feminine singular	1	distress
-4MA 14:9	1	6	τῶν	ὁ	article, genitive plural	1	the
+4MA 14:9	1	6	τῶν	ὁ	article, genitive plural	1	of the
 4MA 14:9	1	7	νεανίων	νεανίας	noun, genitive masculine plural	1	young men
 4MA 14:9	1	8	ἐκείνων	οὗτος	demonstrative pronoun, genitive feminine plural	1	these
 4MA 14:9	1	9	φρίττομεν	φρίττω	present active indicative, first plural	1	we shudder
@@ -157,7 +157,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:9	1	18	ἀκούοντες	ἀκούω	present active imperative, nominative masculine plural	1	hearing
 4MA 14:9	1	19	τὸν	ὁ	article, accusative masculine singular	1	the
 4MA 14:9	1	20	παραχρῆμα	παραχρῆμα	adverb	1	immediately
-4MA 14:9	1	21	ἀπειλῆς	ἀπειλή	noun, genitive feminine singular	1	a threat
+4MA 14:9	1	21	ἀπειλῆς	ἀπειλή	noun, genitive feminine singular	1	of threat
 4MA 14:9	1	22	λόγον	λόγος	noun, accusative masculine singular	1	word
 4MA 14:9	1	22	λόγον			2	message
 4MA 14:9	1	23	ἀλλὰ	ἀλλά	adversative conjunction	1	but
@@ -168,11 +168,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:9	1	28	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 4MA 14:9	1	29	ταῖς	ὁ	article, dative feminine plural	1	with the
 4MA 14:9	1	30	διὰ	διά	preposition (genitive)	1	through
-4MA 14:9	1	31	πυρὸς	πῦρ	noun, genitive neuter singular	1	of fire
+4MA 14:9	1	31	πυρὸς	πῦρ	noun, genitive neuter singular	1	fire
 4MA 14:9	1	32	ὀδύναις	ὀδύνη	noun, dative feminine plural	1	pains
 4MA 14:10	1	1	Ὧν	ὅς	relative pronoun, genitive feminine plural	1	of which
 4MA 14:10	1	2	τί	τίς	interrogative pronoun, nominative neuter singular	1	what
-4MA 14:10	1	3	ἂν	ἄν	particle	1	ever
+4MA 14:10	1	3	ἂν	ἄν	particle	1	[modal particle]
 4MA 14:10	1	4	γένοιτο	γίγνομαι	aorist middle optative, 3rd singular	1	become
 4MA 14:10	1	5	ἐπαλγέστερον	ἐπαλγής	comparative adjective, nominative neuter singular	1	more painful
 4MA 14:10	1	6	ὀξεῖα	ὀξύς	adjective nominative feminine singular	1	sharp
@@ -203,13 +203,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:11	1	11	ἐκείνων	ἐκεῖνος	demonstrative pronoun, genitive masculine plural	1	those
 4MA 14:11	1	12	ἐν	ἐν	preposition with the dative	1	in
 4MA 14:11	1	13	ταῖς	ὁ	article, dative feminine plural	1	the
-4MA 14:11	1	14	βασάνοις	βάσανος	noun, dative feminine plural	1	in tortures
+4MA 14:11	1	14	βασάνοις	βάσανος	noun, dative feminine plural	1	tortures
 4MA 14:11	1	14	βασάνοις			2	in torments
 4MA 14:11	1	15	ὅπου	ὅπου	Conjunction introducing a situation as reason	1	since
 4MA 14:11	1	15	ὅπου			2	when
 4MA 14:11	1	16	γε	γε	emphatic particle	1	indeed
 4MA 14:11	1	17	καὶ	καί	conjunction	1	and
-4MA 14:11	1	18	γυναικὸς	γυνή	noun, genitive feminine singular	1	woman
+4MA 14:11	1	18	γυναικὸς	γυνή	noun, genitive feminine singular	1	of a woman
 4MA 14:11	1	19	νοῦς	νοῦς	noun, nominative masculine singular	1	mind
 4MA 14:11	1	19	νοῦς			2	purpose
 4MA 14:11	1	20	πολυτροπωτέρων	πολύτροπος	comparative adjective, genitive plural	1	more varied
@@ -219,7 +219,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:12	1	1	Ἡ	ὁ	article, nominative feminine singular	1	the
 4MA 14:12	1	2	μήτηρ	μήτηρ	noun, nominative feminine singular	1	mother
 4MA 14:12	1	3	γὰρ	γάρ	postpositive conjunction	1	for
-4MA 14:12	1	4	τῶν	ὁ	article, genitive plural	1	the
+4MA 14:12	1	4	τῶν	ὁ	article, genitive plural	1	of the
 4MA 14:12	1	5	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 4MA 14:12	1	6	νεανίσκων	νεανίσκος	noun, genitive masculine plural	1	young men
 4MA 14:12	1	7	ἐκείνων	ἐκεῖνος	demonstrative pronoun, genitive plural after τὰς in sense '(portions) of those'	1	of those
@@ -227,8 +227,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:12	1	9	τὰς	ὁ	article, accusative feminine plural	1	the
 4MA 14:12	1	10	ἐφ᾽	ἐπί	preposition ἐπί, elided	1	upon
 4MA 14:12	1	11	ἑνὶ	εἷς	cardinal numeral, dative masculine singular	1	one
-4MA 14:12	1	12	ἑκάστῳ	ἕκαστος	pronoun/adjective, dative masculine singular, distributive	1	to each
-4MA 14:12	1	13	τῶν	ὁ	article, genitive plural	1	the
+4MA 14:12	1	12	ἑκάστῳ	ἕκαστος	pronoun/adjective, dative masculine singular, distributive	1	each
+4MA 14:12	1	13	τῶν	ὁ	article, genitive plural	1	of the
 4MA 14:12	1	14	τέκνων	τέκνον	noun, genitive neuter plural	1	children
 4MA 14:12	1	15	στρέβλας	στρέβλη	noun, accusative feminine plural	1	instruments of torture
 4MA 14:13	1	1	Θεωρεῖτε	θεωρέω	present active imperative, second plural	1	observe
@@ -265,16 +265,16 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:14	1	15	καὶ	καί	conjunction	1	and
 4MA 14:14	1	16	στοργὴν	στοργή	noun, accusative feminine singular	1	affection
 4MA 14:14	1	17	ἔχει	ἔχω	present active indicative, third singular	1	has
-4MA 14:14	1	18	τοῖς	ὁ	article, dative neuter plural	1	the
+4MA 14:14	1	18	τοῖς	ὁ	article, dative neuter plural	1	to the
 4MA 14:14	1	19	ἀνθρώποις	ἄνθρωπος	noun, dative masculine plural	1	human beings
 4MA 14:15	1	1	Καὶ	καί	conjunction	1	and
 4MA 14:15	1	2	γὰρ	γάρ	explanatory particle	1	for
-4MA 14:15	1	3	τῶν	ὁ	article, genitive plural	1	the
+4MA 14:15	1	3	τῶν	ὁ	article, genitive plural	1	of the
 4MA 14:15	1	4	πετεινῶν	πετεινός	substantival adjective, genitive neuter plural	1	birds
 4MA 14:15	1	5	τὰ	ὁ	article, accusative neuter plural	1	the
 4MA 14:15	1	6	μὲν	μέν	particle marking the first of two corresponding clauses	1	indeed
 4MA 14:15	1	7	ἥμερα	ἥμερος	adjective, nominative neuter plural	1	tame
-4MA 14:15	1	8	κατὰ	κατά	preposition with the accusative	1	according to
+4MA 14:15	1	8	κατὰ	κατά	preposition with the accusative	1	about
 4MA 14:15	1	9	τὰς	ὁ	article, accusative feminine plural	1	the
 4MA 14:15	1	10	οἰκίας	οἰκία	noun, accusative feminine plural	1	houses
 4MA 14:15	1	11	ὀροφοιτοῦντα	ὀροφοιτάω	present active participle, nominative neuter plural	1	ranging over the roofs
@@ -283,20 +283,20 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:15	1	14	νεοττῶν	νεοττός	noun, genitive masculine plural	1	young
 4MA 14:16	1	1	Τὰ	ὁ	article, accusative neuter plural	1	the
 4MA 14:16	1	2	δὲ	δέ	postpositive conjunction	1	and
-4MA 14:16	1	3	κατὰ	κατά	preposition with the accusative	1	according to
+4MA 14:16	1	3	κατὰ	κατά	preposition with the accusative	1	on
 4MA 14:16	1	4	τὰς	ὁ	article, accusative feminine plural	1	the
 4MA 14:16	1	5	κορυφὰς	κορυφή	noun, accusative feminine plural	1	peaks
 4MA 14:16	1	5	κορυφὰς			2	summits
-4MA 14:16	1	6	ὀρέων	ὄρος	noun, genitive neuter plural	1	mountains
+4MA 14:16	1	6	ὀρέων	ὄρος	noun, genitive neuter plural	1	of mountains
 4MA 14:16	1	7	καὶ	καί	conjunction	1	and
-4MA 14:16	1	8	φαράγγων	φάραγξ	noun, genitive feminine plural	1	ravines
+4MA 14:16	1	8	φαράγγων	φάραγξ	noun, genitive feminine plural	1	of ravines
 4MA 14:16	1	9	ἀποῤῥῶγας	ἀπορρώξ	adjective, accusative feminine plural	1	precipitous places
 4MA 14:16	1	10	καὶ	καί	conjunction	1	and
-4MA 14:16	1	11	δένδρων	δένδρον	noun, genitive neuter plural	1	trees
+4MA 14:16	1	11	δένδρων	δένδρον	noun, genitive neuter plural	1	of trees
 4MA 14:16	1	12	ὀπὰς	ὀπή	noun, accusative feminine plural	1	hollows
 4MA 14:16	1	13	καὶ	καί	conjunction	1	and
 4MA 14:16	1	14	τὰς	ὁ	article, accusative feminine plural	1	the
-4MA 14:16	1	15	τούτων	οὗτος	demonstrative pronoun, genitive plural	1	these
+4MA 14:16	1	15	τούτων	οὗτος	demonstrative pronoun, genitive plural	1	of these
 4MA 14:16	1	16	ἄκρας	ἄκρα	noun, accusative feminine plural	1	heights
 4MA 14:16	1	17	νοσσοποιησάμενα	νοσσοποιέομαι	aorist middle participle, nominative neuter plural	1	having made nests
 4MA 14:16	1	18	ἀποτίκτει	ἀποτίκτω	present active indicative, third singular	1	it brings forth
@@ -317,9 +317,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:17	1	11	τῇ	ὁ	article, dative feminine singular	1	the
 4MA 14:17	1	12	στοργῇ	στοργή	noun, dative feminine singular	1	affection
 4MA 14:17	1	13	ἀνακαλούμενα	ἀνακαλέω	present middle participle, nominative neuter plural	1	calling back
-4MA 14:17	1	14	τῇ	ὁ	article, dative feminine singular	1	the
+4MA 14:17	1	14	τῇ	ὁ	article, dative feminine singular	1	with the
 4MA 14:17	1	15	ἰδίᾳ	ἴδιος	adjective, dative feminine singular	1	its own
-4MA 14:17	1	16	φωνῇ	φωνή	noun, dative feminine singular, instrumental	1	with a voice
+4MA 14:17	1	16	φωνῇ	φωνή	noun, dative feminine singular, instrumental	1	voice
 4MA 14:17	1	17	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	by
 4MA 14:17	1	18	ὃν	ὅς	relative pronoun, accusative masculine singular	1	which
 4MA 14:17	1	19	δύναται	δύναμαι	present middle indicative, third singular	1	it can
@@ -360,11 +360,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:19	1	14	καθάπερ	καθάπερ	comparative conjunction	1	just as
 4MA 14:19	1	15	σιδήρῳ	σίδηρος	noun, dative masculine singular	1	iron
 4MA 14:19	1	16	τῷ	ὁ	article, dative masculine singular	1	the
-4MA 14:19	1	17	κέντρῳ	κέντρον	noun, dative neuter singular	1	goad
+4MA 14:19	1	17	κέντρῳ	κέντρον	noun, dative neuter singular	1	sting
 4MA 14:19	1	18	πλήσσουσι	πλήσσω	present active indicative, third plural	1	they strike
 4MA 14:19	1	19	τοὺς	ὁ	article, accusative masculine plural	1	the
 4MA 14:19	1	20	προσιόντας	πρόσειμι	present active participle, accusative masculine plural	1	approaching
-4MA 14:19	1	21	τῇ	ὁ	article, dative feminine singular	1	the
+4MA 14:19	1	21	τῇ	ὁ	article, dative feminine singular	1	to the
 4MA 14:19	1	22	νοσσιᾷ	νοσσιά	noun, dative feminine singular	1	nest
 4MA 14:19	1	23	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 4MA 14:19	1	24	καὶ	καί	conjunction	1	and
@@ -378,10 +378,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 14:20	1	4	τοῦ	ὁ	article, genitive singular	1	of
 4MA 14:20	1	5	Ἀβραὰμ	Ἀβραάμ	indeclinable name genitive	1	Abraham
 4MA 14:20	1	6	ὁμόψυχον	ὁμόψυχος	adjective, accusative feminine singular	1	of one soul
-4MA 14:20	1	7	τῶν	ὁ	article, genitive plural	1	the
+4MA 14:20	1	7	τῶν	ὁ	article, genitive plural	1	of the
 4MA 14:20	1	8	νεανίων	νεανίας	noun, genitive masculine plural	1	young men
 4MA 14:20	1	9	μητέρα	μήτηρ	noun, accusative feminine singular	1	mother
 4MA 14:20	1	10	μετεκίνησεν	μετακινέω	aorist active indicative, third singular	1	it moved
 4MA 14:20	1	11	συμπάθεια	συμπάθεια	noun, nominative feminine singular	1	sympathy
-4MA 14:20	1	12	τῶν	ὁ	article, genitive plural	1	the
+4MA 14:20	1	12	τῶν	ὁ	article, genitive plural	1	for the
 4MA 14:20	1	13	τέκνων	τέκνον	noun, genitive neuter plural	1	children
