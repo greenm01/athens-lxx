@@ -1,17 +1,17 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:1	1	1	ΒΑΣΙΛΕΥΣ	βασιλεύς	noun, nominative masculine singular	1	king
-3MA 7:1	1	2	Πτολεμαῖος	Πτολεμαῖος	noun, nominative masculine singular	1	Ptolemy
+3MA 7:1	1	2	Πτολεμαῖος	Πτολεμαῖος	noun, nominative masculine singular	1	Ptolemee
 3MA 7:1	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 3MA 7:1	1	4	Φιλοπάτωρ	Φιλοπάτωρ	noun, nominative masculine singular	1	Philopator
-3MA 7:1	1	5	τοῖς	ὁ	article, dative neuter plural	1	the
+3MA 7:1	1	5	τοῖς	ὁ	article, dative neuter plural	1	to the
 3MA 7:1	1	6	κατ᾽	κατά	preposition with the genitive, elided, against	1	throughout
 3MA 7:1	1	7	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular	1	Egypt
 3MA 7:1	1	8	στρατηγοῖς	στρατηγός	noun, dative masculine plural	1	commanders
 3MA 7:1	1	9	καὶ	καί	conjunction	1	and
 3MA 7:1	1	10	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
-3MA 7:1	1	11	τοῖς	ὁ	article, dative neuter plural	1	the
-3MA 7:1	1	12	τεταγμένοις	τάσσω	perfect middle/passive participle, dative masculine plural	1	appointed
-3MA 7:1	1	13	ἐπὶ	ἐπί	preposition (case from context)	1	on
+3MA 7:1	1	11	τοῖς	ὁ	article, dative neuter plural	1	those
+3MA 7:1	1	12	τεταγμένοις	τάσσω	perfect middle/passive participle, dative masculine plural	1	who are appointed
+3MA 7:1	1	13	ἐπὶ	ἐπί	preposition (case from context)	1	over
 3MA 7:1	1	14	πραγμάτων	πρᾶγμα	noun, genitive neuter plural	1	business
 3MA 7:1	1	15	χαίρειν	χαίρω	present active infinitive	1	greetings
 3MA 7:1	1	16	καὶ	καί	conjunction	1	and
@@ -19,7 +19,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:2	1	1	Ἐρρώμεθα	ῥώννυμι	perfect middle/passive indicative, first plural	1	we are well
 3MA 7:2	1	2	δὲ	δέ	postpositive conjunction	1	and
 3MA 7:2	1	3	καὶ	καί	conjunction	1	both
-3MA 7:2	1	4	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	you
+3MA 7:2	1	4	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	ourselves
 3MA 7:2	1	5	καὶ	καί	conjunction	1	and
 3MA 7:2	1	6	τὰ	ὁ	article, accusative neuter plural	1	the
 3MA 7:2	1	7	τέκνα	τέκνον	noun, nominative neuter plural	1	children
@@ -33,7 +33,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:2	1	15	πράγματα	πρᾶγμα	noun, accusative neuter plural	1	affairs
 3MA 7:2	1	16	καθὼς	καθώς	comparative conjunction	1	just as
 3MA 7:2	1	17	προαιρούμεθα	προαιρέομαι	present middle indicative, first plural	1	we choose
-3MA 7:3	1	1	Τῶν	ὁ	article, genitive plural	1	the
+3MA 7:3	1	1	Τῶν	ὁ	article, genitive plural	1	of the
 3MA 7:3	1	2	φίλων	φίλος	adjective, genitive masculine plural	1	courtiers
 3MA 7:3	1	3	τινὲς	τις	Indefinite pronoun; nominative masculine plural	1	some people
 3MA 7:3	1	4	κατὰ	κατά	preposition with the accusative	1	according to
@@ -55,7 +55,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:3	1	20	συστήματα	σύστημα	noun, accusative neuter plural	1	assemblies
 3MA 7:3	1	21	κολάζεσθαι	κολάζω	present middle/passive infinitive	1	to punish
 3MA 7:3	1	22	ξενιζούσαις	ξενίζω	present active participle, accusative feminine plural	1	strange
-3MA 7:3	1	23	ἀποστατῶν	ἀποστάτης	noun genitive masculine plural	1	as rebels
+3MA 7:3	1	23	ἀποστατῶν	ἀποστάτης	noun genitive masculine plural	1	of rebels
 3MA 7:3	1	24	τιμωρίαις	τιμωρία	noun, dative feminine plural	1	punishments
 3MA 7:4	1	1	Προφερόμενοι	προφέρω	present middle participle, nominative masculine plural	1	alleging
 3MA 7:4	1	2	μηδέποτε	μηδέποτε	adverb	1	never
@@ -63,7 +63,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:4	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
 3MA 7:4	1	5	πράγματα	πρᾶγμα	noun, accusative neuter plural	1	affairs
 3MA 7:4	1	6	ἡμῶν	ἐγώ	personal pronoun, genitive plural	1	our
-3MA 7:4	1	7	δι᾽	διά	elided preposition with genitive	1	through
+3MA 7:4	1	7	δι᾽	διά	elided preposition with genitive	1	because of
 3MA 7:4	1	8	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 3MA 7:4	1	9	ἔχουσιν	ἔχω	present active indicative, third plural	1	they have
 3MA 7:4	1	10	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
@@ -75,7 +75,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:4	1	15	δυσμένειαν	δυσμένεια	noun, accusative feminine singular	1	hostility
 3MA 7:4	1	16	μέχρι	μέχρι	preposition with genitive	1	until
 3MA 7:4	1	17	ἂν	ἄν	modal particle, modal particle	1	—
-3MA 7:4	1	18	συντελεσθῇ	συντελέω	aorist passive subjunctive, third singular	1	is put an end
+3MA 7:4	1	18	συντελεσθῇ	συντελέω	aorist passive subjunctive, third singular	1	is accomplished
 3MA 7:4	1	19	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 3MA 7:5	1	1	Οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
 3MA 7:5	1	2	καὶ	καί	conjunction	1	and
@@ -83,7 +83,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:5	1	3	δεσμίους			2	captives
 3MA 7:5	1	4	καταγαγόντες	κατάγω	aorist active participle, nominative masculine plural	1	having brought down
 3MA 7:5	1	5	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-3MA 7:5	1	6	μετὰ	μετά	preposition with the accusative	1	after
+3MA 7:5	1	6	μετὰ	μετά	preposition with the accusative	1	with
 3MA 7:5	1	7	σκυλμῶν	σκυλμός	noun, genitive masculine plural	1	ill-treatment
 3MA 7:5	1	8	ὡς	ὡς	comparative particle	1	as
 3MA 7:5	1	9	ἀνδράποδα	ἀνδράποδον	noun, accusative neuter plural	1	slaves
@@ -92,7 +92,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:5	1	12	ὡς	ὡς	comparative particle	1	as
 3MA 7:5	1	13	ἐπιβούλους	ἐπίβουλος	adjective, accusative masculine plural	1	plotters
 3MA 7:5	1	14	ἄνευ	ἄνευ	preposition with genitive	1	without
-3MA 7:5	1	15	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
+3MA 7:5	1	15	πάσης	πᾶς	adjective, genitive feminine singular	1	any
 3MA 7:5	1	16	ἀνακρίσεως	ἀνάκρισις	noun, genitive feminine singular	1	inquiry
 3MA 7:5	1	17	καὶ	καί	conjunction	1	and
 3MA 7:5	1	18	ἐξετάσεως	ἐξέτασις	noun, genitive feminine singular	1	examination
@@ -109,7 +109,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:6	1	4	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	1	these things
 3MA 7:6	1	5	σκληρότερον	σκληρός	comparative adverb	1	sternly
 3MA 7:6	1	6	διαπειλησάμενοι	διαπειλέομαι	aorist middle participle, nominative masculine plural	1	having threatened
-3MA 7:6	1	7	καθ᾽	κατά	preposition elided	1	by
+3MA 7:6	1	7	καθ᾽	κατά	preposition elided	1	according to
 3MA 7:6	1	8	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 3MA 7:6	1	9	ἔχομεν	ἔχω	present active indicative, first plural	1	we have
 3MA 7:6	1	10	πρὸς	πρός	preposition with the accusative	1	toward
@@ -120,10 +120,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:6	1	15	τὸ	ὁ	article, accusative neuter singular	1	the
 3MA 7:6	1	16	ζῆν	ζάω	present active infinitive	1	to live
 3MA 7:6	1	17	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
-3MA 7:6	1	18	χαριζόμενοι	χαρίζομαι	present middle participle, nominative masculine plural	1	granting favor
+3MA 7:6	1	18	χαριζόμενοι	χαρίζομαι	present middle participle, nominative masculine plural	1	granting
 3MA 7:6	1	19	καὶ	καί	conjunction	1	and
 3MA 7:6	1	20	τὸν	ὁ	article, accusative masculine singular; with a personal name, marks the name	1	—
-3MA 7:6	1	21	ἐπουράνιον	ἐπουράνιος	substantival adjective accusative masculine singular	1	heavenly one
+3MA 7:6	1	21	ἐπουράνιον	ἐπουράνιος	substantival adjective accusative masculine singular	1	heavenly
 3MA 7:6	1	22	Θεὸν	θεός	noun, accusative masculine singular	1	God
 3MA 7:6	1	23	ἐγνωκότες	γινώσκω	perfect active participle, nominative masculine plural	1	knowing
 3MA 7:6	1	24	ἀσφαλῶς	ἀσφαλῶς	adverb	1	unfailingly
@@ -139,10 +139,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:6	1	32	διαπαντὸς	διαπαντός	adverb	1	continually
 3MA 7:6	1	32	διαπαντὸς			2	always
 3MA 7:6	1	33	ὑπερμαχοῦντα	ὑπερμαχέω	present active participle, accusative masculine singular	1	fighting in defense
-3MA 7:7	1	1	τήν	ὁ	article, accusative feminine singular	1	that
-3MA 7:7	1	2	τε	τε	particle	1	both
+3MA 7:7	1	1	τήν	ὁ	article, accusative feminine singular	1	the
+3MA 7:7	1	2	τε	τε	particle	1	and
 3MA 7:7	1	3	τοῦ	ὁ	article, genitive masculine singular	1	of the
-3MA 7:7	1	4	φίλου	φίλος	noun, genitive masculine singular	1	friendly
+3MA 7:7	1	4	φίλου	φίλος	noun, genitive masculine singular	1	friend
 3MA 7:7	1	5	δι	διά	preposition with genitive	1	through
 3MA 7:7	1	6	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 3MA 7:7	1	7	ἔχουσι	ἔχω	present active indicative third plural	1	they have
@@ -158,9 +158,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:7	1	17	δικαίως	δικαίως	adverb of manner	1	rightly
 3MA 7:7	1	17	δικαίως			2	justly
 3MA 7:7	1	18	ἀπολελύκαμεν	ἀπολύω	perfect active indicative, first plural	1	we have released
-3MA 7:7	1	19	πάσης	πᾶς	adjective, genitive feminine singular	1	all
-3MA 7:7	1	20	καθ᾽	κατά	preposition with the accusative, elided	1	from
-3MA 7:7	1	21	ὁντινοῦν	ὁστισοῦν	indefinite relative pronoun, accusative masculine singular	1	anyone whoever
+3MA 7:7	1	19	πάσης	πᾶς	adjective, genitive feminine singular	1	from every
+3MA 7:7	1	20	καθ᾽	κατά	preposition with the accusative, elided	1	in
+3MA 7:7	1	21	ὁντινοῦν	ὁστισοῦν	indefinite relative pronoun, accusative masculine singular	1	whatever
 3MA 7:7	1	22	αἰτίας	αἰτία	noun, genitive feminine singular	1	charge
 3MA 7:7	1	23	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
 3MA 7:8	1	1	Καὶ	καί	conjunction	1	and
@@ -175,28 +175,28 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:8	1	9	ἐν	ἐν	preposition with the dative	1	in
 3MA 7:8	1	10	παντὶ	πᾶς	adjective, dative masculine singular	1	all
 3MA 7:8	1	11	τόπῳ	τόπος	noun, dative masculine singular	1	place
-3MA 7:8	1	12	μηθενὸς	μηδείς	substantival adjective genitive neuter singular	1	nothing
+3MA 7:8	1	12	μηθενὸς	μηδείς	substantival adjective genitive neuter singular	1	no one
 3MA 7:8	1	13	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 3MA 7:8	1	14	τὸ	ὁ	article, accusative neuter singular	1	the
 3MA 7:8	1	15	σύνολον	σύνολον	adverb	1	altogether
 3MA 7:8	1	16	καταβλάπτοντος	καταβλάπτω	present active participle, genitive masculine singular	1	harming
 3MA 7:8	1	17	μήτε	μήτε	negative correlative conjunction	1	neither
 3MA 7:8	1	17	μήτε			2	nor
-3MA 7:8	1	18	ὀνειδίζοντος	ὀνειδίζω	present active participle genitive masculine singular	1	of one reproaching
-3MA 7:8	1	19	περὶ	περί	preposition with genitive	1	for
-3MA 7:8	1	20	τῶν	ὁ	article, genitive plural	1	the
-3MA 7:8	1	21	γεγενημένων	γίνομαι	perfect middle participle genitive masculine plural	1	happened
-3MA 7:8	1	22	παρὰ	παρά	preposition with dative, in one's service	1	with
-3MA 7:8	1	23	λόγον	λόγος	noun, accusative masculine singular	1	word
+3MA 7:8	1	18	ὀνειδίζοντος	ὀνειδίζω	present active participle genitive masculine singular	1	reproaching
+3MA 7:8	1	19	περὶ	περί	preposition with genitive	1	about
+3MA 7:8	1	20	τῶν	ὁ	article, genitive plural	1	the things
+3MA 7:8	1	21	γεγενημένων	γίνομαι	perfect middle participle genitive masculine plural	1	that happened
+3MA 7:8	1	22	παρὰ	παρά	preposition with dative, in one's service	1	contrary to
+3MA 7:8	1	23	λόγον	λόγος	noun, accusative masculine singular	1	reason
 3MA 7:9	1	1	Γινώσκετε	γινώσκω	present active indicative, second plural	1	know
 3MA 7:9	1	2	γὰρ	γάρ	conjunction	1	for
 3MA 7:9	1	3	ὅτι	ὅτι	causal conjunction	1	that
-3MA 7:9	1	4	κατὰ	κατά	preposition with the accusative	1	according to
+3MA 7:9	1	4	κατὰ	κατά	preposition with the accusative	1	against
 3MA 7:9	1	5	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	these
 3MA 7:9	1	6	ἐάν	ἐάν	conditional conjunction with the subjunctive	1	if
 3MA 7:9	1	7	τι	τις	indefinite pronoun, nominative neuter singular	1	anything
 3MA 7:9	1	7	τι			2	something
-3MA 7:9	1	8	κακοτεχνήσωμεν	κακοτεχνέω	aorist active subjunctive, first plural	1	we devise evil
+3MA 7:9	1	8	κακοτεχνήσωμεν	κακοτεχνέω	aorist active subjunctive, first plural	1	we devise
 3MA 7:9	1	9	πονηρόν	πονηρός	substantival adjective, accusative neuter singular	1	evil
 3MA 7:9	1	10	ἢ	ἤ	particle	1	or
 3MA 7:9	1	11	ἐπιλυπήσωμεν	ἐπιλυπέω	aorist active subjunctive, first plural	1	we cause distress
@@ -215,12 +215,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:9	1	23	ὕψιστον	ὕψιστος	adjective accusative masculine singular	1	Most High
 3MA 7:9	1	24	ἀντικείμενον	ἀντίκειμαι	present middle participle, accusative masculine singular	1	opposing
 3MA 7:9	1	25	ἡμῖν	ἐγώ	personal pronoun dative first plural	1	to us
-3MA 7:9	1	26	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+3MA 7:9	1	26	ἐπ᾽	ἐπί	preposition with the accusative	1	for
 3MA 7:9	1	27	ἐκδικήσει	ἐκδικέω	future active indicative, 3rd singular	1	avenging
-3MA 7:9	1	28	τῶν	ὁ	article, genitive plural	1	the
+3MA 7:9	1	28	τῶν	ὁ	article, genitive plural	1	of the
 3MA 7:9	1	29	πραγμάτων	πρᾶγμα	noun, genitive neuter plural	1	affairs
-3MA 7:9	1	30	κατὰ	κατά	preposition governing accusative	1	against
-3MA 7:9	1	31	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+3MA 7:9	1	30	κατὰ	κατά	preposition governing accusative	1	in
+3MA 7:9	1	31	πᾶν	πᾶς	adjective, accusative neuter singular	1	every way
 3MA 7:9	1	32	ἀφεύκτως	ἀφεύκτως	adverb	1	inevitably
 3MA 7:9	1	33	διαπαντὸς	διαπαντός	adverb	1	continually
 3MA 7:9	1	33	διαπαντὸς			2	always
@@ -234,48 +234,48 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:10	1	6	οὐκ	οὐ	negative particle	1	not
 3MA 7:10	1	7	ἐσπούδασαν	σπουδάζω	aorist active indicative, third plural	1	hurried
 3MA 7:10	1	8	εὐθέως	εὐθέως	adverb	1	immediately
-3MA 7:10	1	9	περὶ	περί	preposition with accusative	1	around
+3MA 7:10	1	9	περὶ	περί	preposition with accusative	1	about
 3MA 7:10	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 3MA 7:10	1	11	ἄφοδον	ἄφοδος	noun, accusative feminine singular	1	journey
 3MA 7:10	1	12	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 3MA 7:10	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
 3MA 7:10	1	14	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 3MA 7:10	1	15	προσηξίωσαν	προσαξιόω	aorist active indicative, third plural	1	asked further
-3MA 7:10	1	16	τοὺς	ὁ	article, accusative masculine plural	1	the
+3MA 7:10	1	16	τοὺς	ὁ	article, accusative masculine plural	1	those
 3MA 7:10	1	17	ἐκ	ἐκ	preposition with the genitive	1	from
 3MA 7:10	1	18	τοῦ	ὁ	article, genitive singular	1	the
 3MA 7:10	1	19	γένους	γένος	noun, genitive neuter singular	1	family
 3MA 7:10	1	20	τῶν	ὁ	article, genitive masculine plural	1	of the
 3MA 7:10	1	21	Ἰουδαίων	Ἰουδαῖος	adjective, genitive masculine plural; substantival	1	Judeans
 3MA 7:10	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
-3MA 7:10	1	23	ἅγιον	ἅγιος	adjective, accusative masculine singular; substantival	1	Holy One
+3MA 7:10	1	23	ἅγιον	ἅγιος	adjective, accusative masculine singular; substantival	1	holy
 3MA 7:10	1	24	Θεὸν	θεός	noun, accusative masculine singular	1	God
 3MA 7:10	1	25	αὐθαιρέτως	αὐθαιρέτως	adverb	1	voluntarily
-3MA 7:10	1	26	παραβεβηκότας	παραβαίνω	perfect active participle, accusative masculine plural	1	having transgressed
+3MA 7:10	1	26	παραβεβηκότας	παραβαίνω	perfect active participle, accusative masculine plural	1	who had transgressed
 3MA 7:10	1	27	καὶ	καί	conjunction	1	and
-3MA 7:10	1	28	τοῦ	ὁ	article, genitive neuter singular, introduces the infinitive	1	—
+3MA 7:10	1	28	τοῦ	ὁ	article, genitive neuter singular, introduces the infinitive	1	of
 3MA 7:10	1	29	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 3MA 7:10	1	30	τὸν	ὁ	article, accusative masculine singular	1	the
 3MA 7:10	1	31	νόμον	νόμος	noun, accusative masculine singular	1	law
 3MA 7:10	1	32	τυχεῖν	τυγχάνω	aorist active infinitive	1	to obtain
-3MA 7:10	1	33	δι᾽	διά	elided preposition with the accusative	1	because of
-3MA 7:10	1	34	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
+3MA 7:10	1	33	δι᾽	διά	elided preposition with the accusative	1	through
+3MA 7:10	1	34	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 3MA 7:10	1	35	τῆς	ὁ	article, genitive feminine singular	1	the
 3MA 7:10	1	36	ὀφειλομένης	ὀφείλω	present middle/passive participle, genitive feminine singular	1	deserved
 3MA 7:10	1	37	κολάσεως	κόλασις	noun, genitive feminine singular	1	punishment
 3MA 7:11	1	1	προφερόμενοι	προφέρω	present middle participle, nominative masculine plural	1	alleging
-3MA 7:11	1	2	τοὺς	ὁ	article, accusative masculine plural	1	the
-3MA 7:11	1	3	γαστρὸς	γαστήρ	noun genitive feminine singular	1	womb
+3MA 7:11	1	2	τοὺς	ὁ	article, accusative masculine plural	1	those
+3MA 7:11	1	3	γαστρὸς	γαστήρ	noun genitive feminine singular	1	belly
 3MA 7:11	1	4	ἕνεκεν	ἕνεκα	preposition with genitive	1	because of
 3MA 7:11	1	5	τὰ	ὁ	article, accusative neuter plural	1	the
-3MA 7:11	1	6	θεῖα	θεῖος	adjective, accusative neuter plural; used substantivally	1	divine matters
+3MA 7:11	1	6	θεῖα	θεῖος	adjective, accusative neuter plural; used substantivally	1	divine
 3MA 7:11	1	6	θεῖα			2	divine things
-3MA 7:11	1	7	παραβεβηκότας	παραβαίνω	perfect active participle, accusative masculine plural	1	having transgressed
+3MA 7:11	1	7	παραβεβηκότας	παραβαίνω	perfect active participle, accusative masculine plural	1	who had transgressed
 3MA 7:11	1	8	προστάγματα	πρόσταγμα	noun, accusative neuter plural	1	commands
 3MA 7:11	1	9	μηδέποτε	μηδέποτε	adverb	1	never
 3MA 7:11	1	10	εὐνοήσειν	εὐνοέω	future active infinitive	1	show goodwill
 3MA 7:11	1	11	μηδὲ	μηδέ	conjunction/negative	1	nor
-3MA 7:11	1	12	τοῖς	ὁ	article, dative masculine plural	1	with the
+3MA 7:11	1	12	τοῖς	ὁ	article, dative masculine plural	1	to the
 3MA 7:11	1	13	τοῦ	ὁ	article, genitive masculine singular	1	of the
 3MA 7:11	1	14	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 3MA 7:11	1	15	πράγμασιν	πρᾶγμα	noun, dative neuter plural	1	affairs
@@ -295,29 +295,29 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:12	1	13	πάντων	πᾶς	substantival adjective, genitive masculine plural	1	of all
 3MA 7:12	1	14	ὅπως	ὅπως	conjunction of purpose with the subjunctive	1	so that
 3MA 7:12	1	14	ὅπως			2	in order that
-3MA 7:12	1	15	τοὺς	ὁ	article, accusative masculine plural	1	the
-3MA 7:12	1	16	παραβεβηκότας	παραβαίνω	perfect active participle, accusative masculine plural	1	having transgressed
+3MA 7:12	1	15	τοὺς	ὁ	article, accusative masculine plural	1	those
+3MA 7:12	1	16	παραβεβηκότας	παραβαίνω	perfect active participle, accusative masculine plural	1	who had transgressed
 3MA 7:12	1	17	τοῦ	ὁ	article, genitive masculine singular	1	of the
 3MA 7:12	1	18	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 3MA 7:12	1	19	τὸν	ὁ	article, accusative masculine singular	1	the
 3MA 7:12	1	20	νόμον	νόμος	noun, accusative masc. sg	1	law
 3MA 7:12	1	21	ἐξολεθρεύσωσι	ἐξολεθρεύω	aorist active subjunctive, third plural	1	they might utterly destroy
-3MA 7:12	1	22	κατὰ	κατά	preposition with the accusative	1	according to
+3MA 7:12	1	22	κατὰ	κατά	preposition with the accusative	1	throughout
 3MA 7:12	1	23	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 3MA 7:12	1	24	τὸν	ὁ	article, accusative masculine singular	1	the
 3MA 7:12	1	25	ὑπὸ	ὑπό	preposition with the accusative	1	under
 3MA 7:12	1	26	τὴν	ὁ	article, accusative feminine singular	1	the
 3MA 7:12	1	27	βασιλείαν	βασιλεία	noun, accusative feminine singular	1	kingdom
 3MA 7:12	1	28	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
-3MA 7:12	1	29	τόπον	τόπος	noun, accusative masculine singular	1	a place
+3MA 7:12	1	29	τόπον	τόπος	noun, accusative masculine singular	1	place
 3MA 7:12	1	30	μετὰ	μετά	preposition with genitive	1	with
 3MA 7:12	1	31	παρρησίας	παρρησία	noun, genitive feminine singular	1	confidence
 3MA 7:12	1	32	ἄνευ	ἄνευ	preposition with genitive	1	without
-3MA 7:12	1	33	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
+3MA 7:12	1	33	πάσης	πᾶς	adjective, genitive feminine singular	1	any
 3MA 7:12	1	34	βασιλικῆς	βασιλικός	adjective, genitive feminine singular	1	royal
-3MA 7:12	1	35	ἐξουσίας	ἐξουσία	noun, genitive feminine singular	1	supervision
+3MA 7:12	1	35	ἐξουσίας	ἐξουσία	noun, genitive feminine singular	1	authority
 3MA 7:12	1	36	καὶ	καί	conjunction	1	and
-3MA 7:12	1	37	ἐπισκέψεως	ἐπίσκεψις	noun, genitive feminine singular	1	census
+3MA 7:12	1	37	ἐπισκέψεως	ἐπίσκεψις	noun, genitive feminine singular	1	inspection
 3MA 7:12	1	37	ἐπισκέψεως			2	count
 3MA 7:13	1	1	Τότε	τότε	temporal adverb	1	then
 3MA 7:13	1	2	κατευφημήσαντες	κατευφημέω	aorist active participle, nominative masculine plural	1	having acclaimed
@@ -326,10 +326,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:13	1	5	πρέπον	πρέπω	present active participle, nominative neuter singular	1	fitting
 3MA 7:13	1	6	ἦν	εἰμί	imperfect indicative, third singular	1	was
 3MA 7:13	1	7	οἱ	ὁ	article, nominative masculine plural	1	the
-3MA 7:13	1	8	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	these
-3MA 7:13	1	9	ἱερεῖς	ἱερεύς	noun, nominative masc. pl	1	the priests
+3MA 7:13	1	8	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	of these
+3MA 7:13	1	9	ἱερεῖς	ἱερεύς	noun, nominative masc. pl	1	priests
 3MA 7:13	1	10	καὶ	καί	conjunction	1	and
-3MA 7:13	1	11	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+3MA 7:13	1	11	πᾶν	πᾶς	adjective, accusative neuter singular	1	all
 3MA 7:13	1	12	τὸ	ὁ	article, nominative neuter singular	1	the
 3MA 7:13	1	13	πλῆθος	πλῆθος	noun, nominative neut. sg	1	multitude
 3MA 7:13	1	14	ἐπιφωνήσαντες	ἐπιφωνέω	aorist active participle, nominative masculine plural	1	having cried
@@ -341,14 +341,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:14	1	1	Τότε	τότε	temporal adverb	1	then
 3MA 7:14	1	2	τὸν	ὁ	article, accusative masculine singular	1	the
 3MA 7:14	1	3	ἐμπεσόντα	ἐμπίπτω	aorist active participle, accusative neuter singular	1	having come upon
-3MA 7:14	1	4	τῶν	ὁ	article, genitive plural	1	the
+3MA 7:14	1	4	τῶν	ὁ	article, genitive plural	1	of the
 3MA 7:14	1	5	μεμιαμμένων	μιαίνω	perfect middle/passive participle, genitive masculine plural	1	defiled
-3MA 7:14	1	6	ὁμοεθνῆ	ὁμοεθνής	adjective, accusative masculine singular	1	a compatriot
-3MA 7:14	1	7	κατὰ	κατά	preposition with the accusative	1	according to
+3MA 7:14	1	6	ὁμοεθνῆ	ὁμοεθνής	adjective, accusative masculine singular	1	compatriot
+3MA 7:14	1	7	κατὰ	κατά	preposition with the accusative	1	along
 3MA 7:14	1	8	τὴν	ὁ	article, accusative feminine singular	1	the
 3MA 7:14	1	9	ὁδὸν	ὁδός	noun, accusative feminine singular	1	way
 3MA 7:14	1	9	ὁδὸν			2	path
-3MA 7:14	1	10	ἐκολάζοντο	κολάζω	imperfect middle/passive indicative, third plural	1	were punished
+3MA 7:14	1	10	ἐκολάζοντο	κολάζω	imperfect middle/passive indicative, third plural	1	were punishing
 3MA 7:14	1	11	καὶ	καί	conjunction	1	and
 3MA 7:14	1	12	μετὰ	μετά	preposition with genitive	1	with
 3MA 7:14	1	13	παραδειγματισμῶν	παραδειγματισμός	noun, genitive masculine plural	1	public exemplary punishments
@@ -364,7 +364,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:15	1	9	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
 3MA 7:15	1	10	ἣν	ὅς	relative pronoun, accusative feminine singular; refers to the area or allotment	1	which
 3MA 7:15	1	11	καὶ	καί	conjunction	1	and
-3MA 7:15	1	12	ἤγαγον	ἄγω	aorist active indicative, third plural	1	brought
+3MA 7:15	1	12	ἤγαγον	ἄγω	aorist active indicative, third plural	1	celebrated
 3MA 7:15	1	13	εὐφροσύνην	εὐφροσύνη	noun accusative feminine singular	1	gladness
 3MA 7:15	1	14	μετὰ	μετά	preposition with genitive	1	with
 3MA 7:15	1	15	χαρᾶς	χαρά	noun, genitive feminine singular	1	joy
@@ -373,14 +373,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:15	1	18	χειρωσάμενοι	χειρόομαι	aorist middle participle, nominative masculine plural	1	having subdued
 3MA 7:16	1	1	Αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
 3MA 7:16	1	2	δὲ	δέ	postpositive conjunction	1	and
-3MA 7:16	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
+3MA 7:16	1	3	οἱ	ὁ	article, nominative masculine plural	1	those
 3MA 7:16	1	4	μέχρι	μέχρι	preposition with genitive	1	until
-3MA 7:16	1	5	θανάτου	θάνατος	noun, genitive masculine singular	1	of death
+3MA 7:16	1	5	θανάτου	θάνατος	noun, genitive masculine singular	1	death
 3MA 7:16	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
 3MA 7:16	1	7	Θεὸν	θεός	noun, accusative masculine singular	1	God
-3MA 7:16	1	8	ἐσχηκότες	ἔχω	perfect active participle, nominative masculine plural	1	having had
+3MA 7:16	1	8	ἐσχηκότες	ἔχω	perfect active participle, nominative masculine plural	1	who had held fast
 3MA 7:16	1	9	παντελῆ	παντελής	adjective, accusative feminine singular	1	complete
-3MA 7:16	1	10	σωτηρίας	σωτηρία	noun genitive feminine singular	1	salvation
+3MA 7:16	1	10	σωτηρίας	σωτηρία	noun genitive feminine singular	1	of salvation
 3MA 7:16	1	11	ἀπόλαυσιν	ἀπόλαυσις	noun, accusative feminine singular	1	benefit
 3MA 7:16	1	12	εἰληφότες	λαμβάνω	perfect active participle, nominative masculine plural	1	having received
 3MA 7:16	1	13	ἀνέζευξαν	ἀναζεύγνυμι	aorist active indicative, third plural	1	departed
@@ -404,16 +404,16 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:16	1	28	παμμέλεσιν	παμμελής	adjective, dative masculine plural	1	in varied melodies
 3MA 7:16	1	29	ὕμνοις	ὕμνος	noun dative masculine plural	1	hymns
 3MA 7:16	1	30	εὐχαριστοῦντες	εὐχαριστέω	present active participle, nominative masculine plural	1	giving thanks
-3MA 7:16	1	31	τῷ	ὁ	article, dative masculine singular	1	the
+3MA 7:16	1	31	τῷ	ὁ	article, dative masculine singular	1	to the
 3MA 7:16	1	32	Θεῷ	θεός	noun, dative masculine singular	1	God
-3MA 7:16	1	33	τῶν	ὁ	article, genitive masculine plural	1	the
-3MA 7:16	1	34	πατέρων	πατήρ	noun, genitive masculine plural	1	of the fathers
+3MA 7:16	1	33	τῶν	ὁ	article, genitive masculine plural	1	of the
+3MA 7:16	1	34	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers
 3MA 7:16	1	35	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 3MA 7:16	1	36	αἰωνίῳ	αἰώνιος	adjective, dative neuter singular	1	everlasting
 3MA 7:16	1	37	σωτῆρι	σωτήρ	noun dative masculine singular	1	savior
 3MA 7:16	1	38	τοῦ	ὁ	article genitive masculine singular	1	of the
-3MA 7:16	1	39	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
-3MA 7:17	1	1	Παραγενηθέντες	παραγίνομαι	aorist passive participle, nominative masculine plural	1	having returned
+3MA 7:16	1	39	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
+3MA 7:17	1	1	Παραγενηθέντες	παραγίνομαι	aorist passive participle, nominative masculine plural	1	having arrived
 3MA 7:17	1	2	δὲ	δέ	postpositive conjunction	1	and
 3MA 7:17	1	3	εἰς	εἰς	preposition with the accusative	1	into
 3MA 7:17	1	4	Πτολεμαίδα	Πτολεμαΐς	noun, accusative feminine singular	1	Ptolemais
@@ -427,21 +427,21 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:17	1	12	ῥοδοφόρον	ῥοδοφόρος	adjective, accusative feminine singular	1	rose-bearing
 3MA 7:17	1	13	ἐν	ἐν	preposition with the dative	1	in
 3MA 7:17	1	14	ᾗ	ὅς	relative pronoun, dative feminine singular	1	which
-3MA 7:17	1	15	προσέμεινεν	προσμένω	aorist active indicative, third singular	1	remained
+3MA 7:17	1	15	προσέμεινεν	προσμένω	aorist active indicative, third singular	1	waited for
 3MA 7:17	1	16	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 3MA 7:17	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
 3MA 7:17	1	18	στόλος	στόλος	noun, nominative masculine singular	1	convoy
 3MA 7:17	1	19	κατὰ	κατά	preposition with the accusative	1	according to
 3MA 7:17	1	20	κοινὴν	κοινός	adjective, accusative feminine singular	1	joint
 3MA 7:17	1	21	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-3MA 7:17	1	22	βουλὴν	βουλή	noun, accusative feminine singular	1	the counsel
+3MA 7:17	1	22	βουλὴν	βουλή	noun, accusative feminine singular	1	counsel
 3MA 7:17	1	23	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
 3MA 7:17	1	24	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 3MA 7:18	1	1	ἐκεῖ	ἐκεῖ	adverb of place	1	there
-3MA 7:18	1	2	ἐποίησαν	ποιέω	aorist active indicative, third person plural	1	they did
+3MA 7:18	1	2	ἐποίησαν	ποιέω	aorist active indicative, third person plural	1	they held
 3MA 7:18	1	3	πότον	πότος	noun, accusative masculine singular	1	feast
 3MA 7:18	1	3	πότον			2	drinking party
-3MA 7:18	1	4	σωτηρίου	σωτήριον	substantival adjective, genitive neuter singular	1	of well-being
+3MA 7:18	1	4	σωτηρίου	σωτήριον	substantival adjective, genitive neuter singular	1	of deliverance
 3MA 7:18	1	4	σωτηρίου			2	of peace
 3MA 7:18	1	5	τοῦ	ὁ	article, genitive singular	1	the
 3MA 7:18	1	6	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
@@ -449,12 +449,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:18	1	8	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 3MA 7:18	1	9	εὐψύχως	εὔψυχος	adverb	1	gladly
 3MA 7:18	1	10	τὰ	ὁ	article, accusative neuter plural	1	the
-3MA 7:18	1	11	πρὸς	πρός	preposition with the accusative	1	to
+3MA 7:18	1	11	πρὸς	πρός	preposition with the accusative	1	for
 3MA 7:18	1	12	τὴν	ὁ	article, accusative feminine singular	1	the
 3MA 7:18	1	13	ἄφιξιν	ἄφιξις	noun, accusative feminine singular	1	journey home
 3MA 7:18	1	14	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 3MA 7:18	1	15	ἑκάστῳ	ἕκαστος	pronoun/adjective, dative masculine singular, distributive	1	to each
-3MA 7:18	1	16	ἕως	ἕως	temporal conjunction/preposition (from context)	1	until
+3MA 7:18	1	16	ἕως	ἕως	temporal conjunction/preposition (from context)	1	as far as
 3MA 7:18	1	17	εἰς	εἰς	preposition with the accusative	1	into
 3MA 7:18	1	18	τὴν	ὁ	article, accusative feminine singular	1	the
 3MA 7:18	1	19	ἰδίαν	ἴδιος	adjective, accusative feminine singular	1	own
@@ -469,13 +469,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:19	1	8	ἐξομολογήσεσιν	ἐξομολόγησις	noun, dative feminine plural	1	thanksgivings
 3MA 7:19	1	9	ὡσαύτως	ὡσαύτως	adverb	1	likewise
 3MA 7:19	1	10	κἀκεῖ	κἀκεῖ	crasis of	1	and there
-3MA 7:19	1	11	ἔστησαν	ἵστημι	aorist active indicative third plural	1	they stood
+3MA 7:19	1	11	ἔστησαν	ἵστημι	aorist active indicative third plural	1	they established
 3MA 7:19	1	12	καὶ	καί	conjunction	1	and
 3MA 7:19	1	13	ταύτας	οὗτος	demonstrative pronoun, accusative feminine plural	1	these
 3MA 7:19	1	14	ἄγειν	ἄγω	present active infinitive	1	to observe
 3MA 7:19	1	15	τὰς	ὁ	article, accusative feminine plural	1	the
 3MA 7:19	1	16	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
-3MA 7:19	1	17	ἐπὶ	ἐπί	preposition (case from context)	1	on
+3MA 7:19	1	17	ἐπὶ	ἐπί	preposition (case from context)	1	for
 3MA 7:19	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 3MA 7:19	1	19	τῆς	ὁ	article, genitive feminine singular	1	of the
 3MA 7:19	1	20	παροικίας	παροικία	noun, genitive feminine singular	1	sojourn
@@ -487,7 +487,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:20	1	3	ἀνιερώσαντες	ἀνιερόω	aorist active participle, nominative masculine plural	1	having dedicated
 3MA 7:20	1	4	ἐν	ἐν	preposition with the dative	1	in
 3MA 7:20	1	5	στήλῃ	στήλη	noun, dative feminine singular	1	a stele
-3MA 7:20	1	6	κατὰ	κατά	preposition with the accusative	1	according to
+3MA 7:20	1	6	κατὰ	κατά	preposition with the accusative	1	at
 3MA 7:20	1	7	τὸν	ὁ	article, accusative masculine singular	1	the
 3MA 7:20	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
 3MA 7:20	1	9	συμποσίας	συμποσία	noun, genitive feminine singular	1	feasting
@@ -498,7 +498,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:20	1	14	ἀσινεῖς	ἀσινής	adjective, nominative masculine plural	1	unharmed
 3MA 7:20	1	15	ἐλεύθεροι	ἐλεύθερος	adjective, nominative masculine plural	1	freemen
 3MA 7:20	1	16	ὑπερχαρεῖς	ὑπερχαρής	adjective, nominative masculine plural	1	overjoyed
-3MA 7:20	1	17	διά	διά	preposition with the accusative	1	because of
+3MA 7:20	1	17	διά	διά	preposition with the accusative	1	through
 3MA 7:20	1	18	τε	τε	particle	1	both
 3MA 7:20	1	19	γῆς	γῆ	noun, genitive feminine singular	1	land
 3MA 7:20	1	20	καὶ	καί	conjunction	1	and
@@ -506,10 +506,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:20	1	22	καὶ	καί	conjunction	1	and
 3MA 7:20	1	23	ποταμοῦ	ποταμός	noun, genitive masculine singular	1	river
 3MA 7:20	1	24	ἀνασωζόμενοι	ἀνασῴζομαι	present middle participle, nominative masculine plural	1	escaping
-3MA 7:20	1	25	τῇ	ὁ	article, dative feminine singular	1	the
+3MA 7:20	1	25	τῇ	ὁ	article, dative feminine singular	1	by the
 3MA 7:20	1	26	τοῦ	ὁ	article, genitive singular	1	of the
 3MA 7:20	1	27	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
-3MA 7:20	1	28	ἐπιταγῇ	ἐπιτάσσω	aorist passive subjunctive, third singular; impersonal	1	the command is given
+3MA 7:20	1	28	ἐπιταγῇ	ἐπιτάσσω	aorist passive subjunctive, third singular; impersonal	1	command
 3MA 7:20	1	29	ἕκαστος	ἕκαστος	adjective, nominative masculine singular	1	each
 3MA 7:20	1	30	εἰς	εἰς	preposition with the accusative	1	into
 3MA 7:20	1	31	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -529,10 +529,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:21	1	13	φόβου	φόβος	noun, genitive masculine singular	1	fear
 3MA 7:21	1	14	τὸ	ὁ	article, accusative neuter singular	1	the
 3MA 7:21	1	15	σύνολον	σύνολον	adverb	1	altogether
-3MA 7:21	1	16	ὑπὸ	ὑπό	preposition with the accusative	1	under
+3MA 7:21	1	16	ὑπὸ	ὑπό	preposition with the accusative	1	by
 3MA 7:21	1	17	μηδενὸς	μηδείς	pronoun, genitive masculine singular	1	no one
 3MA 7:21	1	18	διασεισθέντες	διασείω	aorist passive participle, nominative masculine plural	1	having been harassed
-3MA 7:21	1	19	τῶν	ὁ	article, genitive plural	1	the
+3MA 7:21	1	19	τῶν	ὁ	article, genitive plural	1	of the
 3MA 7:21	1	20	ὑπαρχόντων	ὑπάρχω	present active participle, substantival genitive neuter plural	1	possessions
 3MA 7:22	1	1	Καὶ	καί	conjunction	1	and
 3MA 7:22	1	2	πάντα	πᾶς	adjective, accusative neuter plural	1	all
@@ -544,19 +544,19 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 7:22	1	8	ἀπογραφῆς	ἀπογραφή	noun, genitive feminine singular	1	registration
 3MA 7:22	1	9	ὥστε	ὥστε	conjunction	1	so as
 3MA 7:22	1	10	τοὺς	ὁ	article, accusative masculine plural	1	those
-3MA 7:22	1	11	ἔχοντάς	ἔχω	present active participle, accusative masculine plural	1	holding them
-3MA 7:22	1	12	τι	τις	pronoun, accusative neuter singular; indefinite, adverbial	1	at all
+3MA 7:22	1	11	ἔχοντάς	ἔχω	present active participle, accusative masculine plural	1	having
+3MA 7:22	1	12	τι	τις	pronoun, accusative neuter singular; indefinite, adverbial	1	anything
 3MA 7:22	1	13	μετὰ	μετά	preposition with genitive	1	with
 3MA 7:22	1	14	φόβου	φόβος	noun, genitive masculine singular	1	fear
 3MA 7:22	1	15	μεγίστου	μέγας	superlative adjective, genitive masculine singular	1	greatest
 3MA 7:22	1	16	ἀποδοῦναι	ἀποδίδωμι	aorist active infinitive	1	to repay
-3MA 7:22	1	17	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
+3MA 7:22	1	17	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 3MA 7:22	1	18	τὰ	ὁ	article, accusative neuter plural	1	the
-3MA 7:22	1	19	μεγαλεῖα	μεγαλεῖον	noun, accusative neuter plural	1	greatness
+3MA 7:22	1	19	μεγαλεῖα	μεγαλεῖον	noun, accusative neuter plural	1	mighty deeds
 3MA 7:22	1	20	τοῦ	ὁ	article, genitive singular	1	the
 3MA 7:22	1	21	μεγάλου	μέγας	adjective, genitive masculine singular	1	great
 3MA 7:22	1	22	Θεοῦ	θεός	noun, genitive masculine singular	1	God
-3MA 7:22	1	23	ποιήσαντος	ποιέω	aorist active participle, genitive masculine singular; substantival	1	one who made
+3MA 7:22	1	23	ποιήσαντος	ποιέω	aorist active participle, genitive masculine singular; substantival	1	having done
 3MA 7:22	1	23	ποιήσαντος			2	maker
 3MA 7:22	1	24	τελείως	τελείως	adverb	1	completely
 3MA 7:22	1	25	ἐπὶ	ἐπί	preposition (case from context)	1	for
