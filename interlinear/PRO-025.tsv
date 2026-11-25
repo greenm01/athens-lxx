@@ -12,8 +12,8 @@ PRO 25:1	1	10	φίλοι	φίλος	substantival adjective nominative masculine 
 PRO 25:1	1	11	Ἐζεκίου	Ἐζεκίας	noun, genitive masculine singular; personal name	1	of Hezekiah
 PRO 25:1	1	12	τοῦ	ὁ	article, genitive singular	1	the
 PRO 25:1	1	13	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
-PRO 25:1	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
-PRO 25:1	1	15	Ἰουδαίας	Ἰουδαία	noun, genitive feminine singular; place name	1	Judea
+PRO 25:1	1	14	τῆς	ὁ	article, genitive feminine singular	1	—
+PRO 25:1	1	15	Ἰουδαίας	Ἰουδαία	noun, genitive feminine singular; place name	1	of Judea
 PRO 25:2	1	1	Δόξα	δόξα	noun, nominative feminine singular	1	glory
 PRO 25:2	1	2	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 PRO 25:2	1	3	κρύπτειν	κρύπτω	present active infinitive	1	to hide
@@ -26,7 +26,7 @@ PRO 25:2	1	9	πρόσταγμα	πρόσταγμα	noun, accusative neuter singu
 PRO 25:3	1	1	Οὐρανὸς	οὐρανός	noun, nominative masculine singular	1	heaven
 PRO 25:3	1	1	Οὐρανὸς			2	the sky
 PRO 25:3	1	2	ὑψηλὸς	ὑψηλός	adjective, nominative masculine singular	1	high
-PRO 25:3	1	3	γῆ	γῆ	noun, nominative feminine singular	1	land
+PRO 25:3	1	3	γῆ	γῆ	noun, nominative feminine singular	1	earth
 PRO 25:3	1	4	δὲ	δέ	postpositive conjunction	1	and
 PRO 25:3	1	5	βαθεῖα	βαθύς	adjective nominative feminine singular	1	deep
 PRO 25:3	1	6	καρδία	καρδία	noun, nominative feminine singular	1	heart
@@ -73,7 +73,7 @@ PRO 25:7	1	5	σοι	σύ	personal pronoun, dative singular	1	to you
 PRO 25:7	1	6	ἀνάβαινε	ἀναβαίνω	present active imperative, second singular	1	come up
 PRO 25:7	1	7	πρὸς	πρός	preposition with the accusative	1	to
 PRO 25:7	1	8	μὲ	ἐγώ	personal pronoun, accusative first singular	1	me
-PRO 25:7	1	9	ἢ	ἤ	disjunctive conjunction	1	or
+PRO 25:7	1	9	ἢ	ἤ	disjunctive conjunction	1	than
 PRO 25:7	1	10	ταπεινῶσαί	ταπεινόω	aorist active infinitive	1	to humble
 PRO 25:7	1	11	σε	σύ	personal pronoun, accusative singular	1	you
 PRO 25:7	1	12	ἐν	ἐν	preposition with the dative	1	in
@@ -111,13 +111,13 @@ PRO 25:9	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 PRO 25:9	1	4	ὀπίσω	ὀπίσω	adverb; with article	1	rear
 PRO 25:10	1	1	μὴ	μή	negative particle	1	not
 PRO 25:10	1	2	καταφρόνει	καταφρονέω	present active imperative, second singular	1	despise
-PRO 25:10	1	3	μή	μή	negative particle in emphatic negation	1	do not
+PRO 25:10	1	3	μή	μή	negative particle in emphatic negation	1	lest
 PRO 25:10	1	4	σε	σύ	personal pronoun, accusative singular	1	you
 PRO 25:10	1	5	ὀνειδίσῃ	ὀνειδίζω	aorist active subjunctive, third singular	1	might reproach
 PRO 25:10	1	6	μὲν	μέν	particle introducing a contrast	1	indeed
 PRO 25:10	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
 PRO 25:10	1	8	φίλος	φίλος	noun, nominative masculine singular	1	friend
-PRO 25:10	1	9	ἡ	ὁ	article, nominative feminine singular	1	she
+PRO 25:10	1	9	ἡ	ὁ	article, nominative feminine singular	1	the
 PRO 25:10	1	10	δὲ	δέ	postpositive conjunction	1	and
 PRO 25:10	1	11	μάχη	μάχη	noun, nominative feminine singular	1	a quarrel
 PRO 25:10	1	11	μάχη			2	a dispute
@@ -159,7 +159,7 @@ PRO 25:11	1	7	εἰπεῖν	λέγω	aorist active infinitive	1	to say
 PRO 25:11	1	8	λόγον	λόγος	noun, accusative masculine singular	1	word
 PRO 25:11	1	8	λόγον			2	message
 PRO 25:11	1	9	ἐπὶ	ἐπί	preposition governing the accusative	1	when
-PRO 25:11	1	10	ἁρμόζουσιν	ἁρμόζω	present active indicative, third plural	1	they fit
+PRO 25:11	1	10	ἁρμόζουσιν	ἁρμόζω	present active indicative, third plural	1	fitting
 PRO 25:11	1	11	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 PRO 25:12	1	1	Εἰς	εἰς	preposition with the accusative	1	into
 PRO 25:12	1	2	ἐνώτιον	ἐνώτιον	noun, accusative neuter singular	1	ring
@@ -172,7 +172,7 @@ PRO 25:12	1	8	λόγος	λόγος	noun, nominative masculine singular	1	word
 PRO 25:12	1	8	λόγος			2	message
 PRO 25:12	1	9	σοφὸς	σοφός	adjective, nominative masculine singular	1	wise
 PRO 25:12	1	10	εἰς	εἰς	preposition with accusative	1	on
-PRO 25:12	1	11	εὐήκοον	εὐήκοος	adjective, accusative neuter singular	1	a listening one
+PRO 25:12	1	11	εὐήκοον	εὐήκοος	adjective, accusative neuter singular	1	listening
 PRO 25:12	1	12	οὖς	οὖς	noun accusative neuter singular	1	ear
 PRO 25:13	1	1	Ὥσπερ	ὥσπερ	comparative conjunction	1	just as
 PRO 25:13	1	2	ἔξοδος	ἔξοδος	noun, nominative feminine singular	1	a supply
@@ -182,20 +182,20 @@ PRO 25:13	1	5	ἀμητῷ	ἀμητός	noun, dative masculine singular	1	harve
 PRO 25:13	1	5	ἀμητῷ			2	reaping
 PRO 25:13	1	6	κατὰ	κατά	preposition with the accusative	1	in
 PRO 25:13	1	7	καῦμα	καῦμα	noun, nominative neuter singular	1	heat
-PRO 25:13	1	8	ὠφελεῖ	ὠφελέω	present active indicative, third singular	1	does it help
+PRO 25:13	1	8	ὠφελεῖ	ὠφελέω	present active indicative, third singular	1	helps
 PRO 25:13	1	8	ὠφελεῖ			2	is it of use
 PRO 25:13	1	9	οὕτως	οὕτως	adverb	1	thus
 PRO 25:13	1	10	ἄγγελος	ἄγγελος	noun, nominative masculine singular	1	messenger
 PRO 25:13	1	11	πιστὸς	πιστός	adjective, nominative masculine singular	1	faithful
-PRO 25:13	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
+PRO 25:13	1	12	τοὺς	ὁ	article, accusative masculine plural	1	those
 PRO 25:13	1	13	ἀποστείλαντας	ἀποστέλλω	aorist active participle, accusative masculine plural	1	who sent
 PRO 25:13	1	14	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 PRO 25:13	1	15	ψυχὰς	ψυχή	noun, accusative feminine plural	1	lives
 PRO 25:13	1	16	γὰρ	γάρ	conjunction	1	for
-PRO 25:13	1	17	τῶν	ὁ	article, genitive masculine plural	1	the
-PRO 25:13	1	18	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
-PRO 25:13	1	19	χρωμένων	χράομαι	present middle participle, genitive masculine plural	1	those who employ
-PRO 25:13	1	20	ὠφελεῖ	ὠφελέω	present active indicative, third singular	1	does it help
+PRO 25:13	1	17	τῶν	ὁ	article, genitive masculine plural	1	of those
+PRO 25:13	1	18	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
+PRO 25:13	1	19	χρωμένων	χράομαι	present middle participle, genitive masculine plural	1	who employ
+PRO 25:13	1	20	ὠφελεῖ	ὠφελέω	present active indicative, third singular	1	helps
 PRO 25:13	1	20	ὠφελεῖ			2	is it of use
 PRO 25:14	1	1	Ὥσπερ	ὥσπερ	comparative conjunction	1	just as
 PRO 25:14	1	2	ἄνεμοι	ἄνεμος	noun, nominative masculine plural	1	winds
@@ -211,7 +211,7 @@ PRO 25:14	1	11	ἐπὶ	ἐπί	preposition with accusative	1	in
 PRO 25:14	1	12	δόσει	δόσις	noun, dative feminine singular	1	gift
 PRO 25:14	1	13	ψευδεῖ	ψευδής	adjective, dative feminine singular	1	false
 PRO 25:15	1	1	Ἐν	ἐν	preposition with the dative	1	in
-PRO 25:15	1	2	μακροθυμίᾳ	μακροθυμία	noun, dative feminine singular	1	through patience
+PRO 25:15	1	2	μακροθυμίᾳ	μακροθυμία	noun, dative feminine singular	1	patience
 PRO 25:15	1	3	εὐοδία	εὐοδία	noun, nominative feminine singular	1	success
 PRO 25:15	1	3	εὐοδία			2	prosperity
 PRO 25:15	1	4	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of a king
@@ -251,11 +251,11 @@ PRO 25:18	1	5	τόξευμα	τόξευμα	noun, nominative neuter singular	1	a
 PRO 25:18	1	6	ἀκιδωτόν	ἀκιδωτός	adjective, nominative neuter singular	1	barbed
 PRO 25:18	1	7	οὕτως	οὕτως	adverb of manner	1	so
 PRO 25:18	1	7	οὕτως			2	thus
-PRO 25:18	1	8	καὶ	καί	conjunction	1	and
+PRO 25:18	1	8	καὶ	καί	conjunction	1	also
 PRO 25:18	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
 PRO 25:18	1	10	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
 PRO 25:18	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
-PRO 25:18	1	12	καταμαρτυρῶν	καταμαρτυρέω	present active participle, nominative masculine singular	1	testifying against
+PRO 25:18	1	12	καταμαρτυρῶν	καταμαρτυρέω	present active participle, nominative masculine singular	1	testifying
 PRO 25:18	1	13	κατὰ	κατά	preposition with the accusative	1	against
 PRO 25:18	1	14	τοῦ	ὁ	article, genitive masculine singular	1	the
 PRO 25:18	1	15	φίλου	φίλος	noun, genitive masculine singular	1	friend
@@ -270,7 +270,7 @@ PRO 25:19	1	5	παρανόμου	παράνομος	adjective, genitive feminine
 PRO 25:19	1	6	ὀλεῖται	ὄλλυμι	future middle indicative, third singular	1	will perish
 PRO 25:19	1	7	ἐν	ἐν	preposition with the dative	1	in
 PRO 25:19	1	8	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
-PRO 25:19	1	9	κακῇ	κακός	adjective, dative feminine singular	1	of calamity
+PRO 25:19	1	9	κακῇ	κακός	adjective, dative feminine singular	1	evil
 PRO 25:19	1	10	οὕτως	οὕτως	adverb	1	thus
 PRO 25:19	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 PRO 25:19	1	12	περιελὼν	περιαιρέω	aorist active participle, nominative masculine singular	1	removing
@@ -285,7 +285,7 @@ PRO 25:20	1	4	ἀσύμφορον	ἀσύμφορος	adjective, nominative neut
 PRO 25:20	1	5	οὕτως	οὕτως	adverb	1	thus
 PRO 25:20	1	6	προσπεσὸν	προσπίπτω	aorist active participle, nominative neuter singular	1	that befalls
 PRO 25:20	1	7	πάθος	πάθος	noun, nominative neuter singular	1	affliction
-PRO 25:20	1	8	σώματι	σῶμα	noun, dative neuter singular	1	the body
+PRO 25:20	1	8	σώματι	σῶμα	noun, dative neuter singular	1	in the body
 PRO 25:20	1	9	καρδίαν	καρδία	noun, accusative feminine singular	1	the heart
 PRO 25:20	1	10	λυπεῖ	λυπέω	present active indicative, third singular	1	grieves
 PRO 25:20	1	11	Ὥσπερ	ὥσπερ	comparative conjunction	1	just as
@@ -297,11 +297,11 @@ PRO 25:20	1	16	ξύλῳ	ξύλον	noun, dative neuter singular	1	for wood
 PRO 25:20	1	17	οὕτως	οὕτως	adverb	1	thus
 PRO 25:20	1	18	λύπη	λύπη	noun, nominative feminine singular	1	sorrow
 PRO 25:20	1	18	λύπη			2	grief
-PRO 25:20	1	19	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	man
+PRO 25:20	1	19	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	of a man
 PRO 25:20	1	19	ἀνδρὸς			2	husband
 PRO 25:20	1	20	βλάπτει	βλάπτω	present active indicative, third singular	1	harms
 PRO 25:20	1	21	καρδίαν	καρδία	noun, accusative feminine singular	1	the heart
-PRO 25:21	1	1	Ἐὰν	ἐάν	modal particle in an indefinite relative clause, modal particle	1	—
+PRO 25:21	1	1	Ἐὰν	ἐάν	modal particle in an indefinite relative clause, modal particle	1	if
 PRO 25:21	1	2	πεινᾷ	πεινάω	present active subjunctive, third singular	1	is hungry
 PRO 25:21	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 PRO 25:21	1	4	ἐχθρός	ἐχθρός	substantival adjective nominative masculine singular	1	enemy
@@ -315,7 +315,7 @@ PRO 25:21	1	10	πότιζε	ποτίζω	present active imperative, second singu
 PRO 25:21	1	11	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 PRO 25:22	1	1	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 PRO 25:22	1	2	γὰρ	γάρ	conjunction	1	for
-PRO 25:22	1	3	ποιῶν	ποιέω	present active participle nominative masculine singular	1	one doing
+PRO 25:22	1	3	ποιῶν	ποιέω	present active participle nominative masculine singular	1	doing
 PRO 25:22	1	4	ἄνθρακας	ἄνθραξ	noun, accusative masculine plural	1	coals
 PRO 25:22	1	5	σωρεύσῃς	σωρεύω	aorist active subjunctive, second singular	1	you will heap
 PRO 25:22	1	6	ἐπὶ	ἐπί	preposition (case from context)	1	on
@@ -324,7 +324,7 @@ PRO 25:22	1	8	κεφαλὴν	κεφαλή	noun, accusative feminine singular	1	
 PRO 25:22	1	9	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 PRO 25:22	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
 PRO 25:22	1	11	δὲ	δέ	postpositive conjunction	1	and
-PRO 25:22	1	12	Κύριος	κύριος	noun, nominative masculine singular	1	owner
+PRO 25:22	1	12	Κύριος	κύριος	noun, nominative masculine singular	1	Lord
 PRO 25:22	1	13	ἀνταποδώσει	ἀνταποδίδωμι	future active indicative, third singular	1	shall repay
 PRO 25:22	1	14	σοι	σύ	personal pronoun, dative singular	1	to you
 PRO 25:22	1	15	ἀγαθά	ἀγαθός	adjective, accusative neuter plural; substantival	1	good things
@@ -341,7 +341,7 @@ PRO 25:24	1	1	Κρεῖσσον	κρείσσων	comparative adjective nominativ
 PRO 25:24	1	2	οἰκεῖν	οἰκέω	present active infinitive	1	to live
 PRO 25:24	1	3	ἐπὶ	ἐπί	preposition (case from context)	1	on
 PRO 25:24	1	4	γωνίας	γωνία	noun, genitive feminine plural	1	corner
-PRO 25:24	1	5	δώματος	δῶμα	noun, genitive neuter singular	1	roof
+PRO 25:24	1	5	δώματος	δῶμα	noun, genitive neuter singular	1	of a roof
 PRO 25:24	1	6	ἢ	ἤ	disjunctive conjunction	1	than
 PRO 25:24	1	7	μετὰ	μετά	preposition with genitive	1	with
 PRO 25:24	1	8	γυναικὸς	γυνή	noun, genitive feminine singular	1	wife
@@ -362,12 +362,12 @@ PRO 25:25	1	10	ἐκ	ἐκ	preposition with the genitive	1	from
 PRO 25:25	1	11	γῆς	γῆ	noun, genitive feminine singular	1	a land
 PRO 25:25	1	12	μακρόθεν	μακρόθεν	adverb, from afar	1	from afar
 PRO 25:26	1	1	Ὥσπερ	ὥσπερ	comparative conjunction	1	just as
-PRO 25:26	1	2	εἴτις	εἴ τις	conditional + indefinite	1	whoever
+PRO 25:26	1	2	εἴτις	εἴ τις	conditional + indefinite	1	if anyone
 PRO 25:26	1	3	πηγὴν	πηγή	noun, accusative feminine singular	1	spring
 PRO 25:26	1	3	πηγὴν			2	fountain
 PRO 25:26	1	4	φράσσοι	φράσσω	present active optative, third singular	1	would block
 PRO 25:26	1	5	καὶ	καί	conjunction	1	and
-PRO 25:26	1	6	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
+PRO 25:26	1	6	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	of water
 PRO 25:26	1	7	ἔξοδον	ἔξοδος	noun accusative feminine singular	1	outflow
 PRO 25:26	1	8	λυμαίνοιτο	λυμαίνομαι	present middle optative, third singular	1	would spoil
 PRO 25:26	1	9	οὕτως	οὕτως	adverb of manner	1	so

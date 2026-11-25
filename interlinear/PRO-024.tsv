@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 PRO 24:1	1	1	ΥΙΕ	υἱός	noun, vocative masculine singular	1	son
 PRO 24:1	1	2	μὴ	μή	negative particle	1	not
 PRO 24:1	1	3	ζηλώσῃς	ζηλόω	aorist active subjunctive, second singular	1	envy
-PRO 24:1	1	4	κακοὺς	κακός	adjective, accusative masculine plural	1	evil people
+PRO 24:1	1	4	κακοὺς	κακός	adjective, accusative masculine plural	1	evil
 PRO 24:1	1	5	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
 PRO 24:1	1	6	μηδὲ	μηδέ	conjunction	1	nor
 PRO 24:1	1	7	ἐπιθυμήσῃς	ἐπιθυμέω	aorist active subjunctive, second singular	1	desire
@@ -22,16 +22,16 @@ PRO 24:2	1	10	χείλη	χεῖλος	noun nominative neuter plural	1	lips
 PRO 24:2	1	11	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 PRO 24:2	1	12	λαλεῖ	λαλέω	present active indicative, third singular	1	speaks
 PRO 24:3	1	1	Μετὰ	μετά	preposition with genitive	1	with
-PRO 24:3	1	2	σοφίας	σοφία	noun, genitive feminine singular	1	of wisdom
+PRO 24:3	1	2	σοφίας	σοφία	noun, genitive feminine singular	1	wisdom
 PRO 24:3	1	3	οἰκοδομεῖται	οἰκοδομέω	present middle/passive indicative, third singular	1	is built
 PRO 24:3	1	4	οἶκος	οἶκος	noun, nominative masculine singular	1	house
 PRO 24:3	1	5	καὶ	καί	conjunction	1	and
 PRO 24:3	1	6	μετὰ	μετά	preposition with genitive	1	with
-PRO 24:3	1	7	συνέσεως	σύνεσις	noun genitive feminine singular	1	of understanding
+PRO 24:3	1	7	συνέσεως	σύνεσις	noun genitive feminine singular	1	understanding
 PRO 24:3	1	8	ἀνορθοῦται	ἀνορθόω	present middle/passive indicative, third singular	1	is set upright
 PRO 24:4	1	1	καὶ	καί	conjunction	1	and
 PRO 24:4	1	2	μετὰ	μετά	preposition with genitive	1	with
-PRO 24:4	1	3	αἰσθήσεως	αἴσθησις	noun, genitive feminine singular	1	of discernment
+PRO 24:4	1	3	αἰσθήσεως	αἴσθησις	noun, genitive feminine singular	1	discernment
 PRO 24:4	1	4	ἐμπίπλαται	ἐμπίπλημι	present middle/passive indicative, third singular	1	are filled
 PRO 24:4	1	5	ταμιεῖα	ταμιεῖον	noun, accusative neuter plural	1	chambers
 PRO 24:4	1	6	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -39,7 +39,7 @@ PRO 24:4	1	7	παντὸς	πᾶς	adjective, genitive neuter singular	1	every
 PRO 24:4	1	8	πλούτου	πλοῦτος	noun genitive masculine singular	1	wealth
 PRO 24:4	1	9	τιμίου	τίμιος	adjective genitive masculine singular	1	precious
 PRO 24:4	1	10	καὶ	καί	conjunction	1	and
-PRO 24:4	1	11	καλοῦ	καλός	substantival adjective, genitive neuter singular	1	a good one
+PRO 24:4	1	11	καλοῦ	καλός	substantival adjective, genitive neuter singular	1	fine
 PRO 24:5	1	1	Κρείσσων	κρείσσων	comparative adjective, nominative masculine singular	1	better
 PRO 24:5	1	2	σοφὸς	σοφός	substantival adjective, nominative masculine singular	1	wise
 PRO 24:5	1	3	ἰσχυροῦ	ἰσχυρός	substantival adjective, genitive masculine singular	1	than a mighty man
@@ -47,11 +47,11 @@ PRO 24:5	1	4	καὶ	καί	conjunction	1	and
 PRO 24:5	1	5	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
 PRO 24:5	1	6	φρόνησιν	φρόνησις	noun, accusative feminine singular	1	understanding
 PRO 24:5	1	7	ἔχων	ἔχω	present active participle, nominative masculine singular	1	having
-PRO 24:5	1	8	γεωργίου	γεώργιον	noun, genitive neuter singular	1	a field
+PRO 24:5	1	8	γεωργίου	γεώργιον	noun, genitive neuter singular	1	than a farm
 PRO 24:5	1	9	μεγάλου	μέγας	adjective, genitive masculine singular	1	great
 PRO 24:6	1	1	Μετὰ	μετά	preposition with the genitive	1	with
 PRO 24:6	1	2	κυβερνήσεως	κυβέρνησις	noun, genitive feminine singular	1	strategy
-PRO 24:6	1	3	γίνεται	γίνομαι	present middle indicative, third singular	1	becomes
+PRO 24:6	1	3	γίνεται	γίνομαι	present middle indicative, third singular	1	is waged
 PRO 24:6	1	4	πόλεμος	πόλεμος	noun, nominative masculine singular	1	battle
 PRO 24:6	1	5	βοήθεια	βοήθεια	noun nominative feminine singular	1	help
 PRO 24:6	1	6	δὲ	δέ	postpositive conjunction	1	and
@@ -73,7 +73,7 @@ PRO 24:7	1	11	ἐκ	ἐκ	preposition with the genitive	1	from
 PRO 24:7	1	12	στόματος	στόμα	noun, genitive neuter singular	1	mouth
 PRO 24:7	1	13	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 PRO 24:7	1	14	ἀλλὰ	ἀλλά	adversative conjunction	1	but
-PRO 24:7	1	15	λογίζονται	λογίζομαι	present middle indicative, third plural	1	they care for
+PRO 24:7	1	15	λογίζονται	λογίζομαι	present middle indicative, third plural	1	they deliberate
 PRO 24:7	1	15	λογίζονται			2	they value
 PRO 24:7	1	16	ἐν	ἐν	preposition with the dative	1	in
 PRO 24:7	1	17	συνεδρίοις	συνέδριον	noun, dative neuter plural	1	councils
@@ -86,16 +86,16 @@ PRO 24:8	1	6	ἄφρων	ἄφρων	substantival adjective nominative masculine
 PRO 24:8	1	7	ἐν	ἐν	preposition with the dative	1	in
 PRO 24:8	1	8	ἁμαρτίαις	ἁμαρτία	noun, dative feminine plural	1	sins
 PRO 24:9	1	1	Ἀκαθαρσία	ἀκαθαρσία	noun, nominative feminine singular	1	uncleanness
-PRO 24:9	1	2	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	man
-PRO 24:9	1	3	λοιμῷ	λοιμός	adjective, dative masculine singular	1	a pestilent person
+PRO 24:9	1	2	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	to a man
+PRO 24:9	1	3	λοιμῷ	λοιμός	adjective, dative masculine singular	1	pestilent
 PRO 24:10	1	1	ἐμμολυνθήσεται	ἐμμολύνω	future passive indicative, third singular	1	will be defiled
 PRO 24:10	1	2	ἐν	ἐν	preposition with the dative	1	in
 PRO 24:10	1	3	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
-PRO 24:10	1	4	κακῇ	κακός	adjective, dative feminine singular	1	of evil
+PRO 24:10	1	4	κακῇ	κακός	adjective, dative feminine singular	1	evil
 PRO 24:10	1	5	καὶ	καί	conjunction	1	and
 PRO 24:10	1	6	ἐν	ἐν	preposition with the dative	1	in
 PRO 24:10	1	7	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
-PRO 24:10	1	8	θλίψεως	θλῖψις	noun, genitive feminine singular	1	distress
+PRO 24:10	1	8	θλίψεως	θλῖψις	noun, genitive feminine singular	1	of distress
 PRO 24:10	1	8	θλίψεως			2	trouble
 PRO 24:10	1	9	ἕως	ἕως	subordinating conjunction	1	until
 PRO 24:10	1	10	ἂν	ἄν	modal particle, modal particle	1	—
@@ -121,20 +121,20 @@ PRO 24:12	1	8	ὅτι	ὅτι	conjunction introducing a content clause	1	that
 PRO 24:12	1	9	ὁ	ὁ	article, nominative masculine singular	1	the
 PRO 24:12	1	10	Κύριος	κύριος	noun nominative masculine singular	1	Lord
 PRO 24:12	1	11	καρδίας	καρδία	noun, accusative feminine plural	1	hearts
-PRO 24:12	1	12	πάντων	πᾶς	adjective, genitive neuter plural	1	all
+PRO 24:12	1	12	πάντων	πᾶς	adjective, genitive neuter plural	1	of all
 PRO 24:12	1	13	γινώσκει	γινώσκω	present active indicative third singular	1	he knows
 PRO 24:12	1	14	καὶ	καί	conjunction	1	and
-PRO 24:12	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
+PRO 24:12	1	15	ὁ	ὁ	article, nominative masculine singular	1	—
 PRO 24:12	1	16	πλάσας	πλάσσω	aorist active participle, nominative masculine singular; substantival	1	the one who formed
 PRO 24:12	1	16	πλάσας			2	the maker
 PRO 24:12	1	17	πνοὴν	πνοή	noun, accusative feminine singular	1	a breath
-PRO 24:12	1	18	πᾶσιν	πᾶς	adjective, dative neuter plural	1	everything
+PRO 24:12	1	18	πᾶσιν	πᾶς	adjective, dative neuter plural	1	for all
 PRO 24:12	1	19	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 PRO 24:12	1	20	οἶδε	οἶδα	perfect active indicative, third singular; present in sense	1	knows
 PRO 24:12	1	21	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 PRO 24:12	1	22	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
 PRO 24:12	1	23	ἀποδώσει	ἀποδίδωμι	future active indicative, third singular	1	shall repay
-PRO 24:12	1	24	ἑκάστῳ	ἕκαστος	substantival adjective dative masculine singular	1	each one
+PRO 24:12	1	24	ἑκάστῳ	ἕκαστος	substantival adjective dative masculine singular	1	to each one
 PRO 24:12	1	25	κατὰ	κατά	preposition with accusative	1	according to
 PRO 24:12	1	26	τὰ	ὁ	article accusative neuter plural	1	the
 PRO 24:12	1	27	ἔργα	ἔργον	noun accusative neuter plural	1	works
@@ -152,15 +152,15 @@ PRO 24:13	1	10	ὁ	ὁ	article nominative masculine singular	1	the
 PRO 24:13	1	11	φάρυγξ	φάρυγξ	noun, nominative feminine singular	1	throat
 PRO 24:14	1	1	οὕτως	οὕτως	adverb	1	thus
 PRO 24:14	1	2	αἴσθησις	αἴσθησις	noun, nominative feminine singular	1	discernment
-PRO 24:14	1	3	σοφίας	σοφία	noun, genitive feminine singular	1	wisdom
-PRO 24:14	1	4	τῇ	ὁ	article, dative feminine singular	1	the
+PRO 24:14	1	3	σοφίας	σοφία	noun, genitive feminine singular	1	of wisdom
+PRO 24:14	1	4	τῇ	ὁ	article, dative feminine singular	1	to
 PRO 24:14	1	5	σῇ	σός	adjective, dative feminine singular; possessive adjective	1	your
 PRO 24:14	1	6	ψυχῇ	ψυχή	noun dative feminine singular	1	soul
 PRO 24:14	1	7	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 PRO 24:14	1	8	γὰρ	γάρ	conjunction	1	for
 PRO 24:14	1	9	εὕρῃς	εὑρίσκω	aorist active subjunctive, second singular	1	you find
 PRO 24:14	1	10	ἔσται	εἰμί	future indicative, third singular	1	will be
-PRO 24:14	1	11	καλὴ	καλός	adjective, nominative feminine singular	1	beautiful
+PRO 24:14	1	11	καλὴ	καλός	adjective, nominative feminine singular	1	good
 PRO 24:14	1	12	ἡ	ὁ	article, nominative feminine singular	1	the
 PRO 24:14	1	13	τελευτή	τελευτή	noun, nominative feminine singular	1	end
 PRO 24:14	1	14	σου	σύ	pronoun, genitive 2nd singular	1	your
@@ -172,12 +172,12 @@ PRO 24:14	1	19	ἐγκαταλείψει	ἐγκαταλείπω	future active i
 PRO 24:15	1	1	Μὴ	μή	negative particle	1	not
 PRO 24:15	1	2	προσαγάγῃς	προσάγω	aorist active subjunctive, second singular	1	bring near
 PRO 24:15	1	3	ἀσεβῆ	ἀσεβής	substantival adjective, accusative masculine singular	1	wicked
-PRO 24:15	1	4	νομῇ	νομή	noun, dative feminine singular	1	pasture
+PRO 24:15	1	4	νομῇ	νομή	noun, dative feminine singular	1	to the pasture
 PRO 24:15	1	5	δικαίου	δίκαιος	adjective, genitive masculine singular; substantival	1	of a righteous person
 PRO 24:15	1	6	μηδὲ	μηδέ	conjunction	1	nor
 PRO 24:15	1	7	ἀπατηθῇς	ἀπατάω	aorist passive subjunctive, second singular	1	be deceived
-PRO 24:15	1	8	χορτασίᾳ	χορτασία	noun, dative feminine singular	1	feeding
-PRO 24:15	1	9	κοιλίας	κοιλία	noun, genitive feminine singular	1	belly
+PRO 24:15	1	8	χορτασίᾳ	χορτασία	noun, dative feminine singular	1	by filling
+PRO 24:15	1	9	κοιλίας	κοιλία	noun, genitive feminine singular	1	of the belly
 PRO 24:15	1	9	κοιλίας			2	bowels
 PRO 24:16	1	1	Ἑπτάκις	ἑπτάκις	adverb of number	1	seven times
 PRO 24:16	1	2	γὰρ	γάρ	conjunction	1	for
@@ -191,11 +191,11 @@ PRO 24:16	1	9	δὲ	δέ	postpositive conjunction	1	now
 PRO 24:16	1	9	δὲ			2	but
 PRO 24:16	1	10	ἀσεβεῖς	ἀσεβής	adjective, nominative masculine plural; substantival	1	ungodly people
 PRO 24:16	1	10	ἀσεβεῖς			2	impious people
-PRO 24:16	1	11	ἀσθενήσουσιν	ἀσθενέω	future active indicative, third plural	1	they will stumble
+PRO 24:16	1	11	ἀσθενήσουσιν	ἀσθενέω	future active indicative, third plural	1	will stumble
 PRO 24:16	1	11	ἀσθενήσουσιν			2	they will grow weak
 PRO 24:16	1	12	ἐν	ἐν	preposition with the dative	1	in
 PRO 24:16	1	13	κακοῖς	κακός	adjective, dative neuter plural	1	trouble
-PRO 24:17	1	1	Ἐὰν	ἐάν	modal particle in an indefinite relative clause, modal particle	1	—
+PRO 24:17	1	1	Ἐὰν	ἐάν	modal particle in an indefinite relative clause, modal particle	1	if
 PRO 24:17	1	2	πέσῃ	πίπτω	aorist active subjunctive, third singular	1	falls
 PRO 24:17	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 PRO 24:17	1	4	ἐχθρός	ἐχθρός	substantival adjective nominative masculine singular	1	enemy
@@ -203,7 +203,7 @@ PRO 24:17	1	5	σου	σύ	pronoun, possessive genitive second singular	1	your
 PRO 24:17	1	6	μὴ	μή	negative particle	1	not
 PRO 24:17	1	7	ἐπιχαρῇς	ἐπιχαίρω	aorist passive subjunctive, second singular	1	you rejoice over
 PRO 24:17	1	7	ἐπιχαρῇς			2	you gloat
-PRO 24:17	1	8	αὐτῷ	αὐτός	pronoun, dative neuter singular	1	it
+PRO 24:17	1	8	αὐτῷ	αὐτός	pronoun, dative neuter singular	1	him
 PRO 24:17	1	9	ἐν	ἐν	preposition with dative; introduces temporal infinitive	1	when
 PRO 24:17	1	10	δὲ	δέ	postpositive conjunction	1	and
 PRO 24:17	1	11	τῷ	ὁ	article, dative neuter singular; introduces the infinitive, introduces the infinitive	1	—
@@ -227,7 +227,7 @@ PRO 24:18	1	13	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
 PRO 24:18	1	14	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	him
 PRO 24:19	1	1	Μὴ	μή	negative particle	1	not
 PRO 24:19	1	2	χαῖρε	χαίρω	present active imperative, second singular	1	rejoice
-PRO 24:19	1	3	ἐπὶ	ἐπί	preposition (case from context)	1	on
+PRO 24:19	1	3	ἐπὶ	ἐπί	preposition (case from context)	1	over
 PRO 24:19	1	4	κακοποιοῖς	κακοποιός	adjective, dative masculine plural	1	evildoers
 PRO 24:19	1	5	μηδὲ	μηδέ	negative conjunction	1	nor
 PRO 24:19	1	6	ζήλου	ζηλόω	present active imperative second singular	1	envy
@@ -235,9 +235,9 @@ PRO 24:19	1	7	ἁμαρτωλούς	ἁμαρτωλός	substantival adjective a
 PRO 24:20	1	1	οὐ	οὐ	negative particle	1	not
 PRO 24:20	1	2	γὰρ	γάρ	conjunction	1	for
 PRO 24:20	1	3	μὴ	μή	negative particle reinforcing preceding negation, reinforces negation	1	—
-PRO 24:20	1	4	γένηται	γίνομαι	aorist middle subjunctive, 3rd singular	1	is
+PRO 24:20	1	4	γένηται	γίνομαι	aorist middle subjunctive, 3rd singular	1	will be
 PRO 24:20	1	5	ἔκγονα	ἔκγονος	adjective/noun, nominative neuter plural	1	offspring
-PRO 24:20	1	6	πονηρῷ	πονηρός	substantival adjective, dative neuter singular	1	a bad one
+PRO 24:20	1	6	πονηρῷ	πονηρός	substantival adjective, dative neuter singular	1	to the evil man
 PRO 24:20	1	7	λαμπτὴρ	λαμπτήρ	noun, nominative masculine singular	1	lamp
 PRO 24:20	1	8	δὲ	δέ	postpositive conjunction	1	and
 PRO 24:20	1	9	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	1	of the ungodly
@@ -251,11 +251,11 @@ PRO 24:21	1	6	βασιλέα	βασιλεύς	noun, accusative masculine singula
 PRO 24:21	1	7	καὶ	καί	conjunction	1	and
 PRO 24:21	1	8	μηδ᾽	μηδέ	conjunction	1	nor
 PRO 24:21	1	9	ἑτέρῳ	ἕτερος	adjective, dative masculine singular	1	another
-PRO 24:21	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-PRO 24:21	1	11	ἀπειθήσῃς	ἀπειθέω	aorist active subjunctive, second singular	1	do not disobey
+PRO 24:21	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	of them
+PRO 24:21	1	11	ἀπειθήσῃς	ἀπειθέω	aorist active subjunctive, second singular	1	disobey
 PRO 24:22	1	1	ἐξαίφνης	ἐξαίφνης	adverb	1	suddenly
 PRO 24:22	1	2	γὰρ	γάρ	conjunction	1	for
-PRO 24:22	1	3	τίσονται	τίνω	future middle indicative, third plural	1	will pay
+PRO 24:22	1	3	τίσονται	τίνω	future middle indicative, third plural	1	will punish
 PRO 24:22	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
 PRO 24:22	1	5	ἀσεβεῖς	ἀσεβής	substantival adjective, accusative masculine plural	1	impious men
 PRO 24:22	1	5	ἀσεβεῖς			2	the ungodly
@@ -268,7 +268,7 @@ PRO 24:22	1	11	γνώσεται	γινώσκω	future middle indicative, third s
 PRO 24:22	1	12	λόγον	λόγος	noun, accusative masc. sg., word/thing requested	1	word
 PRO 24:22	1	13	φυλασσόμενος	φυλάσσω	present middle/passive participle, nominative masculine singular	1	guarding himself
 PRO 24:22	1	14	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-PRO 24:22	1	15	ἀπωλείας	ἀπώλεια	noun, genitive feminine singular	1	destruction
+PRO 24:22	1	15	ἀπωλείας	ἀπώλεια	noun, genitive feminine singular	1	of destruction
 PRO 24:22	1	15	ἀπωλείας			2	loss
 PRO 24:22	1	16	ἐκτὸς	ἐκτός	adverb/preposition with genitive	1	outside
 PRO 24:22	1	17	ἔσται	εἰμί	future indicative, third singular	1	will be
@@ -294,10 +294,10 @@ PRO 24:22	1	32	γλώσσης			2	speech
 PRO 24:22	1	33	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 PRO 24:22	1	34	οὐ	οὐ	negative particle	1	not
 PRO 24:22	1	35	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
-PRO 24:22	1	36	ἐξέλθῃ	ἐξέρχομαι	aorist active subjunctive, third singular	1	he comes out
+PRO 24:22	1	36	ἐξέλθῃ	ἐξέρχομαι	aorist active subjunctive, third singular	1	will come out
 PRO 24:22	1	37	Μάχαιρα	μάχαιρα	noun, nominative feminine singular	1	a sword
 PRO 24:22	1	38	γλῶσσα	γλῶσσα	noun, nominative feminine singular	1	tongue
-PRO 24:22	1	39	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
+PRO 24:22	1	39	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of a king
 PRO 24:22	1	40	καὶ	καί	conjunction	1	and
 PRO 24:22	1	41	οὐ	οὐ	negative adverb with future indicative	1	not
 PRO 24:22	1	42	σαρκίνη	σάρκινος	adjective, nominative feminine singular	1	of flesh
@@ -327,7 +327,7 @@ PRO 24:22	1	65	φλὸξ	φλόξ	noun, nominative feminine singular	1	flame
 PRO 24:22	1	66	ὥστε	ὥστε	conjunction	1	so as
 PRO 24:22	1	67	ἄβρωτα	ἄβρωτος	adjective, accusative neuter plural	1	inedible
 PRO 24:22	1	68	εἶναι	εἰμί	present infinitive	1	to be
-PRO 24:22	1	69	νεοσσοῖς	νεοσσός	noun, dative masculine plural	1	young birds
+PRO 24:22	1	69	νεοσσοῖς	νεοσσός	noun, dative masculine plural	1	for young birds
 PRO 24:22	1	69	νεοσσοῖς			2	nestlings
 PRO 24:22	1	70	ἀετῶν	ἀετός	noun, genitive masc. pl.	1	of eagles
 PRO 24:23	1	1	Ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
@@ -335,7 +335,7 @@ PRO 24:23	1	2	δὲ	δέ	postpositive conjunction	1	and
 PRO 24:23	1	3	λέγω	λέγω	present active indicative, first person singular	1	say
 PRO 24:23	1	4	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 PRO 24:23	1	5	τοῖς	ὁ	article, dative neuter plural	1	the
-PRO 24:23	1	6	σοφοῖς	σοφός	substantival adjective, dative masculine plural	1	skilled men
+PRO 24:23	1	6	σοφοῖς	σοφός	substantival adjective, dative masculine plural	1	wise
 PRO 24:23	1	7	ἐπιγινώσκειν	ἐπιγινώσκω	present active infinitive	1	to recognize
 PRO 24:23	1	8	αἴδεσθαι	αἰδέομαι	present middle infinitive	1	to show regard
 PRO 24:23	1	9	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	face
@@ -347,14 +347,14 @@ PRO 24:24	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 PRO 24:24	1	2	εἰπὼν	εἶπον	aorist active participle, nominative masculine singular	1	saying
 PRO 24:24	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
 PRO 24:24	1	4	ἀσεβῆ	ἀσεβής	adjective/noun, accusative masc. sg	1	wicked
-PRO 24:24	1	5	δίκαιός	δίκαιος	adjective, nominative masculine singular; substantival	1	the righteous one
+PRO 24:24	1	5	δίκαιός	δίκαιος	adjective, nominative masculine singular; substantival	1	righteous
 PRO 24:24	1	6	ἐστιν	εἰμί	present indicative, third singular	1	is
 PRO 24:24	1	7	ἐπικατάρατος	ἐπικατάρατος	predicate adjective, nominative masculine singular	1	accursed
-PRO 24:24	1	8	λαοῖς	λαός	noun, dative masculine plural	1	peoples
+PRO 24:24	1	8	λαοῖς	λαός	noun, dative masculine plural	1	to peoples
 PRO 24:24	1	9	ἔσται	εἰμί	future indicative, third singular	1	will be
 PRO 24:24	1	10	καὶ	καί	conjunction	1	and
 PRO 24:24	1	11	μισητὸς	μισητός	adjective, nominative masculine singular	1	hated
-PRO 24:24	1	12	εἰς	εἰς	preposition with accusative	1	into
+PRO 24:24	1	12	εἰς	εἰς	preposition with accusative	1	among
 PRO 24:24	1	13	ἔθνη	ἔθνος	noun, accusative neuter plural	1	nations
 PRO 24:24	1	13	ἔθνη			2	peoples
 PRO 24:25	1	1	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -362,7 +362,7 @@ PRO 24:25	1	2	δὲ	δέ	postpositive conjunction	1	and
 PRO 24:25	1	3	ἐλέγχοντες	ἐλέγχω	present active participle, nominative masculine plural	1	those who reprove
 PRO 24:25	1	4	βελτίους	βελτίων	adjective, nominative masculine plural	1	better
 PRO 24:25	1	5	φανοῦνται	φαίνω	future middle indicative, third plural	1	will appear
-PRO 24:25	1	6	ἐπ᾽	ἐπί	preposition with the accusative	1	over
+PRO 24:25	1	6	ἐπ᾽	ἐπί	preposition with the accusative	1	upon
 PRO 24:25	1	7	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 PRO 24:25	1	8	δὲ	δέ	conjunction	1	and
 PRO 24:25	1	8	δὲ			2	but
@@ -376,7 +376,7 @@ PRO 24:26	1	4	ἀποκρινόμενα	ἀποκρίνομαι	present middle p
 PRO 24:26	1	5	λόγους	λόγος	noun, accusative masculine plural	1	words
 PRO 24:26	1	6	ἀγαθούς	ἀγαθός	adjective, accusative masculine plural	1	good
 PRO 24:27	1	1	Ἑτοίμαζε	ἑτοιμάζω	present active imperative, second singular	1	prepare
-PRO 24:27	1	2	εἰς	εἰς	preposition with accusative	1	at
+PRO 24:27	1	2	εἰς	εἰς	preposition with accusative	1	for
 PRO 24:27	1	3	τὴν	ὁ	article accusative feminine singular	1	the
 PRO 24:27	1	4	ἔξοδον	ἔξοδος	noun accusative feminine singular	1	exit
 PRO 24:27	1	5	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -384,14 +384,14 @@ PRO 24:27	1	6	ἔργα	ἔργον	noun, accusative neuter plural, direct objec
 PRO 24:27	1	7	σου	σύ	pronoun, possessive genitive second singular	1	your
 PRO 24:27	1	8	καὶ	καί	conjunction	1	and
 PRO 24:27	1	9	παρασκευάζου	παρασκευάζω	present middle/passive imperative, second singular	1	make ready
-PRO 24:27	1	10	εἰς	εἰς	preposition with the accusative	1	into
+PRO 24:27	1	10	εἰς	εἰς	preposition with the accusative	1	for
 PRO 24:27	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
 PRO 24:27	1	12	ἀγρὸν	ἀγρός	noun, accusative masculine singular	1	field
 PRO 24:27	1	13	καὶ	καί	conjunction	1	and
 PRO 24:27	1	14	πορεύου	πορεύομαι	present middle/passive imperative, second person singular	1	go
 PRO 24:27	1	15	κατόπισθέν	κατόπισθεν	adverb	1	after
 PRO 24:27	1	15	κατόπισθέν			2	behind
-PRO 24:27	1	16	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
+PRO 24:27	1	16	μου	ἐγώ	pronoun, possessive genitive first singular	1	me
 PRO 24:27	1	17	καὶ	καί	conjunction	1	and
 PRO 24:27	1	18	ἀνοικοδομήσεις	ἀνοικοδομέω	future active indicative, second singular	1	you will build up
 PRO 24:27	1	19	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -402,16 +402,16 @@ PRO 24:28	1	2	ἴσθι	εἰμί	present imperative, 2nd sg.	1	be
 PRO 24:28	1	3	ψευδὴς	ψευδής	adjective, nominative feminine singular; direct address	1	false
 PRO 24:28	1	3	ψευδὴς			2	deceitful
 PRO 24:28	1	4	μάρτυς	μάρτυς	noun, nominative masculine singular	1	witness
-PRO 24:28	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	on
+PRO 24:28	1	5	ἐπὶ	ἐπί	preposition (case from context)	1	against
 PRO 24:28	1	6	σὸν	σός	adjective, nominative neuter singular	1	your
 PRO 24:28	1	7	πολίτην	πολίτης	noun, accusative masculine singular	1	fellow citizen
 PRO 24:28	1	7	πολίτην			2	citizen
 PRO 24:28	1	8	μηδὲ	μηδέ	conjunction	1	nor
 PRO 24:28	1	9	πλατύνου	πλατύνω	present middle/passive imperative, second singular	1	boast
-PRO 24:28	1	10	σοῖς	σός	adjective, dative masculine plural	1	your
-PRO 24:28	1	11	χείλεσι	χεῖλος	noun, dative neuter plural	1	in lips
+PRO 24:28	1	10	σοῖς	σός	adjective, dative masculine plural	1	with your
+PRO 24:28	1	11	χείλεσι	χεῖλος	noun, dative neuter plural	1	lips
 PRO 24:29	1	1	Μὴ	μή	negative particle	1	not
-PRO 24:29	1	2	εἴπῃς	λέγω	aorist active subjunctive, second singular	1	you may say
+PRO 24:29	1	2	εἴπῃς	λέγω	aorist active subjunctive, second singular	1	say
 PRO 24:29	1	2	εἴπῃς			2	you should say
 PRO 24:29	1	3	ὃν	ὅς	relative pronoun, accusative masculine singular	1	in the
 PRO 24:29	1	4	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
@@ -428,16 +428,16 @@ PRO 24:29	1	14	ἠδίκησεν	ἀδικέω	aorist active indicative, third s
 PRO 24:30	1	1	Ὥσπερ	ὥσπερ	comparative conjunction	1	just as
 PRO 24:30	1	2	γεώργιον	γεώργιον	noun, accusative neuter singular	1	field
 PRO 24:30	1	3	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
-PRO 24:30	1	4	ἄφρων	ἄφρων	substantival adjective nominative masculine singular	1	a fool
+PRO 24:30	1	4	ἄφρων	ἄφρων	substantival adjective nominative masculine singular	1	foolish
 PRO 24:30	1	5	καὶ	καί	conjunction	1	and
 PRO 24:30	1	6	ὥσπερ	ὥσπερ	comparative conjunction	1	just as
 PRO 24:30	1	7	ἀμπελὼν	ἀμπελών	noun, nominative masculine singular	1	vineyard
 PRO 24:30	1	8	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 PRO 24:30	1	9	ἐνδεὴς	ἐνδεής	adjective, nominative masculine singular	1	needy
-PRO 24:30	1	10	φρενῶν	φρήν	noun, genitive feminine plural	1	sense
+PRO 24:30	1	10	φρενῶν	φρήν	noun, genitive feminine plural	1	of sense
 PRO 24:31	1	1	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 PRO 24:31	1	2	ἀφῇς	ἀφίημι	aorist active subjunctive, second singular	1	let go
-PRO 24:31	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
+PRO 24:31	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 PRO 24:31	1	4	χερσωθήσεται	χερσόω	future passive indicative, third singular	1	will go uncultivated
 PRO 24:31	1	5	καὶ	καί	conjunction	1	and
 PRO 24:31	1	6	χορτομανήσει	χορτομανέω	future active indicative, third singular	1	will run wild with weeds
@@ -446,16 +446,16 @@ PRO 24:31	1	7	ὅλος			2	all over
 PRO 24:31	1	8	καὶ	καί	conjunction	1	and
 PRO 24:31	1	9	γίνεται	γίνομαι	present middle indicative, third singular	1	becomes
 PRO 24:31	1	10	ἐκλελειμμένος	ἐκλείπω	perfect middle/passive participle, nominative masculine singular	1	abandoned
-PRO 24:31	1	11	οἱ	ὁ	article, nominative masculine plural; substantivizes the participle	1	those
+PRO 24:31	1	11	οἱ	ὁ	article, nominative masculine plural; substantivizes the participle	1	the
 PRO 24:31	1	12	δὲ	δέ	postpositive conjunction	1	and
 PRO 24:31	1	13	φραγμοὶ	φραγμός	noun, nominative masculine plural	1	fences
 PRO 24:31	1	14	τῶν	ὁ	article, genitive plural	1	the
-PRO 24:31	1	15	λίθων	λίθος	noun, genitive masculine plural	1	stones
-PRO 24:31	1	16	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
+PRO 24:31	1	15	λίθων	λίθος	noun, genitive masculine plural	1	of stones
+PRO 24:31	1	16	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	its
 PRO 24:31	1	17	κατασκάπτονται	κατασκάπτω	present middle/passive indicative, third plural	1	are torn down
 PRO 24:32	1	1	Ὕστερον	ὕστερος	adverbial comparative	1	afterward
 PRO 24:32	1	2	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-PRO 24:32	1	3	μετενόησα	μετανοέω	aorist active indicative, first singular	1	I changed my mind
+PRO 24:32	1	3	μετενόησα	μετανοέω	aorist active indicative, first singular	1	changed my mind
 PRO 24:32	1	3	μετενόησα			2	I relented
 PRO 24:32	1	4	ἐπέβλεψα	ἐπιβλέπω	aorist active indicative, first singular	1	I looked
 PRO 24:32	1	5	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive of purpose	1	in order
@@ -469,8 +469,8 @@ PRO 24:33	1	4	δὲ	δέ	postpositive conjunction	1	and
 PRO 24:33	1	5	καθυπνῶ	καθυπνόω	present active indicative, first singular	1	I sleep
 PRO 24:33	1	6	ὀλίγον	ὀλίγος	adverbial adjective, accusative neuter singular	1	little
 PRO 24:33	1	7	δὲ	δέ	postpositive conjunction	1	and
-PRO 24:33	1	8	ἐναγκαλίζομαι	ἐναγκαλίζομαι	present middle/passive indicative, first singular	1	I fold my arms
-PRO 24:33	1	9	χερσὶ	χείρ	noun, dative feminine plural	1	hands
+PRO 24:33	1	8	ἐναγκαλίζομαι	ἐναγκαλίζομαι	present middle/passive indicative, first singular	1	I fold
+PRO 24:33	1	9	χερσὶ	χείρ	noun, dative feminine plural	1	with hands
 PRO 24:33	1	10	στήθη	στῆθος	noun, accusative neuter plural	1	chest
 PRO 24:34	1	1	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 PRO 24:34	1	2	δὲ	δέ	postpositive conjunction	1	and

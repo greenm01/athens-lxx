@@ -1,14 +1,14 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 PRO 14:1	1	1	ΣΟΦΑΙ	σοφός	adjective, nominative feminine plural	1	wise
 PRO 14:1	1	2	γυναῖκες	γυνή	noun, nominative feminine plural	1	women
-PRO 14:1	1	3	ᾠκοδόμησαν	οἰκοδομέω	aorist active indicative, third plural	1	they built
+PRO 14:1	1	3	ᾠκοδόμησαν	οἰκοδομέω	aorist active indicative, third plural	1	built
 PRO 14:1	1	3	ᾠκοδόμησαν			2	they had built
 PRO 14:1	1	4	οἴκους	οἶκος	noun, accusative masculine plural	1	houses
 PRO 14:1	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
 PRO 14:1	1	6	δὲ	δέ	postpositive conjunction	1	and
 PRO 14:1	1	7	ἄφρων	ἄφρων	substantival adjective nominative masculine singular	1	a foolish woman
 PRO 14:1	1	8	κατέστρεψε	καταστρέφω	aorist active indicative, third singular	1	overturned
-PRO 14:1	1	9	ταῖς	ὁ	article, dative feminine plural	1	the
+PRO 14:1	1	9	ταῖς	ὁ	article, dative feminine plural	1	with the
 PRO 14:1	1	10	χερσὶν	χείρ	noun, dative feminine plural	1	hands
 PRO 14:1	1	11	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	her
 PRO 14:2	1	1	Ὁ	ὁ	article, nominative masculine singular; substantivizes participle	1	who is
@@ -21,7 +21,7 @@ PRO 14:2	1	6	Κύριον	κύριος	noun accusative masculine singular	1	Lord
 PRO 14:2	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
 PRO 14:2	1	8	δὲ	δέ	conjunction	1	and
 PRO 14:2	1	9	σκολιάζων	σκολιάζω	present active participle, nominative masculine singular	1	acting crookedly
-PRO 14:2	1	10	ταῖς	ὁ	article, dative feminine plural	1	the
+PRO 14:2	1	10	ταῖς	ὁ	article, dative feminine plural	1	in the
 PRO 14:2	1	11	ὁδοῖς	ὁδός	noun, dative feminine plural	1	ways
 PRO 14:2	1	12	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 PRO 14:2	1	13	ἀτιμασθήσεται	ἀτιμάζω	future passive indicative, third singular	1	shall be dishonored
@@ -62,24 +62,24 @@ PRO 14:5	1	9	ἄδικος	ἄδικος	adjective, nominative masculine singula
 PRO 14:6	1	1	Ζητήσεις	ζητέω	future active indicative, second singular	1	you will seek
 PRO 14:6	1	2	σοφίαν	σοφία	noun, accusative feminine singular, direct object	1	wisdom
 PRO 14:6	1	3	παρὰ	παρά	preposition with genitive	1	among
-PRO 14:6	1	4	κακοῖς	κακός	substantival adjective dative neuter plural	1	evils
+PRO 14:6	1	4	κακοῖς	κακός	substantival adjective dative neuter plural	1	evil men
 PRO 14:6	1	5	καὶ	καί	conjunction	1	and
 PRO 14:6	1	6	οὐχ	οὐ	negative particle	1	not
 PRO 14:6	1	7	εὑρήσεις	εὑρίσκω	future active indicative, second singular	1	you shall find
 PRO 14:6	1	8	αἴσθησις	αἴσθησις	noun, nominative feminine singular	1	discernment
 PRO 14:6	1	9	δὲ	δέ	postpositive conjunction	1	and
-PRO 14:6	1	10	παρὰ	παρά	preposition with genitive	1	from
-PRO 14:6	1	11	φρονίμοις	φρόνιμος	adjective, dative masculine plural	1	to the prudent
+PRO 14:6	1	10	παρὰ	παρά	preposition with genitive	1	with
+PRO 14:6	1	11	φρονίμοις	φρόνιμος	adjective, dative masculine plural	1	the prudent
 PRO 14:6	1	12	εὐχερής	εὐχερής	adjective, nominative feminine singular	1	easy
 PRO 14:7	1	1	Πάντα	πᾶς	adjective, accusative neuter plural	1	all
 PRO 14:7	1	2	ἐναντία	ἐναντίος	adjective, accusative neuter plural; substantival	1	opposed
-PRO 14:7	1	3	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	for her husband
-PRO 14:7	1	4	ἄφρονι	ἄφρων	substantival adjective dative masculine singular	1	to a fool
+PRO 14:7	1	3	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	1	to a man
+PRO 14:7	1	4	ἄφρονι	ἄφρων	substantival adjective dative masculine singular	1	foolish
 PRO 14:7	1	5	ὅπλα	ὅπλον	noun, nominative neuter plural	1	implements
 PRO 14:7	1	6	δὲ	δέ	postpositive conjunction	1	now
 PRO 14:7	1	7	αἰσθήσεως	αἴσθησις	noun, genitive feminine singular	1	of discernment
 PRO 14:7	1	8	χείλη	χεῖλος	noun nominative neuter plural	1	lips
-PRO 14:7	1	9	σοφά	σοφός	adjective, accusative neuter plural	1	wise things
+PRO 14:7	1	9	σοφά	σοφός	adjective, accusative neuter plural	1	wise
 PRO 14:8	1	1	Σοφία	σοφία	noun, nominative feminine singular	1	wisdom
 PRO 14:8	1	2	πανούργων	πανοῦργος	adjective, genitive masculine plural	1	of the shrewd
 PRO 14:8	1	3	ἐπιγνώσεται	ἐπιγινώσκω	future middle indicative, third singular	1	will recognize
@@ -89,11 +89,11 @@ PRO 14:8	1	5	ὁδοὺς	ὁδός	noun, accusative feminine plural	1	ways
 PRO 14:8	1	6	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 PRO 14:8	1	7	ἄνοια	ἄνοια	noun, nominative feminine singular	1	folly
 PRO 14:8	1	8	δὲ	δέ	postpositive conjunction	1	now
-PRO 14:8	1	9	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	1	the fools
+PRO 14:8	1	9	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	1	of fools
 PRO 14:8	1	10	ἐν	ἐν	preposition with the dative	1	in
 PRO 14:8	1	11	πλάνῃ	πλάνη	noun, dative feminine singular	1	error
 PRO 14:9	1	1	Οἰκίαι	οἰκία	noun, nominative feminine plural	1	houses
-PRO 14:9	1	2	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	1	the fools
+PRO 14:9	1	2	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	1	of fools
 PRO 14:9	1	3	ὀφειλήσουσι	ὀφείλω	future active indicative, third plural	1	will require
 PRO 14:9	1	4	καθαρισμόν	καθαρισμός	noun, accusative masculine singular	1	cleansing
 PRO 14:9	1	5	οἰκίαι	οἰκία	noun, nominative feminine plural	1	houses
@@ -101,7 +101,7 @@ PRO 14:9	1	6	δὲ	δέ	postpositive conjunction	1	and
 PRO 14:9	1	7	δικαίων	δίκαιος	substantival adjective genitive masculine plural	1	of the righteous
 PRO 14:9	1	8	δεκταί	δεκτός	adjective, nominative feminine plural	1	acceptable
 PRO 14:10	1	1	Καρδία	καρδία	noun, nominative feminine singular	1	heart
-PRO 14:10	1	2	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	man
+PRO 14:10	1	2	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	of a man
 PRO 14:10	1	2	ἀνδρὸς			2	husband
 PRO 14:10	1	3	αἰσθητικὴ	αἰσθητικός	adjective, nominative feminine singular	1	perceptive
 PRO 14:10	1	4	λυπηρὰ	λυπηρός	adjective, nominative feminine singular	1	sorrowful
@@ -125,15 +125,15 @@ PRO 14:11	1	7	στήσονται	ἵστημι	future middle indicative, third p
 PRO 14:12	1	1	Ἔστιν	εἰμί	present indicative, third singular	1	is
 PRO 14:12	1	2	ὁδὸς	ὁδός	noun nominative feminine singular	1	way
 PRO 14:12	1	3	ἣ	ὅς	relative pronoun, nominative feminine singular	1	which
-PRO 14:12	1	4	δοκεῖ	δοκέω	present active indicative, third singular	1	seems good
+PRO 14:12	1	4	δοκεῖ	δοκέω	present active indicative, third singular	1	seems
 PRO 14:12	1	5	ὀρθὴ	ὀρθός	adjective, nominative feminine singular	1	straight
 PRO 14:12	1	6	εἶναι	εἰμί	present infinitive	1	to be
-PRO 14:12	1	7	παρὰ	παρά	preposition with genitive	1	from
+PRO 14:12	1	7	παρὰ	παρά	preposition with genitive	1	to
 PRO 14:12	1	8	ἀνθρώποις	ἄνθρωπος	noun, dative masculine plural	1	people
 PRO 14:12	1	9	τὰ	ὁ	article, neuter plural (case from context)	1	the
 PRO 14:12	1	10	δὲ	δέ	postpositive conjunction	1	and
 PRO 14:12	1	11	τελευταῖα	τελευταῖος	adjective, nominative neuter plural	1	the ends
-PRO 14:12	1	12	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	her
+PRO 14:12	1	12	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	its
 PRO 14:12	1	13	ἔρχεται	ἔρχομαι	present middle indicative, third singular	1	is coming
 PRO 14:12	1	14	εἰς	εἰς	preposition with the accusative	1	into
 PRO 14:12	1	15	πυθμένα	πυθμήν	noun, accusative masculine singular	1	the depths
@@ -146,7 +146,7 @@ PRO 14:13	1	5	λύπη	λύπη	noun, nominative feminine singular	1	sorrow
 PRO 14:13	1	5	λύπη			2	grief
 PRO 14:13	1	6	τελευταῖα	τελευταῖος	adjective, nominative neuter plural	1	the ends
 PRO 14:13	1	7	δὲ	δέ	postpositive conjunction	1	and
-PRO 14:13	1	8	χαρᾶς	χαρά	noun, genitive feminine singular	1	joy
+PRO 14:13	1	8	χαρᾶς	χαρά	noun, genitive feminine singular	1	of joy
 PRO 14:13	1	9	εἰς	εἰς	preposition with the accusative	1	into
 PRO 14:13	1	10	πένθος	πένθος	noun, accusative neuter singular	1	mourning
 PRO 14:13	1	11	ἔρχεται	ἔρχομαι	present middle indicative, third singular	1	is coming
@@ -154,7 +154,7 @@ PRO 14:14	1	1	Τῶν	ὁ	article, genitive plural	1	the
 PRO 14:14	1	2	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, possessive, genitive masculine singular	1	his own
 PRO 14:14	1	3	ὁδῶν	ὁδός	noun, genitive feminine plural	1	ways
 PRO 14:14	1	3	ὁδῶν			2	paths
-PRO 14:14	1	4	πλησθήσεται	πίμπλημι	future passive indicative, third singular	1	will be filled
+PRO 14:14	1	4	πλησθήσεται	πίμπλημι	future passive indicative, third singular	1	will be filled with
 PRO 14:14	1	5	θρασυκάρδιος	θρασυκάρδιος	adjective, nominative masculine singular	1	bold of heart
 PRO 14:14	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
 PRO 14:14	1	7	δὲ	δέ	postpositive conjunction	1	and
@@ -165,7 +165,7 @@ PRO 14:14	1	11	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
 PRO 14:14	1	12	ἀγαθός	ἀγαθός	adjective, nominative masculine singular	1	good
 PRO 14:15	1	1	Ἄκακος	ἄκακος	adjective, nominative masculine singular	1	innocent
 PRO 14:15	1	2	πιστεύει	πιστεύω	present active indicative, third singular	1	believes
-PRO 14:15	1	3	παντὶ	πᾶς	adjective, dative masculine singular	1	all
+PRO 14:15	1	3	παντὶ	πᾶς	adjective, dative masculine singular	1	every
 PRO 14:15	1	4	λόγῳ	λόγος	noun, dative masculine singular	1	word
 PRO 14:15	1	5	πανοῦργος	πανοῦργος	adjective, nominative masculine singular	1	shrewd
 PRO 14:15	1	6	δὲ	δέ	postpositive conjunction	1	and
@@ -180,11 +180,11 @@ PRO 14:16	1	5	κακοῦ	κακός	substantival adjective genitive neuter sing
 PRO 14:16	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 PRO 14:16	1	7	δὲ	δέ	postpositive conjunction	1	and
 PRO 14:16	1	8	ἄφρων	ἄφρων	substantival adjective nominative masculine singular	1	a fool
-PRO 14:16	1	9	ἑαυτῷ	ἑαυτοῦ	pronoun, dative masculine singular; reflexive	1	for himself
+PRO 14:16	1	9	ἑαυτῷ	ἑαυτοῦ	pronoun, dative masculine singular; reflexive	1	in himself
 PRO 14:16	1	10	πεποιθὼς	πείθω	perfect active participle, nominative masculine singular	1	trusting
 PRO 14:16	1	10	πεποιθὼς			2	confident
 PRO 14:16	1	11	μίγνυται	μίγνυμι	present middle/passive indicative, third singular	1	mingles
-PRO 14:16	1	12	ἀνόμῳ	ἄνομος	adjective, dative masculine singular; substantival	1	lawless person
+PRO 14:16	1	12	ἀνόμῳ	ἄνομος	adjective, dative masculine singular; substantival	1	with the lawless
 PRO 14:17	1	1	Ὀξύθυμος	ὀξύθυμος	adjective, nominative masculine singular	1	quick-tempered
 PRO 14:17	1	2	πράσσει	πράσσω	present active indicative, third singular	1	does
 PRO 14:17	1	3	μετὰ	μετά	preposition with genitive	1	with
@@ -193,7 +193,7 @@ PRO 14:17	1	5	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
 PRO 14:17	1	6	δὲ	δέ	postpositive conjunction	1	and
 PRO 14:17	1	7	φρόνιμος	φρόνιμος	adjective, nominative masculine singular	1	sensible
 PRO 14:17	1	7	φρόνιμος			2	wise
-PRO 14:17	1	8	πολλὰ	πολύς	adjective, nominative neuter plural	1	many
+PRO 14:17	1	8	πολλὰ	πολύς	adjective, nominative neuter plural	1	much
 PRO 14:17	1	8	πολλὰ			2	numerous
 PRO 14:17	1	9	ὑποφέρει	ὑποφέρω	present active indicative, third singular	1	suffers
 PRO 14:18	1	1	Μεριοῦνται	μερίζω	future middle indicative, third plural	1	they shall divide
@@ -210,7 +210,7 @@ PRO 14:19	1	1	Ὀλισθήσουσι	ὀλισθάνω	future active indicative
 PRO 14:19	1	2	κακοὶ	κακός	adjective, nominative masculine plural	1	evil people
 PRO 14:19	1	3	ἔναντι	ἔναντι	improper preposition with genitive	1	before
 PRO 14:19	1	3	ἔναντι			2	in the presence of
-PRO 14:19	1	4	ἀγαθῶν	ἀγαθός	substantival adjective genitive neuter plural	1	of the good
+PRO 14:19	1	4	ἀγαθῶν	ἀγαθός	substantival adjective genitive neuter plural	1	the good
 PRO 14:19	1	5	καὶ	καί	conjunction	1	and
 PRO 14:19	1	6	ἀσεβεῖς	ἀσεβής	substantival adjective, nominative masculine plural	1	ungodly ones
 PRO 14:19	1	6	ἀσεβεῖς			2	impious ones
@@ -220,7 +220,7 @@ PRO 14:19	1	9	δικαίων	δίκαιος	substantival adjective genitive masc
 PRO 14:20	1	1	Φίλοι	φίλος	substantival adjective nominative masculine plural	1	friends
 PRO 14:20	1	2	μισήσουσι	μισέω	future active indicative, third plural	1	will hate
 PRO 14:20	1	3	φίλους	φίλος	adjective, accusative masculine plural	1	friends
-PRO 14:20	1	4	πτωχούς	πτωχός	adjective, accusative masculine plural; substantival	1	the poor
+PRO 14:20	1	4	πτωχούς	πτωχός	adjective, accusative masculine plural; substantival	1	poor
 PRO 14:20	1	5	φίλοι	φίλος	substantival adjective nominative masculine plural	1	friends
 PRO 14:20	1	6	δὲ	δέ	postpositive conjunction	1	and
 PRO 14:20	1	7	πλουσίων	πλούσιος	adjective genitive masculine plural, substantival	1	of the rich
@@ -241,11 +241,11 @@ PRO 14:22	1	2	τεκταίνουσι	τεκταίνομαι	present middle indic
 PRO 14:22	1	3	κακά	κακός	substantival adjective, accusative neuter plural	1	evils
 PRO 14:22	1	3	κακά			2	bad things
 PRO 14:22	1	4	ἔλεον	ἔλεος	noun, accusative masculine singular	1	mercy
-PRO 14:22	1	5	δὲ	δέ	postpositive conjunction	1	and
+PRO 14:22	1	5	δὲ	δέ	postpositive conjunction	1	but
 PRO 14:22	1	6	καὶ	καί	conjunction	1	and
 PRO 14:22	1	7	ἀλήθειαν	ἀλήθεια	noun, accusative feminine singular, faithfulness/truth	1	faithfulness
 PRO 14:22	1	8	τεκταίνουσιν	τεκταίνομαι	present middle indicative, third plural	1	devise
-PRO 14:22	1	9	ἀγαθοί	ἀγαθός	adjective, nominative masculine plural	1	were good
+PRO 14:22	1	9	ἀγαθοί	ἀγαθός	adjective, nominative masculine plural	1	the good
 PRO 14:22	1	10	Οὐκ	οὐ	negative particle	1	not
 PRO 14:22	1	11	ἐπίστανται	ἐπίσταμαι	present middle indicative, third plural	1	know
 PRO 14:22	1	12	ἔλεον	ἔλεος	noun, accusative masculine singular	1	mercy
@@ -254,18 +254,18 @@ PRO 14:22	1	13	καὶ	καί	conjunction	1	and
 PRO 14:22	1	14	πίστιν	πίστις	noun, accusative feminine singular	1	faithfulness
 PRO 14:22	1	14	πίστιν			2	trustworthiness
 PRO 14:22	1	15	τέκτονες	τέκτων	noun, nominative masculine plural	1	craftsmen
-PRO 14:22	1	16	κακῶν	κακός	substantival adjective, genitive neuter plural	1	evils
+PRO 14:22	1	16	κακῶν	κακός	substantival adjective, genitive neuter plural	1	of evils
 PRO 14:22	1	17	ἐλεημοσύναι	ἐλεημοσύνη	noun, nominative feminine plural	1	acts of mercy
-PRO 14:22	1	18	δὲ	δέ	postpositive conjunction	1	and
+PRO 14:22	1	18	δὲ	δέ	postpositive conjunction	1	but
 PRO 14:22	1	19	καὶ	καί	conjunction	1	and
 PRO 14:22	1	20	πίστεις	πίστις	noun, nominative feminine plural	1	acts of faithfulness
-PRO 14:22	1	21	παρὰ	παρά	preposition with genitive	1	from
+PRO 14:22	1	21	παρὰ	παρά	preposition with genitive	1	with
 PRO 14:22	1	22	τέκτοσιν	τέκτων	noun, dative masculine plural	1	workers
-PRO 14:22	1	23	ἀγαθοῖς	ἀγαθός	adjective, dative neut. pl.	1	good things
+PRO 14:22	1	23	ἀγαθοῖς	ἀγαθός	adjective, dative neut. pl.	1	good
 PRO 14:23	1	1	Ἐν	ἐν	preposition with the dative	1	in
-PRO 14:23	1	2	παντὶ	πᾶς	adjective, dative masculine singular	1	all
+PRO 14:23	1	2	παντὶ	πᾶς	adjective, dative masculine singular	1	every
 PRO 14:23	1	3	μεριμνῶντι	μεριμνάω	present active participle, dative masculine singular	1	one who is anxious
-PRO 14:23	1	4	ἔνεστι	ἔνειμι	present active indicative, third singular	1	is in
+PRO 14:23	1	4	ἔνεστι	ἔνειμι	present active indicative, third singular	1	there is
 PRO 14:23	1	5	περισσόν	περισσός	adjective, accusative neuter singular	1	surplus
 PRO 14:23	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 PRO 14:23	1	7	δὲ	δέ	postpositive conjunction	1	and
@@ -285,7 +285,7 @@ PRO 14:24	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
 PRO 14:24	1	6	δὲ	δέ	postpositive connective	1	now
 PRO 14:24	1	6	δὲ			2	and
 PRO 14:24	1	7	διατριβὴ	διατριβή	noun, nominative feminine singular	1	way of life
-PRO 14:24	1	8	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	1	the fools
+PRO 14:24	1	8	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	1	of fools
 PRO 14:24	1	9	κακή	κακός	adjective, nominative feminine singular	1	evil
 PRO 14:25	1	1	Ῥύσεται	ῥύομαι	future middle indicative, third singular	1	will rescue
 PRO 14:25	1	1	Ῥύσεται			2	will deliver
@@ -326,18 +326,18 @@ PRO 14:28	1	2	πολλῷ	πολύς	adjective, dative masculine singular	1	grea
 PRO 14:28	1	2	πολλῷ			2	abundant
 PRO 14:28	1	3	ἔθνει	ἔθνος	noun, dative neut. sg	1	people
 PRO 14:28	1	4	δόξα	δόξα	noun, nominative feminine singular	1	glory
-PRO 14:28	1	5	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
+PRO 14:28	1	5	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	of a king
 PRO 14:28	1	6	ἐν	ἐν	preposition with the dative	1	in
 PRO 14:28	1	7	δὲ	δέ	postpositive conjunction	1	and
-PRO 14:28	1	8	ἐκλείψει	ἐκλείπω	future active indicative, third singular, with a neuter plural subject	1	will fail
+PRO 14:28	1	8	ἐκλείψει	ἐκλείπω	future active indicative, third singular, with a neuter plural subject	1	failure
 PRO 14:28	1	8	ἐκλείψει			2	will be lacking
-PRO 14:28	1	9	λαοῦ	λαός	noun, genitive masculine singular	1	people
+PRO 14:28	1	9	λαοῦ	λαός	noun, genitive masculine singular	1	of a people
 PRO 14:28	1	10	συντριβὴ	συντριβή	noun, nominative feminine singular	1	ruin
 PRO 14:28	1	10	συντριβὴ			2	destruction
-PRO 14:28	1	11	δυνάστου	δυνάστης	noun, genitive masculine singular	1	of the Mighty One
+PRO 14:28	1	11	δυνάστου	δυνάστης	noun, genitive masculine singular	1	of a ruler
 PRO 14:29	1	1	Μακρόθυμος	μακρόθυμος	adjective, nominative masculine singular	1	patient
 PRO 14:29	1	2	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
-PRO 14:29	1	3	πολὺς	πολύς	adjective, nominative masculine singular	1	numerous
+PRO 14:29	1	3	πολὺς	πολύς	adjective, nominative masculine singular	1	great
 PRO 14:29	1	4	ἐν	ἐν	preposition with the dative	1	in
 PRO 14:29	1	5	φρονήσει	φρόνησις	noun, dative feminine singular	1	understanding
 PRO 14:29	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -347,17 +347,17 @@ PRO 14:29	1	9	ἰσχυρῶς	ἰσχυρῶς	adverb	1	strongly
 PRO 14:29	1	10	ἄφρων	ἄφρων	substantival adjective nominative masculine singular	1	a fool
 PRO 14:30	1	1	Πραΰθυμος	πραΰθυμος	adjective, nominative masculine singular	1	mild-tempered
 PRO 14:30	1	2	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
-PRO 14:30	1	3	καρδίας	καρδία	noun, genitive feminine singular	1	heart
+PRO 14:30	1	3	καρδίας	καρδία	noun, genitive feminine singular	1	of the heart
 PRO 14:30	1	4	ἰατρός	ἰατρός	noun, nominative masculine singular	1	physician
 PRO 14:30	1	5	σὴς	σής	noun, nominative masculine singular	1	moth
 PRO 14:30	1	6	δὲ	δέ	postpositive conjunction	1	and
-PRO 14:30	1	7	ὀστέων	ὀστέον	noun, genitive neuter plural	1	bones
+PRO 14:30	1	7	ὀστέων	ὀστέον	noun, genitive neuter plural	1	of the bones
 PRO 14:30	1	8	καρδία	καρδία	noun, nominative feminine singular	1	heart
 PRO 14:30	1	9	αἰσθητική	αἰσθητικός	adjective, nominative feminine singular	1	perceptive
 PRO 14:31	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 PRO 14:31	1	2	συκοφαντῶν	συκοφαντέω	present active participle, nominative masculine singular	1	oppressing
 PRO 14:31	1	3	πένητα	πένης	noun accusative masculine singular	1	a needy man
-PRO 14:31	1	4	παροξύνει	παροξύνω	future active indicative, third singular	1	will provoke
+PRO 14:31	1	4	παροξύνει	παροξύνω	future active indicative, third singular	1	provokes
 PRO 14:31	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 PRO 14:31	1	6	ποιήσαντα	ποιέω	aorist active participle, accusative masculine singular; substantival	1	one who made
 PRO 14:31	1	6	ποιήσαντα			2	maker
@@ -375,7 +375,7 @@ PRO 14:32	1	4	ἀπωσθήσεται	ἀπωθέω	future passive indicative, t
 PRO 14:32	1	5	ἀσεβής	ἀσεβής	adjective, nominative masculine singular; used substantivally	1	ungodly person
 PRO 14:32	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 PRO 14:32	1	7	δὲ	δέ	postpositive conjunction	1	and
-PRO 14:32	1	8	πεποιθὼς	πείθω	perfect active participle, nominative masculine singular	1	trusting
+PRO 14:32	1	8	πεποιθὼς	πείθω	perfect active participle, nominative masculine singular	1	trusting in
 PRO 14:32	1	8	πεποιθὼς			2	confident
 PRO 14:32	1	9	τῇ	ὁ	article, dative feminine singular	1	the
 PRO 14:32	1	10	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	his own
@@ -384,13 +384,13 @@ PRO 14:32	1	12	δίκαιος	δίκαιος	adjective nominative masculine sing
 PRO 14:33	1	1	Ἐν	ἐν	preposition with the dative	1	in
 PRO 14:33	1	2	καρδίᾳ	καρδία	noun, dative feminine singular	1	heart
 PRO 14:33	1	3	ἀγαθῇ	ἀγαθός	adjective, dative feminine singular	1	good
-PRO 14:33	1	4	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	husband
+PRO 14:33	1	4	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	of a man
 PRO 14:33	1	5	ἀναπαύσεται	ἀναπαύω	future middle indicative, third singular	1	shall rest
 PRO 14:33	1	6	σοφία	σοφία	noun, nominative feminine singular	1	wisdom
 PRO 14:33	1	7	ἐν	ἐν	preposition with the dative	1	in
 PRO 14:33	1	8	δὲ	δέ	postpositive conjunction	1	and
 PRO 14:33	1	9	καρδίᾳ	καρδία	noun dative feminine singular	1	a heart
-PRO 14:33	1	10	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	1	the fools
+PRO 14:33	1	10	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	1	of fools
 PRO 14:33	1	11	οὐ	οὐ	negative particle	1	not
 PRO 14:33	1	12	διαγινώσκεται	διαγινώσκω	present middle/passive indicative, third singular	1	is recognized
 PRO 14:34	1	1	Δικαιοσύνη	δικαιοσύνη	noun, nominative feminine singular	1	righteousness
@@ -401,13 +401,13 @@ PRO 14:34	1	5	δὲ	δέ	postpositive conjunction	1	and
 PRO 14:34	1	6	φυλὰς	φυλή	noun, accusative feminine plural	1	tribes
 PRO 14:34	1	7	ἁμαρτίαι	ἁμαρτία	noun, nominative feminine plural	1	sins
 PRO 14:35	1	1	Δεκτὸς	δεκτός	adjective, nominative masculine singular	1	acceptable
-PRO 14:35	1	2	βασιλεῖ	βασιλεύς	noun, dative masculine singular	1	king
+PRO 14:35	1	2	βασιλεῖ	βασιλεύς	noun, dative masculine singular	1	to a king
 PRO 14:35	1	3	ὑπηρέτης	ὑπηρέτης	noun, nominative masculine singular	1	attendant
 PRO 14:35	1	4	νοήμων	νοήμων	adjective, nominative masculine singular	1	discerning
 PRO 14:35	1	5	τῇ	ὁ	article, dative feminine singular	1	the
 PRO 14:35	1	6	δὲ	δέ	postpositive conjunction	1	and
-PRO 14:35	1	7	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	his own
+PRO 14:35	1	7	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	by his own
 PRO 14:35	1	8	εὐστροφίᾳ	εὐστροφία	noun, dative feminine singular	1	resourcefulness
-PRO 14:35	1	9	ἀφαιρεῖται	ἀφαιρέω	present passive indicative, third person singular	1	is taken away
+PRO 14:35	1	9	ἀφαιρεῖται	ἀφαιρέω	present passive indicative, third person singular	1	takes away
 PRO 14:35	1	10	ἀτιμίαν	ἀτιμία	noun, accusative feminine singular	1	dishonor
 PRO 14:35	1	10	ἀτιμίαν			2	disgrace
