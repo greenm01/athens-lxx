@@ -100,7 +100,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:4	1	9	σφράγισον	σφραγίζω	aorist active imperative, second singular	1	seal
 2KI 22:4	1	10	τὸ	ὁ	article, accusative neuter singular	1	the
 2KI 22:4	1	11	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular after τὸ, silver/money (from context)	1	silver
-2KI 22:4	1	12	τὸ	ὁ	article, neuter singular (case from context)	1	the
+2KI 22:4	1	12	τὸ	ὁ	article, neuter singular (case from context)	1	—
 2KI 22:4	1	13	εἰσενεχθὲν	εἰσφέρω	aorist passive participle, nominative neuter singular	1	that was brought in
 2KI 22:4	1	14	εἰς	εἰς	preposition with the accusative	1	into
 2KI 22:4	1	15	οἶκον	οἶκος	noun, accusative masculine singular	1	house
@@ -122,7 +122,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:5	1	6	ποιούντων	ποιέω	present active imperative, genitive masculine plural	1	of those doing
 2KI 22:5	1	7	τὰ	ὁ	article, accusative neuter plural	1	the
 2KI 22:5	1	8	ἔργα	ἔργον	noun, accusative neuter plural	1	works
-2KI 22:5	1	9	τῶν	ὁ	article, genitive plural	1	the
+2KI 22:5	1	9	τῶν	ὁ	article, genitive plural	1	of those
 2KI 22:5	1	10	καθεσταμένων	καθίστημι	perfect passive participle, genitive masculine plural	1	appointed
 2KI 22:5	1	11	ἐν	ἐν	preposition with the dative	1	in
 2KI 22:5	1	12	οἴκῳ	οἶκος	noun, dative masculine singular	1	the house
@@ -177,7 +177,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:7	1	4	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 2KI 22:7	1	5	τὸ	ὁ	article, accusative neuter singular	1	the
 2KI 22:7	1	6	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular after τὸ, silver/money (from context)	1	silver
-2KI 22:7	1	7	τὸ	ὁ	article, neuter singular (case from context)	1	the
+2KI 22:7	1	7	τὸ	ὁ	article, neuter singular (case from context)	1	—
 2KI 22:7	1	8	διδόμενον	δίδωμι	present middle/passive participle, accusative neuter singular	1	being given
 2KI 22:7	1	9	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 2KI 22:7	1	10	ὅτι	ὅτι	causal conjunction	1	because
@@ -238,7 +238,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:9	1	19	σου	σύ	pronoun, possessive genitive second singular	1	your
 2KI 22:9	1	20	τὸ	ὁ	article, neuter singular (case from context)	1	the
 2KI 22:9	1	21	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular after τὸ, silver/money (from context)	1	silver
-2KI 22:9	1	22	τὸ	ὁ	article, neuter singular (case from context)	1	the
+2KI 22:9	1	22	τὸ	ὁ	article, neuter singular (case from context)	1	—
 2KI 22:9	1	23	εὑρεθὲν	εὑρίσκω	aorist passive participle, accusative neuter singular with ἀργύριον after τὸ	1	found
 2KI 22:9	1	24	ἐν	ἐν	preposition with the dative	1	in
 2KI 22:9	1	25	τῷ	ὁ	article, dative masculine singular	1	the
@@ -252,7 +252,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:9	1	33	ποιούντων	ποιέω	present active imperative, genitive masculine plural	1	of those doing
 2KI 22:9	1	34	τὰ	ὁ	article, accusative neuter plural	1	the
 2KI 22:9	1	35	ἔργα	ἔργον	noun, accusative neuter plural	1	works
-2KI 22:9	1	36	τῶν	ὁ	article, genitive plural	1	the
+2KI 22:9	1	36	τῶν	ὁ	article, genitive plural	1	of those
 2KI 22:9	1	37	καθεσταμένων	καθίστημι	perfect passive participle, genitive masculine plural	1	appointed
 2KI 22:9	1	38	ἐν	ἐν	preposition with the dative	1	in
 2KI 22:9	1	39	οἴκῳ	οἶκος	noun, dative masculine singular	1	the house
@@ -369,8 +369,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:13	1	27	ἡ	ὁ	article, nominative feminine singular	1	the
 2KI 22:13	1	28	ὀργὴ	ὀργή	noun, nominative feminine singular	1	wrath
 2KI 22:13	1	29	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-2KI 22:13	1	30	ἡ	ὁ	article, nominative feminine singular	1	the
-2KI 22:13	1	31	ἐκκεκαυμένη	ἐκκαίω	perfect middle/passive participle, nominative feminine singular	1	was set ablaze
+2KI 22:13	1	30	ἡ	ὁ	article, nominative feminine singular	1	—
+2KI 22:13	1	31	ἐκκεκαυμένη	ἐκκαίω	perfect middle/passive participle, nominative feminine singular	1	that was set ablaze
 2KI 22:13	1	32	ἐν	ἐν	preposition with the dative	1	in
 2KI 22:13	1	33	ἡμῖν	ἐγώ	personal pronoun, dative plural	1	us
 2KI 22:13	1	34	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
@@ -389,7 +389,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 22:13	1	47	ποιεῖν	ποιέω	present active infinitive after τοῦ, of purpose	1	to do
 2KI 22:13	1	48	κατὰ	κατά	preposition with accusative	1	according to
 2KI 22:13	1	49	πάντα	πᾶς	adjective, accusative neuter plural	1	all
-2KI 22:13	1	50	τὰ	ὁ	article, accusative neuter plural	1	the
+2KI 22:13	1	50	τὰ	ὁ	article, accusative neuter plural	1	the things
 2KI 22:13	1	51	γεγραμμένα	γράφω	perfect middle/passive participle, accusative neuter plural	1	written
 2KI 22:13	1	52	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	against
 2KI 22:13	1	53	ἡμῶν	ἐγώ	personal pronoun, first person genitive plural	1	us

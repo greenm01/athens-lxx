@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 JER 39:1	1	1	Ο	ὁ	article, nominative masculine singular	1	the
 JER 39:1	1	2	λόγος	λόγος	noun, nominative masculine singular	1	word
 JER 39:1	1	2	λόγος			2	message
-JER 39:1	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
+JER 39:1	1	3	ὁ	ὁ	article, nominative masculine singular	1	—
 JER 39:1	1	4	γενόμενος	γίνομαι	aorist middle participle, nominative masculine singular	1	that came
 JER 39:1	1	5	πρὸς	πρός	preposition with the accusative	1	to
 JER 39:1	1	6	Ἱερεμίαν	Ἱερεμίας	noun, accusative masculine singular	1	Jeremiah
@@ -310,7 +310,7 @@ JER 39:11	1	4	βιβλίον	βιβλίον	noun, accusative neut. sg	1	book
 JER 39:11	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
 JER 39:11	1	6	κτήσεως	κτῆσις	noun, genitive feminine singular	1	of purchase
 JER 39:11	1	6	κτήσεως			2	of acquisition
-JER 39:11	1	7	τὸ	ὁ	article, accusative neuter singular	1	the
+JER 39:11	1	7	τὸ	ὁ	article, accusative neuter singular	1	—
 JER 39:11	1	8	ἐσφραγισμένον	σφραγίζω	perfect passive participle, accusative neuter singular	1	sealed
 JER 39:11	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
 JER 39:11	1	10	ἐντολὴν	ἐντολή	noun, accusative fem. sg	1	commandment
@@ -319,7 +319,7 @@ JER 39:11	1	12	τὰ	ὁ	definite article, nominative/accusative neuter plural	1
 JER 39:11	1	13	δικαιώματα	δικαίωμα	noun, accusative neuter plural	1	regulations
 JER 39:11	1	13	δικαιώματα			2	requirements
 JER 39:11	1	14	καὶ	καί	conjunction	1	and
-JER 39:11	1	15	τὸ	ὁ	article, accusative neuter singular	1	the
+JER 39:11	1	15	τὸ	ὁ	article, accusative neuter singular	1	—
 JER 39:11	1	16	ἀνεγνωσμένον	ἀναγινώσκω	perfect passive participle, accusative neuter singular	1	read
 JER 39:11	1	16	ἀνεγνωσμένον			2	read aloud
 JER 39:12	1	1	καὶ	καί	conjunction	1	and
@@ -400,12 +400,12 @@ JER 39:14	1	11	τῆς	ὁ	article, genitive feminine singular	1	—
 JER 39:14	1	12	κτήσεως	κτῆσις	noun, genitive feminine singular	1	of purchase
 JER 39:14	1	12	κτήσεως			2	of acquisition
 JER 39:14	1	13	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
-JER 39:14	1	14	τὸ	ὁ	article, neuter singular (case from context)	1	the
+JER 39:14	1	14	τὸ	ὁ	article, neuter singular (case from context)	1	—
 JER 39:14	1	15	ἐσφραγισμένον	σφραγίζω	perfect passive participle, accusative neuter singular	1	sealed
 JER 39:14	1	16	καὶ	καί	conjunction	1	and
 JER 39:14	1	17	τὸ	ὁ	article, nominative neuter singular	1	the
 JER 39:14	1	18	βιβλίον	βιβλίον	noun, accusative neut. sg	1	book
-JER 39:14	1	19	τὸ	ὁ	article, neuter singular (case from context)	1	the
+JER 39:14	1	19	τὸ	ὁ	article, neuter singular (case from context)	1	—
 JER 39:14	1	20	ἀνεγνωσμένον	ἀναγινώσκω	perfect passive participle, accusative neuter singular	1	read
 JER 39:14	1	20	ἀνεγνωσμένον			2	read aloud
 JER 39:14	1	21	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
@@ -715,7 +715,7 @@ JER 39:24	1	14	ἐδόθη			2	was handed over
 JER 39:24	1	15	εἰς	εἰς	preposition with the accusative	1	into
 JER 39:24	1	16	χεῖρας	χείρ	noun, accusative feminine plural	1	hands
 JER 39:24	1	17	Χαλδαίων	Χαλδαῖος	noun, genitive masculine plural	1	of the Chaldeans
-JER 39:24	1	18	τῶν	ὁ	article, genitive plural	1	the
+JER 39:24	1	18	τῶν	ὁ	article, genitive plural	1	—
 JER 39:24	1	19	πολεμούντων	πολεμέω	present active participle, genitive masculine plural	1	fighting
 JER 39:24	1	20	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 JER 39:24	1	21	ἀπὸ	ἀπό	preposition (genitive), causal with the following noun	1	because of
