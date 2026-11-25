@@ -66,8 +66,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 36:2	1	42	Φαραὼ	Φαραώ	royal title/name (indeclined); case from syntax per occurrence	1	Pharaoh
 2CH 36:2	1	43	Νεχαὼ	Νεχαώ	personal name, indeclinable	1	Necho
 2CH 36:2	1	44	ἐν	ἐν	preposition with the dative	1	in
-2CH 36:2	1	45	Δεβλαθὰ	Δεβλαθά	place name, indeclinable	1	Deblatha
-2CH 36:2	1	45	Δεβλαθὰ			2	Riblah
+2CH 36:2	1	45	Δεβλαθὰ	Δεβλαθά	place name, indeclinable	1	Riblah
+2CH 36:2	1	45	Δεβλαθὰ			2	Deblatha
 2CH 36:2	1	46	ἐν	ἐν	preposition with the dative	1	in
 2CH 36:2	1	47	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
 2CH 36:2	1	48	Αἰμὰθ	Αἰμάθ	indeclinable place name, genitive in context	1	of Hamath
@@ -449,7 +449,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 36:10	1	26	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2CH 36:10	1	27	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 2CH 36:10	1	28	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-2CH 36:10	1	29	ἐπὶ	ἐπί	preposition (case from context)	1	on
+2CH 36:10	1	29	ἐπὶ	ἐπί	preposition (case from context)	1	over
 2CH 36:10	1	30	Ἰούδαν	Ἰούδας	declinable tribal name, accusative masculine singular in context	1	Judah
 2CH 36:10	1	31	καὶ	καί	conjunction	1	and
 2CH 36:10	1	32	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
@@ -564,7 +564,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 36:15	1	15	ἀποστέλλων	ἀποστέλλω	present active participle, nominative masculine singular	1	sending
 2CH 36:15	1	16	τοὺς	ὁ	article, accusative masculine plural	1	the
 2CH 36:15	1	17	ἀγγέλους	ἄγγελος	noun, accusative masculine plural	1	messengers
-2CH 36:15	1	18	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	himself
+2CH 36:15	1	18	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	his
 2CH 36:15	1	19	ὅτι	ὅτι	causal conjunction	1	because
 2CH 36:15	1	20	ἦν	εἰμί	imperfect indicative, third singular	1	was
 2CH 36:15	1	21	φειδόμενος	φείδομαι	present middle/passive participle, nominative masculine singular	1	sparing
@@ -713,7 +713,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 36:20	1	11	τοῖς	ὁ	article, dative masculine plural	1	the
 2CH 36:20	1	12	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 2CH 36:20	1	13	αὐτοῦ	αὐτός	personal pronoun, genitive masculine singular	1	his
-2CH 36:20	1	14	εἰς	εἰς	preposition with accusative	1	into
+2CH 36:20	1	14	εἰς	εἰς	preposition with accusative	1	as
 2CH 36:20	1	15	δούλους	δοῦλος	noun, accusative masculine plural	1	slaves
 2CH 36:20	1	15	δούλους			2	servants
 2CH 36:20	1	16	ἕως	ἕως	temporal conjunction/preposition (from context)	1	until
@@ -770,14 +770,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 36:22	1	19	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 2CH 36:22	1	20	Περσῶν	Πέρσης	noun, genitive masculine plural; ethnic name	1	of the Persians
 2CH 36:22	1	21	καὶ	καί	conjunction	1	and
-2CH 36:22	1	22	παρήγγειλε	παραγγέλλω	aorist active indicative, third singular	1	summoned
+2CH 36:22	1	22	παρήγγειλε	παραγγέλλω	aorist active indicative, third singular	1	gave orders
 2CH 36:22	1	23	τοῦ	ὁ	article, genitive neuter singular; articular infinitive, introduces the infinitive	1	—
 2CH 36:22	1	24	κηρύξαι	κηρύσσω	aorist active infinitive	1	to proclaim
 2CH 36:22	1	25	αὐτοὺς	αὐτός	pronoun, accusative masculine plural; subject of the infinitive	1	them
 2CH 36:22	1	26	ἐν	ἐν	preposition with the dative	1	in
 2CH 36:22	1	27	πάσῃ	πᾶς	adjective dative feminine singular	1	all
 2CH 36:22	1	28	τῇ	ὁ	article, dative feminine singular	1	the
-2CH 36:22	1	29	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	reign
+2CH 36:22	1	29	βασιλείᾳ	βασιλεία	noun, dative feminine singular	1	kingdom
 2CH 36:22	1	29	βασιλείᾳ			2	kingship
 2CH 36:22	1	30	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2CH 36:22	1	31	ἐν	ἐν	preposition with the dative	1	in
