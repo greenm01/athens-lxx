@@ -26,7 +26,7 @@ ECC 1:3	1	6	παντὶ	πᾶς	adjective, dative masculine singular	1	all
 ECC 1:3	1	7	μόχθῳ	μόχθος	noun, dative masculine singular	1	toil
 ECC 1:3	1	8	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 ECC 1:3	1	9	ᾧ	ὅς	relative pronoun, dative neuter singular	1	which
-ECC 1:3	1	10	μοχθεῖ	μοχθέω	present active indicative, third singular	1	toils
+ECC 1:3	1	10	μοχθεῖ	μοχθέω	present active indicative, third singular	1	he toils
 ECC 1:3	1	11	ὑπὸ	ὑπό	preposition with the accusative	1	under
 ECC 1:3	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
 ECC 1:3	1	13	ἥλιον	ἥλιος	noun, accusative masculine singular	1	sun
@@ -81,7 +81,7 @@ ECC 1:6	1	22	πνεῦμα	πνεῦμα	noun, accusative neuter singular	1	wind
 ECC 1:7	1	1	Πάντες	πᾶς	adjective, nominative masculine plural	1	all
 ECC 1:7	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
 ECC 1:7	1	3	χείμαρροι	χείμαρρος	noun, nominative masculine plural	1	streams
-ECC 1:7	1	4	πορεύονται	πορεύομαι	present middle/passive indicative, third plural	1	they go
+ECC 1:7	1	4	πορεύονται	πορεύομαι	present middle/passive indicative, third plural	1	go
 ECC 1:7	1	5	εἰς	εἰς	preposition with the accusative	1	into
 ECC 1:7	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 ECC 1:7	1	7	θάλασσαν	θάλασσα	noun, accusative feminine singular	1	sea
@@ -96,7 +96,7 @@ ECC 1:7	1	15	τόπον	τόπος	noun, accusative masculine singular	1	place
 ECC 1:7	1	16	οὗ	οὗ	relative adverb of place	1	where
 ECC 1:7	1	17	οἱ	ὁ	article, nominative masculine plural	1	the
 ECC 1:7	1	18	χείμαρροι	χείμαρρος	noun, nominative masculine plural	1	streams
-ECC 1:7	1	19	πορεύονται	πορεύομαι	present middle/passive indicative, third plural	1	they go
+ECC 1:7	1	19	πορεύονται	πορεύομαι	present middle/passive indicative, third plural	1	go
 ECC 1:7	1	20	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 ECC 1:7	1	21	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
 ECC 1:7	1	22	ἐπιστρέφουσι	ἐπιστρέφω	present active indicative, third plural	1	return
@@ -128,14 +128,14 @@ ECC 1:9	1	2	τὸ	ὁ	article, accusative neuter singular	1	the
 ECC 1:9	1	3	γεγονός	γίνομαι	perfect active participle, nominative neuter singular	1	that has happened
 ECC 1:9	1	4	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	that
 ECC 1:9	1	5	τὸ	ὁ	article, accusative neuter singular	1	the
-ECC 1:9	1	6	γενησόμενον	γίνομαι	future middle participle, nominative neuter singular	1	what will happen
+ECC 1:9	1	6	γενησόμενον	γίνομαι	future middle participle, nominative neuter singular	1	that will happen
 ECC 1:9	1	7	καὶ	καί	conjunction	1	and
 ECC 1:9	1	8	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 ECC 1:9	1	9	τὸ	ὁ	article, nominative neuter singular	1	the
-ECC 1:9	1	10	πεποιημένον	ποιέω	perfect passive participle, nominative neuter singular	1	what has been done
+ECC 1:9	1	10	πεποιημένον	ποιέω	perfect passive participle, nominative neuter singular	1	that has been done
 ECC 1:9	1	11	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	that
 ECC 1:9	1	12	τὸ	ὁ	article, nominative neuter singular	1	the
-ECC 1:9	1	13	ποιηθησόμενον	ποιέω	future passive participle, nominative neuter singular	1	what will be done
+ECC 1:9	1	13	ποιηθησόμενον	ποιέω	future passive participle, nominative neuter singular	1	that will be done
 ECC 1:9	1	14	καὶ	καί	conjunction	1	and
 ECC 1:9	1	15	οὐκ	οὐ	negative particle	1	not
 ECC 1:9	1	16	ἔστι	εἰμί	present active indicative, third singular	1	is
@@ -160,7 +160,7 @@ ECC 1:10	1	11	ἐν	ἐν	preposition with the dative	1	in
 ECC 1:10	1	12	τοῖς	ὁ	article, dative neuter plural	1	the
 ECC 1:10	1	13	αἰῶσι	αἰών	noun, dative masculine plural	1	ages
 ECC 1:10	1	14	τοῖς	ὁ	article, dative masculine plural	1	the
-ECC 1:10	1	15	γενομένοις	γίνομαι	aorist middle participle, dative masculine plural	1	who came
+ECC 1:10	1	15	γενομένοις	γίνομαι	aorist middle participle, dative masculine plural	1	that came
 ECC 1:10	1	16	ἀπὸ	ἀπό	preposition with the genitive	1	from
 ECC 1:10	1	17	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	1	before
 ECC 1:10	1	18	ἡμῶν	ἐγώ	personal pronoun, genitive plural	1	us
@@ -173,14 +173,14 @@ ECC 1:11	1	6	καί	καί	conjunction	1	and
 ECC 1:11	1	7	γε	γε	emphatic particle	1	indeed
 ECC 1:11	1	8	τοῖς	ὁ	article, dative masculine plural	1	for the
 ECC 1:11	1	9	ἐσχάτοις	ἔσχατος	adjective, dative masculine plural	1	later ones
-ECC 1:11	1	10	γενησομένοις	γίνομαι	future middle participle, dative masculine plural	1	those who will come
+ECC 1:11	1	10	γενησομένοις	γίνομαι	future middle participle, dative masculine plural	1	who will come
 ECC 1:11	1	11	οὐκ	οὐ	negative particle	1	not
 ECC 1:11	1	12	ἔσται	εἰμί	future indicative, third singular	1	will be
 ECC 1:11	1	13	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 ECC 1:11	1	14	μνήμη	μνήμη	noun, nominative feminine singular	1	memory
 ECC 1:11	1	15	μετὰ	μετά	preposition with genitive	1	with
-ECC 1:11	1	16	τῶν	ὁ	article, genitive plural	1	the
-ECC 1:11	1	17	γενηθησομένων	γίνομαι	future passive participle, genitive masculine plural	1	those who will come
+ECC 1:11	1	16	τῶν	ὁ	article, genitive plural	1	those
+ECC 1:11	1	17	γενηθησομένων	γίνομαι	future passive participle, genitive masculine plural	1	who will come
 ECC 1:11	1	18	εἰς	εἰς	preposition with the accusative	1	toward
 ECC 1:11	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
 ECC 1:11	1	20	ἐσχάτην	ἔσχατος	adjective, accusative feminine singular	1	last
@@ -220,10 +220,10 @@ ECC 1:13	1	23	πονηρὸν	πονηρός	adjective, accusative masculine sin
 ECC 1:13	1	24	ἔδωκεν	δίδωμι	aorist active indicative, 3rd singular	1	gave
 ECC 1:13	1	25	ὁ	ὁ	article, nominative masculine singular	1	the
 ECC 1:13	1	26	Θεὸς	θεός	noun, nominative masculine singular	1	God
-ECC 1:13	1	27	τοῖς	ὁ	article, dative neuter plural	1	the
+ECC 1:13	1	27	τοῖς	ὁ	article, dative neuter plural	1	to the
 ECC 1:13	1	28	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 ECC 1:13	1	29	τοῦ	ὁ	article, genitive masculine singular	1	of the
-ECC 1:13	1	30	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	humanity
+ECC 1:13	1	30	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
 ECC 1:13	1	31	τοῦ	ὁ	article, genitive singular, introduces articular infinitive	1	—
 ECC 1:13	1	32	περισπᾶσθαι	περισπάω	present passive infinitive	1	to be occupied
 ECC 1:13	1	33	ἐν	ἐν	preposition with the dative	1	in
@@ -259,7 +259,7 @@ ECC 1:15	1	8	οὐ	οὐ	negative particle	1	not
 ECC 1:15	1	9	δυνήσεται	δύναμαι	future middle indicative, 3rd sg.	1	will be able
 ECC 1:15	1	10	τοῦ	ὁ	article, genitive singular, introduces articular infinitive	1	—
 ECC 1:15	1	11	ἀριθμηθῆναι	ἀριθμέω	aorist passive infinitive	1	to be counted
-ECC 1:16	1	1	Ἐλάλησα	λαλέω	aorist active indicative, first singular	1	I spoke
+ECC 1:16	1	1	Ἐλάλησα	λαλέω	aorist active indicative, first singular	1	spoke
 ECC 1:16	1	2	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 ECC 1:16	1	3	ἐν	ἐν	preposition with the dative	1	in
 ECC 1:16	1	4	τῇ	ὁ	article, dative feminine singular	1	the
@@ -269,11 +269,11 @@ ECC 1:16	1	7	τῷ	ὁ	article, dative masculine singular, introduces articular 
 ECC 1:16	1	8	λέγειν	λέγω	present active infinitive	1	saying
 ECC 1:16	1	9	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 ECC 1:16	1	10	ἰδοὺ	ἰδού	presentative particle	1	behold
-ECC 1:16	1	11	ἐμεγαλύνθην	μεγαλύνω	aorist passive indicative, first singular	1	I grew great
+ECC 1:16	1	11	ἐμεγαλύνθην	μεγαλύνω	aorist passive indicative, first singular	1	grew great
 ECC 1:16	1	12	καὶ	καί	conjunction	1	and
 ECC 1:16	1	13	προσέθηκα	προστίθημι	aorist active indicative, first singular	1	I added
 ECC 1:16	1	14	σοφίαν	σοφία	noun, accusative feminine singular	1	wisdom
-ECC 1:16	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	on
+ECC 1:16	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	beyond
 ECC 1:16	1	16	πᾶσιν	πᾶς	adjective, dative neuter plural	1	all
 ECC 1:16	1	17	οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
 ECC 1:16	1	18	ἐγένοντο	γίνομαι	aorist middle indicative, third plural; of offspring, were born/were	1	existed
@@ -303,7 +303,7 @@ ECC 1:17	1	11	καὶ	καί	conjunction	1	and
 ECC 1:17	1	12	ἐπιστήμην	ἐπιστήμη	noun, accusative fem. sg	1	understanding
 ECC 1:17	1	13	ἔγνων	γινώσκω	aorist active indicative first singular	1	I knew
 ECC 1:17	1	14	ὅτι	ὅτι	causal conjunction	1	that
-ECC 1:17	1	15	καί	καί	conjunction	1	and
+ECC 1:17	1	15	καί	καί	conjunction	1	also
 ECC 1:17	1	16	γε	γε	emphatic particle	1	indeed
 ECC 1:17	1	17	τοῦτό	οὗτος	demonstrative pronoun, nominative neuter singular	1	this
 ECC 1:17	1	18	ἐστι	εἰμί	present indicative, third singular	1	is
@@ -322,5 +322,5 @@ ECC 1:18	1	7	καὶ	καί	conjunction	1	and
 ECC 1:18	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
 ECC 1:18	1	9	προστιθεὶς	προστίθημι	present active participle, nominative masculine singular	1	one who adds
 ECC 1:18	1	10	γνῶσιν	γινώσκω	aorist active subjunctive, third plural	1	knowledge
-ECC 1:18	1	11	προσθήσει	προστίθημι	future active indicative, third singular	1	he shall add
+ECC 1:18	1	11	προσθήσει	προστίθημι	future active indicative, third singular	1	will add
 ECC 1:18	1	12	ἄλγημα	ἄλγημα	noun, accusative neuter singular	1	pain

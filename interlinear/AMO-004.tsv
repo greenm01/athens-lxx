@@ -7,16 +7,16 @@ AMO 4:1	1	3	λόγον			2	message
 AMO 4:1	1	4	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	1	this
 AMO 4:1	1	5	δαμάλεις	δάμαλις	noun, vocative feminine plural	1	heifers
 AMO 4:1	1	5	δαμάλεις			2	young cows
-AMO 4:1	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
+AMO 4:1	1	6	τῆς	ὁ	article, genitive feminine singular	1	of
 AMO 4:1	1	7	Βασανίτιδος	Βασανῖτις	noun, genitive feminine singular; regional name	1	Bashan
 AMO 4:1	1	7	Βασανίτιδος			2	Basanitis
-AMO 4:1	1	8	αἱ	ὁ	article, nominative feminine plural	1	the
+AMO 4:1	1	8	αἱ	ὁ	article, nominative feminine plural	1	those
 AMO 4:1	1	9	ἐν	ἐν	preposition with the dative	1	in
 AMO 4:1	1	10	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 AMO 4:1	1	11	ὄρει	ὄρος	noun, dative neuter singular	1	mountain
 AMO 4:1	1	11	ὄρει			2	hill country
-AMO 4:1	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
-AMO 4:1	1	13	Σαμαρείας	Σαμάρεια	noun, genitive feminine singular; place name	1	Samaria
+AMO 4:1	1	12	τῆς	ὁ	article, genitive feminine singular	1	—
+AMO 4:1	1	13	Σαμαρείας	Σαμάρεια	noun, genitive feminine singular; place name	1	of Samaria
 AMO 4:1	1	14	αἱ	ὁ	article, nominative feminine plural	1	the
 AMO 4:1	1	15	καταδυναστεύουσαι	καταδυναστεύω	present active participle, nominative feminine plural	1	oppressing
 AMO 4:1	1	15	καταδυναστεύουσαι			2	those oppressing
@@ -27,7 +27,7 @@ AMO 4:1	1	19	πένητας	πένης	noun, accusative masculine plural	1	the p
 AMO 4:1	1	19	πένητας			2	the needy
 AMO 4:1	1	20	αἱ	ὁ	article, nominative feminine plural	1	the
 AMO 4:1	1	21	λέγουσαι	λέγω	present active participle, nominative feminine plural	1	saying
-AMO 4:1	1	22	τοῖς	ὁ	article, dative masculine plural	1	the
+AMO 4:1	1	22	τοῖς	ὁ	article, dative masculine plural	1	to the
 AMO 4:1	1	23	κυρίοις	κύριος	noun, dative masculine plural	1	masters
 AMO 4:1	1	23	κυρίοις			2	lords
 AMO 4:1	1	24	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -48,19 +48,19 @@ AMO 4:2	1	7	ὅτι	ὅτι	conjunction introducing an oath	1	that
 AMO 4:2	1	8	ἰδοὺ	ἰδού	presentative particle	1	behold
 AMO 4:2	1	9	ἡμέραι	ἡμέρα	noun, nominative feminine plural	1	days
 AMO 4:2	1	10	ἔρχονται	ἔρχομαι	present middle indicative, third plural	1	are coming
-AMO 4:2	1	11	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
+AMO 4:2	1	11	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	upon
 AMO 4:2	1	12	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 AMO 4:2	1	13	καὶ	καί	conjunction	1	and
 AMO 4:2	1	14	λήψονται	λαμβάνω	future middle indicative, 3rd pl.	1	they shall take
 AMO 4:2	1	15	ὑμᾶς	σύ	personal pronoun, accusative plural	1	you
-AMO 4:2	1	16	ἐν	ἐν	preposition with the dative	1	in
+AMO 4:2	1	16	ἐν	ἐν	preposition with the dative	1	with
 AMO 4:2	1	17	ὅπλοις	ὅπλον	noun, dative neuter plural	1	weapons
 AMO 4:2	1	17	ὅπλοις			2	implements
 AMO 4:2	1	18	καὶ	καί	conjunction	1	and
-AMO 4:2	1	19	τοὺς	ὁ	article, accusative masculine plural	1	the
+AMO 4:2	1	19	τοὺς	ὁ	article, accusative masculine plural	1	those
 AMO 4:2	1	20	μεθ᾽	μετά	elided preposition with the genitive	1	with
 AMO 4:2	1	21	ὑμῶν	σύ	personal pronoun, genitive second plural governed by μετά	1	you
-AMO 4:2	1	22	εἰς	εἰς	preposition with the accusative	1	for
+AMO 4:2	1	22	εἰς	εἰς	preposition with the accusative	1	into
 AMO 4:2	1	23	λέβητας	λέβης	noun, accusative masculine plural	1	cauldrons
 AMO 4:2	1	23	λέβητας			2	kettles
 AMO 4:2	1	24	ἔμπυροι	ἔμπυρος	adjective, nominative masculine plural	1	fiery
@@ -93,7 +93,7 @@ AMO 4:4	1	4	καὶ	καί	conjunction	1	and
 AMO 4:4	1	5	ἠνομήσατε	ἀνομέω	aorist active indicative, second plural	1	you broke the law
 AMO 4:4	1	5	ἠνομήσατε			2	you acted lawlessly
 AMO 4:4	1	6	καὶ	καί	conjunction	1	and
-AMO 4:4	1	7	εἰς	εἰς	preposition with the accusative	1	into
+AMO 4:4	1	7	εἰς	εἰς	preposition with the accusative	1	in
 AMO 4:4	1	8	Γάλγαλα	Γάλγαλα	indeclinable place name	1	Gilgal
 AMO 4:4	1	8	Γάλγαλα			2	Galgala
 AMO 4:4	1	9	ἐπληθύνατε	πληθύνω	aorist active indicative, second plural	1	you multiplied
@@ -103,12 +103,12 @@ AMO 4:4	1	11	ἀσεβῆσαι	ἀσεβέω	aorist active infinitive	1	to offe
 AMO 4:4	1	11	ἀσεβῆσαι			2	to act impiously
 AMO 4:4	1	12	καὶ	καί	conjunction	1	and
 AMO 4:4	1	13	ἠνέγκατε	φέρω	aorist active indicative, second plural	1	you brought
-AMO 4:4	1	14	εἰς	εἰς	preposition with the accusative	1	into
+AMO 4:4	1	14	εἰς	εἰς	preposition with the accusative	1	in
 AMO 4:4	1	15	τοπρωῒ	τὸ πρωΐ	joined articular expression, accusative after εἰς	1	early morning
 AMO 4:4	1	15	τοπρωῒ			2	morning
 AMO 4:4	1	16	θυσίας	θυσία	noun, accusative feminine plural	1	sacrifices
 AMO 4:4	1	17	ὑμῶν	σύ	personal pronoun, genitive second plural	1	your
-AMO 4:4	1	18	εἰς	εἰς	preposition with the accusative	1	into
+AMO 4:4	1	18	εἰς	εἰς	preposition with the accusative	1	for
 AMO 4:4	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
 AMO 4:4	1	20	τριημερίαν	τριημερία	noun, accusative feminine singular	1	three-day period
 AMO 4:4	1	20	τριημερίαν			2	third day
@@ -138,14 +138,14 @@ AMO 4:5	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
 AMO 4:5	1	18	Θεός	θεός	noun, nominative masculine singular	1	God
 AMO 4:6	1	1	Καὶ	καί	conjunction	1	and
 AMO 4:6	1	2	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-AMO 4:6	1	3	δώσω	δίδωμι	future active indicative, first singular	1	I will give
+AMO 4:6	1	3	δώσω	δίδωμι	future active indicative, first singular	1	will give
 AMO 4:6	1	4	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 AMO 4:6	1	5	γομφιασμὸν	γομφιασμός	noun, accusative masculine singular	1	aching
 AMO 4:6	1	5	γομφιασμὸν			2	grinding
-AMO 4:6	1	6	ὀδόντων	ὀδούς	noun, genitive masculine plural	1	teeth
+AMO 4:6	1	6	ὀδόντων	ὀδούς	noun, genitive masculine plural	1	of teeth
 AMO 4:6	1	7	ἐν	ἐν	preposition with the dative	1	in
 AMO 4:6	1	8	πάσαις	πᾶς	adjective, dative feminine plural	1	all
-AMO 4:6	1	9	ταῖς	ὁ	article, dative feminine plural; introduces a prepositional phrase	1	those
+AMO 4:6	1	9	ταῖς	ὁ	article, dative feminine plural; introduces a prepositional phrase	1	the
 AMO 4:6	1	10	πόλεσιν	πόλις	noun, dative feminine plural	1	cities
 AMO 4:6	1	10	πόλεσιν			2	towns
 AMO 4:6	1	11	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
@@ -168,7 +168,7 @@ AMO 4:6	1	25	λέγει	λέγω	present active indicative, third singular	1	say
 AMO 4:6	1	26	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 AMO 4:7	1	1	Καὶ	καί	conjunction	1	and
 AMO 4:7	1	2	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-AMO 4:7	1	3	ἀνέσχον	ἀνέχω	aorist active indicative, first singular	1	I withheld
+AMO 4:7	1	3	ἀνέσχον	ἀνέχω	aorist active indicative, first singular	1	withheld
 AMO 4:7	1	3	ἀνέσχον			2	I held back
 AMO 4:7	1	4	ἐξ	ἐκ	preposition with the genitive before a vowel	1	from
 AMO 4:7	1	5	ὑμῶν	σύ	personal pronoun, genitive second plural governed by ἐκ	1	you
@@ -183,7 +183,7 @@ AMO 4:7	1	12	τρυγητοῦ			2	harvest
 AMO 4:7	1	13	καὶ	καί	conjunction	1	and
 AMO 4:7	1	14	βρέξω	βρέχω	future active indicative, first singular	1	I will send rain
 AMO 4:7	1	14	βρέξω			2	I will rain
-AMO 4:7	1	15	ἐπὶ	ἐπί	preposition with accusative of direction	1	toward
+AMO 4:7	1	15	ἐπὶ	ἐπί	preposition with accusative of direction	1	on
 AMO 4:7	1	16	πόλιν	πόλις	noun, accusative feminine singular	1	city
 AMO 4:7	1	17	μίαν	εἷς	cardinal numeral, accusative feminine singular	1	one
 AMO 4:7	1	18	ἐπὶ	ἐπί	preposition with an indeclinable name, parallel to ἐπί with the dative	1	upon
@@ -239,11 +239,11 @@ AMO 4:8	1	24	λέγει	λέγω	present active indicative, third singular	1	say
 AMO 4:8	1	25	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 AMO 4:9	1	1	Ἐπάταξα	πατάσσω	aorist active indicative, first singular	1	I struck
 AMO 4:9	1	2	ὑμᾶς	σύ	personal pronoun, accusative plural	1	you
-AMO 4:9	1	3	ἐν	ἐν	preposition with the dative	1	in
+AMO 4:9	1	3	ἐν	ἐν	preposition with the dative	1	with
 AMO 4:9	1	4	μυρώσει	μύρωσις	noun, dative feminine singular	1	blight
 AMO 4:9	1	4	μυρώσει			2	mildew
 AMO 4:9	1	5	καὶ	καί	conjunction	1	and
-AMO 4:9	1	6	ἐν	ἐν	preposition with the dative	1	in
+AMO 4:9	1	6	ἐν	ἐν	preposition with the dative	1	with
 AMO 4:9	1	7	ἰκτέρῳ	ἴκτερος	noun, dative masculine singular	1	yellowing
 AMO 4:9	1	7	ἰκτέρῳ			2	jaundice
 AMO 4:9	1	8	ἐπληθύνατε	πληθύνω	aorist active indicative, second plural	1	you multiplied
@@ -283,7 +283,7 @@ AMO 4:10	1	7	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine s
 AMO 4:10	1	8	καὶ	καί	conjunction	1	and
 AMO 4:10	1	9	ἀπέκτεινα	ἀποκτείνω	aorist active indicative, first singular	1	I killed
 AMO 4:10	1	9	ἀπέκτεινα			2	I slew
-AMO 4:10	1	10	ἐν	ἐν	preposition with the dative	1	in
+AMO 4:10	1	10	ἐν	ἐν	preposition with the dative	1	with
 AMO 4:10	1	11	ῥομφαίᾳ	ῥομφαία	noun, dative feminine singular	1	sword
 AMO 4:10	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
 AMO 4:10	1	13	νεανίσκους	νεανίσκος	noun, accusative masculine plural	1	young men
@@ -291,10 +291,10 @@ AMO 4:10	1	14	ὑμῶν	ὑμεῖς	pronoun, genitive second plural	1	your
 AMO 4:10	1	15	μετὰ	μετά	preposition with genitive	1	with
 AMO 4:10	1	16	αἰχμαλωσίας	αἰχμαλωσία	noun, genitive feminine singular	1	capture
 AMO 4:10	1	16	αἰχμαλωσίας			2	captivity
-AMO 4:10	1	17	ἵππων	ἵππος	noun, genitive masculine plural after τῶν	1	horses
+AMO 4:10	1	17	ἵππων	ἵππος	noun, genitive masculine plural after τῶν	1	of horses
 AMO 4:10	1	18	σου	σύ	personal pronoun, genitive second singular	1	your
 AMO 4:10	1	19	καὶ	καί	conjunction	1	and
-AMO 4:10	1	20	ἀνήγαγον	ἀνάγω	aorist active indicative, third plural	1	brought up
+AMO 4:10	1	20	ἀνήγαγον	ἀνάγω	aorist active indicative, third plural	1	I brought up
 AMO 4:10	1	21	ἐν	ἐν	preposition with the dative	1	in
 AMO 4:10	1	22	πυρὶ	πῦρ	noun, dative neuter singular	1	fire
 AMO 4:10	1	23	τὰς	ὁ	article, accusative feminine plural	1	the
@@ -349,7 +349,7 @@ AMO 4:12	1	3	οὕτως	οὕτως	adverb	1	thus
 AMO 4:12	1	4	ποιήσω	ποιέω	future active indicative, first singular	1	I will do
 AMO 4:12	1	5	σοι	σύ	personal pronoun, dative singular	1	to you
 AMO 4:12	1	6	Ἰσραήλ	Ἰσραήλ	indeclinable name, vocative in context	1	Israel
-AMO 4:12	1	7	πλὴν	πλήν	preposition/adverb with the genitive	1	except
+AMO 4:12	1	7	πλὴν	πλήν	preposition/adverb with the genitive	1	but
 AMO 4:12	1	8	ὅτι	ὅτι	conjunction	1	because
 AMO 4:12	1	9	οὕτως	οὕτως	adverb	1	thus
 AMO 4:12	1	10	ποιήσω	ποιέω	future active indicative, first singular	1	I will do
@@ -394,7 +394,7 @@ AMO 4:13	1	22	ἐπὶ	ἐπί	preposition with accusative	1	on
 AMO 4:13	1	23	τὰ	ὁ	article, neuter plural (case from context)	1	the
 AMO 4:13	1	24	ὕψη	ὕψος	noun, accusative neuter plural	1	heights
 AMO 4:13	1	24	ὕψη			2	high places
-AMO 4:13	1	25	τῆς	ὁ	article, genitive feminine singular	1	the
+AMO 4:13	1	25	τῆς	ὁ	article, genitive feminine singular	1	of the
 AMO 4:13	1	26	γῆς	γῆ	noun, genitive feminine singular	1	land
 AMO 4:13	1	27	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 AMO 4:13	1	28	ὁ	ὁ	article, nominative masculine singular	1	the

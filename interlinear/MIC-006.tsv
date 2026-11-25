@@ -42,9 +42,9 @@ MIC 6:2	1	12	γῆς	γῆ	noun, genitive feminine singular	1	earth
 MIC 6:2	1	13	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 MIC 6:2	1	14	κρίσις	κρίσις	noun, nominative feminine singular	1	case
 MIC 6:2	1	14	κρίσις			2	dispute
-MIC 6:2	1	15	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+MIC 6:2	1	15	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 MIC 6:2	1	16	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
-MIC 6:2	1	17	πρὸς	πρός	preposition with the accusative	1	to
+MIC 6:2	1	17	πρὸς	πρός	preposition with the accusative	1	against
 MIC 6:2	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 MIC 6:2	1	19	λαὸν	λαός	noun, accusative masculine singular	1	people
 MIC 6:2	1	20	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -81,8 +81,8 @@ MIC 6:4	1	5	γῆς	γῆ	noun, genitive feminine singular	1	the land
 MIC 6:4	1	6	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
 MIC 6:4	1	7	καὶ	καί	conjunction	1	and
 MIC 6:4	1	8	ἐξ	ἐκ	preposition with the genitive	1	from
-MIC 6:4	1	9	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
-MIC 6:4	1	10	δουλείας	δουλεία	noun, genitive fem. sg. after οἴκου, slavery	1	slavery
+MIC 6:4	1	9	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+MIC 6:4	1	10	δουλείας	δουλεία	noun, genitive fem. sg. after οἴκου, slavery	1	of slavery
 MIC 6:4	1	11	ἐλυτρωσάμην	λυτρόομαι	aorist middle indicative, first singular	1	I redeemed
 MIC 6:4	1	11	ἐλυτρωσάμην			2	I ransomed
 MIC 6:4	1	12	σε	σύ	personal pronoun, accusative singular	1	you
@@ -117,13 +117,13 @@ MIC 6:5	1	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 MIC 6:5	1	16	Βααλὰμ	Βααλάμ	indeclinable personal name, nominative in context	1	Balaam
 MIC 6:5	1	16	Βααλὰμ			2	Baalam
 MIC 6:5	1	17	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-MIC 6:5	1	18	τοῦ	ὁ	article, genitive masculine/neuter singular	1	the
+MIC 6:5	1	18	τοῦ	ὁ	article, genitive masculine/neuter singular	1	—
 MIC 6:5	1	19	Βεὼρ	Βεώρ	indeclinable personal name, genitive in context	1	of Beor
 MIC 6:5	1	20	ἀπὸ	ἀπό	preposition with the genitive	1	from
 MIC 6:5	1	21	τῶν	ὁ	article, genitive plural	1	the
 MIC 6:5	1	22	σχοίνων	σχοῖνος	noun, genitive masculine plural; possible rendering of a place name	1	reeds
 MIC 6:5	1	22	σχοίνων			2	Shittim
-MIC 6:5	1	23	ἕως	ἕως	preposition with genitive	1	until
+MIC 6:5	1	23	ἕως	ἕως	preposition with genitive	1	as far as
 MIC 6:5	1	24	τοῦ	ὁ	article, genitive neuter singular; introduces a place name rather than an infinitive	1	the
 MIC 6:5	1	25	Γαλγὰλ	Γαλγάλ	indeclinable place name, genitive in context	1	Gilgal
 MIC 6:5	1	25	Γαλγὰλ			2	Galgal
@@ -133,7 +133,7 @@ MIC 6:5	1	27	γνωσθῇ	γινώσκω	aorist passive subjunctive, third sing
 MIC 6:5	1	28	ἡ	ὁ	article, nominative feminine singular	1	the
 MIC 6:5	1	29	δικαιοσύνη	δικαιοσύνη	noun, nominative feminine singular	1	righteousness
 MIC 6:5	1	29	δικαιοσύνη			2	justice
-MIC 6:5	1	30	τοῦ	ὁ	article, genitive singular	1	the
+MIC 6:5	1	30	τοῦ	ὁ	article, genitive singular	1	of the
 MIC 6:5	1	31	Κυρίου	κύριος	noun, genitive masculine singular; divine title	1	Lord
 MIC 6:6	1	1	Ἐν	ἐν	preposition with dative	1	in
 MIC 6:6	1	2	τίνι	τίς	interrogative pronoun, dative neuter singular	1	what
@@ -162,12 +162,12 @@ MIC 6:7	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 MIC 6:7	1	4	Κύριος	κύριος	noun, nominative masculine singular; divine title	1	Lord
 MIC 6:7	1	5	ἐν	ἐν	preposition with the dative	1	in
 MIC 6:7	1	6	χιλιάσι	χιλιάς	noun, dative feminine plural	1	thousands
-MIC 6:7	1	7	κριῶν	κριός	noun, genitive masculine plural	1	rams
+MIC 6:7	1	7	κριῶν	κριός	noun, genitive masculine plural	1	of rams
 MIC 6:7	1	8	ἢ	ἤ	disjunctive conjunction	1	or
 MIC 6:7	1	9	ἐν	ἐν	preposition with the dative	1	in
 MIC 6:7	1	10	μυριάσι	μυριάς	noun, dative feminine plural	1	tens of thousands
 MIC 6:7	1	10	μυριάσι			2	myriads
-MIC 6:7	1	11	χειμάῤῥων	χειμάρρους	noun, genitive masculine plural	1	torrents
+MIC 6:7	1	11	χειμάῤῥων	χειμάρρους	noun, genitive masculine plural	1	of torrents
 MIC 6:7	1	11	χειμάῤῥων			2	streams
 MIC 6:7	1	12	πιόνων	πίων	adjective, genitive masculine plural	1	rich
 MIC 6:7	1	12	πιόνων			2	fat
@@ -181,14 +181,14 @@ MIC 6:7	1	17	ὑπὲρ			2	on account of
 MIC 6:7	1	18	ἀσεβείας	ἀσέβεια	noun, accusative feminine plural	1	offenses
 MIC 6:7	1	18	ἀσεβείας			2	acts of impiety
 MIC 6:7	1	19	καρπὸν	καρπός	noun, accusative masculine singular	1	fruit
-MIC 6:7	1	20	κοιλίας	κοιλία	noun, genitive feminine singular	1	womb
+MIC 6:7	1	20	κοιλίας	κοιλία	noun, genitive feminine singular	1	of womb
 MIC 6:7	1	20	κοιλίας			2	belly
 MIC 6:7	1	21	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 MIC 6:7	1	21	μου			2	of me
 MIC 6:7	1	22	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
 MIC 6:7	1	22	ὑπὲρ			2	on account of
 MIC 6:7	1	23	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
-MIC 6:7	1	24	ψυχῆς	ψυχή	noun, genitive feminine singular	1	soul
+MIC 6:7	1	24	ψυχῆς	ψυχή	noun, genitive feminine singular	1	of soul
 MIC 6:7	1	24	ψυχῆς			2	life
 MIC 6:7	1	25	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 MIC 6:8	1	1	Εἰ	εἰ	interrogative particle in direct question	1	(marks question)
@@ -207,7 +207,7 @@ MIC 6:8	1	11	παρά	παρά	preposition with the genitive	1	from
 MIC 6:8	1	12	σοῦ	σύ	personal pronoun, emphatic genitive singular governed by παρά	1	you
 MIC 6:8	1	13	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
 MIC 6:8	1	14	ἢ	ἤ	particle in exceptive expression ἀλλ᾽ ἤ	1	(with ἀλλά)
-MIC 6:8	1	15	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	1	the
+MIC 6:8	1	15	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	1	(marks the infinitive)
 MIC 6:8	1	16	ποιεῖν	ποιέω	present active infinitive after τοῦ, of purpose	1	to do
 MIC 6:8	1	17	κρῖμα	κρῖμα	noun, accusative neuter singular	1	justice
 MIC 6:8	1	17	κρῖμα			2	judgment
@@ -222,39 +222,39 @@ MIC 6:8	1	24	τοῦ	ὁ	article, genitive neuter singular; introduces complemen
 MIC 6:8	1	25	πορεύεσθαι	πορεύομαι	present middle infinitive	1	to go
 MIC 6:8	1	25	πορεύεσθαι			2	to travel
 MIC 6:8	1	26	μετὰ	μετά	preposition with genitive	1	with
-MIC 6:8	1	27	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+MIC 6:8	1	27	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 MIC 6:8	1	28	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 MIC 6:8	1	29	σου	σύ	pronoun, possessive genitive second singular	1	your
 MIC 6:9	1	1	Φωνὴ	φωνή	noun, nominative feminine singular	1	a voice
 MIC 6:9	1	1	Φωνὴ			2	a sound
 MIC 6:9	1	2	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
-MIC 6:9	1	3	τῇ	ὁ	article, dative feminine singular	1	the
+MIC 6:9	1	3	τῇ	ὁ	article, dative feminine singular	1	to the
 MIC 6:9	1	4	πόλει	πόλις	noun, dative feminine singular	1	city
-MIC 6:9	1	5	ἐπικληθήσεται	ἐπικαλέω	future passive indicative, third singular	1	will call out
+MIC 6:9	1	5	ἐπικληθήσεται	ἐπικαλέω	future passive indicative, third singular	1	will be called
 MIC 6:9	1	5	ἐπικληθήσεται			2	will be proclaimed
 MIC 6:9	1	6	καὶ	καί	conjunction	1	and
 MIC 6:9	1	7	σώσει	σώζω	future active indicative, third singular	1	will save
 MIC 6:9	1	8	τοὺς	ὁ	article, accusative masculine plural	1	the
-MIC 6:9	1	9	φοβουμένους	φοβέομαι	present middle participle, accusative masculine plural; substantival	1	those who fear
+MIC 6:9	1	9	φοβουμένους	φοβέομαι	present middle participle, accusative masculine plural; substantival	1	ones who fear
 MIC 6:9	1	10	τὸ	ὁ	article, accusative neuter singular	1	the
 MIC 6:9	1	11	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 MIC 6:9	1	12	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-MIC 6:9	1	13	ἄκουε	ἀκούω	present active imperative, second singular	1	listen to
+MIC 6:9	1	13	ἄκουε	ἀκούω	present active imperative, second singular	1	listen
 MIC 6:9	1	14	φυλὴ	φυλή	noun, nominative feminine singular; nominative used as vocative	1	tribe
 MIC 6:9	1	15	καὶ	καί	conjunction	1	and
 MIC 6:9	1	16	τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
 MIC 6:9	1	17	κοσμήσει	κοσμέω	future active indicative, third singular	1	will put in order
 MIC 6:9	1	17	κοσμήσει			2	will adorn
 MIC 6:9	1	18	πόλιν	πόλις	noun, accusative feminine singular	1	city
-MIC 6:10	1	1	Μὴ	μή	negative particle	1	not
+MIC 6:10	1	1	Μὴ	μή	negative particle	1	[marks a question]
 MIC 6:10	1	2	πῦρ	πῦρ	noun, accusative neuter singular	1	fire
 MIC 6:10	1	3	καὶ	καί	conjunction	1	and
 MIC 6:10	1	4	οἶκος	οἶκος	noun, nominative masculine singular	1	house
-MIC 6:10	1	5	ἀνόμου	ἄνομος	adjective, genitive masculine singular; substantival	1	a lawless person
+MIC 6:10	1	5	ἀνόμου	ἄνομος	adjective, genitive masculine singular; substantival	1	of a lawless person
 MIC 6:10	1	6	θησαυρίζων	θησαυρίζω	present active participle, nominative masculine singular	1	storing up
 MIC 6:10	1	6	θησαυρίζων			2	hoarding
 MIC 6:10	1	7	θησαυροὺς	θησαυρός	noun, accusative masculine plural	1	treasure
-MIC 6:10	1	8	ἀνομίας	ἀνομία	noun, accusative feminine plural	1	lawlessnesses
+MIC 6:10	1	8	ἀνομίας	ἀνομία	noun, accusative feminine plural	1	of lawlessness
 MIC 6:10	1	8	ἀνομίας			2	iniquities
 MIC 6:10	1	9	καὶ	καί	conjunction	1	and
 MIC 6:10	1	10	μετὰ	μετά	preposition with genitive	1	with
@@ -275,7 +275,7 @@ MIC 6:11	1	8	ἐν	ἐν	preposition with the dative	1	in
 MIC 6:11	1	9	μαρσίππῳ	μάρσιππος	noun, dative masculine singular	1	bag
 MIC 6:11	1	9	μαρσίππῳ			2	pouch
 MIC 6:11	1	10	στάθμια	στάθμιον	noun, accusative neuter plural	1	weights
-MIC 6:11	1	11	δόλου	δόλος	noun, genitive masculine singular	1	deceit
+MIC 6:11	1	11	δόλου	δόλος	noun, genitive masculine singular	1	of deceit
 MIC 6:11	1	11	δόλου			2	trickery
 MIC 6:12	1	1	ἐξ	ἐκ	preposition with the genitive	1	from
 MIC 6:12	1	2	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	which
@@ -283,12 +283,12 @@ MIC 6:12	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
 MIC 6:12	1	4	πλοῦτον	πλοῦτος	noun, accusative masculine singular	1	wealth
 MIC 6:12	1	4	πλοῦτον			2	riches
 MIC 6:12	1	5	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-MIC 6:12	1	6	ἀσεβείας	ἀσέβεια	noun, accusative feminine plural	1	offenses
+MIC 6:12	1	6	ἀσεβείας	ἀσέβεια	noun, accusative feminine plural	1	of impiety
 MIC 6:12	1	6	ἀσεβείας			2	acts of impiety
 MIC 6:12	1	7	ἐνέπλησαν	ἐμπίπλημι	aorist active indicative, third plural	1	filled
 MIC 6:12	1	8	καὶ	καί	conjunction	1	and
 MIC 6:12	1	9	οἱ	ὁ	article, nominative masculine plural	1	the
-MIC 6:12	1	10	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	those living
+MIC 6:12	1	10	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	ones living
 MIC 6:12	1	10	κατοικοῦντες			2	those dwelling
 MIC 6:12	1	11	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 MIC 6:12	1	12	ἐλάλουν	λαλέω	imperfect active indicative, third plural	1	were speaking
@@ -322,7 +322,7 @@ MIC 6:13	1	11	ταῖς	ὁ	article, dative feminine plural	1	the
 MIC 6:13	1	12	ἁμαρτίαις	ἁμαρτία	noun, dative feminine plural	1	sins
 MIC 6:13	1	13	σου	σύ	personal pronoun, genitive second singular	1	your
 MIC 6:14	1	1	Σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
-MIC 6:14	1	2	φάγεσαι	ἐσθίω	future middle indicative, second singular	1	you will eat
+MIC 6:14	1	2	φάγεσαι	ἐσθίω	future middle indicative, second singular	1	will eat
 MIC 6:14	1	2	φάγεσαι			2	eat
 MIC 6:14	1	3	καὶ	καί	conjunction	1	and
 MIC 6:14	1	4	οὐ	οὐ	particle	1	not
@@ -352,13 +352,13 @@ MIC 6:14	1	22	ῥομφαίαν	ῥομφαία	noun, accusative feminine singul
 MIC 6:14	1	23	παραδοθήσονται	παραδίδωμι	future passive indicative, third plural	1	will be handed over
 MIC 6:14	1	23	παραδοθήσονται			2	will be given up
 MIC 6:15	1	1	Σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
-MIC 6:15	1	2	σπερεῖς	σπείρω	future active indicative, second singular	1	you will sow
+MIC 6:15	1	2	σπερεῖς	σπείρω	future active indicative, second singular	1	will sow
 MIC 6:15	1	3	καὶ	καί	conjunction	1	and
 MIC 6:15	1	4	οὐ	οὐ	negative particle	1	not
 MIC 6:15	1	5	μὴ	μή	negative particle completing οὐ μή	1	(with οὐ)
 MIC 6:15	1	6	ἀμήσῃς	ἀμάω	aorist active subjunctive, second singular	1	you will reap
 MIC 6:15	1	7	σὺ	σύ	pronoun, nominative second singular	1	you
-MIC 6:15	1	8	πιέσεις	πιέζω	future active indicative, second singular	1	you will press
+MIC 6:15	1	8	πιέσεις	πιέζω	future active indicative, second singular	1	will press
 MIC 6:15	1	9	ἐλαίαν	ἐλαία	noun, accusative feminine singular	1	olives
 MIC 6:15	1	9	ἐλαίαν			2	olive fruit
 MIC 6:15	1	10	καὶ	καί	conjunction	1	and
@@ -371,27 +371,27 @@ MIC 6:15	1	16	οἶνον	οἶνος	noun, accusative masculine singular	1	wine
 MIC 6:15	1	17	καὶ	καί	conjunction	1	and
 MIC 6:15	1	18	οὐ	οὐ	particle	1	not
 MIC 6:15	1	19	μὴ	μή	particle	1	at all
-MIC 6:15	1	20	πίητε	πίνω	aorist active subjunctive, second plural	1	you drink
-MIC 6:15	1	20	πίητε			2	you will drink
+MIC 6:15	1	20	πίητε	πίνω	aorist active subjunctive, second plural	1	you will drink
+MIC 6:15	1	20	πίητε			2	you drink
 MIC 6:15	1	21	καὶ	καί	conjunction	1	and
 MIC 6:15	1	22	ἀφανισθήσεται	ἀφανίζω	future passive indicative, third singular; neuter plural subject	1	will disappear
 MIC 6:15	1	22	ἀφανισθήσεται			2	will be destroyed
 MIC 6:15	1	23	νόμιμα	νόμιμον	noun, nominative neuter plural	1	statutes
 MIC 6:15	1	23	νόμιμα			2	customs
-MIC 6:15	1	24	λαοῦ	λαός	noun, genitive masculine singular	1	people
+MIC 6:15	1	24	λαοῦ	λαός	noun, genitive masculine singular	1	of people
 MIC 6:15	1	25	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 MIC 6:16	1	1	Καὶ	καί	conjunction	1	and
 MIC 6:16	1	2	ἐφύλαξας	φυλάσσω	aorist active indicative, second singular	1	you kept
 MIC 6:16	1	2	ἐφύλαξας			2	you observed
 MIC 6:16	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 MIC 6:16	1	4	δικαιώματα	δικαίωμα	noun, accusative neut. pl., statutes/ordinances	1	ordinances
-MIC 6:16	1	5	Ζαμβρὶ	Ζαμβρί	indeclinable personal name, genitive in context	1	Omri
+MIC 6:16	1	5	Ζαμβρὶ	Ζαμβρί	indeclinable personal name, genitive in context	1	of Zimri
 MIC 6:16	1	5	Ζαμβρὶ			2	Zimri
 MIC 6:16	1	6	καὶ	καί	conjunction	1	and
 MIC 6:16	1	7	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 MIC 6:16	1	8	τὰ	ὁ	article, accusative neuter plural	1	the
 MIC 6:16	1	9	ἔργα	ἔργον	noun, accusative neuter plural	1	works
-MIC 6:16	1	10	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+MIC 6:16	1	10	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 MIC 6:16	1	10	οἴκου			2	household
 MIC 6:16	1	11	Ἀχαὰβ	Ἀχαάβ	indeclinable personal name, genitive in context	1	of Ahab
 MIC 6:16	1	11	Ἀχαὰβ			2	Achaab
@@ -408,12 +408,12 @@ MIC 6:16	1	18	ὅπως			2	in order that
 MIC 6:16	1	19	παραδῶ	παραδίδωμι	aorist active subjunctive, first singular	1	I may hand over
 MIC 6:16	1	19	παραδῶ			2	I may give up
 MIC 6:16	1	20	σε	σύ	pronoun, accusative second singular	1	you
-MIC 6:16	1	21	εἰς	εἰς	preposition with the accusative; εἰς τέλος idiom	1	in
+MIC 6:16	1	21	εἰς	εἰς	preposition with the accusative; εἰς τέλος idiom	1	into
 MIC 6:16	1	22	ἀφανισμὸν	ἀφανισμός	noun, accusative masculine singular	1	destruction
 MIC 6:16	1	22	ἀφανισμὸν			2	obliteration
 MIC 6:16	1	23	καὶ	καί	conjunction	1	and
 MIC 6:16	1	24	τοὺς	ὁ	article, accusative masculine plural	1	the
-MIC 6:16	1	25	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	dwelling
+MIC 6:16	1	25	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	ones dwelling in
 MIC 6:16	1	25	κατοικοῦντας			2	inhabiting
 MIC 6:16	1	26	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 MIC 6:16	1	27	εἰς	εἰς	preposition with the accusative	1	into
@@ -422,5 +422,5 @@ MIC 6:16	1	28	συρισμὸν			2	mockery
 MIC 6:16	1	29	καὶ	καί	conjunction	1	and
 MIC 6:16	1	30	ὀνείδη	ὄνειδος	noun, accusative neuter plural	1	reproaches
 MIC 6:16	1	30	ὀνείδη			2	disgrace
-MIC 6:16	1	31	λαῶν	λαός	noun, genitive masculine plural	1	peoples
+MIC 6:16	1	31	λαῶν	λαός	noun, genitive masculine plural	1	of peoples
 MIC 6:16	1	32	λήψεσθε	λαμβάνω	future middle indicative, second plural	1	you will take

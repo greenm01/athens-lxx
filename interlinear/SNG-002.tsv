@@ -2,10 +2,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 SNG 2:1	1	1	ΕΓΩ	ἐγώ	personal pronoun, nominative first singular	1	I
 SNG 2:1	1	2	ἄνθος	ἄνθος	noun, nominative neuter singular	1	blossom
 SNG 2:1	1	2	ἄνθος			2	flower
-SNG 2:1	1	3	τοῦ	ὁ	article, genitive singular	1	the
-SNG 2:1	1	4	πεδίου	πεδίον	noun, genitive neuter singular	1	of the plain
-SNG 2:1	1	5	κρίνον	κρίνον	noun, nominative neut. sg. in list, a flower	1	a flower
-SNG 2:1	1	6	τῶν	ὁ	article, genitive plural	1	the
+SNG 2:1	1	3	τοῦ	ὁ	article, genitive singular	1	of the
+SNG 2:1	1	4	πεδίου	πεδίον	noun, genitive neuter singular	1	plain
+SNG 2:1	1	5	κρίνον	κρίνον	noun, nominative neut. sg. in list, a flower	1	a lily
+SNG 2:1	1	6	τῶν	ὁ	article, genitive plural	1	of the
 SNG 2:1	1	7	κοιλάδων	κοιλάς	noun, genitive feminine plural	1	valleys
 SNG 2:2	1	1	Ὡς	ὡς	comparative particle	1	as
 SNG 2:2	1	2	κρίνον	κρίνον	noun, nominative neuter singular	1	lily
@@ -18,20 +18,20 @@ SNG 2:2	1	8	πλησίον	πλησίον	substantival adverb, feminine singular
 SNG 2:2	1	9	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 SNG 2:2	1	10	ἀναμέσον	ἀναμέσον	preposition with genitive	1	between
 SNG 2:2	1	11	τῶν	ὁ	article, genitive feminine plural	1	the
-SNG 2:2	1	12	θυγατέρων	θυγάτηρ	noun, genitive feminine plural	1	young women
+SNG 2:2	1	12	θυγατέρων	θυγάτηρ	noun, genitive feminine plural	1	daughters
 SNG 2:3	1	1	Ὡς	ὡς	comparative particle	1	as
 SNG 2:3	1	2	μῆλον	μῆλον	noun, nominative neuter singular	1	an apple tree
 SNG 2:3	1	3	ἐν	ἐν	preposition with the dative	1	in
 SNG 2:3	1	4	τοῖς	ὁ	article, dative neuter plural	1	the
 SNG 2:3	1	5	ξύλοις	ξύλον	noun, dative neuter plural	1	trees
-SNG 2:3	1	6	τοῦ	ὁ	article, genitive singular	1	the
+SNG 2:3	1	6	τοῦ	ὁ	article, genitive singular	1	of the
 SNG 2:3	1	7	δρυμοῦ	δρυμός	noun, genitive masculine singular	1	woodland
 SNG 2:3	1	8	οὕτως	οὕτως	adverb	1	thus
 SNG 2:3	1	9	ἀδελφιδός	ἀδελφιδός	noun, nominative masculine singular	1	beloved
 SNG 2:3	1	10	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 SNG 2:3	1	11	ἀναμέσον	ἀναμέσον	preposition with genitive	1	between
 SNG 2:3	1	12	τῶν	ὁ	article, genitive plural	1	the
-SNG 2:3	1	13	υἱῶν	υἱός	noun, genitive masculine plural	1	young men
+SNG 2:3	1	13	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 SNG 2:3	1	14	ἐν	ἐν	preposition with the dative	1	in
 SNG 2:3	1	15	τῇ	ὁ	article dative feminine singular	1	the
 SNG 2:3	1	16	σκιᾷ	σκιά	noun dative feminine singular	1	shadow
@@ -60,12 +60,12 @@ SNG 2:4	1	9	ἐμὲ	ἐγώ	personal pronoun accusative first singular	1	me
 SNG 2:4	1	10	ἀγάπην	ἀγάπη	noun, accusative feminine singular	1	love
 SNG 2:5	1	1	στηρίσατέ	στηρίζω	aorist active imperative, second plural	1	support
 SNG 2:5	1	2	με	ἐγώ	personal pronoun, accusative singular	1	me
-SNG 2:5	1	3	ἐν	ἐν	preposition with the dative	1	in
+SNG 2:5	1	3	ἐν	ἐν	preposition with the dative	1	with
 SNG 2:5	1	4	ἀμόραις	ἀμόρα	noun, dative feminine plural	1	raisin cakes
 SNG 2:5	1	4	ἀμόραις			2	sweet cakes
 SNG 2:5	1	5	στοιβάσατέ	στοιβάζω	aorist active imperative, second plural	1	heap up
 SNG 2:5	1	6	με	ἐγώ	pronoun, accusative first singular, subject of infinitive	1	me
-SNG 2:5	1	7	ἐν	ἐν	preposition with the dative	1	in
+SNG 2:5	1	7	ἐν	ἐν	preposition with the dative	1	with
 SNG 2:5	1	8	μήλοις	μῆλον	noun, dative neuter plural	1	apples
 SNG 2:5	1	9	ὅτι	ὅτι	causal conjunction	1	because
 SNG 2:5	1	10	τετρωμένη	τιτρώσκω	perfect passive participle, nominative feminine singular	1	wounded
@@ -88,14 +88,14 @@ SNG 2:7	1	1	Ὥρκισα	ὁρκίζω	aorist active indicative, first singular
 SNG 2:7	1	2	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 SNG 2:7	1	3	θυγατέρες	θυγάτηρ	noun, nominative feminine plural	1	daughters
 SNG 2:7	1	4	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	of Jerusalem
-SNG 2:7	1	5	ἐν	ἐν	preposition with the dative	1	in
+SNG 2:7	1	5	ἐν	ἐν	preposition with the dative	1	by
 SNG 2:7	1	6	ταῖς	ὁ	article, dative feminine plural	1	the
 SNG 2:7	1	7	δυνάμεσι	δύναμις	noun, dative feminine plural	1	powers
 SNG 2:7	1	8	καὶ	καί	conjunction	1	and
-SNG 2:7	1	9	ἐν	ἐν	preposition with the dative	1	in
+SNG 2:7	1	9	ἐν	ἐν	preposition with the dative	1	by
 SNG 2:7	1	10	ταῖς	ὁ	article, dative feminine plural	1	the
 SNG 2:7	1	11	ἰσχύσεσι	ἰσχύς	noun, dative feminine plural	1	strengths
-SNG 2:7	1	12	τοῦ	ὁ	article, genitive singular	1	the
+SNG 2:7	1	12	τοῦ	ὁ	article, genitive singular	1	of the
 SNG 2:7	1	13	ἀγροῦ	ἀγρός	noun, genitive masculine singular	1	field
 SNG 2:7	1	14	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	lest
 SNG 2:7	1	15	ἐγείρητε	ἐγείρω	present active subjunctive, second plural	1	you rouse
@@ -104,7 +104,7 @@ SNG 2:7	1	17	ἐξεγείρητε	ἐξεγείρω	present active subjunctive,
 SNG 2:7	1	18	τὴν	ὁ	article, accusative feminine singular	1	the
 SNG 2:7	1	19	ἀγάπην	ἀγάπη	noun, accusative feminine singular	1	love
 SNG 2:7	1	20	ἕως	ἕως	preposition with the genitive	1	until
-SNG 2:7	1	21	οὗ	οὗ	relative adverb	1	where
+SNG 2:7	1	21	οὗ	οὗ	relative adverb	1	—
 SNG 2:7	1	22	θελήσῃ	θέλω	aorist active subjunctive, third singular	1	it wishes
 SNG 2:8	1	1	Φωνὴ	φωνή	noun, nominative feminine singular	1	voice
 SNG 2:8	1	2	ἀδελφιδοῦ	ἀδελφιδός	noun, genitive masculine singular	1	of the beloved
@@ -125,7 +125,7 @@ SNG 2:9	1	2	ἐστιν	εἰμί	present indicative, third singular	1	is
 SNG 2:9	1	3	ἀδελφιδός	ἀδελφιδός	noun, nominative masculine singular	1	beloved
 SNG 2:9	1	4	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 SNG 2:9	1	5	τῇ	ὁ	article, dative feminine singular	1	the
-SNG 2:9	1	6	δορκάδι	δορκάς	noun, dative feminine singular	1	a gazelle
+SNG 2:9	1	6	δορκάδι	δορκάς	noun, dative feminine singular	1	gazelle
 SNG 2:9	1	7	ἢ	ἤ	disjunctive conjunction	1	or
 SNG 2:9	1	8	νεβρῷ	νεβρός	noun, dative masculine singular	1	a fawn
 SNG 2:9	1	9	ἐλάφων	ἔλαφος	noun, genitive masculine plural	1	of deer
@@ -159,7 +159,7 @@ SNG 2:10	1	7	ἀνάστα	ἀνίστημι	aorist active imperative, second si
 SNG 2:10	1	8	ἐλθὲ	ἔρχομαι	aorist active imperative, second singular	1	come
 SNG 2:10	1	9	ἡ	ὁ	article, nominative feminine singular	1	the
 SNG 2:10	1	10	πλησίον	πλησίον	substantival adverb, feminine singular in context	1	companion
-SNG 2:10	1	11	μου	ἐγώ	personal pronoun genitive first singular	1	me
+SNG 2:10	1	11	μου	ἐγώ	personal pronoun genitive first singular	1	my
 SNG 2:10	1	12	καλή	καλός	adjective, nominative feminine singular	1	beautiful
 SNG 2:10	1	13	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 SNG 2:10	1	14	περιστερά	περιστερά	noun, nominative feminine singular	1	dove
@@ -210,7 +210,7 @@ SNG 2:13	1	11	Ἀνάστα	ἀνίστημι	aorist active imperative, second s
 SNG 2:13	1	12	ἐλθὲ	ἔρχομαι	aorist active imperative, second singular	1	come
 SNG 2:13	1	13	ἡ	ὁ	article, nominative feminine singular	1	the
 SNG 2:13	1	14	πλησίον	πλησίον	substantival adverb, feminine singular in context	1	companion
-SNG 2:13	1	15	μου	ἐγώ	personal pronoun genitive first singular	1	me
+SNG 2:13	1	15	μου	ἐγώ	personal pronoun genitive first singular	1	my
 SNG 2:13	1	16	καλή	καλός	adjective, nominative feminine singular	1	beautiful
 SNG 2:13	1	17	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 SNG 2:13	1	18	περιστερά	περιστερά	noun, nominative feminine singular	1	dove
@@ -219,10 +219,10 @@ SNG 2:13	1	20	καὶ	καί	conjunction	1	and
 SNG 2:13	1	21	ἐλθέ	ἔρχομαι	aorist active imperative, second singular	1	come
 SNG 2:14	1	1	σοι	σύ	personal pronoun, dative singular	1	to you
 SNG 2:14	1	2	περιστερά	περιστερά	noun, nominative feminine singular	1	dove
-SNG 2:14	1	3	μου	ἐγώ	personal pronoun genitive first singular	1	me
+SNG 2:14	1	3	μου	ἐγώ	personal pronoun genitive first singular	1	my
 SNG 2:14	1	4	ἐν	ἐν	preposition with dative	1	in
 SNG 2:14	1	5	σκέπῃ	σκέπη	noun, dative feminine singular	1	shelter
-SNG 2:14	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
+SNG 2:14	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
 SNG 2:14	1	7	πέτρας	πέτρα	noun, genitive fem. sg	1	rock
 SNG 2:14	1	8	ἐχόμενα	ἔχομαι	present middle participle, accusative neuter plural; used with genitive for adjacent position	1	next to
 SNG 2:14	1	8	ἐχόμενα			2	beside
@@ -251,9 +251,9 @@ SNG 2:14	1	29	ὄψις	ὄψις	noun, nominative feminine singular	1	appearanc
 SNG 2:14	1	30	σου	σύ	pronoun, possessive genitive second singular	1	your
 SNG 2:14	1	31	ὡραία	ὡραῖος	adjective, nominative feminine singular	1	beautiful
 SNG 2:15	1	1	Πιάσατε	πιάζω	aorist active imperative, second plural	1	catch
-SNG 2:15	1	2	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
+SNG 2:15	1	2	ἡμῖν	ἐγώ	pronoun, dative first plural	1	for us
 SNG 2:15	1	3	ἀλώπεκας	ἀλώπηξ	noun, accusative feminine plural	1	foxes
-SNG 2:15	1	4	μικροὺς	μικρός	adjective, accusative masculine plural; substantival	1	little ones
+SNG 2:15	1	4	μικροὺς	μικρός	adjective, accusative masculine plural; substantival	1	little
 SNG 2:15	1	4	μικροὺς			2	small ones
 SNG 2:15	1	5	ἀφανίζοντας	ἀφανίζω	present active participle, accusative masculine plural	1	that ravage
 SNG 2:15	1	6	ἀμπελῶνας	ἀμπελών	noun, accusative masculine plural	1	vineyards
@@ -268,7 +268,7 @@ SNG 2:16	1	2	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 SNG 2:16	1	3	ἐμοὶ	ἐγώ	personal pronoun, emphatic dative singular	1	is mine
 SNG 2:16	1	4	κἀγὼ	κἀγώ	crasis of conjunction and first-person nominative singular pronoun	1	and I
 SNG 2:16	1	5	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	am his
-SNG 2:16	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
+SNG 2:16	1	6	ὁ	ὁ	article, nominative masculine singular	1	he
 SNG 2:16	1	7	ποιμαίνων	ποιμαίνω	present active participle nominative masculine singular	1	who pastures
 SNG 2:16	1	8	ἐν	ἐν	preposition with the dative	1	in
 SNG 2:16	1	9	τοῖς	ὁ	article, dative neuter plural	1	the
@@ -288,7 +288,7 @@ SNG 2:17	1	12	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 SNG 2:17	1	13	ἀδελφιδέ	ἀδελφιδός	noun, vocative masculine singular	1	beloved
 SNG 2:17	1	14	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 SNG 2:17	1	15	τῷ	ὁ	article, dative masculine singular	1	the
-SNG 2:17	1	16	δόρκωνι	δόρκων	noun, dative masculine singular	1	a gazelle
+SNG 2:17	1	16	δόρκωνι	δόρκων	noun, dative masculine singular	1	gazelle
 SNG 2:17	1	17	ἢ	ἤ	disjunctive conjunction	1	or
 SNG 2:17	1	18	νεβρῷ	νεβρός	noun, dative masculine singular	1	a fawn
 SNG 2:17	1	19	ἐλάφων	ἔλαφος	noun, genitive masculine plural	1	of deer

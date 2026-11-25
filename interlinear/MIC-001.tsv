@@ -9,11 +9,11 @@ MIC 1:1	1	6	Μιχαίαν	Μιχαίας	noun, accusative masculine singular; p
 MIC 1:1	1	6	Μιχαίαν			2	Michaias
 MIC 1:1	1	7	τὸν	ὁ	article, accusative masculine singular; substantival with place designation	1	the man
 MIC 1:1	1	8	τοῦ	ὁ	article, genitive masculine singular; marks origin with place name	1	from
-MIC 1:1	1	9	Μωρασθεὶ	Μωρασθεί	indeclinable place name, genitive in context	1	Morasthite
+MIC 1:1	1	9	Μωρασθεὶ	Μωρασθεί	indeclinable place name, genitive in context	1	Moresheth
 MIC 1:1	1	9	Μωρασθεὶ			2	Morasthi
 MIC 1:1	1	10	ἐν	ἐν	preposition with the dative	1	in
 MIC 1:1	1	11	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
-MIC 1:1	1	12	Ἰωάθαμ	Ἰωάθαμ	indeclinable personal name, genitive in context	1	Jotham
+MIC 1:1	1	12	Ἰωάθαμ	Ἰωάθαμ	indeclinable personal name, genitive in context	1	of Jotham
 MIC 1:1	1	12	Ἰωάθαμ			2	Ioatham
 MIC 1:1	1	13	καὶ	καί	conjunction	1	and
 MIC 1:1	1	14	Ἄχαζ	Ἄχαζ	indeclinable personal name, genitive in context	1	Ahaz
@@ -80,7 +80,7 @@ MIC 1:3	1	13	ἐπὶ	ἐπί	preposition with accusative	1	on
 MIC 1:3	1	14	τὰ	ὁ	article, neuter plural (case from context)	1	the
 MIC 1:3	1	15	ὕψη	ὕψος	noun, accusative neuter plural	1	heights
 MIC 1:3	1	15	ὕψη			2	high places
-MIC 1:3	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
+MIC 1:3	1	16	τῆς	ὁ	article, genitive feminine singular	1	of the
 MIC 1:3	1	17	γῆς	γῆ	noun, genitive feminine singular	1	land
 MIC 1:4	1	1	καὶ	καί	conjunction	1	and
 MIC 1:4	1	2	σαλευθήσεται	σαλεύω	future passive indicative, third singular; neuter plural subject	1	will be shaken
@@ -115,7 +115,7 @@ MIC 1:5	1	4	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 MIC 1:5	1	5	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 MIC 1:5	1	6	καὶ	καί	conjunction	1	and
 MIC 1:5	1	7	διὰ	διά	preposition with the accusative	1	because of
-MIC 1:5	1	8	ἁμαρτίαν	ἁμαρτία	noun, accusative feminine singular after τὴν	1	sin/offence
+MIC 1:5	1	8	ἁμαρτίαν	ἁμαρτία	noun, accusative feminine singular after τὴν	1	sin
 MIC 1:5	1	9	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 MIC 1:5	1	10	Ἰσραήλ	Ἰσραὴλ	indeclinable personal name, nominative in context	1	Israel
 MIC 1:5	1	11	Τίς	τίς	interrogative pronoun, nominative masculine singular	1	what
@@ -123,14 +123,14 @@ MIC 1:5	1	12	ἡ	ὁ	article, nominative feminine singular	1	the
 MIC 1:5	1	13	ἀσέβεια	ἀσέβεια	noun, nominative feminine singular	1	impiety
 MIC 1:5	1	13	ἀσέβεια			2	offense
 MIC 1:5	1	14	τοῦ	ὁ	article, genitive neuter singular	1	of
-MIC 1:5	1	15	Ἰακώβ	Ἰακώβ	indeclinable personal name, genitive in context	1	of Jacob
+MIC 1:5	1	15	Ἰακώβ	Ἰακώβ	indeclinable personal name, genitive in context	1	Jacob
 MIC 1:5	1	16	οὐχὶ	οὐχί	interrogative negative expecting affirmative answer	1	is it not
 MIC 1:5	1	17	Σαμάρεια	Σαμάρεια	noun, nominative feminine singular; place name	1	Samaria
 MIC 1:5	1	18	καὶ	καί	conjunction	1	and
 MIC 1:5	1	19	τίς	τίς	interrogative pronoun, nominative feminine singular	1	what
 MIC 1:5	1	20	ἡ	ὁ	article, nominative feminine singular	1	the
 MIC 1:5	1	21	ἁμαρτία	ἁμαρτία	noun, nominative feminine singular	1	sin
-MIC 1:5	1	22	οἴκου	οἶκος	noun, genitive masculine singular	1	house
+MIC 1:5	1	22	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 MIC 1:5	1	22	οἴκου			2	household
 MIC 1:5	1	23	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 MIC 1:5	1	24	οὐχὶ	οὐχί	interrogative negative expecting affirmative answer	1	is it not
@@ -142,12 +142,12 @@ MIC 1:6	1	3	Σαμάρειαν	Σαμάρεια	noun, accusative feminine singul
 MIC 1:6	1	4	εἰς	εἰς	preposition with the accusative	1	into
 MIC 1:6	1	5	ὀπωροφυλάκιον	ὀπωροφυλάκιον	noun, accusative neuter singular	1	fruit watchman's shelter
 MIC 1:6	1	5	ὀπωροφυλάκιον			2	orchard watchtower
-MIC 1:6	1	6	ἀγροῦ	ἀγρός	noun, genitive masculine singular	1	field
+MIC 1:6	1	6	ἀγροῦ	ἀγρός	noun, genitive masculine singular	1	of a field
 MIC 1:6	1	7	καὶ	καί	conjunction	1	and
 MIC 1:6	1	8	εἰς	εἰς	preposition with the accusative	1	into
 MIC 1:6	1	9	φυτείαν	φυτεία	noun, accusative feminine singular	1	planting
 MIC 1:6	1	9	φυτείαν			2	plantation
-MIC 1:6	1	10	ἀμπελῶνος	ἀμπελών	noun, genitive masculine singular	1	vineyard
+MIC 1:6	1	10	ἀμπελῶνος	ἀμπελών	noun, genitive masculine singular	1	of a vineyard
 MIC 1:6	1	11	καὶ	καί	conjunction	1	and
 MIC 1:6	1	12	κατασπάσω	κατασπάω	future active indicative, first singular	1	I will pull down
 MIC 1:6	1	12	κατασπάσω			2	I will drag down
@@ -189,20 +189,20 @@ MIC 1:7	1	18	εἴδωλα			2	images
 MIC 1:7	1	19	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 MIC 1:7	1	20	θήσομαι	τίθημι	future middle indicative, first singular	1	I will make
 MIC 1:7	1	20	θήσομαι			2	I will turn
-MIC 1:7	1	21	εἰς	εἰς	preposition with the accusative of extent	1	along
+MIC 1:7	1	21	εἰς	εἰς	preposition with the accusative of extent	1	into
 MIC 1:7	1	22	ἀφανισμόν	ἀφανισμός	noun, accusative masculine singular	1	destruction
 MIC 1:7	1	22	ἀφανισμόν			2	obliteration
 MIC 1:7	1	23	διότι	διότι	causal conjunction	1	because
 MIC 1:7	1	24	ἐκ	ἐκ	preposition with the genitive	1	from
 MIC 1:7	1	25	μισθωμάτων	μίσθωμα	noun, genitive neuter plural	1	payments
 MIC 1:7	1	25	μισθωμάτων			2	fees
-MIC 1:7	1	26	πορνείας	πορνεία	noun, genitive feminine singular after ἐκ	1	prostitution
+MIC 1:7	1	26	πορνείας	πορνεία	noun, genitive feminine singular after ἐκ	1	of prostitution
 MIC 1:7	1	27	συνήγαγε	συνάγω	aorist active indicative, third singular	1	she gathered
 MIC 1:7	1	28	καὶ	καί	conjunction	1	and
 MIC 1:7	1	29	ἐκ	ἐκ	preposition with the genitive	1	from
 MIC 1:7	1	30	μισθωμάτων	μίσθωμα	noun, genitive neuter plural	1	payments
 MIC 1:7	1	30	μισθωμάτων			2	fees
-MIC 1:7	1	31	πορνείας	πορνεία	noun, genitive feminine singular after ἐκ	1	prostitution
+MIC 1:7	1	31	πορνείας	πορνεία	noun, genitive feminine singular after ἐκ	1	of prostitution
 MIC 1:7	1	32	συνέστρεψεν	συστρέφω	aorist active indicative, third singular	1	she amassed
 MIC 1:7	1	32	συνέστρεψεν			2	she gathered together
 MIC 1:8	1	1	Ἕνεκεν	ἕνεκα	preposition with the genitive	1	for the sake of
@@ -241,16 +241,16 @@ MIC 1:9	1	7	ἦλθεν	ἔρχομαι	aorist active indicative, third singular
 MIC 1:9	1	7	ἦλθεν			2	had come
 MIC 1:9	1	8	ἕως	ἕως	preposition with the genitive	1	as far as
 MIC 1:9	1	8	ἕως			2	up to
-MIC 1:9	1	9	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
+MIC 1:9	1	9	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	Judah
 MIC 1:9	1	10	καὶ	καί	conjunction	1	and
 MIC 1:9	1	11	ἥψατο	ἅπτομαι	aorist middle indicative, third singular	1	touched
 MIC 1:9	1	11	ἥψατο			2	took hold of
 MIC 1:9	1	12	ἕως	ἕως	preposition with the genitive	1	as far as
 MIC 1:9	1	12	ἕως			2	up to
 MIC 1:9	1	13	πύλης	πύλη	noun, genitive feminine singular	1	gate
-MIC 1:9	1	14	λαοῦ	λαός	noun, genitive masculine singular	1	people
+MIC 1:9	1	14	λαοῦ	λαός	noun, genitive masculine singular	1	of people
 MIC 1:9	1	15	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
-MIC 1:9	1	16	ἕως	ἕως	temporal conjunction/preposition (from context)	1	until
+MIC 1:9	1	16	ἕως	ἕως	temporal conjunction/preposition (from context)	1	as far as
 MIC 1:9	1	17	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 MIC 1:10	1	1	Οἱ	ὁ	article, nominative masculine plural	1	the
 MIC 1:10	1	2	ἐν	ἐν	preposition with the dative	1	in
@@ -300,7 +300,7 @@ MIC 1:11	1	15	ἐξ	ἐκ	preposition with the genitive before a vowel	1	from
 MIC 1:11	1	16	ὑμῶν	σύ	personal pronoun, genitive second plural governed by ἐκ	1	you
 MIC 1:11	1	17	πληγὴν	πληγή	noun, accusative feminine singular	1	blow
 MIC 1:11	1	17	πληγὴν			2	wound
-MIC 1:11	1	18	ὀδύνης	ὀδύνη	noun, genitive feminine singular	1	pain
+MIC 1:11	1	18	ὀδύνης	ὀδύνη	noun, genitive feminine singular	1	of pain
 MIC 1:11	1	18	ὀδύνης			2	sorrow
 MIC 1:12	1	1	Τίς	τίς	interrogative pronoun, nominative masculine singular	1	who
 MIC 1:12	1	2	ἤρξατο	ἄρχω	aorist middle indicative, third singular	1	began
@@ -323,9 +323,9 @@ MIC 1:12	1	13	πύλας	πύλη	noun, accusative feminine plural	1	gates
 MIC 1:12	1	14	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
 MIC 1:12	1	15	ψόφος	ψόφος	noun, nominative masculine singular	1	noise
 MIC 1:12	1	15	ψόφος			2	din
-MIC 1:12	1	16	ἁρμάτων	ἅρμα	noun, genitive neut. pl. after τῶν	1	chariots
+MIC 1:12	1	16	ἁρμάτων	ἅρμα	noun, genitive neut. pl. after τῶν	1	of chariots
 MIC 1:12	1	17	καὶ	καί	conjunction	1	and
-MIC 1:12	1	18	ἱππευόντων	ἱππεύω	present active participle, genitive masculine plural; substantival	1	riders
+MIC 1:12	1	18	ἱππευόντων	ἱππεύω	present active participle, genitive masculine plural; substantival	1	of riders
 MIC 1:12	1	18	ἱππευόντων			2	those riding
 MIC 1:13	1	1	Κατοικοῦσα	κατοικέω	present active participle, nominative feminine singular	1	one dwelling
 MIC 1:13	1	1	Κατοικοῦσα			2	inhabitant
@@ -333,10 +333,10 @@ MIC 1:13	1	2	Λαχεὶς	Λαχείς	indeclinable place name, locally after �
 MIC 1:13	1	2	Λαχεὶς			2	Lacheis
 MIC 1:13	1	3	ἀρχηγὸς	ἀρχηγός	noun, nominative masculine singular; predicate	1	originator
 MIC 1:13	1	3	ἀρχηγὸς			2	leader
-MIC 1:13	1	4	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
+MIC 1:13	1	4	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	of sin
 MIC 1:13	1	5	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 MIC 1:13	1	6	ἐστὶ	εἰμί	present indicative, third singular	1	is
-MIC 1:13	1	7	τῇ	ὁ	article, dative feminine singular	1	the
+MIC 1:13	1	7	τῇ	ὁ	article, dative feminine singular	1	to the
 MIC 1:13	1	8	θυγατρὶ	θυγάτηρ	noun, dative feminine singular	1	daughter
 MIC 1:13	1	9	Σιὼν	Σιών	indeclinable place name, genitive in context	1	of Zion
 MIC 1:13	1	10	ὅτι	ὅτι	causal conjunction	1	because
@@ -347,18 +347,18 @@ MIC 1:13	1	14	αἱ	ὁ	article, nominative feminine plural	1	the
 MIC 1:13	1	15	ἀσέβειαι	ἀσέβεια	noun, nominative feminine plural	1	acts of impiety
 MIC 1:13	1	15	ἀσέβειαι			2	offenses
 MIC 1:13	1	16	τοῦ	ὁ	article, genitive masculine singular	1	of
-MIC 1:13	1	17	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
+MIC 1:13	1	17	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 MIC 1:14	1	1	Διὰ	διά	preposition with the accusative	1	because of
 MIC 1:14	1	2	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
-MIC 1:14	1	3	δώσεις	δίδωμι	future active indicative, second singular	1	will you give
-MIC 1:14	1	3	δώσεις			2	you will give
+MIC 1:14	1	3	δώσεις	δίδωμι	future active indicative, second singular	1	you will give
+MIC 1:14	1	3	δώσεις			2	will you give
 MIC 1:14	1	4	ἐξαποστελλομένους	ἐξαποστέλλω	present middle/passive participle, accusative masculine plural; substantival	1	those being sent out
 MIC 1:14	1	4	ἐξαποστελλομένους			2	envoys
 MIC 1:14	1	5	ἕως	ἕως	preposition with the genitive	1	as far as
 MIC 1:14	1	5	ἕως			2	up to
 MIC 1:14	1	6	κληρονομίας	κληρονομία	noun, genitive feminine singular	1	inheritance
 MIC 1:14	1	6	κληρονομίας			2	estate
-MIC 1:14	1	7	Γὲθ	Γέθ	indeclinable place name, dative in context	1	Gath
+MIC 1:14	1	7	Γὲθ	Γέθ	indeclinable place name, dative in context	1	of Gath
 MIC 1:14	1	7	Γὲθ			2	Geth
 MIC 1:14	1	8	οἴκους	οἶκος	noun, accusative masculine plural after τοὺς/eἰς τοὺς	1	houses
 MIC 1:14	1	9	ματαίους	μάταιος	adjective, accusative masculine plural	1	empty
@@ -389,14 +389,14 @@ MIC 1:15	1	11	ἥξει	ἥκω	future active indicative, third singular	1	will 
 MIC 1:15	1	11	ἥξει			2	will arrive
 MIC 1:15	1	12	ἡ	ὁ	article, nominative feminine singular	1	the
 MIC 1:15	1	13	δόξα	δόξα	noun, nominative feminine singular	1	glory
-MIC 1:15	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+MIC 1:15	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 MIC 1:15	1	15	θυγατρὸς	θυγάτηρ	noun, genitive feminine singular	1	daughter
-MIC 1:15	1	16	Ἰσραήλ	Ἰσραὴλ	indeclinable personal name, nominative in context	1	Israel
+MIC 1:15	1	16	Ἰσραήλ	Ἰσραὴλ	indeclinable personal name, nominative in context	1	of Israel
 MIC 1:16	1	1	Ξύρησαι	ξυράω	aorist middle imperative, second singular	1	shave yourself
 MIC 1:16	1	2	καὶ	καί	conjunction	1	and
 MIC 1:16	1	3	κεῖραι	κείρω	aorist middle imperative, second singular	1	cut your hair
 MIC 1:16	1	3	κεῖραι			2	shear yourself
-MIC 1:16	1	4	ἐπὶ	ἐπί	preposition with accusative	1	on
+MIC 1:16	1	4	ἐπὶ	ἐπί	preposition with accusative	1	over
 MIC 1:16	1	5	τὰ	ὁ	article, accusative neuter plural	1	the
 MIC 1:16	1	6	τέκνα	τέκνον	noun, accusative neuter plural	1	children
 MIC 1:16	1	7	τὰ	ὁ	article, accusative neuter plural	1	the

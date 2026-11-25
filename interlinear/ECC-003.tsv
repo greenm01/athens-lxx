@@ -1,5 +1,5 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
-ECC 3:1	1	1	ΤΟΙΣ	ὁ	article, dative masculine or neuter plural	1	the
+ECC 3:1	1	1	ΤΟΙΣ	ὁ	article, dative masculine or neuter plural	1	for
 ECC 3:1	1	2	πᾶσιν	πᾶς	adjective, dative neuter plural	1	everything
 ECC 3:1	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 ECC 3:1	1	4	χρόνος	χρόνος	noun, nominative masculine singular	1	time
@@ -7,8 +7,8 @@ ECC 3:1	1	4	χρόνος			2	span of time
 ECC 3:1	1	5	καὶ	καί	conjunction	1	and
 ECC 3:1	1	6	καιρὸς	καιρός	noun, nominative masculine singular	1	season
 ECC 3:1	1	6	καιρὸς			2	the appointed time
-ECC 3:1	1	7	τῷ	ὁ	article, dative masculine singular	1	the
-ECC 3:1	1	8	παντὶ	πᾶς	adjective, dative masculine singular	1	all
+ECC 3:1	1	7	τῷ	ὁ	article, dative masculine singular	1	for
+ECC 3:1	1	8	παντὶ	πᾶς	adjective, dative masculine singular	1	every
 ECC 3:1	1	9	πράγματι	πρᾶγμα	noun, dative neuter singular	1	undertaking
 ECC 3:1	1	10	ὑπὸ	ὑπό	preposition with the accusative	1	under
 ECC 3:1	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -25,7 +25,7 @@ ECC 3:2	1	9	τοῦ	ὁ	article, genitive singular, introduces articular infinit
 ECC 3:2	1	10	φυτεῦσαι	φυτεύω	aorist active infinitive	1	to plant
 ECC 3:2	1	11	καὶ	καί	conjunction	1	and
 ECC 3:2	1	12	καιρὸς	καιρός	noun, nominative masculine singular	1	a time
-ECC 3:2	1	13	τοῦ	ὁ	article, genitive singular	1	the
+ECC 3:2	1	13	τοῦ	ὁ	article, genitive singular	1	—
 ECC 3:2	1	14	ἐκτίλαι	ἐκτίλλω	aorist active optative third singular	1	to uproot
 ECC 3:2	1	15	τὸ	ὁ	article nominative neuter singular	1	the
 ECC 3:2	1	16	πεφυτευμένον	φυτεύω	perfect passive participle nominative neuter singular	1	planted
@@ -114,15 +114,15 @@ ECC 3:8	1	7	μισῆσαι	μισέω	aorist active infinitive	1	to hate
 ECC 3:8	1	8	καιρὸς	καιρός	noun, nominative masculine singular	1	a time
 ECC 3:8	1	9	πολέμου	πόλεμος	noun, genitive masculine singular	1	of war
 ECC 3:8	1	10	καὶ	καί	conjunction	1	and
-ECC 3:8	1	11	καιρὸς	καιρός	noun, nominative masculine singular	1	the time
+ECC 3:8	1	11	καιρὸς	καιρός	noun, nominative masculine singular	1	a time
 ECC 3:8	1	11	καιρὸς			2	the appointed time
 ECC 3:8	1	12	εἰρήνης	εἰρήνη	noun, genitive feminine singular	1	of peace
 ECC 3:9	1	1	Τίς	τίς	interrogative pronoun, nominative masculine singular	1	what
 ECC 3:9	1	2	περίσσεια	περίσσεια	noun, nominative feminine singular	1	advantage
-ECC 3:9	1	3	τοῦ	ὁ	article, genitive singular	1	the
-ECC 3:9	1	4	ποιοῦντος	ποιέω	present active participle, genitive masculine singular	1	of the one doing
+ECC 3:9	1	3	τοῦ	ὁ	article, genitive singular	1	of the
+ECC 3:9	1	4	ποιοῦντος	ποιέω	present active participle, genitive masculine singular	1	one doing
 ECC 3:9	1	5	ἐν	ἐν	preposition with the dative	1	in
-ECC 3:9	1	6	οἷς	ὅς	relative pronoun, dative neuter plural	1	in which
+ECC 3:9	1	6	οἷς	ὅς	relative pronoun, dative neuter plural	1	which
 ECC 3:9	1	7	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 ECC 3:9	1	8	μοχθεῖ	μοχθέω	present active indicative, third singular	1	toils
 ECC 3:10	1	1	Ἴδον	ὁράω	aorist active indicative, first singular	1	I saw
@@ -136,7 +136,7 @@ ECC 3:10	1	8	Θεὸς	θεός	noun, nominative masculine singular	1	God
 ECC 3:10	1	9	τοῖς	ὁ	article, dative neuter plural	1	to the
 ECC 3:10	1	10	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 ECC 3:10	1	11	τοῦ	ὁ	article, genitive masculine singular	1	of the
-ECC 3:10	1	12	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	humanity
+ECC 3:10	1	12	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
 ECC 3:10	1	13	τοῦ	ὁ	article, genitive singular, introduces articular infinitive	1	—
 ECC 3:10	1	14	περισπᾶσθαι	περισπάω	present passive infinitive	1	to be occupied
 ECC 3:10	1	15	ἐν	ἐν	preposition with the dative	1	in
@@ -227,8 +227,8 @@ ECC 3:14	1	9	ἔσται	εἰμί	future middle indicative, third singular	1	wi
 ECC 3:14	1	10	εἰς	εἰς	preposition with accusative	1	for
 ECC 3:14	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
 ECC 3:14	1	12	αἰῶνα	αἰών	noun, accusative masculine singular	1	age
-ECC 3:14	1	13	ἐπ᾽	ἐπί	preposition with the accusative	1	over
-ECC 3:14	1	14	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to it
+ECC 3:14	1	13	ἐπ᾽	ἐπί	preposition with the accusative	1	to
+ECC 3:14	1	14	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
 ECC 3:14	1	15	οὐκ	οὐ	negative particle	1	not
 ECC 3:14	1	16	ἔστι	εἰμί	present indicative, third singular	1	is
 ECC 3:14	1	17	προσθεῖναι	προστίθημι	aorist active infinitive	1	to add
@@ -272,20 +272,20 @@ ECC 3:16	1	4	ὑπὸ	ὑπό	preposition with accusative	1	under
 ECC 3:16	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 ECC 3:16	1	6	ἥλιον	ἥλιος	noun, accusative masculine singular	1	sun
 ECC 3:16	1	7	τόπον	τόπος	noun, accusative masculine singular	1	place
-ECC 3:16	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
-ECC 3:16	1	9	κρίσεως	κρίσις	noun, genitive feminine singular	1	of judgment
+ECC 3:16	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
+ECC 3:16	1	9	κρίσεως	κρίσις	noun, genitive feminine singular	1	judgment
 ECC 3:16	1	10	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 ECC 3:16	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
-ECC 3:16	1	12	ἀσεβής	ἀσεβής	adjective, nominative masculine singular; used substantivally	1	was the ungodly person
+ECC 3:16	1	12	ἀσεβής	ἀσεβής	adjective, nominative masculine singular; used substantivally	1	ungodly person
 ECC 3:16	1	13	καὶ	καί	conjunction	1	and
 ECC 3:16	1	14	τόπον	τόπος	noun, accusative masculine singular	1	place
-ECC 3:16	1	15	τοῦ	ὁ	article, genitive singular	1	the
-ECC 3:16	1	16	δικαίου	δίκαιος	adjective, genitive masculine singular; substantival	1	of the righteous person
+ECC 3:16	1	15	τοῦ	ὁ	article, genitive singular	1	of the
+ECC 3:16	1	16	δικαίου	δίκαιος	adjective, genitive masculine singular; substantival	1	righteous person
 ECC 3:16	1	17	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 ECC 3:16	1	18	ὁ	ὁ	article, nominative masculine singular	1	the
-ECC 3:16	1	19	ἀσεβής	ἀσεβής	adjective, nominative masculine singular; used substantivally	1	was the ungodly person
+ECC 3:16	1	19	ἀσεβής	ἀσεβής	adjective, nominative masculine singular; used substantivally	1	ungodly person
 ECC 3:17	1	1	Ἐκεῖ	ἐκεῖ	adverb of place	1	there
-ECC 3:17	1	2	εἶπον	λέγω	aorist active imperative, second singular	1	I said
+ECC 3:17	1	2	εἶπον	λέγω	aorist active imperative, second singular	1	said
 ECC 3:17	1	3	ἐγὼ	ἐγώ	personal pronoun nominative first singular	1	I
 ECC 3:17	1	4	ἐν	ἐν	preposition with dative	1	in
 ECC 3:17	1	5	καρδίᾳ	καρδία	noun dative feminine singular	1	heart
@@ -301,7 +301,7 @@ ECC 3:17	1	14	κρινεῖ	κρίνω	future active indicative, third singular	
 ECC 3:17	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
 ECC 3:17	1	16	Θεὸς	θεός	noun, nominative masculine singular	1	God
 ECC 3:17	1	17	ὅτι	ὅτι	causal conjunction	1	because
-ECC 3:17	1	18	καιρὸς	καιρός	noun, nominative masculine singular	1	the time
+ECC 3:17	1	18	καιρὸς	καιρός	noun, nominative masculine singular	1	a time
 ECC 3:17	1	18	καιρὸς			2	the appointed time
 ECC 3:17	1	19	τῷ	ὁ	article, dative masculine singular	1	for
 ECC 3:17	1	20	παντὶ	πᾶς	adjective, dative masculine singular	1	each
@@ -312,38 +312,38 @@ ECC 3:17	1	24	παντὶ	πᾶς	adjective, dative masculine singular	1	all
 ECC 3:17	1	25	τῷ	ὁ	article, dative masculine singular	1	the
 ECC 3:17	1	26	ποιήματι	ποίημα	noun, dative neuter singular	1	work
 ECC 3:18	1	1	Ἐκεῖ	ἐκεῖ	adverb of place	1	there
-ECC 3:18	1	2	εἶπα	λέγω	aorist active indicative, first singular	1	I said
+ECC 3:18	1	2	εἶπα	λέγω	aorist active indicative, first singular	1	said
 ECC 3:18	1	3	ἐγὼ	ἐγώ	personal pronoun nominative first singular	1	I
 ECC 3:18	1	4	ἐν	ἐν	preposition with dative	1	in
 ECC 3:18	1	5	καρδίᾳ	καρδία	noun dative feminine singular	1	heart
 ECC 3:18	1	6	μου	ἐγώ	personal pronoun genitive first singular	1	my
 ECC 3:18	1	7	περὶ	περί	preposition with the genitive	1	concerning
 ECC 3:18	1	8	λαλιᾶς	λαλιά	noun, genitive feminine singular	1	the speech
-ECC 3:18	1	9	υἱῶν	υἱός	noun, genitive masculine plural	1	of the children
+ECC 3:18	1	9	υἱῶν	υἱός	noun, genitive masculine plural	1	of sons
 ECC 3:18	1	10	τοῦ	ὁ	article, genitive masculine singular	1	of the
-ECC 3:18	1	11	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	humanity
-ECC 3:18	1	12	ὅτι	ὅτι	causal conjunction	1	because
-ECC 3:18	1	13	διακρινεῖ	διακρίνω	future active indicative third singular	1	he will judge
+ECC 3:18	1	11	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
+ECC 3:18	1	12	ὅτι	ὅτι	causal conjunction	1	that
+ECC 3:18	1	13	διακρινεῖ	διακρίνω	future active indicative third singular	1	will judge
 ECC 3:18	1	14	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 ECC 3:18	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
 ECC 3:18	1	16	Θεός	θεός	noun, nominative masculine singular	1	God
 ECC 3:18	1	17	καὶ	καί	conjunction	1	and
 ECC 3:18	1	18	τοῦ	ὁ	article, genitive neuter singular, introduces articular infinitive	1	—
 ECC 3:18	1	19	δεῖξαι	δείκνυμι	aorist active infinitive	1	to show
-ECC 3:18	1	20	ὅτι	ὅτι	causal conjunction	1	because
+ECC 3:18	1	20	ὅτι	ὅτι	causal conjunction	1	that
 ECC 3:18	1	21	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
 ECC 3:18	1	22	κτήνη	κτῆνος	noun, accusative neuter plural	1	beasts
-ECC 3:18	1	23	εἰσὶ	εἰμί	present active indicative, third plural	1	there are
+ECC 3:18	1	23	εἰσὶ	εἰμί	present active indicative, third plural	1	are
 ECC 3:19	1	1	καί	καί	conjunction	1	and
 ECC 3:19	1	2	γε	γε	emphatic particle	1	indeed
 ECC 3:19	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 ECC 3:19	1	4	συνάντημα	συνάντημα	noun, nominative neuter singular	1	fate
-ECC 3:19	1	5	υἱῶν	υἱός	noun, genitive masculine plural	1	of the children
-ECC 3:19	1	6	τοῦ	ὁ	article, genitive singular	1	the
-ECC 3:19	1	7	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	humanity
+ECC 3:19	1	5	υἱῶν	υἱός	noun, genitive masculine plural	1	of sons
+ECC 3:19	1	6	τοῦ	ὁ	article, genitive singular	1	of the
+ECC 3:19	1	7	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
 ECC 3:19	1	8	καὶ	καί	conjunction	1	and
 ECC 3:19	1	9	συνάντημα	συνάντημα	noun, nominative neuter singular	1	fate
-ECC 3:19	1	10	τοῦ	ὁ	article, genitive singular	1	the
+ECC 3:19	1	10	τοῦ	ὁ	article, genitive singular	1	of the
 ECC 3:19	1	11	κτήνους	κτῆνος	noun, genitive neuter singular	1	beast
 ECC 3:19	1	12	συνάντημα	συνάντημα	noun, nominative neuter singular	1	fate
 ECC 3:19	1	13	ἕν	εἷς	cardinal numeral, nominative/accusative neut. sg	1	one
@@ -351,11 +351,11 @@ ECC 3:19	1	14	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to t
 ECC 3:19	1	15	ὡς	ὡς	comparative particle	1	as
 ECC 3:19	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
 ECC 3:19	1	17	θάνατος	θάνατος	noun, nominative masculine singular	1	death
-ECC 3:19	1	18	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	this
+ECC 3:19	1	18	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	of this
 ECC 3:19	1	19	οὕτως	οὕτως	adverb	1	thus
 ECC 3:19	1	20	ὁ	ὁ	article, nominative masculine singular	1	the
 ECC 3:19	1	21	θάνατος	θάνατος	noun, nominative masculine singular	1	death
-ECC 3:19	1	22	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	this
+ECC 3:19	1	22	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	of this
 ECC 3:19	1	23	καὶ	καί	conjunction	1	and
 ECC 3:19	1	24	πνεῦμα	πνεῦμα	noun, accusative neuter singular	1	breath
 ECC 3:19	1	24	πνεῦμα			2	spirit
@@ -399,9 +399,9 @@ ECC 3:21	1	2	τίς	τίς	interrogative pronoun, nominative masculine singular	
 ECC 3:21	1	3	οἶδεν	οἶδα	perfect active indicative, third singular; present in sense	1	knows
 ECC 3:21	1	4	τὸ	ὁ	article, accusative neuter singular	1	the
 ECC 3:21	1	5	πνεῦμα	πνεῦμα	noun, accusative neuter singular	1	spirit
-ECC 3:21	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	of the children
-ECC 3:21	1	7	τοῦ	ὁ	article, genitive singular	1	the
-ECC 3:21	1	8	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	humanity
+ECC 3:21	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	of sons
+ECC 3:21	1	7	τοῦ	ὁ	article, genitive singular	1	of the
+ECC 3:21	1	8	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
 ECC 3:21	1	9	εἰ	εἰ	conditional conjunction	1	whether
 ECC 3:21	1	10	ἀναβαίνει	ἀναβαίνω	present active indicative, third singular	1	goes up
 ECC 3:21	1	11	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it

@@ -5,12 +5,12 @@ ECC 11:1	1	3	ἄρτον	ἄρτος	noun, accusative masculine singular	1	bread
 ECC 11:1	1	4	σου	σύ	pronoun, possessive genitive second singular	1	your
 ECC 11:1	1	5	ἐπὶ	ἐπί	preposition	1	on
 ECC 11:1	1	6	πρόσωπον	πρόσωπον	noun, accusative neuter singular	1	the surface
-ECC 11:1	1	7	τοῦ	ὁ	article, genitive singular	1	the
-ECC 11:1	1	8	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	of water
+ECC 11:1	1	7	τοῦ	ὁ	article, genitive singular	1	of the
+ECC 11:1	1	8	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
 ECC 11:1	1	9	ὅτι	ὅτι	causal conjunction	1	because
 ECC 11:1	1	10	ἐν	ἐν	preposition with the dative	1	in
 ECC 11:1	1	11	πλήθει	πλῆθος	noun dative neuter singular	1	abundance
-ECC 11:1	1	12	τῶν	ὁ	article, genitive plural	1	the
+ECC 11:1	1	12	τῶν	ὁ	article, genitive plural	1	—
 ECC 11:1	1	13	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	of days
 ECC 11:1	1	14	εὑρήσεις	εὑρίσκω	future active indicative, second singular	1	you shall find
 ECC 11:1	1	15	αὐτόν	αὐτός	pronoun accusative masculine singular	1	it
@@ -78,14 +78,14 @@ ECC 11:5	1	5	γινώσκων	γινώσκω	present active participle, nominati
 ECC 11:5	1	6	τίς	τίς	interrogative pronoun, nominative masculine singular	1	what
 ECC 11:5	1	7	ἡ	ὁ	article, nominative feminine singular	1	the
 ECC 11:5	1	8	ὁδὸς	ὁδός	noun nominative feminine singular	1	way
-ECC 11:5	1	9	τοῦ	ὁ	article, genitive singular	1	the
+ECC 11:5	1	9	τοῦ	ὁ	article, genitive singular	1	—
 ECC 11:5	1	10	πνεύματος	πνεῦμα	noun, genitive neuter singular	1	of the wind
 ECC 11:5	1	10	πνεύματος			2	of the spirit
 ECC 11:5	1	11	ὡς	ὡς	comparative particle	1	as
 ECC 11:5	1	12	ὀστᾶ	ὀστέον	noun, accusative neuter plural	1	bones
 ECC 11:5	1	13	ἐν	ἐν	preposition with the dative	1	in
 ECC 11:5	1	14	γαστρὶ	γαστήρ	noun, dative feminine singular	1	the womb
-ECC 11:5	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
+ECC 11:5	1	15	τῆς	ὁ	article, genitive feminine singular	1	—
 ECC 11:5	1	16	κυοφορούσης	κυοφορέω	present active participle, genitive feminine singular	1	of a pregnant woman
 ECC 11:5	1	17	οὕτως	οὕτως	adverb	1	thus
 ECC 11:5	1	18	οὐ	οὐ	negative particle	1	not
@@ -127,7 +127,7 @@ ECC 11:6	1	25	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 ECC 11:6	1	26	τὰ	ὁ	article, nominative neuter plural	1	the
 ECC 11:6	1	27	δύο	δύο	indeclinable cardinal numeral	1	two
 ECC 11:6	1	28	ἐπιτοαυτὸ	ἐπὶ τὸ αὐτό	joined prepositional expression with accusative	1	together
-ECC 11:6	1	29	ἀγαθά	ἀγαθός	adjective, nominative neuter plural	1	the good things
+ECC 11:6	1	29	ἀγαθά	ἀγαθός	adjective, nominative neuter plural	1	good
 ECC 11:7	1	1	Καὶ	καί	conjunction	1	and
 ECC 11:7	1	2	γλυκὺ	γλυκύς	adjective, accusative neuter singular; substantival or predicate	1	sweet
 ECC 11:7	1	3	τὸ	ὁ	article, nominative neuter singular	1	the
@@ -135,7 +135,7 @@ ECC 11:7	1	4	φῶς	φῶς	noun, nominative neuter singular	1	light
 ECC 11:7	1	5	καὶ	καί	conjunction	1	and
 ECC 11:7	1	6	ἀγαθὸν	ἀγαθός	substantival adjective, accusative neuter singular	1	good
 ECC 11:7	1	7	τοῖς	ὁ	article, dative masculine plural	1	to the
-ECC 11:7	1	8	ὀφθαλμοῖς	ὀφθαλμός	noun, dative masculine plural	1	for the eyes
+ECC 11:7	1	8	ὀφθαλμοῖς	ὀφθαλμός	noun, dative masculine plural	1	eyes
 ECC 11:7	1	9	τοῦ	ὁ	article, genitive masculine singular, introduces articular infinitive	1	—
 ECC 11:7	1	10	βλέπειν	βλέπω	present active infinitive	1	to see
 ECC 11:7	1	11	σὺν	σύν	preposition with the dative, 'with, direct object marker	1	—
@@ -146,12 +146,12 @@ ECC 11:8	1	2	καὶ	καί	conjunction	1	and
 ECC 11:8	1	3	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 ECC 11:8	1	4	ἔτη	ἔτος	of duration, accusative neuter plural	1	years
 ECC 11:8	1	5	πολλὰ	πολύς	adjective, nominative neuter plural	1	many
-ECC 11:8	1	6	ζήσεται	ζάω	future middle indicative, third singular	1	he will live
+ECC 11:8	1	6	ζήσεται	ζάω	future middle indicative, third singular	1	will live
 ECC 11:8	1	7	ὁ	ὁ	definite article	1	the
 ECC 11:8	1	8	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
 ECC 11:8	1	9	ἐν	ἐν	preposition with the dative	1	in
-ECC 11:8	1	10	πᾶσιν	πᾶς	adjective, dative neuter plural	1	everything
-ECC 11:8	1	11	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	in them
+ECC 11:8	1	10	πᾶσιν	πᾶς	adjective, dative neuter plural	1	all
+ECC 11:8	1	11	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 ECC 11:8	1	12	εὐφρανθήσεται	εὐφραίνω	future passive indicative, third singular	1	will be glad
 ECC 11:8	1	12	εὐφρανθήσεται			2	will rejoice
 ECC 11:8	1	13	καὶ	καί	conjunction	1	and
@@ -163,7 +163,7 @@ ECC 11:8	1	18	σκότους	σκότος	noun, genitive neuter singular	1	darkn
 ECC 11:8	1	19	ὅτι	ὅτι	conjunction	1	that
 ECC 11:8	1	20	πολλαὶ	πολύς	adjective, nominative feminine plural	1	many
 ECC 11:8	1	21	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
-ECC 11:8	1	22	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+ECC 11:8	1	22	πᾶν	πᾶς	adjective, accusative neuter singular	1	all
 ECC 11:8	1	23	τὸ	ὁ	article, accusative neuter singular	1	the
 ECC 11:8	1	24	ἐρχόμενον	ἔρχομαι	present middle participle, accusative masculine singular	1	coming
 ECC 11:8	1	25	ματαιότης	ματαιότης	noun nominative feminine singular	1	vanity
@@ -181,13 +181,13 @@ ECC 11:9	1	10	καρδία	καρδία	noun, nominative feminine singular	1	hea
 ECC 11:9	1	11	σου	σύ	personal pronoun, possessive genitive singular	1	your
 ECC 11:9	1	12	ἐν	ἐν	preposition with the dative	1	in
 ECC 11:9	1	13	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	days
-ECC 11:9	1	14	νεότητός	νεότης	noun, genitive feminine singular	1	youth
+ECC 11:9	1	14	νεότητός	νεότης	noun, genitive feminine singular	1	of youth
 ECC 11:9	1	15	σου	σύ	pronoun, possessive genitive second singular	1	your
 ECC 11:9	1	16	καὶ	καί	conjunction	1	and
 ECC 11:9	1	17	περιπάτει	περιπατέω	present active imperative, second singular	1	walk
 ECC 11:9	1	18	ἐν	ἐν	preposition with the dative	1	in
 ECC 11:9	1	19	ὁδοῖς	ὁδός	noun, dative feminine plural	1	ways
-ECC 11:9	1	20	καρδίας	καρδία	noun, genitive feminine singular	1	heart
+ECC 11:9	1	20	καρδίας	καρδία	noun, genitive feminine singular	1	of heart
 ECC 11:9	1	21	σου	σύ	pronoun, possessive genitive second singular	1	your
 ECC 11:9	1	22	ἄμωμος	ἄμωμος	adjective nominative masculine singular	1	blameless
 ECC 11:9	1	23	καὶ	καί	conjunction	1	and
