@@ -65,14 +65,14 @@ GEN 46:3	1	25	σε	σύ	pronoun, accusative second singular	1	you
 GEN 46:3	1	26	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 GEN 46:4	1	1	καὶ	καί	conjunction	1	and
 GEN 46:4	1	2	ἐγὼ	ἐγώ	pronoun, nominative first singular emphatic	1	I
-GEN 46:4	1	3	καταβήσομαι	καταβαίνω	future middle indicative, first singular	1	I will go down
+GEN 46:4	1	3	καταβήσομαι	καταβαίνω	future middle indicative, first singular	1	will go down
 GEN 46:4	1	4	μετὰ	μετά	preposition with the genitive	1	with
 GEN 46:4	1	5	σοῦ	σύ	pronoun, genitive second singular	1	you
 GEN 46:4	1	6	εἰς	εἰς	preposition with the accusative	1	into
 GEN 46:4	1	7	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular after εἰς	1	Egypt
 GEN 46:4	1	8	καὶ	καί	conjunction	1	and
 GEN 46:4	1	9	ἐγὼ	ἐγώ	pronoun, nominative first singular emphatic	1	I
-GEN 46:4	1	10	ἀναβιβάσω	ἀναβιβάζω	future active indicative, first singular, causative	1	I will bring up
+GEN 46:4	1	10	ἀναβιβάσω	ἀναβιβάζω	future active indicative, first singular, causative	1	will bring up
 GEN 46:4	1	11	σε	σύ	pronoun, accusative second singular	1	you
 GEN 46:4	1	12	εἰς	εἰς	preposition with the accusative; εἰς τέλος idiom	1	in
 GEN 46:4	1	13	τέλος	τέλος	noun, accusative neuter singular; εἰς τέλος idiom	1	the end
@@ -183,7 +183,7 @@ GEN 46:8	1	4	ὀνόματα	ὄνομα	noun, nominative neuter plural	1	names
 GEN 46:8	1	5	τῶν	ὁ	article, genitive plural	1	of the
 GEN 46:8	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 GEN 46:8	1	7	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
-GEN 46:8	1	8	τῶν	ὁ	article, genitive plural	1	those
+GEN 46:8	1	8	τῶν	ὁ	article, genitive plural	1	—
 GEN 46:8	1	9	εἰσελθόντων	εἰσέρχομαι	aorist active participle, genitive masculine plural after τῶν	1	who entered
 GEN 46:8	1	10	εἰς	εἰς	preposition with the accusative	1	into
 GEN 46:8	1	11	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular after εἰς	1	Egypt
@@ -491,13 +491,13 @@ GEN 46:26	1	1	Πᾶσαι	πᾶς	adjective, nominative feminine plural with ψ�
 GEN 46:26	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 46:26	1	3	ψυχαὶ	ψυχή	noun, nominative feminine plural, counting persons	1	persons
 GEN 46:26	1	3	ψυχαὶ			2	souls
-GEN 46:26	1	4	αἱ	ὁ	article, nominative feminine plural	1	the
+GEN 46:26	1	4	αἱ	ὁ	article, nominative feminine plural	1	—
 GEN 46:26	1	5	εἰσελθοῦσαι	εἰσέρχομαι	aorist active participle, nominative feminine plural	1	who entered
 GEN 46:26	1	6	μετὰ	μετά	preposition with the genitive	1	with
 GEN 46:26	1	7	Ἰακὼβ	Ἰακώβ	indeclinable personal name, genitive in context	1	Jacob
 GEN 46:26	1	8	εἰς	εἰς	preposition with the accusative	1	into
 GEN 46:26	1	9	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular after εἰς	1	Egypt
-GEN 46:26	1	10	οἱ	ὁ	article, nominative masculine plural	1	the
+GEN 46:26	1	10	οἱ	ὁ	article, nominative masculine plural	1	those
 GEN 46:26	1	11	ἐξελθόντες	ἐξέρχομαι	aorist active participle, nominative masculine plural after οἱ, of descent from Jacob's loins	1	who came out
 GEN 46:26	1	12	ἐκ	ἐκ	preposition with the genitive	1	from
 GEN 46:26	1	13	τῶν	ὁ	article, genitive plural	1	the
@@ -516,7 +516,7 @@ GEN 46:26	1	23	ἑξηκονταέξ	ἑξήκοντα ἕξ	cardinal numeral as
 GEN 46:27	1	1	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
 GEN 46:27	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 46:27	1	3	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, genitive in context	1	of Joseph
-GEN 46:27	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
+GEN 46:27	1	4	οἱ	ὁ	article, nominative masculine plural	1	—
 GEN 46:27	1	5	γενόμενοι	γίνομαι	aorist middle participle, nominative masculine plural, of sons born	1	who were born
 GEN 46:27	1	6	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 GEN 46:27	1	7	ἐν	ἐν	preposition with the dative	1	in
@@ -530,7 +530,7 @@ GEN 46:27	1	13	ψυχαὶ	ψυχή	noun, nominative feminine plural, counting p
 GEN 46:27	1	13	ψυχαὶ			2	souls
 GEN 46:27	1	14	οἴκου	οἶκος	noun, genitive masculine singular	1	of the house
 GEN 46:27	1	15	Ἰακὼβ	Ἰακώβ	indeclinable personal name, genitive in context	1	of Jacob
-GEN 46:27	1	16	αἱ	ὁ	article, nominative feminine plural	1	the
+GEN 46:27	1	16	αἱ	ὁ	article, nominative feminine plural	1	—
 GEN 46:27	1	17	εἰσελθοῦσαι	εἰσέρχομαι	aorist active participle, nominative feminine plural	1	who entered
 GEN 46:27	1	18	εἰς	εἰς	preposition with the accusative	1	into
 GEN 46:27	1	19	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular after εἰς	1	Egypt
@@ -598,7 +598,7 @@ GEN 46:30	1	14	σου	σύ	pronoun, possessive genitive second singular	1	your
 GEN 46:30	1	15	ἔτι	ἔτι	temporal adverb	1	still
 GEN 46:30	1	16	γὰρ	γάρ	explanatory conjunction	1	for
 GEN 46:30	1	17	σὺ	σύ	pronoun, nominative second singular	1	you
-GEN 46:30	1	18	ζῇς	ζάω	present active indicative, second singular	1	you live
+GEN 46:30	1	18	ζῇς	ζάω	present active indicative, second singular	1	live
 GEN 46:31	1	1	Εἶπε	λέγω	aorist active indicative, third singular	1	said
 GEN 46:31	1	2	δὲ	δέ	postpositive conjunction	1	and
 GEN 46:31	1	3	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph

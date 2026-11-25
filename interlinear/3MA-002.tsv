@@ -52,7 +52,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 2:3	1	1	Σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 3MA 2:3	1	2	γὰρ	γάρ	postpositive conjunction	1	for
 3MA 2:3	1	3	εἶ	εἰμί	present indicative, second singular	1	are
-3MA 2:3	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
+3MA 2:3	1	4	ὁ	ὁ	article, nominative masculine singular	1	the one
 3MA 2:3	1	5	κτίσας	κτίζω	aorist active participle, nominative masculine singular	1	who created
 3MA 2:3	1	6	τὰ	ὁ	article, accusative neuter plural, marks the totality	1	—
 3MA 2:3	1	7	πάντα	πᾶς	adjective, accusative neuter plural; used substantivally	1	all things
@@ -107,8 +107,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 2:5	1	12	θείῳ	θεῖον	noun, dative neuter singular	1	with sulfur
 3MA 2:5	1	13	κατέφλεξας	καταφλέγω	aorist active indicative, second singular	1	you burned up
 3MA 2:5	1	14	παράδειγμα	παράδειγμα	noun, accusative neuter singular	1	an example
-3MA 2:5	1	15	τοῖς	ὁ	article, dative masculine plural	1	to the
-3MA 2:5	1	16	ἐπιγινομένοις	ἐπιγίνομαι	present middle participle, dative masculine plural	1	those who come after
+3MA 2:5	1	15	τοῖς	ὁ	article, dative masculine plural	1	to those
+3MA 2:5	1	16	ἐπιγινομένοις	ἐπιγίνομαι	present middle participle, dative masculine plural	1	who come after
 3MA 2:5	1	16	ἐπιγινομένοις			2	later generations
 3MA 2:5	1	17	καταστήσας	καθίστημι	aorist active participle, nominative masculine singular	1	having made
 3MA 2:6	1	1	Σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
@@ -147,7 +147,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 2:7	1	6	καὶ	καί	conjunction	1	and
 3MA 2:7	1	7	ὄχλων	ὄχλος	noun, genitive masculine plural	1	multitudes
 3MA 2:7	1	8	πλήθει	πλῆθος	noun dative neuter singular	1	host
-3MA 2:7	1	9	ἐπέκλεισας	ἐπικλείω	aorist active indicative, second singular	1	you shut in
+3MA 2:7	1	9	ἐπέκλεισας	ἐπικλείω	aorist active indicative, second singular	1	you shut
 3MA 2:7	1	10	βάθει	βάθος	noun, dative neuter singular	1	in the depths of
 3MA 2:7	1	11	θαλάσσης	θάλασσα	noun, genitive feminine singular	1	sea
 3MA 2:7	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -157,7 +157,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 2:7	1	16	σοὶ	σύ	pronoun, dative 2nd singular	1	you
 3MA 2:7	1	17	τῷ	ὁ	article, dative masculine singular	1	the
 3MA 2:7	1	18	τῆς	ὁ	article genitive feminine singular	1	of the
-3MA 2:7	1	19	ἁπάσης	ἅπας	adjective, genitive feminine singular	1	the entire
+3MA 2:7	1	19	ἁπάσης	ἅπας	adjective, genitive feminine singular	1	entire
 3MA 2:7	1	19	ἁπάσης			2	all
 3MA 2:7	1	20	κτίσεως	κτίσις	noun, genitive feminine singular	1	creation
 3MA 2:7	1	21	δυναστεύοντι	δυναστεύω	present active participle, dative masculine singular	1	ruling
@@ -196,7 +196,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 2:9	1	20	ὄνομά	ὄνομα	noun, accusative neuter singular	1	name
 3MA 2:9	1	21	σοι	σύ	personal pronoun, dative singular	1	for yourself
 3MA 2:9	1	22	τῷ	ὁ	article, dative masculine singular	1	the
-3MA 2:9	1	23	τῶν	ὁ	article, genitive plural	1	the
+3MA 2:9	1	23	τῶν	ὁ	article, genitive plural	1	—
 3MA 2:9	1	24	ἁπάντων	ἅπας	adjective, genitive masculine plural	1	of all
 3MA 2:9	1	25	ἀπροσδεεῖ	ἀπροσδεής	adjective, dative masculine singular	1	needing nothing
 3MA 2:9	1	26	καὶ	καί	conjunction	1	and
@@ -374,7 +374,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 2:17	1	26	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 3MA 2:17	1	27	λέγοντες	λέγω	present active participle, nominative masculine plural, with impersonal passive in sense 'saying'	1	saying
 3MA 2:18	1	1	ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
-3MA 2:18	1	2	κατεπατήσαμεν	καταπατέω	aorist active indicative, first plural	1	we trampled
+3MA 2:18	1	2	κατεπατήσαμεν	καταπατέω	aorist active indicative, first plural	1	trampled
 3MA 2:18	1	3	τὸν	ὁ	article, accusative masculine singular	1	the
 3MA 2:18	1	4	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 3MA 2:18	1	4	οἶκον			2	household
@@ -527,8 +527,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 2:25	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 3MA 2:25	1	5	Αἴγυπτον	Αἴγυπτος	place name, accusative feminine singular	1	Egypt
 3MA 2:25	1	6	καὶ	καί	conjunction	1	and
-3MA 2:25	1	7	τὰ	ὁ	article, nominative neuter plural	1	the
-3MA 2:25	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
+3MA 2:25	1	7	τὰ	ὁ	article, nominative neuter plural	1	the things
+3MA 2:25	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
 3MA 2:25	1	9	κακίας	κακία	noun, genitive feminine singular	1	wickedness
 3MA 2:25	1	10	ἐπαύξων	ἐπαύξω	present active participle, nominative masculine singular	1	increasing
 3MA 2:25	1	11	διά	διά	preposition with the accusative	1	because of
@@ -567,15 +567,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 2:26	1	23	ἀτενίζοντας	ἀτενίζω	present active participle, accusative masculine plural	1	attending closely
 3MA 2:26	1	24	εἰς	εἰς	preposition with the accusative	1	into
 3MA 2:26	1	25	τὴν	ὁ	article, accusative feminine singular	1	the
-3MA 2:26	1	26	τοῦ	ὁ	article, genitive singular	1	the
+3MA 2:26	1	26	τοῦ	ὁ	article, genitive singular	1	of the
 3MA 2:26	1	27	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 3MA 2:26	1	28	πρόθεσιν	πρόθεσις	noun accusative feminine singular	1	purpose
 3MA 2:26	1	29	καὶ	καί	conjunction	1	and
 3MA 2:26	1	30	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 3MA 2:26	1	31	ἕπεσθαι	ἕπομαι	present middle infinitive	1	to follow
 3MA 2:26	1	32	τῇ	ὁ	article, dative feminine singular	1	the
-3MA 2:26	1	33	ἐκείνου	ἐκεῖνος	demonstrative pronoun, genitive masculine singular	1	that
-3MA 2:26	1	34	θελήσει	θέλω	future active indicative, 3rd singular	1	that which pleased him
+3MA 2:26	1	33	ἐκείνου	ἐκεῖνος	demonstrative pronoun, genitive masculine singular	1	of that one
+3MA 2:26	1	34	θελήσει	θέλω	future active indicative, 3rd singular	1	will
 3MA 2:27	1	1	Προέθετο	προτίθημι	aorist middle indicative, third singular	1	proposed
 3MA 2:27	1	2	δὲ	δέ	postpositive conjunction	1	and
 3MA 2:27	1	3	δημοσίᾳ	δημοσίᾳ	adverb	1	publicly
@@ -726,8 +726,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 2:33	1	4	ἀντιλήψεως			2	succour
 3MA 2:33	1	5	τεύξεσθαι	τυγχάνω	future middle infinitive	1	to obtain
 3MA 2:33	1	6	καὶ	καί	conjunction	1	and
-3MA 2:33	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
-3MA 2:33	1	8	ἀποχωροῦντας	ἀποχωρέω	present active participle, accusative masculine plural	1	those who withdrew
+3MA 2:33	1	7	τοὺς	ὁ	article, accusative masculine plural	1	those
+3MA 2:33	1	8	ἀποχωροῦντας	ἀποχωρέω	present active participle, accusative masculine plural	1	who withdrew
 3MA 2:33	1	9	ἐξ	ἐκ	preposition with the genitive	1	from
 3MA 2:33	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 3MA 2:33	1	11	ἐβδελύσσοντο	βδελύσσομαι	imperfect middle/passive indicative, third person plural	1	they shunned

@@ -63,7 +63,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 11:4	1	1	Οὐδαμῶς	οὐδαμῶς	adverb	1	in no way
 2MA 11:4	1	2	ἐπιλογιζόμενος	ἐπιλογίζομαι	present middle participle, nominative masculine singular	1	considering
 2MA 11:4	1	3	τὸ	ὁ	article, accusative neuter singular	1	the
-2MA 11:4	1	4	τοῦ	ὁ	article, genitive singular	1	the
+2MA 11:4	1	4	τοῦ	ὁ	article, genitive singular	1	of
 2MA 11:4	1	5	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 2MA 11:4	1	6	κράτος	κράτος	noun, accusative neuter singular	1	power
 2MA 11:4	1	6	κράτος			2	authority
@@ -155,7 +155,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 11:7	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 2MA 11:7	1	19	ὁμοῦ	ὁμοῦ	adverb	1	together
 2MA 11:7	1	20	δὲ	δέ	postpositive conjunction	1	and
-2MA 11:7	1	21	καὶ	καί	conjunction	1	and
+2MA 11:7	1	21	καὶ	καί	conjunction	1	also
 2MA 11:7	1	22	προθύμως	προθύμως	adverb	1	willingly
 2MA 11:7	1	23	ἐξώρμησαν	ἐξορμάω	aorist active indicative, third plural	1	rushed out
 2MA 11:8	1	1	Αὐτόθι	αὐτόθι	adverb	1	there
@@ -193,7 +193,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 11:9	1	17	θῆρας	θήρ	noun, accusative feminine plural	1	beasts
 2MA 11:9	1	18	δὲ	δέ	postpositive conjunction	1	and
 2MA 11:9	1	19	τοὺς	ὁ	article, accusative masculine plural	1	the
-2MA 11:9	1	20	ἀγριωτάτους	ἄγριος	superlative adjective, accusative masculine plural	1	the fiercest
+2MA 11:9	1	20	ἀγριωτάτους	ἄγριος	superlative adjective, accusative masculine plural	1	fiercest
 2MA 11:9	1	21	καὶ	καί	conjunction	1	and
 2MA 11:9	1	22	σιδηρᾶ	σιδηροῦς	adjective, nominative feminine singular	1	iron
 2MA 11:9	1	23	τείχη	τεῖχος	noun, accusative neuter plural	1	walls
@@ -445,7 +445,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 11:23	1	14	γενέσθαι			2	to come to pass
 2MA 11:23	1	15	πρὸς	πρός	preposition with the accusative	1	to
 2MA 11:23	1	16	τὴν	ὁ	article, accusative feminine singular	1	the
-2MA 11:23	1	17	τῶν	ὁ	article, genitive plural	1	the
+2MA 11:23	1	17	τῶν	ὁ	article, genitive plural	1	of
 2MA 11:23	1	18	ἰδίων	ἴδιος	adjective, genitive neuter plural	1	their own
 2MA 11:23	1	19	ἐπιμέλειαν	ἐπιμέλεια	noun, accusative feminine singular	1	care
 2MA 11:24	1	1	ἀκηκοότες	ἀκούω	perfect active participle, nominative masculine plural	1	having heard
@@ -453,8 +453,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 11:24	1	3	Ἰουδαίους	Ἰουδαῖος	noun, accusative masculine plural	1	Judeans
 2MA 11:24	1	4	μὴ	μή	negative particle	1	not
 2MA 11:24	1	5	συνευδοκοῦντας	συνευδοκέω	present active participle, accusative masculine plural	1	agreeing
-2MA 11:24	1	6	τῇ	ὁ	article, dative feminine singular	1	the
-2MA 11:24	1	7	τοῦ	ὁ	article, genitive singular	1	the
+2MA 11:24	1	6	τῇ	ὁ	article, dative feminine singular	1	with the
+2MA 11:24	1	7	τοῦ	ὁ	article, genitive singular	1	of the
 2MA 11:24	1	8	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 2MA 11:24	1	9	εἰς	εἰς	preposition with the accusative	1	into
 2MA 11:24	1	10	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -518,7 +518,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 11:26	1	20	διαγίνωνται	διαγίνομαι	present middle/passive subjunctive, third plural	1	may live
 2MA 11:26	1	21	πρὸς	πρός	preposition with the accusative	1	to
 2MA 11:26	1	22	τῇ	ὁ	article, dative feminine singular	1	the
-2MA 11:26	1	23	τῶν	ὁ	article, genitive plural	1	the
+2MA 11:26	1	23	τῶν	ὁ	article, genitive plural	1	of
 2MA 11:26	1	24	ἰδίων	ἴδιος	adjective, genitive neuter plural	1	their own
 2MA 11:26	1	25	ἀντιλήψει	ἀντίληψις	noun, dative feminine singular	1	affairs
 2MA 11:27	1	1	Πρὸς	πρός	preposition with the accusative	1	besides
@@ -526,7 +526,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 11:27	1	3	τὸ	ὁ	article, nominative neuter singular	1	the
 2MA 11:27	1	4	ἔθνος	ἔθνος	noun, nominative neuter singular	1	nation
 2MA 11:27	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
-2MA 11:27	1	6	τοῦ	ὁ	article, genitive singular	1	the
+2MA 11:27	1	6	τοῦ	ὁ	article, genitive singular	1	of the
 2MA 11:27	1	7	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2MA 11:27	1	8	ἐπιστολὴ	ἐπιστολή	noun, nominative feminine singular	1	letter
 2MA 11:27	1	9	τοιάδε	τοιόσδε	demonstrative pronoun, nominative neuter plural	1	as follows
@@ -618,7 +618,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 11:33	1	7	πεντεκαιδεκάτῃ	πεντεκαιδέκατος	ordinal adjective, dative feminine singular	1	fifteenth
 2MA 11:34	1	1	Ἔπεμψαν	πέμπω	aorist active indicative, third plural	1	sent
 2MA 11:34	1	2	δὲ	δέ	postpositive conjunction	1	and
-2MA 11:34	1	3	καὶ	καί	conjunction	1	and
+2MA 11:34	1	3	καὶ	καί	conjunction	1	also
 2MA 11:34	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
 2MA 11:34	1	5	Ῥωμαῖοι	Ῥωμαῖος	noun, nominative masculine plural	1	Romans
 2MA 11:34	1	6	πρὸς	πρός	preposition with the accusative	1	to

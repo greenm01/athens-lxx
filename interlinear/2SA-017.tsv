@@ -106,8 +106,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 17:5	1	9	Χουσεὶ	Χουσεί	indeclinable personal name, accusative in context	1	Hushai
 2SA 17:5	1	9	Χουσεὶ			2	Chousei
 2SA 17:5	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
-2SA 17:5	1	11	Ἀραχεὶ	Ἀραχεί	indeclinable clan designation, accusative in context	1	the Archite
-2SA 17:5	1	11	Ἀραχεὶ			2	Archite
+2SA 17:5	1	11	Ἀραχεὶ	Ἀραχεί	indeclinable clan designation, accusative in context	1	Archite
+2SA 17:5	1	11	Ἀραχεὶ			2	the Archite
 2SA 17:5	1	12	καὶ	καί	conjunction	1	and
 2SA 17:5	1	13	ἀκούσομεν	ἀκούω	future active indicative, first plural	1	we will hear
 2SA 17:5	1	14	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
@@ -237,7 +237,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 17:9	1	22	ἀρχῇ	ἀρχή	noun, dative feminine singular	1	the beginning
 2SA 17:9	1	23	καὶ	καί	conjunction	1	and
 2SA 17:9	1	24	ἀκούσῃ	ἀκούω	aorist active subjunctive, third singular	1	hears
-2SA 17:9	1	25	ὁ	ὁ	article, nominative masculine singular	1	the
+2SA 17:9	1	25	ὁ	ὁ	article, nominative masculine singular	1	the one
 2SA 17:9	1	26	ἀκούων	ἀκούω	present active participle, nominative masculine singular	1	who hears
 2SA 17:9	1	27	καὶ	καί	conjunction	1	and
 2SA 17:9	1	28	εἴπῃ	λέγω	aorist active subjunctive, third singular	1	may say
@@ -286,7 +286,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 17:11	1	1	Ὅτι	ὅτι	conjunction	1	that
 2SA 17:11	1	2	οὕτως	οὕτως	adverb	1	thus
 2SA 17:11	1	3	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-2SA 17:11	1	4	συνεβούλευσα	συμβουλεύω	aorist active indicative, first singular	1	I advised
+2SA 17:11	1	4	συνεβούλευσα	συμβουλεύω	aorist active indicative, first singular	1	advised
 2SA 17:11	1	5	καὶ	καί	conjunction	1	and
 2SA 17:11	1	6	συναγόμενος	συνάγω	present middle/passive participle, nominative masculine singular	1	being gathered
 2SA 17:11	1	6	συναγόμενος			2	gathered
@@ -522,7 +522,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 17:17	1	16	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 2SA 17:17	1	17	Καὶ	καί	conjunction	1	and
 2SA 17:17	1	18	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
-2SA 17:17	1	19	πορεύονται	πορεύομαι	present middle/passive indicative, third plural	1	they go
+2SA 17:17	1	19	πορεύονται	πορεύομαι	present middle/passive indicative, third plural	1	go
 2SA 17:17	1	20	καὶ	καί	conjunction	1	and
 2SA 17:17	1	21	ἀναγγέλλουσι	ἀναγγέλλω	present active indicative, third plural	1	they report
 2SA 17:17	1	22	τῷ	ὁ	article, dative masculine singular	1	to the

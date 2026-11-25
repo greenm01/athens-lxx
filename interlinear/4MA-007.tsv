@@ -7,7 +7,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:1	1	4	κυβερνήτης	κυβερνήτης	noun, nominative masculine singular	1	helmsman
 4MA 7:1	1	4	κυβερνήτης			2	pilot
 4MA 7:1	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
-4MA 7:1	1	6	τοῦ	ὁ	article, genitive singular	1	the
+4MA 7:1	1	6	τοῦ	ὁ	article, genitive singular	1	of the
 4MA 7:1	1	7	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
 4MA 7:1	1	8	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 4MA 7:1	1	9	Ἐλεαζάρου	Ἐλεάζαρος	noun, genitive masculine singular	1	of Eleazar
@@ -21,7 +21,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:1	1	15	ναῦν	ναῦς	noun, accusative feminine singular	1	ship
 4MA 7:1	1	16	ἐν	ἐν	preposition with the dative	1	in
 4MA 7:1	1	17	τῷ	ὁ	article, dative masculine singular	1	the
-4MA 7:1	1	18	τῶν	ὁ	article, genitive plural	1	the
+4MA 7:1	1	18	τῶν	ὁ	article, genitive plural	1	of the
 4MA 7:1	1	19	παθῶν	πάθος	noun, genitive neuter plural	1	passions
 4MA 7:1	1	19	παθῶν			2	emotions
 4MA 7:1	1	20	πελάγει	πέλαγος	noun, dative neuter singular	1	open sea
@@ -30,14 +30,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:2	1	2	καταικιζόμενος	καταικίζω	present passive participle, nominative masculine singular	1	buffeted
 4MA 7:2	1	2	καταικιζόμενος			2	tormented
 4MA 7:2	1	3	ταῖς	ὁ	article, dative feminine plural	1	the
-4MA 7:2	1	4	τοῦ	ὁ	article, genitive singular	1	the
+4MA 7:2	1	4	τοῦ	ὁ	article, genitive singular	1	of the
 4MA 7:2	1	5	τυράννου	τύραννος	noun, genitive masculine singular	1	tyrant
 4MA 7:2	1	6	ἀπειλαῖς	ἀπειλή	noun, dative feminine plural	1	threats
 4MA 7:2	1	7	καὶ	καί	conjunction	1	and
 4MA 7:2	1	8	καταντλούμενος	καταντλέω	present passive participle, nominative masculine singular	1	being drenched
 4MA 7:2	1	8	καταντλούμενος			2	being swamped
 4MA 7:2	1	9	ταῖς	ὁ	article, dative feminine plural	1	the
-4MA 7:2	1	10	τῶν	ὁ	article, genitive plural	1	the
+4MA 7:2	1	10	τῶν	ὁ	article, genitive plural	1	of the
 4MA 7:2	1	11	βασάνων	βάσανος	noun, genitive feminine plural	1	tortures
 4MA 7:2	1	11	βασάνων			2	torments
 4MA 7:2	1	12	τρικυμίαις	τρικυμία	noun, dative feminine plural	1	surging waves
@@ -49,7 +49,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:3	1	4	μετέτρεψε	μετατρέπω	aorist active indicative, third singular	1	he turned aside
 4MA 7:3	1	4	μετέτρεψε			2	he shifted
 4MA 7:3	1	5	τοὺς	ὁ	article, accusative masculine plural	1	the
-4MA 7:3	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 7:3	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 7:3	1	7	εὐσεβείας	εὐσέβεια	noun, genitive feminine singular	1	religion
 4MA 7:3	1	8	οἴακας	οἴαξ	noun, accusative masculine plural	1	tillers
 4MA 7:3	1	8	οἴακας			2	rudders
@@ -58,7 +58,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:3	1	11	ἔπλευσεν	πλέω	aorist active indicative, third singular	1	he sailed
 4MA 7:3	1	12	ἐπὶ	ἐπί	Preposition with accusative	1	to
 4MA 7:3	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
-4MA 7:3	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 7:3	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 7:3	1	15	ἀθανάτου	ἀθάνατος	adjective, genitive feminine singular	1	immortal
 4MA 7:3	1	15	ἀθανάτου			2	undying
 4MA 7:3	1	16	νίκης	νίκη	noun, genitive feminine singular	1	victory
@@ -96,8 +96,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:4	1	22	πυρπολούμενος			2	being set afire
 4MA 7:4	1	23	ἐκίνησε	κινέω	aorist active indicative, third singular	1	he shook
 4MA 7:4	1	23	ἐκίνησε			2	he unsettled
-4MA 7:4	1	24	τοὺς	ὁ	article, accusative masculine plural	1	the
-4MA 7:4	1	25	πολιορκοῦντας	πολιορκέω	present active participle, accusative masculine plural	1	those attacking
+4MA 7:4	1	24	τοὺς	ὁ	article, accusative masculine plural	1	those
+4MA 7:4	1	25	πολιορκοῦντας	πολιορκέω	present active participle, accusative masculine plural	1	attacking
 4MA 7:4	1	25	πολιορκοῦντας			2	the besiegers
 4MA 7:4	1	26	διὰ	διά	preposition with the accusative	1	because of
 4MA 7:4	1	27	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -174,7 +174,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:8	1	2	δὴ			2	then
 4MA 7:8	1	3	δεῖ	δεῖ	present active indicative, third singular; impersonal	1	it is required
 4MA 7:8	1	4	εἶναι	εἰμί	present active infinitive	1	to be
-4MA 7:8	1	5	τοὺς	ὁ	article, accusative masculine plural	1	the
+4MA 7:8	1	5	τοὺς	ὁ	article, accusative masculine plural	1	those
 4MA 7:8	1	6	ἱερουργοῦντας	ἱερουργέω	present active participle, accusative masculine plural	1	who perform sacred service
 4MA 7:8	1	6	ἱερουργοῦντας			2	who serve as priests
 4MA 7:8	1	7	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -223,7 +223,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:9	1	22	ἐπιστοποίησας	ἐπιστοποιέω	aorist active indicative, second singular	1	you proved reliable
 4MA 7:9	1	22	ἐπιστοποίησας			2	you confirmed
 4MA 7:9	1	23	τοὺς	ὁ	article, accusative masculine plural	1	the
-4MA 7:9	1	24	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 7:9	1	24	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 7:9	1	25	θείας	θεῖος	adjective, genitive feminine singular	1	divine
 4MA 7:9	1	26	φιλοσοφίας	φιλοσοφία	noun, genitive feminine singular	1	philosophy
 4MA 7:9	1	27	λόγους	λόγος	noun, accusative masculine plural	1	arguments
@@ -300,7 +300,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:13	1	8	ἤδη			2	now
 4MA 7:13	1	9	τῶν	ὁ	article, genitive plural	1	the
 4MA 7:13	1	10	τοῦ	ὁ	article, genitive neuter singular	1	of the
-4MA 7:13	1	11	σώματος	σῶμα	noun, genitive neuter singular; collective singular	1	the body
+4MA 7:13	1	11	σώματος	σῶμα	noun, genitive neuter singular; collective singular	1	body
 4MA 7:13	1	11	σώματος			2	the bodies
 4MA 7:13	1	12	τόνων	τόνος	noun, genitive masculine plural	1	sinews
 4MA 7:13	1	12	τόνων			2	tensions
@@ -313,7 +313,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:13	1	18	κεκμηκότων	κάμνω	perfect active participle, genitive neuter plural; genitive absolute	1	being exhausted
 4MA 7:13	1	18	κεκμηκότων			2	having worn out
 4MA 7:13	1	19	δὲ	δέ	postpositive conjunction	1	and
-4MA 7:13	1	20	καὶ	καί	conjunction	1	and
+4MA 7:13	1	20	καὶ	καί	conjunction	1	also
 4MA 7:13	1	21	τῶν	ὁ	article, genitive neuter plural	1	of the
 4MA 7:13	1	22	νεύρων	νεῦρον	noun, genitive neuter plural	1	sinews
 4MA 7:13	1	22	νεύρων			2	nerves
@@ -425,7 +425,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:18	1	11	κρατεῖν	κρατέω	present active infinitive	1	to master
 4MA 7:18	1	11	κρατεῖν			2	to rule over
 4MA 7:18	1	12	τῶν	ὁ	article, genitive plural	1	the
-4MA 7:18	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 7:18	1	13	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 7:18	1	14	σαρκὸς	σάρξ	noun, genitive feminine singular	1	flesh
 4MA 7:18	1	15	παθῶν	πάθος	noun, genitive neuter plural	1	passions
 4MA 7:18	1	15	παθῶν			2	emotions
@@ -472,7 +472,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 7:21	1	4	ὅλον	ὅλος	adjective, accusative masculine singular	1	whole
 4MA 7:21	1	4	ὅλον			2	entire
 4MA 7:21	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
-4MA 7:21	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 7:21	1	6	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 7:21	1	7	φιλοσοφίας	φιλοσοφία	noun, genitive feminine singular	1	philosophy
 4MA 7:21	1	8	κανόνα	κανών	noun, accusative masculine singular	1	rule
 4MA 7:21	1	8	κανόνα			2	standard

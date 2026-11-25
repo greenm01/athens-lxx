@@ -105,15 +105,15 @@ NUM 14:5	1	13	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 NUM 14:5	1	14	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 14:6	1	1	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua
 NUM 14:6	1	2	δὲ	δέ	postpositive conjunction	1	and
-NUM 14:6	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
-NUM 14:6	1	4	τοῦ	ὁ	article, genitive masculine singular	1	the
+NUM 14:6	1	3	ὁ	ὁ	article, nominative masculine singular	1	the son
+NUM 14:6	1	4	τοῦ	ὁ	article, genitive masculine singular	1	—
 NUM 14:6	1	5	Ναυὴ	Ναυή	indeclinable personal name, genitive in context	1	of Nun
 NUM 14:6	1	6	καὶ	καί	conjunction	1	and
 NUM 14:6	1	7	Χάλεβ	Χάλεβ	indeclinable personal name, nominative in context	1	Caleb
-NUM 14:6	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
-NUM 14:6	1	9	τοῦ	ὁ	article, genitive masculine singular	1	the
+NUM 14:6	1	8	ὁ	ὁ	article, nominative masculine singular	1	the son
+NUM 14:6	1	9	τοῦ	ὁ	article, genitive masculine singular	1	—
 NUM 14:6	1	10	Ἰεφοννὴ	Ἰεφοννή	indeclinable personal name, genitive in context	1	of Jephunneh
-NUM 14:6	1	11	τῶν	ὁ	article, genitive masculine plural	1	the
+NUM 14:6	1	11	τῶν	ὁ	article, genitive masculine plural	1	of those
 NUM 14:6	1	12	κατασκεψαμένων	κατασκέπτομαι	aorist middle participle, genitive masculine plural	1	who had scouted
 NUM 14:6	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 14:6	1	14	γῆν	γῆ	noun, accusative feminine singular	1	land
@@ -297,8 +297,8 @@ NUM 14:13	1	18	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	the
 NUM 14:14	1	1	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 NUM 14:14	1	2	καὶ	καί	conjunction	1	and
 NUM 14:14	1	3	πάντες	πᾶς	adjective, nominative masculine plural	1	all
-NUM 14:14	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
-NUM 14:14	1	5	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	those living
+NUM 14:14	1	4	οἱ	ὁ	article, nominative masculine plural	1	—
+NUM 14:14	1	5	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	living
 NUM 14:14	1	5	κατοικοῦντες			2	those dwelling
 NUM 14:14	1	6	ἐπὶ	ἐπί	preposition	1	on
 NUM 14:14	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -488,7 +488,7 @@ NUM 14:22	1	1	ὅτι			2	because
 NUM 14:22	1	2	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 NUM 14:22	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 NUM 14:22	1	4	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
-NUM 14:22	1	5	οἱ	ὁ	article, nominative masculine plural	1	the
+NUM 14:22	1	5	οἱ	ὁ	article, nominative masculine plural	1	—
 NUM 14:22	1	6	ὁρῶντες	ὁράω	present active participle, nominative masculine plural	1	who saw
 NUM 14:22	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 14:22	1	8	δόξαν	δόξα	noun, accusative feminine singular after πᾶσαν τὴν	1	glory
@@ -597,7 +597,7 @@ NUM 14:25	1	3	Ἀμαλὴκ	Ἀμαλήκ	tribal/personal name, nominative/dati
 NUM 14:25	1	4	καὶ	καί	conjunction	1	and
 NUM 14:25	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 NUM 14:25	1	6	Χαναναῖος	Χαναναῖος	noun, nominative masculine singular	1	Canaanite
-NUM 14:25	1	7	κατοικοῦσιν	κατοικέω	present active participle, dative masculine plural; substantival	1	those who live in
+NUM 14:25	1	7	κατοικοῦσιν	κατοικέω	present active participle, dative masculine plural; substantival	1	live
 NUM 14:25	1	7	κατοικοῦσιν			2	inhabitants
 NUM 14:25	1	8	ἐν	ἐν	preposition with the dative	1	in
 NUM 14:25	1	9	τῇ	ὁ	article, dative feminine singular	1	the
@@ -641,7 +641,7 @@ NUM 14:27	1	16	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 NUM 14:27	1	17	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 14:27	1	18	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 NUM 14:27	1	19	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
-NUM 14:27	1	20	ἐγόγγυσαν	γογγύζω	aorist active indicative, third plural	1	they grumbled
+NUM 14:27	1	20	ἐγόγγυσαν	γογγύζω	aorist active indicative, third plural	1	grumbled
 NUM 14:27	1	21	περὶ	περί	preposition with genitive	1	for
 NUM 14:27	1	22	ὑμῶν	σύ	pronoun, genitive second plural	1	you
 NUM 14:27	1	23	ἀκήκοα	ἀκούω	perfect active indicative, first singular	1	I have heard
@@ -693,7 +693,7 @@ NUM 14:29	1	25	ἐπ᾽	ἐπί	preposition with the accusative	1	against
 NUM 14:29	1	26	ἐμοί	ἐγώ	personal pronoun, emphatic dative singular	1	to me
 NUM 14:30	1	1	Εἰ	εἰ	conditional particle introducing an oath	1	surely
 NUM 14:30	1	2	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
-NUM 14:30	1	3	εἰσελεύσεσθε	εἰσέρχομαι	future middle indicative, second plural	1	you shall enter
+NUM 14:30	1	3	εἰσελεύσεσθε	εἰσέρχομαι	future middle indicative, second plural	1	shall enter
 NUM 14:30	1	4	εἰς	εἰς	preposition with the accusative	1	into
 NUM 14:30	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 14:30	1	6	γῆν	γῆ	noun, accusative feminine singular	1	land
@@ -713,8 +713,8 @@ NUM 14:30	1	19	Χάλεβ	Χάλεβ	indeclinable personal name, nominative in c
 NUM 14:30	1	20	Ἰεφοννὴ	Ἰεφοννή	indeclinable personal name, genitive in context	1	of Jephunneh
 NUM 14:30	1	21	καὶ	καί	conjunction	1	and
 NUM 14:30	1	22	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua
-NUM 14:30	1	23	ὁ	ὁ	article, nominative masculine singular	1	the
-NUM 14:30	1	24	τοῦ	ὁ	article, genitive masculine singular	1	the
+NUM 14:30	1	23	ὁ	ὁ	article, nominative masculine singular	1	the son
+NUM 14:30	1	24	τοῦ	ὁ	article, genitive masculine singular	1	—
 NUM 14:30	1	25	Ναυή	Ναυή	indeclinable personal name, genitive in context	1	of Nun
 NUM 14:31	1	1	καὶ	καί	conjunction	1	and
 NUM 14:31	1	2	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -857,7 +857,7 @@ NUM 14:37	1	1	Καὶ	καί	conjunction	1	and
 NUM 14:37	1	2	ἀπέθανον	ἀποθνῄσκω	aorist active indicative, third plural	1	died
 NUM 14:37	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 NUM 14:37	1	4	ἄνθρωποι	ἄνθρωπος	noun, nominative masculine plural after οἱ	1	men
-NUM 14:37	1	5	οἱ	ὁ	article, nominative masculine plural	1	the
+NUM 14:37	1	5	οἱ	ὁ	article, nominative masculine plural	1	—
 NUM 14:37	1	6	κατείπαντες	καταλέγω	aorist active participle, nominative masculine plural	1	who spoke against
 NUM 14:37	1	7	πονηρὰ	πονηρός	adjective, accusative neuter plural	1	evil things
 NUM 14:37	1	8	κατὰ	κατά	preposition with the accusative	1	according to
@@ -883,7 +883,7 @@ NUM 14:38	1	11	τῶν	ὁ	article, genitive plural	1	the
 NUM 14:38	1	12	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	human beings
 NUM 14:38	1	12	ἀνθρώπων			2	people
 NUM 14:38	1	13	ἐκείνων	ἐκεῖνος	demonstrative pronoun, genitive plural after τὰς in sense '(portions) of those'	1	of those
-NUM 14:38	1	14	τῶν	ὁ	article, genitive plural	1	the
+NUM 14:38	1	14	τῶν	ὁ	article, genitive plural	1	—
 NUM 14:38	1	15	πεπορευμένων	πορεύομαι	perfect middle/passive participle, genitive masculine plural	1	who had gone
 NUM 14:38	1	16	κατασκέψασθαι	κατασκέπτομαι	aorist middle infinitive	1	to scout
 NUM 14:38	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -919,7 +919,7 @@ NUM 14:40	1	11	λέγοντες	λέγω	present active participle, nominative m
 NUM 14:40	1	12	ἰδοὺ	ἰδού	presentative particle	1	behold
 NUM 14:40	1	13	οἵδε	ὅδε	demonstrative pronoun, nominative masculine plural; introduces an offer	1	here
 NUM 14:40	1	14	ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
-NUM 14:40	1	15	ἀναβησόμεθα	ἀναβαίνω	future middle indicative, first plural	1	we shall go up
+NUM 14:40	1	15	ἀναβησόμεθα	ἀναβαίνω	future middle indicative, first plural	1	shall go up
 NUM 14:40	1	16	εἰς	εἰς	preposition with the accusative	1	into
 NUM 14:40	1	17	τὸν	ὁ	article, accusative masculine singular	1	the
 NUM 14:40	1	18	τόπον	τόπος	noun, accusative masculine singular	1	place

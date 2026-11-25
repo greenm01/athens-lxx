@@ -270,7 +270,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 5:12	1	4	στρατιώταις	στρατιώτης	noun, dative masculine plural	1	soldiers
 2MA 5:12	1	5	κόπτειν	κόπτω	present active infinitive	1	to strike
 2MA 5:12	1	6	ἀφειδῶς	ἀφειδῶς	adverb	1	unsparingly
-2MA 5:12	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
+2MA 5:12	1	7	τοὺς	ὁ	article, accusative masculine plural	1	those
 2MA 5:12	1	8	ἐμπίπτοντας	ἐμπίπτω	present active participle, accusative masculine plural	1	who were going over
 2MA 5:12	1	8	ἐμπίπτοντας			2	who were defecting
 2MA 5:12	1	9	καὶ	καί	conjunction	1	and
@@ -320,8 +320,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 5:14	1	15	οὐχ	οὐ	negative particle (plain negative, or interrogative expecting 'yes' in questions)	1	not
 2MA 5:14	1	16	ἧττον	ἥττων	adjective, nominative neuter singular	1	less
 2MA 5:14	1	17	δὲ	δέ	postpositive conjunction	1	and
-2MA 5:14	1	18	τῶν	ὁ	article, genitive plural	1	the
-2MA 5:14	1	19	ἐσφαγμένων	σφάζω	perfect passive participle, genitive masculine plural	1	those slaughtered
+2MA 5:14	1	18	τῶν	ὁ	article, genitive plural	1	than those
+2MA 5:14	1	19	ἐσφαγμένων	σφάζω	perfect passive participle, genitive masculine plural	1	slaughtered
 2MA 5:14	1	20	ἐπράθησαν	πιπράσκω	aorist passive indicative, third plural	1	were sold
 2MA 5:15	1	1	Οὐκ	οὐ	negative particle	1	not
 2MA 5:15	1	2	ἀρκεσθεὶς	ἀρκέω	aorist passive participle, nominative masculine singular	1	being satisfied
@@ -390,7 +390,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 5:17	1	10	διὰ	διά	preposition with accusative	1	because of
 2MA 5:17	1	11	τὰς	ὁ	article, accusative feminine plural	1	the
 2MA 5:17	1	12	ἁμαρτίας	ἁμαρτία	noun, accusative feminine plural	1	sins
-2MA 5:17	1	13	τῶν	ὁ	article, genitive masculine plural	1	the
+2MA 5:17	1	13	τῶν	ὁ	article, genitive masculine plural	1	—
 2MA 5:17	1	14	τὴν	ὁ	article, accusative feminine singular	1	the
 2MA 5:17	1	15	πόλιν	πόλις	noun, accusative feminine singular	1	city
 2MA 5:17	1	16	οἰκούντων	οἰκέω	present active participle, genitive masculine plural	1	of those dwelling
@@ -458,7 +458,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 5:20	1	5	τόπος	τόπος	noun, nominative masculine singular	1	place
 2MA 5:20	1	6	συμμετασχὼν	συμμετέχω	aorist active participle, nominative masculine singular	1	having shared
 2MA 5:20	1	7	τῶν	ὁ	article, genitive plural	1	the
-2MA 5:20	1	8	τοῦ	ὁ	article, genitive singular	1	the
+2MA 5:20	1	8	τοῦ	ὁ	article, genitive singular	1	of the
 2MA 5:20	1	9	ἔθνους	ἔθνος	noun, genitive neut. sg. after τοῦ, nation/people	1	people
 2MA 5:20	1	10	δυσπετημάτων	δυσπέτημα	noun, genitive neuter plural	1	misfortunes
 2MA 5:20	1	11	γενομένων	γίνομαι	aorist middle participle, genitive neuter plural	1	that have occurred
@@ -474,13 +474,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 5:20	1	20	καταληφθεὶς	καταλαμβάνω	aorist passive participle, nominative masculine singular	1	having been overtaken
 2MA 5:20	1	21	ἐν	ἐν	preposition with the dative	1	in
 2MA 5:20	1	22	τῇ	ὁ	article, dative feminine singular	1	the
-2MA 5:20	1	23	τοῦ	ὁ	article, genitive singular	1	the
-2MA 5:20	1	24	παντοκράτορος	παντοκράτωρ	noun, genitive masculine singular; divine title	1	the Almighty
+2MA 5:20	1	23	τοῦ	ὁ	article, genitive singular	1	of the
+2MA 5:20	1	24	παντοκράτορος	παντοκράτωρ	noun, genitive masculine singular; divine title	1	Almighty
 2MA 5:20	1	25	ὀργῇ	ὀργή	noun, dative feminine singular	1	anger
 2MA 5:20	1	26	πάλιν	πάλιν	adverb	1	again
 2MA 5:20	1	27	ἐν	ἐν	preposition with the dative	1	in
 2MA 5:20	1	28	τῇ	ὁ	article, dative feminine singular	1	the
-2MA 5:20	1	29	τοῦ	ὁ	article, genitive singular	1	the
+2MA 5:20	1	29	τοῦ	ὁ	article, genitive singular	1	of the
 2MA 5:20	1	30	μεγάλου	μέγας	adjective, genitive masculine singular	1	great
 2MA 5:20	1	31	δεσπότου	δεσπότης	noun, genitive masculine singular	1	master
 2MA 5:20	1	32	καταλλαγῇ	καταλλαγή	noun, dative feminine singular	1	reconciliation
@@ -548,7 +548,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 5:22	1	19	τρόπον	τρόπος	noun, accusative masculine singular	1	character
 2MA 5:22	1	20	βαρβαρώτερον	βάρβαρος	comparative adjective accusative masculine singular	1	more barbarous
 2MA 5:22	1	21	ἔχοντα	ἔχω	present active participle, accusative neuter singular	1	having
-2MA 5:22	1	22	τοῦ	ὁ	article, genitive singular	1	the
+2MA 5:22	1	22	τοῦ	ὁ	article, genitive singular	1	than the one
 2MA 5:22	1	23	καταστήσαντος	καθίστημι	aorist active participle, genitive masculine singular	1	who appointed
 2MA 5:23	1	1	Ἐν	ἐν	preposition with the dative	1	in
 2MA 5:23	1	2	δὲ	δέ	postpositive conjunction	1	and

@@ -1,8 +1,8 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 NEH 10:1	1	1	ΚΑΙ	καί	conjunction	1	and
 NEH 10:1	1	2	ἐπὶ	ἐπί	preposition with genitive	1	among
-NEH 10:1	1	3	τῶν	ὁ	article, genitive masculine plural	1	the
-NEH 10:1	1	4	σφραγιζόντων	σφραγίζω	present active participle, genitive masculine plural; substantival	1	those who sealed
+NEH 10:1	1	3	τῶν	ὁ	article, genitive masculine plural	1	those
+NEH 10:1	1	4	σφραγιζόντων	σφραγίζω	present active participle, genitive masculine plural; substantival	1	who sealed
 NEH 10:1	1	5	Νεεμίας	Νεεμίας	noun, nominative masculine singular; proper	1	Nehemiah
 NEH 10:1	1	6	Ἀρτασασθὰ	Ἀρτασασθά	personal name, indeclinable; unusual form in the sealing list	1	Tirshatha
 NEH 10:1	1	7	υἱὸς	υἱός	noun, nominative masculine singular	1	son
@@ -136,7 +136,7 @@ NEH 10:28	1	16	Ναθινεὶμ	Ναθινείμ	collective designation, indecl
 NEH 10:28	1	16	Ναθινεὶμ			2	temple servants
 NEH 10:28	1	17	καὶ	καί	conjunction	1	and
 NEH 10:28	1	18	πᾶς	πᾶς	adjective, nominative masculine singular	1	all
-NEH 10:28	1	19	ὁ	ὁ	article, nominative masculine singular	1	the
+NEH 10:28	1	19	ὁ	ὁ	article, nominative masculine singular	1	—
 NEH 10:28	1	20	προσπορευόμενος	προσπορεύομαι	present middle/passive participle, nominative masculine singular	1	who comes away
 NEH 10:28	1	21	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NEH 10:28	1	22	λαῶν	λαός	noun, genitive masculine plural	1	the peoples
@@ -155,7 +155,7 @@ NEH 10:28	1	33	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NEH 10:28	1	34	θυγατέρες	θυγάτηρ	noun, nominative feminine plural	1	daughters
 NEH 10:28	1	35	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 NEH 10:28	1	36	πᾶς	πᾶς	adjective, nominative masculine singular	1	every one
-NEH 10:28	1	37	ὁ	ὁ	article, nominative masculine singular	1	the
+NEH 10:28	1	37	ὁ	ὁ	article, nominative masculine singular	1	—
 NEH 10:28	1	38	εἰδὼς	οἶδα	perfect active participle, nominative masculine singular; perfect with present sense	1	who knows
 NEH 10:28	1	39	καὶ	καί	conjunction	1	and
 NEH 10:28	1	40	συνιὼν	συνίημι	present active participle, nominative masculine singular	1	who understands
@@ -286,7 +286,7 @@ NEH 10:33	1	2	ἄρτους	ἄρτος	noun, accusative masculine plural	1	the 
 NEH 10:33	1	3	τοῦ	ὁ	article, genitive neuter singular	1	of the
 NEH 10:33	1	4	προσώπου	πρόσωπον	noun, genitive neuter singular	1	Presence
 NEH 10:33	1	5	καὶ	καί	conjunction	1	and
-NEH 10:33	1	6	θυσίαν	θυσία	noun, accusative feminine singular	1	grain offering
+NEH 10:33	1	6	θυσίαν	θυσία	noun, accusative feminine singular	1	sacrifice
 NEH 10:33	1	7	τοῦ	ὁ	article, genitive masculine singular	1	of the
 NEH 10:33	1	8	ἐνδελεχισμοῦ	ἐνδελεχισμός	noun, genitive masculine singular	1	regular service
 NEH 10:33	1	9	καὶ	καί	conjunction	1	and

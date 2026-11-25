@@ -309,8 +309,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 4:11	1	33	εὐκαιροτάτῳ	εὔκαιρος	adjective, dative masculine singular	1	most convenient
 3MA 4:11	1	34	καθεστῶτι	καθίστημι	perfect active participle, dative neuter singular	1	being
 3MA 4:11	1	35	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
-3MA 4:11	1	36	τοῖς	ὁ	article, dative neuter plural	1	the
-3MA 4:11	1	37	καταπορευομένοις	καταπορεύομαι	present middle participle, dative masculine plural	1	those passing down
+3MA 4:11	1	36	τοῖς	ὁ	article, dative neuter plural	1	those
+3MA 4:11	1	37	καταπορευομένοις	καταπορεύομαι	present middle participle, dative masculine plural	1	passing down
 3MA 4:11	1	38	εἰς	εἰς	preposition with accusative	1	in
 3MA 4:11	1	39	τὴν	ὁ	article, accusative feminine singular	1	the
 3MA 4:11	1	40	πόλιν	πόλις	noun, accusative feminine singular	1	city
@@ -438,7 +438,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 4:15	1	23	ἡμέρας	ἡμέρα	noun, accusative feminine plural	1	days
 3MA 4:15	1	24	τεσσαράκοντα	τεσσαράκοντα	indeclinable cardinal numeral	1	forty
 3MA 4:16	1	1	Μεγάλως	μεγάλως	adverb	1	greatly
-3MA 4:16	1	2	δὲ	δέ	postpositive conjunction	1	and
+3MA 4:16	1	2	δὲ	δέ	postpositive conjunction	1	now
 3MA 4:16	1	3	καὶ	καί	conjunction	1	and
 3MA 4:16	1	4	διηνεκῶς	διηνεκής	adverb	1	increasingly
 3MA 4:16	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -494,7 +494,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 4:17	1	13	μηκέτι	μηκέτι	adverb, no longer	1	no longer
 3MA 4:17	1	14	ἰσχύειν	ἰσχύω	present active infinitive	1	were able
 3MA 4:17	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
-3MA 4:17	1	16	τῶν	ὁ	article, genitive plural	1	the
+3MA 4:17	1	16	τῶν	ὁ	article, genitive plural	1	of the
 3MA 4:17	1	17	Ἰουδαίων	Ἰουδαῖος	adjective, genitive masculine plural; substantival	1	Judeans
 3MA 4:17	1	18	ἀπογραφὴν	ἀπογραφή	noun, accusative feminine singular	1	registration
 3MA 4:17	1	19	ποιεῖσθαι	ποιέω	present middle infinitive	1	to make
@@ -571,7 +571,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 4:21	1	3	ἦν	εἰμί	imperfect indicative, third singular	1	was
 3MA 4:21	1	4	ἐνέργεια	ἐνέργεια	noun, nominative feminine singular	1	work
 3MA 4:21	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-3MA 4:21	1	6	τοῦ	ὁ	article, genitive singular	1	the
+3MA 4:21	1	6	τοῦ	ὁ	article, genitive singular	1	of the one
 3MA 4:21	1	7	βοηθοῦντος	βοηθέω	present active participle, genitive masculine singular	1	helping
 3MA 4:21	1	8	τοῖς	ὁ	article, dative masculine plural	1	the
 3MA 4:21	1	9	Ἰουδαίοις	Ἰουδαῖος	noun, dative masculine plural; ethnic name	1	Judeans

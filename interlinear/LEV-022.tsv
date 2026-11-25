@@ -28,7 +28,7 @@ LEV 22:2	1	20	ἅγιόν	ἅγιος	adjective, accusative neuter singular	1	ho
 LEV 22:2	1	21	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 LEV 22:2	1	22	ὅσα	ὅσος	relative pronoun, accusative/nominative neuter plural	1	whatever
 LEV 22:2	1	23	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
-LEV 22:2	1	24	ἁγιάζουσί	ἁγιάζω	present active indicative, third plural	1	they consecrate
+LEV 22:2	1	24	ἁγιάζουσί	ἁγιάζω	present active indicative, third plural	1	consecrate
 LEV 22:2	1	25	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 LEV 22:2	1	26	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 LEV 22:2	1	27	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -206,7 +206,7 @@ LEV 22:9	1	20	ἐγὼ	ἐγώ	personal pronoun, nominative singular	1	I
 LEV 22:9	1	21	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 LEV 22:9	1	22	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 22:9	1	23	Θεὸς	θεός	noun, nominative masculine singular	1	God
-LEV 22:9	1	24	ὁ	ὁ	article, nominative masculine singular	1	the
+LEV 22:9	1	24	ὁ	ὁ	article, nominative masculine singular	1	—
 LEV 22:9	1	25	ἁγιάζων	ἁγιάζω	present active participle, nominative masculine singular	1	who consecrates
 LEV 22:9	1	26	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 LEV 22:10	1	1	Καὶ	καί	conjunction	1	and
@@ -335,7 +335,7 @@ LEV 22:15	1	7	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 LEV 22:15	1	8	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 LEV 22:15	1	9	ἃ	ὅς	relative pronoun, nominative neuter plural	1	which
 LEV 22:15	1	10	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
-LEV 22:15	1	11	προσφέρουσι	προσφέρω	present active indicative, third plural	1	they offer
+LEV 22:15	1	11	προσφέρουσι	προσφέρω	present active indicative, third plural	1	offer
 LEV 22:15	1	12	τῷ	ὁ	article, dative masculine singular	1	to the
 LEV 22:15	1	13	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 LEV 22:16	1	1	καὶ	καί	conjunction	1	and
@@ -355,7 +355,7 @@ LEV 22:16	1	13	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 LEV 22:16	1	14	ὅτι	ὅτι	content conjunction	1	that
 LEV 22:16	1	15	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
 LEV 22:16	1	16	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-LEV 22:16	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
+LEV 22:16	1	17	ὁ	ὁ	article, nominative masculine singular	1	—
 LEV 22:16	1	18	ἁγιάζων	ἁγιάζω	present active participle, nominative masculine singular	1	who consecrates
 LEV 22:16	1	19	αὐτούς	αὐτός	pronoun, accusative masculine plural, object of ἁγιάζων	1	them
 LEV 22:17	1	1	Καὶ	καί	conjunction	1	and
@@ -689,10 +689,10 @@ LEV 22:32	1	14	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 LEV 22:32	1	15	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 LEV 22:32	1	16	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 LEV 22:32	1	17	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-LEV 22:32	1	18	ὁ	ὁ	article, nominative masculine singular	1	the
+LEV 22:32	1	18	ὁ	ὁ	article, nominative masculine singular	1	—
 LEV 22:32	1	19	ἁγιάζων	ἁγιάζω	present active participle, nominative masculine singular	1	who consecrates
 LEV 22:32	1	20	ὑμᾶς	σύ	personal pronoun, accusative plural	1	you
-LEV 22:33	1	1	ὁ	ὁ	article, nominative masculine singular	1	the
+LEV 22:33	1	1	ὁ	ὁ	article, nominative masculine singular	1	the one
 LEV 22:33	1	2	ἐξαγαγὼν	ἐξάγω	aorist active participle, nominative masculine singular	1	who led out
 LEV 22:33	1	3	ὑμᾶς	σύ	personal pronoun, accusative plural	1	you
 LEV 22:33	1	4	ἐκ	ἐκ	preposition with the genitive	1	from

@@ -466,8 +466,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:15	1	29	τῇ	ὁ	article dative feminine singular	1	the
 2KI 5:15	1	30	γῇ	γῆ	noun dative feminine singular	1	earth
 2KI 5:15	1	31	ὅτι	ὅτι	causal conjunction	1	because
-2KI 5:15	1	32	ἀλλ	ἀλλά	conjunction introducing an exception	1	except
-2KI 5:15	1	33	ἢ	ἤ	particle completing an exception	1	only
+2KI 5:15	1	32	ἀλλ	ἀλλά	conjunction introducing an exception	1	but
+2KI 5:15	1	33	ἢ	ἤ	particle completing an exception	1	—
 2KI 5:15	1	34	ἐν	ἐν	preposition with the dative	1	in
 2KI 5:15	1	35	τῷ	ὁ	article, dative neuter singular	1	the
 2KI 5:15	1	36	Ἰσραήλ	Ἰσραήλ	indeclinable national name, dative in context	1	Israel
@@ -528,7 +528,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:17	1	25	ὁλοκαύτωμα	ὁλοκαύτωμα	noun, nominative neuter singular	1	whole burnt offering
 2KI 5:17	1	25	ὁλοκαύτωμα			2	burnt offering
 2KI 5:17	1	26	καὶ	καί	conjunction	1	and
-2KI 5:17	1	27	θυσίαν	θυσία	noun, accusative feminine singular	1	grain offering
+2KI 5:17	1	27	θυσίαν	θυσία	noun, accusative feminine singular	1	sacrifice
 2KI 5:17	1	28	θεοῖς	θεός	noun, dative masc. pl.	1	to gods
 2KI 5:17	1	29	ἑτέροις	ἕτερος	adjective, dative masculine plural	1	other
 2KI 5:17	1	30	ἀλλ᾽	ἀλλά	adversative conjunction, elided	1	but
@@ -864,7 +864,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 5:27	1	12	σου	σύ	personal pronoun, possessive genitive singular	1	your
 2KI 5:27	1	13	εἰς	εἰς	preposition with the accusative of duration	1	for
 2KI 5:27	1	14	τὸν	ὁ	definite article, accusative masculine singular	1	the
-2KI 5:27	1	15	αἰῶνα	αἰών	noun, accusative masculine singular	1	ever
+2KI 5:27	1	15	αἰῶνα	αἰών	noun, accusative masculine singular	1	age
 2KI 5:27	1	16	καὶ	καί	conjunction	1	and
 2KI 5:27	1	17	ἐξῆλθεν	ἐξέρχομαι	aorist active indicative, third singular	1	came out
 2KI 5:27	1	18	ἐκ	ἐκ	preposition with the genitive	1	from

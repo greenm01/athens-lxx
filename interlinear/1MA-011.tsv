@@ -281,8 +281,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 11:13	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
 1MA 11:13	1	18	κεφαλὴν	κεφαλή	noun, accusative feminine singular	1	head
 1MA 11:13	1	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-1MA 11:13	1	20	τὸ	ὁ	article, accusative neuter singular	1	the
-1MA 11:13	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
+1MA 11:13	1	20	τὸ	ὁ	article, accusative neuter singular	1	the one
+1MA 11:13	1	21	τῆς	ὁ	article, genitive feminine singular	1	—
 1MA 11:13	1	22	Ἀσίας	Ἀσία	noun, genitive feminine singular	1	of Asia
 1MA 11:13	1	23	καὶ	καί	conjunction	1	and
 1MA 11:13	1	24	Αἰγύπτου	Αἴγυπτος	place name, genitive feminine singular	1	of Egypt
@@ -346,7 +346,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 11:17	1	2	ἀφεῖλε	ἀφαιρέω	aorist active indicative, third singular	1	cut off
 1MA 11:17	1	3	Ζαβδιὴλ	Ζαβδιήλ	indeclinable personal name	1	Zabdiel
 1MA 11:17	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
-1MA 11:17	1	5	Ἄραψ	Ἄραψ	noun, nominative masculine singular	1	the Arab
+1MA 11:17	1	5	Ἄραψ	Ἄραψ	noun, nominative masculine singular	1	Arab
 1MA 11:17	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 1MA 11:17	1	7	κεφαλὴν	κεφαλή	noun, accusative feminine singular	1	head
 1MA 11:17	1	8	Ἀλεξάνδρου	Ἀλέξανδρος	noun, genitive masculine singular	1	of Alexander
@@ -365,7 +365,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 11:18	1	9	τῇ	ὁ	article, dative feminine singular	1	the
 1MA 11:18	1	10	τρίτῃ	τρίτος	ordinal adjective, dative feminine singular	1	third
 1MA 11:18	1	11	καὶ	καί	conjunction	1	and
-1MA 11:18	1	12	οἱ	ὁ	article, nominative masculine plural	1	the
+1MA 11:18	1	12	οἱ	ὁ	article, nominative masculine plural	1	those
 1MA 11:18	1	13	ὄντες	εἰμί	present participle, nominative masculine plural after οἱ, substantival	1	who were
 1MA 11:18	1	14	ἐν	ἐν	preposition with the dative	1	in
 1MA 11:18	1	15	τοῖς	ὁ	article, dative neuter plural	1	the
@@ -534,7 +534,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 11:26	1	13	ὕψωσεν	ὑψόω	aorist active indicative, third singular	1	honored
 1MA 11:26	1	14	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 1MA 11:26	1	15	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
-1MA 11:26	1	16	πάντων	πᾶς	substantival adjective, genitive masculine plural	1	of all
+1MA 11:26	1	16	πάντων	πᾶς	substantival adjective, genitive masculine plural	1	all
 1MA 11:26	1	17	τῶν	ὁ	article, genitive plural	1	the
 1MA 11:26	1	18	φίλων	φίλος	adjective, genitive masculine plural	1	friends
 1MA 11:26	1	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
@@ -1257,7 +1257,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 11:57	1	2	ἔγραψεν	γράφω	aorist active indicative, third singular	1	he wrote
 1MA 11:57	1	3	Ἀντίοχος	Ἀντίοχος	noun, nominative masculine singular	1	Antiochus
 1MA 11:57	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
-1MA 11:57	1	5	νεώτερος	νέος	comparative adjective, nominative masculine singular	1	the younger
+1MA 11:57	1	5	νεώτερος	νέος	comparative adjective, nominative masculine singular	1	younger
 1MA 11:57	1	6	Ἰωνάθᾳ	Ἰωνάθας	noun, dative masculine singular	1	Jonathan
 1MA 11:57	1	7	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 1MA 11:57	1	8	ἵστημί	ἵστημι	present active indicative, first singular	1	I confirm
@@ -1599,8 +1599,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 11:72	1	10	ἔφυγον	φεύγω	aorist active indicative, 3rd pl.	1	fled
 1MA 11:73	1	1	Καὶ	καί	conjunction	1	and
 1MA 11:73	1	2	ἴδον	ὁράω	aorist active indicative, third plural	1	they saw
-1MA 11:73	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
-1MA 11:73	1	4	φυγόντες	φεύγω	aorist active participle, nominative masculine plural	1	those who fled
+1MA 11:73	1	3	οἱ	ὁ	article, nominative masculine plural	1	those
+1MA 11:73	1	4	φυγόντες	φεύγω	aorist active participle, nominative masculine plural	1	who fled
 1MA 11:73	1	5	οἱ	ὁ	article, nominative masculine plural; introduces attributive prepositional phrase	1	those
 1MA 11:73	1	6	παρ᾽	παρά	preposition with the accusative, elided	1	beside
 1MA 11:73	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him

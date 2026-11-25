@@ -34,8 +34,8 @@ JOS 10:1	1	32	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 JOS 10:1	1	33	καὶ	καί	conjunction	1	and
 JOS 10:1	1	34	ὅτι	ὅτι	conjunction	1	that
 JOS 10:1	1	35	ηὐτομόλησαν	αὐτομολέω	aorist active indicative, third plural	1	deserted
-JOS 10:1	1	36	οἱ	ὁ	article, nominative masculine plural	1	the
-JOS 10:1	1	37	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	those living
+JOS 10:1	1	36	οἱ	ὁ	article, nominative masculine plural	1	those
+JOS 10:1	1	37	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	living
 JOS 10:1	1	37	κατοικοῦντες			2	those dwelling
 JOS 10:1	1	38	Γαβαὼν	Γαβαών	indeclinable place name, accusative in context	1	in Gibeon
 JOS 10:1	1	39	πρὸς	πρός	preposition with the accusative	1	to
@@ -177,8 +177,8 @@ JOS 10:5	1	35	ἐξεπολιόρκουν	ἐκπολιορκέω	imperfect acti
 JOS 10:5	1	36	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	it
 JOS 10:6	1	1	Καὶ	καί	conjunction	1	and
 JOS 10:6	1	2	ἀπέστειλαν	ἀποστέλλω	aorist active indicative, third plural	1	sent
-JOS 10:6	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
-JOS 10:6	1	4	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	those living
+JOS 10:6	1	3	οἱ	ὁ	article, nominative masculine plural	1	those
+JOS 10:6	1	4	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	living
 JOS 10:6	1	4	κατοικοῦντες			2	those dwelling
 JOS 10:6	1	5	Γαβαὼν	Γαβαών	indeclinable place name, case from construction	1	in Gibeon
 JOS 10:6	1	6	πρὸς	πρός	preposition with the accusative	1	to
@@ -351,7 +351,7 @@ JOS 10:11	1	27	καὶ	καί	conjunction	1	and
 JOS 10:11	1	28	ἐγένοντο	γίνομαι	aorist middle indicative, third plural, of a total	1	were
 JOS 10:11	1	28	ἐγένοντο			2	amounted to
 JOS 10:11	1	29	πλείους	πολύς	comparative adjective, nominative masculine plural	1	more numerous
-JOS 10:11	1	30	οἱ	ὁ	article, nominative masculine plural	1	the
+JOS 10:11	1	30	οἱ	ὁ	article, nominative masculine plural	1	those
 JOS 10:11	1	31	ἀποθανόντες	ἀποθνῄσκω	aorist active participle, nominative masculine plural	1	who died
 JOS 10:11	1	32	διὰ	διά	preposition with the accusative	1	because of
 JOS 10:11	1	33	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -383,7 +383,7 @@ JOS 10:12	1	10	Κύριος	κύριος	noun, nominative masculine singular	1	t
 JOS 10:12	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 JOS 10:12	1	12	Θεὸς	θεός	noun, nominative masculine singular	1	God
 JOS 10:12	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
-JOS 10:12	1	14	Ἀμοῤῥαῖον	Ἀμοῤῥαῖον	ethnic noun, accusative masculine singular collective after τὸν/καὶ	1	the Amorite (people)
+JOS 10:12	1	14	Ἀμοῤῥαῖον	Ἀμοῤῥαῖον	ethnic noun, accusative masculine singular collective after τὸν/καὶ	1	Amorite (people)
 JOS 10:12	1	15	ὑποχείριον	ὑποχείριος	adjective, accusative masculine singular	1	under one's hand
 JOS 10:12	1	15	ὑποχείριον			2	into one's power
 JOS 10:12	1	16	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
@@ -434,7 +434,7 @@ JOS 10:13	1	18	γεγραμμένον	γράφω	perfect middle/passive particip
 JOS 10:13	1	19	ἐπὶ	ἐπί	preposition (case from context)	1	in
 JOS 10:13	1	20	βιβλίου	βιβλίον	noun, genitive neuter singular	1	book
 JOS 10:13	1	21	τοῦ	ὁ	article, genitive singular	1	of the
-JOS 10:13	1	22	εὐθοῦς	εὐθύς	substantival adjective, genitive masculine singular	1	the upright
+JOS 10:13	1	22	εὐθοῦς	εὐθύς	substantival adjective, genitive masculine singular	1	upright
 JOS 10:13	1	23	καὶ	καί	conjunction	1	and
 JOS 10:13	1	24	ἔστη	ἵστημι	aorist active indicative, third singular	1	stood still
 JOS 10:13	1	25	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -708,7 +708,7 @@ JOS 10:24	1	17	πολέμου	πόλεμος	noun, genitive masculine singular	1
 JOS 10:24	1	17	πολέμου			2	battle
 JOS 10:24	1	18	καὶ	καί	conjunction	1	and
 JOS 10:24	1	19	τοὺς	ὁ	article, accusative masculine plural	1	the
-JOS 10:24	1	20	συμπορευομένους	συμπορεύομαι	present middle/passive participle, dative masculine plural	1	going with him
+JOS 10:24	1	20	συμπορευομένους	συμπορεύομαι	present middle/passive participle, dative masculine plural	1	going with
 JOS 10:24	1	21	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 JOS 10:24	1	22	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 JOS 10:24	1	23	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
@@ -755,7 +755,7 @@ JOS 10:25	1	20	ἐχθροῖς	ἐχθρός	substantival adjective, dative mas
 JOS 10:25	1	21	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 JOS 10:25	1	22	οὓς	ὅς	relative pronoun, accusative masculine plural	1	whom
 JOS 10:25	1	23	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
-JOS 10:25	1	24	καταπολεμεῖτε	καταπολεμέω	present active indicative, second plural	1	you fight against
+JOS 10:25	1	24	καταπολεμεῖτε	καταπολεμέω	present active indicative, second plural	1	fight against
 JOS 10:25	1	25	αὐτούς	αὐτός	pronoun, accusative masculine plural	1	them
 JOS 10:26	1	1	Καὶ	καί	conjunction	1	and
 JOS 10:26	1	2	ἀπέκτεινεν	ἀποκτείνω	aorist active indicative, third singular	1	he killed

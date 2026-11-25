@@ -507,7 +507,7 @@ NUM 3:26	1	21	θυσιαστηρίου	θυσιαστήριον	noun, genitive n
 NUM 3:26	1	22	κύκλῳ	κύκλος	noun used adverbially with genitive τοῦ ποταμοῦ	1	round
 NUM 3:26	1	23	καὶ	καί	conjunction	1	and
 NUM 3:26	1	24	τὰ	ὁ	article, accusative neuter plural	1	the
-NUM 3:26	1	25	κατάλοιπα	κατάλοιπος	adjective, accusative neuter plural; used substantivally	1	the remainder
+NUM 3:26	1	25	κατάλοιπα	κατάλοιπος	adjective, accusative neuter plural; used substantivally	1	remainder
 NUM 3:26	1	26	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 NUM 3:26	1	27	πάντων	πᾶς	adjective, genitive neuter plural	1	all
 NUM 3:26	1	28	τῶν	ὁ	article, genitive neuter plural	1	the
@@ -760,7 +760,7 @@ NUM 3:37	1	17	κάλους			2	ropes
 NUM 3:37	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 3:37	1	18	αὐτῶν			2	of them
 NUM 3:38	1	1	Καὶ	καί	conjunction	1	and
-NUM 3:38	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
+NUM 3:38	1	2	οἱ	ὁ	article, nominative masculine plural	1	those
 NUM 3:38	1	3	παρεμβάλλοντες	παρεμβάλλω	present active participle, nominative masculine plural	1	who camp
 NUM 3:38	1	4	κατὰ	κατά	preposition with accusative; κατὰ πρόσωπον idiom	1	in front of
 NUM 3:38	1	5	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	1	(with κατά)
@@ -802,7 +802,7 @@ NUM 3:38	1	34	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive i
 NUM 3:38	1	35	καὶ	καί	conjunction	1	and
 NUM 3:38	1	36	ὁ	ὁ	article, nominative masculine singular	1	the
 NUM 3:38	1	37	ἀλλογενὴς	ἀλλογενής	adjective/noun, nominative masc. sg. after πᾶς, foreigner	1	foreigner
-NUM 3:38	1	38	ὁ	ὁ	article, nominative masculine singular	1	the
+NUM 3:38	1	38	ὁ	ὁ	article, nominative masculine singular	1	—
 NUM 3:38	1	39	προσπορευόμενος	προσπορεύομαι	present middle/passive participle, nominative masculine singular	1	who comes
 NUM 3:38	1	40	ἀποθανεῖται	ἀποθνῄσκω	future middle indicative, third singular	1	will die
 NUM 3:39	1	1	Πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
@@ -972,8 +972,8 @@ NUM 3:46	1	5	καὶ	καί	conjunction	1	and
 NUM 3:46	1	6	ἑβδομήκοντα	ἑβδομήκοντα	indeclinable cardinal numeral	1	seventy
 NUM 3:46	1	7	καὶ	καί	conjunction	1	and
 NUM 3:46	1	8	διακοσίων	διακόσιοι	cardinal numeral, genitive masculine plural	1	two hundred
-NUM 3:46	1	9	οἱ	ὁ	article, nominative masculine plural	1	the
-NUM 3:46	1	10	πλεονάζοντες	πλεονάζω	present active participle, nominative masculine plural; used substantivally	1	those in excess
+NUM 3:46	1	9	οἱ	ὁ	article, nominative masculine plural	1	those
+NUM 3:46	1	10	πλεονάζοντες	πλεονάζω	present active participle, nominative masculine plural; used substantivally	1	in excess
 NUM 3:46	1	11	παρὰ	παρά	preposition with accusative; comparison	1	beyond
 NUM 3:46	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
 NUM 3:46	1	13	Λευίτας	Λευίτης	proper noun, accusative masculine plural	1	Levites
@@ -1011,8 +1011,8 @@ NUM 3:48	1	8	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 NUM 3:48	1	9	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
 NUM 3:48	1	10	λύτρα	λύτρον	noun, accusative neuter plural	1	ransom
 NUM 3:48	1	10	λύτρα			2	redemption payment
-NUM 3:48	1	11	τῶν	ὁ	article, genitive masculine plural	1	of the
-NUM 3:48	1	12	πλεοναζόντων	πλεονάζω	present active participle, genitive masculine plural; used substantivally	1	those in excess
+NUM 3:48	1	11	τῶν	ὁ	article, genitive masculine plural	1	of those
+NUM 3:48	1	12	πλεοναζόντων	πλεονάζω	present active participle, genitive masculine plural; used substantivally	1	in excess
 NUM 3:48	1	13	ἐν	ἐν	preposition with the dative	1	among
 NUM 3:48	1	14	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 NUM 3:49	1	1	Καὶ	καί	conjunction	1	and
@@ -1023,8 +1023,8 @@ NUM 3:49	1	5	ἀργύριον	ἀργύριον	noun, nominative/accusative neu
 NUM 3:49	1	6	λύτρα	λύτρον	noun, accusative neuter plural	1	ransom
 NUM 3:49	1	6	λύτρα			2	redemption payment
 NUM 3:49	1	7	παρὰ	παρά	preposition with genitive	1	from
-NUM 3:49	1	8	τῶν	ὁ	article, genitive plural	1	the
-NUM 3:49	1	9	πλεοναζόντων	πλεονάζω	present active participle, genitive masculine plural; used substantivally	1	those in excess
+NUM 3:49	1	8	τῶν	ὁ	article, genitive plural	1	those
+NUM 3:49	1	9	πλεοναζόντων	πλεονάζω	present active participle, genitive masculine plural; used substantivally	1	in excess
 NUM 3:49	1	10	ἐν	ἐν	preposition with the dative	1	in
 NUM 3:49	1	11	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 NUM 3:49	1	12	εἰς	εἰς	preposition with the accusative	1	for
@@ -1062,8 +1062,8 @@ NUM 3:51	1	5	ἀργύριον	ἀργύριον	noun, nominative/accusative neu
 NUM 3:51	1	6	τὰ	ὁ	article, accusative neuter plural	1	the
 NUM 3:51	1	7	λύτρα	λύτρον	noun, accusative neuter plural	1	ransom
 NUM 3:51	1	7	λύτρα			2	redemption payment
-NUM 3:51	1	8	τῶν	ὁ	article, genitive masculine plural	1	the
-NUM 3:51	1	9	πλεοναζόντων	πλεονάζω	present active participle, genitive masculine plural; used substantivally	1	those in excess
+NUM 3:51	1	8	τῶν	ὁ	article, genitive masculine plural	1	of those
+NUM 3:51	1	9	πλεοναζόντων	πλεονάζω	present active participle, genitive masculine plural; used substantivally	1	in excess
 NUM 3:51	1	10	Ἀαρὼν	Ἀαρών	proper noun, indeclinable; dative in context	1	for Aaron
 NUM 3:51	1	11	καὶ	καί	conjunction	1	and
 NUM 3:51	1	12	τοῖς	ὁ	article, dative masculine plural	1	the

@@ -1,6 +1,6 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 10:1	1	1	ΜΑΚΚΑΒΑΙΟΣ	Μακκαβαῖος	noun, nominative masculine singular	1	Maccabee
-2MA 10:1	1	2	δὲ	δέ	postpositive conjunction	1	and
+2MA 10:1	1	2	δὲ	δέ	postpositive conjunction	1	now
 2MA 10:1	1	3	καὶ	καί	conjunction	1	and
 2MA 10:1	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
 2MA 10:1	1	5	σὺν	σύν	preposition governing the dative	1	with
@@ -141,7 +141,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 10:6	1	12	μικροῦ	μικρός	adjective, genitive masculine singular; used substantivally	1	a short while
 2MA 10:6	1	13	χρόνου	χρόνος	noun, genitive masculine singular	1	time
 2MA 10:6	1	14	τὴν	ὁ	article, accusative feminine singular	1	the
-2MA 10:6	1	15	τῶν	ὁ	article, genitive plural	1	the
+2MA 10:6	1	15	τῶν	ὁ	article, genitive plural	1	—
 2MA 10:6	1	16	σκηνῶν	σκηνή	noun, genitive feminine plural	1	of Booths
 2MA 10:6	1	17	ἑορτὴν	ἑορτή	noun accusative feminine singular	1	a feast
 2MA 10:6	1	18	ἐν	ἐν	preposition with dative	1	in
@@ -162,7 +162,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 10:7	1	5	ὡραίους	ὡραῖος	adjective, accusative masculine plural	1	beautiful
 2MA 10:7	1	6	ἔτι	ἔτι	adverb	1	further
 2MA 10:7	1	7	δὲ	δέ	postpositive conjunction	1	and
-2MA 10:7	1	8	καὶ	καί	conjunction	1	and
+2MA 10:7	1	8	καὶ	καί	conjunction	1	also
 2MA 10:7	1	9	φοίνικας	φοῖνιξ	noun, accusative masculine plural	1	palm branches
 2MA 10:7	1	10	ἔχοντες	ἔχω	present active participle, nominative masculine plural	1	having
 2MA 10:7	1	11	ηὐχαρίστουν	εὐχαριστέω	imperfect active indicative, third plural	1	they gave thanks
@@ -279,8 +279,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 10:13	1	11	παρέκαστα	παρέκαστα	adverb	1	on every occasion
 2MA 10:13	1	12	ἀκούων	ἀκούω	present active participle, nominative masculine singular	1	hearing
 2MA 10:13	1	13	διὰ	διά	preposition with the accusative	1	because of
-2MA 10:13	1	14	τὸ	ὁ	article, accusative neuter singular	1	the
-2MA 10:13	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
+2MA 10:13	1	14	τὸ	ὁ	article, accusative neuter singular	1	—
+2MA 10:13	1	15	τὴν	ὁ	article, accusative feminine singular	1	—
 2MA 10:13	1	16	Κύπρον	Κύπρος	noun, accusative feminine singular	1	Cyprus
 2MA 10:13	1	17	ἐμπιστευθέντα	ἐμπιστεύω	aorist passive participle, accusative masculine singular	1	having been entrusted with
 2MA 10:13	1	18	ὑπὸ	ὑπό	preposition with genitive of agent	1	by
@@ -356,7 +356,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 10:16	1	14	γενέσθαι	γίνομαι	aorist middle infinitive	1	coming into being
 2MA 10:16	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2MA 10:16	1	16	τὰ	ὁ	article, accusative neuter plural	1	the
-2MA 10:16	1	17	τῶν	ὁ	article, genitive masculine plural	1	the
+2MA 10:16	1	17	τῶν	ὁ	article, genitive masculine plural	1	of the
 2MA 10:16	1	18	Ἰδουμαίων	Ἰδουμαῖος	adjective genitive masculine plural	1	Edomites
 2MA 10:16	1	19	ὀχυρώματα	ὀχύρωμα	noun, accusative neuter plural	1	strongholds
 2MA 10:16	1	19	ὀχυρώματα			2	fortifications
@@ -379,7 +379,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 10:17	1	16	ἠμύναντο	ἀμύνω	aorist middle indicative, third plural	1	repelled
 2MA 10:17	1	17	κατέσφαζόν	κατασφάζω	imperfect active indicative, third plural	1	were slaughtering
 2MA 10:17	1	18	τε	τε	particle	1	both
-2MA 10:17	1	19	τοὺς	ὁ	article, accusative masculine plural	1	the
+2MA 10:17	1	19	τοὺς	ὁ	article, accusative masculine plural	1	those
 2MA 10:17	1	20	ἐμπίπτοντας	ἐμπίπτω	present active participle, accusative masculine plural	1	who were going over
 2MA 10:17	1	20	ἐμπίπτοντας			2	who were defecting
 2MA 10:17	1	21	ἀνεῖλον	ἀναιρέω	aorist active indicative, third plural	1	they killed
@@ -418,7 +418,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 10:19	1	9	Ἰώσηπον	Ἰώσηπος	noun, accusative masculine singular	1	Joseph
 2MA 10:19	1	10	ἔτι	ἔτι	temporal adverb	1	still
 2MA 10:19	1	11	δὲ	δέ	postpositive conjunction	1	and
-2MA 10:19	1	12	καὶ	καί	conjunction	1	and
+2MA 10:19	1	12	καὶ	καί	conjunction	1	also
 2MA 10:19	1	13	Ζακχαῖον	Ζακχαῖος	noun, accusative masculine singular	1	Zacchaeus
 2MA 10:19	1	14	καὶ	καί	conjunction	1	and
 2MA 10:19	1	15	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -523,7 +523,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 10:24	1	12	παμπληθεῖς	παμπληθής	adjective, accusative masculine plural	1	immensely numerous
 2MA 10:24	1	13	καὶ	καί	conjunction	1	and
 2MA 10:24	1	14	τοὺς	ὁ	article, accusative masculine plural	1	the
-2MA 10:24	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
+2MA 10:24	1	15	τῆς	ὁ	article, genitive feminine singular	1	—
 2MA 10:24	1	16	Ἀσίας	Ἀσία	noun, genitive feminine singular	1	of Asia
 2MA 10:24	1	17	γενομένους	γίνομαι	aorist middle participle, accusative masculine plural	1	bred
 2MA 10:24	1	18	ἵππους	ἵππος	noun, accusative masculine plural	1	horses

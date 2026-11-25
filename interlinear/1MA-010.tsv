@@ -207,7 +207,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 10:12	1	2	ἔφυγον	φεύγω	aorist active indicative, 3rd pl.	1	fled
 1MA 10:12	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 1MA 10:12	1	4	ἀλλογενεῖς	ἀλλογενής	adjective, nominative masculine plural; substantive	1	foreigners
-1MA 10:12	1	5	οἱ	ὁ	article, nominative masculine plural	1	the
+1MA 10:12	1	5	οἱ	ὁ	article, nominative masculine plural	1	—
 1MA 10:12	1	6	ὄντες	εἰμί	present participle, nominative masculine plural after οἱ, substantival	1	who were
 1MA 10:12	1	7	ἐν	ἐν	preposition with the dative	1	in
 1MA 10:12	1	8	τοῖς	ὁ	article, dative neuter plural	1	the
@@ -233,8 +233,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 10:14	1	3	Βαιθσούρᾳ	Βαιθσούρα	noun, dative feminine singular	1	Beth-zur
 1MA 10:14	1	4	ὑπελείφθησάν	ὑπολείπω	aorist passive indicative, third plural	1	were left
 1MA 10:14	1	5	τινες	τις	indefinite pronoun, nominative masc. pl.	1	some
-1MA 10:14	1	6	τῶν	ὁ	article genitive masculine plural	1	those
-1MA 10:14	1	7	καταλιπόντων	καταλείπω	aorist active participle, genitive masculine plural	1	those who had abandoned
+1MA 10:14	1	6	τῶν	ὁ	article genitive masculine plural	1	of those
+1MA 10:14	1	7	καταλιπόντων	καταλείπω	aorist active participle, genitive masculine plural	1	who had abandoned
 1MA 10:14	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 1MA 10:14	1	9	νόμον	νόμος	noun, accusative masc. sg. after τὸν	1	law
 1MA 10:14	1	10	καὶ	καί	conjunction	1	and
@@ -671,7 +671,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 10:34	1	31	τοῖς	ὁ	article, dative masculine plural	1	the
 1MA 10:34	1	32	Ἰουδαίοις	Ἰουδαῖος	noun, dative masculine plural	1	Judeans
 1MA 10:34	1	32	Ἰουδαίοις			2	Jews
-1MA 10:34	1	33	τοῖς	ὁ	article, dative masculine plural	1	the
+1MA 10:34	1	33	τοῖς	ὁ	article, dative masculine plural	1	—
 1MA 10:34	1	34	οὖσιν	εἰμί	present active participle, dative masculine plural	1	who are
 1MA 10:34	1	35	ἐν	ἐν	preposition with the dative	1	in
 1MA 10:34	1	36	πάσῃ	πᾶς	adjective, dative feminine singular	1	all
@@ -1007,7 +1007,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 10:46	1	28	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 1MA 10:46	1	29	σφόδρα	σφόδρα	adverb of degree	1	greatly
 1MA 10:47	1	1	Καὶ	καί	conjunction	1	and
-1MA 10:47	1	2	εὐδόκησαν	εὐδοκέω	aorist active indicative third plural	1	took pleasure in
+1MA 10:47	1	2	εὐδόκησαν	εὐδοκέω	aorist active indicative third plural	1	took pleasure
 1MA 10:47	1	3	ἐν	ἐν	preposition with the dative	1	in
 1MA 10:47	1	4	Ἀλεξάνδρῳ	Ἀλέξανδρος	noun, dative masculine singular	1	Alexander
 1MA 10:47	1	5	ὅτι	ὅτι	causal conjunction	1	because
@@ -1456,7 +1456,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 10:69	1	2	κατέστησε	καθίστημι	aorist active indicative, third singular	1	appointed
 1MA 10:69	1	3	Δημήτριος	Δημήτριος	noun, nominative masculine singular	1	Demetrius
 1MA 10:69	1	4	Ἀπολλώνιον	Ἀπολλώνιος	noun, accusative masculine singular	1	Apollonius
-1MA 10:69	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
+1MA 10:69	1	5	τὸν	ὁ	article, accusative masculine singular	1	—
 1MA 10:69	1	6	ὄντα	εἰμί	present active participle, accusative masculine singular	1	who was
 1MA 10:69	1	7	ἐπὶ	ἐπί	preposition with the genitive	1	upon
 1MA 10:69	1	8	Κοίλης	Κοίλη	noun, genitive feminine singular	1	Coele
@@ -1535,10 +1535,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 10:72	1	5	εἰμι	εἰμί	present indicative, first singular	1	am
 1MA 10:72	1	6	καὶ	καί	conjunction	1	and
 1MA 10:72	1	7	οἱ	ὁ	article, nominative masculine plural	1	the
-1MA 10:72	1	8	λοιποὶ	λοιπός	adjective, nominative masculine plural; substantival	1	the rest
+1MA 10:72	1	8	λοιποὶ	λοιπός	adjective, nominative masculine plural; substantival	1	rest
 1MA 10:72	1	8	λοιποὶ			2	those remaining
-1MA 10:72	1	9	οἱ	ὁ	article, nominative masculine plural	1	the
-1MA 10:72	1	10	βοηθοῦντες	βοηθέω	present active participle, nominative masculine plural; substantival	1	those who help
+1MA 10:72	1	9	οἱ	ὁ	article, nominative masculine plural	1	—
+1MA 10:72	1	10	βοηθοῦντες	βοηθέω	present active participle, nominative masculine plural; substantival	1	who help
 1MA 10:72	1	10	βοηθοῦντες			2	helpers
 1MA 10:72	1	11	ἡμῖν	ἐγώ	pronoun, dative first plural	1	to us
 1MA 10:72	1	12	καὶ	καί	conjunction	1	and
@@ -1826,7 +1826,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 10:84	1	23	ἱερὸν	ἱερόν	noun, accusative neuter singular	1	temple
 1MA 10:84	1	24	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 1MA 10:84	1	25	καὶ	καί	conjunction	1	and
-1MA 10:84	1	26	τοὺς	ὁ	article, accusative masculine plural	1	the
+1MA 10:84	1	26	τοὺς	ὁ	article, accusative masculine plural	1	those
 1MA 10:84	1	27	συμφυγόντας	συμφεύγω	aorist active participle, accusative masculine plural	1	who fled together
 1MA 10:84	1	28	εἰς	εἰς	preposition with the accusative	1	into
 1MA 10:84	1	29	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
@@ -1835,12 +1835,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 10:84	1	32	πυρί	πῦρ	noun, dative neuter singular	1	fire
 1MA 10:85	1	1	Καὶ	καί	conjunction	1	and
 1MA 10:85	1	2	ἐγένοντο	γίνομαι	aorist middle indicative, third person plural	1	became
-1MA 10:85	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
+1MA 10:85	1	3	οἱ	ὁ	article, nominative masculine plural	1	those
 1MA 10:85	1	4	πεπτωκότες	πίπτω	perfect active participle, nominative masculine plural	1	who had fallen
 1MA 10:85	1	5	μαχαίρᾳ	μάχαιρα	noun, dative feminine singular	1	by the sword
 1MA 10:85	1	6	σὺν	σύν	preposition with the dative, 'with	1	with
 1MA 10:85	1	7	τοῖς	ὁ	article, dative masculine plural	1	those
-1MA 10:85	1	8	ἐμπυρισθεῖσιν	ἐμπυρίζω	aorist passive participle, dative masculine plural	1	those burned
+1MA 10:85	1	8	ἐμπυρισθεῖσιν	ἐμπυρίζω	aorist passive participle, dative masculine plural	1	burned
 1MA 10:85	1	9	εἰς	εἰς	preposition with the accusative	1	into
 1MA 10:85	1	10	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
 1MA 10:85	1	11	ὀκτακισχιλίους	ὀκτακισχίλιοι	adjective, accusative masculine plural	1	eight thousand

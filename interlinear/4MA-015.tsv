@@ -24,7 +24,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 15:2	1	11	προσκαίρου	πρόσκαιρος	adjective, genitive feminine singular	1	temporary
 4MA 15:2	1	12	κατὰ	κατά	preposition with the accusative	1	according to
 4MA 15:2	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
-4MA 15:2	1	14	τοῦ	ὁ	article, genitive singular	1	the
+4MA 15:2	1	14	τοῦ	ὁ	article, genitive singular	1	of the
 4MA 15:2	1	15	τυράννου	τύραννος	noun, genitive masculine singular	1	tyrant
 4MA 15:2	1	16	ὑπόσχεσιν	ὑπόσχεσις	noun, accusative feminine singular	1	promise
 4MA 15:3	1	1	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -90,7 +90,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 15:6	1	4	μητέρων	μήτηρ	noun, genitive feminine plural	1	mothers
 4MA 15:6	1	5	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	proved to be
 4MA 15:6	1	6	ἡ	ὁ	article, nominative feminine singular	1	the
-4MA 15:6	1	7	τῶν	ὁ	article, genitive plural	1	the
+4MA 15:6	1	7	τῶν	ὁ	article, genitive plural	1	of the
 4MA 15:6	1	8	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 4MA 15:6	1	9	παίδων	παῖς	noun, genitive masculine plural	1	boys
 4MA 15:6	1	10	μήτηρ	μήτηρ	noun, nominative feminine singular	1	mother
@@ -126,7 +126,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 15:8	1	6	φόβον	φόβος	noun, accusative masc. sg	1	fear
 4MA 15:8	1	7	ὑπερεῖδεν	ὑπεροράω	aorist active indicative, third singular	1	she disregarded
 4MA 15:8	1	8	τὴν	ὁ	article, accusative feminine singular	1	the
-4MA 15:8	1	9	τῶν	ὁ	article, genitive plural	1	the
+4MA 15:8	1	9	τῶν	ὁ	article, genitive plural	1	of the
 4MA 15:8	1	10	τέκνων	τέκνον	noun, genitive neuter plural	1	children
 4MA 15:8	1	11	πρόσκαιρον	πρόσκαιρος	adjective, accusative feminine singular	1	temporary
 4MA 15:8	1	12	σωτηρίαν	σωτηρία	noun accusative feminine singular	1	deliverance
@@ -272,7 +272,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 15:15	1	19	σπαίροντας	σπαίρω	present active participle, accusative masculine plural	1	convulsing
 4MA 15:15	1	20	καὶ	καί	conjunction	1	and
 4MA 15:15	1	21	τὰς	ὁ	article, accusative feminine plural	1	the
-4MA 15:15	1	22	τῶν	ὁ	article, genitive plural	1	the
+4MA 15:15	1	22	τῶν	ὁ	article, genitive plural	1	of the
 4MA 15:15	1	23	κεφαλῶν	κεφαλή	noun, genitive feminine plural	1	heads
 4MA 15:15	1	24	μέχρι	μέχρι	preposition with genitive	1	to
 4MA 15:15	1	25	τῶν	ὁ	article, genitive plural	1	the
@@ -316,7 +316,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 15:18	1	10	οἶκτρον	οἶκτος	noun, accusative masculine singular	1	pity
 4MA 15:18	1	11	βλέπων	βλέπω	present active imperative, nominative masculine singular	1	looking
 4MA 15:18	1	12	ἐν	ἐν	preposition with the dative	1	in
-4MA 15:18	1	13	βασάνοις	βάσανος	noun, dative feminine plural	1	in tortures
+4MA 15:18	1	13	βασάνοις	βάσανος	noun, dative feminine plural	1	tortures
 4MA 15:18	1	13	βασάνοις			2	in torments
 4MA 15:18	1	14	οὐδὲ	οὐδέ	conjunction/negative	1	nor
 4MA 15:18	1	15	τρίτος	τρίτος	ordinal adjective, nominative masculine singular	1	third
@@ -558,7 +558,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 15:32	1	5	πανταχόθεν	πανταχόθεν	adverb	1	from every side
 4MA 15:32	1	6	ἐν	ἐν	preposition with the dative	1	in
 4MA 15:32	1	7	τῷ	ὁ	article, dative masculine singular	1	the
-4MA 15:32	1	8	τῶν	ὁ	article, genitive plural	1	the
+4MA 15:32	1	8	τῶν	ὁ	article, genitive plural	1	of the
 4MA 15:32	1	9	παθῶν	πάθος	noun, genitive neuter plural	1	passions
 4MA 15:32	1	9	παθῶν			2	emotions
 4MA 15:32	1	10	περιαντλουμένη	περιαντλέω	present passive participle, nominative feminine singular	1	flooded all around
@@ -568,7 +568,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 15:32	1	13	καρτεροῖς	καρτερός	adjective, dative neuter plural	1	fierce
 4MA 15:32	1	14	ἀνέμοις	ἄνεμος	noun, dative masculine plural	1	winds
 4MA 15:32	1	15	ταῖς	ὁ	article, dative feminine plural	1	the
-4MA 15:32	1	16	τῶν	ὁ	article, genitive plural	1	the
+4MA 15:32	1	16	τῶν	ὁ	article, genitive plural	1	of the
 4MA 15:32	1	17	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
 4MA 15:32	1	18	βασάνοις	βάσανος	noun, dative feminine plural	1	in tortures
 4MA 15:32	1	18	βασάνοις			2	in torments

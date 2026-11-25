@@ -65,7 +65,7 @@ JOS 3:3	1	23	αἴροντας	αἴρω	present active participle, accusative m
 JOS 3:3	1	24	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 JOS 3:3	1	25	καὶ	καί	conjunction	1	and
 JOS 3:3	1	26	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
-JOS 3:3	1	27	ἀπαρεῖτε	ἀπαίρω	future active indicative, second plural	1	you shall set out
+JOS 3:3	1	27	ἀπαρεῖτε	ἀπαίρω	future active indicative, second plural	1	shall set out
 JOS 3:3	1	28	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOS 3:3	1	29	τῶν	ὁ	article, genitive masculine plural	1	the
 JOS 3:3	1	30	τόπων	τόπος	noun, genitive masculine plural	1	places
@@ -190,7 +190,7 @@ JOS 3:8	1	2	νῦν	νῦν	adverb of time	1	now
 JOS 3:8	1	3	ἔντειλαι	ἐντέλλομαι	aorist middle imperative, second singular	1	command
 JOS 3:8	1	4	τοῖς	ὁ	article, dative masculine plural	1	to the
 JOS 3:8	1	5	ἱερεῦσι	ἱερεύς	noun, dative masculine plural	1	priests
-JOS 3:8	1	6	τοῖς	ὁ	article, dative masculine plural	1	the
+JOS 3:8	1	6	τοῖς	ὁ	article, dative masculine plural	1	—
 JOS 3:8	1	7	αἴρουσι	αἴρω	present active participle, dative masculine plural	1	who carry
 JOS 3:8	1	8	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 3:8	1	9	κιβωτὸν	κιβωτός	noun, accusative feminine singular	1	ark
@@ -246,24 +246,24 @@ JOS 3:10	1	16	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOS 3:10	1	17	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the face
 JOS 3:10	1	18	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 JOS 3:10	1	19	τὸν	ὁ	article, accusative masculine singular	1	the
-JOS 3:10	1	20	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν/καὶ	1	the Canaanite (people)
+JOS 3:10	1	20	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν/καὶ	1	Canaanite (people)
 JOS 3:10	1	21	καὶ	καί	conjunction	1	and
 JOS 3:10	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
-JOS 3:10	1	23	Χετταῖον	Χετταῖον	ethnic noun, accusative masculine singular collective after τὸν/καὶ	1	the Hittite (people)
+JOS 3:10	1	23	Χετταῖον	Χετταῖον	ethnic noun, accusative masculine singular collective after τὸν/καὶ	1	Hittite (people)
 JOS 3:10	1	24	καὶ	καί	conjunction	1	and
 JOS 3:10	1	25	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 3:10	1	26	Εὐαῖον	Εὐαῖος	substantival adjective, accusative masculine singular	1	Hivite
 JOS 3:10	1	26	Εὐαῖον			2	Euaean
 JOS 3:10	1	27	καὶ	καί	conjunction	1	and
 JOS 3:10	1	28	τὸν	ὁ	article, accusative masculine singular	1	the
-JOS 3:10	1	29	Φερεζαῖον	Φερεζαῖος	ethnic noun, accusative masc. sg. collective	1	the Perizzite
+JOS 3:10	1	29	Φερεζαῖον	Φερεζαῖος	ethnic noun, accusative masc. sg. collective	1	Perizzite
 JOS 3:10	1	30	καὶ	καί	conjunction	1	and
 JOS 3:10	1	31	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 3:10	1	32	Γεργεσαῖον	Γεργεσαῖος	substantival adjective, accusative masculine singular	1	Gergesite
 JOS 3:10	1	32	Γεργεσαῖον			2	Girgashite
 JOS 3:10	1	33	καὶ	καί	conjunction	1	and
 JOS 3:10	1	34	τὸν	ὁ	article, accusative masculine singular	1	the
-JOS 3:10	1	35	Ἀμοῤῥαῖον	Ἀμοῤῥαῖον	ethnic noun, accusative masculine singular collective after τὸν/καὶ	1	the Amorite (people)
+JOS 3:10	1	35	Ἀμοῤῥαῖον	Ἀμοῤῥαῖον	ethnic noun, accusative masculine singular collective after τὸν/καὶ	1	Amorite (people)
 JOS 3:10	1	36	καὶ	καί	conjunction	1	and
 JOS 3:10	1	37	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 3:10	1	38	Ἰεβουσαῖον	Ἰεβουσαῖος	substantival adjective, accusative masculine singular	1	Jebusite
@@ -306,7 +306,7 @@ JOS 3:13	1	6	οἱ	ὁ	article, nominative masculine plural	1	the
 JOS 3:13	1	7	πόδες	πούς	noun, nominative masculine plural	1	feet
 JOS 3:13	1	8	τῶν	ὁ	article, genitive plural	1	the
 JOS 3:13	1	9	ἱερέων	ἱερεύς	noun, genitive masculine plural after τῶν (printed ἱερέων)	1	priests
-JOS 3:13	1	10	τῶν	ὁ	article, genitive plural	1	the
+JOS 3:13	1	10	τῶν	ὁ	article, genitive plural	1	—
 JOS 3:13	1	11	αἰρόντων	αἴρω	present active participle, genitive masculine plural	1	who carry
 JOS 3:13	1	12	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 3:13	1	13	κιβωτὸν	κιβωτός	noun, accusative feminine singular	1	ark
@@ -381,7 +381,7 @@ JOS 3:15	1	15	οἱ	ὁ	article, nominative masculine plural	1	the
 JOS 3:15	1	16	πόδες	πούς	noun, nominative masculine plural	1	feet
 JOS 3:15	1	17	τῶν	ὁ	article, genitive plural	1	the
 JOS 3:15	1	18	ἱερέων	ἱερεύς	noun, genitive masculine plural after τῶν (printed ἱερέων)	1	priests
-JOS 3:15	1	19	τῶν	ὁ	article, genitive plural	1	the
+JOS 3:15	1	19	τῶν	ὁ	article, genitive plural	1	—
 JOS 3:15	1	20	αἰρόντων	αἴρω	present active participle, genitive masculine plural	1	who carry
 JOS 3:15	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 3:15	1	22	κιβωτὸν	κιβωτός	noun, accusative feminine singular	1	ark

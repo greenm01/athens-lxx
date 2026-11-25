@@ -19,8 +19,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 6:1	1	17	πατρίων	πάτριος	adjective, genitive neuter plural	1	ancestral
 2MA 6:1	1	18	νόμων	νόμος	noun, genitive masculine plural	1	laws
 2MA 6:1	1	19	καὶ	καί	conjunction	1	and
-2MA 6:1	1	20	τοῖς	ὁ	article, dative neuter plural	1	the
-2MA 6:1	1	21	τοῦ	ὁ	article, genitive singular	1	the
+2MA 6:1	1	20	τοῖς	ὁ	article, dative neuter plural	1	by the
+2MA 6:1	1	21	τοῦ	ὁ	article, genitive singular	1	of
 2MA 6:1	1	22	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 2MA 6:1	1	23	νόμοις	νόμος	noun, dative masculine plural	1	laws
 2MA 6:1	1	24	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
@@ -42,7 +42,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 6:2	1	15	Γαριζεὶν	Γαριζείν	indeclinable place name, case from construction	1	Gerizim
 2MA 6:2	1	16	καθὼς	καθώς	comparative conjunction	1	just as
 2MA 6:2	1	17	ἐτύγχανον	τυγχάνω	imperfect active indicative, third plural	1	they happened to be
-2MA 6:2	1	18	οἱ	ὁ	article, nominative masculine plural	1	the
+2MA 6:2	1	18	οἱ	ὁ	article, nominative masculine plural	1	those
 2MA 6:2	1	19	τὸν	ὁ	article, accusative masculine singular	1	the
 2MA 6:2	1	20	τόπον	τόπος	noun, accusative masculine singular	1	place
 2MA 6:2	1	21	οἰκοῦντες	οἰκέω	present active participle, nominative masculine plural	1	living
@@ -50,7 +50,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 6:2	1	23	ξενίου	ξένιος	adjective, genitive masculine singular	1	protector of strangers
 2MA 6:3	1	1	Χαλεπὴ	χαλεπός	adjective, nominative feminine singular	1	harsh
 2MA 6:3	1	2	δὲ	δέ	postpositive conjunction	1	and
-2MA 6:3	1	3	καὶ	καί	conjunction	1	and
+2MA 6:3	1	3	καὶ	καί	conjunction	1	even
 2MA 6:3	1	4	τοῖς	ὁ	article, dative masculine plural	1	to the
 2MA 6:3	1	5	ὄχλοις	ὄχλος	noun, dative masculine plural	1	crowds
 2MA 6:3	1	6	ἦν	εἰμί	imperfect indicative, 3rd singular	1	was
@@ -229,8 +229,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 6:11	1	26	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
 2MA 6:12	1	1	Παρακαλῶ	παρακαλέω	present active indicative, first singular	1	I call
 2MA 6:12	1	2	οὖν	οὖν	inferential particle	1	then
-2MA 6:12	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
-2MA 6:12	1	4	ἐντυγχάνοντας	ἐντυγχάνω	present active participle, accusative masculine plural	1	those reading
+2MA 6:12	1	3	τοὺς	ὁ	article, accusative masculine plural	1	those
+2MA 6:12	1	4	ἐντυγχάνοντας	ἐντυγχάνω	present active participle, accusative masculine plural	1	reading
 2MA 6:12	1	5	τῇδε	τῇδε	demonstrative adverb	1	here
 2MA 6:12	1	5	τῇδε			2	at that point
 2MA 6:12	1	6	τῇ	ὁ	article, dative feminine singular	1	the
@@ -362,8 +362,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 6:18	1	11	καὶ	καί	conjunction	1	and
 2MA 6:18	1	12	τὴν	ὁ	article, accusative feminine singular	1	the
 2MA 6:18	1	13	πρόσοψιν	πρόσοψις	noun, accusative feminine singular	1	appearance
-2MA 6:18	1	14	τοῦ	ὁ	article, genitive singular	1	the
-2MA 6:18	1	15	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the face
+2MA 6:18	1	14	τοῦ	ὁ	article, genitive singular	1	of the
+2MA 6:18	1	15	προσώπου	πρόσωπον	noun, genitive neuter singular	1	face
 2MA 6:18	1	16	κάλλιστος	καλός	adjective, nominative masculine singular; superlative	1	finest
 2MA 6:18	1	16	κάλλιστος			2	most beautiful
 2MA 6:18	1	17	ἀναχαίνων	ἀναχαίνω	present active participle, nominative masculine singular	1	opening wide
@@ -483,7 +483,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 6:23	1	9	ἡλικίας	ἡλικία	noun, genitive feminine singular	1	stature
 2MA 6:23	1	10	καὶ	καί	conjunction	1	and
 2MA 6:23	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
-2MA 6:23	1	12	τοῦ	ὁ	article, genitive singular	1	the
+2MA 6:23	1	12	τοῦ	ὁ	article, genitive singular	1	of
 2MA 6:23	1	13	γήρους	γῆρας	noun, genitive neuter singular, in υἱὸς γήρους 'son of (his) old age'	1	old age
 2MA 6:23	1	14	ὑπεροχῆς	ὑπεροχή	noun, genitive feminine singular	1	distinction
 2MA 6:23	1	15	καὶ	καί	conjunction	1	and
@@ -575,8 +575,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 6:26	1	11	τιμωρίαν			2	punishment
 2MA 6:26	1	12	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 2MA 6:26	1	13	τὰς	ὁ	definite article, accusative feminine plural	1	the
-2MA 6:26	1	14	τοῦ	ὁ	article, genitive singular	1	the
-2MA 6:26	1	15	παντοκράτορος	παντοκράτωρ	noun, genitive masculine singular; divine title	1	the Almighty
+2MA 6:26	1	14	τοῦ	ὁ	article, genitive singular	1	of the
+2MA 6:26	1	15	παντοκράτορος	παντοκράτωρ	noun, genitive masculine singular; divine title	1	Almighty
 2MA 6:26	1	16	χεῖρας	χείρ	noun, accusative feminine plural	1	hands
 2MA 6:26	1	17	οὔτε	οὔτε	negative conjunction, neither/nor in οὐκ...οὔτε series	1	nor
 2MA 6:26	1	18	ζῶν	ζάω	present active participle, accusative neuter singular	1	living
@@ -641,7 +641,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 6:29	1	16	λόγων			2	deeds
 2MA 6:29	1	17	οὓς	ὅς	relative pronoun, accusative masculine plural	1	whom
 2MA 6:29	1	18	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
-2MA 6:29	1	19	ὑπελάμβανον	ὑπολαμβάνω	imperfect active indicative, third plural	1	they supposed
+2MA 6:29	1	19	ὑπελάμβανον	ὑπολαμβάνω	imperfect active indicative, third plural	1	supposed
 2MA 6:29	1	20	ἀπόνοιαν	ἀπόνοια	noun, accusative feminine singular	1	madness
 2MA 6:29	1	21	εἶναι	εἰμί	present infinitive	1	to be
 2MA 6:30	1	1	Μέλλων	μέλλω	present active participle, nominative masculine singular	1	who is about

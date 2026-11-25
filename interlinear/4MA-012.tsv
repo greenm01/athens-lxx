@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 12:1	1	1	ΩΣ	ὡς	Temporal conjunction	1	when
 4MA 12:1	1	2	δὲ	δέ	postpositive conjunction	1	and
-4MA 12:1	1	3	καὶ	καί	conjunction	1	and
+4MA 12:1	1	3	καὶ	καί	conjunction	1	also
 4MA 12:1	1	4	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 4MA 12:1	1	5	μακαρίως	μακαρίως	adverb	1	blessedly
 4MA 12:1	1	5	μακαρίως			2	in blessedness
@@ -135,8 +135,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 12:6	1	19	εὐπειθῆ	εὐπειθής	adjective, accusative masculine singular	1	obedient
 4MA 12:6	1	19	εὐπειθῆ			2	compliant
 4MA 12:6	1	20	ποιῆσαι	ποιέω	aorist active infinitive	1	to make
-4MA 12:6	1	21	τὸν	ὁ	article, accusative masculine singular	1	the
-4MA 12:6	1	22	περιλειπόμενον	περιλείπω	present passive participle, accusative masculine singular; used substantivally	1	the one remaining
+4MA 12:6	1	21	τὸν	ὁ	article, accusative masculine singular	1	the one
+4MA 12:6	1	22	περιλειπόμενον	περιλείπω	present passive participle, accusative masculine singular; used substantivally	1	remaining
 4MA 12:6	1	22	περιλειπόμενον			2	the survivor
 4MA 12:7	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 4MA 12:7	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -238,7 +238,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 12:11	1	23	κατακτεῖναι			2	to put to death
 4MA 12:11	1	24	καὶ	καί	conjunction	1	and
 4MA 12:11	1	25	τοὺς	ὁ	article, accusative masculine plural	1	the
-4MA 12:11	1	26	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 12:11	1	26	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 12:11	1	27	εὐσεβείας	εὐσέβεια	noun, genitive feminine singular	1	religion
 4MA 12:11	1	28	ἀσκητὰς	ἀσκητής	noun, accusative masculine plural	1	those trained
 4MA 12:11	1	28	ἀσκητὰς			2	practitioners
@@ -325,7 +325,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 12:15	1	5	οἰμώξεις	οἰμώζω	future active indicative, second singular	1	you will wail
 4MA 12:15	1	5	οἰμώξεις			2	you will lament
 4MA 12:15	1	6	τοὺς	ὁ	article, accusative masculine plural	1	the
-4MA 12:15	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 12:15	1	7	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 12:15	1	8	ἀρετῆς	ἀρετή	noun, genitive feminine singular	1	virtue
 4MA 12:15	1	8	ἀρετῆς			2	excellence
 4MA 12:15	1	9	ἀγωνιστὰς	ἀγωνιστής	noun, accusative masculine plural	1	champions
@@ -346,7 +346,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 12:17	1	2	ἀπαυτομολῶ	ἀπαυτομολέω	present active indicative, first singular	1	I will desert
 4MA 12:17	1	2	ἀπαυτομολῶ			2	I will defect from
 4MA 12:17	1	3	τῆς	ὁ	article, genitive feminine singular; modifies ἀριστείας across an inserted genitive	1	the
-4MA 12:17	1	4	τῶν	ὁ	article, genitive masculine plural	1	the
+4MA 12:17	1	4	τῶν	ὁ	article, genitive masculine plural	1	of the
 4MA 12:17	1	5	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 4MA 12:17	1	6	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 4MA 12:17	1	7	ἀριστείας	ἀριστεία	noun, genitive feminine singular	1	valor

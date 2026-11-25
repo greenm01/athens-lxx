@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 7:1	1	1	ΣΥΝΕΒΗ	συμβαίνω	aorist active indicative, third singular	1	it happened
 2MA 7:1	1	2	δὲ	δέ	postpositive conjunction	1	and
-2MA 7:1	1	3	καὶ	καί	conjunction	1	and
+2MA 7:1	1	3	καὶ	καί	conjunction	1	also
 2MA 7:1	1	4	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 2MA 7:1	1	5	ἀδελφοὺς	ἀδελφός	noun, accusative masculine plural	1	brothers
 2MA 7:1	1	6	μετὰ	μετά	preposition with genitive	1	with
@@ -31,7 +31,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 7:2	1	6	εἶπε	λέγω	aorist active indicative, third singular	1	said
 2MA 7:2	1	7	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
 2MA 7:2	1	8	μέλλεις	μέλλω	present active indicative, second person singular	1	you are to
-2MA 7:2	1	9	ἐρωτᾷν	ἐρωτάω	present active infinitive	1	to inquire
+2MA 7:2	1	9	ἐρωτᾷν	ἐρωτάω	present active infinitive	1	inquire
 2MA 7:2	1	10	καὶ	καί	conjunction	1	and
 2MA 7:2	1	11	μανθάνειν	μανθάνω	present active infinitive	1	to learn
 2MA 7:2	1	12	παρ᾽	παρά	preposition with genitive	1	from
@@ -60,7 +60,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 7:4	1	2	δὲ	δέ	postpositive conjunction	1	and
 2MA 7:4	1	3	παραχρῆμα	παραχρῆμα	adverb	1	immediately
 2MA 7:4	1	4	ἐκπυρωθέντων	ἐκπυρόω	aorist passive participle, genitive neuter plural	1	having been heated
-2MA 7:4	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
+2MA 7:4	1	5	τὸν	ὁ	article, accusative masculine singular	1	the one
 2MA 7:4	1	6	γενόμενον	γίνομαι	aorist middle participle, accusative masculine singular	1	who had become
 2MA 7:4	1	7	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 2MA 7:4	1	8	προήγορον	προήγορος	noun, accusative masculine singular	1	spokesman
@@ -151,7 +151,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 7:7	1	13	ἐμπαιγμόν	ἐμπαιγμός	noun, accusative masculine singular	1	mockery
 2MA 7:7	1	14	καὶ	καί	conjunction	1	and
 2MA 7:7	1	15	τὸ	ὁ	article, accusative neuter singular	1	the
-2MA 7:7	1	16	τῆς	ὁ	article, genitive feminine singular	1	the
+2MA 7:7	1	16	τῆς	ὁ	article, genitive feminine singular	1	of the
 2MA 7:7	1	17	κεφαλῆς	κεφαλή	noun, genitive feminine singular	1	head
 2MA 7:7	1	18	δέρμα	δέρμα	noun, accusative neuter singular	1	hide
 2MA 7:7	1	18	δέρμα			2	skin
@@ -271,7 +271,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 7:12	1	8	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	him
 2MA 7:12	1	9	ἐκπλήσσεσθαι	ἐκπλήσσω	present passive infinitive	1	to be astounded
 2MA 7:12	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
-2MA 7:12	1	11	τοῦ	ὁ	article, genitive singular	1	the
+2MA 7:12	1	11	τοῦ	ὁ	article, genitive singular	1	of the
 2MA 7:12	1	12	νεανίσκου	νεανίσκος	noun, genitive masculine singular	1	young man
 2MA 7:12	1	13	ψυχὴν	ψυχή	noun accusative feminine singular	1	soul
 2MA 7:12	1	14	ὡς	ὡς	comparative particle	1	as
@@ -476,15 +476,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 7:22	1	21	στοιχείωσιν	στοιχείωσις	noun, accusative feminine singular	1	formation
 2MA 7:22	1	22	οὐκ	οὐ	negative particle	1	not
 2MA 7:22	1	23	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
-2MA 7:22	1	24	διερύθμισα	διαρρυθμίζω	aorist active indicative, first singular	1	I arranged
+2MA 7:22	1	24	διερύθμισα	διαρρυθμίζω	aorist active indicative, first singular	1	arranged
 2MA 7:23	1	1	Τοιγαροῦν	τοιγαροῦν	inferential particle	1	therefore
 2MA 7:23	1	1	Τοιγαροῦν			2	so then
 2MA 7:23	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
-2MA 7:23	1	3	τοῦ	ὁ	article, genitive singular	1	the
+2MA 7:23	1	3	τοῦ	ὁ	article, genitive singular	1	—
 2MA 7:23	1	4	κόσμου	κόσμος	noun, genitive masculine singular	1	of the world
 2MA 7:23	1	5	κτίστης	κτίστης	noun, nominative masculine singular	1	creator
-2MA 7:23	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
-2MA 7:23	1	7	πλάσας	πλάσσω	aorist active participle, nominative masculine singular; substantival	1	the one who formed
+2MA 7:23	1	6	ὁ	ὁ	article, nominative masculine singular	1	—
+2MA 7:23	1	7	πλάσας	πλάσσω	aorist active participle, nominative masculine singular; substantival	1	who formed
 2MA 7:23	1	7	πλάσας			2	the maker
 2MA 7:23	1	8	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	man
 2MA 7:23	1	9	γένεσιν	γένεσις	noun, accusative feminine singular	1	origin
@@ -647,7 +647,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 7:28	1	24	Θεὸς	θεός	noun, nominative masculine singular	1	God
 2MA 7:28	1	25	καὶ	καί	conjunction	1	and
 2MA 7:28	1	26	τὸ	ὁ	article, neuter singular (case from context)	1	the
-2MA 7:28	1	27	τῶν	ὁ	article, genitive masculine plural	1	the
+2MA 7:28	1	27	τῶν	ὁ	article, genitive masculine plural	1	of the
 2MA 7:28	1	28	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	human beings
 2MA 7:28	1	28	ἀνθρώπων			2	people
 2MA 7:28	1	29	γένος	γένος	noun, accusative neuter singular	1	kind
@@ -773,8 +773,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 7:35	1	1	Οὔπω	οὔπω	negative adverb	1	not yet
 2MA 7:35	1	2	γὰρ	γάρ	conjunction	1	for
 2MA 7:35	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
-2MA 7:35	1	4	τοῦ	ὁ	article, genitive singular	1	the
-2MA 7:35	1	5	παντοκράτορος	παντοκράτωρ	noun, genitive masculine singular; divine title	1	the Almighty
+2MA 7:35	1	4	τοῦ	ὁ	article, genitive singular	1	of the
+2MA 7:35	1	5	παντοκράτορος	παντοκράτωρ	noun, genitive masculine singular; divine title	1	Almighty
 2MA 7:35	1	6	ἐπόπτου	ἐπόπτης	noun, genitive masculine singular	1	overseer
 2MA 7:35	1	7	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 2MA 7:35	1	8	κρίσιν	κρίσις	noun, accusative feminine singular	1	judgment
@@ -797,7 +797,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 7:36	1	16	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 2MA 7:36	1	17	δὲ	δέ	postpositive conjunction	1	and
 2MA 7:36	1	18	τῇ	ὁ	article, dative feminine singular	1	in the
-2MA 7:36	1	19	τοῦ	ὁ	article, genitive singular	1	the
+2MA 7:36	1	19	τοῦ	ὁ	article, genitive singular	1	of
 2MA 7:36	1	20	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 2MA 7:36	1	21	κρίσει	κρίσις	noun, dative feminine singular	1	judgment
 2MA 7:36	1	22	δίκαια	δίκαιος	adjective, nominative neuter plural	1	just
@@ -847,15 +847,15 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 7:37	1	35	ἐστιν	εἰμί	present indicative, third singular	1	is
 2MA 7:38	1	1	Ἐν	ἐν	preposition with the dative	1	in
 2MA 7:38	1	2	ἐμοὶ	ἐγώ	pronoun, dative first singular	1	me
-2MA 7:38	1	3	δὲ	δέ	postpositive conjunction	1	and
+2MA 7:38	1	3	δὲ	δέ	postpositive conjunction	1	now
 2MA 7:38	1	4	καὶ	καί	conjunction	1	and
 2MA 7:38	1	5	τοῖς	ὁ	article, dative masculine plural	1	the
 2MA 7:38	1	6	ἀδελφοῖς	ἀδελφός	noun dative masculine plural	1	brothers
 2MA 7:38	1	7	μου	ἐγώ	personal pronoun genitive first singular	1	my
 2MA 7:38	1	8	στῆναι	ἵστημι	aorist active infinitive	1	to stand
 2MA 7:38	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
-2MA 7:38	1	10	τοῦ	ὁ	article, genitive singular	1	the
-2MA 7:38	1	11	παντοκράτορος	παντοκράτωρ	noun, genitive masculine singular; divine title	1	the Almighty
+2MA 7:38	1	10	τοῦ	ὁ	article, genitive singular	1	of the
+2MA 7:38	1	11	παντοκράτορος	παντοκράτωρ	noun, genitive masculine singular; divine title	1	Almighty
 2MA 7:38	1	12	ὀργὴν	ὀργή	noun, accusative feminine singular	1	anger
 2MA 7:38	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 2MA 7:38	1	14	ἐπὶ	ἐπί	preposition (case from context)	1	on

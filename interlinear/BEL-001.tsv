@@ -110,7 +110,7 @@ BEL 1:5	1	9	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 BEL 1:5	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 BEL 1:5	1	11	ζῶντα	ζάω	present active participle, accusative masculine singular	1	living
 BEL 1:5	1	12	Θεὸν	θεός	noun, accusative masculine singular	1	God
-BEL 1:5	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
+BEL 1:5	1	13	τὸν	ὁ	article, accusative masculine singular	1	—
 BEL 1:5	1	14	κτίσαντα	κτίζω	aorist active participle, accusative masculine singular	1	who created
 BEL 1:5	1	14	κτίσαντα			2	who founded
 BEL 1:5	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -193,7 +193,7 @@ BEL 1:8	1	13	μὴ	μή	negative particle	1	not
 BEL 1:8	1	14	εἴπητέ	λέγω	aorist active subjunctive, second plural	1	you tell
 BEL 1:8	1	15	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 BEL 1:9	1	1	τίς	τίς	Interrogative pronoun; nominative masculine singular	1	who
-BEL 1:9	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
+BEL 1:9	1	2	ὁ	ὁ	article, nominative masculine singular	1	the one
 BEL 1:9	1	3	κατεσθίων	κατεσθίω	present active participle, nominative masculine singular	1	who is eating up
 BEL 1:9	1	3	κατεσθίων			2	that devours
 BEL 1:9	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -263,7 +263,7 @@ BEL 1:11	1	5	τοῦ	ὁ	article, genitive singular	1	the
 BEL 1:11	1	6	Βήλ	Βήλ	noun, genitive masculine singular; indeclinable	1	Bel
 BEL 1:11	1	7	ἰδοὺ	ἰδού	presentative particle	1	behold
 BEL 1:11	1	8	ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
-BEL 1:11	1	9	ἀποτρέχομεν	ἀποτρέχω	present active indicative, first plural	1	we are leaving
+BEL 1:11	1	9	ἀποτρέχομεν	ἀποτρέχω	present active indicative, first plural	1	are leaving
 BEL 1:11	1	9	ἀποτρέχομεν			2	we will go away
 BEL 1:11	1	10	ἔξω	ἔξω	adverb of place	1	outside
 BEL 1:11	1	11	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
@@ -309,7 +309,7 @@ BEL 1:12	1	11	Βὴλ	Βήλ	noun, genitive masculine singular; indeclinable	1	B
 BEL 1:12	1	12	ἀποθανούμεθα	ἀποθνῄσκω	future middle indicative, first plural	1	we will die
 BEL 1:12	1	13	ἢ	ἤ	conjunction	1	or
 BEL 1:12	1	14	Δανιὴλ	Δανιήλ	noun, nominative masculine singular; indeclinable	1	Daniel
-BEL 1:12	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
+BEL 1:12	1	15	ὁ	ὁ	article, nominative masculine singular	1	—
 BEL 1:12	1	16	ψευσάμενος	ψεύδομαι	aorist middle participle, nominative masculine singular	1	who lied
 BEL 1:12	1	16	ψευσάμενος			2	who spoke falsely
 BEL 1:12	1	17	καθ᾽	κατά	Preposition with genitive	1	against
@@ -593,7 +593,7 @@ BEL 1:24	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 BEL 1:24	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 BEL 1:24	1	5	τῷ	ὁ	article, dative masculine singular; with a proper name	1	to
 BEL 1:24	1	6	Δανιήλ	Δανιήλ	noun, dative masculine singular; indeclinable	1	Daniel
-BEL 1:24	1	7	μὴ	μή	Interrogative particle anticipating a negative answer	1	surely not
+BEL 1:24	1	7	μὴ	μή	Interrogative particle anticipating a negative answer	1	[marks a question]
 BEL 1:24	1	8	καὶ	καί	conjunction	1	and
 BEL 1:24	1	9	τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	1	this
 BEL 1:24	1	10	ἐρεῖς	λέγω	future active indicative, second singular	1	you will say
@@ -830,7 +830,7 @@ BEL 1:33	1	8	Ἰουδαίᾳ	Ἰουδαία	noun, dative feminine singular; pl
 BEL 1:33	1	9	καὶ	καί	conjunction	1	and
 BEL 1:33	1	10	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	he
 BEL 1:33	1	10	οὗτος			2	this man
-BEL 1:33	1	11	ἥψησεν	ἕψω	aorist active indicative, third singular	1	he boiled
+BEL 1:33	1	11	ἥψησεν	ἕψω	aorist active indicative, third singular	1	boiled
 BEL 1:33	1	11	ἥψησεν			2	he cooked
 BEL 1:33	1	12	ἕψεμα	ἕψεμα	noun, accusative neuter singular	1	stew
 BEL 1:33	1	12	ἕψεμα			2	cooked food
@@ -958,7 +958,7 @@ BEL 1:38	1	9	καὶ	καί	conjunction	1	and
 BEL 1:38	1	10	οὐκ	οὐ	negative particle	1	not
 BEL 1:38	1	11	ἐγκατέλιπες	ἐγκαταλείπω	aorist active indicative, second singular	1	you abandoned
 BEL 1:38	1	11	ἐγκατέλιπες			2	you left behind
-BEL 1:38	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
+BEL 1:38	1	12	τοὺς	ὁ	article, accusative masculine plural	1	those
 BEL 1:38	1	13	ἀγαπῶντάς	ἀγαπάω	present active participle, accusative masculine plural	1	who love
 BEL 1:38	1	14	σε	σύ	personal pronoun, accusative singular	1	you
 BEL 1:39	1	1	Καὶ	καί	conjunction	1	and

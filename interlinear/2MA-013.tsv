@@ -84,7 +84,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 13:4	1	7	τὸν	ὁ	article, accusative masculine singular	1	the
 2MA 13:4	1	8	θυμὸν	θυμός	noun, accusative masculine singular	1	wrath
 2MA 13:4	1	9	τοῦ	ὁ	article, genitive masculine singular	1	of
-2MA 13:4	1	10	Ἀντιόχου	Ἀντίοχος	noun, genitive masculine singular	1	of Antiochus
+2MA 13:4	1	10	Ἀντιόχου	Ἀντίοχος	noun, genitive masculine singular	1	Antiochus
 2MA 13:4	1	11	ἐπὶ	ἐπί	preposition (case from context)	1	over
 2MA 13:4	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
 2MA 13:4	1	13	ἀλιτήριον	ἀλιτήριος	adjective, accusative masculine singular	1	scoundrel
@@ -220,8 +220,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 13:10	1	17	καὶ	καί	conjunction	1	and
 2MA 13:10	1	18	νῦν	νῦν	adverb of time	1	now
 2MA 13:10	1	19	ἐπιβοηθεῖν	ἐπιβοηθέω	present active infinitive	1	to come to the aid
-2MA 13:11	1	1	τοῖς	ὁ	article, dative masculine plural	1	with the
-2MA 13:11	1	2	τοῦ	ὁ	article, genitive singular	1	the
+2MA 13:11	1	1	τοῖς	ὁ	article, dative masculine plural	1	those
+2MA 13:11	1	2	τοῦ	ὁ	article, genitive singular	1	of the
 2MA 13:11	1	3	νόμου	νόμος	noun, genitive masculine singular	1	law
 2MA 13:11	1	4	καὶ	καί	conjunction	1	and
 2MA 13:11	1	5	πατρίδος	πατρίς	noun, genitive feminine singular	1	homeland
@@ -302,8 +302,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 13:13	1	23	κρῖναι	κρίνω	aorist active infinitive	1	to judge
 2MA 13:13	1	24	τὰ	ὁ	article, accusative neuter plural	1	the
 2MA 13:13	1	25	πράγματα	πρᾶγμα	noun, accusative neuter plural	1	affairs
-2MA 13:13	1	26	τῇ	ὁ	article, dative feminine singular	1	the
-2MA 13:13	1	27	τοῦ	ὁ	article, genitive masculine singular	1	the
+2MA 13:13	1	26	τῇ	ὁ	article, dative feminine singular	1	by
+2MA 13:13	1	27	τοῦ	ὁ	article, genitive masculine singular	1	—
 2MA 13:13	1	28	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 2MA 13:13	1	29	βοηθείᾳ	βοήθεια	noun dative feminine singular	1	the help
 2MA 13:14	1	1	Δοὺς	δίδωμι	aorist active participle, nominative masculine singular	1	having given
@@ -449,7 +449,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 13:21	1	10	Ἰουδαϊκῆς	Ἰουδαϊκός	adjective, genitive feminine singular	1	Jewish
 2MA 13:21	1	11	τάξεως	τάξις	noun, genitive feminine singular	1	order
 2MA 13:21	1	12	ἀνεζητήθη	ἀναζητέω	aorist passive indicative, third singular	1	was sought out
-2MA 13:21	1	13	δὲ	δέ	postpositive conjunction	1	and
+2MA 13:21	1	13	δὲ	δέ	postpositive conjunction	1	then
 2MA 13:21	1	14	καὶ	καί	conjunction	1	and
 2MA 13:21	1	15	κατελήφθη	καταλαμβάνω	aorist passive indicative, third singular; neuter plural subject	1	was caught
 2MA 13:21	1	16	καὶ	καί	conjunction	1	and
@@ -551,8 +551,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 13:26	1	13	εἰς	εἰς	preposition with the accusative	1	into
 2MA 13:26	1	14	Ἀντιόχειαν	Ἀντιόχεια	noun, accusative feminine singular	1	Antioch
 2MA 13:26	1	15	οὕτω	οὕτως	adverb as printed	1	so
-2MA 13:26	1	16	τὰ	ὁ	article, nominative neuter singular	1	the
-2MA 13:26	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
+2MA 13:26	1	16	τὰ	ὁ	article, nominative neuter singular	1	the things
+2MA 13:26	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
 2MA 13:26	1	18	ἐφόδου	ἔφοδος	noun, genitive feminine singular	1	advance
 2MA 13:26	1	19	τοῦ	ὁ	article, genitive singular	1	the
 2MA 13:26	1	20	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king

@@ -29,8 +29,8 @@ SIR 10:2	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
 SIR 10:2	1	16	πόλεως	πόλις	noun, genitive feminine singular	1	city
 SIR 10:2	1	16	πόλεως			2	town
 SIR 10:2	1	17	πάντες	πᾶς	adjective, nominative masculine plural	1	all
-SIR 10:2	1	18	οἱ	ὁ	article, nominative masculine plural	1	the
-SIR 10:2	1	19	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	those living
+SIR 10:2	1	18	οἱ	ὁ	article, nominative masculine plural	1	—
+SIR 10:2	1	19	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	living
 SIR 10:2	1	19	κατοικοῦντες			2	those dwelling
 SIR 10:2	1	20	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	in it
 SIR 10:3	1	1	Βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
@@ -139,7 +139,7 @@ SIR 10:10	1	7	ἐν	ἐν	preposition with the dative	1	in
 SIR 10:10	1	8	ζωῇ	ζωή	noun, dative feminine singular	1	life
 SIR 10:10	1	9	ἔῤῥιψαν	ῥίπτω	aorist active indicative, third plural	1	cast out
 SIR 10:10	1	10	τὰ	ὁ	article, accusative neuter plural	1	the
-SIR 10:10	1	11	ἐνδόσθια	ἐνδόσθια	noun, accusative neut. pl	1	the inwards
+SIR 10:10	1	11	ἐνδόσθια	ἐνδόσθια	noun, accusative neut. pl	1	inwards
 SIR 10:10	1	12	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 10:10	1	13	μακρὸν	μακρός	adjective, accusative neuter singular	1	protracted
 SIR 10:10	1	14	ἀῤῥώστημα	ἀρρώστημα	noun, accusative neuter singular	1	illness
@@ -173,8 +173,8 @@ SIR 10:12	1	5	ἀπὸ	ἀπό	preposition with the genitive	1	from
 SIR 10:12	1	6	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
 SIR 10:12	1	7	καὶ	καί	conjunction	1	and
 SIR 10:12	1	8	ἀπὸ	ἀπό	preposition with the genitive	1	from
-SIR 10:12	1	9	τοῦ	ὁ	article, genitive singular	1	the
-SIR 10:12	1	10	ποιήσαντος	ποιέω	aorist active participle, genitive masculine singular; substantival	1	one who made
+SIR 10:12	1	9	τοῦ	ὁ	article, genitive singular	1	the one
+SIR 10:12	1	10	ποιήσαντος	ποιέω	aorist active participle, genitive masculine singular; substantival	1	who made
 SIR 10:12	1	10	ποιήσαντος			2	maker
 SIR 10:12	1	11	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 SIR 10:12	1	12	ἀπέστη	ἀφίστημι	aorist active indicative, third singular	1	departed
@@ -295,7 +295,7 @@ SIR 10:20	1	6	αὐτῶν	αὐτός	pronoun, genitive plural	1	is
 SIR 10:20	1	7	ἔντιμος	ἔντιμος	adjective, nominative masculine singular	1	precious
 SIR 10:20	1	7	ἔντιμος			2	valuable
 SIR 10:20	1	8	καὶ	καί	conjunction	1	and
-SIR 10:20	1	9	οἱ	ὁ	article, nominative masculine plural	1	the
+SIR 10:20	1	9	οἱ	ὁ	article, nominative masculine plural	1	those
 SIR 10:20	1	10	φοβούμενοι	φοβέομαι	present middle or passive participle, nominative masculine plural	1	who fear
 SIR 10:20	1	11	Κύριον	κύριος	noun, accusative masculine singular	1	the Lord
 SIR 10:20	1	12	ἐν	ἐν	preposition with the dative	1	in
@@ -407,8 +407,8 @@ SIR 10:28	1	12	κατὰ	κατά	preposition with the accusative	1	according to
 SIR 10:28	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 SIR 10:28	1	14	ἀξίαν	ἄξιος	adjective, accusative feminine singular	1	worth
 SIR 10:28	1	15	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	1	her
-SIR 10:29	1	1	Τὸν	ὁ	article, accusative masculine singular	1	the
-SIR 10:29	1	2	ἁμαρτάνοντα	ἁμαρτάνω	present active participle, accusative masculine singular	1	one who sins
+SIR 10:29	1	1	Τὸν	ὁ	article, accusative masculine singular	1	the one
+SIR 10:29	1	2	ἁμαρτάνοντα	ἁμαρτάνω	present active participle, accusative masculine singular	1	who sins
 SIR 10:29	1	3	εἰς	εἰς	preposition with the accusative	1	against
 SIR 10:29	1	4	ψυχὴν	ψυχή	noun, accusative feminine singular	1	soul
 SIR 10:29	1	5	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his

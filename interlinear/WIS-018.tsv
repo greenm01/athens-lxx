@@ -75,7 +75,7 @@ WIS 18:5	1	1	βουλευσαμένους	βουλεύομαι	aorist middle par
 WIS 18:5	1	2	δ'	δέ	conjunction	1	and
 WIS 18:5	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 WIS 18:5	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
-WIS 18:5	1	5	τῶν	ὁ	article genitive masculine plural	1	the
+WIS 18:5	1	5	τῶν	ὁ	article genitive masculine plural	1	of the
 WIS 18:5	1	6	ὁσίων	ὅσιος	adjective genitive masculine plural	1	holy ones
 WIS 18:5	1	7	ἀποκτεῖναι	ἀποκτείνω	aorist active infinitive of purpose	1	to kill
 WIS 18:5	1	8	νήπια	νήπιος	adjective, accusative neuter plural	1	infants
@@ -144,7 +144,7 @@ WIS 18:9	1	5	παῖδες	παῖς	noun, nominative masculine plural	1	childre
 WIS 18:9	1	6	ἀγαθῶν	ἀγαθός	substantival adjective genitive neuter plural	1	good things
 WIS 18:9	1	7	καὶ	καί	conjunction	1	and
 WIS 18:9	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
-WIS 18:9	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
+WIS 18:9	1	9	τῆς	ὁ	article, genitive feminine singular	1	of
 WIS 18:9	1	10	θειότητος	θειότης	noun, genitive feminine singular	1	divinity
 WIS 18:9	1	11	νόμον	νόμος	noun, accusative masc. sg	1	law
 WIS 18:9	1	12	ἐν	ἐν	preposition with the dative	1	in
@@ -224,8 +224,8 @@ WIS 18:13	1	4	διὰ	διά	preposition with the accusative	1	because of
 WIS 18:13	1	5	τὰς	ὁ	article, accusative feminine plural	1	the
 WIS 18:13	1	6	φαρμακίας	φαρμακεία	noun, accusative feminine singular	1	sorcery
 WIS 18:13	1	7	ἐπὶ	ἐπί	preposition with dative	1	at
-WIS 18:13	1	8	τῷ	ὁ	article, dative masculine singular	1	to the
-WIS 18:13	1	9	τῶν	ὁ	article, genitive plural	1	the
+WIS 18:13	1	8	τῷ	ὁ	article, dative masculine singular	1	the
+WIS 18:13	1	9	τῶν	ὁ	article, genitive plural	1	of the
 WIS 18:13	1	10	πρωτοτόκων	πρωτότοκος	substantival adjective, genitive neuter plural	1	firstborn
 WIS 18:13	1	11	ὀλέθρῳ	ὄλεθρος	noun, dative masculine singular	1	destruction
 WIS 18:13	1	12	ὡμολόγησαν	ὁμολογέω	aorist active indicative, third plural	1	they confessed
@@ -323,7 +323,7 @@ WIS 18:19	1	15	ἀπόλωνται	ἀπόλλυμι	aorist middle subjunctive, 
 WIS 18:20	1	1	Ἥψατο	ἅπτομαι	aorist middle indicative, third singular	1	touched
 WIS 18:20	1	1	Ἥψατο			2	took hold of
 WIS 18:20	1	2	δὲ	δέ	postpositive conjunction	1	and
-WIS 18:20	1	3	καὶ	καί	conjunction	1	and
+WIS 18:20	1	3	καὶ	καί	conjunction	1	also
 WIS 18:20	1	4	δικαίων	δίκαιος	substantival adjective genitive masculine plural	1	the righteous
 WIS 18:20	1	5	πεῖρα	πεῖρα	noun, nominative feminine singular	1	experience
 WIS 18:20	1	6	θανάτου	θάνατος	noun, genitive masculine singular	1	death
@@ -347,7 +347,7 @@ WIS 18:21	1	3	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	1	man
 WIS 18:21	1	4	ἄμεμπτος	ἄμεμπτος	adjective, nominative masculine singular	1	blameless
 WIS 18:21	1	5	προεμάχησε	προμαχέω	aorist active indicative, third singular	1	fought in defense
 WIS 18:21	1	6	τὸ	ὁ	article, accusative neuter singular	1	the
-WIS 18:21	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
+WIS 18:21	1	7	τῆς	ὁ	article, genitive feminine singular	1	of
 WIS 18:21	1	8	ἰδίας	ἴδιος	adjective, genitive feminine singular	1	his own
 WIS 18:21	1	9	λειτουργίας	λειτουργία	noun, accusative feminine plural	1	ministry
 WIS 18:21	1	10	ὅπλον	ὅπλον	noun accusative neuter singular	1	a weapon
@@ -382,8 +382,8 @@ WIS 18:22	1	10	ὅπλων	ὅπλον	noun, genitive neuter plural	1	weapons
 WIS 18:22	1	11	ἐνεργείᾳ	ἐνέργεια	noun, dative feminine singular	1	activity
 WIS 18:22	1	12	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 WIS 18:22	1	13	λόγῳ	λόγος	noun, dative masculine singular	1	by word
-WIS 18:22	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
-WIS 18:22	1	15	κολάζοντα	κολάζω	present active participle, accusative masculine singular	1	the one punishing
+WIS 18:22	1	14	τὸν	ὁ	article, accusative masculine singular	1	the one
+WIS 18:22	1	15	κολάζοντα	κολάζω	present active participle, accusative masculine singular	1	punishing
 WIS 18:22	1	16	ὑπέταξεν	ὑποτάσσω	aorist active indicative, third singular	1	he subdued
 WIS 18:22	1	17	ὅρκους	ὅρκος	noun, accusative masculine plural	1	oaths
 WIS 18:22	1	18	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers

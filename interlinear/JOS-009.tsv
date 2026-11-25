@@ -72,8 +72,8 @@ JOS 9:2	1	21	Ἰσραὴλ	Ἰσραήλ	indeclinable proper name, nominative i
 JOS 9:2	1	22	ἅμα	ἅμα	temporal adverb introducing articular infinitive	1	as
 JOS 9:2	1	23	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 JOS 9:3	1	1	Καὶ	καί	conjunction	1	and
-JOS 9:3	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
-JOS 9:3	1	3	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	those living
+JOS 9:3	1	2	οἱ	ὁ	article, nominative masculine plural	1	those
+JOS 9:3	1	3	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	living
 JOS 9:3	1	3	κατοικοῦντες			2	those dwelling
 JOS 9:3	1	4	Γαβαὼν	Γαβαών	indeclinable place name, accusative in context	1	in Gibeon
 JOS 9:3	1	5	ἤκουσαν	ἀκούω	aorist active indicative, third plural	1	they heard
@@ -194,7 +194,7 @@ JOS 9:7	1	10	μὴ	μή	negative particle	1	not
 JOS 9:7	1	11	ἐν	ἐν	preposition with the dative	1	in
 JOS 9:7	1	12	ἐμοὶ	ἐγώ	pronoun, dative first singular	1	me
 JOS 9:7	1	13	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
-JOS 9:7	1	14	κατῴκεις	κατοικέω	present active indicative, second singular	1	you dwell
+JOS 9:7	1	14	κατῴκεις	κατοικέω	present active indicative, second singular	1	dwell
 JOS 9:7	1	15	καὶ	καί	conjunction	1	and
 JOS 9:7	1	16	πῶς	πῶς	interrogative adverb	1	how
 JOS 9:7	1	17	διαθῶμαί	διατίθημι	aorist middle subjunctive, first singular	1	may I make
@@ -384,7 +384,7 @@ JOS 9:14	1	6	ἐπισιτισμοῦ	ἐπισιτισμός	noun, genitive mas
 JOS 9:14	1	7	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 JOS 9:14	1	8	καὶ	καί	conjunction	1	and
 JOS 9:14	1	9	τὸ	ὁ	article, accusative neuter singular	1	the
-JOS 9:14	1	10	στόμα	στόμα	noun, accusative neuter singular	1	the mouth
+JOS 9:14	1	10	στόμα	στόμα	noun, accusative neuter singular	1	mouth
 JOS 9:14	1	11	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 JOS 9:14	1	12	οὐκ	οὐ	negative particle	1	not
 JOS 9:14	1	13	ἐπηρώτησαν	ἐπερωτάω	aorist active indicative, third plural	1	asked
@@ -495,7 +495,7 @@ JOS 9:19	1	6	πάσῃ	πᾶς	adjective dative feminine singular	1	all
 JOS 9:19	1	7	τῇ	ὁ	article, dative feminine singular	1	the
 JOS 9:19	1	8	συναγωγῇ	συναγωγή	noun, dative feminine singular	1	congregation
 JOS 9:19	1	9	ἡμεῖς	ἡμεῖς	pronoun, nominative first plural	1	we
-JOS 9:19	1	10	ὠμόσαμεν	ὄμνυμι	aorist active indicative, first plural	1	we swore
+JOS 9:19	1	10	ὠμόσαμεν	ὄμνυμι	aorist active indicative, first plural	1	swore
 JOS 9:19	1	11	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 JOS 9:19	1	12	Κύριον	κύριος	noun, accusative masculine singular	1	by the Lord
 JOS 9:19	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -709,8 +709,8 @@ JOS 9:27	1	19	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 JOS 9:27	1	20	διὰ	διά	preposition with the accusative	1	because of
 JOS 9:27	1	21	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 JOS 9:27	1	22	ἐγένοντο	γίνομαι	aorist middle indicative, third person plural	1	became
-JOS 9:27	1	23	οἱ	ὁ	article, nominative masculine plural	1	the
-JOS 9:27	1	24	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	those living
+JOS 9:27	1	23	οἱ	ὁ	article, nominative masculine plural	1	those
+JOS 9:27	1	24	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	living
 JOS 9:27	1	24	κατοικοῦντες			2	those dwelling
 JOS 9:27	1	25	Γαβαὼν	Γαβαών	indeclinable place name, case from construction	1	Gibeon
 JOS 9:27	1	26	ξυλοκόποι	ξυλοκόπος	noun, nominative masculine plural	1	woodcutters

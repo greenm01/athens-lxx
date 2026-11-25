@@ -2,7 +2,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 JER 23:1	1	1	Ὦ	ὦ	vocative particle	1	O
 JER 23:1	1	2	ΟΙ	ὁ	article, nominative masculine plural	1	the
 JER 23:1	1	3	ποιμένες	ποιμήν	noun, nominative masculine plural	1	shepherds
-JER 23:1	1	4	οἱ	ὁ	article, nominative masculine plural	1	the
+JER 23:1	1	4	οἱ	ὁ	article, nominative masculine plural	1	—
 JER 23:1	1	5	διασκορπίζοντες	διασκορπίζω	present active participle, nominative masculine plural	1	who scatter
 JER 23:1	1	6	καὶ	καί	conjunction	1	and
 JER 23:1	1	7	ἀπολλύοντες	ἀπόλλυμι	present active participle, nominative masculine plural	1	who destroy
@@ -24,7 +24,7 @@ JER 23:2	1	8	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive i
 JER 23:2	1	9	ἐπὶ	ἐπί	preposition (case from context)	1	against
 JER 23:2	1	10	τοὺς	ὁ	article, accusative masculine plural	1	the
 JER 23:2	1	11	ποιμένας	ποιμήν	noun, accusative masculine plural	1	shepherds
-JER 23:2	1	12	τοὺς	ὁ	article, accusative masculine plural	1	the
+JER 23:2	1	12	τοὺς	ὁ	article, accusative masculine plural	1	—
 JER 23:2	1	13	ποιμένοντας	ποιμαίνω	present active participle, accusative masculine plural; indexed form	1	who shepherd
 JER 23:2	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 JER 23:2	1	15	λαόν	λαός	noun, accusative masculine singular	1	people
@@ -335,7 +335,7 @@ JER 23:14	1	29	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 JER 23:14	1	30	ὡς	ὡς	comparative particle	1	as
 JER 23:14	1	31	Σόδομα	Σόδομα	place name, accusative neuter plural	1	Sodom
 JER 23:14	1	32	καὶ	καί	conjunction	1	and
-JER 23:14	1	33	οἱ	ὁ	article, nominative masculine plural	1	the
+JER 23:14	1	33	οἱ	ὁ	article, nominative masculine plural	1	those
 JER 23:14	1	34	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	1	who live
 JER 23:14	1	34	κατοικοῦντες			2	those dwelling
 JER 23:14	1	35	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
@@ -385,7 +385,7 @@ JER 23:16	1	7	τοὺς	ὁ	article, accusative masculine plural	1	the
 JER 23:16	1	8	λόγους	λόγος	noun accusative masculine plural	1	words
 JER 23:16	1	9	τῶν	ὁ	article, genitive masculine plural	1	of the
 JER 23:16	1	10	προφητῶν	προφήτης	noun, genitive masculine plural	1	prophets
-JER 23:16	1	11	τῶν	ὁ	article, genitive masculine plural	1	the
+JER 23:16	1	11	τῶν	ὁ	article, genitive masculine plural	1	—
 JER 23:16	1	12	προφητευόντων	προφητεύω	present active participle, genitive masculine plural	1	who prophesy
 JER 23:16	1	13	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 JER 23:16	1	14	ὅτι	ὅτι	causal conjunction	1	because
@@ -406,8 +406,8 @@ JER 23:16	1	27	στόματος	στόμα	noun, genitive neuter singular	1	mout
 JER 23:16	1	28	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 JER 23:17	1	1	Λέγουσι	λέγω	present active indicative, third plural	1	they say
 JER 23:17	1	2	λέγοντες	λέγω	present active participle, nominative masculine plural in sense 'saying'	1	saying
-JER 23:17	1	3	τοῖς	ὁ	article, dative masculine plural	1	to the
-JER 23:17	1	4	ἀπωθουμένοις	ἀπωθέω	present middle participle, dative masculine plural; substantival	1	those who reject
+JER 23:17	1	3	τοῖς	ὁ	article, dative masculine plural	1	to those
+JER 23:17	1	4	ἀπωθουμένοις	ἀπωθέω	present middle participle, dative masculine plural; substantival	1	who reject
 JER 23:17	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 JER 23:17	1	6	λόγον	λόγος	noun, accusative masculine singular	1	word
 JER 23:17	1	6	λόγον			2	message
@@ -426,7 +426,7 @@ JER 23:17	1	16	θελήμασιν			2	wishes
 JER 23:17	1	17	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 JER 23:17	1	18	καὶ	καί	conjunction	1	and
 JER 23:17	1	19	παντὶ	πᾶς	adjective, dative masculine singular; modifies οἴκῳ	1	to every
-JER 23:17	1	20	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+JER 23:17	1	20	τῷ	ὁ	article, dative masculine/neuter singular	1	—
 JER 23:17	1	21	πορευομένῳ	πορεύομαι	present middle participle, dative masculine singular	1	who walks
 JER 23:17	1	22	πλάνῃ	πλάνη	noun, dative feminine singular	1	error
 JER 23:17	1	22	πλάνῃ			2	wandering
@@ -625,7 +625,7 @@ JER 23:26	1	4	ἐν	ἐν	preposition with the dative	1	in
 JER 23:26	1	5	καρδίᾳ	καρδία	noun, dative feminine singular	1	heart
 JER 23:26	1	6	τῶν	ὁ	article, genitive masculine plural	1	of the
 JER 23:26	1	7	προφητῶν	προφήτης	noun, genitive masculine plural	1	prophets
-JER 23:26	1	8	τῶν	ὁ	article, genitive masculine plural	1	the
+JER 23:26	1	8	τῶν	ὁ	article, genitive masculine plural	1	—
 JER 23:26	1	9	προφητευόντων	προφητεύω	present active participle, genitive masculine plural	1	who prophesy
 JER 23:26	1	10	ψευδῆ	ψευδής	adjective, accusative neuter plural; substantival	1	false things
 JER 23:26	1	10	ψευδῆ			2	lies
@@ -641,7 +641,7 @@ JER 23:26	1	17	θελήματα			2	wishes
 JER 23:26	1	18	τῆς	ὁ	article, genitive feminine singular	1	of the
 JER 23:26	1	19	καρδίας	καρδία	noun, genitive feminine singular	1	heart
 JER 23:26	1	20	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-JER 23:27	1	1	τῶν	ὁ	article, genitive masculine plural	1	the
+JER 23:27	1	1	τῶν	ὁ	article, genitive masculine plural	1	of those
 JER 23:27	1	2	λογιζομένων	λογίζομαι	present middle participle, genitive masculine plural	1	who plot
 JER 23:27	1	2	λογιζομένων			2	who plan
 JER 23:27	1	3	τοῦ	ὁ	article, genitive singular	1	the
@@ -745,7 +745,7 @@ JER 23:30	1	8	λέγει	λέγω	present active indicative, third singular	1	sa
 JER 23:30	1	9	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 JER 23:30	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
 JER 23:30	1	11	Θεὸς	θεός	noun, nominative masculine singular, in apposition	1	God
-JER 23:30	1	12	τοὺς	ὁ	article accusative masculine plural	1	the
+JER 23:30	1	12	τοὺς	ὁ	article accusative masculine plural	1	those
 JER 23:30	1	13	κλέπτοντας	κλέπτω	present active participle, accusative masculine plural	1	who steal
 JER 23:30	1	14	τοὺς	ὁ	article, accusative masculine plural	1	the
 JER 23:30	1	15	λόγους	λόγος	noun, accusative masculine plural	1	words
@@ -762,7 +762,7 @@ JER 23:31	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
 JER 23:31	1	5	προφήτας	προφήτης	noun, accusative masculine plural	1	prophets
 JER 23:31	1	6	φησὶ	φημί	present active indicative, third singular	1	says
 JER 23:31	1	7	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-JER 23:31	1	8	τοὺς	ὁ	article, accusative masculine plural	1	the
+JER 23:31	1	8	τοὺς	ὁ	article, accusative masculine plural	1	—
 JER 23:31	1	9	ἐκβάλλοντας	ἐκβάλλω	present active participle, accusative masculine plural	1	who bring out
 JER 23:31	1	9	ἐκβάλλοντας			2	who cast forth
 JER 23:31	1	10	προφητείαν	προφητεία	noun, accusative feminine singular	1	prophecy
@@ -777,7 +777,7 @@ JER 23:32	1	2	ἐγὼ	ἐγώ	pronoun, nominative first singular	1	I
 JER 23:32	1	3	πρὸς	πρός	preposition (accusative)	1	against
 JER 23:32	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
 JER 23:32	1	5	προφήτας	προφήτης	noun, accusative masculine plural	1	prophets
-JER 23:32	1	6	τοὺς	ὁ	article, accusative masculine plural	1	the
+JER 23:32	1	6	τοὺς	ὁ	article, accusative masculine plural	1	—
 JER 23:32	1	7	προφητεύοντας	προφητεύω	present active participle, accusative masculine plural	1	who prophesy
 JER 23:32	1	8	ψευδῆ	ψευδής	adjective, accusative neuter plural; substantival	1	false
 JER 23:32	1	8	ψευδῆ			2	lies

@@ -45,7 +45,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:3	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 1ES 2:3	1	12	Κύριος	κύριος	noun nominative masculine singular	1	Lord
 1ES 2:3	1	13	τοῦ	ὁ	article, genitive masculine singular	1	of
-1ES 2:3	1	14	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
+1ES 2:3	1	14	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 1ES 2:3	1	15	Κύριος	κύριος	noun, nominative masculine singular	1	Lord
 1ES 2:3	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
 1ES 2:3	1	17	ὕψιστος	ὕψιστος	adjective, nominative masculine singular; superlative	1	Most High
@@ -90,11 +90,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:5	1	27	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 1ES 2:5	1	28	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 1ES 2:5	1	29	τοῦ	ὁ	article, genitive masculine singular	1	of
-1ES 2:5	1	30	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
+1ES 2:5	1	30	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 1ES 2:5	1	31	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	1	this
 1ES 2:5	1	32	ὁ	ὁ	definite article	1	the
 1ES 2:5	1	33	Κύριος	κύριος	noun, nominative masculine singular	1	Lord
-1ES 2:5	1	34	ὁ	ὁ	article, nominative masculine singular	1	the
+1ES 2:5	1	34	ὁ	ὁ	article, nominative masculine singular	1	—
 1ES 2:5	1	35	κατασκηνώσας	κατασκηνόω	aorist active participle, nominative masculine singular	1	who dwells
 1ES 2:5	1	36	ἐν	ἐν	preposition with the dative	1	in
 1ES 2:5	1	37	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
@@ -333,7 +333,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:15	1	32	γραμματεύς			2	secretary
 1ES 2:15	1	33	καὶ	καί	conjunction	1	and
 1ES 2:15	1	34	οἱ	ὁ	article, nominative masculine plural	1	the
-1ES 2:15	1	35	λοιποὶ	λοιπός	adjective, nominative masculine plural; substantival	1	the rest
+1ES 2:15	1	35	λοιποὶ	λοιπός	adjective, nominative masculine plural; substantival	1	rest
 1ES 2:15	1	35	λοιποὶ			2	those remaining
 1ES 2:15	1	36	οἱ	ὁ	article, nominative masculine plural	1	the
 1ES 2:15	1	37	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	1	these things
@@ -357,7 +357,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:16	1	5	παῖδές	παῖς	noun, nominative masculine plural, here servants	1	servants
 1ES 2:16	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
 1ES 2:16	1	7	Ῥάθυμος	Ῥάθυμος	noun, nominative masculine singular	1	Rhathymus
-1ES 2:16	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
+1ES 2:16	1	8	ὁ	ὁ	article, nominative masculine singular	1	the one of
 1ES 2:16	1	9	τὰ	ὁ	article, accusative neuter plural	1	the
 1ES 2:16	1	10	προσπίπτοντα	προσπίπτω	present active participle, accusative neuter plural	1	reports submitted
 1ES 2:16	1	11	καὶ	καί	conjunction	1	and
@@ -646,8 +646,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 2:24	1	21	προβῇ	προβαίνω	aorist active subjunctive, third singular	1	it goes forward
 1ES 2:24	1	22	ἐπὶ	ἐπί	preposition with accusative	1	to
 1ES 2:24	1	23	πλεῖον	πλείων	comparative adjective accusative neuter singular	1	a greater extent
-1ES 2:24	1	24	τὰ	ὁ	article, accusative neuter plural	1	the
-1ES 2:24	1	25	τῆς	ὁ	article, genitive feminine singular	1	the
+1ES 2:24	1	24	τὰ	ὁ	article, accusative neuter plural	1	the things
+1ES 2:24	1	25	τῆς	ὁ	article, genitive feminine singular	1	of the
 1ES 2:24	1	26	κακίας	κακία	noun, genitive feminine singular	1	harm
 1ES 2:24	1	27	ἐπὶ	ἐπί	preposition with the dative	1	upon
 1ES 2:24	1	28	τῷ	ὁ	article, dative neuter singular introducing infinitive ἐνοχλεῖσθαι, introduces the infinitive	1	—

@@ -82,7 +82,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 1:4	1	1	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 4MA 1:4	1	2	καὶ	καί	conjunction	1	and
 4MA 1:4	1	3	τῶν	ὁ	article, genitive masculine plural	1	the
-4MA 1:4	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:4	1	4	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 1:4	1	5	δικαιοσύνης	δικαιοσύνη	noun genitive feminine singular	1	righteousness
 4MA 1:4	1	6	ἐμποδιστικῶν	ἐμποδιστικός	adjective, genitive neuter plural	1	that hinder
 4MA 1:4	1	6	ἐμποδιστικῶν			2	that impede
@@ -97,7 +97,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 1:4	1	11	κακοηθείας			2	ill nature
 4MA 1:4	1	12	καὶ	καί	conjunction	1	and
 4MA 1:4	1	13	τῶν	ὁ	article, genitive masculine plural	1	the
-4MA 1:4	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:4	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 1:4	1	15	ἀνδρείας	ἀνδρεία	noun, genitive feminine singular	1	courage
 4MA 1:4	1	15	ἀνδρείας			2	fortitude
 4MA 1:4	1	16	ἐμποδιστικῶν	ἐμποδιστικός	adjective, genitive neuter plural	1	that hinder
@@ -154,7 +154,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 1:6	1	11	κρατεῖ			2	rules over
 4MA 1:6	1	12	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 4MA 1:6	1	13	τῶν	ὁ	article, genitive plural	1	the
-4MA 1:6	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+4MA 1:6	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 4MA 1:6	1	15	δικαιοσύνης	δικαιοσύνη	noun, genitive feminine singular	1	righteousness
 4MA 1:6	1	15	δικαιοσύνης			2	justice
 4MA 1:6	1	16	καὶ	καί	conjunction	1	and
@@ -323,8 +323,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 1:11	1	15	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 4MA 1:11	1	16	καὶ	καί	conjunction	1	and
 4MA 1:11	1	17	ὑπὸ	ὑπό	Preposition with genitive	1	by
-4MA 1:11	1	18	τῶν	ὁ	article, genitive plural	1	the
-4MA 1:11	1	19	αἰκισαμένων	αἰκίζω	aorist middle participle, genitive masculine plural; used substantivally	1	those who tortured them
+4MA 1:11	1	18	τῶν	ὁ	article, genitive plural	1	of those
+4MA 1:11	1	19	αἰκισαμένων	αἰκίζω	aorist middle participle, genitive masculine plural; used substantivally	1	who tortured them
 4MA 1:11	1	19	αἰκισαμένων			2	those who mistreated them
 4MA 1:11	1	20	αἴτιοι	αἴτιος	adjective, nominative masculine plural	1	responsible
 4MA 1:11	1	20	αἴτιοι			2	the cause
@@ -480,7 +480,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 1:17	1	3	τοίνυν			2	then
 4MA 1:17	1	4	ἐστὶν	εἰμί	present indicative, third singular	1	is
 4MA 1:17	1	5	ἡ	ὁ	article, nominative feminine singular	1	the
-4MA 1:17	1	6	τοῦ	ὁ	article, genitive singular	1	the
+4MA 1:17	1	6	τοῦ	ὁ	article, genitive singular	1	of the
 4MA 1:17	1	7	νόμου	νόμος	noun, genitive masculine singular	1	law
 4MA 1:17	1	8	παιδεία	παιδεία	noun, nominative feminine singular	1	instruction
 4MA 1:17	1	8	παιδεία			2	education
@@ -688,7 +688,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 1:28	1	2	οὖν	οὖν	inferential particle	1	then
 4MA 1:28	1	3	δυοῖν	δύο	Genitive dual numeral	1	two
 4MA 1:28	1	4	τοῦ	ὁ	article, genitive singular	1	the
-4MA 1:28	1	5	σώματος	σῶμα	noun, genitive neuter singular; collective singular	1	the body
+4MA 1:28	1	5	σώματος	σῶμα	noun, genitive neuter singular; collective singular	1	body
 4MA 1:28	1	5	σώματος			2	the bodies
 4MA 1:28	1	6	καὶ	καί	conjunction	1	and
 4MA 1:28	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -735,7 +735,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 1:29	1	18	ἐξημεροῖ	ἐξημερόω	present active indicative, third singular	1	tames
 4MA 1:29	1	18	ἐξημεροῖ			2	cultivates
 4MA 1:29	1	19	τὰς	ὁ	article, accusative feminine plural	1	the
-4MA 1:29	1	20	τῶν	ὁ	article, genitive plural	1	the
+4MA 1:29	1	20	τῶν	ὁ	article, genitive plural	1	of the
 4MA 1:29	1	21	ἠθῶν	ἦθος	noun, genitive neuter plural	1	dispositions
 4MA 1:29	1	21	ἠθῶν			2	habits
 4MA 1:29	1	22	καὶ	καί	conjunction	1	and
@@ -877,7 +877,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 1:34	1	17	ἀπεχόμεθα			2	we hold back
 4MA 1:34	1	18	διὰ	διά	preposition with the accusative	1	because of
 4MA 1:34	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
-4MA 1:34	1	20	τοῦ	ὁ	article, genitive singular	1	the
+4MA 1:34	1	20	τοῦ	ὁ	article, genitive singular	1	of the
 4MA 1:34	1	21	λογισμοῦ	λογισμός	noun, genitive masculine singular	1	reason
 4MA 1:34	1	21	λογισμοῦ			2	reasoning
 4MA 1:34	1	22	ἐπικράτειαν	ἐπικράτεια	noun, accusative feminine singular	1	mastery
@@ -904,7 +904,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 1:35	1	14	πάντα	πᾶς	adjective, nominative neuter plural	1	all
 4MA 1:35	1	15	τὰ	ὁ	article, accusative neuter plural	1	the
 4MA 1:35	1	16	τοῦ	ὁ	article, genitive neuter singular	1	of the
-4MA 1:35	1	17	σώματος	σῶμα	noun, genitive neuter singular; collective singular	1	the body
+4MA 1:35	1	17	σώματος	σῶμα	noun, genitive neuter singular; collective singular	1	body
 4MA 1:35	1	17	σώματος			2	the bodies
 4MA 1:35	1	18	κινήματα	κίνημα	noun, nominative neuter plural	1	impulses
 4MA 1:35	1	18	κινήματα			2	movements

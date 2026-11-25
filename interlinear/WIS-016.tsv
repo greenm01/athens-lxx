@@ -55,7 +55,7 @@ WIS 16:3	1	24	μετάσχωσι	μετέχω	aorist active subjunctive, third p
 WIS 16:3	1	25	γεύσεως	γεῦσις	noun, genitive feminine singular	1	taste
 WIS 16:4	1	1	Ἔδει	δέω	imperfect active indicative, 3rd singular	1	ought
 WIS 16:4	1	2	γὰρ	γάρ	conjunction	1	for
-WIS 16:4	1	3	ἐκείνοις	ἐκεῖνος	demonstrative pronoun, dative neuter plural	1	for those
+WIS 16:4	1	3	ἐκείνοις	ἐκεῖνος	demonstrative pronoun, dative neuter plural	1	those
 WIS 16:4	1	3	ἐκείνοις			2	for them
 WIS 16:4	1	4	μὲν	μέν	particle	1	indeed
 WIS 16:4	1	5	ἀπαραίτητον	ἀπαραίτητος	adjective, accusative neuter singular	1	inexorable
@@ -132,8 +132,8 @@ WIS 16:8	1	8	ἡμῶν	ἐγώ	personal pronoun genitive first plural	1	our
 WIS 16:8	1	9	ὅτι	ὅτι	causal conjunction	1	that
 WIS 16:8	1	10	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 WIS 16:8	1	11	εἶ	εἰμί	present indicative, second singular	1	are
-WIS 16:8	1	12	ὁ	ὁ	article nominative masculine singular	1	the
-WIS 16:8	1	13	ῥυόμενος	ῥύομαι	present middle participle, nominative masculine singular; substantival	1	one who rescues
+WIS 16:8	1	12	ὁ	ὁ	article nominative masculine singular	1	the one
+WIS 16:8	1	13	ῥυόμενος	ῥύομαι	present middle participle, nominative masculine singular; substantival	1	who rescues
 WIS 16:8	1	13	ῥυόμενος			2	rescuer
 WIS 16:8	1	14	ἐκ	ἐκ	preposition with the genitive	1	from
 WIS 16:8	1	15	παντὸς	πᾶς	adjective, genitive masculine singular	1	all
@@ -322,7 +322,7 @@ WIS 16:18	1	20	κρίσει	κρίσις	noun, dative feminine singular	1	judgme
 WIS 16:18	1	21	ἐλαύνονται	ἐλαύνω	present middle/passive indicative, third plural	1	are pursued
 WIS 16:19	1	1	ποτὲ	ποτέ	adverb	1	once
 WIS 16:19	1	2	δὲ	δέ	postpositive conjunction	1	and
-WIS 16:19	1	3	καὶ	καί	conjunction	1	and
+WIS 16:19	1	3	καὶ	καί	conjunction	1	even
 WIS 16:19	1	4	μεταξὺ	μεταξύ	preposition with genitive	1	between
 WIS 16:19	1	5	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
 WIS 16:19	1	6	ὑπὲρ	ὑπέρ	preposition with accusative; comparison	1	greater than
@@ -383,7 +383,7 @@ WIS 16:21	1	20	τις	τις	indefinite pronoun, nominative masc. sg.	1	someone
 WIS 16:21	1	21	ἐβούλετο	βούλομαι	imperfect middle/passive indicative, third singular	1	wished
 WIS 16:21	1	22	μετεκιρνᾶτο	μετακιρνάω	imperfect middle/passive indicative, third singular	1	would change its blend
 WIS 16:22	1	1	Χιὼν	χιών	noun, nominative feminine singular	1	snow
-WIS 16:22	1	2	δὲ	δέ	postpositive conjunction	1	and
+WIS 16:22	1	2	δὲ	δέ	postpositive conjunction	1	but
 WIS 16:22	1	3	καὶ	καί	conjunction	1	and
 WIS 16:22	1	4	κρύσταλλος	κρύσταλλος	noun, nominative masculine singular	1	ice
 WIS 16:22	1	5	ὑπέμενε	ὑπομένω	imperfect active indicative, third singular	1	endured
@@ -395,7 +395,7 @@ WIS 16:22	1	10	ἵνα	ἵνα	conjunction	1	so that
 WIS 16:22	1	11	γνῶσιν	γινώσκω	aorist active subjunctive, third plural	1	they may know
 WIS 16:22	1	12	ὅτι	ὅτι	conjunction	1	that
 WIS 16:22	1	13	τοὺς	ὁ	article, accusative masculine plural	1	the
-WIS 16:22	1	14	τῶν	ὁ	article, genitive plural	1	the
+WIS 16:22	1	14	τῶν	ὁ	article, genitive plural	1	of the
 WIS 16:22	1	15	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	enemies
 WIS 16:22	1	16	καρποὺς	καρπός	noun, accusative masculine plural	1	fruit
 WIS 16:22	1	17	κατέφθειρε	καταφθείρω	aorist active indicative, third singular	1	destroyed
@@ -424,7 +424,7 @@ WIS 16:24	1	1	Ἡ	ὁ	article, nominative feminine singular	1	the
 WIS 16:24	1	2	γὰρ	γάρ	conjunction	1	for
 WIS 16:24	1	3	κτίσις	κτίσις	noun, nominative feminine singular	1	creation
 WIS 16:24	1	4	σοι	σύ	personal pronoun, dative singular	1	to you
-WIS 16:24	1	5	τῷ	ὁ	article, dative masculine singular	1	the
+WIS 16:24	1	5	τῷ	ὁ	article, dative masculine singular	1	—
 WIS 16:24	1	6	ποιήσαντι	ποιέω	aorist active participle dative masculine singular	1	who made
 WIS 16:24	1	7	ὑπηρετοῦσα	ὑπηρετέω	present active participle, nominative feminine singular	1	serving
 WIS 16:24	1	8	ἐπιτείνεται	ἐπιτείνω	present middle/passive indicative, third singular	1	intensifies
@@ -456,7 +456,7 @@ WIS 16:25	1	11	δωρεᾷ	δωρεά	noun, dative feminine singular	1	gift
 WIS 16:25	1	12	ὑπηρετεῖ	ὑπηρετέω	present active indicative, third singular	1	serves
 WIS 16:25	1	13	πρὸς	πρός	preposition with the accusative	1	to
 WIS 16:25	1	14	τὴν	ὁ	article, accusative feminine singular	1	the
-WIS 16:25	1	15	τῶν	ὁ	article, genitive plural	1	the
+WIS 16:25	1	15	τῶν	ὁ	article, genitive plural	1	—
 WIS 16:25	1	16	δεομένων	δέομαι	present middle participle, genitive masculine plural	1	of those in need
 WIS 16:25	1	17	θέλησιν	θέλησις	noun accusative feminine singular	1	desire
 WIS 16:26	1	1	ἵνα	ἵνα	conjunction	1	so that

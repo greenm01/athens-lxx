@@ -65,14 +65,14 @@ ISA 14:2	1	27	δούλας	δούλη	noun, accusative feminine plural	1	female 
 ISA 14:2	1	28	καὶ	καί	conjunction	1	and
 ISA 14:2	1	29	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
 ISA 14:2	1	30	αἰχμάλωτοι	αἰχμάλωτος	adjective, nominative masculine plural	1	captive
-ISA 14:2	1	31	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 14:2	1	32	αἰχμαλωτεύσαντες	αἰχμαλωτεύω	aorist active participle, nominative masculine plural; substantival	1	those who took captive
+ISA 14:2	1	31	οἱ	ὁ	article, nominative masculine plural	1	those
+ISA 14:2	1	32	αἰχμαλωτεύσαντες	αἰχμαλωτεύω	aorist active participle, nominative masculine plural; substantival	1	who took captive
 ISA 14:2	1	33	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 ISA 14:2	1	34	καὶ	καί	conjunction	1	and
 ISA 14:2	1	35	κυριευθήσονται	κυριεύω	future passive indicative, third plural	1	will be ruled over
 ISA 14:2	1	35	κυριευθήσονται			2	will be dominated
-ISA 14:2	1	36	οἱ	ὁ	article, nominative masculine plural	1	the
-ISA 14:2	1	37	κυριεύσαντες	κυριεύω	aorist active participle, nominative masculine plural; substantival	1	those who ruled over
+ISA 14:2	1	36	οἱ	ὁ	article, nominative masculine plural	1	those
+ISA 14:2	1	37	κυριεύσαντες	κυριεύω	aorist active participle, nominative masculine plural; substantival	1	who ruled over
 ISA 14:2	1	37	κυριεύσαντες			2	those who dominated
 ISA 14:2	1	38	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 ISA 14:3	1	1	Καὶ	καί	conjunction	1	and
@@ -189,8 +189,8 @@ ISA 14:8	1	17	κεκοίμησαι	κοιμάω	perfect middle indicative, secon
 ISA 14:8	1	17	κεκοίμησαι			2	you have gone to rest
 ISA 14:8	1	18	οὐκ	οὐ	negative particle	1	not
 ISA 14:8	1	19	ἀνέβη	ἀναβαίνω	aorist active indicative, third singular	1	went up
-ISA 14:8	1	20	ὁ	ὁ	article, nominative masculine singular	1	the
-ISA 14:8	1	21	κόπτων	κόπτω	present active participle, nominative masculine singular; substantival	1	one who cuts
+ISA 14:8	1	20	ὁ	ὁ	article, nominative masculine singular	1	the one
+ISA 14:8	1	21	κόπτων	κόπτω	present active participle, nominative masculine singular; substantival	1	who cuts
 ISA 14:8	1	21	κόπτων			2	woodcutter
 ISA 14:8	1	22	ἡμᾶς	ἐγώ	personal pronoun, accusative first plural	1	us
 ISA 14:9	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
@@ -211,7 +211,7 @@ ISA 14:9	1	11	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 ISA 14:9	1	12	οἱ	ὁ	article, nominative masculine plural	1	the
 ISA 14:9	1	13	γίγαντες	γίγας	noun, nominative masculine plural	1	giants
 ISA 14:9	1	13	γίγαντες			2	mighty men
-ISA 14:9	1	14	οἱ	ὁ	article, nominative masculine plural; introduces a prepositional phrase	1	those
+ISA 14:9	1	14	οἱ	ὁ	article, nominative masculine plural; introduces a prepositional phrase	1	—
 ISA 14:9	1	15	ἄρξαντες	ἄρχω	aorist active participle, nominative masculine plural; substantival	1	who ruled
 ISA 14:9	1	16	τῆς	ὁ	article, genitive feminine singular	1	of the
 ISA 14:9	1	17	γῆς	γῆ	noun, genitive feminine singular	1	land
@@ -286,8 +286,8 @@ ISA 14:12	1	11	συνετρίβη			2	was crushed
 ISA 14:12	1	12	εἰς	εἰς	preposition with the accusative	1	into
 ISA 14:12	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 ISA 14:12	1	14	γῆν	γῆ	noun, accusative feminine singular	1	earth
-ISA 14:12	1	15	ὁ	ὁ	article, nominative masculine singular	1	the
-ISA 14:12	1	16	ἀποστέλλων	ἀποστέλλω	present active participle, nominative masculine singular; substantival	1	one who sends out
+ISA 14:12	1	15	ὁ	ὁ	article, nominative masculine singular	1	the one
+ISA 14:12	1	16	ἀποστέλλων	ἀποστέλλω	present active participle, nominative masculine singular; substantival	1	who sends out
 ISA 14:12	1	16	ἀποστέλλων			2	one who dispatches
 ISA 14:12	1	17	πρὸς	πρός	preposition with the accusative	1	to
 ISA 14:12	1	18	πάντα	πᾶς	adjective, accusative neuter plural	1	all
@@ -670,8 +670,8 @@ ISA 14:29	1	6	συνετρίβη	συντρίβω	aorist passive indicative, thi
 ISA 14:29	1	7	γὰρ	γάρ	postpositive conjunction	1	for
 ISA 14:29	1	8	ὁ	ὁ	article, nominative masculine singular	1	the
 ISA 14:29	1	9	ζυγὸς	ζυγός	noun, nominative masculine singular	1	yoke
-ISA 14:29	1	10	τοῦ	ὁ	article, genitive singular	1	of the
-ISA 14:29	1	11	παίοντος	παίω	present active participle, genitive masculine singular; substantival	1	one who strikes
+ISA 14:29	1	10	τοῦ	ὁ	article, genitive singular	1	of the one
+ISA 14:29	1	11	παίοντος	παίω	present active participle, genitive masculine singular; substantival	1	who strikes
 ISA 14:29	1	11	παίοντος			2	one who struck
 ISA 14:29	1	12	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 ISA 14:29	1	13	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -744,8 +744,8 @@ ISA 14:31	1	18	τοῦ	ὁ	article, genitive singular	1	the
 ISA 14:31	1	19	μεῖναι	μένω	aorist active infinitive	1	to remain
 ISA 14:31	1	19	μεῖναι			2	to stay
 ISA 14:31	1	20	ἐν	ἐν	preposition with the dative	1	in
-ISA 14:31	1	21	τοῖς	ὁ	article, dative masculine plural	1	the
-ISA 14:31	1	22	συντεταγμένοις	συντάσσω	perfect passive participle, dative masculine plural; substantival	1	those drawn up in ranks
+ISA 14:31	1	21	τοῖς	ὁ	article, dative masculine plural	1	those
+ISA 14:31	1	22	συντεταγμένοις	συντάσσω	perfect passive participle, dative masculine plural; substantival	1	drawn up in ranks
 ISA 14:31	1	23	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 ISA 14:32	1	1	Καὶ	καί	conjunction	1	and
 ISA 14:32	1	2	τί	τίς	interrogative pronoun, accusative neuter singular	1	what
@@ -753,7 +753,7 @@ ISA 14:32	1	3	ἀποκριθήσονται	ἀποκρίνομαι	future passi
 ISA 14:32	1	4	βασιλεῖς	βασιλεύς	noun, nominative masculine plural	1	kings
 ISA 14:32	1	5	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	of nations
 ISA 14:32	1	6	ὅτι	ὅτι	conjunction introducing indirect speech	1	that
-ISA 14:32	1	7	Κύριος	κύριος	noun, nominative masculine singular, the LORD (capitalized, no article)	1	the LORD
+ISA 14:32	1	7	Κύριος	κύριος	noun, nominative masculine singular, the LORD (capitalized, no article)	1	the Lord
 ISA 14:32	1	8	ἐθεμελίωσε	θεμελιόω	aorist active indicative, third singular	1	founded
 ISA 14:32	1	8	ἐθεμελίωσε			2	laid the foundation of
 ISA 14:32	1	9	Σιὼν	Σιών	indeclinable place name, genitive in context	1	Zion
