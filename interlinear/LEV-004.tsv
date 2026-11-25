@@ -37,7 +37,7 @@ LEV 4:3	1	1	ἐὰν	ἐάν	conjunction	1	if
 LEV 4:3	1	2	μὲν	μέν	particle, first member of μέν...δέ contrast	1	indeed
 LEV 4:3	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 4:3	1	4	ἀρχιερεὺς	ἀρχιερεύς	noun, nominative masculine singular	1	high priest
-LEV 4:3	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
+LEV 4:3	1	5	ὁ	ὁ	article, nominative masculine singular	1	—
 LEV 4:3	1	6	κεχρισμένος	χρίω	perfect passive participle, nominative masculine singular	1	anointed
 LEV 4:3	1	7	ἁμάρτῃ	ἁμαρτάνω	aorist active subjunctive, third singular	1	sins
 LEV 4:3	1	8	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive expressing result	1	causing
@@ -110,7 +110,7 @@ LEV 4:5	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 4:5	1	4	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
 LEV 4:5	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 4:5	1	6	χριστὸς	χριστός	adjective, nominative masculine singular	1	anointed
-LEV 4:5	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
+LEV 4:5	1	7	ὁ	ὁ	article, nominative masculine singular	1	—
 LEV 4:5	1	8	τετελειωμένος	τελειόω	perfect passive participle, nominative masculine singular; with accusative of respect τὰς χεῖρας	1	consecrated
 LEV 4:5	1	9	τὰς	ὁ	article, accusative feminine plural	1	the
 LEV 4:5	1	10	χεῖρας	χείρ	noun, accusative feminine plural	1	hands
@@ -161,7 +161,7 @@ LEV 4:7	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 4:7	1	4	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
 LEV 4:7	1	5	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 4:7	1	6	τοῦ	ὁ	article, genitive neuter singular	1	the
-LEV 4:7	1	7	αἵματος	αἷμα	noun, genitive neuter singular	1	of blood
+LEV 4:7	1	7	αἵματος	αἷμα	noun, genitive neuter singular	1	blood
 LEV 4:7	1	8	τοῦ	ὁ	article, genitive masculine singular	1	of the
 LEV 4:7	1	9	μόσχου	μόσχος	noun, genitive masculine singular	1	young bull
 LEV 4:7	1	9	μόσχου			2	calf
@@ -172,9 +172,9 @@ LEV 4:7	1	13	τοῦ	ὁ	article, genitive neuter singular	1	of the
 LEV 4:7	1	14	θυσιαστηρίου	θυσιαστήριον	noun, genitive neuter singular	1	altar
 LEV 4:7	1	15	τοῦ	ὁ	article, genitive neuter singular	1	for the
 LEV 4:7	1	16	θυμιάματος	θυμίαμα	noun, genitive neuter singular	1	incense
-LEV 4:7	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 4:7	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 4:7	1	18	συνθέσεως	σύνθεσις	noun, genitive feminine singular	1	mixture
-LEV 4:7	1	19	τοῦ	ὁ	article, genitive masculine singular	1	of the
+LEV 4:7	1	19	τοῦ	ὁ	article, genitive masculine singular	1	—
 LEV 4:7	1	20	ἔναντι	ἔναντι	improper preposition with genitive	1	before
 LEV 4:7	1	20	ἔναντι			2	in the presence of
 LEV 4:7	1	21	Κυρίου	κύριος	noun, genitive masculine singular	1	the Lord
@@ -214,9 +214,9 @@ LEV 4:7	1	51	μαρτυρίου	μαρτύριον	noun, genitive neuter singula
 LEV 4:7	1	51	μαρτυρίου			2	witness
 LEV 4:8	1	1	Καὶ	καί	conjunction	1	and
 LEV 4:8	1	2	τὸ	ὁ	article, accusative neuter singular	1	the
-LEV 4:8	1	3	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+LEV 4:8	1	3	πᾶν	πᾶς	adjective, accusative neuter singular	1	all
 LEV 4:8	1	4	στέαρ	στέαρ	noun, accusative neuter singular	1	fat
-LEV 4:8	1	5	τοῦ	ὁ	article, genitive singular	1	the
+LEV 4:8	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 LEV 4:8	1	6	μόσχου	μόσχος	noun, genitive masculine singular	1	young bull
 LEV 4:8	1	6	μόσχου			2	calf
 LEV 4:8	1	7	τοῦ	ὁ	article, genitive masculine singular	1	—
@@ -227,7 +227,7 @@ LEV 4:8	1	11	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
 LEV 4:8	1	12	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	it
 LEV 4:8	1	13	τὸ	ὁ	article, neuter singular (case from context)	1	the
 LEV 4:8	1	14	στέαρ	στέαρ	noun, accusative neuter singular	1	fat
-LEV 4:8	1	15	τὸ	ὁ	article, accusative neuter singular	1	the
+LEV 4:8	1	15	τὸ	ὁ	article, accusative neuter singular	1	—
 LEV 4:8	1	16	κατακαλύπτον	κατακαλύπτω	present active participle, accusative neuter singular	1	covering
 LEV 4:8	1	17	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 4:8	1	18	ἐνδόσθια	ἐνδόσθιον	noun, accusative neuter plural	1	entrails
@@ -275,7 +275,7 @@ LEV 4:10	1	5	τοῦ	ὁ	article, genitive singular	1	the
 LEV 4:10	1	6	μόσχου	μόσχος	noun, genitive masculine singular	1	young bull
 LEV 4:10	1	6	μόσχου			2	calf
 LEV 4:10	1	7	τοῦ	ὁ	article, genitive masculine singular; introduces a phrase specifying sacrificial use	1	—
-LEV 4:10	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 4:10	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 4:10	1	9	θυσίας	θυσία	noun, genitive feminine singular	1	offering
 LEV 4:10	1	10	τοῦ	ὁ	article, genitive neuter singular; with σωτηρίου describing the offering	1	—
 LEV 4:10	1	11	σωτηρίου	σωτήριον	substantival adjective, genitive neuter singular	1	of well-being
@@ -304,7 +304,7 @@ LEV 4:11	1	10	σάρκα	σάρξ	noun, accusative feminine singular	1	flesh
 LEV 4:11	1	11	σὺν	σύν	preposition with dative	1	with
 LEV 4:11	1	12	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 4:11	1	13	κεφαλῇ	κεφαλή	noun, dative feminine singular	1	head
-LEV 4:11	1	14	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
+LEV 4:11	1	14	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	its
 LEV 4:11	1	15	καὶ	καί	conjunction	1	and
 LEV 4:11	1	16	τοῖς	ὁ	article, dative neuter plural	1	the
 LEV 4:11	1	17	ἀκρωτηρίοις	ἀκρωτήριον	noun, dative neuter plural	1	extremities
@@ -461,7 +461,7 @@ LEV 4:17	1	6	δάκτυλον	δάκτυλος	noun, accusative masculine singul
 LEV 4:17	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 LEV 4:17	1	8	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 4:17	1	9	τοῦ	ὁ	article, genitive neuter singular	1	the
-LEV 4:17	1	10	αἵματος	αἷμα	noun, genitive neuter singular	1	of blood
+LEV 4:17	1	10	αἵματος	αἷμα	noun, genitive neuter singular	1	blood
 LEV 4:17	1	11	τοῦ	ὁ	article, genitive masculine singular	1	of the
 LEV 4:17	1	12	μόσχου	μόσχος	noun, genitive masculine singular	1	young bull
 LEV 4:17	1	12	μόσχου			2	calf
@@ -490,9 +490,9 @@ LEV 4:18	1	9	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 4:18	1	10	κέρατα	κέρας	noun, accusative neuter plural	1	horns
 LEV 4:18	1	11	τοῦ	ὁ	article, genitive neuter singular	1	of the
 LEV 4:18	1	12	θυσιαστηρίου	θυσιαστήριον	noun, genitive neuter singular	1	altar
-LEV 4:18	1	13	τῶν	ὁ	article, genitive plural	1	the
-LEV 4:18	1	14	θυμιαμάτων	θυμίαμα	noun, genitive neuter plural	1	of incense
-LEV 4:18	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 4:18	1	13	τῶν	ὁ	article, genitive plural	1	of the
+LEV 4:18	1	14	θυμιαμάτων	θυμίαμα	noun, genitive neuter plural	1	incense
+LEV 4:18	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 4:18	1	16	συνθέσεως	σύνθεσις	noun, genitive feminine singular	1	mixture
 LEV 4:18	1	17	ὅ	ὅς	relative pronoun, nominative neuter singular	1	which
 LEV 4:18	1	18	ἐστιν	εἰμί	present indicative, third singular	1	is
@@ -517,9 +517,9 @@ LEV 4:18	1	34	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 4:18	1	35	βάσιν	βάσις	noun, accusative feminine singular	1	base
 LEV 4:18	1	36	τοῦ	ὁ	article, genitive neuter singular	1	of the
 LEV 4:18	1	37	θυσιαστηρίου	θυσιαστήριον	noun, genitive neuter singular	1	altar
-LEV 4:18	1	38	τῶν	ὁ	article, genitive plural	1	the
+LEV 4:18	1	38	τῶν	ὁ	article, genitive plural	1	of the
 LEV 4:18	1	39	καρπώσεων	κάρπωσις	noun, genitive neuter plural	1	offerings
-LEV 4:18	1	40	τοῦ	ὁ	article, genitive masculine singular	1	of the
+LEV 4:18	1	40	τοῦ	ὁ	article, genitive masculine singular	1	—
 LEV 4:18	1	41	πρὸς	πρός	preposition with accusative	1	to
 LEV 4:18	1	42	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 4:18	1	43	θύραν	θύρα	noun, accusative feminine singular	1	door
@@ -553,7 +553,7 @@ LEV 4:20	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 LEV 4:20	1	9	μόσχον	μόσχος	noun, accusative masculine singular	1	young bull
 LEV 4:20	1	9	μόσχον			2	calf
 LEV 4:20	1	10	τὸν	ὁ	article, accusative masculine singular; introduces a phrase specifying sacrificial use	1	—
-LEV 4:20	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 4:20	1	11	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 4:20	1	12	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular; denotes the sacrifice for sin in context	1	sin offering
 LEV 4:20	1	13	οὕτω	οὕτως	adverb as printed	1	so
 LEV 4:20	1	14	ποιηθήσεται	ποιέω	future passive indicative, third singular	1	it shall be done
@@ -672,9 +672,9 @@ LEV 4:25	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 4:25	1	4	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
 LEV 4:25	1	5	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 4:25	1	6	τοῦ	ὁ	article, genitive neuter singular	1	the
-LEV 4:25	1	7	αἵματος	αἷμα	noun, genitive neuter singular	1	of blood
+LEV 4:25	1	7	αἵματος	αἷμα	noun, genitive neuter singular	1	blood
 LEV 4:25	1	8	τοῦ	ὁ	article, genitive neuter singular; stands for the sacrificial animal	1	of the animal
-LEV 4:25	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 4:25	1	9	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 4:25	1	10	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular; denotes the sacrifice for sin in context	1	sin offering
 LEV 4:25	1	11	τῷ	ὁ	article, dative masculine singular; marks instrument	1	with
 LEV 4:25	1	12	δακτύλῳ	δάκτυλος	noun, dative masculine singular	1	finger
@@ -704,7 +704,7 @@ LEV 4:25	1	34	τῶν	ὁ	article, genitive neuter plural	1	of the
 LEV 4:25	1	35	ὁλοκαυτωμάτων	ὁλοκαύτωμα	noun, genitive neuter plural	1	whole burnt offerings
 LEV 4:26	1	1	καὶ	καί	conjunction	1	and
 LEV 4:26	1	2	τὸ	ὁ	article, accusative neuter singular	1	the
-LEV 4:26	1	3	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
+LEV 4:26	1	3	πᾶν	πᾶς	adjective, accusative neuter singular	1	all
 LEV 4:26	1	4	στέαρ	στέαρ	noun, accusative neuter singular	1	fat
 LEV 4:26	1	5	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	its
 LEV 4:26	1	6	ἀνοίσει	ἀναφέρω	future active indicative, third singular	1	he shall offer up
@@ -714,7 +714,7 @@ LEV 4:26	1	9	θυσιαστήριον	θυσιαστήριον	noun, accusative 
 LEV 4:26	1	10	ὥσπερ	ὥσπερ	comparative conjunction	1	just as
 LEV 4:26	1	11	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 4:26	1	12	στέαρ	στέαρ	noun, accusative neuter singular	1	fat
-LEV 4:26	1	13	θυσίας	θυσία	noun, genitive feminine singular	1	offering
+LEV 4:26	1	13	θυσίας	θυσία	noun, genitive feminine singular	1	of offering
 LEV 4:26	1	14	σωτηρίου	σωτήριον	substantival adjective, genitive neuter singular	1	of well-being
 LEV 4:26	1	14	σωτηρίου			2	of peace
 LEV 4:26	1	15	καὶ	καί	conjunction	1	and
@@ -801,7 +801,7 @@ LEV 4:29	1	14	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 4:29	1	15	χίμαιραν	χίμαιρα	noun, accusative feminine singular	1	young female goat
 LEV 4:29	1	15	χίμαιραν			2	doe
 LEV 4:29	1	16	τὴν	ὁ	article, accusative feminine singular; introduces a phrase specifying sacrificial use	1	—
-LEV 4:29	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 4:29	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 4:29	1	18	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular; denotes the sacrifice for sin in context	1	sin offering
 LEV 4:29	1	19	ἐν	ἐν	preposition with the dative	1	in
 LEV 4:29	1	20	τόπῳ	τόπος	noun, dative masculine singular	1	place
@@ -897,7 +897,7 @@ LEV 4:33	1	6	ἐπὶ	ἐπί	preposition (case from context)	1	on
 LEV 4:33	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 4:33	1	8	κεφαλὴν	κεφαλή	noun, accusative feminine singular after ἐπὶ τὴν	1	head
 LEV 4:33	1	9	τοῦ	ὁ	article, genitive neuter singular; stands for the sacrificial animal	1	of the animal
-LEV 4:33	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 4:33	1	10	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 4:33	1	11	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular; denotes the sacrifice for sin in context	1	sin offering
 LEV 4:33	1	12	καὶ	καί	conjunction	1	and
 LEV 4:33	1	13	σφάξουσιν	σφάζω	future active indicative, third plural	1	they shall slaughter
@@ -917,9 +917,9 @@ LEV 4:34	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 4:34	1	4	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1	priest
 LEV 4:34	1	5	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 4:34	1	6	τοῦ	ὁ	article, genitive neuter singular	1	the
-LEV 4:34	1	7	αἵματος	αἷμα	noun, genitive neuter singular	1	of blood
+LEV 4:34	1	7	αἵματος	αἷμα	noun, genitive neuter singular	1	blood
 LEV 4:34	1	8	τοῦ	ὁ	article, genitive neuter singular; stands for the sacrificial animal	1	of the animal
-LEV 4:34	1	9	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 4:34	1	9	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 4:34	1	10	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular; denotes the sacrifice for sin in context	1	sin offering
 LEV 4:34	1	11	τῷ	ὁ	article, dative masculine singular; marks instrument	1	with
 LEV 4:34	1	12	δακτύλῳ	δάκτυλος	noun, dative masculine singular	1	finger
@@ -944,7 +944,7 @@ LEV 4:34	1	29	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 4:34	1	30	βάσιν	βάσις	noun, accusative feminine singular	1	base
 LEV 4:34	1	31	τοῦ	ὁ	article, genitive neuter singular	1	of the
 LEV 4:34	1	32	θυσιαστηρίου	θυσιαστήριον	noun, genitive neuter singular	1	altar
-LEV 4:34	1	33	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 4:34	1	33	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 4:34	1	34	ὁλοκαυτώσεως	ὁλοκαύτωσις	noun, genitive feminine singular	1	whole burnt offering
 LEV 4:35	1	1	Καὶ	καί	conjunction	1	and
 LEV 4:35	1	2	πᾶν	πᾶς	adjective, accusative neuter singular	1	all
@@ -956,7 +956,7 @@ LEV 4:35	1	7	ὃν	ὅς	relative pronoun, accusative masculine singular	1	in th
 LEV 4:35	1	8	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
 LEV 4:35	1	9	περιαιρεῖται	περιαιρέω	present middle/passive indicative, third singular	1	is removed
 LEV 4:35	1	10	στέαρ	στέαρ	noun, accusative neuter singular	1	fat
-LEV 4:35	1	11	προβάτου	πρόβατον	noun, genitive neuter singular	1	sheep
+LEV 4:35	1	11	προβάτου	πρόβατον	noun, genitive neuter singular	1	of sheep
 LEV 4:35	1	12	ἐκ	ἐκ	preposition with the genitive	1	from
 LEV 4:35	1	13	τῆς	ὁ	article, genitive feminine singular	1	the
 LEV 4:35	1	14	θυσίας	θυσία	noun, genitive feminine singular	1	offering

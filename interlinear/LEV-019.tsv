@@ -67,8 +67,8 @@ LEV 19:5	1	7	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 LEV 19:5	1	8	δεκτὴν	δεκτός	adjective, accusative feminine singular	1	acceptable
 LEV 19:5	1	9	ὑμῶν	σύ	pronoun, genitive second plural	1	for you
 LEV 19:5	1	10	θύσετε	θύω	future active indicative, second plural	1	you shall sacrifice
-LEV 19:6	1	1	Ἡ	ὅς	relative pronoun, dative feminine singular	1	on whichever
-LEV 19:6	1	2	ἂν	ἄν	modal particle	1	[modal particle]
+LEV 19:6	1	1	Ἡ	ὅς	relative pronoun, dative feminine singular	1	on which
+LEV 19:6	1	2	ἂν	ἄν	modal particle	1	ever
 LEV 19:6	1	3	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 LEV 19:6	1	4	θύσετε	θύω	future active indicative, second plural	1	you shall sacrifice
 LEV 19:6	1	5	βρωθήσεται	ἐσθίω	future passive indicative, third singular	1	shall be eaten
@@ -96,7 +96,7 @@ LEV 19:7	1	9	ἄθυτόν	ἄθυτος	adjective, nominative neuter singular	1
 LEV 19:7	1	10	ἐστιν	εἰμί	present indicative, third singular	1	is
 LEV 19:7	1	11	οὐ	οὐ	negative particle	1	not
 LEV 19:7	1	12	δεχθήσεται	δέχομαι	future passive indicative, third singular	1	shall be accepted
-LEV 19:8	1	1	ὁ	ὁ	article, nominative masculine singular	1	the
+LEV 19:8	1	1	ὁ	ὁ	article, nominative masculine singular	1	the one
 LEV 19:8	1	2	δὲ	δέ	postpositive conjunction	1	and
 LEV 19:8	1	3	ἔσθων	ἐσθίω	present active participle, nominative masculine singular	1	who eats
 LEV 19:8	1	4	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
@@ -111,8 +111,8 @@ LEV 19:8	1	12	καὶ	καί	conjunction	1	and
 LEV 19:8	1	13	ἐξολοθρευθήσονται	ἐξολοθρεύω	future passive indicative, third plural	1	shall be cut off
 LEV 19:8	1	14	αἱ	ὁ	article, nominative feminine plural	1	the
 LEV 19:8	1	15	ψυχαὶ	ψυχή	noun, nominative feminine plural	1	persons
-LEV 19:8	1	16	αἱ	ὁ	article, nominative feminine plural	1	the
-LEV 19:8	1	17	ἔσθουσαι	ἐσθίω	present active participle, nominative feminine plural	1	eating
+LEV 19:8	1	16	αἱ	ὁ	article, nominative feminine plural	1	—
+LEV 19:8	1	17	ἔσθουσαι	ἐσθίω	present active participle, nominative feminine plural	1	who eat
 LEV 19:8	1	18	ἐκ	ἐκ	preposition with the genitive	1	from
 LEV 19:8	1	19	τοῦ	ὁ	article, genitive masculine singular	1	the
 LEV 19:8	1	20	λαοῦ	λαός	noun, genitive masculine singular	1	people
@@ -154,7 +154,7 @@ LEV 19:10	1	7	οὐδὲ	οὐδέ	negative conjunction	1	nor
 LEV 19:10	1	7	οὐδὲ			2	neither
 LEV 19:10	1	8	τὰς	ὁ	article, accusative feminine plural	1	the
 LEV 19:10	1	9	ῥῶγας	ῥώξ	noun, accusative feminine plural	1	grapes
-LEV 19:10	1	10	τοῦ	ὁ	article, genitive singular	1	the
+LEV 19:10	1	10	τοῦ	ὁ	article, genitive singular	1	—
 LEV 19:10	1	11	ἀμπελῶνός	ἀμπελών	noun, genitive masculine singular	1	of the vineyard
 LEV 19:10	1	12	σου	σύ	pronoun, possessive genitive second singular	1	your
 LEV 19:10	1	13	συλλέξεις	συλλέγω	future active indicative, second singular	1	you shall gather
@@ -278,7 +278,7 @@ LEV 19:16	1	5	τῷ	ὁ	article, dative masculine singular	1	the
 LEV 19:16	1	6	ἔθνει	ἔθνος	noun, dative neuter singular	1	people
 LEV 19:16	1	7	σου	σύ	pronoun, possessive genitive second singular	1	your
 LEV 19:16	1	8	οὐκ	οὐ	negative particle	1	not
-LEV 19:16	1	9	ἐπιστήσῃ	ἐφίστημι	aorist active subjunctive, second singular	1	you shall stand against
+LEV 19:16	1	9	ἐπιστήσῃ	ἐφίστημι	aorist active subjunctive, second singular	1	you shall stand
 LEV 19:16	1	10	ἐφ᾽	ἐπί	preposition with dative	1	against
 LEV 19:16	1	11	αἵματι	αἷμα	noun, dative neuter singular	1	blood
 LEV 19:16	1	12	τοῦ	ὁ	article, genitive masculine singular	1	of the
@@ -393,7 +393,7 @@ LEV 19:20	1	34	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 19:20	1	35	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 LEV 19:20	1	36	οὐκ	οὐ	particle	1	not
 LEV 19:20	1	37	ἀποθανοῦνται	ἀποθνῄσκω	future middle indicative, third plural	1	they shall die
-LEV 19:20	1	38	ὅτι	ὅτι	conjunction introducing a content clause	1	that
+LEV 19:20	1	38	ὅτι	ὅτι	conjunction introducing a content clause	1	because
 LEV 19:20	1	39	οὐκ	οὐ	negative particle	1	not
 LEV 19:20	1	40	ἀπηλευθερώθη	ἀπελευθερόω	aorist passive indicative, third singular	1	she was set free
 LEV 19:21	1	1	Καὶ	καί	conjunction	1	and
@@ -423,7 +423,7 @@ LEV 19:22	1	6	ἱερεὺς	ἱερεύς	noun, nominative masculine singular	1
 LEV 19:22	1	7	ἐν	ἐν	preposition with the dative	1	with
 LEV 19:22	1	8	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 19:22	1	9	κριῷ	κριός	noun, dative masculine singular	1	ram
-LEV 19:22	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 19:22	1	10	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 19:22	1	11	πλημμελείας	πλημμέλεια	noun, genitive feminine singular; denotes sacrificial purpose	1	guilt offering
 LEV 19:22	1	12	ἔναντι	ἔναντι	improper preposition with genitive	1	before
 LEV 19:22	1	12	ἔναντι			2	in the presence of
@@ -564,7 +564,7 @@ LEV 19:29	1	2	βεβηλώσεις	βεβηλόω	future active indicative, seco
 LEV 19:29	1	3	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 19:29	1	4	θυγατέρα	θυγάτηρ	noun, accusative feminine singular	1	daughter
 LEV 19:29	1	5	σου	σύ	personal pronoun, genitive second singular	1	your
-LEV 19:29	1	6	ἐκπορνεῦσαι	ἐκπορνεύω	aorist active infinitive	1	to prostitute herself
+LEV 19:29	1	6	ἐκπορνεῦσαι	ἐκπορνεύω	aorist active infinitive	1	to prostitute
 LEV 19:29	1	7	αὐτήν	αὐτός	pronoun, accusative feminine singular	1	her
 LEV 19:29	1	8	καὶ	καί	conjunction	1	and
 LEV 19:29	1	9	οὐκ	οὐ	negative adverb with future indicative	1	not
@@ -618,7 +618,7 @@ LEV 19:32	1	8	πρεσβυτέρου	πρέσβυς	substantival adjective, geni
 LEV 19:32	1	9	καὶ	καί	conjunction	1	and
 LEV 19:32	1	10	φοβηθήσῃ	φοβέομαι	future passive indicative, second singular	1	you shall fear
 LEV 19:32	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
-LEV 19:32	1	12	Θεόν	θεός	noun, accusative masculine singular	1	god
+LEV 19:32	1	12	Θεόν	θεός	noun, accusative masculine singular	1	God
 LEV 19:32	1	13	σου	σύ	pronoun, possessive genitive second singular	1	your
 LEV 19:32	1	14	ἐγώ	ἐγώ	pronoun, nominative first singular emphatic	1	I
 LEV 19:32	1	15	εἰμι	εἰμί	present indicative, first singular	1	am
@@ -631,7 +631,7 @@ LEV 19:33	1	2	δέ	δέ	postpositive conjunction, tonic accent	1	and
 LEV 19:33	1	3	τις	τις	indefinite pronoun/adjective, nominative feminine singular	1	a certain
 LEV 19:33	1	4	προσέλθῃ	προσέρχομαι	aorist active subjunctive, third singular	1	comes to
 LEV 19:33	1	5	προσήλυτος	προσήλυτος	noun, nominative masculine singular	1	resident alien
-LEV 19:33	1	6	ὑμῖν	σύ	pronoun, dative second plural	1	to you
+LEV 19:33	1	6	ὑμῖν	σύ	pronoun, dative second plural	1	you
 LEV 19:33	1	7	ἐν	ἐν	preposition with the dative	1	in
 LEV 19:33	1	8	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 19:33	1	9	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land

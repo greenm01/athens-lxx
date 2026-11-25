@@ -83,7 +83,7 @@ LEV 25:4	1	24	τεμεῖς	τέμνω	future active indicative, second singular
 LEV 25:5	1	1	καὶ	καί	conjunction	1	and
 LEV 25:5	1	2	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 25:5	1	3	αὐτόματα	αὐτόματος	substantival adjective, accusative neuter plural	1	things growing of themselves
-LEV 25:5	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
+LEV 25:5	1	4	τὰ	ὁ	article, accusative neuter plural	1	—
 LEV 25:5	1	5	ἀναβαίνοντα	ἀναβαίνω	present active participle, accusative neuter plural	1	coming up
 LEV 25:5	1	6	τοῦ	ὁ	article, genitive masculine singular	1	of the
 LEV 25:5	1	7	ἀγροῦ	ἀγρός	noun, genitive masculine singular	1	field
@@ -108,7 +108,7 @@ LEV 25:6	1	1	Καὶ	καί	conjunction	1	and
 LEV 25:6	1	2	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 25:6	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 25:6	1	4	σάββατα	σάββατον	noun, nominative neut. pl.	1	sabbath
-LEV 25:6	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 25:6	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 25:6	1	6	γῆς	γῆ	noun, genitive feminine singular	1	land
 LEV 25:6	1	7	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 LEV 25:6	1	8	βρώματα	βρῶμα	noun, accusative neuter plural	1	food supplies
@@ -231,7 +231,7 @@ LEV 25:10	1	22	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 25:10	1	23	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 LEV 25:10	1	24	καὶ	καί	conjunction	1	and
 LEV 25:10	1	25	ἀπελεύσεσθε	ἀπέρχομαι	future middle indicative, second plural	1	you shall return
-LEV 25:10	1	26	εἷς	εἷς	cardinal numeral/pronoun, nominative masculine singular after ὁ	1	the one
+LEV 25:10	1	26	εἷς	εἷς	cardinal numeral/pronoun, nominative masculine singular after ὁ	1	one
 LEV 25:10	1	27	καὶ	καί	conjunction	1	and
 LEV 25:10	1	28	ἕκαστος	ἕκαστος	adjective, nominative masculine singular	1	each
 LEV 25:10	1	29	εἰς	εἰς	preposition with the accusative	1	to
@@ -267,8 +267,8 @@ LEV 25:11	1	19	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
 LEV 25:11	1	20	καὶ	καί	conjunction	1	and
 LEV 25:11	1	21	οὐ	οὐ	negative particle	1	not
 LEV 25:11	1	22	τρυγήσετε	τρυγάω	future active indicative, second plural	1	you shall gather grapes
-LEV 25:11	1	23	τὰ	ὁ	article, accusative neuter plural	1	the
-LEV 25:11	1	24	ἡγιασμένα	ἁγιάζω	perfect middle/passive participle, accusative neuter plural	1	set apart
+LEV 25:11	1	23	τὰ	ὁ	article, accusative neuter plural	1	the things that
+LEV 25:11	1	24	ἡγιασμένα	ἁγιάζω	perfect middle/passive participle, accusative neuter plural	1	are set apart
 LEV 25:11	1	25	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 LEV 25:12	1	1	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 LEV 25:12	1	2	ἀφέσεως	ἄφεσις	noun, genitive feminine singular	1	of release
@@ -280,15 +280,15 @@ LEV 25:12	1	7	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	to you
 LEV 25:12	1	8	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 25:12	1	9	τῶν	ὁ	article, genitive masculine plural	1	the
 LEV 25:12	1	10	πεδίων	πεδίον	noun, genitive neuter plural after τῶν	1	fields
-LEV 25:12	1	11	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you shall eat (plural)
+LEV 25:12	1	11	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you shall eat
 LEV 25:12	1	12	τὰ	ὁ	article, nominative/accusative neuter plural (case from context)	1	the
 LEV 25:12	1	13	γεννήματα	γέννημα	noun, accusative neuter plural	1	produce
 LEV 25:12	1	14	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 LEV 25:13	1	1	ἐν	ἐν	preposition with the dative	1	in
 LEV 25:13	1	2	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 25:13	1	3	ἔτει	ἔτος	noun, dative neuter singular after τῷ/ἐν τῷ	1	year
-LEV 25:13	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
-LEV 25:13	1	5	ἀφέσεως	ἄφεσις	noun, genitive feminine singular	1	of release
+LEV 25:13	1	4	τῆς	ὁ	article, genitive feminine singular	1	of the
+LEV 25:13	1	5	ἀφέσεως	ἄφεσις	noun, genitive feminine singular	1	release
 LEV 25:13	1	6	σημασίᾳ	σημασία	noun, dative feminine singular	1	at the signal
 LEV 25:13	1	7	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 LEV 25:13	1	8	ἐπανελεύσεσθε	ἐπανέρχομαι	future middle indicative, second plural	1	you shall return
@@ -301,7 +301,7 @@ LEV 25:14	1	1	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 LEV 25:14	1	2	δὲ	δέ	postpositive conjunction	1	and
 LEV 25:14	1	3	ἀποδῷς	ἀποδίδωμι	aorist active subjunctive, second singular	1	you sell
 LEV 25:14	1	4	πράσιν	πρᾶσις	noun, accusative feminine singular	1	a sale
-LEV 25:14	1	5	τῷ	ὁ	article, dative masculine singular	1	the
+LEV 25:14	1	5	τῷ	ὁ	article, dative masculine singular	1	to the
 LEV 25:14	1	6	πλησίον	πλησίον	adverb/noun, genitive masc. sg. after τοῦ/κατὰ τοῦ, neighbour	1	neighbour
 LEV 25:14	1	7	σου	σύ	pronoun, possessive genitive second singular	1	your
 LEV 25:14	1	8	ἐὰν	ἐάν	particle	1	if
@@ -332,14 +332,14 @@ LEV 25:15	1	10	πλησίον	πλησίον	adverb/noun, genitive after παρ�
 LEV 25:15	1	11	κατὰ	κατά	preposition with the accusative	1	according to
 LEV 25:15	1	12	ἀριθμὸν	ἀριθμός	noun, accusative masc. sg. after κατὰ	1	number
 LEV 25:15	1	13	ἐνιαυτῶν	ἐνιαυτός	noun, genitive masculine plural after ἡμέραι...ἐνιαυτῶν as printed phrasing 'the days of the years of his life'	1	of years
-LEV 25:15	1	14	γεννημάτων	γέννημα	noun, genitive neuter plural	1	produce
+LEV 25:15	1	14	γεννημάτων	γέννημα	noun, genitive neuter plural	1	of produce
 LEV 25:15	1	15	ἀποδώσεταί	ἀποδίδωμι	future middle indicative, third singular	1	he shall sell
 LEV 25:15	1	16	σοι	σύ	personal pronoun, dative singular	1	to you
 LEV 25:16	1	1	Καθότι	καθότι	subordinating conjunction	1	as
 LEV 25:16	1	1	Καθότι			2	in accordance with what
 LEV 25:16	1	2	ἂν	ἄν	modal particle	1	[modal particle]
 LEV 25:16	1	3	πλεῖον	πολύς	comparative adjective, accusative neuter singular used adverbially	1	more
-LEV 25:16	1	4	τῶν	ὁ	article, genitive plural	1	the
+LEV 25:16	1	4	τῶν	ὁ	article, genitive plural	1	of the
 LEV 25:16	1	5	ἐτῶν	ἔτος	noun, genitive neuter plural of age	1	years
 LEV 25:16	1	6	πληθύνῃ	πληθύνω	present active subjunctive, third singular	1	increases
 LEV 25:16	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -350,9 +350,9 @@ LEV 25:16	1	11	καθότι	καθότι	subordinating conjunction	1	as
 LEV 25:16	1	11	καθότι			2	in accordance with what
 LEV 25:16	1	12	ἂν	ἄν	modal particle	1	[modal particle]
 LEV 25:16	1	13	ἔλαττον	ἐλάσσων	comparative adjective, accusative neut. sg. after τὸ, less	1	less
-LEV 25:16	1	14	τῶν	ὁ	article, genitive plural	1	the
+LEV 25:16	1	14	τῶν	ὁ	article, genitive plural	1	of the
 LEV 25:16	1	15	ἐτῶν	ἔτος	noun, genitive neuter plural of age	1	years
-LEV 25:16	1	16	ἐλαττονώσῃ	ἐλαττονόω	future active indicative, second singular	1	you shall reduce
+LEV 25:16	1	16	ἐλαττονώσῃ	ἐλαττονόω	future active indicative, second singular	1	he reduces
 LEV 25:16	1	17	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 25:16	1	18	κτῆσιν	κτῆσις	noun, accusative feminine singular	1	purchase price
 LEV 25:16	1	19	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
@@ -376,7 +376,7 @@ LEV 25:17	1	9	Κύριον	κύριος	noun, accusative masculine singular	1	th
 LEV 25:17	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 LEV 25:17	1	11	Θεόν	θεός	noun, accusative masculine singular	1	God
 LEV 25:17	1	12	σου	σύ	pronoun, possessive genitive second singular	1	your
-LEV 25:17	1	13	ὅτι	ὅτι	content conjunction	1	that
+LEV 25:17	1	13	ὅτι	ὅτι	content conjunction	1	for
 LEV 25:17	1	14	ἐγώ	ἐγώ	pronoun, nominative first singular emphatic	1	I
 LEV 25:17	1	15	εἰμι	εἰμί	present indicative, first singular	1	am
 LEV 25:17	1	16	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -467,7 +467,7 @@ LEV 25:22	1	4	ἔτος	ἔτος	noun, nominative neuter singular	1	year
 LEV 25:22	1	5	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 25:22	1	6	ὄγδοον	ὄγδοος	ordinal adjective, accusative masculine singular	1	eighth
 LEV 25:22	1	7	καὶ	καί	conjunction	1	and
-LEV 25:22	1	8	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you shall eat (plural)
+LEV 25:22	1	8	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you shall eat
 LEV 25:22	1	9	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 25:22	1	10	τῶν	ὁ	article, genitive plural	1	the
 LEV 25:22	1	11	γεννημάτων	γέννημα	noun, genitive neuter plural	1	produce
@@ -475,7 +475,7 @@ LEV 25:22	1	12	παλαιὰ	παλαιός	substantival adjective, accusative n
 LEV 25:22	1	13	ἕως	ἕως	preposition with genitive	1	until
 LEV 25:22	1	14	τοῦ	ὁ	article, genitive masculine singular	1	the
 LEV 25:22	1	15	ἔτους	ἔτος	noun, genitive neuter singular, of time	1	year
-LEV 25:22	1	16	τοῦ	ὁ	article, genitive masculine singular	1	of the
+LEV 25:22	1	16	τοῦ	ὁ	article, genitive masculine singular	1	—
 LEV 25:22	1	17	ἐννάτου	ἔννατος	ordinal adjective, genitive masculine singular	1	ninth
 LEV 25:22	1	18	ἕως	ἕως	temporal conjunction with ἄν and the subjunctive	1	until
 LEV 25:22	1	19	ἂν	ἄν	modal particle	1	(with ἕως)
@@ -483,9 +483,9 @@ LEV 25:22	1	20	ἔλθῃ	ἔρχομαι	aorist active subjunctive, third singu
 LEV 25:22	1	21	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 25:22	1	22	γέννημα	γέννημα	noun, accusative neuter plural	1	produce
 LEV 25:22	1	23	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
-LEV 25:22	1	24	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you shall eat (plural)
+LEV 25:22	1	24	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you shall eat
 LEV 25:22	1	25	παλαιὰ	παλαιός	substantival adjective, accusative neuter plural	1	old stores
-LEV 25:22	1	26	παλαιῶν	παλαιός	substantival adjective, genitive neuter plural	1	old stores
+LEV 25:22	1	26	παλαιῶν	παλαιός	substantival adjective, genitive neuter plural	1	of old stores
 LEV 25:23	1	1	Καὶ	καί	conjunction	1	and
 LEV 25:23	1	2	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 25:23	1	3	γῆ	γῆ	noun, nominative feminine singular	1	land
@@ -550,12 +550,12 @@ LEV 25:26	1	1	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 LEV 25:26	1	2	δὲ	δέ	conjunction	1	and
 LEV 25:26	1	3	μὴ	μή	negative particle	1	not
 LEV 25:26	1	4	ᾖ	εἰμί	present subjunctive, third singular	1	may be
-LEV 25:26	1	5	τινι	τις	pronoun, dative masculine singular; indefinite	1	someone
+LEV 25:26	1	5	τινι	τις	pronoun, dative masculine singular; indefinite	1	to someone
 LEV 25:26	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 25:26	1	7	ἀγχιστεύων	ἀγχιστεύω	present active participle, nominative masculine singular	1	nearest kinsman
 LEV 25:26	1	8	καὶ	καί	conjunction	1	and
 LEV 25:26	1	9	εὑρεθῇ	εὑρίσκω	aorist passive subjunctive, third singular after ἂν	1	is found
-LEV 25:26	1	10	τῇ	ὁ	article, dative feminine singular	1	the
+LEV 25:26	1	10	τῇ	ὁ	article, dative feminine singular	1	in the
 LEV 25:26	1	11	χειρὶ	χείρ	noun, dative feminine singular	1	hand
 LEV 25:26	1	12	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 25:26	1	13	καὶ	καί	conjunction	1	and
@@ -569,21 +569,21 @@ LEV 25:27	1	1	καὶ	καί	conjunction	1	and
 LEV 25:27	1	2	συλλογιεῖται	συλλογίζομαι	future middle indicative, third singular	1	shall calculate
 LEV 25:27	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 25:27	1	4	ἔτη	ἔτος	noun, accusative neuter plural, of duration	1	years
-LEV 25:27	1	5	τῆς	ὁ	article, genitive feminine singular	1	the
-LEV 25:27	1	6	πράσεως	πρᾶσις	noun, genitive feminine singular	1	of sale
+LEV 25:27	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
+LEV 25:27	1	6	πράσεως	πρᾶσις	noun, genitive feminine singular	1	sale
 LEV 25:27	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 25:27	1	8	καὶ	καί	conjunction	1	and
 LEV 25:27	1	9	ἀποδώσει	ἀποδίδωμι	future active indicative, third singular	1	shall repay
 LEV 25:27	1	10	ὃ	ὅς	relative pronoun, accusative neuter singular	1	which
 LEV 25:27	1	11	ὑπερέχει	ὑπερέχω	present active indicative, third singular with genitive ἐμοῦ	1	exceeds
-LEV 25:27	1	12	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+LEV 25:27	1	12	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 LEV 25:27	1	13	ἀνθρώπῳ	ἄνθρωπος	noun, dative masculine singular after τῷ	1	man
 LEV 25:27	1	14	ᾧ	ὅς	relative pronoun, dative masculine singular	1	whom
 LEV 25:27	1	15	ἀπέδοτο	ἀποδίδωμι	aorist middle indicative, third singular	1	he sold
 LEV 25:27	1	16	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 LEV 25:27	1	17	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 LEV 25:27	1	18	καὶ	καί	conjunction	1	and
-LEV 25:27	1	19	ἀπελεύσεσαι	ἀπέρχομαι	future middle indicative, second singular	1	you shall return
+LEV 25:27	1	19	ἀπελεύσεσαι	ἀπέρχομαι	future middle indicative, second singular	1	will depart
 LEV 25:27	1	20	εἰς	εἰς	preposition with the accusative	1	to
 LEV 25:27	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 25:27	1	22	κατάσχεσιν	κατάσχεσις	noun, accusative feminine singular	1	holding
@@ -605,15 +605,15 @@ LEV 25:28	1	14	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 25:28	1	15	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 25:28	1	16	πράσις	πρᾶσις	noun, nominative feminine singular	1	sale
 LEV 25:28	1	17	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-LEV 25:28	1	18	τῷ	ὁ	article, dative masculine singular	1	the
+LEV 25:28	1	18	τῷ	ὁ	article, dative masculine singular	1	to the
 LEV 25:28	1	19	κτησαμένῳ	κτάομαι	aorist middle participle, dative masculine singular	1	buyer
 LEV 25:28	1	20	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
 LEV 25:28	1	21	ἕως	ἕως	temporal conjunction/preposition	1	until
 LEV 25:28	1	22	τοῦ	ὁ	article, genitive singular	1	the
 LEV 25:28	1	23	ἕκτου	ἕκτος	ordinal adjective, genitive masculine singular	1	sixth
 LEV 25:28	1	24	ἔτους	ἔτος	noun, genitive neuter singular, of time	1	year
-LEV 25:28	1	25	τῆς	ὁ	article, genitive feminine singular	1	the
-LEV 25:28	1	26	ἀφέσεως	ἄφεσις	noun, genitive feminine singular	1	of release
+LEV 25:28	1	25	τῆς	ὁ	article, genitive feminine singular	1	of the
+LEV 25:28	1	26	ἀφέσεως	ἄφεσις	noun, genitive feminine singular	1	release
 LEV 25:28	1	27	καὶ	καί	conjunction	1	and
 LEV 25:28	1	28	ἐξελεύσεται	ἐξέρχομαι	future middle indicative, third singular	1	will come out
 LEV 25:28	1	29	ἐν	ἐν	preposition with the dative	1	in
@@ -662,15 +662,15 @@ LEV 25:30	1	10	ὅλος			2	all over
 LEV 25:30	1	11	κυρωθήσεται	κυρόω	future passive indicative, third singular	1	shall be confirmed
 LEV 25:30	1	12	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 25:30	1	13	οἰκία	οἰκία	noun, nominative feminine singular after ἡ at 50:8 πᾶσα ἡ οἰκία	1	house
-LEV 25:30	1	14	ἡ	ὁ	article, nominative feminine singular	1	the
+LEV 25:30	1	14	ἡ	ὁ	article, nominative feminine singular	1	—
 LEV 25:30	1	15	οὖσα	εἰμί	present active participle, nominative feminine singular	1	being
 LEV 25:30	1	16	ἐν	ἐν	preposition with the dative	1	in
 LEV 25:30	1	17	πόλει	πόλις	noun, dative feminine singular	1	city
-LEV 25:30	1	18	τῇ	ὁ	article, dative feminine singular	1	the
+LEV 25:30	1	18	τῇ	ὁ	article, dative feminine singular	1	—
 LEV 25:30	1	19	ἐχούσῃ	ἔχω	present active participle, dative feminine singular	1	having
 LEV 25:30	1	20	τεῖχος	τεῖχος	noun, nominative neut. sg.	1	a wall
 LEV 25:30	1	21	βεβαίως	βεβαίως	adverb	1	permanently
-LEV 25:30	1	22	τῷ	ὁ	article, dative neuter singular; introduces the infinitive governed by ἐν	1	—
+LEV 25:30	1	22	τῷ	ὁ	article, dative neuter singular; introduces the infinitive governed by ἐν	1	to the one
 LEV 25:30	1	23	κτησαμένῳ	κτάομαι	aorist middle participle, dative masculine singular	1	who bought
 LEV 25:30	1	24	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 LEV 25:30	1	25	εἰς	εἰς	preposition with the accusative	1	for
@@ -715,10 +715,10 @@ LEV 25:31	1	27	ἐξελεύσονται	ἐξέρχομαι	future middle indic
 LEV 25:32	1	1	Καὶ	καί	conjunction	1	and
 LEV 25:32	1	2	αἱ	ὁ	article, nominative feminine plural	1	the
 LEV 25:32	1	3	πόλεις	πόλις	noun, accusative feminine plural	1	cities
-LEV 25:32	1	4	τῶν	ὁ	article, genitive plural	1	the
-LEV 25:32	1	5	Λευιτῶν	Λευίτης	noun, genitive masculine plural	1	of the Levites
+LEV 25:32	1	4	τῶν	ὁ	article, genitive plural	1	of the
+LEV 25:32	1	5	Λευιτῶν	Λευίτης	noun, genitive masculine plural	1	Levites
 LEV 25:32	1	6	οἰκίαι	οἰκία	noun, nominative feminine plural after αἱ	1	houses
-LEV 25:32	1	7	τῶν	ὁ	article, genitive plural	1	the
+LEV 25:32	1	7	τῶν	ὁ	article, genitive plural	1	of the
 LEV 25:32	1	8	πόλεων	πόλις	noun, genitive feminine plural	1	cities
 LEV 25:32	1	8	πόλεων			2	towns
 LEV 25:32	1	9	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -727,7 +727,7 @@ LEV 25:32	1	11	λυτρωταὶ	λυτρωτός	adjective, nominative feminine
 LEV 25:32	1	12	διαπαντὸς	διαπαντός	adverb, διὰ παντός written as one word	1	continually
 LEV 25:32	1	12	διαπαντὸς			2	always
 LEV 25:32	1	13	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
-LEV 25:32	1	14	τοῖς	ὁ	article, dative neuter plural	1	the
+LEV 25:32	1	14	τοῖς	ὁ	article, dative neuter plural	1	to the
 LEV 25:32	1	15	Λευίταις	Λευίτης	noun, dative masculine plural	1	Levites
 LEV 25:33	1	1	καὶ	καί	conjunction	1	and
 LEV 25:33	1	2	ὃς	ὅς	relative pronoun, nominative masculine singular	1	who
@@ -735,14 +735,14 @@ LEV 25:33	1	3	ἂν	ἄν	modal particle	1	[modal particle]
 LEV 25:33	1	4	λυτρωσάμενος	λυτρόω	aorist middle participle, nominative masculine singular	1	has redeemed
 LEV 25:33	1	5	παρὰ	παρά	preposition with genitive	1	from
 LEV 25:33	1	6	τῶν	ὁ	article, genitive plural	1	the
-LEV 25:33	1	7	Λευιτῶν	Λευίτης	noun, genitive masculine plural	1	of the Levites
+LEV 25:33	1	7	Λευιτῶν	Λευίτης	noun, genitive masculine plural	1	Levites
 LEV 25:33	1	8	καὶ	καί	conjunction	1	and
 LEV 25:33	1	9	ἐξελεύσεται	ἐξέρχομαι	future middle indicative, third singular	1	will come out
 LEV 25:33	1	10	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 25:33	1	11	διάπρασις	διάπρασις	noun, nominative feminine singular	1	sale
 LEV 25:33	1	12	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-LEV 25:33	1	13	οἰκιῶν	οἰκία	noun, genitive feminine plural after ἐκ τῶν	1	houses
-LEV 25:33	1	14	πόλεως	πόλις	noun, genitive feminine singular	1	city
+LEV 25:33	1	13	οἰκιῶν	οἰκία	noun, genitive feminine plural after ἐκ τῶν	1	of houses
+LEV 25:33	1	14	πόλεως	πόλις	noun, genitive feminine singular	1	of a city
 LEV 25:33	1	14	πόλεως			2	town
 LEV 25:33	1	15	κατασχέσεως	κατάσχεσις	noun, genitive feminine singular	1	of the holding
 LEV 25:33	1	16	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -751,11 +751,11 @@ LEV 25:33	1	18	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 25:33	1	19	ἀφέσει	ἄφεσις	noun, dative feminine singular	1	release
 LEV 25:33	1	20	ὅτι	ὅτι	conjunction	1	because
 LEV 25:33	1	21	οἰκίαι	οἰκία	noun, nominative feminine plural after αἱ	1	houses
-LEV 25:33	1	22	τῶν	ὁ	article, genitive plural	1	the
+LEV 25:33	1	22	τῶν	ὁ	article, genitive plural	1	of the
 LEV 25:33	1	23	πόλεων	πόλις	noun, genitive feminine plural	1	cities
 LEV 25:33	1	23	πόλεων			2	towns
-LEV 25:33	1	24	τῶν	ὁ	article, genitive masculine plural	1	the
-LEV 25:33	1	25	Λευιτῶν	Λευίτης	noun, genitive masculine plural	1	of the Levites
+LEV 25:33	1	24	τῶν	ὁ	article, genitive masculine plural	1	of the
+LEV 25:33	1	25	Λευιτῶν	Λευίτης	noun, genitive masculine plural	1	Levites
 LEV 25:33	1	26	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 LEV 25:33	1	27	ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 25:33	1	28	κατάσχεσις	κατάσχεσις	noun, nominative feminine singular	1	holding
@@ -763,13 +763,13 @@ LEV 25:33	1	29	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 LEV 25:33	1	30	ἐν	ἐν	preposition with the dative	1	in
 LEV 25:33	1	31	μέσῳ	μέσος	substantival adjective, dative neuter singular	1	the midst
 LEV 25:33	1	31	μέσῳ			2	the middle
-LEV 25:33	1	32	υἱῶν	υἱός	noun, genitive masculine plural	1	sons
+LEV 25:33	1	32	υἱῶν	υἱός	noun, genitive masculine plural	1	of sons
 LEV 25:33	1	33	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 LEV 25:34	1	1	Καὶ	καί	conjunction	1	and
 LEV 25:34	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
 LEV 25:34	1	3	ἀγροὶ	ἀγρός	noun, nominative masculine plural	1	fields
 LEV 25:34	1	4	ἀφωρισμένοι	ἀφορίζω	perfect middle/passive participle, nominative masculine plural	1	set apart
-LEV 25:34	1	5	ταῖς	ὁ	article, dative feminine plural; introduces a prepositional phrase	1	those
+LEV 25:34	1	5	ταῖς	ὁ	article, dative feminine plural; introduces a prepositional phrase	1	for the
 LEV 25:34	1	6	πόλεσιν	πόλις	noun, dative feminine plural	1	cities
 LEV 25:34	1	6	πόλεσιν			2	towns
 LEV 25:34	1	7	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -789,7 +789,7 @@ LEV 25:35	1	5	ἀδελφός	ἀδελφός	noun, nominative masculine singula
 LEV 25:35	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
 LEV 25:35	1	7	καὶ	καί	conjunction	1	and
 LEV 25:35	1	8	ἀδυνατήσῃ	ἀδυνατέω	aorist active subjunctive, third singular	1	he loses the means
-LEV 25:35	1	9	ταῖς	ὁ	article, dative feminine plural	1	the
+LEV 25:35	1	9	ταῖς	ὁ	article, dative feminine plural	1	in the
 LEV 25:35	1	10	χερσὶν	χείρ	noun, dative feminine plural	1	hands
 LEV 25:35	1	11	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 25:35	1	12	παρὰ	παρά	preposition with dative, in one's service	1	with
@@ -818,7 +818,7 @@ LEV 25:36	1	8	πλήθει	πλῆθος	noun, dative neuter singular	1	increase
 LEV 25:36	1	9	καὶ	καί	conjunction	1	and
 LEV 25:36	1	10	φοβηθήσῃ	φοβέομαι	future passive indicative, second singular	1	you shall fear
 LEV 25:36	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
-LEV 25:36	1	12	Θεόν	θεός	noun, accusative masculine singular	1	god
+LEV 25:36	1	12	Θεόν	θεός	noun, accusative masculine singular	1	God
 LEV 25:36	1	13	σου	σύ	pronoun, possessive genitive second singular	1	your
 LEV 25:36	1	14	ἐγὼ	ἐγώ	pronoun, nominative first singular emphatic	1	I
 LEV 25:36	1	15	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -894,14 +894,14 @@ LEV 25:40	1	7	σοι	σύ	personal pronoun, dative singular	1	to you
 LEV 25:40	1	8	ἕως	ἕως	temporal conjunction/preposition	1	until
 LEV 25:40	1	9	τοῦ	ὁ	article, genitive singular	1	the
 LEV 25:40	1	10	ἔτους	ἔτος	noun, genitive neuter singular, of time	1	year
-LEV 25:40	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
-LEV 25:40	1	12	ἀφέσεως	ἄφεσις	noun, genitive feminine singular	1	of release
+LEV 25:40	1	11	τῆς	ὁ	article, genitive feminine singular	1	of the
+LEV 25:40	1	12	ἀφέσεως	ἄφεσις	noun, genitive feminine singular	1	release
 LEV 25:40	1	13	ἐργᾶται	ἐργάζομαι	present middle/passive indicative, third singular	1	he works
 LEV 25:40	1	14	παρὰ	παρά	preposition with dative, in one's service	1	with
 LEV 25:40	1	15	σοί	σύ	personal pronoun, dative singular after ἐν	1	you
 LEV 25:41	1	1	καὶ	καί	conjunction	1	and
 LEV 25:41	1	2	ἐξελεύσεται	ἐξέρχομαι	future middle indicative, 3rd sg.	1	shall go out
-LEV 25:41	1	3	τῇ	ὁ	article, dative feminine singular	1	to
+LEV 25:41	1	3	τῇ	ὁ	article, dative feminine singular	1	in the
 LEV 25:41	1	4	ἀφέσει	ἄφεσις	noun, dative feminine singular	1	release
 LEV 25:41	1	5	καὶ	καί	conjunction	1	and
 LEV 25:41	1	6	τὰ	ὁ	article, accusative neuter plural	1	the
@@ -937,7 +937,7 @@ LEV 25:42	1	11	οὐ	οὐ	negative adverb with future indicative	1	not
 LEV 25:42	1	12	πραθήσεται	πιπράσκω	future passive indicative, third singular	1	shall be sold
 LEV 25:42	1	13	ἐν	ἐν	preposition with the dative	1	in
 LEV 25:42	1	14	πράσει	πρᾶσις	noun, dative feminine singular	1	sale
-LEV 25:42	1	15	οἰκέτου	οἰκέτης	noun, genitive masculine singular	1	a household slave
+LEV 25:42	1	15	οἰκέτου	οἰκέτης	noun, genitive masculine singular	1	of a household slave
 LEV 25:43	1	1	οὐ	οὐ	negative particle	1	not
 LEV 25:43	1	2	κατατενεῖς	κατατείνω	future active indicative, second singular	1	you shall overwork
 LEV 25:43	1	3	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
@@ -956,14 +956,14 @@ LEV 25:44	1	3	σου	σύ	pronoun, possessive genitive second singular	1	your
 LEV 25:44	1	4	καὶ	καί	conjunction	1	and
 LEV 25:44	1	5	παιδίσκη	παιδίσκη	noun, nominative fem. sg. after ἡ, maidservant	1	maidservant
 LEV 25:44	1	6	σου	σύ	pronoun, possessive genitive second singular	1	your
-LEV 25:44	1	7	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	1	whoever (were)
+LEV 25:44	1	7	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	1	as many as
 LEV 25:44	1	8	ἂν	ἄν	modal particle with subjunctive	1	(marks the subjunctive clause)
 LEV 25:44	1	9	γένωνταί	γίνομαι	aorist middle subjunctive, third plural	1	become
 LEV 25:44	1	10	σοι	σύ	pronoun, dative 2nd sg.	1	to you
 LEV 25:44	1	11	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 25:44	1	12	τῶν	ὁ	article, genitive plural	1	the
 LEV 25:44	1	13	ἐθνῶν	ἔθνος	noun, genitive neuter plural	1	nations
-LEV 25:44	1	14	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	1	whoever (were)
+LEV 25:44	1	14	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	1	as many as
 LEV 25:44	1	15	κύκλῳ	κύκλος	noun used adverbially with genitive τοῦ ποταμοῦ	1	round
 LEV 25:44	1	16	σου	σύ	pronoun, genitive second singular	1	you
 LEV 25:44	1	17	εἰσὶν	εἰμί	present indicative, third plural with οὐκ	1	are
@@ -972,7 +972,7 @@ LEV 25:44	1	19	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 LEV 25:44	1	20	κτήσεσθε	κτάομαι	future middle indicative, second plural	1	you shall acquire
 LEV 25:44	1	21	δοῦλον	δοῦλος	noun, accusative masculine singular	1	a male slave
 LEV 25:44	1	22	καὶ	καί	conjunction	1	and
-LEV 25:44	1	23	δούλην	δούλη	noun, accusative feminine singular	1	servant
+LEV 25:44	1	23	δούλην	δούλη	noun, accusative feminine singular	1	a female slave
 LEV 25:44	1	23	δούλην			2	female slave
 LEV 25:45	1	1	καὶ	καί	conjunction	1	and
 LEV 25:45	1	2	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -992,7 +992,7 @@ LEV 25:45	1	15	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 25:45	1	16	τῶν	ὁ	article, genitive neuter plural	1	the
 LEV 25:45	1	17	συγγενῶν	συγγενής	substantival adjective, genitive masculine plural	1	kindred
 LEV 25:45	1	18	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-LEV 25:45	1	19	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	1	whoever (were)
+LEV 25:45	1	19	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	1	as many as
 LEV 25:45	1	20	ἂν	ἄν	modal particle	1	[modal particle]
 LEV 25:45	1	21	γένωνται	γίνομαι	aorist middle subjunctive, third plural	1	are born
 LEV 25:45	1	22	ἐν	ἐν	preposition with the dative	1	in
@@ -1001,12 +1001,12 @@ LEV 25:45	1	24	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
 LEV 25:45	1	25	ὑμῶν	σύ	pronoun, genitive second plural	1	your
 LEV 25:45	1	26	ἔστωσαν	εἰμί	present imperative, 3rd pl.	1	let them be
 LEV 25:45	1	27	ὑμῖν	σύ	pronoun, dative second plural	1	to you
-LEV 25:45	1	28	εἰς	εἰς	preposition with accusative	1	throughout
+LEV 25:45	1	28	εἰς	εἰς	preposition with accusative	1	for
 LEV 25:45	1	29	κατάσχεσιν	κατάσχεσις	noun, accusative feminine singular	1	a possession
 LEV 25:46	1	1	Καὶ	καί	conjunction	1	and
 LEV 25:46	1	2	καταμεριεῖτε	καταμερίζω	future active indicative, second plural	1	you shall apportion
 LEV 25:46	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-LEV 25:46	1	4	τοῖς	ὁ	article, dative neuter plural	1	the
+LEV 25:46	1	4	τοῖς	ὁ	article, dative neuter plural	1	to the
 LEV 25:46	1	5	τέκνοις	τέκνον	noun, dative neuter plural	1	children
 LEV 25:46	1	6	ὑμῶν	σύ	pronoun, genitive second plural	1	your
 LEV 25:46	1	7	μεθ᾽	μετά	elided preposition with the accusative	1	after
@@ -1020,7 +1020,7 @@ LEV 25:46	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 LEV 25:46	1	15	αἰῶνα	αἰών	noun, accusative masculine singular	1	age
 LEV 25:46	1	16	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 LEV 25:46	1	17	καταδουλώσεσθε	καταδουλόω	future middle indicative, second plural	1	you shall enslave
-LEV 25:46	1	18	τῶν	ὁ	article, genitive plural	1	the
+LEV 25:46	1	18	τῶν	ὁ	article, genitive plural	1	of the
 LEV 25:46	1	19	δὲ	δέ	postpositive conjunction	1	and
 LEV 25:46	1	20	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 LEV 25:46	1	21	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
@@ -1057,7 +1057,7 @@ LEV 25:47	1	18	σου	σύ	pronoun, possessive genitive second singular	1	your
 LEV 25:47	1	19	μετ᾽	μετά	preposition with the genitive, elided	1	with
 LEV 25:47	1	20	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	1	him
 LEV 25:47	1	21	πραθῇ	πιπράσκω	aorist passive subjunctive, third singular	1	he is sold
-LEV 25:47	1	22	τῷ	ὁ	article, dative masculine singular	1	the
+LEV 25:47	1	22	τῷ	ὁ	article, dative masculine singular	1	to the
 LEV 25:47	1	23	προσηλύτῳ	προσήλυτος	noun, dative masculine singular	1	resident alien
 LEV 25:47	1	24	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 25:47	1	25	τῷ	ὁ	article, dative masculine singular	1	the
@@ -1077,18 +1077,18 @@ LEV 25:48	1	5	λύτρωσις	λύτρωσις	noun, nominative feminine singul
 LEV 25:48	1	6	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 25:48	1	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 LEV 25:48	1	8	εἷς	εἷς	cardinal numeral, nominative masculine singular	1	one
-LEV 25:48	1	9	τῶν	ὁ	article, genitive plural	1	the
+LEV 25:48	1	9	τῶν	ὁ	article, genitive plural	1	of the
 LEV 25:48	1	10	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
 LEV 25:48	1	11	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 25:48	1	12	λυτρώσεται	λυτρόω	future middle indicative, third singular	1	shall redeem
 LEV 25:48	1	13	αὐτόν	αὐτός	pronoun, accusative masculine singular, direct object	1	him
 LEV 25:49	1	1	Ἀδελφὸς	ἀδελφός	noun, nominative masculine singular	1	brother
-LEV 25:49	1	2	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
+LEV 25:49	1	2	πατρὸς	πατήρ	noun, genitive masculine singular	1	of father
 LEV 25:49	1	3	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 LEV 25:49	1	4	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 25:49	1	5	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-LEV 25:49	1	6	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
-LEV 25:49	1	7	πατρὸς	πατήρ	noun, genitive masculine singular	1	father
+LEV 25:49	1	6	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	of a brother
+LEV 25:49	1	7	πατρὸς	πατήρ	noun, genitive masculine singular	1	of father
 LEV 25:49	1	8	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 25:49	1	9	λυτρώσεται	λυτρόω	future middle indicative, third singular	1	shall redeem
 LEV 25:49	1	10	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
@@ -1103,15 +1103,15 @@ LEV 25:49	1	18	ἐκ	ἐκ	preposition with the genitive	1	from
 LEV 25:49	1	19	τῆς	ὁ	article, genitive feminine singular	1	the
 LEV 25:49	1	20	φυλῆς	φυλή	noun, genitive feminine singular	1	clan
 LEV 25:49	1	20	φυλῆς			2	tribe
-LEV 25:49	1	21	τῆς	ὁ	article, genitive feminine singular	1	the
-LEV 25:49	1	22	σαρκὸς	σάρξ	noun, genitive feminine singular	1	of the flesh
+LEV 25:49	1	21	τῆς	ὁ	article, genitive feminine singular	1	of the
+LEV 25:49	1	22	σαρκὸς	σάρξ	noun, genitive feminine singular	1	flesh
 LEV 25:49	1	23	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 LEV 25:49	1	24	λυτρώσεται	λυτρόω	future middle indicative, third singular	1	shall redeem
 LEV 25:49	1	25	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 LEV 25:49	1	26	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 LEV 25:49	1	27	δὲ	δέ	postpositive conjunction	1	and
 LEV 25:49	1	28	εὐπορηθεὶς	εὐπορέω	aorist passive participle, nominative masculine singular	1	having found the means
-LEV 25:49	1	29	ταῖς	ὁ	article, dative feminine plural	1	the
+LEV 25:49	1	29	ταῖς	ὁ	article, dative feminine plural	1	with the
 LEV 25:49	1	30	χερσὶν	χείρ	noun, dative feminine plural after ταῖς/ἐν ταῖς (poetic χερσὶν)	1	hands
 LEV 25:49	1	31	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 25:49	1	32	λυτρώσεται	λυτρόω	future middle indicative, third singular	1	shall redeem
@@ -1152,9 +1152,9 @@ LEV 25:50	1	32	μετ᾽	μετά	elided preposition with the genitive	1	with
 LEV 25:50	1	33	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 LEV 25:51	1	1	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 LEV 25:51	1	2	δέ	δέ	postpositive conjunction	1	but
-LEV 25:51	1	3	τινι	τις	pronoun, dative masculine singular; indefinite	1	someone
+LEV 25:51	1	3	τινι	τις	pronoun, dative masculine singular; indefinite	1	to someone
 LEV 25:51	1	4	πλέον	πολύς	comparative adjective, nominative neuter singular	1	more
-LEV 25:51	1	5	τῶν	ὁ	article, genitive plural	1	the
+LEV 25:51	1	5	τῶν	ὁ	article, genitive plural	1	of the
 LEV 25:51	1	6	ἐτῶν	ἔτος	noun, genitive neuter plural of age	1	years
 LEV 25:51	1	7	ᾖ	εἰμί	present subjunctive, third singular	1	may be
 LEV 25:51	1	8	πρὸς	πρός	preposition with accusative	1	to
@@ -1166,8 +1166,8 @@ LEV 25:51	1	13	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	h
 LEV 25:51	1	14	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 25:51	1	15	τοῦ	ὁ	article, genitive singular	1	the
 LEV 25:51	1	16	ἀργυρίου	ἀργύριον	noun, genitive neuter singular after τοῦ	1	silver
-LEV 25:51	1	17	τῆς	ὁ	article, genitive feminine singular	1	the
-LEV 25:51	1	18	πράσεως	πρᾶσις	noun, genitive feminine singular	1	of sale
+LEV 25:51	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
+LEV 25:51	1	18	πράσεως	πρᾶσις	noun, genitive feminine singular	1	sale
 LEV 25:51	1	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 25:52	1	1	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 LEV 25:52	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -1179,8 +1179,8 @@ LEV 25:52	1	7	ἐτῶν	ἔτος	noun, genitive neuter plural of age	1	years
 LEV 25:52	1	8	εἰς	εἰς	preposition with the accusative	1	until
 LEV 25:52	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
 LEV 25:52	1	10	ἐνιαυτὸν	ἐνιαυτός	noun, accusative masculine singular	1	year
-LEV 25:52	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
-LEV 25:52	1	12	ἀφέσεως	ἄφεσις	noun, genitive feminine singular	1	of release
+LEV 25:52	1	11	τῆς	ὁ	article, genitive feminine singular	1	of the
+LEV 25:52	1	12	ἀφέσεως	ἄφεσις	noun, genitive feminine singular	1	release
 LEV 25:52	1	13	καὶ	καί	conjunction	1	and
 LEV 25:52	1	14	συλλογιεῖται	συλλογίζομαι	future middle indicative, third singular	1	shall calculate
 LEV 25:52	1	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -1220,8 +1220,8 @@ LEV 25:54	1	7	ἐξελεύσεται	ἐξέρχομαι	future middle indicati
 LEV 25:54	1	8	ἐν	ἐν	preposition with the dative	1	in
 LEV 25:54	1	9	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 25:54	1	10	ἐνιαυτῷ	ἐνιαυτός	noun, dative masculine singular	1	year
-LEV 25:54	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
-LEV 25:54	1	12	ἀφέσεως	ἄφεσις	noun, genitive feminine singular	1	of release
+LEV 25:54	1	11	τῆς	ὁ	article, genitive feminine singular	1	of the
+LEV 25:54	1	12	ἀφέσεως	ἄφεσις	noun, genitive feminine singular	1	release
 LEV 25:54	1	13	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 LEV 25:54	1	14	καὶ	καί	conjunction	1	and
 LEV 25:54	1	15	τὰ	ὁ	article, accusative neuter plural	1	the

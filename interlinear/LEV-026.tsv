@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 LEV 26:1	1	1	ΟΥ	οὐ	negative particle; printed without accent	1	not
 LEV 26:1	1	2	ποιήσετε	ποιέω	future active indicative, 2nd pl. after οὐ	1	you shall make
-LEV 26:1	1	3	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	for yourselves
+LEV 26:1	1	3	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	for you
 LEV 26:1	1	4	αὐτοῖς	αὐτός	pronoun, dative masculine plural; intensifies the second-person ὑμῖν	1	yourselves
 LEV 26:1	1	5	χειροποίητα	χειροποίητος	substantival adjective, accusative neuter plural	1	handmade idols
 LEV 26:1	1	6	οὐδὲ	οὐδέ	conjunction/negative	1	nor
@@ -75,7 +75,7 @@ LEV 26:4	1	15	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	its
 LEV 26:4	1	16	καὶ	καί	conjunction	1	and
 LEV 26:4	1	17	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 26:4	1	18	ξύλα	ξύλον	noun, nominative neuter plural	1	trees
-LEV 26:4	1	19	τῶν	ὁ	article, genitive plural	1	the
+LEV 26:4	1	19	τῶν	ὁ	article, genitive plural	1	of the
 LEV 26:4	1	20	πεδίων	πεδίον	noun, genitive neuter plural after τῶν	1	fields
 LEV 26:4	1	21	ἀποδώσει	ἀποδίδωμι	future active indicative, third singular	1	shall yield
 LEV 26:4	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -119,7 +119,7 @@ LEV 26:5	1	32	διελεύσεται	διέρχομαι	future middle indicative
 LEV 26:5	1	32	διελεύσεται			2	will pass by
 LEV 26:5	1	33	διὰ	διά	preposition with genitive	1	through
 LEV 26:5	1	34	τῆς	ὁ	article, genitive feminine singular	1	the
-LEV 26:5	1	35	γῆς	γῆ	noun, genitive feminine singular	1	earth
+LEV 26:5	1	35	γῆς	γῆ	noun, genitive feminine singular	1	land
 LEV 26:5	1	36	ὑμῶν	σύ	pronoun, genitive second plural	1	your
 LEV 26:6	1	1	καὶ	καί	conjunction	1	and
 LEV 26:6	1	2	δώσω	δίδωμι	future active indicative, first person singular	1	I will give
@@ -134,7 +134,7 @@ LEV 26:6	1	10	καὶ	καί	conjunction	1	and
 LEV 26:6	1	11	οὐκ	οὐ	negative particle	1	not
 LEV 26:6	1	12	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 26:6	1	13	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
-LEV 26:6	1	14	ὁ	ὁ	article, nominative masculine singular	1	the
+LEV 26:6	1	14	ὁ	ὁ	article, nominative masculine singular	1	the one
 LEV 26:6	1	15	ἐκφοβῶν	ἐκφοβέω	present active participle, nominative masculine singular	1	to frighten
 LEV 26:6	1	16	καὶ	καί	conjunction	1	and
 LEV 26:6	1	17	ἀπολῶ	ἀπόλλυμι	future active indicative, first singular	1	I will destroy
@@ -152,7 +152,7 @@ LEV 26:7	1	4	διελεύσεται	διέρχομαι	future middle indicative,
 LEV 26:7	1	4	διελεύσεται			2	will pass by
 LEV 26:7	1	5	διὰ	διά	preposition with genitive	1	through
 LEV 26:7	1	6	τῆς	ὁ	article, genitive feminine singular	1	the
-LEV 26:7	1	7	γῆς	γῆ	noun, genitive feminine singular	1	earth
+LEV 26:7	1	7	γῆς	γῆ	noun, genitive feminine singular	1	land
 LEV 26:7	1	8	ὑμῶν	σύ	pronoun, genitive second plural	1	your
 LEV 26:7	1	9	καὶ	καί	conjunction	1	and
 LEV 26:7	1	10	διώξεσθε	διώκω	future middle indicative, second plural	1	you shall pursue
@@ -162,7 +162,7 @@ LEV 26:7	1	13	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 LEV 26:7	1	14	καὶ	καί	conjunction	1	and
 LEV 26:7	1	15	πεσοῦνται	πίπτω	future middle indicative, third plural	1	will fall
 LEV 26:7	1	16	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
-LEV 26:7	1	17	ὑμῶν	σύ	personal pronoun, genitive second plural	1	your
+LEV 26:7	1	17	ὑμῶν	σύ	personal pronoun, genitive second plural	1	you
 LEV 26:7	1	17	ὑμῶν			2	of you
 LEV 26:7	1	18	φόνῳ	φόνος	noun, dative masc. sg. after ἐν, 'by slaughter of the sword'	1	by slaughter
 LEV 26:8	1	1	Καὶ	καί	conjunction	1	and
@@ -206,11 +206,11 @@ LEV 26:9	1	15	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 LEV 26:9	1	16	μεθ᾽	μετά	preposition with the genitive, elided	1	with
 LEV 26:9	1	17	ὑμῶν	σύ	pronoun, genitive second plural	1	you
 LEV 26:10	1	1	Καὶ	καί	conjunction	1	and
-LEV 26:10	1	2	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you shall eat (plural)
+LEV 26:10	1	2	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you shall eat
 LEV 26:10	1	3	παλαιὰ	παλαιός	substantival adjective, accusative neuter plural	1	old stores
 LEV 26:10	1	4	καὶ	καί	conjunction	1	and
 LEV 26:10	1	5	παλαιὰ	παλαιός	substantival adjective, accusative neuter plural	1	old stores
-LEV 26:10	1	6	παλαιῶν	παλαιός	substantival adjective, genitive neuter plural	1	old stores
+LEV 26:10	1	6	παλαιῶν	παλαιός	substantival adjective, genitive neuter plural	1	of old stores
 LEV 26:10	1	7	καὶ	καί	conjunction	1	and
 LEV 26:10	1	8	παλαιὰ	παλαιός	substantival adjective, accusative neuter plural	1	old stores
 LEV 26:10	1	9	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -234,7 +234,7 @@ LEV 26:11	1	12	ψυχή			2	life
 LEV 26:11	1	13	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 LEV 26:11	1	14	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 LEV 26:12	1	1	καὶ	καί	conjunction	1	and
-LEV 26:12	1	2	ἐμπεριπατήσω	ἐμπεριπατέω	future active indicative, first singular	1	I shall walk among
+LEV 26:12	1	2	ἐμπεριπατήσω	ἐμπεριπατέω	future active indicative, first singular	1	I shall walk
 LEV 26:12	1	3	ἐν	ἐν	preposition with the dative	1	among
 LEV 26:12	1	4	ὑμῖν	σύ	pronoun, dative second plural	1	you
 LEV 26:12	1	5	καὶ	καί	conjunction	1	and
@@ -317,7 +317,7 @@ LEV 26:16	1	3	ποιήσω	ποιέω	future active indicative, first singular	1
 LEV 26:16	1	4	οὕτως	οὕτως	adverb	1	thus
 LEV 26:16	1	5	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 LEV 26:16	1	6	καὶ	καί	conjunction	1	and
-LEV 26:16	1	7	ἐπισυστήσω	ἐπισυνίστημι	future active indicative, first singular	1	I shall bring upon
+LEV 26:16	1	7	ἐπισυστήσω	ἐπισυνίστημι	future active indicative, first singular	1	I shall bring
 LEV 26:16	1	8	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	upon
 LEV 26:16	1	9	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
 LEV 26:16	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -436,7 +436,7 @@ LEV 26:20	1	16	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	it
 LEV 26:20	1	17	καὶ	καί	conjunction	1	and
 LEV 26:20	1	18	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 26:20	1	19	ξύλον	ξύλον	noun, accusative neuter singular	1	tree
-LEV 26:20	1	20	τοῦ	ὁ	article with the infinitive, genitive neuter singular	1	—
+LEV 26:20	1	20	τοῦ	ὁ	article with the infinitive, genitive neuter singular	1	of the
 LEV 26:20	1	21	ἀγροῦ	ἀγρός	noun, genitive masculine singular	1	field
 LEV 26:20	1	22	ὑμῶν	σύ	pronoun, genitive second plural	1	your
 LEV 26:20	1	23	οὐ	οὐ	negative particle	1	not
@@ -543,7 +543,7 @@ LEV 26:25	1	20	καὶ	καί	conjunction	1	and
 LEV 26:25	1	21	παραδοθήσεσθε	παραδίδωμι	future passive indicative, second plural	1	you shall be handed over
 LEV 26:25	1	22	εἰς	εἰς	preposition with the accusative	1	into
 LEV 26:25	1	23	χεῖρας	χείρ	noun, accusative feminine plural	1	hands
-LEV 26:25	1	24	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	enemies
+LEV 26:25	1	24	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	of enemies
 LEV 26:26	1	1	εἰς	εἰς	preposition with the accusative	1	into
 LEV 26:26	1	2	τὸ	ὁ	article, accusative neuter singular	1	—
 LEV 26:26	1	3	θλίψαι	θλίβω	aorist active infinitive	1	to press
@@ -571,7 +571,7 @@ LEV 26:26	1	21	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plura
 LEV 26:26	1	22	ἐν	ἐν	preposition with dative	1	in
 LEV 26:26	1	23	σταθμῷ	σταθμός	noun, dative masculine singular	1	weight
 LEV 26:26	1	24	καὶ	καί	conjunction	1	and
-LEV 26:26	1	25	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you shall eat (plural)
+LEV 26:26	1	25	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you shall eat
 LEV 26:26	1	26	καὶ	καί	conjunction	1	and
 LEV 26:26	1	27	οὐ	οὐ	particle	1	not
 LEV 26:26	1	28	μὴ	μή	particle	1	at all
@@ -686,7 +686,7 @@ LEV 26:32	1	10	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
 LEV 26:32	1	11	οἱ	ὁ	article, nominative masculine plural	1	the
 LEV 26:32	1	12	ἐχθροὶ	ἐχθρός	substantival adjective, nominative masculine plural	1	enemies
 LEV 26:32	1	13	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
-LEV 26:32	1	14	οἱ	ὁ	article, nominative masculine plural	1	the
+LEV 26:32	1	14	οἱ	ὁ	article, nominative masculine plural	1	—
 LEV 26:32	1	15	ἐνοικοῦντες	ἐνοικέω	present active participle, nominative masculine plural	1	living
 LEV 26:32	1	16	ἐν	ἐν	preposition with the dative	1	in
 LEV 26:32	1	17	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
@@ -725,12 +725,12 @@ LEV 26:34	1	8	καὶ	καί	conjunction	1	and
 LEV 26:34	1	9	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 LEV 26:34	1	10	τὰς	ὁ	article, accusative feminine plural	1	the
 LEV 26:34	1	11	ἡμέρας	ἡμέρα	noun, accusative feminine plural; accusative of duration or time	1	days
-LEV 26:34	1	12	τῆς	ὁ	article, genitive feminine singular	1	the
-LEV 26:34	1	13	ἐρημώσεως	ἐρήμωσις	noun, genitive feminine singular	1	of desolation
+LEV 26:34	1	12	τῆς	ὁ	article, genitive feminine singular	1	of the
+LEV 26:34	1	13	ἐρημώσεως	ἐρήμωσις	noun, genitive feminine singular	1	desolation
 LEV 26:34	1	14	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 LEV 26:34	1	15	καὶ	καί	conjunction	1	and
 LEV 26:34	1	16	ὑμεῖς	ὑμεῖς	pronoun, nominative second plural	1	you
-LEV 26:34	1	17	ἔσεσθε	εἰμί	future middle indicative, second plural	1	will be (plural)
+LEV 26:34	1	17	ἔσεσθε	εἰμί	future middle indicative, second plural	1	will be
 LEV 26:34	1	18	ἐν	ἐν	preposition with the dative	1	in
 LEV 26:34	1	19	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 26:34	1	20	γῇ	γῆ	noun, dative feminine singular	1	land
@@ -833,7 +833,7 @@ LEV 26:38	1	11	τῶν	ὁ	article, genitive feminine plural	1	of the
 LEV 26:38	1	12	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	1	enemies
 LEV 26:38	1	13	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 LEV 26:39	1	1	Καὶ	καί	conjunction	1	and
-LEV 26:39	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
+LEV 26:39	1	2	οἱ	ὁ	article, nominative masculine plural	1	those
 LEV 26:39	1	3	καταλειφθέντες	καταλείπω	aorist passive participle, nominative masculine plural	1	left behind
 LEV 26:39	1	3	καταλειφθέντες			2	remaining
 LEV 26:39	1	4	ἀφ᾽	ἀπό	preposition with genitive, elided	1	from
@@ -854,8 +854,8 @@ LEV 26:39	1	17	καὶ	καί	conjunction	1	and
 LEV 26:39	1	18	διὰ	διά	preposition with accusative	1	because of
 LEV 26:39	1	19	τὰς	ὁ	article, accusative feminine plural	1	the
 LEV 26:39	1	20	ἁμαρτίας	ἁμαρτία	noun, accusative feminine plural	1	sins
-LEV 26:39	1	21	τῶν	ὁ	article, genitive masculine plural	1	the
-LEV 26:39	1	22	πατέρων	πατήρ	noun, genitive masculine plural	1	of the fathers
+LEV 26:39	1	21	τῶν	ὁ	article, genitive masculine plural	1	of the
+LEV 26:39	1	22	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers
 LEV 26:39	1	23	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
 LEV 26:39	1	24	μετ᾽	μετά	elided preposition with the genitive	1	with
 LEV 26:39	1	25	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
@@ -868,10 +868,10 @@ LEV 26:40	1	5	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 LEV 26:40	1	6	καὶ	καί	conjunction	1	and
 LEV 26:40	1	7	τὰς	ὁ	article, accusative feminine plural	1	the
 LEV 26:40	1	8	ἁμαρτίας	ἁμαρτία	noun, accusative feminine plural	1	sins
-LEV 26:40	1	9	τῶν	ὁ	article, genitive masculine plural	1	the
-LEV 26:40	1	10	πατέρων	πατήρ	noun, genitive masculine plural	1	of the fathers
+LEV 26:40	1	9	τῶν	ὁ	article, genitive masculine plural	1	of the
+LEV 26:40	1	10	πατέρων	πατήρ	noun, genitive masculine plural	1	fathers
 LEV 26:40	1	11	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	their
-LEV 26:40	1	12	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
+LEV 26:40	1	12	ὅτι	ὅτι	causal/that conjunction (from context)	1	that
 LEV 26:40	1	13	παρέβησαν	παραβαίνω	aorist active indicative, third plural	1	they transgressed
 LEV 26:40	1	14	αὐτοὶ	αὐτός	pronoun, nominative masculine plural emphatic	1	they
 LEV 26:40	1	15	καὶ	καί	conjunction	1	and
@@ -1006,7 +1006,7 @@ LEV 26:44	1	25	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 LEV 26:44	1	26	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 26:44	1	27	πρὸς	πρός	preposition with the accusative	1	to
 LEV 26:44	1	28	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
-LEV 26:44	1	29	ὅτι	ὅτι	content conjunction	1	that
+LEV 26:44	1	29	ὅτι	ὅτι	content conjunction	1	for
 LEV 26:44	1	30	ἐγώ	ἐγώ	pronoun, nominative first singular emphatic	1	I
 LEV 26:44	1	31	εἰμι	εἰμί	present indicative, first singular	1	am
 LEV 26:44	1	32	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -1070,4 +1070,4 @@ LEV 26:46	1	24	ὄρει			2	hill country
 LEV 26:46	1	25	Σινᾷ	Σινᾶ	indeclinable place name, genitive in context	1	Sinai
 LEV 26:46	1	26	ἐν	ἐν	preposition with the dative	1	by
 LEV 26:46	1	27	χειρὶ	χείρ	noun, dative feminine singular	1	the hand
-LEV 26:46	1	28	Μωυσῇ	Μωυσῆς	proper noun, dative masculine singular	1	Moses
+LEV 26:46	1	28	Μωυσῇ	Μωυσῆς	proper noun, dative masculine singular	1	of Moses

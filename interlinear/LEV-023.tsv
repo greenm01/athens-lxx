@@ -70,13 +70,13 @@ LEV 23:4	1	13	καιροῖς	καιρός	noun, dative masculine plural	1	appoi
 LEV 23:4	1	14	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 LEV 23:5	1	1	Ἐν	ἐν	preposition with the dative	1	in
 LEV 23:5	1	2	τῷ	ὁ	article, dative masculine/neuter singular	1	the
-LEV 23:5	1	3	πρώτῳ	πρῶτος	ordinal adjective, dative masculine singular; substantival	1	first one
+LEV 23:5	1	3	πρώτῳ	πρῶτος	ordinal adjective, dative masculine singular; substantival	1	first
 LEV 23:5	1	4	μηνὶ	μήν	noun, dative masculine singular	1	month
 LEV 23:5	1	5	ἐν	ἐν	preposition with the dative	1	on
 LEV 23:5	1	6	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 23:5	1	7	τεσσαρεσκαιδεκάτῃ	τεσσαρεσκαιδέκατος	ordinal adjective, dative fem. sg. with ἡμέρᾳ, in apposition	1	fourteenth
 LEV 23:5	1	8	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular after τῇ	1	day
-LEV 23:5	1	9	τοῦ	ὁ	article, genitive singular	1	the
+LEV 23:5	1	9	τοῦ	ὁ	article, genitive singular	1	of the
 LEV 23:5	1	10	μηνὸς	μήν	noun, genitive masculine singular	1	month
 LEV 23:5	1	11	ἀναμέσον	ἀναμέσον	preposition with genitive	1	between
 LEV 23:5	1	12	τῶν	ὁ	article, genitive plural	1	the
@@ -93,7 +93,7 @@ LEV 23:6	1	6	τοῦ	ὁ	article, genitive masculine singular	1	of the
 LEV 23:6	1	7	μηνὸς	μήν	noun, genitive masc. sg. after τοῦ	1	month
 LEV 23:6	1	8	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	1	this
 LEV 23:6	1	9	ἑορτὴ	ἑορτή	noun, nominative feminine singular	1	festival
-LEV 23:6	1	10	τῶν	ὁ	article, genitive plural	1	the
+LEV 23:6	1	10	τῶν	ὁ	article, genitive plural	1	of the
 LEV 23:6	1	11	ἀζύμων	ἄζυμος	adjective, genitive neuter plural; used substantivally	1	unleavened bread
 LEV 23:6	1	12	τῷ	ὁ	article, dative masculine singular	1	to the
 LEV 23:6	1	13	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
@@ -200,7 +200,7 @@ LEV 23:12	1	4	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 23:12	1	5	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 LEV 23:12	1	6	ἐν	ἐν	preposition with the dative	1	in
 LEV 23:12	1	7	ᾗ	ὅς	relative pronoun, dative feminine singular	1	which
-LEV 23:12	1	8	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
+LEV 23:12	1	8	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	ever
 LEV 23:12	1	9	φέρητε	φέρω	present active subjunctive, second plural	1	you bring
 LEV 23:12	1	10	τὸ	ὁ	article, accusative neuter singular	1	the
 LEV 23:12	1	11	δράγμα	δράγμα	noun, nominative/accusative neuter singular (from context)	1	sheaf
@@ -218,7 +218,7 @@ LEV 23:13	1	3	θυσίαν	θυσία	noun, accusative feminine singular	1	sacri
 LEV 23:13	1	4	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	its
 LEV 23:13	1	5	δύο	δύο	cardinal numeral, indeclinable, distributive	1	two
 LEV 23:13	1	6	δέκατα	δέκατος	ordinal adjective, nominative neuter plural	1	tenths
-LEV 23:13	1	7	σεμιδάλεως	σεμίδαλις	noun, genitive feminine singular	1	fine flour
+LEV 23:13	1	7	σεμιδάλεως	σεμίδαλις	noun, genitive feminine singular	1	of fine flour
 LEV 23:13	1	8	ἀναπεποιημένης	ἀναποιέω	perfect middle/passive participle, genitive feminine singular	1	mixed
 LEV 23:13	1	9	ἐν	ἐν	preposition with the instrumental dative	1	with
 LEV 23:13	1	10	ἐλαίῳ	ἔλαιον	noun, dative neuter singular	1	oil
@@ -248,7 +248,7 @@ LEV 23:14	1	5	χίδρα			2	groats
 LEV 23:14	1	6	νέα	νέος	adjective, accusative neuter plural	1	fresh
 LEV 23:14	1	6	νέα			2	new
 LEV 23:14	1	7	οὐ	οὐ	negative particle	1	not
-LEV 23:14	1	8	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you shall eat (plural)
+LEV 23:14	1	8	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you shall eat
 LEV 23:14	1	9	ἕως	ἕως	preposition with genitive articular infinitive	1	until
 LEV 23:14	1	10	εἰς	εἰς	preposition with the accusative	1	into
 LEV 23:14	1	11	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	that very
@@ -301,7 +301,7 @@ LEV 23:15	1	21	ὁλοκλήρους	ὁλόκληρος	adjective, accusative f
 LEV 23:16	1	1	ἕως	ἕως	preposition with genitive	1	until
 LEV 23:16	1	2	τῆς	ὁ	article, genitive feminine singular	1	the
 LEV 23:16	1	3	ἐπαύριον	ἐπαύριον	adverb	1	next day
-LEV 23:16	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 23:16	1	4	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 23:16	1	5	ἐσχάτης	ἔσχατος	adjective, genitive feminine singular	1	last
 LEV 23:16	1	6	ἑβδόμης	ἕβδομος	ordinal adjective, genitive fem. sg. with ἡμέρας	1	seventh
 LEV 23:16	1	7	ἀριθμήσετε	ἀριθμέω	future active indicative, second plural	1	you shall count
@@ -335,7 +335,7 @@ LEV 23:17	1	19	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 LEV 23:18	1	1	καὶ	καί	conjunction	1	and
 LEV 23:18	1	2	προσάξετε	προσάγω	future active indicative, second plural	1	you shall offer
 LEV 23:18	1	3	μετὰ	μετά	preposition with genitive	1	with
-LEV 23:18	1	4	τῶν	ὁ	article, genitive masculine plural	1	of the
+LEV 23:18	1	4	τῶν	ὁ	article, genitive masculine plural	1	the
 LEV 23:18	1	5	ἄρτων	ἄρτος	noun, genitive masculine plural	1	bread
 LEV 23:18	1	6	ἑπτὰ	ἑπτά	indeclinable cardinal numeral, distributive	1	seven
 LEV 23:18	1	7	ἀμνοὺς	ἀμνός	noun, accusative masculine plural	1	lambs
@@ -642,7 +642,7 @@ LEV 23:32	1	7	τὰς	ὁ	article, accusative feminine plural	1	the
 LEV 23:32	1	8	ψυχὰς	ψυχή	noun, accusative feminine plural	1	souls
 LEV 23:32	1	9	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	1	your
 LEV 23:32	1	10	ἀπὸ	ἀπό	preposition with the genitive	1	from
-LEV 23:32	1	11	ἐννάτης	ἔννατος	ordinal adjective, dative feminine singular	1	on the ninth
+LEV 23:32	1	11	ἐννάτης	ἔννατος	ordinal adjective, dative feminine singular	1	the ninth day
 LEV 23:32	1	12	τοῦ	ὁ	article, genitive masculine singular	1	of the
 LEV 23:32	1	13	μηνὸς	μήν	noun, genitive masculine singular	1	month
 LEV 23:32	1	14	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -720,7 +720,7 @@ LEV 23:37	1	1	Αὗται	οὗτος	demonstrative pronoun, nominative feminine
 LEV 23:37	1	2	αἱ	ὁ	article, nominative feminine plural	1	the
 LEV 23:37	1	3	ἑορταὶ	ἑορτή	noun, nominative feminine plural	1	festivals
 LEV 23:37	1	4	τῷ	ὁ	article, dative masculine singular	1	to the
-LEV 23:37	1	5	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+LEV 23:37	1	5	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 LEV 23:37	1	6	ἃς	ὅς	relative pronoun, accusative of duration, accusative feminine plural	1	which
 LEV 23:37	1	7	καλέσετε	καλέω	future active indicative, second plural	1	you shall proclaim
 LEV 23:37	1	8	αὐτὰς	αὐτός	pronoun, accusative feminine plural	1	them
@@ -730,7 +730,7 @@ LEV 23:37	1	11	ὥστε	ὥστε	conjunction with the infinitive	1	so as
 LEV 23:37	1	12	προσενέγκαι	προσφέρω	aorist active infinitive	1	to offer
 LEV 23:37	1	13	καρπώματα	κάρπωμα	noun, accusative neuter plural	1	offerings
 LEV 23:37	1	14	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
-LEV 23:37	1	15	Κυρίῳ	κύριος	noun, dative masculine singular	1	to the Lord
+LEV 23:37	1	15	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 LEV 23:37	1	16	ὁλοκαυτώματα	ὁλοκαύτωμα	noun, accusative neuter plural, whole burnt offerings	1	burnt offerings
 LEV 23:37	1	17	καὶ	καί	conjunction	1	and
 LEV 23:37	1	18	θυσίας	θυσία	noun, accusative feminine plural	1	sacrifices
@@ -783,7 +783,7 @@ LEV 23:39	1	11	ὅταν	ὅταν	conjunction	1	whenever
 LEV 23:39	1	12	συντελέσητε	συντελέω	aorist active subjunctive, second plural	1	you finish
 LEV 23:39	1	13	τὰ	ὁ	article, nominative/accusative neuter plural (case from context)	1	the
 LEV 23:39	1	14	γεννήματα	γέννημα	noun, accusative neuter plural	1	produce
-LEV 23:39	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 23:39	1	15	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 23:39	1	16	γῆς	γῆ	noun, genitive feminine singular	1	land
 LEV 23:39	1	17	ἑορτάσετε	ἑορτάζω	future active indicative, 2nd pl.	1	you shall celebrate
 LEV 23:39	1	18	τῷ	ὁ	article, dative masculine singular	1	to the
@@ -809,7 +809,7 @@ LEV 23:40	1	5	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 LEV 23:40	1	6	τῇ	ὁ	article, dative feminine singular	1	the
 LEV 23:40	1	7	πρώτῃ	πρῶτος	ordinal adjective, dative feminine singular	1	first
 LEV 23:40	1	8	καρπὸν	καρπός	noun, accusative masculine singular after τὸν/πάντα τὸν	1	fruit
-LEV 23:40	1	9	ξύλου	ξύλον	noun, genitive neuter singular	1	tree
+LEV 23:40	1	9	ξύλου	ξύλον	noun, genitive neuter singular	1	of a tree
 LEV 23:40	1	10	ὡραῖον	ὡραῖος	adjective, accusative neuter singular	1	beautiful
 LEV 23:40	1	10	ὡραῖον			2	lovely
 LEV 23:40	1	11	καὶ	καί	conjunction	1	and
@@ -817,7 +817,7 @@ LEV 23:40	1	12	κάλλυνθρα	κάλλυνθρον	noun, accusative neuter p
 LEV 23:40	1	13	φοινίκων	φοῖνιξ	noun, genitive masculine plural, date-palms	1	of palms
 LEV 23:40	1	14	καὶ	καί	conjunction	1	and
 LEV 23:40	1	15	κλάδους	κλάδος	noun, accusative masculine plural	1	branches
-LEV 23:40	1	16	ξύλων	ξύλον	noun, genitive neuter plural	1	trees
+LEV 23:40	1	16	ξύλων	ξύλον	noun, genitive neuter plural	1	of trees
 LEV 23:40	1	16	ξύλων			2	pieces of wood
 LEV 23:40	1	17	δασεῖς	δασύς	adjective, accusative masculine plural	1	leafy
 LEV 23:40	1	18	καὶ	καί	conjunction	1	and
@@ -826,7 +826,7 @@ LEV 23:40	1	20	καὶ	καί	conjunction	1	and
 LEV 23:40	1	21	ἄγνου	ἄγνος	noun, genitive feminine singular	1	of chaste tree
 LEV 23:40	1	22	κλάδους	κλάδος	noun, accusative masculine plural	1	branches
 LEV 23:40	1	23	ἐκ	ἐκ	preposition with the genitive	1	from
-LEV 23:40	1	24	χειμάῤῥου	χείμαρρος	noun, genitive masculine singular	1	of the stream
+LEV 23:40	1	24	χειμάῤῥου	χείμαρρος	noun, genitive masculine singular	1	stream
 LEV 23:40	1	25	εὐφρανθῆναι	εὐφραίνω	aorist passive infinitive	1	to rejoice
 LEV 23:40	1	26	ἔναντι	ἔναντι	improper preposition with genitive	1	before
 LEV 23:40	1	26	ἔναντι			2	in the presence of
@@ -867,7 +867,7 @@ LEV 23:42	1	3	κατοικήσετε	κατοικέω	future active indicative, 
 LEV 23:42	1	4	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	1	seven
 LEV 23:42	1	5	ἡμέρας	ἡμέρα	noun, accusative feminine plural of duration	1	days
 LEV 23:42	1	6	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
-LEV 23:42	1	7	ὁ	ὁ	article before a substantival participle, nominative masculine singular	1	one who
+LEV 23:42	1	7	ὁ	ὁ	article before a substantival participle, nominative masculine singular	1	the
 LEV 23:42	1	8	αὐτόχθων	αὐτόχθων	substantival adjective, nominative masculine singular	1	native
 LEV 23:42	1	9	ἐν	ἐν	preposition with the dative	1	in
 LEV 23:42	1	10	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, dative in context	1	Israel

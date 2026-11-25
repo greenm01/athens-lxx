@@ -52,12 +52,12 @@ LEV 11:4	1	3	τούτων	οὗτος	demonstrative pronoun, genitive masculine 
 LEV 11:4	1	4	οὐ	οὐ	negative particle	1	not
 LEV 11:4	1	5	φάγεσθε	ἐσθίω	future middle indicative, second plural	1	you shall eat (plural)
 LEV 11:4	1	6	ἀπὸ	ἀπό	preposition with the genitive	1	from
-LEV 11:4	1	7	τῶν	ὁ	article, genitive plural	1	the
+LEV 11:4	1	7	τῶν	ὁ	article, genitive plural	1	those
 LEV 11:4	1	8	ἀναγόντων	ἀνάγω	present active participle, genitive masculine plural	1	bringing up
 LEV 11:4	1	9	μηρυκισμὸν	μηρυκισμός	noun, accusative masculine singular	1	cud
 LEV 11:4	1	10	καὶ	καί	conjunction	1	and
 LEV 11:4	1	11	ἀπὸ	ἀπό	preposition with the genitive	1	from
-LEV 11:4	1	12	τῶν	ὁ	article, genitive plural	1	the
+LEV 11:4	1	12	τῶν	ὁ	article, genitive plural	1	those
 LEV 11:4	1	13	διχηλούντων	διχηλέω	present active participle, genitive masculine plural	1	splitting
 LEV 11:4	1	14	τὰς	ὁ	article, accusative feminine plural	1	the
 LEV 11:4	1	15	ὁπλὰς	ὁπλή	noun, accusative feminine plural	1	hooves
@@ -139,7 +139,7 @@ LEV 11:8	1	9	θνησιμαίων	θνησιμαῖος	adjective, genitive neut
 LEV 11:8	1	10	αὐτῶν	αὐτός	pronoun, genitive neuter plural	1	their
 LEV 11:8	1	11	οὐχ	οὐ	negative particle	1	not
 LEV 11:8	1	12	ἅψεσθε	ἅπτω	future middle indicative, second plural	1	you shall touch
-LEV 11:8	1	13	ὅτι	ὅτι	content conjunction	1	that
+LEV 11:8	1	13	ὅτι	ὅτι	content conjunction	1	for
 LEV 11:8	1	14	ἀκάθαρτα	ἀκάθαρτος	adjective, nominative neuter plural	1	unclean
 LEV 11:8	1	15	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 LEV 11:8	1	16	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	to you
@@ -205,7 +205,7 @@ LEV 11:10	1	28	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 11:10	1	29	πάσης	πᾶς	adjective, genitive feminine singular	1	all
 LEV 11:10	1	30	ψυχῆς	ψυχή	noun, genitive feminine singular	1	creature
 LEV 11:10	1	31	ζώσης	ζάω	present active participle, genitive feminine singular	1	living
-LEV 11:10	1	32	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 11:10	1	32	τῆς	ὁ	article, genitive feminine singular	1	—
 LEV 11:10	1	33	ἐν	ἐν	preposition with the dative	1	in
 LEV 11:10	1	34	τῷ	ὁ	article, dative neuter singular	1	the
 LEV 11:10	1	35	ὕδατι	ὕδωρ	noun, dative neuter singular	1	water
@@ -214,7 +214,7 @@ LEV 11:10	1	37	ἐστι	εἰμί	present indicative, third singular	1	is
 LEV 11:10	1	38	καὶ	καί	conjunction	1	and
 LEV 11:10	1	39	βδελύγματα	βδέλυγμα	noun, accusative neuter plural after τὰ, representations/things abominable (sacrifices offensive to Egyptians)	1	abominations
 LEV 11:10	1	40	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
-LEV 11:10	1	41	ὑμῖν	σύ	pronoun, dative second plural	1	you
+LEV 11:10	1	41	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 LEV 11:11	1	1	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 11:11	1	2	τῶν	ὁ	article, genitive plural	1	the
 LEV 11:11	1	3	κρεῶν	κρέας	noun, genitive neuter plural	1	meat
@@ -260,7 +260,7 @@ LEV 11:13	1	12	τὸν	ὁ	article, accusative masculine singular	1	the
 LEV 11:13	1	13	ἀετὸν	ἀετός	noun, accusative masculine singular	1	eagle
 LEV 11:13	1	14	καὶ	καί	conjunction	1	and
 LEV 11:13	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
-LEV 11:13	1	16	γρύπα	γρύψ	noun, accusative masculine singular	1	vulture (probably bearded vulture)
+LEV 11:13	1	16	γρύπα	γρύψ	noun, accusative masculine singular	1	bearded vulture
 LEV 11:13	1	17	καὶ	καί	conjunction	1	and
 LEV 11:13	1	18	τὸν	ὁ	article, accusative masculine singular	1	the
 LEV 11:13	1	19	ἁλιαίετον	ἁλιαίετος	noun, accusative masculine singular	1	sea eagle
@@ -271,14 +271,14 @@ LEV 11:14	1	4	καὶ	καί	conjunction	1	and
 LEV 11:14	1	5	ἰκτῖνα	ἰκτῖνος	noun, accusative masculine singular	1	kite
 LEV 11:14	1	6	καὶ	καί	conjunction	1	and
 LEV 11:14	1	7	τὰ	ὁ	article, accusative neuter plural	1	the
-LEV 11:14	1	8	ὅμοια	αὐτός	pronoun, dative masculine singular	1	it
-LEV 11:14	1	9	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
+LEV 11:14	1	8	ὅμοια	αὐτός	pronoun, dative masculine singular	1	similar kinds
+LEV 11:14	1	9	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to it
 LEV 11:15	1	1	καὶ	καί	conjunction	1	and
 LEV 11:15	1	2	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 LEV 11:15	1	3	κόρακα	κόραξ	noun, accusative masculine singular	1	raven
 LEV 11:15	1	4	καὶ	καί	conjunction	1	and
 LEV 11:15	1	5	ὅμοια	ὅμοιος	adjective, accusative neuter plural; used substantivally	1	similar kinds
-LEV 11:15	1	6	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
+LEV 11:15	1	6	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to it
 LEV 11:16	1	1	καὶ	καί	conjunction	1	and
 LEV 11:16	1	2	στρουθὸν	στρουθός	noun, accusative masculine singular	1	ostrich
 LEV 11:16	1	3	καὶ	καί	conjunction	1	and
@@ -288,13 +288,13 @@ LEV 11:16	1	6	λάρον	λάρος	noun, accusative masculine singular	1	gull
 LEV 11:16	1	7	καὶ	καί	conjunction	1	and
 LEV 11:16	1	8	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 11:16	1	9	ὅμοια	ὅμοιος	adjective, accusative neuter plural; used substantivally	1	similar kinds
-LEV 11:16	1	10	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
+LEV 11:16	1	10	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to it
 LEV 11:16	1	11	καὶ	καί	conjunction	1	and
 LEV 11:16	1	12	ἱέρακα	ἱέραξ	noun, accusative masculine singular	1	hawk
 LEV 11:16	1	13	καὶ	καί	conjunction	1	and
 LEV 11:16	1	14	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 11:16	1	15	ὅμοια	ὅμοιος	adjective, accusative neuter plural; used substantivally	1	similar kinds
-LEV 11:16	1	16	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
+LEV 11:16	1	16	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to it
 LEV 11:17	1	1	καὶ	καί	conjunction	1	and
 LEV 11:17	1	2	νυκτικόρακα	νυκτικόραξ	noun, accusative masculine singular	1	long-eared owl
 LEV 11:17	1	2	νυκτικόρακα			2	night bird
@@ -329,7 +329,7 @@ LEV 11:20	1	2	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 LEV 11:20	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 11:20	1	4	ἑρπετὰ	ἑρπετόν	noun, accusative neuter plural	1	creeping creatures
 LEV 11:20	1	4	ἑρπετὰ			2	creeping things
-LEV 11:20	1	5	τῶν	ὁ	article, genitive neuter plural	1	the
+LEV 11:20	1	5	τῶν	ὁ	article, genitive neuter plural	1	of the
 LEV 11:20	1	6	πετεινῶν	πετεινός	substantival adjective, genitive neuter plural	1	winged creatures
 LEV 11:20	1	7	ἃ	ὅς	relative pronoun, nominative neuter plural	1	which
 LEV 11:20	1	8	πορεύεται	πορεύομαι	present middle indicative, third singular	1	moves
@@ -375,21 +375,21 @@ LEV 11:22	1	2	βροῦχον	βροῦχος	noun, accusative masculine singula
 LEV 11:22	1	3	καὶ	καί	conjunction	1	and
 LEV 11:22	1	4	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 11:22	1	5	ὅμοια	ὅμοιος	adjective, accusative neuter plural; used substantivally	1	similar kinds
-LEV 11:22	1	6	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
+LEV 11:22	1	6	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to it
 LEV 11:22	1	7	καὶ	καί	conjunction	1	and
 LEV 11:22	1	8	τὸν	ὁ	article, accusative masculine singular	1	the
 LEV 11:22	1	9	ἀττάκην	ἀττάκης	noun, accusative masculine singular	1	a kind of locust
 LEV 11:22	1	10	καὶ	καί	conjunction	1	and
 LEV 11:22	1	11	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 11:22	1	12	ὅμοια	ὅμοιος	adjective, accusative neuter plural; used substantivally	1	similar kinds
-LEV 11:22	1	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
+LEV 11:22	1	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to it
 LEV 11:22	1	14	καὶ	καί	conjunction	1	and
 LEV 11:22	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
 LEV 11:22	1	16	ἀκρίδα	ἀκρίς	noun, accusative feminine singular	1	locust
 LEV 11:22	1	17	καὶ	καί	conjunction	1	and
 LEV 11:22	1	18	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 11:22	1	19	ὅμοια	ὅμοιος	adjective, accusative neuter plural; used substantivally	1	similar kinds
-LEV 11:22	1	20	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	it
+LEV 11:22	1	20	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to it
 LEV 11:22	1	21	καὶ	καί	conjunction	1	and
 LEV 11:22	1	22	τὸν	ὁ	article, accusative masculine singular	1	the
 LEV 11:22	1	23	ὀφιομάχην	ὀφιομάχης	noun, accusative masculine singular	1	snake-fighting grasshopper
@@ -397,7 +397,7 @@ LEV 11:22	1	23	ὀφιομάχην			2	a kind of locust
 LEV 11:22	1	24	καὶ	καί	conjunction	1	and
 LEV 11:22	1	25	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 11:22	1	26	ὅμοια	ὅμοιος	adjective, accusative neuter plural; used substantivally	1	similar kinds
-LEV 11:22	1	27	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
+LEV 11:22	1	27	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to it
 LEV 11:23	1	1	Πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 LEV 11:23	1	2	ἑρπετὸν	ἑρπετόν	noun, nominative neuter singular	1	creeping thing
 LEV 11:23	1	3	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -459,7 +459,7 @@ LEV 11:26	1	15	οὐκ	οὐ	negative particle	1	not
 LEV 11:26	1	16	ἀναμηρυκᾶται	ἀναμηρυκάομαι	present middle indicative, third singular	1	chews again
 LEV 11:26	1	17	ἀκάθαρτα	ἀκάθαρτος	adjective, nominative neuter plural	1	unclean
 LEV 11:26	1	18	ἔσονται	εἰμί	future middle indicative, third plural	1	they will be
-LEV 11:26	1	19	ὑμῖν	σύ	pronoun, dative second plural	1	you
+LEV 11:26	1	19	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 LEV 11:26	1	20	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
 LEV 11:26	1	21	ὁ	ὁ	article, nominative masculine singular; substantivizes participle	1	who is
 LEV 11:26	1	22	ἁπτόμενος	ἅπτομαι	present middle participle, nominative masculine singular	1	touching
@@ -545,7 +545,7 @@ LEV 11:29	1	22	γερσαῖος	γερσαῖος	adjective, nominative masculi
 LEV 11:30	1	1	καὶ	καί	conjunction	1	and
 LEV 11:30	1	2	τὰ	ὁ	article, accusative neuter plural	1	the
 LEV 11:30	1	3	ὅμοια	ὅμοιος	adjective, accusative neuter plural; used substantivally	1	similar kinds
-LEV 11:30	1	4	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	it
+LEV 11:30	1	4	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to it
 LEV 11:30	1	5	μυγάλη	μυγαλῆ	noun, nominative feminine singular	1	shrew
 LEV 11:30	1	6	καὶ	καί	conjunction	1	and
 LEV 11:30	1	7	χαμαιλέων	χαμαιλέων	noun, nominative masculine singular	1	chameleon
@@ -604,8 +604,8 @@ LEV 11:32	1	21	ἢ	ἤ	disjunctive conjunction	1	or
 LEV 11:32	1	22	σάκκου	σάκκος	noun, genitive masculine singular	1	sackcloth
 LEV 11:32	1	23	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 LEV 11:32	1	24	σκεῦος	σκεῦος	noun, nominative neuter singular	1	vessel
-LEV 11:32	1	25	ὃ	ὅς	relative pronoun, nominative neuter singular	1	who
-LEV 11:32	1	26	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	[modal particle]
+LEV 11:32	1	25	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
+LEV 11:32	1	26	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	ever
 LEV 11:32	1	27	ποιηθῇ	ποιέω	aorist passive subjunctive, third singular	1	is done
 LEV 11:32	1	28	ἔργον	ἔργον	noun, nominative neuter singular	1	work
 LEV 11:32	1	29	ἐν	ἐν	preposition with the dative	1	in
@@ -634,14 +634,14 @@ LEV 11:33	1	10	τούτων	οὗτος	demonstrative pronoun, genitive masculin
 LEV 11:33	1	11	ἔνδον	ἔνδον	adverb	1	inside
 LEV 11:33	1	12	ὅσα	ὅσος	relative adjective, nominative neuter plural	1	that
 LEV 11:33	1	12	ὅσα			2	which
-LEV 11:33	1	13	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	[modal particle]
+LEV 11:33	1	13	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	ever
 LEV 11:33	1	14	ἔνδον	ἔνδον	adverb	1	inside
 LEV 11:33	1	15	ᾖ	εἰμί	present subjunctive, third singular	1	may be
 LEV 11:33	1	16	ἀκάθαρτα	ἀκάθαρτος	adjective, nominative neuter plural	1	unclean
 LEV 11:33	1	17	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 11:33	1	18	καὶ	καί	conjunction	1	and
 LEV 11:33	1	19	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
-LEV 11:33	1	20	συντριβήσετε	συντρίβω	future active indicative, second plural	1	you shall break
+LEV 11:33	1	20	συντριβήσετε	συντρίβω	future active indicative, second plural	1	shall be broken
 LEV 11:34	1	1	Καὶ	καί	conjunction	1	and
 LEV 11:34	1	2	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 LEV 11:34	1	3	βρῶμα	βρῶμα	noun, nominative neuter singular	1	food
@@ -649,7 +649,7 @@ LEV 11:34	1	4	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
 LEV 11:34	1	5	ἔσθεται	ἐσθίω	future middle indicative, third singular	1	can be eaten
 LEV 11:34	1	6	εἰς	εἰς	preposition with accusative	1	into
 LEV 11:34	1	7	ὃ	ὅς	relative pronoun, accusative neuter singular	1	which
-LEV 11:34	1	8	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	[modal particle]
+LEV 11:34	1	8	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	ever
 LEV 11:34	1	9	ἐπέλθῃ	ἐπέρχομαι	aorist active subjunctive, third singular	1	falls
 LEV 11:34	1	10	ἐπ᾽	ἐπί	elided preposition with accusative	1	on
 LEV 11:34	1	10	ἐπ᾽			2	upon
@@ -671,7 +671,7 @@ LEV 11:35	1	1	Καὶ	καί	conjunction	1	and
 LEV 11:35	1	2	πᾶν	πᾶς	adjective, accusative neuter singular	1	every
 LEV 11:35	1	3	ἐφ᾽	ἐπί	preposition with accusative	1	on
 LEV 11:35	1	4	ὃ	ὅς	relative pronoun, nominative neuter singular	1	which
-LEV 11:35	1	5	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	[modal particle]
+LEV 11:35	1	5	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	ever
 LEV 11:35	1	6	πέση	πίπτω	aorist active subjunctive, third singular; printed πέση	1	falls
 LEV 11:35	1	7	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 11:35	1	8	τῶν	ὁ	article, genitive plural	1	the
@@ -696,15 +696,15 @@ LEV 11:35	1	25	ὑμῖν	σύ	pronoun, dative second plural	1	to you
 LEV 11:35	1	26	ἔσονται	εἰμί	future indicative, third plural	1	will be
 LEV 11:36	1	1	Πλὴν	πλήν	preposition/adverb with the genitive	1	except
 LEV 11:36	1	2	πηγῶν	πηγή	noun, genitive feminine plural	1	springs
-LEV 11:36	1	3	ὑδάτων	ὕδωρ	noun, genitive neuter plural	1	waters
+LEV 11:36	1	3	ὑδάτων	ὕδωρ	noun, genitive neuter plural	1	of waters
 LEV 11:36	1	4	καὶ	καί	conjunction	1	and
 LEV 11:36	1	5	λάκκου	λάκκος	noun, genitive masculine singular after τοῦ/ἐκ τοῦ	1	pit
 LEV 11:36	1	6	καὶ	καί	conjunction	1	and
-LEV 11:36	1	7	συναγωγῆς	συναγωγή	noun, genitive feminine singular	1	congregation
-LEV 11:36	1	8	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	water
+LEV 11:36	1	7	συναγωγῆς	συναγωγή	noun, genitive feminine singular	1	collection
+LEV 11:36	1	8	ὕδατος	ὕδωρ	noun, genitive neuter singular	1	of water
 LEV 11:36	1	9	ἔσται	εἰμί	future middle indicative, third singular	1	will be
 LEV 11:36	1	10	καθαρόν	καθαρός	adjective, accusative masculine singular	1	clean
-LEV 11:37	1	1	ὁ	ὁ	article, nominative masculine singular	1	the
+LEV 11:37	1	1	ὁ	ὁ	article, nominative masculine singular	1	the one
 LEV 11:37	1	2	δὲ	δέ	postpositive conjunction	1	and
 LEV 11:37	1	3	ἁπτόμενος	ἅπτομαι	present middle participle, nominative masculine singular	1	touching
 LEV 11:37	1	4	τῶν	ὁ	article, genitive plural	1	the
@@ -715,7 +715,7 @@ LEV 11:37	1	8	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 11:37	1	9	Ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 LEV 11:37	1	10	δὲ	δέ	postpositive conjunction	1	and
 LEV 11:37	1	11	ἐπιπέσῃ	ἐπιπίπτω	aorist active subjunctive, third singular	1	falls on
-LEV 11:37	1	12	τῶν	ὁ	article, genitive plural	1	the
+LEV 11:37	1	12	τῶν	ὁ	article, genitive plural	1	of the
 LEV 11:37	1	13	θνησιμαίων	θνησιμαῖος	adjective, genitive neuter plural; used substantivally	1	carcasses
 LEV 11:37	1	14	αὐτῶν	αὐτός	pronoun, possessive genitive plural	1	their
 LEV 11:37	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	on
@@ -842,7 +842,7 @@ LEV 11:42	1	17	ἐν	ἐν	preposition with the dative	1	in
 LEV 11:42	1	18	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
 LEV 11:42	1	19	τοῖς	ὁ	article, dative neuter plural	1	the
 LEV 11:42	1	20	ἑρπετοῖς	ἑρπετόν	noun, dative neuter plural	1	creeping creatures
-LEV 11:42	1	21	τοῖς	ὁ	article, dative neuter plural	1	the
+LEV 11:42	1	21	τοῖς	ὁ	article, dative neuter plural	1	—
 LEV 11:42	1	22	ἕρπουσιν	ἕρπω	present active participle, dative neuter plural	1	that creep
 LEV 11:42	1	23	ἐπὶ	ἐπί	preposition (case from context)	1	on
 LEV 11:42	1	24	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -865,7 +865,7 @@ LEV 11:43	1	8	ἐν	ἐν	preposition with the dative	1	in
 LEV 11:43	1	9	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
 LEV 11:43	1	10	τοῖς	ὁ	article, dative neuter plural	1	the
 LEV 11:43	1	11	ἑρπετοῖς	ἑρπετόν	noun, dative neuter plural	1	creeping creatures
-LEV 11:43	1	12	τοῖς	ὁ	article, dative neuter plural	1	the
+LEV 11:43	1	12	τοῖς	ὁ	article, dative neuter plural	1	—
 LEV 11:43	1	13	ἕρπουσιν	ἕρπω	present active participle, dative neuter plural	1	that creep
 LEV 11:43	1	14	ἐπὶ	ἐπί	preposition (case from context)	1	on
 LEV 11:43	1	15	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -881,7 +881,7 @@ LEV 11:43	1	24	ἀκάθαρτοι	ἀκάθαρτος	adjective, nominative mas
 LEV 11:43	1	25	ἔσεσθε	εἰμί	future middle indicative, second plural	1	you will be (plural)
 LEV 11:43	1	26	ἐν	ἐν	preposition with the dative	1	in
 LEV 11:43	1	27	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
-LEV 11:44	1	1	ὅτι	ὅτι	content conjunction	1	that
+LEV 11:44	1	1	ὅτι	ὅτι	content conjunction	1	for
 LEV 11:44	1	2	ἐγώ	ἐγώ	pronoun, nominative first singular emphatic	1	I
 LEV 11:44	1	3	εἰμι	εἰμί	present indicative, first singular	1	am
 LEV 11:44	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -911,12 +911,12 @@ LEV 11:44	1	27	ἐν	ἐν	preposition with the dative	1	in
 LEV 11:44	1	28	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
 LEV 11:44	1	29	τοῖς	ὁ	article, dative neuter plural	1	the
 LEV 11:44	1	30	ἐρπετοῖς	ἑρπετόν	noun, dative neuter plural	1	creeping creatures
-LEV 11:44	1	31	τοῖς	ὁ	article, dative neuter plural	1	the
+LEV 11:44	1	31	τοῖς	ὁ	article, dative neuter plural	1	—
 LEV 11:44	1	32	κινουμένοις	κινέω	present middle/passive participle, dative neuter plural	1	moving
 LEV 11:44	1	33	ἐπὶ	ἐπί	preposition (case from context)	1	on
 LEV 11:44	1	34	τῆς	ὁ	article, genitive feminine singular	1	the
 LEV 11:44	1	35	γῆς	γῆ	noun, genitive feminine singular	1	earth
-LEV 11:45	1	1	ὅτι	ὅτι	content conjunction	1	that
+LEV 11:45	1	1	ὅτι	ὅτι	content conjunction	1	for
 LEV 11:45	1	2	ἐγώ	ἐγώ	pronoun, nominative first singular emphatic	1	I
 LEV 11:45	1	3	εἰμι	εἰμί	present indicative, first singular	1	am
 LEV 11:45	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -952,7 +952,7 @@ LEV 11:46	1	11	πάσης	πᾶς	adjective, genitive feminine singular	1	every
 LEV 11:46	1	11	πάσης			2	all
 LEV 11:46	1	12	ψυχῆς	ψυχή	noun, genitive feminine singular	1	creature
 LEV 11:46	1	13	ζώσης	ζάω	present active participle, genitive feminine singular	1	living
-LEV 11:46	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 11:46	1	14	τῆς	ὁ	article, genitive feminine singular	1	—
 LEV 11:46	1	15	κινουμένης	κινέω	present middle/passive participle, genitive feminine singular	1	moving
 LEV 11:46	1	16	ἐν	ἐν	preposition with the dative	1	in
 LEV 11:46	1	17	τῷ	ὁ	article, dative masculine/neuter singular	1	the

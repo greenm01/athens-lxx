@@ -24,8 +24,8 @@ LEV 5:1	1	22	ἁμαρτίαν	ἁμαρτία	noun, accusative feminine singula
 LEV 5:1	1	23	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 LEV 5:2	1	1	Ἡ	ὁ	article, nominative feminine singular	1	the
 LEV 5:2	1	2	ψυχὴ	ψυχή	noun, nominative feminine singular	1	person
-LEV 5:2	1	3	ἥτις	ὅστις	relative pronoun, nominative feminine singular; indefinite	1	whoever
-LEV 5:2	1	4	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
+LEV 5:2	1	3	ἥτις	ὅστις	relative pronoun, nominative feminine singular; indefinite	1	who
+LEV 5:2	1	4	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	ever
 LEV 5:2	1	5	ἅψηται	ἅπτω	aorist middle subjunctive, third singular	1	touches
 LEV 5:2	1	6	παντὸς	πᾶς	adjective, genitive neuter singular	1	any
 LEV 5:2	1	7	πράγματος	πρᾶγμα	noun, genitive neuter singular	1	thing
@@ -87,7 +87,7 @@ LEV 5:4	1	3	ἣ	ὅς	relative pronoun, nominative feminine singular	1	who
 LEV 5:4	1	4	ἂν	ἄν	modal particle in an indefinite relative clause	1	[modal particle]
 LEV 5:4	1	5	ὀμόσῃ	ὄμνυμι	aorist active subjunctive, third singular	1	swears
 LEV 5:4	1	6	διαστέλλουσα	διαστέλλω	present active participle, nominative feminine singular	1	making a declaration
-LEV 5:4	1	7	τοῖς	ὁ	article, dative neuter plural	1	the
+LEV 5:4	1	7	τοῖς	ὁ	article, dative neuter plural	1	with the
 LEV 5:4	1	8	χείλεσι	χεῖλος	noun, dative neuter plural	1	lips
 LEV 5:4	1	9	κακοποιῆσαι	κακοποιέω	aorist active infinitive	1	to do harm
 LEV 5:4	1	10	ἢ	ἤ	disjunctive conjunction	1	or
@@ -97,7 +97,7 @@ LEV 5:4	1	13	κατὰ	κατά	preposition with the accusative	1	according to
 LEV 5:4	1	14	πάντα	πᾶς	adjective, accusative neuter plural	1	all
 LEV 5:4	1	15	ὅσα	ὅσος	relative adjective, nominative neuter plural	1	that
 LEV 5:4	1	15	ὅσα			2	which
-LEV 5:4	1	16	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	[modal particle]
+LEV 5:4	1	16	ἐὰν	ἐάν	modal particle in an indefinite relative clause	1	ever
 LEV 5:4	1	17	διαστείλῃ	διαστέλλω	aorist active subjunctive, third singular	1	declares
 LEV 5:4	1	18	ὁ	ὁ	article, nominative masculine singular	1	the
 LEV 5:4	1	19	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	man
@@ -116,7 +116,7 @@ LEV 5:4	1	30	καὶ	καί	conjunction	1	and
 LEV 5:4	1	31	ἁμάρτῃ	ἁμαρτάνω	aorist active subjunctive, third singular	1	sins
 LEV 5:4	1	32	ἕν	εἷς	cardinal numeral, nominative neuter singular	1	one
 LEV 5:4	1	33	τι	τις	pronoun, accusative neuter singular; indefinite, adverbial	1	at all
-LEV 5:4	1	34	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	these
+LEV 5:4	1	34	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	of these
 LEV 5:5	1	1	καὶ	καί	conjunction	1	and
 LEV 5:5	1	2	ἔσται	εἰμί	future indicative, third singular	1	will be
 LEV 5:5	1	3	ὅτι	ὅτι	causal conjunction	1	because
@@ -249,7 +249,7 @@ LEV 5:9	1	1	καὶ	καί	conjunction	1	and
 LEV 5:9	1	2	ῥανεῖ	ῥαίνω	future active indicative, third singular	1	he shall sprinkle
 LEV 5:9	1	3	ἀπὸ	ἀπό	preposition with the genitive	1	from
 LEV 5:9	1	4	τοῦ	ὁ	article, genitive neuter singular	1	the
-LEV 5:9	1	5	αἵματος	αἷμα	noun, genitive neuter singular	1	of blood
+LEV 5:9	1	5	αἵματος	αἷμα	noun, genitive neuter singular	1	blood
 LEV 5:9	1	6	τοῦ	ὁ	article, genitive neuter singular; stands for the bird presented for sin	1	of the one
 LEV 5:9	1	7	περὶ	περί	preposition with genitive	1	for
 LEV 5:9	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
@@ -321,7 +321,7 @@ LEV 5:11	1	19	περὶ			2	concerning
 LEV 5:11	1	20	οὗ	ὅς	relative pronoun, genitive neuter singular; with περί	1	which
 LEV 5:11	1	21	ἥμαρτε	ἁμαρτάνω	aorist active indicative, third singular	1	he sinned
 LEV 5:11	1	22	τὸ	ὁ	article, accusative neuter singular	1	the
-LEV 5:11	1	23	δέκατον	δέκατος	ordinal adjective, accusative neuter singular; used substantivally	1	a tenth
+LEV 5:11	1	23	δέκατον	δέκατος	ordinal adjective, accusative neuter singular; used substantivally	1	tenth
 LEV 5:11	1	24	τοῦ	ὁ	article, genitive masculine singular	1	of the
 LEV 5:11	1	25	οἰφὶ	οἰφί	indeclinable unit of dry measure, genitive in context	1	ephah
 LEV 5:11	1	26	σεμίδαλιν	σεμίδαλις	noun, accusative feminine singular	1	fine flour
@@ -386,8 +386,8 @@ LEV 5:13	1	11	ἧς	ὅς	relative pronoun, genitive feminine singular	1	which
 LEV 5:13	1	12	ἥμαρτεν	ἁμαρτάνω	aorist active indicative, third singular	1	he committed
 LEV 5:13	1	13	ἀφ᾽	ἀπό	preposition with genitive, elided	1	from
 LEV 5:13	1	13	ἀφ᾽			2	off
-LEV 5:13	1	14	ἑνὸς	εἷς	cardinal numeral, genitive masculine singular with ἀνθρώπου	1	of one
-LEV 5:13	1	15	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	these
+LEV 5:13	1	14	ἑνὸς	εἷς	cardinal numeral, genitive masculine singular with ἀνθρώπου	1	one
+LEV 5:13	1	15	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	1	of these
 LEV 5:13	1	16	καὶ	καί	conjunction	1	and
 LEV 5:13	1	17	ἀφεθήσεται	ἀφίημι	future passive indicative, third singular	1	it shall be forgiven
 LEV 5:13	1	18	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
@@ -437,7 +437,7 @@ LEV 5:15	1	26	ἀργυρίου	ἀργύριον	noun, genitive neuter singular
 LEV 5:15	1	27	σίκλων	σίκλος	noun, genitive masculine plural	1	shekels
 LEV 5:15	1	28	τῷ	ὁ	article, dative masculine singular; marks the measure used to value the offering	1	by the
 LEV 5:15	1	29	σίκλῳ	σίκλος	noun, dative masculine singular	1	shekel
-LEV 5:15	1	30	τῶν	ὁ	article, genitive plural	1	the
+LEV 5:15	1	30	τῶν	ὁ	article, genitive plural	1	of the
 LEV 5:15	1	31	ἁγίων	ἅγιος	substantival adjective, genitive neuter plural; describes the type of shekel	1	sanctuary
 LEV 5:15	1	32	περὶ	περί	preposition with the genitive	1	on account of
 LEV 5:15	1	32	περὶ			2	concerning
@@ -453,7 +453,7 @@ LEV 5:16	1	7	ἀποτίσει	ἀποτίνω	future active indicative, third s
 LEV 5:16	1	8	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
 LEV 5:16	1	9	καὶ	καί	conjunction	1	and
 LEV 5:16	1	10	τὸ	ὁ	article, accusative neuter singular	1	the
-LEV 5:16	1	11	ἐπίπεμπτον	ἐπίπεμπτος	adjective, accusative neuter singular; used substantivally	1	an added fifth
+LEV 5:16	1	11	ἐπίπεμπτον	ἐπίπεμπτος	adjective, accusative neuter singular; used substantivally	1	added fifth
 LEV 5:16	1	12	προσθήσει	προστίθημι	future active indicative, third singular	1	he shall add
 LEV 5:16	1	13	ἐπ᾽	ἐπί	preposition with the accusative, elided	1	to
 LEV 5:16	1	14	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
@@ -471,7 +471,7 @@ LEV 5:16	1	25	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	h
 LEV 5:16	1	26	ἐν	ἐν	preposition with the dative	1	with
 LEV 5:16	1	27	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 LEV 5:16	1	28	κριῷ	κριός	noun, dative masculine singular	1	ram
-LEV 5:16	1	29	τῆς	ὁ	article, genitive feminine singular	1	the
+LEV 5:16	1	29	τῆς	ὁ	article, genitive feminine singular	1	of the
 LEV 5:16	1	30	πλημμελείας	πλημμέλεια	noun, genitive feminine singular; names the ram's sacrificial purpose	1	guilt offering
 LEV 5:16	1	31	καὶ	καί	conjunction	1	and
 LEV 5:16	1	32	ἀφεθήσεται	ἀφίημι	future passive indicative, third singular	1	it shall be forgiven
