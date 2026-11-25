@@ -7,7 +7,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:1	1	6	Ἱερεμίας	Ἱερεμίας	noun, nominative masculine singular; personal name	1	Jeremiah
 2MA 2:1	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
 2MA 2:1	1	8	προφήτης	προφήτης	noun, nominative masculine singular	1	prophet
-2MA 2:1	1	9	ὅτι	ὅτι	causal conjunction	1	because
+2MA 2:1	1	9	ὅτι	ὅτι	causal conjunction	1	that
 2MA 2:1	1	10	ἐκέλευσε	κελεύω	aorist active indicative, third singular	1	he ordered
 2MA 2:1	1	11	τοῦ	ὁ	article, genitive singular	1	the
 2MA 2:1	1	12	πυρὸς	πῦρ	noun, genitive neuter singular	1	of fire
@@ -23,7 +23,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:2	1	5	μεταγενομένοις	μεταγίνομαι	aorist middle participle, dative masculine plural	1	who were deported
 2MA 2:2	1	6	ὁ	ὁ	article, nominative masculine singular	1	the
 2MA 2:2	1	7	προφήτης	προφήτης	noun, nominative masculine singular	1	prophet
-2MA 2:2	1	8	δοὺς	δίδωμι	aorist active participle, nominative masculine singular	1	one who gave
+2MA 2:2	1	8	δοὺς	δίδωμι	aorist active participle, nominative masculine singular	1	having given
 2MA 2:2	1	9	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 2MA 2:2	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
 2MA 2:2	1	11	νόμον	νόμος	noun, accusative masc. sg. after τὸν	1	law
@@ -32,13 +32,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:2	1	14	ἐπιλάθωνται	ἐπιλανθάνομαι	aorist middle subjunctive third plural	1	they may forget
 2MA 2:2	1	15	τῶν	ὁ	article genitive neuter plural	1	the
 2MA 2:2	1	16	προσταγμάτων	πρόσταγμα	noun, genitive neuter plural	1	commands
-2MA 2:2	1	17	τοῦ	ὁ	article, genitive singular	1	the
-2MA 2:2	1	18	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+2MA 2:2	1	17	τοῦ	ὁ	article, genitive singular	1	of the
+2MA 2:2	1	18	Κυρίου	κύριος	noun, genitive masculine singular	1	Lord
 2MA 2:2	1	19	καὶ	καί	conjunction	1	and
 2MA 2:2	1	20	ἵνα	ἵνα	conjunction	1	so that
 2MA 2:2	1	21	μὴ	μή	negative particle	1	not
 2MA 2:2	1	22	ἀποπλανηθῶσι	ἀποπλανάω	aorist passive subjunctive, third plural	1	they might be led astray
-2MA 2:2	1	23	ταῖς	ὁ	article, dative feminine plural	1	the
+2MA 2:2	1	23	ταῖς	ὁ	article, dative feminine plural	1	in the
 2MA 2:2	1	24	διανοίαις	διάνοια	noun, dative feminine plural	1	minds
 2MA 2:2	1	25	βλέποντες	βλέπω	present active participle, nominative masculine plural	1	looking
 2MA 2:2	1	25	βλέποντες			2	seeing
@@ -49,16 +49,16 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:2	1	29	ἀργυρᾶ	ἀργυροῦς	adjective accusative neuter plural	1	silver
 2MA 2:2	1	30	καὶ	καί	conjunction	1	and
 2MA 2:2	1	31	τὸν	ὁ	article, accusative masculine singular	1	the
-2MA 2:2	1	32	περὶ	περί	preposition with genitive	1	for
+2MA 2:2	1	32	περὶ	περί	preposition with genitive	1	around
 2MA 2:2	1	33	αὐτὰ	αὐτός	pronoun, accusative neuter plural	1	them
-2MA 2:2	1	34	κόσμον	κόσμος	noun, accusative masc. sg., ornament	1	his ornaments
+2MA 2:2	1	34	κόσμον	κόσμος	noun, accusative masc. sg., ornament	1	adornment
 2MA 2:3	1	1	Καὶ	καί	conjunction	1	and
 2MA 2:3	1	2	ἕτερα	ἕτερος	adjective, accusative neuter plural	1	other
 2MA 2:3	1	2	ἕτερα			2	more
 2MA 2:3	1	3	τοιαῦτα	τοιοῦτος	demonstrative pronoun, nominative neuter plural; qualitative demonstrative	1	things like these
 2MA 2:3	1	3	τοιαῦτα			2	such things
 2MA 2:3	1	4	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
-2MA 2:3	1	5	παρεκάλει	παρακαλέω	imperfect active indicative, third singular	1	comforted
+2MA 2:3	1	5	παρεκάλει	παρακαλέω	imperfect active indicative, third singular	1	exhorted
 2MA 2:3	1	6	μὴ	μή	negative with subjunctive/optative	1	not
 2MA 2:3	1	7	ἀποστῆναι	ἀφίστημι	aorist active infinitive	1	to depart
 2MA 2:3	1	7	ἀποστῆναι			2	to turn away
@@ -72,7 +72,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:4	1	2	δὲ	δέ	postpositive conjunction	1	and
 2MA 2:4	1	3	ἐν	ἐν	preposition with the dative	1	in
 2MA 2:4	1	4	τῇ	ὁ	article, dative feminine singular	1	the
-2MA 2:4	1	5	γραφῇ	γραφή	noun, dative feminine singular	1	a written message
+2MA 2:4	1	5	γραφῇ	γραφή	noun, dative feminine singular	1	writing
 2MA 2:4	1	6	ὡς	ὡς	comparative particle	1	as
 2MA 2:4	1	7	τὴν	ὁ	article, accusative feminine singular	1	the
 2MA 2:4	1	8	σκηνὴν	σκηνή	noun, accusative feminine singular	1	tent
@@ -119,7 +119,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:5	1	14	καὶ	καί	conjunction	1	and
 2MA 2:5	1	15	τὸ	ὁ	article, nominative neuter singular	1	the
 2MA 2:5	1	16	θυσιαστήριον	θυσιαστήριον	noun, accusative neut. sg.	1	altar
-2MA 2:5	1	17	τοῦ	ὁ	article, genitive singular	1	the
+2MA 2:5	1	17	τοῦ	ὁ	article, genitive singular	1	of the
 2MA 2:5	1	18	θυμιάματος	θυμίαμα	noun, genitive neut. sg. after θυσιαστήριον, incense	1	incense
 2MA 2:5	1	19	εἰσήνεγκεν	εἰσφέρω	aorist active indicative, third singular	1	brought in
 2MA 2:5	1	20	ἐκεῖ	ἐκεῖ	adverb of place	1	there
@@ -130,8 +130,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:6	1	1	καὶ	καί	conjunction	1	and
 2MA 2:6	1	2	προσελθόντες	προσέρχομαι	aorist active participle, nominative masculine plural	1	having approached
 2MA 2:6	1	3	τινὲς	τις	Indefinite pronoun; nominative masculine plural	1	some people
-2MA 2:6	1	4	τῶν	ὁ	article, genitive plural	1	the
-2MA 2:6	1	5	συνακολουθούντων	συνακολουθέω	present active participle, genitive masculine plural	1	following along
+2MA 2:6	1	4	τῶν	ὁ	article, genitive plural	1	of those
+2MA 2:6	1	5	συνακολουθούντων	συνακολουθέω	present active participle, genitive masculine plural	1	who followed along
 2MA 2:6	1	6	ὥστε	ὥστε	conjunction with the infinitive	1	so as
 2MA 2:6	1	7	ἐπισημήνασθαι	ἐπισημαίνω	aorist middle infinitive	1	to mark out
 2MA 2:6	1	8	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -155,14 +155,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:7	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
 2MA 2:7	1	13	τόπος	τόπος	noun, nominative masculine singular	1	place
 2MA 2:7	1	14	ἔσται	εἰμί	future indicative, third singular	1	will be
-2MA 2:7	1	15	ἕως	ἕως	preposition with the genitive	1	as far as
+2MA 2:7	1	15	ἕως	ἕως	preposition with the genitive	1	until
 2MA 2:7	1	15	ἕως			2	up to
 2MA 2:7	1	16	ἂν	ἄν	modal particle with subjunctive ἔλθῃ, marks indefinite/conditional time	1	—
 2MA 2:7	1	17	συνάγῃ	συνάγω	aorist active subjunctive, third singular	1	he may gather
 2MA 2:7	1	18	ὁ	ὁ	article, nominative masculine singular	1	the
 2MA 2:7	1	19	Θεὸς	θεός	noun, nominative masculine singular	1	God
 2MA 2:7	1	20	ἐπισυναγωγὴν	ἐπισυναγωγή	noun, accusative feminine singular	1	assembly
-2MA 2:7	1	21	τοῦ	ὁ	article, genitive singular	1	the
+2MA 2:7	1	21	τοῦ	ὁ	article, genitive singular	1	of the
 2MA 2:7	1	22	λαοῦ	λαός	noun, genitive masculine singular	1	people
 2MA 2:7	1	23	καὶ	καί	conjunction	1	and
 2MA 2:7	1	24	ἵλεως	ἵλεως	adjective, nominative masculine singular	1	merciful
@@ -184,8 +184,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:8	1	14	ἡ	ὁ	article, nominative feminine singular	1	the
 2MA 2:8	1	15	νεφέλη	νεφέλη	noun, nominative fem. sg. after ἡ	1	cloud
 2MA 2:8	1	16	ὡς	ὡς	comparative adverb/conjunction	1	as
-2MA 2:8	1	17	ἐπὶ	ἐπί	preposition (case from context)	1	on
-2MA 2:8	1	18	Μωσῆ	Μωυσῆς	noun, genitive masculine singular	1	of Moses
+2MA 2:8	1	17	ἐπὶ	ἐπί	preposition (case from context)	1	under
+2MA 2:8	1	18	Μωσῆ	Μωυσῆς	noun, genitive masculine singular	1	Moses
 2MA 2:8	1	19	ἐδηλοῦτο	δηλόω	imperfect passive indicative, third singular	1	was being shown
 2MA 2:8	1	20	ὡς	ὡς	comparative particle	1	as
 2MA 2:8	1	20	ὡς			2	Uz
@@ -208,12 +208,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:9	1	6	ἔχων	ἔχω	present active participle, nominative masculine singular	1	having
 2MA 2:9	1	7	ἀνήνεγκε	ἀναφέρω	aorist active indicative, third singular	1	offered up
 2MA 2:9	1	8	θυσίαν	θυσία	noun, accusative feminine singular	1	sacrifice
-2MA 2:9	1	9	ἐγκαινισμοῦ	ἐγκαινισμός	noun genitive masculine singular	1	dedication
+2MA 2:9	1	9	ἐγκαινισμοῦ	ἐγκαινισμός	noun genitive masculine singular	1	of dedication
 2MA 2:9	1	10	καὶ	καί	conjunction	1	and
-2MA 2:9	1	11	τῆς	ὁ	article, genitive feminine singular	1	the
+2MA 2:9	1	11	τῆς	ὁ	article, genitive feminine singular	1	of the
 2MA 2:9	1	12	τελειώσεως	τελείωσις	noun, genitive feminine singular	1	consecration
 2MA 2:9	1	12	τελειώσεως			2	ordination
-2MA 2:9	1	13	τοῦ	ὁ	article, genitive singular	1	the
+2MA 2:9	1	13	τοῦ	ὁ	article, genitive singular	1	of the
 2MA 2:9	1	14	ἱεροῦ	ἱερόν	noun, genitive neuter singular	1	sanctuary
 2MA 2:10	1	1	Καθὼς	καθώς	comparative conjunction	1	just as
 2MA 2:10	1	2	καὶ	καί	conjunction	1	and
@@ -233,7 +233,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:10	1	16	θυσίας	θυσία	noun, genitive feminine singular	1	offering
 2MA 2:10	1	17	ἐδαπάνησεν	δαπανάω	aorist active indicative, third singular	1	consumed
 2MA 2:10	1	18	οὕτως	οὕτως	adverb	1	thus
-2MA 2:10	1	19	καὶ	καί	conjunction	1	and
+2MA 2:10	1	19	καὶ	καί	conjunction	1	also
 2MA 2:10	1	20	Σαλωμὼν	Σαλωμών	indeclinable personal name, genitive in context	1	Solomon
 2MA 2:10	1	20	Σαλωμὼν			2	Salomon
 2MA 2:10	1	21	προσηύξατο	προσεύχομαι	aorist middle indicative, third singular	1	prayed
@@ -260,7 +260,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:11	1	11	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	1	sin
 2MA 2:11	1	12	ἀνηλώθη	ἀναλίσκω	aorist passive indicative, third singular	1	was consumed
 2MA 2:12	1	1	Ὡσαύτως	ὡσαύτως	adverb	1	likewise
-2MA 2:12	1	2	καὶ	καί	conjunction	1	and
+2MA 2:12	1	2	καὶ	καί	conjunction	1	also
 2MA 2:12	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 2MA 2:12	1	4	Σαλωμὼν	Σαλωμών	indeclinable personal name, genitive in context	1	Solomon
 2MA 2:12	1	4	Σαλωμὼν			2	Salomon
@@ -271,7 +271,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:13	1	1	Ἐξηγοῦντο	ἐξηγέομαι	imperfect middle indicative, third plural	1	they recounted
 2MA 2:13	1	2	δὲ	δέ	postpositive conjunction	1	now
 2MA 2:13	1	2	δὲ			2	but
-2MA 2:13	1	3	καὶ	καί	conjunction	1	and
+2MA 2:13	1	3	καὶ	καί	conjunction	1	also
 2MA 2:13	1	4	ἐν	ἐν	preposition with the dative	1	in
 2MA 2:13	1	5	ταῖς	ὁ	article, dative feminine plural	1	the
 2MA 2:13	1	6	ἀναγραφαῖς	ἀναγραφή	noun, dative feminine plural	1	records
@@ -297,21 +297,21 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:13	1	25	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
 2MA 2:13	1	26	καὶ	καί	conjunction	1	and
 2MA 2:13	1	27	προφητῶν	προφήτης	noun, genitive masculine plural	1	prophets
-2MA 2:13	1	28	βιβλία	βιβλίον	noun, accusative neuter plural	1	letters
+2MA 2:13	1	28	βιβλία	βιβλίον	noun, accusative neuter plural	1	books
 2MA 2:13	1	29	καὶ	καί	conjunction	1	and
-2MA 2:13	1	30	τὰ	ὁ	article, accusative neuter plural; stands for the offerings	1	the offerings
-2MA 2:13	1	31	τοῦ	ὁ	article, genitive singular	1	the
+2MA 2:13	1	30	τὰ	ὁ	article, accusative neuter plural; stands for the offerings	1	the things
+2MA 2:13	1	31	τοῦ	ὁ	article, genitive singular	1	—
 2MA 2:13	1	32	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 2MA 2:13	1	33	καὶ	καί	conjunction	1	and
 2MA 2:13	1	34	ἐπιστολὰς	ἐπιστολή	noun, accusative feminine plural	1	letters
 2MA 2:13	1	34	ἐπιστολὰς			2	dispatches
-2MA 2:13	1	35	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
-2MA 2:13	1	36	περὶ	περί	preposition with genitive	1	for
+2MA 2:13	1	35	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	of kings
+2MA 2:13	1	36	περὶ	περί	preposition with genitive	1	concerning
 2MA 2:13	1	37	ἀναθεμάτων	ἀνάθημα	noun, genitive neuter plural	1	votive offerings
 2MA 2:14	1	1	Ὡσαύτως	ὡσαύτως	adverb	1	alike
 2MA 2:14	1	2	δὲ	δέ	postpositive conjunction	1	and
 2MA 2:14	1	3	καὶ	καί	conjunction	1	also
-2MA 2:14	1	4	Ἰούδας	Ἰούδας	personal name, nominative masculine singular	1	Judah
+2MA 2:14	1	4	Ἰούδας	Ἰούδας	personal name, nominative masculine singular	1	Judas
 2MA 2:14	1	5	τὰ	ὁ	article, accusative neuter plural	1	the
 2MA 2:14	1	6	διαπεπτωκότα	διαπίπτω	perfect active participle, accusative masculine singular	1	things that had scattered
 2MA 2:14	1	6	διαπεπτωκότα			2	fallen
@@ -328,7 +328,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:14	1	16	ἐστὶ	εἰμί	present indicative, third singular, neuter plural subject	1	are
 2MA 2:14	1	17	παρ᾽	παρά	preposition with dative	1	with
 2MA 2:14	1	18	ἡμῖν	ἐγώ	personal pronoun, dative first plural	1	us
-2MA 2:15	1	1	Ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	which
+2MA 2:15	1	1	Ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	of which
 2MA 2:15	1	2	οὖν	οὖν	inferential particle	1	then
 2MA 2:15	1	3	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 2MA 2:15	1	4	χρείαν	χρεία	noun, accusative feminine singular	1	need
@@ -350,14 +350,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:16	1	10	ποιήσετε	ποιέω	future active indicative, second person plural	1	you will do
 2MA 2:16	1	11	ἄγοντες	ἄγω	present active participle, nominative masculine plural	1	observing
 2MA 2:16	1	12	τὰς	ὁ	article, accusative feminine plural	1	the
-2MA 2:16	1	13	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	day
+2MA 2:16	1	13	ἡμέρας	ἡμέρα	noun, genitive feminine singular	1	days
 2MA 2:17	1	1	Ὁ	ὁ	article, nominative masculine singular	1	the
 2MA 2:17	1	2	δὲ	δέ	postpositive conjunction	1	and
 2MA 2:17	1	3	Θεὸς	θεός	noun, nominative masculine singular	1	God
 2MA 2:17	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 2MA 2:17	1	5	σώσας	σῴζω	aorist active imperative, nominative masculine singular	1	who saved
 2MA 2:17	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
-2MA 2:17	1	7	πάντα	πᾶς	adjective, accusative masculine singular	1	every
+2MA 2:17	1	7	πάντα	πᾶς	adjective, accusative masculine singular	1	whole
 2MA 2:17	1	8	λαὸν	λαός	noun, accusative masculine singular	1	people
 2MA 2:17	1	9	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2MA 2:17	1	10	καὶ	καί	conjunction	1	and
@@ -366,7 +366,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:17	1	13	κληρονομίαν	κληρονομία	noun, accusative feminine singular	1	inheritance
 2MA 2:17	1	13	κληρονομίαν			2	estate
 2MA 2:17	1	14	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-2MA 2:17	1	15	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
+2MA 2:17	1	15	πᾶσι	πᾶς	adjective, dative neuter plural	1	to all
 2MA 2:17	1	16	καὶ	καί	conjunction	1	and
 2MA 2:17	1	17	τὸ	ὁ	article, nominative neuter singular	1	the
 2MA 2:17	1	18	βασίλειον	βασίλειον	noun, nominative neuter singular	1	kingdom
@@ -387,7 +387,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:18	1	8	ἐπὶ	ἐπί	preposition with dative	1	in
 2MA 2:18	1	9	τῷ	ὁ	article, dative masculine singular	1	the
 2MA 2:18	1	10	Θεῷ	θεός	noun, dative masculine singular	1	God
-2MA 2:18	1	11	ὅτι	ὅτι	causal conjunction	1	because
+2MA 2:18	1	11	ὅτι	ὅτι	causal conjunction	1	that
 2MA 2:18	1	12	ταχέως	ταχέως	adverb	1	quickly
 2MA 2:18	1	12	ταχέως			2	swiftly
 2MA 2:18	1	13	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	1	us
@@ -402,13 +402,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:18	1	21	οὐρανὸν	οὐρανός	noun, accusative masculine singular	1	heaven
 2MA 2:18	1	22	εἰς	εἰς	preposition with the accusative	1	into
 2MA 2:18	1	23	τὸν	ὁ	article, accusative masculine singular	1	the
-2MA 2:18	1	24	ἅγιον	ἅγιος	adjective, accusative masculine singular; substantival	1	Holy One
+2MA 2:18	1	24	ἅγιον	ἅγιος	adjective, accusative masculine singular; substantival	1	holy
 2MA 2:18	1	25	τόπον	τόπος	noun, accusative masculine singular	1	place
 2MA 2:18	1	26	ἐξείλατο	ἐξαιρέω	aorist middle indicative, 3rd sg.	1	delivered
 2MA 2:18	1	27	γὰρ	γάρ	explanatory particle	1	for
 2MA 2:18	1	28	ἡμᾶς	ἐγώ	personal pronoun accusative first plural	1	us
 2MA 2:18	1	29	ἐκ	ἐκ	preposition with genitive	1	from
-2MA 2:18	1	30	μεγάλων	μέγας	substantival adjective, genitive masculine plural	1	great ones
+2MA 2:18	1	30	μεγάλων	μέγας	substantival adjective, genitive masculine plural	1	great
 2MA 2:18	1	31	κακῶν	κακός	adjective, genitive neuter plural; substantival	1	evils
 2MA 2:18	1	31	κακῶν			2	troubles
 2MA 2:18	1	32	καὶ	καί	conjunction	1	and
@@ -417,7 +417,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:18	1	35	ἐκαθάρισε	καθαρίζω	aorist active indicative, third singular	1	purified
 2MA 2:19	1	1	Τὰ	ὁ	article, accusative neuter plural	1	the
 2MA 2:19	1	2	δὲ	δέ	postpositive conjunction	1	and
-2MA 2:19	1	3	κατὰ	κατά	preposition with the accusative	1	according to
+2MA 2:19	1	3	κατὰ	κατά	preposition with the accusative	1	concerning
 2MA 2:19	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 2MA 2:19	1	5	Ἰούδαν	Ἰούδας	proper noun accusative masculine singular	1	Judas
 2MA 2:19	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -439,9 +439,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:19	1	22	βωμοῦ	βωμός	noun, genitive masculine singular	1	altar
 2MA 2:19	1	23	ἐγκαινισμόν	ἐγκαινισμός	noun, accusative masculine singular	1	dedication
 2MA 2:20	1	1	Ἔτι	ἔτι	temporal adverb	1	still
-2MA 2:20	1	2	τε	τε	particle	1	both
+2MA 2:20	1	2	τε	τε	particle	1	and
 2MA 2:20	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
-2MA 2:20	1	4	πρὸς	πρός	preposition with the accusative	1	to
+2MA 2:20	1	4	πρὸς	πρός	preposition with the accusative	1	against
 2MA 2:20	1	5	Ἀντίοχον	Ἀντίοχος	noun, accusative masculine singular	1	Antiochus
 2MA 2:20	1	6	τὸν	ὁ	article, accusative masculine singular	1	the
 2MA 2:20	1	7	Ἐπιφανῆ	ἐπιφανής	adjective, accusative feminine singular	1	Epiphanes
@@ -459,10 +459,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:21	1	5	γενομένας	γίνομαι	aorist middle participle, accusative feminine plural	1	taking place
 2MA 2:21	1	6	ἐπιφανείας	ἐπιφάνεια	noun, genitive feminine singular	1	manifestations
 2MA 2:21	1	6	ἐπιφανείας			2	manifestation
-2MA 2:21	1	7	τοῖς	ὁ	article, dative neuter plural	1	the
+2MA 2:21	1	7	τοῖς	ὁ	article, dative neuter plural	1	to those
 2MA 2:21	1	8	ὑπὲρ	ὑπέρ	preposition with genitive	1	for
 2MA 2:21	1	9	τοῦ	ὁ	article, genitive singular	1	the
-2MA 2:21	1	10	Ἰουδαϊσμοῦ	Ἰουδαϊσμός	noun, genitive masculine singular	1	of Judaism
+2MA 2:21	1	10	Ἰουδαϊσμοῦ	Ἰουδαϊσμός	noun, genitive masculine singular	1	Judaism
 2MA 2:21	1	11	φιλοτίμως	φιλοτίμως	adverb	1	eagerly
 2MA 2:21	1	11	φιλοτίμως			2	zealously
 2MA 2:21	1	12	ἀνδραγαθήσασιν	ἀνδραγαθέω	aorist active participle, dative masculine plural	1	having acted bravely
@@ -482,7 +482,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:22	1	1	Καὶ	καί	conjunction	1	and
 2MA 2:22	1	2	τὸ	ὁ	article, accusative neuter singular	1	the
 2MA 2:22	1	3	περιβόητον	περιβόητος	adjective, accusative neuter singular	1	renowned
-2MA 2:22	1	4	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	concerning
+2MA 2:22	1	4	καθ᾽	κατά	preposition with the accusative, elided, in τῶν καθ᾽ ἑαυτὸν 'his own affairs'	1	throughout
 2MA 2:22	1	5	ὅλην	ὅλος	adjective, accusative feminine singular	1	whole
 2MA 2:22	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 2MA 2:22	1	7	οἰκουμένην	οἰκουμένη	substantival adjective accusative feminine singular	1	inhabited world
@@ -499,24 +499,24 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:22	1	18	νόμους	νόμος	noun, accusative masculine plural	1	laws
 2MA 2:22	1	19	ἐπανορθῶσαι	ἐπανορθόω	aorist active infinitive	1	to restore
 2MA 2:22	1	20	τοῦ	ὁ	article, genitive singular	1	the
-2MA 2:22	1	21	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
+2MA 2:22	1	21	Κυρίου	κύριος	noun, genitive masculine singular	1	Lord
 2MA 2:22	1	22	μετὰ	μετά	preposition with genitive	1	with
-2MA 2:22	1	23	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
+2MA 2:22	1	23	πάσης	πᾶς	adjective, genitive feminine singular	1	all
 2MA 2:22	1	24	ἐπιεικείας	ἐπιείκεια	noun, genitive feminine singular	1	gentleness
 2MA 2:22	1	25	ἵλεω	ἵλεως	adjective, genitive masculine singular	1	gracious
-2MA 2:22	1	26	γενομένου	γίνομαι	aorist middle participle, genitive masculine singular	1	was born
+2MA 2:22	1	26	γενομένου	γίνομαι	aorist middle participle, genitive masculine singular	1	having become
 2MA 2:22	1	27	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 2MA 2:23	1	1	Τὰ	ὁ	article, accusative neuter plural	1	the
 2MA 2:23	1	2	ὑπὸ	ὑπό	preposition with genitive of agent	1	by
-2MA 2:23	1	3	Ἰάσωνος	Ἰάσων	noun, genitive masculine singular	1	of Jason
+2MA 2:23	1	3	Ἰάσωνος	Ἰάσων	noun, genitive masculine singular	1	Jason
 2MA 2:23	1	4	τοῦ	ὁ	article, genitive singular	1	the
 2MA 2:23	1	5	Κυρηναίου	Κυρηναῖος	adjective, genitive masculine singular	1	of Cyrene
 2MA 2:23	1	6	δεδηλωμένα	δηλόω	perfect passive participle, accusative neuter plural	1	set forth
-2MA 2:23	1	7	διὰ	διά	preposition with the accusative	1	because of
+2MA 2:23	1	7	διὰ	διά	preposition with the accusative	1	in
 2MA 2:23	1	8	πέντε	πέντε	indeclinable cardinal numeral	1	five
 2MA 2:23	1	9	βιβλίων	βιβλίον	noun, genitive neuter plural	1	books
 2MA 2:23	1	10	πειρασόμεθα	πειράω	future middle indicative, first plural	1	we shall attempt
-2MA 2:23	1	11	δι᾽	διά	elided preposition with the accusative	1	because of
+2MA 2:23	1	11	δι᾽	διά	elided preposition with the accusative	1	in
 2MA 2:23	1	12	ἑνὸς	εἷς	cardinal numeral, genitive masculine singular	1	one
 2MA 2:23	1	13	συντάγματος	σύνταγμα	noun, genitive neuter singular	1	volume
 2MA 2:23	1	14	ἐπιτεμεῖν	ἐπιτέμνω	aorist active infinitive	1	to abridge
@@ -554,7 +554,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:25	1	9	φιλοφρονοῦσιν	φιλοφρονέω	present active participle, dative masculine plural	1	applying themselves eagerly
 2MA 2:25	1	10	εἰς	εἰς	preposition with the accusative of direction	1	into
 2MA 2:25	1	11	τὸ	ὁ	article, accusative neuter singular	1	the
-2MA 2:25	1	12	διὰ	διά	preposition with the accusative	1	because of
+2MA 2:25	1	12	διὰ	διά	preposition with the accusative	1	through
 2MA 2:25	1	13	μνήμης	μνήμη	noun, genitive feminine singular	1	memory
 2MA 2:25	1	14	ἀναλαβεῖν	ἀναλαμβάνω	aorist active infinitive in the articular infinitive	1	receive
 2MA 2:25	1	15	εὐκοπίαν	εὐκοπία	noun, accusative feminine singular	1	ease
@@ -571,19 +571,19 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:26	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 2MA 2:26	1	6	κακοπάθειαν	κακοπάθεια	noun, accusative feminine singular	1	hardship
 2MA 2:26	1	7	ἐπιδεδεγμένοις	ἐπιδέχομαι	perfect middle participle, dative masculine plural	1	having undertaken
-2MA 2:26	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
+2MA 2:26	1	8	τῆς	ὁ	article, genitive feminine singular	1	of the
 2MA 2:26	1	9	ἐπιτομῆς	ἐπιτομή	noun, genitive feminine singular	1	abridgment
 2MA 2:26	1	10	οὐ	οὐ	negative particle	1	not
 2MA 2:26	1	11	ῥᾴδιον	ῥᾴδιος	adjective, nominative neuter singular	1	easy
-2MA 2:26	1	12	ἱδρῶτος	ἱδρώς	noun, genitive masculine singular	1	sweat
+2MA 2:26	1	12	ἱδρῶτος	ἱδρώς	noun, genitive masculine singular	1	of sweat
 2MA 2:26	1	13	δὲ	δέ	postpositive conjunction	1	but
 2MA 2:26	1	14	καὶ	καί	conjunction	1	and
 2MA 2:26	1	15	ἀγρυπνίας	ἀγρυπνία	noun, genitive feminine singular	1	sleeplessness
 2MA 2:26	1	16	τὸ	ὁ	article, accusative neuter singular	1	the
 2MA 2:26	1	17	πρᾶγμα	πρᾶγμα	noun, accusative neuter singular	1	thing
 2MA 2:27	1	1	καθάπερ	καθάπερ	comparative conjunction	1	just as
-2MA 2:27	1	2	τῷ	ὁ	article, dative masculine singular	1	the
-2MA 2:27	1	3	παρασκευάζοντι	παρασκευάζω	present active participle, dative masculine singular	1	preparing
+2MA 2:27	1	2	τῷ	ὁ	article, dative masculine singular	1	for the one
+2MA 2:27	1	3	παρασκευάζοντι	παρασκευάζω	present active participle, dative masculine singular	1	who prepares
 2MA 2:27	1	4	συμπόσιον	συμπόσιον	noun, accusative neuter singular	1	drinking party
 2MA 2:27	1	5	καὶ	καί	conjunction	1	and
 2MA 2:27	1	6	ζητοῦντι	ζητέω	present active participle, dative masculine singular	1	seeking
@@ -605,10 +605,10 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:28	1	1	Τὸ	ὁ	article, neuter singular (case from context)	1	the
 2MA 2:28	1	2	μὲν	μέν	particle, first member of μέν...δέ contrast	1	indeed
 2MA 2:28	1	3	διακριβοῦν	διακριβόω	present active infinitive	1	to investigate precisely
-2MA 2:28	1	4	περὶ	περί	preposition with the genitive	1	on account of
-2MA 2:28	1	4	περὶ			2	concerning
+2MA 2:28	1	4	περὶ	περί	preposition with the genitive	1	concerning
+2MA 2:28	1	4	περὶ			2	on account of
 2MA 2:28	1	5	ἑκάστων	ἕκαστος	adjective, genitive neuter plural	1	individual matters
-2MA 2:28	1	6	τῷ	ὁ	article, dative masculine singular	1	the
+2MA 2:28	1	6	τῷ	ὁ	article, dative masculine singular	1	to the
 2MA 2:28	1	7	συγγραφεῖ	συγγραφεύς	noun, dative masculine singular	1	author
 2MA 2:28	1	8	παραχωρήσαντες	παραχωρέω	aorist active participle, nominative masculine plural	1	having left
 2MA 2:28	1	9	τὸ	ὁ	article, nominative neuter singular	1	the
@@ -617,35 +617,35 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:28	1	11	ἐπιπορεύεσθαι			2	to pass over
 2MA 2:28	1	12	τοῖς	ὁ	article, dative masculine plural	1	the
 2MA 2:28	1	13	ὑπογραμμοῖς	ὑπογραμμός	noun, dative masculine plural	1	outlines
-2MA 2:28	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
+2MA 2:28	1	14	τῆς	ὁ	article, genitive feminine singular	1	of the
 2MA 2:28	1	15	ἐπιτομῆς	ἐπιτομή	noun, genitive feminine singular	1	abridgment
 2MA 2:28	1	16	διαπονοῦντες	διαπονέω	present active participle, nominative masculine plural	1	laboring
 2MA 2:29	1	1	Καθάπερ	καθάπερ	comparative conjunction	1	just as
 2MA 2:29	1	2	γὰρ	γάρ	conjunction	1	for
-2MA 2:29	1	3	τῆς	ὁ	article, genitive feminine singular	1	the
+2MA 2:29	1	3	τῆς	ὁ	article, genitive feminine singular	1	of the
 2MA 2:29	1	4	καινῆς	καινός	adjective, genitive feminine singular	1	new
 2MA 2:29	1	5	οἰκίας	οἰκία	noun, genitive feminine singular after τῆς; τῷ ἐπὶ τῆς οἰκίας 'the one over the house' (steward)	1	house
 2MA 2:29	1	6	ἀρχιτέκτονι	ἀρχιτέκτων	noun, dative masculine singular	1	master builder
 2MA 2:29	1	7	τῆς	ὁ	article, genitive feminine singular	1	the
-2MA 2:29	1	8	ὅλης	ὅλος	adjective, genitive feminine singular	1	all
+2MA 2:29	1	8	ὅλης	ὅλος	adjective, genitive feminine singular	1	whole
 2MA 2:29	1	9	καταβολῆς	καταβολή	noun, genitive feminine singular	1	foundation
 2MA 2:29	1	10	φροντιστέον	φροντιστέον	impersonal verbal adjective	1	one must attend
-2MA 2:29	1	11	τῷ	ὁ	article, dative masculine singular	1	the
+2MA 2:29	1	11	τῷ	ὁ	article, dative masculine singular	1	for the one
 2MA 2:29	1	12	δὲ	δέ	postpositive conjunction	1	and
 2MA 2:29	1	13	ἐγκαίειν	ἐγκαίω	present active infinitive	1	to paint in encaustic
 2MA 2:29	1	14	καὶ	καί	conjunction	1	and
 2MA 2:29	1	15	ζωγραφεῖν	ζωγραφέω	present active infinitive	1	to paint figures
-2MA 2:29	1	16	ἐπιχειροῦντι	ἐπιχειρέω	present active participle, dative masculine singular	1	undertaking
+2MA 2:29	1	16	ἐπιχειροῦντι	ἐπιχειρέω	present active participle, dative masculine singular	1	who undertakes
 2MA 2:29	1	17	τὰ	ὁ	article, accusative neuter plural	1	the
-2MA 2:29	1	18	ἐπιτήδεια	ἐπιτήδειος	adjective, accusative neuter plural	1	what was needed
+2MA 2:29	1	18	ἐπιτήδεια	ἐπιτήδειος	adjective, accusative neuter plural	1	things suitable
 2MA 2:29	1	19	πρὸς	πρός	preposition with the accusative	1	to
 2MA 2:29	1	20	διακόσμησιν	διακόσμησις	noun, accusative feminine singular	1	adornment
 2MA 2:29	1	21	ἐξεταστέον	ἐξεταστέον	impersonal verbal adjective	1	one must examine
 2MA 2:29	1	22	οὕτως	οὕτως	adverb	1	thus
 2MA 2:29	1	23	δοκῶ	δοκέω	present active indicative, first singular	1	I think
 2MA 2:29	1	24	καὶ	καί	conjunction	1	and
-2MA 2:29	1	25	ἐπὶ	ἐπί	preposition (case from context)	1	on
-2MA 2:29	1	26	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
+2MA 2:29	1	25	ἐπὶ	ἐπί	preposition (case from context)	1	with
+2MA 2:29	1	26	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	us
 2MA 2:30	1	1	Τὸ	ὁ	article, neuter singular (case from context)	1	the
 2MA 2:30	1	2	μὲν	μέν	particle, first member of μέν...δέ contrast	1	indeed
 2MA 2:30	1	3	ἐμβατεύειν	ἐμβατεύω	present active infinitive	1	to enter into detail
@@ -659,8 +659,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:30	1	11	ἐν	ἐν	preposition with the dative	1	in
 2MA 2:30	1	12	τοῖς	ὁ	article, dative neuter plural	1	the
 2MA 2:30	1	13	κατὰ	κατά	preposition with the accusative	1	according to
-2MA 2:30	1	14	μέρος	μέρος	noun, accusative neuter singular	1	the side
-2MA 2:30	1	15	τῷ	ὁ	article, dative masculine/neuter singular	1	the
+2MA 2:30	1	14	μέρος	μέρος	noun, accusative neuter singular	1	part
+2MA 2:30	1	15	τῷ	ὁ	article, dative masculine/neuter singular	1	to the
 2MA 2:30	1	16	τῆς	ὁ	article genitive feminine singular	1	of the
 2MA 2:30	1	17	ἱστορίας	ἱστορία	noun, genitive feminine singular	1	history
 2MA 2:30	1	18	ἀρχηγέτῃ	ἀρχηγέτης	noun, dative masculine singular	1	original author
@@ -674,7 +674,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:31	1	7	καὶ	καί	conjunction	1	and
 2MA 2:31	1	8	τὸ	ὁ	article, accusative neuter singular	1	the
 2MA 2:31	1	9	ἐξεργαστικὸν	ἐξεργαστικός	adjective, accusative neuter singular	1	elaborate treatment
-2MA 2:31	1	10	τῆς	ὁ	article, genitive feminine singular	1	the
+2MA 2:31	1	10	τῆς	ὁ	article, genitive feminine singular	1	of the
 2MA 2:31	1	11	πραγματείας	πραγματεία	noun, genitive feminine singular	1	work
 2MA 2:31	1	12	παραιτεῖσθαι	παραιτέομαι	present middle infinitive	1	to forgo
 2MA 2:31	1	13	τῷ	ὁ	article, dative masculine singular	1	to the one
@@ -687,7 +687,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 2:32	1	3	ἀρξώμεθα	ἄρχομαι	aorist middle subjunctive, first plural	1	let us begin
 2MA 2:32	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
 2MA 2:32	1	5	διηγήσεως	διήγησις	noun, genitive feminine singular	1	narrative
-2MA 2:32	1	6	τοῖς	ὁ	article, dative masculine plural	1	the
+2MA 2:32	1	6	τοῖς	ὁ	article, dative masculine plural	1	to the
 2MA 2:32	1	7	προειρημένοις	προλέγω	perfect passive participle, dative neuter plural	1	things said before
 2MA 2:32	1	8	τοσοῦτον	τοσοῦτος	adverb, accusative neuter singular	1	so much
 2MA 2:32	1	9	ἐπιζεύξαντες	ἐπιζεύγνυμι	aorist active participle, nominative masculine plural	1	having added
