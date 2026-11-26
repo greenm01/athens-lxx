@@ -14,7 +14,7 @@ The print sometimes tells readers how to find their place. In Sirach 30 a Latin 
 
 ## Downstream implementation
 
-The [Royal Way Bible](https://github.com/greenm01/rwb) uses this interlinear to draft its Old Testament. It reads the Athens Greek a clause at a time, uses the word glosses to check the sense, and links its English phrases to the Greek words. For appointed readings it also consults the Greek service books.
+The Royal Way Bible, a translation in progress, uses this interlinear to draft its Old Testament. It reads the Athens Greek a clause at a time, uses the word glosses to check the sense, and links its English phrases to the Greek words. For appointed readings it also consults the Greek service books.
 
 ## How a Greek Bible came from Moscow to Athens
 
