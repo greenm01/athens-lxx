@@ -43,7 +43,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:2	1	17	καὶ	καί	conjunction	1	and
 2SA 13:2	1	18	ἐν	ἐν	preposition with the dative	1	in
 2SA 13:2	1	19	ὀφθαλμοῖς	ὀφθαλμός	noun, dative masculine plural	1	the eyes
-2SA 13:2	1	20	Ἀμνὼν	Ἀμνών	indeclinable personal name, nominative in context	1	of Amnon
+2SA 13:2	1	20	Ἀμνὼν	Ἀμνών	indeclinable personal name, genitive in context	1	of Amnon
 2SA 13:2	1	21	τοῦ	ὁ	article, genitive neuter singular, introduces the infinitive	1	—
 2SA 13:2	1	22	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
 2SA 13:2	1	22	ποιῆσαι			2	to make
@@ -60,7 +60,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:3	1	9	Ἰωναδὰβ	Ἰωναδάβ	indeclinable personal name, nominative in context	1	Jonadab
 2SA 13:3	1	9	Ἰωναδὰβ			2	Ionadab
 2SA 13:3	1	10	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2SA 13:3	1	11	Σαμαὰ	Σαμαά	indeclinable place name, nominative in context	1	of Shimeah
+2SA 13:3	1	11	Σαμαὰ	Σαμαά	indeclinable place name, genitive in context	1	of Shimeah
 2SA 13:3	1	12	τοῦ	ὁ	article, genitive singular	1	the
 2SA 13:3	1	13	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
 2SA 13:3	1	14	Δαυίδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
@@ -207,7 +207,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:7	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
 2SA 13:7	1	14	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 2SA 13:7	1	14	οἶκον			2	household
-2SA 13:7	1	15	Ἀμνὼν	Ἀμνών	indeclinable personal name, nominative in context	1	of Amnon
+2SA 13:7	1	15	Ἀμνὼν	Ἀμνών	indeclinable personal name, genitive in context	1	of Amnon
 2SA 13:7	1	16	τοῦ	ὁ	article, genitive singular	1	the
 2SA 13:7	1	17	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
 2SA 13:7	1	18	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -224,7 +224,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:8	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 2SA 13:8	1	6	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 2SA 13:8	1	6	οἶκον			2	household
-2SA 13:8	1	7	Ἀμνὼν	Ἀμνών	indeclinable personal name, nominative in context	1	of Amnon
+2SA 13:8	1	7	Ἀμνὼν	Ἀμνών	indeclinable personal name, genitive in context	1	of Amnon
 2SA 13:8	1	8	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
 2SA 13:8	1	9	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 2SA 13:8	1	10	καὶ	καί	conjunction	1	and
@@ -629,7 +629,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:21	1	15	ἐλύπησε	λυπέω	aorist active indicative, third singular	1	he distressed
 2SA 13:21	1	16	τὸ	ὁ	article, accusative neuter singular	1	the
 2SA 13:21	1	17	πνεῦμα	πνεῦμα	noun, accusative neuter singular	1	spirit
-2SA 13:21	1	18	Ἀμνὼν	Ἀμνών	indeclinable personal name, nominative in context	1	of Amnon
+2SA 13:21	1	18	Ἀμνὼν	Ἀμνών	indeclinable personal name, genitive in context	1	of Amnon
 2SA 13:21	1	19	τοῦ	ὁ	article, genitive masculine singular	1	the
 2SA 13:21	1	20	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 2SA 13:21	1	21	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	1	his
@@ -833,7 +833,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:28	1	11	ἀγαθυνθῇ			2	is cheerful
 2SA 13:28	1	12	ἡ	ὁ	article, nominative feminine singular	1	the
 2SA 13:28	1	13	καρδία	καρδία	noun, nominative feminine singular	1	heart
-2SA 13:28	1	14	Ἀμνὼν	Ἀμνών	indeclinable personal name, nominative in context	1	of Amnon
+2SA 13:28	1	14	Ἀμνὼν	Ἀμνών	indeclinable personal name, genitive in context	1	of Amnon
 2SA 13:28	1	15	ἐν	ἐν	preposition with the dative	1	in
 2SA 13:28	1	16	τῷ	ὁ	article, dative masculine singular	1	the
 2SA 13:28	1	17	οἴνῳ	οἶνος	noun, dative masculine singular after ἐν	1	wine
@@ -957,9 +957,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:32	1	3	Ἰωναδὰβ	Ἰωναδάβ	indeclinable personal name, nominative in context	1	Jonadab
 2SA 13:32	1	3	Ἰωναδὰβ			2	Ionadab
 2SA 13:32	1	4	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-2SA 13:32	1	5	Σαμαὰ	Σαμαά	indeclinable place name, nominative in context	1	of Shimeah
+2SA 13:32	1	5	Σαμαὰ	Σαμαά	indeclinable place name, genitive in context	1	of Shimeah
 2SA 13:32	1	6	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
-2SA 13:32	1	7	Δαυὶδ	Δαυίδ	indeclinable personal name, accusative in context	1	of David
+2SA 13:32	1	7	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 2SA 13:32	1	8	καὶ	καί	conjunction	1	and
 2SA 13:32	1	9	εἶπε	λέγω	aorist active indicative, third singular	1	said
 2SA 13:32	1	10	μὴ	μή	negative particle introducing apprehension	1	not

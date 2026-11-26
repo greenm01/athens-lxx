@@ -18,7 +18,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 4:2	1	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	for him
 1KI 4:2	1	8	Ἀζαρίας	Ἀζαρίας	noun, nominative masculine singular	1	Azariah
 1KI 4:2	1	9	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-1KI 4:2	1	10	Σαδὼκ	Σαδώκ	indeclinable personal name, nominative in context	1	of Zadok
+1KI 4:2	1	10	Σαδὼκ	Σαδώκ	indeclinable personal name, genitive in context	1	of Zadok
 1KI 4:2	1	11	ὁ	ὁ	article, nominative masculine singular	1	the
 1KI 4:2	1	12	ἱερεύς	ἱερεύς	noun, nominative masculine singular	1	priest
 1KI 4:3	1	1	Ἐλιαρὲφ	Ἐλιαρέφ	indeclinable personal name	1	Elihoreph
@@ -71,7 +71,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 4:6	1	9	καὶ	καί	conjunction	1	and
 1KI 4:6	1	10	Ἐλιὰβ	Ἐλιάβ	indeclinable personal name, nominative in context	1	Eliab
 1KI 4:6	1	11	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-1KI 4:6	1	12	Σαφὰτ	Σαφάτ	indeclinable personal name, nominative in context	1	of Shaphat
+1KI 4:6	1	12	Σαφὰτ	Σαφάτ	indeclinable personal name, genitive in context	1	of Shaphat
 1KI 4:6	1	13	ἐπὶ	ἐπί	preposition governing the genitive	1	over
 1KI 4:6	1	14	τῆς	ὁ	article, genitive feminine singular	1	the
 1KI 4:6	1	15	πατριᾶς	πατριά	noun, genitive feminine singular	1	clan
@@ -191,7 +191,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 4:13	1	6	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 1KI 4:13	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
 1KI 4:13	1	8	Αὐὼθ	Αὐώθ	place name, accusative plural	1	Auoth
-1KI 4:13	1	9	Ἰαεὶρ	Ἰαείρ	personal name, nominative masculine singular	1	of Jair
+1KI 4:13	1	9	Ἰαεὶρ	Ἰαείρ	indeclinable personal name, genitive in context	1	of Jair
 1KI 4:13	1	10	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 1KI 4:13	1	11	Μανασσῆ	Μανασσῆς	noun, genitive masculine singular	1	of Manasseh
 1KI 4:13	1	12	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	1	of Gilead
@@ -227,7 +227,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 4:15	1	12	γυναῖκα	γυνή	noun, accusative feminine singular	1	wife
 1KI 4:16	1	1	Βαανᾶς	Βαανᾶς	noun, nominative masculine singular	1	Baanah
 1KI 4:16	1	2	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-1KI 4:16	1	3	Χουσεὶ	Χουσεί	indeclinable personal name, nominative in context	1	of Hushai
+1KI 4:16	1	3	Χουσεὶ	Χουσεί	indeclinable personal name, genitive in context	1	of Hushai
 1KI 4:16	1	4	ἐν	ἐν	preposition with the dative	1	in
 1KI 4:16	1	5	Ἀσὴρ	Ἀσήρ	indeclinable personal name, nominative in context	1	Asher
 1KI 4:16	1	6	καὶ	καί	conjunction	1	and

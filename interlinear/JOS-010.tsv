@@ -26,7 +26,7 @@ JOS 10:1	1	24	οὕτως	οὕτως	adverb	1	thus
 JOS 10:1	1	25	ἐποίησε	ποιέω	aorist active indicative, third singular	1	he did
 JOS 10:1	1	26	καὶ	καί	conjunction	1	and
 JOS 10:1	1	27	τὴν	ὁ	article, accusative feminine singular	1	—
-JOS 10:1	1	28	Γαῒ	Γαΐ	indeclinable place name, genitive in context	1	to Ai
+JOS 10:1	1	28	Γαῒ	Γαΐ	indeclinable place name, accusative in context	1	to Ai
 JOS 10:1	1	29	καὶ	καί	conjunction	1	and
 JOS 10:1	1	30	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 10:1	1	31	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
@@ -93,7 +93,7 @@ JOS 10:3	1	5	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place nam
 JOS 10:3	1	6	πρὸς	πρός	preposition with the accusative	1	to
 JOS 10:3	1	7	Αἰλὰμ	Αἰλάμ	indeclinable personal name, accusative in context	1	Ailam
 JOS 10:3	1	8	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
-JOS 10:3	1	9	Χεβρὼν	Χεβρών	indeclinable personal name, nominative in context	1	of Hebron
+JOS 10:3	1	9	Χεβρὼν	Χεβρών	indeclinable personal name, genitive in context	1	of Hebron
 JOS 10:3	1	10	καὶ	καί	conjunction	1	and
 JOS 10:3	1	11	πρὸς	πρός	preposition with accusative	1	to
 JOS 10:3	1	11	πρὸς			2	toward
@@ -150,7 +150,7 @@ JOS 10:5	1	10	βασιλεὺς	βασιλεύς	noun, nominative masculine sing
 JOS 10:5	1	11	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	of Jerusalem
 JOS 10:5	1	12	καὶ	καί	conjunction	1	and
 JOS 10:5	1	13	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
-JOS 10:5	1	14	Χεβρὼν	Χεβρών	indeclinable personal name, nominative in context	1	of Hebron
+JOS 10:5	1	14	Χεβρὼν	Χεβρών	indeclinable personal name, genitive in context	1	of Hebron
 JOS 10:5	1	15	καὶ	καί	conjunction	1	and
 JOS 10:5	1	16	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 JOS 10:5	1	17	Ἱεριμοὺθ	Ἱεριμούθ	indeclinable place name, genitive in context	1	of Jarmuth
@@ -673,7 +673,7 @@ JOS 10:23	1	17	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place n
 JOS 10:23	1	18	καὶ	καί	conjunction	1	and
 JOS 10:23	1	19	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 10:23	1	20	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
-JOS 10:23	1	21	Χεβρὼν	Χεβρών	indeclinable personal name, nominative in context	1	of Hebron
+JOS 10:23	1	21	Χεβρὼν	Χεβρών	indeclinable personal name, genitive in context	1	of Hebron
 JOS 10:23	1	22	καὶ	καί	conjunction	1	and
 JOS 10:23	1	23	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 10:23	1	24	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
@@ -1124,7 +1124,7 @@ JOS 10:37	1	30	ὃν	ὅς	relative pronoun, accusative masculine singular; with
 JOS 10:37	1	31	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	1	—
 JOS 10:37	1	32	ἐποίησαν	ποιέω	aorist active indicative, third plural	1	did
 JOS 10:37	1	33	τῇ	ὁ	article, dative feminine singular	1	—
-JOS 10:37	1	34	Ὀδολλὰμ	Ὀδολλάμ	indeclinable place name, genitive in context	1	to Adullam
+JOS 10:37	1	34	Ὀδολλὰμ	Ὀδολλάμ	indeclinable place name, dative in context	1	to Adullam
 JOS 10:37	1	34	Ὀδολλὰμ			2	Odollam
 JOS 10:37	1	35	ἐξωλόθρευσαν	ἐξολοθρεύω	aorist active indicative, third plural	1	they destroyed
 JOS 10:37	1	36	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	her
@@ -1186,7 +1186,7 @@ JOS 10:39	1	35	Χεβρὼ	Χεβρώ	indeclinable place name, case from constru
 JOS 10:39	1	36	οὕτως	οὕτως	adverb	1	thus
 JOS 10:39	1	37	ἐποίησαν	ποιέω	aorist active indicative, third person plural	1	they did
 JOS 10:39	1	38	τῇ	ὁ	article, dative feminine singular	1	—
-JOS 10:39	1	39	Δαβεὶρ	Δαβείρ	indeclinable personal name, accusative in context	1	to Debir
+JOS 10:39	1	39	Δαβεὶρ	Δαβείρ	indeclinable personal name, dative in context	1	to Debir
 JOS 10:39	1	40	καὶ	καί	conjunction	1	and
 JOS 10:39	1	41	τῷ	ὁ	article, dative masculine singular	1	to the
 JOS 10:39	1	42	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king

@@ -51,7 +51,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 20:2	1	3	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 1CH 20:2	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 20:2	1	5	στέφανον	στέφανος	noun, accusative masculine singular	1	crown
-1CH 20:2	1	6	Μολχὸμ	Μολχόμ	indeclinable personal name, nominative in context	1	of Molchom
+1CH 20:2	1	6	Μολχὸμ	Μολχόμ	indeclinable personal name, genitive in context	1	of Molchom
 1CH 20:2	1	6	Μολχὸμ			2	of Milcom
 1CH 20:2	1	7	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 1CH 20:2	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -76,7 +76,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 20:2	1	27	ἐπὶ	ἐπί	preposition	1	on
 1CH 20:2	1	28	τὴν	ὁ	article, accusative feminine singular	1	the
 1CH 20:2	1	29	κεφαλὴν	κεφαλή	noun, accusative feminine singular after ἐπὶ τὴν	1	head
-1CH 20:2	1	30	Δαυίδ	Δαυίδ	indeclinable personal name, nominative in context	1	of David
+1CH 20:2	1	30	Δαυίδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 1CH 20:2	1	31	καὶ	καί	conjunction	1	and
 1CH 20:2	1	32	σκῦλα	προνομή	noun, accusative feminine singular	1	spoils
 1CH 20:2	1	33	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -170,12 +170,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 20:5	1	9	ἐπάταξεν			2	struck down
 1CH 20:5	1	10	Ἐλεανὰν	Ἐλεανάν	indeclinable personal name, nominative in context	1	Elhanan
 1CH 20:5	1	11	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-1CH 20:5	1	12	Ἰαεὶρ	Ἰαείρ	personal name, nominative masculine singular	1	of Jair
+1CH 20:5	1	12	Ἰαεὶρ	Ἰαείρ	indeclinable personal name, genitive in context	1	of Jair
 1CH 20:5	1	13	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 20:5	1	14	Λεεμεὶ	Λεεμεί	indeclinable personal name, accusative in context	1	Lahmi
 1CH 20:5	1	14	Λεεμεὶ			2	Leemei
 1CH 20:5	1	15	ἀδελφὸν	ἀδελφός	noun, accusative masculine singular after τὸν	1	brother
-1CH 20:5	1	16	Γολιὰθ	Γολιάθ	indeclinable personal name, nominative in context	1	of Goliath
+1CH 20:5	1	16	Γολιὰθ	Γολιάθ	indeclinable personal name, genitive in context	1	of Goliath
 1CH 20:5	1	17	τοῦ	ὁ	article, genitive masculine singular	1	the
 1CH 20:5	1	18	Γεθθαίου	Γεθθαῖος	noun, genitive masculine singular	1	Gittite
 1CH 20:5	1	19	καὶ	καί	conjunction	1	and
@@ -240,7 +240,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 20:8	1	12	ἔπεσαν	πίπτω	aorist active indicative, 3rd pl.	1	fell
 1CH 20:8	1	13	ἐν	ἐν	preposition with the dative	1	by
 1CH 20:8	1	14	χειρὶ	χείρ	noun, dative feminine singular	1	the hand
-1CH 20:8	1	15	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	of David
+1CH 20:8	1	15	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 1CH 20:8	1	16	καὶ	καί	conjunction	1	and
 1CH 20:8	1	17	ἐν	ἐν	preposition with the dative	1	by
 1CH 20:8	1	18	χειρὶ	χείρ	noun, dative feminine singular	1	the hand

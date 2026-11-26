@@ -510,7 +510,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 1:43	1	13	βασιλέα	βασιλεύς	noun, accusative masculine singular, subject of βασιλεῦσαι	1	a king
 1CH 1:43	1	14	τοῖς	ὁ	article, dative neuter plural	1	over the
 1CH 1:43	1	15	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
-1CH 1:43	1	16	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
+1CH 1:43	1	16	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 1CH 1:43	1	17	Βαλὰκ	Βαλάκ	indeclinable personal name, nominative in context	1	Balak
 1CH 1:43	1	18	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 1CH 1:43	1	19	Βαιώρ	Βαιώρ	indeclinable personal name, genitive in context	1	of Beor
@@ -633,7 +633,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 1:51	1	4	καὶ	καί	conjunction	1	and
 1CH 1:51	1	5	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
 1CH 1:51	1	6	ἡγεμόνες	ἡγεμών	noun, nominative masculine plural	1	chiefs
-1CH 1:51	1	7	Ἐδώμ	Ἐδώμ	indeclinable place name, nominative in context	1	of Edom
+1CH 1:51	1	7	Ἐδώμ	Ἐδώμ	indeclinable place name, genitive in context	1	of Edom
 1CH 1:51	1	8	ἡγεμὼν	ἡγεμών	noun, nominative masculine singular, in apposition to the following name	1	chief
 1CH 1:51	1	9	Θαμνὰ	Θαμνά	indeclinable personal name, nominative in context	1	Timnah
 1CH 1:51	1	10	ἡγεμὼν	ἡγεμών	noun, nominative masculine singular, in apposition to the following name	1	chief
@@ -658,4 +658,4 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 1:54	1	4	Ἠράμ	Ἠράμ	indeclinable personal name, nominative in context	1	Eram
 1CH 1:54	1	5	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 1CH 1:54	1	6	ἡγεμόνες	ἡγεμών	noun, nominative masculine plural	1	chiefs
-1CH 1:54	1	7	Ἐδώμ	Ἐδώμ	indeclinable place name, nominative in context	1	of Edom
+1CH 1:54	1	7	Ἐδώμ	Ἐδώμ	indeclinable place name, genitive in context	1	of Edom

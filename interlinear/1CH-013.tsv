@@ -16,7 +16,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 13:2	1	4	τῇ	ὁ	article, dative feminine singular	1	to the
 1CH 13:2	1	5	πάσῃ	πᾶς	adjective, dative feminine singular with γῇ	1	all
 1CH 13:2	1	6	ἐκκλησίᾳ	ἐκκλησία	noun, dative feminine singular	1	assembly
-1CH 13:2	1	7	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
+1CH 13:2	1	7	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 1CH 13:2	1	8	εἰ	εἰ	conditional conjunction	1	if
 1CH 13:2	1	9	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	with
 1CH 13:2	1	10	ὑμῖν	σύ	pronoun, dative second plural	1	you
@@ -68,7 +68,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 13:3	1	13	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 1CH 13:3	1	14	ἀφ᾽	ἀπό	preposition with the genitive, elided	1	from
 1CH 13:3	1	15	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	1	days
-1CH 13:3	1	16	Σαούλ	Σαούλ	indeclinable personal name, nominative in context	1	of Saul
+1CH 13:3	1	16	Σαούλ	Σαούλ	indeclinable personal name, genitive in context	1	of Saul
 1CH 13:4	1	1	Καὶ	καί	conjunction	1	and
 1CH 13:4	1	2	εἶπε	λέγω	aorist active indicative, third singular	1	said
 1CH 13:4	1	3	πᾶσα	πᾶς	adjective, nominative feminine singular modifying ἐκκλησία	1	all
@@ -306,13 +306,13 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 13:13	1	9	εἰς	εἰς	preposition with the accusative	1	into
 1CH 13:13	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 1CH 13:13	1	11	πόλιν	πόλις	noun, accusative feminine singular	1	city
-1CH 13:13	1	12	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	of David
+1CH 13:13	1	12	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 1CH 13:13	1	13	καὶ	καί	conjunction	1	and
 1CH 13:13	1	14	ἐξέκλινεν	ἐκκλίνω	aorist active indicative, third singular	1	turned aside
 1CH 13:13	1	15	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 1CH 13:13	1	16	εἰς	εἰς	preposition with the accusative	1	into
 1CH 13:13	1	17	οἶκον	οἶκος	noun, accusative masculine singular	1	the house
-1CH 13:13	1	18	Ἀβεδδαρὰ	Ἀβεδδαρά	indeclinable personal name, nominative in context	1	of Obed-edom
+1CH 13:13	1	18	Ἀβεδδαρὰ	Ἀβεδδαρά	indeclinable personal name, genitive in context	1	of Obed-edom
 1CH 13:13	1	18	Ἀβεδδαρὰ			2	of Abeddara
 1CH 13:13	1	19	τοῦ	ὁ	article, genitive masculine singular	1	the
 1CH 13:13	1	20	Γεθαίου	Γεθαίου	indeclinable personal name, genitive in context	1	Gittite
@@ -326,7 +326,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 13:14	1	7	ἐν	ἐν	preposition with dative	1	in
 1CH 13:14	1	8	οἴκῳ	οἶκος	noun, dative masculine singular	1	the house
 1CH 13:14	1	8	οἴκῳ			2	a house
-1CH 13:14	1	9	Ἀβεδδαρὰ	Ἀβεδδαρά	indeclinable personal name, nominative in context	1	of Abeddara
+1CH 13:14	1	9	Ἀβεδδαρὰ	Ἀβεδδαρά	indeclinable personal name, genitive in context	1	of Abeddara
 1CH 13:14	1	9	Ἀβεδδαρὰ			2	of Obed-edom
 1CH 13:14	1	10	τρεῖς	τρεῖς	cardinal numeral, nominative plural (gender from context)	1	three
 1CH 13:14	1	11	μῆνας	μήν	noun, accusative masculine plural	1	months

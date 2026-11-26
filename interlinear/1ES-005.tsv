@@ -96,9 +96,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 5:5	1	2	ἱερεῖς	ἱερεύς	noun, nominative masculine plural	1	priests
 1ES 5:5	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
 1ES 5:5	1	4	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-1ES 5:5	1	5	Φινεὲς	Φινεές	indeclinable personal name, accusative in context	1	of Phinehas
+1ES 5:5	1	5	Φινεὲς	Φινεές	indeclinable personal name, genitive in context	1	of Phinehas
 1ES 5:5	1	6	υἱοὶ	υἱός	noun, nominative masculine plural; in genealogies also descendants	1	sons
-1ES 5:5	1	7	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, nominative in context	1	of Aaron
+1ES 5:5	1	7	Ἀαρὼν	Ἀαρὼν	indeclinable personal name, genitive in context	1	of Aaron
 1ES 5:5	1	8	Ἰησοῦς	Ἰησοῦς	noun, nominative masculine singular; proper	1	Jeshua
 1ES 5:5	1	9	ὁ	ὁ	article, nominative masculine singular; used to indicate descent, son	1	—
 1ES 5:5	1	10	τοῦ	ὁ	article, genitive masculine singular	1	of
@@ -124,7 +124,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 5:5	1	26	ἐκ	ἐκ	preposition with the genitive	1	from
 1ES 5:5	1	27	τῆς	ὁ	article, genitive feminine singular	1	the
 1ES 5:5	1	28	γενεᾶς	γενεά	noun genitive feminine singular	1	generation
-1ES 5:5	1	29	Φαρὲς	Φαρές	indeclinable personal name, nominative in context	1	of Perez
+1ES 5:5	1	29	Φαρὲς	Φαρές	indeclinable personal name, genitive in context	1	of Perez
 1ES 5:5	1	30	φυλῆς	φυλή	noun, genitive feminine singular	1	of the tribe
 1ES 5:5	1	31	δὲ	δέ	postpositive conjunction	1	and
 1ES 5:5	1	32	Ἰούδα	Ἰούδας	personal name, genitive masculine singular	1	of Judah
@@ -240,7 +240,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 5:11	1	6	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
 1ES 5:11	1	7	Ἰησοῦ	Ἰησοῦς	noun, genitive masculine singular; proper	1	of Jeshua
 1ES 5:11	1	8	καὶ	καί	conjunction	1	and
-1ES 5:11	1	9	Ἰωὰβ	Ἰωάβ	indeclinable personal name, nominative in context	1	of Joab
+1ES 5:11	1	9	Ἰωὰβ	Ἰωάβ	indeclinable personal name, genitive in context	1	of Joab
 1ES 5:11	1	10	δισχίλιοι	δισχίλιοι	cardinal numeral, nominative masculine plural	1	two thousand
 1ES 5:11	1	11	ὀκτακόσιοι	ὀκτακόσιοι	adjective, nominative masculine plural	1	eight hundred
 1ES 5:11	1	12	δεκαδύο	δεκαδύο	indeclinable cardinal numeral	1	twelve
@@ -458,7 +458,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 5:29	1	9	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 1ES 5:29	1	10	Κηρὰς	Κηράς	indeclinable personal name, genitive in context	1	of Keros
 1ES 5:29	1	11	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-1ES 5:29	1	12	Σουσὰ	Σουσά	indeclinable place name, accusative in context	1	of Sousa
+1ES 5:29	1	12	Σουσὰ	Σουσά	indeclinable place name, genitive in context	1	of Sousa
 1ES 5:29	1	13	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 1ES 5:29	1	14	Φαλαίου	Φαλαῖος	noun, genitive masculine singular	1	of Phalaeus
 1ES 5:29	1	15	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
@@ -570,7 +570,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 5:34	1	21	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 1ES 5:34	1	22	Σαφὰτ	Σαφάτ	indeclinable personal name, genitive in context	1	of Shaphat
 1ES 5:34	1	23	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-1ES 5:34	1	24	Ἀλλών	Ἀλλών	indeclinable personal name, nominative in context	1	of Allon
+1ES 5:34	1	24	Ἀλλών	Ἀλλών	indeclinable personal name, genitive in context	1	of Allon
 1ES 5:35	1	1	Πάντες	πᾶς	adjective, nominative masculine plural	1	all
 1ES 5:35	1	2	οἱ	ὁ	article, nominative masculine plural	1	the
 1ES 5:35	1	3	ἱερόδουλοι	ἱερόδουλος	noun, nominative masculine plural	1	temple servants

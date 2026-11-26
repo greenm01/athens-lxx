@@ -3,9 +3,9 @@ NUM 16:1	1	1	ΚΑΙ	καί	conjunction	1	and
 NUM 16:1	1	2	ἐλάλησε	λαλέω	aorist active indicative, third singular	1	spoke
 NUM 16:1	1	3	Κορὲ	Κορέ	indeclinable personal name, nominative in context	1	Korah
 NUM 16:1	1	4	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-NUM 16:1	1	5	Ἰσσαὰρ	Ἰσσαάρ	indeclinable personal name, nominative in context	1	of Izhar
+NUM 16:1	1	5	Ἰσσαὰρ	Ἰσσαάρ	indeclinable personal name, genitive in context	1	of Izhar
 NUM 16:1	1	6	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-NUM 16:1	1	7	Καὰθ	Καάθ	indeclinable personal name, nominative in context	1	of Kohath
+NUM 16:1	1	7	Καὰθ	Καάθ	indeclinable personal name, genitive in context	1	of Kohath
 NUM 16:1	1	8	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
 NUM 16:1	1	9	Λευὶ	Λευί	indeclinable personal name, genitive in context	1	of Levi
 NUM 16:1	1	10	καὶ	καί	conjunction	1	and
@@ -13,18 +13,18 @@ NUM 16:1	1	11	Δαθὰν	Δαθάν	indeclinable personal name, case from const
 NUM 16:1	1	12	καὶ	καί	conjunction	1	and
 NUM 16:1	1	13	Ἀβειρὼν	Ἀβειρών	indeclinable personal name, case from construction	1	Abiram
 NUM 16:1	1	14	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-NUM 16:1	1	15	Ἐλιὰβ	Ἐλιάβ	indeclinable personal name, nominative in context	1	of Eliab
+NUM 16:1	1	15	Ἐλιὰβ	Ἐλιάβ	indeclinable personal name, genitive in context	1	of Eliab
 NUM 16:1	1	16	καὶ	καί	conjunction	1	and
 NUM 16:1	1	17	Αὐνὰν	Αὐνάν	indeclinable personal name, nominative in context	1	On
 NUM 16:1	1	18	υἱὸς	υἱός	noun, nominative masculine singular	1	son
 NUM 16:1	1	19	Φαλὲθ	Φαλέθ	indeclinable personal name, genitive in context	1	of Peleth
 NUM 16:1	1	20	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-NUM 16:1	1	21	Ῥουβήν	Ῥουβήν	indeclinable personal name, nominative in context	1	of Reuben
+NUM 16:1	1	21	Ῥουβήν	Ῥουβήν	indeclinable personal name, genitive in context	1	of Reuben
 NUM 16:2	1	1	καὶ	καί	conjunction	1	and
 NUM 16:2	1	2	ἀνέστησαν	ἀνίστημι	aorist active indicative, third plural	1	they rose up
 NUM 16:2	1	3	ἔναντι	ἔναντι	improper preposition with genitive	1	before
 NUM 16:2	1	3	ἔναντι			2	in the presence of
-NUM 16:2	1	4	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	Moses
+NUM 16:2	1	4	Μωυσῆ	Μωυσῆς	personal name, genitive masculine singular	1	Moses
 NUM 16:2	1	5	καὶ	καί	conjunction	1	and
 NUM 16:2	1	6	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
 NUM 16:2	1	7	τῶν	ὁ	article, genitive plural	1	of the
@@ -181,7 +181,7 @@ NUM 16:9	1	10	Θεὸς	θεός	noun, nominative masculine singular	1	God
 NUM 16:9	1	11	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 16:9	1	12	ἐκ	ἐκ	preposition with the genitive	1	from
 NUM 16:9	1	13	συναγωγῆς	συναγωγή	noun, genitive fem. sg.	1	congregation
-NUM 16:9	1	14	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, nominative in context	1	of Israel
+NUM 16:9	1	14	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 NUM 16:9	1	15	καὶ	καί	conjunction	1	and
 NUM 16:9	1	16	προσηγάγετο	προσάγω	aorist middle indicative, third singular	1	brought forward
 NUM 16:9	1	17	ὑμᾶς	ὑμεῖς	pronoun, accusative second plural	1	you
@@ -907,7 +907,7 @@ NUM 16:40	1	32	ἐλάλησε	λαλέω	aorist active indicative, third singul
 NUM 16:40	1	33	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 NUM 16:40	1	34	ἐν	ἐν	preposition with the dative	1	by
 NUM 16:40	1	35	χειρὶ	χείρ	noun, dative feminine singular	1	hand
-NUM 16:40	1	36	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	Moses
+NUM 16:40	1	36	Μωυσῆ	Μωυσῆς	personal name, genitive masculine singular	1	of Moses
 NUM 16:40	1	37	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 NUM 16:41	1	1	Καὶ	καί	conjunction	1	and
 NUM 16:41	1	2	ἐγόγγυσαν	γογγύζω	aorist active indicative, third plural	1	they grumbled

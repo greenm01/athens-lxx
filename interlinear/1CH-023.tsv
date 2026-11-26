@@ -21,7 +21,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 23:2	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
 1CH 23:2	1	5	ἄρχοντας	ἄρχων	noun, accusative masculine plural	1	rulers
 1CH 23:2	1	5	ἄρχοντας			2	chiefs
-1CH 23:2	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
+1CH 23:2	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 1CH 23:2	1	7	καὶ	καί	conjunction	1	and
 1CH 23:2	1	8	τοὺς	ὁ	article, accusative masculine plural	1	the
 1CH 23:2	1	9	ἱερεῖς	ἱερεύς	noun, accusative masculine plural	1	priests
@@ -236,7 +236,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 23:14	1	11	τοῦ	ὁ	article, genitive feminine singular	1	of
 1CH 23:14	1	12	Λευί	Λευί	indeclinable personal name, genitive in context	1	Levi
 1CH 23:15	1	1	Υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-1CH 23:15	1	2	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	of Moses
+1CH 23:15	1	2	Μωυσῆ	Μωυσῆς	personal name, genitive masculine singular	1	of Moses
 1CH 23:15	1	3	Γηρσὰμ	Γηρσάμ	indeclinable personal name, nominative in context	1	Gershom
 1CH 23:15	1	4	καὶ	καί	conjunction	1	and
 1CH 23:15	1	5	Ἐλιέζερ	Ἐλιέζερ	indeclinable personal name, nominative in context	1	Eliezer
@@ -384,7 +384,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 23:25	1	5	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 1CH 23:25	1	6	ὁ	ὁ	article nominative masculine singular	1	the
 1CH 23:25	1	7	Θεὸς	θεός	noun nominative masculine singular	1	God
-1CH 23:25	1	8	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
+1CH 23:25	1	8	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 1CH 23:25	1	9	τῷ	ὁ	article, dative masculine singular	1	to the
 1CH 23:25	1	10	λαῷ	λαός	noun, dative masculine singular	1	people
 1CH 23:25	1	11	αὐτοῦ	αὐτός	pronoun genitive masculine singular	1	his
@@ -416,7 +416,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 23:27	1	2	ἐν	ἐν	preposition with the dative	1	in
 1CH 23:27	1	3	τοῖς	ὁ	article, dative masculine plural	1	the
 1CH 23:27	1	4	λόγοις	λόγος	noun, dative masculine plural	1	words
-1CH 23:27	1	5	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	of David
+1CH 23:27	1	5	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 1CH 23:27	1	6	τοῖς	ὁ	article, dative neuter plural	1	the
 1CH 23:27	1	7	ἐσχάτοις	ἔσχατος	adjective, dative masculine plural	1	last
 1CH 23:27	1	8	ἐστὶν	εἰμί	present indicative, third singular	1	is
@@ -436,7 +436,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 23:28	1	3	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 1CH 23:28	1	4	ἐπὶ	ἐπί	preposition governing the accusative	1	at
 1CH 23:28	1	5	χεῖρα	χείρ	noun, accusative feminine singular	1	the hand
-1CH 23:28	1	6	Ἀαρὼν	Ἀαρών	indeclinable personal name, nominative in context	1	of Aaron
+1CH 23:28	1	6	Ἀαρὼν	Ἀαρών	indeclinable personal name, genitive in context	1	of Aaron
 1CH 23:28	1	7	τοῦ	ὁ	article, genitive singular	1	—
 1CH 23:28	1	8	λειτουργεῖν	λειτουργέω	present active infinitive governed by τοῦ	1	to minister
 1CH 23:28	1	9	ἐν	ἐν	preposition with the dative	1	in
@@ -470,7 +470,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 23:29	1	3	τοὺς	ὁ	article, accusative masculine plural	1	the
 1CH 23:29	1	4	ἄρτους	ἄρτος	noun, accusative masc. pl.	1	bread
 1CH 23:29	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
-1CH 23:29	1	6	προθέσεως	πρόθεσις	noun, genitive fem. sg. after τῆς in ἄρτους τῆς προθέσεως 'bread of setting-before	1	presentation
+1CH 23:29	1	6	προθέσεως	πρόθεσις	noun, genitive feminine singular	1	presentation
 1CH 23:29	1	7	καὶ	καί	conjunction	1	and
 1CH 23:29	1	8	εἰς	εἰς	preposition with the accusative	1	for
 1CH 23:29	1	9	τὴν	ὁ	article, accusative feminine singular	1	the

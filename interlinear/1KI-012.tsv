@@ -56,7 +56,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 12:3	1	10	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
 1KI 12:3	1	11	ἡ	ὁ	article, nominative feminine singular	1	the
 1KI 12:3	1	12	ἐκκλησία	ἐκκλησία	noun, nominative feminine singular	1	assembly
-1KI 12:3	1	13	Ἰσραήλ	Ἰσραὴλ	indeclinable personal name, nominative in context	1	of Israel
+1KI 12:3	1	13	Ἰσραήλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 1KI 12:3	1	14	Καὶ	καί	conjunction	1	and
 1KI 12:3	1	15	ἐλάλησεν	λαλέω	aorist active indicative, third singular	1	spoke
 1KI 12:3	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -421,7 +421,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 12:15	1	20	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 1KI 12:15	1	21	ἐν	ἐν	preposition with the dative	1	by
 1KI 12:15	1	22	χειρὶ	χείρ	noun, dative feminine singular	1	the hand
-1KI 12:15	1	23	Ἀχιὰ	Ἀχιά	indeclinable personal name, nominative in context	1	of Ahijah
+1KI 12:15	1	23	Ἀχιὰ	Ἀχιά	indeclinable personal name, genitive in context	1	of Ahijah
 1KI 12:15	1	24	τοῦ	ὁ	article, genitive singular	1	the
 1KI 12:15	1	25	Σηλωνίτου	Σηλωνίτης	noun, genitive masculine singular	1	Shilonite
 1KI 12:15	1	26	περὶ	περί	preposition with genitive	1	concerning
@@ -492,7 +492,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 12:17	1	6	ἐν	ἐν	preposition with the dative	1	in
 1KI 12:17	1	7	πόλεσιν	πόλις	noun, dative feminine plural	1	cities
 1KI 12:17	1	7	πόλεσιν			2	towns
-1KI 12:17	1	8	Ἰούδα	Ἰούδας	indeclinable personal name, dative in context	1	of Judah
+1KI 12:17	1	8	Ἰούδα	Ἰούδας	indeclinable personal name, genitive in context	1	of Judah
 1KI 12:17	1	9	καὶ	καί	conjunction	1	and
 1KI 12:17	1	10	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	reigned
 1KI 12:17	1	11	ἐπ	ἐπί	preposition with the genitive	1	over
@@ -578,9 +578,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 12:20	1	29	πάρεξ	πάρεξ	preposition with genitive	1	besides
 1KI 12:20	1	29	πάρεξ			2	apart from
 1KI 12:20	1	30	σκήπτρου	σκῆπτρον	noun, genitive neuter singular	1	tribe
-1KI 12:20	1	31	Ἰούδα	Ἰούδας	indeclinable personal name, dative in context	1	of Judah
+1KI 12:20	1	31	Ἰούδα	Ἰούδας	indeclinable personal name, genitive in context	1	of Judah
 1KI 12:20	1	32	καὶ	καί	conjunction	1	and
-1KI 12:20	1	33	Βενιαμεὶν	Βενιαμείν	indeclinable personal name, dative in context	1	of Benjamin
+1KI 12:20	1	33	Βενιαμεὶν	Βενιαμείν	indeclinable personal name, genitive in context	1	of Benjamin
 1KI 12:20	1	34	μόνοι	μόνος	adjective, nominative masculine plural	1	alone
 1KI 12:21	1	1	Καὶ	καί	conjunction	1	and
 1KI 12:21	1	2	Ῥοβοὰμ	Ῥοβοάμ	indeclinable personal name, genitive in context	1	Rehoboam
@@ -594,7 +594,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 12:21	1	10	Ἰούδα	Ἰούδας	indeclinable national name, genitive in context	1	of Judah
 1KI 12:21	1	11	καὶ	καί	conjunction	1	and
 1KI 12:21	1	12	σκῆπτρον	σκῆπτρον	noun, nominative neuter singular	1	the tribe
-1KI 12:21	1	13	Βενιαμὶν	Βενιαμίν	indeclinable personal name, nominative in context	1	of Benjamin
+1KI 12:21	1	13	Βενιαμὶν	Βενιαμίν	indeclinable personal name, genitive in context	1	of Benjamin
 1KI 12:21	1	14	ἑκατὸν	ἑκατόν	indeclinable cardinal numeral	1	one hundred
 1KI 12:21	1	15	ὀγδοήκοντα	ὀγδοήκοντα	indeclinable cardinal numeral	1	eighty
 1KI 12:21	1	16	χιλιάδας	χιλιάς	noun, accusative feminine plural	1	thousand
@@ -610,7 +610,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 12:21	1	25	ἐπιστρέψαι	ἐπιστρέφω	aorist active infinitive	1	to return
 1KI 12:21	1	26	τὴν	ὁ	article, accusative feminine singular	1	the
 1KI 12:21	1	27	βασιλείαν	βασιλεία	noun, accusative feminine singular	1	kingdom
-1KI 12:21	1	28	Ῥοβοὰμ	Ῥοβοάμ	indeclinable personal name, genitive in context	1	to Rehoboam
+1KI 12:21	1	28	Ῥοβοὰμ	Ῥοβοάμ	indeclinable personal name, dative in context	1	to Rehoboam
 1KI 12:21	1	28	Ῥοβοὰμ			2	of Roboam
 1KI 12:21	1	29	υἱῷ	υἱός	noun, dative masculine singular	1	son
 1KI 12:21	1	30	Σαλωμών	Σαλωμών	indeclinable personal name, genitive in context	1	of Solomon
@@ -874,7 +874,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 12:32	1	19	τὴν	ὁ	article, accusative feminine singular	1	the
 1KI 12:32	1	20	ἐν	ἐν	preposition with the dative	1	in
 1KI 12:32	1	21	γῇ	γῆ	noun, dative feminine singular after ἐν	1	land
-1KI 12:32	1	22	Ἰούδα	Ἰούδας	indeclinable personal name, dative in context	1	of Judah
+1KI 12:32	1	22	Ἰούδα	Ἰούδας	indeclinable personal name, genitive in context	1	of Judah
 1KI 12:32	1	23	καὶ	καί	conjunction	1	and
 1KI 12:32	1	24	ἀνέβη	ἀναβαίνω	aorist active indicative, 3rd sg.	1	came up
 1KI 12:32	1	25	ἐπὶ	ἐπί	preposition with the accusative	1	upon

@@ -34,7 +34,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 8:1	1	31	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
 1KI 8:1	1	32	ἐκ	ἐκ	preposition with the genitive	1	from
 1KI 8:1	1	33	πόλεως	πόλις	noun, genitive feminine singular	1	the city
-1KI 8:1	1	34	Δαυίδ	Δαυίδ	indeclinable personal name, nominative in context	1	of David
+1KI 8:1	1	34	Δαυίδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 1KI 8:1	1	35	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 1KI 8:1	1	36	ἐστὶ	εἰμί	present indicative, third singular	1	is
 1KI 8:1	1	37	Σιών	Σιών	indeclinable place name, genitive in context	1	Zion
@@ -110,7 +110,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 8:5	1	5	καὶ	καί	conjunction	1	and
 1KI 8:5	1	6	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
 1KI 8:5	1	7	συναγωγὴ	συναγωγή	noun, nominative feminine singular	1	the congregation
-1KI 8:5	1	8	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
+1KI 8:5	1	8	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 1KI 8:5	1	9	οἱ	ὁ	article, nominative masculine plural	1	those
 1KI 8:5	1	10	συντεταγμένοι	συντάσσω	perfect passive participle, nominative masculine plural	1	assembled
 1KI 8:5	1	11	ἐπ᾽	ἐπί	preposition with the accusative	1	around
@@ -312,7 +312,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 8:14	1	14	καὶ	καί	conjunction	1	and
 1KI 8:14	1	15	πᾶσα	πᾶς	adjective, nominative feminine singular	1	all
 1KI 8:14	1	16	ἐκκλησία	ἐκκλησία	noun, nominative feminine singular	1	assembly
-1KI 8:14	1	17	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
+1KI 8:14	1	17	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 1KI 8:14	1	18	εἱστήκει	ἵστημι	pluperfect active indicative, 3rd sg.	1	was standing
 1KI 8:15	1	1	Καὶ	καί	conjunction	1	and
 1KI 8:15	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
@@ -1493,7 +1493,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 8:53	1	15	ἐλάλησας	λαλέω	aorist active indicative, second singular	1	you spoke
 1KI 8:53	1	16	ἐν	ἐν	preposition with the dative	1	by
 1KI 8:53	1	17	χειρὶ	χείρ	noun, dative feminine singular after ἐν, idiom 'by the hand of' = through	1	the hand
-1KI 8:53	1	18	Μωσῆ	Μωσῆς	proper name, dative masculine singular	1	of Moses
+1KI 8:53	1	18	Μωσῆ	Μωσῆς	personal name, genitive masculine singular	1	of Moses
 1KI 8:53	1	19	δούλου	δοῦλος	noun, genitive masculine singular	1	the servant
 1KI 8:53	1	20	σου	σύ	pronoun, possessive genitive second singular	1	your
 1KI 8:53	1	21	ἐν	ἐν	preposition with dative	1	when
@@ -1593,7 +1593,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 8:55	1	4	εὐλόγησε	εὐλογέω	aorist active indicative, third singular	1	blessed
 1KI 8:55	1	5	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 1KI 8:55	1	6	ἐκκλησίαν	ἐκκλησία	noun, accusative feminine singular	1	the assembly
-1KI 8:55	1	7	Ἰσραὴλ	Ἰσραὴλ	indeclinable people name, nominative in context	1	of Israel
+1KI 8:55	1	7	Ἰσραὴλ	Ἰσραὴλ	indeclinable people name, genitive in context	1	of Israel
 1KI 8:55	1	8	φωνῇ	φωνή	noun, dative feminine singular, instrumental	1	with a voice
 1KI 8:55	1	9	μεγάλῃ	μέγας	adjective, dative feminine singular modifying φωνῇ	1	great
 1KI 8:55	1	10	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
@@ -1627,7 +1627,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 8:56	1	27	ἐλάλησεν	λαλέω	aorist active indicative, third singular	1	spoke
 1KI 8:56	1	28	ἐν	ἐν	preposition with the dative	1	by
 1KI 8:56	1	29	χειρὶ	χείρ	noun, dative feminine singular after ἐν, idiom 'by the hand of' = through	1	the hand
-1KI 8:56	1	30	Μωσῆ	Μωσῆς	proper name, dative masculine singular	1	of Moses
+1KI 8:56	1	30	Μωσῆ	Μωσῆς	personal name, genitive masculine singular	1	of Moses
 1KI 8:56	1	31	δούλου	δοῦλος	noun, genitive masculine singular	1	the servant
 1KI 8:56	1	32	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 1KI 8:57	1	1	Γένοιτο	γίνομαι	aorist middle optative, third singular in μὴ γένοιτο 'far be it'	1	may be

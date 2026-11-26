@@ -4,7 +4,7 @@ EXO 18:1	1	2	δὲ	δέ	conjunction	1	and
 EXO 18:1	1	3	Ἰοθὸρ	Ἰοθόρ	personal name, nominative masculine singular	1	Jethro
 EXO 18:1	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 EXO 18:1	1	5	γαμβρὸς	γαμβρός	noun, nominative masc. sg. after ὁ, father-in-law, in apposition	1	father-in-law
-EXO 18:1	1	6	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	of Moses
+EXO 18:1	1	6	Μωυσῆ	Μωυσῆς	personal name, genitive masculine singular	1	of Moses
 EXO 18:1	1	7	ὁ	ὁ	article, nominative masculine singular	1	the
 EXO 18:1	1	8	ἱερεὺς	ἱερεύς	noun, nominative masc. sg. after ὁ, in apposition	1	priest
 EXO 18:1	1	9	Μαδιὰμ	Μαδιάμ	place/tribal name, genitive in context after ἱερεὺς	1	of Midian
@@ -29,11 +29,11 @@ EXO 18:2	1	2	δὲ	δέ	conjunction	1	and
 EXO 18:2	1	3	Ἰοθὸρ	Ἰοθόρ	personal name, nominative masculine singular	1	Jethro
 EXO 18:2	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 EXO 18:2	1	5	γαμβρὸς	γαμβρός	noun, nominative masc. sg. after ὁ, father-in-law, in apposition	1	father-in-law
-EXO 18:2	1	6	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	of Moses
+EXO 18:2	1	6	Μωυσῆ	Μωυσῆς	personal name, genitive masculine singular	1	of Moses
 EXO 18:2	1	7	Σεπφώραν	Σεπφώρα	personal name, accusative feminine singular	1	Zipporah
 EXO 18:2	1	8	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 18:2	1	9	γυναῖκα	γυνή	noun, accusative feminine singular after εἰς, in apposition	1	wife
-EXO 18:2	1	10	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	of Moses
+EXO 18:2	1	10	Μωυσῆ	Μωυσῆς	personal name, genitive masculine singular	1	of Moses
 EXO 18:2	1	11	μετὰ	μετά	preposition with genitive, temporal 'after' at 18:13 μετὰ τὴν ἐπαύριον	1	after
 EXO 18:2	1	12	τὴν	ὁ	article, accusative feminine singular	1	the
 EXO 18:2	1	13	ἄφεσιν	ἄφεσις	noun, accusative fem. sg. after τὴν following μετά, sending away	1	sending away
@@ -78,7 +78,7 @@ EXO 18:5	1	2	ἦλθεν	ἔρχομαι	aorist active indicative, third singula
 EXO 18:5	1	3	Ἰοθὸρ	Ἰοθόρ	personal name, nominative masculine singular	1	Jethro
 EXO 18:5	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 EXO 18:5	1	5	γαμβρὸς	γαμβρός	noun, nominative masc. sg. after ὁ, father-in-law, in apposition	1	father-in-law
-EXO 18:5	1	6	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	of Moses
+EXO 18:5	1	6	Μωυσῆ	Μωυσῆς	personal name, genitive masculine singular	1	of Moses
 EXO 18:5	1	7	καὶ	καί	conjunction	1	and
 EXO 18:5	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
 EXO 18:5	1	9	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
@@ -244,7 +244,7 @@ EXO 18:12	1	2	ἔλαβεν	λαμβάνω	aorist active indicative, third singu
 EXO 18:12	1	3	Ἰοθὸρ	Ἰοθόρ	personal name, nominative masculine singular	1	Jethro
 EXO 18:12	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 EXO 18:12	1	5	γαμβρὸς	γαμβρός	noun, nominative masc. sg. after ὁ, father-in-law, in apposition	1	father-in-law
-EXO 18:12	1	6	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	of Moses
+EXO 18:12	1	6	Μωυσῆ	Μωυσῆς	personal name, genitive masculine singular	1	of Moses
 EXO 18:12	1	7	ὁλοκαυτώματα	ὁλοκαύτωμα	noun, accusative neut. pl.	1	burnt offerings
 EXO 18:12	1	8	καὶ	καί	conjunction	1	and
 EXO 18:12	1	9	θυσίας	θυσία	noun, accusative fem. pl.	1	sacrifices
@@ -258,13 +258,13 @@ EXO 18:12	1	16	καὶ	καί	conjunction	1	and
 EXO 18:12	1	17	πάντες	πᾶς	adjective, nominative masculine plural	1	all
 EXO 18:12	1	18	οἱ	ὁ	article, nominative masculine plural	1	the
 EXO 18:12	1	19	πρεσβύτεροι	πρεσβύτης	comparative adjective/noun, nominative masculine plural after οἱ, elders/seniors	1	elders
-EXO 18:12	1	20	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, nominative in context	1	of Israel
+EXO 18:12	1	20	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 EXO 18:12	1	21	φαγεῖν	ἐσθίω	aorist active infinitive, purpose with ἄρτον	1	to eat
 EXO 18:12	1	22	ἄρτον	ἄρτος	noun, accusative masc. sg.	1	bread
 EXO 18:12	1	23	μετὰ	μετά	preposition with the genitive	1	with
 EXO 18:12	1	24	τοῦ	ὁ	article, genitive singular	1	the
 EXO 18:12	1	25	γαμβροῦ	γαμβρός	noun, genitive masc. sg. after τοῦ/μετὰ τοῦ from syntax	1	father-in-law
-EXO 18:12	1	26	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	of Moses
+EXO 18:12	1	26	Μωυσῆ	Μωυσῆς	personal name, genitive masculine singular	1	of Moses
 EXO 18:12	1	27	ἐναντίον	ἐναντίον	preposition with the genitive	1	before
 EXO 18:12	1	28	τοῦ	ὁ	article, genitive singular	1	the
 EXO 18:12	1	29	Θεοῦ	θεός	noun, genitive masculine singular	1	God
@@ -361,7 +361,7 @@ EXO 18:17	1	1	Εἶπε	λέγω	aorist active indicative, third singular	1	said
 EXO 18:17	1	2	δὲ	δέ	conjunction	1	and
 EXO 18:17	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 EXO 18:17	1	4	γαμβρὸς	γαμβρός	noun, nominative masc. sg. after ὁ, father-in-law	1	father-in-law
-EXO 18:17	1	5	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	1	Moses
+EXO 18:17	1	5	Μωυσῆ	Μωυσῆς	personal name, genitive masculine singular	1	of Moses
 EXO 18:17	1	6	πρὸς	πρός	preposition with accusative, in τὰ πρὸς τὸν Θεόν 'in matters towards God	1	to
 EXO 18:17	1	7	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 EXO 18:17	1	8	οὐκ	οὐ	particle	1	not

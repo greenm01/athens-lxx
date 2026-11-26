@@ -5,7 +5,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 15:1	1	4	οἰκίας	οἰκία	noun, accusative feminine plural	1	houses
 1CH 15:1	1	5	ἐν	ἐν	preposition with the dative	1	in
 1CH 15:1	1	6	πόλει	πόλις	noun, dative feminine singular	1	city
-1CH 15:1	1	7	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	of David
+1CH 15:1	1	7	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 1CH 15:1	1	8	καὶ	καί	conjunction	1	and
 1CH 15:1	1	9	ἡτοίμασε	ἑτοιμάζω	aorist active indicative, third singular	1	prepared
 1CH 15:1	1	10	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -202,7 +202,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 15:12	1	19	τοῦ	ὁ	article, genitive singular	1	of the
 1CH 15:12	1	20	Κυρίου	κύριος	noun, genitive masculine singular	1	Lord
 1CH 15:12	1	21	Θεοῦ	θεός	noun, genitive masculine singular	1	God
-1CH 15:12	1	22	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
+1CH 15:12	1	22	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 1CH 15:12	1	23	οὗ	οὗ	relative adverb	1	where
 1CH 15:12	1	24	ἡτοίμασα	ἑτοιμάζω	aorist active indicative, first singular	1	I prepared
 1CH 15:12	1	24	ἡτοίμασα			2	I made ready
@@ -239,7 +239,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 15:14	1	12	τοῦ	ὁ	article, genitive singular	1	of the
 1CH 15:14	1	13	Κυρίου	κύριος	noun, genitive masculine singular	1	Lord
 1CH 15:14	1	14	Θεοῦ	θεός	noun, genitive masculine singular	1	God
-1CH 15:14	1	15	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
+1CH 15:14	1	15	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 1CH 15:15	1	1	Καὶ	καί	conjunction	1	and
 1CH 15:15	1	2	ἔλαβον	λαμβάνω	aorist active indicative, third plural	1	they took
 1CH 15:15	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -301,7 +301,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 15:17	1	6	Αἰμὰν	Αἰμάν	indeclinable personal name, accusative in context	1	Heman
 1CH 15:17	1	6	Αἰμὰν			2	Aiman
 1CH 15:17	1	7	υἱὸν	υἱός	noun, accusative masculine singular	1	son
-1CH 15:17	1	8	Ἰωήλ	Ἰωήλ	indeclinable personal name, nominative in context	1	of Joel
+1CH 15:17	1	8	Ἰωήλ	Ἰωήλ	indeclinable personal name, genitive in context	1	of Joel
 1CH 15:17	1	9	ἐκ	ἐκ	preposition with the genitive	1	from
 1CH 15:17	1	10	τῶν	ὁ	article, genitive plural	1	the
 1CH 15:17	1	11	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	1	brothers
@@ -471,7 +471,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 15:25	1	4	καὶ	καί	conjunction	1	and
 1CH 15:25	1	5	οἱ	ὁ	article, nominative masculine plural	1	the
 1CH 15:25	1	6	πρεσβύτεροι	πρεσβύτης	comparative adjective/noun, nominative masculine plural after οἱ, elders/seniors	1	elders
-1CH 15:25	1	7	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, nominative in context	1	of Israel
+1CH 15:25	1	7	Ἰσραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	1	of Israel
 1CH 15:25	1	8	καὶ	καί	conjunction	1	and
 1CH 15:25	1	9	οἱ	ὁ	article, nominative masculine plural	1	the
 1CH 15:25	1	10	χιλίαρχοι	χιλίαρχος	noun, nominative masculine plural	1	leaders of thousands
@@ -586,7 +586,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 15:29	1	9	ἕως	ἕως	preposition with the genitive	1	as far as
 1CH 15:29	1	9	ἕως			2	up to
 1CH 15:29	1	10	πόλεως	πόλις	noun, genitive feminine singular	1	the city
-1CH 15:29	1	11	Δαυίδ	Δαυίδ	indeclinable personal name, nominative in context	1	of David
+1CH 15:29	1	11	Δαυίδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 1CH 15:29	1	12	καὶ	καί	conjunction	1	and
 1CH 15:29	1	13	Μελχὸλ	Μελχόλ	indeclinable personal name, nominative in context	1	Michal
 1CH 15:29	1	13	Μελχὸλ			2	Melchol

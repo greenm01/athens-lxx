@@ -59,7 +59,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 4:4	1	8	Ὠσάν	Ὠσάν	indeclinable personal name, genitive in context	1	of Osan
 1CH 4:4	1	9	οὗτοι	οὗτος	demonstrative pronoun, nominative masculine plural	1	these
 1CH 4:4	1	10	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
-1CH 4:4	1	11	Ὤρ	Ὤρ	personal name, nominative masculine singular	1	of Hur
+1CH 4:4	1	11	Ὤρ	Ὤρ	indeclinable place name, genitive in context	1	of Hur
 1CH 4:4	1	11	Ὤρ			2	of Or
 1CH 4:4	1	12	πρωτοτόκου	πρωτότοκος	adjective, genitive masculine singular	1	firstborn
 1CH 4:4	1	13	Ἐφραθὰ	Ἐφραθά	indeclinable place name, genitive in context	1	of Ephratah
@@ -120,7 +120,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 4:8	1	11	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	of brother
 1CH 4:8	1	12	Ῥηχὰβ	Ῥηχάβ	indeclinable personal name, genitive in context	1	of Rechab
 1CH 4:8	1	13	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
-1CH 4:8	1	14	Ἰαρείμ	Ἰαρείμ	indeclinable personal name, nominative in context	1	of Jareim
+1CH 4:8	1	14	Ἰαρείμ	Ἰαρείμ	indeclinable personal name, genitive in context	1	of Jareim
 1CH 4:9	1	1	Καὶ	καί	conjunction	1	and
 1CH 4:9	1	2	ἦν	εἰμί	imperfect indicative, third singular	1	was
 1CH 4:9	1	3	Ἰγαβὴς	Ἰγαβής	indeclinable personal name, nominative in context	1	Jabez
@@ -149,7 +149,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 4:10	1	3	Γαβὴς			2	Gabes
 1CH 4:10	1	4	τὸν	ὁ	article, accusative masculine singular	1	the
 1CH 4:10	1	5	Θεὸν	θεός	noun, accusative masculine singular	1	God
-1CH 4:10	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	1	of Israel
+1CH 4:10	1	6	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 1CH 4:10	1	7	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 1CH 4:10	1	8	ἐὰν	ἐάν	conditional conjunction with the subjunctive	1	if
 1CH 4:10	1	9	εὐλογῶν	εὐλογέω	present active participle, nominative masculine singular; reinforces the finite verb	1	surely
@@ -208,7 +208,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 4:12	1	12	πατέρα	πατήρ	noun, accusative masculine singular after πρός/accusative from context	1	father
 1CH 4:12	1	13	πόλεως	πόλις	noun, genitive feminine singular	1	of city
 1CH 4:12	1	13	πόλεως			2	town
-1CH 4:12	1	14	Ναᾶς	Ναᾶς	indeclinable personal name, nominative in context	1	of Nahash
+1CH 4:12	1	14	Ναᾶς	Ναᾶς	indeclinable personal name, genitive in context	1	of Nahash
 1CH 4:12	1	15	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	1	brother
 1CH 4:12	1	16	Ἐσελὼμ	Ἐσελώμ	indeclinable personal name, genitive in context	1	of Eselom
 1CH 4:12	1	17	τοῦ	ὁ	article, genitive singular	1	—
@@ -743,7 +743,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 4:43	1	5	τοὺς	ὁ	article, accusative masculine plural	1	—
 1CH 4:43	1	6	καταλειφθέντας	καταλείπω	aorist passive participle, accusative masculine plural	1	who remained
 1CH 4:43	1	7	τοῦ	ὁ	article, genitive singular	1	—
-1CH 4:43	1	8	Ἀμαλὴκ	Ἀμαλήκ	tribal/personal name, accusative in context (object) from syntax	1	of Amalek
+1CH 4:43	1	8	Ἀμαλὴκ	Ἀμαλήκ	indeclinable personal name, genitive in context	1	of Amalek
 1CH 4:43	1	9	καὶ	καί	conjunction	1	and
 1CH 4:43	1	10	κατῴκησαν	κατοικέω	aorist active indicative, third plural	1	they settled
 1CH 4:43	1	10	κατῴκησαν			2	they dwelt

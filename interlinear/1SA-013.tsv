@@ -37,7 +37,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:2	1	22	τῷ	ὁ	article, dative masculine/neuter singular	1	the
 1SA 13:2	1	23	ὄρει	ὄρος	noun, dative neuter singular	1	mountain
 1SA 13:2	1	23	ὄρει			2	hill country
-1SA 13:2	1	24	Βαιθὴλ	Βαιθήλ	indeclinable place name, accusative in context	1	of Bethel
+1SA 13:2	1	24	Βαιθὴλ	Βαιθήλ	indeclinable place name, genitive in context	1	of Bethel
 1SA 13:2	1	25	καὶ	καί	conjunction	1	and
 1SA 13:2	1	26	χίλιοι	χίλιοι	cardinal numeral, nominative masculine plural	1	a thousand
 1SA 13:2	1	27	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
@@ -200,7 +200,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:7	1	6	Ἰορδάνην	Ἰορδάνης	noun, accusative masculine singular; river name	1	Jordan
 1SA 13:7	1	7	εἰς	εἰς	preposition with the accusative	1	into
 1SA 13:7	1	8	γῆν	γῆ	noun, accusative feminine singular	1	the land
-1SA 13:7	1	9	Γὰδ	Γάδ	indeclinable personal name, dative in context	1	of Gad
+1SA 13:7	1	9	Γὰδ	Γάδ	indeclinable personal name, genitive in context	1	of Gad
 1SA 13:7	1	10	καὶ	καί	conjunction	1	and
 1SA 13:7	1	11	Γαλαάδ	Γαλαάδ	indeclinable place name, genitive in context	1	Gilead
 1SA 13:7	1	12	καὶ	καί	conjunction	1	and
@@ -424,7 +424,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:15	1	26	Γαλγάλων	Γάλγαλα	proper place name, genitive neuter plural	1	Gilgal
 1SA 13:15	1	27	εἰς	εἰς	preposition with the accusative	1	into
 1SA 13:15	1	28	Γαβαὰ	Γαβαά	indeclinable place name, nominative in context	1	Gibeah
-1SA 13:15	1	29	Βενιαμίν	Βενιαμίν	indeclinable personal name, nominative in context	1	of Benjamin
+1SA 13:15	1	29	Βενιαμίν	Βενιαμίν	indeclinable personal name, genitive in context	1	of Benjamin
 1SA 13:15	1	30	καὶ	καί	conjunction	1	and
 1SA 13:15	1	31	ἐπεσκέψατο	ἐπισκέπτομαι	aorist middle indicative, third singular	1	mustered
 1SA 13:15	1	32	Σαοὺλ	Σαούλ	indeclinable personal name, nominative in context	1	Saul
@@ -453,7 +453,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:16	1	14	ἐκάθισαν	καθίζω	aorist active indicative, third plural	1	stayed
 1SA 13:16	1	15	ἐν	ἐν	preposition with the dative	1	in
 1SA 13:16	1	16	Γαβαὰ	Γαβαά	place name, dative in context	1	Gibeah
-1SA 13:16	1	17	Βενιαμεὶν	Βενιαμείν	indeclinable personal name, dative in context	1	of Benjamin
+1SA 13:16	1	17	Βενιαμεὶν	Βενιαμείν	indeclinable personal name, genitive in context	1	of Benjamin
 1SA 13:16	1	18	καὶ	καί	conjunction	1	and
 1SA 13:16	1	19	ἔκλαιον	κλαίω	imperfect active indicative, third plural	1	were weeping
 1SA 13:16	1	20	καὶ	καί	conjunction	1	and
@@ -583,7 +583,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 13:22	1	6	τοῦ	ὁ	article, genitive singular	1	of the
 1SA 13:22	1	7	πολέμου	πόλεμος	noun, genitive masculine singular	1	war
 1SA 13:22	1	7	πολέμου			2	battle
-1SA 13:22	1	8	Μαχμὰς	Μαχμάς	indeclinable place name, nominative in context	1	of Michmash
+1SA 13:22	1	8	Μαχμὰς	Μαχμάς	indeclinable place name, genitive in context	1	of Michmash
 1SA 13:22	1	9	καὶ	καί	conjunction	1	and
 1SA 13:22	1	10	οὐχ	οὐ	negative particle	1	not
 1SA 13:22	1	11	εὑρέθη	εὑρίσκω	aorist passive indicative, third singular	1	was found

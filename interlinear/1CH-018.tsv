@@ -45,9 +45,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:3	1	5	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, accusative in context	1	Adraazar
 1CH 18:3	1	5	Ἀδρααζὰρ			2	Hadadezer
 1CH 18:3	1	6	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
-1CH 18:3	1	7	Σουβὰ	Σουβά	indeclinable place name, nominative in context	1	of Zobah
+1CH 18:3	1	7	Σουβὰ	Σουβά	indeclinable place name, genitive in context	1	of Zobah
 1CH 18:3	1	7	Σουβὰ			2	of Souba
-1CH 18:3	1	8	Ἡμὰθ	Ἡμάθ	indeclinable place name, nominative in context	1	of Hemath
+1CH 18:3	1	8	Ἡμὰθ	Ἡμάθ	indeclinable place name, genitive in context	1	of Hemath
 1CH 18:3	1	8	Ἡμὰθ			2	of Hamath
 1CH 18:3	1	9	πορευομένου	πορεύομαι	present middle participle, genitive masculine singular	1	as he went
 1CH 18:3	1	10	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	he
@@ -94,7 +94,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:5	1	6	βοηθῆσαι	βοηθέω	aorist active infinitive	1	to help
 1CH 18:5	1	7	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, nominative in context	1	Hadarezer
 1CH 18:5	1	8	βασιλεῖ	βασιλεύς	noun, dative masc. sg. after τῷ	1	king
-1CH 18:5	1	9	Σουβὰ	Σουβά	indeclinable place name, nominative in context	1	of Zobah
+1CH 18:5	1	9	Σουβὰ	Σουβά	indeclinable place name, genitive in context	1	of Zobah
 1CH 18:5	1	10	καὶ	καί	conjunction	1	and
 1CH 18:5	1	11	ἐπάταξε	πατάσσω	aorist active indicative, third singular	1	struck
 1CH 18:5	1	12	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
@@ -147,7 +147,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:7	1	10	ἐπὶ	ἐπί	preposition governing the genitive	1	on
 1CH 18:7	1	11	τοὺς	ὁ	article, accusative masculine plural	1	the
 1CH 18:7	1	12	παῖδας	παῖς	noun, accusative masculine plural	1	servants
-1CH 18:7	1	13	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, nominative in context	1	of Hadarezer
+1CH 18:7	1	13	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, genitive in context	1	of Hadarezer
 1CH 18:7	1	14	καὶ	καί	conjunction	1	and
 1CH 18:7	1	15	ἤνεγκεν	φέρω	aorist active indicative, third singular	1	brought
 1CH 18:7	1	16	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -194,14 +194,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:9	1	3	Θοοὺ	Θοού	indeclinable personal name, nominative in context	1	Tou
 1CH 18:9	1	3	Θοοὺ			2	Thou
 1CH 18:9	1	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
-1CH 18:9	1	5	Ἡμὰθ	Ἡμάθ	indeclinable place name, nominative in context	1	of Hamath
+1CH 18:9	1	5	Ἡμὰθ	Ἡμάθ	indeclinable place name, genitive in context	1	of Hamath
 1CH 18:9	1	6	ὅτι	ὅτι	conjunction, that/because from context	1	that
 1CH 18:9	1	7	ἐπάταξε	πατάσσω	aorist active indicative, third singular	1	struck
 1CH 18:9	1	8	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 1CH 18:9	1	9	τὴν	ὁ	article, accusative feminine singular	1	—
 1CH 18:9	1	10	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	all
 1CH 18:9	1	11	δύναμιν	δύναμις	noun, accusative fem. sg. after τὴν, host/army in this phrase	1	host
-1CH 18:9	1	12	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, nominative in context	1	of Hadarezer
+1CH 18:9	1	12	Ἀδρααζὰρ	Ἀδρααζάρ	indeclinable personal name, genitive in context	1	of Hadarezer
 1CH 18:9	1	12	Ἀδρααζὰρ			2	of Hadadezer
 1CH 18:9	1	13	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
 1CH 18:9	1	14	Σουβά	Σουβά	indeclinable place name, genitive in context	1	of Zobah
@@ -321,7 +321,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 18:13	1	11	Ἰδουμαῖοι	Ἰδουμαῖος	noun, nominative masculine plural	1	Edomites
 1CH 18:13	1	12	παῖδες	παῖς	noun, nominative masculine plural	1	male servants
 1CH 18:13	1	12	παῖδες			2	servants
-1CH 18:13	1	13	Δαυίδ	Δαυίδ	indeclinable personal name, nominative in context	1	of David
+1CH 18:13	1	13	Δαυίδ	Δαυίδ	indeclinable personal name, genitive in context	1	of David
 1CH 18:13	1	14	Καὶ	καί	conjunction	1	and
 1CH 18:13	1	15	ἔσωζε	σῴζω	imperfect active indicative, third singular	1	was saving
 1CH 18:13	1	16	Κύριος	κύριος	noun, nominative masculine singular, the Lord	1	the Lord

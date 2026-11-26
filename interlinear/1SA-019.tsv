@@ -21,7 +21,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 19:2	1	2	Ἰωνάθαν	Ἰωνάθαν	indeclinable personal name, nominative in context	1	Jonathan
 1SA 19:2	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
 1SA 19:2	1	4	υἱὸς	υἱός	noun, nominative masculine singular	1	son
-1SA 19:2	1	5	Σαοὺλ	Σαούλ	indeclinable personal name, nominative in context	1	of Saul
+1SA 19:2	1	5	Σαοὺλ	Σαούλ	indeclinable personal name, genitive in context	1	of Saul
 1SA 19:2	1	6	ἠρᾶτο	ἐράω	imperfect middle indicative, third singular	1	was taking delight
 1SA 19:2	1	7	τὸν	ὁ	article, accusative masculine singular, marks the name	1	—
 1SA 19:2	1	8	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
@@ -161,7 +161,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 19:6	1	3	Σαοὺλ	Σαούλ	indeclinable personal name, nominative in context	1	Saul
 1SA 19:6	1	4	τῆς	ὁ	article, genitive feminine singular	1	the
 1SA 19:6	1	5	φωνῆς	φωνή	noun, genitive fem. sg. after τῆς	1	voice
-1SA 19:6	1	6	Ἰωνάθαν	Ἰωνάθαν	indeclinable personal name, nominative in context	1	of Jonathan
+1SA 19:6	1	6	Ἰωνάθαν	Ἰωνάθαν	indeclinable personal name, genitive in context	1	of Jonathan
 1SA 19:6	1	7	καὶ	καί	conjunction	1	and
 1SA 19:6	1	8	ὤμοσε	ὄμνυμι	aorist active indicative, 3rd sg.	1	swore
 1SA 19:6	1	9	Σαοὺλ	Σαούλ	indeclinable personal name, genitive in context	1	Saul
@@ -270,7 +270,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 19:10	1	15	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
 1SA 19:10	1	16	ἐκ	ἐκ	preposition with the genitive	1	from
 1SA 19:10	1	17	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the presence
-1SA 19:10	1	18	Σαούλ	Σαούλ	indeclinable personal name, nominative in context	1	of Saul
+1SA 19:10	1	18	Σαούλ	Σαούλ	indeclinable personal name, genitive in context	1	of Saul
 1SA 19:10	1	19	καὶ	καί	conjunction	1	and
 1SA 19:10	1	20	ἐπάταξε	πατάσσω	aorist active indicative, third singular	1	struck
 1SA 19:10	1	21	τὸ	ὁ	article, nominative neuter singular	1	the
