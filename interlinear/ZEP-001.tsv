@@ -30,7 +30,7 @@ ZEP 1:1	1	21	βασιλέως	βασιλεύς	noun, genitive masculine singular
 ZEP 1:1	1	22	Ἰούδα	Ἰούδας	personal name, genitive masculine singular in context	1	of Judah
 ZEP 1:2	1	1	Ἐκλείψει	ἔκλειψις	noun, dative feminine singular; cognate dative of manner, also formally a future verb	1	utterly
 ZEP 1:2	1	1	Ἐκλείψει			2	with disappearance
-ZEP 1:2	1	2	ἐκλειπέτω	ἐκλείπω	aorist active imperative, third singular	1	let it vanish
+ZEP 1:2	1	2	ἐκλειπέτω	ἐκλείπω	present active imperative, third singular	1	let it vanish
 ZEP 1:2	1	2	ἐκλειπέτω			2	let it fail
 ZEP 1:2	1	3	ἀπὸ	ἀπό	preposition with the genitive	1	from
 ZEP 1:2	1	4	προσώπου	πρόσωπον	noun, genitive neuter singular	1	the face
@@ -38,13 +38,13 @@ ZEP 1:2	1	5	τῆς	ὁ	article, genitive feminine singular	1	of the
 ZEP 1:2	1	6	γῆς	γῆ	noun, genitive feminine singular	1	earth
 ZEP 1:2	1	7	λέγει	λέγω	present active indicative, third singular	1	says
 ZEP 1:2	1	8	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
-ZEP 1:3	1	1	ἐκλειπέτω	ἐκλείπω	aorist active imperative, third singular	1	let vanish
+ZEP 1:3	1	1	ἐκλειπέτω	ἐκλείπω	present active imperative, third singular	1	let vanish
 ZEP 1:3	1	1	ἐκλειπέτω			2	let it fail
 ZEP 1:3	1	2	ἄνθρωπος	ἄνθρωπος	noun, nominative masculine singular	1	human beings
 ZEP 1:3	1	2	ἄνθρωπος			2	humankind
 ZEP 1:3	1	3	καὶ	καί	conjunction	1	and
 ZEP 1:3	1	4	κτήνη	κτῆνος	noun, nominative neuter plural	1	livestock
-ZEP 1:3	1	5	ἐκλειπέτωσαν	ἐκλείπω	aorist active imperative, third plural	1	let them vanish
+ZEP 1:3	1	5	ἐκλειπέτωσαν	ἐκλείπω	present active imperative, third plural	1	let them vanish
 ZEP 1:3	1	5	ἐκλειπέτωσαν			2	let them fail
 ZEP 1:3	1	6	τὰ	ὁ	article, nominative neuter plural	1	the
 ZEP 1:3	1	7	πετεινὰ	πετεινόν	noun, nominative neuter plural	1	birds
@@ -405,7 +405,7 @@ ZEP 1:15	1	14	ἀφανισμοῦ			2	destruction
 ZEP 1:15	1	15	ἡμέρα	ἡμέρα	noun, nominative feminine singular	1	day
 ZEP 1:15	1	16	σκότους	σκότος	noun, genitive neuter singular	1	of darkness
 ZEP 1:15	1	17	καὶ	καί	conjunction	1	and
-ZEP 1:15	1	18	γνόφου	γνόφος	noun, genitive neuter singular	1	gloom
+ZEP 1:15	1	18	γνόφου	γνόφος	noun, genitive masculine singular	1	gloom
 ZEP 1:15	1	18	γνόφου			2	thick darkness
 ZEP 1:15	1	19	ἡμέρα	ἡμέρα	noun, nominative feminine singular	1	day
 ZEP 1:15	1	20	νεφέλης	νεφέλη	noun, genitive fem. sg. after τῆς	1	of cloud

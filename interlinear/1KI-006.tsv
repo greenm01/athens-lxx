@@ -212,7 +212,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 6:7	1	25	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	it
 1KI 6:8	1	1	Καὶ	καί	conjunction	1	and
 1KI 6:8	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
-1KI 6:8	1	3	πυλὼν	πύλη	noun, genitive feminine plural	1	doorway
+1KI 6:8	1	3	πυλὼν	πυλών	noun, nominative masculine singular	1	doorway
 1KI 6:8	1	4	τῆς	ὁ	article, genitive feminine singular	1	of the
 1KI 6:8	1	5	πλευρᾶς	πλευρά	noun, genitive feminine singular	1	side
 1KI 6:8	1	6	τῆς	ὁ	article, genitive feminine singular	1	that was
@@ -294,7 +294,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 6:12	1	5	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 1KI 6:12	1	6	οἰκοδομεῖς	οἰκοδομέω	present active indicative, second singular	1	build
 1KI 6:12	1	7	ἐὰν	ἐάν	subordinating conjunction	1	if
-1KI 6:12	1	8	ὁδεύῃς	ὁδεύω	present active optative, second singular	1	you walk
+1KI 6:12	1	8	ὁδεύῃς	ὁδεύω	present active subjunctive, second singular	1	you walk
 1KI 6:12	1	9	τοῖς	ὁ	article, dative neuter plural	1	in the
 1KI 6:12	1	10	προστάγμασί	πρόσταγμα	noun, dative neuter plural	1	ordinances
 1KI 6:12	1	11	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
@@ -305,7 +305,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 6:12	1	15	μου			2	of me
 1KI 6:12	1	16	ποιῇς	ποιέω	present active subjunctive, 2nd sg. after ἐὰν	1	you carry out
 1KI 6:12	1	17	καὶ	καί	conjunction	1	and
-1KI 6:12	1	18	φυλάσσῃς	φυλάσσω	present active optative, second singular	1	you keep
+1KI 6:12	1	18	φυλάσσῃς	φυλάσσω	present active subjunctive, second singular	1	you keep
 1KI 6:12	1	19	πάσας	πᾶς	adjective, accusative feminine plural	1	all
 1KI 6:12	1	20	τὰς	ὁ	article, accusative feminine plural	1	the
 1KI 6:12	1	21	ἐντολάς	ἐντολή	noun, accusative feminine plural	1	commandments
@@ -440,7 +440,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 6:17	1	9	ναὸς	ναός	noun, nominative masculine singular	1	temple
 1KI 6:17	1	9	ναὸς			2	sanctuary
 1KI 6:17	1	10	ὁ	ὁ	article, nominative masculine singular	1	the
-1KI 6:17	1	11	ἐσώτατος	ἐσώτατος	adjective, genitive masculine singular	1	innermost
+1KI 6:17	1	11	ἐσώτατος	ἐσώτατος	adjective, nominative masculine singular	1	innermost
 1KI 6:18	1	1	Καὶ	καί	conjunction	1	and
 1KI 6:18	1	2	διὰ	διά	preposition with the accusative	1	with
 1KI 6:18	1	3	κέδρου	κέδρος	noun, genitive feminine singular	1	cedar
@@ -602,7 +602,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 6:25	1	13	συντέλεια	συντέλεια	noun, nominative feminine singular	1	total span
 1KI 6:25	1	14	μία	εἷς	numeral, nominative feminine singular	1	one
 1KI 6:25	1	15	ἀμφοτέροις	ἀμφότερος	adjective, dative masculine plural	1	for both
-1KI 6:25	1	16	τοῖς	ὁ	article, accusative masculine plural	1	the
+1KI 6:25	1	16	τοῖς	ὁ	article, dative masculine plural	1	the
 1KI 6:25	1	17	χερουβείμ	Χερουβείμ	indeclinable plural noun (cherubim), case from syntax per occurrence	1	cherubim
 1KI 6:26	1	1	Καὶ	καί	conjunction	1	and
 1KI 6:26	1	2	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -773,7 +773,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 6:34	1	4	ταῖς	ὁ	article, dative feminine plural	1	the
 1KI 6:34	1	5	θύραις	θύρα	noun, dative feminine plural	1	doors
 1KI 6:34	1	6	ξύλα	ξύλον	noun, accusative neuter plural	1	wood
-1KI 6:34	1	7	πεύκινα	πεύκινος	adjective, genitive neuter plural	1	of pine
+1KI 6:34	1	7	πεύκινα	πεύκινος	adjective, nominative neuter plural	1	of pine
 1KI 6:34	1	8	δύο	δύο	cardinal numeral, indeclinable	1	two
 1KI 6:34	1	9	πτυχαὶ	πτυχή	noun, nominative feminine plural	1	folds
 1KI 6:34	1	10	ἡ	ὁ	article, nominative feminine singular	1	the

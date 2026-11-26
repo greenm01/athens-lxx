@@ -20,7 +20,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:1	1	18	κατοικῶ	κατοικέω	present active indicative, first singular	1	dwell
 1CH 17:1	1	19	ἐν	ἐν	preposition with the dative	1	in
 1CH 17:1	1	20	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
-1CH 17:1	1	21	κεδρίνῳ	κέδρος	noun, genitive feminine singular	1	of cedar
+1CH 17:1	1	21	κεδρίνῳ	κέδρινος	adjective, dative masculine singular	1	of cedar
 1CH 17:1	1	22	καὶ	καί	conjunction	1	and
 1CH 17:1	1	23	ἡ	ὁ	article, nominative feminine singular	1	the
 1CH 17:1	1	24	κιβωτὸς	κιβωτός	noun, nominative feminine singular	1	ark
@@ -140,7 +140,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:6	1	30	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 1CH 17:6	1	31	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 1CH 17:6	1	31	οἶκον			2	household
-1CH 17:6	1	32	κέδρινον	κέδρος	noun, genitive feminine singular	1	of cedar
+1CH 17:6	1	32	κέδρινον	κέδρινος	adjective, accusative masculine singular	1	of cedar
 1CH 17:7	1	1	καὶ	καί	conjunction	1	and
 1CH 17:7	1	2	νῦν	νῦν	adverb of time	1	now
 1CH 17:7	1	3	οὕτως	οὕτως	adverb	1	thus
@@ -231,7 +231,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1CH 17:9	1	22	υἱὸς	υἱός	noun, nominative masculine singular; singular in the printed text	1	son
 1CH 17:9	1	23	ἀδικίας	ἀδικία	noun, genitive feminine singular	1	of injustice
 1CH 17:9	1	24	τοῦ	ὁ	article, genitive neuter singular, introduces the infinitive	1	—
-1CH 17:9	1	25	ταπεινῶσαι	ταπεινόω	present active infinitive	1	to oppress
+1CH 17:9	1	25	ταπεινῶσαι	ταπεινόω	aorist active infinitive	1	to oppress
 1CH 17:9	1	25	ταπεινῶσαι			2	to subdue
 1CH 17:9	1	26	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 1CH 17:9	1	27	καθὼς	καθώς	comparative conjunction	1	just as

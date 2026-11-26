@@ -46,7 +46,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 8:2	1	18	τῶν	ὁ	article, genitive masculine plural	1	the
 2MA 8:2	1	19	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	1	ungodly
 2MA 8:2	1	20	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	1	human beings
-2MA 8:2	1	21	βεβηλωθέντα	βεβηλόω	aorist passive participle, nominative neuter singular	1	profaned
+2MA 8:2	1	21	βεβηλωθέντα	βεβηλόω	aorist passive participle, accusative masculine singular	1	profaned
 2MA 8:3	1	1	Ἐλεῆσαι	ἐλεέω	aorist active infinitive	1	to show mercy
 2MA 8:3	1	1	Ἐλεῆσαι			2	to have pity
 2MA 8:3	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -193,7 +193,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 8:9	1	14	παμφύλων	πάμφυλος	adjective, genitive masculine plural	1	of every tribe
 2MA 8:9	1	15	ἔθνη	ἔθνος	noun, accusative neuter plural	1	peoples
 2MA 8:9	1	16	οὐκ	οὐ	negative particle	1	not
-2MA 8:9	1	17	ἐλάττους	ἐλάσσων	adjective, genitive masculine plural	1	fewer
+2MA 8:9	1	17	ἐλάττους	ἐλάσσων	comparative adjective, accusative masculine plural	1	fewer
 2MA 8:9	1	18	τῶν	ὁ	article, genitive plural	1	the
 2MA 8:9	1	19	δισμυρίων	δισμύριοι	adjective, genitive masculine plural	1	twenty thousand
 2MA 8:9	1	20	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -214,7 +214,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 8:9	1	34	ἐν	ἐν	preposition with the dative	1	in
 2MA 8:9	1	35	πολεμικαῖς	πολεμικός	adjective, dative feminine plural	1	for war
 2MA 8:9	1	36	χρείαις	χρεία	noun, dative feminine plural	1	matters
-2MA 8:9	1	37	ἔχοντα	ἔχω	present active participle, accusative neuter singular	1	having
+2MA 8:9	1	37	ἔχοντα	ἔχω	present active participle, accusative masculine singular	1	having
 2MA 8:9	1	38	πεῖραν	πεῖρα	noun, accusative feminine singular	1	experience
 2MA 8:10	1	1	Διεστήσατο	διαστέλλομαι	aorist middle indicative, third singular	1	resolved
 2MA 8:10	1	2	δὲ	δέ	postpositive conjunction	1	and

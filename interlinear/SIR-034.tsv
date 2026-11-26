@@ -24,7 +24,7 @@ SIR 34:3	1	1	Ἐκοπίασε	κοπιάω	aorist active indicative, third sing
 SIR 34:3	1	2	πλούσιος	πλούσιος	adjective, nominative masculine singular	1	rich
 SIR 34:3	1	2	πλούσιος			2	wealthy
 SIR 34:3	1	3	ἐν	ἐν	preposition with the dative	1	in
-SIR 34:3	1	4	συναγωγῇ	συναγωγή	noun, nominative fem. sg	1	amassing
+SIR 34:3	1	4	συναγωγῇ	συναγωγή	noun, dative feminine singular	1	amassing
 SIR 34:3	1	5	χρημάτων	χρῆμα	noun, genitive neuter plural	1	of possessions
 SIR 34:3	1	6	καὶ	καί	conjunction	1	and
 SIR 34:3	1	7	ἐν	ἐν	preposition with the dative	1	in
@@ -209,7 +209,7 @@ SIR 34:16	1	5	παρακείμενά	παράκειμαι	present middle partici
 SIR 34:16	1	6	σοι	σύ	personal pronoun, dative singular	1	you
 SIR 34:16	1	7	καὶ	καί	conjunction	1	and
 SIR 34:16	1	8	μὴ	μή	negative particle	1	not
-SIR 34:16	1	9	διαμασῶ	διαμασάομαι	future middle indicative, second singular	1	chew greedily
+SIR 34:16	1	9	διαμασῶ	διαμασάομαι	present middle/passive imperative, second singular	1	chew greedily
 SIR 34:16	1	10	μὴ	μή	negative particle	1	lest
 SIR 34:16	1	11	μισηθῇς	μισέω	aorist passive subjunctive, second singular	1	you be hated
 SIR 34:17	1	1	παῦσαι	παύω	aorist middle imperative second singular	1	cease
@@ -302,12 +302,12 @@ SIR 34:22	1	20	γίνου	γίνομαι	present middle imperative, 2nd sg.	1	be
 SIR 34:22	1	21	ἐντρεχὴς	ἐντρεχής	adjective, nominative masculine singular	1	competent
 SIR 34:22	1	22	καὶ	καί	conjunction	1	and
 SIR 34:22	1	23	πᾶν	πᾶς	adjective, accusative neuter singular	1	any
-SIR 34:22	1	24	ἀρρώστημα	ἀρρώστημα	noun, genitive neuter singular	1	an illness
+SIR 34:22	1	24	ἀρρώστημα	ἀρρώστημα	noun, nominative neuter singular	1	an illness
 SIR 34:22	1	25	οὐ	οὐ	negative particle	1	not
 SIR 34:22	1	26	μή	μή	negative particle	1	at all
 SIR 34:22	1	27	σοι	σύ	personal pronoun dative second singular	1	to you
 SIR 34:22	1	28	ἀπαντήσῃ	ἀπαντάω	aorist active subjunctive, third singular	1	may befall
-SIR 34:23	1	1	Λαμπρὸν	λαμπρός	adjective, dative neuter singular	1	lavish
+SIR 34:23	1	1	Λαμπρὸν	λαμπρός	adjective, accusative masculine singular	1	lavish
 SIR 34:23	1	2	ἐπ᾽	ἐπί	elided preposition with accusative	1	on
 SIR 34:23	1	2	ἐπ᾽			2	upon
 SIR 34:23	1	3	ἄρτοις	ἄρτος	noun, dative masculine plural	1	bread
@@ -360,7 +360,7 @@ SIR 34:27	1	2	ζωῆς	ζωή	noun, genitive feminine singular	1	life
 SIR 34:27	1	3	οἶνος	οἶνος	noun, nominative masculine singular	1	wine
 SIR 34:27	1	4	ἀνθρώποις	ἄνθρωπος	noun, dative masculine plural	1	for people
 SIR 34:27	1	5	ἐὰν	ἐάν	conditional particle	1	if
-SIR 34:27	1	6	πίνῃς	πίνω	present active indicative, second singular	1	you drink
+SIR 34:27	1	6	πίνῃς	πίνω	present active subjunctive, second singular	1	you drink
 SIR 34:27	1	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 SIR 34:27	1	8	μέτρῳ	μέτρον	noun, dative neuter singular	1	in measure
 SIR 34:27	1	9	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his

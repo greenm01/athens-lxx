@@ -68,7 +68,7 @@ WIS 12:5	1	17	αὐθέντας	αὐθέντης	noun, accusative masculine plu
 WIS 12:5	1	18	γονεῖς	γονεύς	noun, accusative masculine plural	1	parents
 WIS 12:5	1	19	ψυχῶν	ψυχή	noun, genitive fem. pl., persons	1	of souls
 WIS 12:5	1	20	ἀβοηθήτων	ἀβοήθητος	adjective, genitive neuter plural	1	helpless
-WIS 12:6	1	1	ἐβουλήθης	βούλομαι	imperfect active indicative, second singular	1	you willed
+WIS 12:6	1	1	ἐβουλήθης	βούλομαι	aorist passive indicative, second singular	1	you willed
 WIS 12:6	1	2	ἀπολέσαι	ἀπόλλυμι	aorist active infinitive	1	to destroy
 WIS 12:6	1	3	διὰ	διά	preposition with the accusative	1	by
 WIS 12:6	1	4	χειρῶν	χείρ	noun, genitive feminine plural	1	hands
@@ -77,7 +77,7 @@ WIS 12:6	1	6	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
 WIS 12:7	1	1	ἵνα	ἵνα	conjunction	1	so that
 WIS 12:7	1	2	ἀξίαν	ἄξιος	adjective, accusative feminine singular	1	worthy
 WIS 12:7	1	3	ἀποικίαν	ἀποικία	noun, accusative feminine singular	1	settlement
-WIS 12:7	1	4	δέξηται	δέχομαι	aorist middle optative, third singular	1	might receive
+WIS 12:7	1	4	δέξηται	δέχομαι	aorist middle subjunctive, third singular	1	might receive
 WIS 12:7	1	5	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
 WIS 12:7	1	6	παίδων	παῖς	noun, genitive masculine plural	1	of servants
 WIS 12:7	1	7	ἡ	ὁ	article, nominative feminine singular	1	the
@@ -103,7 +103,7 @@ WIS 12:8	1	14	ἵνα	ἵνα	conjunction	1	so that
 WIS 12:8	1	15	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 WIS 12:8	1	16	κατὰ	κατά	preposition with the accusative	1	by
 WIS 12:8	1	17	βραχὺ	βραχύς	adjective accusative neuter singular used adverbially	1	a little
-WIS 12:8	1	18	ἐξολεθρεύσωσιν	ἐξολεθρεύω	aorist active optative, third plural	1	they might destroy utterly
+WIS 12:8	1	18	ἐξολεθρεύσωσιν	ἐξολεθρεύω	aorist active subjunctive, third plural	1	they might destroy utterly
 WIS 12:9	1	1	οὐκ	οὐ	negative particle	1	not
 WIS 12:9	1	2	ἀδυνατῶν	ἀδυνατέω	present active participle, nominative masculine singular	1	being unable
 WIS 12:9	1	3	ἐν	ἐν	preposition with the dative	1	in
@@ -212,7 +212,7 @@ WIS 12:13	1	8	μέλει	μέλος	noun, dative neuter singular	1	care
 WIS 12:13	1	9	περὶ	περί	preposition with genitive	1	for
 WIS 12:13	1	10	πάντων	πᾶς	adjective, genitive neuter plural	1	all
 WIS 12:13	1	11	ἵνα	ἵνα	conjunction	1	so that
-WIS 12:13	1	12	δείξῃς	δείκνυμι	aorist active optative, second singular	1	you might show
+WIS 12:13	1	12	δείξῃς	δείκνυμι	aorist active subjunctive, second singular	1	you might show
 WIS 12:13	1	13	ὅτι	ὅτι	content conjunction	1	that
 WIS 12:13	1	14	οὐκ	οὐ	particle	1	not
 WIS 12:13	1	15	ἀδίκως	ἀδίκως	adverb	1	unjustly
@@ -349,7 +349,7 @@ WIS 12:20	1	15	καὶ	καί	conjunction	1	and
 WIS 12:20	1	16	τόπον	τόπος	noun, accusative masculine singular	1	place
 WIS 12:20	1	17	δι᾽	διά	elided preposition with the accusative	1	through
 WIS 12:20	1	18	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	which
-WIS 12:20	1	19	ἀπαλλαγῶσι	ἀπαλλάσσω	aorist passive optative, third plural	1	they might be freed
+WIS 12:20	1	19	ἀπαλλαγῶσι	ἀπαλλάσσω	aorist passive subjunctive, third plural	1	they might be freed
 WIS 12:20	1	20	τῆς	ὁ	article, genitive feminine singular	1	from the
 WIS 12:20	1	21	κακίας	κακία	noun, genitive fem. sg	1	evil
 WIS 12:20	1	21	κακίας			2	calamity
@@ -378,7 +378,7 @@ WIS 12:22	1	5	ἐχθροὺς	ἐχθρός	substantival adjective accusative m
 WIS 12:22	1	6	ἡμῶν	ἐγώ	personal pronoun genitive first plural	1	our
 WIS 12:22	1	7	ἐν	ἐν	preposition with the dative	1	in
 WIS 12:22	1	8	μυριότητι	μυριότης	noun, dative feminine singular	1	immense measure
-WIS 12:22	1	9	μαστιγοῖς	μαστιγόω	present active indicative, third singular	1	you whip
+WIS 12:22	1	9	μαστιγοῖς	μαστιγόω	present active indicative, second singular	1	you whip
 WIS 12:22	1	10	ἵνα	ἵνα	conjunction introducing a purpose clause	1	so that
 WIS 12:22	1	11	σου	σύ	personal pronoun, genitive second singular	1	your
 WIS 12:22	1	12	τὴν	ὁ	article, accusative feminine singular	1	the

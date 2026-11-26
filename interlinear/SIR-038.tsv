@@ -3,7 +3,7 @@ SIR 38:1	1	1	ΤΙΜΑ	τιμάω	present active imperative, second singular	1	ho
 SIR 38:1	1	2	ἰατρὸν	ἰατρός	noun, accusative masculine singular	1	physician
 SIR 38:1	1	3	πρὸς	πρός	preposition with the accusative	1	according to
 SIR 38:1	1	4	τὰς	ὁ	article, accusative feminine plural	1	the
-SIR 38:1	1	5	χρείας	χρεία	noun, accusative feminine singular	1	services
+SIR 38:1	1	5	χρείας	χρεία	noun, accusative feminine plural	1	services
 SIR 38:1	1	6	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
 SIR 38:1	1	7	τιμαῖς	τιμή	noun, dative feminine plural	1	with honors
 SIR 38:1	1	8	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
@@ -416,7 +416,7 @@ SIR 38:28	1	14	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine
 SIR 38:28	1	15	καὶ	καί	conjunction	1	and
 SIR 38:28	1	16	ἐν	ἐν	preposition with the dative	1	in
 SIR 38:28	1	17	θέρμῃ	θέρμη	noun, dative feminine singular	1	heat
-SIR 38:28	1	18	καμίνου	κάμινος	noun, genitive masculine singular	1	of a furnace
+SIR 38:28	1	18	καμίνου	κάμινος	noun, genitive feminine singular	1	of a furnace
 SIR 38:28	1	19	διαμαχήσεται	διαμάχομαι	future middle indicative, third singular	1	will contend
 SIR 38:28	1	20	φωνὴ	φωνή	noun, nominative feminine singular	1	voice
 SIR 38:28	1	21	σφύρης	σφῦρα	noun, genitive feminine singular	1	of a hammer
@@ -514,7 +514,7 @@ SIR 38:32	1	1	Ἄνευ	ἄνευ	preposition with the genitive	1	without
 SIR 38:32	1	1	Ἄνευ			2	apart from
 SIR 38:32	1	2	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 SIR 38:32	1	3	οὐκ	οὐ	negative particle	1	not
-SIR 38:32	1	4	οἰκήσεται	οἰκέω	future passive indicative, third singular	1	will be inhabited
+SIR 38:32	1	4	οἰκήσεται	οἰκέω	future middle indicative, third singular	1	will be inhabited
 SIR 38:32	1	5	πόλις	πόλις	noun, nominative feminine singular	1	city
 SIR 38:32	1	6	καὶ	καί	conjunction	1	and
 SIR 38:32	1	7	οὐ	οὐ	negative particle	1	not
@@ -563,5 +563,5 @@ SIR 38:34	1	6	ἡ	ὁ	article, nominative feminine singular	1	the
 SIR 38:34	1	7	δέησις	δέησις	noun, nominative feminine singular	1	prayer
 SIR 38:34	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 SIR 38:34	1	9	ἐν	ἐν	preposition with the dative	1	in
-SIR 38:34	1	10	ἐργασίᾳ	ἔργον	noun, dative neuter singular	1	the work
+SIR 38:34	1	10	ἐργασίᾳ	ἐργασία	noun, dative feminine singular	1	the work
 SIR 38:34	1	11	τέχνης	τέχνη	noun, genitive fem. sg., craft/art	1	of craft

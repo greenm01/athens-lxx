@@ -21,7 +21,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 11:1	1	18	φέρων	φέρω	present active participle, nominative masculine singular	1	taking
 2MA 11:1	1	19	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2MA 11:1	1	20	τοῖς	ὁ	article, dative neuter plural	1	the things
-2MA 11:1	1	21	γεγονόσι	γίνομαι	perfect middle/passive participle, dative neuter plural	1	that had occurred
+2MA 11:1	1	21	γεγονόσι	γίνομαι	perfect active participle, dative neuter plural	1	that had occurred
 2MA 11:2	1	1	Συναθροίσας	συναθροίζω	aorist active participle, nominative masculine singular	1	gathering
 2MA 11:2	1	2	περὶ	περί	preposition with the genitive	1	about
 2MA 11:2	1	3	τὰς	ὁ	definite article, accusative feminine plural	1	the
@@ -190,7 +190,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 11:9	1	14	ἀνθρώπους	ἄνθρωπος	noun, accusative masculine plural	1	men
 2MA 11:9	1	15	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 2MA 11:9	1	16	καὶ	καί	conjunction	1	and
-2MA 11:9	1	17	θῆρας	θήρ	noun, accusative feminine plural	1	beasts
+2MA 11:9	1	17	θῆρας	θήρ	noun, accusative masculine plural	1	beasts
 2MA 11:9	1	18	δὲ	δέ	postpositive conjunction	1	and
 2MA 11:9	1	19	τοὺς	ὁ	article, accusative masculine plural	1	the
 2MA 11:9	1	20	ἀγριωτάτους	ἄγριος	superlative adjective, accusative masculine plural	1	fiercest
@@ -260,7 +260,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 11:13	1	6	ἑαυτὸν	ἑαυτοῦ	reflexive pronoun, accusative masculine singular	1	himself
 2MA 11:13	1	7	ἀντιβάλλων	ἀντιβάλλω	present active participle, nominative masculine singular	1	weighing up
 2MA 11:13	1	8	τὸ	ὁ	article, accusative neuter singular	1	the
-2MA 11:13	1	9	γεγονὸς	γίνομαι	perfect middle/passive participle, accusative neuter singular	1	that had happened
+2MA 11:13	1	9	γεγονὸς	γίνομαι	perfect active participle, accusative neuter singular	1	that had happened
 2MA 11:13	1	10	περὶ	περί	preposition with the accusative	1	around
 2MA 11:13	1	11	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 2MA 11:13	1	12	ἐλάττωμα	ἐλάττωμα	noun, accusative neuter singular	1	defeat
@@ -630,7 +630,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 11:34	1	12	Μέμμιος	Μέμμιος	noun, nominative masculine singular	1	Memmius
 2MA 11:34	1	13	Τίτος	Τίτος	noun, nominative masculine singular	1	Titus
 2MA 11:34	1	14	Μάνλιος	Μάνλιος	noun, nominative masculine singular	1	Manlius
-2MA 11:34	1	15	πρεσβύται	πρεσβύτερος	substantival comparative adjective, nominative masculine plural	1	envoys
+2MA 11:34	1	15	πρεσβύται	πρεσβύτης	noun, nominative masculine plural	1	envoys
 2MA 11:34	1	16	Ῥωμαίων	Ῥωμαῖος	noun, genitive masculine plural	1	of the Romans
 2MA 11:34	1	17	τῷ	ὁ	article, dative masculine singular	1	to the
 2MA 11:34	1	18	δήμῳ	δῆμος	noun, dative masculine singular	1	people

@@ -83,7 +83,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 5:4	1	8	συνετέλει	συντελέω	imperfect active indicative, third singular	1	was doing
 3MA 5:5	1	1	Οἵτε	ὅς	relative pronoun, nominative masculine plural	1	both the
 3MA 5:5	1	2	πρὸς	πρός	preposition with the accusative	1	to
-3MA 5:5	1	3	τούτοις	οὗτος	demonstrative pronoun, accusative neuter plural	1	these things
+3MA 5:5	1	3	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	1	these things
 3MA 5:5	1	4	λειτουργοὶ	λειτουργός	noun, nominative masculine plural	1	attendants
 3MA 5:5	1	5	κατὰ	κατά	preposition with the accusative	1	about
 3MA 5:5	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -478,7 +478,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 5:23	1	1	Ἄρτι	ἄρτι	adverb	1	just then
 3MA 5:23	1	2	δὲ	δέ	postpositive conjunction	1	and
 3MA 5:23	1	3	ἀλεκτρυὼν	ἀλεκτρυών	noun, nominative masculine singular	1	rooster
-3MA 5:23	1	4	ἐκέκραγεν	κράζω	perfect active indicative, third singular	1	had crowed
+3MA 5:23	1	4	ἐκέκραγεν	κράζω	pluperfect active indicative, third singular	1	had crowed
 3MA 5:23	1	4	ἐκέκραγεν			2	cried out
 3MA 5:23	1	5	ὄρθριος	ὄρθριος	adjective, nominative masculine singular	1	early in the morning
 3MA 5:23	1	6	καὶ	καί	conjunction	1	and
@@ -504,7 +504,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 5:24	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
 3MA 5:24	1	10	οἰκτροτάτην	οἰκτρός	adjective, accusative feminine singular	1	most pitiable
 3MA 5:24	1	11	θεωρίαν	θεωρία	noun, accusative feminine singular	1	spectacle
-3MA 5:24	1	12	προσδοκῶντα	προσδοκάω	present active participle, accusative neuter singular	1	expecting
+3MA 5:24	1	12	προσδοκῶντα	προσδοκάω	present active participle, nominative neuter plural	1	expecting
 3MA 5:24	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 3MA 5:24	1	14	πρωίαν	πρωία	adjective, accusative feminine singular	1	morning
 3MA 5:24	1	15	μετὰ	μετά	preposition with genitive	1	with
@@ -515,7 +515,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 5:25	1	3	Ἰουδαῖοι			2	Jews
 3MA 5:25	1	4	κατὰ	κατά	preposition with the accusative	1	during
 3MA 5:25	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
-3MA 5:25	1	6	ἀμερῆ	ἀμερής	adjective, accusative neuter singular	1	short
+3MA 5:25	1	6	ἀμερῆ	ἀμερής	adjective, accusative masculine singular	1	short
 3MA 5:25	1	7	ψυχουλκούμενοι	ψυχουλκέω	present middle/passive participle, nominative masculine plural	1	in mortal anguish
 3MA 5:25	1	8	χρόνον	χρόνος	noun, accusative masc. sg	1	time
 3MA 5:25	1	9	πολύδακρυν	πολύδακρυς	adjective, accusative feminine singular	1	tearful
@@ -896,7 +896,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 3MA 5:43	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 3MA 5:43	1	5	Ἰουδαίαν	Ἰουδαία	noun, accusative feminine singular; place name	1	Judea
 3MA 5:43	1	5	Ἰουδαίαν			2	Judah
-3MA 5:43	1	6	ἰσόπεδον	ἰσόπεδος	adjective, accusative neuter plural	1	level with the ground
+3MA 5:43	1	6	ἰσόπεδον	ἰσόπεδος	adjective, accusative feminine singular	1	level with the ground
 3MA 5:43	1	7	πυρὶ	πῦρ	noun, dative neuter singular	1	with fire
 3MA 5:43	1	8	καὶ	καί	conjunction	1	and
 3MA 5:43	1	9	δόρατι	δόρυ	noun, dative neuter singular	1	spear

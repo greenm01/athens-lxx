@@ -6,7 +6,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 4:1	1	5	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
 1MA 4:1	1	6	καὶ	καί	conjunction	1	and
 1MA 4:1	1	7	χιλίαν	χίλιοι	adjective, accusative feminine singular	1	a thousand
-1MA 4:1	1	8	ἵππον	ἵππος	noun, genitive feminine singular	1	cavalry
+1MA 4:1	1	8	ἵππον	ἵππος	noun, accusative feminine singular	1	cavalry
 1MA 4:1	1	9	ἐκλεκτὴν	ἐκλεκτός	adjective, accusative feminine singular	1	choice
 1MA 4:1	1	9	ἐκλεκτὴν			2	chosen
 1MA 4:1	1	10	καὶ	καί	conjunction	1	and
@@ -357,7 +357,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 4:20	1	13	θεωρούμενος	θεωρέω	present passive participle, nominative masculine singular	1	seen
 1MA 4:20	1	14	ἐνεφάνιζε	ἐμφανίζω	imperfect active indicative, third singular	1	manifested
 1MA 4:20	1	15	τὸ	ὁ	article, accusative neuter singular	1	the
-1MA 4:20	1	16	γεγονός	γίνομαι	perfect middle/passive participle, accusative neuter singular	1	event
+1MA 4:20	1	16	γεγονός	γίνομαι	perfect active participle, accusative neuter singular	1	event
 1MA 4:20	1	16	γεγονός			2	what had happened
 1MA 4:21	1	1	Οἱ	ὁ	article, nominative masculine plural	1	the
 1MA 4:21	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -492,7 +492,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 4:28	1	15	ἵππον	ἵππος	noun, accusative feminine singular	1	cavalry
 1MA 4:28	1	16	ὥστε	ὥστε	conjunction with infinitive expressing purpose	1	in order
 1MA 4:28	1	17	ἐκπολεμῆσαι	ἐκπολεμέω	aorist active infinitive	1	to wage war
-1MA 4:28	1	18	αὐτούς	αὐτός	pronoun, dative masculine plural	1	against them
+1MA 4:28	1	18	αὐτούς	αὐτός	personal pronoun, accusative masculine plural	1	against them
 1MA 4:29	1	1	Καὶ	καί	conjunction	1	and
 1MA 4:29	1	2	ἦλθον	ἔρχομαι	aorist active indicative, third plural	1	came
 1MA 4:29	1	3	εἰς	εἰς	preposition with the accusative	1	into
@@ -643,7 +643,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 4:35	1	12	Ἰούδα	Ἰούδας	noun, genitive masculine singular	1	of Judas
 1MA 4:35	1	13	τὸ	ὁ	article, accusative neuter singular	1	the
 1MA 4:35	1	14	γεγενημένον	γίνομαι	perfect middle/passive participle, accusative neuter singular	1	that occurred
-1MA 4:35	1	15	θάρσος	θάρσος	noun, dative neuter singular	1	courage
+1MA 4:35	1	15	θάρσος	θάρσος	noun, accusative neuter singular	1	courage
 1MA 4:35	1	16	καὶ	καί	conjunction	1	and
 1MA 4:35	1	17	ὡς	ὡς	comparative particle	1	as
 1MA 4:35	1	18	ἕτοιμοί	ἕτοιμος	adjective, nominative masculine plural	1	ready
@@ -1150,7 +1150,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 4:60	1	14	πύργους	πύργος	noun, accusative masculine plural	1	towers
 1MA 4:60	1	15	ὀχυροὺς	ὀχυρός	adjective, accusative masculine plural	1	fortified
 1MA 4:60	1	16	μήποτε	μήποτε	conjunction	1	lest
-1MA 4:60	1	17	παραγενηθέντα	παραγίνομαι	aorist passive participle, nominative neuter singular	1	coming
+1MA 4:60	1	17	παραγενηθέντα	παραγίνομαι	aorist passive participle, nominative neuter plural	1	coming
 1MA 4:60	1	18	τὰ	ὁ	article, accusative neuter plural	1	the
 1MA 4:60	1	19	ἔθνη	ἔθνος	noun, accusative neuter plural	1	nations
 1MA 4:60	1	19	ἔθνη			2	peoples

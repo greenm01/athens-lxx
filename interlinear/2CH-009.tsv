@@ -51,7 +51,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 9:1	1	46	αὐτῆς	αὐτός	pronoun, genitive feminine singular	1	her
 2CH 9:2	1	1	Καὶ	καί	conjunction	1	and
 2CH 9:2	1	2	ἀνήγγειλεν	ἀναγγέλλω	aorist active indicative, 3rd singular	1	declared
-2CH 9:2	1	3	αὐτῇ	αὐτός	pronoun, genitive feminine singular	1	to her
+2CH 9:2	1	3	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
 2CH 9:2	1	4	Σαλωμὼν	Σαλωμών	indeclinable personal name, genitive in context	1	Solomon
 2CH 9:2	1	4	Σαλωμὼν			2	Salomon
 2CH 9:2	1	5	πάντας	πᾶς	adjective, accusative masculine plural	1	all
@@ -70,7 +70,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 9:2	1	16	οὐκ	οὐ	negative particle	1	not
 2CH 9:2	1	17	ἀπήγγειλεν	ἀπαγγέλλω	aorist active indicative, third singular	1	reported
 2CH 9:2	1	17	ἀπήγγειλεν			2	told
-2CH 9:2	1	18	αὐτῇ	αὐτός	pronoun, genitive feminine singular	1	to her
+2CH 9:2	1	18	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
 2CH 9:3	1	1	Καὶ	καί	conjunction	1	and
 2CH 9:3	1	2	ἴδε	ὁράω	aorist active indicative, third singular	1	saw
 2CH 9:3	1	3	βασίλισσα	βασίλισσα	noun, nominative feminine singular	1	queen
@@ -303,7 +303,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 9:10	1	15	καὶ	καί	conjunction	1	and
 2CH 9:10	1	16	ξύλα	ξύλον	noun, accusative neuter plural	1	timber
 2CH 9:10	1	16	ξύλα			2	wood
-2CH 9:10	1	17	πεύκινα	πεύκινος	adjective, genitive neuter plural	1	of pine
+2CH 9:10	1	17	πεύκινα	πεύκινος	adjective, accusative neuter plural	1	of pine
 2CH 9:10	1	18	καὶ	καί	conjunction	1	and
 2CH 9:10	1	19	λίθον	λίθος	noun accusative masculine singular	1	stone
 2CH 9:10	1	20	τίμιον	τίμιος	adjective accusative masculine singular	1	precious
@@ -431,7 +431,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 9:15	1	9	ἐλατοὺς	ἐλατός	adjective, accusative masculine plural	1	hammered
 2CH 9:15	1	10	ἑξακόσιοι	ἑξακόσιοι	cardinal numeral, nominative masculine plural	1	six hundred
 2CH 9:15	1	11	χρυσοῖ	χρυσοῦς	substantival adjective, genitive masculine singular	1	of gold
-2CH 9:15	1	12	καθαροὶ	καθαρός	adjective, genitive masculine singular	1	pure
+2CH 9:15	1	12	καθαροὶ	καθαρός	adjective, nominative masculine plural	1	pure
 2CH 9:15	1	13	ἐπῆσαν	ἔπειμι	imperfect indicative, third plural	1	went
 2CH 9:15	1	14	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2CH 9:15	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -627,11 +627,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 9:24	1	7	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	his
 2CH 9:24	1	8	σκεύη	σκεῦος	noun, accusative neuter plural	1	articles
 2CH 9:24	1	8	σκεύη			2	vessels
-2CH 9:24	1	9	ἀργυρᾶ	ἀργύριον	noun, genitive neuter singular	1	of silver
+2CH 9:24	1	9	ἀργυρᾶ	ἀργυροῦς	adjective, accusative neuter plural	1	of silver
 2CH 9:24	1	10	καὶ	καί	conjunction	1	and
 2CH 9:24	1	11	σκεύη	σκεῦος	noun, accusative neuter plural	1	articles
 2CH 9:24	1	11	σκεύη			2	vessels
-2CH 9:24	1	12	χρυσᾶ	χρυσίον	noun, genitive neuter singular	1	of gold
+2CH 9:24	1	12	χρυσᾶ	χρυσοῦς	adjective, accusative neuter plural	1	of gold
 2CH 9:24	1	13	καὶ	καί	conjunction	1	and
 2CH 9:24	1	14	ἱματισμὸν	ἱματισμός	noun, accusative masculine singular	1	clothing
 2CH 9:24	1	14	ἱματισμὸν			2	raiment
@@ -653,7 +653,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 9:25	1	4	Σαλωμὼν			2	Salomon
 2CH 9:25	1	5	τέσσαρες	τέσσαρες	cardinal numeral, nominative masculine plural	1	four
 2CH 9:25	1	6	μυριάδες	μυριάς	noun, nominative feminine plural	1	tens of thousands
-2CH 9:25	1	7	θήλειαι	θῆλυς	adjective, genitive feminine plural	1	female
+2CH 9:25	1	7	θήλειαι	θῆλυς	adjective, nominative feminine plural	1	female
 2CH 9:25	1	8	ἵππων	ἵππος	noun, genitive feminine plural	1	horses
 2CH 9:25	1	9	εἰς	εἰς	preposition with the accusative	1	for
 2CH 9:25	1	10	ἅρματα	ἅρμα	noun, nominative neuter plural	1	chariots

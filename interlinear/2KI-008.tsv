@@ -6,7 +6,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:1	1	4	πρὸς	πρός	preposition with the accusative	1	to
 2KI 8:1	1	5	τὴν	ὁ	article, accusative feminine singular	1	the
 2KI 8:1	1	6	γυναῖκα	γυνή	noun, accusative feminine singular	1	woman
-2KI 8:1	1	7	ἧς	ὅς	relative pronoun, dative feminine singular; dative of interest	1	for whom
+2KI 8:1	1	7	ἧς	ὅς	relative pronoun, genitive feminine singular	1	for whom
 2KI 8:1	1	8	ἐζωπύρησε	ζωπυρέω	aorist active indicative, third singular	1	brought back to life
 2KI 8:1	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 8:1	1	10	υἱὸν	υἱός	noun, accusative masculine singular	1	son
@@ -90,7 +90,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:3	1	16	ἀλλοφύλων			2	people of another tribe
 2KI 8:3	1	17	καὶ	καί	conjunction	1	and
 2KI 8:3	1	18	ἦλθε	ἔρχομαι	aorist active indicative, third singular	1	came
-2KI 8:3	1	19	βοῆσαι	βοάω	present active infinitive	1	to appeal
+2KI 8:3	1	19	βοῆσαι	βοάω	aorist active infinitive	1	to appeal
 2KI 8:3	1	20	πρὸς	πρός	preposition with the accusative	1	to
 2KI 8:3	1	21	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 8:3	1	22	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
@@ -146,7 +146,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:5	1	12	ἰδοὺ	ἰδού	presentative particle	1	behold
 2KI 8:5	1	13	ἡ	ὁ	article, nominative feminine singular	1	the
 2KI 8:5	1	14	γυνὴ	γυνή	noun, nominative feminine singular	1	woman
-2KI 8:5	1	15	ἧς	ὅς	relative pronoun, dative feminine singular; dative of interest	1	for whom
+2KI 8:5	1	15	ἧς	ὅς	relative pronoun, genitive feminine singular	1	for whom
 2KI 8:5	1	16	ἐζωπύρησε	ζωπυρέω	aorist active indicative, third singular	1	brought back to life
 2KI 8:5	1	17	τὸν	ὁ	article, accusative masculine singular	1	the
 2KI 8:5	1	18	υἱὸν	υἱός	noun, accusative masculine singular	1	son
@@ -615,7 +615,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:20	1	11	καὶ	καί	conjunction	1	and
 2KI 8:20	1	12	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	made king
 2KI 8:20	1	13	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
-2KI 8:20	1	14	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, accusative masculine plural in context	1	themselves
+2KI 8:20	1	14	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	themselves
 2KI 8:20	1	15	βασιλέα	βασιλεύς	noun, accusative masculine singular	1	king
 2KI 8:21	1	1	Καὶ	καί	conjunction	1	and
 2KI 8:21	1	2	ἀνέβη	ἀναβαίνω	aorist active indicative, third singular	1	went up
@@ -641,7 +641,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 8:21	1	22	κυκλώσαντα	κυκλόω	aorist active participle, accusative masculine singular	1	who surrounded
 2KI 8:21	1	23	ἐπ᾽	ἐπί	elided preposition with the accusative	1	against
 2KI 8:21	1	23	ἐπ᾽			2	upon
-2KI 8:21	1	24	αὐτὸν	αὐτός	pronoun, genitive masculine singular	1	him
+2KI 8:21	1	24	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 2KI 8:21	1	25	καὶ	καί	conjunction	1	and
 2KI 8:21	1	26	τοὺς	ὁ	article, accusative masculine plural	1	the
 2KI 8:21	1	27	ἄρχοντας	ἄρχων	noun, accusative masculine plural	1	rulers

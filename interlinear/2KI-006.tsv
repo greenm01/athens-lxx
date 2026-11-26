@@ -422,7 +422,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 6:19	1	9	ὁδός	ὁδός	noun nominative feminine singular	1	way
 2KI 6:19	1	10	καὶ	καί	conjunction	1	and
 2KI 6:19	1	11	οὐχ	οὐ	negative particle	1	not
-2KI 6:19	1	12	αὕτη	αὐτός	pronoun, accusative feminine singular	1	it
+2KI 6:19	1	12	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	it
 2KI 6:19	1	13	ἡ	ὁ	article, nominative feminine singular	1	the
 2KI 6:19	1	14	πόλις	πόλις	noun, nominative feminine singular	1	city
 2KI 6:19	1	15	δεῦτε	δεῦτε	exhortative adverb addressed to several people	1	come
@@ -507,7 +507,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 6:22	1	14	σου	σύ	pronoun, possessive genitive second singular	1	your
 2KI 6:22	1	15	σὺ	σύ	pronoun, nominative 2nd singular	1	you
 2KI 6:22	1	16	τύπτεις	τύπτω	present active indicative, second person singular	1	do you strike
-2KI 6:22	1	17	παράθες	παρατίθημι	aorist middle imperative, second singular	1	set before
+2KI 6:22	1	17	παράθες	παρατίθημι	aorist active imperative, second singular	1	set before
 2KI 6:22	1	18	ἄρτους	ἄρτος	noun, accusative masculine plural	1	loaves
 2KI 6:22	1	18	ἄρτους			2	bread
 2KI 6:22	1	19	καὶ	καί	conjunction	1	and

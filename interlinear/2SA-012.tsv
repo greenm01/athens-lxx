@@ -42,9 +42,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 12:3	1	4	οὐδὲν	οὐδείς	substantival adjective, nominative neuter singular	1	nothing
 2SA 12:3	1	5	ἀλλ	ἀλλά	conjunction	1	but
 2SA 12:3	1	6	ἢ	ἤ	exceptive particle in a compound conjunction	1	—
-2SA 12:3	1	7	ἀμνὰς	ἀμνάς	noun, accusative feminine singular	1	ewe lamb
+2SA 12:3	1	7	ἀμνὰς	ἀμνάς	noun, nominative feminine singular	1	ewe lamb
 2SA 12:3	1	8	μία	εἷς	cardinal numeral, nominative feminine singular	1	one
-2SA 12:3	1	9	μικρὰ	μικρός	adjective, accusative feminine singular	1	small
+2SA 12:3	1	9	μικρὰ	μικρός	adjective, nominative feminine singular	1	small
 2SA 12:3	1	10	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 2SA 12:3	1	11	ἐκτήσατο	κτάομαι	aorist middle indicative, third singular	1	he acquired
 2SA 12:3	1	12	καὶ	καί	conjunction	1	and
@@ -707,7 +707,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 12:23	1	10	μὴ	μή	negative particle	1	not
 2SA 12:23	1	11	δυνήσομαι	δύναμαι	future middle indicative, first singular	1	will I be able
 2SA 12:23	1	12	ἐπιστρέψαι	ἐπιστρέφω	aorist active infinitive	1	to turn
-2SA 12:23	1	13	αὐτὸ	αὐτός	pronoun, accusative masculine singular	1	him
+2SA 12:23	1	13	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	him
 2SA 12:23	1	14	ἔτι	ἔτι	temporal adverb	1	still
 2SA 12:23	1	15	ἐγὼ	ἐγώ	personal pronoun, nominative singular, emphatic	1	I
 2SA 12:23	1	16	πορεύσομαι	πορεύομαι	future middle indicative, first singular	1	will go
@@ -779,7 +779,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 12:26	1	6	υἱῶν	υἱός	noun, genitive masculine plural	1	of the sons
 2SA 12:26	1	7	Ἀμμὼν	Ἀμμών	indeclinable national name, genitive in context	1	of Ammon
 2SA 12:26	1	8	καὶ	καί	conjunction	1	and
-2SA 12:26	1	9	κατέλαβε	καταλαμβάνω	aorist middle indicative, third singular	1	captured
+2SA 12:26	1	9	κατέλαβε	καταλαμβάνω	aorist active indicative, third singular	1	captured
 2SA 12:26	1	10	τὴν	ὁ	article, accusative feminine singular	1	the
 2SA 12:26	1	11	πόλιν	πόλις	noun, accusative feminine singular	1	city
 2SA 12:26	1	12	τῆς	ὁ	article, genitive feminine singular	1	of the
@@ -883,7 +883,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 12:30	1	30	πόλεως	πόλις	noun, genitive feminine singular	1	city
 2SA 12:30	1	30	πόλεως			2	town
 2SA 12:30	1	31	ἐξήνεγκε	ἐκφέρω	aorist active indicative, third person singular	1	he took out
-2SA 12:30	1	32	πολλὰ	πολύς	adjective, accusative feminine singular	1	much
+2SA 12:30	1	32	πολλὰ	πολύς	adjective, accusative neuter plural	1	much
 2SA 12:30	1	33	σφόδρα	σφόδρα	adverb	1	greatly
 2SA 12:31	1	1	Καὶ	καί	conjunction	1	and
 2SA 12:31	1	2	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -904,7 +904,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 12:31	1	15	τοῖς	ὁ	article, dative masculine plural	1	the
 2SA 12:31	1	16	τριβόλοις	τρίβολος	noun, dative masculine plural	1	threshing sledges
 2SA 12:31	1	16	τριβόλοις			2	spiked implements
-2SA 12:31	1	17	τοῖς	ὁ	article, genitive masculine singular	1	of
+2SA 12:31	1	17	τοῖς	ὁ	article, dative masculine plural	1	of
 2SA 12:31	1	18	σιδηροῖς	σίδηρος	noun, genitive masculine singular	1	iron
 2SA 12:31	1	19	καὶ	καί	conjunction	1	and
 2SA 12:31	1	20	διήγαγεν	διάγω	aorist active indicative, third singular	1	made pass through

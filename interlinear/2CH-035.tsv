@@ -139,7 +139,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 35:5	1	20	μερὶς			2	portion
 2CH 35:5	1	21	οἴκου	οἶκος	noun, genitive masculine singular	1	of a house
 2CH 35:5	1	22	πατριᾶς	πατριά	noun, genitive feminine singular	1	of the family
-2CH 35:5	1	23	τοῖς	ὁ	article, genitive masculine plural	1	for the
+2CH 35:5	1	23	τοῖς	ὁ	article, dative masculine plural	1	for the
 2CH 35:5	1	24	Λευίταις	Λευίτης	proper noun, dative masculine plural	1	Levites
 2CH 35:6	1	1	Καὶ	καί	conjunction	1	and
 2CH 35:6	1	2	θύσατε	θύω	aorist active imperative, second plural	1	sacrifice
@@ -338,8 +338,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 35:12	1	14	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 2CH 35:12	1	15	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2CH 35:12	1	16	λαοῦ	λαός	noun, genitive masculine singular	1	people
-2CH 35:12	1	17	τοῦ	ὁ	article, dative masculine plural, introduces the participle	1	—
-2CH 35:12	1	18	προσάγειν	προσάγω	present active participle, dative masculine plural	1	who bring offerings
+2CH 35:12	1	17	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive	1	—
+2CH 35:12	1	18	προσάγειν	προσάγω	present active infinitive	1	who bring offerings
 2CH 35:12	1	19	τῷ	ὁ	article, dative masculine singular	1	to the
 2CH 35:12	1	20	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
 2CH 35:12	1	21	ὡς	ὡς	adverb	1	like
@@ -436,7 +436,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 35:15	1	17	Αἰμὰν	Αἱμάν	personal name, indeclinable; possessive in context	1	of Heman
 2CH 35:15	1	18	καὶ	καί	conjunction	1	and
 2CH 35:15	1	19	Ἰδιθοὺν	Ἰδιθούν	personal name, indeclinable; possessive in context	1	of Jeduthun
-2CH 35:15	1	20	οἱ	ὁ	article, genitive masculine plural	1	the
+2CH 35:15	1	20	οἱ	ὁ	article, nominative masculine plural	1	the
 2CH 35:15	1	21	προφῆται	προφήτης	noun, nominative masculine plural	1	prophets
 2CH 35:15	1	22	τοῦ	ὁ	article, genitive masculine singular	1	of the
 2CH 35:15	1	23	βασιλέως	βασιλεύς	noun, genitive masculine singular	1	king
@@ -457,7 +457,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 35:15	1	38	ἀπὸ	ἀπό	preposition with the genitive	1	from
 2CH 35:15	1	39	τῆς	ὁ	article, genitive feminine singular	1	the
 2CH 35:15	1	40	λειτουργίας	λειτουργία	noun, genitive feminine singular	1	service
-2CH 35:15	1	41	ἁγίων	ἅγιος	substantival adjective, genitive neuter singular	1	of the sanctuary
+2CH 35:15	1	41	ἁγίων	ἅγιος	substantival adjective, genitive neuter plural	1	of the sanctuary
 2CH 35:15	1	42	ὅτι	ὅτι	causal conjunction	1	because
 2CH 35:15	1	43	ἀδελφοὶ	ἀδελφός	noun, nominative masculine plural	1	brothers
 2CH 35:15	1	44	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -715,7 +715,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 35:20	1	136	πόλιν	πόλις	noun, accusative feminine singular	1	city
 2CH 35:20	1	137	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 2CH 35:20	1	138	ἐξελεξάμην	ἐκλέγομαι	aorist middle indicative, first singular	1	I chose
-2CH 35:20	1	139	τὴν	ὁ	article, accusative masculine singular; before a name, marks the name	1	—
+2CH 35:20	1	139	τὴν	ὁ	article, accusative feminine singular; before a name, marks the name	1	—
 2CH 35:20	1	140	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, accusative in context	1	Jerusalem
 2CH 35:20	1	141	καὶ	καί	conjunction	1	and
 2CH 35:20	1	142	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -770,7 +770,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 35:21	1	17	σήμερον	σήμερον	adverb of time	1	today
 2CH 35:21	1	18	πόλεμον	πόλεμος	noun, accusative masculine singular	1	war
 2CH 35:21	1	18	πόλεμον			2	battle
-2CH 35:21	1	19	ποιῆσαι	ποιέω	present active participle, nominative masculine singular	1	waging
+2CH 35:21	1	19	ποιῆσαι	ποιέω	aorist active infinitive	1	waging
 2CH 35:21	1	20	καὶ	καί	conjunction	1	and
 2CH 35:21	1	21	ὁ	ὁ	article, nominative masculine singular	1	the
 2CH 35:21	1	22	Θεὸς	θεός	noun, nominative masculine singular	1	God
@@ -913,7 +913,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 35:25	1	26	Ἰσραήλ	Ἰσραὴλ	indeclinable personal name, accusative in context	1	Israel
 2CH 35:25	1	27	καὶ	καί	conjunction	1	and
 2CH 35:25	1	28	ἰδοὺ	ἰδού	presentative particle	1	behold
-2CH 35:25	1	29	γέγραπται	γράφω	perfect passive participle, nominative neuter plural	1	written
+2CH 35:25	1	29	γέγραπται	γράφω	perfect middle/passive indicative, third singular	1	written
 2CH 35:25	1	30	ἐπὶ	ἐπί	preposition (case from context)	1	on
 2CH 35:25	1	31	τῶν	ὁ	article, genitive plural	1	the
 2CH 35:25	1	32	θρήνων	θρῆνος	noun, genitive masculine plural	1	Laments
@@ -945,7 +945,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 35:27	1	11	ἰδοὺ	ἰδού	presentative particle	1	behold
 2CH 35:27	1	12	γεγραμμένοι	γράφω	perfect middle/passive participle, nominative masculine plural	1	recorded
 2CH 35:27	1	13	ἐπὶ	ἐπί	preposition (case from context)	1	on
-2CH 35:27	1	14	βιβλίῳ	βιβλίον	noun, accusative neuter singular	1	the book
+2CH 35:27	1	14	βιβλίῳ	βιβλίον	noun, dative neuter singular	1	the book
 2CH 35:27	1	15	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	of the kings
 2CH 35:27	1	16	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2CH 35:27	1	17	καὶ	καί	conjunction	1	and

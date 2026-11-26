@@ -181,7 +181,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 2:7	1	8	γίνεσθε	γίνομαι	present middle imperative, 2nd pl.	1	be
 2SA 2:7	1	9	εἰς	εἰς	preposition marking role or result	1	as
 2SA 2:7	1	10	υἱοὺς	υἱός	noun, accusative masculine plural	1	sons
-2SA 2:7	1	11	δυνατοὺς	δυνατός	adjective, nominative masculine plural	1	valiant
+2SA 2:7	1	11	δυνατοὺς	δυνατός	adjective, accusative masculine plural	1	valiant
 2SA 2:7	1	11	δυνατοὺς			2	strong
 2SA 2:7	1	12	ὅτι	ὅτι	explanatory conjunction	1	because
 2SA 2:7	1	13	τέθνηκεν	θνῄσκω	perfect active indicative, third singular	1	has died
@@ -387,7 +387,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 2:15	1	8	παίδων	παῖς	noun, genitive masculine plural after τῶν	1	servants
 2SA 2:15	1	9	Βενιαμὶν	Βενιαμίν	indeclinable tribal name, genitive in context	1	of Benjamin
 2SA 2:15	1	10	δώδεκα	δώδεκα	indeclinable cardinal numeral	1	twelve
-2SA 2:15	1	11	τῶν	ὁ	article, dative masculine singular	1	for
+2SA 2:15	1	11	τῶν	ὁ	article, genitive masculine plural	1	for
 2SA 2:15	1	12	Ἰσβοσθὲ	Ἰσβοσθέ	indeclinable personal name, dative in context	1	Ishbosheth
 2SA 2:15	1	12	Ἰσβοσθὲ			2	Ish-bosheth
 2SA 2:15	1	13	υἱοῦ	υἱός	noun, genitive masculine singular	1	son
@@ -482,8 +482,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 2:18	1	13	Ἀσαὴλ			2	Asael
 2SA 2:18	1	14	κοῦφος	κοῦφος	adjective, nominative masculine singular	1	swift
 2SA 2:18	1	14	κοῦφος			2	light
-2SA 2:18	1	15	τοῖς	ὁ	article, accusative masculine plural	1	in
-2SA 2:18	1	16	ποσὶν	πούς	noun, accusative masculine plural	1	feet
+2SA 2:18	1	15	τοῖς	ὁ	article, dative masculine plural	1	in
+2SA 2:18	1	16	ποσὶν	πούς	noun, dative masculine plural	1	feet
 2SA 2:18	1	17	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2SA 2:18	1	18	ὡσεὶ	ὡσεί	comparative particle	1	like
 2SA 2:18	1	19	μία	εἷς	cardinal numeral, nominative feminine singular	1	one
@@ -703,7 +703,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 2:24	1	25	ἔρημον	ἔρημος	adjective, accusative feminine singular	1	wilderness
 2SA 2:24	1	26	Γαβαών	Γαβαών	indeclinable place name, case from construction	1	Gibeon
 2SA 2:25	1	1	Καὶ	καί	conjunction	1	and
-2SA 2:25	1	2	συναθροίζονται	συνάγω	aorist passive indicative, third plural	1	gathered
+2SA 2:25	1	2	συναθροίζονται	συναθροίζω	present middle/passive indicative, third plural	1	gathered
 2SA 2:25	1	3	υἱοὶ	υἱός	noun, nominative masculine plural	1	sons
 2SA 2:25	1	4	Βενιαμὶν	Βενιαμίν	indeclinable personal name, nominative in context	1	of Benjamin
 2SA 2:25	1	5	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -720,7 +720,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 2:25	1	13	καὶ	καί	conjunction	1	and
 2SA 2:25	1	14	ἔστησαν	ἵστημι	aorist active indicative, third plural (intransitive)	1	stood
 2SA 2:25	1	15	ἐπὶ	ἐπί	preposition (case from context)	1	on
-2SA 2:25	1	16	κεφαλὴν	κεφαλή	noun, genitive feminine singular	1	the top
+2SA 2:25	1	16	κεφαλὴν	κεφαλή	noun, accusative feminine singular	1	the top
 2SA 2:25	1	17	βουνοῦ	βουνός	noun, genitive masculine singular	1	of a hill
 2SA 2:25	1	18	ἑνός	εἷς	cardinal numeral, genitive masculine singular	1	one
 2SA 2:26	1	1	Καὶ	καί	conjunction	1	and

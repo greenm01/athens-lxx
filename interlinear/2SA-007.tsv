@@ -36,7 +36,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:2	1	12	κατοικῶ	κατοικέω	present active indicative, first singular	1	dwell
 2SA 7:2	1	13	ἐν	ἐν	preposition with the dative	1	in
 2SA 7:2	1	14	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
-2SA 7:2	1	15	κεδρίνῳ	κέδρος	noun, genitive feminine singular	1	of cedar
+2SA 7:2	1	15	κεδρίνῳ	κέδρινος	adjective, dative masculine singular	1	of cedar
 2SA 7:2	1	16	καὶ	καί	conjunction	1	and
 2SA 7:2	1	17	ἡ	ὁ	article, nominative feminine singular	1	the
 2SA 7:2	1	18	κιβωτὸς	κιβωτός	noun, nominative feminine singular	1	ark
@@ -161,7 +161,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:8	1	4	μοι	ἐγώ	personal pronoun, dative singular	1	to me
 2SA 7:8	1	5	οἶκον	οἶκος	noun, accusative masculine singular	1	house
 2SA 7:8	1	5	οἶκον			2	household
-2SA 7:8	1	6	κέδρινον	κέδρος	noun, genitive feminine singular	1	of cedar
+2SA 7:8	1	6	κέδρινον	κέδρινος	adjective, accusative masculine singular	1	of cedar
 2SA 7:8	1	7	Καὶ	καί	conjunction	1	and
 2SA 7:8	1	8	νῦν	νῦν	adverb of time	1	now
 2SA 7:8	1	9	τάδε	ὅδε	demonstrative pronoun, accusative neuter plural, introducing the message 'these things'	1	these things
@@ -258,7 +258,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:10	1	24	υἱὸς	υἱός	noun, nominative masculine singular; singular in the printed text	1	son
 2SA 7:10	1	25	ἀδικίας	ἀδικία	noun, genitive feminine singular	1	of wrongdoing
 2SA 7:10	1	26	τοῦ	ὁ	article, genitive neuter singular, introduces the infinitive	1	—
-2SA 7:10	1	27	ταπεινῶσαι	ταπεινόω	present active infinitive	1	to oppress
+2SA 7:10	1	27	ταπεινῶσαι	ταπεινόω	aorist active infinitive	1	to oppress
 2SA 7:10	1	27	ταπεινῶσαι			2	to subdue
 2SA 7:10	1	28	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	it
 2SA 7:10	1	29	καθὼς	καθώς	comparative conjunction	1	just as
@@ -392,7 +392,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:15	1	10	ἀπέστησα	ἀφίστημι	aorist active indicative, first singular	1	I removed
 2SA 7:15	1	10	ἀπέστησα			2	I put away
 2SA 7:15	1	11	ἀφ	ἀπό	preposition with the genitive	1	from
-2SA 7:15	1	12	ὧν	ὅς	relative pronoun, genitive masculine singular	1	the one whom
+2SA 7:15	1	12	ὧν	ὅς	relative pronoun, genitive masculine plural	1	the one whom
 2SA 7:15	1	13	ἀπέστησα	ἀφίστημι	aorist active indicative, first singular	1	I removed
 2SA 7:15	1	13	ἀπέστησα			2	I put away
 2SA 7:15	1	14	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -466,7 +466,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:18	1	22	μου	ἐγώ	personal pronoun, possessive genitive singular	1	my
 2SA 7:18	1	22	μου			2	of me
 2SA 7:18	1	23	ὅτι	ὅτι	causal conjunction	1	because
-2SA 7:18	1	24	ἠγάπηκάς	ἀγαπάω	aorist active indicative, second singular	1	you loved
+2SA 7:18	1	24	ἠγάπηκάς	ἀγαπάω	perfect active indicative, second singular	1	you loved
 2SA 7:18	1	25	με	ἐγώ	personal pronoun, accusative singular	1	me
 2SA 7:18	1	26	ἕως	ἕως	temporal conjunction/preposition	1	until
 2SA 7:18	1	27	τούτων	οὗτος	demonstrative pronoun, genitive neuter plural	1	these things
@@ -617,7 +617,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:23	1	36	τοῦ	ὁ	article, genitive singular	1	the
 2SA 7:23	1	37	λαοῦ	λαός	noun, genitive masculine singular	1	people
 2SA 7:23	1	38	σου	σύ	pronoun, possessive genitive second singular	1	your
-2SA 7:23	1	39	οὓς	ὅς	relative pronoun, accusative masculine singular	1	whom
+2SA 7:23	1	39	οὓς	ὅς	relative pronoun, accusative masculine plural	1	whom
 2SA 7:23	1	40	ἐλυτρώσω	λυτρόω	aorist middle indicative, 2nd sg.	1	you redeemed
 2SA 7:23	1	41	σεαυτῷ	σεαυτοῦ	reflexive pronoun, dative masculine singular	1	for yourself
 2SA 7:23	1	42	ἐξ	ἐκ	preposition with the genitive	1	from
@@ -679,7 +679,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 7:26	1	5	σου	σύ	pronoun, possessive genitive second singular	1	your
 2SA 7:26	1	6	ἕως	ἕως	temporal conjunction/preposition	1	until
 2SA 7:26	1	7	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	1	eternity
-2SA 7:26	1	8	λέγων	λέγω	present active participle, accusative masculine singular	1	saying
+2SA 7:26	1	8	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
 2SA 7:26	1	9	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
 2SA 7:26	1	10	παντοκράτωρ	παντοκράτωρ	noun used as divine title	1	Almighty
 2SA 7:26	1	11	Θεὸς	θεός	noun, nominative masculine singular	1	God

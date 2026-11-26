@@ -290,7 +290,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 12:15	1	17	οἱ	ὁ	article, nominative masculine plural	1	the
 1MA 12:15	1	18	ἐχθροὶ	ἐχθρός	adjective, nominative masculine plural; substantival	1	enemies
 1MA 12:15	1	19	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	1	our
-1MA 12:16	1	1	Ἐπελέξαμεν	ἐπιλέγω	aorist middle indicative, first plural	1	we chose
+1MA 12:16	1	1	Ἐπελέξαμεν	ἐπιλέγω	aorist active indicative, first plural	1	we chose
 1MA 12:16	1	2	οὖν	οὖν	inferential particle	1	then
 1MA 12:16	1	3	Νουμήνιον	Νουμήνιος	noun, accusative masculine singular	1	Numenius
 1MA 12:16	1	4	Ἀντιόχου	Ἀντίοχος	noun, genitive masculine singular	1	son of Antiochus
@@ -710,7 +710,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 12:36	1	23	ᾖ	εἰμί	present active subjunctive, third singular	1	might stand
 1MA 12:36	1	24	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 1MA 12:36	1	25	κατὰ	κατά	preposition with the accusative	1	by
-1MA 12:36	1	26	μόνας	μόνος	adjective, genitive feminine plural; κατὰ μόνας idiom	1	itself
+1MA 12:36	1	26	μόνας	μόνος	adjective, accusative feminine plural; κατὰ μόνας idiom	1	itself
 1MA 12:36	1	26	μόνας			2	by itself
 1MA 12:36	1	27	ὅπως	ὅπως	conjunction of purpose with the subjunctive	1	so that
 1MA 12:36	1	27	ὅπως			2	in order that
@@ -890,7 +890,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 12:45	1	6	τοὺς	ὁ	article, accusative masculine plural	1	the
 1MA 12:45	1	7	οἴκους	οἶκος	noun, accusative masculine plural after τοὺς/eἰς τοὺς	1	houses
 1MA 12:45	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-1MA 12:45	1	9	ἐπίλεξον	ἐπιλέγω	aorist middle imperative, 2nd sg. with dative σεαυτῷ 'choose for yourself'	1	choose
+1MA 12:45	1	9	ἐπίλεξον	ἐπιλέγω	aorist active imperative, second singular; with dative σεαυτῷ 'choose for yourself'	1	choose
 1MA 12:45	1	10	δὲ	δέ	postpositive conjunction	1	and
 1MA 12:45	1	11	σεαυτῷ	σεαυτοῦ	reflexive pronoun, dative masc. sg.	1	for yourself
 1MA 12:45	1	12	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
@@ -1025,7 +1025,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 12:50	1	14	ἑαυτοὺς	ἑαυτοῦ	pronoun, accusative masculine plural	1	one another
 1MA 12:50	1	15	καὶ	καί	conjunction	1	and
 1MA 12:50	1	16	ἐπορεύοντο	πορεύομαι	imperfect middle indicative, third plural	1	were travelling
-1MA 12:50	1	17	συνεστραμμένοι	συστρέφω	perfect passive participle, accusative masculine plural	1	in close formation
+1MA 12:50	1	17	συνεστραμμένοι	συστρέφω	perfect passive participle, nominative masculine plural	1	in close formation
 1MA 12:50	1	18	ἕτοιμοι	ἕτοιμος	adjective, nominative masc. pl.	1	ready
 1MA 12:50	1	19	εἰς	εἰς	preposition with the accusative	1	into
 1MA 12:50	1	20	πόλεμον	πόλεμος	noun, accusative masculine singular	1	war

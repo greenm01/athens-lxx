@@ -114,7 +114,7 @@ JDG 13:5	1	15	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 13:5	1	16	κεφαλὴν	κεφαλή	noun, accusative feminine singular after ἐπὶ τὴν	1	head
 JDG 13:5	1	17	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 JDG 13:5	1	18	ὅτι	ὅτι	conjunction introducing a content clause	1	because
-JDG 13:5	1	19	ἡγιασμένον	ἅγιος	adjective, nominative masculine singular	1	holy
+JDG 13:5	1	19	ἡγιασμένον	ἁγιάζω	perfect passive participle, nominative neuter singular	1	holy
 JDG 13:5	1	19	ἡγιασμένον			2	consecrated
 JDG 13:5	1	20	Ναζειραῖον	Ναζιραῖος	noun, accusative masculine singular	1	a Nazirite
 JDG 13:5	1	21	ἔσται	εἰμί	future indicative, third singular	1	will be
@@ -202,8 +202,8 @@ JDG 13:7	1	18	σίκερα	σίκερα	indeclinable noun, accusative in context
 JDG 13:7	1	19	καὶ	καί	conjunction	1	and
 JDG 13:7	1	20	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	do not
 JDG 13:7	1	21	φάγῃς	ἐσθίω	aorist active subjunctive, 2nd sg. in command	1	eat
-JDG 13:7	1	22	πᾶσαν	πᾶς	adjective, accusative neuter singular	1	any
-JDG 13:7	1	23	ἀκαθαρσίαν	ἀκάθαρτος	adjective, accusative neuter singular	1	uncleanness
+JDG 13:7	1	22	πᾶσαν	πᾶς	adjective, accusative feminine singular	1	any
+JDG 13:7	1	23	ἀκαθαρσίαν	ἀκαθαρσία	noun, accusative feminine singular	1	uncleanness
 JDG 13:7	1	24	ὅτι	ὅτι	causal/that conjunction (from context)	1	because
 JDG 13:7	1	25	Ναζειραῖον	Ναζιραῖος	noun, accusative masculine singular	1	a Nazirite
 JDG 13:7	1	26	Θεοῦ	θεός	noun, genitive masculine singular	1	of God
@@ -221,7 +221,7 @@ JDG 13:8	1	1	Καὶ	καί	conjunction	1	and
 JDG 13:8	1	2	ἐδεήθη	δέομαι	aorist passive indicative, 3rd sg., pleaded/besought	1	pleaded
 JDG 13:8	1	3	Μανωὲ	Μανωέ	indeclinable personal name	1	Manoah
 JDG 13:8	1	3	Μανωὲ			2	Manoe
-JDG 13:8	1	4	τοῦ	ὁ	article, accusative masculine singular	1	the
+JDG 13:8	1	4	τοῦ	ὁ	article, genitive masculine singular	1	the
 JDG 13:8	1	5	Κυρίου	κύριος	noun, accusative masculine singular	1	Lord
 JDG 13:8	1	6	καὶ	καί	conjunction	1	and
 JDG 13:8	1	7	εἶπεν	λέγω	aorist active indicative, third singular	1	said
@@ -550,7 +550,7 @@ JDG 13:20	1	1	Καὶ	καί	conjunction	1	and
 JDG 13:20	1	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	1	it came to pass
 JDG 13:20	1	3	ἐν	ἐν	preposition marking time with an articular infinitive	1	when
 JDG 13:20	1	4	τῷ	ὁ	article, dative neuter singular	1	—
-JDG 13:20	1	5	ἀναβῆναι	ἀναβαίνω	present active infinitive	1	went up
+JDG 13:20	1	5	ἀναβῆναι	ἀναβαίνω	aorist active infinitive	1	went up
 JDG 13:20	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 JDG 13:20	1	7	φλόγα	φλόξ	noun, accusative feminine singular	1	flame
 JDG 13:20	1	8	ἐπάνωθεν	ἐπάνωθεν	adverb, above/over	1	above

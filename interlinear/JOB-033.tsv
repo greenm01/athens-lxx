@@ -61,7 +61,7 @@ JOB 33:5	1	9	καὶ	καί	conjunction	1	and
 JOB 33:5	1	10	στῆθι	ἵστημι	aorist active imperative, second singular (intransitive second aorist)	1	stand
 JOB 33:5	1	11	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
 JOB 33:5	1	12	κατ᾽	κατά	preposition with the genitive, elided, against	1	against
-JOB 33:5	1	13	ἐμὲ	ἐγώ	personal pronoun, dative first singular	1	me
+JOB 33:5	1	13	ἐμὲ	ἐγώ	personal pronoun, accusative first singular	1	me
 JOB 33:5	1	14	καὶ	καί	conjunction	1	and
 JOB 33:5	1	15	ἐγὼ	ἐγώ	personal pronoun nominative first singular	1	I
 JOB 33:5	1	16	κατὰ	κατά	preposition with the accusative	1	against
@@ -182,7 +182,7 @@ JOB 33:14	1	11	δευτέρῳ	δεύτερος	ordinal adjective, dative mascul
 JOB 33:15	1	1	ἐνύπνιον	ἐνύπνιον	noun, nominative neuter singular	1	a dream
 JOB 33:15	1	2	ἢ	ἤ	conjunction	1	or
 JOB 33:15	1	3	ὡς	ὡς	comparative adverb/conjunction	1	like
-JOB 33:15	1	4	φάσμα	φάσμα	noun, dative neuter singular	1	an apparition
+JOB 33:15	1	4	φάσμα	φάσμα	noun, nominative neuter singular	1	an apparition
 JOB 33:15	1	5	ἐν	ἐν	preposition with the dative	1	in
 JOB 33:15	1	6	μελέτῃ	μελέτη	noun dative feminine singular	1	meditation
 JOB 33:15	1	7	νυκτερινῇ	νυκτερινός	adjective, dative feminine singular	1	of the night
@@ -355,7 +355,7 @@ JOB 33:25	1	7	νηπίου	νήπιος	adjective, genitive masculine singular	1
 JOB 33:25	1	8	καὶ	καί	conjunction	1	and
 JOB 33:25	1	9	ἀποκαταστήσει	ἀποκαθίστημι	future active indicative, third singular	1	will restore
 JOB 33:25	1	10	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
-JOB 33:25	1	11	ἀνδρωθέντα	ἀνδρόω	aorist passive participle, accusative neuter singular	1	grown up
+JOB 33:25	1	11	ἀνδρωθέντα	ἀνδρόω	aorist passive participle, accusative masculine singular	1	grown up
 JOB 33:25	1	12	ἐν	ἐν	preposition with the dative	1	in
 JOB 33:25	1	13	ἀνθρώποις	ἄνθρωπος	noun, dative masculine plural	1	human beings
 JOB 33:26	1	1	Εὔξεται	εὔχομαι	future middle indicative, third singular	1	he will pray
@@ -413,7 +413,7 @@ JOB 33:28	1	15	ὄψεται	ὁράω	future middle indicative, third singular	
 JOB 33:29	1	1	Ἰδοὺ	ἰδού	interjection	1	behold
 JOB 33:29	1	2	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 JOB 33:29	1	3	πάντα	πᾶς	adjective, accusative neuter plural	1	all
-JOB 33:29	1	4	ἐργᾶται	ἐργάζομαι	present middle/passive indicative, third singular	1	works
+JOB 33:29	1	4	ἐργᾶται	ἐργάζομαι	future middle indicative, third singular	1	works
 JOB 33:29	1	5	ὁ	ὁ	article, nominative masculine singular	1	the
 JOB 33:29	1	6	ἰσχυρὸς	ἰσχυρός	adjective, nominative masculine singular	1	mighty one
 JOB 33:29	1	7	ὁδοὺς	ὁδός	noun, accusative feminine plural	1	ways
@@ -454,7 +454,7 @@ JOB 33:30	1	29	Ἰώβ	Ἰώβ	indeclinable personal name	1	Job
 JOB 33:30	1	30	ἰδοὺ	ἰδού	interjection	1	behold
 JOB 33:30	1	31	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 JOB 33:30	1	32	πάντα	πᾶς	adjective, accusative neuter plural	1	all
-JOB 33:30	1	33	ἐργᾶται	ἐργάζομαι	present middle/passive indicative, third singular	1	he works
+JOB 33:30	1	33	ἐργᾶται	ἐργάζομαι	future middle indicative, third singular	1	he works
 JOB 33:30	1	34	ὁ	ὁ	article, nominative masculine singular	1	the
 JOB 33:30	1	35	ἰσχυρὸς	ἰσχυρός	adjective, nominative masculine singular	1	mighty
 JOB 33:30	1	36	ὁδοὺς	ὁδός	noun, accusative feminine plural	1	ways

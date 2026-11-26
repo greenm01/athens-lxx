@@ -122,7 +122,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 5:5	1	22	σὺν	σύν	preposition with dative	1	with
 1MA 5:5	1	23	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
 1MA 5:5	1	24	τοῖς	ὁ	article, dative masculine plural	1	those
-1MA 5:5	1	25	ἐνοῦσι	ἔνειμι	present passive participle, dative masculine plural	1	inside
+1MA 5:5	1	25	ἐνοῦσι	ἔνειμι	present active participle, dative masculine plural	1	inside
 1MA 5:6	1	1	Καὶ	καί	conjunction	1	and
 1MA 5:6	1	2	διεπέρασεν	διαπεράω	aorist active indicative, third singular	1	crossed over
 1MA 5:6	1	3	ἐπὶ	ἐπί	preposition with the dative	1	to
@@ -304,7 +304,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 5:14	1	19	ῥήματα	ῥῆμα	noun, accusative neuter plural	1	words
 1MA 5:14	1	20	ταῦτα	οὗτος	demonstrative pronoun, accusative neuter plural	1	these
 1MA 5:15	1	1	λέγοντες	λέγω	present active participle, nominative masculine plural, with impersonal passive in sense 'saying'	1	saying
-1MA 5:15	1	2	ἐπισυνῆχθαι	ἐπισυνάγω	aorist passive infinitive	1	had gathered
+1MA 5:15	1	2	ἐπισυνῆχθαι	ἐπισυνάγω	perfect passive infinitive	1	had gathered
 1MA 5:15	1	3	ἐπ᾽	ἐπί	preposition, elided	1	against
 1MA 5:15	1	4	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 1MA 5:15	1	5	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -358,7 +358,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 5:17	1	5	τῷ	ὁ	article, dative masculine singular	1	the
 1MA 5:17	1	6	ἀδελφῷ	ἀδελφός	noun, dative masculine singular	1	brother
 1MA 5:17	1	7	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
-1MA 5:17	1	8	ἐπίλεξον	ἐπιλέγω	aorist middle imperative, 2nd sg. with dative σεαυτῷ 'choose for yourself'	1	choose
+1MA 5:17	1	8	ἐπίλεξον	ἐπιλέγω	aorist active imperative, second singular; with dative σεαυτῷ 'choose for yourself'	1	choose
 1MA 5:17	1	9	σεαυτῷ	σεαυτοῦ	reflexive pronoun, dative masc. sg.	1	for yourself
 1MA 5:17	1	10	ἄνδρας	ἀνήρ	noun, accusative masculine plural after τοὺς	1	men
 1MA 5:17	1	11	καὶ	καί	conjunction	1	and
@@ -1310,7 +1310,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 5:56	1	1	ἤκουσεν	ἀκούω	aorist active indicative, third singular	1	heard
 1MA 5:56	1	2	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, nominative in context	1	Joseph
 1MA 5:56	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
-1MA 5:56	1	4	τοῦ	ὁ	article, nominative masculine singular	1	son
+1MA 5:56	1	4	τοῦ	ὁ	article, genitive masculine singular	1	son
 1MA 5:56	1	5	Ζαχαρίου	Ζαχάριος	personal name, genitive masculine singular	1	of Zacharias
 1MA 5:56	1	6	καὶ	καί	conjunction	1	and
 1MA 5:56	1	7	Ἀζαρίας	Ἀζαρίας	noun, nominative masculine singular	1	Azarias
@@ -1401,7 +1401,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 5:60	1	23	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	Israel
 1MA 5:60	1	24	εἰς	εἰς	preposition with the accusative	1	about
 1MA 5:60	1	25	δισχιλίους	δισχίλιοι	cardinal numeral, accusative masculine plural	1	two thousand
-1MA 5:60	1	26	ἄνδρας	ἀνήρ	noun, genitive masculine plural	1	men
+1MA 5:60	1	26	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
 1MA 5:61	1	1	καὶ	καί	conjunction	1	and
 1MA 5:61	1	2	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	there was
 1MA 5:61	1	3	τροπὴ	τροπή	noun, nominative feminine singular	1	a rout

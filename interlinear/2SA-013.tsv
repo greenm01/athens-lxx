@@ -16,7 +16,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:1	1	14	σφόδρα	σφόδρα	adverb	1	exceedingly
 2SA 13:1	1	15	καὶ	καί	conjunction	1	and
 2SA 13:1	1	16	ὄνομα	ὄνομα	noun, nominative neuter singular	1	name
-2SA 13:1	1	17	αὐτῇ	αὐτός	pronoun, genitive feminine singular	1	her
+2SA 13:1	1	17	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	her
 2SA 13:1	1	18	Θαμὰρ	Θαμάρ	indeclinable second element of place name, dative in context	1	Tamar
 2SA 13:1	1	19	καὶ	καί	conjunction	1	and
 2SA 13:1	1	20	ἠγάπησεν	ἀγαπάω	aorist active indicative, third singular	1	loved
@@ -712,7 +712,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:24	1	12	τῷ	ὁ	article, dative masculine/neuter singular	1	for the
 2SA 13:24	1	13	δούλῳ	δοῦλος	noun, dative masculine singular	1	servant
 2SA 13:24	1	14	σου	σύ	pronoun, possessive genitive second singular	1	your
-2SA 13:24	1	15	πορευθήτω	πορεύομαι	present middle imperative, third singular	1	let him go
+2SA 13:24	1	15	πορευθήτω	πορεύομαι	aorist passive imperative, third singular	1	let him go
 2SA 13:24	1	16	δὴ	δή	emphatic particle	1	please
 2SA 13:24	1	16	δὴ			2	now
 2SA 13:24	1	17	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -768,7 +768,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:26	1	4	καὶ	καί	conjunction	1	and
 2SA 13:26	1	5	εἰ	εἰ	conditional conjunction	1	if
 2SA 13:26	1	6	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
-2SA 13:26	1	7	πορευθήτω	πορεύομαι	present middle imperative, third singular	1	let him go
+2SA 13:26	1	7	πορευθήτω	πορεύομαι	aorist passive imperative, third singular	1	let him go
 2SA 13:26	1	8	δὴ	δή	emphatic particle	1	please
 2SA 13:26	1	8	δὴ			2	now
 2SA 13:26	1	9	μεθ᾽	μετά	preposition with the genitive, elided	1	with
@@ -1196,7 +1196,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 13:39	1	4	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 13:39	1	5	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 2SA 13:39	1	6	τοῦ	ὁ	article, genitive singular	1	—
-2SA 13:39	1	7	ἐξελθεῖν	ἐκπορεύομαι	present middle infinitive	1	to go out
+2SA 13:39	1	7	ἐξελθεῖν	ἐξέρχομαι	aorist active infinitive	1	to go out
 2SA 13:39	1	8	πρὸς	πρός	preposition with the accusative	1	to
 2SA 13:39	1	9	Ἀβεσσαλὼμ	Ἀβεσσαλώμ	indeclinable personal name, nominative in context	1	Absalom
 2SA 13:39	1	9	Ἀβεσσαλὼμ			2	Abessalom

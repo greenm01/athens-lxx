@@ -137,7 +137,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 20:6	1	27	χειρί	χείρ	noun, dative feminine singular	1	hand
 2CH 20:6	1	28	σου	σύ	pronoun, possessive genitive second singular	1	your
 2CH 20:6	1	29	ἰσχὺς	ἰσχύς	noun, nominative feminine singular	1	strength
-2CH 20:6	1	30	δυναστείας	δυναστεία	noun, nominative feminine singular	1	of dominion
+2CH 20:6	1	30	δυναστείας	δυναστεία	noun, genitive feminine singular	1	of dominion
 2CH 20:6	1	31	καὶ	καί	conjunction	1	and
 2CH 20:6	1	32	οὐκ	οὐ	negative particle	1	not
 2CH 20:6	1	33	ἔστι	εἰμί	present active indicative, third singular	1	is
@@ -298,7 +298,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 20:12	1	17	τὸ	ὁ	article accusative neuter singular	1	the
 2CH 20:12	1	18	πλῆθος	πλῆθος	noun, accusative neuter singular	1	multitude
 2CH 20:12	1	18	πλῆθος			2	abundance
-2CH 20:12	1	19	τὸ	ὁ	article, dative neuter singular	1	the
+2CH 20:12	1	19	τὸ	ὁ	article, accusative neuter singular	1	the
 2CH 20:12	1	20	πολὺ	πολύς	adjective, accusative neut. sg. after τὸ	1	great
 2CH 20:12	1	21	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	1	this
 2CH 20:12	1	22	τὸ	ὁ	article, accusative neuter singular, introduces the participle	1	—
@@ -712,7 +712,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 20:25	1	32	τὰ	ὁ	article, accusative neuter plural	1	the
 2CH 20:25	1	33	σκῦλα	σκῦλον	noun, accusative neut. pl., spoil	1	spoil
 2CH 20:25	1	34	ὅτι	ὅτι	causal conjunction	1	because
-2CH 20:25	1	35	πολλὰ	πολύς	adjective, nominative neuter singular	1	much
+2CH 20:25	1	35	πολλὰ	πολύς	adjective, nominative neuter plural	1	much
 2CH 20:25	1	36	ἦν	εἰμί	imperfect indicative, third singular	1	was
 2CH 20:26	1	1	Καὶ	καί	conjunction	1	and
 2CH 20:26	1	2	τῇ	ὁ	article, dative feminine singular	1	on the

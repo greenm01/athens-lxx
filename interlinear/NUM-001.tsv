@@ -52,7 +52,7 @@ NUM 1:2	1	19	κατὰ	κατά	preposition with the accusative	1	according to
 NUM 1:2	1	20	κεφαλὴν	κεφαλή	noun, accusative fem. sg., object understood with roasted	1	head
 NUM 1:2	1	21	αὐτῶν	αὐτός	pronoun, possessive genitive masculine plural	1	their
 NUM 1:3	1	1	πᾶς	πᾶς	adjective, nominative masculine singular	1	every
-NUM 1:3	1	2	ἄρσην	ἄρσην	adjective, nominative neuter singular; substantival	1	male
+NUM 1:3	1	2	ἄρσην	ἄρσην	adjective, nominative masculine singular; substantival	1	male
 NUM 1:3	1	3	ἀπὸ	ἀπό	preposition with the genitive	1	from
 NUM 1:3	1	4	εἰκοσαετοῦς	εἰκοσαετής	adjective, genitive masculine singular; used substantivally	1	twenty years old
 NUM 1:3	1	5	καὶ	καί	conjunction	1	and
@@ -192,7 +192,7 @@ NUM 1:16	1	6	τῶν	ὁ	article, genitive plural	1	of the
 NUM 1:16	1	7	φυλῶν	φυλή	noun, genitive feminine plural	1	tribes
 NUM 1:16	1	7	φυλῶν			2	clans
 NUM 1:16	1	8	κατὰ	κατά	preposition with the accusative	1	according to
-NUM 1:16	1	9	πατριὰς	πατριά	noun, genitive feminine singular	1	ancestral house
+NUM 1:16	1	9	πατριὰς	πατριά	noun, accusative feminine plural	1	ancestral house
 NUM 1:16	1	10	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 1:16	1	11	χιλίαρχοι	χιλίαρχος	noun, nominative masculine plural	1	leaders of thousands
 NUM 1:16	1	12	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
@@ -227,7 +227,7 @@ NUM 1:18	1	15	γενέσεις	γένεσις	noun, accusative feminine plural	1
 NUM 1:18	1	15	γενέσεις			2	lines of descent
 NUM 1:18	1	16	αὐτῶν	αὐτός	pronoun, possessive genitive masculine plural	1	their
 NUM 1:18	1	17	κατὰ	κατά	preposition with the accusative	1	according to
-NUM 1:18	1	18	πατριὰς	πατριά	noun, genitive feminine singular	1	ancestral house
+NUM 1:18	1	18	πατριὰς	πατριά	noun, accusative feminine plural	1	ancestral house
 NUM 1:18	1	19	αὐτῶν	αὐτός	pronoun, possessive genitive masculine plural	1	their
 NUM 1:18	1	20	κατὰ	κατά	preposition with the accusative	1	according to
 NUM 1:18	1	21	ἀριθμὸν	ἀριθμός	noun, accusative masc. sg. after κατὰ	1	number
@@ -947,7 +947,7 @@ NUM 1:48	1	3	Κύριος	κύριος	noun, nominative masculine singular	1	the
 NUM 1:48	1	4	πρὸς	πρός	preposition with the accusative	1	to
 NUM 1:48	1	5	Μωυσῆν	Μωυσῆς	personal name, accusative masculine singular	1	Moses
 NUM 1:48	1	6	λέγων	λέγω	present active participle, nominative masculine singular	1	saying
-NUM 1:49	1	1	ὅρα	ὁράω	aorist active imperative, second singular	1	see to it
+NUM 1:49	1	1	ὅρα	ὁράω	present active imperative, second singular	1	see to it
 NUM 1:49	1	2	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 1:49	1	3	φυλὴν	φυλή	noun, accusative feminine singular	1	tribe
 NUM 1:49	1	3	φυλὴν			2	clan

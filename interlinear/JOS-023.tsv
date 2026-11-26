@@ -23,7 +23,7 @@ JOS 23:1	1	20	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine si
 JOS 23:1	1	21	πρεσβύτερος	πρέσβυς	adjective, nominative masculine singular; comparative	1	old
 JOS 23:1	1	21	πρεσβύτερος			2	older
 JOS 23:1	1	22	προβεβηκὼς	προβαίνω	perfect active participle, nominative masculine singular	1	advanced
-JOS 23:1	1	23	ἡμέραις	ἡμέρα	noun, genitive feminine plural	1	in days
+JOS 23:1	1	23	ἡμέραις	ἡμέρα	noun, dative feminine plural	1	in days
 JOS 23:2	1	1	καὶ	καί	conjunction	1	and
 JOS 23:2	1	2	συνεκάλεσεν	συγκαλέω	aorist active indicative, third singular	1	called together
 JOS 23:2	1	3	Ἰησοῦς	Ἰησοῦς	proper name, nominative masculine singular	1	Joshua
@@ -126,7 +126,7 @@ JOS 23:4	1	31	τῆς	ὁ	article, genitive feminine singular	1	the
 JOS 23:4	1	32	μεγάλης	μέγας	adjective, genitive feminine singular	1	great
 JOS 23:4	1	33	ὁριεῖ	ὁρίζω	future active indicative, third singular	1	shall mark the boundary
 JOS 23:4	1	34	ἐπὶ	ἐπί	preposition with accusative of direction	1	toward
-JOS 23:4	1	35	δυσμὰς	δυσμή	noun, genitive feminine plural	1	the setting
+JOS 23:4	1	35	δυσμὰς	δυσμή	noun, accusative feminine plural	1	the setting
 JOS 23:4	1	35	δυσμὰς			2	the west
 JOS 23:4	1	36	ἡλίου	ἥλιος	noun, genitive masc. sg.	1	of the sun
 JOS 23:5	1	1	Κύριος	κύριος	noun, nominative masculine singular	1	the Lord
@@ -212,7 +212,7 @@ JOS 23:6	1	21	εἰς	εἰς	preposition with the accusative of direction	1	to
 JOS 23:6	1	22	δεξιὰ	δεξιός	substantival adjective, accusative neuter plural; substantival after εἰς	1	the right
 JOS 23:6	1	23	ἢ	ἤ	disjunctive conjunction	1	or
 JOS 23:6	1	24	εἰς	εἰς	preposition with the accusative of direction	1	to
-JOS 23:6	1	25	εὐώνυμα	ἀριστερός	substantival adjective, genitive neuter plural	1	the left
+JOS 23:6	1	25	εὐώνυμα	εὐώνυμος	substantival adjective, accusative neuter plural	1	the left
 JOS 23:7	1	1	ὅπως	ὅπως	conjunction of purpose with the subjunctive	1	so that
 JOS 23:7	1	1	ὅπως			2	in order that
 JOS 23:7	1	2	μὴ	μή	negative adverb	1	not
@@ -277,7 +277,7 @@ JOS 23:9	1	10	καὶ	καί	conjunction	1	and
 JOS 23:9	1	11	ἰσχυρὰ	ἰσχυρός	adjective, accusative neuter plural	1	strong
 JOS 23:9	1	11	ἰσχυρὰ			2	mighty
 JOS 23:9	1	12	καὶ	καί	conjunction	1	and
-JOS 23:9	1	13	ὑμῖν	σύ	pronoun, accusative second plural	1	you
+JOS 23:9	1	13	ὑμῖν	σύ	pronoun, dative second plural	1	you
 JOS 23:9	1	14	οὐδεὶς	οὐδείς	pronoun, nominative masculine singular	1	no one
 JOS 23:9	1	15	ἀντέστη	ἀνθίστημι	aorist active indicative, third singular	1	stood against
 JOS 23:9	1	16	κατενώπιον	κατά	preposition governing the accusative	1	before
@@ -455,7 +455,7 @@ JOS 23:14	1	43	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
 JOS 23:14	1	44	πρὸς	πρός	preposition with the accusative	1	to
 JOS 23:14	1	45	ὑμᾶς	σύ	pronoun, accusative second plural	1	you
 JOS 23:14	1	46	πάντα	πᾶς	adjective, accusative neuter plural	1	all
-JOS 23:14	1	47	ἥκει	παραγίνομαι	aorist middle indicative, third singular	1	came about
+JOS 23:14	1	47	ἥκει	ἥκω	present active indicative, third singular	1	came about
 JOS 23:14	1	48	ὑμῖν	ὑμεῖς	pronoun, dative second plural	1	to you
 JOS 23:14	1	49	ἕν	εἷς	cardinal numeral, nominative neuter singular	1	one
 JOS 23:14	1	50	ῥῆμα	ῥῆμα	noun, neuter singular; first nominative, second accusative	1	matter
@@ -467,7 +467,7 @@ JOS 23:15	1	1	Καὶ	καί	conjunction	1	and
 JOS 23:15	1	2	ἔσται	εἰμί	future indicative, third singular	1	will be
 JOS 23:15	1	3	ὃν	ὅς	relative pronoun, accusative masculine singular	1	in the
 JOS 23:15	1	4	τρόπον	τρόπος	noun, accusative masculine singular	1	manner
-JOS 23:15	1	5	ἥκει	παραγίνομαι	aorist middle indicative, third singular	1	came about
+JOS 23:15	1	5	ἥκει	ἥκω	present active indicative, third singular	1	came about
 JOS 23:15	1	6	ἐφ᾽	ἐπί	elided preposition with accusative	1	over
 JOS 23:15	1	6	ἐφ᾽			2	concerning
 JOS 23:15	1	7	ὑμᾶς	σύ	personal pronoun, accusative plural	1	you

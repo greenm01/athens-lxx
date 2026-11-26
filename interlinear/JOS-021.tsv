@@ -281,7 +281,7 @@ JOS 21:11	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 21:11	1	5	Καριαθαρβὸκ	Καριαθαρβόκ	indeclinable compound place name	1	Kirjath-arba
 JOS 21:11	1	6	μητρόπολιν	μητρόπολις	noun, accusative feminine singular	1	chief city
 JOS 21:11	1	6	μητρόπολιν			2	mother city
-JOS 21:11	1	7	τῶν	ὁ	article, genitive masculine singular	1	of
+JOS 21:11	1	7	τῶν	ὁ	article, genitive masculine plural	1	of
 JOS 21:11	1	8	Ἐνάκ	Ἐνάκ	indeclinable personal name, genitive in context	1	Anak
 JOS 21:11	1	9	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	this
 JOS 21:11	1	10	ἐστὶ	εἰμί	present indicative, third singular	1	is
@@ -329,7 +329,7 @@ JOS 21:13	1	8	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 21:13	1	9	πόλιν	πόλις	noun, accusative feminine singular	1	city
 JOS 21:13	1	10	φυγαδευτήριον	φυγαδευτήριον	noun, accusative neuter singular	1	a refuge
 JOS 21:13	1	11	τῷ	ὁ	article, genitive masculine singular	1	for the one
-JOS 21:13	1	12	φονεύσαντι	φονεύω	aorist active participle, genitive masculine singular	1	who killed
+JOS 21:13	1	12	φονεύσαντι	φονεύω	aorist active participle, dative masculine singular	1	who killed
 JOS 21:13	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 21:13	1	14	Χεβρὼν	Χεβρών	indeclinable personal name, nominative in context	1	Hebron
 JOS 21:13	1	15	καὶ	καί	conjunction	1	and
@@ -826,7 +826,7 @@ JOS 21:32	1	7	πόλιν	πόλις	noun, accusative feminine singular	1	city
 JOS 21:32	1	8	τὴν	ὁ	article, accusative feminine singular	1	—
 JOS 21:32	1	9	ἀφωρισμένην	ἀφορίζω	perfect passive participle, accusative feminine singular	1	set apart
 JOS 21:32	1	10	τῷ	ὁ	article, dative masculine plural	1	for the one
-JOS 21:32	1	11	φονεύσαντι	φονεύω	aorist active participle, dative masculine plural	1	who killed
+JOS 21:32	1	11	φονεύσαντι	φονεύω	aorist active participle, dative masculine singular	1	who killed
 JOS 21:32	1	12	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 21:32	1	13	Κεδὲς	Κεδές	indeclinable place name, genitive in context	1	Kedesh
 JOS 21:32	1	14	ἐν	ἐν	preposition with the dative	1	in
@@ -990,8 +990,8 @@ JOS 21:38	1	6	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 21:38	1	7	πόλιν	πόλις	noun, accusative feminine singular	1	city
 JOS 21:38	1	8	τοῦ	ὁ	article, genitive singular	1	of the
 JOS 21:38	1	9	φυγαδευτηρίου	φυγαδευτήριον	noun, genitive neuter singular	1	refuge
-JOS 21:38	1	10	τοῦ	ὁ	article, dative masculine plural	1	for the one
-JOS 21:38	1	11	φονεύσαντος	φονεύω	aorist active participle, dative masculine plural	1	who killed
+JOS 21:38	1	10	τοῦ	ὁ	article, genitive masculine singular	1	for the one
+JOS 21:38	1	11	φονεύσαντος	φονεύω	aorist active participle, genitive masculine singular	1	who killed
 JOS 21:38	1	12	τὴν	ὁ	article, accusative feminine singular	1	the
 JOS 21:38	1	13	Ῥαμὼθ	Ῥαμώθ	indeclinable place name, genitive in context	1	Ramoth
 JOS 21:38	1	14	ἐν	ἐν	preposition with the dative	1	in
@@ -1245,4 +1245,4 @@ JOS 21:45	1	13	τοῖς	ὁ	article, dative masculine plural	1	to the
 JOS 21:45	1	14	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 JOS 21:45	1	15	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 JOS 21:45	1	16	πάντα	πᾶς	substantival adjective, nominative neuter plural	1	all
-JOS 21:45	1	17	παρεγένοντο	παραγίνομαι	aorist middle indicative, third singular	1	came about
+JOS 21:45	1	17	παρεγένοντο	παραγίνομαι	aorist middle indicative, third plural	1	came about

@@ -44,7 +44,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 12:2	1	16	ἱερεύς	ἱερεύς	noun, nominative masculine singular	1	priest
 2KI 12:3	1	1	Πλὴν	πλήν	preposition/adverb with the genitive	1	except
 2KI 12:3	1	2	τῶν	ὁ	article, genitive plural	1	the
-2KI 12:3	1	3	ὑψηλῶν	ὑψηλός	substantival adjective, nominative neuter plural	1	high places
+2KI 12:3	1	3	ὑψηλῶν	ὑψηλός	substantival adjective, genitive neuter plural	1	high places
 2KI 12:3	1	4	οὐ	οὐ	negative particle	1	not
 2KI 12:3	1	5	μετεστάθησαν	μεθίστημι	aorist passive indicative, third plural	1	were removed
 2KI 12:3	1	6	καὶ	καί	conjunction	1	and
@@ -165,7 +165,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2KI 12:7	1	16	τί	τίς	interrogative pronoun, accusative neuter singular	1	why
 2KI 12:7	1	17	ὅτι	ὅτι	causal/that conjunction (from context)	1	that
 2KI 12:7	1	18	οὐκ	οὐ	negative particle	1	not
-2KI 12:7	1	19	ἐκραταιοῦτε	κραταιόω	present active indicative, second plural	1	are you repairing
+2KI 12:7	1	19	ἐκραταιοῦτε	κραταιόω	imperfect active indicative, second plural	1	are you repairing
 2KI 12:7	1	20	τὸ	ὁ	article, accusative neuter singular	1	the
 2KI 12:7	1	21	Βεδὲκ	Βεδέκ	indeclinable word for structural damage, accusative in context	1	damage
 2KI 12:7	1	21	Βεδὲκ			2	bedek

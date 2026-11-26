@@ -8,7 +8,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:1	1	6	εἰς	εἰς	preposition with the accusative	1	into
 2SA 11:1	1	7	τὸν	ὁ	article, accusative masculine singular	1	the
 2SA 11:1	1	8	καιρὸν	καιρός	noun, accusative masc. sg. after εἰς τὸν, appointed time	1	appointed time
-2SA 11:1	1	9	τῆς	ὁ	article, genitive neuter singular, introduces the infinitive	1	—
+2SA 11:1	1	9	τῆς	ὁ	article, genitive feminine singular	1	—
 2SA 11:1	1	10	ἐξοδίας	ἐξοδοῦμαι	present middle infinitive	1	going out
 2SA 11:1	1	11	τῶν	ὁ	article, genitive masculine plural	1	the
 2SA 11:1	1	12	βασιλέων	βασιλεύς	noun, genitive masculine plural	1	kings
@@ -212,7 +212,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:8	1	9	οἶκόν	οἶκος	noun, accusative masculine singular	1	house
 2SA 11:8	1	10	σου	σύ	pronoun, genitive 2nd singular	1	your
 2SA 11:8	1	11	καὶ	καί	conjunction	1	and
-2SA 11:8	1	12	νίψαι	νίπτω	aorist active imperative, second singular	1	wash
+2SA 11:8	1	12	νίψαι	νίπτω	aorist middle imperative, second singular	1	wash
 2SA 11:8	1	13	τοὺς	ὁ	article, accusative masculine plural	1	the
 2SA 11:8	1	14	πόδας	πούς	noun, accusative masculine plural after τοὺς	1	feet
 2SA 11:8	1	15	σου	σύ	pronoun, possessive genitive second singular	1	your
@@ -450,7 +450,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 11:15	1	13	κραταιοῦ	κραταιός	adjective, genitive masculine singular	1	strongest
 2SA 11:15	1	13	κραταιοῦ			2	strong
 2SA 11:15	1	14	καὶ	καί	conjunction	1	and
-2SA 11:15	1	15	ἀποστραφήσεσθε	ἀποστρέφω	future active indicative, second plural	1	you shall turn away
+2SA 11:15	1	15	ἀποστραφήσεσθε	ἀποστρέφω	future passive indicative, second plural	1	you shall turn away
 2SA 11:15	1	16	ἀπὸ	ἀπό	preposition with the genitive	1	from
 2SA 11:15	1	17	ὄπισθεν	ὄπισθεν	adverb used as preposition	1	behind
 2SA 11:15	1	17	ὄπισθεν			2	following

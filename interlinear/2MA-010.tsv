@@ -48,7 +48,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 10:3	1	16	ἀνήνεγκαν	ἀναφέρω	aorist active indicative, 3rd pl.	1	offered
 2MA 10:3	1	17	θυσίας	θυσία	noun, accusative feminine plural	1	sacrifices
 2MA 10:3	1	18	μετὰ	μετά	preposition with genitive	1	after
-2MA 10:3	1	19	διετῆ	διετής	adjective, accusative neuter singular	1	of two years
+2MA 10:3	1	19	διετῆ	διετής	adjective, accusative masculine singular	1	of two years
 2MA 10:3	1	20	χρόνον	χρόνος	noun, accusative masc. sg. in εἰς τὸν αἰῶνα χρόνον phrase	1	time
 2MA 10:3	1	21	καὶ	καί	conjunction	1	and
 2MA 10:3	1	22	θυμίαμα	θυμίαμα	noun, accusative neuter singular	1	incense
@@ -255,12 +255,12 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 10:12	1	12	Ἰουδαίους	Ἰουδαῖος	noun, accusative masculine plural	1	Judeans
 2MA 10:12	1	13	διὰ	διά	preposition with the accusative	1	because of
 2MA 10:12	1	14	τὴν	ὁ	article, accusative feminine singular	1	the
-2MA 10:12	1	15	γεγονυῖαν	γίνομαι	perfect middle/passive participle, accusative feminine singular	1	that had happened
+2MA 10:12	1	15	γεγονυῖαν	γίνομαι	perfect active participle, accusative feminine singular	1	that had happened
 2MA 10:12	1	16	εἰς	εἰς	preposition with the accusative	1	against
 2MA 10:12	1	17	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 2MA 10:12	1	18	ἀδικίαν	ἀδικία	noun, accusative feminine singular	1	injustice
 2MA 10:12	1	19	ἐπειρᾶτο	πειράομαι	imperfect middle/passive indicative, third singular	1	tried
-2MA 10:12	1	20	τὰ	ὁ	article, accusative feminine singular	1	the things
+2MA 10:12	1	20	τὰ	ὁ	article, accusative neuter plural	1	the things
 2MA 10:12	1	21	πρὸς	πρός	preposition with the accusative	1	with
 2MA 10:12	1	22	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 2MA 10:12	1	23	εἰρηνικῶς	εἰρηνικῶς	adverb	1	peacefully
@@ -655,7 +655,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 10:29	1	14	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
 2MA 10:29	1	15	διαπρεπεῖς	διαπρεπής	adjective, nominative masculine plural	1	splendid
 2MA 10:29	1	16	καὶ	καί	conjunction	1	and
-2MA 10:29	1	17	ἀφηγούμενοι	ἀφηγέομαι	present middle/passive participle, accusative masculine plural	1	leading
+2MA 10:29	1	17	ἀφηγούμενοι	ἀφηγέομαι	present middle/passive participle, nominative masculine plural	1	leading
 2MA 10:29	1	18	τῶν	ὁ	article, genitive masculine plural	1	of the
 2MA 10:29	1	19	Ἰουδαίων	Ἰουδαῖος	adjective, genitive masculine plural; substantival	1	Judeans
 2MA 10:29	1	20	οἱ	ὁ	article, nominative masculine plural	1	the

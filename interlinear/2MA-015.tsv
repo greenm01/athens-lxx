@@ -101,7 +101,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 15:5	1	15	καὶ	καί	conjunction	1	and
 2MA 15:5	1	16	τὰς	ὁ	article accusative feminine plural	1	the
 2MA 15:5	1	17	βασιλικὰς	βασιλικός	adjective, accusative feminine plural	1	royal
-2MA 15:5	1	18	χρείας	χρεία	noun, accusative feminine singular	1	business
+2MA 15:5	1	18	χρείας	χρεία	noun, accusative feminine plural	1	business
 2MA 15:5	1	19	ἐπιτελεῖν	ἐπιτελέω	present active infinitive	1	to carry out
 2MA 15:5	1	20	ὅμως	ὅμως	adverb	1	nevertheless
 2MA 15:5	1	21	οὐ	οὐ	negative particle	1	not
@@ -140,7 +140,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 15:7	1	9	ἐλπίδος			2	expectation
 2MA 15:7	1	10	ἀντιλήψεως	ἀντίληψις	noun, genitive feminine singular	1	help
 2MA 15:7	1	10	ἀντιλήψεως			2	succour
-2MA 15:7	1	11	τεύξασθαι	τυγχάνω	future middle infinitive	1	to attain
+2MA 15:7	1	11	τεύξασθαι	τυγχάνω	aorist middle infinitive	1	to attain
 2MA 15:7	1	12	παρὰ	παρά	preposition with the genitive	1	from
 2MA 15:7	1	13	τοῦ	ὁ	article, genitive singular	1	the
 2MA 15:7	1	14	Κυρίου	κύριος	noun, genitive masculine singular	1	Lord
@@ -160,11 +160,11 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 15:8	1	14	κατὰ	κατά	preposition with the accusative	1	in
 2MA 15:8	1	15	νοῦν	νοῦς	noun, accusative masculine singular	1	mind
 2MA 15:8	1	16	τὰ	ὁ	article, accusative neuter plural	1	the
-2MA 15:8	1	17	προγεγονότα	προγίνομαι	perfect middle/passive participle, accusative neuter plural	1	previous
+2MA 15:8	1	17	προγεγονότα	προγίνομαι	perfect active participle, accusative neuter plural	1	previous
 2MA 15:8	1	18	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 2MA 15:8	1	19	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
 2MA 15:8	1	20	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	1	heaven
-2MA 15:8	1	21	βοηθήματα	βοήθημα	noun, genitive neuter plural	1	acts of help
+2MA 15:8	1	21	βοηθήματα	βοήθημα	noun, accusative neuter plural	1	acts of help
 2MA 15:8	1	22	καὶ	καί	conjunction	1	and
 2MA 15:8	1	23	τανῦν	τανῦν	adverb	1	now
 2MA 15:8	1	24	προσδοκᾷν	προσδοκάω	present active infinitive	1	to expect
@@ -194,7 +194,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 15:9	1	15	ἀγῶνας	ἀγών	noun, accusative masculine plural	1	struggles
 2MA 15:9	1	16	οὓς	ὅς	relative pronoun, accusative masculine plural	1	which
 2MA 15:9	1	17	ἦσαν	εἰμί	imperfect indicative, third plural	1	they had
-2MA 15:9	1	18	ἐκτετελεκότες	ἐκτελέω	perfect active indicative, third plural	1	accomplished
+2MA 15:9	1	18	ἐκτετελεκότες	ἐκτελέω	perfect active participle, nominative masculine plural	1	accomplished
 2MA 15:9	1	19	προθυμοτέρους	πρόθυμος	comparative adjective, accusative masculine plural	1	more eager
 2MA 15:9	1	20	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 2MA 15:9	1	21	κατέστησε	καθίστημι	aorist active indicative, third singular	1	made
@@ -267,7 +267,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 15:12	1	23	καὶ	καί	coordinating conjunction	1	and
 2MA 15:12	1	24	λαλιὰν	λαλιά	noun, accusative feminine singular	1	speech
 2MA 15:12	1	24	λαλιὰν			2	talk
-2MA 15:12	1	25	προϊέμενον	προΐημι	present middle participle, nominative masculine singular	1	uttering
+2MA 15:12	1	25	προϊέμενον	προΐημι	present middle participle, accusative masculine singular	1	uttering
 2MA 15:12	1	26	πρεπόντως	πρεπόντως	adverb	1	fittingly
 2MA 15:12	1	27	καὶ	καί	conjunction	1	and
 2MA 15:12	1	28	ἐκ	ἐκ	preposition with the genitive	1	from
@@ -288,7 +288,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 15:12	1	42	παντὶ	πᾶς	adjective, dative neuter singular	1	whole
 2MA 15:12	1	43	τῶν	ὁ	article, genitive plural	1	of the
 2MA 15:12	1	44	Ἰουδαίων	Ἰουδαῖος	adjective, genitive masculine plural; substantival	1	Judeans
-2MA 15:12	1	45	συστήματι	σύστημα	noun, genitive neuter singular	1	community
+2MA 15:12	1	45	συστήματι	σύστημα	noun, dative neuter singular	1	community
 2MA 15:13	1	1	Εἶθ'	εἶτα	adverb	1	then
 2MA 15:13	1	2	οὕτως	οὕτως	adverb	1	thus
 2MA 15:13	1	3	ἐπιφανεῖναι	ἐπιφαίνω	aorist active infinitive	1	to appear
@@ -483,7 +483,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 15:21	1	3	Μακκαβαῖος	Μακκαβαῖος	adjective, nominative masculine singular	1	Maccabeus
 2MA 15:21	1	4	τὴν	ὁ	article, accusative feminine singular	1	the
 2MA 15:21	1	5	τῶν	ὁ	article, genitive plural	1	of the
-2MA 15:21	1	6	πληθῶν	πλῆθος	noun, dative neuter plural	1	crowds
+2MA 15:21	1	6	πληθῶν	πλῆθος	noun, genitive neuter plural	1	crowds
 2MA 15:21	1	7	παρουσίαν	παρουσία	noun, accusative feminine singular	1	presence
 2MA 15:21	1	8	καὶ	καί	conjunction	1	and
 2MA 15:21	1	9	τῶν	ὁ	article, genitive plural	1	of the
@@ -908,7 +908,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 15:39	1	17	συγκερασθεὶς	συγκεράννυμι	aorist passive participle, nominative masculine singular	1	mixed
 2MA 15:39	1	18	ἡδὺς	ἡδύς	adjective, nominative masculine singular	1	pleasant
 2MA 15:39	1	19	καὶ	καί	conjunction	1	and
-2MA 15:39	1	20	ἐπιτερπῆ	ἐπιτερπής	adjective, accusative neuter singular	1	delightful
+2MA 15:39	1	20	ἐπιτερπῆ	ἐπιτερπής	adjective, accusative feminine singular	1	delightful
 2MA 15:39	1	21	τὴν	ὁ	article, accusative feminine singular	1	the
 2MA 15:39	1	22	χάριν	χάρις	noun, accusative feminine singular	1	enjoyment
 2MA 15:39	1	23	ἀποτελεῖ	ἀποτελέω	present active indicative, third singular	1	produces

@@ -104,7 +104,7 @@ EZK 21:5	1	14	κολεοῦ	κολεός	noun, genitive masculine singular	1	she
 EZK 21:5	1	15	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	its
 EZK 21:5	1	16	καὶ	καί	conjunction	1	and
 EZK 21:5	1	17	οὐκ	οὐ	negative particle	1	not
-EZK 21:5	1	18	ἀποστρέψει	ἀποστρέφω	future middle indicative, 3rd singular	1	shall return
+EZK 21:5	1	18	ἀποστρέψει	ἀποστρέφω	future active indicative, 3rd singular	1	shall return
 EZK 21:5	1	19	οὐκέτι	οὐκέτι	adverb	1	no more
 EZK 21:6	1	1	Καὶ	καί	conjunction	1	and
 EZK 21:6	1	2	σὺ	σύ	pronoun, nominative 2nd singular	1	you
@@ -118,7 +118,7 @@ EZK 21:6	1	9	σου	σύ	pronoun, genitive 2nd singular	1	your
 EZK 21:6	1	10	καὶ	καί	conjunction	1	and
 EZK 21:6	1	11	ἐν	ἐν	preposition with the dative	1	in
 EZK 21:6	1	12	ὀδύναις	ὀδύνη	noun, dative feminine plural	1	pangs
-EZK 21:6	1	13	στενάξεις	στενάζω	aorist active imperative, 2nd singular	1	shall sigh
+EZK 21:6	1	13	στενάξεις	στενάζω	future active indicative, 2nd singular	1	shall sigh
 EZK 21:6	1	14	κατ᾽	κατά	preposition with the genitive, elided	1	before
 EZK 21:6	1	15	ὀφθαλμοὺς	ὀφθαλμός	noun, accusative masculine plural	1	eyes
 EZK 21:6	1	16	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -186,15 +186,15 @@ EZK 21:9	1	4	Κύριος	κύριος	noun, nominative masculine singular	1	the
 EZK 21:9	1	5	εἰπὸν	λέγω	aorist active imperative, 2nd singular	1	say
 EZK 21:9	1	6	ῥομφαία	ῥομφαία	noun, nominative feminine singular	1	sword
 EZK 21:9	1	7	ῥομφαία	ῥομφαία	noun, nominative feminine singular	1	sword
-EZK 21:9	1	8	ὀξύνου	ὀξύνω	aorist passive imperative, 2nd singular	1	be sharpened
+EZK 21:9	1	8	ὀξύνου	ὀξύνω	present passive imperative, 2nd singular	1	be sharpened
 EZK 21:9	1	9	καὶ	καί	conjunction	1	and
 EZK 21:9	1	10	θυμώθητι	θυμόομαι	aorist passive imperative, 2nd singular	1	be enraged
 EZK 21:10	1	1	ὅπως	ὅπως	conjunction	1	so that
 EZK 21:10	1	2	σφάξῃς	σφάζω	aorist active subjunctive, 2nd singular	1	slay
 EZK 21:10	1	3	σφάγια	σφάγιον	noun, accusative neuter plural	1	slaughter
-EZK 21:10	1	4	ὀξύνου	ὀξύνω	aorist passive imperative, 2nd singular	1	be sharpened
+EZK 21:10	1	4	ὀξύνου	ὀξύνω	present passive imperative, 2nd singular	1	be sharpened
 EZK 21:10	1	5	ὅπως	ὅπως	conjunction	1	so that
-EZK 21:10	1	6	γένῃ	γίγνομαι	aorist middle subjunctive, 3rd singular	1	become
+EZK 21:10	1	6	γένῃ	γίγνομαι	aorist middle subjunctive, 2nd singular	1	become
 EZK 21:10	1	7	εἰς	εἰς	preposition with the accusative	1	into
 EZK 21:10	1	8	στίλβωσιν	στίλβωσις	noun, accusative feminine singular	1	gleaming
 EZK 21:10	1	9	ἑτοίμη	ἕτοιμος	adjective, nominative feminine singular	1	prepared
@@ -322,7 +322,7 @@ EZK 21:15	1	23	γέγονεν	γίγνομαι	perfect active indicative, 3rd si
 EZK 21:15	1	24	εἰς	εἰς	preposition with the accusative	1	into
 EZK 21:15	1	25	στίλβωσιν	στίλβωσις	noun, accusative feminine singular	1	gleaming
 EZK 21:16	1	1	Διαπορεύου	διαπορεύομαι	present middle imperative, 2nd singular	1	proceed
-EZK 21:16	1	2	ὀξύνου	ὀξύνω	aorist passive imperative, 2nd singular	1	be sharpened
+EZK 21:16	1	2	ὀξύνου	ὀξύνω	present passive imperative, 2nd singular	1	be sharpened
 EZK 21:16	1	3	ἐκ	ἐκ	preposition with the genitive	1	from
 EZK 21:16	1	4	δεξιῶν	δεξιός	adjective, genitive neuter plural	1	right
 EZK 21:16	1	5	καὶ	καί	conjunction	1	and
@@ -642,7 +642,7 @@ EZK 21:29	1	24	ἐν	ἐν	preposition with the dative	1	in
 EZK 21:29	1	25	καιρῷ	καιρός	noun, dative masculine singular	1	time
 EZK 21:29	1	26	ἀδικίας	ἀδικία	noun, accusative feminine plural	1	of iniquity
 EZK 21:29	1	27	πέρας	πέρας	noun, nominative neuter singular	1	end
-EZK 21:30	1	1	Ἀπόστρεφε	ἀποστρέφω	present middle imperative, 2nd singular	1	return
+EZK 21:30	1	1	Ἀπόστρεφε	ἀποστρέφω	present active imperative, 2nd singular	1	return
 EZK 21:30	1	2	μὴ	μή	negative particle	1	not
 EZK 21:30	1	3	καταλύσης	καταλύω	aorist active subjunctive, 2nd singular	1	lodge
 EZK 21:30	1	4	ἐν	ἐν	preposition with the dative	1	in

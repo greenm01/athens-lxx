@@ -118,7 +118,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 18:5	1	11	εἶπεν	λέγω	aorist active indicative, third person singular	1	said
 2CH 18:5	1	12	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 2CH 18:5	1	13	εἰ	εἰ	interrogative conjunction introducing an indirect question	1	[marks a question]
-2CH 18:5	1	14	πορευθῶ	πορεύομαι	present middle subjunctive, first singular	1	shall I go
+2CH 18:5	1	14	πορευθῶ	πορεύομαι	aorist passive subjunctive, first singular	1	shall I go
 2CH 18:5	1	15	εἰς	εἰς	preposition with the accusative	1	into
 2CH 18:5	1	16	Ῥαμμὼθ	Ῥαμμώθ	place name, accusative singular	1	Ramoth
 2CH 18:5	1	17	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	1	of Gilead
@@ -265,7 +265,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 18:10	1	6	Χαναανὰ	Χαναανά	indeclinable personal name, genitive in context	1	of Chenaanah
 2CH 18:10	1	6	Χαναανὰ			2	of Chanaana
 2CH 18:10	1	7	κέρατα	κέρας	noun, accusative neuter plural	1	horns
-2CH 18:10	1	8	σιδηρᾶ	σίδηρος	noun, genitive masculine singular	1	of iron
+2CH 18:10	1	8	σιδηρᾶ	σιδηροῦς	adjective, accusative neuter plural	1	of iron
 2CH 18:10	1	9	καὶ	καί	conjunction	1	and
 2CH 18:10	1	10	εἶπε	λέγω	aorist active indicative, third singular	1	said
 2CH 18:10	1	11	τάδε	ὅδε	demonstrative pronoun, accusative neuter plural, introducing the message 'these things'	1	these things
@@ -370,7 +370,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 18:14	1	11	Μιχαία	Μιχαίας	personal name, vocative masculine singular	1	Micaiah
 2CH 18:14	1	11	Μιχαία			2	Michaiah
 2CH 18:14	1	12	εἰ	εἰ	interrogative particle, introduces the question	1	[marks a question]
-2CH 18:14	1	13	εἰσπορευθῶ	εἰσπορεύομαι	present middle subjunctive, first singular	1	shall I go in
+2CH 18:14	1	13	εἰσπορευθῶ	εἰσπορεύομαι	aorist passive subjunctive, first singular	1	shall I go in
 2CH 18:14	1	14	εἰς	εἰς	preposition with the accusative	1	into
 2CH 18:14	1	15	Ῥαμμὼθ	Ῥαμμώθ	place name, accusative singular	1	Ramoth
 2CH 18:14	1	16	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	1	of Gilead
@@ -384,7 +384,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 18:14	1	22	εἶπεν	λέγω	aorist active indicative, third singular	1	said
 2CH 18:14	1	23	ἀνάβαινε	ἀναβαίνω	present active imperative, second singular	1	go up
 2CH 18:14	1	24	καὶ	καί	conjunction	1	and
-2CH 18:14	1	25	εὐοδώσεις	εὐοδόω	future passive indicative, second singular	1	you will prosper
+2CH 18:14	1	25	εὐοδώσεις	εὐοδόω	future active indicative, second singular	1	you will prosper
 2CH 18:14	1	26	καὶ	καί	conjunction	1	and
 2CH 18:14	1	27	δοθήσονται	δίδωμι	future passive indicative, third plural	1	will be handed over
 2CH 18:14	1	28	εἰς	εἰς	preposition with accusative	1	into

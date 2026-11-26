@@ -10,7 +10,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 13:1	1	9	προσέπεσε	προσπίπτω	aorist active indicative, third singular	1	news came
 2MA 13:1	1	10	τοῖς	ὁ	article, dative masculine plural	1	to those
 2MA 13:1	1	11	περὶ	περί	preposition with genitive	1	around
-2MA 13:1	1	12	τὸν	ὁ	article, dative masculine singular	1	—
+2MA 13:1	1	12	τὸν	ὁ	article, accusative masculine singular	1	—
 2MA 13:1	1	13	Ἰούδαν	Ἰούδας	noun, dative masculine singular	1	Judas
 2MA 13:1	1	14	Ἀντίοχον	Ἀντίοχος	noun, accusative masculine singular	1	Antiochus
 2MA 13:1	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -33,7 +33,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 13:2	1	9	τῶν	ὁ	article, genitive neuter plural	1	the
 2MA 13:2	1	10	πραγμάτων	πρᾶγμα	noun, genitive neuter plural	1	affairs
 2MA 13:2	1	11	ἕκαστον	ἕκαστος	adjective, accusative masculine singular	1	each
-2MA 13:2	1	12	ἔχοντα	ἔχω	present active participle, accusative neuter singular	1	having
+2MA 13:2	1	12	ἔχοντα	ἔχω	present active participle, accusative masculine singular	1	having
 2MA 13:2	1	13	δύναμιν	δύναμις	noun accusative feminine singular	1	force
 2MA 13:2	1	14	Ἑλληνικὴν	Ἑλληνικός	adjective, accusative feminine singular	1	Greek
 2MA 13:2	1	15	πεζῶν	πεζός	adjective/noun, genitive masc. pl., footmen	1	of infantry
@@ -412,7 +412,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 13:18	1	7	τῶν	ὁ	article, genitive masculine plural	1	of the
 2MA 13:18	1	8	Ἰουδαίων	Ἰουδαῖος	adjective, genitive masculine plural; substantival	1	Judeans
 2MA 13:18	1	9	εὐτολμίας	εὐτολμία	noun, genitive feminine singular	1	boldness
-2MA 13:18	1	10	κατεπείρασε	καταπειράομαι	aorist middle indicative, third singular	1	made trial of
+2MA 13:18	1	10	κατεπείρασε	καταπειράομαι	aorist active indicative, third singular	1	made trial of
 2MA 13:18	1	11	διὰ	διά	preposition with the accusative	1	by
 2MA 13:18	1	12	μεθόδων	μέθοδος	noun, genitive feminine plural	1	stratagems
 2MA 13:18	1	13	τοὺς	ὁ	article, accusative masculine plural	1	the
@@ -551,7 +551,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 13:26	1	13	εἰς	εἰς	preposition with the accusative	1	into
 2MA 13:26	1	14	Ἀντιόχειαν	Ἀντιόχεια	noun, accusative feminine singular	1	Antioch
 2MA 13:26	1	15	οὕτω	οὕτως	adverb as printed	1	so
-2MA 13:26	1	16	τὰ	ὁ	article, nominative neuter singular	1	the things
+2MA 13:26	1	16	τὰ	ὁ	article, nominative neuter plural	1	the things
 2MA 13:26	1	17	τῆς	ὁ	article, genitive feminine singular	1	of the
 2MA 13:26	1	18	ἐφόδου	ἔφοδος	noun, genitive feminine singular	1	advance
 2MA 13:26	1	19	τοῦ	ὁ	article, genitive singular	1	of the

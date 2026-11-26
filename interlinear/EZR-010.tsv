@@ -33,7 +33,7 @@ EZR 10:1	1	29	ἔκλαυσαν	κλαίω	aorist active indicative, third plura
 EZR 10:1	1	30	ὁ	ὁ	article, nominative masculine singular	1	the
 EZR 10:1	1	31	λαὸς	λαός	noun, nominative masculine singular after ὁ	1	people
 EZR 10:1	1	32	καὶ	καί	conjunction	1	and
-EZR 10:1	1	33	ὕψωσε	ὑψόω	aorist active indicative, third plural	1	raised
+EZR 10:1	1	33	ὕψωσε	ὑψόω	aorist active indicative, third singular	1	raised
 EZR 10:1	1	34	κλαίων	κλαίω	present active participle, nominative masculine singular	1	weeping
 EZR 10:2	1	1	Καὶ	καί	conjunction	1	and
 EZR 10:2	1	2	ἀπεκρίθη	ἀποκρίνομαι	aorist passive indicative, third singular	1	answered
@@ -118,7 +118,7 @@ EZR 10:4	1	9	μετὰ	μετά	preposition with genitive	1	with
 EZR 10:4	1	10	σοῦ	σύ	personal pronoun, genitive second singular	1	you
 EZR 10:4	1	11	κραταιοῦ	κραταιόω	present middle/passive imperative, second singular	1	be strong
 EZR 10:4	1	12	καὶ	καί	conjunction	1	and
-EZR 10:4	1	13	ποίησον	ποιέω	present active imperative, second singular	1	act
+EZR 10:4	1	13	ποίησον	ποιέω	aorist active imperative, second singular	1	act
 EZR 10:5	1	1	Καὶ	καί	conjunction	1	and
 EZR 10:5	1	2	ἀνέστη	ἀνίστημι	aorist active indicative, third singular	1	rose up
 EZR 10:5	1	3	Ἔζρας	Ἔζρας	noun, nominative masculine singular; proper	1	Ezra
@@ -291,7 +291,7 @@ EZR 10:10	1	15	ἀλλοτρίας	ἀλλότριος	adjective, accusative fem
 EZR 10:10	1	16	τοῦ	ὁ	article, genitive singular, introduces articular infinitive	1	—
 EZR 10:10	1	17	προσθεῖναι	προστίθημι	aorist active infinitive	1	to add
 EZR 10:10	1	18	ἐπὶ	ἐπί	preposition with dative	1	to
-EZR 10:10	1	19	πλημμέλειαν	πλημμέλεια	noun, dative feminine singular	1	the offense
+EZR 10:10	1	19	πλημμέλειαν	πλημμέλεια	noun, accusative feminine singular	1	the offense
 EZR 10:10	1	20	Ἰσραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 EZR 10:11	1	1	Καὶ	καί	conjunction	1	and
 EZR 10:11	1	2	νῦν	νῦν	adverb of time	1	now
@@ -336,7 +336,7 @@ EZR 10:12	1	11	ῥῆμά	ῥῆμα	noun, nominative neuter singular	1	word
 EZR 10:12	1	12	σου	σύ	personal pronoun genitive second singular	1	your
 EZR 10:12	1	13	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	over
 EZR 10:12	1	14	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	1	us
-EZR 10:12	1	15	ποιῆσαι	ποιέω	present active infinitive	1	to do
+EZR 10:12	1	15	ποιῆσαι	ποιέω	aorist active infinitive	1	to do
 EZR 10:13	1	1	ἀλλὰ	ἀλλά	adversative conjunction	1	but
 EZR 10:13	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 EZR 10:13	1	3	λαὸς	λαός	noun, nominative masculine singular	1	people
@@ -404,7 +404,7 @@ EZR 10:14	1	23	συνταγῶν			2	orders
 EZR 10:14	1	24	καὶ	καί	conjunction	1	and
 EZR 10:14	1	25	μετ᾽	μετά	elided preposition with the genitive	1	with
 EZR 10:14	1	26	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
-EZR 10:14	1	27	πρεσβύτεροι	πρεσβύτερος	substantival adjective, genitive masculine plural	1	elders
+EZR 10:14	1	27	πρεσβύτεροι	πρεσβύτερος	substantival adjective, nominative masculine plural	1	elders
 EZR 10:14	1	28	πόλεως	πόλις	noun, genitive feminine singular	1	of a city
 EZR 10:14	1	29	καὶ	καί	conjunction	1	and
 EZR 10:14	1	30	πόλεως	πόλις	noun, genitive feminine singular	1	of a city
@@ -776,4 +776,4 @@ EZR 10:44	1	6	καὶ	καί	conjunction	1	and
 EZR 10:44	1	7	ἐγέννησαν	γεννάω	aorist active indicative, third plural	1	had fathered
 EZR 10:44	1	8	ἐξ	ἐκ	preposition with the genitive	1	from
 EZR 10:44	1	9	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
-EZR 10:44	1	10	υἱούς	τέκνον	noun, accusative neuter plural	1	children
+EZR 10:44	1	10	υἱούς	υἱός	noun, accusative masculine plural	1	children

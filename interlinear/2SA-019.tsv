@@ -63,7 +63,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 19:3	1	16	ὁ	ὁ	article, nominative masculine singular	1	the
 2SA 19:3	1	17	λαὸς	λαός	noun, nominative masculine singular	1	people
 2SA 19:3	1	18	οἱ	ὁ	article, nominative masculine plural	1	—
-2SA 19:3	1	19	αἰσχυνόμενοι	αἰσχύνομαι	present middle participle, nominative masculine singular	1	ashamed
+2SA 19:3	1	19	αἰσχυνόμενοι	αἰσχύνομαι	present middle participle, nominative masculine plural	1	ashamed
 2SA 19:3	1	20	ἐν	ἐν	preposition with the dative	1	in
 2SA 19:3	1	21	τῷ	ὁ	article, dative neuter singular; introduces the infinitive governed by ἐν, introduces the infinitive	1	—
 2SA 19:3	1	22	φυγεῖν	φεύγω	aorist active infinitive	1	to flee
@@ -209,7 +209,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 19:7	1	17	ὅτι	ὅτι	causal conjunction	1	that
 2SA 19:7	1	18	εἰ	εἰ	conditional conjunction	1	if
 2SA 19:7	1	19	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	1	not
-2SA 19:7	1	20	ἐκπορεύσῃ	ἐκπορεύομαι	present middle subjunctive, second singular	1	you go out
+2SA 19:7	1	20	ἐκπορεύσῃ	ἐκπορεύομαι	future middle indicative, second singular	1	you go out
 2SA 19:7	1	21	σήμερον	σήμερον	adverb of time	1	today
 2SA 19:7	1	22	εἰ	εἰ	oath particle introducing a negative assertion	1	surely no
 2SA 19:7	1	23	αὐλισθήσεται	αὐλίζομαι	future passive indicative third singular	1	will lodge
@@ -289,8 +289,8 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 19:9	1	5	λαὸς	λαός	noun, nominative masculine singular	1	people
 2SA 19:9	1	6	κρινόμενος	κρίνω	present middle/passive participle, nominative masculine singular	1	arguing with one another
 2SA 19:9	1	7	ἐν	ἐν	preposition with the dative	1	in
-2SA 19:9	1	8	πάσαις	πᾶς	adjective, genitive feminine plural	1	all
-2SA 19:9	1	9	φυλαῖς	φυλή	noun, genitive feminine plural	1	tribes
+2SA 19:9	1	8	πάσαις	πᾶς	adjective, dative feminine plural	1	all
+2SA 19:9	1	9	φυλαῖς	φυλή	noun, dative feminine plural	1	tribes
 2SA 19:9	1	10	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	1	of Israel
 2SA 19:9	1	11	λέγοντες	λέγω	present active participle, nominative masculine plural, with impersonal passive in sense 'saying'	1	saying
 2SA 19:9	1	12	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -691,7 +691,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 19:20	1	16	οἴκου			2	household
 2SA 19:20	1	17	Ἰωσὴφ	Ἰωσήφ	indeclinable personal name, genitive in context	1	of Joseph
 2SA 19:20	1	18	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	1	—
-2SA 19:20	1	19	καταβῆναί	καταβαίνω	aorist active subjunctive, first singular	1	to go down
+2SA 19:20	1	19	καταβῆναί	καταβαίνω	aorist active infinitive	1	to go down
 2SA 19:20	1	20	με	ἐγώ	personal pronoun accusative first singular	1	me
 2SA 19:20	1	21	εἰς	εἰς	preposition with the accusative	1	into
 2SA 19:20	1	22	ἀπαντὴν	ἀπαντή	noun, accusative feminine singular	1	a meeting
@@ -903,7 +903,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 19:27	1	21	τοῦ	ὁ	article, genitive singular	1	of
 2SA 19:27	1	22	Θεοῦ	θεός	noun, genitive masculine singular	1	God
 2SA 19:27	1	23	καὶ	καί	conjunction	1	and
-2SA 19:27	1	24	ποίησον	ποιέω	present active imperative, second singular	1	do
+2SA 19:27	1	24	ποίησον	ποιέω	aorist active imperative, second singular	1	do
 2SA 19:27	1	25	τὸ	ὁ	article, accusative neuter singular	1	the
 2SA 19:27	1	26	ἀγαθὸν	ἀγαθός	substantival adjective, accusative neuter singular	1	good
 2SA 19:27	1	27	ἐν	ἐν	preposition with the dative	1	in

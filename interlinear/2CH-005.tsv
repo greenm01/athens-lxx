@@ -153,7 +153,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:6	1	20	μόσχους			2	young bulls
 2CH 5:6	1	21	καὶ	καί	conjunction	1	and
 2CH 5:6	1	22	πρόβατα	πρόβατον	noun, nominative neuter plural	1	sheep
-2CH 5:6	1	23	οἳ	ὅς	relative pronoun, nominative neuter plural	1	which
+2CH 5:6	1	23	οἳ	ὅς	relative pronoun, nominative masculine plural	1	which
 2CH 5:6	1	24	οὐκ	οὐ	negative adverb	1	not
 2CH 5:6	1	25	ἀριθμήσονται	ἀριθμέω	future passive indicative, third plural	1	shall be numbered
 2CH 5:6	1	26	οὐδὲ	οὐδέ	conjunction	1	nor
@@ -195,7 +195,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:8	1	2	ἦν	εἰμί	imperfect indicative, third singular	1	were
 2CH 5:8	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 2CH 5:8	1	4	Χερουβεὶμ	Χερουβείμ	indeclinable plural noun (cherubim), case from syntax per occurrence	1	cherubim
-2CH 5:8	1	5	διαπεπετακότα	διαπετάννυμι	perfect middle/passive participle, nominative neuter plural	1	spread out
+2CH 5:8	1	5	διαπεπετακότα	διαπετάννυμι	perfect active participle, nominative neuter plural	1	spread out
 2CH 5:8	1	6	τὰς	ὁ	article, accusative feminine plural	1	the
 2CH 5:8	1	7	πτέρυγας	πτέρυξ	noun, accusative fem. pl. after τὰς	1	wings
 2CH 5:8	1	8	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
@@ -221,7 +221,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:9	1	1	καὶ	καί	conjunction	1	and
 2CH 5:9	1	2	ὑπερεῖχον	ὑπερέχω	imperfect active indicative, third plural	1	projected
 2CH 5:9	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
-2CH 5:9	1	4	ἀναφορεῖς	ἀναφορεύς	noun, accusative masc. pl.	1	poles
+2CH 5:9	1	4	ἀναφορεῖς	ἀναφορεύς	noun, nominative masculine plural	1	poles
 2CH 5:9	1	5	καὶ	καί	conjunction	1	and
 2CH 5:9	1	6	ἐβλέποντο	βλέπω	imperfect middle/passive indicative, third plural	1	were visible
 2CH 5:9	1	7	αἱ	ὁ	article, nominative feminine plural	1	the
@@ -339,7 +339,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 5:12	1	39	θυσιαστηρίου	θυσιαστήριον	noun, genitive neuter singular	1	altar
 2CH 5:12	1	40	καὶ	καί	conjunction	1	and
 2CH 5:12	1	41	μετ᾽	μετά	elided preposition with the genitive	1	with
-2CH 5:12	1	42	αὐτῶν	αὐτός	pronoun, dative masculine plural	1	them
+2CH 5:12	1	42	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
 2CH 5:12	1	43	ἱερεῖς	ἱερεύς	noun, accusative masculine plural	1	priests
 2CH 5:12	1	44	ἑκατὸν	ἑκατόν	indeclinable cardinal numeral	1	one hundred
 2CH 5:12	1	45	καὶ	καί	conjunction	1	and

@@ -151,7 +151,7 @@ SIR 39:9	1	17	καὶ	καί	conjunction	1	and
 SIR 39:9	1	18	τὸ	ὁ	article, neuter singular (case from context)	1	the
 SIR 39:9	1	19	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
 SIR 39:9	1	20	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	his
-SIR 39:9	1	21	ζητήσεται	ζητέω	future passive indicative, third singular	1	will be sought
+SIR 39:9	1	21	ζητήσεται	ζητέω	future middle indicative, third singular	1	will be sought
 SIR 39:9	1	22	εἰς	εἰς	preposition with the accusative	1	into
 SIR 39:9	1	23	γενεὰς	γενεά	noun, accusative feminine plural	1	generations
 SIR 39:9	1	24	γενεῶν	γενεά	noun, genitive feminine plural	1	of generations
@@ -392,7 +392,7 @@ SIR 39:25	1	10	κακά	κακός	substantival adjective, accusative neuter plu
 SIR 39:25	1	10	κακά			2	bad things
 SIR 39:26	1	1	Ἀρχὴ	ἀρχή	noun, nominative feminine singular	1	essentials
 SIR 39:26	1	2	πάσης	πᾶς	adjective, genitive feminine singular	1	of all
-SIR 39:26	1	3	χρείας	χρεία	noun, accusative feminine singular	1	need
+SIR 39:26	1	3	χρείας	χρεία	noun, genitive feminine singular	1	need
 SIR 39:26	1	4	εἰς	εἰς	preposition with the accusative	1	for
 SIR 39:26	1	5	ζωὴν	ζωή	noun, accusative feminine singular	1	life
 SIR 39:26	1	6	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	1	of a person
@@ -402,7 +402,7 @@ SIR 39:26	1	9	πῦρ	πῦρ	noun, nominative neuter singular	1	fire
 SIR 39:26	1	10	καὶ	καί	conjunction	1	and
 SIR 39:26	1	11	σίδηρος	σίδηρος	noun, nominative masculine singular	1	iron
 SIR 39:26	1	12	καὶ	καί	conjunction	1	and
-SIR 39:26	1	13	ἅλας	ἅλας	noun, genitive neuter singular	1	salt
+SIR 39:26	1	13	ἅλας	ἅλας	noun, nominative neuter singular	1	salt
 SIR 39:26	1	14	καὶ	καί	conjunction	1	and
 SIR 39:26	1	15	σεμίδαλις	σεμίδαλις	noun, nominative feminine singular	1	fine flour
 SIR 39:26	1	16	πυροῦ	πυρός	noun, genitive masculine singular	1	of wheat
@@ -480,7 +480,7 @@ SIR 39:30	1	5	καὶ	καί	conjunction	1	and
 SIR 39:30	1	6	ἔχεις	ἔχω	noun, nominative masculine plural	1	vipers
 SIR 39:30	1	7	καὶ	καί	conjunction	1	and
 SIR 39:30	1	8	ῥομφαία	ῥομφαία	noun, nominative feminine singular	1	sword
-SIR 39:30	1	9	ἐκδικοῦσα	ἐκδικέω	present active participle, accusative feminine singular	1	avenging
+SIR 39:30	1	9	ἐκδικοῦσα	ἐκδικέω	present active participle, nominative feminine singular	1	avenging
 SIR 39:30	1	10	εἰς	εἰς	preposition with the accusative	1	into
 SIR 39:30	1	11	ὄλεθρον	ὄλεθρος	noun, accusative masculine singular	1	destruction
 SIR 39:30	1	12	ἀσεβεῖς	ἀσεβής	substantival adjective, accusative masculine plural	1	the ungodly
@@ -494,7 +494,7 @@ SIR 39:31	1	7	ἐπὶ	ἐπί	preposition (case from context)	1	on
 SIR 39:31	1	8	τῆς	ὁ	article, genitive feminine singular	1	the
 SIR 39:31	1	9	γῆς	γῆ	noun, genitive feminine singular	1	earth
 SIR 39:31	1	10	εἰς	εἰς	preposition with the accusative	1	into
-SIR 39:31	1	11	χρείας	χρεία	noun, accusative feminine singular	1	need
+SIR 39:31	1	11	χρείας	χρεία	noun, accusative feminine plural	1	need
 SIR 39:31	1	12	ἑτοιμασθήσονται	ἑτοιμάζω	future passive indicative, third plural	1	will be made ready
 SIR 39:31	1	13	καὶ	καί	conjunction	1	and
 SIR 39:31	1	14	ἐν	ἐν	preposition with the dative	1	in
@@ -539,7 +539,7 @@ SIR 39:34	1	8	πάντα	πᾶς	adjective, accusative neuter plural	1	all thing
 SIR 39:34	1	9	γὰρ	γάρ	conjunction	1	for
 SIR 39:34	1	10	ἐν	ἐν	preposition with the dative	1	in
 SIR 39:34	1	11	καιρῷ	καιρός	noun, dative masculine singular	1	time
-SIR 39:34	1	12	εὐδοκιμήσεται	εὐδοκιμέω	future passive indicative, third singular	1	will be approved
+SIR 39:34	1	12	εὐδοκιμήσεται	εὐδοκιμέω	future middle indicative, third singular	1	will be approved
 SIR 39:35	1	1	Καὶ	καί	conjunction	1	and
 SIR 39:35	1	2	νῦν	νῦν	adverb	1	now
 SIR 39:35	1	3	ἐν	ἐν	preposition with the dative	1	in

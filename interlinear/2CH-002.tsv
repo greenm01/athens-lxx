@@ -36,7 +36,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:2	1	14	ὄρει			2	hill country
 2CH 2:2	1	15	καὶ	καί	conjunction	1	and
 2CH 2:2	1	16	οἱ	ὁ	article, nominative masculine plural	1	the
-2CH 2:2	1	17	ἐπιστάται	ἐπιστάτης	noun, accusative masculine plural	1	supervisors
+2CH 2:2	1	17	ἐπιστάται	ἐπιστάτης	noun, nominative masculine plural	1	supervisors
 2CH 2:2	1	18	ἐπ᾽	ἐπί	preposition with the accusative	1	over
 2CH 2:2	1	19	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
 2CH 2:2	1	20	τρισχίλιοι	τρισχίλιοι	cardinal numeral, nominative masculine plural	1	three thousand
@@ -234,7 +234,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:7	1	51	καὶ	καί	conjunction	1	and
 2CH 2:7	1	52	ἐν	ἐν	preposition with the dative	1	in
 2CH 2:7	1	53	Ἱερουσαλὴμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
-2CH 2:7	1	54	ὧν	ὅς	relative pronoun, accusative masculine plural	1	whom
+2CH 2:7	1	54	ὧν	ὅς	relative pronoun, genitive masculine plural	1	whom
 2CH 2:7	1	55	ἡτοίμασε	ἑτοιμάζω	aorist active indicative, third singular	1	prepared
 2CH 2:7	1	56	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
 2CH 2:7	1	57	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -250,7 +250,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:8	1	6	καὶ	καί	conjunction	1	and
 2CH 2:8	1	7	ἀρκεύθινα	ἀρκεύθινος	adjective, accusative neuter plural	1	juniper wood
 2CH 2:8	1	8	καὶ	καί	conjunction	1	and
-2CH 2:8	1	9	πεύκινα	πεύκινος	adjective, genitive neuter plural	1	of pine
+2CH 2:8	1	9	πεύκινα	πεύκινος	adjective, accusative neuter plural	1	of pine
 2CH 2:8	1	10	ἐκ	ἐκ	preposition with the genitive	1	from
 2CH 2:8	1	11	τοῦ	ὁ	article, genitive singular	1	the
 2CH 2:8	1	12	Λιβάνου	Λίβανος	noun, genitive masculine singular; place name	1	Lebanon
@@ -448,7 +448,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 2:14	1	32	ὑφαίνειν	ὑφαίνω	present active infinitive	1	to weave
 2CH 2:14	1	33	ἐν	ἐν	preposition with the dative	1	in
 2CH 2:14	1	34	τῇ	ὁ	article, dative feminine singular	1	the
-2CH 2:14	1	35	πορφύρᾳ	πορφύρα	noun, nominative fem. sg. in list	1	purple
+2CH 2:14	1	35	πορφύρᾳ	πορφύρα	noun, dative feminine singular	1	purple
 2CH 2:14	1	36	καὶ	καί	conjunction	1	and
 2CH 2:14	1	37	ἐν	ἐν	preposition with the dative	1	in
 2CH 2:14	1	38	τῇ	ὁ	article, dative feminine singular	1	the

@@ -142,8 +142,8 @@ NUM 28:8	1	10	κατὰ	κατά	preposition with accusative	1	according to
 NUM 28:8	1	11	τὴν	ὁ	article, accusative feminine singular	1	the
 NUM 28:8	1	12	θυσίαν	θυσία	noun, accusative feminine singular	1	sacrifice
 NUM 28:8	1	13	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	its
-NUM 28:8	1	14	τὴν	ὁ	article, genitive feminine singular	1	—
-NUM 28:8	1	15	πρωϊνὴν	πρωϊνός	adjective, genitive feminine singular	1	morning
+NUM 28:8	1	14	τὴν	ὁ	article, accusative feminine singular	1	—
+NUM 28:8	1	15	πρωϊνὴν	πρωϊνός	adjective, accusative feminine singular	1	morning
 NUM 28:8	1	16	καὶ	καί	conjunction	1	and
 NUM 28:8	1	17	κατὰ	κατά	preposition with accusative	1	according to
 NUM 28:8	1	18	τὴν	ὁ	article, accusative feminine singular	1	the
@@ -400,7 +400,7 @@ NUM 28:20	1	2	ἡ	ὁ	article, nominative feminine singular	1	the
 NUM 28:20	1	3	θυσία	θυσία	noun, nominative feminine singular	1	sacrifice
 NUM 28:20	1	4	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 28:20	1	5	σεμίδαλις	σεμίδαλις	noun, nominative feminine singular	1	fine flour
-NUM 28:20	1	6	ἀναπεποιημένη	ἀναποιέω	perfect passive participle, accusative feminine singular	1	mixed
+NUM 28:20	1	6	ἀναπεποιημένη	ἀναποιέω	perfect passive participle, nominative feminine singular	1	mixed
 NUM 28:20	1	6	ἀναπεποιημένη			2	prepared
 NUM 28:20	1	7	ἐν	ἐν	preposition with the instrumental dative	1	with
 NUM 28:20	1	8	ἐλαίῳ	ἔλαιον	noun, dative neuter singular	1	oil
@@ -548,7 +548,7 @@ NUM 28:28	1	1	Ἡ	ὁ	article, nominative feminine singular	1	the
 NUM 28:28	1	2	θυσία	θυσία	noun, nominative feminine singular	1	sacrifice
 NUM 28:28	1	3	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 NUM 28:28	1	4	σεμίδαλις	σεμίδαλις	noun, nominative feminine singular	1	fine flour
-NUM 28:28	1	5	ἀναπεποιημένη	ἀναποιέω	perfect passive participle, accusative feminine singular	1	mixed
+NUM 28:28	1	5	ἀναπεποιημένη	ἀναποιέω	perfect passive participle, nominative feminine singular	1	mixed
 NUM 28:28	1	5	ἀναπεποιημένη			2	prepared
 NUM 28:28	1	6	ἐν	ἐν	preposition with the instrumental dative	1	with
 NUM 28:28	1	7	ἐλαίῳ	ἔλαιον	noun, dative neuter singular	1	oil

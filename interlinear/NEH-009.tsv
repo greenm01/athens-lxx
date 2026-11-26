@@ -294,7 +294,7 @@ NEH 9:10	1	23	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	h
 NEH 9:10	1	24	ὅτι	ὅτι	causal conjunction	1	because
 NEH 9:10	1	25	ἔγνως	γινώσκω	aorist active indicative, second singular	1	you knew
 NEH 9:10	1	26	ὅτι	ὅτι	conjunction introducing a content clause	1	that
-NEH 9:10	1	27	ὑπερηφάνησαν	ὑπερηφανέω	aorist passive indicative, third plural	1	they acted arrogantly
+NEH 9:10	1	27	ὑπερηφάνησαν	ὑπερηφανέω	aorist active indicative, third plural	1	they acted arrogantly
 NEH 9:10	1	28	ἐπ᾽	ἐπί	preposition with accusative	1	against
 NEH 9:10	1	29	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 NEH 9:10	1	30	καὶ	καί	conjunction	1	and
@@ -323,7 +323,7 @@ NEH 9:11	1	14	ξηρασίᾳ	ξηρασία	noun, dative feminine singular	1	dr
 NEH 9:11	1	15	καὶ	καί	conjunction	1	and
 NEH 9:11	1	16	τοὺς	ὁ	article, accusative masculine plural	1	those
 NEH 9:11	1	17	καταδιώκοντας	καταδιώκω	present active participle, accusative masculine plural; substantival	1	pursuing
-NEH 9:11	1	18	αὐτοὺς	αὐτός	pronoun, genitive masculine plural	1	them
+NEH 9:11	1	18	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 NEH 9:11	1	19	ἔρριψας	ῥίπτω	aorist active indicative, second singular	1	you threw
 NEH 9:11	1	20	εἰς	εἰς	preposition with the accusative	1	into
 NEH 9:11	1	21	βυθὸν	βυθός	noun, accusative masc. sg. after εἰς, the deep	1	the deep
@@ -846,7 +846,7 @@ NEH 9:28	1	35	οἰκτιρμοῖς			2	mercies
 NEH 9:28	1	36	σου	σύ	pronoun, genitive 2nd singular	1	your
 NEH 9:28	1	37	πολλοῖς	πολύς	adjective, dative neuter plural	1	many
 NEH 9:29	1	1	καὶ	καί	conjunction	1	and
-NEH 9:29	1	2	ἐπεμαρτύρω	ἐπιμαρτύρομαι	imperfect middle indicative, second singular	1	you warned
+NEH 9:29	1	2	ἐπεμαρτύρω	ἐπιμαρτύρομαι	aorist middle indicative, second singular	1	you warned
 NEH 9:29	1	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 NEH 9:29	1	4	ἐπιστρέψαι	ἐπιστρέφω	aorist active infinitive	1	to return
 NEH 9:29	1	5	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -877,7 +877,7 @@ NEH 9:29	1	29	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 NEH 9:29	1	30	καὶ	καί	conjunction	1	and
 NEH 9:29	1	31	ἔδωκαν	δίδωμι	aorist active indicative, third plural	1	gave
 NEH 9:29	1	32	νῶτον	νῶτος	noun, accusative neuter singular	1	a back
-NEH 9:29	1	33	ἀπειθοῦντα	ἀπειθής	adjective, accusative neuter singular	1	disobedient
+NEH 9:29	1	33	ἀπειθοῦντα	ἀπειθέω	present active participle, accusative masculine singular	1	disobedient
 NEH 9:29	1	33	ἀπειθοῦντα			2	stubborn
 NEH 9:29	1	34	καὶ	καί	conjunction	1	and
 NEH 9:29	1	35	τράχηλον	τράχηλος	noun, accusative masculine singular	1	neck
@@ -894,7 +894,7 @@ NEH 9:30	1	5	ἔτη	ἔτος	of duration, accusative neuter plural	1	years
 NEH 9:30	1	6	πολλὰ	πολύς	adjective, nominative neuter plural	1	many
 NEH 9:30	1	6	πολλὰ			2	numerous
 NEH 9:30	1	7	καὶ	καί	conjunction	1	and
-NEH 9:30	1	8	ἐπεμαρτύρω	ἐπιμαρτύρομαι	imperfect middle indicative, second singular	1	you warned
+NEH 9:30	1	8	ἐπεμαρτύρω	ἐπιμαρτύρομαι	aorist middle indicative, second singular	1	you warned
 NEH 9:30	1	9	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	them
 NEH 9:30	1	10	ἐν	ἐν	preposition with the dative	1	in
 NEH 9:30	1	11	πνεύματί	πνεῦμα	noun, dative neuter singular	1	the spirit
@@ -1060,7 +1060,7 @@ NEH 9:34	1	29	τὰ	ὁ	article, neuter plural (case from context)	1	the
 NEH 9:34	1	30	μαρτύριά	μαρτύριον	noun, accusative neuter plural	1	testimonies
 NEH 9:34	1	31	σου	σύ	pronoun, possessive genitive second singular	1	your
 NEH 9:34	1	32	ἃ	ὅς	relative pronoun, accusative neuter plural	1	which
-NEH 9:34	1	33	διεμαρτύρω	διαμαρτύρομαι	imperfect middle indicative, second singular	1	you gave as a warning
+NEH 9:34	1	33	διεμαρτύρω	διαμαρτύρομαι	aorist middle indicative, second singular	1	you gave as a warning
 NEH 9:34	1	34	αὐτοῖς	αὐτός	pronoun, dative masculine plural	1	to them
 NEH 9:35	1	1	Καὶ	καί	conjunction	1	and
 NEH 9:35	1	2	αὐτοὶ	αὐτός	pronoun, nominative masculine plural	1	they

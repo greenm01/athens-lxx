@@ -291,7 +291,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:15	1	13	ἃς	ὅς	relative pronoun, accusative of duration, accusative feminine plural	1	which
 1MA 13:15	1	14	εἶχε	ἔχω	imperfect active indicative, third singular	1	had
 1MA 13:15	1	14	εἶχε			2	was holding
-1MA 13:15	1	15	χρείας	χρεία	noun, accusative feminine singular	1	business
+1MA 13:15	1	15	χρείας	χρεία	noun, accusative feminine plural	1	business
 1MA 13:15	1	16	συνέχομεν	συνέχω	present active indicative, first plural	1	are holding
 1MA 13:15	1	17	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	him
 1MA 13:16	1	1	Καὶ	καί	conjunction	1	and
@@ -572,7 +572,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:29	1	10	ἐπὶ	ἐπί	preposition (case from context)	1	on
 1MA 13:29	1	11	τοῖς	ὁ	article, dative neuter plural	1	the
 1MA 13:29	1	12	στύλοις	στῦλος	noun, dative masc. pl. after τοῖς/πᾶσι τοῖς	1	posts
-1MA 13:29	1	13	πανοπλίας	πανοπλία	noun, accusative feminine singular	1	armor
+1MA 13:29	1	13	πανοπλίας	πανοπλία	noun, accusative feminine plural	1	armor
 1MA 13:29	1	14	εἰς	εἰς	preposition (accusative)	1	as
 1MA 13:29	1	14	εἰς			2	for
 1MA 13:29	1	15	ὄνομα	ὄνομα	noun, accusative neuter singular	1	name
@@ -796,7 +796,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:40	1	8	τοὺς	ὁ	article accusative masculine plural	1	those
 1MA 13:40	1	9	περὶ	περί	preposition with genitive	1	around
 1MA 13:40	1	10	ἡμᾶς	ἐγώ	first person plural personal pronoun, accusative	1	us
-1MA 13:40	1	11	ἐγγραφέσθωσαν	ἐγγράφω	aorist passive imperative, third plural	1	let them be enrolled
+1MA 13:40	1	11	ἐγγραφέσθωσαν	ἐγγράφω	present passive imperative, third plural	1	let them be enrolled
 1MA 13:40	1	12	καὶ	καί	conjunction	1	and
 1MA 13:40	1	13	γινέσθω	γίνομαι	present middle imperative, third singular	1	let there be
 1MA 13:40	1	14	ἀναμέσον	ἀναμέσον	preposition with genitive	1	between
@@ -952,7 +952,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:47	1	26	εἰσῆλθεν	εἰσέρχομαι	aorist active indicative, third singular	1	entered
 1MA 13:47	1	27	εἰς	εἰς	preposition with the accusative	1	into
 1MA 13:47	1	28	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
-1MA 13:47	1	29	ὑμνῶν	ὕμνος	noun, genitive masculine plural	1	singing hymns
+1MA 13:47	1	29	ὑμνῶν	ὑμνέω	present active participle, nominative masculine singular	1	singing hymns
 1MA 13:47	1	30	καὶ	καί	conjunction	1	and
 1MA 13:47	1	31	εὐλογῶν	εὐλογέω	present active participle, nominative masculine singular	1	blessing
 1MA 13:48	1	1	Καὶ	καί	conjunction	1	and
@@ -1093,7 +1093,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 13:53	1	4	ὄρος	ὄρος	noun, nominative/accusative neut. sg. after τὸ	1	mountain
 1MA 13:53	1	5	τοῦ	ὁ	article, genitive singular	1	of the
 1MA 13:53	1	6	ἱεροῦ	ἱερόν	noun, genitive neuter singular	1	temple
-1MA 13:53	1	7	τὸ	ὁ	article, accusative masculine singular	1	the one
+1MA 13:53	1	7	τὸ	ὁ	article, accusative neuter singular	1	the one
 1MA 13:53	1	8	παρὰ	παρά	preposition with genitive	1	beside
 1MA 13:53	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
 1MA 13:53	1	10	ἄκραν	ἄκρα	noun, accusative feminine singular	1	citadel

@@ -11,7 +11,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:1	1	8	ποτε			2	formerly
 4MA 4:1	1	9	τὴν	ὁ	article, accusative feminine singular	1	the
 4MA 4:1	1	10	ἀρχιερωσύνην	ἀρχιερωσύνη	noun, accusative feminine singular	1	high priesthood
-4MA 4:1	1	11	ἔχοντα	ἔχω	present active participle, accusative neuter singular	1	having
+4MA 4:1	1	11	ἔχοντα	ἔχω	present active participle, accusative masculine singular	1	having
 4MA 4:1	1	12	διὰ	διά	preposition (genitive 'through/by the hand of'; accusative with articular infinitive 'because')	1	through
 4MA 4:1	1	13	βίου	βίος	noun, genitive masculine singular	1	life
 4MA 4:1	1	13	βίου			2	lifetime
@@ -504,7 +504,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:21	1	1	Ἐφ᾽	ἐπί	Preposition with dative	1	over
 4MA 4:21	1	1	Ἐφ᾽			2	because of
 4MA 4:21	1	2	οἷς	ὅς	relative pronoun, dative neuter plural	1	which
-4MA 4:21	1	3	ἀγανακτήσασα	ἀγανακτέω	aorist active participle, accusative feminine singular	1	indignant
+4MA 4:21	1	3	ἀγανακτήσασα	ἀγανακτέω	aorist active participle, nominative feminine singular	1	indignant
 4MA 4:21	1	3	ἀγανακτήσασα			2	angered
 4MA 4:21	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
 4MA 4:21	1	5	θεία	θεῖος	adjective, nominative feminine singular	1	divine
@@ -601,7 +601,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 4MA 4:24	1	20	καὶ	καί	conjunction	1	and
 4MA 4:24	1	21	τιμωρίας	τιμωρία	noun, accusative feminine plural	1	punishments
 4MA 4:24	1	21	τιμωρίας			2	penalties
-4MA 4:24	1	22	ἑώρα	ὁράω	pluperfect active indicative, third singular; pluperfect with past sense	1	he saw
+4MA 4:24	1	22	ἑώρα	ὁράω	imperfect active indicative, third singular	1	he saw
 4MA 4:24	1	23	καταλυομένας	καταλύω	present passive participle, accusative feminine plural	1	being made ineffective
 4MA 4:24	1	23	καταλυομένας			2	being thwarted
 4MA 4:25	1	1	ὥστε	ὥστε	conjunction	1	so that

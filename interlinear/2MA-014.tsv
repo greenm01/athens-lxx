@@ -231,7 +231,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 14:11	1	9	φίλοι	φίλος	substantival adjective nominative masculine plural	1	friends
 2MA 14:11	1	10	δυσμένως	δυσμένως	adverb	1	hostile
 2MA 14:11	1	11	ἔχοντες	ἔχω	present active participle, nominative masculine plural	1	having
-2MA 14:11	1	12	τὰ	ὁ	article, accusative feminine singular, article with an implied noun	1	—
+2MA 14:11	1	12	τὰ	ὁ	article, accusative neuter plural, article with an implied noun	1	—
 2MA 14:11	1	13	πρὸς	πρός	preposition with the accusative	1	to
 2MA 14:11	1	14	τὸν	ὁ	article, accusative masculine singular	1	the
 2MA 14:11	1	15	Ἰούδαν	Ἰούδας	noun, accusative masculine singular	1	Judas
@@ -295,7 +295,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 14:14	1	19	συμφορὰς	συμφορά	noun, accusative feminine plural	1	calamities
 2MA 14:14	1	20	ἰδίας	ἴδιος	adjective, genitive feminine singular	1	own
 2MA 14:14	1	21	εὐημερίας	εὐημερία	noun, accusative feminine plural	1	good fortunes
-2MA 14:14	1	22	δοκοῦντες	δοκέω	present active participle, nominative neuter plural	1	thinking
+2MA 14:14	1	22	δοκοῦντες	δοκέω	present active participle, nominative masculine plural	1	thinking
 2MA 14:14	1	23	ἔσεσθαι	εἰμί	future middle infinitive	1	should be
 2MA 14:15	1	1	Ἀκούσαντες	ἀκούω	aorist active participle, nominative masculine plural	1	having heard
 2MA 14:15	1	2	δὲ	δέ	postpositive conjunction	1	and
@@ -448,7 +448,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 14:22	1	11	τῶν	ὁ	article, genitive plural	1	the
 2MA 14:22	1	12	πολεμίων	πολέμιος	adjective, genitive masculine plural	1	enemies
 2MA 14:22	1	13	αἰφνιδίως	αἰφνιδίως	adverb	1	suddenly
-2MA 14:22	1	14	κακουργία	κακουργία	noun, accusative feminine singular	1	treachery
+2MA 14:22	1	14	κακουργία	κακουργία	noun, nominative feminine singular	1	treachery
 2MA 14:22	1	15	γένηται	γίνομαι	aorist middle subjunctive, third singular	1	happen
 2MA 14:22	1	16	τὴν	ὁ	article, accusative feminine singular	1	the
 2MA 14:22	1	17	ἁρμόζουσαν	ἁρμόζω	present active participle, accusative feminine singular	1	fitting
@@ -700,7 +700,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 14:33	1	33	ἐπιφανὲς	ἐπιφανής	adjective, nominative neuter singular	1	renowned
 2MA 14:33	1	33	ἐπιφανὲς			2	conspicuous
 2MA 14:33	1	34	ἀναστήσω	ἀνίστημι	future active indicative, first singular	1	I will raise up
-2MA 14:34	1	1	Τοσαῦτα	τοσοῦτος	adjective, accusative neuter singular	1	these words
+2MA 14:34	1	1	Τοσαῦτα	τοσοῦτος	adjective, accusative neuter plural	1	these words
 2MA 14:34	1	2	δὲ	δέ	postpositive conjunction	1	and
 2MA 14:34	1	3	εἰπὼν	εἶπον	aorist active participle, nominative masculine singular	1	saying
 2MA 14:34	1	4	ἀπῆλθεν	ἀπέρχομαι	aorist active indicative, third singular	1	went away
@@ -833,7 +833,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 14:40	1	7	συμφοράν	συμφορά	noun, accusative feminine singular	1	a disaster
 2MA 14:41	1	1	Τῶν	ὁ	article, genitive plural	1	the
 2MA 14:41	1	2	δὲ	δέ	postpositive conjunction	1	and
-2MA 14:41	1	3	πληθῶν	πλῆθος	noun, dative neuter plural	1	crowds
+2MA 14:41	1	3	πληθῶν	πλῆθος	noun, genitive neuter plural	1	crowds
 2MA 14:41	1	4	μελλόντων	μέλλω	present active participle, genitive masculine plural	1	intending
 2MA 14:41	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 2MA 14:41	1	6	πύργον	πύργος	noun, accusative masculine singular	1	tower
@@ -958,7 +958,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 14:46	1	14	τοῖς	ὁ	article, dative masculine plural	1	at the
 2MA 14:46	1	15	ὄχλοις	ὄχλος	noun, dative masculine plural	1	crowds
 2MA 14:46	1	16	καὶ	καί	conjunction	1	and
-2MA 14:46	1	17	ἐπικαλεσάμενος	ἐπικαλέομαι	aorist active participle, nominative masculine singular	1	calling upon
+2MA 14:46	1	17	ἐπικαλεσάμενος	ἐπικαλέομαι	aorist middle participle, nominative masculine singular	1	calling upon
 2MA 14:46	1	18	τὸν	ὁ	article, accusative masculine singular	1	the one
 2MA 14:46	1	19	δεσπόζοντα	δεσπόζω	present active participle, accusative masculine singular	1	who rules
 2MA 14:46	1	20	τῆς	ὁ	article, genitive feminine singular	1	of the

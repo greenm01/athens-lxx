@@ -14,7 +14,7 @@ WIS 11:2	1	4	καὶ	καί	conjunction	1	and
 WIS 11:2	1	5	ἐν	ἐν	preposition with the dative	1	in
 WIS 11:2	1	6	ἀβάτοις	ἄβατος	adjective, dative neuter plural	1	trackless
 WIS 11:2	1	7	ἔπηξαν	πήγνυμι	aorist active indicative, third plural	1	they pitched
-WIS 11:2	1	8	σκηνάς	σκηνή	noun, dative feminine plural	1	tents
+WIS 11:2	1	8	σκηνάς	σκηνή	noun, accusative feminine plural	1	tents
 WIS 11:3	1	1	ἀντέστησαν	ἀνθίστημι	aorist active indicative, third plural	1	they resisted
 WIS 11:3	1	1	ἀντέστησαν			2	they stood against
 WIS 11:3	1	2	πολεμίοις	πολέμιος	adjective, dative masculine plural	1	enemies
@@ -219,7 +219,7 @@ WIS 11:19	1	1	ἢ	ἤ	disjunctive conjunction	1	or
 WIS 11:19	1	2	νεοκτίστους	νεόκτιστος	adjective, accusative feminine plural	1	newly created
 WIS 11:19	1	3	θυμοῦ	θυμός	noun, genitive masculine singular	1	of wrath
 WIS 11:19	1	4	πλήρεις	πλήρης	adjective, accusative masculine plural, describing	1	full
-WIS 11:19	1	5	θῆρας	θήρ	noun, accusative feminine plural	1	beasts
+WIS 11:19	1	5	θῆρας	θήρ	noun, accusative masculine plural	1	beasts
 WIS 11:19	1	6	ἀγνώστους	ἄγνωστος	adjective, accusative feminine plural	1	unknown
 WIS 11:19	1	7	ἤτοι	ἤτοι	particle	1	either
 WIS 11:19	1	8	πυρπνόον	πυρπνόος	adjective, accusative neuter singular	1	fire-breathing
@@ -310,7 +310,7 @@ WIS 11:23	1	13	ῥανὶς	ῥανίς	noun, nominative feminine singular	1	a d
 WIS 11:23	1	14	δρόσου	δρόσος	noun, genitive feminine singular	1	of dew
 WIS 11:23	1	15	ὀρθρινὴ	ὀρθρινός	adjective, nominative feminine singular	1	at dawn
 WIS 11:23	1	15	ὀρθρινὴ			2	early
-WIS 11:23	1	16	κατελθοῦσα	κατέρχομαι	aorist active participle, accusative feminine singular	1	having come down
+WIS 11:23	1	16	κατελθοῦσα	κατέρχομαι	aorist active participle, nominative feminine singular	1	having come down
 WIS 11:23	1	17	ἐπὶ	ἐπί	preposition	1	on
 WIS 11:23	1	18	γῆν	γῆ	noun, accusative feminine singular	1	earth
 WIS 11:24	1	1	Ἐλεεῖς	ἐλεέω	present active indicative, second singular	1	you have mercy

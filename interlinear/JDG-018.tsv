@@ -94,7 +94,7 @@ JDG 18:2	1	45	Μειχὰ			2	of Meicha
 JDG 18:2	1	46	καὶ	καί	conjunction	1	and
 JDG 18:2	1	47	κατέπαυσαν	καταπαύω	aorist active indicative, third plural	1	stopped
 JDG 18:2	1	48	ἐκεῖ	ἐκεῖ	adverb of place	1	there
-JDG 18:3	1	1	Αὐτῶν	αὐτός	pronoun, nominative masculine plural	1	while they
+JDG 18:3	1	1	Αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	while they
 JDG 18:3	1	2	ὄντων	εἰμί	present active participle, genitive masculine plural	1	were
 JDG 18:3	1	3	παρὰ	παρά	preposition with the dative	1	beside
 JDG 18:3	1	4	τῷ	ὁ	article, dative masculine singular	1	the
@@ -374,7 +374,7 @@ JDG 18:10	1	9	ἡ	ὁ	article, nominative feminine singular	1	the
 JDG 18:10	1	10	γῆ	γῆ	noun, nominative feminine singular	1	land
 JDG 18:10	1	11	εὐρύχωρος	εὐρύχωρος	adjective, nominative feminine singular	1	spacious
 JDG 18:10	1	11	εὐρύχωρος			2	wide
-JDG 18:10	1	12	χερσίν	χείρ	noun, accusative feminine plural; abrupt accusative in the printed text	1	hands
+JDG 18:10	1	12	χερσίν	χείρ	noun, dative feminine plural	1	hands
 JDG 18:10	1	13	ὅτι	ὅτι	content conjunction	1	because
 JDG 18:10	1	14	παρέδωκεν	παραδίδωμι	aorist active indicative, 3rd sg.	1	handed over
 JDG 18:10	1	15	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
@@ -414,7 +414,7 @@ JDG 18:11	1	14	περιεζωσμένοι	περιζώννυμι	perfect passive
 JDG 18:11	1	14	περιεζωσμένοι			2	girded
 JDG 18:11	1	15	σκεύη	σκεῦος	noun, accusative neuter plural	1	gear
 JDG 18:11	1	15	σκεύη			2	equipment
-JDG 18:11	1	16	πολεμικά	πόλεμος	noun, genitive masculine singular	1	for war
+JDG 18:11	1	16	πολεμικά	πολεμικός	adjective, accusative neuter plural	1	for war
 JDG 18:12	1	1	Καὶ	καί	conjunction	1	and
 JDG 18:12	1	2	ἀνέβησαν	ἀναβαίνω	aorist active indicative, third plural	1	went up
 JDG 18:12	1	3	καὶ	καί	conjunction	1	and
@@ -523,7 +523,7 @@ JDG 18:15	1	15	οἶκον			2	household
 JDG 18:15	1	16	Μειχὰ	Μειχά	indeclinable personal name, genitive in context	1	of Micah
 JDG 18:15	1	16	Μειχὰ			2	of Meicha
 JDG 18:15	1	17	καὶ	καί	conjunction	1	and
-JDG 18:15	1	18	ἠσπάσαντο	ἐρωτάω	aorist active indicative, third plural	1	they greeted
+JDG 18:15	1	18	ἠσπάσαντο	ἀσπάζομαι	aorist middle indicative, third plural	1	they greeted
 JDG 18:15	1	19	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	him
 JDG 18:15	1	20	εἰς	εἰς	preposition governing the accusative	1	about
 JDG 18:15	1	21	εἰρήνην	εἰρήνη	noun, accusative feminine singular	1	well-being
@@ -825,7 +825,7 @@ JDG 18:25	1	15	ἡμῶν	ἡμεῖς	pronoun, genitive 1st pl. after μεθ᾽
 JDG 18:25	1	16	μήποτε	μήποτε	conjunction	1	lest
 JDG 18:25	1	17	ἀπαντήσωσιν	ἀπαντάω	aorist active subjunctive, third plural	1	come upon
 JDG 18:25	1	17	ἀπαντήσωσιν			2	meet
-JDG 18:25	1	18	ὑμῖν	σύ	pronoun, dative second singular	1	you
+JDG 18:25	1	18	ὑμῖν	σύ	pronoun, dative second plural	1	you
 JDG 18:25	1	19	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
 JDG 18:25	1	20	πικροὶ	πικρός	adjective, nominative masculine plural	1	bitter
 JDG 18:25	1	20	πικροὶ			2	fierce
@@ -935,7 +935,7 @@ JDG 18:28	1	20	κοιλάδι	κοιλάς	noun, dative feminine singular	1	vall
 JDG 18:28	1	21	ἥ	ὅς	relative pronoun, nominative feminine singular	1	which
 JDG 18:28	1	22	ἐστι	εἰμί	present indicative, third singular	1	is
 JDG 18:28	1	23	τοῦ	ὁ	article, genitive singular	1	of
-JDG 18:28	1	24	οἴκου	οἶκος	noun, dative masculine singular	1	Beth
+JDG 18:28	1	24	οἴκου	οἶκος	noun, genitive masculine singular	1	Beth
 JDG 18:28	1	24	οἴκου			2	house
 JDG 18:28	1	25	Ῥοώβ	Ῥοώβ	indeclinable place name, genitive in context	1	Rehob
 JDG 18:28	1	26	καὶ	καί	conjunction	1	and

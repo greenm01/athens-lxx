@@ -230,7 +230,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 5:9	1	7	καὶ	καί	conjunction	1	and
 2SA 5:9	1	8	ἐκλήθη	καλέω	aorist passive indicative, third singular	1	was called
 2SA 5:9	1	8	ἐκλήθη			2	was named
-2SA 5:9	1	9	αὕτη	αὐτός	pronoun, accusative feminine singular	1	it
+2SA 5:9	1	9	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	1	it
 2SA 5:9	1	10	ἡ	ὁ	article, nominative feminine singular	1	the
 2SA 5:9	1	11	πόλις	πόλις	noun, nominative feminine singular	1	city
 2SA 5:9	1	12	Δαυίδ	Δαυίδ	indeclinable personal name, nominative in context	1	David
@@ -287,7 +287,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 5:11	1	16	τέκτονας	τέκτων	noun, accusative masculine plural	1	craftsmen
 2SA 5:11	1	16	τέκτονας			2	builders
 2SA 5:11	1	17	λίθων	λίθος	noun, genitive masculine plural	1	of stone
-2SA 5:11	1	18	τοίχου	τεῖχος	noun, genitive neuter singular	1	for walls
+2SA 5:11	1	18	τοίχου	τοῖχος	noun, genitive masculine singular	1	for walls
 2SA 5:11	1	18	τοίχου			2	of a wall
 2SA 5:11	1	19	καὶ	καί	conjunction	1	and
 2SA 5:11	1	20	ᾠκοδόμησαν	οἰκοδομέω	aorist active indicative, third plural	1	they built

@@ -80,9 +80,9 @@ JOS 15:3	1	23	Ἀδδαρὰ	Ἀδδαρά	indeclinable place name, accusative i
 JOS 15:3	1	23	Ἀδδαρὰ			2	Addar
 JOS 15:3	1	24	καὶ	καί	conjunction	1	and
 JOS 15:3	1	25	περιπορεύεται	περιπορεύομαι	present middle indicative, third singular	1	goes around
-JOS 15:3	1	26	τὴν	ὁ	article, accusative neuter singular	1	the area
+JOS 15:3	1	26	τὴν	ὁ	article, accusative feminine singular	1	the area
 JOS 15:3	1	27	κατὰ	κατά	preposition with accusative	1	near
-JOS 15:3	1	28	δυσμὰς	δυσμή	noun, genitive feminine plural	1	west
+JOS 15:3	1	28	δυσμὰς	δυσμή	noun, accusative feminine plural	1	west
 JOS 15:3	1	29	Κάδης	Κάδης	indeclinable place name, genitive in context	1	of Kadesh
 JOS 15:4	1	1	καὶ	καί	conjunction	1	and
 JOS 15:4	1	2	πορεύεται	πορεύομαι	present middle indicative, third singular	1	moves
@@ -315,7 +315,7 @@ JOS 15:10	1	3	ὅριον	ὅριον	noun, nominative neuter singular	1	boundar
 JOS 15:10	1	4	ἀπὸ	ἀπό	preposition with the genitive	1	from
 JOS 15:10	1	5	Βαὰλ	Βάαλ	indeclinable divine name, genitive in context	1	Baalah
 JOS 15:10	1	6	ἐπὶ	ἐπί	preposition with accusative of direction	1	toward
-JOS 15:10	1	7	θάλασσαν	θάλασσα	noun, genitive feminine singular	1	the sea
+JOS 15:10	1	7	θάλασσαν	θάλασσα	noun, accusative feminine singular	1	the sea
 JOS 15:10	1	7	θάλασσαν			2	the west
 JOS 15:10	1	8	εἰς	εἰς	preposition with the accusative	1	into
 JOS 15:10	1	9	ὄρος	ὄρος	noun, accusative neut. sg. after εἰς	1	mountain
@@ -324,7 +324,7 @@ JOS 15:10	1	11	καὶ	καί	conjunction	1	and
 JOS 15:10	1	12	παρελεύσεται	παρέρχομαι	future middle indicative, 3rd sg.	1	will pass over
 JOS 15:10	1	13	ἐπὶ	ἐπί	preposition governing the genitive	1	along
 JOS 15:10	1	14	νώτου	νῶτος	noun, genitive neuter singular	1	the ridge
-JOS 15:10	1	15	πόλιν	πόλις	noun, genitive feminine singular	1	of the city
+JOS 15:10	1	15	πόλιν	πόλις	noun, accusative feminine singular	1	of the city
 JOS 15:10	1	16	Ἰαρὶμ	Ἰαρίμ	indeclinable place name, genitive in context	1	of Jearim
 JOS 15:10	1	16	Ἰαρὶμ			2	of Iarim
 JOS 15:10	1	17	ἀπὸ	ἀπό	preposition with the genitive	1	from
@@ -348,7 +348,7 @@ JOS 15:11	1	2	διεκβάλλει			2	runs out
 JOS 15:11	1	3	τὸ	ὁ	article, nominative neuter singular	1	the
 JOS 15:11	1	4	ὅριον	ὅριον	noun, nominative neuter singular	1	boundary
 JOS 15:11	1	5	κατὰ	κατά	preposition with accusative	1	according to
-JOS 15:11	1	6	νώτου	νῶτος	noun, accusative neuter singular	1	the flank
+JOS 15:11	1	6	νώτου	νῶτος	noun, genitive masculine singular	1	the flank
 JOS 15:11	1	6	νώτου			2	back
 JOS 15:11	1	7	Ἀκκαρὼν	Ἀκκαρών	indeclinable place name, genitive in context	1	of Ekron
 JOS 15:11	1	8	ἐπὶ	ἐπί	preposition (case from context)	1	on
@@ -381,7 +381,7 @@ JOS 15:11	1	28	διέξοδος	διέξοδος	noun, nominative feminine singu
 JOS 15:11	1	29	τῶν	ὁ	article, genitive neuter plural	1	of the
 JOS 15:11	1	30	ὁρίων	ὅριον	noun, genitive neuter plural	1	borders
 JOS 15:11	1	31	ἐπὶ	ἐπί	preposition with accusative of direction	1	toward
-JOS 15:11	1	32	θάλασσαν	θάλασσα	noun, genitive feminine singular	1	the sea
+JOS 15:11	1	32	θάλασσαν	θάλασσα	noun, accusative feminine singular	1	the sea
 JOS 15:11	1	32	θάλασσαν			2	the west
 JOS 15:12	1	1	Καὶ	καί	conjunction	1	and
 JOS 15:12	1	2	τὰ	ὁ	article, nominative neuter plural	1	the
@@ -460,7 +460,7 @@ JOS 15:14	1	18	Ἀχιμᾶ	Ἀχιμᾶ	indeclinable personal name, accusative 
 JOS 15:14	1	18	Ἀχιμᾶ			2	Achima
 JOS 15:14	1	19	γεννήματα	γένος	noun, accusative neuter plural	1	descendants
 JOS 15:14	1	19	γεννήματα			2	offspring
-JOS 15:14	1	20	τῶν	ὁ	article, genitive masculine singular	1	of
+JOS 15:14	1	20	τῶν	ὁ	article, genitive masculine plural	1	of
 JOS 15:14	1	21	Ἐνάκ	Ἐνάκ	indeclinable personal name, genitive in context	1	Anak
 JOS 15:15	1	1	Καὶ	καί	conjunction	1	and
 JOS 15:15	1	2	ἀνέβη	ἀναβαίνω	aorist active indicative, third singular	1	went up
@@ -1045,7 +1045,7 @@ JOS 15:62	1	2	Νεβσὰν	Νεβσάν	indeclinable place name, nominative in 
 JOS 15:62	1	3	καὶ	καί	conjunction	1	and
 JOS 15:62	1	4	ἡ	ὁ	article, nominative feminine singular	1	the
 JOS 15:62	1	5	πόλις	πόλις	noun, nominative feminine singular	1	city
-JOS 15:62	1	6	ἁλῶν	ἅλς	noun, genitive masculine singular	1	of Salt
+JOS 15:62	1	6	ἁλῶν	ἅλς	noun, genitive masculine plural	1	of Salt
 JOS 15:62	1	7	καὶ	καί	conjunction	1	and
 JOS 15:62	1	8	Ἠνγαδδὶ	Ἠνγαδδί	indeclinable place name, nominative in context	1	Engedi
 JOS 15:62	1	9	πόλεις	πόλις	noun, accusative feminine plural	1	cities

@@ -193,7 +193,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 1:8	1	6	καὶ	καί	conjunction	1	and
 1ES 1:8	1	7	Ἠσυῆλος	Ἠσυῆλος	noun, nominative masculine singular	1	Jehiel
 1ES 1:8	1	8	οἱ	ὁ	article, nominative masculine plural	1	the
-1ES 1:8	1	9	ἐπιστάται	ἐπιστάτης	noun, accusative masculine plural	1	supervisors
+1ES 1:8	1	9	ἐπιστάται	ἐπιστάτης	noun, nominative masculine plural	1	supervisors
 1ES 1:8	1	10	τοῦ	ὁ	article, genitive neuter singular	1	of the
 1ES 1:8	1	11	ἱεροῦ	ἱερόν	noun, genitive neuter singular	1	sanctuary
 1ES 1:8	1	12	τοῖς	ὁ	article, dative masculine plural	1	to the
@@ -289,7 +289,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 1:11	1	19	καὶ	καί	conjunction	1	and
 1ES 1:11	1	20	ἀπήνεγκαν	ἀποφέρω	aorist active indicative, third plural	1	they brought
 1ES 1:11	1	21	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
-1ES 1:11	1	22	τοῖς	ὁ	article, dative masculine singular	1	to those
+1ES 1:11	1	22	τοῖς	ὁ	article, dative masculine plural	1	to those
 1ES 1:11	1	23	ἐκ	ἐκ	preposition with the genitive	1	from
 1ES 1:11	1	24	τοῦ	ὁ	article, genitive singular	1	the
 1ES 1:11	1	25	λαοῦ	λαός	noun, genitive masculine singular	1	people
@@ -365,7 +365,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 1:15	1	10	ἕκαστον	ἕκαστος	adjective, accusative masculine singular; distributive, subject of the infinitive	1	each
 1ES 1:15	1	11	τὴν	ὁ	article, accusative feminine singular	1	the
 1ES 1:15	1	12	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	1	his own
-1ES 1:15	1	13	ἐφημερίαν	ἐφημερία	noun, nominative feminine singular; distributive repetition in context	1	division
+1ES 1:15	1	13	ἐφημερίαν	ἐφημερία	noun, accusative feminine singular	1	division
 1ES 1:15	1	14	οἱ	ὁ	article, nominative masculine plural	1	the
 1ES 1:15	1	15	γὰρ	γάρ	conjunction	1	for
 1ES 1:15	1	16	ἀδελφοὶ	ἀδελφός	noun, nominative masculine plural	1	brothers
@@ -1113,7 +1113,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1ES 1:48	1	10	ἀγγέλου	ἄγγελος	noun, genitive masculine singular	1	angel
 1ES 1:48	1	10	ἀγγέλου			2	messenger
 1ES 1:48	1	11	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, possessive, genitive masculine singular	1	his own
-1ES 1:48	1	12	μετακαλέσαι	μετακαλέομαι	aorist middle infinitive	1	to summon back
+1ES 1:48	1	12	μετακαλέσαι	μετακαλέομαι	aorist active infinitive	1	to summon back
 1ES 1:48	1	13	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 1ES 1:48	1	14	καθότι	καθότι	subordinating conjunction	1	as
 1ES 1:48	1	14	καθότι			2	in accordance with what

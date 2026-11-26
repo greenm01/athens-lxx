@@ -9,7 +9,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 34:1	1	8	αὐτὸν	αὐτός	pronoun, accusative masculine singular; subject of the infinitive	1	he
 2CH 34:1	1	9	καὶ	καί	conjunction	1	and
 2CH 34:1	1	10	τριακονταὲν	τριακονταέν	cardinal numeral, accusative neuter plural by context; compound written as a unit	1	thirty-one
-2CH 34:1	1	11	ἔτος	ἔτος	noun, accusative neuter plural	1	years
+2CH 34:1	1	11	ἔτος	ἔτος	noun, accusative neuter singular	1	years
 2CH 34:1	1	12	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular	1	reigned
 2CH 34:1	1	13	ἐν	ἐν	preposition with the dative	1	in
 2CH 34:1	1	14	Ἱερουσαλήμ	Ἱερουσαλήμ	indeclinable place name, genitive in context	1	Jerusalem
@@ -304,7 +304,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 34:10	1	14	καὶ	καί	conjunction	1	and
 2CH 34:10	1	15	ἔδωκαν	δίδωμι	aorist active indicative, third plural	1	gave
 2CH 34:10	1	16	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	it
-2CH 34:10	1	17	ποιοῦσι	ποιέω	present active participle, genitive masculine plural	1	to those doing
+2CH 34:10	1	17	ποιοῦσι	ποιέω	present active participle, dative masculine plural	1	to those doing
 2CH 34:10	1	18	τὰ	ὁ	article, accusative neuter plural	1	the
 2CH 34:10	1	19	ἔργα	ἔργον	noun, accusative neuter plural	1	works
 2CH 34:10	1	20	οἳ	ὅς	relative pronoun, nominative masculine plural	1	who
@@ -773,7 +773,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 34:27	1	10	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
 2CH 34:27	1	11	ἐν	ἐν	preposition with dative; articular infinitive	1	when
 2CH 34:27	1	12	τῷ	ὁ	article, dative neuter singular, introduces the infinitive	1	—
-2CH 34:27	1	13	ἀκοῦσαί	ἀκούω	present active infinitive	1	heard
+2CH 34:27	1	13	ἀκοῦσαί	ἀκούω	aorist active infinitive	1	heard
 2CH 34:27	1	14	σε	σύ	personal pronoun, accusative second singular; subject of the infinitive	1	you
 2CH 34:27	1	15	τοὺς	ὁ	article accusative masculine plural	1	the
 2CH 34:27	1	16	λόγους	λόγος	noun accusative masculine plural	1	words
@@ -786,7 +786,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 34:27	1	23	ἐπὶ	ἐπί	preposition with accusative	1	against
 2CH 34:27	1	24	τοὺς	ὁ	article, accusative masculine plural	1	the
 2CH 34:27	1	25	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	inhabitants
-2CH 34:27	1	26	αὐτὸν	αὐτός	pronoun, genitive masculine singular	1	of it
+2CH 34:27	1	26	αὐτὸν	αὐτός	pronoun, accusative masculine singular	1	of it
 2CH 34:27	1	27	καὶ	καί	conjunction	1	and
 2CH 34:27	1	28	ἐταπεινώθης	ταπεινόω	aorist passive indicative, second singular	1	you were brought low
 2CH 34:27	1	28	ἐταπεινώθης			2	you were humbled
@@ -843,7 +843,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 34:28	1	34	ἐπὶ	ἐπί	preposition with accusative	1	against
 2CH 34:28	1	35	τοὺς	ὁ	article, accusative masculine plural	1	the
 2CH 34:28	1	36	κατοικοῦντας	κατοικέω	present active participle, accusative masculine plural	1	inhabitants
-2CH 34:28	1	37	αὐτόν	αὐτός	pronoun, genitive masculine singular	1	of it
+2CH 34:28	1	37	αὐτόν	αὐτός	pronoun, accusative masculine singular	1	of it
 2CH 34:28	1	38	καὶ	καί	conjunction	1	and
 2CH 34:28	1	39	ἀπέδωκαν	ἀποδίδωμι	aorist active indicative, third plural	1	they gave back
 2CH 34:28	1	40	τῷ	ὁ	article, dative masculine singular	1	to the

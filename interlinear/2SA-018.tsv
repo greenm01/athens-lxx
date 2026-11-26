@@ -234,7 +234,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 18:8	1	19	τοῦ	ὁ	article, genitive singular	1	the
 2SA 18:8	1	20	λαοῦ	λαός	noun, genitive masculine singular	1	people
 2SA 18:8	1	21	ὑπὲρ	ὑπέρ	preposition governing the accusative in comparison	1	than
-2SA 18:8	1	22	οὓς	ὅς	relative pronoun, accusative masculine singular	1	whom
+2SA 18:8	1	22	οὓς	ὅς	relative pronoun, accusative masculine plural	1	whom
 2SA 18:8	1	23	κατέφαγεν	κατεσθίω	aorist active indicative, third singular	1	devoured
 2SA 18:8	1	24	ἡ	ὁ	article, nominative feminine singular	1	the
 2SA 18:8	1	25	μάχαιρα	ῥομφαία	noun, nominative feminine singular	1	sword
@@ -365,7 +365,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 18:12	1	16	ἀργυρίου	ἀργύριον	noun, genitive neuter singular	1	of silver
 2SA 18:12	1	17	οὐ	οὐ	negative particle	1	not
 2SA 18:12	1	18	μὴ	μή	emphatic negative particle with οὐ	1	at all
-2SA 18:12	1	19	ἐπιβάλω	ἐπιβάλλω	future active indicative, first singular	1	I will lay
+2SA 18:12	1	19	ἐπιβάλω	ἐπιβάλλω	aorist active subjunctive, first singular	1	I will lay
 2SA 18:12	1	20	τὴν	ὁ	article, accusative feminine singular	1	the
 2SA 18:12	1	21	χεῖρά	χείρ	noun, accusative feminine singular	1	hand
 2SA 18:12	1	22	μου	ἐγώ	pronoun, possessive genitive first singular	1	my
@@ -417,7 +417,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 18:13	1	15	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 2SA 18:13	1	16	καὶ	καί	conjunction	1	and
 2SA 18:13	1	17	σὺ	σύ	personal pronoun, nominative singular, emphatic	1	you
-2SA 18:13	1	18	στήσῃ	ἵστημι	aorist active subjunctive, second singular	1	would stand
+2SA 18:13	1	18	στήσῃ	ἵστημι	future middle indicative, second singular	1	would stand
 2SA 18:13	1	19	ἐξεναντίας	ἐξεναντίας	adverb/preposition with following indeclinable name, opposite	1	opposite
 2SA 18:14	1	1	Καὶ	καί	conjunction	1	and
 2SA 18:14	1	2	εἶπεν	λέγω	aorist active indicative, third singular	1	said
@@ -993,7 +993,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2SA 18:32	1	15	εἶπε	λέγω	aorist active indicative, third singular	1	said
 2SA 18:32	1	16	Χουσεί	Χουσεί	indeclinable personal name, nominative in context	1	Cushi
 2SA 18:32	1	16	Χουσεί			2	the Cushite
-2SA 18:32	1	17	γένοιντο	γίνομαι	aorist middle participle, third plural	1	may they become
+2SA 18:32	1	17	γένοιντο	γίνομαι	aorist middle optative, third plural	1	may they become
 2SA 18:32	1	18	ὡς	ὡς	comparative particle	1	as
 2SA 18:32	1	19	τὸ	ὁ	article, nominative neuter singular	1	the
 2SA 18:32	1	20	παιδάριον	παιδάριον	noun, nominative neuter singular after τὸ	1	lad

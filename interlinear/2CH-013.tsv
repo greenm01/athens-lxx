@@ -112,7 +112,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 13:5	1	21	υἱοῖς	υἱός	noun, dative masculine plural	1	sons
 2CH 13:5	1	22	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	1	his
 2CH 13:5	1	23	διαθήκῃ	διαθήκη	noun, dative feminine singular	1	covenant
-2CH 13:5	1	24	ἁλός	ἅλας	noun, genitive neuter singular	1	of salt
+2CH 13:5	1	24	ἁλός	ἅλς	noun, genitive masculine singular	1	of salt
 2CH 13:6	1	1	Καὶ	καί	conjunction	1	and
 2CH 13:6	1	2	ἀνέστη	ἀνίστημι	aorist active indicative, third singular	1	rose up
 2CH 13:6	1	3	Ἱεροβοὰμ	Ἱεροβοάμ	indeclinable personal name, genitive in context	1	Jeroboam
@@ -453,7 +453,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 13:17	1	17	πεντακόσιαι	πεντακόσιοι	cardinal numeral, nominative feminine plural	1	five hundred
 2CH 13:17	1	18	χιλιάδες	χιλιάς	noun, nominative feminine plural	1	thousands
 2CH 13:17	1	19	ἄνδρες	ἀνήρ	noun, nominative masculine plural	1	men
-2CH 13:17	1	20	δυνατοί	δυνατός	adjective, genitive masculine plural	1	valiant
+2CH 13:17	1	20	δυνατοί	δυνατός	adjective, nominative masculine plural	1	valiant
 2CH 13:18	1	1	καὶ	καί	conjunction	1	and
 2CH 13:18	1	2	ἐταπεινώθησαν	ταπεινόω	aorist passive indicative, third plural	1	were humbled
 2CH 13:18	1	3	οἱ	ὁ	article, nominative masculine plural	1	the
@@ -485,7 +485,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2CH 13:19	1	5	Ἱεροβοὰμ	Ἱεροβοάμ	indeclinable personal name, genitive in context	1	Jeroboam
 2CH 13:19	1	5	Ἱεροβοὰμ			2	Hieroboam
 2CH 13:19	1	6	καὶ	καί	conjunction	1	and
-2CH 13:19	1	7	προκατελάβετο	προκαταλαμβάνω	aorist active indicative, third singular	1	seized
+2CH 13:19	1	7	προκατελάβετο	προκαταλαμβάνω	aorist middle indicative, third singular	1	seized
 2CH 13:19	1	8	παρ	παρά	preposition with genitive, printed without elision mark	1	from
 2CH 13:19	1	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	1	him
 2CH 13:19	1	10	πόλεις	πόλις	noun, accusative feminine plural	1	cities

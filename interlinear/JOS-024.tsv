@@ -143,7 +143,7 @@ JOS 24:4	1	33	μέγα	μέγας	adjective, accusative neuter singular	1	great
 JOS 24:4	1	34	καὶ	καί	conjunction	1	and
 JOS 24:4	1	35	πολὺ	πολύς	adjective, accusative neuter singular	1	numerous
 JOS 24:4	1	36	καὶ	καί	conjunction	1	and
-JOS 24:4	1	37	κραταιὸν	κραταιός	adjective, accusative feminine singular	1	strong
+JOS 24:4	1	37	κραταιὸν	κραταιός	adjective, accusative neuter singular	1	strong
 JOS 24:4	1	38	καὶ	καί	conjunction	1	and
 JOS 24:4	1	39	ἐκάκωσαν	κακόω	aorist active indicative, third plural	1	mistreated
 JOS 24:4	1	40	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
@@ -292,7 +292,7 @@ JOS 24:9	1	6	Σεπφὼρ			2	Sepphor
 JOS 24:9	1	7	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	1	king
 JOS 24:9	1	8	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	of Moab
 JOS 24:9	1	9	καὶ	καί	conjunction	1	and
-JOS 24:9	1	10	παρετάξατο	πολεμέω	aorist active indicative, third singular	1	drew up for battle
+JOS 24:9	1	10	παρετάξατο	παρατάσσω	aorist middle indicative, third singular	1	drew up for battle
 JOS 24:9	1	11	τῷ	ὁ	article, dative masculine singular	1	against
 JOS 24:9	1	12	Ἰσραὴλ	Ἰσραήλ	indeclinable proper name, dative in context	1	Israel
 JOS 24:9	1	13	καὶ	καί	conjunction	1	and
@@ -401,7 +401,7 @@ JOS 24:13	1	6	ἣν	ὅς	relative pronoun, accusative feminine singular	1	which
 JOS 24:13	1	7	οὐκ	οὐ	negative adverb	1	not
 JOS 24:13	1	8	ἐκοπιάσατε	κοπιάω	aorist active indicative, second plural	1	you labored
 JOS 24:13	1	9	ἐπ᾽	ἐπί	preposition governing the genitive	1	on
-JOS 24:13	1	10	αὐτὴν	αὐτός	pronoun, genitive feminine singular	1	it
+JOS 24:13	1	10	αὐτὴν	αὐτός	pronoun, accusative feminine singular	1	it
 JOS 24:13	1	11	καὶ	καί	conjunction	1	and
 JOS 24:13	1	12	πόλεις	πόλις	noun, accusative feminine plural	1	cities
 JOS 24:13	1	13	ἃς	ὅς	relative pronoun, accusative of duration, accusative feminine plural	1	which
@@ -436,7 +436,7 @@ JOS 24:14	1	11	καὶ	καί	conjunction	1	and
 JOS 24:14	1	12	ἐν	ἐν	preposition with the dative	1	in
 JOS 24:14	1	13	εὐθύτητι	εὐθύτης	noun, dative feminine singular	1	uprightness
 JOS 24:14	1	14	καὶ	καί	conjunction	1	and
-JOS 24:14	1	15	περιέλεσθε	περιαιρέω	aorist active imperative, second plural	1	remove
+JOS 24:14	1	15	περιέλεσθε	περιαιρέω	aorist middle imperative, second plural	1	remove
 JOS 24:14	1	15	περιέλεσθε			2	put away
 JOS 24:14	1	16	τοὺς	ὁ	article, accusative masculine plural	1	the
 JOS 24:14	1	17	θεοὺς	θεός	noun, accusative masculine plural	1	gods
@@ -481,7 +481,7 @@ JOS 24:15	1	17	θεοῖς	θεός	noun, dative masc. pl.	1	gods
 JOS 24:15	1	18	τῶν	ὁ	article, genitive masculine plural	1	of the
 JOS 24:15	1	19	πατέρων	πατήρ	noun, genitive masculine plural after τῶν	1	fathers
 JOS 24:15	1	20	ὑμῶν	σύ	pronoun, possessive genitive second plural	1	your
-JOS 24:15	1	21	τοῖς	ὁ	article, genitive masculine plural	1	the ones
+JOS 24:15	1	21	τοῖς	ὁ	article, dative masculine plural	1	the ones
 JOS 24:15	1	22	ἐν	ἐν	preposition with the dative	1	in
 JOS 24:15	1	23	τῷ	ὁ	article, dative masculine singular	1	the
 JOS 24:15	1	24	πέραν	πέραν	adverb used substantivally	1	region beyond
@@ -578,7 +578,7 @@ JOS 24:17	1	42	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
 JOS 24:17	1	43	τοῖς	ὁ	article, dative neuter plural	1	the
 JOS 24:17	1	44	ἔθνεσιν	ἔθνος	noun, dative neuter plural	1	nations
 JOS 24:17	1	44	ἔθνεσιν			2	peoples
-JOS 24:17	1	45	οὓς	ὅς	relative pronoun, genitive masculine plural	1	whom
+JOS 24:17	1	45	οὓς	ὅς	relative pronoun, accusative masculine plural	1	whom
 JOS 24:17	1	46	παρήλθομεν	παρέρχομαι	aorist active indicative, first plural	1	we passed through
 JOS 24:17	1	47	δι᾽	διά	preposition governing the genitive	1	through
 JOS 24:17	1	48	αὐτῶν	αὐτός	pronoun, genitive masculine plural	1	them
@@ -618,7 +618,7 @@ JOS 24:19	1	5	τὸν	ὁ	article, accusative masculine singular	1	the
 JOS 24:19	1	6	λαόν	λαός	noun, accusative masculine singular	1	people
 JOS 24:19	1	7	οὐ	οὐ	negative particle	1	not
 JOS 24:19	1	8	μὴ	μή	negative adverb with οὐ	1	at all
-JOS 24:19	1	9	δύνησθε	δύναμαι	present middle indicative, second plural	1	you can
+JOS 24:19	1	9	δύνησθε	δύναμαι	present middle subjunctive, second plural	1	you can
 JOS 24:19	1	10	λατρεύειν	λατρεύω	present active infinitive	1	to serve
 JOS 24:19	1	11	τῷ	ὁ	article, dative masculine singular	1	to the
 JOS 24:19	1	12	Κυρίῳ	κύριος	noun, dative masculine singular	1	Lord
@@ -700,7 +700,7 @@ JOS 24:22	1	20	εἶπαν	λέγω	aorist active indicative, third plural	1	the
 JOS 24:22	1	21	μάρτυρες	μάρτυς	noun, nominative masculine plural	1	witnesses
 JOS 24:23	1	1	Καὶ	καί	conjunction	1	and
 JOS 24:23	1	2	νῦν	νῦν	adverb of time	1	now
-JOS 24:23	1	3	περιέλεσθε	περιαιρέω	aorist active imperative, second plural	1	remove
+JOS 24:23	1	3	περιέλεσθε	περιαιρέω	aorist middle imperative, second plural	1	remove
 JOS 24:23	1	3	περιέλεσθε			2	put away
 JOS 24:23	1	4	τοὺς	ὁ	article, accusative masculine plural	1	the
 JOS 24:23	1	5	θεοὺς	θεός	noun, accusative masculine plural	1	gods
@@ -1067,7 +1067,7 @@ JOS 24:33	1	45	ἑαυτοῖς	ἑαυτοῦ	reflexive pronoun, dative masculi
 JOS 24:33	1	45	ἑαυτοῖς			2	themselves
 JOS 24:33	1	46	καὶ	καί	conjunction	1	and
 JOS 24:33	1	47	Φινεὲς	Φινεές	indeclinable personal name, accusative in context	1	Phinehas
-JOS 24:33	1	48	ἱεράτευσεν	ἱερατεύω	imperfect active indicative, third singular	1	served as priest
+JOS 24:33	1	48	ἱεράτευσεν	ἱερατεύω	aorist active indicative, third singular	1	served as priest
 JOS 24:33	1	49	ἀντὶ	ἀντί	preposition with the genitive	1	in place of
 JOS 24:33	1	49	ἀντὶ			2	instead of
 JOS 24:33	1	50	Ἐλεάζαρ	Ἐλεάζαρ	indeclinable personal name, accusative in context	1	Eleazar
@@ -1126,7 +1126,7 @@ JOS 24:33	1	100	χεῖρας	χείρ	noun, accusative feminine plural	1	hands
 JOS 24:33	1	101	Ἐγλὼμ	Ἐγλώμ	indeclinable personal name, genitive in context	1	of Eglon
 JOS 24:33	1	101	Ἐγλὼμ			2	of Eglom
 JOS 24:33	1	102	τῷ	ὁ	article, genitive masculine singular	1	the
-JOS 24:33	1	103	βασιλεῖ	βασιλεύς	noun, genitive masculine singular	1	king
+JOS 24:33	1	103	βασιλεῖ	βασιλεύς	noun, dative masculine singular	1	king
 JOS 24:33	1	104	Μωὰβ	Μωάβ	indeclinable place name, genitive in context	1	of Moab
 JOS 24:33	1	105	καὶ	καί	conjunction	1	and
 JOS 24:33	1	106	κατεκυρίευσεν	κατακυριεύω	aorist active indicative, third singular	1	gained dominion over

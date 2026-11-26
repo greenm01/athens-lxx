@@ -99,7 +99,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 8:4	1	14	τόπος	τόπος	noun, nominative masculine singular	1	place
 1MA 8:4	1	15	ἦν	εἰμί	imperfect indicative, third singular	1	was
 1MA 8:4	1	16	μακρὰν	μακράν	adverb, accusative feminine singular adjective used adverbially	1	far
-1MA 8:4	1	17	ἀπέχων	ἀπέχω	present active participle, nominative neuter singular	1	being distant
+1MA 8:4	1	17	ἀπέχων	ἀπέχω	present active participle, nominative masculine singular	1	being distant
 1MA 8:4	1	18	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
 1MA 8:4	1	19	αὐτῶν	αὐτός	pronoun, genitive plural	1	them
 1MA 8:4	1	20	σφόδρα	σφόδρα	adverb of degree	1	greatly
@@ -168,7 +168,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 8:6	1	12	εἰς	εἰς	preposition with the accusative	1	into
 1MA 8:6	1	13	πόλεμον	πόλεμος	noun, accusative masculine singular	1	war
 1MA 8:6	1	13	πόλεμον			2	battle
-1MA 8:6	1	14	ἔχοντα	ἔχω	present active participle, accusative neuter singular	1	having
+1MA 8:6	1	14	ἔχοντα	ἔχω	present active participle, accusative masculine singular	1	having
 1MA 8:6	1	15	ἑκατὸν	ἑκατόν	indeclinable cardinal numeral	1	one hundred
 1MA 8:6	1	16	εἴκοσι	εἴκοσι	indeclinable cardinal numeral	1	twenty
 1MA 8:6	1	17	ἐλέφαντας	ἐλέφας	noun, accusative masculine plural	1	elephants
@@ -475,7 +475,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1MA 8:18	1	14	καταδουλουμένους	καταδουλόω	present middle participle, accusative masculine plural	1	enslaving
 1MA 8:18	1	15	τὸν	ὁ	article, accusative masculine singular	1	the
 1MA 8:18	1	16	Ἰσραὴλ	Ἰσραήλ	indeclinable personal name, accusative in context	1	Israel
-1MA 8:18	1	17	δουλείαν	δουλεία	noun, dative feminine singular	1	in slavery
+1MA 8:18	1	17	δουλείαν	δουλεία	noun, accusative feminine singular	1	in slavery
 1MA 8:18	1	18	Καὶ	καί	conjunction	1	and
 1MA 8:18	1	19	ἐπορεύθησαν	πορεύομαι	aorist passive/deponent indicative, third plural	1	went
 1MA 8:18	1	20	εἰς	εἰς	preposition with the accusative	1	into

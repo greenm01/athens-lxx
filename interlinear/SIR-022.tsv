@@ -107,7 +107,7 @@ SIR 22:9	1	3	ἀγαθῇ	ἀγαθός	adjective, dative feminine singular	1	go
 SIR 22:9	1	4	ζωῇ	ζωή	noun, dative feminine singular	1	life
 SIR 22:9	1	5	τὴν	ὁ	article accusative feminine singular	1	the
 SIR 22:9	1	6	τροφὴν	τροφή	noun accusative feminine singular	1	rearing
-SIR 22:10	1	1	ἔχοντα	ἔχω	present active participle, accusative neuter singular	1	when they have
+SIR 22:10	1	1	ἔχοντα	ἔχω	present active participle, nominative neuter plural	1	when they have
 SIR 22:10	1	2	τῶν	ὁ	article, genitive plural	1	of the
 SIR 22:10	1	3	ἰδίων	ἴδιος	adjective, genitive neuter plural	1	their own
 SIR 22:10	1	4	γεννητόρων	γεννήτωρ	noun, genitive masculine plural	1	parents
@@ -178,13 +178,13 @@ SIR 22:13	1	7	πρὸς			2	for
 SIR 22:13	1	8	ἀσύνετον	ἀσύνετος	adjective, accusative masculine singular	1	one without understanding
 SIR 22:13	1	9	μὴ	μή	negative particle	1	not
 SIR 22:13	1	10	πορεύου	πορεύομαι	present middle/passive imperative, second person singular	1	go
-SIR 22:13	1	11	ἀναισθητῶν	ἀναισθητέω	present active participle, genitive masculine plural	1	being without feeling
+SIR 22:13	1	11	ἀναισθητῶν	ἀναισθητέω	present active participle, nominative masculine singular	1	being without feeling
 SIR 22:13	1	12	γὰρ	γάρ	conjunction	1	for
 SIR 22:13	1	13	ἐξουδενώσει	ἐξουδενόω	future active indicative, third singular	1	will reject
 SIR 22:13	1	14	σου	σύ	pronoun, possessive genitive second singular	1	your
 SIR 22:13	1	15	τὰ	ὁ	article, accusative neuter plural	1	the
 SIR 22:13	1	16	πάντα	πᾶς	adjective, accusative neut. pl	1	altogether
-SIR 22:13	1	17	φύλαξαι	φυλάσσω	aorist active imperative, 2nd singular	1	keep
+SIR 22:13	1	17	φύλαξαι	φυλάσσω	aorist middle imperative, second singular	1	keep
 SIR 22:13	1	18	ἀπ᾽	ἀπό	elided preposition with the genitive	1	from
 SIR 22:13	1	19	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	him
 SIR 22:13	1	20	ἵνα	ἵνα	conjunction	1	so that
@@ -228,7 +228,7 @@ SIR 22:14	1	11	μωρός	μωρός	adjective, nominative masculine singular; s
 SIR 22:14	1	11	μωρός			2	foolish person
 SIR 22:15	1	1	Ἄμμον	ἄμμος	noun, accusative feminine singular	1	sand
 SIR 22:15	1	2	καὶ	καί	conjunction	1	and
-SIR 22:15	1	3	ἅλα	ἅλας	noun, accusative neuter singular	1	salt
+SIR 22:15	1	3	ἅλα	ἅλς	noun, accusative masculine singular	1	salt
 SIR 22:15	1	4	καὶ	καί	conjunction	1	and
 SIR 22:15	1	5	βῶλον	βῶλος	noun, accusative feminine singular	1	clod
 SIR 22:15	1	6	σιδήρου	σίδηρος	noun, genitive masculine singular	1	of iron
@@ -314,7 +314,7 @@ SIR 22:20	1	1	Βάλλων			2	who lays
 SIR 22:20	1	2	λίθον	λίθος	noun, accusative masculine singular	1	stone
 SIR 22:20	1	3	ἐπὶ	ἐπί	preposition with accusative	1	onto
 SIR 22:20	1	4	πετεινὰ	πετεινόν	noun, nominative neuter plural	1	birds
-SIR 22:20	1	5	ἀποσοβεῖ	ἀποσοβέω	future active indicative, third singular	1	will scare off
+SIR 22:20	1	5	ἀποσοβεῖ	ἀποσοβέω	present active indicative, third singular	1	will scare off
 SIR 22:20	1	6	αὐτά	αὐτός	pronoun, accusative neuter plural	1	them
 SIR 22:20	1	7	καὶ	καί	conjunction	1	and
 SIR 22:20	1	8	ὁ	ὁ	article, nominative masculine singular	1	the one
