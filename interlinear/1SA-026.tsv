@@ -185,7 +185,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 26:7	1	11	καὶ	καί	conjunction	1	and
 1SA 26:7	1	12	ἰδοὺ	ἰδού	presentative particle	1	behold
 1SA 26:7	1	13	Σαοὺλ	Σαούλ	indeclinable personal name, nominative in context	1	Saul
-1SA 26:7	1	14	καθεύδων	καθεύδω	present active imperative, nominative masculine singular	1	sleeping
+1SA 26:7	1	14	καθεύδων	καθεύδω	present active participle, nominative masculine singular	1	sleeping
 1SA 26:7	1	15	ὕπνωσεν	ὑπνόω	aorist active indicative, third singular	1	had fallen asleep
 1SA 26:7	1	16	ἐν	ἐν	preposition with the dative	1	in
 1SA 26:7	1	17	λαμπήνῃ	λαμπήνη	noun, dative feminine singular	1	a carriage
@@ -331,7 +331,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 26:12	1	19	οὐκ	οὐ	negative adverb with future indicative	1	not
 1SA 26:12	1	20	ἦν	εἰμί	imperfect indicative, third singular	1	was there
 1SA 26:12	1	21	ὁ	ὁ	article, nominative masculine singular	1	anyone
-1SA 26:12	1	22	βλέπων	βλέπω	present active imperative, nominative masculine singular	1	seeing
+1SA 26:12	1	22	βλέπων	βλέπω	present active participle, nominative masculine singular	1	seeing
 1SA 26:12	1	23	καὶ	καί	conjunction	1	and
 1SA 26:12	1	24	οὐκ	οὐ	negative adverb with future indicative	1	not
 1SA 26:12	1	25	ἦν	εἰμί	imperfect indicative, third singular	1	was there
@@ -341,9 +341,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 26:12	1	29	οὐκ	οὐ	negative adverb with future indicative	1	not
 1SA 26:12	1	30	ἦν	εἰμί	imperfect indicative, third singular	1	was there
 1SA 26:12	1	31	ὁ	ὁ	article, nominative masculine singular	1	anyone
-1SA 26:12	1	32	ἐξεγειρόμενος	ἐξεγείρω	present passive imperative, nominative masculine singular	1	waking
+1SA 26:12	1	32	ἐξεγειρόμενος	ἐξεγείρω	present passive participle, nominative masculine singular	1	waking
 1SA 26:12	1	33	πάντες	πᾶς	adjective, nominative masculine plural	1	all
-1SA 26:12	1	34	ὑπνοῦντες	ὑπνόω	present active imperative, nominative masculine plural	1	sleeping
+1SA 26:12	1	34	ὑπνοῦντες	ὑπνόω	present active participle, nominative masculine plural	1	sleeping
 1SA 26:12	1	35	ὅτι	ὅτι	causal conjunction	1	because
 1SA 26:12	1	36	θάμβος	θάμβος	noun, nominative neuter singular	1	a stupor
 1SA 26:12	1	37	Κυρίου	κύριος	noun, genitive masculine singular	1	of the Lord
@@ -719,7 +719,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 26:25	1	11	ποιῶν	ποιέω	present active participle, nominative masculine singular	1	doing
 1SA 26:25	1	12	ποιήσεις	ποιέω	future active indicative, second singular	1	you shall do
 1SA 26:25	1	13	καὶ	καί	conjunction	1	and
-1SA 26:25	1	14	δυνάμενος	δύναμαι	present middle imperative, nominative masculine singular	1	being able
+1SA 26:25	1	14	δυνάμενος	δύναμαι	present middle participle, nominative masculine singular	1	being able
 1SA 26:25	1	15	δυνήσῃ	δύναμαι	future middle indicative, second singular	1	you shall be able
 1SA 26:25	1	16	Καὶ	καί	conjunction	1	and
 1SA 26:25	1	17	ἀπῆλθε	ἀπέρχομαι	aorist active indicative, third singular	1	went away

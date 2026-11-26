@@ -3,7 +3,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 3:1	1	2	δὲ	δέ	postpositive conjunction	1	and
 1KI 3:1	1	3	βασιλείας	βασιλεία	noun, genitive feminine singular	1	kingdom
 1KI 3:1	1	3	βασιλείας			2	reign
-1KI 3:1	1	4	ἑδρασθείσης	ἑδράζω	aorist passive imperative, genitive feminine singular	1	having been established
+1KI 3:1	1	4	ἑδρασθείσης	ἑδράζω	aorist passive participle, genitive feminine singular	1	having been established
 1KI 3:1	1	5	ἐν	ἐν	preposition with the dative	1	by
 1KI 3:1	1	6	χειρὶ	χείρ	noun, dative feminine singular	1	the hand
 1KI 3:1	1	7	Σαλωμὼν	Σαλωμών	indeclinable personal name, genitive in context	1	of Solomon
@@ -49,7 +49,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 3:2	1	2	ὁ	ὁ	article, nominative masculine singular	1	the
 1KI 3:2	1	3	λαὸς	λαός	noun, nominative masculine singular	1	people
 1KI 3:2	1	4	ἦσαν	εἰμί	imperfect indicative, third plural	1	were
-1KI 3:2	1	5	θυμιῶντες	θυμιάω	present active imperative, nominative masculine plural	1	burning incense
+1KI 3:2	1	5	θυμιῶντες	θυμιάω	present active participle, nominative masculine plural	1	burning incense
 1KI 3:2	1	6	ἐν	ἐν	preposition with the dative	1	in
 1KI 3:2	1	7	τοῖς	ὁ	article, dative neuter plural	1	the
 1KI 3:2	1	8	ὑψηλοῖς	ὑψηλός	adjective, dative masculine plural; substantival	1	high places
@@ -499,7 +499,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 3:18	1	5	ἡμέρᾳ	ἡμέρα	noun, dative feminine singular	1	day
 1KI 3:18	1	6	τῇ	ὁ	article, dative feminine singular	1	the
 1KI 3:18	1	7	τρίτῃ	τρίτος	ordinal adjective, dative feminine singular with ἡμέρᾳ	1	third
-1KI 3:18	1	8	τεκούσης	τίκτω	aorist active imperative, genitive feminine singular	1	having given birth
+1KI 3:18	1	8	τεκούσης	τίκτω	aorist active participle, genitive feminine singular	1	having given birth
 1KI 3:18	1	9	μου	ἐγώ	pronoun, possessive genitive first singular	1	I
 1KI 3:18	1	10	καὶ	καί	conjunction	1	and
 1KI 3:18	1	11	ἔτεκε	τίκτω	aorist active indicative, third singular	1	gave birth
@@ -709,7 +709,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 3:25	1	6	τὸ	ὁ	article, accusative neuter singular	1	the
 1KI 3:25	1	7	παιδίον	παιδίον	noun, accusative neuter singular	1	child
 1KI 3:25	1	8	τὸ	ὁ	article, accusative neuter singular	1	who is
-1KI 3:25	1	9	θηλάζον	θηλάζω	present active imperative, accusative neuter singular	1	nursing
+1KI 3:25	1	9	θηλάζον	θηλάζω	present active participle, accusative neuter singular	1	nursing
 1KI 3:25	1	10	τὸ	ὁ	article, accusative neuter singular	1	who is
 1KI 3:25	1	11	ζῶν	ζάω	present active participle, accusative neuter singular	1	living
 1KI 3:25	1	12	εἰς	εἰς	preposition with the accusative	1	into
@@ -789,7 +789,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 3:27	1	21	τὸ	ὁ	article, accusative neuter singular	1	—
 1KI 3:27	1	22	ζῶν	ζάω	present active participle, accusative neuter singular	1	living
 1KI 3:27	1	23	τῇ	ὁ	article, dative feminine singular	1	to her
-1KI 3:27	1	24	εἰπούσῃ	λέγω	aorist active imperative, dative feminine singular	1	who said
+1KI 3:27	1	24	εἰπούσῃ	λέγω	aorist active participle, dative feminine singular	1	who said
 1KI 3:27	1	25	δότε	δίδωμι	aorist active imperative, second plural	1	give
 1KI 3:27	1	26	αὐτῇ	αὐτός	pronoun, dative feminine singular	1	to her
 1KI 3:27	1	27	αὐτὸ	αὐτός	pronoun, accusative neuter singular	1	him

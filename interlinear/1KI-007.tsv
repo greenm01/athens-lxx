@@ -159,7 +159,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:8	1	7	ἐκεῖ	ἐκεῖ	adverb of place	1	there
 1KI 7:8	1	8	αὐλὴ	αὐλή	noun, nominative feminine singular	1	a court
 1KI 7:8	1	9	μία	εἷς	numeral, nominative feminine singular	1	one
-1KI 7:8	1	10	ἐξελισσομένη	ἐξελίσσω	present passive imperative, nominative feminine singular	1	extending
+1KI 7:8	1	10	ἐξελισσομένη	ἐξελίσσω	present passive participle, nominative feminine singular	1	extending
 1KI 7:8	1	11	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	1	to these
 1KI 7:8	1	12	κατὰ	κατά	preposition with accusative	1	according to
 1KI 7:8	1	13	τὸ	ὁ	article, accusative neuter singular	1	the
@@ -618,7 +618,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:26	1	15	κρίνου	κρίνον	noun, genitive neuter singular	1	of a lily
 1KI 7:26	1	16	δισχιλίους	δισχίλιοι	cardinal numeral, accusative masculine plural	1	two thousand
 1KI 7:26	1	17	χοεῖς	χοῦς	noun, accusative masculine plural	1	choes
-1KI 7:26	1	18	χωροῦντας	χωρέω	present active imperative, accusative masculine plural	1	holding
+1KI 7:26	1	18	χωροῦντας	χωρέω	present active participle, accusative masculine plural	1	holding
 1KI 7:27	1	1	Καὶ	καί	conjunction	1	and
 1KI 7:27	1	2	ἐποίησε	ποιέω	aorist active indicative, third singular	1	made
 1KI 7:27	1	3	τὰς	ὁ	article, accusative feminine plural	1	the
@@ -655,14 +655,14 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:28	1	10	συγκλειστὸν	συγκλειστός	adjective, nominative neuter singular	1	enclosed
 1KI 7:28	1	11	ἀναμέσον	ἀναμέσον	preposition with genitive	1	between
 1KI 7:28	1	12	τῶν	ὁ	article, genitive plural	1	the
-1KI 7:28	1	13	ἐξεχομένων	ἐξέχω	present active imperative, genitive neuter plural	1	projecting parts
+1KI 7:28	1	13	ἐξεχομένων	ἐξέχω	present middle/passive participle, genitive neuter plural	1	projecting parts
 1KI 7:29	1	1	Καὶ	καί	conjunction	1	and
 1KI 7:29	1	2	ἐπὶ	ἐπί	preposition (case from context)	1	on
 1KI 7:29	1	3	τὰ	ὁ	article, accusative neuter plural	1	the
 1KI 7:29	1	4	συγκλείσματα	σύγκλεισμα	noun, nominative neuter plural	1	panels
 1KI 7:29	1	5	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
 1KI 7:29	1	6	ἀναμέσον	ἀναμέσον	preposition with genitive	1	between
-1KI 7:29	1	7	ἐξεχομένων	ἐξέχω	present active imperative, genitive neuter plural	1	the projecting parts
+1KI 7:29	1	7	ἐξεχομένων	ἐξέχω	present middle/passive participle, genitive neuter plural	1	the projecting parts
 1KI 7:29	1	8	λέοντες	λέων	noun, nominative masculine plural	1	lions
 1KI 7:29	1	9	καὶ	καί	conjunction	1	and
 1KI 7:29	1	10	βόες	βοῦς	noun, nominative plural	1	oxen
@@ -671,7 +671,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:29	1	13	καὶ	καί	conjunction	1	and
 1KI 7:29	1	14	ἐπὶ	ἐπί	preposition (case from context)	1	on
 1KI 7:29	1	15	τῶν	ὁ	article, genitive masculine plural	1	the
-1KI 7:29	1	16	ἐξεχομένων	ἐξέχω	present active imperative, genitive neuter plural	1	projecting parts
+1KI 7:29	1	16	ἐξεχομένων	ἐξέχω	present middle/passive participle, genitive neuter plural	1	projecting parts
 1KI 7:29	1	17	οὕτω	οὕτως	adverb as printed	1	so
 1KI 7:29	1	18	καὶ	καί	conjunction	1	and
 1KI 7:29	1	19	ἐπάνωθεν	ἐπάνωθεν	adverb, above/on top	1	above
@@ -696,7 +696,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:30	1	8	μιᾷ	εἷς	cardinal numeral, dative feminine singular	1	one
 1KI 7:30	1	9	καὶ	καί	conjunction	1	and
 1KI 7:30	1	10	τὰ	ὁ	article, accusative neuter plural	1	the
-1KI 7:30	1	11	προσέχοντα	προσέχω	present active imperative, accusative neuter plural	1	attached parts
+1KI 7:30	1	11	προσέχοντα	προσέχω	present active participle, accusative neuter plural	1	attached parts
 1KI 7:30	1	12	χαλκᾶ	χαλκοῦς	adjective, accusative neuter plural	1	bronze
 1KI 7:30	1	13	καὶ	καί	conjunction	1	and
 1KI 7:30	1	14	τέσσαρα	τέσσαρες	cardinal numeral, accusative neut. pl. with κλίτη/μέρη	1	four
@@ -714,7 +714,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:30	1	25	ἀπὸ	ἀπό	preposition with the genitive	1	from
 1KI 7:30	1	26	πέραν	πέραν	adverb used substantivally	1	the area beyond
 1KI 7:30	1	27	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	1	of a man
-1KI 7:30	1	28	προσκείμεναι	πρόσκειμαι	present middle imperative, nominative feminine plural	1	attached
+1KI 7:30	1	28	προσκείμεναι	πρόσκειμαι	present middle participle, nominative feminine plural	1	attached
 1KI 7:31	1	1	Καὶ	καί	conjunction	1	and
 1KI 7:31	1	2	στόμα	στόμα	noun, accusative neuter singular	1	the opening
 1KI 7:31	1	3	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	its
@@ -727,7 +727,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:31	1	10	καὶ	καί	conjunction	1	and
 1KI 7:31	1	11	στόμα	στόμα	noun, accusative neuter singular	1	the opening
 1KI 7:31	1	12	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	1	its
-1KI 7:31	1	13	στρογγυλοῦν	στρογγυλόω	present active imperative, accusative neuter singular	1	rounding
+1KI 7:31	1	13	στρογγυλοῦν	στρογγυλόω	present active participle, accusative neuter singular	1	rounding
 1KI 7:31	1	14	ποίημα	ποίημα	noun, accusative neuter singular	1	work
 1KI 7:31	1	15	οὕτω	οὕτως	adverb as printed	1	so
 1KI 7:31	1	16	πήχεως	πῆχυς	noun, genitive masc. sg., of a cubit	1	of a cubit
@@ -894,7 +894,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:38	1	5	χαλκοῦς	χαλκοῦς	adjective, accusative masculine plural modifying χυτρογαύλους	1	bronze
 1KI 7:38	1	6	τεσσαράκοντα	τεσσαράκοντα	indeclinable cardinal numeral	1	forty
 1KI 7:38	1	7	χοεῖς	χοῦς	noun, accusative masculine plural	1	choes
-1KI 7:38	1	8	χωροῦντα	χωρέω	present active imperative, accusative neuter singular	1	holding
+1KI 7:38	1	8	χωροῦντα	χωρέω	present active participle, accusative masculine singular	1	holding
 1KI 7:38	1	9	τὸν	ὁ	article, accusative masculine singular	1	the
 1KI 7:38	1	10	χυτρόγαυλον	χυτρόγαυλος	noun, accusative masculine singular	1	cauldron
 1KI 7:38	1	11	τὸν	ὁ	article, accusative masculine singular	1	the
@@ -1152,7 +1152,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:47	1	19	σταθμῶν	σταθμός	noun, genitive masc. pl. after τῶν/ἐπὶ τῶν, doorposts	1	weights
 1KI 7:47	1	20	τοῦ	ὁ	article, genitive masculine singular	1	of the
 1KI 7:47	1	21	χαλκοῦ	χαλκός	noun, genitive masculine singular	1	bronze
-1KI 7:47	1	22	στίλβοντος	στίλβω	present active imperative, genitive masculine singular	1	shining
+1KI 7:47	1	22	στίλβοντος	στίλβω	present active participle, genitive masculine singular	1	shining
 1KI 7:48	1	1	Καὶ	καί	conjunction	1	and
 1KI 7:48	1	2	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	gave
 1KI 7:48	1	3	ὁ	ὁ	article, nominative masculine singular	1	the
@@ -1214,7 +1214,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 7:49	1	13	τοῦ	ὁ	article, genitive singular	1	of the
 1KI 7:49	1	14	δαβεὶρ	Δαβείρ	indeclinable place name, nominative in context	1	inner sanctuary
 1KI 7:49	1	15	χρυσᾶς	χρυσοῦς	adjective, accusative fem. pl.	1	of gold
-1KI 7:49	1	16	συγκλειομένας	συγκλείω	present passive imperative, accusative feminine plural	1	enclosed
+1KI 7:49	1	16	συγκλειομένας	συγκλείω	present passive participle, accusative feminine plural	1	enclosed
 1KI 7:49	1	17	καὶ	καί	conjunction	1	and
 1KI 7:49	1	18	τὰ	ὁ	article, accusative neuter plural	1	the
 1KI 7:49	1	19	λαμπάδια	λαμπάδιον	noun, accusative/nominative neut. pl. after τὰ at 38:16	1	lamp bowls

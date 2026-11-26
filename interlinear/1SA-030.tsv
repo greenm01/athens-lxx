@@ -1,7 +1,7 @@
 ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 30:1	1	1	ΚΑΙ	καί	conjunction	1	and
 1SA 30:1	1	2	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	1	it came to pass
-1SA 30:1	1	3	εἰσελθόντος	εἰσέρχομαι	aorist active imperative, genitive masculine singular	1	having entered
+1SA 30:1	1	3	εἰσελθόντος	εἰσέρχομαι	aorist active participle, genitive masculine singular	1	having entered
 1SA 30:1	1	4	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
 1SA 30:1	1	5	καὶ	καί	conjunction	1	and
 1SA 30:1	1	6	τῶν	ὁ	article, genitive plural	1	the
@@ -85,7 +85,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 30:3	1	21	αἱ	ὁ	article, nominative feminine plural	1	the
 1SA 30:3	1	22	θυγατέρες	θυγάτηρ	noun, nominative feminine plural	1	daughters
 1SA 30:3	1	23	αὐτῶν	αὐτός	pronoun, genitive plural	1	their
-1SA 30:3	1	24	αἰχμαλωτευόμενοι	αἰχμαλωτεύω	present passive imperative, nominative masculine plural	1	were being taken captive
+1SA 30:3	1	24	αἰχμαλωτευόμενοι	αἰχμαλωτεύω	present passive participle, nominative masculine plural	1	were being taken captive
 1SA 30:4	1	1	Καὶ	καί	conjunction	1	and
 1SA 30:4	1	2	ᾖρε	αἴρω	aorist active indicative, third singular	1	raised
 1SA 30:4	1	3	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
@@ -200,7 +200,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 30:8	1	19	αὐτῷ	αὐτός	pronoun, dative masculine singular	1	to him
 1SA 30:8	1	20	καταδίωκε	καταδιώκω	present active imperative, second singular	1	pursue
 1SA 30:8	1	21	ὅτι	ὅτι	causal conjunction	1	because
-1SA 30:8	1	22	καταλαμβάνων	καταλαμβάνω	present active imperative, nominative masculine singular	1	overtaking
+1SA 30:8	1	22	καταλαμβάνων	καταλαμβάνω	present active participle, nominative masculine singular	1	overtaking
 1SA 30:8	1	23	καταλήψῃ	καταλαμβάνω	future middle indicative, second singular	1	you will overtake
 1SA 30:8	1	24	καὶ	καί	conjunction	1	and
 1SA 30:8	1	25	ἐξαιρούμενος	ἐξαιρέομαι	present middle participle, nominative masculine singular; substantival	1	rescuing
@@ -416,7 +416,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 30:16	1	15	καὶ	καί	conjunction	1	and
 1SA 30:16	1	16	πίνοντες	πίνω	present active participle, nominative masculine plural; substantival	1	drinking
 1SA 30:16	1	17	καὶ	καί	conjunction	1	and
-1SA 30:16	1	18	ἑορτάζοντες	ἑορτάζω	present active imperative, nominative masculine plural	1	celebrating
+1SA 30:16	1	18	ἑορτάζοντες	ἑορτάζω	present active participle, nominative masculine plural	1	celebrating
 1SA 30:16	1	19	ἐν	ἐν	preposition with the dative	1	in
 1SA 30:16	1	20	πᾶσι	πᾶς	adjective, dative neuter plural	1	all
 1SA 30:16	1	21	τοῖς	ὁ	article, dative neuter plural	1	the
@@ -539,7 +539,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 30:21	1	6	διακοσίους	διακόσιοι	cardinal numeral, accusative masculine plural	1	two hundred
 1SA 30:21	1	7	ἄνδρας	ἀνήρ	noun, accusative masculine plural	1	men
 1SA 30:21	1	8	τοὺς	ὁ	article, accusative masculine plural	1	who
-1SA 30:21	1	9	ἐκλυθέντας	ἐκλύω	aorist passive imperative, accusative masculine plural	1	had grown weary
+1SA 30:21	1	9	ἐκλυθέντας	ἐκλύω	aorist passive participle, accusative masculine plural	1	had grown weary
 1SA 30:21	1	10	τοῦ	ὁ	article, genitive singular, introduces the infinitive	1	—
 1SA 30:21	1	11	πορεύεσθαι	πορεύομαι	present middle infinitive	1	to go
 1SA 30:21	1	11	πορεύεσθαι			2	to travel
@@ -592,7 +592,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 30:22	1	10	τῶν	ὁ	article, genitive masculine plural	1	the
 1SA 30:22	1	11	πολεμιστῶν	πολεμιστής	noun, genitive masculine plural	1	warriors
 1SA 30:22	1	12	τῶν	ὁ	article, genitive masculine plural	1	who
-1SA 30:22	1	13	πορευθέντων	πορεύομαι	aorist passive imperative, genitive masculine plural	1	went
+1SA 30:22	1	13	πορευθέντων	πορεύομαι	aorist passive participle, genitive masculine plural	1	went
 1SA 30:22	1	14	μετὰ	μετά	preposition with genitive	1	with
 1SA 30:22	1	15	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	1	David
 1SA 30:22	1	16	καὶ	καί	conjunction	1	and
@@ -647,7 +647,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 30:23	1	21	τὸν	ὁ	article, accusative masculine singular	1	the
 1SA 30:23	1	22	Γεδδοὺρ	Γεδδούρ	indeclinable place name, genitive in context	1	Geddur
 1SA 30:23	1	23	τὸν	ὁ	article, accusative masculine singular	1	which was
-1SA 30:23	1	24	ἐπερχόμενον	ἐπέρχομαι	present middle imperative, accusative masculine singular	1	coming
+1SA 30:23	1	24	ἐπερχόμενον	ἐπέρχομαι	present middle participle, accusative masculine singular	1	coming
 1SA 30:23	1	25	ἐφ᾽	ἐπί	preposition with the accusative, elided	1	against
 1SA 30:23	1	26	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	1	us
 1SA 30:23	1	27	εἰς	εἰς	preposition with the accusative	1	into

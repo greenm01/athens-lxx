@@ -22,7 +22,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 6:1	1	21	μηνὶ	μήν	noun, dative masculine singular	1	month
 1KI 6:1	1	22	τῷ	ὁ	article, dative; introduces an attributive ordinal, introduces the ordinal	1	—
 1KI 6:1	1	23	δευτέρῳ	δεύτερος	ordinal adjective, dative masculine singular	1	second
-1KI 6:1	1	24	βασιλεύοντος	βασιλεύω	present active imperative, genitive masculine singular	1	reigning
+1KI 6:1	1	24	βασιλεύοντος	βασιλεύω	present active participle, genitive masculine singular	1	reigning
 1KI 6:1	1	25	τοῦ	ὁ	article, genitive masculine singular	1	the
 1KI 6:1	1	26	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	1	king
 1KI 6:1	1	27	Σαλωμὼν	Σαλωμών	indeclinable personal name, genitive in context	1	Solomon
@@ -111,7 +111,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 6:4	1	3	τῷ	ὁ	article, dative masculine singular	1	for the
 1KI 6:4	1	4	οἴκῳ	οἶκος	noun, dative masculine singular	1	house
 1KI 6:4	1	5	θυρίδας	θυρίς	noun, accusative feminine plural	1	windows
-1KI 6:4	1	6	παρακυπτομένας	παρακύπτω	present passive imperative, accusative feminine plural	1	overlooking
+1KI 6:4	1	6	παρακυπτομένας	παρακύπτω	present passive participle, accusative feminine plural	1	overlooking
 1KI 6:4	1	7	κρυπτάς	κρυπτός	adjective, accusative feminine plural	1	concealed
 1KI 6:5	1	1	Καὶ	καί	conjunction	1	and
 1KI 6:5	1	2	ἔδωκεν	δίδωμι	aorist active indicative, third singular	1	placed
@@ -382,7 +382,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 6:15	1	23	δοκῶν	δοκός	noun, genitive feminine plural	1	rafters
 1KI 6:15	1	23	δοκῶν			2	beams
 1KI 6:15	1	24	ἐκοιλοστάθμησε	κοιλοσταθμέω	aorist active indicative, third singular	1	he coffered
-1KI 6:15	1	25	συνεχόμενα	συνέχω	present passive imperative, nominative neuter plural	1	joined together
+1KI 6:15	1	25	συνεχόμενα	συνέχω	present passive participle, nominative neuter plural	1	joined together
 1KI 6:15	1	26	ξύλοις	ξύλον	noun, dative neuter plural	1	with wood
 1KI 6:15	1	27	ἔσωθεν	ἔσωθεν	adverb, inside	1	inside
 1KI 6:15	1	28	καὶ	καί	conjunction	1	and
@@ -692,7 +692,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 6:29	1	13	φοίνικες	φοῖνιξ	noun, nominative masculine plural	1	palm trees
 1KI 6:29	1	14	καὶ	καί	conjunction	1	and
 1KI 6:29	1	15	περίγλυφα	περίγλυφος	adjective, accusative neuter plural	1	reliefs
-1KI 6:29	1	16	ἐγκύπτοντα	ἐγκύπτω	present active imperative, accusative neuter plural	1	projecting in
+1KI 6:29	1	16	ἐγκύπτοντα	ἐγκύπτω	present active participle, accusative neuter plural	1	projecting in
 1KI 6:29	1	17	τῷ	ὁ	article, dative masculine singular	1	the
 1KI 6:29	1	18	ἐσωτέρῳ	ἐσώτερος	adjective, dative neuter singular	1	inner
 1KI 6:29	1	19	καὶ	καί	conjunction	1	and
@@ -789,7 +789,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 6:34	1	20	θύρα	θύρα	noun, nominative feminine singular	1	door
 1KI 6:34	1	21	ἡ	ὁ	article, nominative feminine singular	1	the
 1KI 6:34	1	22	δευτέρα	δεύτερος	ordinal, nominative feminine singular	1	second
-1KI 6:34	1	23	στρεφόμενα	στρέφω	present passive imperative, nominative neuter plural	1	turning
+1KI 6:34	1	23	στρεφόμενα	στρέφω	present passive participle, nominative neuter plural	1	turning
 1KI 6:35	1	1	Εἰσκεκολαμμένα	εἰσκολάπτω	perfect passive participle, accusative neuter plural	1	incised
 1KI 6:35	1	2	χερουβεὶμ	χερούβ	indeclinable transliterated plural noun, accusative design object at 37:5 before second καὶ τοὺς Χερουβείμ	1	cherubim
 1KI 6:35	1	3	καὶ	καί	conjunction	1	and
@@ -798,9 +798,9 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1KI 6:35	1	6	διαπεπετασμένα	διαπετάννυμι	perfect passive participle, accusative neuter plural	1	spread out
 1KI 6:35	1	7	πέταλα	πέταλον	noun, nominative neuter plural	1	plates
 1KI 6:35	1	8	καὶ	καί	conjunction	1	and
-1KI 6:35	1	9	περιεχόμενα	περιέχω	present passive imperative, nominative neuter plural	1	enclosed
+1KI 6:35	1	9	περιεχόμενα	περιέχω	present passive participle, nominative neuter plural	1	enclosed
 1KI 6:35	1	10	χρυσίῳ	χρυσίον	noun, dative neut. sg., instrumental 'with gold'	1	with gold
-1KI 6:35	1	11	καταγομένῳ	κατάγω	present passive imperative, dative masculine singular	1	laid down
+1KI 6:35	1	11	καταγομένῳ	κατάγω	present passive participle, dative masculine singular	1	laid down
 1KI 6:35	1	12	ἐπὶ	ἐπί	preposition (case from context)	1	on
 1KI 6:35	1	13	τὴν	ὁ	article, accusative feminine singular	1	the
 1KI 6:35	1	14	ἐκτύπωσιν	ἐκτύπωσις	noun, accusative feminine singular	1	impression

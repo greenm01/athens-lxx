@@ -237,7 +237,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 19:9	1	9	αὐτὸς	αὐτός	pronoun, nominative masculine singular	1	he
 1SA 19:9	1	10	ἐν	ἐν	preposition with the dative	1	in
 1SA 19:9	1	11	οἴκῳ	οἶκος	noun, dative masculine singular	1	the house
-1SA 19:9	1	12	καθεύδων	καθεύδω	present active imperative, nominative masculine singular	1	sleeping
+1SA 19:9	1	12	καθεύδων	καθεύδω	present active participle, nominative masculine singular	1	sleeping
 1SA 19:9	1	13	καὶ	καί	conjunction	1	and
 1SA 19:9	1	14	δόρυ	δόρυ	noun, nominative neuter singular	1	a spear
 1SA 19:9	1	15	ἐν	ἐν	preposition with the dative	1	in
@@ -504,7 +504,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 19:20	1	12	τῶν	ὁ	article, genitive plural	1	of the
 1SA 19:20	1	13	προφητῶν	προφήτης	noun, genitive masculine plural	1	prophets
 1SA 19:20	1	14	τῶν	ὁ	article, genitive neuter plural	1	who were
-1SA 19:20	1	15	προφητευόντων	προφητεύω	present active imperative, genitive masculine plural	1	prophesying
+1SA 19:20	1	15	προφητευόντων	προφητεύω	present active participle, genitive masculine plural	1	prophesying
 1SA 19:20	1	16	καὶ	καί	conjunction	1	and
 1SA 19:20	1	17	Σαμουὴλ	Σαμουήλ	indeclinable personal name, accusative in context	1	Samuel
 1SA 19:20	1	18	εἱστήκει	ἵστημι	pluperfect active indicative, 3rd sg.	1	stood
@@ -604,7 +604,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 1SA 19:23	1	16	ἐπορεύθη			2	journeyed
 1SA 19:23	1	17	πορευόμενος	πορεύομαι	present middle participle, nominative masculine singular	1	going along
 1SA 19:23	1	18	καὶ	καί	conjunction	1	and
-1SA 19:23	1	19	προφητεύων	προφητεύω	present active imperative, nominative masculine singular	1	prophesying
+1SA 19:23	1	19	προφητεύων	προφητεύω	present active participle, nominative masculine singular	1	prophesying
 1SA 19:23	1	20	ἕως	ἕως	conjunction/preposition	1	until
 1SA 19:23	1	21	τοῦ	ὁ	article, genitive singular, nominalizes the infinitive	1	—
 1SA 19:23	1	22	ἐλθεῖν	ἔρχομαι	aorist active infinitive after ἕως τοῦ with accusative αὐτὸν, until he entered	1	coming
