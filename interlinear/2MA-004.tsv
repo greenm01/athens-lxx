@@ -26,7 +26,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 4:1	1	25	κακῶν	κακός	adjective, genitive neuter plural; substantive	1	evil deeds
 2MA 4:1	1	25	κακῶν			2	evils
 2MA 4:1	1	26	δημιουργὸς	δημιουργός	noun, nominative masculine singular	1	author
-2MA 4:1	1	27	καθεστηκώς	καθίστημι	perfect active participle, nominative masculine singular	1	standing in charge
+2MA 4:1	1	27	καθεστηκώς	καθίστημι	perfect active participle, nominative masculine singular	1	having become
 2MA 4:2	1	1	Καὶ	καί	conjunction	1	and
 2MA 4:2	1	2	τὸν	ὁ	article, accusative masculine singular	1	the
 2MA 4:2	1	3	εὐεργέτην	εὐεργέτης	noun, accusative masculine singular	1	benefactor
@@ -62,7 +62,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 4:3	1	13	τοῦ	ὁ	article, genitive singular	1	the
 2MA 4:3	1	14	Σίμωνος	Σίμων	noun, genitive masculine singular	1	Simon
 2MA 4:3	1	15	δεδοκιμασμένων	δοκιμάζω	perfect passive participle, genitive masculine plural	1	approved
-2MA 4:3	1	16	φόνους	φόνος	noun, accusative masculine plural	1	bloodshed
+2MA 4:3	1	16	φόνους	φόνος	noun, accusative masculine plural	1	murders
 2MA 4:3	1	17	συντελεῖσθαι	συντελέω	present passive infinitive	1	to be committed
 2MA 4:4	1	1	συνορῶν	συνοράω	present active participle, nominative masculine singular	1	perceiving
 2MA 4:4	1	2	Ὀνίας	Ὀνίας	noun, nominative masculine singular	1	Onias
@@ -162,7 +162,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 4:8	1	12	καὶ	καί	conjunction	1	and
 2MA 4:8	1	13	προσόδου	πρόσοδος	noun, genitive feminine singular	1	of revenue
 2MA 4:8	1	14	τινὸς	τις	pronoun, genitive masculine singular, indefinite; genitive of possession	1	some
-2MA 4:8	1	15	ἄλλης	ἄλλος	adjective, genitive feminine singular	1	another
+2MA 4:8	1	15	ἄλλης	ἄλλος	adjective, genitive feminine singular	1	other
 2MA 4:8	1	16	τάλαντα	τάλαντον	noun, nominative neut. pl., talents	1	talents
 2MA 4:8	1	17	ὀγδοήκοντα	ὀγδοήκοντα	indeclinable cardinal numeral	1	eighty
 2MA 4:9	1	1	Πρὸς	πρός	preposition with the accusative	1	besides
@@ -323,7 +323,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 4:15	1	2	τὰς	ὁ	article, accusative feminine plural	1	the
 2MA 4:15	1	3	μὲν	μέν	particle	1	indeed
 2MA 4:15	1	4	πατρῴας	πατρῷος	adjective, accusative feminine plural	1	ancestral
-2MA 4:15	1	5	τιμὰς	τιμή	noun, accusative feminine plural	1	honours
+2MA 4:15	1	5	τιμὰς	τιμή	noun, accusative feminine plural	1	honors
 2MA 4:15	1	6	ἐν	ἐν	preposition with the dative	1	in
 2MA 4:15	1	7	οὐδενὶ	οὐδείς	indefinite pronoun, dative masculine singular	1	nothing
 2MA 4:15	1	8	τιθέμενοι	τίθημι	present middle participle, nominative masculine plural	1	reckoning
@@ -337,7 +337,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 4:16	1	1	Ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	1	which
 2MA 4:16	1	2	καὶ	καί	conjunction	1	and
 2MA 4:16	1	3	χάριν	χάρις	noun, accusative fem. sg. in χάριν ἔχεις/εὕρηκα χάριν	1	on account of
-2MA 4:16	1	4	περιέσχεν	περιέχω	aorist active indicative, third singular	1	enclosed
+2MA 4:16	1	4	περιέσχεν	περιέχω	aorist active indicative, third singular	1	beset
 2MA 4:16	1	5	αὐτοὺς	αὐτός	pronoun, accusative masculine plural	1	them
 2MA 4:16	1	6	χαλεπὴ	χαλεπός	adjective, nominative feminine singular	1	harsh
 2MA 4:16	1	7	περίστασις	περίστασις	noun, nominative feminine singular	1	predicament
@@ -1113,7 +1113,7 @@ ref	occurrence	position	surface	lemma	grammar	preference	english
 2MA 4:48	1	12	καὶ	καί	conjunction	1	and
 2MA 4:48	1	13	τῶν	ὁ	article, genitive plural	1	the
 2MA 4:48	1	14	ἱερῶν	ἱερός	adjective, genitive neuter plural	1	sacred
-2MA 4:48	1	15	σκευῶν	σκεῦος	noun, genitive neuter plural	1	belongings
+2MA 4:48	1	15	σκευῶν	σκεῦος	noun, genitive neuter plural	1	vessels
 2MA 4:48	1	15	σκευῶν			2	goods
 2MA 4:48	1	16	προαγορεύσαντες	προαγορεύω	aorist active participle, nominative masculine plural	1	who spoke in defense
 2MA 4:49	1	1	Δι᾿	διά	elided preposition with accusative	1	because of
